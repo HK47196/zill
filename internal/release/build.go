@@ -185,7 +185,7 @@ func Build(root, gameDir, isoPath, version string) (result Result, err error) {
 	if err != nil {
 		return result, err
 	}
-	parameter, err := buildSFO(root, gameDir)
+	parameter, err := buildSFO(root, gameDir, version)
 	if err != nil {
 		return result, err
 	}
@@ -609,7 +609,7 @@ func buildExecutable(root, gameDir string) ([]byte, error) {
 	return fixeddata.ApplyEBOOT(patched, translations)
 }
 
-func buildSFO(root, gameDir string) ([]byte, error) {
+func buildSFO(root, gameDir, version string) ([]byte, error) {
 	source, err := os.ReadFile(filepath.Join(gameDir, "PARAM.SFO"))
 	if err != nil {
 		return nil, fmt.Errorf("read retail PARAM.SFO: %w", err)
@@ -622,7 +622,7 @@ func buildSFO(root, gameDir string) ([]byte, error) {
 	if err != nil {
 		return nil, err
 	}
-	return sfo.Apply(source, manifest)
+	return sfo.Apply(source, manifest, fmt.Sprintf("Zill O'll Infinite Plus [English %s]", version))
 }
 
 func read(root string, parts ...string) ([]byte, error) {

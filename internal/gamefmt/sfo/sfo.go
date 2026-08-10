@@ -8,6 +8,7 @@ import (
 	"encoding/binary"
 	"encoding/hex"
 	"fmt"
+	"strings"
 	"unicode/utf8"
 
 	"github.com/pelletier/go-toml/v2"
@@ -23,8 +24,8 @@ const (
 	formatString    = 0x0204
 )
 
-// Manifest describes the authenticated PARAM.SFO input and its sole allowed
-// transformation.
+// Manifest describes the authenticated PARAM.SFO input and its fixed MEMSIZE
+// transform.
 type Manifest struct {
 	Format            string `toml:"format"`
 	Version           int    `toml:"version"`
@@ -73,11 +74,15 @@ func (m Manifest) validate() error {
 	return nil
 }
 
-// Apply authenticates source and returns a newly allocated PARAM.SFO with a
-// four-byte integer MEMSIZE=1 entry appended. Source is never modified.
-func Apply(source []byte, manifest Manifest) ([]byte, error) {
+// Apply authenticates source and returns a newly allocated PARAM.SFO with TITLE
+// replaced and a four-byte integer MEMSIZE=1 entry appended. Source is never
+// modified.
+func Apply(source []byte, manifest Manifest, title string) ([]byte, error) {
 	if err := manifest.validate(); err != nil {
 		return nil, err
+	}
+	if title == "" || strings.TrimSpace(title) != title || strings.ContainsAny(title, "\x00\r\n") || !utf8.ValidString(title) {
+		return nil, fmt.Errorf("invalid PARAM.SFO title %q", title)
 	}
 	if len(source) != manifest.SourceSize {
 		return nil, fmt.Errorf("unsupported PARAM.SFO size: got %d, want %d", len(source), manifest.SourceSize)
@@ -92,9 +97,26 @@ func Apply(source []byte, manifest Manifest) ([]byte, error) {
 	if err != nil {
 		return nil, err
 	}
-	if _, exists := parsed.keys[manifest.ExpectedAbsentKey]; exists {
+	if _, exists := parsed.entries[manifest.ExpectedAbsentKey]; exists {
 		return nil, fmt.Errorf("unsupported PARAM.SFO: key %q is already present", manifest.ExpectedAbsentKey)
 	}
+	titleIndex, exists := parsed.entries["TITLE"]
+	if !exists {
+		return nil, fmt.Errorf("unsupported PARAM.SFO: TITLE is absent")
+	}
+	titleEntry := parsed.indexTable[titleIndex*indexSize : (titleIndex+1)*indexSize]
+	if binary.LittleEndian.Uint16(titleEntry[2:4]) != formatString {
+		return nil, fmt.Errorf("unsupported PARAM.SFO: TITLE is not a string")
+	}
+	titleValue := append([]byte(title), 0)
+	titleMaximumLength := int(binary.LittleEndian.Uint32(titleEntry[8:12]))
+	if len(titleValue) > titleMaximumLength {
+		return nil, fmt.Errorf("PARAM.SFO title requires %d bytes; capacity is %d", len(titleValue), titleMaximumLength)
+	}
+	titleDataOffset := int(binary.LittleEndian.Uint32(titleEntry[12:16]))
+	clear(parsed.dataTable[titleDataOffset : titleDataOffset+titleMaximumLength])
+	copy(parsed.dataTable[titleDataOffset:], titleValue)
+	binary.LittleEndian.PutUint32(titleEntry[4:8], uint32(len(titleValue)))
 
 	key := append([]byte(manifest.AppendKey), 0)
 	newKeyOffset := len(parsed.keyTable)
@@ -133,7 +155,7 @@ type parsedSFO struct {
 	dataTable  []byte
 	dataExtent int
 	trailing   []byte
-	keys       map[string]struct{}
+	entries    map[string]int
 }
 
 func parse(source []byte, manifest Manifest) (parsedSFO, error) {
@@ -153,7 +175,7 @@ func parse(source []byte, manifest Manifest) (parsedSFO, error) {
 		return parsedSFO{}, fmt.Errorf("malformed PARAM.SFO table bounds")
 	}
 	keyStart, dataStart, entryCount := int(keyStart64), int(dataStart64), int(entryCount64)
-	keys := make(map[string]struct{}, entryCount)
+	entries := make(map[string]int, entryCount)
 	dataExtent := 0
 	for i := 0; i < entryCount; i++ {
 		entry := source[headerSize+i*indexSize : headerSize+(i+1)*indexSize]
@@ -175,10 +197,10 @@ func parse(source []byte, manifest Manifest) (parsedSFO, error) {
 			return parsedSFO{}, fmt.Errorf("PARAM.SFO entry %d has an invalid key", i)
 		}
 		key := string(keyBytes)
-		if _, duplicate := keys[key]; duplicate {
+		if _, duplicate := entries[key]; duplicate {
 			return parsedSFO{}, fmt.Errorf("PARAM.SFO has duplicate key %q", key)
 		}
-		keys[key] = struct{}{}
+		entries[key] = i
 		if valueLength > maximumLength || dataOffset%4 != 0 || dataOffset+maximumLength > uint64(len(source)-dataStart) {
 			return parsedSFO{}, fmt.Errorf("PARAM.SFO entry %q has invalid value bounds", key)
 		}
@@ -211,7 +233,7 @@ func parse(source []byte, manifest Manifest) (parsedSFO, error) {
 		dataTable:  append([]byte(nil), source[dataStart:dataStart+dataExtent]...),
 		dataExtent: dataExtent,
 		trailing:   append([]byte(nil), source[dataStart+dataExtent:]...),
-		keys:       keys,
+		entries:    entries,
 	}, nil
 }
 

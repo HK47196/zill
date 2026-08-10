@@ -21,12 +21,13 @@ func TestProductionManifestParses(t *testing.T) {
 	}
 }
 
-func TestApplyAppendsMEMSIZEAndPreservesExistingEntry(t *testing.T) {
-	source := oneEntrySFO("TITLE", 0x0204, []byte("Zill\x00"), 8)
+func TestApplySetsTranslatedTitleAppendsMEMSIZEAndPreservesSource(t *testing.T) {
+	source := oneEntrySFO("TITLE", 0x0204, []byte("Retail title\x00"), 64)
 	manifest := syntheticManifest(source)
 	original := append([]byte(nil), source...)
+	title := "Zill O'll Infinite Plus [English v1.0-alpha]"
 
-	got, err := sfo.Apply(source, manifest)
+	got, err := sfo.Apply(source, manifest, title)
 	if err != nil {
 		t.Fatalf("Apply: %v", err)
 	}
@@ -44,6 +45,10 @@ func TestApplyAppendsMEMSIZEAndPreservesExistingEntry(t *testing.T) {
 	if string(got[keyStart:keyStart+6]) != "TITLE\x00" {
 		t.Fatal("existing TITLE key was not preserved")
 	}
+	first := got[20:36]
+	if length := binary.LittleEndian.Uint32(first[4:8]); length != uint32(len(title)+1) {
+		t.Fatalf("TITLE length = %d, want %d", length, len(title)+1)
+	}
 	second := got[36:52]
 	memKeyOffset := int(binary.LittleEndian.Uint16(second[0:2]))
 	if string(got[keyStart+memKeyOffset:keyStart+memKeyOffset+8]) != "MEMSIZE\x00" {
@@ -55,8 +60,8 @@ func TestApplyAppendsMEMSIZEAndPreservesExistingEntry(t *testing.T) {
 	if value := binary.LittleEndian.Uint32(got[dataStart+int(binary.LittleEndian.Uint32(second[12:16])):]); value != 1 {
 		t.Fatalf("MEMSIZE value = %d, want 1", value)
 	}
-	if string(got[dataStart:dataStart+5]) != "Zill\x00" {
-		t.Fatal("existing TITLE value was not preserved")
+	if string(got[dataStart:dataStart+len(title)+1]) != title+"\x00" {
+		t.Fatalf("TITLE value = %q, want translated versioned title", got[dataStart:dataStart+len(title)+1])
 	}
 }
 
@@ -65,7 +70,7 @@ func TestExistingMEMSIZEFailsWithoutOutputOrMutation(t *testing.T) {
 	manifest := syntheticManifest(source)
 	original := append([]byte(nil), source...)
 
-	got, err := sfo.Apply(source, manifest)
+	got, err := sfo.Apply(source, manifest, "Zill O'll Infinite Plus [English v-test]")
 	if err == nil || got != nil {
 		t.Fatal("Apply accepted an already-present MEMSIZE entry")
 	}
@@ -81,7 +86,7 @@ func TestUnsupportedFingerprintFailsWithoutOutputOrMutation(t *testing.T) {
 	manifest.SourceSHA256 = hex.EncodeToString(otherHash[:])
 	original := append([]byte(nil), source...)
 
-	got, err := sfo.Apply(source, manifest)
+	got, err := sfo.Apply(source, manifest, "Zill O'll Infinite Plus [English v-test]")
 	if err == nil || got != nil {
 		t.Fatal("Apply exposed output for an unsupported PARAM.SFO fingerprint")
 	}
@@ -96,7 +101,7 @@ func TestMalformedTableFailsWithoutOutputOrMutation(t *testing.T) {
 	manifest := syntheticManifest(source)
 	original := append([]byte(nil), source...)
 
-	got, err := sfo.Apply(source, manifest)
+	got, err := sfo.Apply(source, manifest, "Zill O'll Infinite Plus [English v-test]")
 	if err == nil || got != nil {
 		t.Fatal("Apply accepted malformed table bounds")
 	}

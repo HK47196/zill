@@ -29,10 +29,10 @@ fit their retail extents. The patch uses a pinned xdelta command and is decoded
 and compared byte-for-byte with the translated ISO before publication. It
 remains the maintainer's responsibility to perform runtime QA before release.
 
-The title screen attribution uses the exact matching `v*` tag when `HEAD` is
-tagged. Otherwise the build uses the abbreviated commit hash, with `-dirty`
-appended for modified tracked files. Create an annotated release tag before the
-final build, for example:
+The title-screen attribution and the `PARAM.SFO` title displayed by PPSSPP use
+the exact matching `v*` tag when `HEAD` is tagged. Otherwise the build uses the
+abbreviated commit hash, with `-dirty` appended for modified tracked files.
+Create an annotated release tag before the final build, for example:
 
 ```sh
 git tag -a v1.0-alpha -m "v1.0 alpha"

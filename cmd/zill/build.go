@@ -100,7 +100,7 @@ func runBuild(root string, args []string, stdout, stderr io.Writer) int {
 	fmt.Fprintf(stdout, "Built translated game tree at %s\n", result.GameDirectory)
 	fmt.Fprintf(stdout, "Built translated ISO at %s\n", result.ISO)
 	fmt.Fprintf(stdout, "Built xdelta patch at %s\n", result.Patch)
-	fmt.Fprintf(stdout, "Title attribution version: %s\n", version)
+	fmt.Fprintf(stdout, "Embedded translation version: %s\n", version)
 	if len(result.Layout) > 0 {
 		printLayoutWarnings(stdout, result.Layout)
 	}
