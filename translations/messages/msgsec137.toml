@@ -338,11 +338,11 @@ english = "People have been flooding into the dojo since the battle, talking abo
 
 ["1370084"]
 japanese = "よう、<value:$28>。<line-break>俺に何か用かい？\u3000…つっても俺にゃ、\u3000<line-break>もう、お前さんに教えることはないな。<line-break>でも、最後にひとつ言わしてもらうか。<line-break>お前さんは、歴史を知っているだろう？<line-break>歴史をただの知識にはしないでくれ。<end>"
-english = ""
+english = "Hey, <value:$28>. What can I do for you? Though I suppose there's nothing left for me to teach you. Still, let me say one last thing. You know history, don't you? Don't let it be nothing more than knowledge to you.<end>"
 
 ["1370085"]
 japanese = "俺はお前さんに、困りもんの学者や<line-break>為政者には、なってほしくはないからな。<line-break>ま、そんなところかな。<end>"
-english = ""
+english = "I wouldn't want you to become the kind of scholar or ruler who's nothing but trouble. Well, that's about it.<end>"
 
 ["1370086"]
 japanese = "よう、<value:$28>。<line-break>この前は世話になったな。<line-break>アイリーンの様子はどうだい？<end>"
@@ -358,7 +358,7 @@ english = "We avoided the worst, and I've got you to thank for that too. Looks l
 
 ["1370089"]
 japanese = "俺の弟子はやっぱり正しかった…つまり<line-break>俺の目も、俺がここでしてきたことも<line-break>正しかったってことだからな。<end>"
-english = ""
+english = "My pupil was right after all... which means my judgment was sound, and everything I've done here was right too.<end>"
 
 ["1370090"]
 japanese = "お前さんたち、うまくいくと思うぜ。\u3000<line-break>いいパートナーになってくれ。<end>"
@@ -366,23 +366,23 @@ english = "I think you'll work well together. I hope you'll make good partners.<
 
 ["1370091"]
 japanese = "アイリーンのことは残念だが、<line-break>俺にそれ以上とやかく言う資格はないな。<line-break>戦争に出ていれば、死とは常にとなり合わせだ。<line-break>アイリーンを斬ったのは誰かなんてのは<line-break>問題じゃない。アイリーンはこの戦乱の時代を<line-break>生き抜く力がなかったというだけだ。<end>"
-english = ""
+english = "What happened to Irene is regrettable, but I have no right to say any more than that. When you go to war, death is always at your side. It doesn't matter who struck Irene down. She simply lacked the strength to survive this age of war.<end>"
 
 ["1370092"]
 japanese = "よう、<value:$28>。<line-break>この前は世話になったな。<line-break>お前さんがいてくれて助かった。<end>"
-english = ""
+english = "Hey, <value:$28>. Thanks for your help the other day. I'm glad you were there.<end>"
 
 ["1370093"]
 japanese = "アイリーンなら大丈夫だろう。<line-break>あいつの目から迷いがなくなっていたからな。<line-break>いい騎士になってくれると思うぜ。<line-break>あれからディンガル軍が動く気配はないしな。<line-break>俺としては、カルラの襲撃計画を<line-break>アイリーンがとめてくれたと思いたいね。<end>"
-english = ""
+english = "Irene will be all right. There was no hesitation left in her eyes. I think she'll make a fine knight. There has been no sign of the Dingal Army moving since then. I'd like to believe Irene stopped Karula's plan to attack.<end>"
 
 ["1370094"]
 japanese = "今のところディンガル軍に動きはない。<line-break>この街もどことなく不安が漂ってはいるが、<line-break>住民の生活の息づかいは元に戻りつつある。<line-break>もともとこの平民街は、ロストール王家から<line-break>援助を受けていたわけではないからな。<line-break>昔も今も、自分たちの力で生きているんだ。<end>"
-english = ""
+english = "So far, the Dingal Army has made no move. There is still an undercurrent of anxiety in this town, but the pulse of the townspeople's lives is gradually returning to normal. This commoners' quarter has never received aid from the Rostorl royal family. Then as now, its people have lived by their own strength.<end>"
 
 ["1370095"]
 japanese = "その力はたくましいものだが、武力に対抗する<line-break>種類の力ではない。<line-break>だから、俺がここにいるんだ。<line-break>これからも、ディンガルがこの街を<line-break>つぶしに来ない限り、<line-break>俺の方から動くつもりはない。<end>"
-english = ""
+english = "It's a hardy sort of strength, but not one that can stand against military force. That's why I'm here. Unless Dingal comes to crush this town, I have no intention of making the first move.<end>"
 
 ["1370096"]
 japanese = "よう、<value:$28>。<line-break>この前は世話になったな。<line-break>アイリーンの様子はどうだい？<end>"
@@ -390,7 +390,7 @@ english = "Hey, <value:$28>. Thanks for your help the other day. How's Irene doi
 
 ["1370097"]
 japanese = "あん？\u3000相変わらずうるさいって？\u3000\u3000\u3000\u3000<line-break>いっひっひ。まだまだ青いねぇ。<line-break>相変わらずなのはお前の方だよ。<line-break>普通、ああいう展開があれば、<line-break>そのあとふたりの仲は急速に発展する<line-break>ってのが、お約束なんだが…ま、いいか。<end>"
-english = ""
+english = "Hm? Still as loud as ever, you say? Heh heh heh. You've got a lot to learn. You're the one who hasn't changed. Usually, after something like that, the two of you are supposed to grow much closer in no time. Ah, well.<end>"
 
 ["1370098"]
 japanese = "おや、見かけない顔だね。<line-break>何か用かい？<end>"
@@ -514,7 +514,7 @@ english = "A companion of mine, about your age, set off on a journey too. Wonder
 
 ["1370128"]
 japanese = "おう、<value:$28>か。<end>"
-english = ""
+english = "Oh, <value:$28>.<end>"
 
 ["1370129"]
 japanese = "まあ、人生っていうのは\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>あと戻りできないからな。<line-break>お前は前に進むしかないんだ。<line-break>ただ、どう前に進むか。<line-break>過去が過ちなら未来をどう正すべきか。<line-break>それをいつも考えて生きてくれ。<end>"
@@ -566,11 +566,11 @@ english = "So, how've you been? Keeping well?<end>"
 
 ["1370141"]
 japanese = "あん？\u3000なんで木こりなんて<line-break>やってんのかって？<line-break>そりゃ、やっぱりこれだな。<end>"
-english = ""
+english = "Huh? You want to know why I'm a lumberjack? Well, this is why.<end>"
 
 ["1370142"]
 japanese = "おら、いい音だろ。小鳥のさえずり、          <line-break>小川のせせらぎ、そして、木こりが木を伐る音。<line-break>何もかもが、心に話しかけてくるじゃねぇか。<line-break>若いから、こんな山の中の暮らしより都会の方が<line-break>いいんだろうが、忘れちゃならねぇものが<line-break>こんなにすぐそばにあるんだな。<end>"
-english = ""
+english = "Listen. Isn't that a lovely sound? Birds singing, the babble of a brook, and the sound of a lumberjack felling trees. Doesn't it all speak to your heart? You're young, so you probably prefer the city to life in the mountains. But there are things you mustn't forget right here beside you.<end>"
 
 ["1370143"]
 japanese = "あん？\u3000カミさんとはどこで知り合ったかって？<line-break>変なこと聞くやつだな。もう、昔のことだから<line-break>忘れちまったよ。<line-break>いいじゃねぇか、別に。今がちゃんとあれば<line-break>昔のことなんてよ。<end>"
@@ -694,11 +694,11 @@ english = "Of course, that also makes such people all the more valuable. A compa
 
 ["1370173"]
 japanese = "フフッ、面白い答えだな。<line-break><value:$28>のそういう独創性は<line-break>大事にした方がいいと私も思うよ。<end>"
-english = ""
+english = "Heh. That's an interesting answer. I think you should cherish that kind of originality, <value:$28>.<end>"
 
 ["1370174"]
 japanese = "確かに、パーティとして一緒に<line-break>旅をする身としては、<line-break>煮え切らない便利屋がいるよりも、<line-break>これだけは誰にも負けないという<line-break>メンバーがいた方が頼りになる。<line-break>実際に旅に出れば嫌でもわかることだ。<end>"
-english = ""
+english = "Certainly, when traveling together as a party, it is more reassuring to have a member who excels beyond anyone else at one thing than a half-baked jack-of-all-trades. Once you set out on a journey, you'll understand it whether you like it or not.<end>"
 
 ["1370175"]
 japanese = "その言葉、信用して大丈夫だな？<end>"
@@ -1798,11 +1798,11 @@ english = "Oh, going straight to the heart of it, are you?<end>"
 
 ["1370449"]
 japanese = "張り紙がしてありますね。<end>"
-english = ""
+english = "There's a notice posted here.<end>"
 
 ["1370450"]
 japanese = "さて、何について説明しようか？<end>"
-english = ""
+english = "Now then, what shall I explain?<end>"
 
 ["1370451"]
 japanese = "おう、昨日のケガは大丈夫か？<line-break>\u3000<line-break>\u3000<end>"
@@ -2542,7 +2542,7 @@ english = "While you're working that out, you also need to think about what your
 
 ["1370635"]
 japanese = "仲間と協力して、<line-break>最大限に自分の能力をいかす。<line-break>これだな。<line-break>仲間？\u3000ははは、ま、<line-break>そのうちできるだろうよ。<end>"
-english = ""
+english = "Work together with your companions and make the most of your own abilities. That's the key. Companions? Ha ha ha. Well, I'm sure you'll find some eventually.<end>"
 
 ["1370636"]
 japanese = "んじゃ、ま<line-break>これで質問は終わりってことで<line-break>いいかい、<value:$28>？<end>"
