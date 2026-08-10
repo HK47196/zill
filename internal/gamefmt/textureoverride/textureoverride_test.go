@@ -28,7 +28,7 @@ func TestCompileChangesSelectedPixelsAndPreservesContainerBytes(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if len(replacements["pa"]) != 1 || replacements["pa"][0].Index == nil || *replacements["pa"][0].Index != 0 {
+	if len(replacements["pa"]) != 1 || replacements["pa"][0].Index != 0 {
 		t.Fatalf("replacements = %#v, want one replacement for pa member 0", replacements)
 	}
 	got := replacements["pa"][0].Payload

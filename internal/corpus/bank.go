@@ -7,8 +7,6 @@ import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
-	"os"
-	"path/filepath"
 	"regexp"
 	"strconv"
 	"strings"
@@ -45,15 +43,6 @@ type Bank struct {
 	Name    string
 	Section int
 	Records []Record
-}
-
-// ReadBank reads and validates a native message bank without modifying it.
-func ReadBank(path string) (Bank, error) {
-	data, err := os.ReadFile(path)
-	if err != nil {
-		return Bank{}, fmt.Errorf("read %s: %w", path, err)
-	}
-	return ParseBank(filepath.Base(path), data)
 }
 
 // ParseBank validates and parses a retail uint16-offset message bank.

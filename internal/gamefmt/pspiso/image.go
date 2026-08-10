@@ -5,7 +5,6 @@ package pspiso
 import (
 	"fmt"
 	"os"
-	"slices"
 )
 
 // Image is an immutable, read-only description of a PSP ISO image.
@@ -45,20 +44,4 @@ func (i *Image) Manifest() Manifest {
 		return Manifest{}
 	}
 	return i.manifest.clone()
-}
-
-// Entries returns the ISO directory-record order, with mutable byte fields
-// copied so callers cannot alter Image state.
-func (i *Image) Entries() []Entry {
-	if i == nil {
-		return nil
-	}
-	entries := make([]Entry, len(i.manifest.Entries))
-	for n, entry := range i.manifest.Entries {
-		entries[n] = entry
-		entries[n].Identifier = slices.Clone(entry.Identifier)
-		entries[n].Record = slices.Clone(entry.Record)
-		entries[n].Padding = slices.Clone(entry.Padding)
-	}
-	return entries
 }

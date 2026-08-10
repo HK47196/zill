@@ -30,23 +30,15 @@ type Member struct {
 	Metadata [2]uint32
 }
 
-// Replacement selects exactly one member, either by its unique non-empty Name
-// or by Index. Index must be set with IndexReplacement so member zero remains
-// distinguishable from an unset selector.
+// Replacement selects one member by archive index.
 type Replacement struct {
-	Name    string
-	Index   *int
+	Index   int
 	Payload []byte
-}
-
-// NameReplacement creates a replacement resolved by a unique member name.
-func NameReplacement(name string, payload []byte) Replacement {
-	return Replacement{Name: name, Payload: payload}
 }
 
 // IndexReplacement creates a replacement resolved by archive index.
 func IndexReplacement(index int, payload []byte) Replacement {
-	return Replacement{Index: &index, Payload: payload}
+	return Replacement{Index: index, Payload: payload}
 }
 
 // Pair is a validated PAA index/archive pair. Close releases its archive file.
@@ -281,37 +273,15 @@ func (p *Pair) Rebuild(outputIndexPath, outputArchivePath string, replacements .
 }
 
 func (p *Pair) resolve(replacements []Replacement) (map[int][]byte, error) {
-	byName := make(map[string][]int)
-	for _, member := range p.members {
-		if member.Name != "" {
-			byName[member.Name] = append(byName[member.Name], member.Index)
-		}
-	}
 	resolved := make(map[int][]byte, len(replacements))
 	for _, replacement := range replacements {
-		if (replacement.Name == "") == (replacement.Index == nil) {
-			return nil, errors.New("each PAA replacement must select exactly one member by name or index")
+		if replacement.Index < 0 || replacement.Index >= len(p.members) {
+			return nil, fmt.Errorf("replacement member index %d not found", replacement.Index)
 		}
-		index := -1
-		if replacement.Index != nil {
-			index = *replacement.Index
-			if index < 0 || index >= len(p.members) {
-				return nil, fmt.Errorf("replacement member index %d not found", index)
-			}
-		} else {
-			matches := byName[replacement.Name]
-			if len(matches) == 0 {
-				return nil, fmt.Errorf("replacement member %q not found", replacement.Name)
-			}
-			if len(matches) != 1 {
-				return nil, fmt.Errorf("replacement member name %q is ambiguous", replacement.Name)
-			}
-			index = matches[0]
+		if _, exists := resolved[replacement.Index]; exists {
+			return nil, fmt.Errorf("member %d is selected by more than one replacement", replacement.Index)
 		}
-		if _, exists := resolved[index]; exists {
-			return nil, fmt.Errorf("member %d is selected by more than one replacement", index)
-		}
-		resolved[index] = append([]byte(nil), replacement.Payload...)
+		resolved[replacement.Index] = append([]byte(nil), replacement.Payload...)
 	}
 	return resolved, nil
 }

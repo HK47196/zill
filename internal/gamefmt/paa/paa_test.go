@@ -10,7 +10,7 @@ import (
 	"github.com/HK47196/zill/internal/gamefmt/paa"
 )
 
-func TestRebuildPreservesPairAndAppliesNameAndIndexReplacements(t *testing.T) {
+func TestRebuildPreservesPairAndAppliesIndexReplacements(t *testing.T) {
 	directory := t.TempDir()
 	indexPath, archivePath, sourceIndex, sourceArchive := writeFixture(t, directory)
 
@@ -38,12 +38,12 @@ func TestRebuildPreservesPairAndAppliesNameAndIndexReplacements(t *testing.T) {
 	rebuiltIndexPath := filepath.Join(directory, "rebuilt.bin")
 	rebuiltArchivePath := filepath.Join(directory, "rebuilt.arc")
 	indexedPayload := []byte("replacement large enough to shift later offsets")
-	namedPayload := []byte("L")
+	lastPayload := []byte("L")
 	if err := pair.Rebuild(
 		rebuiltIndexPath,
 		rebuiltArchivePath,
 		paa.IndexReplacement(2, indexedPayload),
-		paa.NameReplacement("last.dat", namedPayload),
+		paa.IndexReplacement(3, lastPayload),
 	); err != nil {
 		t.Fatal(err)
 	}
@@ -66,7 +66,7 @@ func TestRebuildPreservesPairAndAppliesNameAndIndexReplacements(t *testing.T) {
 		0: []byte("one"),
 		1: {},
 		2: indexedPayload,
-		3: namedPayload,
+		3: lastPayload,
 	} {
 		got, err := rebuilt.Payload(index)
 		if err != nil || !bytes.Equal(got, want) {
@@ -90,7 +90,7 @@ func TestRebuildPreservesPairAndAppliesNameAndIndexReplacements(t *testing.T) {
 	}
 }
 
-func TestRebuildRejectsAmbiguousOrConflictingSelectionsWithoutChangingInputs(t *testing.T) {
+func TestRebuildRejectsInvalidOrDuplicateIndexesWithoutPublishingOutput(t *testing.T) {
 	directory := t.TempDir()
 	indexPath, archivePath, sourceIndex, sourceArchive := writeFixture(t, directory)
 	pair, err := paa.Open(indexPath, archivePath)
@@ -101,8 +101,8 @@ func TestRebuildRejectsAmbiguousOrConflictingSelectionsWithoutChangingInputs(t *
 
 	outputIndex := filepath.Join(directory, "failed.bin")
 	outputArchive := filepath.Join(directory, "failed.arc")
-	if err := pair.Rebuild(outputIndex, outputArchive, paa.NameReplacement("duplicate.dat", []byte("x"))); err == nil {
-		t.Fatal("ambiguous name replacement succeeded")
+	if err := pair.Rebuild(outputIndex, outputArchive, paa.IndexReplacement(4, []byte("x"))); err == nil {
+		t.Fatal("out-of-range replacement index succeeded")
 	}
 	if _, err := os.Stat(outputIndex); !os.IsNotExist(err) {
 		t.Fatalf("failed rebuild created index output: %v", err)
@@ -110,8 +110,8 @@ func TestRebuildRejectsAmbiguousOrConflictingSelectionsWithoutChangingInputs(t *
 	if _, err := os.Stat(outputArchive); !os.IsNotExist(err) {
 		t.Fatalf("failed rebuild created archive output: %v", err)
 	}
-	if err := pair.Rebuild(outputIndex, outputArchive, paa.IndexReplacement(0, []byte("x")), paa.NameReplacement("first.dat", []byte("y"))); err == nil {
-		t.Fatal("two selectors for one member succeeded")
+	if err := pair.Rebuild(outputIndex, outputArchive, paa.IndexReplacement(0, []byte("x")), paa.IndexReplacement(0, []byte("y"))); err == nil {
+		t.Fatal("duplicate replacement index succeeded")
 	}
 	if err := pair.Rebuild(indexPath, outputArchive, paa.IndexReplacement(0, []byte("x"))); err == nil {
 		t.Fatal("rebuild overwrote its source index")

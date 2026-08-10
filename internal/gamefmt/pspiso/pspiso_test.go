@@ -281,7 +281,7 @@ func TestBuildModifiedReflowsGrowingReplacement(t *testing.T) {
 		t.Fatal("grown payload differs from its replacement")
 	}
 	var eboot pspiso.Entry
-	for _, entry := range image.Entries() {
+	for _, entry := range image.Manifest().Entries {
 		if entry.Path == "/PSP_GAME/SYSDIR/EBOOT.BIN" {
 			eboot = entry
 			break
