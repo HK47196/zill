@@ -94,7 +94,7 @@ english = "Um, excuse me, but... may I ask your name?<end>"
 
 ["620023"]
 japanese = "<value:$28>…さん…。<end>"
-english = ""
+english = "<value:$28>...<end>"
 
 ["620024"]
 japanese = "あっ、<value:$28>さん！<end>"
@@ -130,7 +130,7 @@ english = "There, you're awake now. We're going after that weird Goblin. Hurry u
 
 ["620032"]
 japanese = "それでは、ごゆっくりどうぞ。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
-english = ""
+english = "Please, take your time.<end>"
 
 ["620033"]
 japanese = "すごいゴブ！\u3000すごいゴブ！<line-break>人間が俺たちを襲わないだけでなく、<line-break>頭まで下げてるでゴブ～！<end>"
@@ -170,15 +170,15 @@ english = "The uncouth woman has gone berserk, gob! Danger, gob! Gob-Gob Gang, r
 
 ["620042"]
 japanese = "あ、おねーさん、<line-break>お代はここに置いておくゴブ！<end>"
-english = ""
+english = "Oh, miss, we'll leave the money here, gob!<end>"
 
 ["620043"]
 japanese = "オルナット、<line-break>メシ食ってる場合じゃないゴブ！<end>"
-english = ""
+english = "Ornat, this is no time to be eating, gob!<end>"
 
 ["620044"]
 japanese = "ああ、メシ～。<end>"
-english = ""
+english = "Ahh, food...<end>"
 
 ["620045"]
 japanese = "ったく、逃げ足だけは早いわね！<line-break><value:$28>、追いましょ。<end>"
@@ -826,7 +826,7 @@ english = "There you are!<end>"
 
 ["620206"]
 japanese = "おやおや、またお客様だ。<end>"
-english = ""
+english = "Oh my, another guest.<end>"
 
 ["620207"]
 japanese = "あんたたち、今度こそ逃がさないわよ！<line-break>聖杯を返しなさい！<end>"
@@ -1026,7 +1026,7 @@ english = "Hey... do you still want to go back to Rostorl?<end>"
 
 ["620256"]
 japanese = "あ、別に答えにくかったら<line-break>答えなくていいのよ。<end>"
-english = ""
+english = "Oh, if you'd rather not answer, you don't have to.<end>"
 
 ["620257"]
 japanese = "何も答えてくれない、か…。<line-break>そっか…、そうだよね。<line-break>フェルムちゃんが…いるもんね…。<end>"
@@ -1102,331 +1102,331 @@ english = "She's a good girl, isn't she? Safe travels.<end>"
 
 ["620275"]
 japanese = "聞きたいことがあれば<line-break>答えますよ。<end>"
-english = ""
+english = "If there's anything you'd like to ask, I'll be happy to answer.<end>"
 
 ["620276"]
 japanese = "無限のソウルとは<end>"
-english = ""
+english = "What is the Infinite Soul?<end>"
 
 ["620277"]
 japanese = "転送機について<end>"
-english = ""
+english = "Tell me about the teleportation device.<end>"
 
 ["620278"]
 japanese = "闇の神器について<end>"
-english = ""
+english = "Tell me about the Dark Artifacts.<end>"
 
 ["620279"]
 japanese = "ネモについて<end>"
-english = ""
+english = "Tell me about Nemo.<end>"
 
 ["620280"]
 japanese = "アーギルシャイアについて<end>"
-english = ""
+english = "Tell me about Argyleshire.<end>"
 
 ["620281"]
 japanese = "質問はない<end>"
-english = ""
+english = "I don't have any questions.<end>"
 
 ["620282"]
 japanese = "そんなこと、口にしましたっけ。<line-break>まあ、秘密です。<line-break>\u3000<line-break>ま、おいおいわかりますよ。<line-break>とりあえずはギルドで<line-break>仕事をしていってください。<end>"
-english = ""
+english = "Did I mention that? Well, it's a secret. You'll understand in time. For now, take on some work at the Guild.<end>"
 
 ["620283"]
 japanese = "他人のために働くことで、\u3000\u3000\u3000<line-break>魂を成長させていけば<line-break>いずれ、わかってきますよ。<end>"
-english = ""
+english = "As you work for the sake of others and nurture your soul, the answer will come to you.<end>"
 
 ["620284"]
 japanese = "将来、旅の途中で出会った仲間を<line-break>呼び出すための装置です。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>一緒に旅する仲間を<line-break>変更したくなったら<line-break>この猫屋敷に来てください。<end>"
-english = ""
+english = "This device will let you summon companions you meet on your travels. If you ever want to change who travels with you, come to Cat Manor.<end>"
 
 ["620285"]
 japanese = "一緒に旅をしたい仲間を呼び出したり、<line-break>別行動を取ることを決めた仲間を<line-break>送り出したりできますよ。<end>"
-english = ""
+english = "You can summon companions you wish to travel with, or send off those who have decided to go their separate ways.<end>"
 
 ["620286"]
 japanese = "破壊神ウルグの復活に<line-break>用いられた強力な魔道器です。\u3000<line-break>１２種類あるといいます。<line-break>禁断の聖杯は<line-break>その中のひとつですね。<line-break>\u3000<end>"
-english = ""
+english = "They are powerful magical artifacts used to resurrect Urg, the God of Destruction. There are said to be twelve of them, and the Forbidden Grail is one.<end>"
 
 ["620287"]
 japanese = "禁断の聖杯については<line-break>今、ゴブゴブ団という<line-break>３匹のゴブリンが持っています。<line-break>とりあえず、現在<line-break>彼らはエンシャントにいますよ。<end>"
-english = ""
+english = "The Forbidden Grail is currently held by three Goblins called the Gob-Gob Gang. For now, they're in Ancient.<end>"
 
 ["620288"]
 japanese = "ここにいるブサイクな猫です。\u3000\u3000\u3000\u3000<line-break>口は悪いけど、無害ですよ。<line-break>\u3000<line-break>もともとは老人星の精霊で<line-break>天空の賢者とも呼ばれていましたが<line-break>地上に堕ちて、魔人になりました。<end>"
-english = ""
+english = "That ugly cat over there. He has a foul mouth, but he's harmless. He was once the spirit of the Old Man Star, known as the Sage of the Heavens, but he fell to earth and became a demon.<end>"
 
 ["620289"]
 japanese = "破壊神の強力な魔人、<line-break>１２人の円卓騎士のひとりで<line-break>名前を知るものという異名もあります。<end>"
-english = ""
+english = "He is one of the twelve Knights of the Round Table, the God of Destruction's mighty demons, and bears the epithet He Who Knows Names.<end>"
 
 ["620290"]
 japanese = "円卓騎士には他に<line-break>アーギルシャイアなどがいますね。\u3000\u3000<line-break><end>"
-english = ""
+english = "The other Knights of the Round Table include Argyleshire.<end>"
 
 ["620291"]
 japanese = "破壊神ウルグの円卓騎士の１人です。<line-break>妖艶な美女の姿をしています。<line-break>\u3000<line-break>きわめて、気まぐれで残酷です。<line-break>すでに神器を手に入れるため<line-break>ミイスの村を焼き払っています。<end>"
-english = ""
+english = "She is one of Urg's Knights of the Round Table and takes the form of a bewitching beauty. She is exceptionally capricious and cruel. She has already burned Miis Village to the ground to obtain a divine artifact.<end>"
 
 ["620292"]
 japanese = "究極生物を作ろうとして、<line-break>その製法を神器、禁断の聖杯から\u3000\u3000<line-break>得ようと、聖杯をねらっています。<line-break>円卓騎士には他に<line-break>うちのネモなどがいますね。<line-break><end>"
-english = ""
+english = "She seeks the Grail, hoping to learn how to create an Ultimate Life-Form from the divine artifact known as the Forbidden Grail. The other Knights of the Round Table include our own Nemo.<end>"
 
 ["620293"]
 japanese = "そうですか。<end>"
-english = ""
+english = "I see.<end>"
 
 ["620294"]
 japanese = "ま、こんな感じですかね。<line-break>わかっていただけましたか？<end>"
-english = ""
+english = "Well, that about covers it. Does that make sense?<end>"
 
 ["620295"]
 japanese = "あ、<value:$28>さん！<end>"
-english = ""
+english = "Oh, <value:$28>!<end>"
 
 ["620296"]
 japanese = "……心配…してた…んです…よ。<end>"
-english = ""
+english = "...I was... worried... about you.<end>"
 
 ["620297"]
 japanese = "ひどいです！\u3000旅に出るなんて、<line-break>何も、教えてくれませんでした！\u3000\u3000\u3000<line-break>\u3000<line-break>そのあとも、何も…<line-break>なんの連絡も、くれませんでした！<line-break>\u3000<end>"
-english = ""
+english = "How could you! You left on a journey without telling me anything! And since then, you haven't sent word... not even once!<end>"
 
 ["620298"]
 japanese = "確かに、私、<line-break>力ではアイリーンさんにかないません！<line-break>冒険では足手まといです！<line-break>でも！\u3000でも！<line-break>せめて一言…！<end>"
-english = ""
+english = "I know I can't match Irene's strength! I'd only hold you back on an adventure! But... But! You could at least have said something...!<end>"
 
 ["620299"]
 japanese = "うっ。<end>"
-english = ""
+english = "Mmph!<end>"
 
 ["620300"]
 japanese = "キス…してくれた…。<end>"
-english = ""
+english = "You... kissed me...<end>"
 
 ["620301"]
 japanese = "…アイリーンさんとは<line-break>…何も、なかったんですね。<end>"
-english = ""
+english = "...So nothing happened between you and Irene, then.<end>"
 
 ["620302"]
 japanese = "…今の…キスで…わかりました。<end>"
-english = ""
+english = "...I could tell... from that kiss.<end>"
 
 ["620303"]
 japanese = "私、信じてますから…。<line-break>また、帰ってきてくださいね。<end>"
-english = ""
+english = "I trust you... Please come back again.<end>"
 
 ["620304"]
 japanese = "あ…。<end>"
-english = ""
+english = "Oh...<end>"
 
 ["620305"]
 japanese = "キス…してくれた…。<end>"
-english = ""
+english = "You... kissed me...<end>"
 
 ["620306"]
 japanese = "とても…優しい…キス…。<end>"
-english = ""
+english = "Such a... gentle kiss...<end>"
 
 ["620307"]
 japanese = "…アイリーンさんと<line-break>旅をしてるんですか？<end>"
-english = ""
+english = "...Are you traveling with Irene?<end>"
 
 ["620308"]
 japanese = "…私、<value:$28>さんを<line-break>待っていてもいいんですか？<end>"
-english = ""
+english = "...May I keep waiting for you, <value:$28>?<end>"
 
 ["620309"]
 japanese = "…ちゃんと答えてください。<line-break>私、<value:$28>さんを<line-break>信じていていいんですね？<end>"
-english = ""
+english = "...Please give me a straight answer. I can keep believing in you, can't I, <value:$28>?<end>"
 
 ["620310"]
 japanese = "また、早く…、<line-break>帰ってきてくださいね…。\u3000<line-break>\u3000<line-break>なんか…恥ずかしくて…、<line-break><value:$28>さんの顔が<line-break>まともに、見られません。<end>"
-english = ""
+english = "Please... come back soon... I'm so embarrassed... I can't even look you in the face, <value:$28>.<end>"
 
 ["620311"]
 japanese = "あ、<value:$28>さん！ <line-break>帰ってきてくださったんですね。<line-break>嬉しいです！<line-break>今日もアイリーンさんは<line-break>ご一緒じゃないんですね。<end>"
-english = ""
+english = "Oh, <value:$28>! You're back. I'm so happy! Irene isn't with you again today, is she?<end>"
 
 ["620312"]
 japanese = "アイリーンさんは、あなたまで<line-break>巻き込むことはないと思います。<line-break>\u3000<line-break>ご自分は騎士になるために<line-break>故郷を捨てたんですから、<line-break>帰れないのは仕方ないですけど。<end>"
-english = ""
+english = "I don't think Irene has to drag you into it too. She left her home to become a knight, so it can't be helped that she can't go back.<end>"
 
 ["620313"]
 japanese = "<value:$28>さんは<line-break>ロストールに帰ってきても\u3000\u3000\u3000<line-break>おかしくないと思います。<end>"
-english = ""
+english = "But there's no reason you can't come back to Rostorl, <value:$28>.<end>"
 
 ["620314"]
 japanese = "アイリーンさんって、力が一番<line-break>って考える人みたいですよね。<line-break>\u3000<line-break>例えば…愛…とか、<line-break>力よりも、ずっと、ずっと<line-break>大切なものがあるのに…。<end>"
-english = ""
+english = "Irene seems to think strength is the most important thing. But there are things... like love... that are far, far more important than strength...<end>"
 
 ["620315"]
 japanese = "あ、…私、<line-break>少し、言いすぎちゃいましたね。\u3000<line-break>\u3000<line-break>…すいません。<line-break>アイリーンさんのこと、<line-break>悪く言う気はなかったんです。<end>"
-english = ""
+english = "Oh... I may have said too much. ...I'm sorry. I didn't mean to speak badly of Irene.<end>"
 
 ["620316"]
 japanese = "ただ、<value:$28>さんと<line-break>会えないとき、<line-break>私、ものすごく不安なんです。\u3000\u3000<line-break>こんなに笑顔でいられるのも<line-break>あなたと一緒のときだけなんです。<line-break>それで、つい…。<end>"
-english = ""
+english = "It's just that when I can't see you, <value:$28>, I get terribly anxious. The only time I can smile like this is when I'm with you. So I just...<end>"
 
 ["620317"]
 japanese = "<value:$28>さん。<line-break>元気を…くださいますか？<end>"
-english = ""
+english = "<value:$28>... will you cheer me up?<end>"
 
 ["620318"]
 japanese = "うっ。<end>"
-english = ""
+english = "Mmph!<end>"
 
 ["620319"]
 japanese = "あ、だ、だいひょうぶでふ！<end>"
-english = ""
+english = "Ah, I-I'm f-fine!<end>"
 
 ["620320"]
 japanese = "ありがとうございます…<line-break>これでしばらく笑顔でいられます。<end>"
-english = ""
+english = "Thank you... That'll keep me smiling for a while.<end>"
 
 ["620321"]
 japanese = "また…、元気がなくなる前に、私に<line-break>元気を与えに返ってきてくださいね。<end>"
-english = ""
+english = "Please come back and cheer me up again before I lose heart.<end>"
 
 ["620322"]
 japanese = "<select><value:$20>%10あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日はジオールスターのマリネが<line-break>おすすめなんですよ。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日はバイパーの香草ソーセージが<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日はコカトリスのチーズ揚げが<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日はソーンナイトの唐揚げが<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日は赤海鴨のエリエナイ風が<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日はソルバ魚のカルパッチョが<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日は海賊リゾットエルズ風が<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日は夏魚のキノコ和えが<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日は花ウサギの季節のシチューが<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日は若鶏とテラネ茄子のパスタが<line-break>おすすめなんですよー。<end>"
-english = ""
+english = "<select><value:$20>%10Oh, <value:$28>! Welcome! I'm so glad you came again. Today's special is marinated Geolstar.<end>Oh, <value:$28>! Welcome! I'm so glad you came again. Today's special is Viper sausage with herbs.<end>Oh, <value:$28>! Welcome! I'm so glad you came again. Today's special is fried Cockatrice with cheese.<end>Oh, <value:$28>! Welcome! I'm so glad you came again. Today's special is fried Thorn Knight.<end>Oh, <value:$28>! Welcome! I'm so glad you came again. Today's special is Elienai-style Red Sea duck.<end>Oh, <value:$28>! Welcome! I'm so glad you came again. Today's special is Solba fish carpaccio.<end>Oh, <value:$28>! Welcome! I'm so glad you came again. Today's special is Elz-style pirate risotto.<end>Oh, <value:$28>! Welcome! I'm so glad you came again. Today's special is summer fish with mushrooms.<end>Oh, <value:$28>! Welcome! I'm so glad you came again. Today's special is seasonal Flower Rabbit stew.<end>Oh, <value:$28>! Welcome! I'm so glad you came again. Today's special is pasta with chicken and Terane eggplant.<end>"
 
 ["620323"]
 japanese = "あー、<value:$28>さん<line-break>いらっしゃいませー！\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>今、ちょうど、ヒマなんで、<line-break>私が考えた新メニューを<line-break>作っていたところなんです。<end>"
-english = ""
+english = "Oh, <value:$28>! Welcome! Things are slow right now, so I was just trying out a new dish I came up with.<end>"
 
 ["620324"]
 japanese = "これなんですけど。<line-break>おいしかったら、メニューに<line-break>加えてもらおうかなって思うんです。<line-break>あ、<value:$28>さん、<line-break>よかったら、試食して<line-break>感想とか聞かせてもらえませんか？<end>"
-english = ""
+english = "Here it is. If it's good, I thought I'd ask them to add it to the menu. Would you taste it and tell me what you think, <value:$28>?<end>"
 
 ["620325"]
 japanese = "<value:$28>は<line-break>致命的なダメージを受けた。<end>"
-english = ""
+english = "<value:$28> suffered critical damage.<end>"
 
 ["620326"]
 japanese = "あ、あのー、どうですか？<line-break>おいしいですか？<end>"
-english = ""
+english = "Um... how is it? Is it good?<end>"
 
 ["620327"]
 japanese = "あ、その、…お、おいしいよ。<end>"
-english = ""
+english = "Uh, um... I-it's delicious.<end>"
 
 ["620328"]
 japanese = "死ぬほどまずい！<end>"
-english = ""
+english = "It's so bad, I could die!<end>"
 
 ["620329"]
 japanese = "本当ですか！\u3000うれしいです！<line-break>料理、これが始めてで、<line-break>味見もしてないから心配だったんです。<line-break>あ、まだまだ、<line-break>おかわりありますよ。\u3000<line-break>いかがですか？<end>"
-english = ""
+english = "Really?! I'm so happy! This is my first time cooking, and I didn't taste it myself, so I was worried. Oh, there's plenty more. Would you like another serving?<end>"
 
 ["620330"]
 japanese = "お忙しいんですか…。<line-break>じゃあ、しょうがありませんね。<end>"
-english = ""
+english = "You're busy...? Well, I suppose it can't be helped.<end>"
 
 ["620331"]
 japanese = "ありがとうございましたー。<line-break>また、いらしてくださいねー。<end>"
-english = ""
+english = "Thank you very much! Please come again!<end>"
 
 ["620332"]
 japanese = "…そ、そんな…、そんな…。<end>"
-english = ""
+english = "...N-no... No...<end>"
 
 ["620333"]
 japanese = "…す、すいません！<end>"
-english = ""
+english = "...I-I'm sorry!<end>"
 
 ["620334"]
 japanese = "あー、<value:$28>さん！<end>"
-english = ""
+english = "Oh, <value:$28>!<end>"
 
 ["620335"]
 japanese = "ちょうど、お客さんが<line-break>とぎれて暇だったんです。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>…来てくださって、うれしいです。<line-break>…もしかして、私に会いに<line-break>来てくださったんですか？<end>"
-english = ""
+english = "Things were slow, so I had nothing to do. ...I'm glad you came. Did you perhaps come to see me?<end>"
 
 ["620336"]
 japanese = "うん<end>"
-english = ""
+english = "Yes<end>"
 
 ["620337"]
 japanese = "いや別に…<end>"
-english = ""
+english = "Not really...<end>"
 
 ["620338"]
 japanese = "うれしいです！<end>"
-english = ""
+english = "I'm so happy!<end>"
 
 ["620339"]
 japanese = "そうなんですか…。<end>"
-english = ""
+english = "Oh... I see.<end>"
 
 ["620340"]
 japanese = "あ、<value:$28>さん、<line-break>そういえば、このあいだですね…。<end>"
-english = ""
+english = "Oh, <value:$28>. Speaking of which, the other day...<end>"
 
 ["620341"]
 japanese = "あ、はいー！<line-break>わかりましたー！<end>"
-english = ""
+english = "Oh, yes! I'll be right there!<end>"
 
 ["620342"]
 japanese = "すいません！<line-break>仕事が入っちゃったんです。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>もう！\u3000何もこんなタイミングで<line-break>仕事、頼まなくてもいいのに！<line-break>ごめんなさい。また、来てくださいね。<end>"
-english = ""
+english = "I'm sorry! I have to get back to work. Honestly! They didn't have to ask me right now! Sorry. Please come again.<end>"
 
 ["620343"]
 japanese = "あ、<value:$28>さん<line-break>いらっしゃいませー！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>来てくださってうれしいです！<line-break>今日はお客さんがいなくて…<line-break>とっても考えこむ時間が多くて…。<end>"
-english = ""
+english = "Oh, <value:$28>! Welcome! I'm so glad you came! There haven't been any customers today, so I've had far too much time to think...<end>"
 
 ["620344"]
 japanese = "ずっと、あなたのことばかり<line-break>考えちゃって、なんかさびしくて…<line-break>だから、来てくださってうれしいです！<line-break>…あのー<line-break>…<value:$28>さん。<line-break>今、お時間、いいですか？<end>"
-english = ""
+english = "I couldn't stop thinking about you, and I got a little lonely... So I'm happy you came! Um... <value:$28>, do you have a moment?<end>"
 
 ["620345"]
 japanese = "ホントですか？<line-break>じゃ、近くの丘までデートしませんか？<end>"
-english = ""
+english = "Really? Then would you like to go on a date to the nearby hill?<end>"
 
 ["620346"]
 japanese = "いいんです、仕事なんて！<line-break>さ、行きましょ！<end>"
-english = ""
+english = "Forget work! Come on, let's go!<end>"
 
 ["620347"]
 japanese = "フフフ、とっても楽しかったです。<line-break>今日はホントにありがとうございます。<end>"
-english = ""
+english = "Hee hee. That was so much fun. Thank you so much for today.<end>"
 
 ["620348"]
 japanese = "ガルドランさんにからまれてたとき、\u3000<line-break>助けてくれましたよね。<line-break>\u3000<line-break>あのとき、ホントうれしかったんです。<line-break>私って、ただの酒場の娘ですから…<line-break>誰も、守ってくれないんですよ。<end>"
-english = ""
+english = "When Girldlan was bothering me, you helped me, remember? I was so happy then. I'm only a tavern girl... No one ever protects me.<end>"
 
 ["620349"]
 japanese = "周りのお客さんって、<line-break>私がいくら困ってたって、<line-break>ああいうとき、ただ笑ってるんです。\u3000<line-break>私、別にお姫様じゃないですから、<line-break>誰も守ってはくれないんです。<line-break>ときどき、泣きたくなっちゃいます。<end>"
-english = ""
+english = "All the customers around me do is laugh at times like that, no matter how much trouble I'm in. I'm no princess, so no one protects me. Sometimes I feel like crying.<end>"
 
 ["620350"]
 japanese = "けど、泣いちゃうと、もとの顔に<line-break>戻れないから、笑顔でいるんです。<line-break>しゃべり方もこんなにしてるんです。\u3000<line-break>…だから、あなたが助けてくれたとき、<line-break>ホントにうれしかったんです。<line-break>心と顔とが一緒に笑えたんです。<end>"
-english = ""
+english = "But if I cried, I wouldn't be able to put my usual face back on, so I keep smiling. That's why I talk the way I do, too. ...So when you helped me, I was truly happy. My heart and my face were smiling together.<end>"
 
 ["620351"]
 japanese = "でも、私、臆病ですから、そのときは\u3000<line-break>控えめに受け取めてたんです。けど、<line-break>あなたはずっと会いに来てくれて…。<line-break><value:$28>さん。<line-break>私にあなたがホントの笑顔と勇気を<line-break>くれたんです。<end>"
-english = ""
+english = "But I'm timid, so at the time I tried not to read too much into it. But you kept coming to see me... <value:$28>, you gave me a true smile and courage.<end>"
 
 ["620352"]
 japanese = "これからも、私に<line-break>笑顔と勇気を<end>たくさん分けてくれますか？<end>"
-english = ""
+english = "Will you keep sharing your smiles and courage with me?<end>Lots and lots of them?<end>"
 
 ["620353"]
 japanese = "うっ！<end>"
-english = ""
+english = "Mmph!<end>"
 
 ["620354"]
 japanese = "わらひ、きょふのはひめへの<line-break>デートのこと…わふれまへん！<end>"
-english = ""
+english = "I... I'll neber forget our firsht date today...!<end>"
 
 ["620355"]
 japanese = "やさしいキス…。<end>"
-english = ""
+english = "Such a gentle kiss...<end>"
 
 ["620356"]
 japanese = "私、今日の初めての<line-break>デートのこと…忘れません！<end>"
-english = ""
+english = "I'll never forget our first date!<end>"
 
 ["620357"]
 japanese = "未使用<end>"
@@ -1454,7 +1454,7 @@ english = ""
 
 ["620363"]
 japanese = "あ、いらっしゃいませー。<line-break>ここはロストールで一番大きな酒場<line-break>なんですよ。<line-break>あのー、ご用がありましたら<line-break>何でも私に言いつけてくださいね！<end>"
-english = ""
+english = "Oh, welcome! This is the biggest tavern in Rostorl. Um, if there's anything you need, please just let me know!<end>"
 
 ["620364"]
 japanese = "ほら、<value:$28>、<line-break>さっさとギルドに登録しちゃいましょ。<line-break>\u3000<end>"
