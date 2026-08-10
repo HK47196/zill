@@ -1242,7 +1242,7 @@ english = "Thank you, <value:$28>! I shall place myself in your care.<end>"
 
 ["1350310"]
 japanese = "<if><value:$01><equal>2な、なんでこんなところに<line-break>魔物が…来るわよ！<end><if><value:$01><equal>3このような魔物が王城の前に…<line-break>これは、ただごとではないようじゃな…。<end><if><value:$01><equal>4きゃっ！<line-break>どうして、こんなところに魔物がいるのかな？<line-break>迷子かも？<end><if><value:$01><equal>26なんと禍々しい！<line-break>すさまじい妖気が渦巻いておる！<end><if><value:$01><equal>24こんなところに魔物が！？<line-break>行きます！<end><if><value:$01><equal>5こっちは急いでるってのに！<line-break>うぜーんだよ！<end><if><value:$01><equal>25王宮に魔物が…<line-break>これはいったい！？<line-break>何が起ころうとしているの？<end><if><value:$01><equal>6なんだか、すごく嫌な予感がする。<line-break>絶対、急いだほうがいいよ。<end><if><value:$01><equal>7な、なんなの。この異様な気配は…？<line-break>何か恐ろしいモノが<line-break>動き出そうとしてる…。<end><if><value:$01><equal>8これは…絶望ですか。<line-break>これほどの念を発するなんて…。<line-break>人間とは壮絶な生き物なのですね。<end><if><value:$01><equal>9こんなところに魔物がいるってのは<line-break>どう考えてもマズイことが起こってるよねー。<line-break>ちょっち、覚悟したほうがよさそうね。<end><if><value:$01><equal>11こ、この闇の波動は…。<line-break>ま、魔人！？<line-break>いいえ…これはもっと深い闇…<end><if><value:$01><equal>12ちっ…見慣れた光景に凶悪な魔物が<line-break>いるってのはあまりいい気分はしないな。<line-break>じゃ、行こうか。<end><if><value:$01><equal>13…魔物の進入を許すとは。<end><if><value:$01><equal>10ね、姉ちゃん！<line-break>ど、どうしてこんなところに<line-break>魔物がいるんだよ！<end><if><value:$01><equal>14むぅ。こんなところに魔物が出よるとわ。<line-break>ゆくぞい！<end><if><value:$01><equal>15ねえ、こんなところに魔物が出るなんて<line-break>それになんだか…嫌な感じがするよ。<end><if><value:$01><equal>16虚無の子よ…。<line-break>何を企んでいる？<end><if><value:$01><equal>17な、なに、なんなのよ。<line-break>この汚らわしい気配は<line-break>なにがそんなに怨めしいのよ。<end><if><value:$01><equal>23この禍々しい気配は…。<line-break>エンシャントで感じたものと同じか？<end><if><value:$01><equal>19ううー。<line-break>なんだか、すごく嫌な予感するよ。<end><if><value:$01><equal>20…この気配。<line-break>闇のモノか？<end><if><value:$01><equal>21何者かが<line-break>私の計画に介入しようとしている…<line-break>邪魔はさせん！<end><if><value:$01><equal>22こんなところに魔物が？<line-break>これはタダのクーデターでは<line-break>ないかもしれないよ。<end>この力は…<line-break>…円卓の騎士か？\u3000それとも？<end>"
-english = ""
+english = "<if><value:$01><equal>2W-why are there monsters here...? Here they come!<end><if><value:$01><equal>3Monsters like these before the royal castle... This is no ordinary matter...<end><if><value:$01><equal>4Eek! Why are there monsters here? Maybe they're lost?<end><if><value:$01><equal>26What a sinister presence! A tremendous demonic aura is swirling around them!<end><if><value:$01><equal>24Monsters, here?! Let's go!<end><if><value:$01><equal>5We're in a hurry here! What a pain in the ass!<end><if><value:$01><equal>25Monsters in the palace... What is this?! What's about to happen?<end><if><value:$01><equal>6I've got a really bad feeling about this. We definitely need to hurry.<end><if><value:$01><equal>7W-what is this strange presence...? Something terrible is beginning to stir...<end><if><value:$01><equal>8Is this... despair? To give off such powerful emotions... Humans truly are extraordinary creatures.<end><if><value:$01><equal>9Monsters showing up here means something bad is happening, no matter how you look at it. We should probably brace ourselves.<end><if><value:$01><equal>11Th-this wave of darkness... A demon?! No... this is an even deeper darkness...<end><if><value:$01><equal>12Tch... Seeing vicious monsters in such familiar surroundings isn't a pleasant feeling. Well, let's go.<end><if><value:$01><equal>13...To think they allowed monsters to enter.<end><if><value:$01><equal>10S-sis! Why are there monsters here?!<end><if><value:$01><equal>14Hmm. Monsters appearing in a place like this... Let's go!<end><if><value:$01><equal>15Hey, monsters are appearing here... And something feels... wrong.<end><if><value:$01><equal>16Child of the Void... What are you plotting?<end><if><value:$01><equal>17Wh-what? What is this filthy presence? What does it hate so deeply?<end><if><value:$01><equal>23This sinister presence... Is it the same one I felt in Ancient?<end><if><value:$01><equal>19Ugh... I've got a really bad feeling about this.<end><if><value:$01><equal>20...This presence. A creature of darkness?<end><if><value:$01><equal>21Someone is trying to interfere with my plans... I won't allow it!<end><if><value:$01><equal>22Monsters here? This may be more than a simple coup.<end>This power... A Knight of the Round Table? Or something else?<end>"
 
 ["1350311"]
 japanese = "国政を牛耳る<line-break>毒婦エリス！<line-break>ロストールのため、お前を成敗する！<end>"
@@ -1430,7 +1430,7 @@ english = "Brother!<end>"
 
 ["1350357"]
 japanese = "なんでそんな事を！<line-break>兄さんの体は…<end>"
-english = ""
+english = "Why would you do that? Your body...<end>"
 
 ["1350358"]
 japanese = "…大丈夫だ。心配するな。<line-break>さあ、もう行くぞ。<end>"
@@ -1738,7 +1738,7 @@ english = "The entire Azure Dragon Army will withdraw! Leave a garrison in Liber
 
 ["1350434"]
 japanese = "<value:$28><end>"
-english = ""
+english = "<value:$28><end>"
 
 ["1350435"]
 japanese = "ベルゼーヴァのやつ、命令書と一緒に<line-break>花束を贈ってきやがったのだ。<line-break>そのカードになんてあったと思う？<end>"
