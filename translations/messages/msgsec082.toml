@@ -1,0 +1,61 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["820000"]
+japanese = "フゴー、Vol４用メッセージ開始<end>"
+english = ""
+
+["820001"]
+japanese = "ここはフゴー様のお屋敷だ。<end>"
+english = "This is Lord Hugo's residence.<end>"
+
+["820002"]
+japanese = "あ、ああ、あなたは、あの有名な<line-break><value:$2B>の<value:$28>！<line-break>どうぞ、お通りください。<end>"
+english = "Y-you're <value:$28>, the famous <value:$2B>! Please, go right in.<end>"
+
+["820003"]
+japanese = "誰だ？\u3000お前は？<line-break>どこの馬の骨ともわからん奴に<line-break>フゴー様はお会いにならん。帰れ。<end>"
+english = "Who are you? Lord Hugo won't see some nobody off the street. Go home.<end>"
+
+["820004"]
+japanese = "フゴーＶｏｌ４予備メッセージ１<end>"
+english = ""
+
+["820005"]
+japanese = "フゴーＶｏｌ４予備メッセージ２<end>"
+english = ""
+
+["820006"]
+japanese = "フゴーＶｏｌ４予備メッセージ３<end>"
+english = ""
+
+["820007"]
+japanese = "フゴーＶｏｌ４予備メッセージ４<end>"
+english = ""
+
+["820008"]
+japanese = "フゴーＶｏｌ４予備メッセージ５<end>"
+english = ""
+
+["820009"]
+japanese = "フゴーＶｏｌ４予備メッセージ６<end>"
+english = ""
+
+["820010"]
+japanese = "フゴーＶｏｌ４予備メッセージ７<end>"
+english = ""
+
+["820011"]
+japanese = "フゴーＶｏｌ４予備メッセージ８<end>"
+english = ""
+
+["820012"]
+japanese = "フゴーＶｏｌ４予備メッセージ９<end>"
+english = ""
+
+["820013"]
+japanese = "フゴーＶｏｌ４予備メッセージ１０<end>"
+english = ""
+
+["820014"]
+japanese = "フゴー、Vol４用メッセージ終端<end>"
+english = ""

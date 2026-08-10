@@ -1,0 +1,428 @@
+format = "zill-executable-patches"
+version = 1
+target = "SYSDIR/BOOT.BIN"
+source_sha256 = "5e294dc84a7f0d50719ecd26cb24ffb3792f2d9445803690845a8f1fa1cb85a3"
+result_sha256 = "6e26bb75abb75978ae35062cf73da3feb131e46a831afe0b11a16bd6b9cc60c7"
+
+[[patch]]
+id = "large-memory-026554c"
+feature = "large-memory"
+document = "large-memory.md"
+kind = "little-endian-u32"
+offset = 0x26554c
+expected = "00440000"
+replacement = "00c40000"
+purpose = "Raise UserSbrk reservation from 17 MiB to 49 MiB."
+field = "UserSbrk reservation KiB"
+
+[[patch]]
+id = "message-arena-0000068"
+feature = "message-arena"
+document = "message-arena.md"
+kind = "elf-field"
+offset = 0x68
+expected = "84150c00"
+replacement = "00b70e00"
+purpose = "Extend the writable PT_LOAD p_memsz through 0x36c400."
+field = "ELF32.PT_LOAD[1].p_memsz"
+
+[[patch]]
+id = "message-arena-0285cec"
+feature = "message-arena"
+document = "message-arena.md"
+kind = "elf-field"
+offset = 0x285cec
+expected = "04d20b00"
+replacement = "80730e00"
+purpose = "Extend the .bss section size through 0x36c400."
+field = "ELF32.section[.bss].sh_size"
+
+[[patch]]
+id = "message-arena-008e2b4"
+feature = "message-arena"
+document = "message-arena.md"
+kind = "mips32le"
+offset = 0x8e2b4
+expected = "0100043c"
+replacement = "0c00043c"
+purpose = "Relocate a message-arena address construction site."
+virtual_address = 0x8e234
+before = "lui a0, 1"
+after = "lui a0, 0xc"
+
+[[patch]]
+id = "message-arena-008e2c0"
+feature = "message-arena"
+document = "message-arena.md"
+kind = "mips32le"
+offset = 0x8e2c0
+expected = "10968424"
+replacement = "a0f08424"
+purpose = "Relocate a message-arena address construction site."
+virtual_address = 0x8e240
+before = "addiu a0, a0, -0x69f0"
+after = "addiu a0, a0, -0xf60"
+
+[[patch]]
+id = "message-arena-008e560"
+feature = "message-arena"
+document = "message-arena.md"
+kind = "mips32le"
+offset = 0x8e560
+expected = "0100043c"
+replacement = "0c00043c"
+purpose = "Relocate a message-arena address construction site."
+virtual_address = 0x8e4e0
+before = "lui a0, 1"
+after = "lui a0, 0xc"
+
+[[patch]]
+id = "message-arena-008e580"
+feature = "message-arena"
+document = "message-arena.md"
+kind = "mips32le"
+offset = 0x8e580
+expected = "10968424"
+replacement = "a0f08424"
+purpose = "Relocate a message-arena address construction site."
+virtual_address = 0x8e500
+before = "addiu a0, a0, -0x69f0"
+after = "addiu a0, a0, -0xf60"
+
+[[patch]]
+id = "message-arena-008e754"
+feature = "message-arena"
+document = "message-arena.md"
+kind = "mips32le"
+offset = 0x8e754
+expected = "0100043c"
+replacement = "0c00043c"
+purpose = "Relocate a message-arena address construction site."
+virtual_address = 0x8e6d4
+before = "lui a0, 1"
+after = "lui a0, 0xc"
+
+[[patch]]
+id = "message-arena-008e778"
+feature = "message-arena"
+document = "message-arena.md"
+kind = "mips32le"
+offset = 0x8e778
+expected = "10968424"
+replacement = "a0f08424"
+purpose = "Relocate a message-arena address construction site."
+virtual_address = 0x8e6f8
+before = "addiu a0, a0, -0x69f0"
+after = "addiu a0, a0, -0xf60"
+
+[[patch]]
+id = "message-arena-008e5b4"
+feature = "message-arena"
+document = "message-arena.md"
+kind = "mips32le"
+offset = 0x8e5b4
+expected = "00680434"
+replacement = "00900434"
+purpose = "Move the special message-bank slot base to arena offset 0x9000."
+virtual_address = 0x8e534
+before = "ori a0, zero, 0x6800"
+after = "ori a0, zero, 0x9000"
+
+[[patch]]
+id = "message-arena-008e83c"
+feature = "message-arena"
+document = "message-arena.md"
+kind = "mips32le"
+offset = 0x8e83c
+expected = "00681534"
+replacement = "00901534"
+purpose = "Move the second special message-bank slot base to arena offset 0x9000."
+virtual_address = 0x8e7bc
+before = "ori s5, zero, 0x6800"
+after = "ori s5, zero, 0x9000"
+
+[[patch]]
+id = "message-arena-008f818"
+feature = "message-arena"
+document = "message-arena.md"
+kind = "mips32le"
+offset = 0x8f818
+expected = "00880534"
+replacement = "00d00534"
+purpose = "Move the ordinary message-bank slot base to arena offset 0xd000."
+virtual_address = 0x8f798
+before = "ori a1, zero, 0x8800"
+after = "ori a1, zero, 0xd000"
+
+[[patch]]
+id = "wide-message-offsets-008e248"
+feature = "wide-message-offsets"
+document = "wide-message-offsets.md"
+kind = "mips32le"
+offset = 0x8e248
+expected = "80008728"
+replacement = "3f008728"
+purpose = "Widen one message-bank offset-table operation to 32 bits."
+virtual_address = 0x8e1c8
+before = "slti a3, a0, 0x80"
+after = "slti a3, a0, 0x3f"
+
+[[patch]]
+id = "wide-message-offsets-008e250"
+feature = "wide-message-offsets"
+document = "wide-message-offsets.md"
+kind = "mips32le"
+offset = 0x8e250
+expected = "ffffc630"
+replacement = "2530c000"
+purpose = "Widen one message-bank offset-table operation to 32 bits."
+virtual_address = 0x8e1d0
+before = "andi a2, a2, 0xffff"
+after = "move a2, a2"
+
+[[patch]]
+id = "wide-message-offsets-008e254"
+feature = "wide-message-offsets"
+document = "wide-message-offsets.md"
+kind = "mips32le"
+offset = 0x8e254
+expected = "21388400"
+replacement = "80380400"
+purpose = "Widen one message-bank offset-table operation to 32 bits."
+virtual_address = 0x8e1d4
+before = "addu a3, a0, a0"
+after = "sll a3, a0, 2"
+
+[[patch]]
+id = "wide-message-offsets-008e26c"
+feature = "wide-message-offsets"
+document = "wide-message-offsets.md"
+kind = "mips32le"
+offset = 0x8e26c
+expected = "000086a4"
+replacement = "000086ac"
+purpose = "Widen one message-bank offset-table operation to 32 bits."
+virtual_address = 0x8e1ec
+before = "sh a2, (a0)"
+after = "sw a2, (a0)"
+
+[[patch]]
+id = "wide-message-offsets-008e288"
+feature = "wide-message-offsets"
+document = "wide-message-offsets.md"
+kind = "mips32le"
+offset = 0x8e288
+expected = "ffff8630"
+replacement = "80300400"
+purpose = "Widen one message-bank offset-table operation to 32 bits."
+virtual_address = 0x8e208
+before = "andi a2, a0, 0xffff"
+after = "sll a2, a0, 2"
+
+[[patch]]
+id = "wide-message-offsets-008e290"
+feature = "wide-message-offsets"
+document = "wide-message-offsets.md"
+kind = "mips32le"
+offset = 0x8e290
+expected = "2130c600"
+replacement = "00000000"
+purpose = "Widen one message-bank offset-table operation to 32 bits."
+virtual_address = 0x8e210
+before = "addu a2, a2, a2"
+after = "nop"
+
+[[patch]]
+id = "wide-message-offsets-008e2a4"
+feature = "wide-message-offsets"
+document = "wide-message-offsets.md"
+kind = "mips32le"
+offset = 0x8e2a4
+expected = "00008294"
+replacement = "0000828c"
+purpose = "Widen one message-bank offset-table operation to 32 bits."
+virtual_address = 0x8e224
+before = "lhu v0, (a0)"
+after = "lw v0, (a0)"
+
+[[patch]]
+id = "wide-message-offsets-008e79c"
+feature = "wide-message-offsets"
+document = "wide-message-offsets.md"
+kind = "mips32le"
+offset = 0x8e79c
+expected = "21208400"
+replacement = "80200400"
+purpose = "Widen one message-bank offset-table operation to 32 bits."
+virtual_address = 0x8e71c
+before = "addu a0, a0, a0"
+after = "sll a0, a0, 2"
+
+[[patch]]
+id = "wide-message-offsets-008e7a4"
+feature = "wide-message-offsets"
+document = "wide-message-offsets.md"
+kind = "mips32le"
+offset = 0x8e7a4
+expected = "00008494"
+replacement = "0000848c"
+purpose = "Widen one message-bank offset-table operation to 32 bits."
+virtual_address = 0x8e724
+before = "lhu a0, (a0)"
+after = "lw a0, (a0)"
+
+[[patch]]
+id = "wide-message-offsets-008e8a4"
+feature = "wide-message-offsets"
+document = "wide-message-offsets.md"
+kind = "mips32le"
+offset = 0x8e8a4
+expected = "2130c600"
+replacement = "80300600"
+purpose = "Widen one message-bank offset-table operation to 32 bits."
+virtual_address = 0x8e824
+before = "addu a2, a2, a2"
+after = "sll a2, a2, 2"
+
+[[patch]]
+id = "wide-message-offsets-008e8b0"
+feature = "wide-message-offsets"
+document = "wide-message-offsets.md"
+kind = "mips32le"
+offset = 0x8e8b0
+expected = "0000c694"
+replacement = "0000c68c"
+purpose = "Widen one message-bank offset-table operation to 32 bits."
+virtual_address = 0x8e830
+before = "lhu a2, (a2)"
+after = "lw a2, (a2)"
+
+[[patch]]
+id = "wide-message-offsets-008f338"
+feature = "wide-message-offsets"
+document = "wide-message-offsets.md"
+kind = "mips32le"
+offset = 0x8f338
+expected = "ffff8430"
+replacement = "25208000"
+purpose = "Widen one message-bank offset-table operation to 32 bits."
+virtual_address = 0x8f2b8
+before = "andi a0, a0, 0xffff"
+after = "move a0, a0"
+
+[[patch]]
+id = "profile-biography-00713bc"
+feature = "profile-biography"
+document = "profile-biography.md"
+kind = "mips32le"
+offset = 0x713bc
+expected = "70023126"
+replacement = "b708113c"
+purpose = "Redirect the profile biography copy destination to the appended BSS buffer."
+virtual_address = 0x7133c
+before = "addiu s1, s1, 0x270"
+after = "lui s1, 0x8b7"
+
+[[patch]]
+id = "profile-biography-007165c"
+feature = "profile-biography"
+document = "profile-biography.md"
+kind = "mips32le"
+offset = 0x7165c
+expected = "c8040426"
+replacement = "b708043c"
+purpose = "Redirect the profile biography renderer source to the appended BSS buffer."
+virtual_address = 0x715dc
+before = "addiu a0, s0, 0x4c8"
+after = "lui a0, 0x8b7"
+
+[[patch]]
+id = "profile-biography-0145e88"
+feature = "profile-biography"
+document = "profile-biography.md"
+kind = "mips32le"
+offset = 0x145e88
+expected = "00080634"
+replacement = "00280634"
+purpose = "Increase each profile renderer glyph bucket from 128 to 640 glyphs."
+virtual_address = 0x145e08
+before = "ori a2, zero, 0x800"
+after = "ori a2, zero, 0x2800"
+
+[[patch]]
+id = "profile-biography-01564c4"
+feature = "profile-biography"
+document = "profile-biography.md"
+kind = "mips32le"
+offset = 0x1564c4
+expected = "80fdbd27"
+replacement = "80fabd27"
+purpose = "Grow the profile renderer stack frame for the expanded scratch region."
+virtual_address = 0x156444
+before = "addiu sp, sp, -0x280"
+after = "addiu sp, sp, -0x580"
+
+[[patch]]
+id = "profile-biography-0156564"
+feature = "profile-biography"
+document = "profile-biography.md"
+kind = "mips32le"
+offset = 0x156564
+expected = "2000b727"
+replacement = "8002b727"
+purpose = "Move the profile copied-text pointer into the expanded stack region."
+virtual_address = 0x1564e4
+before = "addiu s7, sp, 0x20"
+after = "addiu s7, sp, 0x280"
+
+[[patch]]
+id = "profile-biography-0156630"
+feature = "profile-biography"
+document = "profile-biography.md"
+kind = "mips32le"
+offset = 0x156630
+expected = "8002bd27"
+replacement = "8005bd27"
+purpose = "Adjust the first profile renderer stack restoration for the larger frame."
+virtual_address = 0x1565b0
+before = "addiu sp, sp, 0x280"
+after = "addiu sp, sp, 0x580"
+
+[[patch]]
+id = "profile-biography-01567b8"
+feature = "profile-biography"
+document = "profile-biography.md"
+kind = "mips32le"
+offset = 0x1567b8
+expected = "8002bd27"
+replacement = "8005bd27"
+purpose = "Adjust the second profile renderer stack restoration for the larger frame."
+virtual_address = 0x156738
+before = "addiu sp, sp, 0x280"
+after = "addiu sp, sp, 0x580"
+
+[[patch]]
+id = "profile-biography-0156834"
+feature = "profile-biography"
+document = "profile-biography.md"
+kind = "mips32le"
+offset = 0x156834
+expected = "200080a0"
+replacement = "800280a0"
+purpose = "Move the profile copied-text terminator into the expanded stack region."
+virtual_address = 0x1567b4
+before = "sb zero, 0x20(a0)"
+after = "sb zero, 0x280(a0)"
+
+[[patch]]
+id = "profile-biography-0156a04"
+feature = "profile-biography"
+document = "profile-biography.md"
+kind = "mips32le"
+offset = 0x156a04
+expected = "8002bd27"
+replacement = "8005bd27"
+purpose = "Adjust the final profile renderer stack restoration for the larger frame."
+virtual_address = 0x156984
+before = "addiu sp, sp, 0x280"
+after = "addiu sp, sp, 0x580"

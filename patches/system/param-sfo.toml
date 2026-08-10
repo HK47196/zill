@@ -1,0 +1,12 @@
+format = "zill-param-sfo-patch"
+version = 1
+target = "PARAM.SFO"
+source_sha256 = "1b34f1ac553c319381bb033708facb7d6643e58403fc559a828e2663b477a404"
+source_size = 472
+magic = 0x46535000
+sfo_version = 0x00000101
+expected_absent_key = "MEMSIZE"
+append_key = "MEMSIZE"
+entry_format = 0x0404
+value = 1
+alignment = 16

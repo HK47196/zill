@@ -1,0 +1,61 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2070000"]
+japanese = "異種族間の１用開始<end>"
+english = ""
+
+["2070001"]
+japanese = "きゃーっ！！\u3000誰かーっ！！<end>"
+english = "Aah! Somebody!<end>"
+
+["2070002"]
+japanese = "誰かッ！\u3000助けてーッ！！<end>"
+english = "Somebody! Help me!<end>"
+
+["2070003"]
+japanese = "待ってろ。今、助けてやる！！<end>"
+english = "Hold on! I'm coming!<end>"
+
+["2070004"]
+japanese = "俺の後ろから絶対に離れるな！<end>"
+english = "Stay behind me, no matter what!<end>"
+
+["2070005"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["2070006"]
+japanese = "おう、手を貸してくれるのか？<line-break>助かるね。<end>"
+english = "Oh, you're lending a hand? I could use the help.<end>"
+
+["2070007"]
+japanese = "もう大丈夫だ。ケガはないか？<end>"
+english = "You're safe now. Are you hurt?<end>"
+
+["2070008"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["2070009"]
+japanese = "ちぇっ、無愛想な娘だな…。<line-break>礼も言わずに逃げちまった。<line-break>俺ってそんなに恐い顔してたかな。<line-break>んっ…！？\u3000これは…。<end>"
+english = "Sheesh, what an unfriendly girl. Ran off without even saying thanks. Do I really look that scary? Hm? What's this...?<end>"
+
+["2070010"]
+japanese = "ペンダント…？\u3000あの娘の物か？<end>"
+english = "A pendant...? Is it hers?<end>"
+
+["2070011"]
+japanese = "それはそうと、ありがとよ。<line-break>おかげで俺も助かったぜ。<end>"
+english = "Anyway, thanks. You got me out of a tight spot too.<end>"
+
+["2070012"]
+japanese = "悲鳴を聞いて思わず飛び出しちまったが<line-break>魔物に勝てるか<line-break>ちょっと自信がなかったんだ。<line-break>ハハッ。俺はアミラルのヒューズ。<line-break>見ての通り冒険者だ。<end>"
+english = "I heard the scream and rushed in without thinking, but I wasn't too sure I was a match for monsters. Ha! I'm Hughes, from Amiral. As you can see, I'm an adventurer.<end>"
+
+["2070013"]
+japanese = "<value:$28>っていうのか。<line-break>身のこなしでわかっていたが<line-break>やっぱりあんたもご同業か。<line-break>よろしくな、<value:$28>。<line-break>普段はアミラルの酒場にいるから、<line-break>近くに来たら、寄ってくれ。<line-break>お礼に一杯、ごちそうするよ。<line-break>じゃあな！<end>"
+english = "So you're <value:$28>. I could tell by the way you move―you're an adventurer too, then. Good to meet you, <value:$28>. I'm usually at the tavern in Amiral, so stop by if you're ever nearby. I'll buy you a drink to thank you. See you around!<end>"
+
+["2070014"]
+japanese = "異種族間の１用終端<end>"
+english = ""

@@ -1,0 +1,173 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2560000"]
+japanese = "PSP用ロジクーニンが残した研究02用開始<end>"
+english = ""
+
+["2560001"]
+japanese = "さぁて、いよいよ世紀の実験の<line-break>始まりよ。<end>"
+english = "All right, the experiment of the century is about to begin!<end>"
+
+["2560002"]
+japanese = "じゃあ、<value:$28><line-break>さっそく手伝って。<line-break>ここに首飾りをかざしてほしいの。<end>"
+english = "All right, <value:$28>, give me a hand. Hold the necklace up right here for me.<end>"
+
+["2560003"]
+japanese = "あらあら…。本当にやってるのね。<line-break>\u3000<line-break>\u3000<line-break>下等生物の下等な実験なんて<line-break>アタクシこれっぽっちも興味ないし。<end>"
+english = "Oh, my... You really are going through with it. Not that I have the slightest interest in some pathetic experiment conducted by inferior life-forms.<end>"
+
+["2560004"]
+japanese = "つまらない実験で不様に失敗する<line-break>下等生物たちの姿を見物しにきて<line-break>あげたのよぉ！<line-break>この寛大なアタクシに<line-break>心から感謝することね。<end>"
+english = "I simply graced you with my presence to watch a pack of inferior life-forms fail miserably at their dreary little experiment! You should be thanking me from the bottom of your hearts for my generosity.<end>"
+
+["2560005"]
+japanese = "その角度で大丈夫よ。<line-break><value:$28>。<line-break>えーと、それから次は…。<end>"
+english = "That angle is fine, <value:$28>. Now, let's see... What comes next?<end>"
+
+["2560006"]
+japanese = "…って、ちょっとぉ！<line-break>アタクシを無視して実験を<line-break>進めないでちょうだい！<end>"
+english = "H-Hey, wait! Don't just ignore me and carry on with the experiment!<end>"
+
+["2560007"]
+japanese = "…な、何なの！？<end>"
+english = "W-What is it?!<end>"
+
+["2560008"]
+japanese = "きゃっ！\u3000やったわ！<line-break>実験大成功！<end>"
+english = "Eee! It worked! The experiment was a complete success!<end>"
+
+["2560009"]
+japanese = "こ、これのどこが成功なのよォ！？<line-break>下等生物が、さらに下等な生物を<line-break>呼び出しただけでしょうが！<end>"
+english = "H-How is this a success?! You inferior life-form just summoned one even lower than yourself!<end>"
+
+["2560010"]
+japanese = "ううん！\u3000実験は大成功！<line-break>ちゃんとこの世界と異世界を<line-break>次元の穴でつないだんだもの！<line-break>ふふっ。教授たちの驚く顔が<line-break>目に浮かんじゃう。<line-break>私ってやっぱ天才かも、きゃっ！<end>"
+english = "No, the experiment was a complete success! It connected this world to another through a dimensional rift! Hee hee. I can already picture the professors' faces. Maybe I really am a genius. Eee!<end>"
+
+["2560011"]
+japanese = "…と、とにかく！<line-break>高貴なアタクシをこんな目に遭わせて<line-break>許されると思ってるのー！？<line-break>ほらっ、さっさと何とかしなさいよぉ！<end>"
+english = "A-Anyway! Do you think you can get away with subjecting someone as noble as me to this?! Come on, do something about it at once!<end>"
+
+["2560012"]
+japanese = "うーん、どうしようかな…。<line-break>まだ成功の余韻にひたっていたいけど…。<line-break>でも、後片づけはしなくっちゃね。<end>"
+english = "Hmm, what should I do...? I'd like to bask in my success a little longer... but I suppose I have to clean up afterward.<end>"
+
+["2560013"]
+japanese = "さあ、元の世界にお帰りなさい！<end>"
+english = "Now, off you go! Back to your own world!<end>"
+
+["2560014"]
+japanese = "…あ、あれ？<line-break>おかしいな、戻らない…。<end>"
+english = "H-Huh? That's strange. It's not going back...<end>"
+
+["2560015"]
+japanese = "ちょ、ちょっと…。<line-break>…ど、どうなってるのよぉ！？<line-break>早く何とかしなさいってば！！<end>"
+english = "W-Wait... What's going on?! Hurry up and do something!<end>"
+
+["2560016"]
+japanese = "まあ、魔道の発展には<line-break>多少の犠牲はつきものかも。<line-break>きゃっ！<end>"
+english = "Well, perhaps some sacrifice is inevitable in the advancement of the magical arts. Eek!<end>"
+
+["2560017"]
+japanese = "…このアタクシを下等生物の爆発に<line-break>巻き込むなんて……許せないわ！<end>"
+english = "How dare you get me caught in an inferior life-form's explosion... This is unforgivable!<end>"
+
+["2560018"]
+japanese = "ご、ごめんなさーい…。<end>"
+english = "I-I'm so sorry...<end>"
+
+["2560019"]
+japanese = "だいたい、あんたはいつも…。<line-break>………………。<end>"
+english = "Honestly, you're always...<end>"
+
+["2560020"]
+japanese = "<value:$28>は気絶したフェティを<line-break>宿屋まで担いで帰った。<line-break><value:$28>のＳＴＲが１上がった。<line-break>ユーリスは高度な実験に成功した。<line-break>ユーリスのＩＮＴが１上がった。<line-break>ユーリスのＭＩＮが１上がった。<end>"
+english = "<value:$28> carried the unconscious Fety back to the inn. <value:$28>'s ＳＴＲ increased by 1. Julls succeeded in conducting an advanced experiment. Julls's ＩＮＴ increased by 1. Julls's ＭＩＮ increased by 1.<end>"
+
+["2560021"]
+japanese = "あれだけ誘ったのに<line-break>誰も来ないなんて…。<line-break>\u3000<line-break>一生に一度見られるかどうかの<line-break>歴史的な瞬間なのに…。<end>"
+english = "After I tried so hard to get people to come, not one person showed up... This may be the only chance in a lifetime to witness a historic moment like this...<end>"
+
+["2560022"]
+japanese = "来るわけないでしょ！<line-break>まったく、バカバカしいにも<line-break>ほどがあるわ…。<line-break>アタクシ仕方なくついて来ただけよ。<line-break>せいぜい感謝することね。<end>"
+english = "Of course no one came! The whole thing is too absurd for words... I only tagged along because I had no choice. You should be grateful.<end>"
+
+["2560023"]
+japanese = "さぁて、いよいよ世紀の実験の<line-break>始まりよ。<end>"
+english = "All right, the experiment of the century is about to begin!<end>"
+
+["2560024"]
+japanese = "じゃあ、<value:$28><line-break>さっそく手伝って。<line-break>ここに首飾りをかざしてほしいの。<end>"
+english = "All right, <value:$28>, give me a hand. Hold the necklace up right here for me.<end>"
+
+["2560025"]
+japanese = "どうせ失敗するのがオチなんだから。<line-break>つまらないわ。ホントつまらない。<end>"
+english = "It's bound to end in failure anyway. How dull. Utterly dull.<end>"
+
+["2560026"]
+japanese = "その角度で大丈夫よ、<line-break><value:$28>。<line-break>えーと、それから次は…。<end>"
+english = "That angle is fine, <value:$28>. Now, let's see... What comes next?<end>"
+
+["2560027"]
+japanese = "…って、ちょっとぉ！<line-break>アタクシを無視して実験を<line-break>進めないでちょうだい！<end>"
+english = "H-Hey, wait! Don't just ignore me and carry on with the experiment!<end>"
+
+["2560028"]
+japanese = "…な、何なの！？<end>"
+english = "W-What is it?!<end>"
+
+["2560029"]
+japanese = "きゃっ！\u3000やったわ！<line-break>実験大成功！<end>"
+english = "Eee! It worked! The experiment was a complete success!<end>"
+
+["2560030"]
+japanese = "こ、これのどこが成功なのよォ！？<line-break>下等生物が、さらに下等な生物を<line-break>呼び出しただけでしょうが！<end>"
+english = "H-How is this a success?! You inferior life-form just summoned one even lower than yourself!<end>"
+
+["2560031"]
+japanese = "ううん！\u3000実験は大成功！<line-break>ちゃんとこの世界と異世界を<line-break>次元の穴でつないだんだもの！<line-break>ふふっ。教授たちの驚く顔が<line-break>目に浮かんじゃう。<line-break>私ってやっぱ天才かも、きゃっ！<end>"
+english = "No, the experiment was a complete success! It connected this world to another through a dimensional rift! Hee hee. I can already picture the professors' faces. Maybe I really am a genius. Eee!<end>"
+
+["2560032"]
+japanese = "…と、とにかく！<line-break>高貴なアタクシをこんな目に遭わせて<line-break>許されると思ってるのー！？<line-break>ほらっ、さっさと何とかしなさいよぉ！<end>"
+english = "A-Anyway! Do you think you can get away with subjecting someone as noble as me to this?! Come on, do something about it at once!<end>"
+
+["2560033"]
+japanese = "うーん、どうしようかな…。<line-break>まだ成功の余韻にひたっていたいけど…。<line-break>でも、後片づけはしなくっちゃね。<end>"
+english = "Hmm, what should I do...? I'd like to bask in my success a little longer... but I suppose I have to clean up afterward.<end>"
+
+["2560034"]
+japanese = "さあ、元の世界にお帰りなさい！<end>"
+english = "Now, off you go! Back to your own world!<end>"
+
+["2560035"]
+japanese = "…あ、あれ？<line-break>おかしいな、戻らない…。<line-break><end>"
+english = "H-Huh? That's strange. It's not going back...<end>"
+
+["2560036"]
+japanese = "ちょ、ちょっと…。<line-break>…ど、どうなってるのよぉ！？<line-break>早く何とかしなさいってば！！<end>"
+english = "W-Wait... What's going on?! Hurry up and do something!<end>"
+
+["2560037"]
+japanese = "まあ、魔道の発展には<line-break>多少の犠牲はつきものかも。<line-break>きゃっ！<end>"
+english = "Well, perhaps some sacrifice is inevitable in the advancement of the magical arts. Eek!<end>"
+
+["2560038"]
+japanese = "…このアタクシを下等生物の爆発に<line-break>巻き込むなんて……許せないわ！<end>"
+english = "How dare you get me caught in an inferior life-form's explosion... This is unforgivable!<end>"
+
+["2560039"]
+japanese = "ご、ごめんなさーい…。<end>"
+english = "I-I'm so sorry...<end>"
+
+["2560040"]
+japanese = "だいたい、あんたはいつも…。<line-break>………………。<end>"
+english = "Honestly, you're always...<end>"
+
+["2560041"]
+japanese = "<value:$28>は気絶したフェティを<line-break>宿屋まで担いで帰った。<line-break>\u3000<line-break><value:$28>のＳＴＲが１上がった。<line-break>ユーリスは高度な実験に成功した。<line-break>\u3000<line-break>ユーリスのＩＮＴが１上がった。<line-break>ユーリスのＭＩＮが１上がった。<end>"
+english = "<value:$28> carried the unconscious Fety back to the inn. <value:$28>'s ＳＴＲ increased by 1. Julls succeeded in conducting an advanced experiment. Julls's ＩＮＴ increased by 1. Julls's ＭＩＮ increased by 1.<end>"
+
+["2560042"]
+japanese = "PSP用ロジクーニンが残した研究02用終端<end>"
+english = ""

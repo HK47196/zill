@@ -1,0 +1,385 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1070000"]
+japanese = "罠を発見しました。<end>"
+english = "Trap detected.<end>"
+
+["1070001"]
+japanese = "誰が開けますか？<end>"
+english = "Who will open it?<end>"
+
+["1070002"]
+japanese = "アンチハードル<end>"
+english = "Anti-Hurdle<end>"
+
+["1070003"]
+japanese = "○<end>"
+english = "○<end>"
+
+["1070004"]
+japanese = "×<end>"
+english = "×<end>"
+
+["1070005"]
+japanese = "？？？？？？？？？<end>"
+english = "?????????<end>"
+
+["1070006"]
+japanese = "アラーム<end>"
+english = "Alarm<end>"
+
+["1070007"]
+japanese = "呪いガス<end>"
+english = "Curse Gas<end>"
+
+["1070008"]
+japanese = "精神ダメージガス<end>"
+english = "Mental Damage Gas<end>"
+
+["1070009"]
+japanese = "フューパラライズ<end>"
+english = "Fyuparalyze<end>"
+
+["1070010"]
+japanese = "フューマスクス<end>"
+english = "Fumascus<end>"
+
+["1070011"]
+japanese = "隠し矢<end>"
+english = "Hidden Arrow<end>"
+
+["1070012"]
+japanese = "エクスプロージョン<end>"
+english = "Explosion<end>"
+
+["1070013"]
+japanese = "スイッチ系罠<end>"
+english = "Switch-Type Trap<end>"
+
+["1070014"]
+japanese = "魔法の宝箱<end>"
+english = "Magic Treasure Chest<end>"
+
+["1070015"]
+japanese = "華麗な手さばきで解除したため<line-break>ＤＥＸが<value:$1A>上がった。<end>"
+english = "Disarming it with impressive finesse increased ＤＥＸ by <value:$1A>.<end>"
+
+["1070016"]
+japanese = "<value:$1A>ギアを手に入れた。<end>"
+english = "Obtained <value:$1A> Gea.<end>"
+
+["1070017"]
+japanese = "<value:$15>を手に入れた。<end>"
+english = "<value:$15> obtained.<end>"
+
+["1070018"]
+japanese = "何かのスイッチが入った。<end>"
+english = "Some kind of switch was activated.<end>"
+
+["1070019"]
+japanese = "やあ。<line-break>お金をこの魔法の宝箱に入れてみないかい？<line-break>持ち金を増やすチャンスだよ。<end>"
+english = "Hello there. Why not put some money in this Magic Treasure Chest? You might end up with more money than you started with.<end>"
+
+["1070020"]
+japanese = "たしか、<value:$28>さんだよね。<line-break>お金をこの魔法の宝箱に入れてみないかい？<line-break>持ち金を増やすチャンスだよ。<end>"
+english = "You're <value:$28>, if I remember correctly. Why not put some money in this Magic Treasure Chest? You might end up with more money than you started with.<end>"
+
+["1070021"]
+japanese = "有名人の<value:$28>さんだね。<line-break>お金をこの魔法の宝箱に入れてみないかい？<line-break>持ち金を増やすチャンスだよ。<end>"
+english = "Why, it's the famous <value:$28>. Why not put some money in this Magic Treasure Chest? You might end up with more money than you started with.<end>"
+
+["1070022"]
+japanese = "所持金 %10uギア<end>"
+english = "Funds: %10u Gea<end>"
+
+["1070023"]
+japanese = "\u3000\u3000\u3000 %10uギア<end>"
+english = "%10u Gea<end>"
+
+["1070024"]
+japanese = "よし、やってみよう<end>"
+english = "All right, let's try it.<end>"
+
+["1070025"]
+japanese = "気が進まないな…<end>"
+english = "I don't really feel like it...<end>"
+
+["1070026"]
+japanese = "詳しく説明して<end>"
+english = "Tell me more.<end>"
+
+["1070027"]
+japanese = "  100ギア<end>"
+english = "100 Gea<end>"
+
+["1070028"]
+japanese = "  500ギア<end>"
+english = "500 Gea<end>"
+
+["1070029"]
+japanese = " 1000ギア<end>"
+english = "1,000 Gea<end>"
+
+["1070030"]
+japanese = "それじゃ、罠の難易度を決めるよ。<line-break><value:$15>を押したら、数字が止まる。<line-break>それが、今回の難易度になるんだ。<end>"
+english = "All right, let's set the trap's difficulty. Press <value:$15> to stop the number. The number it stops on will be the difficulty this time.<end>"
+
+["1070031"]
+japanese = "今回の罠の難易度は<value:$1A>だね。<line-break>解除に成功すれば中身のお金は<line-break>２倍になるから、がんばって！<end>"
+english = "This trap's difficulty is <value:$1A>. If you disarm it successfully, the money inside will be doubled, so good luck!<end>"
+
+["1070032"]
+japanese = "左右に移動する判定ラインは<line-break><value:$15>で止まります。<line-break>青色の領域に止まれば解除成功です。<end>"
+english = "The timing line moves left and right. Press <value:$15> to stop it. Stop it in the blue area to disarm the trap.<end>"
+
+["1070033"]
+japanese = "おめでとう。これで箱の中身は<line-break><value:$1A>ギアになったわけだ。<line-break>もう宝箱がいっぱいだよ。<end>"
+english = "Congratulations. That brings the chest's contents to <value:$1A> Gea. The treasure chest is full now.<end>"
+
+["1070034"]
+japanese = "もう少し宝箱を大きくしようかな。<line-break>また、持ち金を増やしたくなったら<line-break>来てくれよな。待ってるからさ。<end>"
+english = "Maybe I should make the treasure chest a little bigger. Come back whenever you want to build up your funds again. I'll be waiting.<end>"
+
+["1070035"]
+japanese = "おめでとう。これで箱の中身は<line-break><value:$1A>ギアになったわけだ。<line-break>これを箱に戻して、さらに増やしてみないかい？<end>"
+english = "Congratulations. The box now contains <value:$1A> Gea. How about putting it back in the box and seeing if you can make even more?<end>"
+
+["1070036"]
+japanese = "やめちゃうのかい。残念だな。<line-break>最後まで挑戦してほしかったのに。<end>"
+english = "You're quitting? That's a shame. I was hoping you'd see the challenge through to the end.<end>"
+
+["1070037"]
+japanese = "また、持ち金を増やしたくなったら<line-break>来てくれよな。待ってるからさ。<end>"
+english = "If you ever feel like making some more money, come on back. I'll be waiting.<end>"
+
+["1070038"]
+japanese = "惜しい！\u3000ちょっとタイミングがずれたね。<line-break>残念だけど、箱の中身は消えちゃったよ。<line-break>どうだい、もう一度挑戦してみないかい？<end>"
+english = "So close! Your timing was just a little off. I'm afraid everything in the chest has vanished. How about giving it another try?<end>"
+
+["1070039"]
+japanese = "そうかい、残念だな。<line-break>また、その気になったら来てよ。<end>"
+english = "All right. That's a shame. Come back if you ever change your mind.<end>"
+
+["1070040"]
+japanese = "これは魔法の宝箱でね。中にお金を入れてから、<line-break>仕掛けられている罠を解除して、開けると、<line-break>なんと！\u3000お金が２倍に増えているんだ。<line-break>ただし、罠の解除に失敗すると、<line-break>中に入れたお金は消えちゃうけどね。<line-break>それにしても、不思議な箱だろ？<end>"
+english = "This is a Magic Treasure Chest. Put some money inside, disarm the trap, and open it―and behold! Your money will have doubled. But if you fail to disarm the trap, all the money you put inside will vanish. Quite a mysterious chest, isn't it?<end>"
+
+["1070041"]
+japanese = "もちろん、これは魔法の宝箱だから<line-break>ディテクターなしで開けることができるよ。<line-break>もっともアンチハードルも役に立たないけどね。<line-break>だから、本当の実力勝負ってわけ。<line-break>で、やってみる気になったかい？<end>"
+english = "Of course, since this is a Magic Treasure Chest, you can open it without a Detector. Then again, an Anti-Hurdle won't do you any good either. It's a true test of skill. So, feel like giving it a try?<end>"
+
+["1070042"]
+japanese = "マヒガスが吹き出し<end>"
+english = "Paralysis gas burst out, and<end>"
+
+["1070043"]
+japanese = "はマヒした。<end>"
+english = "was paralyzed.<end>"
+
+["1070044"]
+japanese = "呪いガスが吹き出し<end>"
+english = "Curse gas burst out, and<end>"
+
+["1070045"]
+japanese = "は呪われた。<end>"
+english = "was cursed.<end>"
+
+["1070046"]
+japanese = "宝箱を開けるには、<color:e>ディテクター<color:f>のスキルが<line-break>使えなくてはいけません。<line-break><color:b>グレモリイ<color:f>のソウルを宿してください。<end>"
+english = "To open treasure chests, you must be able to use the <color:e>Detector<color:f> skill. Harbor <line-break><color:b>Gremory<color:f>'s Soul.<end>"
+
+["1070047"]
+japanese = "（ダメだ…。<line-break>罠の仕組みが複雑すぎて<line-break>解除できそうにない。）<end>"
+english = "(No... The trap's mechanism is too complicated. I don't think I can disarm it.)<end>"
+
+["1070048"]
+japanese = "この罠って難しすぎるわよ。<line-break>剣には自信があるけど、<line-break>こーゆー細かい作業って苦手なのよね。<end>"
+english = "This trap is far too difficult. I'm confident with a sword, but I've never been good at fiddly work like this.<end>"
+
+["1070049"]
+japanese = "うむ…これは難解な罠じゃな。<line-break>残念じゃが、わしの太い指では<line-break>やるだけ無駄というものじゃ。<end>"
+english = "Hmm... This is a fiendishly difficult trap. I'm afraid there is little point in even trying with fingers as thick as mine.<end>"
+
+["1070050"]
+japanese = "えー！！\u3000む、無理です！<line-break>こんなに難しそうな罠なんて<line-break>解除できっこないですよ。<end>"
+english = "What?! I-I can't! There's no way I could disarm a trap that looks this difficult!<end>"
+
+["1070051"]
+japanese = "なんじゃこりゃぁぁ！<line-break>複雑すぎて、さっぱりわかんねぇ。<line-break>解除できるヤツなんているのかよ。<end>"
+english = "What the hell is this?! It's so complicated, I can't make head or tail of it. Can anyone actually disarm this thing?<end>"
+
+["1070052"]
+japanese = "ゴメン…。<line-break>ボクじゃ役にたちそうもないや。<line-break>もっと修行しとけばよかったなー。<end>"
+english = "Sorry... I don't think I'll be much help. I should've trained harder.<end>"
+
+["1070053"]
+japanese = "恥ずかしいけど、ダメみたい…。<line-break>私の手に負える罠じゃないわ。<end>"
+english = "I'm embarrassed to admit it, but I can't do this... This trap is beyond me.<end>"
+
+["1070054"]
+japanese = "おや？\u3000私にやらせるのですか？<line-break>でも、失敗すると思いますよ。<line-break>罠の解除は苦手なもので。<end>"
+english = "Oh? You want me to do it? I expect I'll fail, though. Disarming traps isn't my forte.<end>"
+
+["1070055"]
+japanese = "無理無理、こんな複雑な罠。<line-break>あたしってば負ける戦は<line-break>しない主義なのよねぇ。<end>"
+english = "No, no. Not a trap this complicated. I make it a rule never to fight a losing battle.<end>"
+
+["1070056"]
+japanese = "姉ちゃんゴメン！<line-break>俺、解除する自信がないんだ。<line-break>だから勘弁してくれよ。<end>"
+english = "Sorry, sis! I'm not confident I can disarm it, so let me off this time, all right?<end>"
+
+["1070057"]
+japanese = "この罠、ずいぶん複雑な構造ね…。<line-break>正直言って私には解除できないわ。<line-break>もっと器用な人を選ぶべきじゃない？<end>"
+english = "This trap has an awfully complicated mechanism... To be honest, I can't disarm it. Shouldn't you choose someone with better hands for this?<end>"
+
+["1070058"]
+japanese = "まいったな…。<line-break>悪いが俺には解除不可能だ。<line-break>構造がさっぱりわかんねえよ。<end>"
+english = "This is bad... Sorry, but there's no way I can disarm it. I can't make any sense of the mechanism.<end>"
+
+["1070059"]
+japanese = "くそっ！<line-break>俺の手に負えない罠とはな…。<end>"
+english = "Damn it! A trap even I can't handle...<end>"
+
+["1070060"]
+japanese = "うむ、この罠はずいぶんと<line-break>やっかいな構造になっておるのう。<line-break>今のわしでは失敗しそうじゃぞ。<end>"
+english = "Hmm. This trap has a most troublesome mechanism. As I am now, I fear I would fail.<end>"
+
+["1070061"]
+japanese = "ごめん、<value:$28>…。<line-break>今の僕じゃ解除できそうもない。<line-break>役に立てなくてくやしいよ…。<end>"
+english = "I'm sorry, <value:$28>... I don't think I can disarm it as I am now. I hate not being able to help.<end>"
+
+["1070062"]
+japanese = "フフフ…<line-break>これは厄介な罠だな。<line-break>悪いが役に立てそうもない。<end>"
+english = "Heh heh... This is a troublesome trap. Sorry, but I doubt I'll be of any use.<end>"
+
+["1070063"]
+japanese = "なによ、なによ！<line-break>どーして高貴なエルフのあたくしが<line-break>汚らしい箱を触らなきゃいけないのよ！<end>"
+english = "What? What is this?! Why should a noble Elf such as I have to touch this filthy box?!<end>"
+
+["1070064"]
+japanese = "ふ、不覚なりぃ！<line-break>罠の仕組みが複雑すぎて、<line-break>ダジャレが思いつきませぬぅ！<end>"
+english = "A-a disgrace! The trap's mechanism is so complicated that I cannot even think of a pun!<end>"
+
+["1070065"]
+japanese = "ごめんねぇ、<value:$28>。<line-break>ルルアンタじゃ解除するのは、<line-break>無理みたいなの。<end>"
+english = "Sorry, <value:$28>. It looks like disarming this is too much for Lulluantha.<end>"
+
+["1070066"]
+japanese = "………………。<line-break>無理だ…。<end>"
+english = "...... I can't do it...<end>"
+
+["1070067"]
+japanese = "ちっ！<line-break>俺ともあろうものが、<line-break>罠のひとつも解除できんとはな…<end>"
+english = "Tch! To think that even I can't disarm a mere trap...<end>"
+
+["1070068"]
+japanese = "う～ん困ったなぁ。<line-break>手先の器用さには自信があるけど、<line-break>この罠は手に負えないみたい。<end>"
+english = "Hmm, this is a problem. I'm proud of my dexterity, but this trap seems beyond even me.<end>"
+
+["1070069"]
+japanese = "くっ！\u3000<line-break>この私に解除できない罠があるとは…。<end>"
+english = "Gah! To think there could be a trap that even I cannot disarm...<end>"
+
+["1070070"]
+japanese = "これは…<line-break>申し訳ありません。<line-break>私の手には負えないようです。<end>"
+english = "This is... My apologies. It appears to be beyond my abilities.<end>"
+
+["1070071"]
+japanese = "ごめんね。お兄ちゃん。<line-break>難しすぎて私には解除できないよ。<end>"
+english = "Sorry, big brother. It's too difficult for me to disarm.<end>"
+
+["1070072"]
+japanese = "むぅ…<line-break>絵画のようにはいかんようじゃ。<line-break>ワシの手に負えそうにないわい。<end>"
+english = "Hmm... This doesn't work like painting. It seems to be beyond me.<end>"
+
+["1070073"]
+japanese = "やれやれ…<line-break>ここまで複雑だとお手上げだ。<line-break>私も修行が足らないな。<end>"
+english = "Good grief... Something this complicated is beyond me. I still have much to learn.<end>"
+
+["1070074"]
+japanese = "この罠、複雑すぎて俺には無理だ。<line-break>昔からこういう作業は<line-break>得意じゃないんだ。<end>"
+english = "This trap is too complicated for me. I've never been good at this sort of work.<end>"
+
+["1070075"]
+japanese = "こういう作業は得意なんだけど、<line-break>この罠は複雑すぎて手に負えないわ。<line-break><end>"
+english = "I'm usually good at this sort of work, but this trap is too complicated for me.<end>"
+
+["1070076"]
+japanese = "私ではこの罠を<line-break>解除できそうにありません。<end>"
+english = "I don't believe I can disarm this trap.<end>"
+
+["1070077"]
+japanese = "難しくって私だと失敗しそうです。<line-break>お役に立てなくてすみません。<end>"
+english = "It's so difficult that I would probably fail. I'm sorry I can't be of help.<end>"
+
+["1070078"]
+japanese = "これは僕の手には負えないみたいだ。<line-break>力になれなくてすまない。<end>"
+english = "It seems this is beyond me. I'm sorry I can't help.<end>"
+
+["1070079"]
+japanese = "難易度<color:e><value:$1A><color:f>の罠が仕掛けられています。<line-break>罠の解除に挑戦するにはＤＥＸが<line-break><color:e><value:$1B><color:f>以上必要です。<end>"
+english = "Trap difficulty: <color:e><value:$1A><color:f>. To try disarming it, you need ＤＥＸ <line-break><color:e><value:$1B><color:f> or higher.<end>"
+
+["1070080"]
+japanese = "方向キーを下に入れると<line-break>判定ラインのスピードが遅くなります。<line-break>ただし、その間はＭＰを消費します。<end>"
+english = "Hold the D-pad down. The timing line slows, but MP drains.<end>"
+
+["1070081"]
+japanese = "はＨＰに大打撃を受けた。<end>"
+english = " took heavy ＨＰ damage.<end>"
+
+["1070082"]
+japanese = "はＨＰに大打撃を受けた。<end>"
+english = " took heavy ＨＰ damage.<end>"
+
+["1070083"]
+japanese = "はＭＰに大打撃を受けた。<end>"
+english = " took heavy ＭＰ damage.<end>"
+
+["1070084"]
+japanese = "L2ボタン<end>"
+english = "L2 button<end>"
+
+["1070085"]
+japanese = "R2ボタン<end>"
+english = "R2 button<end>"
+
+["1070086"]
+japanese = "L1ボタン<end>"
+english = "L1 Button<end>"
+
+["1070087"]
+japanese = "R1ボタン<end>"
+english = "R1 Button<end>"
+
+["1070088"]
+japanese = "③ボタン<end>"
+english = "③ Button<end>"
+
+["1070089"]
+japanese = "①ボタン<end>"
+english = "① Button<end>"
+
+["1070090"]
+japanese = "②ボタン<end>"
+english = "② Button<end>"
+
+["1070091"]
+japanese = "④ボタン<end>"
+english = "④ Button<end>"
+
+["1070092"]
+japanese = "SELECTボタン<end>"
+english = "SELECT Button<end>"
+
+["1070093"]
+japanese = "L3ボタン<end>"
+english = "L3 Button<end>"
+
+["1070094"]
+japanese = "R3ボタン<end>"
+english = "R3 Button<end>"
+
+["1070095"]
+japanese = "STARTボタン<end>"
+english = "START Button<end>"

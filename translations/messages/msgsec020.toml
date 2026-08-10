@@ -1,0 +1,2701 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["200000"]
+japanese = "アイテム<end>"
+english = "Items<end>"
+
+["200001"]
+japanese = " 魔   法<end>"
+english = "Magic<end>"
+
+["200002"]
+japanese = " 能力値<end>"
+english = "Stats<end>"
+
+["200003"]
+japanese = " 装   備<end>"
+english = "Equipment<end>"
+
+["200004"]
+japanese = " スキル<end>"
+english = "Skills<end>"
+
+["200005"]
+japanese = " ソウル<end>"
+english = "Soul<end>"
+
+["200006"]
+japanese = " 情   報<end>"
+english = "Information<end>"
+
+["200007"]
+japanese = "システム<end>"
+english = "System<end>"
+
+["200008"]
+japanese = "ｱﾝﾁﾊｰﾄﾞﾙ<end>"
+english = "Anti-Hurdle<end>"
+
+["200009"]
+japanese = "ｸｲｯｸｱｰﾂ<end>"
+english = "Quick Arts<end>"
+
+["200010"]
+japanese = "回復アイテム<end>"
+english = "Healing Item<end>"
+
+["200011"]
+japanese = "攻撃アイテム<end>"
+english = "Attack Item<end>"
+
+["200012"]
+japanese = "状態変化アイテム<end>"
+english = "Status Effect Item<end>"
+
+["200013"]
+japanese = "能力変化アイテム<end>"
+english = "Stat-Altering Item<end>"
+
+["200014"]
+japanese = "武器装備品<end>"
+english = "Weapons<end>"
+
+["200015"]
+japanese = "防具装備品<end>"
+english = "Armor<end>"
+
+["200016"]
+japanese = "特殊装備品<end>"
+english = "Special Equipment<end>"
+
+["200017"]
+japanese = "イベントアイテム<end>"
+english = "Event Items<end>"
+
+["200018"]
+japanese = "魔法を選択<end>"
+english = "Select Magic<end>"
+
+["200019"]
+japanese = "スキルを選択<end>"
+english = "Select a Skill<end>"
+
+["200020"]
+japanese = "ソウルポイントを配分<end>"
+english = "Allocate Soul Points<end>"
+
+["200021"]
+japanese = "ソウルを選択<end>"
+english = "Select a Soul<end>"
+
+["200022"]
+japanese = "引き受け中の仕事を確認<end>"
+english = "View Current Jobs<end>"
+
+["200023"]
+japanese = "相談内容を選択<end>"
+english = "Select a Consultation Topic<end>"
+
+["200024"]
+japanese = "だみぃ2_7<end>"
+english = ""
+
+["200025"]
+japanese = "だみぃ2_8<end>"
+english = ""
+
+["200026"]
+japanese = "下位の精霊魔法<end>"
+english = "Lower-tier spirit magic<end>"
+
+["200027"]
+japanese = "上位の精霊魔法<end>"
+english = "Higher-tier spirit magic<end>"
+
+["200028"]
+japanese = "ＨＰ回復系の魔法<end>"
+english = "Magic that restores ＨＰ<end>"
+
+["200029"]
+japanese = "神の力による、浄化と攻撃の魔法<end>"
+english = "Purification and attack magic powered by divine power<end>"
+
+["200030"]
+japanese = "複合精霊魔法<end>"
+english = "Combined spirit magic<end>"
+
+["200031"]
+japanese = "森羅万象の力を結集した最高魔法<end>"
+english = "The ultimate spell, drawing together the power of all creation<end>"
+
+["200032"]
+japanese = "邪悪な力による魔法<end>"
+english = "Magic powered by evil forces<end>"
+
+["200033"]
+japanese = "精神、ＭＰに影響を与える魔法<end>"
+english = "Magic that affects the mind and ＭＰ<end>"
+
+["200034"]
+japanese = "装備品に属性を付加する魔法<end>"
+english = "Magic that imbues equipment with an element<end>"
+
+["200035"]
+japanese = "チャージにより発動するスキル<end>"
+english = "Skills activated by charging<end>"
+
+["200036"]
+japanese = "攻撃を行うスキル<end>"
+english = "Skills used to attack<end>"
+
+["200037"]
+japanese = "特殊な行動や、コマンドの補助となるスキル<end>"
+english = "Skills for special actions and command support<end>"
+
+["200038"]
+japanese = "究極のソウルにより使用できるスキル<end>"
+english = "Skills available through Ultimate Soul<end>"
+
+["200039"]
+japanese = "魔法を使用するスキル<end>"
+english = "Skills that use magic<end>"
+
+["200040"]
+japanese = "自動的に効果が発動するスキル<end>"
+english = "Skills whose effects activate automatically<end>"
+
+["200041"]
+japanese = "ポイント配分<end>"
+english = "Point Allocation<end>"
+
+["200042"]
+japanese = "ソウル変更<end>"
+english = "Change Soul<end>"
+
+["200043"]
+japanese = "ソウルポイント<end>"
+english = "Soul Points<end>"
+
+["200044"]
+japanese = "ｿｳﾙﾎﾟｲﾝﾄ<end>"
+english = "Soul Points<end>"
+
+["200045"]
+japanese = "Braveにポイントを配分<end>"
+english = "Allocate Points to Brave<end>"
+
+["200046"]
+japanese = "Kindにポイントを配分<end>"
+english = "Allocate Points to Kind<end>"
+
+["200047"]
+japanese = "Searchにポイントを配分<end>"
+english = "Allocate Points to Search<end>"
+
+["200048"]
+japanese = "Beliefにポイントを配分<end>"
+english = "Allocate Points to Belief<end>"
+
+["200049"]
+japanese = "Wildにポイントを配分<end>"
+english = "Allocate Points to Wild<end>"
+
+["200050"]
+japanese = "Coolにポイントを配分<end>"
+english = "Allocate Points to Cool<end>"
+
+["200051"]
+japanese = "アイテムを見る<end>"
+english = "View Items<end>"
+
+["200052"]
+japanese = "魔法を見る<end>"
+english = "View Magic<end>"
+
+["200053"]
+japanese = "パーティーの能力値を表示<end>"
+english = "View Party Stats<end>"
+
+["200054"]
+japanese = "装備を変更<end>"
+english = "Change Equipment<end>"
+
+["200055"]
+japanese = "スキルを習得<end>"
+english = "Learn Skills<end>"
+
+["200056"]
+japanese = "ソウルポイント配分と、ソウルの変更<end>"
+english = "Manage Soul Points/Souls<end>"
+
+["200057"]
+japanese = "引き受けている仕事の確認と、相談<end>"
+english = "Review and Discuss Jobs<end>"
+
+["200058"]
+japanese = "セーブ・ロード、人物・歴史の閲覧、環境設定<end>"
+english = "Saves, Records, Settings<end>"
+
+["200059"]
+japanese = "データのセーブを実行<end>"
+english = "Save Data<end>"
+
+["200060"]
+japanese = "データのロードを実行<end>"
+english = "Load Data<end>"
+
+["200061"]
+japanese = "人物のデータを閲覧<end>"
+english = "View Character Data<end>"
+
+["200062"]
+japanese = "事件のデータを閲覧<end>"
+english = "View Incident Data<end>"
+
+["200063"]
+japanese = "プレイ環境の設定<end>"
+english = "Configure Game Settings<end>"
+
+["200064"]
+japanese = "メッセージを表示する速さ設定<end>"
+english = "Set Message Display Speed<end>"
+
+["200065"]
+japanese = "コントローラのボタンを設定<end>"
+english = "Configure Controller Buttons<end>"
+
+["200066"]
+japanese = "コントローラの振動のＯＮ／ＯＦＦ設定<end>"
+english = "Turn Controller Vibration ＯＮ／ＯＦＦ<end>"
+
+["200067"]
+japanese = "サウンドのステレオ／モノラル設定<end>"
+english = "Set Sound to Stereo or Mono<end>"
+
+["200068"]
+japanese = "ＢＧＭの音量調節<end>"
+english = "Adjust ＢＧＭ Volume<end>"
+
+["200069"]
+japanese = "ＳＥの音量調節<end>"
+english = "Adjust ＳＥ Volume<end>"
+
+["200070"]
+japanese = "画面の位置と明るさ調節<end>"
+english = "Adjust Screen Position and Brightness<end>"
+
+["200071"]
+japanese = "方向キー上下左右で画面位置調整<end>"
+english = "Use the directional buttons to adjust the screen position<end>"
+
+["200072"]
+japanese = "セーブファイルを選択"
+english = "Select a Save File"
+
+["200073"]
+japanese = "ロードファイルを選択"
+english = "Select a File to Load"
+
+["200074"]
+japanese = "□隊列変更"
+english = "□ Change Formation"
+
+["200075"]
+japanese = "□並替"
+english = "□ Reorder"
+
+["200076"]
+japanese = "\u3000"
+english = ""
+
+["200077"]
+japanese = "×閉じる\u3000○閉じる"
+english = "× Close  ○ Close"
+
+["200078"]
+japanese = "□初期化"
+english = "□ Reset"
+
+["200079"]
+japanese = "\u3000"
+english = ""
+
+["200080"]
+japanese = "ページ切替１<end>"
+english = "Page Switch 1<end>"
+
+["200081"]
+japanese = "クイックヘルプ<end>"
+english = "Quick Help<end>"
+
+["200082"]
+japanese = "なし<end>"
+english = "None<end>"
+
+["200083"]
+japanese = "ページ切替２<end>"
+english = "Page Switch 2<end>"
+
+["200084"]
+japanese = "メニュー<end>"
+english = "Menu<end>"
+
+["200085"]
+japanese = "決定<end>"
+english = "Confirm<end>"
+
+["200086"]
+japanese = "キャンセル<end>"
+english = "Cancel<end>"
+
+["200087"]
+japanese = "特殊<end>"
+english = "Special<end>"
+
+["200088"]
+japanese = "START<end>"
+english = "START<end>"
+
+["200089"]
+japanese = "SELECT<end>"
+english = "SELECT<end>"
+
+["200090"]
+japanese = "隊列を変更<end>"
+english = "Change Formation<end>"
+
+["200091"]
+japanese = "キャラクターを選択<end>"
+english = "Select Character<end>"
+
+["200092"]
+japanese = "<end>"
+english = ""
+
+["200093"]
+japanese = "眠り５０％回避<end>"
+english = "50% chance to avoid Sleep<end>"
+
+["200094"]
+japanese = "マヒ５０％回避<end>"
+english = "50% chance to avoid Paralysis<end>"
+
+["200095"]
+japanese = "石化５０％回避<end>"
+english = "50% chance to avoid Petrification<end>"
+
+["200096"]
+japanese = "暗闇５０％回避<end>"
+english = "50% chance to avoid Blindness<end>"
+
+["200097"]
+japanese = "混乱５０％回避<end>"
+english = "50% chance to avoid Confusion<end>"
+
+["200098"]
+japanese = "幻覚５０％回避<end>"
+english = "50% chance to avoid Hallucination<end>"
+
+["200099"]
+japanese = "毒５０％回避<end>"
+english = "50% chance to avoid Poison<end>"
+
+["200100"]
+japanese = "沈黙５０％回避<end>"
+english = "50% chance to avoid Silence<end>"
+
+["200101"]
+japanese = "呪い５０％回避<end>"
+english = "50% chance to avoid Curse<end>"
+
+["200102"]
+japanese = "速度低下５０％回避<end>"
+english = "50% chance to avoid reduced Speed<end>"
+
+["200103"]
+japanese = "死の呪い５０％回避<end>"
+english = "50% chance to avoid Death Curse<end>"
+
+["200104"]
+japanese = "ＨＰ５％回復／ターン<end>"
+english = "Restores 5% ＨＰ per turn<end>"
+
+["200105"]
+japanese = "ＭＰ３％回復／ターン<end>"
+english = "Restores 3% ＭＰ per turn<end>"
+
+["200106"]
+japanese = "戦闘不能時に復活する<end>"
+english = "Revives when incapacitated<end>"
+
+["200107"]
+japanese = "気絶時にＭＰ全回復<end>"
+english = "Fully restores ＭＰ when stunned<end>"
+
+["200108"]
+japanese = "クリティカル率５０％<end>"
+english = "50% critical hit rate<end>"
+
+["200109"]
+japanese = "アイテムを選択<end>"
+english = "Select an Item<end>"
+
+["200110"]
+japanese = "捨てる装備品を選択<end>"
+english = "Select Equipment to Discard<end>"
+
+["200111"]
+japanese = "イベントアイテムを選択<end>"
+english = "Select an Event Item<end>"
+
+["200112"]
+japanese = "並べ方を選択<end>"
+english = "Choose a Sort Order<end>"
+
+["200113"]
+japanese = "種類順<end>"
+english = "By Type<end>"
+
+["200114"]
+japanese = "多い順<end>"
+english = "Most First<end>"
+
+["200115"]
+japanese = "少ない順<end>"
+english = "Fewest First<end>"
+
+["200116"]
+japanese = "自分で<end>"
+english = "Manual<end>"
+
+["200117"]
+japanese = "使う<end>"
+english = "Use<end>"
+
+["200118"]
+japanese = "捨てる<end>"
+english = "Discard<end>"
+
+["200119"]
+japanese = "ソート<end>"
+english = "Sort<end>"
+
+["200120"]
+japanese = "捨てる<end>"
+english = "Discard<end>"
+
+["200121"]
+japanese = "メッセージを表示する速さ設定<end>"
+english = "Set message display speed<end>"
+
+["200122"]
+japanese = "インストールのＯＮ／ＯＦＦ設定<end>"
+english = "Turn installation ＯＮ／ＯＦＦ<end>"
+
+["200123"]
+japanese = "サウンドのステレオ／モノラル設定<end>"
+english = "Set sound to stereo or mono<end>"
+
+["200124"]
+japanese = "ＢＧＭの音量調節<end>"
+english = "Adjust ＢＧＭ volume<end>"
+
+["200125"]
+japanese = "ＳＥの音量調節<end>"
+english = "Adjust ＳＥ volume<end>"
+
+["200126"]
+japanese = "画面の位置と明るさ調節<end>"
+english = "Adjust screen position and brightness<end>"
+
+["200127"]
+japanese = "設定を反映して完了<end>"
+english = "Apply settings and finish<end>"
+
+["200128"]
+japanese = "すべての設定を初期の状態に戻す<end>"
+english = "Restore all default settings<end>"
+
+["200129"]
+japanese = "片手剣<end>"
+english = "One-Handed Sword<end>"
+
+["200130"]
+japanese = "両手剣<end>"
+english = "Two-Handed Sword<end>"
+
+["200131"]
+japanese = "長柄武器<end>"
+english = "Polearm<end>"
+
+["200132"]
+japanese = "斧<end>"
+english = "Axe<end>"
+
+["200133"]
+japanese = "小刀<end>"
+english = "Dagger<end>"
+
+["200134"]
+japanese = "弓<end>"
+english = "Bow<end>"
+
+["200135"]
+japanese = "拳器<end>"
+english = "Fist Weapon<end>"
+
+["200136"]
+japanese = "盾<end>"
+english = "Shield<end>"
+
+["200137"]
+japanese = "布製防具<end>"
+english = "Cloth Armor<end>"
+
+["200138"]
+japanese = "胸当て<end>"
+english = "Breastplate<end>"
+
+["200139"]
+japanese = "胴鎧<end>"
+english = "Torso Armor<end>"
+
+["200140"]
+japanese = "全身鎧<end>"
+english = "Full-Body Armor<end>"
+
+["200141"]
+japanese = "アクセサリー<end>"
+english = "Accessory<end>"
+
+["200142"]
+japanese = "封印されています<end>"
+english = "This spell is sealed.<end>"
+
+["200143"]
+japanese = "はい<end>"
+english = "Yes<end>"
+
+["200144"]
+japanese = "いいえ<end>"
+english = "No<end>"
+
+["200145"]
+japanese = "アイテム<end>"
+english = "Items<end>"
+
+["200146"]
+japanese = "装備<end>"
+english = "Equipment<end>"
+
+["200147"]
+japanese = "イベント<end>"
+english = "Events<end>"
+
+["200148"]
+japanese = "選択<end>"
+english = "Select<end>"
+
+["200149"]
+japanese = "決定<end>"
+english = "Confirm<end>"
+
+["200150"]
+japanese = "キャンセル<end>"
+english = "Cancel<end>"
+
+["200151"]
+japanese = "はい<end>"
+english = "Yes<end>"
+
+["200152"]
+japanese = "いいえ<end>"
+english = "No<end>"
+
+["200153"]
+japanese = "次へ<end>"
+english = "Next<end>"
+
+["200154"]
+japanese = "戻る<end>"
+english = "Back<end>"
+
+["200155"]
+japanese = "表示切替<end>"
+english = "Switch View<end>"
+
+["200156"]
+japanese = "戦闘開始<end>"
+english = "Start Battle<end>"
+
+["200157"]
+japanese = "種類選択<end>"
+english = "Select Type<end>"
+
+["200158"]
+japanese = "対象選択<end>"
+english = "Select Target<end>"
+
+["200159"]
+japanese = "隊列変更<end>"
+english = "Change Formation<end>"
+
+["200160"]
+japanese = "人物切替<end>"
+english = "Switch Character<end>"
+
+["200161"]
+japanese = "全身表示<end>"
+english = "Full-Body View<end>"
+
+["200162"]
+japanese = "扱いやすい片手剣\u3000ダブルブレードで二刀流可能<end>"
+english = "Easy-to-use one-handed sword. Enables Dual Wielding with Double Blade.<end>"
+
+["200163"]
+japanese = "両手持ちの大きな剣\u3000少々重いが威力は高い<end>"
+english = "A large two-handed sword. Slightly heavy, but very powerful.<end>"
+
+["200164"]
+japanese = "両手持ちの槍\u3000射程が少し長い<end>"
+english = "A two-handed spear with slightly longer reach.<end>"
+
+["200165"]
+japanese = "両手持ちの斧\u3000最も威力が高い反面、重い<end>"
+english = "A two-handed axe. It has the highest power, but is also heavy.<end>"
+
+["200166"]
+japanese = "軽く短めの剣\u3000ダブルブレードで二刀流可能<end>"
+english = "A light, short sword. Enables Dual Wielding with Double Blade.<end>"
+
+["200167"]
+japanese = "唯一の飛び道具\u3000遠くから攻撃可能<end>"
+english = "The only ranged weapon. Can attack from a distance.<end>"
+
+["200168"]
+japanese = "２連続攻撃可能の拳器\u3000クリティカルが出やすい<end>"
+english = "A fist weapon capable of two consecutive attacks, with a high critical-hit rate.<end>"
+
+["200169"]
+japanese = "騎士の証たる盾\u3000敵の攻撃を防ぐ<end>"
+english = "A shield symbolizing knighthood. Blocks enemy attacks.<end>"
+
+["200170"]
+japanese = "布でできた防具\u3000軽いが防御力は低い<end>"
+english = "Cloth armor. Light, but offers little protection.<end>"
+
+["200171"]
+japanese = "標準的な胸当て\u3000バランスの良い防具<end>"
+english = "A standard, well-balanced breastplate.<end>"
+
+["200172"]
+japanese = "上半身を守る胴鎧\u3000前列で戦う冒険者向け<end>"
+english = "Armor that protects the upper body, suited to adventurers fighting in the front row.<end>"
+
+["200173"]
+japanese = "全身を覆う鎧\u3000重いが防御力は最高<end>"
+english = "Full-body armor. Heavy, but offers the highest defense.<end>"
+
+["200174"]
+japanese = "素手<end>"
+english = "Unarmed<end>"
+
+["200175"]
+japanese = "月の光を宿し、精神を斬ることができる曲刀<end>"
+english = "A curved sword imbued with moonlight that can cut the spirit.<end>"
+
+["200176"]
+japanese = "伝説の英雄、剣聖イグザクスが愛用していた剣<end>"
+english = "A sword once favored by the legendary hero Igzax, the Sword Saint.<end>"
+
+["200177"]
+japanese = "月の満ち欠けの力を秘めた杖\u3000水の力を宿す<end>"
+english = "A staff holding the power of the moon's phases, imbued with the power of water.<end>"
+
+["200178"]
+japanese = "伝説の英雄、剣聖イグザクスが愛用していた剣<end>"
+english = "A sword once favored by the legendary hero Igzax, the Sword Saint.<end>"
+
+["200179"]
+japanese = "死神が持つような巨大なカマ\u3000扱いが難しい<end>"
+english = "A huge scythe like one wielded by a god of death. Difficult to handle.<end>"
+
+["200180"]
+japanese = "太陽の輝きを刃に宿した肉厚の短剣<end>"
+english = "A thick-bladed dagger imbued with the sun's radiance.<end>"
+
+["200181"]
+japanese = "ゼネテス愛用の大剣<end>"
+english = "A greatsword favored by Xenetes.<end>"
+
+["200182"]
+japanese = "仇なす者に絶望と破壊をもたらす闇の槍<end>"
+english = "A dark spear that brings despair and destruction to those who oppose it.<end>"
+
+["200183"]
+japanese = "精霊の力で「メンタルゲイン」の使用を助ける杖<end>"
+english = "A staff that uses the power of spirits to aid the use of “Mental Gain.”<end>"
+
+["200184"]
+japanese = "悶え苦しむという意味の名前を持つ小刀<end>"
+english = "A knife whose name means “writhing in agony.”<end>"
+
+["200185"]
+japanese = "戸惑いという意味の名前を持つ小刀<end>"
+english = "A knife whose name means “bewilderment.”<end>"
+
+["200186"]
+japanese = "炎の祝福を受けた剣\u3000攻撃するごとに力が溜まる<end>"
+english = "A sword blessed by fire. Gains power with every attack.<end>"
+
+["200187"]
+japanese = "名工カッツの妻ロッチナが鍛えた細身の剣<end>"
+english = "A slender sword forged by Rotchina, wife of the master smith Katz.<end>"
+
+["200188"]
+japanese = "力強く流れる激流のように敵を突き破る槍<end>"
+english = "A spear that pierces enemies like a mighty surging torrent.<end>"
+
+["200189"]
+japanese = "巨大な岩をも断ち砕く斧<end>"
+english = "An axe capable of cleaving even enormous boulders.<end>"
+
+["200190"]
+japanese = "疾風が突き抜けるように敵を刺し貫く弓<end>"
+english = "A bow that pierces enemies like a rushing gale.<end>"
+
+["200191"]
+japanese = "デルガドが鍛えた剣\u3000高い命中率を誇る<end>"
+english = "A sword forged by Dergado, boasting high accuracy.<end>"
+
+["200192"]
+japanese = "聖なる力で邪気を払う両手剣<end>"
+english = "A two-handed sword that dispels evil with holy power.<end>"
+
+["200193"]
+japanese = "戦鎚王ジンガ愛用の鎚\u3000作ったのもジンガ本人<end>"
+english = "A hammer forged and favored by Jinga, the Warhammer King.<end>"
+
+["200194"]
+japanese = "いばらが絡んだ杖\u3000まれに魔法の威力が高くなる<end>"
+english = "A staff entwined with thorns. Occasionally increases spell power.<end>"
+
+["200195"]
+japanese = "聖なる力を宿した鎚\u3000肉体と共に精神も攻撃する<end>"
+english = "A hammer imbued with holy power that attacks both body and spirit.<end>"
+
+["200196"]
+japanese = "イオンズが愛用しているメイス\u3000体力を維持する<end>"
+english = "A mace favored by Ions. Maintains vitality.<end>"
+
+["200197"]
+japanese = "破壊神が使った剣\u3000肉体を蝕み精神を高揚させる<end>"
+english = "A sword once wielded by the God of Destruction. Ravages the body while invigorating the spirit.<end>"
+
+["200198"]
+japanese = "「メガスラッシュ」が1チャージで使用可能<end>"
+english = "Allows “Mega Slash” to be used with 1 charge.<end>"
+
+["200199"]
+japanese = "英雄アリアロの魂が宿る槍\u3000相手の精神力を奪う<end>"
+english = "A spear housing the soul of the hero Ariaro. Drains the target's mental power.<end>"
+
+["200200"]
+japanese = "「ハイスラッシュ」がチャージ無しで使用可能<end>"
+english = "Allows “High Slash” to be used without charging.<end>"
+
+["200201"]
+japanese = "精霊を宿した草で編み上げられた衣<end>"
+english = "A garment woven from spirit-infused grass.<end>"
+
+["200202"]
+japanese = "魔術加工により、高い防御力を持つ胸当て鎧<end>"
+english = "A magically treated breastplate offering high defense.<end>"
+
+["200203"]
+japanese = "魔道アカデミー特注の、戦闘用婦人服<end>"
+english = "Women's combat attire custom-made by the Arcane Academy.<end>"
+
+["200204"]
+japanese = "黄金の意匠がなされた漆黒の全身鎧<end>"
+english = "Jet-black full-body armor adorned with golden designs.<end>"
+
+["200205"]
+japanese = "ライラネート神殿で清めた糸で編まれた衣<end>"
+english = "A garment woven from thread purified at Lailanate Temple.<end>"
+
+["200206"]
+japanese = "虚栄のために華美な装飾がなされた服<end>"
+english = "Clothing lavishly decorated for vanity's sake.<end>"
+
+["200207"]
+japanese = "エルフ族特有の技術で作られた軽いマント<end>"
+english = "A light cloak made using techniques unique to the Elves.<end>"
+
+["200208"]
+japanese = "施文院の上級暗殺者のみが着用を許される服<end>"
+english = "Attire reserved for senior assassins of the Shibun Institute.<end>"
+
+["200209"]
+japanese = "要所要所が金属で補強された革製の鎧<end>"
+english = "Leather armor reinforced with metal at key points.<end>"
+
+["200210"]
+japanese = "富裕階級の人が旅をする時に身につける外套<end>"
+english = "A cloak worn by the wealthy when traveling.<end>"
+
+["200211"]
+japanese = "魔法により拘束性を持たせている布製の軽鎧<end>"
+english = "Light cloth armor magically endowed with binding properties.<end>"
+
+["200212"]
+japanese = "太陽の輝きを刃に宿した肉厚の短剣<end>"
+english = "A thick-bladed dagger imbued with the sun's radiance.<end>"
+
+["200213"]
+japanese = "表面に古代文字がびっしりと刻まれている棒杖<end>"
+english = "A rod densely inscribed with ancient characters across its surface.<end>"
+
+["200214"]
+japanese = "「ハイメガスペル」を少ないチャージで使用可能<end>"
+english = "Allows “High Mega Spell” to be used with fewer charges.<end>"
+
+["200215"]
+japanese = "闇の炎を操り相手の精神力を吸い取る<end>"
+english = "Controls dark flames to drain the target's mental power.<end>"
+
+["200216"]
+japanese = "穂先に鉤爪のついた長槍<end>"
+english = "A long spear with a hooked claw on its head.<end>"
+
+["200217"]
+japanese = "木こりが使う、長時間の作業に適した作りの斧<end>"
+english = "A woodcutter's axe designed for long hours of work.<end>"
+
+["200218"]
+japanese = "竜を倒すために作られた剣\u3000気絶と麻痺を防ぐ<end>"
+english = "A sword made to slay dragons. Prevents Stun and Paralysis.<end>"
+
+["200219"]
+japanese = "風の力を宿した短剣\u3000行動回数が増える<end>"
+english = "A dagger imbued with the power of wind. Increases the number of actions.<end>"
+
+["200220"]
+japanese = "戦闘の1ターン目に素早さが倍になる<end>"
+english = "Doubles agility on the first turn of battle.<end>"
+
+["200221"]
+japanese = "双頭の竜を模した形をしている拳器<end>"
+english = "A fist weapon shaped like a two-headed dragon.<end>"
+
+["200222"]
+japanese = "伝説の英雄、剣聖イグザクスが愛用していた剣<end>"
+english = "A sword once favored by the legendary hero Igzax, the Sword Saint.<end>"
+
+["200223"]
+japanese = "伝説の英雄、剣聖イグザクスが愛用していた剣<end>"
+english = "A sword once favored by the legendary hero Igzax, the Sword Saint.<end>"
+
+["200224"]
+japanese = "オイフェの妹、エメルの形見\u3000軽くて扱いやすい<end>"
+english = "A keepsake from Emer, Aoife's younger sister. Light and easy to handle.<end>"
+
+["200225"]
+japanese = "酒場に置いてあったフライパン<end>"
+english = "A frying pan from a tavern.<end>"
+
+["200226"]
+japanese = "伝説の魔道器\u3000「イクスキュア」の使用を助ける<end>"
+english = "A legendary arcane device that aids the use of “Ex Cure.”<end>"
+
+["200227"]
+japanese = "炎の力を宿した手袋\u3000精神力を維持する<end>"
+english = "Gloves imbued with the power of fire. Maintain mental power.<end>"
+
+["200228"]
+japanese = "ジリオンの父親が遺した剣<end>"
+english = "A sword left behind by Zillion's father.<end>"
+
+["200229"]
+japanese = "「魂切の鎌」の折れた刃先を加工した短剣<end>"
+english = "A dagger fashioned from the broken blade tip of the “Soul-Cutting Scythe.”<end>"
+
+["200230"]
+japanese = "アイリーンが、亡き父から受け継いだ剣<end>"
+english = "A sword Irene inherited from her late father.<end>"
+
+["200231"]
+japanese = "「メガバースト」を少ないチャージで使用可能<end>"
+english = "Allows “Mega Burst” to be used with fewer charges.<end>"
+
+["200232"]
+japanese = "水の力を宿した拳器\u3000眠りを誘う効果がある<end>"
+english = "A fist weapon imbued with the power of water. Can induce Sleep.<end>"
+
+["200233"]
+japanese = "火の力を宿した拳器\u3000相手を混乱させる<end>"
+english = "A fist weapon imbued with the power of fire. Inflicts Confusion on the target.<end>"
+
+["200234"]
+japanese = "ヴァン愛用の素早い攻撃が可能な拳器<end>"
+english = "A fist weapon favored by Van, capable of swift attacks.<end>"
+
+["200235"]
+japanese = "ラドラスの遺跡から発掘された短剣<end>"
+english = "A dagger excavated from the ruins of Ladras.<end>"
+
+["200236"]
+japanese = "土の巫女の正装\u3000大地の攻撃から身を守る<end>"
+english = "The formal attire of the Earth Priestess. Protects against earth attacks.<end>"
+
+["200237"]
+japanese = "チャカがあり合わせの材料で作った槍<end>"
+english = "A spear Chaka made from whatever materials were available.<end>"
+
+["200238"]
+japanese = "暗闇を招く力を持つ暗黒の鎚<end>"
+english = "A dark hammer with the power to inflict Blindness.<end>"
+
+["200239"]
+japanese = "土の力を宿した軽くて扱いやすい槍<end>"
+english = "A light, easy-to-handle spear imbued with the power of earth.<end>"
+
+["200240"]
+japanese = "身につけた者の心の乱れを防ぐローブ<end>"
+english = "A robe that keeps the wearer's mind from becoming unsettled.<end>"
+
+["200241"]
+japanese = "ツィーネの森のエルフに伝わる風の力を宿した槍<end>"
+english = "A spear imbued with the power of wind, passed down among the Elves of Tsine Forest.<end>"
+
+["200242"]
+japanese = "軽くて扱いやすい短剣\u3000眠りを誘う効果がある<end>"
+english = "A light, easy-to-handle dagger that can induce Sleep.<end>"
+
+["200243"]
+japanese = "レルラ＝ロントンが愛用する炎の力を宿した弓<end>"
+english = "A bow imbued with the power of fire and favored by Relra-Lonton.<end>"
+
+["200244"]
+japanese = "施文院の大神官のみが着ることを許されたローブ<end>"
+english = "A robe reserved for holders of the rank of High Priest at the Shibun Institute.<end>"
+
+["200245"]
+japanese = "いつも酒場で身につけていたエプロンドレス<end>"
+english = "An apron dress habitually worn at the tavern.<end>"
+
+["200246"]
+japanese = "火の巫女の正装\u3000炎の攻撃から身を守る<end>"
+english = "The formal attire of the Fire Priestess. Protects against fire attacks.<end>"
+
+["200247"]
+japanese = "騎士の武器といえば、片手剣でしょ。<line-break>それに、こいつが一番使いやすいのよ。<end>"
+english = "For a knight, the weapon has to be a one-handed sword. Besides, this one is the easiest to use.<end>"
+
+["200248"]
+japanese = "断る。わしの経験上、斧こそが戦場で<line-break>もっとも役立つ武器じゃからな。<end>"
+english = "I refuse. In my experience, no weapon is more useful on the battlefield than an axe.<end>"
+
+["200249"]
+japanese = "エラーメッセージ\u3000片手剣<end>"
+english = "Error message: One-handed sword.<end>"
+
+["200250"]
+japanese = "燃える男ってもんは、拳で相手と<line-break>語り合うもんだぜ、こんちくしょう！<end>"
+english = "A hot-blooded man talks things out with his fists, damn it!<end>"
+
+["200251"]
+japanese = "ダ、ダメだよ、そんなに大きな武器は。<line-break>ボクは小刀でいいから…。<end>"
+english = "N-no, not a weapon that big. A dagger will do for me...<end>"
+
+["200252"]
+japanese = "私の弓の腕前を信用していないのか？<end>"
+english = "Do you not trust my skill with a bow?<end>"
+
+["200253"]
+japanese = "私が武器を持って戦うんですか？<line-break>武器なんて使ったことないんですよ。<end>"
+english = "You expect me to fight with a weapon? I've never even used one before.<end>"
+
+["200254"]
+japanese = "エラーメッセージ\u3000鎌<end>"
+english = "Error message: Scythe.<end>"
+
+["200255"]
+japanese = "姉ちゃん知らないのかよ。<line-break>俺って槍の扱いは、<line-break>なかなかのものなんだぜ。<end>"
+english = "Didn't you know, miss? I'm pretty handy with a spear.<end>"
+
+["200256"]
+japanese = "あら、武器なんてなくても大丈夫よ。<line-break>私には魔法の力があるから。<end>"
+english = "Oh, I'll be fine without a weapon. I have the power of magic, after all.<end>"
+
+["200257"]
+japanese = "両手剣が俺のトレードマークなんでね。<line-break>他の武器だと偽物扱いされちまうだろ。<end>"
+english = "A two-handed sword is my trademark. If I used anything else, people would call me a fake.<end>"
+
+["200258"]
+japanese = "片手剣以外、使うつもりはない。<line-break>言いたいことはそれだけだ。<end>"
+english = "I have no intention of using anything but a one-handed sword. That's all I have to say.<end>"
+
+["200259"]
+japanese = "わしは、戦いに使うなら斧が一番じゃと<line-break>思っとる。他の武器は軽くていかん。<end>"
+english = "For fighting, I say an axe is best. Other weapons are simply too light.<end>"
+
+["200260"]
+japanese = "コーンスの武器は槍が一番だって、<line-break>お爺ちゃんがいってたんだ。<end>"
+english = "Grandpa said a spear is the best weapon for Kohns.<end>"
+
+["200261"]
+japanese = "槍ではだめか？<line-break>私にはふさわしい武器だと思うのだが。<end>"
+english = "Would a spear not do? I believe it is a fitting weapon for me.<end>"
+
+["200262"]
+japanese = "こんな武器じゃ、優雅な戦いができない<line-break>じゃない。どうして槍じゃダメなのよ！<end>"
+english = "I can't fight elegantly with a weapon like this. Why can't I use a spear?!<end>"
+
+["200263"]
+japanese = "オーノー！\u3000斧にしてんかー。<line-break>兄弟子…ダメでござるか？<end>"
+english = "Oh no! Make it an axe! Senior disciple... is that not allowed?<end>"
+
+["200264"]
+japanese = "そんなに、おっきな武器じゃなくても<line-break>大丈夫だよぉ。小刀でも戦えるからぁ。<end>"
+english = "I don't need such a biiig weapon. I can fight with a dagger toooo.<end>"
+
+["200265"]
+japanese = "…片手剣に…しろ。<end>"
+english = "...Make it... a one-handed sword.<end>"
+
+["200266"]
+japanese = "俺の剣技は二刀流…片手剣でなくては<line-break>意味がない。知らぬわけではあるまい。<end>"
+english = "My sword technique is Dual Wielding... Without one-handed swords, it's pointless. Surely you know that.<end>"
+
+["200267"]
+japanese = "そんなーっ！<line-break>弓の腕前を信じてくれてないなんて…<line-break>ぼく、落ち込んじゃうよ。<end>"
+english = "No waaay! You don't trust my skill with a bow... Now I'm really bummed out.<end>"
+
+["200268"]
+japanese = "戦いではわずかな狂いが命取りになる。<line-break>それを知らぬ君ではあるまい。<end>"
+english = "Even the slightest deviation can be fatal in battle. Surely you know that.<end>"
+
+["200269"]
+japanese = "私たちの仕事は身軽でなければ、<line-break>つとまらないのです。<line-break>申し訳ありません。<end>"
+english = "Our line of work requires us to travel light. My apologies.<end>"
+
+["200270"]
+japanese = "密偵は素早さが命なの。<line-break>重いものは装備したくないな。<end>"
+english = "Speed is a spy's lifeblood. I don't want to equip anything heavy.<end>"
+
+["200271"]
+japanese = "こいつとは長い付き合いでの。<line-break>手放す気にはなれんのじゃよ。<end>"
+english = "This one and I go back a long way. I just can't bring myself to part with it.<end>"
+
+["200272"]
+japanese = "ハハ、残念だけどこれは譲れない。<line-break>これは大切なものなんだ。<end>"
+english = "Ha ha, sorry, but I can't give this up. It's important to me.<end>"
+
+["200273"]
+japanese = "死んだ親父も片手剣を使ってきたし、<line-break>俺もずっとこれでやってきた。<line-break>こいつが一番しっくりくるんだ。<end>"
+english = "My late father used a one-handed sword, and I've always fought with one too. Nothing else feels right.<end>"
+
+["200274"]
+japanese = "私の体と力に合った武器が小刀なの。<line-break>自分に合った武器を使う…<line-break>それが、冒険者の鉄則ね。<end>"
+english = "A dagger suits my build and strength. Using the right weapon... that's an adventurer's cardinal rule.<end>"
+
+["200275"]
+japanese = "役目を失ったとはいえ私は巫女です。<line-break>これを手放すつもりはありません。<end>"
+english = "Though I no longer serve in that role, I am still a shrine maiden. I have no intention of parting with this.<end>"
+
+["200276"]
+japanese = "ごめんなさい。<line-break>私、これじゃないと戦えません。<end>"
+english = "I'm sorry. I can't fight with anything else.<end>"
+
+["200277"]
+japanese = "これは大切なものなんだ。<line-break>すまないが外すわけにはいかない。<end>"
+english = "This is important to me. I'm sorry, but I can't take it off.<end>"
+
+["200278"]
+japanese = "エラーメッセージ<line-break>ぶぶ…武器を持って戦うなんて、<line-break>ぼ、ぼくにはできません。<end>"
+english = "Error message: I-I... I can't fight with a w-weapon.<end>"
+
+["200279"]
+japanese = "エラーメッセージ<line-break>槍と角は似ている…かもな。<end>"
+english = "Error message: Spears and horns are alike... maybe.<end>"
+
+["200280"]
+japanese = "エラーメッセージ！<end>"
+english = "Error message!<end>"
+
+["200281"]
+japanese = "エラーメッセージ\u3000片手剣<end>"
+english = "Error message: One-handed sword.<end>"
+
+["200282"]
+japanese = "エラーメッセージ\u3000小刀手斧<end>"
+english = "Error message: Dagger Hand Axe.<end>"
+
+["200283"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200284"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200285"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200286"]
+japanese = "小刀手斧<end>"
+english = "Dagger Hand Axe.<end>"
+
+["200287"]
+japanese = "小刀手斧<end>"
+english = "Dagger Hand Axe.<end>"
+
+["200288"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200289"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200290"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200291"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200292"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200293"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200294"]
+japanese = "エラーメッセージ<line-break>ロッチナァァァァァァァァア！<end>"
+english = "Error message: Rotchinaaaaaaaaa!<end>"
+
+["200295"]
+japanese = "エラーメッセージ<line-break>プッシュ！\u3000プッシュ！<line-break>小錦つっぱり！<end>"
+english = "Error message: Push! Push! Konishiki thrust!<end>"
+
+["200296"]
+japanese = "騎士といえば全身鎧だけど…、私には<line-break>胴鎧が戦いやすくっていいみたい。<end>"
+english = "Knights usually wear full armor, but... I seem to fight better in body armor.<end>"
+
+["200297"]
+japanese = "戦場で最も恐ろしいのは流れ矢じゃ。<line-break>全身鎧でないと、全力で戦えんわい。<end>"
+english = "Stray arrows are the worst threat on a battlefield. Without full armor, I cannot fight at full strength.<end>"
+
+["200298"]
+japanese = "布製防具はおしゃれでいいかも！<line-break>でも、太ったのがばれちゃうかな？<end>"
+english = "Cloth armor might be stylish! But will it show that I've put on weight?<end>"
+
+["200299"]
+japanese = "燃える男の防具は、胴鎧って<line-break>決まってんだよ、こんちくしょう！<end>"
+english = "A hot-blooded man's armor has got to be body armor, damn it!<end>"
+
+["200300"]
+japanese = "ご、ごめんなさい。ボク、胴鎧以外の<line-break>防具って好きじゃないんだ。<end>"
+english = "I-I'm sorry. I don't like any armor except body armor.<end>"
+
+["200301"]
+japanese = "あまり指図をしないでもらおう。<line-break>私は胸当て以外、付けるつもりはない。<end>"
+english = "I would prefer not to be ordered around so much. I have no intention of wearing anything but a breastplate.<end>"
+
+["200302"]
+japanese = "エラーメッセージ<line-break>ははは、重い防具は肩が凝りますから。<line-break>私は布製防具でかまいませんよ。<end>"
+english = "Error message: Ha ha ha, heavy armor makes my shoulders stiff. Cloth armor will do just fine for me.<end>"
+
+["200303"]
+japanese = "エラーメッセージ<line-break>胸当て以外の防具だと、あたしの<line-break>美しい姿が披露できないじゃない。<end>"
+english = "Error message: I can't show off my beautiful figure in anything but a breastplate.<end>"
+
+["200304"]
+japanese = "姉ちゃん、俺にこんなの装備しろって<line-break>いうのかよ。胴鎧にしてくれよな。<end>"
+english = "Miss, you expect me to equip something like this? Make it body armor, will you?<end>"
+
+["200305"]
+japanese = "エラーメッセージ<line-break>あら、私に鎧を身につけろって言うの？<line-break>私はあなたと違って頭脳労働専門なのよ。<end>"
+english = "Error message: Oh, you expect me to wear armor? Unlike you, I specialize in using my brain.<end>"
+
+["200306"]
+japanese = "冒険者たるもの胴鎧を身につけるべし。<line-break>俺の名言だ。かっこいいだろう？<end>"
+english = "An adventurer must wear body armor. That's my famous saying. Sounds cool, doesn't it?<end>"
+
+["200307"]
+japanese = "俺は胸当て以外、つけるつもりはない。<line-break>言いたいことはそれだけだ。<end>"
+english = "I have no intention of wearing anything but a breastplate. That's all I have to say.<end>"
+
+["200308"]
+japanese = "たわけがぁぁ！<line-break>わしは胴鎧しかきれんのじゃ！<end>"
+english = "You fooool! Body armor is the only kind I can wear!<end>"
+
+["200309"]
+japanese = "防具は胸当てにしろって、<line-break>お爺ちゃんがいってたんだ。<end>"
+english = "Grandpa said I should wear a breastplate.<end>"
+
+["200310"]
+japanese = "エラーメッセージ<line-break>俺は全身鎧しか身に付けない。<end>"
+english = "Error message: I wear nothing but full armor.<end>"
+
+["200311"]
+japanese = "もぅ、どうして胸当てじゃダメなのよ！<line-break>ワケを説明しなさい、ワケを！<end>"
+english = "Honestly, why isn't a breastplate good enough?! Explain yourself! I want a reason!<end>"
+
+["200312"]
+japanese = "胸当ては、ブレスとあーめーに強いっ！<line-break>兄弟子…いかがでごさるか？<end>"
+english = "Breastplates are strong against breath and raaain! Senior disciple... what say you?<end>"
+
+["200313"]
+japanese = "お、重いよぉ。布製防具じゃないと<line-break>重すぎて戦えないよぉ。<end>"
+english = "I-it's heavyyy. Anything but cloth armor is too heavy for me to fight in.<end>"
+
+["200314"]
+japanese = "…鎧はいやだ。<end>"
+english = "...I don't want armor.<end>"
+
+["200315"]
+japanese = "残念だが、俺の戦い方を理解していない<line-break>ようだな。なぜ、胴鎧なのかを。<end>"
+english = "Unfortunately, you don't seem to understand how I fight―or why I wear body armor.<end>"
+
+["200316"]
+japanese = "えーっ！\u3000これを装備するの？<line-break>ぼく、胸当てじゃないとやだなぁ。<end>"
+english = "What?! I have to equip this? I don't want anything but a breastplate.<end>"
+
+["200317"]
+japanese = "戦いではわずかな狂いが命取りになる。<line-break>それを知らぬ君ではあるまい。<end>"
+english = "Even the slightest deviation can be fatal in battle. Surely you know that.<end>"
+
+["200318"]
+japanese = "私たちの仕事は身軽でなければ、<line-break>つとまらないのです。<line-break>申し訳ありません。<end>"
+english = "Our line of work requires us to travel light. My apologies.<end>"
+
+["200319"]
+japanese = "密偵は素早さが命なの。<line-break>重いものは装備したくないな。<end>"
+english = "Speed is a spy's lifeblood. I don't want to equip anything heavy.<end>"
+
+["200320"]
+japanese = "防具は全身鎧が一番じゃよ。<line-break>傭兵として戦場に出れば嫌でもわかる<line-break>ことじゃよ。<end>"
+english = "Full armor is best. Once you've fought as a mercenary, you'll learn that whether you like it or not.<end>"
+
+["200321"]
+japanese = "防御力と機動力。<line-break>戦いではこのバランスが重要なんだ。<line-break>だから、私は胴鎧を使いたい。<end>"
+english = "Protection and mobility. Their balance is crucial in battle. That's why I want body armor.<end>"
+
+["200322"]
+japanese = "防具？<line-break>俺は、胸当てで十分だ。<end>"
+english = "Armor? A breastplate is enough for me.<end>"
+
+["200323"]
+japanese = "あたしには胸当てがちょうどいいの。<line-break>動きやすいし性に合うのよ。<end>"
+english = "A breastplate is just right for me. It's easy to move in, and it suits my style.<end>"
+
+["200324"]
+japanese = "…重い鎧で<line-break>あなたも私を縛ろうとするのですか？<end>"
+english = "...Are you going to bind me in heavy armor too?<end>"
+
+["200325"]
+japanese = "えっ？\u3000エプロンドレスが似合う？<line-break>そ、それなら私、ずっとこれにします。<end>"
+english = "What? An apron dress looks good on me? I-in that case, I'll keep wearing this.<end>"
+
+["200326"]
+japanese = "このローブは、施文院の大神官だけが、<line-break>着ることを許されるものなんだ。<line-break>換えるわけにはいかないな。<end>"
+english = "Only the High Priest of Shimon'in is permitted to wear this robe. I cannot exchange it for another.<end>"
+
+["200327"]
+japanese = "エラーメッセージ<line-break>布製防具<end>"
+english = "Error message: Cloth armor.<end>"
+
+["200328"]
+japanese = "エラーメッセージ<line-break>布製防具<end>"
+english = "Error message: Cloth armor.<end>"
+
+["200329"]
+japanese = "エラーメッセージ<line-break>胴鎧<end>"
+english = "Error message: Body armor.<end>"
+
+["200330"]
+japanese = "エラーメッセージ<line-break>布製防具<end>"
+english = "Error message: Cloth armor.<end>"
+
+["200331"]
+japanese = "エラーメッセージ<line-break>布製防具<end>"
+english = "Error message: Cloth armor.<end>"
+
+["200332"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200333"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200334"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200335"]
+japanese = "エラーメッセージ<line-break>胴鎧<end>"
+english = "Error message: Body armor.<end>"
+
+["200336"]
+japanese = "エラーメッセージ<line-break>胴鎧<end>"
+english = "Error message: Body armor.<end>"
+
+["200337"]
+japanese = "エラーメッセージ。<end>"
+english = "Error message.<end>"
+
+["200338"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200339"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200340"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200341"]
+japanese = "ごめんなさい。<line-break>エラーメッセージです。<end>"
+english = "Sorry. This is an error message.<end>"
+
+["200342"]
+japanese = "エラーメッセージよ。<line-break>私はもういないの。<end>"
+english = "It's an error message. I'm not here anymore.<end>"
+
+["200343"]
+japanese = "エラーメッセージ<line-break>胴鎧<end>"
+english = "Error message: Body armor.<end>"
+
+["200344"]
+japanese = "エラーメッセージ<line-break>布製防具<end>"
+english = "Error message: Cloth armor.<end>"
+
+["200345"]
+japanese = "ごめんね。<line-break>これって私のお気に入りなの。<end>"
+english = "Sorry. This is a favorite of mine.<end>"
+
+["200346"]
+japanese = "こいつは、共に戦場を駆け回った<line-break>わしの友よ。手放すわけにはいかんな。<end>"
+english = "This one is my friend, who has raced across the battlefield with me. I cannot part with it.<end>"
+
+["200347"]
+japanese = "私の持ち物を欲しがるなんて…。<line-break>もしかしてマニアかな？\u3000きゃっ！<end>"
+english = "You want something that belongs to me...? Are you some kind of fanatic? Eek!<end>"
+
+["200348"]
+japanese = "俺の装備は、俺が決めるんだ。<line-break>わかったか、こんちくしょう！<end>"
+english = "I decide what I equip. Got that, damn it?!<end>"
+
+["200349"]
+japanese = "そ、そんな、ダメだよ。<line-break>た、たいせつなもの…なん…だ。<end>"
+english = "N-no, you can't. I-it's... important... to me.<end>"
+
+["200350"]
+japanese = "私にも好き嫌いがある…。<line-break>それを気に入っているのだ。<end>"
+english = "I have my preferences too... and I happen to like that.<end>"
+
+["200351"]
+japanese = "申しわけないですけど<line-break>私は今の姿が気に入っているので…。<end>"
+english = "I'm sorry, but I like the way I look now...<end>"
+
+["200352"]
+japanese = "あたしに、一番似合っているのが、<line-break>これなのよ。わかんないかなぁ？<end>"
+english = "This is what looks best on me. Can't you see that?<end>"
+
+["200353"]
+japanese = "いくら姉ちゃんの頼みでも、こいつは<line-break>俺ンだよ。勘弁してくれよな。<end>"
+english = "Even if you're the one asking, miss, this one's mine. Give me a break, okay?<end>"
+
+["200354"]
+japanese = "これは私のお気に入りのひとつなのよ。<line-break>外すわけにはいかないわ。<end>"
+english = "This is one of my favorites. I simply can't take it off.<end>"
+
+["200355"]
+japanese = "おっと、こいつは俺のお気に入り<line-break>なんでね。<end>"
+english = "Whoa there. This one's a favorite of mine.<end>"
+
+["200356"]
+japanese = "これは俺のすべて…。<line-break>渡すわけにはいかない。<end>"
+english = "This is everything to me... I can't give it up.<end>"
+
+["200357"]
+japanese = "たわけがぁぁ！<line-break>わしのお気に入りを触るでない！<end>"
+english = "You fooool! Keep your hands off my favorite!<end>"
+
+["200358"]
+japanese = "ごめんね。僕、それのこと<line-break>気に入っているんだ。<end>"
+english = "Sorry. I really like that one.<end>"
+
+["200359"]
+japanese = "これ以上のものを私は知らないな。<end>"
+english = "I know of nothing finer than this.<end>"
+
+["200360"]
+japanese = "高貴なアタクシの持ち物を、あなたに<line-break>渡せですって！\u3000冗談じゃないわ！<end>"
+english = "You expect one as noble as I am to hand over one of my possessions to you?! Don't be absurd!<end>"
+
+["200361"]
+japanese = "兄弟子、そ、それだけはっ！<line-break>拙者、もっと精進するゆえご勘弁を！<end>"
+english = "Senior disciple, a-anything but that! I shall devote myself to further training, so please, show mercy!<end>"
+
+["200362"]
+japanese = "んっとねぇ。それって大事なもの<line-break>なんだぁ。だからはずせないのぉ<end>"
+english = "Umm, you seeee, that's really important to meee. So I can't take it offf.<end>"
+
+["200363"]
+japanese = "………渡せん。<end>"
+english = "...I cannot hand it over.<end>"
+
+["200364"]
+japanese = "これは俺にとって譲れないもの…<line-break>失いたくはない。<end>"
+english = "This is something I can't give up... I don't want to lose it.<end>"
+
+["200365"]
+japanese = "えーっ！\u3000これをとられちゃったら<line-break>ぼく困るなぁ。だからダメだよ。<end>"
+english = "What?! I'd be in trouble if you took this away. So no.<end>"
+
+["200366"]
+japanese = "戦いではわずかな狂いが命取りになる。<line-break>それを知らぬ君ではあるまい。<end>"
+english = "Even the slightest deviation can be fatal in battle. Surely you know that.<end>"
+
+["200367"]
+japanese = "私たちの仕事は身軽でなければ、<line-break>つとまらないのです。<line-break>申し訳ありません。<end>"
+english = "Our line of work requires us to travel light. My apologies.<end>"
+
+["200368"]
+japanese = "密偵は素早さが命なの。<line-break>重いものは装備したくないな。<end>"
+english = "Speed is a spy's lifeblood. I don't want to equip anything heavy.<end>"
+
+["200369"]
+japanese = "こいつとは長い付き合いでの。<line-break>手放す気にはなれんのじゃよ。<end>"
+english = "This one and I go back a long way. I just can't bring myself to part with it.<end>"
+
+["200370"]
+japanese = "ハハ、残念だけどこれは譲れない。<line-break>これは大切なものなんだ。<end>"
+english = "Ha ha, sorry, but I can't give this up. It's important to me.<end>"
+
+["200371"]
+japanese = "困ります。それは研究に必要なもの<line-break>なんですから。<end>"
+english = "That would be a problem. I need it for my research.<end>"
+
+["200372"]
+japanese = "これは私の所有物だ。<line-break>好きにさせてもらおう。<end>"
+english = "This belongs to me. I will do with it as I please.<end>"
+
+["200373"]
+japanese = "さすがに、これは渡せません。<line-break>別の物にしてもらえませんか。<end>"
+english = "I really can't give you this. Could you choose something else?<end>"
+
+["200374"]
+japanese = "人間ふぜいに指図されるおぼえはない。<line-break>私のものに触れるな。<end>"
+english = "I will not be ordered around by a mere human. Do not touch what is mine.<end>"
+
+["200375"]
+japanese = "ヒュー！\u3000俺の持ち物を欲しがるとは、<line-break>あんた見る目あるぜ。でもやれないな。<end>"
+english = "Whew! You've got a good eye, wanting something of mine. But I can't give it to you.<end>"
+
+["200376"]
+japanese = "ごめんなさい。<line-break>これは私のお気に入りなんです。<end>"
+english = "I'm sorry. I'm very fond of this.<end>"
+
+["200377"]
+japanese = "ごめんなさい。<line-break>これは私のお気に入りなんです。<end>"
+english = "I'm sorry. I'm very fond of this.<end>"
+
+["200378"]
+japanese = "ごめんなさい。<line-break>これは私のお気に入りなんです。<end>"
+english = "I'm sorry. I'm very fond of this.<end>"
+
+["200379"]
+japanese = "こりゃあ、まちがっとる。<end>"
+english = "Well, this ain't right.<end>"
+
+["200380"]
+japanese = "こりゃあ、まちがっとる。<end>"
+english = "Well, this ain't right.<end>"
+
+["200381"]
+japanese = "そいつをとらないでくれ。<line-break>俺のお気に入りなんだ。<end>"
+english = "Don't take that one. It's a favorite of mine.<end>"
+
+["200382"]
+japanese = "あたしの愛用品が欲しいなんて、目の<line-break>つけ所はいいけど、できない相談だね。<end>"
+english = "You've got a good eye, wanting something I treasure, but that's out of the question.<end>"
+
+["200383"]
+japanese = "エラーメッセージだぜ。<line-break>俺はもういないんだからよ。<end>"
+english = "It's an error message. I'm not here anymore, after all.<end>"
+
+["200384"]
+japanese = "エラーメッセージよ。<line-break>私はもういないの。<end>"
+english = "It's an error message. I'm not here anymore.<end>"
+
+["200385"]
+japanese = "エラーメッセージだ。<line-break>俺はもういない。<end>"
+english = "It's an error message. I'm not here anymore.<end>"
+
+["200386"]
+japanese = "エラーメッセージよ。<line-break>私はもういないの。<end>"
+english = "It's an error message. I'm not here anymore.<end>"
+
+["200387"]
+japanese = "これを譲るのは、お前を一人前と<line-break>認めたときだ。まだ早い。<end>"
+english = "I'll hand this over when I consider you fully fledged. It's still too soon.<end>"
+
+["200388"]
+japanese = "そうねぇ、あなたの大切なものと<line-break>交換してくれるならいいわよ。<end>"
+english = "Well, I suppose I could trade it for something precious to you.<end>"
+
+["200389"]
+japanese = "これは私の持ち物です。<line-break>勝手に触らないでください。<end>"
+english = "This belongs to me. Please don't touch it without permission.<end>"
+
+["200390"]
+japanese = "これは親父の形見なんだ。<line-break>"
+english = "This is a keepsake from my late father."
+
+["200391"]
+japanese = "私にとって大切なものなの。<line-break>だから渡すわけにはいかないわ。<end>"
+english = "This is precious to me. That's why I can't give it to you.<end>"
+
+["200392"]
+japanese = "…私には、これが必要なのです。<end>"
+english = "...I need this.<end>"
+
+["200393"]
+japanese = "ごめんなさい。<line-break>私、これじゃないと……。<line-break>フライパンって結構強いんですよ。<line-break><end>"
+english = "I'm sorry. I can't manage without this... Frying pans are surprisingly strong, you know.<end>"
+
+["200394"]
+japanese = "これは大切なものなんだ。<line-break>すまないが、手放すわけにはいかない。<line-break><end>"
+english = "This is important to me. Sorry, but I can't part with it.<end>"
+
+["200395"]
+japanese = "火の精霊力を集めた指輪<end>"
+english = "A ring imbued with fire spirit power<end>"
+
+["200396"]
+japanese = "水の精霊力を集めた指輪<end>"
+english = "A ring imbued with water spirit power<end>"
+
+["200397"]
+japanese = "大地の精霊力を集めた指輪<end>"
+english = "A ring imbued with earth spirit power<end>"
+
+["200398"]
+japanese = "風の精霊力を集めた指輪<end>"
+english = "A ring imbued with wind spirit power<end>"
+
+["200399"]
+japanese = "聖の精霊力を集めた指輪<end>"
+english = "A ring imbued with holy spirit power<end>"
+
+["200400"]
+japanese = "闇の精霊力を集めた指輪<end>"
+english = "A ring imbued with dark spirit power<end>"
+
+["200401"]
+japanese = "燃え上がる火柱を象った意匠のしてある腕輪<end>"
+english = "A bracelet adorned with a blazing pillar of flame<end>"
+
+["200402"]
+japanese = "流れる氷を象った意匠のしてある腕輪<end>"
+english = "A bracelet adorned with flowing ice<end>"
+
+["200403"]
+japanese = "肥沃な大地の風景が彫られている腕輪<end>"
+english = "A bracelet engraved with a fertile landscape<end>"
+
+["200404"]
+japanese = "すずしげな風を意匠として彫ってある腕輪<end>"
+english = "A bracelet engraved with a refreshing breeze motif<end>"
+
+["200405"]
+japanese = "何の意匠もなく、常に純白さを保っている腕輪<end>"
+english = "An unadorned bracelet that remains pure white<end>"
+
+["200406"]
+japanese = "何の意匠もなく、ただひたすらに真っ黒な腕輪<end>"
+english = "An unadorned bracelet of unrelieved black<end>"
+
+["200407"]
+japanese = "闘士の心得が記された書<end>"
+english = "The Fighter's Handbook<end>"
+
+["200408"]
+japanese = "必勝を期したお守り<end>"
+english = "An amulet made in hopes of certain victory<end>"
+
+["200409"]
+japanese = "盗みのテクニックが書いてある奥義書<end>"
+english = "A secret manual of thieving techniques<end>"
+
+["200410"]
+japanese = "ＳＴＲが１０上昇する首飾り<end>"
+english = "A necklace that raises ＳＴＲ by 10<end>"
+
+["200411"]
+japanese = "ＶＩＴが１０上昇する首飾り<end>"
+english = "A necklace that raises ＶＩＴ by 10<end>"
+
+["200412"]
+japanese = "ＩＮＴが１０上昇する首飾り<end>"
+english = "A necklace that raises ＩＮＴ by 10<end>"
+
+["200413"]
+japanese = "ＭＩＮが１０上昇する首飾り<end>"
+english = "A necklace that raises ＭＩＮ by 10<end>"
+
+["200414"]
+japanese = "ＡＧＩが１０上昇する首飾り<end>"
+english = "A necklace that raises ＡＧＩ by 10<end>"
+
+["200415"]
+japanese = "ＤＥＸが１０上昇する首飾り<end>"
+english = "A necklace that raises ＤＥＸ by 10<end>"
+
+["200416"]
+japanese = "眠りの神パーシィの守護で、睡眠を防ぐお守り<end>"
+english = "An amulet that prevents Sleep through the protection of Percy, God of Slumber<end>"
+
+["200417"]
+japanese = "麻痺しない柔らかな心と身体をもたらすお守り<end>"
+english = "An amulet that grants a supple mind and body immune to Paralysis<end>"
+
+["200418"]
+japanese = "心と身体が石になり閉ざされるのを防ぐお守り<end>"
+english = "An amulet that prevents the mind and body from being sealed in stone<end>"
+
+["200419"]
+japanese = "常に光を放ち目つぶしを防いでくれるお守り<end>"
+english = "An amulet that constantly shines, preventing blindness<end>"
+
+["200420"]
+japanese = "常に平静な心を保ち、迷いを打ち消すお守り<end>"
+english = "An amulet that keeps the mind calm and dispels confusion<end>"
+
+["200421"]
+japanese = "悪しき幻影と自我とを隔ててくれるお守り<end>"
+english = "An amulet that separates the self from evil illusions<end>"
+
+["200422"]
+japanese = "あらゆる毒素の抗体を身体にもたらすお守り<end>"
+english = "An amulet that grants the body antibodies against every toxin<end>"
+
+["200423"]
+japanese = "どんな時も言葉を失わないようになるお守り<end>"
+english = "An amulet that keeps its bearer from ever losing the power of speech<end>"
+
+["200424"]
+japanese = "幸せに生きていこうという願いが詰まったお守り<end>"
+english = "An amulet filled with the wish for a happy life<end>"
+
+["200425"]
+japanese = "どんな苦境でも歩みをゆるめなくなるお守り<end>"
+english = "An amulet that keeps its bearer moving steadily through any hardship<end>"
+
+["200426"]
+japanese = "死の呪いから命の火を守るお守り<end>"
+english = "An amulet that shields the flame of life from death curses<end>"
+
+["200427"]
+japanese = "中に城塞が映っている透き通った赤い宝玉<end>"
+english = "A transparent red orb with the image of a fortress inside<end>"
+
+["200428"]
+japanese = "中心で虹色の光が揺らめいている青い宝玉<end>"
+english = "A blue orb with iridescent light shimmering at its center<end>"
+
+["200429"]
+japanese = "常に周りに微風をまとった、純白の羽の髪飾り<end>"
+english = "A pure-white feather hair ornament wreathed in a constant breeze<end>"
+
+["200430"]
+japanese = "ゴーレムの腕をくりぬいて作った強固な腕輪<end>"
+english = "A sturdy bracelet carved from a hollowed-out Golem arm<end>"
+
+["200431"]
+japanese = "水鳥の羽を聖水に浸して作った髪飾り<end>"
+english = "A hair ornament made by soaking a waterfowl feather in holy water<end>"
+
+["200432"]
+japanese = "サラマンダーの尻尾を切って紐をつけたもの<end>"
+english = "A severed Salamander tail fitted with a cord<end>"
+
+["200433"]
+japanese = "戦神ソリアスが身につけていたといわれる腕輪<end>"
+english = "A bracelet said to have been worn by War God Solias<end>"
+
+["200434"]
+japanese = "知恵の神ジェドが作ったといわれている指輪<end>"
+english = "A ring said to have been made by Jed, God of Wisdom<end>"
+
+["200435"]
+japanese = "運命神ファナティックのものとされるピアス<end>"
+english = "An earring said to have belonged to Fanatic, God of Fate<end>"
+
+["200436"]
+japanese = "天空神ノトゥーンがその力を分け注いだ魔除け<end>"
+english = "A ward imbued with a portion of the Sky God Notun's power<end>"
+
+["200437"]
+japanese = "大地母神ティラを慕う精霊達が結晶化した護符<end>"
+english = "A talisman formed when spirits devoted to Tira, the Earth Mother Goddess, crystallized<end>"
+
+["200438"]
+japanese = "剣と盾の意匠が両面に施された分厚いコイン<end>"
+english = "A thick coin bearing sword-and-shield designs on both faces<end>"
+
+["200439"]
+japanese = "魔道書と杖の意匠が両面に施されたコイン<end>"
+english = "A coin bearing grimoire-and-staff designs on both faces<end>"
+
+["200440"]
+japanese = "マノンの腕輪を模して作られた指輪<end>"
+english = "A ring modeled after Manon's Bracelet<end>"
+
+["200441"]
+japanese = "伝説の魔道士マノンの造ったタリスマン<end>"
+english = "A talisman crafted by the legendary mage Manon<end>"
+
+["200442"]
+japanese = "アイテムを使用します。<end>"
+english = "Use an item.<end>"
+
+["200443"]
+japanese = "装備品を見ることができます。<end>"
+english = "View equipment.<end>"
+
+["200444"]
+japanese = "イベントアイテムを見ることができます。<end>"
+english = "View event items.<end>"
+
+["200445"]
+japanese = "キャラクターのHP、MPや、<line-break>状態異常を回復するアイテムを<line-break>表すアイコンです。<end>"
+english = "This icon indicates items that restore a character's HP or MP, or cure status ailments.<end>"
+
+["200446"]
+japanese = "戦闘中に敵を攻撃するアイテムを<line-break>表すアイコンです。<end>"
+english = "This icon indicates items used to attack enemies in battle.<end>"
+
+["200447"]
+japanese = "戦闘中の一時的な能力上昇や、<line-break>敵の状態異常を引き起こす<line-break>アイテムを表すアイコンです。<end>"
+english = "This icon indicates items that temporarily boost abilities in battle or inflict status ailments on enemies.<end>"
+
+["200448"]
+japanese = "それぞれが様々な効果を持つ<line-break>アイテムを表すアイコンです。<end>"
+english = "This icon indicates items that each have a variety of effects.<end>"
+
+["200449"]
+japanese = "装備品の種類が片手剣であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates one-handed swords.<end>"
+
+["200450"]
+japanese = "装備品の種類が両手剣であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates two-handed swords.<end>"
+
+["200451"]
+japanese = "装備品の種類が槍であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates spears.<end>"
+
+["200452"]
+japanese = "装備品の種類が斧であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates axes.<end>"
+
+["200453"]
+japanese = "装備品の種類が小刀であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates daggers.<end>"
+
+["200454"]
+japanese = "装備品の種類が弓であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates bows.<end>"
+
+["200455"]
+japanese = "装備品の種類が拳具であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates fist weapons.<end>"
+
+["200456"]
+japanese = "装備品の種類が盾であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates shields.<end>"
+
+["200457"]
+japanese = "装備品の種類が布製防具であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates cloth armor.<end>"
+
+["200458"]
+japanese = "装備品の種類が胸当てであることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates breastplates.<end>"
+
+["200459"]
+japanese = "装備品の種類が胴鎧であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates body armor.<end>"
+
+["200460"]
+japanese = "装備品の種類が全身鎧であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates full-body armor.<end>"
+
+["200461"]
+japanese = "装備品の種類が装飾品であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates accessories.<end>"
+
+["200462"]
+japanese = "物語を進めていくために必要な<line-break>アイテムを表すアイコンです。<line-break>このアイテムは捨てることができません。<end>"
+english = "This icon indicates items required to progress through the story. These items cannot be discarded.<end>"
+
+["200463"]
+japanese = "ヒットポイント(HP)です。<line-break>キャラクターの物理的耐久力を表します。<line-break>HPが０になると戦闘不能状態になります。<end>"
+english = "Hit Points (HP) represent a character's physical endurance. A character becomes unable to fight when HP reaches 0.<end>"
+
+["200464"]
+japanese = "メンタルポイント(MP)です。<line-break>キャラクターの精神的耐久力を表します。<line-break>MPが０になると気絶状態になります。<end>"
+english = "Mental Points (MP) represent a character's mental endurance. A character falls unconscious when MP reaches 0.<end>"
+
+["200465"]
+japanese = "キャラクターが呪い状態であることを<line-break>表すアイコンです。フィジカルパラメータが呪いで半分になります。<end>"
+english = "This icon indicates that a character is cursed. The curse halves Physical Parameters.<end>"
+
+["200466"]
+japanese = "火の精霊力レベルです。レベルが高いほど、<line-break>高位の火属性魔法を唱えること可能です。<end>"
+english = "This is the Fire Spirit Power level. Higher levels allow higher-level Fire-element spells to be cast.<end>"
+
+["200467"]
+japanese = "水の精霊力レベルです。レベルが高いほど、<line-break>高位の水属性魔法を唱えること可能です。<end>"
+english = "This is the Water Spirit Power level. Higher levels allow higher-level Water-element spells to be cast.<end>"
+
+["200468"]
+japanese = "土の精霊力レベルです。レベルが高いほど、<line-break>高位の土属性魔法を唱えること可能です。<end>"
+english = "This is the Earth Spirit Power level. Higher levels allow higher-level Earth-element spells to be cast.<end>"
+
+["200469"]
+japanese = "風の精霊力レベルです。レベルが高いほど、<line-break>高位の風属性魔法を唱えること可能です。<end>"
+english = "This is the Wind Spirit Power level. Higher levels allow higher-level Wind-element spells to be cast.<end>"
+
+["200470"]
+japanese = "無属性の魔法であることを表すアイコンです。<end>"
+english = "This icon indicates non-elemental magic.<end>"
+
+["200471"]
+japanese = "火属性の魔法であることを表すアイコンです。<end>"
+english = "This icon indicates Fire-element magic.<end>"
+
+["200472"]
+japanese = "水属性の魔法であることを表すアイコンです。<end>"
+english = "This icon indicates Water-element magic.<end>"
+
+["200473"]
+japanese = "土属性の魔法であることを表すアイコンです。<end>"
+english = "This icon indicates Earth-element magic.<end>"
+
+["200474"]
+japanese = "風属性の魔法であることを表すアイコンです。<end>"
+english = "This icon indicates Wind-element magic.<end>"
+
+["200475"]
+japanese = "闇属性の魔法であることを表すアイコンです。<end>"
+english = "This icon indicates Dark-element magic.<end>"
+
+["200476"]
+japanese = "聖属性の魔法であることを表すアイコンです。<end>"
+english = "This icon indicates Holy-element magic.<end>"
+
+["200477"]
+japanese = "ヒットポイント(HP)です。<line-break>キャラクターの物理的耐久力を表します。<line-break>HPが０になると戦闘不能状態になります。<end>"
+english = "Hit Points (HP) represent a character's physical endurance. A character becomes unable to fight when HP reaches 0.<end>"
+
+["200478"]
+japanese = "メンタルポイント(MP)です。<line-break>キャラクターの精神的耐久力を表します。<line-break>MPが０になると気絶状態になります。<end>"
+english = "Mental Points (MP) represent a character's mental endurance. A character falls unconscious when MP reaches 0.<end>"
+
+["200479"]
+japanese = "キャラクターが呪い状態であることを<line-break>表すアイコンです。フィジカルパラメータが呪いで半分になります。<end>"
+english = "This icon indicates that a character is cursed. The curse halves Physical Parameters.<end>"
+
+["200480"]
+japanese = "戦闘中、このアイコンのコマンドで<line-break>使用するスキルです。<end>"
+english = "This skill is used in battle with the command represented by this icon.<end>"
+
+["200481"]
+japanese = "戦闘中、このアイコンのコマンドで<line-break>使用するスキルです。<end>"
+english = "This skill is used in battle with the command represented by this icon.<end>"
+
+["200482"]
+japanese = "戦闘中、このアイコンのコマンドで<line-break>使用するスキルです。<end>"
+english = "This skill is used in battle with the command represented by this icon.<end>"
+
+["200483"]
+japanese = "戦闘中、このアイコンのコマンドで<line-break>使用するスキルです。<end>"
+english = "This skill is used in battle with the command represented by this icon.<end>"
+
+["200484"]
+japanese = "戦闘中、このアイコンのコマンドで<line-break>使用するスキルです。<end>"
+english = "This skill is used in battle with the command represented by this icon.<end>"
+
+["200485"]
+japanese = "フィールド上で使用するスキルです。<end>"
+english = "This skill is used in the field.<end>"
+
+["200486"]
+japanese = "自動的に発動するスキルです。<end>"
+english = "This skill activates automatically.<end>"
+
+["200487"]
+japanese = "キャラクターの持っているスキルポイントです。<line-break>これと引き替えにスキルを習得します。<end>"
+english = "These are the character's Skill Points. Spend them to learn skills.<end>"
+
+["200488"]
+japanese = "ヒットポイント(HP)です。<line-break>キャラクターの物理的耐久力を表します。<line-break>HPが０になると戦闘不能状態になります。<end>"
+english = "Hit Points (HP) represent a character's physical endurance. A character becomes unable to fight when HP reaches 0.<end>"
+
+["200489"]
+japanese = "メンタルポイント(MP)です。<line-break>キャラクターの精神的耐久力を表します。<line-break>MPが０になると気絶状態になります。<end>"
+english = "Mental Points (MP) represent a character's mental endurance. A character falls unconscious when MP reaches 0.<end>"
+
+["200490"]
+japanese = "キャラクターが呪い状態であることを<line-break>表すアイコンです。フィジカルパラメータが呪いで半分になります。<end>"
+english = "This icon indicates that a character is cursed. The curse halves Physical Parameters.<end>"
+
+["200491"]
+japanese = "キャラクターのレベル(LEVEL)です。<end>"
+english = "The character's level (LEVEL).<end>"
+
+["200492"]
+japanese = "キャラクターの経験値(EXP)です。<end>"
+english = "The character's experience points (EXP).<end>"
+
+["200493"]
+japanese = "次のレベルまでに必要な経験値です。<end>"
+english = "The experience points required to reach the next level.<end>"
+
+["200494"]
+japanese = "筋力(STRENGTH)を表します。<line-break>物理攻撃の威力に影響します。<end>"
+english = "Represents Strength (STRENGTH). Affects the power of physical attacks.<end>"
+
+["200495"]
+japanese = "生命力(VITALITY)を表します。<line-break>物理的攻撃に対する防御力や、<line-break>HPの増加率に影響します。<end>"
+english = "Represents Vitality (VITALITY). Affects defense against physical attacks and the rate at which HP increases.<end>"
+
+["200496"]
+japanese = "知力(INTELLIGENCE)を表します。<line-break>精霊属性魔法の威力に影響します。<end>"
+english = "Represents Intelligence (INTELLIGENCE). Affects the power of Spirit Attribute magic.<end>"
+
+["200497"]
+japanese = "精神力(MIND)を表します。<line-break>精神魔法の威力やMPの増加率に影響します。<end>"
+english = "Represents Mind (MIND). Affects the power of mental magic and the rate at which MP increases.<end>"
+
+["200498"]
+japanese = "敏捷性(AGILITY)を表します。<line-break>行動順位や物理攻撃の命中度に影響します。<end>"
+english = "Represents Agility (AGILITY). Affects action order and the accuracy of physical attacks.<end>"
+
+["200499"]
+japanese = "器用さ(DEXTERITY)を表します。<line-break>物理攻撃に対する回避度や、<line-break>罠解除能力に影響します。<end>"
+english = "Represents Dexterity (DEXTERITY). Affects evasion against physical attacks and the ability to disarm traps.<end>"
+
+["200500"]
+japanese = "キャラクターの勇敢さを表します。<line-break>戦士系のソウルを宿すために重要となります。<end>"
+english = "Represents a character's bravery, which is important for harboring warrior-type Souls.<end>"
+
+["200501"]
+japanese = "キャラクターの優しさを表します。<line-break>狩人系のソウルを宿すために重要となります。<end>"
+english = "Represents a character's kindness, which is important for harboring hunter-type Souls.<end>"
+
+["200502"]
+japanese = "キャラクターの探求心を表します。<line-break>魔術師系のソウルを宿すために重要となります。<end>"
+english = "Represents a character's inquisitiveness, which is important for harboring mage-type Souls.<end>"
+
+["200503"]
+japanese = "キャラクターの信念を表します。<line-break>神官系のソウルを宿すために重要となります。<end>"
+english = "Represents a character's conviction, which is important for harboring priest-type Souls.<end>"
+
+["200504"]
+japanese = "キャラクターの野性を表します。<line-break>獣系のソウルを宿すために重要となります。<end>"
+english = "Represents a character's wildness, which is important for harboring beast-type Souls.<end>"
+
+["200505"]
+japanese = "キャラクターの冷静さを表します。<line-break>盗賊系のソウルを宿すために重要となります。<end>"
+english = "Represents a character's composure, which is important for harboring thief-type Souls.<end>"
+
+["200506"]
+japanese = "キャラクターのレベルが上昇した時に、<line-break>各パラメータが上昇する割合を示しています。<end>"
+english = "Shows the rate at which each parameter increases when the character gains a level.<end>"
+
+["200507"]
+japanese = "戦闘中、このアイコンのコマンドで<line-break>使用するスキルです。<end>"
+english = "This skill is used in battle with the command represented by this icon.<end>"
+
+["200508"]
+japanese = "戦闘中、このアイコンのコマンドで<line-break>使用するスキルです。<end>"
+english = "This skill is used in battle with the command represented by this icon.<end>"
+
+["200509"]
+japanese = "戦闘中、このアイコンのコマンドで<line-break>使用するスキルです。<end>"
+english = "This skill is used in battle with the command represented by this icon.<end>"
+
+["200510"]
+japanese = "戦闘中、このアイコンのコマンドで<line-break>使用するスキルです。<end>"
+english = "This skill is used in battle with the command represented by this icon.<end>"
+
+["200511"]
+japanese = "戦闘中、このアイコンのコマンドで<line-break>使用するスキルです。<end>"
+english = "This skill is used in battle with the command represented by this icon.<end>"
+
+["200512"]
+japanese = "フィールド上で使用するスキルです。<end>"
+english = "This skill is used in the field.<end>"
+
+["200513"]
+japanese = "自動的に発動するスキルです。<end>"
+english = "This skill activates automatically.<end>"
+
+["200514"]
+japanese = "キャラクターの持っているスキルポイントです。<line-break>これと引き替えにスキルを習得します。<end>"
+english = "These are the character's Skill Points. Spend them to learn skills.<end>"
+
+["200515"]
+japanese = "装備をはずします。<end>"
+english = "Remove equipment.<end>"
+
+["200516"]
+japanese = "装備品の種類が片手剣であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates one-handed swords.<end>"
+
+["200517"]
+japanese = "装備品の種類が両手剣であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates two-handed swords.<end>"
+
+["200518"]
+japanese = "装備品の種類が槍であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates spears.<end>"
+
+["200519"]
+japanese = "装備品の種類が斧であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates axes.<end>"
+
+["200520"]
+japanese = "装備品の種類が小刀であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates daggers.<end>"
+
+["200521"]
+japanese = "装備品の種類が弓であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates bows.<end>"
+
+["200522"]
+japanese = "装備品の種類が拳具であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates fist weapons.<end>"
+
+["200523"]
+japanese = "装備品の種類が盾であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates shields.<end>"
+
+["200524"]
+japanese = "装備品の種類が布製防具であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates cloth armor.<end>"
+
+["200525"]
+japanese = "装備品の種類が胸当てであることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates breastplates.<end>"
+
+["200526"]
+japanese = "装備品の種類が胴鎧であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates body armor.<end>"
+
+["200527"]
+japanese = "装備品の種類が全身鎧であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates full-body armor.<end>"
+
+["200528"]
+japanese = "装備品の種類が装飾品であることを<line-break>表すアイコンです。<end>"
+english = "This icon indicates accessories.<end>"
+
+["200529"]
+japanese = "物理攻撃の攻撃力を表しています。<line-break>武器の攻撃力と筋力が影響します。<end>"
+english = "Indicates physical attack power. A weapon's attack power and strength affect this value.<end>"
+
+["200530"]
+japanese = "物理攻撃の命中度を表しています。<end>"
+english = "Indicates the accuracy of physical attacks.<end>"
+
+["200531"]
+japanese = "クリティカル攻撃の起きる<line-break>度合いを表しています。<end>"
+english = "Indicates the likelihood of landing a critical attack.<end>"
+
+["200532"]
+japanese = "物理攻撃に対する防御力を表しています。<end>"
+english = "Indicates defense against physical attacks.<end>"
+
+["200533"]
+japanese = "物理攻撃に対する回避度を表しています。<end>"
+english = "Indicates evasion against physical attacks.<end>"
+
+["200534"]
+japanese = "戦闘時の素早さを表しています。<line-break>行動順位はこの値で決まります。<line-break>武器や防具の階級によって変化します。<end>"
+english = "Indicates speed in battle. Turn order is determined by this value, which varies with the class of weapons and armor equipped.<end>"
+
+["200535"]
+japanese = "魔法攻撃力と防御力を表します。<line-break>知力と精神力が影響します。<end>"
+english = "Indicates magical attack power and defense. Intelligence and spirit affect this value.<end>"
+
+["200536"]
+japanese = "エレメンタル・ステータス。<line-break>どの精霊力を宿しているかを表しています。<end>"
+english = "Elemental Status. Indicates the elemental power present.<end>"
+
+["200537"]
+japanese = "エレメンタル・キャパシティ。<line-break>どれだけの精霊力を宿すことが<line-break>できるかを表しています。<end>"
+english = "Elemental Capacity. Indicates how much elemental power can be contained.<end>"
+
+["200538"]
+japanese = "装備品の持っている特性効果を表しています。<line-break>特性効果は武器なら敵への攻撃に、<line-break>防具なら敵の攻撃に対して効果があります。<end>"
+english = "Indicates an item's special effect. On a weapon, the effect applies when attacking an enemy; on armor, it applies against enemy attacks.<end>"
+
+["200539"]
+japanese = "武器なら敵を眠り状態にします。<line-break>防具なら敵の眠り攻撃を防ぎます。<line-break>眠っている敵は起きるまで攻撃してきません。<end>"
+english = "As a weapon, inflicts Sleep on enemies. As armor, prevents enemy Sleep attacks. Sleeping enemies cannot attack until they wake.<end>"
+
+["200540"]
+japanese = "武器なら敵をマヒ状態にします。<line-break>防具なら敵のマヒ攻撃を防ぎます。<line-break>マヒした敵は動けません。<end>"
+english = "As a weapon, inflicts Paralysis on enemies. As armor, prevents enemy Paralysis attacks. Paralyzed enemies cannot move.<end>"
+
+["200541"]
+japanese = "武器なら敵を石化状態にします。<line-break>防具なら敵の石化攻撃を防ぎます。<line-break>石化した敵は動けません。<end>"
+english = "As a weapon, petrifies enemies. As armor, prevents enemy petrification attacks. Petrified enemies cannot move.<end>"
+
+["200542"]
+japanese = "武器なら敵を暗闇状態にします。<line-break>防具なら敵の暗闇攻撃を防ぎます。<line-break>暗闇状態の敵は命中度が低下します。<end>"
+english = "As a weapon, inflicts Blindness on enemies. As armor, prevents enemy Blindness attacks. Blinded enemies have reduced accuracy.<end>"
+
+["200543"]
+japanese = "武器なら敵を混乱状態にします。<line-break>防具なら敵の混乱攻撃を防ぎます。<line-break>混乱した敵は無差別に攻撃します。<end>"
+english = "As a weapon, inflicts Confusion on enemies. As armor, prevents enemy Confusion attacks. Confused enemies attack indiscriminately.<end>"
+
+["200544"]
+japanese = "武器なら敵を幻覚状態にします。<line-break>防具なら敵の幻覚攻撃を防ぎます。<line-break>幻覚状態の敵は命中度が低下します。<end>"
+english = "As a weapon, inflicts Hallucination on enemies. As armor, prevents enemy Hallucination attacks. Hallucinating enemies have reduced accuracy.<end>"
+
+["200545"]
+japanese = "武器なら敵を毒状態にします。<line-break>防具なら敵の毒攻撃を防ぎます。<line-break>毒状態の敵は毎ターンダメージを受けます。<end>"
+english = "As a weapon, poisons enemies. As armor, prevents enemy Poison attacks. Poisoned enemies take damage every turn.<end>"
+
+["200546"]
+japanese = "武器なら敵を沈黙状態にします。<line-break>防具なら敵の沈黙攻撃を防ぎます。<line-break>沈黙した敵は声を出せなくなります。<end>"
+english = "As a weapon, inflicts Silence on enemies. As armor, prevents enemy Silence attacks. Silenced enemies cannot speak.<end>"
+
+["200547"]
+japanese = "武器なら敵を呪い状態にします。<line-break>防具なら敵の呪い攻撃を防ぎます。<line-break>呪われた敵は攻撃力も防御力も半減します。<end>"
+english = "As a weapon, curses enemies. As armor, prevents enemy Curse attacks. Cursed enemies have both attack power and defense halved.<end>"
+
+["200548"]
+japanese = "ＳＴＲを５ポイント上昇させます。<end>"
+english = "Raises ＳＴＲ by 5 points.<end>"
+
+["200549"]
+japanese = "ＶＩＴを５ポイント上昇させます。<end>"
+english = "Raises ＶＩＴ by 5 points.<end>"
+
+["200550"]
+japanese = "ＩＮＴを５ポイント上昇させます。<end>"
+english = "Raises ＩＮＴ by 5 points.<end>"
+
+["200551"]
+japanese = "ＭＩＮを５ポイント上昇させます。<end>"
+english = "Raises ＭＩＮ by 5 points.<end>"
+
+["200552"]
+japanese = "ＡＧＩを５ポイント上昇させます。<end>"
+english = "Raises ＡＧＩ by 5 points.<end>"
+
+["200553"]
+japanese = "ＤＥＸを５ポイント上昇させます。<end>"
+english = "Raises ＤＥＸ by 5 points.<end>"
+
+["200554"]
+japanese = "ＳＴＲを１０ポイント上昇させます。<end>"
+english = "Raises ＳＴＲ by 10 points.<end>"
+
+["200555"]
+japanese = "ＶＩＴを１０ポイント上昇させます。<end>"
+english = "Raises ＶＩＴ by 10 points.<end>"
+
+["200556"]
+japanese = "ＩＮＴを１０ポイント上昇させます。<end>"
+english = "Raises ＩＮＴ by 10 points.<end>"
+
+["200557"]
+japanese = "ＭＩＮを１０ポイント上昇させます。<end>"
+english = "Raises ＭＩＮ by 10 points.<end>"
+
+["200558"]
+japanese = "ＡＧＩを１０ポイント上昇させます。<end>"
+english = "Raises ＡＧＩ by 10 points.<end>"
+
+["200559"]
+japanese = "ＤＥＸを１０ポイント上昇させます。<end>"
+english = "Raises ＤＥＸ by 10 points.<end>"
+
+["200560"]
+japanese = "ＳＴＲを２０ポイント上昇させます。<end>"
+english = "Raises ＳＴＲ by 20 points.<end>"
+
+["200561"]
+japanese = "ＶＩＴを２０ポイント上昇させます。<end>"
+english = "Raises ＶＩＴ by 20 points.<end>"
+
+["200562"]
+japanese = "ＩＮＴを２０ポイント上昇させます。<end>"
+english = "Raises ＩＮＴ by 20 points.<end>"
+
+["200563"]
+japanese = "ＭＩＮを２０ポイント上昇させます。<end>"
+english = "Raises ＭＩＮ by 20 points.<end>"
+
+["200564"]
+japanese = "ＡＧＩを２０ポイント上昇させます。<end>"
+english = "Raises ＡＧＩ by 20 points.<end>"
+
+["200565"]
+japanese = "ＤＥＸを２０ポイント上昇させます。<end>"
+english = "Raises ＤＥＸ by 20 points.<end>"
+
+["200566"]
+japanese = "敵の眠り攻撃を５０％の確率で回避します。<end>"
+english = "Grants a 50% chance to evade enemy Sleep attacks.<end>"
+
+["200567"]
+japanese = "敵のマヒ攻撃を５０％の確率で回避します。<end>"
+english = "Grants a 50% chance to evade enemy Paralysis attacks.<end>"
+
+["200568"]
+japanese = "敵の石化攻撃を５０％の確率で回避します。<end>"
+english = "Grants a 50% chance to evade enemy petrification attacks.<end>"
+
+["200569"]
+japanese = "敵の暗闇攻撃を５０％の確率で回避します。<end>"
+english = "Grants a 50% chance to evade enemy Blindness attacks.<end>"
+
+["200570"]
+japanese = "敵の混乱攻撃を５０％の確率で回避します。<end>"
+english = "Grants a 50% chance to evade enemy Confusion attacks.<end>"
+
+["200571"]
+japanese = "敵の幻覚攻撃を５０％の確率で回避します。<end>"
+english = "Grants a 50% chance to evade enemy Hallucination attacks.<end>"
+
+["200572"]
+japanese = "敵の毒攻撃を５０％の確率で回避します。<end>"
+english = "Grants a 50% chance to evade enemy Poison attacks.<end>"
+
+["200573"]
+japanese = "敵の沈黙攻撃を５０％の確率で回避します。<end>"
+english = "Grants a 50% chance to evade enemy Silence attacks.<end>"
+
+["200574"]
+japanese = "敵の呪い攻撃を５０％の確率で回避します。<end>"
+english = "Grants a 50% chance to evade enemy Curse attacks.<end>"
+
+["200575"]
+japanese = "敵の速度低下状態を５０％の確率で<line-break>回避します。<end>"
+english = "Grants a 50% chance to evade enemy speed-reduction effects.<end>"
+
+["200576"]
+japanese = "敵の死の呪い攻撃を５０％の確率で<line-break>回避します。<end>"
+english = "Grants a 50% chance to evade enemy Death Curse attacks.<end>"
+
+["200577"]
+japanese = "毎ターン、ＨＰが最大値の５％回復する。<end>"
+english = "Restores 5% of maximum ＨＰ each turn.<end>"
+
+["200578"]
+japanese = "毎ターン、ＭＰが最大値の３％回復する。<end>"
+english = "Restores 3% of maximum ＭＰ each turn.<end>"
+
+["200579"]
+japanese = "戦闘中にＨＰが０になると、<line-break>自動的にＨＰが最大値まで回復します。<line-break>ただし、１度作動すると壊れてしまいます。<end>"
+english = "If ＨＰ falls to 0 during battle, it is automatically restored to maximum. The item breaks after activating once.<end>"
+
+["200580"]
+japanese = "戦闘中にＭＰが０になると、<line-break>自動的にＭＰが最大値まで回復します。<line-break>ただし、１度作動すると壊れてしまいます。<end>"
+english = "If ＭＰ falls to 0 during battle, it is automatically restored to maximum. The item breaks after activating once.<end>"
+
+["200581"]
+japanese = "５０％の確率でクリティカル攻撃がでます。<end>"
+english = "Grants a 50% chance of landing a critical attack.<end>"
+
+["200582"]
+japanese = "敵の火属性攻撃によるダメージを半減します。<end>"
+english = "Halves damage from enemy Fire-element attacks.<end>"
+
+["200583"]
+japanese = "敵の水属性攻撃によるダメージを半減します。<end>"
+english = "Halves damage from enemy Water-element attacks.<end>"
+
+["200584"]
+japanese = "敵の土属性攻撃によるダメージを半減します。<end>"
+english = "Halves damage from enemy Earth-element attacks.<end>"
+
+["200585"]
+japanese = "敵の風属性攻撃によるダメージを半減します。<end>"
+english = "Halves damage from enemy Wind-element attacks.<end>"
+
+["200586"]
+japanese = "敵の闇属性攻撃によるダメージを半減します。<end>"
+english = "Halves damage from enemy Dark-element attacks.<end>"
+
+["200587"]
+japanese = "敵の聖属性攻撃によるダメージを半減します。<end>"
+english = "Halves damage from enemy Holy-element attacks.<end>"
+
+["200588"]
+japanese = "敵の火属性攻撃によるダメージを０にします。<end>"
+english = "Reduces damage from enemy Fire-element attacks to 0.<end>"
+
+["200589"]
+japanese = "敵の水属性攻撃によるダメージを０にします。<end>"
+english = "Reduces damage from enemy Water-element attacks to 0.<end>"
+
+["200590"]
+japanese = "敵の土属性攻撃によるダメージを０にします。<end>"
+english = "Reduces damage from enemy Earth-element attacks to 0.<end>"
+
+["200591"]
+japanese = "敵の風属性攻撃によるダメージを０にします。<end>"
+english = "Reduces damage from enemy Wind-element attacks to 0.<end>"
+
+["200592"]
+japanese = "敵の闇属性攻撃によるダメージを０にします。<end>"
+english = "Reduces damage from enemy Dark-element attacks to 0.<end>"
+
+["200593"]
+japanese = "敵の聖属性攻撃によるダメージを０にします。<end>"
+english = "Reduces damage from enemy Holy-element attacks to 0.<end>"
+
+["200594"]
+japanese = "装備者が戦闘後に獲得するEXPを<line-break>１．５倍します。<end>"
+english = "Multiplies the EXP gained by the wearer after battle by 1.5.<end>"
+
+["200595"]
+japanese = "装備者が戦闘後に獲得するスキルポイントを<line-break>１．５倍します。<end>"
+english = "Multiplies the Skill Points gained by the wearer after battle by 1.5.<end>"
+
+["200596"]
+japanese = "パーティーが戦闘後に獲得するギアを<line-break>１．５倍します。<end>"
+english = "Multiplies the Gea gained by the party after battle by 1.5.<end>"
+
+["200597"]
+japanese = "アクセサリー：フィジカル効果なし<end>"
+english = "Accessory: No physical effect<end>"
+
+["200598"]
+japanese = "アクセサリー：特例効果なし<end>"
+english = "Accessory: No special effect<end>"
+
+["200599"]
+japanese = "アクセサリー：精霊力効果なし<end>"
+english = "Accessory: No elemental power effect<end>"
+
+["200600"]
+japanese = "アクセサリー：ボーナス効果なし<end>"
+english = "Accessory: No bonus effect<end>"
+
+["200601"]
+japanese = "大きいほど攻撃力や防御力が高くなります。<line-break>錬剛石が必要です。<end>"
+english = "Higher values increase Attack Power and defense. Tempering Stones are required.<end>"
+
+["200602"]
+japanese = "大きいほど重くなり素早さを低下させますが、<line-break>攻撃力や防御力は上昇します。<end>"
+english = "Higher values mean more weight and lower Agility, but greater Attack Power and defense.<end>"
+
+["200603"]
+japanese = "宿すことのできる精霊力の大きさを表します。<line-break>大きいほど属性効果も高まります。<line-break>錬剛石が必要です。<end>"
+english = "Indicates how much spirit power can be imbued. Higher values also strengthen elemental effects. Tempering Stones are required.<end>"
+
+["200604"]
+japanese = "宿している精霊力の属性を表します。<line-break>錬剛石もお金も必要ありません。<end>"
+english = "Indicates the element of the spirit power currently imbued. Neither Tempering Stones nor money are required.<end>"
+
+["200605"]
+japanese = "装備品につける特殊効果です。<line-break>いずれかの系統を選んでください。<line-break>錬剛石を必要とします。<end>"
+english = "This is a special effect applied to equipment. Select one of the categories. Tempering Stones are required.<end>"
+
+["200606"]
+japanese = "眠り、マヒ、石化からなる系統です。<line-break>別の系統に変えると効力を失います。<line-break>その場合、最初から鍛え直すことになります。<end>"
+english = "This category consists of Sleep, Paralysis, and Petrification. Changing to another category causes the effect to lose its potency, which must then be built back up from scratch.<end>"
+
+["200607"]
+japanese = "暗闇、混乱、幻覚からなる系統です。<line-break>別の系統に変えると効力を失います。<line-break>その場合、最初から鍛え直すことになります。<end>"
+english = "This category consists of Blindness, Confusion, and Hallucination. Changing to another category causes the effect to lose its potency, which must then be built back up from scratch.<end>"
+
+["200608"]
+japanese = "毒、沈黙、呪いからなる系統です。<line-break>別の系統に変えると効力を失います。<line-break>その場合、最初から鍛え直すことになります。<end>"
+english = "This category consists of Poison, Silence, and Curse. Changing to another category causes the effect to lose its potency, which must then be built back up from scratch.<end>"
+
+["200609"]
+japanese = "火属性レベルが１必要です。<end>"
+english = "Requires Fire element level 1.<end>"
+
+["200610"]
+japanese = "火属性レベルが３必要です。<end>"
+english = "Requires Fire element level 3.<end>"
+
+["200611"]
+japanese = "火属性レベルが４必要です。<end>"
+english = "Requires Fire element level 4.<end>"
+
+["200612"]
+japanese = "水属性レベルが１必要です。<end>"
+english = "Requires Water element level 1.<end>"
+
+["200613"]
+japanese = "水属性レベルが３必要です。<end>"
+english = "Requires Water element level 3.<end>"
+
+["200614"]
+japanese = "水属性レベルが４必要です。<end>"
+english = "Requires Water element level 4.<end>"
+
+["200615"]
+japanese = "土属性レベルが１必要です。<end>"
+english = "Requires Earth element level 1.<end>"
+
+["200616"]
+japanese = "土属性レベルが３必要です。<end>"
+english = "Requires Earth element level 3.<end>"
+
+["200617"]
+japanese = "土属性レベルが４必要です。<end>"
+english = "Requires Earth element level 4.<end>"
+
+["200618"]
+japanese = "風属性レベルが１必要です。<end>"
+english = "Requires Wind element level 1.<end>"
+
+["200619"]
+japanese = "風属性レベルが３必要です。<end>"
+english = "Requires Wind element level 3.<end>"
+
+["200620"]
+japanese = "風属性レベルが４必要です。<end>"
+english = "Requires Wind element level 4.<end>"
+
+["200621"]
+japanese = "火属性レベルが２必要です。<end>"
+english = "Requires Fire element level 2.<end>"
+
+["200622"]
+japanese = "火属性レベルが２必要です。<end>"
+english = "Requires Fire element level 2.<end>"
+
+["200623"]
+japanese = "火属性レベルが２必要です。<end>"
+english = "Requires Fire element level 2.<end>"
+
+["200624"]
+japanese = "火属性レベルが５必要です。<end>"
+english = "Requires Fire element level 5.<end>"
+
+["200625"]
+japanese = "火属性レベルが７必要です。<end>"
+english = "Requires Fire element level 7.<end>"
+
+["200626"]
+japanese = "火属性レベルが９必要です。<line-break>封印を解く必要があります。<end>"
+english = "Requires Fire element level 9. The seal must be broken.<end>"
+
+["200627"]
+japanese = "水属性レベルが２必要です。<end>"
+english = "Requires Water element level 2.<end>"
+
+["200628"]
+japanese = "水属性レベルが２必要です。<end>"
+english = "Requires Water element level 2.<end>"
+
+["200629"]
+japanese = "水属性レベルが２必要です。<end>"
+english = "Requires Water element level 2.<end>"
+
+["200630"]
+japanese = "水属性レベルが５必要です。<end>"
+english = "Requires Water element level 5.<end>"
+
+["200631"]
+japanese = "水属性レベルが７必要です。<end>"
+english = "Requires Water element level 7.<end>"
+
+["200632"]
+japanese = "水属性レベルが９必要です。<line-break>封印を解く必要があります。<end>"
+english = "Requires Water element level 9. The seal must be broken.<end>"
+
+["200633"]
+japanese = "土属性レベルが２必要です。<end>"
+english = "Requires Earth element level 2.<end>"
+
+["200634"]
+japanese = "土属性レベルが２必要です。<end>"
+english = "Requires Earth element level 2.<end>"
+
+["200635"]
+japanese = "土属性レベルが２必要です。<end>"
+english = "Requires Earth element level 2.<end>"
+
+["200636"]
+japanese = "土属性レベルが５必要です。<end>"
+english = "Requires Earth element level 5.<end>"
+
+["200637"]
+japanese = "土属性レベルが７必要です。<end>"
+english = "Requires Earth element level 7.<end>"
+
+["200638"]
+japanese = "土属性レベルが９必要です。<line-break>封印を解く必要があります。<end>"
+english = "Requires Earth element level 9. The seal must be broken.<end>"
+
+["200639"]
+japanese = "風属性レベルが２必要です。<end>"
+english = "Requires Wind element level 2.<end>"
+
+["200640"]
+japanese = "風属性レベルが２必要です。<end>"
+english = "Requires Wind element level 2.<end>"
+
+["200641"]
+japanese = "風属性レベルが２必要です。<end>"
+english = "Requires Wind element level 2.<end>"
+
+["200642"]
+japanese = "風属性レベルが５必要です。<end>"
+english = "Requires Wind element level 5.<end>"
+
+["200643"]
+japanese = "風属性レベルが７必要です。<end>"
+english = "Requires Wind element level 7.<end>"
+
+["200644"]
+japanese = "風属性レベルが９必要です。<line-break>封印を解く必要があります。<end>"
+english = "Requires Wind element level 9. The seal must be broken.<end>"
+
+["200645"]
+japanese = "火属性レベルと水属性レベルが<line-break>それぞれ６必要です。<end>"
+english = "Requires level 6 in both the Fire and Water elements.<end>"
+
+["200646"]
+japanese = "火属性レベルと水属性レベルが<line-break>それぞれ８必要です。<end>"
+english = "Requires level 8 in both the Fire and Water elements.<end>"
+
+["200647"]
+japanese = "水属性レベルと土属性レベルが<line-break>それぞれ６必要です。<end>"
+english = "Requires level 6 in both the Water and Earth elements.<end>"
+
+["200648"]
+japanese = "水属性レベルと土属性レベルが<line-break>それぞれ８必要です。<end>"
+english = "Requires level 8 in both the Water and Earth elements.<end>"
+
+["200649"]
+japanese = "土属性レベルと風属性レベルが<line-break>それぞれ６必要です。<end>"
+english = "Requires level 6 in both the Earth and Wind elements.<end>"
+
+["200650"]
+japanese = "土属性レベルと風属性レベルが<line-break>それぞれ８必要です。<end>"
+english = "Requires level 8 in both the Earth and Wind elements.<end>"
+
+["200651"]
+japanese = "風属性レベルと火属性レベルが<line-break>それぞれ６必要です。<end>"
+english = "Requires level 6 in both the Wind and Fire elements.<end>"
+
+["200652"]
+japanese = "風属性レベルと火属性レベルが<line-break>それぞれ８必要です。<end>"
+english = "Requires level 8 in both the Wind and Fire elements.<end>"
+
+["200653"]
+japanese = "すべての属性レベルが７必要です。<end>"
+english = "Requires level 7 in every element.<end>"
+
+["200654"]
+japanese = "すべての属性レベルが１０必要です。<end>"
+english = "Requires level 10 in every element.<end>"
+
+["200655"]
+japanese = "すべての属性レベルが１必要です。<end>"
+english = "Requires level 1 in every element.<end>"
+
+["200656"]
+japanese = "すべての属性レベルが３必要です。<end>"
+english = "Requires level 3 in every element.<end>"
+
+["200657"]
+japanese = "すべての属性レベルが５必要です。<end>"
+english = "Requires level 5 in every element.<end>"
+
+["200658"]
+japanese = "すべての属性レベルが７必要です。<end>"
+english = "Requires level 7 in every element.<end>"
+
+["200659"]
+japanese = "すべての属性レベルが９必要です。<end>"
+english = "Requires level 9 in every element.<end>"
+
+["200660"]
+japanese = "すべての属性レベルが２必要です。<end>"
+english = "Requires level 2 in every element.<end>"
+
+["200661"]
+japanese = "すべての属性レベルが４必要です。<end>"
+english = "Requires level 4 in every element.<end>"
+
+["200662"]
+japanese = "すべての属性レベルが６必要です。<end>"
+english = "Requires level 6 in every element.<end>"
+
+["200663"]
+japanese = "すべての属性レベルが８必要です。<end>"
+english = "Requires level 8 in every element.<end>"
+
+["200664"]
+japanese = "すべての属性レベルが９必要です。<end>"
+english = "Requires level 9 in every element.<end>"
+
+["200665"]
+japanese = "すべての属性レベルが１必要です。<end>"
+english = "Requires level 1 in every element.<end>"
+
+["200666"]
+japanese = "すべての属性レベルが３必要です。<end>"
+english = "Requires level 3 in every element.<end>"
+
+["200667"]
+japanese = "すべての属性レベルが５必要です。<end>"
+english = "Requires level 5 in every element.<end>"
+
+["200668"]
+japanese = "すべての属性レベルが７必要です。<end>"
+english = "Requires level 7 in every element.<end>"
+
+["200669"]
+japanese = "すべての属性レベルが１０必要です。<line-break>封印を解く必要があります。<end>"
+english = "Requires level 10 in every element. The seal must be broken.<end>"
+
+["200670"]
+japanese = "すべての属性レベルが２必要です。<end>"
+english = "Requires level 2 in every element.<end>"
+
+["200671"]
+japanese = "すべての属性レベルが４必要です。<end>"
+english = "Requires level 4 in every element.<end>"
+
+["200672"]
+japanese = "すべての属性レベルが６必要です。<end>"
+english = "Requires level 6 in every element.<end>"
+
+["200673"]
+japanese = "すべての属性レベルが８必要です。<end>"
+english = "Requires level 8 in every element.<end>"
+
+["200674"]
+japanese = "すべての属性レベルが１０必要です。<line-break>封印を解く必要があります。<end>"
+english = "Requires level 10 in every element. The seal must be broken.<end>"

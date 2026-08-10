@@ -1,0 +1,301 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1770000"]
+japanese = "ロッシマ（２）メッセージＶ３－２開始<end>"
+english = ""
+
+["1770001"]
+japanese = "ここのアロースリットや床からトゲは<line-break>解除できんようになっとる。<line-break>じゃけぇ、ダメージを覚悟の上で進みんさい。<line-break>あんたらが回復アイテムを、よけえ持っとらん<line-break>なら、引き返した方がええで。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000ロッシマ<end>"
+english = "The arrow slits and floor spikes here can't be disabled. If you're going on, be prepared to take some damage. If you don't have plenty of healing items, you'd best turn back. ―Rossima<end>"
+
+["1770002"]
+japanese = "シュートを見つけた。<line-break>これを使って下の階に降りることができる。<end>"
+english = "Found a chute. It can be used to reach the floor below.<end>"
+
+["1770003"]
+japanese = "床からトゲの罠を見つけた。<end>"
+english = "Found a spike trap in the floor.<end>"
+
+["1770004"]
+japanese = "アロースリットの罠を見つけた。<end>"
+english = "Found an arrow-slit trap.<end>"
+
+["1770005"]
+japanese = "レオニックの証は、タダでは手に入らん。<line-break>証を失うと、迷宮から出れんようにする罠が、<line-break>祭壇に仕掛けてあるからのう。<line-break>証と同じ重さの物を置けば、罠は作動せん。<line-break>わしゃあ、涙をのんで戦友を置いていく。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000ロッシマ<end>"
+english = "Leonic's token cannot be had for nothing. A trap has been set on the altar: remove the token, and you will be unable to leave the labyrinth. Put something of equal weight in its place, and the trap will not spring. Swallowing my tears, I leave my comrade-in-arms behind. Rossima<end>"
+
+["1770006"]
+japanese = "祭壇の上にレオニックの証が置いてある。<line-break>レオニックの証を手に入れますか？<end>"
+english = "Leonick's Proof rests on the altar. Will you take Leonick's Proof?<end>"
+
+["1770007"]
+japanese = "手に入れない<end>"
+english = "Don't obtain it<end>"
+
+["1770008"]
+japanese = "手に入れる<end>"
+english = "Obtain it<end>"
+
+["1770009"]
+japanese = "祭壇がある。<line-break>レオニックの証を祭壇に戻しますか？<end>"
+english = "There is an altar here. Return Leonic's token to the altar?<end>"
+
+["1770010"]
+japanese = "戻さない<end>"
+english = "Don't return<end>"
+
+["1770011"]
+japanese = "戻す<end>"
+english = "Return<end>"
+
+["1770012"]
+japanese = "祭壇の上にレオニックの証が置いてある。<line-break>レオニックの証とロッシマの道具を<line-break>交換しますか？<end>"
+english = "Leonick's token rests on the altar. Exchange it for Rossima's gear?<end>"
+
+["1770013"]
+japanese = "交換しない<end>"
+english = "Don't exchange<end>"
+
+["1770014"]
+japanese = "交換する<end>"
+english = "Exchange<end>"
+
+["1770015"]
+japanese = "祭壇の上にロッシマの道具が置いてある。<line-break>ロッシマの道具とレオニックの証を<line-break>交換しますか？<end>"
+english = "Rossima's equipment is on the altar. Would you like to exchange it for Leonic's token?<end>"
+
+["1770016"]
+japanese = "交換しない<end>"
+english = "Don't exchange<end>"
+
+["1770017"]
+japanese = "交換する<end>"
+english = "Exchange<end>"
+
+["1770018"]
+japanese = "おおう！<line-break>われ、レオニックの証を<line-break>手に入れたんか！<end>"
+english = "Oh! So you've obtained the Proof of Leonic!<end>"
+
+["1770019"]
+japanese = "ほうか、ほんなら教えてやるわい。<line-break>われには資格があるんじゃから、<line-break>レオニックの迷宮へ行く方法をのう。<end>"
+english = "Ah, then I'll tell you how to reach Leonic's Labyrinth. You've got the right to know.<end>"
+
+["1770020"]
+japanese = "乙女の鏡を知っとるじゃろ。\u3000\u3000\u3000\u3000<line-break>あそこに５本の柱に囲まれた<line-break>場所があるんよ。<line-break>そこが、レオニックの迷宮への<line-break>入り口でな、レオニックの証を<line-break>持っとったら迷宮へ導かれるはずよ。<end>"
+english = "You know the Maiden's Mirror, don't you? There's a place there surrounded by five pillars. That's the entrance to Leonic's Labyrinth. If you carry the Proof of Leonic, it should lead you inside.<end>"
+
+["1770021"]
+japanese = "レオニックの迷宮はのう、<line-break>挑む者の魂によって形を変えるんよ。<line-break>じゃから、助言はしてやれん。<line-break>わしの時は、モンスターなんか<line-break>ほとんどおらんで、罠ばっかりの<line-break>迷宮じゃったんでぇ。<end>"
+english = "Leonic's Labyrinth changes shape according to the soul of whoever challenges it, so I can't advise you. When I challenged it, there were hardly any monsters―just trap after trap.<end>"
+
+["1770022"]
+japanese = "われは、普通のやつとは\u3000\u3000\u3000\u3000\u3000\u3000<line-break>違う力を持っとる。<line-break>目の輝きが凡人と違うんよ。<line-break>じゃから、わし以上に困難な迷宮かも<line-break>しれん。ほじゃけぇ、ダメじゃあ…<line-break>思うたら逃げることよ。<end>"
+english = "You have a power ordinary folk don't. I can see it in your eyes. Your labyrinth may be harder than mine was. So if you ever think you can't go on... run.<end>"
+
+["1770023"]
+japanese = "今のわれは、冒険者ロッシマを超える<line-break>ことができるはずじゃ。<line-break>われはわしの最高の弟子なんじゃけぇ。<line-break>生きとりゃあ、何回でも挑戦できる。<line-break>命を大切にしんさいよ。<line-break>無謀と勇気は違うんじゃけぇ。<end>"
+english = "As you are now, you should be able to surpass Rossima the adventurer. You're the finest pupil I've ever had. As long as you're alive, you can try again as many times as it takes. Value your life. Recklessness and courage aren't the same thing.<end>"
+
+["1770024"]
+japanese = "なんか、しゃべりすぎて<line-break>疲れたわい…。<end>"
+english = "Seems I've worn myself out talking so much...<end>"
+
+["1770025"]
+japanese = "親友の墓参りに行くために<line-break>ちょーっと遠出したんよ。<line-break>じゃから、疲れが残っとるんかな…<line-break>今日は、何となくわれが来そうな<line-break>気がしたけぇ無理して来たんが<line-break>いけんかったんかもしれんわい。<end>"
+english = "I went a little farther afield to visit my best friend's grave. Maybe that's why I'm still tired... I had a feeling you might come today, so I pushed myself to be here. Perhaps I shouldn't have.<end>"
+
+["1770026"]
+japanese = "まあ、２，３日休めば<line-break>元気になるじゃろうて。<line-break>われに会ったことじゃしのう。<end>"
+english = "Well, two or three days of rest should put me right. I got to see you, after all.<end>"
+
+["1770027"]
+japanese = "ようこそ、無限のソウルを宿す者よ。<line-break>我が名はレオニック。禁忌を封じる者なり。<line-break>この迷宮は、そなたのために用意した。<line-break>自らの知恵と力を駆使し、<line-break>見事、我がもとに来るがよい。<line-break>さすれば、そなたに禁忌の力を与えよう。<end>"
+english = "Welcome, bearer of the Infinite Soul. My name is Leonic, the one who seals away the forbidden. This labyrinth has been prepared for you. Use your wisdom and strength, and make your way to me. Do so, and I shall grant you the power of the forbidden.<end>"
+
+["1770028"]
+japanese = "床からトゲの罠を見つけた。<end>"
+english = "Found a floor spike trap.<end>"
+
+["1770029"]
+japanese = "アロースリットの罠を見つけた。<end>"
+english = "Found an arrow-slit trap.<end>"
+
+["1770030"]
+japanese = "竜の像の口の中にレバーを見つけた。<line-break>レバーは下がっています。<line-break>レバーを上げてみますか？<end>"
+english = "You found a lever inside the dragon statue's mouth. The lever is down. Would you like to pull it up?<end>"
+
+["1770031"]
+japanese = "そのままにする<end>"
+english = "Leave it as is<end>"
+
+["1770032"]
+japanese = "上げてみる<end>"
+english = "Try raising it<end>"
+
+["1770033"]
+japanese = "竜の像の口の中にレバーを見つけた。<line-break>レバーは上がっています。<line-break>レバーを下げてみますか？<end>"
+english = "You found a lever inside the dragon statue's mouth. The lever is raised. Would you like to lower it?<end>"
+
+["1770034"]
+japanese = "そのままにする<end>"
+english = "Leave it as is<end>"
+
+["1770035"]
+japanese = "下げてみる<end>"
+english = "Try lowering it<end>"
+
+["1770036"]
+japanese = "竜の像の口の中にレバーを見つけた。<line-break>レバーは下がっています。<line-break>レバーを上げてみますか？<end>"
+english = "You found a lever inside the dragon statue's mouth. The lever is down. Would you like to pull it up?<end>"
+
+["1770037"]
+japanese = "そのままにする<end>"
+english = "Leave it as is<end>"
+
+["1770038"]
+japanese = "上げてみる<end>"
+english = "Try raising it<end>"
+
+["1770039"]
+japanese = "竜の像の口の中にレバーを見つけた。<line-break>レバーは上がっています。<line-break>レバーを下げてみますか？<end>"
+english = "You found a lever inside the dragon statue's mouth. The lever is currently raised. Would you like to lower it?<end>"
+
+["1770040"]
+japanese = "そのままにする<end>"
+english = "Leave it as is<end>"
+
+["1770041"]
+japanese = "下げてみる<end>"
+english = "Try lowering it<end>"
+
+["1770042"]
+japanese = "竜の像の口の中にレバーを見つけた。<line-break>レバーは下がっています。<line-break>レバーを上げてみますか？<end>"
+english = "You found a lever inside the dragon statue's mouth. The lever is down. Would you like to raise it?<end>"
+
+["1770043"]
+japanese = "そのままにする<end>"
+english = "Leave it as is<end>"
+
+["1770044"]
+japanese = "上げてみる<end>"
+english = "Try raising it<end>"
+
+["1770045"]
+japanese = "竜の像の口の中にレバーを見つけた。<line-break>レバーは上がっています。<line-break>レバーを下げてみますか？<end>"
+english = "You found a lever inside the dragon statue's mouth. The lever is raised. Would you like to lower it?<end>"
+
+["1770046"]
+japanese = "そのままにする<end>"
+english = "Leave it as is<end>"
+
+["1770047"]
+japanese = "下げてみる<end>"
+english = "Try lowering it<end>"
+
+["1770048"]
+japanese = "私の名はメイア。<line-break>禁忌の力を守護する者。<line-break>よくぞ来た、無限のソウルを宿す者よ。<line-break>貴様が、禁忌の力を扱うに<line-break>ふさわしい者ならば、<line-break>私を倒してみよ。<end>"
+english = "My name is Meia, guardian of the forbidden power. Welcome, bearer of the Infinite Soul. If you are worthy to wield the forbidden power, then defeat me.<end>"
+
+["1770049"]
+japanese = "見事だ…<line-break>貴様なら禁忌の力を<line-break>正しく使えるはず…<end>"
+english = "Well done... You should be able to use the forbidden power properly...<end>"
+
+["1770050"]
+japanese = "よくぞ我が試練を乗り越え、ここまで参った。<line-break>約束どおり、禁忌の力を授けよう。<line-break>祭壇の前に立つがよい。<end>"
+english = "You have done well to overcome my trial and come this far. As promised, I shall grant you the forbidden power. Stand before the altar.<end>"
+
+["1770051"]
+japanese = "禁忌の呪文デモリッシュの封印を解く。<line-break>これでそなたとその仲間は、禁忌の力を<line-break>手に入れるであろう。<end>"
+english = "I shall break the seal upon the forbidden spell Demolish. You and your companions shall now gain the forbidden power.<end>"
+
+["1770052"]
+japanese = "デモリッシュの封印が解かれた。<end>"
+english = "Demolish has been unsealed.<end>"
+
+["1770053"]
+japanese = "禁忌の大剣ソルベンジュを授けよう。<line-break>これは、戦神ソリアスがウルグとの戦いで<line-break>用いたと伝えられる大剣である。<line-break>普通の人間には使いこなせぬが、<line-break>そなたたちならば使いこなせるはず。<line-break>その力、存分に発揮してみせい。<end>"
+english = "I bestow upon you Solvenge, the forbidden greatsword. It is said that the War God Solias wielded this blade in battle against Urg. No ordinary mortal could master it, but you should be equal to the task. Show me its full power.<end>"
+
+["1770054"]
+japanese = "おう、われか。<line-break>ひさしぶりじゃのう。<line-break>元気でやっとったかいの？<end>"
+english = "Oh, it's you. Been a long time. Have you been keeping well?<end>"
+
+["1770055"]
+japanese = "どしたんねぇ、<line-break>何やらニコニコして。<line-break>えらい誇らしげじゃのう。<end>"
+english = "What's all this, then? Grinning away and looking mighty proud of yourself.<end>"
+
+["1770056"]
+japanese = "われは最後まで行けたんか！\u3000\u3000\u3000\u3000<line-break>…うれしいのう、超えたんかぁ。<line-break>われがわしを超えたんかぁ。<line-break>弟子が神の手ロッシマを超える…<line-break>これ以上の喜びはありゃせんわ。<line-break>わしは最高の宝を手に入れたんじゃ。<end>"
+english = "You made it all the way to the end? Ah, that does me good. So you've surpassed me at last. My own pupil, surpassing Rossima, the Hand of God... Nothing could make me happier. I've gained the greatest treasure of all.<end>"
+
+["1770057"]
+japanese = "何を照れとんねぇ。<line-break>わしはわれを鍛え上げた<line-break>わ・し・をほめとるんじゃ！<end>"
+english = "What are you getting bashful for? I'm praising me―the one who trained you so well!<end>"
+
+["1770058"]
+japanese = "なんじゃ、わしの道具を返して<line-break>くれるんか？<end>"
+english = "What's this? Are you giving my gear back?<end>"
+
+["1770059"]
+japanese = "その道具は、われのもんよ。<line-break>われの好きにしんさい。<line-break>わしには必要ないもんじゃ。<line-break>道具は使ってこそ道具じゃと<line-break>前にも言ったじゃろ。<line-break>忘れたんか？<end>"
+english = "That gear is yours. Use it however you like. I don't need it. Gear is meant to be used. I told you that before, didn't I? Have you forgotten?<end>"
+
+["1770060"]
+japanese = "そがーなことより座りんさいや。<line-break>われの冒険ぶりをじっくりと<line-break>聞かせてもらわにゃいけんからの。<end>"
+english = "Never mind all that. Sit yourself down. I want to hear the whole tale of your adventures.<end>"
+
+["1770061"]
+japanese = "それじゃ、達者でな。<line-break>われの活躍を楽しみにしとるでぇ。<end>"
+english = "Well then, take care of yourself. I'll be looking forward to seeing what you accomplish.<end>"
+
+["1770062"]
+japanese = "<value:$28>…<line-break>われのおかげで、わしの人生に<line-break>くいはのうなった。<end>"
+english = "<value:$28>... Thanks to you, I can look back on my life without a single regret.<end>"
+
+["1770063"]
+japanese = "こんな晴れ晴れした気分は<line-break>ひさしぶりじゃ。<line-break>これで安心して死ねるわい。<line-break>ありがとうよ…<line-break><value:$28>。<end>"
+english = "It's been a long time since I felt this light at heart. Now I can die in peace. Thank you... <value:$28>.<end>"
+
+["1770064"]
+japanese = "予備メッセージ１<line-break>ロッシマ（２）のＶ３－２<end>"
+english = ""
+
+["1770065"]
+japanese = "予備メッセージ２<line-break>ロッシマ（２）のＶ３－２<end>"
+english = ""
+
+["1770066"]
+japanese = "予備メッセージ３<line-break>ロッシマ（２）のＶ３－２<end>"
+english = ""
+
+["1770067"]
+japanese = "予備メッセージ４<line-break>ロッシマ（２）のＶ３－２<end>"
+english = ""
+
+["1770068"]
+japanese = "予備メッセージ５<line-break>ロッシマ（２）のＶ３－２<end>"
+english = ""
+
+["1770069"]
+japanese = "予備メッセージ６<line-break>ロッシマ（２）のＶ３－２<end>"
+english = ""
+
+["1770070"]
+japanese = "予備メッセージ７<line-break>ロッシマ（２）のＶ３－２<end>"
+english = ""
+
+["1770071"]
+japanese = "予備メッセージ８<line-break>ロッシマ（２）のＶ３－２<end>"
+english = ""
+
+["1770072"]
+japanese = "予備メッセージ９<line-break>ロッシマ（２）のＶ３－２<end>"
+english = ""
+
+["1770073"]
+japanese = "予備メッセージ１０<line-break>ロッシマ（２）のＶ３－２<end>"
+english = ""
+
+["1770074"]
+japanese = "ロッシマ（２）メッセージＶ３－２終端<end>"
+english = ""

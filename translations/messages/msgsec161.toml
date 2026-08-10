@@ -1,0 +1,1129 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1610000"]
+japanese = "アーギルシャイアメッセージVOL2-2開始<end>"
+english = ""
+
+["1610001"]
+japanese = "おう、<value:$28>か。<line-break>ちょうどいい所に来てくれた。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>お前さんの腕を見込んで、ひとつ<line-break>頼みたいことがあるんだが…。<line-break>聞いてくれるか？<end>"
+english = "Ah, <value:$28>. You came at just the right time. I know what you're capable of, and there's something I'd like to ask of you. Will you hear me out?<end>"
+
+["1610002"]
+japanese = "話してみて<end>"
+english = "Let's hear it.<end>"
+
+["1610003"]
+japanese = "今忙しいんで<end>"
+english = "I'm busy right now.<end>"
+
+["1610004"]
+japanese = "実はな、最近、風泣きの洞窟に\u3000\u3000\u3000\u3000<line-break>ものすごい怪物が出るらしい。<line-break>\u3000<line-break>あそこは島唯一のコロル石の産地だから<line-break>町の連中も割と足を踏み入れるんだが、<line-break>このままではとてつもなく危険だ。<end>"
+english = "It seems a fearsome monster has recently appeared in Wind-Wailing Cave. That's the island's only source of Korol Stone, so people from town go in there fairly often. It's far too dangerous to leave things as they are.<end>"
+
+["1610005"]
+japanese = "そこで、その怪物を倒してもらいたい。<line-break>報酬は、町のみんなで出し合って払う。<line-break>どうだい？\u3000やってくれないか？<end>"
+english = "So I'd like you to defeat the monster. Everyone in town will contribute toward your reward. What do you say? Will you do it?<end>"
+
+["1610006"]
+japanese = "任せて<end>"
+english = "Leave it to me.<end>"
+
+["1610007"]
+japanese = "勘弁して<end>"
+english = "Count me out.<end>"
+
+["1610008"]
+japanese = "そうか！\u3000引き受けてくれるか！\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>ありがとよ。<line-break>さすがは<value:$2B>だ。<line-break>よろしく頼むぜ。<end>"
+english = "You will? You'll take the job? Thank you. Just what I'd expect from <value:$2B>. I'm counting on you.<end>"
+
+["1610009"]
+japanese = "そうか！\u3000引き受けてくれるか！\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>ありがとよ。<line-break>さすがは<value:$28>だ。<line-break>よろしく頼むぜ。<end>"
+english = "You will? You'll take the job? Thank you. Just what I'd expect from <value:$28>. I'm counting on you.<end>"
+
+["1610010"]
+japanese = "うっ！\u3000<line-break>そ、そうか…、勘弁してくれ、か…。\u3000<line-break>\u3000<line-break>いや、こっちとしても仕事を無理強い<line-break>するわけにはいかないからな…。<line-break>じゃあ、気が向いたらまた来てくれ。<end>"
+english = "Urk! R-right... You'd rather not, then. Well, I can't force a job on you. Come back if you ever feel like it.<end>"
+
+["1610011"]
+japanese = "そ、そうなのか…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>悪かったな。<line-break>\u3000<line-break>ちょっと、困った事になっててな。<line-break>そうか、忙しいなら仕方ないな…。<line-break>また暇な時にでも頼むよ。<end>"
+english = "O-oh, right... Sorry. It's just that we're in a bit of a bind. Still, if you're busy, there's no helping it. Maybe I can ask you again when you have some time.<end>"
+
+["1610012"]
+japanese = "じゃ、気をつけて冒険を続けてくれ。\u3000<line-break>まあ、お前さんなら心配いらんか。<end>"
+english = ""
+
+["1610013"]
+japanese = "あら、あなた、<line-break>もしかして<value:$28>？<end>"
+english = "Oh, are you <value:$28>, by any chance?<end>"
+
+["1610014"]
+japanese = "いいよ<end>"
+english = "Sure.<end>"
+
+["1610015"]
+japanese = "やだな<end>"
+english = "No thanks.<end>"
+
+["1610016"]
+japanese = "まだ何も言ってないのに<line-break>ずいぶんと安請け合いなのね。<end>"
+english = "I haven't even told you what it is, and you're already saying yes? You're awfully quick to agree.<end>"
+
+["1610017"]
+japanese = "まあ、いいわ。<line-break>きっとそれも自信があるからなのよね。<line-break>\u3000<line-break>実は、この街から少し行った所にある<line-break>乙女の鏡という湖に、すごく強そうな<line-break>魔物が住み着いたの。<end>"
+english = "Well, never mind. I suppose that means you're confident in your abilities. The truth is, there's a lake called Maiden's Mirror not far outside town, and a very formidable-looking monster has taken up residence there.<end>"
+
+["1610018"]
+japanese = "あそこ、私のお気に入りなのよね。<line-break>だから、お願い。私のために<line-break>あの魔物を倒してきてくれないかしら？<end>"
+english = "It's one of my favorite places. So please, would you go and defeat that monster for me?<end>"
+
+["1610019"]
+japanese = "任せて<end>"
+english = "Leave it to me.<end>"
+
+["1610020"]
+japanese = "自分でやれ<end>"
+english = "Do it yourself.<end>"
+
+["1610021"]
+japanese = "あら、頼もしいのね。<line-break>それじゃ、お願いしようかしら。\u3000\u3000\u3000<line-break>\u3000<line-break>報酬は仕事が終わったらお渡しするわ。<line-break>頑張って魔物を追い出してね。<end>"
+english = "Oh, how reassuring. Then I'll leave it to you. I'll give you your reward once the job is done. Good luck driving that monster out.<end>"
+
+["1610022"]
+japanese = "報酬は仕事が終わったらお渡しするわ。<line-break>頑張って魔物を追い出してね。<end>"
+english = "You'll get your reward once the job is done. Do your best to drive the monsters out.<end>"
+
+["1610023"]
+japanese = "あら、それができるようなら\u3000\u3000\u3000\u3000\u3000<line-break>とっくにそうしてるわ。<line-break>\u3000<line-break>だからあなたのような<line-break>有名人に頼んだのに…。<line-break>仕方ないわね。しばらく他を当たるわ。<end>"
+english = "Oh, if I could do that, I'd have done it long ago. That's why I asked someone famous like you... Very well. I'll try elsewhere for the time being.<end>"
+
+["1610024"]
+japanese = "あら、まだ何も言ってないのに\u3000\u3000<line-break>もうお断りなの？<line-break>\u3000<line-break>案外、噂ほどでもないのかしら？<line-break>まあ、いいわ。それじゃあ失礼。<line-break>また今度頼みに来ることにするわ。<end>"
+english = "Oh, I haven't even said what I want, and you're already refusing? Perhaps you're not quite as impressive as the rumors suggest. No matter. I'll be on my way, then. I'll come ask you again another time.<end>"
+
+["1610025"]
+japanese = "あ、あああ、あんた、<line-break>あの<value:$28>か？<end>"
+english = "Y-you're <value:$28>, aren't you?<end>"
+
+["1610026"]
+japanese = "お願いだあぁ！\u3000あの化け物を<line-break>倒してきてくれえぇぇぇ！！<end>"
+english = "I'm begging you! Please go defeat that monster!<end>"
+
+["1610027"]
+japanese = "何があった？<end>"
+english = "What happened?<end>"
+
+["1610028"]
+japanese = "知ったことか<end>"
+english = "Not my problem.<end>"
+
+["1610029"]
+japanese = "い、いや、恥ずかしい話なんだが…。\u3000<line-break>この町の先に、幻惑の洞窟があるだろ？<line-break>\u3000<line-break>俺、あそこでコロル石を採取する仕事を<line-break>受けたんだ。でも、中にものすごい獣が<line-break>いて、とてもじゃないが無理なんだ。<end>"
+english = "I-it's embarrassing to admit, but... You know the Bewildering Cave just beyond this town? I took a job collecting Korol Stone there. But there's a terrifying beast inside, and there's no way I can handle it.<end>"
+
+["1610030"]
+japanese = "頼む！\u3000仕事をキャンセルするのも<line-break>恥ずかしいんだ。どうかあの獣を倒して<line-break>俺が入れるようにしてくれぇ！<end>"
+english = "I'm begging you! It'd be embarrassing to cancel the job. Please defeat that beast so I can get inside!<end>"
+
+["1610031"]
+japanese = "仕方ないなあ<end>"
+english = "All right, I guess.<end>"
+
+["1610032"]
+japanese = "情けないなあ<end>"
+english = "That's pathetic.<end>"
+
+["1610033"]
+japanese = "そ、そうか！\u3000やってくれるか！！<line-break>ありがとう。本当にありがとう！<line-break>\u3000<line-break>あの獣を倒してきてくれたら、<line-break>俺の宝をあんたにやるよ。<line-break>じゃ、倒したらまた来てくれよ。<end>"
+english = "Y-you'll do it? Thank you! Thank you so much! If you defeat that beast for me, I'll give you my treasure. Come back once you've defeated it, all right?<end>"
+
+["1610034"]
+japanese = "仕事、よろしく頼んだぜ。<line-break>あんたにも俺にもいい話だろ？<end>"
+english = "I'm counting on you for the job. It's a good deal for both of us, right?<end>"
+
+["1610035"]
+japanese = "し、仕方ないじゃないかよぉぉ！\u3000\u3000\u3000<line-break>俺だって、俺だってなあぁ…！<line-break>\u3000<line-break>もういい\u3000あんたになんか頼まん！<line-break>見てろよ、俺はやりゃあできるんだよ！<end>"
+english = "I-I can't help it! Even I... even I...! Forget it! I won't ask you for anything! Just you watch! I can do it if I try!<end>"
+
+["1610036"]
+japanese = "な、何ぃっ！！<line-break>まさか、そんな言われ方するとは！\u3000\u3000<line-break>\u3000<line-break>有名な<value:$28>も、<line-break>案外ひどい奴なんだな！<line-break>もういい！\u3000あんたとはもう口きかん！<end>"
+english = "W-what?! I never thought you'd say something like that to me! For all your fame, <value:$28>, you're actually pretty awful! Forget it! I'm never speaking to you again!<end>"
+
+["1610037"]
+japanese = "それでは、お願いしましたよ。<line-break>冒険の子らに神の導きがあらんことを。<end>"
+english = "Then I'll leave it in your hands. May divine guidance be with the children of adventure.<end>"
+
+["1610038"]
+japanese = "失礼。<end>"
+english = "If you'll excuse me.<end>"
+
+["1610039"]
+japanese = "え、ああ、今の神官様かい？\u3000\u3000\u3000\u3000\u3000<line-break>仕事を依頼しに来たんだよ。<line-break>\u3000<line-break>ちょうどいい。<line-break><value:$28>、この仕事<line-break>やってみるかい？<end>"
+english = "Hm? Oh, the priest who just left? Here to commission a job. Good timing. <value:$28>, care to take it on?<end>"
+
+["1610040"]
+japanese = "どんな仕事？<end>"
+english = "What kind of job?<end>"
+
+["1610041"]
+japanese = "今はいい<end>"
+english = "Not right now.<end>"
+
+["1610042"]
+japanese = "魔物退治だ。<line-break>しかし、普通の魔物ならいいんだが…。<line-break>\u3000<line-break>あの神官様が言うには、その魔物からは<line-break>とてつもない闇の力を感じるらしい。<line-break>だから、退治を依頼するんだそうだ。<end>"
+english = "It's a monster hunt. An ordinary monster would be one thing, but... The priest says there's an immense dark power coming from it. That's why the hunt was commissioned.<end>"
+
+["1610043"]
+japanese = "そいつは、ウルカーンへの街道沿いから<line-break>見える、火山岩地帯にいるらしい。<line-break>どうだ？\u3000行ってきてみるか？<end>"
+english = "Apparently it's in the Volcanic Rock Zone, visible from the road to Urukahn. What do you say? Want to take the job?<end>"
+
+["1610044"]
+japanese = "退治に行く<end>"
+english = "Go defeat it.<end>"
+
+["1610045"]
+japanese = "やめておく<end>"
+english = "Better not.<end>"
+
+["1610046"]
+japanese = "そうか。いや、あんたのことだ。<line-break>絶対に引き受けてくれると思ってたよ。<line-break>\u3000<line-break>あ、そうそう。言い忘れてたけど、<line-break>報酬はもう神官様からもらってる。<line-break>３０００ギアだ。結構なもんだろ？<end>"
+english = "Right. Well, knowing you, I was sure you'd take it. Oh, and I forgot to mention: I've already received the reward from the priest. Three thousand Gea. Not bad, eh?<end>"
+
+["1610047"]
+japanese = "それじゃあ、頼んだぜ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>終わったらまた来てくれよ。<line-break>\u3000<end>"
+english = "I'll leave it to you, then. Come back when it's done.<end>"
+
+["1610048"]
+japanese = "そうか、ま、お前さんも\u3000<line-break>色々と忙しいだろうからな。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>無理に頼みはしないよ。<line-break>そのうち気が向いたら<line-break>また仕事を探しに来てくれ。<end>"
+english = "All right. I suppose you've got plenty keeping you busy. I won't press you. If you feel like it sometime, come back and look for work again.<end>"
+
+["1610049"]
+japanese = "そうか、ま、お前さんも\u3000<line-break>色々と忙しいだろうからな。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>無理に頼みはしないよ。<line-break>まあ、気が向いたら<line-break>話だけでも聞きに来てくれ。<end>"
+english = "All right. I suppose you've got plenty keeping you busy. I won't press you. If you feel like it, come back sometime and at least hear about the job.<end>"
+
+["1610050"]
+japanese = "あ、あんた…\u3000スラムでタルテュバを\u3000<line-break>返り討ちにした人だな…。<end>"
+english = ""
+
+["1610051"]
+japanese = "あんた…、強そうだな…<line-break>…仕事を…引き受けてくれないか…？\u3000<end>"
+english = "You... you look strong. Would you take on a job for me...?<end>"
+
+["1610052"]
+japanese = "そいつ、朝からずっとそうしてるんだ。<line-break>頼むから話だけでも聞いてやってくれ。<end>"
+english = "That one's been at it since this morning. Do me a favor and at least listen.<end>"
+
+["1610053"]
+japanese = "話を聞こう<end>"
+english = "Hear him out<end>"
+
+["1610054"]
+japanese = "相手にしない<end>"
+english = "Ignore him<end>"
+
+["1610055"]
+japanese = "…俺たち、冒険者になっての初仕事で<line-break>城塞都市跡まで行ったんだ…。<line-break>\u3000<line-break>そこで恐ろしい魔獣に出会って、<line-break>みんな…。俺ひとり、命からがら<line-break>ここまで逃げ延びたってわけさ。<end>"
+english = "It was our first job as adventurers. We went to the Fortress City Ruins... That's where we ran into a terrifying beast, and everyone... I was the only one who escaped. I barely made it back here alive.<end>"
+
+["1610056"]
+japanese = "頼む。あいつらの仇を討ってくれ…。<line-break>ここに２０００ギアある。少ないが<line-break>報酬として前渡ししよう…。<end>"
+english = "Please. Avenge them. I've got 2,000 Gea here. It isn't much, but you can have it up front as payment...<end>"
+
+["1610057"]
+japanese = "わかった<end>"
+english = "All right<end>"
+
+["1610058"]
+japanese = "関係ないな<end>"
+english = "Not my problem<end>"
+
+["1610059"]
+japanese = "ありがとう…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>それじゃ、頼んだぜ…。<end>"
+english = "Thank you... I'm counting on you.<end>"
+
+["1610060"]
+japanese = "そうか…残念だ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>じゃあな……。<end>"
+english = "I see... That's too bad. See you...<end>"
+
+["1610061"]
+japanese = "くっ…。<line-break>結構、世の中ってのはつらいぜ…。\u3000<end>"
+english = "Damn... The world's a pretty hard place...<end>"
+
+["1610062"]
+japanese = "……すまな…い…。<line-break>少し…休ま…せて…くれない…か…。<end>"
+english = "I'm... sorry... Could you... let me rest... for a while...?<end>"
+
+["1610063"]
+japanese = "お、お前、<value:$28>か…？<line-break>これはおどろいた。みちがえたな。\u3000<line-break>\u3000<line-break>噂は聞いていたんだがな。あの有名な<line-break><value:$2B>がお前だってのは。<line-break>しかし、こうも立派になるとは…。<end>"
+english = "Y-you're <value:$28>...? Well, I'll be. I hardly recognized you. I'd heard the rumors―that you were the famous <value:$2B>. But I never imagined you'd become so impressive...<end>"
+
+["1610064"]
+japanese = "お、お前、<value:$28>か…？<line-break>これはおどろいた。みちがえたな。\u3000<line-break>\u3000<line-break>噂は聞いていたんだがな。お前が<line-break>大陸屈指の冒険者になったってのは。<line-break>しかし、こうも立派になるとは…。<end>"
+english = "Y-you're <value:$28>...? Well, I'll be. I hardly recognized you. I'd heard the rumors―that you'd become one of the finest adventurers on the continent. But I never imagined you'd become so impressive...<end>"
+
+["1610065"]
+japanese = "お前があの<value:$28>だって？<line-break>こりゃおどろいた。まだ若いんだな。\u3000<line-break>\u3000<line-break>人生ってのは人それぞれだと思うが…、<line-break>その若さで、ものすごい冒険の数々を<line-break>してきたっていうのか…。<end>"
+english = "You're the famous <value:$28>? Well, I'll be. You're still so young. Everyone takes a different path through life, I suppose, but... have you really had all those incredible adventures at your age?<end>"
+
+["1610066"]
+japanese = "よし！\u3000俺もギルドの親父として\u3000\u3000\u3000<line-break>お前に負けない仕事をしよう！<line-break>\u3000<line-break>そうだ！\u3000ちょうどいい大物の仕事が<line-break>入ってきてるんだ！\u3000どうだい？<line-break><value:$28>、やってみないか？<end>"
+english = "Right! As Guildmaster, I'd better find you work worthy of your talents! In fact, a major job has just come in. What do you say, <value:$28>? Want to give it a try?<end>"
+
+["1610067"]
+japanese = "仕事内容を聞く<end>"
+english = "Ask about the job<end>"
+
+["1610068"]
+japanese = "今はやめておく<end>"
+english = "Not right now<end>"
+
+["1610069"]
+japanese = "ここから北にある紺碧の洞窟で\u3000\u3000\u3000\u3000<line-break>怪物退治をするっていう仕事さ。<line-break>\u3000<line-break>帝国のコロル石採掘部門からの依頼で、<line-break>報酬は５０００ギアだ。<line-break>腕試しがてら、引き受けてみるかい？<end>"
+english = "It's a monster-hunting job in Azure Cave, north of here. The request comes from the Empire's Korol Stone Mining Division, and it pays 5,000 Gea. How about taking it on as a test of your skills?<end>"
+
+["1610070"]
+japanese = "引き受ける<end>"
+english = "Accept the job<end>"
+
+["1610071"]
+japanese = "やめておく<end>"
+english = "Decline<end>"
+
+["1610072"]
+japanese = "そうだろうな。お前ほどの冒険者なら<line-break>断る理由が見つからないからな。<line-break>\u3000<line-break>じゃ、片付いたらまたここに来てくれ。<line-break>偉大な冒険者に報酬を渡すのを<line-break>楽しみにしてるよ。<end>"
+english = "I figured you would. An adventurer like you has no reason to turn it down. Once it's taken care of, come back here. It'll be a pleasure to hand a great adventurer the reward.<end>"
+
+["1610073"]
+japanese = "引き受けないのか！？\u3000…まあ、<line-break>お前にも都合があるだろうからな。<line-break>\u3000<line-break>またいつか、気が向いたら<line-break>引き受けてくれ。たぶんこんな仕事は<line-break>お前くらいにしかできないだろう。<end>"
+english = "You won't take it!? Well... I'm sure you have your reasons. Maybe you'll take it on another time, if you feel like it. It's probably a job only someone of your caliber can handle.<end>"
+
+["1610074"]
+japanese = "そうか…。じゃあ、この話は他の奴に<line-break>声をかけてみることにするよ。<end>"
+english = "I see... In that case, I'll offer the job to someone else.<end>"
+
+["1610075"]
+japanese = "本当なんだよ！<line-break>本当に、鳳凰がいたんだよ！<end>"
+english = "It's true! There really was a phoenix!<end>"
+
+["1610076"]
+japanese = "鳳凰山に鳳凰がいる…ねえ…。<line-break>なんか、単純過ぎてなあ……。<end>"
+english = "A phoenix on Phoenix Mountain, eh? Sounds a little too obvious to me...<end>"
+
+["1610077"]
+japanese = "<if><value:$29><equal>%0ねえ、おにいちゃん冒険者でしょ?<line-break>鳳凰山の鳳凰を見つけてきてよ！！<end>ねえ、おねえちゃん冒険者でしょ?<line-break>鳳凰山の鳳凰を見つけてきてよ！！<end>"
+english = "<if><value:$29><equal>%0Hey, mister, you're an adventurer, right? Go find the phoenix on Phoenix Mountain for me!<end>Hey, miss, you're an adventurer, right? Go find the phoenix on Phoenix Mountain for me!<end>"
+
+["1610078"]
+japanese = "鳳凰って？<end>"
+english = "A phoenix?<end>"
+
+["1610079"]
+japanese = "うるさい<end>"
+english = "Shut up.<end>"
+
+["1610080"]
+japanese = "最近の子供たちの間での話題さ。\u3000\u3000<line-break>鳳凰山の頂上に鳳凰がいるってね。<line-break>\u3000<line-break>まったく、どこの子が言い出したのか<line-break>わからんが、もし鳳凰山に登って<line-break>ケガでもしたら一大事だよ。<end>"
+english = "All the children are talking about it lately. They say there's a phoenix at the top of Phoenix Mountain. I don't know who started the rumor, but if one of them climbs the mountain and gets hurt, we'll have a real problem on our hands.<end>"
+
+["1610081"]
+japanese = "だーかーらー！<line-break>絶っ対にいるんだってば！！<end>"
+english = "That's what I've been telling you! It's definitely there!<end>"
+
+["1610082"]
+japanese = "ね、頼むよ。鳳凰を見つけてきてよ。<line-break>本当にいるんだよ。ね、ね！<end>"
+english = "Please, I'm begging you. Go find the phoenix for me. It really is there. Please, please!<end>"
+
+["1610083"]
+japanese = "任せとけ<end>"
+english = "Leave it to me.<end>"
+
+["1610084"]
+japanese = "そんなのウソ<end>"
+english = "That's a lie.<end>"
+
+["1610085"]
+japanese = "本当！？\u3000やったあ！！<line-break>じゃ、これあげるよ。<end>"
+english = "Really? Hooray! Then you can have this.<end>"
+
+["1610086"]
+japanese = "それ、ボクの今月のおこづかい全部。<line-break>ほうしゅう、いるんでしょ？<line-break>\u3000<line-break>じゃ、お願いしたからね。<line-break>絶対、見つけてきてね！！<end>"
+english = "That's my whole allowance for this month. You need a reward, right? Okay, I'm counting on you. You have to find it!<end>"
+
+["1610087"]
+japanese = "そんなことあるもんか！！<line-break>絶対、絶対鳳凰はいるんだ！！<end>"
+english = "No way! The phoenix is there! I know it is!<end>"
+
+["1610088"]
+japanese = "な、なんだよぉ…。<end>"
+english = "Wh-what...?<end>"
+
+["1610089"]
+japanese = "絶対、鳳凰はいるんだ！！<line-break>いるにきまってる！\u3000<end>"
+english = "The phoenix is definitely there! It has to be!<end>"
+
+["1610090"]
+japanese = "おお、<value:$28>。<line-break>この前話した風泣きの洞窟の件だが…、<line-break>\u3000<line-break>いまだに怪物は退治されてないんだ。<line-break>頼む。お前さんがやってくれないか？<end>"
+english = "Oh, <value:$28>. About that business with Wind-Wailing Cave I mentioned before... The monster still hasn't been dealt with. Please, could you take care of it?<end>"
+
+["1610091"]
+japanese = "任せて<end>"
+english = "Leave it to me.<end>"
+
+["1610092"]
+japanese = "勘弁して<end>"
+english = "I'd rather not.<end>"
+
+["1610093"]
+japanese = "そうか！\u3000引き受けてくれるか！<line-break>\u3000<line-break>\u3000<line-break>ありがとよ。<line-break>さすがは<value:$2B>だ。<line-break>よろしく頼むぜ。<end>"
+english = "You will? You'll take the job? Thanks. I knew I could count on you, <value:$2B>. I'm leaving it in your hands.<end>"
+
+["1610094"]
+japanese = "そうか！\u3000引き受けてくれるか！<line-break>\u3000<line-break>\u3000<line-break>ありがとよ。<line-break>さすがは<value:$28>だ。<line-break>よろしく頼むぜ。<end>"
+english = "You will? You'll take the job? Thanks. I knew I could count on you, <value:$28>. I'm leaving it in your hands.<end>"
+
+["1610095"]
+japanese = "うっ！\u3000<line-break>そ、そうか…、勘弁してくれ、か…。\u3000<line-break>\u3000<line-break>いや、こっちとしても仕事を無理強い<line-break>するわけにはいかないからな…。<line-break>じゃあ、気が向いたらまた来てくれ。<end>"
+english = "Urk! R-right... So you'd rather not. Well, I can't force a job on you. Come back if you ever feel like it.<end>"
+
+["1610096"]
+japanese = "じゃ、気をつけて冒険を続けてくれ。<line-break>まあ、お前さんなら心配いらんか。<end>"
+english = ""
+
+["1610097"]
+japanese = "あら、また会ったわね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>先日話した、乙女の鏡にいる魔物の話、<line-break>引き受けてくれる気になったのかしら？<end>"
+english = "Oh, we meet again. Have you decided to take care of that monster in Maiden's Mirror I told you about the other day?<end>"
+
+["1610098"]
+japanese = "任せて<end>"
+english = "Leave it to me.<end>"
+
+["1610099"]
+japanese = "自分でやれ<end>"
+english = "Do it yourself.<end>"
+
+["1610100"]
+japanese = "あら、頼もしいのね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>それじゃ、お願いしようかしら。<line-break>\u3000<line-break>報酬は仕事が終わったらお渡しするわ。<line-break>がんばって魔物を追い出してね。<end>"
+english = "Oh, how reassuring. Then I'll leave it to you. I'll pay you once the job is done. Do your best to drive the monster out.<end>"
+
+["1610101"]
+japanese = "報酬は仕事が終わったらお渡しするわ。<line-break>がんばって魔物を追い出してね。<end>"
+english = ""
+
+["1610102"]
+japanese = "あら、それができるようなら\u3000\u3000\u3000\u3000<line-break>とっくにそうしてるわ。<line-break>\u3000<line-break>だから先日から、評判の高い冒険者の<line-break>あなたに頼んでいるのに…。<line-break>仕方ないわね。また出なおすわ。<end>"
+english = "Oh? If I could do that, I'd have done it long ago. That's why I've kept asking a well-regarded adventurer like you for help... Oh well. I'll come back another time.<end>"
+
+["1610103"]
+japanese = "<value:$28>っ！！<line-break>た、頼む！\u3000助けてくれぇぇ！！\u3000\u3000<line-break>\u3000<line-break>やっぱり俺には幻惑の洞窟の獣なんて<line-break>倒せっこない！\u3000ダメだ！\u3000ムリだ！<line-break>頼む、あんたが倒してきてくれぇぇ！<end>"
+english = "<value:$28>!! P-please! Help me! I should've known―there's no way I can beat the beast in the Bewildering Cave! I can't do it! It's impossible! Please, you've got to go defeat it for me!<end>"
+
+["1610104"]
+japanese = "仕方ないなあ<end>"
+english = "Oh, all right.<end>"
+
+["1610105"]
+japanese = "情けないなあ<end>"
+english = "Pathetic.<end>"
+
+["1610106"]
+japanese = "そ、そうか！\u3000やってくれるか！！<line-break>ありがとう。本当にありがとう！<line-break>\u3000<line-break>あの獣を倒してきてくれたら、<line-break>俺の宝をあんたにやるよ。<line-break>じゃ、倒したらまた来てくれよ。<end>"
+english = "S-so you will? You'll do it?! Thank you. Thank you so much! If you defeat that beast for me, I'll give you my treasure. Come back once you've defeated it, all right?<end>"
+
+["1610107"]
+japanese = "仕事、よろしく頼んだぜ。<line-break>あんたにも俺にもいい話だろ？<end>"
+english = ""
+
+["1610108"]
+japanese = "し、仕方ないじゃないかよぉぉ！\u3000\u3000\u3000<line-break>俺だって、俺だってなあぁ…！<line-break>\u3000<line-break>もういい！\u3000あんたになんか頼まん！<line-break>見てろよ、俺はやりゃあできるんだよ！<line-break>絶対、あいつを倒してきてやるからな！<end>"
+english = "I-it's not like I can help it! Even I... Even I could...! Fine! I won't ask you for help! Just you watch! I can do it if I put my mind to it! I'll defeat that thing myself, you'll see!<end>"
+
+["1610109"]
+japanese = "よう、<value:$28>。<line-break>こないだの神官様の話、覚えてるか？<line-break>\u3000<line-break>ほら、火山岩地帯にいる魔物の話さ。<line-break>こんな仕事を任せられるのはあんた<line-break>くらいだ。やってみないかい？<end>"
+english = "Hey, <value:$28>. Remember what that priest was saying the other day? About the monster in the Volcanic Rock Zone. You're about the only one I'd trust with a job like this. How about it?<end>"
+
+["1610110"]
+japanese = "退治に行く<end>"
+english = "Go defeat the monster<end>"
+
+["1610111"]
+japanese = "やめておく<end>"
+english = "Decline<end>"
+
+["1610112"]
+japanese = "そうか。いや、あんたのことだ。\u3000\u3000\u3000<line-break>絶対に引き受けてくれると思ってたよ。<line-break>\u3000<line-break>あ、そうそう。言い忘れてたけど、<line-break>報酬はもう神官様からもらってる。<line-break>３０００ギアだ。結構なもんだろ？<end>"
+english = "Good. I knew I could count on you to take it. Oh, that's right―I forgot to mention, the priest already gave me the reward. It's 3,000 Gea. Not bad, eh?<end>"
+
+["1610113"]
+japanese = "それじゃあ、頼んだぜ。<line-break>終わったらまた来てくれよ。<end>"
+english = "All right, I'm counting on you. Come back when it's done.<end>"
+
+["1610114"]
+japanese = "そうか、ま、お前さんも<line-break>色々と忙しいだろうからな。<line-break>\u3000<line-break>無理に頼みはしないよ。<line-break>そのうち気が向いたら<line-break>また仕事を探しに来てくれ。<end>"
+english = "Fair enough. I suppose you've got plenty keeping you busy. I won't push you into it. If you feel like it sometime, come back and look for work again.<end>"
+
+["1610115"]
+japanese = "よお、<value:$28>…。この前<line-break>ここに座ってた男を憶えてるか？\u3000\u3000\u3000<line-break>\u3000<line-break>あいつ…死んじまったよ…。<line-break>仲間のことを最後までくやんでな…。<line-break>切なそうな顔で息を引き取ったよ。<end>"
+english = "Hey, <value:$28>... Remember the man who was sitting here the other day? He... died. He grieved for his companions right to the end. He looked so full of sorrow when he passed.<end>"
+
+["1610116"]
+japanese = "なあ、俺からも頼む。あいつの供養だ。<line-break>城塞都市跡の魔獣を倒してやってくれ。<line-break>\u3000<line-break>ここに２０００ギアある。<line-break>あいつが最期の時、俺に託したものだ。<line-break>これで、仕事を受けてくれないか？<end>"
+english = "Listen, I'm asking you as well. Do it in his memory. Kill the monsters at the Fortress City Ruins. Here's 2,000 Gea. He entrusted it to me when he was dying. Will you take the job for that amount?<end>"
+
+["1610117"]
+japanese = "わかった<end>"
+english = "All right.<end>"
+
+["1610118"]
+japanese = "関係ないな<end>"
+english = "This has nothing to do with me.<end>"
+
+["1610119"]
+japanese = "そうか、ありがとうよ。<line-break>じゃ、よろしく頼んだぜ。<end>"
+english = "All right. Thanks. I'm counting on you.<end>"
+
+["1610120"]
+japanese = "そうか…。残念だ。<line-break>意外と淡白な性格なんだな…。<end>"
+english = "I see... That's a shame. I didn't think you'd be so cold about it.<end>"
+
+["1610121"]
+japanese = "おお、<value:$28>。この前話した<line-break>紺碧の洞窟の怪物退治の仕事だが…、\u3000<line-break>\u3000<line-break>あのあとでこれを引き受けた奴らが、<line-break>昨日尻尾巻いてキャンセルしに<line-break>来やがった。怪物が強すぎるんだと。<end>"
+english = "Ah, <value:$28>. Remember that job I mentioned, clearing the monster out of the Azure Cave? The lot who took it came crawling back yesterday to cancel. Said the monster was too strong for them.<end>"
+
+["1610122"]
+japanese = "どうだ？\u3000無理にとは言わんが、<line-break>この仕事、お前がやってみないか？<end>"
+english = "What do you say? No pressure, but would you be willing to take the job?<end>"
+
+["1610123"]
+japanese = "引き受ける<end>"
+english = "Take the job<end>"
+
+["1610124"]
+japanese = "やめておく<end>"
+english = "Turn it down<end>"
+
+["1610125"]
+japanese = "そうだろうな。お前ほどの冒険者なら<line-break>この仕事は問題無くこなせるはずだ。<line-break>\u3000<line-break>じゃ、片付いたらまたここに来てくれ。<line-break>偉大な冒険者に報酬を渡すのを<line-break>楽しみにしてるよ。<end>"
+english = "I thought you might. An adventurer of your caliber should have no trouble with this job. Come back here once it's taken care of. I'll look forward to handing a great adventurer the reward.<end>"
+
+["1610126"]
+japanese = "やっぱり引き受けないのか…。まあ、<line-break>お前にも都合があるだろうからな。<line-break>\u3000<line-break>なら、またしばらく他を当たるさ。<line-break>しかし、お前くらいなんだがな。<line-break>この仕事をこなせる冒険者は。<end>"
+english = "So you won't take it after all... Well, I'm sure you have your reasons. I'll ask around a while longer, then. Though you're about the only adventurer I know who could actually pull this off.<end>"
+
+["1610127"]
+japanese = "<if><value:$29><equal>%0あ！\u3000この前のおにいちゃん！！<end>あ！\u3000この前のおねえちゃん！！<end>"
+english = "<if><value:$29><equal>%0Oh! It's you again, mister!<end>Oh! It's you again, miss!<end>"
+
+["1610128"]
+japanese = "<if><value:$29><equal>%0ねえ、お願いだよ。鳳凰山で\u3000\u3000<line-break>鳳凰を見つけてきてよ！！<line-break>\u3000<line-break>ぼくこのまんまじゃ、みんなに<line-break>うそつきって言われちゃうよ…。<line-break>頼むよ、ねえ！\u3000おにいちゃん！<end>ねえ、お願いだよ。鳳凰山で\u3000\u3000<line-break>鳳凰を見つけてきてよ！！<line-break>\u3000<line-break>ぼくこのまんまじゃ、みんなに<line-break>うそつきって言われちゃうよ…。<line-break>頼むよ、ねえ！\u3000おねえちゃん！<end>"
+english = "<if><value:$29><equal>%0Please, mister! Go find the phoenix on Phoenix Mountain! If this keeps up, everyone's going to call me a liar... Please! I'm begging you!<end>Please, miss! Go find the phoenix on Phoenix Mountain! If this keeps up, everyone's going to call me a liar... Please! I'm begging you!<end>"
+
+["1610129"]
+japanese = "任せとけ<end>"
+english = "Leave it to me.<end>"
+
+["1610130"]
+japanese = "そんなのウソ<end>"
+english = "That's a lie.<end>"
+
+["1610131"]
+japanese = "本当！？\u3000やったあ！！<line-break>じゃ、これあげるよ。<end>"
+english = "Really?! Hooray! Here, you can have this.<end>"
+
+["1610132"]
+japanese = "それ、ボクの今月のおこづかい全部。<line-break>ほうしゅう、いるんでしょ？<line-break>\u3000<line-break>じゃ、お願いしたからね。<line-break>絶対、見つけてきてね！！<end>"
+english = "That's my whole allowance for this month. You need a reward, right? Okay, I'm counting on you. You have to find it!<end>"
+
+["1610133"]
+japanese = "ちがわい！\u3000ウソなんかじゃないやい！<line-break>絶対、絶対鳳凰はいるんだ！！<end>"
+english = "No! It's not a lie! The phoenix is real! It is, it is!<end>"
+
+["1610134"]
+japanese = "おお、<value:$28>！<line-break>風泣きの洞窟の怪物を倒したのか！？\u3000<line-break>\u3000<line-break>いやー、大したもんだよ。<line-break>さすが、俺が腕を見込んだだけのことは<line-break>あるってもんだな。<end>"
+english = "Oh, <value:$28>! You defeated the monster in Wind-Wailing Cave?! That's quite a feat. I knew I was right about you.<end>"
+
+["1610135"]
+japanese = "これが町のみんなからの報酬だ。<line-break>少ないかもしれんが、勘弁してくれよ。<end>"
+english = "Here's your reward from everyone in town. It may not be much, but I hope you'll understand.<end>"
+
+["1610136"]
+japanese = "それじゃ、ありがとうよ！<line-break>また仕事の方、よろしく頼むぜ。<end>"
+english = "Well then, thanks! I hope we can count on you for more work.<end>"
+
+["1610137"]
+japanese = "あら、お疲れさま。その顔は<line-break>乙女の鏡の魔物を倒したって顔ね。<end>"
+english = "Oh, good work. That look on your face says you defeated the monster at Maiden's Mirror.<end>"
+
+["1610138"]
+japanese = "ありがとう、うれしいわ。それじゃあ<line-break>お礼、これくらいでいいかしら？<end>"
+english = "Thank you. I'm delighted. Now, will this do as a reward?<end>"
+
+["1610139"]
+japanese = "それじゃあ、私は失礼するわね。<line-break>またあの泉に行けると思うと楽しみよ。<end>"
+english = "Well then, I'll be on my way. I'm looking forward to visiting that spring again.<end>"
+
+["1610140"]
+japanese = "ああ、あ、あんた、まさか…<line-break>あの化け物を倒してくれたのか！？<end>"
+english = "Y-you... You don't mean... Did you defeat that monster?!<end>"
+
+["1610141"]
+japanese = "す、すげえぇ！！\u3000さすがはあの有名な<line-break><value:$28>だ！<line-break>\u3000<line-break>助かったぁ！\u3000これで俺も自分の<line-break>仕事を達成できる。<line-break>ありがとう。じゃあ！<end>"
+english = "Th-that's amazing!! No wonder <value:$28> is so famous! What a relief! Now I can get my own job done. Thanks! Bye!<end>"
+
+["1610142"]
+japanese = "あ、あわわ、お礼の話だよな？<line-break>わ、忘れてないぜ。大丈夫だ。<line-break>\u3000<line-break>じゃあ、これ。俺の宝物だ。<end>"
+english = "O-oh! Your reward, right? I-I haven't forgotten. Don't worry. Here. It's my treasure.<end>"
+
+["1610143"]
+japanese = "この宝玉は気絶した時に助けてくれる<line-break>ありがたいアクセサリらしい。<line-break>\u3000<line-break>俺は気絶したことないから、実際には<line-break>どうなのかわからないけど、とにかく<line-break>身につけてみてくれ。俺の宝物だ。<end>"
+english = "Apparently, this orb is a handy accessory that helps if you get knocked out. I've never been knocked out myself, so I don't know if it actually works. Anyway, try wearing it. It's my treasure.<end>"
+
+["1610144"]
+japanese = "じゃ、じゃあ！<end>"
+english = "W-well, bye!<end>"
+
+["1610145"]
+japanese = "お疲れさま、<value:$28>。<line-break>無事に火山岩地帯の魔物を倒したって？<end>"
+english = "Nice work, <value:$28>. I hear you took care of the monsters in the Volcanic Rock Zone?<end>"
+
+["1610146"]
+japanese = "いや、なに、さっきこの前の神官様が<line-break>来てな、お礼を言って行ったんだよ。<line-break>\u3000<line-break>魔を打ち払ってくれた勇者によろしく、<line-break>だとさ。まったく、神官様ってのは<line-break>なんでもお見通しらしい。すごいね。<end>"
+english = "Well, that priest from the other day stopped by earlier to offer thanks. “Give my regards to the hero who drove back evil,” was the message. Honestly, priests seem to know everything. Amazing, isn't it?<end>"
+
+["1610147"]
+japanese = "さて、その勇者様に報酬をお渡しせねば<line-break>なりませんな。<end>"
+english = "Now then, we must present our Hero with a reward.<end>"
+
+["1610148"]
+japanese = "本当にお疲れさまだったな。<line-break>これからもよろしく頼むぜ、勇者様。<end>"
+english = "You really did a fine job. I'm counting on you from here on out, Hero.<end>"
+
+["1610149"]
+japanese = "<value:$28>…。そうか、<line-break>城塞都市跡の魔獣を倒したか…。\u3000<line-break>\u3000<line-break>これで、あいつも安心してあの世で<line-break>仲間たちと眠れるってもんだな…。<end>"
+english = "<value:$28>... So you defeated the beast at the Fortress City Ruins. Now he can rest easy in the next world, alongside his companions.<end>"
+
+["1610150"]
+japanese = "そうか、お前は知らなかったんだな。<line-break>\u3000<line-break>\u3000<line-break>あの男はお前に仕事を頼んだあと、<line-break>静かに息を引き取ったんだ。<line-break>すまなそうな、つらそうな顔で…。<end>"
+english = "You didn't know, then. After asking you to take the job, he quietly passed away. He looked so pained... so apologetic.<end>"
+
+["1610151"]
+japanese = "まあ、お前のおかげであいつも<line-break>浮かばれるだろうよ、きっとな。<end>"
+english = "Well, thanks to you, he can rest in peace now. I'm sure of it.<end>"
+
+["1610152"]
+japanese = "俺からも礼を言わせてくれ。<line-break>ありがとう。<value:$28>。<line-break>\u3000<line-break>これからもお前のその力で<line-break>人々の力になってやってくれ。<end>"
+english = "Let me thank you as well. Thank you, <value:$28>. Keep using that strength of yours to help people.<end>"
+
+["1610153"]
+japanese = "<value:$28>！<line-break>紺碧の洞窟の怪物を倒したのか！？<end>"
+english = "<value:$28>! You defeated the monster in the Azure Cave?!<end>"
+
+["1610154"]
+japanese = "<if><value:$2A><greater-equal>50そうか！！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>さすがは<value:$2B>だ！<line-break>\u3000<line-break>これで帝国のコロル石採掘作業も<line-break>もとどおりの軌道に乗れるだろう。<line-break>本当によくやってくれた。<end>そうか！！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>さすがは<value:$28>だ！<line-break>\u3000<line-break>これで帝国のコロル石採掘作業も<line-break>もとどおりの軌道に乗れるだろう。<line-break>本当によくやってくれた。<end>"
+english = "<if><value:$2A><greater-equal>50So you did! Just what I'd expect from <value:$2B>! Now the Empire's Corol stone mining operation can get back on track. You've done a fine job.<end>So you did! Just what I'd expect from <value:$28>! Now the Empire's Corol stone mining operation can get back on track. You've done a fine job.<end>"
+
+["1610155"]
+japanese = "しかし、あの町外れの小僧が\u3000\u3000\u3000\u3000<line-break>ここまで立派になるとはな。<line-break>\u3000<line-break>正直言って意外だが、それ以上に<line-break>お前の勇姿を見ることは嬉しいぞ。<line-break>いや、本当に大したもんだよ。<end>"
+english = ""
+
+["1610156"]
+japanese = "じゃあ、これが帝国からの報酬\u3000\u3000\u3000\u3000<line-break>５０００ギアだ。<line-break>\u3000<line-break>いい仕事をしたな。<line-break>胸を張って受け取ってくれ。<end>"
+english = "Here, your reward from the Empire: 5,000 Gea. Fine work. Take it with pride.<end>"
+
+["1610157"]
+japanese = "これからもお前に期待してるぜ。\u3000\u3000\u3000<line-break>がんばれよ、大冒険者<value:$28>！<end>"
+english = "I'm counting on you from here on out. Keep it up, great adventurer <value:$28>!<end>"
+
+["1610158"]
+japanese = "<if><value:$29><equal>%0あ！\u3000おにいちゃん！！<line-break>どうだった？\u3000鳳凰いたでしょ！？<end>あ！\u3000おねえちゃん！！<line-break>どうだった？\u3000鳳凰いたでしょ！？<end>"
+english = "<if><value:$29><equal>%0Hey, mister! How did it go? The phoenix was there, wasn't it?<end>Hey, miss! How did it go? The phoenix was there, wasn't it?<end>"
+
+["1610159"]
+japanese = "そうなんだ…。<line-break>あの鳳凰、悪い鳳凰だったんだ…。<line-break>\u3000<line-break>でも、確かにいたんだよね！？<line-break>うそじゃなかったんだよね？<end>"
+english = "Oh... So it was a bad phoenix... But it really was there, right? It wasn't a lie, was it?<end>"
+
+["1610160"]
+japanese = "そっか…。<end>"
+english = "Oh... Okay.<end>"
+
+["1610161"]
+japanese = "<if><value:$29><equal>%0自分で見れなかったのは残念だけど…、<line-break>でも、ありがとう！\u3000おにいちゃん。<line-break>\u3000<line-break>ぼくもいつかおにいちゃんみたいに<line-break>自分の力で世界を見てまわれるような<line-break>強い冒険者になるよ！！<end>自分で見れなかったのは残念だけど…、<line-break>でも、ありがとう！\u3000おねえちゃん。<line-break>\u3000<line-break>ぼくもいつかおねえちゃんみたいに<line-break>自分の力で世界を見てまわれるような<line-break>強い冒険者になるよ！！<end>"
+english = "<if><value:$29><equal>%0It's too bad I didn't get to see it myself... but thank you, mister! Someday I'll be a strong adventurer like you, traveling the world on my own!<end>It's too bad I didn't get to see it myself... but thank you, miss! Someday I'll be a strong adventurer like you, traveling the world on my own!<end>"
+
+["1610162"]
+japanese = "そうか、鳳凰は本当にいたかい。<line-break>お前さん、本当にやさしいんだね。<end>"
+english = "So the phoenix really was there, was it? You really are kind.<end>"
+
+["1610163"]
+japanese = "見るがよい…。人間どもにとって\u3000\u3000<line-break>お前は恐怖以外の何者でもない。<line-break>\u3000<line-break>そこから生まれる、相容れないという<line-break>精神の呪縛…。<line-break>そして奴らは、お前を殺しに来る。<end>"
+english = "Behold... To humans, you are nothing but an object of terror. From that terror comes the curse of believing you can never coexist. And so they will come to kill you.<end>"
+
+["1610164"]
+japanese = "そうじゃ。お前が奴らを消せばいい。<line-break>奴らがお前にすることを<line-break>ただ、やり返してやればいい。<line-break>そら、お前を殺そうと<line-break>凶悪な冒険者がやってきおった。<line-break>まずは奴らを血祭りにあげるのだ。<end>"
+english = "Yes. Wipe them out. You need only repay them in kind. Look―some vicious adventurers have come to kill you. Begin by slaughtering them.<end>"
+
+["1610165"]
+japanese = "ああ、今の祈りですか？<line-break>闇の力を浄化したのです。<line-break>念には念を、というところですか。<line-break>これで、闇がひとつ滅びましたね。<line-break>それでは、急ぐので失礼します。<line-break>またいつか会うこともあるでしょう。<end>"
+english = "Ah, you mean that prayer? I was purifying the power of darkness. One can never be too careful. And now, one more darkness has been destroyed. I'm afraid I must hurry on. Perhaps we'll meet again someday.<end>"
+
+["1610166"]
+japanese = "…待て。<line-break>貴様、名を名乗れ。<end>"
+english = "Wait. State your name.<end>"
+
+["1610167"]
+japanese = "私の名…ですか？<line-break>私は…、\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>…私は、そう、仮面のしもべ…、<line-break>あのお方は私をサイフォスと<line-break>お呼びくださいます。<end>"
+english = "My name...? I am... I am, yes, a servant of the mask. The exalted one is gracious enough to call me Sifos.<end>"
+
+["1610168"]
+japanese = "サイフォス？<line-break>それが本当に貴様の名なのか？<end>"
+english = "Sifos? Is that truly your name?<end>"
+
+["1610169"]
+japanese = "…では。<end>"
+english = "Well, then...<end>"
+
+["1610170"]
+japanese = "待て！<end>"
+english = "Wait!<end>"
+
+["1610171"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1610172"]
+japanese = "…そうだな、<line-break>お前も、同じか。<end>"
+english = "Yes... You're the same, then.<end>"
+
+["1610173"]
+japanese = "よし、ゆくぞ。<end>"
+english = "Good. Let's go.<end>"
+
+["1610174"]
+japanese = "私の名…ですか？<line-break>私は…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>私は…、そう、仮面のしもべ…、<line-break>あのお方は私をサイフォスと<line-break>お呼びくださいます。<end>"
+english = "My name...? I am... I am... yes, a servant of the mask. The exalted one is gracious enough to call me Sifos.<end>"
+
+["1610175"]
+japanese = "…では。<end>"
+english = "Well, then...<end>"
+
+["1610176"]
+japanese = "いつもながら見事な手並みです。<line-break><value:$28>さん。<line-break>これも普段の鍛錬の賜物ですか？<end>"
+english = "Impressive work, as always, <value:$28>. Is that the fruit of your daily training?<end>"
+
+["1610177"]
+japanese = "…今、なんと…？<line-break>しゃべるゴブリンと戦い、勝利した？<line-break>そうおっしゃいましたか？<line-break>そうですか…。<line-break>フフ…あのお方も、お喜びに…。<end>"
+english = "What did you just say...? You fought a talking Goblin and won? Is that what you said? I see... Heh... The exalted one will be pleased...<end>"
+
+["1610178"]
+japanese = "なんのつもりです？<line-break>あまり感心できる動きではないですね。<end>"
+english = "What do you think you're doing? I can't say I approve of that move.<end>"
+
+["1610179"]
+japanese = "…確かめたかっただけだ。<line-break>こんなふうにな。<end>"
+english = "I merely wanted to be sure. Like this.<end>"
+
+["1610180"]
+japanese = "な、何だ！？<line-break>剣が…共振しているのか！？<end>"
+english = "W-What!? The sword... is it resonating!?<end>"
+
+["1610181"]
+japanese = "俺の月光に反応する剣…\u3000\u3000\u3000\u3000<line-break>それはひとつしかない。<line-break>\u3000<line-break>そして、その剣を持つ男もな…。<end>"
+english = "Only one sword could answer to my Moonlight. And only one man could be carrying that sword...<end>"
+
+["1610182"]
+japanese = "くっ！！<end>"
+english = "Gah!!<end>"
+
+["1610183"]
+japanese = "…今は、特に、<line-break>お前に言うことはない。\u3000\u3000<line-break>\u3000<line-break>…だが、おそらく状況は<line-break>お前の考えているとおりだ。<end>"
+english = "For now, I have nothing in particular to say to you. But the situation is probably just as you suspect.<end>"
+
+["1610184"]
+japanese = "フフ、この祈りが無意味に見えますか？<line-break>念には念…というところです。<line-break>\u3000<line-break>おかしいですか？<line-break>そちらの方はまた不審そうに<line-break>私のことを見ておられるようですが。<end>"
+english = "Heh. Does this prayer seem pointless to you? One can never be too careful. Do you find that strange? That person there seems to be eyeing me suspiciously again.<end>"
+
+["1610185"]
+japanese = "…違う！\u3000サイフォスとやら、<line-break>思い出さないのか！<end>"
+english = "No! Sifos, or whatever you're called, don't you remember?<end>"
+
+["1610186"]
+japanese = "…またですか。<line-break>ですから、いったい何をです？<line-break>私にはあなたの方こそ理解できません。<end>"
+english = "This again? What exactly am I supposed to remember? You're the one I don't understand.<end>"
+
+["1610187"]
+japanese = "それでは。<value:$28>さん<line-break>また会える日を楽しみに。<end>"
+english = "Farewell, <value:$28>. I look forward to the day we meet again.<end>"
+
+["1610188"]
+japanese = "何も、思い出さないのか…？<end>"
+english = "You remember nothing at all...?<end>"
+
+["1610189"]
+japanese = "…なんでもない。<line-break>行くぞ。<end>"
+english = "It's nothing. Let's go.<end>"
+
+["1610190"]
+japanese = "念には念…ということです。<line-break>フフ、我ながら、律儀なものです…。<line-break>\u3000<line-break>ではまた。またお会いできる日を\u3000\u3000<line-break>楽しみにしています。<end>"
+english = "One can never be too careful. Heh. I must say, I am nothing if not conscientious... Until next time. I look forward to seeing you again.<end>"
+
+["1610191"]
+japanese = "ま、こいつも、実は<line-break>かわいそうな奴なのかも、な。<line-break>\u3000<line-break>んじゃ、な。<line-break><value:$28>。<line-break>また、会おうぜ。<end>"
+english = "Well, maybe this poor bastard's got it rough too. So long, <value:$28>. Let's meet again.<end>"
+
+["1610192"]
+japanese = "貴様……、今ここに<line-break>小剣を持った<line-break>仮面の男がいなかったか？<end>"
+english = "You... Was there a masked man with a short sword here just now?<end>"
+
+["1610193"]
+japanese = "そうか。<line-break>奴はどっちへ行った？<end>"
+english = "I see. Which way did he go?<end>"
+
+["1610194"]
+japanese = "…瞬間移動か……。<end>"
+english = "Teleportation...<end>"
+
+["1610195"]
+japanese = "フン、まあいい。<line-break>消えたのなら、また追うまでの話だ。<line-break>\u3000<line-break>貴様、名を名乗れ。<end>"
+english = "Hmph. No matter. If he's vanished, I'll simply pursue him again. Now state your name.<end>"
+
+["1610196"]
+japanese = "今、この状態では<line-break>貴様が唯一の手がかりだ。<line-break>名乗れ。<end>"
+english = "As things stand, you're my only lead. State your name.<end>"
+
+["1610197"]
+japanese = "…<value:$28>、か。<line-break>少し貴様と行動を共にする。<line-break>ゆくぞ。<end>"
+english = "<value:$28>, is it? I'll travel with you for a while. Let's go.<end>"
+
+["1610198"]
+japanese = "なんだと、こいつ！<line-break>もういっぺん言って見ろ！<end>"
+english = ""
+
+["1610199"]
+japanese = "…フッ<line-break>相手を見て突っかかるのだな。\u3000<line-break>\u3000<line-break>無謀な挑戦は、自分だけではなく<line-break>周りの人間にも迷惑がかかる。<line-break>…覚えておけ。<end>"
+english = ""
+
+["1610200"]
+japanese = "…くそっ！<end>"
+english = ""
+
+["1610201"]
+japanese = "何よ！\u3000どれだけの<line-break>腕か見せてもらおうじゃない！<end>"
+english = ""
+
+["1610202"]
+japanese = "どきなさいよ！<line-break>あなたがバカにされているのよ！<end>"
+english = ""
+
+["1610203"]
+japanese = "…大した保護者面だな。<line-break>…だが、お前は自分の夢と<line-break>その男の夢と混同しているようだ。<end>"
+english = ""
+
+["1610204"]
+japanese = "………………。<end>"
+english = ""
+
+["1610205"]
+japanese = "守りたいんだね？<end>"
+english = ""
+
+["1610206"]
+japanese = "…なんだ、小娘？<end>"
+english = ""
+
+["1610207"]
+japanese = "なんでもないよ。<line-break>ただ覚悟が必要ってこと。<end>"
+english = ""
+
+["1610208"]
+japanese = "…？<end>"
+english = ""
+
+["1610209"]
+japanese = "なんだよ！<line-break>キミ、何様のつもり！？<end>"
+english = ""
+
+["1610210"]
+japanese = "フッ…、自分が何者なのか<line-break>わかっている人間などいない。<line-break>\u3000<line-break>だが、お前が<line-break>何者かは教えてやる。<line-break>役立たずだ。<end>"
+english = ""
+
+["1610211"]
+japanese = "放せ！\u3000放せしてよ！<line-break><value:$28>！<end>"
+english = ""
+
+["1610212"]
+japanese = "…<value:$28>が<line-break>そう言うなら…。<end>"
+english = ""
+
+["1610213"]
+japanese = "なぁーにぃ！？\u3000この下等生物は！？<line-break>生意気よ！\u3000生意気よ！\u3000生意気よお！<end>"
+english = ""
+
+["1610214"]
+japanese = "…フッ、無知な<line-break>わがままエルフか？<end>"
+english = ""
+
+["1610215"]
+japanese = "無知なわがままエルフぅ？\u3000よくって？<line-break>アタクシは１６００年も生きてるの…！<line-break>\u3000<line-break>１００年も生きていない下等生物に<line-break>無知呼ばわりされるようなことなんて<line-break>絶対、絶対、絶対なくってよぉおお！<end>"
+english = ""
+
+["1610216"]
+japanese = "…そ、そうね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>コホン。<line-break>\u3000<line-break>高貴で優雅なエルフであるアタクシが<line-break>こぉんな下等生物に本気で怒るなんて…<line-break>ほんの少し、はしたないことだったわ。<end>"
+english = ""
+
+["1610217"]
+japanese = "…では、行くぞ。<end>"
+english = "Come. We're leaving.<end>"
+
+["1610218"]
+japanese = "くすっ、<value:$28>、<line-break>また会えてうれしいわ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>でも、とっても残念。<line-break>約束を果たせそうもないわ…。\u3000<end>"
+english = "Hee hee. <value:$28>, I'm so glad to see you again. But what a shame. It seems I won't be able to keep my promise...<end>"
+
+["1610219"]
+japanese = "私、あなたと一緒にいる人が邪魔なの。<line-break>だから、あなただけを、じっくりと<line-break>殺してあげられないの…。<end>"
+english = "The person with you is in my way. So I can't have you all to myself and take my time killing you...<end>"
+
+["1610220"]
+japanese = "貴様が…やはり…！<end>"
+english = "You... I knew it!<end>"
+
+["1610221"]
+japanese = "本当に残念だわ。<line-break>でも、これがふたりの運命だったのよ。<line-break>\u3000<line-break>あなたの苦痛の記憶はあきらめるわ。<line-break>…じゃ、これ以上ここにいると<line-break>別れがつらいから、失礼するわね。<end>"
+english = "It truly is a shame. But this was always to be our fate. I'll have to give up on the memory of your suffering. Well, if I stay any longer, parting will only grow harder, so I'll take my leave.<end>"
+
+["1610222"]
+japanese = "待て！<end>"
+english = "Wait!<end>"
+
+["1610223"]
+japanese = "しつこいわ、セラ。<line-break>もういいかげん大人になって…。\u3000\u3000\u3000<line-break>\u3000<line-break>私も、もう大人なの。<line-break>あなたの保護はいらないわ。<line-break>…新しい保護者もできたしね。くすっ。<end>"
+english = "You're so persistent, Sera. It's time you grew up. I'm an adult now, too. I don't need your protection anymore. Besides, I've got a new protector now. Hee hee.<end>"
+
+["1610224"]
+japanese = "貴様アアア！<end>"
+english = "You bastard!<end>"
+
+["1610225"]
+japanese = "最後にあなたたちを元気にしてあげる。<line-break>そうして、より多くの苦痛を感じながら<line-break>死んで行ってちょうだい。くすすっ。<end>"
+english = "As a parting gift, I'll make you all well again. Then you can die in even greater agony. Hee hee hee.<end>"
+
+["1610226"]
+japanese = "…お前たちには関係ない！！<end>"
+english = "This has nothing to do with any of you!<end>"
+
+["1610227"]
+japanese = "…いや、すまない……。<line-break>俺がお前たちを巻き込んだのだな…。<end>"
+english = "No... forgive me. I'm the one who dragged you into this.<end>"
+
+["1610228"]
+japanese = "…アーギルシャイアのことも<line-break>知っていたのか。<end>"
+english = "So you knew about Argyleshire as well.<end>"
+
+["1610229"]
+japanese = "…俺も<line-break>お前と一緒に行かせてもらおう。<line-break>\u3000<line-break>俺の名は、セラだ。<end>"
+english = "I'll come with you. My name is Sera.<end>"
+
+["1610230"]
+japanese = "お前に断る権利はない。<line-break>\u3000<line-break>\u3000<line-break>そしてここにはもう用はない。<line-break>行くぞ。<end>"
+english = "You have no right to refuse. There's nothing left for us here. Let's go.<end>"
+
+["1610231"]
+japanese = "言っておくが<line-break>お前に断る権利はない。<end>"
+english = "Let me make this clear: you have no right to refuse.<end>"
+
+["1610232"]
+japanese = "そうか、猫屋敷…という所で\u3000\u3000\u3000\u3000\u3000<line-break>呼び出すのだな。<line-break>\u3000<line-break>役立たずどもをパーティーから外して、<line-break>さっさと俺を加えることだな。<line-break>俺より優れた者などいない。<end>"
+english = "So Cat Manor is where I can be summoned. Remove those useless fools from the party and add me at once. No one surpasses me.<end>"
+
+["1610233"]
+japanese = "…俺が、ただひとり認めた<line-break>あの男をのぞいてはな。<end>"
+english = "Except for that man―the only one I have ever acknowledged.<end>"
+
+["1610234"]
+japanese = "ま、腹を立てなさんなって。<line-break>世の中にはああいう奴もいる。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>腕も結構、立つみたいだしな。<line-break>不器用でかわいらしいじゃないか？<end>"
+english = ""
+
+["1610235"]
+japanese = "あれはあれで結構つらい生き方だぜ？<line-break>理解してやれ、とまでは言わないが<line-break>少なくとも拒絶はしないでやるんだな。<end>"
+english = ""
+
+["1610236"]
+japanese = "そうか。<line-break>そんじゃ、俺たちも行こうか。<end>"
+english = ""
+
+["1610237"]
+japanese = "なぁにぃ？\u3000あの不作法な男は？<line-break>自分がド下等生物だってことを\u3000\u3000\u3000\u3000<line-break>わきまえてるのかしら？<line-break>なんでも強引に、勝手に決めちゃって。<line-break>秘密の臭いだけプンプンさせちゃって。<line-break>ちょっと強いからっていい気になって！<end>"
+english = ""
+
+["1610238"]
+japanese = "絶対、絶対、絶対、絶対、絶対、絶対、<line-break>気に入らないわぁー！<end>"
+english = ""
+
+["1610239"]
+japanese = "フェティをなだめる<end>"
+english = ""
+
+["1610240"]
+japanese = "フェティをしかる<end>"
+english = ""
+
+["1610241"]
+japanese = "甘いわ！\u3000あなた、同じ人間族だから<line-break>あの無礼者をかばってるんじゃなくて？<end>"
+english = ""
+
+["1610242"]
+japanese = "…そうね。確かに<line-break>あなたは種族で差別はしないわ。\u3000\u3000\u3000<line-break>\u3000<line-break>それで、高貴なエルフと<line-break>他のド下等生物と同じ扱いにするのには<line-break>ほんと、アタクシも閉口しているもの。<end>"
+english = ""
+
+["1610243"]
+japanese = "…わかったわ。あなたがそう言うなら、<line-break>５６７０００００００歩譲って<line-break>一応アタクシも納得してさしあげるわ。<end>"
+english = ""
+
+["1610244"]
+japanese = "<value:$28><line-break>どうして、アタクシをしかるわけ？<line-break>この場合、おかしいのはあの男よー！<end>"
+english = ""
+
+["1610245"]
+japanese = "ちゃんとした事情も語らないくせに\u3000\u3000<line-break>こっちが何か尋ねようとすると怒る。<line-break>\u3000<line-break>強引に、勝手にすべてのことを決定して<line-break>アタクシたちのことをよく知らないのに<line-break>侮辱するようなことばかり言うのよー？<end>"
+english = ""
+
+["1610246"]
+japanese = "あなたのアタクシへの非難は不当だわ。<line-break>納得いかない、絶対、絶対、絶対、<line-break>絶対に納得いかないわー！<end>"
+english = ""
+
+["1610247"]
+japanese = "姉ちゃん、姉ちゃん。<line-break>あのセラって奴さ、どお？\u3000シュミ？<end>"
+english = ""
+
+["1610248"]
+japanese = "いったあ！\u3000すぐ殴るのやめろよ！<line-break>頭、悪くなるだろ！\u3000もう！<end>"
+english = ""
+
+["1610249"]
+japanese = "チャカは少し頭が悪くなった。\u3000<line-break>ＩＮＴが１下がった。<line-break>\u3000<line-break>チャカは少し打たれ強くなった。<line-break>ＶＩＴが１上がった。<end>"
+english = ""
+
+["1610250"]
+japanese = "オッシ先生が言ってたわ。<line-break>実力があっても、かえってそれで<line-break>目をふさがれて、自滅するって。<line-break>彼ってそんな感じかしら？<line-break>なんにせよ、すごい自信よね。<end>"
+english = ""
+
+["1610251"]
+japanese = "なんか、かっこいいよね。セラってさ。<line-break>ちょっと、気になるかな。<line-break>\u3000<line-break>…なーんてボクが言ったら<line-break><value:$28>は気になる？<end>"
+english = ""
+
+["1610252"]
+japanese = "あ、ウソウソ、冗談だよ！<line-break>ね、ね、こっち向いてよ！<end>"
+english = ""
+
+["1610253"]
+japanese = "あー、ボクのことからかってたんだ！ <line-break>ひどいよ、<value:$28>。<line-break>ボク…本気で嫌われたと思ったんだよ！<line-break>もう、知らないよー！<line-break>べーだ！<end>"
+english = ""
+
+["1610254"]
+japanese = "…ボク、やっぱり役立たずなのかな。<end>"
+english = ""
+
+["1610255"]
+japanese = "セラは…純粋だね。<line-break>何も知らないってことは幸せなんだ。<line-break>それに、そう、いいことだよ。<end>"
+english = ""
+
+["1610256"]
+japanese = "人は何かを追い求めるとき\u3000\u3000\u3000\u3000\u3000\u3000<line-break>他のものを見失う。<line-break>…あの男はそういう男だ。<line-break>また、他の物が見える男より<line-break>他の物が見えなくなる男の方が<line-break>求めるべき物だけを見ることができる。<end>"
+english = ""
+
+["1610257"]
+japanese = "もっとも、求めるべき物すらも\u3000\u3000\u3000\u3000<line-break>見失うことがも<line-break>ままあるがな。<end>"
+english = ""
+
+["1610258"]
+japanese = "どうなさったのですか？\u3000\u3000\u3000\u3000\u3000<line-break>闇の怪物を放っておくのですか？<line-break>\u3000<line-break>すみませんが、私も急いでいます。<line-break>回復してさしあげますので<line-break>闇の者のもとへと急ぎましょう。<end>"
+english = "What is it? Are you going to leave that dark monster unchecked? I'm sorry, but I'm in a hurry too. I'll restore your strength, so let's make haste to the creature of darkness.<end>"
+
+["1610259"]
+japanese = "では、行きましょう。<end>"
+english = "Then let's be on our way.<end>"
+
+["1610260"]
+japanese = "ん？\u3000どした？<line-break>体勢立て直すために出直すのかい？<line-break>\u3000<line-break>んじゃ、俺は俺で、またしばらく<line-break>ブラブラ冒険してるとするかな。<line-break>じゃな。<end>"
+english = "Hm? What's up? Heading back to regroup? Well, I guess I'll carry on roaming around and adventuring for a while, then. See you.<end>"
+
+["1610261"]
+japanese = "やっぱりそうなのね。噂は聞いてるわ。<line-break>ねえ、ちょっと仕事をお願いしたいの。<line-break>頼めて？<end>"
+english = "I thought so. I've heard the rumors. Say, I have a little job I'd like you to do. Will you take it?<end>"
+
+["1610262"]
+japanese = "予備メッセージ２（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610263"]
+japanese = "予備メッセージ３（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610264"]
+japanese = "予備メッセージ４（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610265"]
+japanese = "予備メッセージ５（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610266"]
+japanese = "予備メッセージ６（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610267"]
+japanese = "予備メッセージ７（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610268"]
+japanese = "予備メッセージ８（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610269"]
+japanese = "予備メッセージ９（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610270"]
+japanese = "予備メッセージ１０（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610271"]
+japanese = "予備メッセージ１１（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610272"]
+japanese = "予備メッセージ１２（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610273"]
+japanese = "予備メッセージ１３（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610274"]
+japanese = "予備メッセージ１４（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610275"]
+japanese = "予備メッセージ１５（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610276"]
+japanese = "予備メッセージ１６（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610277"]
+japanese = "予備メッセージ１７（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610278"]
+japanese = "予備メッセージ１８（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610279"]
+japanese = "予備メッセージ１９（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610280"]
+japanese = "予備メッセージ２０（陸追加分）<line-break>アーギルシャイア、ボリューム２、その２<end>"
+english = ""
+
+["1610281"]
+japanese = "アーギルシャイアメッセージVOL2-2終端<end>"
+english = ""

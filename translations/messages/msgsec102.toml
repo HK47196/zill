@@ -1,0 +1,385 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1020000"]
+japanese = "アイリーンメッセージVOL5用開始<end>"
+english = ""
+
+["1020001"]
+japanese = "（…閉まっているようだ。）<end>"
+english = ""
+
+["1020002"]
+japanese = "よく来てくれた、<value:$28>。<line-break>ちょうどいいタイミングだ。<line-break>ディンガル軍の部隊が動き出したらしい。\u3000<line-break>もうじき、この平民街にやってくるだろう。<line-break>その前にけりを付けなくてはな。<end>"
+english = "Glad you could make it, <value:$28>. Your timing couldn't be better. It seems a unit of the Dingal Army has begun moving. They'll reach the commoners' quarter before long. We need to settle this before they do.<end>"
+
+["1020003"]
+japanese = "先生。来ました！<line-break>ディンガル軍がこちらに向かってきます。<line-break>先頭にいるのは間違いなくアイリーンです。<end>"
+english = "Master! I'm here! The Dingal Army is headed this way. Irene is definitely leading them.<end>"
+
+["1020004"]
+japanese = "それじゃ、行くとするか。<line-break><value:$28>、お前も来るだろう？<end>"
+english = "Then we'd better get going. You're coming too, aren't you, <value:$28>?<end>"
+
+["1020005"]
+japanese = "先生。<line-break>本当に２人だけで行くつもりですか？<line-break>いくらなんでも、危険すぎます。<end>"
+english = "Master, do you really mean to go with only the two of you? It's far too dangerous.<end>"
+
+["1020006"]
+japanese = "いいんだよ。俺の弟子の問題だからな。<line-break>それよりもお前ら、あとのことは頼んだぜ。<end>"
+english = "It's fine. This is my disciple's problem. More importantly, I'm counting on the rest of you to handle things here.<end>"
+
+["1020007"]
+japanese = "先生が心配だ。<line-break>死に場所を捜しているような気がして…。<line-break>先生を、よろしく頼む。アイリーンもな。<end>"
+english = "I'm worried. I can't shake the feeling Master is looking for a place to die... Please look after Master. And Irene too.<end>"
+
+["1020008"]
+japanese = "先生が心配です。<line-break>何か死に場所を捜しているような雰囲気で…。<line-break>先生を、よろしくお願いします。<end>"
+english = "I'm worried about Master. It's almost as if Master is looking for a place to die... Please look after Master.<end>"
+
+["1020009"]
+japanese = "先生のこと、よろしく頼んだぜ。<end>"
+english = "I'm counting on you to look after Master.<end>"
+
+["1020010"]
+japanese = "<value:$28>も気をつけてくれよ。<end>"
+english = "You be careful too, <value:$28>.<end>"
+
+["1020011"]
+japanese = "アイリーン将軍。<line-break>全部隊、配置につきました。<line-break>ご命令があり次第、作戦を開始できます。<end>"
+english = "General Irene. All units are in position. We can begin the operation as soon as you give the order.<end>"
+
+["1020012"]
+japanese = "あぁ…わかった。<line-break>ご苦労。<end>"
+english = "Yes... Understood. Good work.<end>"
+
+["1020013"]
+japanese = "アイリーン将軍。本当にこの作戦を<line-break>実行してもよろしいのですか。<line-break>このままでは…<end>"
+english = "General Irene, are you certain we should carry out this operation? If this continues...<end>"
+
+["1020014"]
+japanese = "バカなことを聞くな！<line-break>カルラ様の判断は正しい。<line-break>我らはそれに従うまでだ。<end>"
+english = "Don't ask such foolish questions! Lady Karula's judgment is sound. Our duty is simply to obey.<end>"
+
+["1020015"]
+japanese = "おいおい。自分でも迷っているのに、<line-break>他人には信じろなんていうのは、<line-break>無茶な話なんじゃないか。<end>"
+english = "Now, now. You're wavering yourself, yet you expect everyone else to have faith? That's asking a bit much, don't you think?<end>"
+
+["1020016"]
+japanese = "ま、まさか…。<end>"
+english = "I-It can't be...<end>"
+
+["1020017"]
+japanese = "せ、先生…。<end>"
+english = "M-Master...<end>"
+
+["1020018"]
+japanese = "アイリーン、無茶なことはやめろ。<line-break>お前には、この作戦の指揮は無理だ。<line-break>それはお前が劣っているからではない。<end>"
+english = "Irene, don't do anything reckless. You can't lead this operation. Not because you lack ability.<end>"
+
+["1020019"]
+japanese = "な、何を…。<end>"
+english = "W-What are you...<end>"
+
+["1020020"]
+japanese = "お前、カルラの下で<line-break>それなりに名を挙げているんだろ？<line-break>それにしては、お粗末な用兵じゃねえか。<line-break>お前には、心の優しいお前には、<line-break>無力な市民を、ましてや同朋を、一方的に<line-break>武力でねじ伏せるなんて無理なんだよ。<end>"
+english = "You've made quite a name for yourself under Karula, haven't you? For all that, this is some sorry generalship. You can't do this. You're too kindhearted to crush helpless civilians by force―especially your own people.<end>"
+
+["1020021"]
+japanese = "お前、心が泣いてるじゃねえか。<line-break>そんなに自分を追い込むもんじゃない。\u3000<line-break>痛々しくて見てられないぜ。<end>"
+english = "Your heart's crying out. Don't push yourself this hard. I can't stand to watch you suffer like this.<end>"
+
+["1020022"]
+japanese = "だ、黙れ！<line-break>私は、東方攻略軍所属<line-break>青竜軍副将アイリーン・エルメス！<line-break>自分から出向いてくれて好都合だわ。<line-break>先生、そして、<value:$28>。<line-break>私たちは決着をつける運命にある！<end>"
+english = "S-Shut up! I am Irene Hermes, deputy commander of the Blue Dragon Army, Eastern Expeditionary Force! You've saved me the trouble by coming here yourselves. Master―and <value:$28>. We are destined to settle this once and for all!<end>"
+
+["1020023"]
+japanese = "バカ野郎！\u3000運命なんて言葉に逃げるな！<line-break>お前は俺の弟子だ。<line-break>俺がもう一度、性根を叩き直してやる！<end>"
+english = "You damned fool! Don't hide behind words like destiny! You're my disciple. It's time I knocked some sense into you again!<end>"
+
+["1020024"]
+japanese = "将軍が…<line-break>アイリーン将軍がやられた！<end>"
+english = "The general... General Irene has been defeated!<end>"
+
+["1020025"]
+japanese = "せ、先生…。<end>"
+english = "M-Master...<end>"
+
+["1020026"]
+japanese = "…なんだ。<end>"
+english = "What is it?<end>"
+
+["1020027"]
+japanese = "…殺して、ください。<end>"
+english = "Please... kill me.<end>"
+
+["1020028"]
+japanese = "あん？<end>"
+english = "Huh?<end>"
+
+["1020029"]
+japanese = "殺してください！<line-break>もう、私には、<line-break>誰にも合わす顔がありません！<end>"
+english = "Kill me! I can never face anyone again!<end>"
+
+["1020030"]
+japanese = "この、大バカ野郎！<end>"
+english = "You utter fool!<end>"
+
+["1020031"]
+japanese = "いったい、今まで、何を見てきたんだ！<line-break>お前の心の葛藤はなんなんだ！<line-break>お前が追い求めていたのはこんなものなのか！<line-break>そんなこともわからんような奴を<line-break>弟子にした覚えはねえ！<end>"
+english = "What the hell have you been looking at all this time? What is this struggle inside you? Is this really what you've been striving for? I don't remember taking on any disciple too blind to understand even that!<end>"
+
+["1020032"]
+japanese = "う…えぐ…。<end>"
+english = "Ngh... hic...<end>"
+
+["1020033"]
+japanese = "悲しいときに泣けないような奴が、<line-break>苦しいときに泣けないような奴が、<line-break>人のために何かできると思っているのか？<end>"
+english = "If you can't cry when you're sad, if you can't cry when you're hurting, do you really think you can do anything for anyone else?<end>"
+
+["1020034"]
+japanese = "うぅ…あ…。<end>"
+english = "Uhh... ah...<end>"
+
+["1020035"]
+japanese = "お前にはこいつがいるだろうが。<line-break>泣きたいときには<line-break>思いっきり泣けばいいんだよ。<end>"
+english = "You've got someone right here, haven't you? When you need to cry, just let it all out.<end>"
+
+["1020036"]
+japanese = "あーーーーー！<line-break><value:$28>っ！<line-break><value:$28>ー！<end>"
+english = "Aaaaaah! <value:$28>! <value:$28>!<end>"
+
+["1020037"]
+japanese = "あ～あ。でっけえ声だなあ。<line-break>これは、しばらく止まりそうにないな。\u3000<line-break>…ま、これで大丈夫か。<line-break><value:$28>。<line-break>しばらく、アイリーンのお守りをしてな。<line-break>俺はディンガル軍の動向を見てくる。<end>"
+english = "Good grief, that's some voice. Doesn't sound like she'll be stopping anytime soon. Still, I think she'll be all right now. <value:$28>, look after Irene for a while. I'm going to see what the Dingal Army is doing.<end>"
+
+["1020038"]
+japanese = "泣きたいときには<line-break>思いっきり泣けばいいんだよ。<end>"
+english = "When you need to cry, just let it all out.<end>"
+
+["1020039"]
+japanese = "あーーーーー！<line-break>先生っ！\u3000先生ー！<end>"
+english = "Aaaaaah! Master! Masteeer!<end>"
+
+["1020040"]
+japanese = "あ～あ。でっけえ声だなあ。<line-break>これは、しばらく止まりそうにないな。\u3000<line-break>…ま、これで大丈夫か。<end>"
+english = "Good grief, that's some voice. Doesn't sound like she'll be stopping anytime soon. Still, I think she'll be all right now.<end>"
+
+["1020041"]
+japanese = "<value:$28>。<line-break>俺はしばらく、アイリーンのお守りだ。<line-break>お前はディンガル軍の動向を見といてくれや。<line-break>頭を失ったんだ。<line-break>もう、とんずらするしかないだろうよ。<line-break>お前たちも行ってきてくれ。<end>"
+english = "<value:$28>, I'll be looking after Irene for a while. Keep an eye on the Dingal Army for me. They've lost their leader, so running away is about their only choice now. The rest of you go too.<end>"
+
+["1020042"]
+japanese = "すまねぇが、これでは手が放せない。<line-break>俺の代わりに、ディンガルの動きを<line-break>見といてくれ。<end>"
+english = "Sorry, but I've got my hands full here. Keep an eye on Dingal's movements for me.<end>"
+
+["1020043"]
+japanese = "先生！\u3000先生ー！<line-break>あーーーーー！<end>"
+english = "Master! Masteeer! Aaaaaah!<end>"
+
+["1020044"]
+japanese = "将軍が…<line-break>アイリーン将軍がやられた！<end>"
+english = "The general... General Irene has been defeated!<end>"
+
+["1020045"]
+japanese = "…どうするんだ、アイリーン。<line-break>まだやるってのか？<end>"
+english = "What now, Irene? Are you still going to fight?<end>"
+
+["1020046"]
+japanese = "…今の私では、先生にも<line-break><value:$28>にも勝てない。<end>"
+english = "As I am now, I can't defeat either you or <value:$28>, Master.<end>"
+
+["1020047"]
+japanese = "…今の私では、先生には勝てない。<end>"
+english = "As I am now, I can't defeat you, Master.<end>"
+
+["1020048"]
+japanese = "アイリーン。お前が負けたのは、\u3000\u3000\u3000<line-break>技量が足りないからじゃない。<line-break>お前に迷いがあったからだ。<line-break>カルラのやり方への疑念が、そのまま、<line-break>お前の剣を迷わせているんだ。<end>"
+english = "Irene, you didn't lose because you lacked skill. You lost because you were torn. Your doubts about Karula's methods made your sword waver too.<end>"
+
+["1020049"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1020050"]
+japanese = "アイリーン、帰ってこい。<line-break>お前に圧制者は似合わない。<end>"
+english = "Come back, Irene. Being an oppressor doesn't suit you.<end>"
+
+["1020051"]
+japanese = "先生。私はもう戻れません。<line-break>ですが、これ以降、<line-break>街をねらうようなこともしません。<line-break>私は<line-break>騎士、アイリーン・エルメスですから。<end>"
+english = "Master, I can't go back anymore. But I won't threaten this city again. Because I am a knight: Irene Hermes.<end>"
+
+["1020052"]
+japanese = "さようなら…<value:$28>。<end>"
+english = "Goodbye... <value:$28>.<end>"
+
+["1020053"]
+japanese = "…やれやれ。ま、これで一安心だな。<line-break>あの目をしてれば大丈夫だろうよ。<line-break>あいつもあいつなりに考えを出せたようだ。<line-break>だが、あいつが俺たちの前に姿を見せるのは<line-break>もうないのかもしれないな。<line-break>さびしいか、<value:$28>？<end>"
+english = "Good grief. Well, that's one worry off my mind. With that look in her eyes, she'll be all right. Seems she's found her own answer. But she may never show herself before us again. Are you going to miss her, <value:$28>?<end>"
+
+["1020054"]
+japanese = "…まぁ、いい。俺の青臭い弟子どもも、<line-break>ようやくひとり立ちできそうだからな。<line-break>戻るとするか。<end>"
+english = "Well, never mind. Looks like those green disciples of mine are finally ready to stand on their own. Let's head back.<end>"
+
+["1020055"]
+japanese = "…やれやれ。ま、これで一安心だな。<line-break>あの目をしてれば大丈夫だろうよ。<line-break>あいつもあいつなりに考えを出せたようだ。<line-break>お前にも世話になったな。<line-break>ありがとうよ、<value:$28>。<line-break>それじゃあ、戻るとしようか。<end>"
+english = "Good grief. Well, that's one worry off my mind. With that look in her eyes, she'll be all right. Seems she's found her own answer. You helped too. Thanks, <value:$28>. Now, let's head back.<end>"
+
+["1020056"]
+japanese = "<value:$28>…。<line-break>せめて、苦しまないように<line-break>殺してあげる。<end>"
+english = "<value:$28>... At least I'll make sure you don't suffer when I kill you.<end>"
+
+["1020057"]
+japanese = "え…ど、どうして…。<end>"
+english = "W-What...? Why...?<end>"
+
+["1020058"]
+japanese = "バカ野郎が…。<line-break>アイリーンも<value:$28>も、<line-break>俺の大事な弟子だろうが…。\u3000\u3000\u3000\u3000\u3000<line-break>弟子のピンチを救うのも、<line-break>不出来な弟子をいさめるのも、<line-break>師匠の役目と昔っから決まってんだよ。<end>"
+english = "You damned fool... Irene and <value:$28> are both precious disciples of mine. Saving a disciple in peril and setting a wayward one straight―that's always been a master's duty.<end>"
+
+["1020059"]
+japanese = "せ、先生！<end>"
+english = "M-Master!<end>"
+
+["1020060"]
+japanese = "お前には無理なんだよ、アイリーン。<line-break>心を鬼にする、なんてのはな。<end>"
+english = "You can't do it, Irene. You can't harden your heart like that.<end>"
+
+["1020061"]
+japanese = "しゃべらないで、先生！<line-break>今、医者を連れてきます！<end>"
+english = "Don't talk, Master! I'll get a doctor!<end>"
+
+["1020062"]
+japanese = "バカ野郎…。俺は武人だぜ。<line-break>こんなにばっさり切られちまって\u3000<line-break>…医者もくそもあるかよ。<line-break>…自分の心を裏切らなければ<line-break>手に入らないようなものは、<line-break>理想じゃないんだよ…アイリーン。<end>"
+english = "You fool... I'm a warrior. After a wound like this... what the hell is a doctor going to do? Anything you can only attain by betraying your own heart... isn't an ideal at all, Irene.<end>"
+
+["1020063"]
+japanese = "先生…。<line-break>うぅ…こ、こんなことって…。<end>"
+english = "Master... No... This can't be happening...<end>"
+
+["1020064"]
+japanese = "泣いてるのか…。<line-break>その涙が出るのなら…<line-break>もう、思い残すことは…ない…<end>"
+english = "You're crying... If you can still shed those tears... then I have... no regrets...<end>"
+
+["1020065"]
+japanese = "いや…こんなのいやー！<line-break>先生、目を開けて！\u3000先生ー！<end>"
+english = "No... I don't want this! Open your eyes, Master! Masteeer!<end>"
+
+["1020066"]
+japanese = "どうしよう…。<line-break>ねぇ、<value:$28>。<line-break>私、どうしよう…。<line-break>私、先生、殺しちゃった…。<line-break>殺しちゃったよー！<end>"
+english = "What do I do...? Tell me, <value:$28>. What do I do...? I killed Master... I killed Master!<end>"
+
+["1020067"]
+japanese = "どうして…どうして、<line-break>目を開けてくれないの…。<line-break>目を開けてよ…先生…。<end>"
+english = "Why...? Why won't you open your eyes...? Open them... Master...<end>"
+
+["1020068"]
+japanese = "<value:$28>…。<line-break>先生のこと、お願い。<end>"
+english = "<value:$28>... Please take care of Master.<end>"
+
+["1020069"]
+japanese = "心配しないで。<line-break>もう、街を襲ったりはしない。<line-break>先生が命をかけて教えてくれたから…。<end>"
+english = "Don't worry. I won't attack the city again. Master staked everything, even life itself, to teach me that...<end>"
+
+["1020070"]
+japanese = "<value:$28>…。<line-break>カルラ様を裏切った罪、<line-break>償ってもらうわよ。<end>"
+english = "<value:$28>... You'll pay for betraying Lady Karula.<end>"
+
+["1020071"]
+japanese = "ノーブル伯…。<line-break>貴族のくせにこんな所に出てきて…。<line-break>まず、あなたから殺してあげる。<end>"
+english = "Count of Noble... For a noble to come all the way out here... I'll kill you first.<end>"
+
+["1020072"]
+japanese = "<value:$28>。<line-break>せめて、苦しまないように<line-break>殺してあげる。<end>"
+english = "<value:$28>. At least I'll make sure you don't suffer when I kill you.<end>"
+
+["1020073"]
+japanese = "え…ど、どうして…。<end>"
+english = "W-What...? Why...?<end>"
+
+["1020074"]
+japanese = "…アイリーンは俺の大事な弟子だろうが。<line-break>不出来な弟子をいさめるのは師匠の役目と<line-break>昔っから決まってんだよ…。<end>"
+english = "Irene is a precious disciple of mine. Setting a wayward disciple straight―that's always been a master's duty...<end>"
+
+["1020075"]
+japanese = "せ、先生！<end>"
+english = "M-Master!<end>"
+
+["1020076"]
+japanese = "お前には無理なんだよ、アイリーン。<line-break>心を鬼にする、なんてのはな。<end>"
+english = "You can't do it, Irene. You can't harden your heart like that.<end>"
+
+["1020077"]
+japanese = "しゃべらないで、先生！<line-break>今、医者を連れてきます！<end>"
+english = "Don't talk, Master! I'll get a doctor!<end>"
+
+["1020078"]
+japanese = "バカ野郎…。俺は武人だぜ。<line-break>こんなにばっさり切られちまって\u3000<line-break>…医者もくそもあるかよ。<line-break>…自分の心を裏切らなければ<line-break>手に入らないようなものは、<line-break>理想じゃないんだよ…アイリーン。<end>"
+english = "You fool... I'm a warrior. After a wound like this... what the hell is a doctor going to do? Anything you can only attain by betraying your own heart... isn't an ideal at all, Irene.<end>"
+
+["1020079"]
+japanese = "先生…。<line-break>うぅ…こ、こんなことって…。<end>"
+english = "Master... No... This can't be happening...<end>"
+
+["1020080"]
+japanese = "泣いてるのか…。<line-break>その涙が出るのなら…<line-break>もう、思い残すことは…ない…<end>"
+english = "You're crying... If you can still shed those tears... then I have... no regrets...<end>"
+
+["1020081"]
+japanese = "いや…こんなのいやー！<line-break>先生、目を開けて！\u3000先生ー！<end>"
+english = "No... I don't want this! Open your eyes, Master! Masteeer!<end>"
+
+["1020082"]
+japanese = "どうして…どうして、<line-break>目を開けてくれないの…。<line-break>目を開けてよ…先生…。<end>"
+english = "Why...? Why won't you open your eyes...? Open them... Master...<end>"
+
+["1020083"]
+japanese = "みんな…みんな、死んじゃう。<line-break>あいつも…先生も…<line-break>私…私が…殺した…。<end>"
+english = "Everyone... Everyone dies. That person too... Master too... I... I killed them...<end>"
+
+["1020084"]
+japanese = "みんな…どうして行っちゃうの…。<line-break>私…みんなに…<line-break>生きて欲しかったのに…。<line-break>争うことのない…<line-break>誰も殺されない…<line-break>それを…めざしてたのに…。<end>"
+english = "Why does everyone go away...? I wanted everyone... to live. No fighting... no one being killed... That's what I was striving for...<end>"
+
+["1020085"]
+japanese = "人には、それぞれの<line-break>思い、事情があるものよ。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>大人になるって、<line-break>そういうものをわかってあげられる、<line-break>そういうことじゃないかしら？<end>"
+english = "People have their own feelings, their own circumstances. Perhaps growing up means learning to understand that.<end>"
+
+["1020086"]
+japanese = "エルメスさんは、もうここには<line-break>いないわ。ひとりっきりのお嬢さんが\u3000<line-break>亡くなったんですって。<line-break>もしかして、<line-break>あなた、<value:$28>さん？<end>"
+english = "Hermes isn't here anymore. I heard Hermes's only daughter died. Are you <value:$28>, by any chance?<end>"
+
+["1020087"]
+japanese = "エルメスさんから伝言があるわ。<line-break>ごめんなさい、そう伝えてって。<line-break>もう、この街に戻ることはないそうよ。<end>"
+english = "Hermes left you a message: “I'm sorry.” That's what I was asked to tell you. I hear Hermes won't be coming back to this town.<end>"
+
+["1020088"]
+japanese = "エルメスさんはもう、ここには<line-break>いないわ。ひとりっきりのお嬢さんが\u3000<line-break>亡くなったんですって。<line-break>もう、この街に戻ることはないそうよ。<end>"
+english = "Hermes isn't here anymore. I heard Hermes's only daughter died. Apparently, Hermes won't be coming back to this town.<end>"
+
+["1020089"]
+japanese = "あたし、<line-break>最近ここに越してきたの。<line-break>この辺のことには詳しくないわ。\u3000\u3000\u3000<end>"
+english = "I only moved here recently, so I don't know much about the area.<end>"
+
+["1020090"]
+japanese = "予備メッセージ６<line-break>アイリーン、ボリューム５<end>"
+english = ""
+
+["1020091"]
+japanese = "予備メッセージ７<line-break>アイリーン、ボリューム５<end>"
+english = ""
+
+["1020092"]
+japanese = "予備メッセージ８<line-break>アイリーン、ボリューム５<end>"
+english = ""
+
+["1020093"]
+japanese = "予備メッセージ９<line-break>アイリーン、ボリューム５<end>"
+english = ""
+
+["1020094"]
+japanese = "予備メッセージ１０<line-break>アイリーン、ボリューム５<end>"
+english = ""
+
+["1020095"]
+japanese = "アイリーンメッセージ終端<end>"
+english = ""

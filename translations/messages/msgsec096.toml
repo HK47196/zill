@@ -1,0 +1,185 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["960000"]
+japanese = "ボゲー（というかもうレーグ）メッセージｖ１用開始<end>"
+english = ""
+
+["960001"]
+japanese = "…待て。<end>"
+english = "...Wait.<end>"
+
+["960002"]
+japanese = "うぬのソウル…<line-break>無限の強さを<line-break>…感じる。<end>"
+english = "Your Soul... I sense boundless strength within it.<end>"
+
+["960003"]
+japanese = "…うぬは、<line-break>今年の大会の…<line-break>出場者か？<end>"
+english = "...Are you... a competitor in this year's tournament?<end>"
+
+["960004"]
+japanese = "出場する<end>"
+english = "I'm entering.<end>"
+
+["960005"]
+japanese = "まだ決めていない<end>"
+english = "I haven't decided yet.<end>"
+
+["960006"]
+japanese = "…うぬには、<line-break>我に挑むに足る<line-break>力があると、見た。<line-break>…勝ち残れ。<line-break>我に挑むのだ。<line-break>\u3000<end>"
+english = "...You have the strength to challenge me. I can see that. Survive the tournament, then face me.<end>"
+
+["960007"]
+japanese = "…今のうぬでは、<line-break>まだ、我に<line-break>遠く及ばぬ。<line-break>…強くなれ。<line-break>我に挑むのだ。<line-break>\u3000<end>"
+english = "...As you are now, you still fall far short of me. Grow stronger, then face me.<end>"
+
+["960008"]
+japanese = "…そうか。<end>"
+english = "...I see.<end>"
+
+["960009"]
+japanese = "…だが、うぬには、<line-break>我に挑むに足る<line-break>力があると、見た。<line-break>…覚悟を決めたら<line-break>来るがいい。<line-break>我に挑むのだ。<end>"
+english = "...Yet you have the strength to challenge me. I can see that. Come when you have made your decision. Face me.<end>"
+
+["960010"]
+japanese = "…今のうぬでは、<line-break>まだ、我に<line-break>遠く及ばぬ。<line-break>…強くなれ。<line-break>我に挑むのだ。<line-break>\u3000<end>"
+english = ""
+
+["960011"]
+japanese = "そのとき、我は<line-break>うぬの名を知るだろう。<end>"
+english = "Then I shall learn your name.<end>"
+
+["960012"]
+japanese = "…我は、レーグ。<line-break>我は、強き者との<line-break>戦いを望むのみ。<end>"
+english = "...I am Reig. I desire only to battle the strong.<end>"
+
+["960013"]
+japanese = "お前、すごいな。<line-break>レーグが初対面の相手に自分から<line-break>話しかけるなんて滅多にないことだぜ。<line-break>剣聖レーグは勇者ネメアとともに<line-break>魔王バロルを倒した豪傑だ。<line-break>闘技場に現れてから無敗を誇っている。<end>"
+english = "You're quite something. It's rare for Reig to strike up a conversation with someone he's only just met. The Sword Saint Reig is a mighty warrior who defeated Balor, the Demon King, alongside the Hero Nemea. He has remained undefeated since coming to the arena.<end>"
+
+["960014"]
+japanese = "そのレーグが目をかけてるんだ。<line-break>お前、結構いい線いくかもしれないな。<line-break>じゃあ、がんばってくれよ。<end>"
+english = "And now that Reig's taken an interest in you, you might actually go pretty far. Well, give it your best.<end>"
+
+["960015"]
+japanese = "<value:$28>…。<line-break>それが、<line-break>うぬの名か…？<end>"
+english = "<value:$28>... So that is your name?<end>"
+
+["960016"]
+japanese = "…我が前に<line-break>現れるときを、<line-break>待っていた…。<line-break>…うぬの力、<line-break>我に、見せよ！<end>"
+english = ""
+
+["960017"]
+japanese = "…見事だ。<end>"
+english = "…Impressive.<end>"
+
+["960018"]
+japanese = "<value:$28>は<line-break>剣聖の称号を得た。<end>"
+english = ""
+
+["960019"]
+japanese = "…<value:$28>よ、<line-break>ひとつ、\u3000\u3000\u3000\u3000<line-break>頼みがある。<line-break>今一度、<line-break>うぬと戦う<line-break>機会が…ほしい。<end>"
+english = ""
+
+["960020"]
+japanese = "うぬに負けぬ力を<line-break>身につけ、我は<line-break>再び、この地に現れよう。<end>"
+english = ""
+
+["960021"]
+japanese = "…うぬは、<line-break>まだ強くなる。<line-break>…我に挑め。<line-break>再び、この地で、<line-break>待つ…。<end>"
+english = "…You will grow stronger yet. Challenge me. I shall await you here once more…<end>"
+
+["960022"]
+japanese = "…不思議なものだ。<line-break>同じ時に、この地に<line-break>足を運ぶとは…。<end>"
+english = "Strange... that we should come to this land at the same time.<end>"
+
+["960023"]
+japanese = "うぬとの戦い、<line-break>待ちわびた…。<end>"
+english = "I have long awaited our battle...<end>"
+
+["960024"]
+japanese = "抜くがいい。<end>"
+english = "Draw.<end>"
+
+["960025"]
+japanese = "…見事だ。<line-break>うぬの、勝ちだ。<end>"
+english = "Magnificent. The victory is yours.<end>"
+
+["960026"]
+japanese = "…強き力への敬意として、<line-break>剛刃、閃刃とともに<line-break>うぬの力となろう…。<line-break>必要ならば、<line-break>力を貸そう。<end>"
+english = "In homage to your strength, Mighty Blade, Flash Blade, and I shall add our power to yours. If you have need of us, we will lend you our strength.<end>"
+
+["960027"]
+japanese = "町を出るときに<line-break>合流する。<end>"
+english = "I will join you when you leave town.<end>"
+
+["960028"]
+japanese = "いつでも、呼ぶがいい。<end>"
+english = "Call upon us whenever you wish.<end>"
+
+["960029"]
+japanese = "<value:$28>。<line-break>お前は、さらなる力を望むか？<end>"
+english = "<value:$28>. Do you seek still greater power?<end>"
+
+["960030"]
+japanese = "望む<end>"
+english = "I do.<end>"
+
+["960031"]
+japanese = "望まない<end>"
+english = "I don't.<end>"
+
+["960032"]
+japanese = "ならば、我が二刀の剣法、<line-break>伝授しよう。<end>"
+english = "Then I shall teach you my two-sword technique.<end>"
+
+["960033"]
+japanese = "戦神の導きがあれば、<line-break>またまみえることもあろう。<line-break>さらばだ。<end>"
+english = "With the War God's guidance, we may yet meet again. Farewell.<end>"
+
+["960034"]
+japanese = "…そうか。<line-break>うぬは、うぬの道を行くがいい。<line-break>さらばだ。<end>"
+english = "Very well. Follow your own path. Farewell.<end>"
+
+["960035"]
+japanese = "<value:$28>は<line-break>剣聖の称号を得た。<end>"
+english = "<value:$28> earned the title of Sword Saint.<end>"
+
+["960036"]
+japanese = "予備メッセージ１<line-break>兄弟子、ボゲーＶ１でござる<end>"
+english = ""
+
+["960037"]
+japanese = "予備メッセージ１<line-break>兄弟子、ボゲーＶ１でござる<end>"
+english = ""
+
+["960038"]
+japanese = "予備メッセージ１<line-break>兄弟子、ボゲーＶ１でござる<end>"
+english = ""
+
+["960039"]
+japanese = "予備メッセージ１<line-break>兄弟子、ボゲーＶ１でござる<end>"
+english = ""
+
+["960040"]
+japanese = "予備メッセージ１<line-break>兄弟子、ボゲーＶ１でござる<end>"
+english = ""
+
+["960041"]
+japanese = "予備メッセージ１<line-break>兄弟子、ボゲーＶ１でござる<end>"
+english = ""
+
+["960042"]
+japanese = "予備メッセージ１<line-break>兄弟子、ボゲーＶ１でござる<end>"
+english = ""
+
+["960043"]
+japanese = "予備メッセージ１<line-break>兄弟子、ボゲーＶ１でござる<end>"
+english = ""
+
+["960044"]
+japanese = "予備メッセージ１<line-break>兄弟子、ボゲーＶ１でござる<end>"
+english = ""
+
+["960045"]
+japanese = "ボゲー（というよりレーグ）メッセージ終端<end>"
+english = ""

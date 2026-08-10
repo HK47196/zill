@@ -1,0 +1,37 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2490000"]
+japanese = "<end>"
+english = ""
+
+["2490001"]
+japanese = "…無限のソウル？<line-break>そうか。<line-break>お前が<value:$28>か。<end>"
+english = "…The Infinite Soul? So you're <value:$28>.<end>"
+
+["2490002"]
+japanese = "なるほど、よい瞳だ。<line-break>お前のことはベルゼーヴァから<line-break>聞いている。<end>"
+english = "You have fine eyes. Beelzeva has told me about you.<end>"
+
+["2490003"]
+japanese = "表情に覇気がないな。<line-break>いや、いきなりすまない。<line-break>ただ、迷いが感じられてな。<end>"
+english = "You look dispirited. Forgive me. That was rather sudden. It's just that I sense some hesitation in you.<end>"
+
+["2490004"]
+japanese = "自分が背負っている運命？<line-break>ふむ。それについて考えたことが<line-break>あるかと問うのか…。<end>"
+english = "The fate I bear? Hmm. You ask whether I have ever given it any thought...<end>"
+
+["2490005"]
+japanese = "かつて私は友にこう言ったことがある。<line-break>私が戦う理由はただひとつ。<line-break>運命にあらがうためだと。<end>"
+english = "I once told a friend that I fight for one reason alone: to defy fate.<end>"
+
+["2490006"]
+japanese = "運命は<value:$28>の未来を<line-break>消そうとしているのではない。<line-break>\u3000<line-break>お前の内に眠る可能性が目覚め、<line-break>運命に打ち勝つことを待っているのだ。<end>"
+english = "Fate is not trying to erase your future, <value:$28>. It is waiting for the potential dormant within you to awaken and overcome it.<end>"
+
+["2490007"]
+japanese = "お前が抱えている問題を私は知らない。<line-break>だが、これだけは言える。<line-break>\u3000<line-break>人は、<line-break>それぞれの運命を背負って生まれる。<line-break>そして、それを選ぶことはできない。<line-break>しかし、運命に流されることを拒否し、<line-break>どのように立ち向かうかを<line-break>決めることはできる。<line-break>運命に立ち向かった者すべてが<line-break>それを乗り越えられたわけでは<line-break>ないだろう。<line-break>だが、運命を乗り越えた者は、<line-break>立ち向かった者の中にしかいないのだ。<end>"
+english = "I do not know what troubles you, but I can tell you this. We are each born bearing our own fate, and we cannot choose it. But we can refuse to be swept along by it and decide how we will face it. Not everyone who has stood against fate has overcome it. But no one has ever overcome fate without standing against it.<end>"
+
+["2490008"]
+japanese = "PSP用新スタートイベント14用終端<end>"
+english = ""

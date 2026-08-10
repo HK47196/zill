@@ -1,0 +1,669 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1480000"]
+japanese = "ルルアンタ（修）その２\u3000開始<end>"
+english = ""
+
+["1480001"]
+japanese = "ここは…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>いや、ここがそうなのか…。<line-break>\u3000<line-break>前に来たときは、<line-break>こんな屋敷はなかったはずだが…<end>"
+english = "This place... No, so this is it... I'm sure there was no manor here the last time I came through...<end>"
+
+["1480002"]
+japanese = "フフ、ここは結界を張っています。\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "Heh. This place is protected by a barrier.<end>"
+
+["1480003"]
+japanese = "未使用<end>"
+english = ""
+
+["1480004"]
+japanese = "運命に選ばれた人だけが、<line-break>結界を抜けてここに入ってくるのです。<line-break>\u3000<line-break>ですから、あなたほどの冒険者でも\u3000\u3000<line-break>ここに来たことがないんですよ。<line-break>\u3000<end>"
+english = "Only those chosen by fate can pass through the barrier and enter. That is why even an adventurer of your stature has never been here before.<end>"
+
+["1480005"]
+japanese = "いらっしゃい。<line-break>お待ちしていましたよ。<line-break>\u3000<line-break>私はオルファウス。<line-break>この猫屋敷の主です。<end>"
+english = "Welcome. I have been expecting you. I am Orphaus, master of Cat Manor.<end>"
+
+["1480006"]
+japanese = "…ということは、あんたが<line-break>この森に住んでいるという<line-break>賢者なのか？<end>"
+english = "Then you're the sage who's said to live in this forest?<end>"
+
+["1480007"]
+japanese = "ウフフ。私は自分で賢者と<line-break>名乗ったことなどありませんが、<line-break>そのように呼ぶ人もいますね。<end>"
+english = "Heh heh. I have never called myself a sage, though there are some who call me one.<end>"
+
+["1480008"]
+japanese = "…そうか、あんたが。<line-break>…おっと、自分のことを名乗るのを<line-break>忘れていたな。<line-break>俺はゼネテス。<line-break>こっちは<value:$28>。<line-break>ふたりとも冒険者だ。<end>"
+english = "So you're the one... Ah, I nearly forgot to introduce myself. I'm Xenetes. This is <value:$28>. We're both adventurers.<end>"
+
+["1480009"]
+japanese = "連れのリルビーの女の子が<line-break>この森に迷い込んでしまってな。<line-break>今、捜している最中なんだが…。<end>"
+english = "A Lilbie girl traveling with us wandered into this forest. We're looking for her now...<end>"
+
+["1480010"]
+japanese = "フフ。あなた方が捜している<line-break>女の子はルルアンタさんと<line-break>おっしゃいませんか？<end>"
+english = "Heh. Would the girl you are seeking happen to be named Lulluantha?<end>"
+
+["1480011"]
+japanese = "どうして、ルルアンタのことを<line-break>知っている？<end>"
+english = "How do you know Lulluantha?<end>"
+
+["1480012"]
+japanese = "ルルアンタさんなら、先ほど<line-break>森の中でお会いしましてね。<line-break>今は中にいらっしゃいますよ。<end>"
+english = "I met Lulluantha in the forest a short while ago. She is inside now.<end>"
+
+["1480013"]
+japanese = "フフ、ここで立ち話もなんですし、<line-break>とりあえず、中に入りませんか？<end>"
+english = "Heh. Rather than stand here talking, why don't we go inside for now?<end>"
+
+["1480014"]
+japanese = "あ？\u3000あぁ、そうだな。\u3000\u3000\u3000\u3000<line-break>中に入ってみよう。<line-break>\u3000<line-break>よかったな、<value:$28>、<line-break>ルルアンタが無事で。<end>"
+english = "Huh? Oh, right. Let's go inside. Good news, <value:$28>. Lulluantha's safe.<end>"
+
+["1480015"]
+japanese = "そんじゃ、行ってみますか。<end>"
+english = "Well then, let's go.<end>"
+
+["1480016"]
+japanese = "あ…、<value:$28>…。<end>"
+english = "Oh... <value:$28>...<end>"
+
+["1480017"]
+japanese = "ふたりで捜しに来てくれた<line-break>そうですよ。<line-break>よかったですね、ルルアンタさん。<end>"
+english = "They both came looking for you. Isn't that wonderful, Lulluantha?<end>"
+
+["1480018"]
+japanese = "<value:$28>、ルルアンタを追って<line-break>こんな所まで来てくれたんだ…。<line-break>ありがとう…。<end>"
+english = "<value:$28>, you came all this way looking for Lulluantha... Thank you...<end>"
+
+["1480019"]
+japanese = "ごめんね、<value:$28>。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>フリントさんが亡くなって、<line-break><value:$28>が一番つらいときに、<line-break>こんなことになっちゃって。<end>"
+english = "I'm sorry, <value:$28>. Flint died, and now, when <value:$28> is having the hardest time, this had to happen...<end>"
+
+["1480020"]
+japanese = "ルルアンタ、お使いに行くときに<line-break>フリントさんを襲ってきた<line-break>人を見つけて…<line-break>それで、あとを付けていったら<line-break>逆に捕まっちゃって…<end>"
+english = "Lulluantha was out on an errand when she saw the person who attacked Flint... So Lulluantha followed, but got caught instead...<end>"
+
+["1480021"]
+japanese = "ルルアンタ、<value:$28>に<line-break>迷惑かけちゃった…。<end>"
+english = "Lulluantha caused trouble for <value:$28>...<end>"
+
+["1480022"]
+japanese = "ひっく、ひっく…<end>"
+english = "Sniff... sniff...<end>"
+
+["1480023"]
+japanese = "うわ～ん！！！<line-break><value:$28>～！<line-break>こわかったよぉ～～～！<end>"
+english = "Waaaaah! <value:$28>! I was so scared!<end>"
+
+["1480024"]
+japanese = "あんたがルルアンタを<line-break>助けてくれたんだな。<line-break>礼を言う。<end>"
+english = "You're the one who saved Lulluantha. You have my thanks.<end>"
+
+["1480025"]
+japanese = "いえいえ、森を歩いていたら<line-break>迷子に出会ったものですから。<line-break>助けるのは当然というものですよ。\u3000\u3000<line-break>それより、皆さんお疲れのようですし、<line-break>久々の再会で話すことも<line-break>たくさんあるでしょう。<end>"
+english = "Not at all. I happened upon a lost child while walking through the forest. Helping her was only natural. More importantly, you all look tired, and after so long apart, you must have much to talk about.<end>"
+
+["1480026"]
+japanese = "腕によりをかけて<line-break>晩御飯を作りますから、<line-break>ゆっくり休んでいってください。<end>"
+english = "I shall prepare a splendid dinner, so please stay and rest awhile.<end>"
+
+["1480027"]
+japanese = "すまない。<line-break>そうさせてもらえると助かる。<end>"
+english = "Thanks. We'd appreciate that.<end>"
+
+["1480028"]
+japanese = "オルファウスさん、<line-break>おはようございます！！<end>"
+english = "Good morning, Orphaus!<end>"
+
+["1480029"]
+japanese = "おはよう、\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>、ルルアンタ。<line-break>\u3000<line-break>ルルアンタは本当に元気ですね。<end>"
+english = "Good morning, <value:$28>, Lulluantha. You certainly are full of energy, Lulluantha.<end>"
+
+["1480030"]
+japanese = "うふふ。<line-break>ありがとうございます！<line-break>\u3000<end>"
+english = "Hee hee. Thank you!<end>"
+
+["1480031"]
+japanese = "それで、<line-break>ゼネテスはどうしました？<end>"
+english = "And where is Xenetes?<end>"
+
+["1480032"]
+japanese = "まだ寝てるよぉ。<line-break>ほんと、お寝坊さんなんだからぁ！<end>"
+english = "He's still asleep. What a sleepyhead!<end>"
+
+["1480033"]
+japanese = "朝からうるせーぞ！<line-break>このガキ！<end>"
+english = "Quit making such a racket this early, you brat!<end>"
+
+["1480034"]
+japanese = "あいてててって…。う～。<end>"
+english = "Ow, ow, ow... Ugh.<end>"
+
+["1480035"]
+japanese = "わ、ブサイクな猫がしゃべった！<end>"
+english = "Whoa! That ugly cat just talked!<end>"
+
+["1480036"]
+japanese = "俺は猫じゃない、ネモだ。<line-break>破壊神の円卓騎士ネモ！\u3000っててて…。<end>"
+english = "I'm not a cat. I'm Nemo―Nemo, Knight of the Round Table serving the God of Destruction! Ow, ow...<end>"
+
+["1480037"]
+japanese = "わ、すごいすごーい！！<end>"
+english = "Wow! That's amazing!<end>"
+
+["1480038"]
+japanese = "騒ぐなって。頭に響く。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>オルファウスとゼネテスと<line-break>朝まで飲んでて、ふつか酔いなんだよ。<line-break>いてててって…。<end>"
+english = "Keep it down. You're making my head pound. I was drinking with Orphaus and Xenetes until dawn, and now I'm hungover. Ow, ow, ow...<end>"
+
+["1480039"]
+japanese = "破壊神の円卓騎士とは言っても、<line-break>昔の話です。<line-break>心配はいりませんよ。<line-break>昔、勇者ネメアに倒されてからは<line-break>猫の姿に封印されて、<line-break>今はなんの力も残っていませんから。<end>"
+english = "He may have been a Knight of the Round Table serving the God of Destruction, but that was long ago. There is no need to worry. Ever since the Hero Nemea defeated him, he has been sealed in the form of a cat. He has no power left now.<end>"
+
+["1480040"]
+japanese = "しかし、さすがは破壊神の円卓騎士\u3000<line-break>ですよね。猫の姿になってなお<line-break>人語を操るんですから。<end>"
+english = "Still, he is a Knight of the Round Table serving the God of Destruction. Even in the form of a cat, he can speak the human tongue.<end>"
+
+["1480041"]
+japanese = "さて、このバカ猫はほっといて。<line-break>ここまで訪ねてきてくれた<line-break>あなたたちに見せたいものがあります。<line-break>これから始まる冒険の旅の役に<line-break>きっと立つと思いますよ。<end>"
+english = "Now, never mind this foolish cat. Since you've come all this way, there is something I'd like to show you. I believe it will prove useful on the adventure ahead.<end>"
+
+["1480042"]
+japanese = "あっ、これ何？<line-break>これ何？<end>"
+english = "Oh! What's this? What is it?<end>"
+
+["1480043"]
+japanese = "フフ。<line-break>この子は転送機っていうんです。<line-break>使ってみましょうか。<end>"
+english = "Heh heh. This little device is called a teleporter. Shall we try it?<end>"
+
+["1480044"]
+japanese = "わ！\u3000ゼネテスが出てきたぁ！<line-break>どうなってるのぉ？<end>"
+english = "Whoa! Xenetes came out! How did that happen?<end>"
+
+["1480045"]
+japanese = "ウフフ。この子を使えば<line-break>このように、遠くにいる人を<line-break>呼び寄せたりできるんですよ。<end>"
+english = "Hee hee. With this device, you can summon someone from far away, just as you saw.<end>"
+
+["1480046"]
+japanese = "へぇー。すごいんですねぇ。<line-break>オルファウスさんのお家って<line-break>不思議なものがいっぱい…。<end>"
+english = "Wow, that's amazing. Your house is full of mysterious things, Orphaus...<end>"
+
+["1480047"]
+japanese = "それにしても、ゼネテスったらぁ。<line-break>みっともないんだからぁ。<end>"
+english = "Honestly, Xenetes. What a disgraceful sight.<end>"
+
+["1480048"]
+japanese = "あれだけ飲めば、仕方ないですかね。<line-break>私ですら多少厳しいんですから…。<line-break>\u3000<line-break>そうそう、それと<line-break>この子は逆に、ここにいる人を<line-break>遠くに送り出すこともできますよ。<end>"
+english = "Given how much we drank, I suppose it was inevitable. Even I found it a little taxing... Ah, yes. This device can also send someone here to a distant place.<end>"
+
+["1480049"]
+japanese = "すごいすごーい！<end>"
+english = "Amazing!<end>"
+
+["1480050"]
+japanese = "あなたが将来、<line-break>旅で人と出会い、<line-break>仲間を増やしたとき、\u3000\u3000\u3000\u3000\u3000\u3000<line-break>一緒に旅する仲間を<line-break>変更したいと思ったら<line-break>ここに来てください。<end>"
+english = "In the future, once you've met people on your travels and gained more companions, come here whenever you wish to change who travels with you.<end>"
+
+["1480051"]
+japanese = "あ、今後はパーティーメンバーの<line-break>了解を取ってから呼び出しますから<line-break>こんな無様なことはありませんよ。<end>"
+english = "Ah, from now on, I'll obtain your party members' consent before summoning them. You won't see such an undignified spectacle again.<end>"
+
+["1480052"]
+japanese = "おはよう、ゼネテス！<end>"
+english = "Good morning, Xenetes!<end>"
+
+["1480053"]
+japanese = "おはようございます。<line-break>気分はどうですか？<end>"
+english = "Good morning. How are you feeling?<end>"
+
+["1480054"]
+japanese = "…最悪だ。<line-break>朝まで飲んで寝てるところを<line-break>実験台に使われたんだからな…。<end>"
+english = "Awful. I drank until dawn, fell asleep, and then got used as a test subject...<end>"
+
+["1480055"]
+japanese = "くすっ、以後は<line-break>そんなことはありませんから。<end>"
+english = "Hee. I assure you, it won't happen again.<end>"
+
+["1480056"]
+japanese = "フフ、信じてるぜ。<end>"
+english = "Heh. I'll hold you to that.<end>"
+
+["1480057"]
+japanese = "さぁて、すっかり<line-break>長居しちまったからな。<line-break>そろそろ、おいとまするとしようか？<end>"
+english = "Well, we've stayed more than long enough. Shall we be on our way?<end>"
+
+["1480058"]
+japanese = "おや、もうお帰りですか？<line-break>あなたたちに、ひとつ仕事をお願い<line-break>しようかと思っていたんですが…。<end>"
+english = "Oh, are you leaving already? I was hoping to ask you to take on a job for me...<end>"
+
+["1480059"]
+japanese = "うーん。<line-break>最終的な判断は\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>に任せるが、<line-break>そろそろ<value:$28>に、<line-break>ロストールのお偉いさん方から<line-break>なんらかの接触があると思うぜ。<end>"
+english = "Hmm. The final decision is yours, <value:$28>, but I expect the important people in Rostorl will be contacting <value:$28> before long.<end>"
+
+["1480060"]
+japanese = "お前さんはエリスの密使の子だ。\u3000\u3000\u3000<line-break>だから、ロストール王家の秘密を<line-break>聞かされてると思われてるだろう。<line-break>エリス側か、あるいはエリスに<line-break>敵対する側かが、お前さんに<line-break>働きかけてくるのはまず間違いない。<end>"
+english = "You're the child of Eris's secret envoy. They'll assume you've been told the secrets of the Rostorl Royal House. Either Eris's faction or its enemies are almost certain to approach you.<end>"
+
+["1480061"]
+japanese = "お前さんは何も知らんようだが、<line-break>残念ながら、お前さんが知ってるか<line-break>どうかは問題じゃない。<line-break>お前さんが知っていると、<line-break>向こうが思いこんでいることが<line-break>問題なんだ。<end>"
+english = "You don't seem to know anything, but unfortunately, whether you actually know is beside the point. What matters is that they believe you do.<end>"
+
+["1480062"]
+japanese = "さーてと。<line-break>俺はそろそろロストールに戻るか。<line-break>こう見えてもけっこう忙しいんでね。<end>"
+english = "Well, I suppose it's time I went back to Rostorl. Believe it or not, I'm a busy man.<end>"
+
+["1480063"]
+japanese = "えー？<line-break>ゼネテス、もう行っちゃうのぉ？<end>"
+english = "What? Xenetes, you're leaving already?<end>"
+
+["1480064"]
+japanese = "あぁ。ルルアンタがいれば、<line-break><value:$28>は大丈夫だろ？<end>"
+english = "Yeah. With Lulluantha around, <value:$28> should be all right, don't you think?<end>"
+
+["1480065"]
+japanese = "<value:$28>。お前はギルドで<line-break>受けた誘拐事件の依頼も達成している。<line-break>もう、立派な冒険者だ。<line-break>ルルアンタと一緒に、<line-break>お前の冒険を続けるんだ。<line-break>仕事の報酬はその行動資金にしてくれ。<end>"
+english = ""
+
+["1480066"]
+japanese = "なぁに、一生の別れというんじゃない。\u3000<line-break>俺の力が必要になったら、ロストールの<line-break>スラムを訪ねてきてくれればいい。<line-break>じゃあ、またな、<line-break><value:$28>、ルルアンタ。<line-break>オルファウスさんにも世話になったな。<end>"
+english = "Come on, it's not as if we'll never meet again. If you need my help, come find me in the Slums of Rostorl. Until next time, <value:$28>, Lulluantha. And thank you for everything, Orphaus.<end>"
+
+["1480067"]
+japanese = "ゼネテス、行っちゃったね…。<end>"
+english = "Xenetes is gone...<end>"
+
+["1480068"]
+japanese = "でもでもぉ、ルルアンタは<line-break>いつまでも<value:$28>と<line-break>一緒にいるからね！<end>"
+english = "But Lulluantha will stay with <value:$28> forever!<end>"
+
+["1480069"]
+japanese = "さて、ゼネテスの話では<line-break>あなたはロストール王家に<line-break>因縁があるようですからね。\u3000<line-break>無理強いはしませんが、ひとつ<line-break>私の仕事の依頼を聞いては<line-break>もらえませんか？<end>"
+english = "Now, from what Xenetes said, it seems you have some connection to the Rostorl Royal House. I won't force you, but would you at least hear about a job I'd like you to undertake?<end>"
+
+["1480070"]
+japanese = "もう質問はありません<end>"
+english = "I don't have any more questions.<end>"
+
+["1480071"]
+japanese = "無限のソウルとは<end>"
+english = "What is the Infinite Soul?<end>"
+
+["1480072"]
+japanese = "転送機について<end>"
+english = "About the teleportation device<end>"
+
+["1480073"]
+japanese = "闇の神器について<end>"
+english = "About the divine artifact of darkness<end>"
+
+["1480074"]
+japanese = "ネモについて<end>"
+english = "About Nemo<end>"
+
+["1480075"]
+japanese = "アーギルシャイアについて<end>"
+english = "About Argyleshire<end>"
+
+["1480076"]
+japanese = "将来、旅の途中で出会った仲間を<line-break>呼び出すための装置です。<line-break>\u3000<line-break>一緒に旅する仲間を<line-break>変更したくなったら<line-break>この猫屋敷に来てください。<end>"
+english = "This device will allow you to summon companions you meet on your travels. If you ever wish to change who travels with you, come to the Cat Manor.<end>"
+
+["1480077"]
+japanese = "一緒に旅をしたい仲間を呼び出したり<line-break>別行動を取ることを決めた仲間を<line-break>送り出したりできますよ。<end>"
+english = "You can summon companions you wish to travel with, or send off those who have decided to go their separate ways.<end>"
+
+["1480078"]
+japanese = "ここにいるブサイクな猫です。\u3000\u3000<line-break>口は悪いですけれど<line-break>無害ですよ。<line-break>もともとは老人星の精霊で<line-break>天空の賢者とも呼ばれていましたが<line-break>地上に落ちて、魔人になりました。<end>"
+english = "That would be the ugly cat right here. He's foul-mouthed, but harmless. He was once a spirit of the Old Man Star and was also known as the Sage of the Heavens, but then he fell to earth and became a demon.<end>"
+
+["1480079"]
+japanese = "破壊神の強力な魔人、<line-break>１２人の円卓騎士のひとりで、<line-break>名前を知るものの異名を持ちます。<end>"
+english = "One of the God of Destruction's powerful demons and one of the twelve Knights of the Round Table, known by the epithet “He Who Knows the Name.”<end>"
+
+["1480080"]
+japanese = "聖杯をねらってる悪い魔人は\u3000<line-break>アーギルシャイア。<line-break>\u3000<line-break>聖杯を持ってるゴブリンは<line-break>ゴブゴブ団って言って<line-break>今はエンシャントにいる…と。<end>"
+english = "The evil demon after the Grail is Argyleshire. The Goblins who have it call themselves the Gob-Gob Gang, and they're in Ancient right now... Got it.<end>"
+
+["1480081"]
+japanese = "忘れないように<line-break>覚えておかなくちゃ。<line-break>\u3000<end>"
+english = "I'd better remember that so I don't forget.<end>"
+
+["1480082"]
+japanese = "あぁ？\u3000なんだって？<line-break>…あいてててって。う～。<line-break>話はオルファウスに聞いてくれ。<end>"
+english = "Huh? What did you say? Ow, ow, ow... Ugh. Ask Orphaus about it.<end>"
+
+["1480083"]
+japanese = "あ、<value:$28>。<line-break>もう、行っちゃうの？<end>"
+english = "Oh, <value:$28>. Are you leaving already?<end>"
+
+["1480084"]
+japanese = "じゃあ、オルファウスさんに<line-break>ちゃんとお礼を言ってからね。<end>"
+english = "Then make sure you thank Orphaus properly before we go.<end>"
+
+["1480085"]
+japanese = "オルファウスさん。<line-break>本当にお世話になりましたぁ。<end>"
+english = "Orphaus, thank you so much for everything.<end>"
+
+["1480086"]
+japanese = "いえいえ、お礼を言われるほどの<line-break>ことはしていませんよ。<line-break>私もふたりに会えてよかったです。<end>"
+english = "Not at all. I haven't done anything worth thanking me for. I'm glad I got to meet you both, too.<end>"
+
+["1480087"]
+japanese = "オルファウスさん、<line-break>それじゃあ、行ってきまーす！<end>"
+english = "Well, Orphaus, we're off!<end>"
+
+["1480088"]
+japanese = "<value:$28>。<end>"
+english = "<value:$28>.<end>"
+
+["1480089"]
+japanese = "<value:$28>、あなたの<line-break>ソウルは無限の可能性を秘めている…<line-break>いわば、無限のソウルです。<line-break>世界を巡って人に出会い、<line-break>仲間を作って、<line-break>そのソウルを高めてください。<end>"
+english = "<value:$28>, your Soul holds limitless potential... It is, in a word, an Infinite Soul. Travel the world, meet people, find companions, and nurture that Soul.<end>"
+
+["1480090"]
+japanese = "その中で世界は<line-break>様々な顔を見せてくれるでしょう。<line-break>自由な旅を！<end>"
+english = "Along the way, the world will show you many different faces. Travel freely!<end>"
+
+["1480091"]
+japanese = "ねぇ、<value:$28>。<line-break>ゼネテスが言ってたんだけどぉ、\u3000<line-break>この猫屋敷に入ってこれるのは、<line-break>運命に選ばれた人だけなんだって。<line-break>それでね、ゼネテスはこれまで<line-break>ここに入れなかったんだって。<end>"
+english = "Hey, <value:$28>. Xenetes told me only people chosen by fate can enter Cat Manor. And Xenetes had never been able to get in before.<end>"
+
+["1480092"]
+japanese = "だからね、<value:$28>は<line-break>運命に選ばれたんだって、<line-break>ゼネテスは言ってた…。<end>"
+english = "So Xenetes said <value:$28> must have been chosen by fate...<end>"
+
+["1480093"]
+japanese = "ねぇ、<value:$28>は<line-break><value:$28>だよねぇ？<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ルルアンタの知ってる、<line-break><value:$28>だよねぇ？<end>"
+english = "Hey, <value:$28> is really <value:$28>, right? The <value:$28> Lulluantha knows, right?<end>"
+
+["1480094"]
+japanese = "そうだよね！\u3000よかった…。\u3000\u3000<line-break>ルルアンタ、これからも<line-break><value:$28>と一緒だよ！<line-break>それじゃぁ、<value:$28>。<line-break>出発進行！<end>"
+english = "That's right! Thank goodness... Lulluantha will stay with <value:$28> from now on! All right, <value:$28>. Full speed ahead!<end>"
+
+["1480095"]
+japanese = "そうですか。<line-break>ありがとうございます。<line-break>それでは、お話ししましょう。\u3000\u3000\u3000<line-break>ことは魔人アーギルシャイアによって<line-break>ミイス村が焼き払われたことから<line-break>始まります。<end>"
+english = "I see. Thank you. Then let me explain. It began when the demon Argyleshire burned Miis Village to the ground.<end>"
+
+["1480096"]
+japanese = "アーギルシャイア？<end>"
+english = "Argyleshire?<end>"
+
+["1480097"]
+japanese = "アーギルシャイアは<line-break>破壊神ウルグの円卓騎士と呼ばれる\u3000<line-break>強力な魔人のひとりです。<line-break>妖艶な美女で、残酷で気まぐれです。<line-break>闇の神器をひとつ手に入れるために<line-break>ミイスを焼き払ってしまいました。<end>"
+english = "Argyleshire is one of the powerful demons known as the Knights of the Round Table serving Urg, the God of Destruction. She is a seductive beauty, cruel and capricious. She burned Miis to the ground to obtain an Artifact of Darkness.<end>"
+
+["1480098"]
+japanese = "闇の神器？<end>"
+english = "An Artifact of Darkness?<end>"
+
+["1480099"]
+japanese = "闇の神器とは強大で凶々しい力を持つ<line-break>１２の魔道器のことで、破壊神ウルグの<line-break>復活に使われたと言われています。<line-break>ただ、彼女はその本来の使い方<line-break>以外のことで使おうとしています。<line-break>\u3000<end>"
+english = "The Artifacts of Darkness are twelve magical artifacts of immense and sinister power. They are said to have been used to resurrect Urg, the God of Destruction. But Argyleshire intends to use one for something other than its original purpose.<end>"
+
+["1480100"]
+japanese = "彼女は究極の合成怪物を作り、<line-break>その力でおもしろ半分に世界を<line-break>破壊しようと考えているようです。<line-break>その合成怪物を作るための知識を<line-break>闇の神器のひとつ、禁断の聖杯から<line-break>得ようとしているみたいですね。<end>"
+english = "It seems she plans to create the ultimate hybrid monster and use its power to destroy the world for amusement. She hopes to obtain the knowledge needed to create it from one of the Artifacts of Darkness: the Forbidden Grail.<end>"
+
+["1480101"]
+japanese = "その禁断の聖杯が<line-break>アーギルシャイアの手に落ちる前に<line-break>取ってきてほしいというわけです。<end>"
+english = "That is why I want you to retrieve the Forbidden Grail before it falls into Argyleshire's hands.<end>"
+
+["1480102"]
+japanese = "わかったら、早くエンシャントへ<line-break>行くんだ！\u3000…って、うぅ<line-break>頭が…。<end>"
+english = "Now that you understand, hurry to Ancient! Ugh... my head...<end>"
+
+["1480103"]
+japanese = "現在、聖杯はゴブゴブ団と名乗る<line-break>３匹のゴブリンが盗み持っています。<line-break>\u3000<line-break>ですが、それを盗み出させたのは<line-break>魔人アーギルシャイアではなく、<line-break>このネモなのです。<end>"
+english = "The Grail is currently held by three Goblins calling themselves the Gobgob Gang, who stole it. But it was not the demon Argyleshire who had them steal it. It was Nemo.<end>"
+
+["1480104"]
+japanese = "もともと聖杯は彼のものです。<line-break>アーギルシャイアの企みを知った彼は\u3000<line-break>自分の神器を奪われたくないと考え、<line-break>神器の力でもとの姿に戻ろうと、<line-break>３匹のゴブリンたちを使って神器を<line-break>ロストールから盗み出させたのです。<end>"
+english = "The Grail originally belonged to him. When Nemo learned of Argyleshire's scheme, he resolved not to let her seize his artifact. Hoping to use its power to regain his true form, he had the three Goblins steal it from Rostorl.<end>"
+
+["1480105"]
+japanese = "ですが、禁断の聖杯によって<line-break>知恵を身につけたゴブリンたちは\u3000\u3000\u3000<line-break>ネモを見限ってしまいました。<end>"
+english = "But the Forbidden Grail granted the Goblins wisdom, and they abandoned Nemo.<end>"
+
+["1480106"]
+japanese = "ミイスの時のように<line-break>聖杯を持ってるゴブリンがいる町ごと<line-break>焼き払ってしまうかもしれないのです。<line-break>ですから、あなたに急いで聖杯を<line-break>取り戻してもらいたいのです。<end>"
+english = "As she did at Miis, Argyleshire may burn down the entire town where the Goblins holding the Grail are staying. That is why I need you to recover it quickly.<end>"
+
+["1480107"]
+japanese = "ウフフ。ありがとうございます。<line-break>それでは、聖杯のことお願いしますよ。<line-break>\u3000<line-break>このようなことは、ソウルに巨大な<line-break>可能性を秘めている…無限のソウルを<line-break>持つ者にしか頼めませんから。<end>"
+english = "Hee hee. Thank you. Then I leave the Grail in your hands. This is something I could ask only of the Bearer of the Infinite Soul, whose Soul holds such tremendous potential.<end>"
+
+["1480108"]
+japanese = "ネモの話だと、そのゴブリンたちは<line-break>エンシャントにいるという話でしたが、<line-break>急がないと移動してしまうでしょう。<end>"
+english = "According to Nemo, the Goblins are in Ancient, but they may move on if you don't hurry.<end>"
+
+["1480109"]
+japanese = "アーギルシャイアは、<line-break>今も聖杯を手に入れようと<line-break>ねらっているはずです。<end>"
+english = "Argyleshire must still be seeking the Grail.<end>"
+
+["1480110"]
+japanese = "他に何か、聞きたいことがあれば、<line-break>私にできる範囲でお答えしますよ。<end>"
+english = "If there is anything else you wish to ask, I'll answer as best I can.<end>"
+
+["1480111"]
+japanese = "何か質問ですか？<end>"
+english = "Do you have a question?<end>"
+
+["1480112"]
+japanese = "未使用<end>"
+english = ""
+
+["1480113"]
+japanese = "未使用<end>"
+english = ""
+
+["1480114"]
+japanese = "未使用<end>"
+english = ""
+
+["1480115"]
+japanese = "おや、なかなか耳ざといですね。<line-break>フフ、今はまだ秘密です。<line-break>\u3000<line-break>おいおいわかりますよ。<line-break>とりあえずはギルドで<line-break>仕事をしていってください。<end>"
+english = "Oh, you don't miss much, do you? Heh. For now, it remains a secret. You'll understand in time. For the moment, take on some work at the Guild.<end>"
+
+["1480116"]
+japanese = "他人のために働くことで、<line-break>魂を成長させていけば<line-break>いずれ、わかってきますよ。\u3000\u3000<end>"
+english = "As you work for others and nurture your soul, the answer will become clear in time.<end>"
+
+["1480117"]
+japanese = "破壊神ウルグの復活に<line-break>用いられた強力な魔道器です。\u3000<line-break>\u3000<line-break>１２種類あるといいます。<line-break>禁断の聖杯は<line-break>その中のひとつですね。<end>"
+english = "It is a powerful magical artifact used to resurrect Urg, the God of Destruction. There are said to be twelve such artifacts, and the Forbidden Grail is one of them.<end>"
+
+["1480118"]
+japanese = "禁断の聖杯については<line-break>今、ゴブゴブ団という<line-break>３匹のゴブリンが持っています。<line-break>とりあえずは、<line-break>エンシャントを探してみると<line-break>彼らに会えると思いますよ。<end>"
+english = "At present, the Forbidden Grail is in the hands of three Goblins called the Gobgob Gang. For now, try looking in Ancient. I believe you'll find them there.<end>"
+
+["1480119"]
+japanese = "円卓騎士には他に<line-break>アーギルシャイアなどがいますね。\u3000\u3000<line-break>\u3000<end>"
+english = "The other Knights of the Round Table include Argyleshire.<end>"
+
+["1480120"]
+japanese = "破壊神ウルグの円卓騎士のひとりです。<line-break>妖艶な美女の姿をしています。<line-break>\u3000<line-break>きわめて、気まぐれで残酷です。<line-break>すでに神器を手に入れるため<line-break>ミイスの村を焼き払っています。<end>"
+english = "She is one of the Knights of the Round Table who serve Urg, the God of Destruction, and takes the form of a bewitchingly beautiful woman. She is extraordinarily capricious and cruel. She has already burned Miis Village to the ground in pursuit of a divine artifact.<end>"
+
+["1480121"]
+japanese = "究極生物を作ろうとして、<line-break>その製法を神器、禁断の聖杯から\u3000\u3000<line-break>得ようと、聖杯をねらっています。<line-break>円卓騎士には他に<line-break>うちのネモなどがいますね。<line-break>\u3000<end>"
+english = "She seeks the Grail, hoping to learn from the divine artifact known as the Forbidden Grail how to create an Ultimate Life-Form. The other Knights of the Round Table include our own Nemo.<end>"
+
+["1480122"]
+japanese = "そうですか。<end>"
+english = "I see.<end>"
+
+["1480123"]
+japanese = "ま、こんな感じですかね。<line-break>わかっていただけましたか？<end>"
+english = "Well, that about covers it. Does that make sense?<end>"
+
+["1480124"]
+japanese = "未使用<end>"
+english = ""
+
+["1480125"]
+japanese = "ついたよぉ、<value:$28>。<line-break>これから、どこに行くのぉ？<end>"
+english = "We're here, <value:$28>! Where are we going now?<end>"
+
+["1480126"]
+japanese = "フリントの子、<line-break><value:$28>ですね？<end>"
+english = "You're Flint's child, <value:$28>, aren't you?<end>"
+
+["1480127"]
+japanese = "お姉ちゃんたちは誰？<line-break>どうして、フリントさんのこと<line-break>知ってるのぉ？<end>"
+english = "Who are you two? How do you know Flint?<end>"
+
+["1480128"]
+japanese = "私たちはロストールのエリス様に<line-break>お仕えする者。<line-break>私がヴァイライラ。<end>"
+english = "We serve Lady Eris of Rostorl. I am Vailaila.<end>"
+
+["1480129"]
+japanese = "私はヴィアリアリ。<end>"
+english = "And I am Vialiali.<end>"
+
+["1480130"]
+japanese = "ふ～ん、お姉ちゃんたち<line-break>顔がそっくりだねぇ。<end>"
+english = "Huh. You two look exactly alike.<end>"
+
+["1480131"]
+japanese = "私たちは双子なのよ。<line-break>だからね。<end>"
+english = "We're twins. That's why.<end>"
+
+["1480132"]
+japanese = "<value:$28>、<line-break>エリス様がお呼びよ。<line-break>すぐにロストールまで来て。<end>"
+english = "<value:$28>, Lady Eris has summoned you. Come to Rostorl at once.<end>"
+
+["1480133"]
+japanese = "エリス様はそのことだけ<line-break>伝えればよいと仰せでしたが、<line-break>どうです？\u3000すぐに来てもらえますか？<end>"
+english = "Lady Eris instructed us only to deliver that message, but what do you say? Will you come at once?<end>"
+
+["1480134"]
+japanese = "すぐに行く<end>"
+english = "I'll go right away.<end>"
+
+["1480135"]
+japanese = "気が向いたら行く<end>"
+english = "I'll go if I feel like it.<end>"
+
+["1480136"]
+japanese = "そう。それはよかった。<line-break>私たちは先に戻ってエリス様に<line-break>そのことをお伝えするわ。<end>"
+english = "Good. We'll return ahead of you and tell Lady Eris.<end>"
+
+["1480137"]
+japanese = "それでは、<line-break>すぐにロストールの城を<line-break>訪ねて来てください。<end>"
+english = "Then please come to Rostorl Castle without delay.<end>"
+
+["1480138"]
+japanese = "<value:$28>、<line-break>ゼネテスの言ってたこと、<line-break>本当になっちゃったね。<end>"
+english = "<value:$28>, what Xenetes said really did come true.<end>"
+
+["1480139"]
+japanese = "じゃあじゃあ、用意ができたら\u3000\u3000<line-break>早くロストールに行こうよ。<line-break>ルルアンタも準備してくるから。<line-break>町を出るときに合流するからね。<line-break>ロストールにはゼネテスがいるから<line-break>また会えるね。楽しみだなぁ。<end>"
+english = "Then let's get ready and hurry to Rostorl! Lulluantha will go get ready too. We'll meet up when we leave town, all right? Xenetes is in Rostorl, so we'll get to see him again. I can't wait!<end>"
+
+["1480140"]
+japanese = "そうそう。<value:$28>は<line-break>ギルドで受けた仕事を達成してるから<line-break>ギルドに行けば報酬がもらえるよぉ。<line-break>だから、時間があったら<line-break>ロストールのギルドに行った方が<line-break>いいよ。じゃあ、またあとでねぇ。<end>"
+english = "Oh, right! You've finished that job you took from the Guild, <value:$28>, so you can collect your reward there. If there's time, you should stop by the Guild in Rostorl. See you later!<end>"
+
+["1480141"]
+japanese = "そう…仕方ないわ。<line-break>エリス様は無理に連れてくる必要は<line-break>ないとおっしゃっていたから。<end>"
+english = "I see. Very well. Lady Eris did say there was no need to bring you by force.<end>"
+
+["1480142"]
+japanese = "それでは、エリス様よりの伝言、<line-break>確かに伝えましたよ。遠からず、<line-break>ロストールの城まで来てください。<end>"
+english = "Then Lady Eris's message has been duly delivered. Please come to Rostorl Castle before too long.<end>"
+
+["1480143"]
+japanese = "じゃあじゃあ、ルルアンタ、<line-break>次の旅の準備してくるから。<line-break>町を出るときに合流するからね。<end>"
+english = "All right, Lulluantha's going to get ready for the next journey. We'll meet up when we leave town!<end>"
+
+["1480144"]
+japanese = "そうそう。<value:$28>は<line-break>ギルドで受けた仕事を達成してるから<line-break>ギルドに行けば報酬がもらえるよぉ。<line-break>だから、ロストールに行くんだったら<line-break>ギルドに行った方がいいよ。<line-break>じゃあ、またあとでねぇ。<end>"
+english = "Oh, right! You've finished that job you took from the Guild, <value:$28>, so you can collect your reward there. If you're going to Rostorl, you should stop by the Guild. See you later!<end>"
+
+["1480145"]
+japanese = "ん？\u3000なんだ、お前は？<line-break>お城に何か用があるのか？\u3000\u3000\u3000\u3000<end>"
+english = "Hm? Who are you? Do you have business at the castle?<end>"
+
+["1480146"]
+japanese = "フリントの子だと？<line-break>…そう言えば、<line-break>お前の顔には見覚えがあるな。\u3000\u3000<line-break>お前が訪ねてくるという話は<line-break>聞いている。エリス様がお待ちだ。<line-break>ついてこい。<end>"
+english = "Flint's child? Come to think of it, I do recognize your face. I was told you'd be coming. Lady Eris is waiting. Follow me.<end>"
+
+["1480147"]
+japanese = "<if><value:$29><equal>%0よく来た、フリントの息子<line-break><value:$28>よ。<line-break>もはや知っていようが…<line-break>そなたの父フリントは<line-break>ただの旅の商人ではない。<line-break>我が配下の諜報員だった。<end>よく来た、フリントの娘<line-break><value:$28>よ。<line-break>もはや知っていようが…<line-break>そなたの父フリントは<line-break>ただの旅の商人ではない。<line-break>我が配下の諜報員だった。<end>"
+english = "<if><value:$29><equal>%0Welcome, <value:$28>, son of Flint. You may already know this, but your father was no mere traveling merchant. He was a spy in my service.<end>Welcome, <value:$28>, daughter of Flint. You may already know this, but your father was no mere traveling merchant. He was a spy in my service.<end>"
+
+["1480148"]
+japanese = "今回は、ノーブルの代官ボルボラから<line-break>エリエナイ公レムオンの出生の秘密に<line-break>関わる手紙を運んでくる途中だった。<line-break>そのことを私の口から伝えておくのが<line-break>筋だと思い、こうして呼んだのだ。<line-break>そなたの父には世話になったゆえな。<end>"
+english = "He had been on his way here carrying a letter from Bolbora, the governor of Noble, concerning the secret surrounding the birth of Lemghon, Duke of Elienai. I summoned you because I thought it only right to tell you myself. I owed your father a great deal.<end>"
+
+["1480149"]
+japanese = "かつて、テジャワの変で<line-break>救ってくれて以来、久しく<line-break>フリントは私によく仕えてくれた。<line-break>フリントのことは<line-break>心から残念に思っている。<line-break>そなたには気を落とすなとも言えぬ。<end>"
+english = "Flint served me faithfully for many years, ever since he saved me during the Tejava Incident. What happened to Flint pains me deeply. I can hardly tell you to keep your spirits up.<end>"
+
+["1480150"]
+japanese = "そなたは目の輝きが他人とは違う。<line-break>目の輝きは魂の輝きを示す。<line-break>そなたはよき魂を持っているようだ。<line-break>その魂を、今回のことで<line-break>曇らせぬようにしてほしい。<line-break>ただ、それを願うばかりだ。<end>"
+english = "The light in your eyes is unlike anyone else's. The light in one's eyes reveals the light of the soul. Yours seems to be a good soul. I hope you will not let what has happened cloud it. That is my only wish.<end>"
+
+["1480151"]
+japanese = "わざわざ、すまなかったな。<line-break>そなたの元気な姿を見ることができて<line-break>安心した。<line-break>さがってよい。<line-break>フリントの子<value:$28>よ。<end>"
+english = "Forgive me for summoning you all this way. I am relieved to see you well. You may go, <value:$28>, child of Flint.<end>"
+
+["1480152"]
+japanese = "フリントの子<value:$28>よ。<line-break>父のように私に仕えろとは言わぬ。<line-break>だが、時には私の所に来るとよい。<line-break>門衛には、そなたのことは<line-break>申し伝えておく。<line-break>門衛に話をすれば通れるはずだ。<end>"
+english = "<value:$28>, child of Flint. I will not ask you to serve me as your father did. But you should come to see me from time to time. I will leave word at the gate. Speak to a guard there, and you should be admitted.<end>"
+
+["1480153"]
+japanese = "おう、あんた、ゼネテスさんの連れの<line-break>…たしか、<value:$28>だったな。<line-break>\u3000<line-break>子供たちが戻ってきたって、依頼主が<line-break>言っていたよ。初仕事で見事に<line-break>事件を解決してくれたみたいだな。<end>"
+english = "Ah, you're the one traveling with Xenetes... <value:$28>, wasn't it? The client told me the children are back. Sounds like you did a fine job sorting everything out on your very first assignment.<end>"
+
+["1480154"]
+japanese = "これは報酬の５００ギアだ。<line-break>ゼネテスさんから、全部あんたに\u3000\u3000<line-break>渡すように言われている。<line-break>受け取ってくれ。<end>"
+english = "Here's your reward: 500 Gea. Xenetes told me to give the whole amount to you. Go on, take it.<end>"
+
+["1480155"]
+japanese = "それじゃ、<value:$28>。<line-break>次の仕事も用意しておくから<line-break>また今度も頼んだぞ。<end>"
+english = "Well then, <value:$28>. I'll have another job lined up for you, so I'll be counting on you again.<end>"
+
+["1480156"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その２／１<end>"
+english = ""
+
+["1480157"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その２／２<end>"
+english = ""
+
+["1480158"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その２／３<end>"
+english = ""
+
+["1480159"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その２／４<end>"
+english = ""
+
+["1480160"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その２／５<end>"
+english = ""
+
+["1480161"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その２／６<end>"
+english = ""
+
+["1480162"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その２／７<end>"
+english = ""
+
+["1480163"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その２／８<end>"
+english = ""
+
+["1480164"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その２／９<end>"
+english = ""
+
+["1480165"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その２／１０<end>"
+english = ""
+
+["1480166"]
+japanese = "ルルアンタ（修）その２\u3000終端<end>"
+english = ""

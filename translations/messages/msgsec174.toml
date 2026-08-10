@@ -1,0 +1,861 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1740000"]
+japanese = "オイフェメッセージＶ７開始<end>"
+english = ""
+
+["1740001"]
+japanese = "<value:$28>…さん…！<end>"
+english = "<value:$28>...!<end>"
+
+["1740002"]
+japanese = "わ…わたしのせい…<line-break>わたしのせい…なんです…。<end>"
+english = "It... it was my fault... It was all my fault...<end>"
+
+["1740003"]
+japanese = "わたし…、わたし、もう<line-break>どうすれば…いい…のか…。<end>"
+english = "I... I don't know what to do anymore...<end>"
+
+["1740004"]
+japanese = "ノエル！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>突然、いなくなるなんて！<line-break>…おどかさないで。<end>"
+english = "Noel! You can't just disappear like that! Don't scare me.<end>"
+
+["1740005"]
+japanese = "わ、わたし…。<end>"
+english = "I-I...<end>"
+
+["1740006"]
+japanese = "<if><value:$29><equal>%0ボウヤ、ごめんなさいね。<line-break>この子、ちょっと混乱してるのよ。<end>子猫ちゃん、ごめんなさいね。<line-break>この子、ちょっと混乱してるのよ。<end>"
+english = "<if><value:$29><equal>%0I'm sorry, young man. She's a little confused right now.<end>I'm sorry, kitten. She's a little confused right now.<end>"
+
+["1740007"]
+japanese = "ネメアのこと、聞いてるでしょう？<end>"
+english = "You've heard about Nemea, haven't you?<end>"
+
+["1740008"]
+japanese = "聞いた<end>"
+english = "I've heard.<end>"
+
+["1740009"]
+japanese = "何のこと？<end>"
+english = "What are you talking about?<end>"
+
+["1740010"]
+japanese = "そう、ネメアは死んだわ。<end>"
+english = "Yes. Nemea is dead.<end>"
+
+["1740011"]
+japanese = "…ネメアは死んだわ。<end>"
+english = "Nemea is dead.<end>"
+
+["1740012"]
+japanese = "わたしのせい…なんです…！<line-break>わたしが…ドジだったから…。<end>"
+english = "It was my fault! I... I was so clumsy...<end>"
+
+["1740013"]
+japanese = "ねえ、落ち着いて。<line-break>あれはネメアが望んでしたことだわ。<end>"
+english = "Come on, calm down. Nemea chose to do it.<end>"
+
+["1740014"]
+japanese = "あたしたち、ゼグナ鉱山で\u3000\u3000\u3000\u3000\u3000\u3000<line-break>偶然ネメアを見かけたの。<line-break>それで、あとを追ったわけ。<line-break>そしたらネメアはジュサプブロスと<line-break>出くわして戦い始めたの。その時<line-break>ジュサプブロスがこっちに気付いて…。<end>"
+english = "We happened to spot Nemea at Zegna Mine, so we followed him. Then he ran into Jusapburos, and they started fighting. That was when Jusapburos noticed us...<end>"
+
+["1740015"]
+japanese = "じ、次元のはざまを開いて…\u3000<line-break>わたし…そこに…<line-break>落とされそうに…なって…。<line-break>そ、そしたら…ネメアさんが…<line-break>助けてくれて…<line-break>で、でも…でも…！<end>"
+english = "J-Jusapburos opened the Interdimensional Rift... and I... I was about to be thrown in... Then Nemea... Nemea saved me... B-but... but...!<end>"
+
+["1740016"]
+japanese = "ネメアがこの子に気を取られたすきに、<line-break>ジュサプブロスは、<line-break>ネメアを次元のはざまに落とした…。<line-break>ネメアは次元のはざまに消えたわ。<line-break>あたしたちの目の前で…。<end>"
+english = "While Nemea was distracted by her, Jusapburos cast him into the Interdimensional Rift. Nemea vanished into the Rift... right before our eyes.<end>"
+
+["1740017"]
+japanese = "ネメアさんを死なせてしま…た…。<line-break><value:$28>さん…<line-break>い、いったい…どうすれば…？<end>"
+english = "I let Nemea die... <value:$28>... w-what am I supposed to do?<end>"
+
+["1740018"]
+japanese = "ノエル、わかるかしら？\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ネメアは、こうなることを知ってて、<line-break>それでもノエルを助けたのよ。<line-break>今、ノエルが自分を責めたら<line-break>ノエルを救ったネメアは<line-break>全然救われないわ。<end>"
+english = "Noel, don't you understand? Nemea knew this would happen, and he saved you anyway. If you blame yourself now, then Nemea's sacrifice will have been for nothing.<end>"
+
+["1740019"]
+japanese = "あたしが何を言っても<line-break>ダメみたいね。<end>"
+english = "Nothing I say seems to be getting through to her.<end>"
+
+["1740020"]
+japanese = "<if><value:$29><equal>%0ボウヤ、お願い。<line-break>しばらくノエルのそばにいてあげて。<line-break>\u3000<line-break>ボウヤなら、この子を<line-break>なぐさめてあげられると思うの。<end>お願いよ、子猫ちゃん。<line-break>しばらくノエルのそばにいてあげて。<line-break>\u3000<line-break>あなたなら、この子を<line-break>なぐさめてあげられると思うの。<end>"
+english = "<if><value:$29><equal>%0Please, young man. Stay with Noel for a while. I think you might be able to comfort her.<end>Please, kitten. Stay with Noel for a while. I think you might be able to comfort her.<end>"
+
+["1740021"]
+japanese = "ありがとう…ございました。\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break><value:$28>さんのおかげで、<line-break>あの…、少し落ち着きました。<end>"
+english = "Thank you. Thanks to you, <value:$28>, I've... calmed down a little.<end>"
+
+["1740022"]
+japanese = "あ…、あまり遅くなると<line-break>カフィンが心配しますから。<end>"
+english = "I... I shouldn't stay too long, or Coffin will worry.<end>"
+
+["1740023"]
+japanese = "もう大丈夫です。<line-break>ホントに、ホントに<line-break>ありがとうございました。<end>"
+english = "I'm all right now. Thank you. Truly, thank you so much.<end>"
+
+["1740024"]
+japanese = "さぁ、行きましょう、ノエル。<line-break>レイヴンもあなたを捜しているわ。<end>"
+english = "Come on, Noel. Let's go. Raven's looking for you too.<end>"
+
+["1740025"]
+japanese = "<if><value:$29><equal>%0ねえ、ボウヤも何か言ってあげて。<end>ねえ、子猫ちゃんも何か言ってあげて。<end>"
+english = "<if><value:$29><equal>%0Come on, young man. You say something to her too.<end>Come on, kitten. You say something to her too.<end>"
+
+["1740026"]
+japanese = "ネメアはきっと生きている<end>"
+english = "I'm sure Nemea is still alive.<end>"
+
+["1740027"]
+japanese = "泣いたって、死んだ人間は戻らない<end>"
+english = "Crying won't bring the dead back.<end>"
+
+["1740028"]
+japanese = "で、でも…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>そうですね…。<line-break>生きているかも…しれませんよね。<line-break>ありがとうございます。<end>"
+english = "B-but... Yes, you're right... He might still be alive. Thank you.<end>"
+
+["1740029"]
+japanese = "助かったわ。<line-break>…今のノエルには、<line-break>そう言ってあげるのが一番ね。<end>"
+english = "That helped. Right now, that's exactly what Noel needs to hear.<end>"
+
+["1740030"]
+japanese = "…わかってます…。<line-break>わかってる…けど…。<end>"
+english = "I know... I do know, but...<end>"
+
+["1740031"]
+japanese = "大したもんね。<line-break>ナーシェスだって<line-break>あそこまでは言えるかしら？<end>"
+english = "That was quite something. I wonder if even Narscess could have said that much.<end>"
+
+["1740032"]
+japanese = "<value:$28>…さん…。<end>"
+english = "<value:$28>...<end>"
+
+["1740033"]
+japanese = "ノエル！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>こっそり部屋を抜け出すなんて！<line-break>…おどかさないで。<end>"
+english = "Noel! Don't sneak out of your room like that! You gave me such a fright.<end>"
+
+["1740034"]
+japanese = "こんな夜中まで、<line-break>付き合わせてしまって<line-break>…ごめんなさい。<end>"
+english = "I'm sorry I kept you up with me so late.<end>"
+
+["1740035"]
+japanese = "もう大丈夫です。<line-break>それじゃ、あの…おやすみなさい。<end>"
+english = "I'm all right now. Well, um... good night.<end>"
+
+["1740036"]
+japanese = "さぁ、もう遅いわ。<line-break>今日は休みましょう。<end>"
+english = "Come on, it's late. Let's get some rest.<end>"
+
+["1740037"]
+japanese = "<value:$28>、<line-break>聞きたいことがある！<end>"
+english = "<value:$28>, I have something to ask you!<end>"
+
+["1740038"]
+japanese = "やれやれ。<line-break>それが人にものを尋ねるときの<line-break>態度かのう。<end>"
+english = "Good grief. Is that any way to ask someone a question?<end>"
+
+["1740039"]
+japanese = "ネメア様のことよ。<line-break>知らないとは言わせない。<line-break>あなたの知ってることを教えて。<end>"
+english = "It's about Lord Nemea. Don't tell me you know nothing. Tell me what you do know.<end>"
+
+["1740040"]
+japanese = "…じゃあ、ネメア様は、<line-break>ゼグナで次元のはざまに<line-break>落とされたというのね？<end>"
+english = "So Lord Nemea was cast into the Interdimensional Rift at Zegna?<end>"
+
+["1740041"]
+japanese = "行くわ。<end>"
+english = "I'm going.<end>"
+
+["1740042"]
+japanese = "行く？<line-break>どこへ行くのだ？<end>"
+english = "Going? Where?<end>"
+
+["1740043"]
+japanese = "天地千年を見通す巫女エアの所よ。<line-break>ネメア様は以前、エルズのエアを<line-break>訪ねると言ってた。<line-break>だから、エアに会って<line-break>ネメア様がそこで何を知ったのか<line-break>確かめるの。<end>"
+english = "To Er, the priestess whose sight spans a thousand years of heaven and earth. Lord Nemea once said he was going to visit her in Elz. So I'll meet with Er and find out what he learned there.<end>"
+
+["1740044"]
+japanese = "わしは反対じゃな。<line-break>今、うかつに動くのは危険すぎる。<line-break>\u3000<line-break>闇の者が動き出しているのだ。<line-break>奴らにねらわれぬよう、<line-break>おとなしくするのが得策じゃろうて。<end>"
+english = "I am against it. It is far too dangerous to make any rash moves now. The Dark Ones are on the move. Our wisest course is to lie low and avoid drawing their attention.<end>"
+
+["1740045"]
+japanese = "どこにいても、危険なのは同じだわ！<line-break>ネメア様を一時的にしろ、死…<line-break>いいえ、行方不明にしている奴らよ。<line-break>むしろ、なぜネメア様が神器を<line-break>集めようとしたのか、<line-break>それを知らない方が危険よ。<end>"
+english = "It's just as dangerous wherever we are! They're the ones who, even if only for a time, killed Lord Nemea―no, made him disappear. If anything, it's more dangerous not to know why Lord Nemea was trying to gather the divine artifacts.<end>"
+
+["1740046"]
+japanese = "…ネメア様が何を聞いたか<line-break>わかっても、<line-break>何を考えたのかわかるのか？<line-break>…我は行かぬ。<line-break>行くというのなら、<line-break>抜ける。<end>"
+english = "Even if we learn what Lord Nemea heard, will that tell us what he was thinking? I will not go. If you insist on going, count me out.<end>"
+
+["1740047"]
+japanese = "やれやれ。<line-break>不器用な奴よ。<end>"
+english = "Good grief. What an awkward fellow.<end>"
+
+["1740048"]
+japanese = "しかし、わしもゼリグと同意見だ。<line-break>ネメア様の意図は知るべくもない。<line-break>\u3000<line-break>だが、我々はその信念に<line-break>邪念はなかったと信じておる。<line-break>いまさら、確認の必要はない。<end>"
+english = "Still, I agree with Zelig. We have no way of knowing Lord Nemea's intentions. But we believe his convictions were free of any base motive. There is no need to seek confirmation now.<end>"
+
+["1740049"]
+japanese = "わかった。<line-break>もう、いいわ。<end>"
+english = "All right. Forget it.<end>"
+
+["1740050"]
+japanese = "<value:$28>、突然だけど<line-break>私の護衛をしてもらえる？<line-break>どうしてもエルズのエアに会いたいの。<line-break>どう？<line-break>引き受けてもらえる？<end>"
+english = "<value:$28>, I know this is sudden, but will you escort me? I have to see Er in Elz. What do you say? Will you do it?<end>"
+
+["1740051"]
+japanese = "引き受ける<end>"
+english = "Accept<end>"
+
+["1740052"]
+japanese = "引き受けない<end>"
+english = "Decline<end>"
+
+["1740053"]
+japanese = "そう。ありがとう。<line-break>じゃあ、さっそく出発よ。<line-break>冒険に出る時に合流しましょう。<end>"
+english = "You will? Thank you. Then let's leave at once. We'll meet up when you next set out on an adventure.<end>"
+
+["1740054"]
+japanese = "やれやれ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>あれくらいに一直線だと、<line-break>気持ちいいぐらいだわい。<line-break>言っても聞かんのだから、<line-break>仕方がないかの。<line-break>オイフェのこと、頼んだぞ。<end>"
+english = "Good grief. Aoife is so single-minded, it's almost refreshing. There's no changing her mind, so I suppose it cannot be helped. Take care of her for me.<end>"
+
+["1740055"]
+japanese = "そう。仕方ないわ。<line-break>私は、ひとりでも行く。<end>"
+english = "Oh. Fine, then. I'll go alone.<end>"
+
+["1740056"]
+japanese = "やれやれ。<line-break>あれくらいに一直線だと、<line-break>気持ちいいぐらいだわい。<end>"
+english = "Good grief. That one is so single-minded, it's almost refreshing.<end>"
+
+["1740057"]
+japanese = "フフフ、来たか。<line-break><value:$28>よ。<line-break>そして、オイフェよ。<end>"
+english = "Heh heh heh. So you have come, <value:$28>. And you as well, Aoife.<end>"
+
+["1740058"]
+japanese = "…なるほど、千年を見通すエア。<line-break>私がここに来るのも、私が何者かも<line-break>私以上によく知ってるわけね。<end>"
+english = "I see. Er, who can see a thousand years ahead. You know better than I do that I would come here―and even what I am.<end>"
+
+["1740059"]
+japanese = "汝らが抱いている問いも、<line-break>その答えも知っておる。<line-break>死の獅子、ネメアについてであろう。<end>"
+english = "I know the question you bear, and its answer. It concerns Nemea, the Lion of Death, does it not?<end>"
+
+["1740060"]
+japanese = "わかっているのなら、<line-break>早く教えて！<line-break>こっちは急いでいるの。<end>"
+english = "If you know, then tell us! We haven't got time to waste.<end>"
+
+["1740061"]
+japanese = "よかろう、汝に教えようぞ。<line-break>ネメアがわらわを訪ねてきたのは<line-break>自らの運命を確認するためじゃ。<line-break>すなわち、ネメアの身体に<line-break>破壊神ウルグが降臨するという<line-break>宿命から逃れられるか否かを。<end>"
+english = "Very well. I shall tell you. Nemea came to me to confirm his own fate: whether he could escape the destiny that would see Urg, the God of Destruction, descend into his body.<end>"
+
+["1740062"]
+japanese = "そなたに破壊神が宿る…。<line-break>それは抗えぬ運命だ。<line-break>…私は奴にそう答えた。<line-break>それから、奴はその運命と<line-break>戦い続けておるのじゃ。<end>"
+english = "“The God of Destruction shall dwell within you. That fate cannot be defied.” That was the answer I gave him. Ever since, he has continued to fight against that fate.<end>"
+
+["1740063"]
+japanese = "ネメア様に破壊神が宿る…？<line-break>でたらめを言うな！<end>"
+english = "The God of Destruction will dwell within Lord Nemea...? Don't talk nonsense!<end>"
+
+["1740064"]
+japanese = "…でたらめではない。<line-break>ただの定めじゃ。<line-break>変えることのできぬ、な。<end>"
+english = "It is not nonsense. It is simply fate, and it cannot be changed.<end>"
+
+["1740065"]
+japanese = "変えることができない？<end>"
+english = "It can't be changed?<end>"
+
+["1740066"]
+japanese = "…ということは、<line-break>ネメア様が死んではいない…<line-break>そういうことか！？<end>"
+english = "Then Lord Nemea isn't dead... Is that what you're saying?!<end>"
+
+["1740067"]
+japanese = "それは自身で確かめるのじゃ。<line-break>そなたらはそなたらとして戦い、<line-break>求めるがよい。<line-break>さらばじゃ、強き魂たちよ。<end>"
+english = "That is for you to discover yourselves. Fight in your own way, and seek. Farewell, strong souls.<end>"
+
+["1740068"]
+japanese = "<value:$28>じゃないですか。<line-break>実は最近、大陸南東の断層から\u3000\u3000\u3000<line-break>強い妖気が放たれているのです。<line-break>あの辺りは邪竜アズラゴーザが<line-break>封じられている場所なんです。それで<line-break>調査に行こうと思っていたんです。<end>"
+english = "Well, if it isn't <value:$28>. Lately, a powerful demonic aura has been emanating from a fault line in the southeast of the continent. That is where the Evil Dragon Azuragoza is sealed away, so I was planning to investigate.<end>"
+
+["1740069"]
+japanese = "できれば、あなたたちも<line-break>ついてきてくれませんか？<end>"
+english = "If you can, would you come with me?<end>"
+
+["1740070"]
+japanese = "な～に言ってやがる。<line-break>手伝わせるために、奴らが来るのを<line-break>待ってたくせに…。<end>"
+english = "Oh, give it a rest. You were waiting for them to show up so you could rope them into helping...<end>"
+
+["1740071"]
+japanese = "くすくす。すいません。<line-break>まぁ、そういうわけです。<line-break>いいですか？<end>"
+english = "Heh heh. My apologies. Well, there you have it. Will you come?<end>"
+
+["1740072"]
+japanese = "ありがとうございます。\u3000\u3000\u3000\u3000\u3000<line-break>では、行きましょう。<line-break>\u3000<line-break>とは言っても、私はこんな姿なので<line-break>戦闘のお手伝いはできませんがね。<line-break>よろしくお願いしますよ。<end>"
+english = "Thank you. Then let us be off. That said, given my present form, I will not be able to help in a fight. I shall be counting on you.<end>"
+
+["1740073"]
+japanese = "しかし…、お前も<line-break>いいようにこき使われてるな…。<line-break>少しだけ、同情してやるぜ。<end>"
+english = "Still... looks like you're being worked to the bone too. You have my sympathy. A little of it, anyway.<end>"
+
+["1740074"]
+japanese = "…遅かった、です。<end>"
+english = "…It was too late.<end>"
+
+["1740075"]
+japanese = "…邪竜、<line-break>アズラゴーザが復活しました。<end>"
+english = "…The Evil Dragon Azragorza has returned to life.<end>"
+
+["1740076"]
+japanese = "いつ、断層から出てきても<line-break>おかしくありません。<end>"
+english = "It could emerge from the fault at any moment.<end>"
+
+["1740077"]
+japanese = "そのときは、<line-break>アキュリュースの二の舞です。<end>"
+english = "Then it will be another Aqyurius.<end>"
+
+["1740078"]
+japanese = "邪竜が本当に出てきたら…。<end>"
+english = "If the Evil Dragon really does emerge…<end>"
+
+["1740079"]
+japanese = "…といっても、相手は竜。<line-break>どうしようもないですかね。<end>"
+english = "…Then again, the enemy is a dragon. Perhaps nothing can be done.<end>"
+
+["1740080"]
+japanese = "やあ、どこに行くんだい？\u3000<line-break>\u3000<line-break>\u3000<line-break>あれー？\u3000確かこの先には<line-break>邪竜を封印した祭壇しか<line-break>ないはずなんだけどなあ…。<end>"
+english = "Hey, where are you going? Huh? I thought the only thing up ahead was the altar where the Evil Dragon was sealed away...<end>"
+
+["1740081"]
+japanese = "あはは、やっぱり君\u3000\u3000\u3000\u3000\u3000\u3000<line-break>邪竜に会いたいんでしょ？<line-break>会って、戦いたいんでしょ？<line-break>だったら、その願い、<line-break>僕がかなえてあげるよ！！<line-break>さあ、邪竜をどうしたいんだい？<end>"
+english = "Ahaha! I knew it―you want to meet the Evil Dragon, don't you? You want to meet it and fight it, right? Well, I'll make that wish come true for you!! So, what do you want to do with the Evil Dragon?<end>"
+
+["1740082"]
+japanese = "復活させたい<end>"
+english = "I want to revive it.<end>"
+
+["1740083"]
+japanese = "復活なんてゴメンだ<end>"
+english = "No way I'm reviving it.<end>"
+
+["1740084"]
+japanese = "うーん、いい返事だね。<line-break>やっぱり人間、素直が一番だよね。<line-break>\u3000<line-break>それじゃ、ちょっと失礼して…。<end>"
+english = "Mmm, good answer. Honesty really is the best policy. Well then, if you'll excuse me for a moment...<end>"
+
+["1740085"]
+japanese = "さ、何が起こったかわかるよね？\u3000\u3000<line-break>あとは君が自分の目で確かめてよ。<line-break>\u3000<line-break>邪竜、つよいよー。<line-break>君が負けたら世界は破滅しちゃうね。<line-break>そんじゃ、ガンバってねー。<end>"
+english = "You know what just happened, don't you? Now go see for yourself. The Evil Dragon is really strong. If you lose, the whole world will be destroyed. So, good luck!<end>"
+
+["1740086"]
+japanese = "えー、なんでー！？\u3000\u3000\u3000\u3000\u3000\u3000<line-break>そんなのつまんないよー。<line-break>\u3000<line-break>ねえ、もっかい考えてみてよ。<line-break>邪竜、復活させたいよね？\u3000ね？<end>"
+english = "What? Why not!? That's no fun. Come on, think it over one more time. You want to bring the Evil Dragon back, don't you? Don't you?<end>"
+
+["1740087"]
+japanese = "本当は復活させたい<end>"
+english = "I really do want to revive it.<end>"
+
+["1740088"]
+japanese = "絶対にお断り<end>"
+english = "Absolutely not.<end>"
+
+["1740089"]
+japanese = "ちぇ、意外とガンコなんだね。<line-break>つまんないの。<line-break>じゃあ、何しにここまできたのさ？<line-break>もういいよ。<line-break>邪竜より面白いこと探すから。<line-break>じゃあねー。<end>"
+english = "Aw, you're more stubborn than I thought. What a bore. Then what did you come all this way for? Oh, forget it. I'll go find something more interesting than the Evil Dragon. Bye-bye!<end>"
+
+["1740090"]
+japanese = "やあ、また来たんだね。<line-break>\u3000<line-break>\u3000<line-break>ま～ったく、<line-break>君ってホントに<line-break>素直じゃないよね。<end>"
+english = "Hey, you're back. Honestly, you really can't just be honest, can you?<end>"
+
+["1740091"]
+japanese = "もう、素直に言っちゃいなよ。\u3000\u3000\u3000<line-break>邪竜を復活させたい、<line-break>そんでもって、戦いたいって。<line-break>そうでもなきゃ、こんなに何度も<line-break>ここに来たりはしないよね？<line-break>さ、言ってみ。お願いします、って。<end>"
+english = "Come on, just admit it. You want to bring the Evil Dragon back and then fight it. Why else would you keep coming here over and over? Go on, say it: “Please.”<end>"
+
+["1740092"]
+japanese = "お願いします<end>"
+english = "Please.<end>"
+
+["1740093"]
+japanese = "ふざけるな<end>"
+english = "Don't screw with me.<end>"
+
+["1740094"]
+japanese = "あははっ。<line-break>や～っと、素直になってくれたね。<line-break>\u3000<line-break>それじゃ、ちょっと失礼して…。<end>"
+english = "Ahaha! You finally admitted it. Well then, if you'll excuse me for a moment...<end>"
+
+["1740095"]
+japanese = "はいはい。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>君はそう言うだろうと思ったよ。<line-break>\u3000<line-break>ま、気が向いたらまた来てよ。<line-break>ボクの方はいつでも準備ＯＫだから。<end>"
+english = "Yeah, yeah. I figured you'd say that. Well, come back if you feel like it. I'm ＯＫ to go anytime.<end>"
+
+["1740096"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000我はアズラゴーザ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000破壊神によりこの世に生を受け<line-break>\u3000\u3000\u3000\u3000破壊と絶望とをもたらす者なり。<line-break>\u3000\u3000不遜にも我が眠りを覚ますのは何者か？<end>"
+english = "I am Azuragoza. Born into this world by the God of Destruction, I am the bringer of destruction and despair. Who dares awaken me from my slumber?<end>"
+
+["1740097"]
+japanese = "\u3000\u3000\u3000\u3000\u3000無限のソウルの持ち主か…。\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000 起き抜けに力を得るには<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000ちょうどよいわ…。<line-break>\u3000\u3000\u3000\u3000\u3000うぬのソウル、もらうぞ！<end>"
+english = "So, you possess the Infinite Soul... Just what I need to gain power upon awakening... I will take your Soul!<end>"
+
+["1740098"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000バ、バカな…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000たかが…たかが人の子ごときに<line-break>\u3000\u3000\u3000\u3000この我が…竜が…敗れるなど…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000ガアアッ！！<end>"
+english = "I-impossible... That a mere... a mere human could defeat me... a dragon... Gaaaah!!<end>"
+
+["1740099"]
+japanese = "<value:$28>は<line-break>竜殺しの称号を得た。<end>"
+english = "<value:$28> earned the title of Dragonslayer.<end>"
+
+["1740100"]
+japanese = "あら、<value:$28>。<line-break>…ダークエルフの女と一緒に<line-break>何しに来たの。<end>"
+english = "Oh, <value:$28>. What brings you here with that Dark Elf woman?<end>"
+
+["1740101"]
+japanese = "…ケリュネイア、<line-break>あなたの弓を譲ってもらいたい。<end>"
+english = "Ceryneia, I want you to give me your bow.<end>"
+
+["1740102"]
+japanese = "いきなり入ってきて<line-break>何を言うかと思えば…。<line-break>ダークエルフに貸す弓などないわ。<line-break>そもそも、どうしてあなたが<line-break>閃光の弓を知っているの。<end>"
+english = "You barge in here, and that's what you have to say? I have no bow to lend a Dark Elf. And how do you even know about the Flash Bow?<end>"
+
+["1740103"]
+japanese = "以前、ネメア様から聞いたのよ。\u3000\u3000\u3000<line-break>あなたが閃光の矢を放つ強力な弓を<line-break>使っていた、とね。<line-break>私だってハーフエルフから弓を借りる<line-break>なんてイヤだけど、戦列に加わることの<line-break>ない者が持っていても無意味だわ。<end>"
+english = "Lord Nemea told me about it before. He said you once wielded a powerful bow that loosed arrows of light. I don't like the thought of borrowing from a Half-Elf any more than you do, but the bow is wasted on someone who won't be joining the battle.<end>"
+
+["1740104"]
+japanese = "それに、それほどの弓なら<line-break>私のように腕を備えた者が<line-break>持っている方が効果を発揮できる。<end>"
+english = "Besides, a bow like that will be far more effective in the hands of someone with my skill.<end>"
+
+["1740105"]
+japanese = "なんですって！<line-break>私の腕があなたに劣るというの！？<end>"
+english = "What did you say? You think you're a better archer than I am?!<end>"
+
+["1740106"]
+japanese = "こんな所でのうのうと過ごしている<line-break>ハーフエルフごときが、<line-break>私に勝てるはずがないわ。<end>"
+english = "A mere Half-Elf who spends her days lounging around a place like this could never best me.<end>"
+
+["1740107"]
+japanese = "戦うことしか能のないダークエルフが<line-break>そう考えるのは無理もないけど、<line-break>あとで泣いても遅いわよ。<end>"
+english = "I suppose a Dark Elf who's good for nothing but fighting would think so. Just don't come crying to me afterward.<end>"
+
+["1740108"]
+japanese = "なんだと！<end>"
+english = "What did you say?!<end>"
+
+["1740109"]
+japanese = "なんて子供じみた争いなのかしら。<line-break>聞くにたえなくてよ、まったく。<end>"
+english = "What a childish squabble. Honestly, I can't bear to listen to another word.<end>"
+
+["1740110"]
+japanese = "ダークエルフだのハーフエルフだの\u3000\u3000<line-break>そんなくだらない話は私がいないときに<line-break>やっていただきたいわ。<line-break>ようは個人の才能ではなくて？<line-break>種族を云々言うなんて自分に自信がない<line-break>輩の言いわけに過ぎなくてよ。<end>"
+english = "Kindly save this foolish talk of Dark Elves and Half-Elves for when I'm not here. Surely what matters is individual talent? Harping on race is nothing more than an excuse made by those with no confidence in their own abilities.<end>"
+
+["1740111"]
+japanese = "これから戦いに行こうというときに<line-break>種族が違うから武器を貸したくないだの<line-break>使いたくないだの、レベルが低過ぎよ。<line-break>あー、もー、アタクシの高貴な時間を<line-break>こんな下等な争いでつぶすなんて<line-break>もったいなさ１００万倍よー！<end>"
+english = "You're about to go into battle, yet you're squabbling over not wanting to lend or use a weapon just because you're different races. That's far too petty. Oh, honestly! Wasting my noble time on such a lowly quarrel is a million times too wasteful!<end>"
+
+["1740112"]
+japanese = "<value:$28>。<line-break>あとはあなたがなんとかするのよー！<end>"
+english = "<value:$28>, you can sort out the rest!<end>"
+
+["1740113"]
+japanese = "…呼びもしないのに自分から<line-break>入ってきたのではなかったか…。<end>"
+english = "Didn't you come in here uninvited...?<end>"
+
+["1740114"]
+japanese = "…いつも下等動物だのなんだの<line-break>言ってるのは誰なのかしら…。<end>"
+english = "And who's always going on about “lowly animals” and the like...?<end>"
+
+["1740115"]
+japanese = "…<value:$28>。<line-break>私はあなたたちと一緒に\u3000\u3000\u3000\u3000\u3000<line-break>戦いには行けないわ。<line-break>だけど、この弓があなたたちの<line-break>戦いの役に立つというのなら、<line-break>使って。<end>"
+english = "<value:$28>, I can't join you in battle. But if this bow can help you, use it.<end>"
+
+["1740116"]
+japanese = "その弓はあなたに渡したのだから、<line-break>そのあとであなたが誰に与えようと<line-break>私が文句を言う筋合いではないわ。<end>"
+english = ""
+
+["1740117"]
+japanese = "…<value:$28>が<line-break>私にくれるというのなら、<line-break>私に拒む理由はない。<end>"
+english = "If <value:$28> is giving it to me, I have no reason to refuse.<end>"
+
+["1740118"]
+japanese = "大事に使わせてもらうわ。<end>"
+english = "I'll take good care of it.<end>"
+
+["1740119"]
+japanese = "…あなたも<line-break>気をつけていきなさい。<end>"
+english = "You be careful too.<end>"
+
+["1740120"]
+japanese = "<value:$28>！<end>"
+english = "<value:$28>!<end>"
+
+["1740121"]
+japanese = "やっぱり、ここに来ていたのね。\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>率直に言うわ。<line-break>あなたたちの持つ闇の神器を渡して。<end>"
+english = "So you did come here. I'll be direct. Hand over the Dark Artifact you have.<end>"
+
+["1740122"]
+japanese = "やれやれ。<line-break>人にものを譲ってもらうときの<line-break>態度とは思えんわ。<end>"
+english = "Good grief. That's hardly the way to ask someone to hand something over.<end>"
+
+["1740123"]
+japanese = "ネメア様は生きているわ。<line-break>そして、破壊神復活に必要な<line-break>闇の神器さえ持っていれば、<line-break>ネメア様は私たちの前に<line-break>きっと、現れるはず。<line-break>さぁ、神器を渡して。<end>"
+english = "Lord Nemea is alive. And with the Dark Artifact needed to revive the God of Destruction, he is sure to appear before us. Now, hand it over.<end>"
+
+["1740124"]
+japanese = "渡さないと言うのなら…！<end>"
+english = "If you refuse...!<end>"
+
+["1740125"]
+japanese = "すまんが、<line-break>力ずくで、ということになるのう。<end>"
+english = "Sorry, but it seems we'll have to take it by force.<end>"
+
+["1740126"]
+japanese = "はぁ。はぁ。はぁ。<end>"
+english = "Hah... Hah... Hah...<end>"
+
+["1740127"]
+japanese = "さすが、というところじゃのう。<line-break>勝てそうもないわい。<end>"
+english = "Impressive. I don't see us winning this one.<end>"
+
+["1740128"]
+japanese = "何だ？\u3000人が一仕事してるって時に<line-break>こんな大勢でチャンバラかい？<end>"
+english = "What's all this? I'm trying to get some work done, and a whole crowd starts crossing swords?<end>"
+
+["1740129"]
+japanese = "貴様は…！<end>"
+english = "You...!<end>"
+
+["1740130"]
+japanese = "ジュサプブロス…。<end>"
+english = "Jusapubros...<end>"
+
+["1740131"]
+japanese = "ジュサプブロス！<line-break>\u3000<line-break>\u3000<line-break>なぜネメア様を<line-break>次元のはざまに落とした！<line-break>貴様のねらいは、破壊神ではないのか？<end>"
+english = "Jusapubros! Why did you cast Lord Nemea into the Interdimensional Rift? Wasn't the God of Destruction what you were after?<end>"
+
+["1740132"]
+japanese = "破壊神ウルグなど、<line-break>俺にはどうでもいいことだ。<line-break>奴もしょせん、人間と同じだ。<end>"
+english = "I couldn't care less about Urg, the God of Destruction. In the end, he's no different from any human.<end>"
+
+["1740133"]
+japanese = "…まさか！<end>"
+english = "No...!<end>"
+
+["1740134"]
+japanese = "…ん？\u3000あんた、<line-break>ハイエルフのパルシェン、だね？<line-break>そんな恰好だから気付かなかったよ。<end>"
+english = "Hm? You're Parshen, the High Elf, aren't you? I didn't recognize you dressed like that.<end>"
+
+["1740135"]
+japanese = "パルシェン…？<line-break>全エルフを束ねる長…。<line-break>この猫が、そうなのか？<end>"
+english = "Parshen...? The leader of all the Elves... is this cat really Parshen?<end>"
+
+["1740136"]
+japanese = "すいません。<value:$28>。<line-break>隠していたわけでもないのですが、<line-break>名乗るほどのこともないと思ったので。<line-break>ま、その話はあとです。<end>"
+english = "Sorry, <value:$28>. I wasn't trying to hide it. I simply didn't think there was any need to introduce myself. Anyway, we can discuss that later.<end>"
+
+["1740137"]
+japanese = "あなたは何を企んでいるのですか？<end>"
+english = "What are you plotting?<end>"
+
+["1740138"]
+japanese = "ハイエルフのあんたならわかるだろ？<line-break>人間どもからこの世界を取り戻すには<line-break>あのお方に復活してもらうしかない。<line-break>で、復活の方法を知るために<line-break>邪竜でも起こそうかな…<line-break>と考えたわけだ。<end>"
+english = "You're a High Elf, so you must understand. The only way to reclaim this world from the humans is through the return of the one we revere. So I thought I'd wake an Evil Dragon and find out how resurrection works.<end>"
+
+["1740139"]
+japanese = "さあ、出番だ。<end>"
+english = "Now it's your turn.<end>"
+
+["1740140"]
+japanese = "ゼリグ！<line-break>どうしてここに…？<end>"
+english = "Zelig! What are you doing here...?<end>"
+
+["1740141"]
+japanese = "ど、どうし…て…。<end>"
+english = "W-why...?<end>"
+
+["1740142"]
+japanese = "ゼリグ！<line-break>血迷うたか！！<end>"
+english = "Zelig! Have you lost your senses?!<end>"
+
+["1740143"]
+japanese = "な、なんと！？<end>"
+english = "What?!<end>"
+
+["1740144"]
+japanese = "がは…っ！<end>"
+english = "Gah...!<end>"
+
+["1740145"]
+japanese = "よし、じゃあ、行こう。<line-break>救世主が待ってる。<end>"
+english = "Good. Let's go. The Savior is waiting.<end>"
+
+["1740146"]
+japanese = "…よもや、このわしが<line-break>一発でやられるとはな…。<line-break>\u3000<line-break><value:$28>……。<line-break>オイフェと……<line-break>…ゼリグを…頼む。<end>"
+english = "Who would have thought that I could be felled with a single blow...? <value:$28>... Take care of Aoife... and Zelig... for me.<end>"
+
+["1740147"]
+japanese = "<value:$28>…。薄情なようですが<line-break>今は急いで邪竜アズラゴーザの<line-break>復活を止めに行かなくてはなりません。<line-break>封印は、この断層の奥にある<line-break>洞窟の中です。<line-break>行きましょう。<value:$28>。<end>"
+english = "<value:$28>... This may seem heartless, but we must hurry to stop the resurrection of the Evil Dragon Azuragoza. The seal is inside a cave in the depths of this fault. Let us go, <value:$28>.<end>"
+
+["1740148"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1740149"]
+japanese = "そのダークエルフが<line-break>邪竜へのいけにえか…。<end>"
+english = "So that Dark Elf is to be sacrificed to the Evil Dragon...<end>"
+
+["1740150"]
+japanese = "さあ、仕上げといこう。<end>"
+english = "Now, let's finish this.<end>"
+
+["1740151"]
+japanese = "やれやれ、こんな所まで来ちゃうのか。<line-break>やっぱり、ちゃんと始末しとかないと<line-break>あとで困るね。<line-break>よし、ゼリグ、もうひと仕事だ。<line-break>彼らを、殺してしまってくれ。<end>"
+english = "Oh dear, you made it all the way here. I really should dispose of you properly, or you'll only cause trouble later. All right, Zelig. One more job. Kill them.<end>"
+
+["1740152"]
+japanese = "ぐ…っ！<end>"
+english = "Ghh...!<end>"
+
+["1740153"]
+japanese = "<value:$28>か…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>…すまぬ。<end>"
+english = "<value:$28>... Forgive me.<end>"
+
+["1740154"]
+japanese = "ま。簡単にタネを明かすと<line-break>そいつが頭の中まで筋肉バカだったから<line-break>さっきまで操らせてもらってたわけだ。<line-break>そこそこ便利だったんだけど<line-break>最後の最後で使えなかったな。<end>"
+english = "Well, to let you in on the trick, that fellow had nothing but muscle between his ears, so I was controlling him until just now. He was useful enough, but when it mattered most, he let me down.<end>"
+
+["1740155"]
+japanese = "…ならば<line-break>使えないついでに<line-break>貴様らの計画も使えなくしてやろう。<line-break>ふぬぁ！！<line-break>うおおおオオオオ！<end>"
+english = "Then if I'm no use to you, I'll make sure your plans are no use either. Hnnngh!! Rrraaaaaagh!<end>"
+
+["1740156"]
+japanese = "何する気だい？<line-break>筋肉人形君。<end>"
+english = "What are you up to, Mr. Muscle Puppet?<end>"
+
+["1740157"]
+japanese = "邪竜、復活はさせん。<line-break>\u3000<line-break>\u3000<line-break>ぬんっ！！<end>"
+english = "I will not let the Evil Dragon be revived. Hnnngh!!<end>"
+
+["1740158"]
+japanese = "魂無き力は、虚ろ。\u3000\u3000\u3000<line-break>力無き魂は、虚ろ。<line-break>\u3000<line-break>力のみを求める我もまた、<line-break>虚ろだったのやもしれぬ。<end>"
+english = "Power without a soul is hollow. A soul without power is hollow. Perhaps I, who sought power alone, was hollow as well.<end>"
+
+["1740159"]
+japanese = "さらば、だ。<end>"
+english = "Farewell.<end>"
+
+["1740160"]
+japanese = "クッ…、<line-break>これでは、祭壇を使っての<line-break>邪竜復活は不可能か。<end>"
+english = "Damn... So the altar can no longer be used to revive the Evil Dragon.<end>"
+
+["1740161"]
+japanese = "また、別な方法を考えないとな。<line-break>とりあえずここは一度退こう。<line-break>俺も彼らを始末してから行くよ。<end>"
+english = "We'll have to devise another method. For now, we should withdraw. I'll follow once I've disposed of them.<end>"
+
+["1740162"]
+japanese = "では、そうさせてもらおう。<line-break>ジュサプブロス、お前も気をつけろ。<end>"
+english = "Very well. I'll do that. Take care, Jusapubros.<end>"
+
+["1740163"]
+japanese = "また、別な方法を考えないとな。<end>"
+english = "We'll have to devise another method.<end>"
+
+["1740164"]
+japanese = "さて。<end>"
+english = "Now then.<end>"
+
+["1740165"]
+japanese = "なぁ、<line-break>死に場所の希望とかない？<line-break>\u3000<line-break>俺は断然、太陽の下だね。<line-break>照りつける太陽の下。<end>"
+english = "So, got any preference where you die? Me, I'd choose somewhere under the sun. Under the blazing sun.<end>"
+
+["1740166"]
+japanese = "生まれた時からダークエルフ。\u3000\u3000\u3000\u3000<line-break>家族して、暗い穴ぐらの中で、<line-break>おびえてふるえながら生きてたよ。<line-break>でも、あの日、兄貴が俺を誘ったんだ。<line-break>とっておきの場所に行こうって<line-break>笑いながら俺を引っ張っていった。<end>"
+english = "I'd been a Dark Elf since the day I was born. My family and I lived together in a dark hole, cowering and trembling. But that day, my brother asked me to come with him. Grinning, he said he knew somewhere special and pulled me along.<end>"
+
+["1740167"]
+japanese = "それが外だった。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>太陽の光がまぶしくて<line-break>明るくて、暖かくて、清潔だった。<line-break>兄貴はその光の中で死んだよ。<line-break>ダークエルフ狩りのエルフに見つかって<line-break>笑顔のまま射抜かれた。<end>"
+english = "That place was outside. The sunlight was dazzling: bright, warm, and clean. My brother died in that light. An Elf hunting Dark Elves found him and put an arrow through him while he was still smiling.<end>"
+
+["1740168"]
+japanese = "俺のあの日の記憶はそこで終わりだ。\u3000<line-break>胸を射られて、次に気がついた時には<line-break>家族はみんな、肉の塊になってた。<line-break>…２００年も前、俺が６歳の時の話さ。<line-break>でも、あの太陽の光は忘れられない。<line-break>気持ちいい感覚が記憶に残ってる。<end>"
+english = "That's where my memories of that day end. I was shot in the chest, and when I next came to, my whole family had been reduced to lumps of flesh. That was two hundred years ago, when I was six. But I've never forgotten that sunlight. I still remember how good it felt.<end>"
+
+["1740169"]
+japanese = "なぁ？<line-break>死に場所の希望とかない？<line-break>希望がなけりゃ、ここで殺すよ？<end>"
+english = "So? Any preference about where you die? If not, I'll kill you here.<end>"
+
+["1740170"]
+japanese = "ちぇ…、やだなあ。<line-break>結局こんな暗い所で死ぬのか…。<line-break>\u3000<line-break>もし生まれ変わりとかがあるなら<line-break>今度は、太陽の下で……。<end>"
+english = "Damn... I don't like this. So I'm going to die in a dark place after all... If there is such a thing as rebirth, next time... beneath the sun...<end>"
+
+["1740171"]
+japanese = "…ちょっと複雑な気分ですね。<line-break>ですが、みなさんのおかげで<line-break>邪竜の復活を防ぐことはできました。<line-break>ひとまず、私の家へ戻って、<line-break>これからのことを考えましょう。<line-break>これで終わりではないでしょうし。<end>"
+english = "I have rather mixed feelings about this. Still, thanks to all of you, we prevented the Evil Dragon's revival. For now, let's return to my home and consider what to do next. I doubt this is over.<end>"
+
+["1740172"]
+japanese = "あ、結構ですよ。<line-break>私の家まで転移しますから。<end>"
+english = "Oh, there's no need. We'll teleport to my home.<end>"
+
+["1740173"]
+japanese = "では、いきますよ。<end>"
+english = "Here we go.<end>"
+
+["1740174"]
+japanese = "………………。<line-break>\u3000<line-break>\u3000<line-break>ここは…！？<end>"
+english = "...Where am I!?<end>"
+
+["1740175"]
+japanese = "私の家ですよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>一応、キュアはかけておきましたが<line-break>体の調子はいかがですか？<end>"
+english = "This is my home. I cast Cure on you as a precaution. How are you feeling?<end>"
+
+["1740176"]
+japanese = "…悪くないわ。<line-break>さすがはエルフの長<line-break>パルシェン様、といったところね。<line-break>それより、ゼリグは！？<line-break>ドルドラムはどこにいるの！？<end>"
+english = "...Not bad. Just what I'd expect from Parshen, leader of the Elves. But enough of that. What about Zelig!? Where is Doldrum!?<end>"
+
+["1740177"]
+japanese = "ちょっと待って！\u3000\u3000\u3000<line-break>どういうこと！？<line-break>\u3000<line-break>お父さんに向かって<line-break>あのエルフの長<line-break>パルシェンだなんて…。<end>"
+english = "Wait! What is going on!? You just called my father Parshen, the leader of the Elves...<end>"
+
+["1740178"]
+japanese = "ええ、そうですけど。<line-break>私がパルシェンで間違いありません。<line-break>何か、いけませんか？<end>"
+english = "Yes, that's right. I am indeed Parshen. Is there something wrong with that?<end>"
+
+["1740179"]
+japanese = "な、何かいけませんかって…！？<line-break>どうして、今まで隠してたの？<end>"
+english = "S-Something wrong with it...!? Why did you hide it all this time?<end>"
+
+["1740180"]
+japanese = "隠してなんていませんよ。<line-break>ハイエルフのパルシェンなんですか？<line-break>と聞かれれば、はい、と答えましたよ。<end>"
+english = "I never hid it. If you had asked whether I was Parshen the High Elf, I would have said yes.<end>"
+
+["1740181"]
+japanese = "エルフは私たちハーフエルフを差別し、<line-break>しいたげてきた…そのエルフの長が…<line-break>私を育てて…、それが…！<end>"
+english = "The Elves have discriminated against and oppressed us Half-Elves... Their leader... raised me... But that...!<end>"
+
+["1740182"]
+japanese = "そうですね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>そんなエルフの長があなたを<line-break>この賢者の森で育てる。<line-break>…それは偽善じゃないか？<line-break>何度もその疑問が頭に浮かびましたよ。<line-break>ですけどね、ケリュネイア。<end>"
+english = "Yes. The leader of those same Elves, raising you here in Sage's Forest... Isn't that hypocrisy? I asked myself that many times. But, Ceryneia...<end>"
+
+["1740183"]
+japanese = "考えていても、ものはよくなりません。<line-break>水が岩に穴をうがつように、少しずつ、<line-break>たゆまずに進む必要があるのです。<line-break>私も神様じゃありませんからね、<line-break>手探りで生きています。<line-break>そして、あなたも私と生きてくれてる。<end>"
+english = "Thinking alone will change nothing. As water wears a hole through stone, we must move forward little by little, without faltering. I am no god. I, too, am feeling my way through life. And you have chosen to share that life with me.<end>"
+
+["1740184"]
+japanese = "私の考え方、私の理想、私の言動、\u3000\u3000<line-break>あなたはそれを、承知した上で、<line-break>一緒に生きてくれている。<line-break>ケリュネイア、そのことが<line-break>私がエルフの長、パルシェンだったら、<line-break>すべて、変わってしまうのですか？<end>"
+english = "You know how I think, what I believe in, and how I conduct myself, yet you still choose to live alongside me. Ceryneia, does the fact that I am Parshen, leader of the Elves, change all of that?<end>"
+
+["1740185"]
+japanese = "とりこんでるところを<line-break>悪いんだけど、私の質問に<line-break>答えてもらえないかしら。\u3000\u3000\u3000<line-break>ゼリグはどうして私を襲ったの？<line-break>ドルドラムはどうしたの？<line-break>どうして私はここにいるの？<end>"
+english = "Sorry to interrupt, but would you mind answering my questions? Why did Zelig attack me? What happened to Doldrum? Why am I here?<end>"
+
+["1740186"]
+japanese = "ああ、すいませんでした。\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>話すと、少し長くなるし、<line-break>とても悲しくなると思いますが、<line-break>それでも構いませんか？<end>"
+english = "Ah, forgive me. It is a rather long story, and I fear you will find it very painful. Do you still wish to hear it?<end>"
+
+["1740187"]
+japanese = "…と、まあ、こんな感じです。<end>"
+english = "...And that is more or less what happened.<end>"
+
+["1740188"]
+japanese = "そう…。<line-break>ふたりとも…、死んだの……。<line-break>\u3000<line-break>話してくれて、ありがとう。<line-break>本当のことを知らないよりは<line-break>気が楽になったわ。<end>"
+english = "I see... So they both... died... Thank you for telling me. Knowing the truth is easier than not knowing.<end>"
+
+["1740189"]
+japanese = "そうですか…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>強いのですね、あなたは。<line-break>\u3000<line-break>でも、あなたのパーティーはもう<line-break>あなたしか残っていません。<line-break>これからどうするおつもりですか？<end>"
+english = "I see... You are very strong. But you are now the only member of your party left. What do you intend to do?<end>"
+
+["1740190"]
+japanese = "<value:$28>、<line-break>私をあなたの仲間に<line-break>入れてくれないかしら？<end>"
+english = "<value:$28>, would you let me join you?<end>"
+
+["1740191"]
+japanese = "闇の神器を持つあなたたちといれば<line-break>いつかネメア様に会える日が来るはず。<line-break>\u3000<line-break>それに、ゼリグを操ってた奴らも<line-break>きっとまた、あなたの前に現れるはず。<line-break>仇は、とりたいわ。<end>"
+english = "If I stay with you, the bearers of the divine artifact of darkness, I should eventually have a chance to meet Lord Nemea. And those who were controlling Zelig are sure to appear before you again. I want revenge.<end>"
+
+["1740192"]
+japanese = "足手まといには、ならないはずよ。<line-break>どうかしら、<value:$28>？<end>"
+english = "I shouldn't be a burden. What do you say, <value:$28>?<end>"
+
+["1740193"]
+japanese = "いいよ、仲間だ<end>"
+english = "Sure. You're one of us.<end>"
+
+["1740194"]
+japanese = "お前は敵だ<end>"
+english = "You're an enemy.<end>"
+
+["1740195"]
+japanese = "ありがとう。<line-break>よろしく頼むわ。<end>"
+english = "Thank you. I'm counting on you.<end>"
+
+["1740196"]
+japanese = "…そう、<line-break>ここで呼び出すのね。<line-break>わかったわ。<end>"
+english = "...I see. So this is where you're summoning me. Very well.<end>"
+
+["1740197"]
+japanese = "そう…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>なら、仕方ないわね。<line-break>\u3000<line-break>じゃあ、私は私で動くことにするわ。<line-break>ありがとう、<value:$28>。<line-break>さようなら。<end>"
+english = "I see... Then it can't be helped. I'll go my own way. Thank you, <value:$28>. Farewell.<end>"
+
+["1740198"]
+japanese = "さて、<value:$28>。邪竜の断層で<line-break>あの男が言っていたように、今回の話は<line-break>いにしえの神々をも巻き込みそうです。<line-break>そこで、あなたがあなたとして<line-break>正しい選択、行動ができるように<line-break>世界の成り立ちを知るとよいでしょう。<end>"
+english = "Now then, <value:$28>. As that man said at Evil Dragon Rift, it seems this affair may embroil even the gods of old. You would do well to learn how the world came to be, so that you may make the choices and take the actions that are right for you.<end>"
+
+["1740199"]
+japanese = "まだ訪れていないのならば、<line-break>エンシャントの北西、古の樹海に<line-break>エルフの聖地を探してみてください。<line-break>そこで原初のエルフが<line-break>あなたに語るでしょう。<line-break>耳を傾けてください。<end>"
+english = "If you have not already been there, seek the sacred land of the Elves in the Ancient Forest, northwest of Ancient. There, the primordial Elf will speak to you. Listen well.<end>"
+
+["1740200"]
+japanese = "私も、立ち止まるわけにはいかないわ。<line-break>\u3000<line-break>\u3000<line-break>ネメア様のため、<line-break>ドルドラムとゼリグのため、<line-break>そして、自分自身のために…。<end>"
+english = "I can't afford to stand still, either. For Lord Nemea, for Doldrum and Zelig―and for my own sake...<end>"
+
+["1740201"]
+japanese = "私は少しケリュネイアと話をします。<end>"
+english = "I'll speak with Ceryneia for a moment.<end>"
+
+["1740202"]
+japanese = "私…、<line-break>今は混乱して、何がなんだか…。<end>"
+english = "I... I'm so confused right now. I don't know what's going on...<end>"
+
+["1740203"]
+japanese = "いつまで、グズグズと…！<line-break>あなた、ホントにエアの所まで<line-break>連れていってくれる気あるの？<line-break>もういいわ！<line-break>私はひとりで行く。<line-break>さよなら。<end>"
+english = "How long are you going to keep dragging your feet? Are you really going to take me to Er or not? Forget it! I'll go alone. Goodbye.<end>"
+
+["1740204"]
+japanese = "あの、<value:$28>。<line-break>戦っていない私が言うのもなんですが、<line-break>私たちは、急がなければなりません。<end>"
+english = "Um, <value:$28>. I know I'm not the one doing the fighting, but we need to hurry.<end>"
+
+["1740205"]
+japanese = "これでいくらか<line-break>疲れは取れたと思います。<line-break>\u3000<line-break>では、行きましょう。<end>"
+english = "That should have eased the fatigue somewhat. Now, let's go.<end>"
+
+["1740206"]
+japanese = "<value:$28>は<line-break>竜殺しの称号を得た。<end>"
+english = ""
+
+["1740207"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1740208"]
+japanese = "ジュサプブロス…。<line-break>同化の髪飾りを返してもらおうか。<end>"
+english = "Jusapubros... I'll have the Hair Ornament of Assimilation back now.<end>"
+
+["1740209"]
+japanese = "執念深い男だね。<line-break>それとも、それが<line-break>イーシャへの想いの強さかな？<line-break>もっとも、<line-break>暑苦しいその想いこそが<line-break>彼女には、いい迷惑かもしれないがな。<end>"
+english = "You're a persistent one. Or is that how strong your feelings for Iria are? Then again, she may find that overbearing devotion of yours nothing but a nuisance.<end>"
+
+["1740210"]
+japanese = "なんだと！？<end>"
+english = "What did you say?!<end>"
+
+["1740211"]
+japanese = "くっくっくっ。若いねぇ。<line-break>でもまあ、６才未満には見えないから<line-break>まとめて因縁の後始末といこうか。<end>"
+english = "Heh heh heh. So young. Still, you don't look under six, so I may as well settle all our old scores at once.<end>"
+
+["1740212"]
+japanese = "同化の髪飾りは返してもらう。<end>"
+english = "I'm taking back the Hair Ornament of Assimilation.<end>"
+
+["1740213"]
+japanese = "仕方ないね…。くれてやるよ。<line-break>いくら闇の神器でも<line-break>あの世までは持っていけないからな。<end>"
+english = "Guess I have no choice... You can have it. Even if it is a Dark Artifact, I can't take it with me to the next world.<end>"
+
+["1740214"]
+japanese = "オイフェメッセージＶ７終端<end>"
+english = ""

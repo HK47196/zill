@@ -1,0 +1,121 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1700000"]
+japanese = "ノーブルメッセージｖ４用開始<end>"
+english = ""
+
+["1700001"]
+japanese = "新しい領主様が決まったそうだよ。<line-break>どうだ、<value:$28>。<line-break>これを機に町へ戻っては？<line-break>新しい領主様も、今さらお前の罪を<line-break>問うことはないと思うぞ。<end>"
+english = "I hear they've chosen a new lord. What do you say, <value:$28>? Why not take this chance to come back to town? I don't imagine the new lord will hold you to account for your crime after all this time.<end>"
+
+["1700002"]
+japanese = "ま、まさか、<value:$28>！<line-break>お前、処刑されたんじゃ…。<line-break>私は悪い夢でも見ているのか？<end>"
+english = "I-it can't be, <value:$28>! Weren't you executed...? Am I having some kind of nightmare?<end>"
+
+["1700003"]
+japanese = "<value:$28>は今、<line-break>冒険者をしているんですってね。\u3000\u3000\u3000<line-break>チャカもそうなの？<line-break>長老様は文句を言うかもしれないけど、<line-break>たいていの人は、あなたたち姉弟が<line-break>帰ってきてくれるのを待っているのよ。<end>"
+english = "I hear you're an adventurer now, <value:$28>. Is Chaka one too? The elder may object, but most people are waiting for you and your brother to come home.<end>"
+
+["1700004"]
+japanese = "まあ、<value:$28>…。\u3000\u3000\u3000\u3000\u3000<line-break>こうして平和な町になったのも<line-break>あなたたち姉弟のおかげよ。<line-break>あなたたちが立ち上がらなかったら、<line-break>今でも怯えながら生きていたと思うわ。<line-break>本当にありがとうね。<end>"
+english = "Oh, <value:$28>... This town is at peace now because of you and your brother. If you two hadn't taken a stand, I think we'd still be living in fear. Thank you, truly.<end>"
+
+["1700005"]
+japanese = "あっ！\u3000<value:$28>お姉ちゃん！<line-break>ぼくね、チャカお兄ちゃんとの約束を守って\u3000<line-break>きちんとパパのお手伝いをしてるよ。<line-break>だから、チャカお兄ちゃんに<line-break>コリンはいい子にしてるって言っておいてね。<line-break>やくそくだよ！<end>"
+english = "Oh! Big Sis <value:$28>! I kept my promise to Chaka. I've been helping Papa, just like I said I would. So tell Chaka that Colin's been a good boy, okay? Promise!<end>"
+
+["1700006"]
+japanese = "あっ！\u3000<value:$28>お姉ちゃん！<line-break>ず～っと、どこに行ってたの？<line-break>チャカお兄ちゃんも元気にしてる？<end>"
+english = "Oh! Big Sis <value:$28>! Where have you been all this time? Is Chaka doing well too?<end>"
+
+["1700007"]
+japanese = "こ、こ、こ、これは<value:$28>様！<line-break>へへへ…今日もお美しいですね。<line-break>も、もちろん悪いことなんてしてません。<line-break>みなさんのお手伝いをしたり、<line-break>子供と遊んだりしてます。<line-break>もう悪い子じゃないですから。<end>"
+english = "O-oh! <value:$28>! Heh heh... You're looking lovely as ever today. I-I haven't been doing anything bad, honest. I've been helping everyone out and playing with the children. I'm not a bad kid anymore.<end>"
+
+["1700008"]
+japanese = "あ、あ、あ、あなた様は！<line-break>数々の無礼をお許しください。<line-break>もう弱い者いじめなんてしません。<line-break>町の人たちにもいっしょうけんめい<line-break>あやまって許してもらいました。<line-break>だから…許してください。<end>"
+english = "Y-y-you! Please forgive me for all the disrespect I've shown you. I don't pick on people weaker than me anymore. I did my very best to apologize to everyone in town, and they forgave me. So... please forgive me too.<end>"
+
+["1700009"]
+japanese = "おや、<value:$28>。<line-break>どうやら元気でやってるみたいだね。<line-break>町も昔の活気を取り戻してきただろ？\u3000\u3000\u3000\u3000<line-break>そういえば新しい領主様が決まってね、<line-break>なんでもレムオン様の妹君らしいのさ。<line-break>女領主なんてこの国じゃ初めてじゃないかね？<end>"
+english = "Oh, <value:$28>. You seem to be doing well. The town's starting to feel lively again, isn't it? By the way, they've chosen a new lord. I hear she's Lord Lemghon's younger sister. Surely she's the first woman ever to rule a domain in this country?<end>"
+
+["1700010"]
+japanese = "もしかして、<value:$28>かい？<line-break>姿を見せないと思ったら\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>冒険者になってたのだねえ。<line-break>あんたたちのおかげで町は平和になったよ。<line-break>それなのに長老様は、あんたたちは死んだって<line-break>言ったんだよ。ひどい話じゃないか。<end>"
+english = "Is that you, <value:$28>? I was wondering why you hadn't been around. So you've taken up adventuring. Thanks to all of you, the town's peaceful now. And yet the elder said you'd all died. Isn't that awful?<end>"
+
+["1700011"]
+japanese = "もう、誰とでも自由にお話できるし、<line-break>こわいモンスターもいないのね。<line-break>とーっても、うれしいの！<end>"
+english = "Now I can talk to anyone I want, and there aren't any scary monsters. I'm so, so happy!<end>"
+
+["1700012"]
+japanese = "お姉ちゃんたちのおかげで、<line-break>ボルボラはいなくなったんでしょ。<line-break>お姉ちゃん、ありがとう。<end>"
+english = "Bolbora's gone thanks to you and the others, right? Thank you so much!<end>"
+
+["1700013"]
+japanese = "新しい領主はエリエナイ公の妹君とか。\u3000\u3000<line-break>前領主のボルボラのような<line-break>ひどい人間でなければよいのですが。<line-break>ボルボラを代官に任命したのも<line-break>エリエナイ公ですし、あの方の人を見る目は<line-break>あまり信用できませんからね。<end>"
+english = "I hear the new ruler is Duke Elienai's younger sister. I only hope she isn't as dreadful as the former ruler, Bolbora. Then again, it was Duke Elienai who appointed Bolbora as governor, so I don't put much faith in the duke's judgment of character.<end>"
+
+["1700014"]
+japanese = "あなた、以前、<line-break>この町に住んでおられましたな。\u3000\u3000<line-break>見たことがありますよ。<line-break>今は冒険者ですか。<line-break>どうです、生まれ故郷の変わり様は。<line-break>驚いたでしょう。<end>"
+english = "You used to live in this town, didn't you? I remember seeing you before. Are you an adventurer now? What do you make of how your hometown has changed? It must have been quite a shock.<end>"
+
+["1700015"]
+japanese = "俺は恐かったんだ…。<line-break>ボルボラも、奴のモンスターも…<line-break>そして何より、<value:$28>！<line-break>お前が恐ろしかったんだ…<line-break>許してくれ…、頼む、頼むよ…。<end>"
+english = "I was afraid... of Bolbora, of his monsters... but most of all, of you, <value:$28>! You terrified me... Forgive me... Please, I'm begging you...<end>"
+
+["1700016"]
+japanese = "そ、そんなバカな！<line-break>お前とチャカは反乱の責任をとって<line-break>処刑されたんじゃなかったのか！<line-break>あわわわ…<line-break>た、助けてくれっ！<line-break>頼む、頼む…。<end>"
+english = "Th-that's impossible! Weren't you and Chaka executed for the rebellion?! A-ah... H-help me! Please, I'm begging you...<end>"
+
+["1700017"]
+japanese = "以前、ここに住んでおられた方の<line-break>畑を耕しているのですが、<line-break>手入れが行き届いていて感心しています。<line-break>きっと、その方は畑も農作業も<line-break>愛しておられたのでしょう。<line-break>私も負けないように働きますぞ。<end>"
+english = "I've been tending the field left by the person who lived here before, and I'm impressed by how well it was cared for. Whoever it was must have truly loved the land and the work. I'll do my best to live up to that.<end>"
+
+["1700018"]
+japanese = "私はボルボラがいなくなってから\u3000<line-break>引っ越してきましたので、<line-break>事情をよく知らないのですよ。<line-break>この家も、私の畑も、誰か別の人が<line-break>使っていたそうですね。<end>"
+english = "I only moved here after Bolbora was gone, so I don't know much about the circumstances. Apparently, someone else used to live in this house and work what is now my field.<end>"
+
+["1700019"]
+japanese = "予備メッセージ１<line-break>ノーブル、ボリューム４<end>"
+english = ""
+
+["1700020"]
+japanese = "予備メッセージ２<line-break>ノーブル、ボリューム４<end>"
+english = ""
+
+["1700021"]
+japanese = "予備メッセージ３<line-break>ノーブル、ボリューム４<end>"
+english = ""
+
+["1700022"]
+japanese = "予備メッセージ４<line-break>ノーブル、ボリューム４<end>"
+english = ""
+
+["1700023"]
+japanese = "予備メッセージ５<line-break>ノーブル、ボリューム４<end>"
+english = ""
+
+["1700024"]
+japanese = "予備メッセージ６<line-break>ノーブル、ボリューム４<end>"
+english = ""
+
+["1700025"]
+japanese = "予備メッセージ７<line-break>ノーブル、ボリューム４<end>"
+english = ""
+
+["1700026"]
+japanese = "予備メッセージ８<line-break>ノーブル、ボリューム４<end>"
+english = ""
+
+["1700027"]
+japanese = "予備メッセージ９<line-break>ノーブル、ボリューム４<end>"
+english = ""
+
+["1700028"]
+japanese = "予備メッセージ１０<line-break>ノーブル、ボリューム４<end>"
+english = ""
+
+["1700029"]
+japanese = "ノーブルメッセージ終端<end>"
+english = ""

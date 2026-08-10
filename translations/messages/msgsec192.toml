@@ -1,0 +1,1137 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1920000"]
+japanese = "ＺｉｌｌＯ’ｌｌ\u3000エンディングメッセージ開始<end>"
+english = ""
+
+["1920001"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["1920002"]
+japanese = "私の、<value:$28>…。<end>"
+english = "My <value:$28>...<end>"
+
+["1920003"]
+japanese = "<value:$28>、起きて…。<end>"
+english = "<value:$28>, wake up...<end>"
+
+["1920004"]
+japanese = "起きなさい、<value:$28>！<line-break>もう、お昼よ！<end>"
+english = "Wake up, <value:$28>! It's noon already!<end>"
+
+["1920005"]
+japanese = "何してるのよ、<value:$28>。<line-break>ベッドから落ちたりして。\u3000\u3000<line-break>\u3000<line-break>ほんっとに、いつまでたっても<line-break>変わらないわねぇ。<end>"
+english = "What are you doing on the floor, <value:$28>? You fell out of bed again? Honestly, you never change.<end>"
+
+["1920006"]
+japanese = "おはよう、<value:$28>。<line-break>どう？\u3000目は覚めた？<end>"
+english = "Good morning, <value:$28>. Feeling awake now?<end>"
+
+["1920007"]
+japanese = "それじゃ、さっさと行くわよ。\u3000\u3000\u3000\u3000<line-break>はやく準備しなさい。<line-break>\u3000<line-break>あ、ちゃんと服を着替えないとダメよ。<line-break>外で待ってるから、すぐに準備を<line-break>すませること。いいわね？<end>"
+english = "All right, let's get going. Hurry up and get ready. Oh, and you have to change your clothes first. I'll wait outside, so don't take long. Understood?<end>"
+
+["1920008"]
+japanese = "あら、<value:$28>。<line-break>目が覚めたみたいね。<line-break>朝ご飯はできてるわよ。\u3000\u3000\u3000\u3000<end>"
+english = "Oh, <value:$28>. Looks like you're awake. Breakfast is ready.<end>"
+
+["1920009"]
+japanese = "アイリーンが待ってるから\u3000\u3000\u3000<line-break>朝ご飯を食べていく時間がない？<line-break>ふふ、仕方ないわね。<line-break>それじゃ、行ってらっしゃい、<line-break><value:$28>。<line-break>ほどほどにね。<end>"
+english = "No time for breakfast because Irene's waiting? Heh, I suppose it can't be helped. Off you go, then, <value:$28>. And don't overdo it.<end>"
+
+["1920010"]
+japanese = "あの日…。アイリーンと\u3000\u3000\u3000\u3000<line-break><value:$28>が町を出た<line-break>あの日…。<line-break>ふたりがこっそりと出ていくのを、<line-break>黙って見送ってしまったことを<line-break>何度も後悔したけれど…。<end>"
+english = "That day... the day Irene and <value:$28> left town... I regretted it time and again, simply watching in silence as the two of them slipped away...<end>"
+
+["1920011"]
+japanese = "でも、あの子たちは\u3000\u3000\u3000\u3000\u3000\u3000<line-break>帰ってきてくれた。<line-break>この家に…。<line-break>あのころと変わらない毎日。<line-break>でも、こんなにうれしいことは<line-break>ないわ。<end>"
+english = "But those two came back. Back to this house... Now every day is just as it was then. Nothing could make me happier.<end>"
+
+["1920012"]
+japanese = "ね、あなた…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "Isn't that right, dear...?<end>"
+
+["1920013"]
+japanese = "来たわね、<value:$28>。<line-break>言っておくけど、今日こそは\u3000\u3000<line-break>絶対に一本取ってみせるわ！<line-break>あなたから一本取るまで<line-break>王宮の近衛騎士の任務は<line-break>受けないって決めてるんだから。<end>"
+english = "There you are, <value:$28>. Just so you know, today I'm finally going to score a point against you! I've decided I won't accept any duties with the palace's Royal Guard until I do.<end>"
+
+["1920014"]
+japanese = "ほら、さっさと道場に行くわよ。<end>"
+english = "Come on, let's get to the training hall.<end>"
+
+["1920015"]
+japanese = "あのころと変わらない毎日…。<line-break>\u3000<line-break>\u3000<line-break>ううん、今では私が<line-break><value:$28>の背中を<line-break>追いかけてる…。<end>"
+english = "Every day is just as it was then... No. Now I'm the one chasing after <value:$28>...<end>"
+
+["1920016"]
+japanese = "でも、それ以外は同じ。\u3000\u3000\u3000<line-break>私は帰ってきたんだ。<line-break>この町に…。<line-break>私の一番大切な、あのころに…。<end>"
+english = "But everything else is the same. I've come home... to this town, and to those days I treasure most...<end>"
+
+["1920017"]
+japanese = "よし、それまで。<line-break><value:$28>の勝ちだ。<end>"
+english = "All right, that's enough. <value:$28> wins.<end>"
+
+["1920018"]
+japanese = "うぅ…参った。<end>"
+english = "Ugh... you got me.<end>"
+
+["1920019"]
+japanese = "さすがゴブ。<line-break>これで<value:$28>の<line-break>７８連勝ゴブ！<end>"
+english = "Impressive, gob! That makes seventy-eight wins in a row for <value:$28>, gob!<end>"
+
+["1920020"]
+japanese = "アイリーン、<line-break>もうやめた方がいいゴブよ。\u3000\u3000\u3000<line-break>\u3000<line-break>一本とれなくったって、<line-break><value:$28>はアイリーンの<line-break>よさをちゃんとわかっているゴブ。<end>"
+english = "Irene, you should give it up now, gob. Even if you don't score a point, <value:$28> knows what's good about you, gob.<end>"
+
+["1920021"]
+japanese = "っるさいわね！<line-break>なれなれしく、アイリーンなんて<line-break>呼ばないでよ！<end>"
+english = "Shut up! And don't call me Irene like we're so familiar!<end>"
+
+["1920022"]
+japanese = "だいたい、なんであんたたちが<line-break>ここにいるのよ！<line-break>他はあのころとみんな一緒なのに！<end>"
+english = "And why are you lot even here? Everything else is just the way it used to be!<end>"
+
+["1920023"]
+japanese = "我々はオッシ先生に<line-break>弟子入りした身ゴブ。<line-break>アイリーンとは兄弟弟子ゴブ。<end>"
+english = "We are Master Ossi's disciples, gob. That makes us Irene's fellow pupils, gob.<end>"
+
+["1920024"]
+japanese = "うぅ…。<line-break>こいつらと兄弟弟子だなんて…。<end>"
+english = "Ugh... To think I'm a fellow pupil of theirs...<end>"
+
+["1920025"]
+japanese = "そんなことはどうでもいいから<line-break>はやくメシが食いたいゴブ。<end>"
+english = "Who cares about that? I just want something to eat, gob.<end>"
+
+["1920026"]
+japanese = "っるさい！<end>"
+english = "Shut up!<end>"
+
+["1920027"]
+japanese = "先生、また今日も<line-break>稽古をつけてください！\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>明日こそ、<value:$28>から<line-break>一本取ってみせます！<end>"
+english = "Master, please train me again today! Tomorrow, I swear I'll score a point against <value:$28>!<end>"
+
+["1920028"]
+japanese = "うげっ！\u3000またか？<line-break>もう勘弁してくれよ。<line-break>お前の方が俺より強いじゃねえか。<end>"
+english = "Ugh! Again? Give me a break. You're stronger than I am!<end>"
+
+["1920029"]
+japanese = "この町で私と互角に打ち合えるのは<line-break>先生くらいしかいないんです。<line-break>だから、お願いします！<end>"
+english = "You're the only one in town who can fight me on equal terms. So please!<end>"
+
+["1920030"]
+japanese = "とほほ…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "Good grief...<end>"
+
+["1920031"]
+japanese = "<value:$28>。<line-break>明日は絶対に負けないわよ！<end>"
+english = "<value:$28>, I won't lose tomorrow!<end>"
+
+["1920032"]
+japanese = "王女様、はじめてのお務めは\u3000\u3000\u3000\u3000<line-break>いかがでしたか？<line-break>\u3000<end>"
+english = ""
+
+["1920033"]
+japanese = "…とても緊張しました。<line-break>周りのみなさんが私のことを<line-break>見ているのですもの。<end>"
+english = ""
+
+["1920034"]
+japanese = "それはきっと、王女様のことを<line-break>とても魅力的な方だと、<line-break>みなさまが思われたからですわ。\u3000\u3000<end>"
+english = ""
+
+["1920035"]
+japanese = "私が…魅力的？<end>"
+english = ""
+
+["1920036"]
+japanese = "はい。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = ""
+
+["1920037"]
+japanese = "（私のことを、そんな風に<line-break>\u3000思ってくれる方が<line-break>\u3000あの方以外にいるなんて…。）<line-break>（でも、私は、あの方だけが<line-break>\u3000そう思ってくれれば十分…。）<end>"
+english = ""
+
+["1920038"]
+japanese = "どうされたのですか、王女様？\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = ""
+
+["1920039"]
+japanese = "い、いえ。なんでもありません。<line-break>少しぼうっとしてしまいました。<end>"
+english = ""
+
+["1920040"]
+japanese = "きっと、はじめてのご体験で<line-break>お疲れになったのでしょう。<line-break>今日はごゆっくりとお休みください。<end>"
+english = ""
+
+["1920041"]
+japanese = "ええ。<line-break>どうもありがとう。<end>"
+english = "Yes. Thank you very much.<end>"
+
+["1920042"]
+japanese = "それでは、失礼いたします。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = ""
+
+["1920043"]
+japanese = "今日は本当に、疲れたわ…。<line-break>文書の最後に署名を書くだけだった<line-break>けれど、少し曲がってしまったし…。<line-break>でも、私、がんばらなくては。<line-break>もっと勉強して、エリス様に<line-break>文書を読んでもらわなくても、<end>"
+english = ""
+
+["1920044"]
+japanese = "書いてある内容がわかるように<line-break>ならないと。<end>"
+english = ""
+
+["1920045"]
+japanese = "あ、<value:$28>様ですか？<line-break>どうぞ、お入りになって。<end>"
+english = "Oh, is that you, <value:$28>? Please, come in.<end>"
+
+["1920046"]
+japanese = "ウフフ、<value:$28>様も<line-break>今日は一日、ご苦労様でした。\u3000\u3000\u3000<line-break>\u3000<line-break>そうそう。<value:$28>様を<line-break>お呼びしたのは、これを<line-break>受け取ってもらいたかったからです。<end>"
+english = "Hee hee. You've worked hard today too, <value:$28>. Oh, yes. <value:$28>, I asked you here because I wanted you to have this.<end>"
+
+["1920047"]
+japanese = "私が初めて誰の助けも借りずに<line-break>焼いたクッキーです。<line-break>召しあがってください。<end>"
+english = "These are the first cookies I've ever baked all by myself. Please, have some.<end>"
+
+["1920048"]
+japanese = "あ、待ってください。<line-break>感想はあとで…、<line-break>ここでは食べないで…。<end>"
+english = ""
+
+["1920049"]
+japanese = "あ、あの…。<line-break>どう、ですか？<end>"
+english = ""
+
+["1920050"]
+japanese = "…よかった。<end>"
+english = ""
+
+["1920051"]
+japanese = "私、これからも、いろんなことを<line-break>ひとりでできるようになりたいのです。<line-break>\u3000<line-break><value:$28>様と一緒にいても<line-break>迷惑にならないように<line-break>なりたいのです。<end>"
+english = ""
+
+["1920052"]
+japanese = "ですから、<value:$28>様。<line-break>どうか、いつまでも、私の近くに<line-break>いてください。<end>"
+english = ""
+
+["1920053"]
+japanese = "ありがとう。<line-break>…うれしいです、<line-break><value:$28>様。<end>"
+english = ""
+
+["1920054"]
+japanese = "<value:$28>！<line-break>こっち、こっち。<line-break><line-break>今日は私が考案した<line-break>新しい魔法のお披露目があるの。<end>"
+english = "<value:$28>! Over here! I'm unveiling a new spell I came up with today.<end>"
+
+["1920055"]
+japanese = "それで、ぜひ見てもらおうと思って<line-break><value:$28>のこと<line-break>わざわざ呼び出しちゃった。<end>"
+english = "I wanted you to see it, so I went out of my way to call you here, <value:$28>.<end>"
+
+["1920056"]
+japanese = "えっ？\u3000本当に安全なのかって？<line-break>えっと…<line-break>た、たぶん、大丈夫。<line-break>そんなに細かいことに<line-break>こだわってちゃダメよ。<line-break>さっ、行きましょ！<end>"
+english = "What? You want to know if it's really safe? Um... p-probably. Don't get hung up on every little detail. Come on, let's go!<end>"
+
+["1920057"]
+japanese = "私ね、ときどき思うんだけど、\u3000\u3000\u3000\u3000<line-break>無名で終わる天才だって<line-break>たくさんいるのに、<line-break><value:$28>と知り合って<line-break>一躍有名になった私って、もしかしたら<line-break>とっても運がいいのかも！<end>"
+english = "You know, sometimes I think about all the geniuses who never become famous. Maybe I was incredibly lucky to meet you and become an overnight sensation, <value:$28>!<end>"
+
+["1920058"]
+japanese = "アカデミーにも戻れたし、<line-break>これもきっと日ごろの行いが<line-break>いいせいよね！<end>"
+english = "I even got back into the Academy. It must be a reward for all my good deeds!<end>"
+
+["1920059"]
+japanese = "ユーリス、大変だ！<line-break>お前の装置、暴走してるぞ。<line-break>\u3000<end>"
+english = "Julls, we've got trouble! Your device is out of control!<end>"
+
+["1920060"]
+japanese = "えっ…ええっ！<end>"
+english = "What... What?!<end>"
+
+["1920061"]
+japanese = "どっ、どうしよう<line-break><value:$28>！？<end>"
+english = "Wh-what do I do, <value:$28>?!<end>"
+
+["1920062"]
+japanese = "ああ、またやっちゃった…。<line-break>\u3000<line-break>\u3000<line-break>せっかく魔道アカデミーに<line-break>戻れたと思ったのに。<end>"
+english = "Oh, I've done it again... Just when I thought I'd finally made it back into the Magic Academy.<end>"
+
+["1920063"]
+japanese = "そうだよね。<line-break>大失敗は成功の元って言うし！<line-break>\u3000<line-break>ねっ、<value:$28>。<line-break>また旅をはじめない？<line-break>私、ついていくから。<end>"
+english = "That's right! They say every spectacular failure is a step toward success! So, <value:$28>, want to set off on another journey? I'll come with you.<end>"
+
+["1920064"]
+japanese = "<value:$28>と一緒に<line-break>旅をしていれば、きっとまた何か<line-break>すごいことがあるでしょ。<line-break>今回も、それでたぶん<line-break>アカデミーに許してもらえると<line-break>思うんだけど…。<end>"
+english = "If I travel with you, <value:$28>, something amazing is bound to happen again. And then the Academy will probably forgive me this time too... I think.<end>"
+
+["1920065"]
+japanese = "いたぞ！\u3000ユーリスだ。\u3000\u3000<line-break>捕まえろ！<line-break>\u3000<end>"
+english = "There! It's Julls! Get her!<end>"
+
+["1920066"]
+japanese = "…って、今は<line-break>逃げ出す方が先かもね。<end>"
+english = "Then again, getting away may have to come first.<end>"
+
+["1920067"]
+japanese = "おそいなぁ、<value:$28>。<line-break>まさか、忘れちゃったんじゃ<line-break>ないよなぁ。<end>"
+english = ""
+
+["1920068"]
+japanese = "もう！\u3000ようやく、みんなを説得して<line-break>自由に冒険できるようになったって<line-break>言うのにぃ！<line-break>何やってるんだよぉ、<line-break><value:$28>…。<line-break>\u3000<end>"
+english = ""
+
+["1920069"]
+japanese = "<value:$28>が来てくれないと<line-break>冒険なんて、できないんだぞ…。<end>"
+english = ""
+
+["1920070"]
+japanese = "あれ？\u3000ボク、はじめて冒険の旅に<line-break>出たときは、ひとりでも<line-break>やっていけるって思ってたのに…。<line-break>今では、<value:$28>が<line-break>いないと、旅に出るのが<line-break>なんだか、恐くなってる…。<end>"
+english = ""
+
+["1920071"]
+japanese = "いつのまにか、<line-break>ボクにとっての<line-break>冒険の旅っていうのは、<line-break><value:$28>と<line-break>一緒にいることに<line-break>なっちゃたんだな…。<end>"
+english = ""
+
+["1920072"]
+japanese = "はやく来てよぉ<line-break><value:$28>…。<end>"
+english = ""
+
+["1920073"]
+japanese = "もう、<value:$28>のバカ！<line-break>ボクをこんなに不安にさせて！<line-break>嫌いになっちゃうぞ！<end>"
+english = ""
+
+["1920074"]
+japanese = "あ、あれ！？<line-break><value:$28>！<end>"
+english = ""
+
+["1920075"]
+japanese = "あ、あはははは…。<line-break>今の、もしかして聞いてた？<end>"
+english = ""
+
+["1920076"]
+japanese = "あ、あの、さっきのは、<line-break>その、間違いだから。<line-break>…ゴメン。<end>"
+english = ""
+
+["1920077"]
+japanese = "ありがと。<end>"
+english = ""
+
+["1920078"]
+japanese = "あ、でも、元はと言えば<line-break><value:$28>が約束の時間に<line-break>来ないのが原因だったんだよ。<line-break>ボク、すっごく長い間、<line-break>ここで、待ってたんだから。<end>"
+english = ""
+
+["1920079"]
+japanese = "え？<line-break>まだ約束の時間になってない？<line-break>あれ？<line-break>あの、約束の時間って<line-break>いつだったっけ？<end>"
+english = ""
+
+["1920080"]
+japanese = "あは、あはははは…。<line-break>ゴメン、ボクが勘違いしてたみたい。<line-break>\u3000<line-break>ボク、少しでも早く<line-break><value:$28>と冒険の旅に<line-break>出たくて、うずうずしてたからさ。<end>"
+english = ""
+
+["1920081"]
+japanese = "それじゃあ、<value:$28>。<line-break>行こうか！<end>"
+english = ""
+
+["1920082"]
+japanese = "いや～、はやいもんだよねぇ。\u3000\u3000<line-break>もう、バイアシオン大陸なんて<line-break>ちっちゃくて見えないわ。<line-break>あんな、ちっぽけな陸の上で<line-break>あたしたちは戦ってたんだよね。<line-break>ここからこっちは自分の国だって。<end>"
+english = ""
+
+["1920083"]
+japanese = "でも、ディンガルとロストールが<line-break>仲よくなっちゃったから、<line-break>戦争はもうおしまい。<line-break>これから、バイアシオンは<line-break>ひとつになっていくんだろうね。<end>"
+english = ""
+
+["1920084"]
+japanese = "ってなると、あたしたちみたいな<line-break>戦うことが仕事っていう物騒な連中は<line-break>出て行くしかないよねぇ、やっぱ。<end>"
+english = ""
+
+["1920085"]
+japanese = "いや～、力を持ちすぎた者の宿命って<line-break>やつですか？\u3000しょうがないよね。<end>"
+english = ""
+
+["1920086"]
+japanese = "くすくす。<line-break>あたしと一緒にするなって\u3000\u3000\u3000\u3000\u3000<line-break>顔したって、ダメだよん。<line-break>なんてったって、<value:$28>は<line-break>世界を救った最強の勇者様だもんね。<line-break>要するに、一番物騒だってこと。<end>"
+english = ""
+
+["1920087"]
+japanese = "まぁ、いいじゃないですか？<line-break>英雄って言われてたネメア様だって<line-break>またどっかに行っちゃったし。<line-break>こうなったら、あたしたちも<line-break>次の大陸に渡って、国のひとつや<line-break>ふたつ手に入れてみようじゃん？<end>"
+english = ""
+
+["1920088"]
+japanese = "あ、別に国なんてどうでもいいよ。\u3000\u3000<line-break>うん。あたしは<value:$28>と<line-break>一緒に行くだけだから。<line-break>あたしはただ、<value:$28>と<line-break>一緒にいれば、ずっと笑って<line-break>いられるんじゃないかって思っただけ。<end>"
+english = ""
+
+["1920089"]
+japanese = "心から笑うことができるあたしを<line-break>見つけられるんじゃないかってね。<end>"
+english = ""
+
+["1920090"]
+japanese = "空<end>"
+english = ""
+
+["1920091"]
+japanese = "さぁ、元気出していこう～！<line-break>次の大陸があたしたちをよんでる～！<end>"
+english = ""
+
+["1920092"]
+japanese = "今日もいいお天気ね。<line-break>よかったわ、晴れてくれて。\u3000<line-break>\u3000<line-break>雲がほとんど見えない<line-break>きれいな青空。<line-break>いい船旅になりそうね。<end>"
+english = "Lovely weather again today. I'm so glad it cleared up. There's hardly a cloud in that beautiful blue sky. It should be a wonderful voyage.<end>"
+
+["1920093"]
+japanese = "戦争が終わって３年。<line-break>ようやくリベルダムも、<line-break>元の姿に戻ってきたわ。\u3000\u3000<line-break>ロストール王家に加えて<line-break>ディンガル帝国も、<line-break>町の復興を援助してくれて…。<end>"
+english = "It's been three years since the war ended, and Liberdam is finally beginning to look like itself again. The Dingal Empire has joined the Rostorl Royal House in helping to rebuild the city as well.<end>"
+
+["1920094"]
+japanese = "でも、復興をここまで進めたのは<line-break>何よりも、町の人たちの<line-break>故郷に対する想いの強さよね…。\u3000<line-break>市民と非市民の隔たりがなくなった<line-break>リベルダムに続いて、ロセンの復興も<line-break>もうすぐ終わる。<end>"
+english = "But more than anything, we've come this far because the townspeople care so deeply for their home. Liberdam has done away with the divide between citizens and noncitizens, and now the restoration of Rocen is nearly complete as well.<end>"
+
+["1920095"]
+japanese = "そうしたら、わたくし、<line-break>世界を回ってみたい。<line-break>いろいろな町を見てみたい。\u3000<line-break>できれば、あの人と一緒に…。<end>"
+english = "Once it is, I'd like to travel the world. I want to see all sorts of towns. If I could, I'd like to go with that special someone...<end>"
+
+["1920096"]
+japanese = "あ、<value:$28>。<line-break>こちらよ。<end>"
+english = "Oh, <value:$28>. Over here.<end>"
+
+["1920097"]
+japanese = "<value:$28>、<line-break>１０分の遅刻よ。<end>"
+english = "<value:$28>, you're ten minutes late.<end>"
+
+["1920098"]
+japanese = "うふふ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>冗談よ、<value:$28>。<line-break>\u3000<line-break>昨日、言っていた<line-break>ボゲーさんの家の修理を<line-break>手伝ってきたのでしょう？<end>"
+english = "Hee hee. I'm only teasing, <value:$28>. You were helping repair Bogee's house, just as you said yesterday, weren't you?<end>"
+
+["1920099"]
+japanese = "わたくしも今来たばかりだもの。<line-break>気にしないで。<line-break>\u3000<line-break>さぁ、甲板に上がりましょう。<line-break>今日はきっと、<line-break>きれいな景色が見えるわ。<end>"
+english = "I only just arrived myself, so don't worry. Come, let's go up on deck. I'm sure we'll have a beautiful view today.<end>"
+
+["1920100"]
+japanese = "あ、いたいた。<line-break>待ってー。クリュセイスお姉ちゃん、<line-break><value:$28>お兄ちゃん。<end>"
+english = "There you are! Wait up, Khryuseis! <value:$28>!<end>"
+
+["1920101"]
+japanese = "はい、これ。<line-break>母ちゃんが、今日のお礼だって。\u3000\u3000<line-break>ふたりで食べてくれってさ。<end>"
+english = "Here, this is for you. Ma says it's to thank you for today. She said you two should share it.<end>"
+
+["1920102"]
+japanese = "まぁ、こんなにたくさん。<line-break>ありがとう。<line-break>お母さんによろしく言ってね。<end>"
+english = "My, there's so much. Thank you. Give your mother my regards.<end>"
+
+["1920103"]
+japanese = "それにしても、<line-break>クリュセイスお姉ちゃんたち、\u3000\u3000\u3000<line-break>いつも一緒にいるね。<line-break>今日もこれから、でーと？<end>"
+english = "You know, Khryuseis, you two are always together. Are you going on another da-a-ate today?<end>"
+
+["1920104"]
+japanese = "ちょ、ちょっと、何を言っているの？<line-break>わたくしと<value:$28>は…。<end>"
+english = "W-wait, what are you saying? <value:$28> and I are...<end>"
+
+["1920105"]
+japanese = "あ、あかくなった！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "Oh, you're blushing!<end>"
+
+["1920106"]
+japanese = "お、大人をからかうものでは<line-break>なくてよ！<end>"
+english = "Y-you shouldn't tease your elders!<end>"
+
+["1920107"]
+japanese = "行きましょう、<value:$28>。<end>"
+english = "Let's go, <value:$28>.<end>"
+
+["1920108"]
+japanese = "いってらっしゃーい！\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>お幸せにー！<line-break>\u3000<end>"
+english = "Have a good time! Be happy together!<end>"
+
+["1920109"]
+japanese = "<value:$28>…。<line-break>これから向かうロセンの復旧も<line-break>もうすぐ終わるわ。<line-break>町は生きかえった…。<line-break>もう、わたくしたちがいなくても<line-break>大丈夫よね。<end>"
+english = "<value:$28>... The restoration work in Rocen, where we're headed now, is almost finished. The town has come back to life. It will be all right without us now, won't it?<end>"
+
+["1920110"]
+japanese = "わたくし、もうしばらくしたら\u3000<line-break>旅に出ようかと思うの。<line-break>\u3000<line-break>世界を回って、<line-break>いろいろな町を見て回りたい…。<end>"
+english = "I've been thinking that, before long, I might set out on a journey. I'd like to travel the world and see all sorts of towns.<end>"
+
+["1920111"]
+japanese = "そのとき…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>、<line-break>あなたも…<line-break>あなたも、わたくしと一緒に<line-break>行ってくれる…？<end>"
+english = "When I do... <value:$28>, would you... would you come with me?<end>"
+
+["1920112"]
+japanese = "ありがとう。<line-break>…うれしい。<end>"
+english = "Thank you. I'm... so happy.<end>"
+
+["1920113"]
+japanese = "わたくしは、まだ<line-break>世界のほんの一部しか知らない。<line-break>\u3000<line-break>でも、<value:$28>が<line-break>一緒にいてくれれば、<line-break>どこに行っても平気よ。<end>"
+english = "I've still seen only a tiny part of the world. But if you're with me, <value:$28>, I know I'll be all right wherever we go.<end>"
+
+["1920114"]
+japanese = "だから、<value:$28>。<line-break>これからも、わたくしの<line-break>そばにいて…。<end>"
+english = "So, <value:$28>... please stay by my side, from now on.<end>"
+
+["1920115"]
+japanese = "…ふぅ。少し疲れたわね。<line-break>この辺りで、休憩ね。<end>"
+english = "Whew... I'm getting a little tired. I think I'll take a break.<end>"
+
+["1920116"]
+japanese = "あれから、もう１年がたつのね。<line-break>あっという間だったわ。そう感じるのは<line-break>仕事仕事の連続だったからかしらね。<line-break>でも、荒れ果てた帝都も、<line-break>ようやく昔の姿を取り戻しつつある。<line-break>あと、もう一息よね。<end>"
+english = "It's already been a year since then. It passed in the blink of an eye. Perhaps it only feels that way because it's been one task after another. But even the ravaged imperial capital is finally beginning to look as it once did. We're almost there.<end>"
+
+["1920117"]
+japanese = "失礼します、陛下。<line-break>\u3000<line-break>\u3000<end>"
+english = "Pardon me, Your Majesty.<end>"
+
+["1920118"]
+japanese = "お入りなさい。<end>"
+english = "Come in.<end>"
+
+["1920119"]
+japanese = "陛下、近衛将軍が面会を求めて\u3000\u3000<line-break>おられます。お通しして<line-break>よろしいですか？<end>"
+english = "Your Majesty, the commander of the Imperial Guard requests an audience. Shall I show the commander in?<end>"
+
+["1920120"]
+japanese = "私が呼んだのです。<line-break>すぐにお通ししなさい。<end>"
+english = "I sent for the commander. Show the commander in at once.<end>"
+
+["1920121"]
+japanese = "かしこまりました。<line-break>\u3000<line-break>\u3000<end>"
+english = "At once, Your Majesty.<end>"
+
+["1920122"]
+japanese = "陛下、差し出がましいようですが、<line-break>最近はお休みになっておられない<line-break>ご様子。<line-break>どうか、ご自愛くださいますよう。<line-break>陛下がお倒れにでもなられては、<line-break>今の帝国は立ちゆきませぬ。<end>"
+english = "Your Majesty, forgive my presumption, but you do not seem to have been resting of late. Please, take care of yourself. If you were to collapse, the Empire as it stands could not carry on.<end>"
+
+["1920123"]
+japanese = "心得ています。<line-break>今日は早めに切り上げようと\u3000\u3000<line-break>思っていますから。<line-break>あなたにも、心配をかけますね。<end>"
+english = "I understand. I intend to finish early today. I'm sorry to have worried you as well.<end>"
+
+["1920124"]
+japanese = "もったいないお言葉。<line-break>\u3000<line-break>\u3000<line-break>それでは、近衛将軍を<line-break>お呼びして参ります。<end>"
+english = "You honor me, Your Majesty. I shall fetch the commander of the Imperial Guard.<end>"
+
+["1920125"]
+japanese = "お願いします。<end>"
+english = "Please do.<end>"
+
+["1920126"]
+japanese = "…ザギヴがディンガルを統治する。<line-break>ゾフォルの予言の通りになった。<line-break>私にとっては、呪われた予言…。<line-break>でも、今は違う。<line-break>大勢の人が、私を応援してくれる。<line-break>皇帝となった私を受けいれてくれる。<end>"
+english = "“Zagiv shall rule Dingal.” Zoforu's prophecy has come to pass. To me, it was a cursed prophecy... But things are different now. So many people support me. They accept me as their emperor.<end>"
+
+["1920127"]
+japanese = "そして、あの人が…<line-break>私を闇から救ってくれたあの人が、<line-break>私を支えていてくれる…。<end>"
+english = "And then there's the one who saved me from the darkness... always there for me.<end>"
+
+["1920128"]
+japanese = "眠りにつこうとするとき、<line-break>今でも、ときどき恐くなる。<line-break>\u3000<line-break>朝、目を覚ましたとき、<line-break>また、あの闇が私を覆ってしまう<line-break>のではないか、って。<end>"
+english = "Even now, I sometimes feel afraid as I'm falling asleep. Afraid that when I wake in the morning, the darkness will have swallowed me again.<end>"
+
+["1920129"]
+japanese = "でも、もう大丈夫よね。<line-break>たとえ、闇にとらわれたとしても<line-break>私の騎士が救い出してくれるから。<line-break>私を絶望から救ってくれた<line-break><value:$28>が、いつも<line-break>そばにいてくれるのだから。<end>"
+english = "But I'll be all right now. Even if the darkness takes me, my knight will rescue me. <value:$28>, who saved me from despair, will always be by my side.<end>"
+
+["1920130"]
+japanese = "開いているわ。<line-break>入って。<end>"
+english = "It's open. Come in.<end>"
+
+["1920131"]
+japanese = "ふふふ。<line-break><value:$28>ったら。<line-break>\u3000<line-break>私の部屋で、そんなことは<line-break>しなくていいって、<line-break>言わなかったかしら？<end>"
+english = "Hee hee. Oh, <value:$28>. Didn't I tell you there was no need for that in my chambers?<end>"
+
+["1920132"]
+japanese = "さぁ、それでは、近衛将軍閣下。<line-break>私はこれから、帝都の巡察に<line-break>出かけます。<line-break>あなたには道中の護衛を命じます。<line-break>よろしいかしら？<end>"
+english = "Now then, Your Excellency, Commander of the Imperial Guard. I'm going out to inspect the imperial capital, and I order you to escort me while I'm out. Is that understood?<end>"
+
+["1920133"]
+japanese = "うふふ。<line-break>では、行きましょう。<line-break>私のナイトさん。<end>"
+english = "Hee hee. Then let us be off, my knight.<end>"
+
+["1920134"]
+japanese = "（<value:$28>。<line-break>\u3000あなたがいてくれれば、<line-break>\u3000私、大丈夫よね…。）<end>"
+english = "(<value:$28>... As long as you're here, I'll be all right, won't I?)<end>"
+
+["1920135"]
+japanese = "ふふ。なんでもないわ。<line-break>…ありがとう。<end>"
+english = "Hee hee. It's nothing... Thank you.<end>"
+
+["1920136"]
+japanese = "では、リベルダム、ロセンへの援助は<line-break>それぞれの要求通りの規模に<line-break>拡大する方針でよろしいですか？<end>"
+english = ""
+
+["1920137"]
+japanese = "ええ。そのように<line-break>取りはからってください。<end>"
+english = ""
+
+["1920138"]
+japanese = "かまいませんね、お母様？<end>"
+english = ""
+
+["1920139"]
+japanese = "援助のことは、そなたに任せている。<line-break>好きにするといい。<end>"
+english = ""
+
+["1920140"]
+japanese = "王妃も、こうおっしゃっておられます。<line-break>よろしく、頼みましたよ。<end>"
+english = ""
+
+["1920141"]
+japanese = "かしこまりました。<line-break>直ちに手配してまいります。<end>"
+english = ""
+
+["1920142"]
+japanese = "そなたも大胆なことをする。<line-break>財務官が青くなる様が目に浮かぶわ。<end>"
+english = ""
+
+["1920143"]
+japanese = "あら、お母様。リベルダム、ロセンには<line-break>今のうちに恩を売った方がいい<line-break>ということはご存じのはずですわ。<end>"
+english = ""
+
+["1920144"]
+japanese = "ふっ。そなたが、売った恩の<line-break>見返りを取り戻してくるなどとは<line-break>とうてい期待できぬがな。<end>"
+english = ""
+
+["1920145"]
+japanese = "国内の利益だけを見ていては、\u3000<line-break>これからのロストールは、<line-break>いや、この世界は治まらぬ。<line-break>そなたの思うようにするがいい。<end>"
+english = ""
+
+["1920146"]
+japanese = "お母様…。<end>"
+english = ""
+
+["1920147"]
+japanese = "そなたという後継者がいるおかげで、<line-break>このままでは私も、当分の間<line-break>この座から降りられぬわ。<line-break>そなたが、いずこかの<line-break>優秀な貴公子でも連れてくるなら<line-break>話は別だがな。<end>"
+english = ""
+
+["1920148"]
+japanese = "お、お母様！<end>"
+english = ""
+
+["1920149"]
+japanese = "フフ、案ずるな。<line-break>そなたを、私と同じ目に<line-break>あわせるつもりはない。<end>"
+english = ""
+
+["1920150"]
+japanese = "これからは、国内のことだけを<line-break>見ていてはダメ…。<line-break>\u3000<line-break>戦争で、それぞれの国の関係は<line-break>大きく変わってしまったもの。<line-break>\u3000<end>"
+english = ""
+
+["1920151"]
+japanese = "…いえ、もう国という考えに\u3000\u3000<line-break>縛られていては、いけない…<line-break>そんな気がする…。<line-break>こんなに大変な時代のこの国を<line-break>導く力が、ティアナにはあるの？<line-break>やっぱり、お母様の助けが…<end>"
+english = ""
+
+["1920152"]
+japanese = "ダメよ、ティアナ。<line-break>いつまでもお母様に頼っていては\u3000\u3000<line-break>女王になる資格なんてないわ。<line-break>お母様はお母様。私は私。<line-break>私に期待してくれる人たちのためにも<line-break>私は成長しなければならないわ。<end>"
+english = ""
+
+["1920153"]
+japanese = "でも、不安。…不安なの。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>ゼネテス様は旅に出てしまわれたし、<line-break>あの方も、しばらく会いに来て<line-break>くださらない。<end>"
+english = ""
+
+["1920154"]
+japanese = "どこに行ってしまわれたの…？<line-break>早く、会いたい…。<end>"
+english = ""
+
+["1920155"]
+japanese = "え？\u3000この音は…？<line-break>もしかすると…。<end>"
+english = ""
+
+["1920156"]
+japanese = "<value:$28>様！<end>"
+english = ""
+
+["1920157"]
+japanese = "ウフフ。<value:$28>様ったら<line-break>正面から入ってこられれば<line-break>よろしいのに…。<end>"
+english = ""
+
+["1920158"]
+japanese = "いえ、そんなことよりも、<line-break>どこに行ってらしたのです？\u3000\u3000\u3000\u3000<line-break>\u3000<line-break><value:$28>様が<line-break>しばらく会いに来てくださらないから<line-break>私、不安だったのですよ。<end>"
+english = ""
+
+["1920159"]
+japanese = "え？\u3000町はずれの湖に<line-break>渡り鳥の群が来ているのですか？<end>"
+english = ""
+
+["1920160"]
+japanese = "そ、そうなのですか。<line-break>でも、ティアナには…<end>"
+english = ""
+
+["1920161"]
+japanese = "<value:$28>様が<line-break>連れていってくださるのですか？<line-break>\u3000<line-break>うれしいのですけれど、<line-break>こんな時間に…。<end>"
+english = ""
+
+["1920162"]
+japanese = "…強引なのですね、<line-break><value:$28>様って。<line-break>\u3000<line-break>わかりました。それでは、<line-break>今すぐにティアナを<line-break>連れていってください。<end>"
+english = ""
+
+["1920163"]
+japanese = "ティアナは見てみたいのです。<line-break>あなたが心を動かされるものを、<line-break>あなたと一緒に見ていきたい。<line-break>これからも、ずっと…。<end>"
+english = ""
+
+["1920164"]
+japanese = "えと、誰にも気づかれなかったよね。<line-break>よかった。昨日のうちから<line-break>準備しておいて。<end>"
+english = ""
+
+["1920165"]
+japanese = "わたしの生まれた町。<line-break>わたしとカフィンとレイヴンと<line-break>そして、あの人とで、取り戻した町。<line-break>リベルダムやロストールみたいに<line-break>おっきくて、にぎやかじゃないけど、<line-break>わたしの大好きなオズワルド。<end>"
+english = ""
+
+["1920166"]
+japanese = "でも、みんな知らない。<line-break>カフィンとレイヴンが、命をかけて<line-break>ソウルを取り戻してくれたことを。<line-break>わたしだけが命の恩人で、<line-break>カフィンたちは記憶の外…。<line-break>そんなの、もう耐えられない。<end>"
+english = ""
+
+["1920167"]
+japanese = "急に旅に出るなんて<line-break>書き置きを見たら<line-break>びっくりするだろうな。<line-break>ごめんなさい、<line-break>お父様、お母様。<line-break>でも、わたしは…。<end>"
+english = ""
+
+["1920168"]
+japanese = "あ、<value:$28>さん。<line-break>おはようございます！<end>"
+english = ""
+
+["1920169"]
+japanese = "あ、あの、<value:$28>さん。<line-break>本当にわたし、旅に連れていって<line-break>もらっていいんですか？<line-break>その、わたし<line-break><value:$28>さんに<line-break>迷惑かけちゃうだろうし…。<end>"
+english = ""
+
+["1920170"]
+japanese = "いえ、あの、<line-break><value:$28>さんが誘ってくれて<line-break>とってもうれしいんです。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>カフィンもレイヴンも、<line-break><value:$28>さんと一緒だったら<line-break>安心して見守ってくれると思いますし。<end>"
+english = ""
+
+["1920171"]
+japanese = "だから、お父様とお母様にも内緒で<line-break>こうして出てきちゃったんです。<line-break>\u3000<line-break>その、本当にわたしなんかで<line-break>いいんでしたら、お願いします。<line-break>一緒に連れていってください！<end>"
+english = ""
+
+["1920172"]
+japanese = "わたし、がんばりますから！<end>"
+english = ""
+
+["1920173"]
+japanese = "…ええ。実はお父様とお母様の\u3000\u3000<line-break>ことは心残りなんです。<line-break>\u3000<line-break>でも、旅に出るって言っちゃったら<line-break>絶対ダメって言われるから…！<end>"
+english = ""
+
+["1920174"]
+japanese = "お、お父様…お母様。<end>"
+english = ""
+
+["1920175"]
+japanese = "あ、あの…その<line-break>これは…。<end>"
+english = ""
+
+["1920176"]
+japanese = "行ってきなさい、ノエル。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = ""
+
+["1920177"]
+japanese = "…え！？<end>"
+english = ""
+
+["1920178"]
+japanese = "お父様は行ってもいいって<line-break>おっしゃってるのよ、ノエル。<line-break>\u3000<end>"
+english = ""
+
+["1920179"]
+japanese = "でも…。<end>"
+english = ""
+
+["1920180"]
+japanese = "親を甘く見るものじゃないよ、ノエル。<line-break>お前がずっと、冒険の旅に出たがって<line-break>いるのはお見通しだ。<line-break>お前は、すぐに思っていることが<line-break>顔に出るからね。<line-break>\u3000<end>"
+english = ""
+
+["1920181"]
+japanese = "行ってきなさい、ノエル。<line-break>お前が信頼している<line-break>この方と一緒に。<end>"
+english = ""
+
+["1920182"]
+japanese = "<value:$28>さん、<line-break>娘をどうかお願いします。<end>"
+english = ""
+
+["1920183"]
+japanese = "これをもっていきなさい。\u3000\u3000<line-break><value:$28>さんと一緒に<line-break>大事に使うのよ。<end>"
+english = ""
+
+["1920184"]
+japanese = "こ、こんなにたくさん…。<end>"
+english = ""
+
+["1920185"]
+japanese = "そのかわり、これだけは約束しなさい。<line-break>必ず、私たちの元へ、帰ってくると。<line-break>\u3000<end>"
+english = ""
+
+["1920186"]
+japanese = "は、はい！<end>"
+english = ""
+
+["1920187"]
+japanese = "それでは、お父様、お母様。<line-break>行ってきます！<end>"
+english = ""
+
+["1920188"]
+japanese = "<value:$28>さん、<line-break>行きましょう！<end>"
+english = ""
+
+["1920189"]
+japanese = "天気も上々だし、<line-break>これだけ海が穏やかなら\u3000\u3000\u3000\u3000<line-break>問題なさそうね。<line-break>今日こそ、父さんが遺した財宝を<line-break>引き上げてみせるわ。<end>"
+english = "The weather's fine, and with the sea this calm, we shouldn't have any trouble. Today's the day we finally bring up the treasure Father left behind.<end>"
+
+["1920190"]
+japanese = "<value:$28>と一緒に<line-break>解読した父さんの暗号によると、<line-break>この辺りで目印が見つかるはず。<end>"
+english = "According to Father's code, the one <value:$28> and I deciphered together, we should find the marker somewhere around here.<end>"
+
+["1920191"]
+japanese = "あんたたち、<line-break>気合い入れて探すように<line-break>見張りの連中に言ってきな！<end>"
+english = "You lot, go tell the lookouts to keep their eyes peeled!<end>"
+
+["1920192"]
+japanese = "へい、おかしら！<line-break>直ちに！<line-break>\u3000<end>"
+english = "Aye, Captain! Right away!<end>"
+
+["1920193"]
+japanese = "ありがとう、<value:$28>。<line-break>あなたのおかげで、父さんの…<line-break>カンダカンの遺宝を見つけられそう。<end>"
+english = "Thank you, <value:$28>. Thanks to you, it looks like we'll find Father's... Kandakan's treasure.<end>"
+
+["1920194"]
+japanese = "ふふ、謙遜しなくていいのよ。<line-break>私だけじゃ、あの暗号を解くのは<line-break>無理だったから。<line-break>私には、父さんの思い出がつまった<line-break>首飾りを、うっかり地面に落とす<line-break>なんてこと、できなかったもの。<end>"
+english = "Heh, no need to be modest. I could never have deciphered that code alone. I couldn't very well have dropped the necklace with all my memories of Father on the ground by accident myself, could I?<end>"
+
+["1920195"]
+japanese = "冗談よ。気にしないで。<line-break>あの首飾り、しまったままで\u3000\u3000\u3000\u3000<line-break>忘れてたくらいだから。<line-break>父さんは肌身はなさず持ってろって<line-break>言ってたけど、私はあんな派手な<line-break>首飾りなんてする柄じゃないからね。<end>"
+english = "I'm joking. Don't worry about it. I'd left that necklace tucked away and practically forgotten about it. Father told me to keep it with me at all times, but I'm not the sort to wear anything that gaudy.<end>"
+
+["1920196"]
+japanese = "<value:$28>が見つけて<line-break>なかったら、中に隠されてた<line-break>暗号文ごと箱の中で眠っていたわ。<end>"
+english = "If <value:$28> hadn't found it, it would still be lying in that box, along with the coded message hidden inside.<end>"
+
+["1920197"]
+japanese = "本当は私、<line-break>遺宝なんてどうでもいいのよ。<line-break>…ちょっとは興味あるけどね。<line-break>でも、私は何より、あなたが<line-break>私のところに来てくれたことが<line-break>一番うれしいの。<end>"
+english = "To tell the truth, I don't really care about the treasure. Well... I am a little curious. But more than anything, I'm glad you came to me.<end>"
+
+["1920198"]
+japanese = "あなたには言ってあるわよね。<line-break>私はずっと求めていた。<line-break>疲れたとき、そっと寄りかかれる人。<line-break>くじけそうになったとき<line-break>私のことを励ましてくれる人。<line-break>父さんみたいな人…。<end>"
+english = "I've told you before, haven't I? I've always wanted someone I could lean on when I was tired. Someone who would encourage me when I felt I couldn't go on. Someone like Father...<end>"
+
+["1920199"]
+japanese = "年下のあなたに、<line-break>こんなことを言うなんて、<line-break>弱い女だと思うかもしれないけど、<line-break>これが、偽りのない私。<line-break>あなたにだけ見せられる本当の私。<line-break>\u3000<end>"
+english = "You might think me a weak woman for saying this to someone younger than I am, but this is who I truly am―the real me I can show only to you.<end>"
+
+["1920200"]
+japanese = "私にここまで言わせたんだから、<line-break><value:$28>、これからもずっと<line-break>私と一緒に海に出てくれるわよね？<end>"
+english = "After making me say all that, <value:$28>, you'll keep sailing with me from now on, won't you?<end>"
+
+["1920201"]
+japanese = "ふふ、ありがとう。<line-break>頼りにしてるから<line-break>覚悟してね。<end>"
+english = "Heh, thank you. I'm counting on you, so you'd better be ready.<end>"
+
+["1920202"]
+japanese = "おかしら！\u3000見えましたぜ！\u3000\u3000<line-break>暗号にあったとおりです。<line-break>\u3000<line-break>太陽の光が海面に妙に強く<line-break>反射しているところがあります。<end>"
+english = "Captain! There it is! Just like the code said. The sunlight's reflecting unusually brightly off one spot on the water.<end>"
+
+["1920203"]
+japanese = "よくやったね。<line-break>暗号によると、海面が光ってるのは<line-break>そんなに長い時間じゃないよ。<line-break>すぐに財宝を引き上げる<line-break>準備にかかりな！<end>"
+english = "Good work. According to the code, the water won't shine for long. Start preparing to haul up the treasure, now!<end>"
+
+["1920204"]
+japanese = "へい、おかしら！<line-break>\u3000<line-break>\u3000<end>"
+english = "Aye, Captain!<end>"
+
+["1920205"]
+japanese = "それじゃあ、<value:$28>。<line-break>父さんの遺宝にご対面といこうか！<end>"
+english = "Well then, <value:$28>. Let's go see Father's treasure for ourselves!<end>"
+
+["1920206"]
+japanese = "ちょっと、待ちなさいよ<line-break><value:$28>！<end>"
+english = "Wait just a moment, <value:$28>!<end>"
+
+["1920207"]
+japanese = "このアタクシに何も言わずに<line-break>出ていくなんて、あなたに<line-break>許されていると思っていて？<end>"
+english = "Do you really think you can leave without saying a word to me?<end>"
+
+["1920208"]
+japanese = "約束は果たした、ですって？<line-break>世界は驚きに満ちていることが\u3000\u3000\u3000<line-break>わかってもらえてよかった？<line-break>この程度ではまだまだ足りなくてよ。<line-break>アタクシのように博識のエルフは<line-break>これぐらいのことでは驚けないわ。<end>"
+english = "You say you've kept your promise? Glad you've shown me that the world's full of surprises, are you? This is nowhere near enough. An Elf as knowledgeable as I am can't be surprised by something like this.<end>"
+
+["1920209"]
+japanese = "納得するまで、ついて行くわよ！<line-break>たかが数十年の冒険につきあうくらい<line-break>エルフのアタクシにはなんでもないわ！<end>"
+english = "I'm coming with you until I'm satisfied! A mere few decades of adventure are nothing to an Elf like me!<end>"
+
+["1920210"]
+japanese = "まあ、今度のことで、<line-break>アタクシも少しは<line-break>下等生物のことを見直した…<end>"
+english = "Well, after all this, perhaps I've gained a little respect for lesser creatures...<end>"
+
+["1920211"]
+japanese = "…なんてワケがないでしょ！<line-break>やっぱり下等生物は下等生物だったわ。<line-break>救いようがないったら、ありゃしない。<line-break>だから、もうしばらくアタクシがそばに<line-break>いてあげてよ。アタクシのありあまる<line-break>慈愛の精神に感謝なさい！<end>"
+english = "As if! Lesser creatures are still lesser creatures. You're utterly beyond saving. So I shall graciously remain by your side a little longer. Be grateful for my boundless compassion!<end>"
+
+["1920212"]
+japanese = "それでは、行くわよ、<line-break><value:$28>！<end>"
+english = "Now then, let's be off, <value:$28>!<end>"
+
+["1920213"]
+japanese = "何？<line-break>何か言ったかしら、<line-break><value:$28>？<end>"
+english = "What? Did you say something, <value:$28>?<end>"
+
+["1920214"]
+japanese = "あ、こら、<value:$28>！<line-break>アタクシの断りなしに先に行くのは<line-break>許さなくてよーーーーーーーーー！<end>"
+english = "Hey! <value:$28>! You are not going on ahead without my permissioooooon!<end>"
+
+["1920215"]
+japanese = "そしてね、それから…。<end>"
+english = "And then, after that...<end>"
+
+["1920216"]
+japanese = "もう、聞いてるの？\u3000旅の最中<line-break>何があったのか話してくれって<line-break>頼んだのは、そっちでしょお。<end>"
+english = "Come on, are you even listening? You're the one who asked me to tell you what happened on the journey!<end>"
+
+["1920217"]
+japanese = "<value:$28>。<line-break>これから、どうするつもりですか？<line-break>\u3000<line-break>どこかでのんびりと暮らすのなら<line-break>転送機で送ってあげますが。<end>"
+english = "<value:$28>. What do you intend to do now? If you'd like to settle down somewhere and take life easy, I can teleport you there.<end>"
+
+["1920218"]
+japanese = "そう言えば、あなたは旅の商人の<line-break>子供でしたね。腰を落ち着けるのは<line-break>性に合わないかもしれません。<line-break>でも、かと言って<line-break>お父さんのように旅の商人に<line-break>なることも難しいですかね。<end>"
+english = "Come to think of it, you're a traveling merchant's child, aren't you? Settling down may not be in your nature. Then again, becoming a traveling merchant like your father may not be so easy either.<end>"
+
+["1920219"]
+japanese = "今のあなたは、お父さんと旅を<line-break>続けていたころと比べると別人のように<line-break>変わってしまったでしょうし。<line-break>ある意味でそれが<line-break>無限のソウルを持つことの代償です。<end>"
+english = "After all, you're practically a different person now from who you were when you traveled with your father. In a sense, that's the price of having the Infinite Soul.<end>"
+
+["1920220"]
+japanese = "<value:$28>は<line-break>全然変わってないよ！<end>"
+english = "<value:$28> hasn't changed at all!<end>"
+
+["1920221"]
+japanese = "<value:$28>は<line-break><value:$28>だもん。\u3000\u3000<line-break>\u3000<line-break>私の大好きな<line-break><value:$28>のままだよ。<end>"
+english = "<value:$28> is still <value:$28>. Still the <value:$28> I love so much.<end>"
+
+["1920222"]
+japanese = "そうですね。ルルアンタ、<line-break>あなたの言うとおりです。<end>"
+english = "Yes. You're right, Lulluantha.<end>"
+
+["1920223"]
+japanese = "以前と変わらず接してくれる<line-break>ルルアンタが、どれほど貴重な存在か…<line-break>あなたにはわかっていますよね。<end>"
+english = "You do understand how precious it is to have Lulluantha treat you just as she always has, don't you?<end>"
+
+["1920224"]
+japanese = "くすっ。年を取ると、話し方が<line-break>ついお説教っぽくなりがちですね。<line-break>許してください。<line-break>で、さきほどの話ですが、<line-break>これから、どうするつもりですか？<end>"
+english = "Heh. Age does have a way of making one sound rather preachy. Forgive me. Now, back to what we were discussing: what do you intend to do?<end>"
+
+["1920225"]
+japanese = "また旅に出るのですか？<line-break>それは、いいですね。<end>"
+english = "You're setting out on another journey? That sounds splendid.<end>"
+
+["1920226"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["1920227"]
+japanese = "えっ、ルルアンタのこと、<line-break>連れてってくれるの？<end>"
+english = "What? You'll take Lulluantha with you?<end>"
+
+["1920228"]
+japanese = "また<value:$28>と一緒に<line-break>旅ができるなんて、うれしい！<end>"
+english = "I'm so happy I get to travel with <value:$28> again!<end>"
+
+["1920229"]
+japanese = "ルルアンタは、これからも<line-break><value:$28>に、<line-break>ありったけの笑顔をあげるから。<line-break>だから、ずっと一緒にいようね。<end>"
+english = "From now on, Lulluantha will give <value:$28> every smile she has. So let's stay together forever, all right?<end>"
+
+["1920230"]
+japanese = "ふふっ、<line-break>時々は、ここにも顔を見せに<line-break>寄ってくださいね。<end>"
+english = "Heh. Do stop by and show your faces here from time to time.<end>"
+
+["1920231"]
+japanese = "その時は、ぶさいくなネコちゃんにも<line-break>ちゃんとお土産、持ってくるね。<end>"
+english = "And when we do, I'll be sure to bring that ugly little kitty a present.<end>"
+
+["1920232"]
+japanese = "では、ふたりの新たな旅立ちを祝して。<line-break>手始めに、まずどこに<line-break>転送しましょうか？<end>"
+english = "Then, in celebration of the two of you setting out on a new journey, where shall I teleport you first?<end>"
+
+["1920233"]
+japanese = "<value:$28>さーん！<end>"
+english = "<value:$28>!<end>"
+
+["1920234"]
+japanese = "よかった。<line-break><value:$28>さんと<line-break>すぐに会うことができて。<line-break>あの、実は大変なことに<line-break>なってしまって。<line-break>話を聞いてもらえますか？<end>"
+english = "Thank goodness I found you so quickly, <value:$28>. Um, something terrible has happened. Would you hear me out?<end>"
+
+["1920235"]
+japanese = "今日起きてみたら<line-break>こんな手紙が置いてあって…。<line-break>読んでみてください。<end>"
+english = "When I woke up today, I found this letter waiting for me... Please read it.<end>"
+
+["1920236"]
+japanese = "\u3000\u3000\u3000\u3000ノエル、あたしとレイヴンは\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000このあたりで、あなたと<line-break>\u3000\u3000\u3000\u3000別行動を取ることにしたわ。<line-break>\u3000<end>"
+english = "Noel, Raven and I have decided that this is where we'll part ways with you.<end>"
+
+["1920237"]
+japanese = "\u3000\u3000\u3000\u3000いつまでも、あなたと一緒に\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000いては、お互いのために<line-break>\u3000\u3000\u3000\u3000\u3000\u3000よくないと思うの。<line-break>\u3000<end>"
+english = "I don't think it would be good for any of us to stay together indefinitely.<end>"
+
+["1920238"]
+japanese = "\u3000\u3000\u3000\u3000ナーシェスもいなくなって、\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000パーティーを解散するのに<line-break>\u3000\u3000\u3000今がちょうどいい頃合いでしょ？<line-break>\u3000<end>"
+english = "Now that Narscess is gone too, this seems like the right time to disband the party, don't you think?<end>"
+
+["1920239"]
+japanese = "\u3000\u3000\u3000\u3000\u3000そうそう、偶然だけど、\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000同じ宿に<value:$28>が<line-break>\u3000\u3000\u3000\u3000\u3000\u3000泊まっているみたいよ。<line-break>\u3000\u3000\u3000\u3000一度、話してみたらどうかしら。<end>"
+english = "Oh, by the way, it seems <value:$28> happens to be staying at the same inn. Why don't you have a word?<end>"
+
+["1920240"]
+japanese = "空<end>"
+english = ""
+
+["1920241"]
+japanese = "\u3000\u3000\u3000もしかしたら、一緒に冒険の旅に<line-break>\u3000\u3000連れていってくれるかもしれないわね。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000それじゃ、またね。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000カフィンより\u3000<end>"
+english = "Maybe you'll take me along on an adventure. Well, see you again. From Coffin<end>"
+
+["1920242"]
+japanese = "あの、わたし、どうして<line-break>こんな事になってしまったのか\u3000\u3000<line-break>全然わからなくって…。<line-break>最初にいなくなっちゃったのは<line-break>ナーシェスなんです。わたしたちの<line-break>役目は終わったとか言って…。<end>"
+english = "I... I don't understand how any of this happened. Narscess was the first to leave. He said something about our work being done...<end>"
+
+["1920243"]
+japanese = "それで、今朝起きてみたら<line-break>今度はカフィンもレイヴンも<line-break>いなかったんです。<end>"
+english = "Then I woke up this morning, and Coffin and Raven were gone too.<end>"
+
+["1920244"]
+japanese = "どうしてなんだろう…。<line-break>やっぱり、わたしがドジだから<line-break>みんな嫌いになっちゃったのかな…。<line-break>わたし、これから<line-break>どうしたらいいんだろう…。<end>"
+english = "Why would they leave...? Maybe they all hate me because I'm so clumsy. What am I going to do now...?<end>"
+
+["1920245"]
+japanese = "え？\u3000わたしを<line-break>連れていってくれるんですか？<end>"
+english = "What? You'll take me with you?<end>"
+
+["1920246"]
+japanese = "…で、でも、いいんですか？<line-break>わたし、<value:$28>さんに<line-break>迷惑をかけちゃうかも…。<end>"
+english = "B-but are you sure? I might only be a burden to you, <value:$28>...<end>"
+
+["1920247"]
+japanese = "え、いえ、その、嫌じゃないですよ！<line-break>すっごく、嬉しいんです。<line-break>嬉しいんですけど…<line-break>本当に、わたしが一緒で<line-break>いいんですか？<end>"
+english = "Oh, no, it's not that I don't want to! I'm so happy. I really am, but... are you sure you want me to come?<end>"
+
+["1920248"]
+japanese = "そ、それでは、<line-break>お言葉に甘えさせて<line-break>もらっちゃおうかな…。\u3000\u3000\u3000\u3000\u3000<line-break>わたしがもっとしっかりするように<line-break>なれば、カフィンもレイヴンも<line-break>また会ってくれるかもしれないし。<end>"
+english = "W-well then, maybe I will take you up on your offer... And if I can learn to be more dependable, maybe Coffin and Raven will want to see me again.<end>"
+
+["1920249"]
+japanese = "<value:$28>さん、<line-break>わたし、一生懸命がんばりますから<line-break>これから、よろしくお願いします！<end>"
+english = "I'll do my very best, <value:$28>. I hope we'll get along!<end>"
+
+["1920250"]
+japanese = "…なんだか、夢みたいです。<line-break>憧れの<value:$28>さんと一緒に<line-break>冒険の旅ができるなんて…。<end>"
+english = "It almost feels like a dream. I can't believe I get to go adventuring with someone I've always admired, <value:$28>...<end>"
+
+["1920251"]
+japanese = "それでは、行きましょうか、<line-break><value:$28>さん！<end>"
+english = "Well then, shall we be on our way, <value:$28>?<end>"
+
+["1920252"]
+japanese = "行ってしまったな。<end>"
+english = "She's gone.<end>"
+
+["1920253"]
+japanese = "何よ、未練でもあるの？\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>ノエルと<value:$28>を<line-break>くっつけるっていう、あたしの<line-break>計画に賛成だったんじゃないの？<end>"
+english = "What, having second thoughts? I thought you agreed with my plan to get Noel and <value:$28> together.<end>"
+
+["1920254"]
+japanese = "反対ではない。<line-break>それが、ノエルのためだと\u3000<line-break>思うからな。<line-break>お前の方こそ、<line-break>いつまでもノエルと一緒に<line-break>いたかったのではないのか？<end>"
+english = "I wasn't opposed. I believe it's best for Noel. But weren't you the one who wanted to stay with her forever?<end>"
+
+["1920255"]
+japanese = "ま、あの子のそばにいると<line-break>目が離せないのは確かだけどね。\u3000\u3000\u3000<line-break>\u3000<line-break>でも、あたしだってまだ若いんだから、<line-break>いつまでも子守ばかりしてられないわ。<line-break>ここらが潮時なのよ。<end>"
+english = "Well, it's true you can't take your eyes off that girl for a moment. But I'm still young too. I can't spend forever looking after her. It was time.<end>"
+
+["1920256"]
+japanese = "どう？\u3000ひとり者どうし、<line-break>しばらく、ふたりで旅を続けてみる？<end>"
+english = "So, what do you say? We're both unattached. Want to travel together for a while?<end>"
+
+["1920257"]
+japanese = "…遠慮する。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>俺にも、俺の人生を<line-break>自由に生きる権利がある。<end>"
+english = "No, thank you. I have the right to live my own life as I please.<end>"
+
+["1920258"]
+japanese = "なによ！\u3000失礼ね！<line-break>あとで、後悔しても知らないわよ！<end>"
+english = "What! How rude! Don't come crying to me when you regret it!<end>"
+
+["1920259"]
+japanese = "待ちなさい！<line-break>ちょっとは振り返ったりしなさいよ！<end>"
+english = "Wait! You could at least look back at me!<end>"
+
+["1920260"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ２８ですよ<end>"
+english = ""
+
+["1920261"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ２９ですよ<end>"
+english = ""
+
+["1920262"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ３０ですよ<end>"
+english = ""
+
+["1920263"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ３１ですよ<end>"
+english = ""
+
+["1920264"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ３２ですよ<end>"
+english = ""
+
+["1920265"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ３３ですよ<end>"
+english = ""
+
+["1920266"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ３４ですよ<end>"
+english = ""
+
+["1920267"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ３５ですよ<end>"
+english = ""
+
+["1920268"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ３６ですよ<end>"
+english = ""
+
+["1920269"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ３７ですよ<end>"
+english = ""
+
+["1920270"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ３８ですよ<end>"
+english = ""
+
+["1920271"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ３９ですよ<end>"
+english = ""
+
+["1920272"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ４０ですよ<end>"
+english = ""
+
+["1920273"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ４１ですよ<end>"
+english = ""
+
+["1920274"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ４２ですよ<end>"
+english = ""
+
+["1920275"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ４３ですよ<end>"
+english = ""
+
+["1920276"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ４４ですよ<end>"
+english = ""
+
+["1920277"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ４５ですよ<end>"
+english = ""
+
+["1920278"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ４６ですよ<end>"
+english = ""
+
+["1920279"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ４７ですよ<end>"
+english = ""
+
+["1920280"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ４８ですよ<end>"
+english = ""
+
+["1920281"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ４９ですよ<end>"
+english = ""
+
+["1920282"]
+japanese = "ＥｖＥＮＤ<line-break>予備メッセージ５０ですよ<end>"
+english = ""
+
+["1920283"]
+japanese = "ＺｉｌｌＯ’ｌｌ\u3000エンディングメッセージ終端<end>"
+english = ""

@@ -1,0 +1,453 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1050000"]
+japanese = "クリュセイスメッセージＶ３－２用開始<end>"
+english = ""
+
+["1050001"]
+japanese = "例の件ですが…。<end>"
+english = "About that matter...<end>"
+
+["1050002"]
+japanese = "暗殺者がアンティノおじさまの\u3000\u3000<line-break>手の者じゃないかという件…。<line-break>\u3000<line-break>今から、アンティノおじさまの所へ<line-break>行って話をうかがってくるわ。<line-break>そうすれば解決することだもの。<end>"
+english = "You mean the possibility that the assassin was one of Uncle Antino's people... I'm going to see him now and ask him about it. That should settle the matter.<end>"
+
+["1050003"]
+japanese = "解放軍の有力者であるおじさまが<line-break>疑われていては、不都合ですからね。<line-break>\u3000<line-break>言っておきますけど、あなたの言葉を<line-break>鵜呑みにしたわけじゃなくてよ。<line-break>そこのところ、理解してほしいわ。<end>"
+english = "It would hardly do for my uncle, a leading figure in the Liberation Army, to remain under suspicion. But let me make one thing clear: I haven't simply taken your word for it. I hope you understand that.<end>"
+
+["1050004"]
+japanese = "い、一応、理解していただけたようね。<line-break>それじゃ、アンティノおじさまの<line-break>屋敷へ向かいましょう。<end>"
+english = "I-it seems you've understood, at least. Then let us go to Uncle Antino's estate.<end>"
+
+["1050005"]
+japanese = "アンティノおじさま、<line-break>突然、お訪ねして、すみません。<line-break>ひとつお尋ねしたいことがあって…。<end>"
+english = "Uncle Antino, forgive me for coming without warning. There's something I would like to ask you...<end>"
+
+["1050006"]
+japanese = "なんでも答えよう。<line-break>お前は我が親友ロティの娘だからな。<line-break>どうしたのだ、クリュセイス？<end>"
+english = "Ask me anything. You are the daughter of my dear friend Lottie, after all. What is it, Khryuseis?<end>"
+
+["1050007"]
+japanese = "…おじさま。<line-break>先日、わたくしは何者かに\u3000<line-break>命を狙われました。<line-break>幸いにも<value:$28>が<line-break>かけつけてくれたので、<line-break>無事でしたが…。<end>"
+english = "Uncle... Someone tried to kill me the other day. Fortunately, <value:$28> came to my aid, so I escaped unharmed, but...<end>"
+
+["1050008"]
+japanese = "そうか、<value:$28>が<line-break>助けたのか…。<end>"
+english = "So <value:$28> saved you...<end>"
+
+["1050009"]
+japanese = "その暗殺者ですが、<line-break>同志のひとりが、おじさまの屋敷で<line-break>見たことのある人物だと言うのです。<line-break>これは、どういうことなのでしょう。<line-break>おじさま、何かおっしゃってください。<line-break>このままでは…<end>"
+english = "The assassin is someone one of our comrades has seen before at your estate. What am I to make of that? Uncle, please say something. At this rate...<end>"
+
+["1050010"]
+japanese = "…うっとうしかったのだ。<end>"
+english = "I was sick of it.<end>"
+
+["1050011"]
+japanese = "え？\u3000今、なんて…<end>"
+english = "What? What did you just say...?<end>"
+
+["1050012"]
+japanese = "うっとうしかったと言っているのだよ、<line-break>クリュセイス。<line-break>\u3000<line-break>ロティの奴が…、<line-break>そして、お前もな！<end>"
+english = "I said I was sick of you, Khryuseis. Lottie... and you too!<end>"
+
+["1050013"]
+japanese = "ど、どういうこと…。<end>"
+english = "Wh-what do you mean...?<end>"
+
+["1050014"]
+japanese = "まだ、気づかんのか。<line-break>ロティを殺したのはこの俺だと<line-break>言っているんだよ！<end>"
+english = "You still haven't realized? I'm telling you that I killed Lottie!<end>"
+
+["1050015"]
+japanese = "そ、そんなことはありえません。<line-break>だって、おじさまは…。<end>"
+english = "Th-that can't be true. You were...<end>"
+
+["1050016"]
+japanese = "ああ、お前の親父の親友だったさ。\u3000\u3000<line-break>そのおかげで、さんざん<line-break>苦い思いをさせてもらった。<line-break>外面がよく、人気取りがうまい。<line-break>同じことをやっていても奴は讃えられ<line-break>俺はあいつの分まで非難された。<end>"
+english = "Oh, yes. I was your father's close friend. And I suffered no end of bitterness for it. He knew how to charm people, how to win their favor. We could do the very same thing, and he would be praised while I took the blame for both of us.<end>"
+
+["1050017"]
+japanese = "いいかげんにあいつのそばに<line-break>いるのにがまんできなくなってな。\u3000\u3000<line-break>…だから、殺してやったのだ。<line-break>俺はようやくあいつに勝ったと思った。<line-break>あいつの呪縛から逃れたと思った。<line-break>ところが今度はお前だ。クリュセイス！<end>"
+english = "In the end, I could no longer bear to be near him. So I killed him. At last, I thought I had beaten him. I thought I had escaped his hold over me. But then you came along, Khryuseis!<end>"
+
+["1050018"]
+japanese = "お前はロティの奴と<line-break>外面のよさから何までそっくりだ。<line-break>おまけに最近は小賢しくなってきて…<line-break>ついには、俺をここまで追いつめた！<line-break>…これ以上は放っておけんのでな、<line-break>お前にも消えてもらおうと思っている。<end>"
+english = "You're exactly like Lottie, right down to how good you are at making yourself look good. And lately you've become too clever by half... You've finally driven me into a corner! I can't leave you be any longer. So I've decided you'll have to disappear too.<end>"
+
+["1050019"]
+japanese = "クックック。お前も相変わらず<line-break>度し難いバカだな、<value:$28>。<line-break>お前はその女に何をされたか知らんのだ。<end>"
+english = "Heh heh heh. You're still as hopeless a fool as ever, <value:$28>. You have no idea what that woman did to you.<end>"
+
+["1050020"]
+japanese = "お前が失敗したギルドの仕事。<line-break>あれはなぁ、クリュセイスが<line-break>お前をハメるために仕組んだのだよ。<line-break>そうして、お前の身柄を拘束し、<line-break>闘技場の戦いで<line-break>お前を始末しようとしたのだ。<end>"
+english = "That Guild job you failed―Khryuseis arranged the whole thing to entrap you. She meant to have you taken into custody, then dispose of you in the arena.<end>"
+
+["1050021"]
+japanese = "どうだ、<value:$28>。<line-break>事実を知ってもなお、命を懸けて<line-break>守るほどの女か、そいつは？<end>"
+english = "Well, <value:$28>? Now that you know the truth, is she still worth risking your life to protect?<end>"
+
+["1050022"]
+japanese = "そんなことはどうでもいい<end>"
+english = "That doesn't matter.<end>"
+
+["1050023"]
+japanese = "………………<end>"
+english = "...<end>"
+
+["1050024"]
+japanese = "はっはっは。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>そうだよな。迷うよなぁ。<line-break>\u3000<line-break>だがな、事実を知られたからには、<line-break>お前も生かしておくわけには<line-break>いかんのだよ！<end>"
+english = "Ha ha ha! I understand. It's a difficult choice. But now that you know the truth, I can't very well let you live!<end>"
+
+["1050025"]
+japanese = "まもなくディンガル軍が<line-break>リベルダム市内にやってくる。<end>"
+english = "The Dingal Army will enter Liberdam shortly.<end>"
+
+["1050026"]
+japanese = "クックック。<line-break>もう、町の門が開いているころだ。<line-break>ディンガル軍が入ってこれるようにな。<line-break>見返りに、リベルダム市街には一切<line-break>手をつけないこと、そして、俺が<line-break>ここの総督になることが決まっている。<end>"
+english = "Heh heh heh. The city gates should be open by now, allowing the Dingal Army to march in. In return, Liberdam itself will be left completely untouched, and I'll be made governor here.<end>"
+
+["1050027"]
+japanese = "どうやら、俺の勝ちだな。<line-break>\u3000<line-break>\u3000<line-break>さぁ、こいつらを<line-break>引っとらえてくれ！<end>"
+english = "It seems I've won. Now, seize them!<end>"
+
+["1050028"]
+japanese = "アンティノ・マモン！<line-break>貴様を逮捕する！<end>"
+english = "Antino Mamon! You are under arrest!<end>"
+
+["1050029"]
+japanese = "ば、バカな！\u3000カルラは<line-break>俺の身柄を保障すると…。<end>"
+english = "I-impossible! Karula promised I would be safe...<end>"
+
+["1050030"]
+japanese = "聞いておらんな。<line-break>ただ、逮捕しろと命令されただけだ。<line-break>\u3000<end>"
+english = "I heard nothing about that. My orders were simply to arrest you.<end>"
+
+["1050031"]
+japanese = "くっ、カルラめ！<line-break>だましおったな！<end>"
+english = "Damn you, Karula! You tricked me!<end>"
+
+["1050032"]
+japanese = "<if><value:$01><equal>13…こんな所にいたか。 <end><if><value:$01><equal>6あ、<value:$28>、<line-break>ここにいたんだ！ <end><if><value:$01><equal>5<value:$28>、<line-break>ここにいたのか。<line-break>早く逃げないとやばいぜ！ <end><if><value:$01><equal>10大変だ、姉ちゃん。<line-break>ディンガル軍が攻めてきたぞ！！<line-break>早く脱出するんだ！ <end><if><value:$01><equal>15あ、<value:$28>、<line-break>ここにいたんだ！ <end><if><value:$01><equal>19<value:$28>、大変だよぉ！<line-break>ディンガル軍の兵士が大勢<line-break>町に入って来ちゃったよぉ。 <end><if><value:$01><equal>22大変だよ、<value:$28>！<line-break>ディンガル軍が攻め込んできたんだ。<line-break>町はもう大騒ぎだよ！ <end><if><value:$01><equal>14<value:$28>！<line-break>カルラ軍が入り込んできおった。 <end><if><value:$01><equal>17キャー！\u3000戦争よぉ！\u3000戦争！<line-break>ディンガル兵がなだれ込んできたわ！<line-break>下等生物が殺し合ってるわー！<line-break>なんで下等生物のこんな愚かな戦争に<line-break>この高貴なエルフであるアタクシが<line-break>巻き込まれないといけないのよー！ <end><if><value:$01><equal>11ここにいたのね。<line-break><value:$28>。<end><if><value:$01><equal>26<value:$28>！<line-break>ここにおったか！<end><value:$28>ったら、<line-break>こんな所で、ディンガルの兵隊を<line-break>のしちゃってる。<line-break><value:$28>ってば、<line-break>もめごとを起こす天才かも！ <end>"
+english = "<if><value:$01><equal>13...So this is where you were.<end><if><value:$01><equal>6Oh, <value:$28>! There you are!<end><if><value:$01><equal>5<value:$28>, there you are. We've got to get out of here, fast!<end><if><value:$01><equal>10We're in trouble, sis! The Dingal Army is attacking! We have to get out of here!<end><if><value:$01><equal>15Oh, <value:$28>! There you are!<end><if><value:$01><equal>19<value:$28>, this is terrible! The city's full of Dingal soldiers!<end><if><value:$01><equal>22<value:$28>, we're in trouble! The Dingal Army has invaded. The whole city is in an uproar!<end><if><value:$01><equal>14<value:$28>! Karula's Army has infiltrated the city!<end><if><value:$01><equal>17Eek! War! It's war! Dingal soldiers are pouring into the city! The lesser creatures are slaughtering each other! Why must I, a noble Elf, be dragged into such a foolish war between inferior beings?<end><if><value:$01><equal>11There you are, <value:$28>.<end><if><value:$01><equal>26<value:$28>! So this is where you were!<end>Look at <value:$28>, beating up Dingal soldiers in a place like this. <value:$28> might just be a genius at finding trouble!<end>"
+
+["1050033"]
+japanese = "<if><value:$01><equal>13…ディンガル軍が来る。<line-break>早く脱出するぞ。 <end><if><value:$01><equal>6大変だよ、<value:$28>！<line-break>ディンガル軍が門を突破して<line-break>押し寄せてきたんだ。<line-break>とにかく、<line-break>今は早く逃げないと！ <end><if><value:$01><equal>5ディンガル軍が入ってきやがった。<line-break>さっさと、<line-break>こんな所からずらかろうぜ！ <end><if><value:$01><equal>10姉ちゃん、くやしいけど、<line-break>今は撤退しよう。<line-break>カルラめ、あとで見てろよ！ <end><if><value:$01><equal>15大変だよ。<line-break>ディンガル軍が押し寄せてくる。<line-break>早く逃げないと。 <end><if><value:$01><equal>19急いで、急いで！<line-break>早く逃げないと、<line-break>カルラに捕まっちゃうよぉ！ <end><if><value:$01><equal>22急いで急いで！<line-break>早くしないと捕まっちゃうよ！ <end><if><value:$01><equal>14何をしておる！<line-break>ぐずぐずしとると<line-break>捕まってしまうぞ。 <end><if><value:$01><equal>17もうイヤ！\u3000もうイヤ！\u3000もぉうイヤ！<line-break>こんな所、さっさと逃げるのよー！<line-break><value:$28>！！ <end><if><value:$01><equal>11ディンガル軍が押し寄せてきたわ。<line-break>早く脱出しましょう。 <end><if><value:$01><equal>26大変じゃ！<line-break>ディンガル軍が入ってきおった！<line-break>早く逃げるのじゃ！<end>うふふっ、<value:$28>、<line-break>やっちゃったね。<line-break>早く、ここから離れないとね。 <end>"
+english = "<if><value:$01><equal>13...The Dingal Army is coming. We're getting out of here, now.<end><if><value:$01><equal>6<value:$28>, this is terrible! The Dingal Army has broken through the gates and is pouring in. Right now, we just have to run!<end><if><value:$01><equal>5The Dingal Army's gotten in. Let's get the hell out of here!<end><if><value:$01><equal>10Sis, I hate to retreat, but we have to. Karula, just you wait!<end><if><value:$01><equal>15This is bad. The Dingal Army is closing in. We need to run.<end><if><value:$01><equal>19Hurry, hurry! If we don't get away, Karula will catch us!<end><if><value:$01><equal>22Hurry, hurry! If we don't move, we'll be caught!<end><if><value:$01><equal>14What are you doing? Keep dawdling and you'll be captured!<end><if><value:$01><equal>17I can't stand it! I can't stand it! I can't stand it anymore! We're getting out of this place right now, <value:$28>!<end><if><value:$01><equal>11The Dingal Army is closing in. Let's get out of here quickly.<end><if><value:$01><equal>26This is terrible! The Dingal Army has entered the city! We must flee at once!<end>Hee hee, <value:$28>, you've really done it now. We'd better get away from here, quickly.<end>"
+
+["1050034"]
+japanese = "わ、わたくし…。<end>"
+english = "I-I...<end>"
+
+["1050035"]
+japanese = "この辺りはリベルダムの有力者の家だ。<line-break>全員逮捕しろ！\u3000ひとりも逃がすな。<line-break>抵抗するようなら殺せ！<end>"
+english = "These houses belong to Liberdam's leading citizens. Arrest everyone! Don't let a single one escape. Kill anyone who resists!<end>"
+
+["1050036"]
+japanese = "…このままここにいては、<line-break>捕まるのも時間の問題…。<line-break>\u3000<line-break>仕方ありません。<line-break>フゴーを頼りましょう。<end>"
+english = "...If we remain here, it's only a matter of time before we're caught. We have no choice. We'll have to ask Hugo for help.<end>"
+
+["1050037"]
+japanese = "さあ、早く！<end>"
+english = "Hurry!<end>"
+
+["1050038"]
+japanese = "ふむ…、なるほど。<line-break>リベルダムを脱出させてほしいと。<end>"
+english = "Hmm... I understand. You want our help escaping Liberdam.<end>"
+
+["1050039"]
+japanese = "ディンガル軍もあなた方には\u3000\u3000\u3000\u3000\u3000<line-break>手を出せないはず。<line-break>\u3000<line-break>リベルダムを脱出して、<line-break>解放軍本部まで送り届けてもらえれば、<line-break>それで十分です。<end>"
+english = "Even the Dingal Army should be unable to lay a hand on you. All we ask is that you help us escape Liberdam and see us safely to Liberation Army Headquarters.<end>"
+
+["1050040"]
+japanese = "その後の我々の活動にまでは<line-break>助力を求めません。<end>"
+english = "We won't ask you to assist with our activities after that.<end>"
+
+["1050041"]
+japanese = "クロイスコレクションが<line-break>欲しいのぉ。<end>"
+english = "I want the Crois Collection.<end>"
+
+["1050042"]
+japanese = "ほーほっほっほ。<line-break>そーですわねぇ。<end>"
+english = "Ho, ho, ho, ho! Quite so.<end>"
+
+["1050043"]
+japanese = "そ、それは…。<end>"
+english = "B-but that...<end>"
+
+["1050044"]
+japanese = "あなたのお父上ロティの美術品。<line-break>あれをすべていただければ、<line-break>手をお貸しいたしましょう。<end>"
+english = "Your father Lottie's art collection. Give us all of it, and we shall lend you our aid.<end>"
+
+["1050045"]
+japanese = "あの中には、父の形見もあります。<line-break>全部というわけには…。<end>"
+english = "The collection includes mementos of my father. I can't give you all of it...<end>"
+
+["1050046"]
+japanese = "ぜんぶ、ぜんぶ。<end>"
+english = "All of it. All of it.<end>"
+
+["1050047"]
+japanese = "全部だそうです。<end>"
+english = "All of it, apparently.<end>"
+
+["1050048"]
+japanese = "ほう、我々は脱出の手配までで十分。<line-break>脱出後の護衛はあなたがやると？<line-break>\u3000<end>"
+english = "Oh? So we need only arrange the escape, and you will provide the escort afterward?<end>"
+
+["1050049"]
+japanese = "その代わり、<line-break>形見の分はまけろと<line-break>言うわけですな？<end>"
+english = "And in return, you want us to waive the price of the keepsakes. Is that it?<end>"
+
+["1050050"]
+japanese = "<value:$28>…。<line-break>あなた…。<end>"
+english = "<value:$28>... You...<end>"
+
+["1050051"]
+japanese = "よけいなお世話だのう。<end>"
+english = "No one asked you to interfere.<end>"
+
+["1050052"]
+japanese = "我々はもともと最初から最後まで<line-break>脱出を手伝うように依頼されています。<line-break>半分とは言え、横取りしようとは…<line-break>商売敵と見なして<line-break>よろしいのですね？<end>"
+english = "We were hired from the outset to see the escape through from beginning to end. Yet you mean to take half the job from us... We may regard you as a business rival, then?<end>"
+
+["1050053"]
+japanese = "わかりました。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>護衛は依頼者を<line-break>より安全に守る力がある方に<line-break>受ける権利があるもの。<end>"
+english = "Very well. The right to serve as escort belongs to whoever can keep the client safer.<end>"
+
+["1050054"]
+japanese = "どちらがより護衛者に<line-break>ふさわしいか…、<line-break>決着をつけましょうか。<end>"
+english = "Shall we settle which of us is better suited to the task?<end>"
+
+["1050055"]
+japanese = "むにゅー…。<end>"
+english = "Mnyuu...<end>"
+
+["1050056"]
+japanese = "ほーっ、ほっほっ、<line-break>むにゅー、ですわねぇー。<end>"
+english = "Ho, ho, ho... Mnyuu, indeed.<end>"
+
+["1050057"]
+japanese = "お見事です。<line-break>脱出後の護衛はあなたに<line-break>お任せいたします。<line-break>我々は、脱出までの手配を<line-break>いたしましょう。<end>"
+english = "Well done. We shall leave the post-escape escort to you. We will handle the escape arrangements.<end>"
+
+["1050058"]
+japanese = "フゴー美術館の美術品を運び出します。<line-break>その際に、美術品と一緒に<line-break>リベルダムを脱出していただきます。<end>"
+english = "We will be transporting the works of art from the Hugo Museum. You will leave Liberdam along with them.<end>"
+
+["1050059"]
+japanese = "勝った。勝った。<end>"
+english = "We won! We won!<end>"
+
+["1050060"]
+japanese = "まことに申しわけありませんが、<line-break>我々が護衛までお引き受けいたします。<line-break>よろしいですかな？<end>"
+english = "My sincerest apologies, but we shall be handling the escort as well. Is that acceptable?<end>"
+
+["1050061"]
+japanese = "…わかりました。<line-break>それで、どのような方法で？<end>"
+english = "...Very well. How do you intend to do it?<end>"
+
+["1050062"]
+japanese = "フゴー美術館の美術品を運び出します。<line-break>その際に、美術品と一緒に<line-break>リベルダムを脱出していただきます。<line-break>手配いたしますので、<line-break>しばらくお待ちください。<end>"
+english = "We will be transporting the works of art from the Hugo Museum. You will leave Liberdam along with them. We will make the arrangements, so please wait a little while.<end>"
+
+["1050063"]
+japanese = "世界の商業と文化の中心地、リベルダム。\u3000\u3000<line-break>これまで、いかなる大国も手出しできず、<line-break>商人の富によって中立を保った自由都市。<end>"
+english = "Liberdam, the center of world commerce and culture. A free city whose merchants' wealth had preserved its neutrality, keeping even the mightiest powers at bay.<end>"
+
+["1050064"]
+japanese = "しかし、その美しい町並みを守るための門は<line-break>市民アンティノ・マモンの内通により<line-break>外敵に破られることなく内側から開かれた。<end>"
+english = "But the gates protecting its beautiful cityscape were opened from within through the treachery of one of its citizens, Antino Mammon, without ever being breached by an outside enemy.<end>"
+
+["1050065"]
+japanese = "ロセンからひそかに進軍していたカルラ軍は、<line-break>たった一夜で、リベルダムを制圧し、<line-break>帝国に刃向かう者への見せしめとして、<line-break>リベルダムを徹底的に破壊した。<end>"
+english = "Karula's Army, which had been advancing secretly from Rocen, seized Liberdam in a single night and utterly destroyed it as a warning to all who would defy the Empire.<end>"
+
+["1050066"]
+japanese = "だが、解放軍の首謀者と目されていた<line-break>クリュセイス・クロイスは捕らえられず、<line-break>内通者アンティノの行方も<line-break>つかむことはできなかった。<end>"
+english = "Yet Chryseis Croesus, believed to be the mastermind of the Liberation Army, was not captured, nor could the whereabouts of Antino, the collaborator, be ascertained.<end>"
+
+["1050067"]
+japanese = "こうして、自由都市リベルダムの繁栄は、<line-break>ディンガル帝国の軍靴によって、<line-break>あえなく踏みつぶされた。<end>"
+english = "Thus, the prosperity of Free City Liberdam was all too easily crushed beneath the boots of the Dingal Empire.<end>"
+
+["1050068"]
+japanese = "今回、命がけでわたくしを<line-break>助け出してくれたあなたの<line-break>勇気ある行動に感謝します。<line-break><value:$28>、<line-break>これからも、<line-break>わたくしを助けてくださいますか？<end>"
+english = "I am grateful for the courage you showed in risking your life to rescue me. <value:$28>, will you continue to help me?<end>"
+
+["1050069"]
+japanese = "<value:$28>。<line-break>あなたがいてくれるのなら、<line-break>我々はまだ戦える。<end>"
+english = "<value:$28>. With you beside us, we can still fight.<end>"
+
+["1050070"]
+japanese = "あんたは、英雄だ。<line-break>あんたさえいれば、<line-break>いつかは俺らが勝つ日が来る！<end>"
+english = "You're a hero. As long as we've got you, our day will come!<end>"
+
+["1050071"]
+japanese = "頼りにしています。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>わたくしには…<line-break>いえ、わたくしたち解放軍には<line-break>あなたのような人が必要なのです。<end>"
+english = "I'm counting on you. I need... no, the Liberation Army needs someone like you.<end>"
+
+["1050072"]
+japanese = "リベルダムの陥落により、解放軍も<line-break>大変ですが、がんばりましょう。<line-break>では、いったん解散です。<end>"
+english = "The fall of Liberdam has left the Liberation Army in dire straits, but we must press on. That will be all for now.<end>"
+
+["1050073"]
+japanese = "あ、<value:$28>。<end>"
+english = "Oh, <value:$28>.<end>"
+
+["1050074"]
+japanese = "…ごめんなさい。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>謝っても許してもらえるとは<line-break>思っていません。でも、一度、<line-break>はっきりと言っておきたかった。<end>"
+english = "…I'm sorry. I don't expect an apology to earn your forgiveness. But I wanted to say it plainly, just once.<end>"
+
+["1050075"]
+japanese = "おじさまの言ったことは、<line-break>…本当です。\u3000<line-break>\u3000<line-break>わたくしには、<line-break>あなたに守ってもらえる資格など、<line-break>本当はないのです。<end>"
+english = "What he said... is true. The truth is, I don't deserve your protection.<end>"
+
+["1050076"]
+japanese = "それだけ聞ければ、それでいい<end>"
+english = "That's all I needed to hear.<end>"
+
+["1050077"]
+japanese = "この恨みは忘れない<end>"
+english = "I'll never forget this.<end>"
+
+["1050078"]
+japanese = "え…、<value:$28>…。<line-break>本当に…、許してくれるの？<end>"
+english = "What...? <value:$28>... Will you really forgive me?<end>"
+
+["1050079"]
+japanese = "ありがとう……。<end>"
+english = "Thank you...<end>"
+
+["1050080"]
+japanese = "………………！！<end>"
+english = "...!!<end>"
+
+["1050081"]
+japanese = "わかりました。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>あなたが解放軍を抜けることは、<line-break>同志には、わたくしから<line-break>伝えておきます。<end>"
+english = "Very well. I will inform our comrades myself that you are leaving the Liberation Army.<end>"
+
+["1050082"]
+japanese = "な…、なんですって！？<end>"
+english = "W-what did you say?!<end>"
+
+["1050083"]
+japanese = "わ、わかったわ。<line-break>今は逃げることだけを考えましょう。<end>"
+english = "O-okay. For now, let's just focus on getting away.<end>"
+
+["1050084"]
+japanese = "む、こっちにいるのは<line-break>クリュセイス・クロイス！<line-break>こいつも逮捕しろ！<end>"
+english = "Hm? Khryuseis Krois is here! Arrest this one too!<end>"
+
+["1050085"]
+japanese = "ふん、お人好しめ。<line-break>ならば、一緒に死ぬがいい。<end>"
+english = "Hmph. You softhearted fool. Then you can die together.<end>"
+
+["1050086"]
+japanese = "ナイトメアの雫はどうした？<end>"
+english = "What happened to the Nightmare Drop?<end>"
+
+["1050087"]
+japanese = "ないだと！<line-break>まさか、貴様が<line-break>盗んだんじゃないだろうな！？<end>"
+english = "It's gone?! Don't tell me you stole it!<end>"
+
+["1050088"]
+japanese = "いいわけは依頼人の前でしろ！<line-break>この冒険者の面汚しが！<line-break>とらえろ！<end>"
+english = "Save your excuses for the client! You're a disgrace to adventurers! Seize this one!<end>"
+
+["1050089"]
+japanese = "気がついたかしら？<line-break>まぁ、あれだけ殴られたら、<line-break>気を失うのもムリないわ。<end>"
+english = "Awake at last? Well, after a beating like that, no wonder you passed out.<end>"
+
+["1050090"]
+japanese = "おはよう、荷物泥棒さん。<line-break>気分はいかが。<end>"
+english = "Good morning, baggage thief. How are you feeling?<end>"
+
+["1050091"]
+japanese = "そう言われても仕方がない状況よ。<line-break>非市民なんて、しょせんそんなものよ。<line-break>\u3000<line-break>それより、感謝なさい。わたくしが、<line-break>あなたのために補償金を払って、<line-break>犯罪者ではなくしてあげたのだから。<end>"
+english = "Under the circumstances, you can hardly object to being called that. That's just what non-citizens are like, in the end. More importantly, you should be grateful. I paid the compensation for you and kept you from becoming a criminal.<end>"
+
+["1050092"]
+japanese = "このリベルダムではお金で<line-break>買えないものはないのよ。<end>"
+english = "There is nothing in Liberdam that money cannot buy.<end>"
+
+["1050093"]
+japanese = "待ちなさい。わたくしが<line-break>お金を払ったって言ったでしょう？<end>"
+english = "Wait. I told you that I paid for you, didn't I?<end>"
+
+["1050094"]
+japanese = "その分のお金を支払うですって？<line-break>ムリよ。あなたのような冒険者が<line-break>払える額ではないわ。<end>"
+english = "You intend to repay me? Impossible. No adventurer like you could afford such a sum.<end>"
+
+["1050095"]
+japanese = "だからわたくし、<line-break>かわいそうなあなたに<line-break>チャンスを用意してあげたの。<end>あなたにはこれから、闘技場の<line-break>剣闘士として戦ってもらうわ。<line-break>もちろん、補償金の返済のために。<end>"
+english = "So I have graciously arranged an opportunity for you, poor thing.<end>From now on, you will fight as a gladiator in the arena. To repay the compensation, of course.<end>"
+
+["1050096"]
+japanese = "あなたに選択や主張の権利はないの。<line-break>さあ、魔道具屋、あの腕輪を。<end>"
+english = "You have no right to choose or object. Now, Magic-Item Dealer, bring me that bracelet.<end>"
+
+["1050097"]
+japanese = "フヒュヒュ。<line-break>クリュセイスお嬢様。<line-break>こちらに。<end>"
+english = "Fuh-hyu-hyu. Lady Khryuseis, over here.<end>"
+
+["1050098"]
+japanese = "この腕輪は<line-break>夢魔の羽と呼ばれる魔道具よ。<line-break>\u3000<line-break>夜、眠っている間に<line-break>あなたの体は闘技場に運ばれるの。<line-break>腕輪を外さない限り、ずっと。<end>"
+english = "This bracelet is a magic item called the Dream Demon Feather. At night, while you sleep, your body will be carried to the arena. It will happen every night until the bracelet is removed.<end>"
+
+["1050099"]
+japanese = "ムリに外そうとしてもダメよ。<line-break>それは解錠の言葉なしでは外れない<line-break>呪いの品なのだから。<end>戦い、勝ちつづけて、補償金をすべて<line-break>わたくしに返してくれたら、その時に<line-break>外してあげるわ。いいわね？<end>"
+english = "Don't bother trying to force it off. It is cursed and cannot be removed without the unlocking words.<end>Keep fighting and winning until you've repaid every last coin of the compensation. Then I'll take it off for you. Is that clear?<end>"
+
+["1050100"]
+japanese = "何を言ってもムダね。<line-break>あなたの試合は明日から組んであるわ。<line-break>あなたの休む部屋も用意してあります。<line-break>せいぜい、そこでゆっくり休むことね。<line-break>あなたには、夜はもう二度と<line-break>訪れないかもしれないのだから。<end>"
+english = "Nothing you say will make any difference. Your matches have already been arranged, starting tomorrow. A room has also been prepared for you. Make the most of it and get some rest. Night may never come for you again.<end>"
+
+["1050101"]
+japanese = "さあ、早く行きなさい。<line-break>あなたには迷う権利すらないのよ。<end>"
+english = "Now hurry up and go. You don't even have the right to hesitate.<end>"
+
+["1050102"]
+japanese = "予備メッセージ１<line-break>クリュセイス、ボリューム３その２<end>"
+english = ""
+
+["1050103"]
+japanese = "予備メッセージ２<line-break>クリュセイス、ボリューム３その２<end>"
+english = ""
+
+["1050104"]
+japanese = "予備メッセージ３<line-break>クリュセイス、ボリューム３その２<end>"
+english = ""
+
+["1050105"]
+japanese = "予備メッセージ４<line-break>クリュセイス、ボリューム３その２<end>"
+english = ""
+
+["1050106"]
+japanese = "予備メッセージ５<line-break>クリュセイス、ボリューム３その２<end>"
+english = ""
+
+["1050107"]
+japanese = "予備メッセージ６<line-break>クリュセイス、ボリューム３その２<end>"
+english = ""
+
+["1050108"]
+japanese = "予備メッセージ７<line-break>クリュセイス、ボリューム３その２<end>"
+english = ""
+
+["1050109"]
+japanese = "予備メッセージ８<line-break>クリュセイス、ボリューム３その２<end>"
+english = ""
+
+["1050110"]
+japanese = "予備メッセージ９<line-break>クリュセイス、ボリューム３その２<end>"
+english = ""
+
+["1050111"]
+japanese = "予備メッセージ１０<line-break>クリュセイス、ボリューム３その２<end>"
+english = ""
+
+["1050112"]
+japanese = "クリュセイスメッセージ終端<end>"
+english = ""

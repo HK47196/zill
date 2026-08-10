@@ -1,0 +1,157 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["830000"]
+japanese = "フゴー、Vol６用メッセージ開始<end>"
+english = ""
+
+["830001"]
+japanese = "お待ちしておりました。<line-break><value:$28>様。<end>"
+english = "We have been awaiting you, <value:$28>.<end>"
+
+["830002"]
+japanese = "よく来たのぉ。<line-break>ほんとは来てほしくなかったがのぉ。<end>"
+english = "Good of you to come. Truth be told, I was hoping you wouldn't.<end>"
+
+["830003"]
+japanese = "ほーっほっほっ、<line-break>そーですわねー。<end>"
+english = "Ho-ho-ho! Quite so.<end>"
+
+["830004"]
+japanese = "フゴー様、そのようなことを<line-break>言われてはいけません。<line-break><line-break>やっとご先祖様のご遺言を<line-break>果たせるかもしれないのですから。<end>"
+english = "Lord Hugo, you mustn't say such things. We may finally be able to fulfill your ancestor's dying wish.<end>"
+
+["830005"]
+japanese = "とまどわれるのも無理はありません。<line-break>すこし、私の話をお聞きください。<end>"
+english = "Your confusion is perfectly understandable. Please, hear me out.<end>"
+
+["830006"]
+japanese = "フゴー家の伝承に、こうあります。<line-break>\u3000力・英知・勇気・博愛心、<line-break>\u3000すべてを備えしものに、<line-break>\u3000我が遺品ストラスエッジを与えよ<end>"
+english = "The Hugo family tradition says: “Give my heirloom, Stra's Edge, to one who possesses strength, wisdom, courage, and benevolence.”<end>"
+
+["830007"]
+japanese = "私たちは、あなた様を<line-break>この遺言に値する人物と<line-break>見込んだのでございます。<end>"
+english = "We believe you are worthy of this bequest.<end>"
+
+["830008"]
+japanese = "この伝承を遺されたのは、<line-break>フゴー様のご先祖、ストラ＝フゴー様。<line-break>そして、ストラスエッジとは、<line-break>ストラ様のソウルが宿された<line-break>短剣でございます。<end>"
+english = "This tradition was left by Lord Hugo's ancestor, Lord Stra-Hugo. Stra's Edge is a dagger imbued with Lord Stra's Soul.<end>"
+
+["830009"]
+japanese = "たくさん珍しい品を<line-break>持ってきてくれたのぉ。<end>"
+english = "You've brought us a great many rare items.<end>"
+
+["830010"]
+japanese = "あなたは、私たちに<line-break>英知を示してくれました。<end>"
+english = "You have shown us your wisdom.<end>"
+
+["830011"]
+japanese = "あのタルテュバを<line-break>助けようとしたのぉ。<end>"
+english = "You tried to save Tartyuba.<end>"
+
+["830012"]
+japanese = "そして、博愛心も。<end>"
+english = "And your benevolence as well.<end>"
+
+["830013"]
+japanese = "力と勇気ですか？<line-break>あなたがお持ちのルナシャドウと<line-break>ホワイトファングのソウルが、<line-break>力の半分を示しています。<end>"
+english = "Strength and courage, you ask? The Souls of Luna Shadow and White Fang in your possession are proof of half your strength.<end>"
+
+["830014"]
+japanese = "そして、残りの力の半分と勇気は、<line-break>ここで示していただきます。<line-break>私たちと戦って、勝つことで。<end>"
+english = "You will demonstrate the other half of your strength and your courage here by fighting us and winning.<end>"
+
+["830015"]
+japanese = "そういうわけで勝負じゃのぉ。<line-break>あれは、いい短剣じゃからのぉ。<line-break>ほんとは、渡したくないんじゃのぉ。<end>"
+english = "So, a contest it is. That's a fine dagger, you know. Truth be told, I don't want to give it up.<end>"
+
+["830016"]
+japanese = "ほーっほっほっ、<line-break>そーですわねー。<end>"
+english = "Ho-ho-ho! Quite so.<end>"
+
+["830017"]
+japanese = "じゃから、悪いが、<line-break>ここで倒しちゃおうかと<line-break>思っとるんじゃ。<end>"
+english = "So, sorry about this, but I think we'll defeat you here.<end>"
+
+["830018"]
+japanese = "ほーっほっほっ、<line-break>そーですわねー。<end>"
+english = "Ho-ho-ho! Quite so.<end>"
+
+["830019"]
+japanese = "では、勝負です。<end>"
+english = "Then let the contest begin.<end>"
+
+["830020"]
+japanese = "むにゅー…。<end>"
+english = "Munyuu...<end>"
+
+["830021"]
+japanese = "ほーっほっほっ、<line-break>むにゅー、ですわねー。<end>"
+english = "Ho-ho-ho! Munyuu, indeed.<end>"
+
+["830022"]
+japanese = "見事です。あなたこそ、<line-break>ストラスエッジの所有者に<line-break>ふさわしいお方。<end>"
+english = "Splendid. You are truly worthy to possess Stra's Edge.<end>"
+
+["830023"]
+japanese = "英雄ストラ＝フゴーのソウルが<line-break>封じられた短剣、<line-break>ストラスエッジを手に入れた。<end>"
+english = "Obtained Stra's Edge, a dagger containing the sealed Soul of the hero Stra-Hugo.<end>"
+
+["830024"]
+japanese = "<value:$28>に<line-break>英雄ストラ＝フゴーのソウルが宿った。<end>"
+english = "The Soul of the hero Stra-Hugo now dwells within <value:$28>.<end>"
+
+["830025"]
+japanese = "むにゅー…。<end>"
+english = "Mnyuu...<end>"
+
+["830026"]
+japanese = "ほーっほっほっ、<line-break>むにゅー、ですわねー。<end>"
+english = "Ohohoho! Mnyuu, is it?<end>"
+
+["830027"]
+japanese = "しかし、お強いですね。<line-break>まいりました。<end>"
+english = "Still, you are remarkably strong. I admit defeat.<end>"
+
+["830028"]
+japanese = "フゴーＶｏｌ６予備メッセージ１<end>"
+english = ""
+
+["830029"]
+japanese = "フゴーＶｏｌ６予備メッセージ２<end>"
+english = ""
+
+["830030"]
+japanese = "フゴーＶｏｌ６予備メッセージ３<end>"
+english = ""
+
+["830031"]
+japanese = "フゴーＶｏｌ６予備メッセージ４<end>"
+english = ""
+
+["830032"]
+japanese = "フゴーＶｏｌ６予備メッセージ５<end>"
+english = ""
+
+["830033"]
+japanese = "フゴーＶｏｌ６予備メッセージ６<end>"
+english = ""
+
+["830034"]
+japanese = "フゴーＶｏｌ６予備メッセージ７<end>"
+english = ""
+
+["830035"]
+japanese = "フゴーＶｏｌ６予備メッセージ８<end>"
+english = ""
+
+["830036"]
+japanese = "フゴーＶｏｌ６予備メッセージ９<end>"
+english = ""
+
+["830037"]
+japanese = "フゴーＶｏｌ６予備メッセージ１０<end>"
+english = ""
+
+["830038"]
+japanese = "フゴー、Vol６用メッセージ終端<end>"
+english = ""

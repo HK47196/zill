@@ -1,0 +1,493 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["230000"]
+japanese = "もう知ってるかもしれないが、脱力の腕輪を<line-break>持ってると、ＳＴＲが極端に低下しちまうんだ。<end>"
+english = "You may already know this, but carrying the Bracelet of Weakness drastically lowers ＳＴＲ.<end>"
+
+["230001"]
+japanese = "もう知ってるかもしれないが、セヅネの根を<line-break>持ってると、ＶＩＴが極端に低下しちまうんだ。<end>"
+english = "You may already know this, but carrying a Sezune Root drastically lowers ＶＩＴ.<end>"
+
+["230002"]
+japanese = "もう知ってるかもしれないが、トヅカネの枝を<line-break>持ってると、ＡＧＩが極端に低下しちまうんだ。<end>"
+english = "You may already know this, but carrying a Tozukane Branch drastically lowers ＡＧＩ.<end>"
+
+["230003"]
+japanese = "もう知ってるかもしれないが、ヒャンデ鉱を<line-break>持ってると、ＡＧＩが極端に低下しちまうんだ。<end>"
+english = "You may already know this, but carrying Hyande Ore drastically lowers ＡＧＩ.<end>"
+
+["230004"]
+japanese = "もう知ってるかもしれないが、きれぐもの巣を<line-break>持ってると、ＤＥＸが極端に低下しちまうんだ。<end>"
+english = "You may already know this, but carrying a Kiregumo Nest drastically lowers ＤＥＸ.<end>"
+
+["230005"]
+japanese = "もう知ってるかもしれないが、ヒャンデ砂鉄を<line-break>持ってると、ＤＥＸが極端に低下しちまうんだ。<end>"
+english = "You may already know this, but carrying Hyande Iron Sand drastically lowers ＤＥＸ.<end>"
+
+["230006"]
+japanese = "もう知ってるかもしれないが、ハヤスの葉を<line-break>持ってると、ＩＮＴが極端に低下しちまうんだ。<end>"
+english = "You may already know this, but carrying a Hayasu Leaf drastically lowers ＩＮＴ.<end>"
+
+["230007"]
+japanese = "もう知ってるかもしれないが、キッカネの香草を<line-break>持ってると、ＩＮＴが極端に低下しちまうんだ。<end>"
+english = "You may already know this, but carrying a Kikkane Herb drastically lowers ＩＮＴ.<end>"
+
+["230008"]
+japanese = "もう知ってるかもしれないが、千年石を<line-break>持ってると、ＭＩＮが極端に低下しちまうんだ。<end>"
+english = "You may already know this, but carrying a Millennium Stone drastically lowers ＭＩＮ.<end>"
+
+["230009"]
+japanese = "もう知ってるかもしれないが、ヤンバイ草を<line-break>持ってると、幻覚状態になっちまうんだ。<end>"
+english = "You may already know this, but carrying a Yanbai Herb afflicts you with Hallucination.<end>"
+
+["230010"]
+japanese = "もう知ってるかもしれないが、ナジラネの果実を<line-break>持ってると、沈黙状態になっちまうんだ。<end>"
+english = "You may already know this, but carrying a Najirane Fruit afflicts you with Silence.<end>"
+
+["230011"]
+japanese = "もう知ってるかもしれないが、妖精の粉を<line-break>持ってると、暗闇状態になっちまうんだ。<end>"
+english = "You may already know this, but carrying Fairy Dust afflicts you with Blindness.<end>"
+
+["230012"]
+japanese = "もう知ってるかもしれないが、食心の壷を<line-break>持ってると、幻覚状態になっちまうんだ。<end>"
+english = "You may already know this, but carrying a Heart-Eating Jar afflicts you with Hallucination.<end>"
+
+["230013"]
+japanese = "もう知ってるかもしれないが、ロクシャの墨を<line-break>持ってると、呪い状態になっちまうんだ。<end>"
+english = "You may already know this, but carrying Roksha Ink afflicts you with Curse.<end>"
+
+["230014"]
+japanese = "もう知ってるかもしれないが、ノロガメを<line-break>持ってると、呪い状態になっちまうんだ。<end>"
+english = "You may already know this, but carrying a Norogame afflicts you with Curse.<end>"
+
+["230015"]
+japanese = "もう知ってるかもしれないが、呪われし杖を<line-break>持ってると、呪い状態になっちまうんだ。<end>"
+english = "You may already know this, but carrying a Cursed Staff afflicts you with Curse.<end>"
+
+["230016"]
+japanese = "もう知ってるかもしれないが、魔物の骨を<line-break>持ってると、呪い状態になっちまうんだ。<end>"
+english = "You may already know this, but carrying a Monster Bone afflicts you with Curse.<end>"
+
+["230017"]
+japanese = "もう知ってるかもしれないが、深海魚の目玉を<line-break>持ってると、呪い状態になっちまうんだ。<end>"
+english = "You may already know this, but carrying a Deep-Sea Fish Eye afflicts you with Curse.<end>"
+
+["230018"]
+japanese = "<value:$15>を探してきて欲しい。<line-break>なくなっちまわないように最優先でやってくれ。<end>"
+english = "<value:$15>I want you to find it. Make this your top priority so it doesn't disappear.<end>"
+
+["230019"]
+japanese = "<value:$15>を探し出し、<line-break>持ち帰る冒険者を募集している。<line-break>報酬は、<value:$1A>ギア。<line-break>期限は、<value:$1B>日以内である。<line-break>途中、モンスターの襲撃が予想される。<line-break>精強な戦士の応募を期待している。<end>"
+english = "Seeking an adventurer to find and bring back <value:$15>. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days. Monster attacks are expected along the way. Strong, capable fighters are encouraged to apply.<end>"
+
+["230020"]
+japanese = "<value:$15>を持ち帰ってくださる方を<line-break>募集しています。取りに行きたいのですが、<line-break>モンスターがたくさんいて近づけません。<line-break><value:$1B>日以内にやっていただけたならば、<line-break><value:$1A>ギア進呈いたします。<end>"
+english = "Seeking someone to bring back <value:$15>. Retrieving it directly would be preferable, but the many monsters make it impossible to get close. Complete the job within <value:$1B> days to receive <value:$1A> Gea.<end>"
+
+["230021"]
+japanese = "我々の魔道研究において、<line-break><value:$15>が必要になった。<line-break>至急入手する必要がある。<line-break><value:$15>を探索、入手して帰還せよ。<line-break><value:$1B>日以内を期限とする。<line-break>成功すれば、<value:$1A>ギアの報酬を与える。<end>"
+english = "Our magical research now requires <value:$15>, and it must be obtained urgently. Search for <value:$15>, secure it, and return. Deadline: within <value:$1B> days. Reward upon success: <value:$1A> Gea.<end>"
+
+["230022"]
+japanese = "日頃はご愛顧をいただきありがとうございます。<line-break>私ども道具屋ギルドは、<value:$15>を<line-break>入手する必要に迫られています。<line-break><value:$15>を探して持ち帰ってください。<line-break><value:$1B>日以内、<value:$1A>ギアの報酬です。<end>"
+english = "Thank you for your continued patronage. The Item Merchants' Guild urgently needs <value:$15>. Please find <value:$15> and bring it back. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["230023"]
+japanese = "毎度どうも。いつも世話になってるね。<line-break>今回の依頼は、<value:$15>の探索なんだ。<line-break>仕事上でこいつが必要になってね。<line-break><value:$1B>日以内に持ち帰ってほしいんだ。<line-break>お礼は、<value:$1A>ギアだ。<end>"
+english = "Thanks as always. Your help is always appreciated. This time, the request is to find <value:$15>. It's needed for work, so please bring it back within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["230024"]
+japanese = "神殿に救いを求めて来る者に<line-break>分け与えるための品が不足しております。<line-break>材料となる<value:$15>を<line-break>探して持ち帰ってください。<line-break><value:$1A>ギアを寸志として進呈いたします。<line-break><value:$1B>日以内にやりとげるようお願いします。<end>"
+english = "We are running short of items to distribute to those who come to the temple seeking aid. Please find and bring back <value:$15>, which is needed to make them. We offer a modest reward of <value:$1A> Gea. Please complete the task within <value:$1B> days.<end>"
+
+["230025"]
+japanese = "<value:$15>が必要になりましたので、<line-break>探して持ち帰ってきていだたきたいのです。<line-break>モンスターが多くいるので、<line-break>充分に注意なさってください。<line-break>お礼は、<value:$1A>ギア。<line-break>期限は、<value:$1B>日以内です。<end>"
+english = "Please find and bring back <value:$15>. Many monsters are present, so take great care. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["230026"]
+japanese = "旅の途中、大事な<value:$15>を<line-break>なくしてしまいました。探しに行こうにも、<line-break>モンスターがたくさんいた場所なので、<line-break>とても戻る気になれません。<line-break>どうか探して持ち帰ってください。<line-break><value:$1A>ギアのお礼をいたします。<line-break><value:$1B>日以内にお願いします。<end>"
+english = "A precious possession was lost while traveling: <value:$15>. The place was full of monsters, and going back is out of the question. Please find it and bring it back. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["230027"]
+japanese = "使いの者が何者かに襲われた。<line-break>幸い無事に逃げ帰ったが、その途中で、<line-break><value:$15>をなくしてしまったようだ。<line-break>この品を見つけ出し、持ち帰ってくれ。<line-break>褒美は、<value:$1A>ギアである。<line-break><value:$1B>日以内に仕事を済ませてほしい。<end>"
+english = "Our messenger was attacked by someone. Fortunately, the messenger escaped unharmed, but apparently lost <value:$15> along the way. Find the item and bring it back. Reward: <value:$1A> Gea. Complete the job within <value:$1B> days.<end>"
+
+["230028"]
+japanese = "自衛用にギルドで独自に作っている武具の材料、<line-break><value:$15>を採ってきて欲しい。<line-break>危険な場所にあるから、気をつけていってくれ。<line-break><value:$1A>ギア用意した。<line-break>期限は、<value:$1B>日以内だ。<end>"
+english = "Gather and bring back <value:$15>, a material the Guild uses to make its own arms and armor for self-defense. It is found in a dangerous place, so be careful. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["230029"]
+japanese = "必要な物があるんじゃ。<line-break><value:$15>なんじゃがの、<line-break>見つけて持ってきてくれんかの。<line-break>すまんが、<value:$1B>日以内にやってもらえんか。<line-break>みなで出しあって<value:$1A>ギア集めたんじゃ。<line-break>お礼は、これでどうかのう。<end>"
+english = "There's something we need: <value:$15>. Could you find it and bring it back? Please complete the job within <value:$1B> days. Everyone pooled what they could and raised <value:$1A> Gea. Would that do as a reward?<end>"
+
+["230030"]
+japanese = "毎度ご利用感謝いたしております。<line-break>このたびはこちらからのお願いになります。<line-break><value:$15>を、発見し入手してください。<line-break><value:$1A>ギアのお礼を用意できます。<line-break><value:$1B>日以内でぜひお願いします。<end>"
+english = "Thank you for your continued patronage. This time, we have a request for you: please find and obtain <value:$15>. We can offer <value:$1A> Gea as thanks. Please complete the job within <value:$1B> days.<end>"
+
+["230031"]
+japanese = "お前さんたちでなければできない仕事だぜ。<line-break><value:$15>を探し出し持ち帰ることだ。<line-break><value:$1A>ギア用意した。<value:$1B>日以内で頼む。<line-break>モンスターがうろついてて、危ないからな。<line-break>気をつけろよ。<end>"
+english = "This is a job only you can handle. Find <value:$15> and bring it back. Reward: <value:$1A> Gea. Get it done within <value:$1B> days. Monsters are roaming the area, so watch yourselves.<end>"
+
+["230032"]
+japanese = "頼みたいことがあります。<line-break><value:$15>を探し出して、<line-break>手に入れてきてください。<line-break><value:$1A>ギアで、期日は<value:$1B>日以内です。<line-break>モンスターが多数いる場所での探索なので、<line-break>冒険のプロである冒険者の方にお任せします。<end>"
+english = "We have a request. Please find and obtain <value:$15>. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days. The search area is home to many monsters, so this job is best left to professional adventurers.<end>"
+
+["230033"]
+japanese = "我がフゴー商会では、宿屋だけでなく、<line-break>手広い商売をしております。各種材料の調達も<line-break>そのひとつですが、入手困難なものが<line-break>ありまして、その探索をお願いしたいのです。<line-break><value:$15>というものですが、<line-break>報酬<value:$1A>ギアで、<value:$1B>日以内、<line-break>という条件でお願いできませんか？<end>"
+english = "Hugo Trading Company runs an inn and other businesses. Please find the hard-to-get material <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["230034"]
+japanese = "いや、参りました。街の外にでかけていたら、<line-break>モンスターに出くわしてしまいました。<line-break>なんとか逃げることはできたのですが、大事な<line-break><value:$15>を落としてしまいました。<line-break>探して持ち帰ってくださる冒険者はいませんか。<line-break><value:$1B>日以内にやってくださったのならば、<line-break><value:$1A>ギアさしあげます。<end>"
+english = "What a mess. Monsters appeared during a trip outside town. Escape was possible, but an important possession was dropped in the process: <value:$15>. Is there an adventurer who can find it and bring it back? Complete the job within <value:$1B> days to receive <value:$1A> Gea.<end>"
+
+["230035"]
+japanese = "我が邸の高級料理の隠し味<value:$15>を<line-break>持ち帰ってほしい。危険なところにあるのだが、<line-break>貴重な材料ゆえ、ぜひ欲しい。<line-break>褒美として、<value:$1A>ギアとらそう。<line-break><value:$1B>日以内に頼むぞ。<end>"
+english = "Bring back <value:$15>, the secret ingredient in the fine cuisine served at this estate. It is found in a dangerous place, but it is a precious ingredient and must be obtained. A reward of <value:$1A> Gea shall be granted. Complete the task within <value:$1B> days.<end>"
+
+["230036"]
+japanese = "使いの者が、途中でモンスターに襲われ、<line-break>荷物を置いて逃げてきてしまいました。<line-break>荷物の中の<value:$15>だけは、<line-break>とりかえさねばなりません。<line-break>探索を行い、品物を持ち帰ってください。<line-break><value:$1A>ギアを用意しました。<line-break><value:$1B>日以内でお願いします。<end>"
+english = "Our messenger was attacked by monsters along the way and had to abandon the baggage to escape. At the very least, we must recover <value:$15> from it. Search for the baggage and bring the item back. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["230037"]
+japanese = "村の特産品の材料を採ってきてくだされ。<line-break>戦いの素人が採りに行くには<line-break>ちとやっかいな品物での。<line-break><value:$15>というんじゃ。<line-break><value:$1B>日以内に頼むよ。<line-break>あんまり多くはないが、お礼もするつもりじゃ。<end>"
+english = "Please gather material for one of our village specialties. The item is a bit too troublesome for anyone inexperienced in combat to collect. It is called <value:$15>. Please bring it back within <value:$1B> days. We cannot offer much, but there will be a reward.<end>"
+
+["230038"]
+japanese = "<value:$15>を手に入れる必要があります。<line-break>これがあれば商売がうまくいくのです。<line-break><value:$15>を捜し、持ち帰ってください。<line-break>期限は<value:$1B>日以内といたします。<line-break><value:$1A>ギアの報酬をお支払いします。<end>"
+english = "<value:$15> is needed. With it, business will prosper. Find <value:$15> and bring it back. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["230039"]
+japanese = "依頼したいのは<value:$15>の探索と入手。<line-break>期限は、<value:$1B>日以内。<line-break>報酬は、<value:$1A>ギアだ。<line-break>鍛冶屋ギルドにとって重要な材料だ。<line-break>よろしく頼む。<end>"
+english = "Request: find and obtain <value:$15>. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea. This material is important to the Blacksmiths' Guild. We're counting on you.<end>"
+
+["230040"]
+japanese = "手に入れたいものがあるんだ。<line-break><value:$15>なんだけどね。<line-break>なにしろモンスターがたくさんいるもんでね、<line-break>あたしたちじゃ取りにいけないのさ。<line-break><value:$15>を探して持ってきてもらえる？<line-break><value:$1B>日以内にやってくれたら、<line-break><value:$1A>ギア払うよ。<end>"
+english = "There's something we want: <value:$15>. There are so many monsters around that we can't go and get it ourselves. Could you find <value:$15> and bring it back? Complete the job within <value:$1B> days and we'll pay <value:$1A> Gea.<end>"
+
+["230041"]
+japanese = "<value:$15>が、必要になりました。<line-break>そこで、冒険者の方にお願いしようと思います。<line-break>期限は、<value:$1B>日以内。<line-break>お礼は、<value:$1A>ギアとさせていただきます。<end>"
+english = "<value:$15> is now needed, so an adventurer's help is requested. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["230042"]
+japanese = "旅の途中、モンスターに襲われ、<line-break><value:$15>をなくしてしまいました。<line-break>どうか、モンスターの住みかに向かい、<line-break>取り返してきてください。<line-break>謝礼は、<value:$1A>ギア用意しました。<line-break>期限は、<value:$1B>日以内でお願いします。<end>"
+english = "An attack by monsters while traveling resulted in the loss of <value:$15>. Please go to the monsters' lair and recover it. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["230043"]
+japanese = "自治には、ある程度の軍備も必要です。<line-break>このたび装備の充実のために、材料である<line-break><value:$15>が、必要となりました。<line-break><value:$1B>日以内で、探索し、持ち帰ってください。<line-break>報酬は、<value:$1A>ギアです。<end>"
+english = "A measure of military strength is necessary for self-government. To improve our equipment, we now need <value:$15> as material. Find it and bring it back within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["230044"]
+japanese = "村の女たちが作っている装飾品の材料で、<line-break>必要な物があってな。<line-break><value:$15>なんだが、見つけて<line-break>持ち帰ってもらえんか。<line-break>すまないが、<value:$1B>日以内で頼みたい。<line-break>報酬は、<value:$1A>ギアでどうかな？<end>"
+english = "We need material for the ornaments made by the women of the village: <value:$15>. Could you find it and bring it back? Please complete the job within <value:$1B> days. How does <value:$1A> Gea sound as a reward?<end>"
+
+["230045"]
+japanese = "様々な道具を扱う我々にとって、材料の採取は<line-break>欠かせない仕事なのですが、<line-break>外はモンスターが多くて、非常に困っています。<line-break>代わりに材料を採ってきてもらえませんか？<line-break><value:$15>を持ち帰ってください。<line-break>期限は、<value:$1B>日以内。<line-break>お礼は、<value:$1A>ギアでどうでしょうか。<end>"
+english = "Gathering materials is essential to our trade in all kinds of tools, but the many monsters outside have put us in a difficult position. Could you gather material in our place? Please bring back <value:$15> within <value:$1B> days. Would <value:$1A> Gea be acceptable as a reward?<end>"
+
+["230046"]
+japanese = "あんたたちを見込んで頼みたいことがあるんだ。<line-break><value:$15>の探索と入手だ。<line-break>モンスターがよく出る所らしいから、<line-break>うまくやってくれよ。<line-break><value:$1B>日以内が期限。<line-break>報酬は、<value:$1A>ギアだぜ。<end>"
+english = "A job for capable hands: find and obtain <value:$15>. Monsters are said to appear often in the area, so handle the job well. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["230047"]
+japanese = "酒場は、闘技場の戦士さんたちのいこいの場。<line-break>とってもうまい特製の酒を用意してるよ。<line-break>こいつを作るには秘密があってね。<line-break><value:$15>がいるんだが、<line-break>危険なところにあるんだ。<line-break>代わりに採ってきてくれないか？<line-break>報酬は<value:$1A>ギア、<value:$1B>日以内で頼むよ。<end>"
+english = "The tavern is where the arena fighters come to relax, and we keep a delicious house liquor on hand. Its secret ingredient is <value:$15>, but it is found in a dangerous place. Could you gather it for us? Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["230048"]
+japanese = "我がフゴー商会では、宿屋だけでなく、<line-break>手広い商売をしております。各種材料の調達も<line-break>そのひとつですが、入手困難なものが<line-break>ありまして、その探索をお願いしたいのです。<line-break><value:$15>というものですが、<line-break>報酬<value:$1A>ギアで、<value:$1B>日以内、<line-break>という条件でお願いできませんか？<end>"
+english = "Hugo Trading Company runs an inn and other businesses. Please find the hard-to-get material <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["230049"]
+japanese = "<value:$15>を探し出し、入手してほしい。<line-break>期限は、<value:$1B>日以内。<line-break>報酬は、<value:$1A>ギアとする。<end>"
+english = "Find and obtain <value:$15>. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["230050"]
+japanese = "勇敢な冒険者のみなさんへの依頼は、<line-break><value:$15>を探して持ち帰ることです。<line-break>いろいろな使い道があるのですが、<line-break>なんでものどにもいいそうです。<line-break><value:$1B>日以内に持ち帰ってください。<line-break><value:$1A>ギアお支払いします。<end>"
+english = "Brave adventurers, your task is to find and bring back <value:$15>. It has many uses and is apparently good for the throat as well. Bring it back within <value:$1B> days. Payment: <value:$1A> Gea.<end>"
+
+["230051"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000告<line-break>重要な物件<value:$15>を入手したい。<line-break>冒険にたけた勇者よ、困難をしりぞけ探索を行い<line-break><value:$15>を持ち帰ってほしい。<line-break>期間：<value:$1B>日以内<line-break>報酬：<value:$1A>ギア<end>"
+english = "NOTICE: Important item sought: <value:$15>. A hero skilled in adventuring is sought to overcome the dangers, find <value:$15>, and bring it back. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["230052"]
+japanese = "使いの者が、途中でモンスターに襲われ、<line-break>荷物を置いて逃げてきてしまいました。<line-break>荷物の中の<value:$15>だけは、<line-break>とりかえさねばなりません。<line-break>探索を行い、品物を持ち帰ってください。<line-break><value:$1A>ギアを用意しました。<line-break><value:$1B>日以内でお願いします。<end>"
+english = "Our messenger was attacked by monsters along the way and had to abandon the baggage to escape. At the very least, we must recover <value:$15> from it. Search for the baggage and bring the item back. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["230053"]
+japanese = "村の特産品の材料を採ってきてくだされ。<line-break>戦いの素人が採りに行くには、<line-break>ちとやっかいな品物での。<line-break><value:$15>というんじゃ。<line-break><value:$1B>日以内に頼むよ。<line-break>あんまり多くはないが、お礼もするつもりじゃ。<end>"
+english = "Please gather material for one of our village specialties. The item is a bit too troublesome for anyone inexperienced in combat to collect. It is called <value:$15>. Please bring it back within <value:$1B> days. We cannot offer much, but there will be a reward.<end>"
+
+["230054"]
+japanese = "<value:$15>が、必要になりました。<line-break>しかし、この材料がある場所には、<line-break>モンスターがたくさん住んでいるのです。<line-break>冒険者の方、どなたか、<value:$15>を<line-break>持ち帰ってくださいませんか。<line-break><value:$1A>ギアを支払いましょう。<line-break><value:$1B>日以内にできる方、お願いします。<end>"
+english = "We need <value:$15>, but many monsters live where this material is found. Would an adventurer please bring back <value:$15>? Payment: <value:$1A> Gea. Applicants must be able to complete the job within <value:$1B> days.<end>"
+
+["230055"]
+japanese = "外はモンスターだらけで、<line-break>武器の材料を手に入れるのも一苦労だ。<line-break>誰か代わりに行ってきちゃあくれねぇか？<line-break><value:$1A>ギア出すぜ。<line-break><value:$1B>日以内に持ってきてくれよ。<end>"
+english = "The world outside is crawling with monsters, so even obtaining material for weapons is a struggle. Will someone go in our place? Reward: <value:$1A> Gea. Bring it back within <value:$1B> days.<end>"
+
+["230056"]
+japanese = "取ってきてもらいたい物があるんだ。<line-break>ちょっと仕事の都合で必要になってね。<line-break><value:$15>を持って帰ってきてくれんか。<line-break><value:$1A>ギア出すからさ。<line-break><value:$1B>日以内で頼むよ。<end>"
+english = "There's something we need for work. Bring back <value:$15>, and we'll pay <value:$1A> Gea. Please complete the job within <value:$1B> days.<end>"
+
+["230057"]
+japanese = "我がフゴー商会では、宿屋だけでなく、<line-break>手広い商売をしております。各種材料の調達も<line-break>そのひとつですが、入手困難なものが<line-break>ありまして、その探索をお願いしたいのです。<line-break><value:$15>というものですが、<line-break>報酬<value:$1A>ギアで、<value:$1B>日以内、<line-break>という条件でお願いできませんか？<end>"
+english = "Hugo Trading Company runs an inn and other businesses. Please find the hard-to-get material <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["230058"]
+japanese = "探し物ができました。<value:$15>です。<line-break>いろいろと重宝する材料なんですよ。<line-break>冒険者の方に探し出していただきたいのですが、<line-break><value:$1B>日以内の期限で、<value:$1A>ギアの報酬。<line-break>どうでしょう、やってもらえませんか？<end>"
+english = "Wanted: <value:$15>. This material has all sorts of useful applications. An adventurer is needed for the search. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea. Will you take the job?<end>"
+
+["230059"]
+japanese = "この都市の防衛は、傭兵たちの力に頼っている。<line-break>そのため、彼らには、<line-break>常に充実した装備を提供せねばならない。<line-break>冒険者諸君には、武器、防具生産に必要な<line-break><value:$15>を持ち帰ってほしい。<line-break>報酬は、<value:$1A>ギア。<line-break>期限は、<value:$1B>日以内とする。<end>"
+english = "This city's defense depends on its mercenaries, so they must always be kept well equipped. Adventurers, bring back <value:$15>, which is needed to produce weapons and armor. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["230060"]
+japanese = "いざというときの都市防衛のため、<line-break>ギルドで独自に作っている武具の材料、<line-break><value:$15>を採ってきてもらえませんか？<line-break><value:$1A>ギアの報酬で、<value:$1B>日以内の期限。<line-break>上記の条件でやってもらえませんか？<end>"
+english = "For the city's defense in times of crisis, could you gather <value:$15>, a material the Guild uses to make its own arms and armor? Reward: <value:$1A> Gea. Deadline: within <value:$1B> days. Will you accept these terms?<end>"
+
+["230061"]
+japanese = "必要な物があるんじゃ。<line-break><value:$15>なんじゃがの、<line-break>見つけて持ってきてくれんかの。<line-break>すまんが、<value:$1B>日以内にやってもらえんか。<line-break>みなで出しあって<value:$1A>ギア集めたんじゃ。<line-break>お礼は、これでどうかのう。<end>"
+english = "There's something we need: <value:$15>. Could you find it and bring it back? Please complete the job within <value:$1B> days. Everyone pooled what they could and raised <value:$1A> Gea. Would that do as a reward?<end>"
+
+["230062"]
+japanese = "様々な道具を扱う我々にとって、<line-break>材料の採取は、欠かせない仕事なのですが、<line-break>外はモンスターが多くて、非常に困っています。<line-break>代わりに材料を採ってきてもらえませんか？<line-break><value:$15>を持ち帰ってください。<line-break>期限は、<value:$1B>日以内。<line-break>お礼は、<value:$1A>ギアでどうでしょうか。<end>"
+english = "Gathering materials is essential to our trade in all kinds of tools, but the many monsters outside have put us in a difficult position. Could you gather material in our place? Please bring back <value:$15> within <value:$1B> days. Would <value:$1A> Gea be acceptable as a reward?<end>"
+
+["230063"]
+japanese = "<value:$15>を手に入れたいんじゃ。<line-break>これがないと仕事にならん。<line-break>材料がなくちゃあ、物は作れんからな。<line-break><value:$1A>ギアなら出せるでの。<line-break><value:$1B>日以内に頼むぞ。<end>"
+english = "<value:$15> is needed. Without it, work grinds to a halt; nothing can be made without materials. A reward of <value:$1A> Gea is available. Bring it back within <value:$1B> days.<end>"
+
+["230064"]
+japanese = "いい酒場には、特製の酒が置いてあるもんさ。<line-break>アルノートゥン酒場でも同様でね。<line-break><value:$15>を使って作るんだが、<line-break>危険な場所にあって、簡単には採ってこれない。<line-break>で、かわりに持ち帰ってほしいんだが、<line-break><value:$1B>日以内にできないかな？<line-break>報酬は、<value:$1A>ギア出すよ。<end>"
+english = "Every good tavern keeps a house liquor, and Alnortun Tavern is no exception. Ours is made with <value:$15>, but it comes from a dangerous place and is not easy to gather. Could you bring it back for us within <value:$1B> days? Reward: <value:$1A> Gea.<end>"
+
+["230065"]
+japanese = "<value:$15>を入手したいと思います。<line-break>ただし、現地には様々な危険が予想されます。<line-break>戦いに秀でた冒険者の方にお任せしたいのです。<line-break>期間は、<value:$1B>日以内で。<line-break>報酬は、<value:$1A>ギアとします。<end>"
+english = "<value:$15> is wanted, but various dangers are expected at the site. The task should be entrusted to an adventurer skilled in combat. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["230066"]
+japanese = "冒険者の方にお願いしたいことがあります。<line-break>モンスターから逃げる途中になくしてしまった<line-break><value:$15>を探してください。<line-break>期限は、<value:$1B>日以内。<line-break>お礼は、<value:$1A>ギアです。<end>"
+english = "A request for an adventurer: please find <value:$15>, which was lost while fleeing from monsters. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["230067"]
+japanese = "神殿を訪れる巡礼者たちに、<line-break>旅で役立つ品を渡し、労をねぎらっております。<line-break>しかし、その品の材料の調達に困っています。<line-break><value:$1B>日以内に、<value:$15>を<line-break>持ち帰ってもらえませんか？<line-break>報酬に、<value:$1A>ギア差し上げます。<end>"
+english = "We give pilgrims visiting the temple useful items for their journeys in recognition of their hardships, but we are struggling to procure the necessary material. Could you bring back <value:$15> within <value:$1B> days? Reward: <value:$1A> Gea.<end>"
+
+["230068"]
+japanese = "物探しを手伝ってくれる人はいないかね。<line-break>どうも私たちの手にはあまってしまってね。<line-break><value:$15>を探し出してほしいんだ。<line-break><value:$1B>日以内に見つけてくれたら、<line-break><value:$1A>ギアのお礼を出すよ。<end>"
+english = "Can anyone help us find something? The task is more than we can handle. We need you to find <value:$15>. Find it within <value:$1B> days to receive <value:$1A> Gea.<end>"
+
+["230069"]
+japanese = "必要な物があるんじゃ。<line-break><value:$15>なんじゃがの、<line-break>見つけて持ってきてくれんかの。<line-break>すまんが、<value:$1B>日以内にやってもらえんか。<line-break>みなで出しあって<value:$1A>ギア集めたんじゃ。<line-break>お礼は、これでどうかのう。<end>"
+english = "There's something we need: <value:$15>. Could you find it and bring it back? Please complete the job within <value:$1B> days. Everyone pooled what they could and raised <value:$1A> Gea. Would that do as a reward?<end>"
+
+["230070"]
+japanese = "様々な道具を扱う我々にとって、<line-break>材料の採取は欠かせない仕事なのですが、<line-break>外はモンスターが多くて、非常に困っています。<line-break>かわりに材料を採ってきてもらえませんか？<line-break><value:$15>を持ち帰ってください。<line-break>期限は、<value:$1B>日以内。<line-break>お礼は、<value:$1A>ギアでどうでしょうか。<end>"
+english = "Gathering materials is essential to our trade in all kinds of tools, but the many monsters outside have put us in a difficult position. Could you gather material in our place? Please bring back <value:$15> within <value:$1B> days. Would <value:$1A> Gea be acceptable as a reward?<end>"
+
+["230071"]
+japanese = "<value:$15>の探索をしてくれる方、募集！<line-break>報酬は、<value:$1A>ギア！<line-break>期限は、<value:$1B>日以内！<line-break><value:$15>がなくなっちまってな。<line-break>こいつがないと武器も防具も作れねぇ。<line-break>頼んだぜ。<end>"
+english = "Adventurer wanted to find <value:$15>! Reward: <value:$1A> Gea! Deadline: within <value:$1B> days! We've run out of <value:$15>. Without it, we can't make weapons or armor. We're counting on you!<end>"
+
+["230072"]
+japanese = "いい酒場には、特製の酒が置いてあるもんさ。<line-break>ウルカーン酒場でも同様でね。<line-break><value:$15>を使って作るんだが、<line-break>危険な場所にあって、簡単には採ってこれない。<line-break>で、代わりに持ち帰ってほしいんだが、<line-break><value:$1B>日以内にできないかな？<line-break>報酬は、<value:$1A>ギア出すよ。<end>"
+english = "Every good tavern keeps a house liquor, and Ulkaan Tavern is no exception. Ours is made with <value:$15>, but it comes from a dangerous place and is not easy to gather. Could you bring it back for us within <value:$1B> days? Reward: <value:$1A> Gea.<end>"
+
+["230073"]
+japanese = "冒険者のみなさまの力をお借りしたいのです。<line-break><value:$15>を入手したいのですが、<line-break>これがある場所はかなりの危険地帯なのです。<line-break>私どものように冒険に詳しくない者では、<line-break>出向くことはできません。<line-break><value:$1B>日以内に、報酬<value:$1A>で、<line-break>引き受けてもらえませんか？<end>"
+english = "We would like to ask the adventurers for help. We need <value:$15>, but it is found in a very dangerous area. Those of us with little knowledge of adventuring cannot go there. Would you accept the job for a reward of <value:$1A>, to be completed within <value:$1B> days?<end>"
+
+["230074"]
+japanese = "冒険者の方々、紛失してしまった<line-break><value:$15>の探索をお願いしたいのです。<line-break>期限は、<value:$1B>日以内、<line-break>お礼は、<value:$1A>ギアの条件でどうですか？<line-break>場所はきっと、モンスターに追っかけまわされた<line-break>あの場所です。<line-break>大事な物なので、どうかよろしくお願いします。<end>"
+english = "Adventurers, please search for the lost item: <value:$15>. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea. It must be where the monsters gave chase. The item is important, so please help.<end>"
+
+["230075"]
+japanese = "神殿を訪れる巡礼者たちに、<line-break>旅で役立つ品を渡し、労をねぎらっております。<line-break>しかし、その品の材料の調達に困っています。<line-break><value:$1B>日以内に、<value:$15>を<line-break>持ち帰ってもらえませんか？<line-break>報酬に、<value:$1A>ギア差し上げます。<end>"
+english = "We give pilgrims visiting the temple useful items for their journeys in recognition of their hardships, but we are struggling to procure the necessary material. Could you bring back <value:$15> within <value:$1B> days? Reward: <value:$1A> Gea.<end>"
+
+["230076"]
+japanese = "<value:$15>探しの冒険者募集！<line-break><value:$1A>ギアの好条件！<line-break><value:$15>を持ち帰ってくれませんか？<line-break>戦いと宝捜しなら任せろというあなた、<line-break>稼ぐチャンスです。<line-break><value:$1B>日以内にできる方、応募待ってます。<end>"
+english = "Adventurer wanted to find <value:$15>! Excellent reward: <value:$1A> Gea! Could you bring back <value:$15>? If fighting and treasure hunting are your specialties, this is your chance to earn. Apply if you can finish within <value:$1B> days.<end>"
+
+["230077"]
+japanese = "必要な物があるんじゃ。<line-break><value:$15>なんじゃがの、<line-break>見つけて持ってきてくれんかの。<line-break>すまんが、<value:$1B>日以内にやってもらえんか。<line-break>みなで出しあって<value:$1A>ギア集めたんじゃ。<line-break>お礼は、これでどうかのう。<end>"
+english = "There's something we need: <value:$15>. Could you find it and bring it back? Please complete the job within <value:$1B> days. Everyone pooled what they could and raised <value:$1A> Gea. Would that do as a reward?<end>"
+
+["230078"]
+japanese = "様々な道具を扱う我々にとって、<line-break>材料の採取は欠かせない仕事なのですが、<line-break>外はモンスターが多くて、非常に困っています。<line-break>代わりに材料を採ってきてもらえませんか？<line-break><value:$15>を持ち帰ってください。<line-break>期限は、<value:$1B>日以内。<line-break>お礼は、<value:$1A>ギアでどうでしょうか。<end>"
+english = "Gathering materials is essential to our trade in all kinds of tools, but the many monsters outside have put us in a difficult position. Could you gather material in our place? Please bring back <value:$15> within <value:$1B> days. Would <value:$1A> Gea be acceptable as a reward?<end>"
+
+["230079"]
+japanese = "<value:$15>を手に入れたいんじゃ。<line-break>これがないと仕事にならん。<line-break>材料がなくちゃあ、物は作れんからな。<line-break><value:$1A>ギアなら出せるでの。<line-break><value:$1B>日以内に頼むぞ。<end>"
+english = "<value:$15> is needed. Without it, work grinds to a halt; nothing can be made without materials. A reward of <value:$1A> Gea is available. Bring it back within <value:$1B> days.<end>"
+
+["230080"]
+japanese = "いい酒場には、特製の酒が置いてあるもんさ。<line-break>アキュリュース酒場でも、同様でね。<line-break><value:$15>を使って作るんだが、<line-break>危険な場所にあって、簡単には採ってこれない。<line-break>で、代わりに持ち帰ってほしいんだが、<line-break><value:$1B>日以内にできないかな？<line-break>報酬は、<value:$1A>ギア出すよ。<end>"
+english = "Every good tavern keeps a house liquor, and Aqyurius Tavern is no exception. Ours is made with <value:$15>, but it comes from a dangerous place and is not easy to gather. Could you bring it back for us within <value:$1B> days? Reward: <value:$1A> Gea.<end>"
+
+["230081"]
+japanese = "我がフゴー商会では、宿屋だけでなく、<line-break>手広い商売をしております。各種材料の調達も<line-break>そのひとつですが、入手困難なものが<line-break>ありまして、その探索をお願いしたいのです。<line-break><value:$15>というものですが、<line-break>報酬<value:$1A>ギアで、<value:$1B>日以内、<line-break>という条件でお願いできませんか？<end>"
+english = "Hugo Trading Company runs an inn and other businesses. Please find the hard-to-get material <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["230082"]
+japanese = "探し物ができました。<value:$15>です。<line-break>いろいろと重宝する材料なんですよ。<line-break>冒険者の方に探し出していただきたいのですが、<line-break><value:$1B>日以内の期限で、<value:$1A>ギアの報酬。<line-break>どうでしょう、やってもらえませんか？<end>"
+english = "Wanted: <value:$15>. This material has all sorts of useful applications. An adventurer is needed for the search. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea. Will you take the job?<end>"
+
+["230083"]
+japanese = "日々の儀式には様々な品が必要である。<line-break>今回はそのひとつである<value:$15>を<line-break><value:$1B>日以内に持ち帰ってほしい。<line-break>報酬は、<value:$1A>ギアである。<end>"
+english = "Daily rituals require many different items. This time, bring back <value:$15>, one of those items, within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["230084"]
+japanese = "物探しを手伝ってくれる人はいないかね。<line-break>海を渡らないと手に入らない物でね。<line-break>ちょっと面倒なんだよ。<line-break><value:$15>を探し出してほしいんだ。<line-break><value:$1B>日以内に見つけてくれたら、<line-break><value:$1A>ギアのお礼を出すよ。<end>"
+english = "Can anyone help with a search? The item can only be obtained by crossing the sea, so the task is rather troublesome. Please find <value:$15>. Find it within <value:$1B> days to receive <value:$1A> Gea.<end>"
+
+["230085"]
+japanese = "<value:$15>を持ち帰ってほしい。<line-break>回復用の道具の材料さ。<line-break>報酬は、<value:$1A>ギア。<value:$1B>日以内だ。<line-break>海の上じゃあ、物が足りなくなったら、<line-break>自分らで作らなきゃならねぇ。<line-break>材料の確保は大切なのさ。頼んだぜ。<end>"
+english = "Bring back <value:$15>. It's material for making recovery items. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days. At sea, if supplies run short, we have to make what we need ourselves. Keeping materials on hand matters. We're counting on you.<end>"
+
+["230086"]
+japanese = "<value:$15>が切れてしまいました。<line-break>これがなくなってしまうと<line-break>品物を作れなくなってしまいます。<line-break><value:$15>を持ち帰ってださい。<line-break>日限は、<value:$1B>日以内とさせていただきます。<line-break>お礼は、<value:$1A>ギアでどうでしょうか。<end>"
+english = "Supplies of <value:$15> have run out. Without it, the goods cannot be made. Please bring back <value:$15>. Deadline: within <value:$1B> days. Would <value:$1A> Gea be acceptable as a reward?<end>"
+
+["230087"]
+japanese = "冒険者の力をぜひ借りたいんだ。<line-break><value:$15>を入手したいと思ってるんだ。<line-break>だが、俺たちが取りに行ったところで、<line-break>モンスターに追い返されるのがオチだ。<line-break>そこで、あんたたちに頼みたい。<line-break><value:$1B>日以内で頼む。<line-break><value:$1A>ギアの報酬だ。期待してるぜ。<end>"
+english = "We could really use the adventurers' help. We want to obtain <value:$15>, but if we went ourselves, the monsters would only drive us back. That's why we're asking you. Complete the job within <value:$1B> days. Reward: <value:$1A> Gea. We're counting on you.<end>"
+
+["230088"]
+japanese = "手に入れたいものがあるんだ。<line-break><value:$15>なんだけどね。<line-break>なにしろモンスターがたくさんいるもんでね、<line-break>あたしたちじゃ取りにいけないのさ。<line-break><value:$15>を探して持ってきてもらえる？<line-break><value:$1B>日以内にやってくれたら、<line-break><value:$1A>ギア払うよ。<end>"
+english = "There's something we want: <value:$15>. There are so many monsters around that we can't go and get it ourselves. Could you find <value:$15> and bring it back? Complete the job within <value:$1B> days and we'll pay <value:$1A> Gea.<end>"
+
+["230089"]
+japanese = "我がフゴー商会では、宿屋だけでなく、<line-break>手広い商売をしております。各種材料の調達も<line-break>そのひとつですが、入手困難なものが<line-break>ありまして、その探索をお願いしたいのです。<line-break><value:$15>というものですが、<line-break>報酬<value:$1A>ギアで、<value:$1B>日以内、<line-break>という条件でお願いできませんか？<end>"
+english = "Hugo Trading Company runs an inn and other businesses. Please find the hard-to-get material <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["230090"]
+japanese = "勇敢な冒険者のみなさんへの依頼は、<line-break><value:$15>を探して持ち帰ることです。<line-break>いろいろな使い道があるのですが、<line-break>なんでものどにもいいそうです。<line-break><value:$1B>日以内に持ち帰ってください。<line-break><value:$1A>ギアお支払いします。<end>"
+english = "Brave adventurers, your task is to find and bring back <value:$15>. It has many uses and is apparently good for the throat as well. Bring it back within <value:$1B> days. Payment: <value:$1A> Gea.<end>"
+
+["230091"]
+japanese = "ラドラス１<end>"
+english = "Ladras 1<end>"
+
+["230092"]
+japanese = "ラドラス２<end>"
+english = "Ladras 2<end>"
+
+["230093"]
+japanese = "ラドラス３<end>"
+english = "Ladras 3<end>"
+
+["230094"]
+japanese = "ラドラス４<end>"
+english = "Ladras 4<end>"
+
+["230095"]
+japanese = "ラドラス５<end>"
+english = "Ladras 5<end>"
+
+["230096"]
+japanese = "ラドラス６<end>"
+english = "Ladras 6<end>"
+
+["230097"]
+japanese = "ラドラス７<end>"
+english = "Ladras 7<end>"
+
+["230098"]
+japanese = "ラドラス８<end>"
+english = "Ladras 8<end>"
+
+["230099"]
+japanese = "<value:$15>を探し出し、<line-break>持ち帰る冒険者を募集している。<line-break>報酬は、<value:$1A>ギア。<line-break>期限は、<value:$1B>日以内である。<line-break>途中、モンスターの襲撃が予想される。<line-break>精強な戦士の応募を期待している。<end>"
+english = "Seeking an adventurer to find and bring back <value:$15>. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days. Monster attacks are expected along the way. Strong, capable fighters are encouraged to apply.<end>"
+
+["230100"]
+japanese = "物探しを手伝ってくれる人はいないかね。<line-break>どうも私たちの手にはあまってしまってね。<line-break><value:$15>を探し出してほしいんだ。<line-break><value:$1B>日以内に見つけてくれたら、<line-break><value:$1A>ギアのお礼を出すよ。<end>"
+english = "Can anyone help us find something? The task is more than we can handle. We need you to find <value:$15>. Find it within <value:$1B> days to receive <value:$1A> Gea.<end>"
+
+["230101"]
+japanese = "わしらは細工物を作るのが好きでの。<line-break>一日中やっていても飽きはせん。<line-break>今度新しい細工物に挑戦するんじゃが、<line-break>それには<value:$15>が必要なんじゃ。<line-break><value:$1A>ギアで、持ってきてくれんか？<line-break><value:$1B>日以内で頼むぞ。<end>"
+english = "We love making handicrafts and never tire of it, even after working all day. We are about to try making something new, and we need <value:$15> for it. Could you bring it back for <value:$1A> Gea? Please do so within <value:$1B> days.<end>"
+
+["230102"]
+japanese = "毎度ご利用感謝いたしております。<line-break>このたびはこちらからのお願いになります。<line-break><value:$15>を、発見し入手してください。<line-break><value:$1A>ギアのお礼を用意できます。<line-break><value:$1B>日以内でぜひお願いします。<end>"
+english = "Thank you for your continued patronage. This time, we have a request for you: please find and obtain <value:$15>. We can offer <value:$1A> Gea as thanks. Please complete the job within <value:$1B> days.<end>"
+
+["230103"]
+japanese = "<value:$15>を手に入れたいんじゃ。<line-break>これがないと仕事にならん。<line-break>材料がなくちゃあ、物は作れんからな。<line-break><value:$1A>ギアなら出せるでの。<line-break><value:$1B>日以内に頼むぞ。<end>"
+english = "<value:$15> is needed. Without it, work grinds to a halt; nothing can be made without materials. A reward of <value:$1A> Gea is available. Bring it back within <value:$1B> days.<end>"
+
+["230104"]
+japanese = "ドワーフは酒にうるさいからな。<line-break>こっちも特製の酒を用意してやってるのさ。<line-break><value:$15>を使って作るんだが、<line-break>危険な場所にあって、簡単には採ってこれない。<line-break>で、代わりに持ち帰ってほしいんだが、<line-break><value:$1B>日以内にできないかな？<line-break>報酬は、<value:$1A>ギア出すよ。<end>"
+english = "Dwarves are particular about their liquor, so we keep a special brew for them. It is made with <value:$15>, but the ingredient comes from a dangerous place and is not easy to gather. Could you bring it back for us within <value:$1B> days? Reward: <value:$1A> Gea.<end>"
+
+["230105"]
+japanese = "我がフゴー商会では、宿屋だけでなく、<line-break>手広い商売をしております。各種材料の調達も<line-break>そのひとつですが、入手困難なものが<line-break>ありまして、その探索をお願いしたいのです。<line-break><value:$15>というものですが、<line-break>報酬<value:$1A>ギアで、<value:$1B>日以内、<line-break>という条件でお願いできませんか？<end>"
+english = "Hugo Trading Company runs an inn and other businesses. Please find the hard-to-get material <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["230106"]
+japanese = "探し物ができました。<value:$15>です。<line-break>いろいろと重宝する材料なんですよ。<line-break>冒険者の方に探し出していただきたいのですが、<line-break><value:$1B>日以内の期限で、<value:$1A>ギアの報酬。<line-break>どうでしょう、やってもらえませんか？<end>"
+english = "Wanted: <value:$15>. This material has all sorts of useful applications. An adventurer is needed for the search. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea. Will you take the job?<end>"
+
+["230107"]
+japanese = "<value:$15>を入手する必要が生じた。<line-break>しかし、モンスターの活発な活動のため、<line-break>探索には、かなりの危険がともなうであろう。<line-break>困難を排除し、すみやかに<line-break><value:$15>を持ち帰る者を募集する。<line-break>期限は、<value:$1B>日以内である。<line-break>入手に成功すれば、<value:$1A>ギアを与える。<end>"
+english = "<value:$15> is now needed. However, increased monster activity will make the search extremely dangerous. Seeking someone who can overcome the dangers and swiftly bring back <value:$15>. Deadline: within <value:$1B> days. Reward upon success: <value:$1A> Gea.<end>"
+
+["230108"]
+japanese = "物探しを手伝ってくれる人はいないかね。<line-break>どうも私たちの手にはあまってしまってね。<line-break><value:$15>を探し出してほしいんだ。<line-break><value:$1B>日以内に見つけてくれたら、<line-break><value:$1A>ギアのお礼を出すよ。<end>"
+english = "Can anyone help us find something? The task is more than we can handle. We need you to find <value:$15>. Find it within <value:$1B> days to receive <value:$1A> Gea.<end>"
+
+["230109"]
+japanese = "<value:$15>が入り用なんですじゃ。<line-break>じゃが、モンスターが大勢いる所になぞ、<line-break>わしらでは取りに行けませんでのう。<line-break>どなたか、<value:$15>を<line-break>探して採ってきていただけませんかの。<line-break><value:$1B>日以内に持ってきてくださらんか。<line-break>お礼もできる限りいたしますじゃ。<end>"
+english = "We need <value:$15>, but we cannot go where so many monsters gather. Could someone find and gather <value:$15> for us? Please bring it back within <value:$1B> days. We will offer the best reward we can.<end>"
+
+["230110"]
+japanese = "神殿を訪れる巡礼者たちに、<line-break>旅で役立つ品を渡し、労をねぎらっております。<line-break>その品の材料の調達に困っています。<line-break><value:$1B>日以内に、<value:$15>を<line-break>持ち帰ってもらえませんか？<line-break>報酬に、<value:$1A>ギア差し上げます。<end>"
+english = "We give pilgrims visiting the temple useful items for their journeys in recognition of their hardships. We are struggling to procure the necessary material. Could you bring back <value:$15> within <value:$1B> days? Reward: <value:$1A> Gea.<end>"
+
+["230111"]
+japanese = "酒の調合に、<value:$15>がいるんだよ。<line-break>取りに行こうにも、モンスターが出るんでね。<line-break>で、冒険者に取ってきてもらいたいんだ。<line-break><value:$1B>日以内、<value:$1A>ギアでどうかな。<line-break>よろしくね。<end>"
+english = "<value:$15> is needed to blend the liquor, but monsters make gathering it impossible. An adventurer is needed to retrieve it. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea. Thanks.<end>"
+
+["230112"]
+japanese = "<value:$15>が切れてしまいました。<line-break>これがなくなってしまうと、<line-break>品物を作れなくなってしまいます。<line-break><value:$15>を持ち帰ってださい。<line-break>日限は、<value:$1B>日以内とさせていただきます。<line-break>お礼は、<value:$1A>ギアでどうでしょうか。<end>"
+english = "Supplies of <value:$15> have run out. Without it, the goods cannot be made. Please bring back <value:$15>. Deadline: within <value:$1B> days. Would <value:$1A> Gea be acceptable as a reward?<end>"
+
+["230113"]
+japanese = "冒険者の力をぜひ借りたいんだ。<line-break><value:$15>を入手したいと思ってるんだ。<line-break>だが、俺たちが取りに行ったところで、<line-break>モンスターに追い返されるのがオチだ。<line-break>そこで、あんたたちに頼みたい。<line-break><value:$1B>日以内で頼む。<line-break><value:$1A>ギアの報酬だ。期待してるぜ。<end>"
+english = "We could really use the adventurers' help. We want to obtain <value:$15>, but if we went ourselves, the monsters would only drive us back. That's why we're asking you. Complete the job within <value:$1B> days. Reward: <value:$1A> Gea. We're counting on you.<end>"
+
+["230114"]
+japanese = "我がフゴー商会では、宿屋だけでなく、<line-break>手広い商売をしております。各種材料の調達も<line-break>そのひとつですが、入手困難なものが<line-break>ありまして、その探索をお願いしたいのです。<line-break><value:$15>というものですが、<line-break>報酬<value:$1A>ギアで、<value:$1B>日以内、<line-break>という条件でお願いできませんか？<end>"
+english = "Hugo Trading Company runs an inn and other businesses. Please find the hard-to-get material <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["230115"]
+japanese = "<value:$15>を持ち帰ってほしい。<line-break>回復用の道具の材料さ。<line-break>報酬は、<value:$1A>ギア。<value:$1B>日以内だ。<line-break>海の上じゃあ、物が足りなくなったら、<line-break>自分らで作らなきゃならねぇ。<line-break>材料の確保は、大切なのさ。頼んだぜ。<end>"
+english = "Bring back <value:$15>. It's material for making recovery items. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days. At sea, if supplies run short, we have to make what we need ourselves. Keeping materials on hand matters. We're counting on you.<end>"
+
+["230116"]
+japanese = "自衛用にギルドで独自に作っている武具の材料、<line-break><value:$15>を採ってきて欲しい。<line-break>危険な場所にあるから、気をつけていってくれ。<line-break><value:$1A>ギア用意した。<line-break>期限は、<value:$1B>日以内だ。<end>"
+english = "Gather and bring back <value:$15>, a material the Guild uses to make its own arms and armor for self-defense. It is found in a dangerous place, so be careful. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["230117"]
+japanese = "必要な物があるんじゃ。<line-break><value:$15>なんじゃがの、<line-break>見つけて持ってきてくれんかの。<line-break>すまんが、<value:$1B>日以内にやってもらえんか。<line-break>みなで出しあって<value:$1A>ギア集めたんじゃ。<line-break>お礼は、これでどうかのう。<end>"
+english = "There's something we need: <value:$15>. Could you find it and bring it back? Please complete the job within <value:$1B> days. Everyone pooled what they could and raised <value:$1A> Gea. Would that do as a reward?<end>"
+
+["230118"]
+japanese = "<value:$15>が切れてしまいました。<line-break>これがなくなってしまうと、<line-break>品物を作れなくなってしまいます。<line-break><value:$15>を持ち帰ってださい。<line-break>日限は、<value:$1B>日以内とさせていただきます。<line-break>お礼は、<value:$1A>ギアでどうでしょうか。<end>"
+english = "Supplies of <value:$15> have run out. Without it, the goods cannot be made. Please bring back <value:$15>. Deadline: within <value:$1B> days. Would <value:$1A> Gea be acceptable as a reward?<end>"
+
+["230119"]
+japanese = "材料を収集するのも俺たちの重要な仕事だ。<line-break>が、危険な場所にあるやつは面倒だ。<line-break>今ほしいのは、<value:$15>なんだが、<line-break>なんとかしてこいつを手に入れたいんだ。<line-break><value:$15>を手に入れてきてくれないか。<line-break><value:$1A>ギアをお礼として用意した。<line-break>期日は、<value:$1B>日以内だ。<end>"
+english = "Gathering materials is important work for us, but anything found in a dangerous place is troublesome. Right now, we need <value:$15> and must obtain it somehow. Could you obtain <value:$15> for us? Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["230120"]
+japanese = "手に入れたいものがあるんだ。<line-break><value:$15>なんだけどね。<line-break>なにしろモンスターがたくさんいるもんでね、<line-break>あたしたちじゃ取りにいけないのさ。<line-break><value:$15>を探して持ってきてもらえる？<line-break><value:$1B>日以内にやってくれたら、<line-break><value:$1A>ギア払うよ。<end>"
+english = "There's something we want: <value:$15>. There are so many monsters around that we can't go and get it ourselves. Could you find <value:$15> and bring it back? If you do it within <value:$1B> days, we'll pay you <value:$1A> Gea.<end>"
+
+["230121"]
+japanese = "我がフゴー商会では、宿屋だけでなく、<line-break>手広い商売をしております。各種材料の調達も<line-break>そのひとつですが、入手困難なものが<line-break>ありまして、その探索をお願いしたいのです。<line-break><value:$15>というものですが、<line-break>報酬<value:$1A>ギアで、<value:$1B>日以内、<line-break>という条件でお願いできませんか？<end>"
+english = "Hugo Trading Company runs an inn and other businesses. Please find the hard-to-get material <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["230122"]
+japanese = "探し物ができました。<value:$15>です。<line-break>いろいろと重宝する材料なんですよ。<line-break>冒険者の方に探し出していただきたいのですが、<line-break><value:$1B>日以内の期限で、<value:$1A>ギアの報酬。<line-break>どうでしょう、やってもらえませんか？<end>"
+english = "I'm looking for <value:$15>. It's a material with all sorts of useful applications. I'd like an adventurer to find it. Please find it within <value:$1B> days for a reward of <value:$1A> Gea. Will you take the job?<end>"

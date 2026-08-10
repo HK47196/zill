@@ -1,0 +1,561 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1430000"]
+japanese = "グフトク、Ｖｏｌ１メッセージ開始<end>"
+english = ""
+
+["1430001"]
+japanese = "ここまでたどり着けるとは、<line-break>少しは腕が立つらしいな。<end>"
+english = "You made it this far. Looks like you've got some skill after all.<end>"
+
+["1430002"]
+japanese = "さぁて、どうだかな？            <line-break>\u3000<line-break>\u3000<line-break>最近じゃ、仕事にあぶれて<line-break>にわか冒険者で食いつないでる奴も<line-break>多いって言うぜ。<end>"
+english = "Oh, I don't know about that. I hear plenty of people are out of work these days and scraping by as would-be adventurers.<end>"
+
+["1430003"]
+japanese = "こいつらも、その口じゃねえのか？<line-break>運がいいだけのあぶれ者さ。<line-break>\u3000<end>"
+english = "Maybe that's all this lot is―jobless drifters who got lucky.<end>"
+
+["1430004"]
+japanese = "ならば、ひとつ<line-break>腕前を試させてもらおう。<end>"
+english = "Then let's see what you're made of.<end>"
+
+["1430005"]
+japanese = "久しぶりに暴れられる。<line-break>いくぜっ！<end>"
+english = "Been a while since I had a chance to cut loose. Let's go!<end>"
+
+["1430006"]
+japanese = "なかなか、やるじゃないさ。<end>"
+english = "Not bad. Not bad at all.<end>"
+
+["1430007"]
+japanese = "お、おかしら！<end>"
+english = "B-Boss!<end>"
+
+["1430008"]
+japanese = "気に入ったよ。<end>"
+english = "I like you.<end>"
+
+["1430009"]
+japanese = "<if><value:$01><equal>2あなた誰？<line-break>いったい、なんのマネよ！？ <end><if><value:$01><equal>3何者じゃ、お主は！？<line-break>名を名乗れ！ <end><if><value:$01><equal>5なんだあ、お前！ <end><if><value:$01><equal>6誰だよ、キミ！ <end><if><value:$01><equal>7あなた誰なの？<line-break>どういうつもり！？ <end><if><value:$01><equal>9あんた誰よ？ <end><if><value:$01><equal>11あなたたち誰なの？<line-break>どういうつもり！？ <end><if><value:$01><equal>13…貴様、何様のつもりだ？ <end><if><value:$01><equal>10なんだよ、お前！ <end><if><value:$01><equal>14何者じゃ、お主は！？ <end><if><value:$01><equal>17あんた、ナ・ニ・サ・マのつもり？<line-break>人間の分際で、その傲慢な態度！<line-break>ぜーったいに許せなくてよー！ <end><if><value:$01><equal>20…何者だ、<line-break>貴様ら？ <end><if><value:$01><equal>23何者だ？！<end><if><value:$01><equal>27何者だ？！<end><if><value:$01><equal>26何者じゃ？！<end><if><value:$01><equal>24いったい、なんのマネですか？！<end><if><value:$01><equal>25なんなの！\u3000あなた誰？<end><if><value:$01><equal>21無礼な！<line-break>誰だ貴様ら？ <end><if><value:$01><equal>192誰ですか？<end><if><value:$01><equal>193あのぉ…誰ですか？<end><if><value:$01><equal>194誰だ？<end><if><value:$01><equal>191あなた、誰？<line-break>何か用なの？<end><if><value:$01><equal>190お前たちは何者だ？ <line-break>これはいったいなんのマネだ！？<end>"
+english = "<if><value:$01><equal>2Who are you? What the hell was that?!<end><if><value:$01><equal>3Who are you?! State your name!<end><if><value:$01><equal>5Who the hell are you?!<end><if><value:$01><equal>6Who are you?!<end><if><value:$01><equal>7Who are you? What do you think you're doing?!<end><if><value:$01><equal>9Who are you?<end><if><value:$01><equal>11Who are you people? What do you think you're doing?!<end><if><value:$01><equal>13Just who do you think you are?<end><if><value:$01><equal>10Who the hell are you?!<end><if><value:$01><equal>14Who are you?!<end><if><value:$01><equal>17Just who do you think you are? A mere human, behaving with such arrogance! I will ab-so-lute-ly not stand for it!<end><if><value:$01><equal>20Who are you people?<end><if><value:$01><equal>23Who are you?!<end><if><value:$01><equal>27Who are you?!<end><if><value:$01><equal>26Who are you?!<end><if><value:$01><equal>24What is the meaning of this?!<end><if><value:$01><equal>25What's going on?! Who are you?<end><if><value:$01><equal>21Insolence! Who are you people?<end><if><value:$01><equal>192Who are you?<end><if><value:$01><equal>193Um... who are you?<end><if><value:$01><equal>194Who are you?<end><if><value:$01><equal>191Who are you? Do you want something?<end><if><value:$01><equal>190Who are you people? What is the meaning of this?!<end>"
+
+["1430010"]
+japanese = "この野郎！<line-break>おかしらに向かって、<line-break>なんて口のきき方だ！<end>"
+english = "You bastard! How dare you talk to the boss like that!<end>"
+
+["1430011"]
+japanese = "聞いておどろくなよ！      <line-break>このお方はな…<line-break>\u3000<line-break>ワッシャー海賊、第２代頭領<line-break>ヒルダリア様だ！<end>"
+english = "Brace yourself for a shock! This is none other than Lady Hildaria, second-generation chief of the Washer Pirates!<end>"
+
+["1430012"]
+japanese = "お黙りっ！<line-break>あんたら、引っ込んでな！<end>"
+english = "Quiet! Both of you, stand down!<end>"
+
+["1430013"]
+japanese = "へ、へい。<end>"
+english = "Y-Yes, boss.<end>"
+
+["1430014"]
+japanese = "聞いてのとおり、<line-break>私はヒルダリア。<line-break>\u3000<line-break>あんたたちの力、<line-break>試させてもらったよ。<end>"
+english = "As you heard, I'm Hildaria. I wanted to test your strength.<end>"
+
+["1430015"]
+japanese = "<if><value:$01><equal>3試したじゃと！？ <end><if><value:$01><equal>5試したぁ？ <end><if><value:$01><equal>13…試した、だと？ <end><if><value:$01><equal>10試したぁ？ <end><if><value:$01><equal>14試したじゃと！？ <end><if><value:$01><equal>17た、た、試したですって？ <end><if><value:$01><equal>20…試した、だと？ <end><if><value:$01><equal>21…試した、だと？ <end><if><value:$01><equal>23…試した、だと？ <end><if><value:$01><equal>26試したじゃと！？ <end><if><value:$01><equal>24試したのですか？！<end><if><value:$01><equal>192試した？<end><if><value:$01><equal>193試したって…？<end><if><value:$01><equal>194試しただって！？<end><if><value:$01><equal>191試した？<end><if><value:$01><equal>190試しただと？<end>試した！？ <end>"
+english = "<if><value:$01><equal>3You tested us?!<end><if><value:$01><equal>5Tested us?!<end><if><value:$01><equal>13You tested us?<end><if><value:$01><equal>10Tested us?!<end><if><value:$01><equal>14You tested us?!<end><if><value:$01><equal>17Y-You t-tested us?!<end><if><value:$01><equal>20You tested us?<end><if><value:$01><equal>21You tested us?<end><if><value:$01><equal>23You tested us?<end><if><value:$01><equal>26You tested us?!<end><if><value:$01><equal>24You were testing us?!<end><if><value:$01><equal>192A test?<end><if><value:$01><equal>193You tested us...?<end><if><value:$01><equal>194You tested us?!<end><if><value:$01><equal>191A test?<end><if><value:$01><equal>190You tested us?<end>You tested us?!<end>"
+
+["1430016"]
+japanese = "…怒るのも当然ね。<line-break>確かに汚いやり方だった。<line-break>その点は謝るわ。<line-break>でも、これで、<line-break>あんたたちが筋金入りの冒険者だって<line-break>ことがわかった。<end>"
+english = "You have every right to be angry. It was a dirty trick, and I apologize for that. But now I know you're adventurers through and through.<end>"
+
+["1430017"]
+japanese = "その腕を見込んで、<line-break>ひとつ頼みがあるのよ。<end>"
+english = "I've seen what you can do, and I have a favor to ask.<end>"
+
+["1430018"]
+japanese = "<if><value:$01><equal>4きゃっ、ガラの悪い女。<line-break>この人たち何者かしら？ <end><if><value:$01><equal>12そりゃ、光栄だね。<line-break>で、おたく…どちらさん？ <end><if><value:$01><equal>15あなたたちは誰！？<line-break>どういうつもりなの？ <end><if><value:$01><equal>19あんたたち、誰なのよぉ！ <end><if><value:$01><equal>25突然、襲ってくるなんて、<line-break>ひどい！<line-break>何者なの？ <end>突然、襲ってくるなんて、<line-break>ひどいんじゃない？<line-break>君たち、何者なの？ <end>"
+english = "<if><value:$01><equal>4Eek, what a rough-looking woman. Who are these people?<end><if><value:$01><equal>12I'm honored. And you would be...?<end><if><value:$01><equal>15Who are you people?! What do you think you're doing?<end><if><value:$01><equal>19Who are you people?!<end><if><value:$01><equal>25Attacking us out of nowhere like that was awful! Who are you?<end>Wasn't it rather awful to attack us out of nowhere? Who are you people?<end>"
+
+["1430019"]
+japanese = "聞いておどろくな！<line-break>俺たちはな…<line-break>洋上の王者、ワッシャー海賊！！<end>"
+english = "Brace yourself for a shock! We are the kings of the open sea―the Washer Pirates!<end>"
+
+["1430020"]
+japanese = "こちらにおられるのが、<line-break>第２代頭領、ヒルダリア様だ！<end>"
+english = "And this is our second-generation chief, Lady Hildaria!<end>"
+
+["1430021"]
+japanese = "どうだ！？\u3000怖じ気づいたか！<end>"
+english = "Well?! Scared now?<end>"
+
+["1430022"]
+japanese = "お黙りっ！<line-break>あんたら、引っ込んでな！<end>"
+english = "Quiet! Both of you, stand down!<end>"
+
+["1430023"]
+japanese = "へ、へい。<end>"
+english = ""
+
+["1430024"]
+japanese = "聞いてのとおり、<line-break>私はヒルダリア。<line-break>\u3000<line-break>あんたたちの力、<line-break>試させてもらったよ。<end>"
+english = "As you heard, I'm Hildaria. I wanted to test your strength.<end>"
+
+["1430025"]
+japanese = "<if><value:$01><equal>4試した？\u3000うっ…嫌な言葉。<line-break>魔道アカデミーの試験を<line-break>思い出しちゃうかも…。 <end><if><value:$01><equal>19試したぁ？ <end>試した？ <end>"
+english = "<if><value:$01><equal>4A test? Ugh... I hate that word. It reminds me of the exams at the Magic Academy...<end><if><value:$01><equal>19A test?!<end>A test?<end>"
+
+["1430026"]
+japanese = "見た目よりも、ずっと腕が立つようね。<line-break>その腕を見込んで頼みがあるの。<end>"
+english = "You're far more capable than you look. I've seen what you can do, and I have a favor to ask.<end>"
+
+["1430027"]
+japanese = "おいっ！<line-break>てめぇ態度でかいぞ！<line-break>おかしらに、それ以上近づくな！<end>"
+english = "Hey! Watch the attitude! Don't come any closer to the boss!<end>"
+
+["1430028"]
+japanese = "そうだ！<line-break>このお方を誰だと思ってんだ！<line-break>\u3000<line-break>ワッシャー海賊、第２代頭領<line-break>ヒルダリア様だぞ！<end>"
+english = "That's right! Do you have any idea who this is? Lady Hildaria, second-generation chief of the Washer Pirates!<end>"
+
+["1430029"]
+japanese = "どうだ！？\u3000驚いたか！\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "Well?! Surprised?<end>"
+
+["1430030"]
+japanese = "おだまり！<line-break>あんたら、引っ込んでな！<end>"
+english = "Quiet! Both of you, stand down!<end>"
+
+["1430031"]
+japanese = "へ、へい！<end>"
+english = ""
+
+["1430032"]
+japanese = "突然、襲いかかるなんて<line-break>卑怯なやり方だった。それは謝るわ。<line-break>でも、あんたの力を試したかったの。<line-break>あんた、<line-break>…思ったとおりのスゴ腕ね。<end>"
+english = "Attacking you out of nowhere was underhanded, and I apologize. But I wanted to test your strength. You're every bit as skilled as I expected.<end>"
+
+["1430033"]
+japanese = "その腕を見込んで、<line-break>ひとつ頼みがあるの。<end>"
+english = "I've seen what you can do, and I have a favor to ask.<end>"
+
+["1430034"]
+japanese = "ワッシャー海賊といえば、<line-break>知る人ぞ知る海の冒険者。<line-break>洋上に恐れるものはなかったわ。<line-break>それが、近ごろじゃ<line-break>船を陸へ上げて<line-break>朝から晩まで砦にこもりっきり。<end>"
+english = "Those in the know once called the Washer Pirates adventurers of the sea. There was nothing we feared on the open water. But lately our ships have stayed ashore, and we've been holed up in the fort from dawn to dusk.<end>"
+
+["1430035"]
+japanese = "どいつもこいつも<line-break>朝っぱらから飲んだくれて…<line-break>こいつらを見れば、わかるわね？<end>"
+english = "Every last one of them starts drinking first thing in the morning. One look at this lot should tell you enough.<end>"
+
+["1430036"]
+japanese = "おかしら、そりゃないっスよ。<line-break>俺たちだって、<line-break>好きでこうしてるわけじゃねえっス。<end>"
+english = "Aw, boss, that's not fair. It's not like we want to live this way.<end>"
+
+["1430037"]
+japanese = "<if><value:$01><equal>2海賊が陸に上がりっきり？<line-break>どうして海へ出ないの？ <end><if><value:$01><equal>3海賊が陸に上がりっきりじゃと？<line-break>いったい、何があったんじゃ？ <end><if><value:$01><equal>5海賊が陸に上がりっきりなんて<line-break>だらしねぇな。<line-break>なんで海に出ないんだよ？ <end><if><value:$01><equal>6海賊が陸に上がりっきり？<line-break>どうして海へ出ないの？ <end><if><value:$01><equal>7海賊が陸に上がりっきり？<line-break>いったい何があったの？ <end><if><value:$01><equal>9陸に上がったままの海賊なんて、<line-break>聞いたことないね。<line-break>海におっかない幽霊でも出るわけ？ <end><if><value:$01><equal>11海賊が陸に上がりっきりですって？<line-break>いったい、何があったの？ <end><if><value:$01><equal>13何が言いたい。<line-break>用件を言え。 <end><if><value:$01><equal>14海賊が陸に上がりっきりじゃと？<line-break>どういうことじゃ？ <end><if><value:$01><equal>17酔っぱらいのグチに付き合うなんて<line-break>まっぴらゴメンだわ！<line-break>さっさと用件を言いなさいよー！ <end><if><value:$01><equal>23…用件を言え。 <end><if><value:$01><equal>27海賊が陸に上がりっきり？<line-break>どうして海へ出ない？ <end><if><value:$01><equal>26海賊が陸に上がりっきりじゃと？<line-break>どういうことじゃ？ <end><if><value:$01><equal>24海賊が陸に上がったきり<line-break>だなんて…どうして？<end><if><value:$01><equal>25陸に上がったままの海賊なんて、<line-break>変な話ね。<line-break>何かあったの？<end><if><value:$01><equal>192どういうことでしょうか？<end><if><value:$01><equal>193どうして海に出ないんですか？<end><if><value:$01><equal>194海賊が陸に上がりっきり？<line-break>どういうことだ？<end><if><value:$01><equal>191海賊が陸に上がりっきりって、<line-break>どうしてなの？<end><if><value:$01><equal>190海賊のくせに陸に上がりっきり？ <line-break>どういうことだ？<end>海に化け物でも出るというのか？ <end>"
+english = "<if><value:$01><equal>2Pirates stuck on land? Why don't you go to sea?<end><if><value:$01><equal>3Pirates stranded ashore? What in the world happened?<end><if><value:$01><equal>5Pirates sitting around on land? That's pathetic. Why don't you go to sea?<end><if><value:$01><equal>6Pirates stuck on land? Why don't you go to sea?<end><if><value:$01><equal>7Pirates stuck on land? What happened?<end><if><value:$01><equal>9I've never heard of pirates who never leave shore. What, is there some terrifying ghost out at sea?<end><if><value:$01><equal>11Pirates stranded ashore? What in the world happened?<end><if><value:$01><equal>13Get to the point. What do you want?<end><if><value:$01><equal>14Pirates stranded ashore? What do you mean?<end><if><value:$01><equal>17I have no intention of listening to a bunch of drunks complain! Get to the point already!<end><if><value:$01><equal>23Get to the point.<end><if><value:$01><equal>27Pirates stuck on land? Why don't you go to sea?<end><if><value:$01><equal>26Pirates stranded ashore? What do you mean?<end><if><value:$01><equal>24Pirates who never leave shore... But why?<end><if><value:$01><equal>25Pirates who never leave shore? That's strange. Did something happen?<end><if><value:$01><equal>192What do you mean?<end><if><value:$01><equal>193Why don't you go to sea?<end><if><value:$01><equal>194Pirates stuck on land? What do you mean?<end><if><value:$01><equal>191Why are a band of pirates stuck on land?<end><if><value:$01><equal>190Pirates, yet you never leave shore? What do you mean?<end>Is there some monster out at sea?<end>"
+
+["1430038"]
+japanese = "<if><value:$01><equal>4うわっ、かなりお酒クサイかも。 <end><if><value:$01><equal>12海賊が陸に上がりっきりとはね。<line-break>何かわけありみたいだな。<line-break>いったい、何があったんだ？ <end><if><value:$01><equal>15海賊が陸に上がりっきり？<line-break>何があったんですか？ <end><if><value:$01><equal>19ほんと、お酒くさ～い。<line-break>でも、どうして海へ出ないのぉ？ <end>わっ！\u3000本当に、お酒くさい。<line-break>でも、どうして海へ出ないの？ <end>"
+english = "<if><value:$01><equal>4Whoa, it really reeks of booze.<end><if><value:$01><equal>12Pirates stranded ashore, eh? There must be a story behind that. What happened?<end><if><value:$01><equal>15Pirates stuck on land? What happened?<end><if><value:$01><equal>19Ugh, it really reeks of booze. But why don't you go to sea?<end>Whoa! It really reeks of booze. But why don't you go to sea?<end>"
+
+["1430039"]
+japanese = "大イカよ。<line-break>港近くにまで姿を現して、<line-break>船をかたっぱしから沈めてしまうの。<end>"
+english = "A giant squid. It's been appearing near the harbor and sinking every ship it finds.<end>"
+
+["1430040"]
+japanese = "ここらの海じゃ、ワッシャー海賊に<line-break>かなう奴はいなかった。<line-break>俺たちゃ、まさしく洋上の王者だった。<end>"
+english = "No one in these waters could stand against the Washer Pirates. We truly were the kings of the open sea.<end>"
+
+["1430041"]
+japanese = "それが、今じゃあよぉ～、<line-break>イカにおびえて船も出せねえ。<line-break>…これが飲まずにいられるかって。<end>"
+english = "But now we're too scared of a squid even to launch a ship. How can you expect us not to drink?<end>"
+
+["1430042"]
+japanese = "その大イカを<line-break>退治してもらいたいの。<end>"
+english = "I want you to kill that giant squid.<end>"
+
+["1430043"]
+japanese = "<if><value:$01><equal>2突然、襲いかかってきて、<line-break>今度は大イカを倒せって言うの？<line-break>ムシがよすぎるんじゃない？ <end><if><value:$01><equal>3突然、襲いかかってきておいて、<line-break>今度は大イカを倒せじゃと？<line-break>\u3000<line-break>少しばかり<line-break>ムシがよすぎではないか？ <end><if><value:$01><equal>5いきなりケンカ売っといて、<line-break>今度はイカをやっつけろだとぉ？<line-break>勝手すぎるぜ！ <end><if><value:$01><equal>6突然、襲いかかってきて、<line-break>今度は大イカを倒せって言うの？<line-break>そんなの、ムシがよすぎだよ！ <end><if><value:$01><equal>7ずいぶん、ムシがいい話ね。<line-break>突然、斬りかかられて、<line-break>そんな話に乗れると思う？ <end><if><value:$01><equal>9突然、襲いかかってきておいて、<line-break>今度は大イカを倒せぇ？<line-break>それって、ムシがよすぎじゃん？ <end><if><value:$01><equal>11ずいぶん、ムシがいい話ね。<line-break>突然、斬りかかられて、<line-break>そんな話に乗れると思う？ <end><if><value:$01><equal>13…ふざけるな。<line-break>貴様らを助ける筋合いはない。 <end><if><value:$01><equal>10ちょっと、待てよ！<line-break>いきなりケンカ売っておいて<line-break>今度はイカを退治しろだって？<line-break>俺たち、お前の子分じゃないんだぜ。 <end><if><value:$01><equal>14いきなりケンカ売っといて、<line-break>今度はイカを退治しろじゃと？<line-break>\u3000<line-break>少しばかり、<line-break>ムシがよすぎやせんか？ <end><if><value:$01><equal>17なんですって！？<line-break>ど・う・し・て、このアタクシが<line-break>イカの相手をしなきゃいけないのよ！ <end><if><value:$01><equal>20…ずいぶんと<line-break>ムシのいい話だな。 <end><if><value:$01><equal>23…ずいぶんと<line-break>ムシのいい話だな。 <end><if><value:$01><equal>27突然、斬りかかられて、<line-break>そんな話に乗れると思うか？ <end><if><value:$01><equal>26突然、襲いかかってきておいて、<line-break>今度は大イカを倒せじゃと？<end><if><value:$01><equal>24突然、襲われて、今度は<line-break>大イカを退治しろと…<line-break> <line-break>難しい相談ですね<end><if><value:$01><equal>25いきなり襲いかかってきておいて、<line-break>今度はイカを退治そろだなんて、<line-break>おかしな話じゃない？<end><if><value:$01><equal>192ずいぶんな話ですね。<line-break>襲ってきておいて助けろとは。<end><if><value:$01><equal>193いきなり襲いかかってきて<line-break>今度はイカを倒せだなんて…<line-break>ふざけないでください！<end><if><value:$01><equal>194突然襲いかかってきて<line-break>今度はイカを退治しろ？<line-break>ふざけるな。<end><if><value:$01><equal>191突然斬りかかってきた相手の<line-break>うさんくさい話に乗れると思う？<end><if><value:$01><equal>190ムシがよすぎる。 <line-break>突然襲いかかってきたくせに<line-break>イカを倒せだと？<end>そんな話に乗ると思うか？<line-break>\u3000<line-break>\u3000<line-break>いきなり斬りかかっておいて、<line-break>今度は大イカを退治しろだと？ <end>"
+english = "<if><value:$01><equal>2First you attack us, and now you want us to kill a giant squid? Don't you think that's asking a bit much?<end><if><value:$01><equal>3First you attack us, and now you ask us to kill a giant squid? Is that not a little presumptuous?<end><if><value:$01><equal>5First you pick a fight, and now you want us to kill a squid? You're asking way too much!<end><if><value:$01><equal>6First you attack us, and now you want us to kill a giant squid? That's asking way too much!<end><if><value:$01><equal>7That's awfully convenient for you. Do you really think we'd agree after you attacked us with swords?<end><if><value:$01><equal>9So first you attack us, and now you want us to kill a giant squid? Isn't that a little too convenient?<end><if><value:$01><equal>11That's awfully convenient for you. Do you really think we'd agree after you attacked us with swords?<end><if><value:$01><equal>13Don't be absurd. I have no reason to help you.<end><if><value:$01><equal>10Hold on! First you pick a fight, and now you want us to kill a squid? We're not your lackeys!<end><if><value:$01><equal>14First you pick a fight, and now you want us to kill a squid? Is that not asking a bit much?<end><if><value:$01><equal>17What?! Why in the world should someone like me have to fight a squid?!<end><if><value:$01><equal>20That's awfully convenient for you.<end><if><value:$01><equal>23That's awfully convenient for you.<end><if><value:$01><equal>27Do you really think we'd agree after you attacked us with swords?<end><if><value:$01><equal>26First you attack us, and now you ask us to kill a giant squid?<end><if><value:$01><equal>24First you attack us, and now you ask us to kill a giant squid... That is a difficult request.<end><if><value:$01><equal>25First you attack us, and now you want us to kill a squid? Doesn't that strike you as odd?<end><if><value:$01><equal>192That's quite a request. You attack us, then ask for our help.<end><if><value:$01><equal>193First you attack us, and now you want us to kill a squid... Don't be ridiculous!<end><if><value:$01><equal>194First you attack us, and now you want us to kill a squid? Don't be absurd.<end><if><value:$01><equal>191Do you really think we'd trust a shady story from someone who just attacked us with a sword?<end><if><value:$01><equal>190You're asking too much. You attack us, then demand that we kill a squid?<end>Do you really think we'd agree? First you attack us with swords, and now you want us to kill a giant squid?<end>"
+
+["1430044"]
+japanese = "…そうね。<line-break>勝手なことを言ってるって<line-break>私も思うわ。<end>"
+english = "You're right. I know I'm asking a lot.<end>"
+
+["1430045"]
+japanese = "<if><value:$01><equal>4突然、おそいかかってきておいて、<line-break>今度は大イカを倒せだなんて、<line-break>この女、かなり強引かも！ <end><if><value:$01><equal>12そりゃまたムシのいい話だな。<line-break>いきなり斬りかかった挙げ句に<line-break>イカを退治しろだって？ <end><if><value:$01><equal>15突然、おそいかかってきておいて、<line-break>今度は大イカを倒せって言うの？<line-break>それって、ムシがよすぎだよ！ <end><if><value:$01><equal>19そんなこと<line-break>急に言われたって困るよぉ。<line-break>ねぇ、<value:$28>？ <end>そんなこと<line-break>急に言われたって困るよ。<line-break>ねぇ、<value:$28>？ <end>"
+english = "<if><value:$01><equal>4First she attacks us, and now she wants us to kill a giant squid? This woman might be more than a little pushy!<end><if><value:$01><equal>12That's awfully convenient. First you attack us with swords, then you ask us to kill a squid?<end><if><value:$01><equal>15First you attack us, and now you want us to kill a giant squid? That's asking way too much!<end><if><value:$01><equal>19You can't spring something like that on us. Right, <value:$28>?<end>You can't spring something like that on us. Right, <value:$28>?<end>"
+
+["1430046"]
+japanese = "…そうね。<line-break>勝手なことを言ってるって<line-break>私も思うわ。<end>"
+english = "You're right. I know I'm asking a lot.<end>"
+
+["1430047"]
+japanese = "その大イカを<line-break>退治してもらいたいの。<line-break>あんたにさ。<end>"
+english = "I want you to kill that giant squid. You, specifically.<end>"
+
+["1430048"]
+japanese = "…そうね。<line-break>勝手なことを言ってるって<line-break>私も思うわ。<end>"
+english = "You're right. I know I'm asking a lot.<end>"
+
+["1430049"]
+japanese = "だから、こっちも<line-break>それなりの見返りを<line-break>出させてもらうわ。<end>"
+english = "That's why we're prepared to offer a suitable reward.<end>"
+
+["1430050"]
+japanese = "お、おかしら！<line-break>海賊が金を払うってんですかい？<end>"
+english = "B-Boss! Pirates paying money?!<end>"
+
+["1430051"]
+japanese = "下がってな！<end>"
+english = "Stand down!<end>"
+
+["1430052"]
+japanese = "お金で払いたいのはやまやまだけど、<line-break>今言ったとおり、<line-break>大イカのせいで景気が悪くてね。<end>"
+english = "I'd gladly pay you in coin, but as I said, the giant squid has been bad for business.<end>"
+
+["1430053"]
+japanese = "だから、どうかしら？<line-break>かわりに、私たちの足…<line-break>つまり船を自由に使えるというのは？<line-break>大イカを退治してくれたら、<line-break>普通の船じゃ立ち入れない、<line-break>危険な海を渡してあげるわ。<end>"
+english = "So how about this instead? You may use our means of travel―our ships―as you please. Kill the giant squid, and we'll take you across dangerous waters where ordinary ships cannot go.<end>"
+
+["1430054"]
+japanese = "しぶきの群島、闇の門の島、古城…。<line-break>ワッシャー海賊でなきゃ<line-break>渡れない島々へね。<line-break>冒険者にとっては、<line-break>悪い条件じゃないと思うけど？<end>"
+english = "The Spray Archipelago, the Island of the Dark Gate, the Old Castle... islands only the Washer Pirates can reach. Not a bad offer for an adventurer, wouldn't you say?<end>"
+
+["1430055"]
+japanese = "とにかく、<line-break>よく考えてみてちょうだい。<line-break>\u3000<line-break>…大イカは手強いわ。<end>"
+english = "In any case, think it over carefully. The giant squid is a formidable foe.<end>"
+
+["1430056"]
+japanese = "行くよ！<end>"
+english = "Let's go!<end>"
+
+["1430057"]
+japanese = "へい、おかしら！<end>"
+english = "Right, boss!<end>"
+
+["1430058"]
+japanese = "もし、大イカを退治する気になったら、<line-break>この先の砦に来てちょうだい。<line-break>\u3000<line-break>待ってるわ。<end>"
+english = "If you decide to kill the giant squid, come to the fort up ahead. I'll be waiting.<end>"
+
+["1430059"]
+japanese = "<if><value:$01><equal>2大イカ退治か…。<line-break>引き受けるかどうかは、<line-break><value:$28>に任せるわ。 <end><if><value:$01><equal>3大イカ退治のう…。<line-break>引き受けるかどうかは、<line-break><value:$28>に任せるぞ。 <end><if><value:$01><equal>6大イカ退治か…。<line-break>引き受けるかどうかは、<line-break><value:$28>に任せるよ。 <end><if><value:$01><equal>7引き受けるかどうかは、<line-break><value:$28>に任せるわ。 <end><if><value:$01><equal>9大イカ退治ねぇ…。<line-break>\u3000<line-break>\u3000<line-break>まぁ、<value:$28>が<line-break>助けてやりたいって言うなら<line-break>付き合ってやってもいいけどね。 <end><if><value:$01><equal>11大イカ退治の依頼、<line-break>引き受けるかどうかは、<line-break><value:$28>に任せるわ。 <end><if><value:$01><equal>13大イカ退治だと…。<line-break>くだらん。<line-break>時間の無駄だ。 <end><if><value:$01><equal>14大イカ退治のう…。<line-break>どうしたものか…。 <end><if><value:$01><equal>17なんなのよ、あの態度！<line-break>さぁ、帰るのよ、<value:$28>！<line-break>アタクシ、イカなんてまっぴらだわ！ <end><if><value:$01><equal>20…どうするかは、<line-break>お前が決めろ。 <end><if><value:$01><equal>21ふん、礼儀を知らぬ女だ。 <end><if><value:$01><equal>23引き受けるかどうかは、<line-break><value:$28>に任せよう。<end><if><value:$01><equal>26大イカ退治…。<line-break>どうしたものか…。 <end><if><value:$01><equal>24大イカ退治ですか…。<line-break>どうなさいますか？<line-break><value:$28>様<end><if><value:$01><equal>25大イカ退治ね…。<end><if><value:$01><equal>192大イカ退治ですか。<line-break>私は貴方の決定に従います。<end><if><value:$01><equal>193大イカ退治…。<line-break>どうするかは<line-break><value:$28>さんに任せます。<end><if><value:$01><equal>194下らない…。<line-break>どうするかは<line-break><value:$28>が決めてくれ。<end><if><value:$01><equal>191大イカ退治ね。<line-break><value:$28>がやりたいなら<line-break>付き合ってもいいわ。<end><if><value:$01><equal>190どうするかは<line-break><value:$28>が決めてくれ。<end>なんか、気に入らねえな。<line-break>カッコつけやがって。 <end>"
+english = "<if><value:$01><equal>2Killing a giant squid... I'll leave it to <value:$28> to decide whether we accept.<end><if><value:$01><equal>3Slaying a giant squid... I shall leave the decision to <value:$28>.<end><if><value:$01><equal>6Killing a giant squid... I'll let <value:$28> decide whether we take the job.<end><if><value:$01><equal>7I'll leave it to <value:$28> to decide whether we accept.<end><if><value:$01><equal>9Killing a giant squid, eh? Well, if <value:$28> wants to help, I suppose I could come along.<end><if><value:$01><equal>11I'll leave it to <value:$28> to decide whether we accept the giant-squid job.<end><if><value:$01><equal>13Killing a giant squid? Ridiculous. A waste of time.<end><if><value:$01><equal>14Slaying a giant squid... What are we to do?<end><if><value:$01><equal>17What was with that attitude?! Come, <value:$28>, we're leaving! I want nothing to do with any squid!<end><if><value:$01><equal>20You decide what to do.<end><if><value:$01><equal>21Hmph. What an ill-mannered woman.<end><if><value:$01><equal>23I shall leave it to <value:$28> to decide whether we accept.<end><if><value:$01><equal>26Slaying a giant squid... What are we to do?<end><if><value:$01><equal>24A giant squid... How do you wish to proceed, <value:$28>?<end><if><value:$01><equal>25Killing a giant squid...<end><if><value:$01><equal>192Slaying a giant squid... I will abide by your decision.<end><if><value:$01><equal>193Killing a giant squid... I'll leave the decision to <value:$28>.<end><if><value:$01><equal>194Ridiculous... Let <value:$28> decide what to do.<end><if><value:$01><equal>191Killing a giant squid, eh? If <value:$28> wants to do it, I suppose I could come along.<end><if><value:$01><equal>190Let <value:$28> decide what to do.<end>Something about her rubs me the wrong way. Always trying to look so impressive.<end>"
+
+["1430060"]
+japanese = "<if><value:$01><equal>4<value:$28>ったら<line-break>意外と真剣な目つき…。<line-break>まさか大イカと戦うつもりかしら。 <end><if><value:$01><equal>15大イカ退治の依頼、どうしよう？<line-break>引き受けるかどうかは<line-break><value:$28>が決めて。 <end><if><value:$01><equal>12大イカ退治の依頼、どうする？<line-break>引き受けるかどうかは<line-break><value:$28>が決めてくれ。 <end><if><value:$01><equal>19ねぇ、<value:$28>。<line-break>大イカ退治の依頼、<line-break>どーするのぉ？ <end>大イカって、どのくらい大きいのかな。<line-break>あまり、キレイじゃないだろうけど、<line-break>僕、見てみたいな。 <end>"
+english = "<if><value:$01><equal>4<value:$28> looks surprisingly serious... Could this mean taking on the giant squid?<end><if><value:$01><equal>15What should we do about the giant-squid job? <value:$28>, you decide whether we take it.<end><if><value:$01><equal>12What should we do about the giant-squid job? <value:$28>, you decide whether we take it.<end><if><value:$01><equal>19Hey, <value:$28>. What are we going to do about that giant-squid job?<end>I wonder how big the giant squid is. It probably isn't very pretty, but I'd like to see it.<end>"
+
+["1430061"]
+japanese = "おかしら、<line-break>こいつ、どうします？<end>"
+english = "Boss, what should we do with this one?<end>"
+
+["1430062"]
+japanese = "残念ね。<line-break>少しは期待してたんだけど…。<line-break>\u3000<line-break>あんたらに勝てないようじゃ、<line-break>話にならないね。<line-break>森の入り口に捨ててきな。<end>"
+english = "What a shame. I had such hopes, too. But anyone who can't beat the likes of you is no use to me. Dump this one at the entrance to the forest.<end>"
+
+["1430063"]
+japanese = "<if><value:$01><equal>2<value:$28>！<line-break><value:$28>、大丈夫？ <end><if><value:$01><equal>10姉ちゃん！\u3000大丈夫か？ <end><if><value:$01><equal>24<value:$28>様！<end><if><value:$01><equal>25大丈夫？！<end><if><value:$01><equal>192大丈夫ですか？<end><if><value:$01><equal>193<value:$28>さん！<line-break>大丈夫ですか！？<end><if><value:$01><equal>194<value:$28>！<line-break>大丈夫か！？<end><if><value:$01><equal>191<value:$28>。<line-break>大丈夫？<end><if><value:$01><equal>190大丈夫か！？<line-break><value:$28>！<end><value:$28>！ <end>"
+english = "<if><value:$01><equal>2<value:$28>! <value:$28>, are you all right?<end><if><value:$01><equal>10Sis! Are you all right?<end><if><value:$01><equal>24<value:$28>!<end><if><value:$01><equal>25Are you all right?!<end><if><value:$01><equal>192Are you all right?<end><if><value:$01><equal>193<value:$28>! Are you all right?!<end><if><value:$01><equal>194<value:$28>! Are you all right?!<end><if><value:$01><equal>191<value:$28>. Are you okay?<end><if><value:$01><equal>190Are you all right, <value:$28>?!<end><value:$28>!<end>"
+
+["1430064"]
+japanese = "<if><value:$01><equal>2もう、なんなのよ。<line-break>さっきの奴ら！<line-break>\u3000<line-break>今度会ったら、<line-break>ただじゃおかないから。 <end><if><value:$01><equal>3なんじゃ、さっきの賊どもは？<line-break>この森は奴らの縄張りか？<line-break>\u3000<line-break>じゃが、この借りは<line-break>返さねばならんぞ。 <end><if><value:$01><equal>4どうにか、<value:$28>も<line-break>無事みたい。<line-break>\u3000<line-break>せっかく森の奥まで来たのに…<line-break>無駄な一日だったかも。 <end><if><value:$01><equal>5くっそおぉ！<line-break>なんなんだよ、あいつら！<line-break>\u3000<line-break>今度会ったら<line-break>ただじゃおかないからな！ <end><if><value:$01><equal>6ひどいよ、あの人たち、<line-break>いきなりおそってくるなんて。<line-break>今度会ったら許さないから。 <end><if><value:$01><equal>7ひどい目にあったわね。<line-break>あいつら、今度会ったら<line-break>ただじゃおかない。 <end><if><value:$01><equal>9いやぁ、まいったまいった。<line-break>完敗っスねえ。<line-break>\u3000<line-break>この借りは利子つけて返すから、<line-break>そのつもりでいてよねん。 <end><if><value:$01><equal>11やられたわね。<line-break>こんど、あの連中にあったら、<line-break>この借りを返さないとね。 <end><if><value:$01><equal>12こっぴどくやられたもんだ。<line-break>完敗だな。<line-break>\u3000<line-break>この借りは返さにゃならんな。<line-break>…しかし、あいつら何者だ？ <end><if><value:$01><equal>13…この借りは<line-break>必ず返す。 <end><if><value:$01><equal>10なんなんだよ、あいつら。<line-break>今度会ったら、<line-break>ただじゃおかねえからな。 <end><if><value:$01><equal>14なんじゃ、さっきの賊どもは？<line-break>このままで済むと思ったら<line-break>大間違いじゃ。 <end><if><value:$01><equal>15ひどい目にあったね。<line-break>でも、あの人たち、<line-break>何者なんだろう？ <end><if><value:$01><equal>17だから、こんな森に入るのは<line-break>イヤだって言ったのよ。<line-break>\u3000<line-break><value:$28>と一緒だと<line-break>本当にろくなことがないわ！ <end><if><value:$01><equal>19ねぇ、大丈夫？<line-break>ひどい目にあっちゃったね。<line-break>\u3000<line-break>さっきのおじさんたち<line-break>誰なんだろう？ <end><if><value:$01><equal>20…この借りは<line-break>必ず返してやる。 <end><if><value:$01><equal>21派手にやられたな。<line-break>\u3000<line-break>\u3000<line-break>だが、次に会ったときは<line-break>こはいかない。 <end><if><value:$01><equal>23やられたな。<line-break>この借りは返さなければな。<end><if><value:$01><equal>27…この借りは<line-break>必ず返さないとな。 <end><if><value:$01><equal>26ひどい目にあった…。<line-break>しかし、何者だったのじゃ？<end><if><value:$01><equal>24次は…必ず…。<end><if><value:$01><equal>25大丈夫だった？<line-break>ひどい目にあったね。<line-break> <line-break>さっきの…誰だったのかな？<end><if><value:$01><equal>192それでは戻りましょう。<end><if><value:$01><equal>193それにしても、<line-break>さっきの人たちって…<line-break>いったいなんだったんでしょう？<end><if><value:$01><equal>194…<value:$28>を傷つけた報い、<line-break>必ず受けさせてやる。<end><if><value:$01><equal>191もうっ、いったいなんなの！？<line-break>今度会ったら100倍返しね！<end><if><value:$01><equal>190くっ、ひどい目にあった。<line-break>奴ら、いったいなんだったんだ？<line-break>\u3000<line-break>いつか、この借りは必ず返す！<end>もう！\u3000<line-break>ひどいよ、あの人たち。<line-break>今度会ったら、許さないから。 <end>"
+english = "<if><value:$01><equal>2What was that about? Those creeps! Next time I see them, they'll pay.<end><if><value:$01><equal>3Who were those brigands? Is this forest their territory? Whatever the case, I must settle this score.<end><if><value:$01><equal>4At least <value:$28> seems to be safe. We came all the way into the depths of the forest, and it may have been a wasted day.<end><if><value:$01><equal>5Damn it! What was with those bastards? Next time I see them, they'll pay!<end><if><value:$01><equal>6That was awful! Attacking us out of nowhere like that... Next time we meet, I won't let them off!<end><if><value:$01><equal>7That was dreadful. Next time I see those bastards, they'll pay.<end><if><value:$01><equal>9Well, they certainly got us. A total defeat. But I'll pay that debt back with interest, so they'd better be ready.<end><if><value:$01><equal>11They got us. Next time we run into that lot, we'll have to repay the favor.<end><if><value:$01><equal>12They gave us quite a beating. A total defeat. We'll have to repay that debt. Still, who were they?<end><if><value:$01><equal>13I'll settle this score. Without fail.<end><if><value:$01><equal>10What was with those bastards? Next time I see them, they'll pay.<end><if><value:$01><equal>14Who were those brigands? If they think this is over, they're sorely mistaken.<end><if><value:$01><equal>15That was awful. But who were those people?<end><if><value:$01><equal>17I told you I didn't want to go into a forest like this! Nothing good ever happens when I'm with <value:$28>!<end><if><value:$01><equal>19Hey, are you okay? That was awful. I wonder who those men were.<end><if><value:$01><equal>20I'll make sure to settle this score.<end><if><value:$01><equal>21They gave us quite a beating. But things will be different the next time we meet.<end><if><value:$01><equal>23They got us. We'll have to repay the favor.<end><if><value:$01><equal>27I have to settle this score. Without fail.<end><if><value:$01><equal>26That was dreadful... But who were they?<end><if><value:$01><equal>24Next time... without fail...<end><if><value:$01><equal>25Are you okay? That was awful. Who was that back there?<end><if><value:$01><equal>192Let us return, then.<end><if><value:$01><equal>193Still, those people... What in the world were they?<end><if><value:$01><equal>194I will make them pay for hurting <value:$28>.<end><if><value:$01><equal>191Oh, what was that about?! Next time I see them, I'll pay them back a hundredfold!<end><if><value:$01><equal>190Damn, they gave us a beating. Who the hell were they? Someday, I'll settle this score!<end>Ugh! Those people were awful. Next time we meet, I won't let them off!<end>"
+
+["1430065"]
+japanese = "（さっきの連中は、いったい…）<end>"
+english = "(Who were those people...?)<end>"
+
+["1430066"]
+japanese = "おかしら、こいつどうします？<end>"
+english = ""
+
+["1430067"]
+japanese = "残念ね。<line-break>少しは期待したんだけど…。<line-break>\u3000<line-break>ま、あんたたちに勝てないようじゃ、<line-break>話にならないわね。<line-break>森の入り口に捨ててきな。<end>"
+english = ""
+
+["1430068"]
+japanese = "来てくれると思っていたわ。<line-break>大イカを退治してくれるのね？<line-break>\u3000<line-break>もう準備はできているのかしら？<end>"
+english = "I thought you'd come. You're going to take care of the giant squid, aren't you? Are you ready?<end>"
+
+["1430069"]
+japanese = "もう少し待って<end>"
+english = "I need a little more time.<end>"
+
+["1430070"]
+japanese = "もちろん<end>"
+english = "Of course.<end>"
+
+["1430071"]
+japanese = "わかったわ。<line-break>準備を調えてから来てちょうだい。<end>"
+english = "All right. Come back when you're ready.<end>"
+
+["1430072"]
+japanese = "大イカは手強いわ。<line-break>装備は抜かりないようにね。<end>"
+english = "The giant squid is a tough one. Make sure you're properly equipped.<end>"
+
+["1430073"]
+japanese = "もう、作戦は立ててあるの。<line-break>聞いて。<line-break>\u3000<line-break>海の中で戦っても<line-break>こっちに勝ち目はないわ。<line-break>だから、大イカを港におびき寄せる。<end>"
+english = "I've already got a plan. Listen. We don't stand a chance fighting it in the water, so we'll lure the giant squid into the harbor.<end>"
+
+["1430074"]
+japanese = "海面で音を立てれば、<line-break>すぐに寄ってくるはず。<line-break>そこまでは、私らでやるわ。<line-break>大イカが港に上がってきたら<line-break>あとは、あんたたちの仕事よ。<line-break>大イカの息の根を止めてちょうだい。<end>"
+english = "If we make enough noise on the surface, it should come straight to us. We'll handle that part. Once the giant squid comes into the harbor, the rest is up to you. Finish it off.<end>"
+
+["1430075"]
+japanese = "お呼びっスか？\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "You called?<end>"
+
+["1430076"]
+japanese = "今すぐ、大イカを<line-break>港におびき寄せな。<end>"
+english = "Lure the giant squid into the harbor. Now.<end>"
+
+["1430077"]
+japanese = "え、ええっ？<line-break>どうしてまた、そんな…。<end>"
+english = "W-What? Why would you want me to do that...?<end>"
+
+["1430078"]
+japanese = "大イカを退治するに<line-break>決まってんだろ！<end>"
+english = "Because we're going to kill the giant squid, what else?<end>"
+
+["1430079"]
+japanese = "あの化け物をですかい！？<line-break>\u3000<end>"
+english = "You mean that monster?!<end>"
+
+["1430080"]
+japanese = "いいから、さっさと大イカを<line-break>港に誘い出すんだよ！<line-break>\u3000<line-break>あんたひとりで無理なら、<line-break>他の飲んだくれどもを<line-break>たたき起こしな！<end>"
+english = "Enough! Get out there and lure that giant squid into the harbor! If you can't do it alone, go wake up the rest of those drunks!<end>"
+
+["1430081"]
+japanese = "へ、へい！\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "Y-Yes!<end>"
+
+["1430082"]
+japanese = "ワッシャー海賊の命運が<line-break>かかってるんだ。<line-break>失敗は許さないよ！<end>"
+english = "The fate of the Washer Pirates is riding on this. You'd better not fail!<end>"
+
+["1430083"]
+japanese = "大丈夫、あいつらだって海の男さ。<line-break>大イカをおびき出すくらいのことは<line-break>簡単にやってのけるよ。<end>"
+english = "Don't worry. They're men of the sea. Luring out a giant squid will be easy for them.<end>"
+
+["1430084"]
+japanese = "…そういや、<line-break>まだ名前を聞いてなかったね。<line-break>教えてもらえる？<end>"
+english = "Say, I never got your name. Mind telling me?<end>"
+
+["1430085"]
+japanese = "うまくいったら、<line-break>約束どおり船に乗せてあげるわ、<line-break><value:$28>。<end>"
+english = "Pull this off, and I'll let you aboard the ship, just as I promised, <value:$28>.<end>"
+
+["1430086"]
+japanese = "遅いね…。<end>"
+english = "What's taking so long...?<end>"
+
+["1430087"]
+japanese = "お、おかしら！<line-break>大イカが…大イカが現れたッス！<end>"
+english = "C-Captain! The giant squid... it's here!<end>"
+
+["1430088"]
+japanese = "<value:$28>、行くよ！<end>"
+english = "Let's go, <value:$28>!<end>"
+
+["1430089"]
+japanese = "港で大イカがお待ちかねだぜ。<end>"
+english = "There's a giant squid waiting for you down at the harbor.<end>"
+
+["1430090"]
+japanese = "あんたらだけが頼りなんだ。<end>"
+english = "You're the only ones we can count on.<end>"
+
+["1430091"]
+japanese = "大イカを港におびき寄せました。<line-break>あとは頼みます。<end>"
+english = "The giant squid's been lured into the harbor. The rest is up to you.<end>"
+
+["1430092"]
+japanese = "大イカは港にいる。<line-break>早いとこ退治してくんな。<end>"
+english = "The giant squid's in the harbor. Hurry up and kill it, will ya?<end>"
+
+["1430093"]
+japanese = "大イカを倒すまで<line-break>この砦からは出さないぜ！<end>"
+english = "I'm not letting you out of this fort until you've taken down the giant squid!<end>"
+
+["1430094"]
+japanese = "さあ、頼んだよ、<line-break><value:$28>！<end>"
+english = "All right, I'm counting on you, <value:$28>!<end>"
+
+["1430095"]
+japanese = "やった！<line-break>これでまた海に出られるぜ！<end>"
+english = "We did it! We can finally get back out to sea!<end>"
+
+["1430096"]
+japanese = "私の目に狂いはなかった。<line-break>さすがだね、<value:$28>。<end>"
+english = "I knew I hadn't misjudged you. Nicely done, <value:$28>.<end>"
+
+["1430097"]
+japanese = "さあ、早いとこ船を港に戻しな。<end>"
+english = "Now hurry up and get the ship back to port.<end>"
+
+["1430098"]
+japanese = "へい、おかしら！<end>"
+english = "Right, boss!<end>"
+
+["1430099"]
+japanese = "助かったわ、<value:$28>。<line-break>おかげで、また船を出せる。<line-break>秘宝探しに出られるわ。<end>"
+english = "You really helped us out, <value:$28>. Thanks to you, we can set sail again and get back to searching for hidden treasure.<end>"
+
+["1430100"]
+japanese = "私らは、海賊って言っても<line-break>まっとうな仕事をしてる人間から<line-break>金を巻き上げたりはしてないわ。<end>"
+english = "We may be pirates, but we don't go around shaking down honest folk.<end>"
+
+["1430101"]
+japanese = "言ってみれば、海の冒険者ね。<line-break>人知れず眠っている宝を求めて<line-break>島々をめぐっているの。<line-break>かつて海賊が隠した<line-break>財宝とかをさ…。<end>"
+english = "You might call us seafaring adventurers. We travel from island to island in search of treasure no one knows is there―things like hoards hidden by pirates long ago.<end>"
+
+["1430102"]
+japanese = "約束どおり、これからは、<line-break>あんたたちのためにも<line-break>船を出してあげるわ。<line-break>埠頭にいる船番に頼んでちょうだい。<line-break>いつでも好きな場所へ<line-break>連れていってあげる。<end>"
+english = "As promised, from now on we'll give you passage too. Just speak to the shipkeeper at the wharf. We'll take you wherever you like, whenever you like.<end>"
+
+["1430103"]
+japanese = "しぶきの群島、古城、<line-break>闇の門の島について知りたければ、<line-break>また、私の所に来て。<line-break>今度、話してあげるわ。<end>"
+english = "If you want to know about the Spray Archipelago, the Old Castle, or the Island of the Dark Gate, come see me again. I'll tell you about them next time.<end>"
+
+["1430104"]
+japanese = "<value:$28>じゃない。<line-break>私に何か用？<end>"
+english = "Well, if it isn't <value:$28>. Do you need something from me?<end>"
+
+["1430105"]
+japanese = "闇の門の島とは？<end>"
+english = "What is the Island of the Dark Gate?<end>"
+
+["1430106"]
+japanese = "古城とは？<end>"
+english = "What is the Old Castle?<end>"
+
+["1430107"]
+japanese = "しぶきの群島とは？<end>"
+english = "What is the Spray Archipelago?<end>"
+
+["1430108"]
+japanese = "また今度<end>"
+english = "Maybe next time.<end>"
+
+["1430109"]
+japanese = "島の真ん中に、隕石が落ちたような<line-break>大きな穴があるの。<line-break>穴の底は深くて、まったく見えないわ。<line-break>きっとそれが、<line-break>闇の門という名の由来ね。<end>"
+english = "There's a huge crater in the middle of the island, as if a meteor struck it. It's so deep you can't see the bottom at all. That must be where the name Gate of Darkness comes from.<end>"
+
+["1430110"]
+japanese = "いつだったか、<line-break>あの穴へ降りてみようと思ったけど<line-break>そばまで行って、あきらめたわ。<line-break>あそこには、人の進入を拒む<line-break>何かがあるのよ。<end>"
+english = "I once thought about climbing down into that crater, but I gave up when I got close. There's something there that refuses to let people enter.<end>"
+
+["1430111"]
+japanese = "その名のとおり古い城よ。<line-break>気味の悪い城で、<line-break>私もまだ中へ入ったことはないわ。<end>"
+english = "It's an old castle, just as the name suggests. It's eerie, and I haven't been inside yet either.<end>"
+
+["1430112"]
+japanese = "美しい島よ。<line-break>古代の生物がそのままの姿で<line-break>生息しているの。<line-break>でも危険な所だわ。<line-break>外部の者を寄せ付けないからこそ、<line-break>あの美しさを保っているのね。<end>"
+english = "It's a beautiful island, where creatures from ancient times still live unchanged. But it's dangerous. I suppose it has kept its beauty precisely because it won't allow outsiders near.<end>"
+
+["1430113"]
+japanese = "目の前にイイ女がいるのに…。<line-break>たまには、他のことを聞いたらどう？<end>"
+english = "You've got a fine woman standing right in front of you... Why not ask about something else for a change?<end>"
+
+["1430114"]
+japanese = "もう…。今さら遅いわよ。<line-break>\u3000<line-break>\u3000<line-break>どうせ、賊を仕切ってる私なんて、<line-break>女には見えやしないだろうしね。<end>"
+english = "Oh, honestly... It's too late now. I suppose a woman who leads a band of outlaws doesn't look much like a woman to you anyway.<end>"
+
+["1430115"]
+japanese = "いいのよ。<line-break>これが私の使命なんだから。<end>"
+english = "It's all right. This is my mission, after all.<end>"
+
+["1430116"]
+japanese = "ごめんなさい。<line-break>突っかかったりして。<line-break>また、来てちょうだいね。<end>"
+english = "I'm sorry for snapping at you. Come and see me again, will you?<end>"
+
+["1430117"]
+japanese = "ええ。待ってるわ。<line-break><value:$28>とは<line-break>いい友だちになれそうね。<end>"
+english = "Yes. I'll be waiting. I think <value:$28> and I could become good friends.<end>"
+
+["1430118"]
+japanese = "せっかく来たのに、もう帰るって？<line-break>待ってる女でもいるの？<end>"
+english = "You came all this way, and now you're leaving already? Is there a woman waiting for you?<end>"
+
+["1430119"]
+japanese = "ああ、そう。<line-break>それじゃ、好きにしな。<line-break>ほら、さっさと帰りなよ。<end>"
+english = ""
+
+["1430120"]
+japanese = "憎らしい男だね！<end>"
+english = "You awful man!<end>"
+
+["1430121"]
+japanese = "ええ。<line-break>また顔を見せてちょうだい。<line-break>\u3000<line-break>むさ苦しい男どもの相手ばかりじゃ<line-break>気がめいるわ。<end>"
+english = "Yes. Come and see me again. Having no one but scruffy men for company gets depressing.<end>"
+
+["1430122"]
+japanese = "元気そうで安心したわ。<line-break>また顔を見せてちょうだい。<end>"
+english = "I'm relieved to see you're doing well. Come and see me again.<end>"
+
+["1430123"]
+japanese = "約束通り、いつでも船は出すよ。<line-break>必要なら船番に話しかけてちょうだい。<end>"
+english = "As promised, I'll send the ship out whenever you need it. Just speak to whoever's tending it.<end>"
+
+["1430124"]
+japanese = "気をつけてね。<end>"
+english = "Take care.<end>"
+
+["1430125"]
+japanese = "大イカ退治、見事だったよ。<line-break>今度は俺たちが体をはる番だ。<line-break>出航の準備はできてるがどうする？<end>"
+english = "Fine work taking down that giant squid. Now it's our turn to risk our necks. We're ready to set sail. What do you say?<end>"
+
+["1430126"]
+japanese = "よろしく頼む<end>"
+english = "I'm counting on you.<end>"
+
+["1430127"]
+japanese = "また今度<end>"
+english = "Maybe next time.<end>"
+
+["1430128"]
+japanese = "大イカが港を荒らすもんで、<line-break>船は安全な場所へ移してある。<line-break>\u3000<line-break>まったく…、<line-break>船に乗れない海賊なんて<line-break>さえないものだな。<end>"
+english = "With that giant squid tearing up the harbor, the ship's been moved somewhere safe. Damn. A pirate who can't take to sea is a sorry sight.<end>"
+
+["1430129"]
+japanese = "おっと、お仲間以外に<line-break>余計なお連れさんがいるんじゃ\u3000\u3000\u3000\u3000<line-break>船には乗せられないぜ。<line-break>素性のわからない人間は<line-break>船に乗せないってのがおきてだからな。<line-break>悪いな。<end>"
+english = "Hold on. If you've got someone tagging along besides your usual companions, I can't let you aboard. We have a rule against taking anyone whose identity we don't know. Sorry.<end>"
+
+["1430130"]
+japanese = "グフトクＶｏｌ１予備メッセージ2<end>"
+english = ""
+
+["1430131"]
+japanese = "グフトクＶｏｌ１予備メッセージ3<end>"
+english = ""
+
+["1430132"]
+japanese = "グフトクＶｏｌ１予備メッセージ4<end>"
+english = ""
+
+["1430133"]
+japanese = "グフトクＶｏｌ１予備メッセージ5<end>"
+english = ""
+
+["1430134"]
+japanese = "グフトクＶｏｌ１予備メッセージ6<end>"
+english = ""
+
+["1430135"]
+japanese = "グフトクＶｏｌ１予備メッセージ7<end>"
+english = ""
+
+["1430136"]
+japanese = "グフトクＶｏｌ１予備メッセージ8<end>"
+english = ""
+
+["1430137"]
+japanese = "グフトクＶｏｌ１予備メッセージ9<end>"
+english = ""
+
+["1430138"]
+japanese = "グフトクＶｏｌ１予備メッセージ10<end>"
+english = ""
+
+["1430139"]
+japanese = "グフトク、Ｖｏｌ１メッセージ終端<end>"
+english = ""

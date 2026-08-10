@@ -1,0 +1,113 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["610000"]
+japanese = "アンギルダン・ボリューム４用開始<end>"
+english = ""
+
+["610001"]
+japanese = "待て。<end>"
+english = "Wait.<end>"
+
+["610002"]
+japanese = "おー、恐い恐い。<line-break>ま、そう、かまえなさんなって。<line-break>今日は仕事で来たわけじゃない。<line-break>ま、いいお宝がないか<line-break>探しに来たわけだから、<line-break>仕事と言えば仕事だが…。<end>"
+english = "Ooh, scary, scary. Come on, don't be so tense. I'm not here on business today. Well, I did come looking for treasure, so I suppose that counts as business...<end>"
+
+["610003"]
+japanese = "よう、また会ったな。<end>"
+english = "Hey, we meet again.<end>"
+
+["610004"]
+japanese = "竜の死骸か…。<end>"
+english = "A dragon's carcass...<end>"
+
+["610005"]
+japanese = "この世界にいる竜は７匹。<line-break>竜王、翔王、海王の３聖竜。\u3000\u3000\u3000<line-break>\u3000<line-break>…そして<line-break>アズラゴーザ、イシュバアル、<line-break>エルアザル、シャンマの４邪竜…。<end>"
+english = "There are seven dragons in this world. The three Sacred Dragons: the Dragon King, the Soaring King, and the Sea King. And the four Evil Dragons: Azragoza, Ishbaal, Elazar, and Shamma...<end>"
+
+["610006"]
+japanese = "これまで竜に打ち勝ったものはふたり。<line-break>初代ドワーフ王のボルキスと<line-break>賢王アルキュオネの忘れられた剣士…。<line-break>ボルキスはシャンマを屈服させたのみ。<line-break>こいつは、忘れられた剣士に殺された<line-break>邪竜エルアザルの死体ってわけだ。<end>"
+english = "Only two have ever bested a dragon: Borkis, the first Dwarf King, and Wise King Alcyone's Forgotten Swordsman. Borkis merely forced Shamma to submit. This, then, is the carcass of the Evil Dragon Elazar, slain by the Forgotten Swordsman.<end>"
+
+["610007"]
+japanese = "…まだ、怨念が残っている。<end>"
+english = "There's still some lingering malice...<end>"
+
+["610008"]
+japanese = "…絶対に、急には動くな。<line-break>ゆっくりと、静かに出て行くんだ。<end>"
+english = "Whatever you do, don't make any sudden moves. Get out slowly and quietly.<end>"
+
+["610009"]
+japanese = "訂正するぜ。死体じゃない。<line-break>最悪だ。<line-break>アンデッド化してやがった。<end>"
+english = "Correction. It's not a carcass. This is the worst. The damned thing's become undead.<end>"
+
+["610010"]
+japanese = "うかつに動くと、<line-break>目を覚ますな、こいつ。<line-break>そうなったら、えらい目に会う。<line-break>ここはとっとと<line-break>ずらかった方がいいだろうな。<end>"
+english = "Move carelessly and this thing will wake up. Then there'll be hell to pay. Best get out of here, and fast.<end>"
+
+["610011"]
+japanese = "急いで、ここを出ろ。<line-break>だたし、動作はゆっくりとな。<end>"
+english = "Get out of here quickly. Just move slowly.<end>"
+
+["610012"]
+japanese = "さて、俺は重要な情報を<line-break>お前にやったわけだが、<line-break>…いくら出す？<end>"
+english = "Now then, I've just given you some valuable information. How much will you pay me?<end>"
+
+["610013"]
+japanese = "ま、いい、出世払いで、いつか<line-break>払ってもらうことにするさ。<line-break>じゃあな！\u3000<value:$28>。<end>"
+english = "Never mind. You can pay me back someday, once you've made something of yourself. See you around, <value:$28>!<end>"
+
+["610014"]
+japanese = "ま、いい、出世払いで、いつか<line-break>払ってもらうことにするさ。<line-break>で、名前は？<end>"
+english = "Never mind. You can pay me back someday, once you've made something of yourself. So, what's your name?<end>"
+
+["610015"]
+japanese = "金を貸しにしておくんだ。<line-break>名前を聞く権利があるだろう？<end>"
+english = "You're in my debt now. That gives me the right to ask your name, doesn't it?<end>"
+
+["610016"]
+japanese = "…<value:$28>、ね。<line-break>じゃあな！\u3000出世しろよ！<end>"
+english = "<value:$28>, eh? See you around! Make something of yourself!<end>"
+
+["610017"]
+japanese = "予備メッセージ１<line-break>アンギルダン、ボリューム４<end>"
+english = ""
+
+["610018"]
+japanese = "予備メッセージ２<line-break>アンギルダン、ボリューム４<end>"
+english = ""
+
+["610019"]
+japanese = "予備メッセージ３<line-break>アンギルダン、ボリューム４<end>"
+english = ""
+
+["610020"]
+japanese = "予備メッセージ４<line-break>アンギルダン、ボリューム４<end>"
+english = ""
+
+["610021"]
+japanese = "予備メッセージ５<line-break>アンギルダン、ボリューム４<end>"
+english = ""
+
+["610022"]
+japanese = "予備メッセージ６<line-break>アンギルダン、ボリューム４<end>"
+english = ""
+
+["610023"]
+japanese = "予備メッセージ７<line-break>アンギルダン、ボリューム４<end>"
+english = ""
+
+["610024"]
+japanese = "予備メッセージ８<line-break>アンギルダン、ボリューム４<end>"
+english = ""
+
+["610025"]
+japanese = "予備メッセージ９<line-break>アンギルダン、ボリューム４<end>"
+english = ""
+
+["610026"]
+japanese = "予備メッセージ１０<line-break>アンギルダン、ボリューム４<end>"
+english = ""
+
+["610027"]
+japanese = "アンギルダン・ボリューム４終端<end>"
+english = ""

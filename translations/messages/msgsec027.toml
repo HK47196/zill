@@ -1,0 +1,517 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["270000"]
+japanese = "ちゃんと用意はできてる？<line-break>しっかりね！<end>"
+english = "Are you all set? Make sure you're ready!<end>"
+
+["270001"]
+japanese = "落ち着いてな。<line-break>まずはしっかり準備をするのじゃ。<end>"
+english = "Stay calm now. First, make sure you're properly prepared.<end>"
+
+["270002"]
+japanese = "優勝したらすごいな。<line-break>ひょっとして賞金は山分けかも。<end>"
+english = "It'd be incredible if you won. We might even split the prize money.<end>"
+
+["270003"]
+japanese = "負けたら承知しねえからな。<line-break>ガツンと行ってこいよ！！<end>"
+english = "You'd better not lose. Get in there and hit 'em hard!<end>"
+
+["270004"]
+japanese = "すごいね、<value:$28>。<line-break>ボクも今度はがんばらなきゃ。<end>"
+english = "That was amazing, <value:$28>. I'll have to do my best next time too.<end>"
+
+["270005"]
+japanese = "戦う準備は、調っているの？<line-break>体力は回復しておきなさい。<end>"
+english = "Are you ready to fight? Make sure you've recovered your strength.<end>"
+
+["270006"]
+japanese = "\u3000<end>"
+english = ""
+
+["270007"]
+japanese = "私のために優勝してね。<line-break>私…、待ってる。<line-break>\u3000<line-break>なーんてね。<line-break>ちっとはどきどきした？<end>"
+english = "Win it for me. I'll be waiting... Just kidding. Did that make your heart race a little?<end>"
+
+["270008"]
+japanese = "ねえちゃん、大丈夫か？<line-break>ちゃんと体力回復してる？<end>"
+english = "Hey, you all right? Have you recovered your strength?<end>"
+
+["270009"]
+japanese = "あなたに戦神の加護がありますように。<line-break>無理をしちゃダメよ。<end>"
+english = "May the war god's blessing be upon you. Don't push yourself too hard.<end>"
+
+["270010"]
+japanese = "勝敗は時の運、ってな。<line-break>最後まで勝負を捨てるなよ。<end>"
+english = "Winning or losing comes down to luck. Don't give up until the very end.<end>"
+
+["270011"]
+japanese = "暇つぶしに見にきただけだ。<line-break>期待などしていない。<end>"
+english = "I only came to pass the time. I expect nothing from you.<end>"
+
+["270012"]
+japanese = "準備は終わっとるのか？<line-break>油断せずにな。<end>"
+english = "Finished getting ready? Don't let your guard down.<end>"
+
+["270013"]
+japanese = "気をつけてね。<line-break>体力はちゃんと回復してある？<end>"
+english = "Be careful. Have you fully recovered your strength?<end>"
+
+["270014"]
+japanese = "\u3000<end>"
+english = ""
+
+["270015"]
+japanese = "おもしろそうだから見にきてみたけど、<line-break>なんなのこの野蛮さは。最っ低ね。<end>"
+english = "I came because it sounded interesting, but what is this barbarism? It's utterly vile.<end>"
+
+["270016"]
+japanese = "拙者の代わりにがんばってくだされ。<line-break>お祝いのシャレを考えておきますぞ。<end>"
+english = "Do your best in my stead. I'll have a celebratory pun ready for you!<end>"
+
+["270017"]
+japanese = "がんばってね、<value:$28>。<line-break>ちゃんと準備はした？<end>"
+english = "Do your best, <value:$28>. Did you get everything ready?<end>"
+
+["270018"]
+japanese = "うぬの戦い、<line-break>見せてもらおう。<end>"
+english = "Let me see how you fight.<end>"
+
+["270019"]
+japanese = "勝てとまでは言わんがな。<line-break>無様な負け方はするなよ。<end>"
+english = "I won't insist that you win. Just don't lose disgracefully.<end>"
+
+["270020"]
+japanese = "最後まで勝ち進んだら歌になるなー。<line-break>がんばってね、<value:$28>。<end>"
+english = "If you make it all the way to the end, there'll be a song in it. Do your best, <value:$28>.<end>"
+
+["270021"]
+japanese = "無限のソウルの力…<line-break>見せてもらおう。<end>"
+english = "Let me see the power of the Infinite Soul.<end>"
+
+["270022"]
+japanese = "戦いではわずかな油断が命取りに<line-break>なります。回復は忘れずに。<end>"
+english = "In battle, the slightest lapse can be fatal. Don't forget to recover your strength.<end>"
+
+["270023"]
+japanese = "大丈夫！<line-break><value:$28>なら楽勝だよ。<end>"
+english = "You'll be fine! This will be easy for you, <value:$28>.<end>"
+
+["270024"]
+japanese = "まずは深呼吸じゃ。<line-break>雰囲気に飲まれては勝てんからの。<end>"
+english = "First, take a deep breath. You won't win if you let all this overwhelm you.<end>"
+
+["270025"]
+japanese = "恐れることはない。<line-break>お前の実力を見せてやれ。<end>"
+english = "There is nothing to fear. Show what you can do.<end>"
+
+["270026"]
+japanese = "<end>"
+english = ""
+
+["270027"]
+japanese = "<end>"
+english = ""
+
+["270028"]
+japanese = "<end>"
+english = ""
+
+["270029"]
+japanese = "幾多の戦いを経てきたお前にとって<line-break>経験こそ最も頼りになる武器だ。<line-break>それを忘れるな。<end>"
+english = "You have fought countless battles. Experience is the most reliable weapon you possess. Never forget that.<end>"
+
+["270030"]
+japanese = "勝利の笑顔で戻ってくるのを<line-break>信じて待ってるわ。<end>"
+english = "I'll be waiting, certain you'll come back with a victorious smile.<end>"
+
+["270031"]
+japanese = "なぜ役目でない戦いに臨むのか<line-break>私には…理解できていません。<line-break>ですが…どうかご武運を。<end>"
+english = "I... do not understand why you would take on a battle that is not yours to fight. But... may fortune favor you.<end>"
+
+["270032"]
+japanese = "<value:$28>さん、応援してます。<line-break>でも、無茶はしないでくださいね。<end>"
+english = "<value:$28>, I'm rooting for you. But please don't take any foolish risks, all right?<end>"
+
+["270033"]
+japanese = "君なら大丈夫。<line-break>自分の力を信じるんだ。<end>"
+english = "You'll be all right. Trust in your own strength.<end>"
+
+["270034"]
+japanese = "<end>"
+english = ""
+
+["270035"]
+japanese = "<end>"
+english = ""
+
+["270036"]
+japanese = "<end>"
+english = ""
+
+["270037"]
+japanese = "さあ、早く行きなさい。<line-break>あなたには迷う権利すらないのよ。<end>"
+english = "Now hurry up and go. You don't even have the right to hesitate.<end>"
+
+["270038"]
+japanese = "<end>"
+english = ""
+
+["270039"]
+japanese = "<end>"
+english = ""
+
+["270040"]
+japanese = "<end>"
+english = ""
+
+["270041"]
+japanese = "予選大会<end>"
+english = "Preliminary Tournament<end>"
+
+["270042"]
+japanese = "決勝大会<end>"
+english = "Final Tournament<end>"
+
+["270043"]
+japanese = "<value:$15>に出る<end>"
+english = "<value:$15>: Enter<end>"
+
+["270044"]
+japanese = "ルールを聞く<end>"
+english = "Ask about the rules<end>"
+
+["270045"]
+japanese = "出直す<end>"
+english = "Come back later<end>"
+
+["270046"]
+japanese = "説明を終わる<end>"
+english = "End the explanation<end>"
+
+["270047"]
+japanese = "あら、今日の予選大会は、<line-break>もう、終わったのよ。<line-break>また明日、来てちょうだい。<end>"
+english = "Oh, today's qualifying tournament is already over. Please come back tomorrow.<end>"
+
+["270048"]
+japanese = "あら、今年の決勝大会は、<line-break>もう、終わったのよ。<line-break>今月は、大会は開かれないわ。<end>"
+english = "Oh, this year's final tournament is already over. There won't be any tournaments this month.<end>"
+
+["270049"]
+japanese = "ようこそ、強者の集う戦いの場へ。<end>"
+english = "Welcome to the arena, where the strong gather for battle.<end>"
+
+["270050"]
+japanese = "優勝者は予選には出場できません。<line-break>そのかわり、８月の決勝大会で、<line-break>防衛戦がありますよ。<line-break>必ず来てくださいね。<line-break>来ないと大変なことになりますよ。<end>"
+english = "The reigning champion cannot enter the qualifiers. Instead, you'll defend your title at the final tournament in August. Be sure to come. There will be serious consequences if you don't.<end>"
+
+["270051"]
+japanese = "<value:$28>さんは、<line-break>すでに決勝に出場できる権利を<line-break>持っていますよ。<end>"
+english = "<value:$28>, you already have a place in the finals.<end>"
+
+["270052"]
+japanese = "それでも出場しますか？<end>"
+english = "Do you still want to participate?<end>"
+
+["270053"]
+japanese = "おめでとうございます。すごいですね。<line-break>これで<value:$28>さんは、<line-break>決勝大会に出場する権利を得ました。<line-break>決勝大会に参加する気があったら８月に<line-break>ここに来てください。待っていますよ。<line-break>これは勝利賞金です。<end>"
+english = "Congratulations! That was impressive. You've earned a place in the finals, <value:$28>. If you'd like to compete, come back here in August. We'll be waiting. Here's your prize money.<end>"
+
+["270054"]
+japanese = "これで<value:$28>さんは、<line-break>決勝大会に出場する権利を得ました。\u3000<line-break><line-break>決勝大会に参加する気があったら８月に<line-break>ここに来てください。<line-break>待っていますよ。<end>"
+english = "You've earned a place in the finals, <value:$28>. If you'd like to compete, come back here in August. We'll be waiting.<end>"
+
+["270055"]
+japanese = "おめでとうございます。すごいですね。<line-break><value:$28>さんはすでに<line-break>決勝大会に出場する権利がありますね。<line-break>８月に決勝大会がありますからね。<line-break>忘れずに来てくださいね。<line-break>これは、勝利賞金です。<end>"
+english = "Congratulations! That was impressive. You already have a place in the finals, <value:$28>. They'll be held in August, so don't forget to come. Here's your prize money.<end>"
+
+["270056"]
+japanese = "<value:$28>さんは<line-break>すでに決勝大会に出場する権利が\u3000<line-break>ありますね。<line-break>８月に決勝大会がありますからね。<line-break>忘れずに来てくださいね。<end>"
+english = "You already have a place in the finals, <value:$28>. They'll be held in August, so don't forget to come.<end>"
+
+["270057"]
+japanese = "残念でしたね。<line-break>これは、勝利賞金です。\u3000<line-break><line-break>また挑戦してくださいね。<end>"
+english = "That's a shame. Here's your prize money. Please try again.<end>"
+
+["270058"]
+japanese = "また挑戦してくださいね。<end>"
+english = "Please try again.<end>"
+
+["270059"]
+japanese = "もっと強くなってから、<line-break>来た方がいいですよ。<end>"
+english = "You should come back when you're stronger.<end>"
+
+["270060"]
+japanese = "いらっしゃい、チャンプ。<line-break>対戦相手は、もう決まっているわ。<line-break>すぐに控え室に行ってちょうだい。<line-break>連覇、期待しているわよ。<end>"
+english = "Welcome, champ. Your opponent's already been chosen. Head straight to the waiting room. I'm counting on you to defend your title.<end>"
+
+["270061"]
+japanese = "決勝大会にようこそ。<line-break>あなたは出場権利を持っているけど、<line-break>どうする？\u3000<end>"
+english = "Welcome to the finals. You're eligible to compete. What would you like to do?<end>"
+
+["270062"]
+japanese = "いま、決勝大会をやっているの。<line-break>悪いけど、出場権利を持っていない<line-break>人は出られないのよ。<line-break>予選を勝ち抜いて、<line-break>来年こそ出場してね。<end>"
+english = "The finals are underway right now. Sorry, but you can't enter without qualifying. Win your way through the preliminaries and come back next year.<end>"
+
+["270063"]
+japanese = "すごいわ！\u3000やったじゃない！\u3000<line-break>今日からあなたがチャンプよ！\u3000<line-break><line-break>はい、これは勝利賞金と副賞よ。<line-break>来年もがんばってね。<end>"
+english = "Amazing! You did it! You're the champ now! Here's your prize money and the bonus prize. Give it your best again next year!<end>"
+
+["270064"]
+japanese = "さすがね。大したものだわ。\u3000<line-break><line-break><line-break>はい、これは勝利賞金と副賞よ。<line-break>来年もがんばってね。<end>"
+english = "I expected no less. That was impressive. Here's your prize money and the bonus prize. Give it your best again next year.<end>"
+
+["270065"]
+japanese = "残念だったわね。<line-break>まっ、来年もあるわよ。\u3000<line-break><line-break>はい、これは勝利賞金。<line-break>また挑戦してくださいね。<end>"
+english = "Too bad. Well, there's always next year. Here's your prize money. I hope you'll try again.<end>"
+
+["270066"]
+japanese = "<line-break>賞金<value:$1A>ギアを手に入れた。<line-break>\u3000<end>"
+english = "Bounty: <value:$1A> Gea received.<end>"
+
+["270067"]
+japanese = "また挑戦してくださいね。<end>"
+english = "Please try again sometime.<end>"
+
+["270068"]
+japanese = "もっと強くなって、また来てね。<end>"
+english = "Come back when you're stronger.<end>"
+
+["270069"]
+japanese = "いよいよ、チャンプに挑戦ね。<line-break>がんばってね。期待しているわ。<end>"
+english = "At last, you're taking on the champ. Good luck. I'm expecting great things from you.<end>"
+
+["270070"]
+japanese = "残念だったわね。<line-break>まっ、来年もあるわよ。<end>"
+english = "What a shame. Well, there's always next year.<end>"
+
+["270071"]
+japanese = "どっちのことが聞きたい？<end>"
+english = "Which one do you want to hear about?<end>"
+
+["270072"]
+japanese = "予選は、８人勝抜戦よ。<line-break>８人と連続で戦って、８連勝すれば、<line-break>決勝大会への出場権を得られるわ。<line-break>予選には、何度でも挑戦できるけど、<line-break>１日に１回しか参戦できないから<line-break>気をつけてね。<end>"
+english = "The qualifiers are an eight-opponent gauntlet. Defeat all eight opponents in a row to earn a place in the final tournament. You can attempt the qualifiers as many times as you like, but you can only enter once per day, so keep that in mind.<end>"
+
+["270073"]
+japanese = "決勝は、トーナメント戦よ。\u3000\u3000\u3000\u3000\u3000<line-break>開催は毎年８月。<line-break><line-break>１回戦、２回戦、準決勝、決勝と戦い、<line-break>勝ち残れば、チャンプへ挑戦できるわ。<end>"
+english = "The finals are a knockout tournament held every August. Win the first round, second round, semifinal, and final, and you'll earn the right to challenge the champ.<end>"
+
+["270074"]
+japanese = "あ、なんで来なかったのよ！<line-break>まったく、戦いを放棄するなんて、<line-break>闘士としては最低の行為よ。<end>"
+english = "Hey, why didn't you show up? Honestly, abandoning a fight is the lowest thing a fighter can do.<end>"
+
+["270075"]
+japanese = "<line-break>栄光を踏みにじる者の称号を得た。<line-break>\u3000<end>"
+english = "Obtained the title “One Who Tramples Glory.”<end>"
+
+["270076"]
+japanese = "どんな事情があったか知らないけれど、<line-break>ここでの戦いは、神聖なものよ。<line-break>それだけは覚えておいてね。<end>"
+english = "I don't know what your reasons were, but the fighting here is sacred. Don't forget that.<end>"
+
+["270077"]
+japanese = "まさか、レーグに勝ったあなたが、<line-break>負けるなんて……。<line-break>上には上がいるのね。<end>"
+english = "You beat Reig. I never thought you could lose... I suppose there's always someone stronger.<end>"
+
+["270078"]
+japanese = "<line-break>元デュエルマスターの称号を得た。<line-break>\u3000<end>"
+english = "Obtained the title “Former Duel Master.”<end>"
+
+["270079"]
+japanese = "また挑戦してね。<line-break>返り咲きを、楽しみにしてるわ。<end>"
+english = "Give it another try. I can't wait to see you make a comeback.<end>"
+
+["270080"]
+japanese = "すごいわ！\u3000さすがね！\u3000<line-break>また、あなたがチャンプよ！<end>"
+english = "Amazing! I knew you could do it! You're the champ again!<end>"
+
+["270081"]
+japanese = "<line-break>デュエルマスターの称号を得た。<line-break>\u3000<end>"
+english = "Earned the title of Duel Master.<end>"
+
+["270082"]
+japanese = "はい、これは勝利賞金と副賞よ。<line-break>来年もがんばってね。<end>"
+english = "Here you are―your prize money and bonus prize. Do your best again next year.<end>"
+
+["270083"]
+japanese = "この先は試合会場よ。<line-break>回復はここでしておいてね。<line-break><line-break>闘いの準備はいい？<end>"
+english = "The arena is just ahead. Make sure to heal up here. Are you ready to fight?<end>"
+
+["270084"]
+japanese = "準備できている<end>"
+english = "I'm ready.<end>"
+
+["270085"]
+japanese = "まだできていない<end>"
+english = "I'm not ready yet.<end>"
+
+["270086"]
+japanese = "じゃあ頑張ってね！<line-break>応援してるから。<end>"
+english = "Good luck! I'll be cheering for you.<end>"
+
+["270087"]
+japanese = "別に急がなくても大丈夫よ。<line-break>闘いの準備ができたら教えてね。<end>"
+english = "There's no need to rush. Let me know when you're ready to fight.<end>"
+
+["270088"]
+japanese = "まだまだだな・・・。<line-break>また出直してこい。<end>"
+english = "You've still got a long way to go. Come back and try again.<end>"
+
+["270089"]
+japanese = "この俺が敗れるとは・・・。<end>"
+english = "To think that I could be defeated...<end>"
+
+["270090"]
+japanese = "闘技場用テンポラリメッセージ<end>"
+english = ""
+
+["270091"]
+japanese = "闘技場用テンポラリメッセージ<end>"
+english = ""
+
+["270092"]
+japanese = "闘技場用テンポラリメッセージ<end>"
+english = ""
+
+["270093"]
+japanese = "戦闘に勝った事にする<end>"
+english = "Treat the battle as won<end>"
+
+["270094"]
+japanese = "戦闘で負けた事にする<end>"
+english = "Treat the battle as lost<end>"
+
+["270095"]
+japanese = "お覚悟、よろしいですか？<end>"
+english = "Are you prepared?<end>"
+
+["270096"]
+japanese = "手加減はナシだからね。<end>"
+english = "I won't be holding back.<end>"
+
+["270097"]
+japanese = "お主と戦えるとはな。<line-break>年がいもなく、わくわくしおるわ。<line-break>行くぞ、<value:$28>！<end>"
+english = "To think I'd get the chance to fight you. At my age, I shouldn't be this excited. Here I come, <value:$28>!<end>"
+
+["270098"]
+japanese = "よっ、<value:$28>。<line-break>本気出しちゃ、やーよ。<line-break>お手柔らかにね。<end>"
+english = "Hey, <value:$28>. Don't go all out on me, now. Be gentle.<end>"
+
+["270099"]
+japanese = "よ、<value:$28>。<line-break>いい試合を見せてやろうぜ。<end>"
+english = "Hey, <value:$28>. Let's put on a good match.<end>"
+
+["270100"]
+japanese = "手加減しない。<line-break>負ける気はないからな。<end>"
+english = "I won't hold back. I don't intend to lose.<end>"
+
+["270101"]
+japanese = "\u3000<end>"
+english = ""
+
+["270102"]
+japanese = "ふふ、悪くない。<line-break>お前とは、戦ってみたかった。<end>"
+english = "Heh. Not bad. I've been wanting to fight you.<end>"
+
+["270103"]
+japanese = "<value:$28>、お前か。<line-break>相手にとって不足はないわね。<end>"
+english = "So it's you, <value:$28>. A worthy opponent.<end>"
+
+["270104"]
+japanese = "<value:$28>！<line-break>お互い全力で行こうぜ！！<end>"
+english = "<value:$28>! Let's both give it everything we've got!<end>"
+
+["270105"]
+japanese = "姉ちゃん、勝負だ！<line-break>…俺が勝っても怒るなよな。<end>"
+english = "Sis, let's fight! Just don't get mad if I win.<end>"
+
+["270106"]
+japanese = "いくわよ、<value:$28>！<line-break>手加減しないからね。<end>"
+english = "Here I come, <value:$28>! I won't hold back.<end>"
+
+["270107"]
+japanese = "まいったな、<value:$28>と<line-break>あたるなんて。<line-break>でも、負けないよ！<end>"
+english = "Of all people, I had to draw <value:$28>. Still, I won't lose!<end>"
+
+["270108"]
+japanese = "ほう、<value:$28>か。<line-break>お手合わせ願おうかの。<end>"
+english = "Ah, <value:$28>. Shall we see how our skills compare?<end>"
+
+["270109"]
+japanese = "師匠、よろしくお願いいたしまする。<line-break>拙者の修行の成果をご覧あれ！<end>"
+english = "Master, I humbly ask you to spar with me. Behold the fruits of my training!<end>"
+
+["270110"]
+japanese = "<value:$28>さんといえども<line-break>ここでは手加減なしですよ。<end>"
+english = "Even against you, <value:$28>, I won't hold back here.<end>"
+
+["270111"]
+japanese = "負けても恥ではない！<line-break>むしろ誇り！<line-break>相手が俺様なのだからな！<end>"
+english = "There's no shame in losing! Why, it's an honor! Your opponent is none other than me!<end>"
+
+["270112"]
+japanese = "あらん、<value:$28>。<line-break>かわいがってほしいの？<line-break>大丈夫よ。痛くしないから。<end>"
+english = "Oh my, <value:$28>. Want some special attention? Don't worry. I won't hurt you.<end>"
+
+["270113"]
+japanese = "俺の剣を受けきれるかな？<line-break>勝負！<end>"
+english = "Think you can withstand my blade? Let's fight!<end>"
+
+["270114"]
+japanese = "あんたの攻撃はかわしきってみせるよ。<end>"
+english = "I'll dodge every last one of your attacks.<end>"
+
+["270115"]
+japanese = "まだまだ若いもんには負けんぞ。<line-break>わしの魔法を見せてやろう。<end>"
+english = "I'm not about to lose to you youngsters yet. Let me show you my magic.<end>"
+
+["270116"]
+japanese = "今日も魔法を思う存分うてるのね。<line-break>ふふふ。ぞくぞくするわ。<end>"
+english = "I get to cast spells to my heart's content again today. Heh heh heh. What a thrill.<end>"
+
+["270117"]
+japanese = "的確に…急所を…。<line-break>さてさて、あんたの弱点はどこかな？<end>"
+english = "Strike true... at a vital point... Now then, where might your weak spot be?<end>"
+
+["270118"]
+japanese = "神よ、私に力をお貸しください。<end>"
+english = "O god, lend me your strength.<end>"
+
+["270119"]
+japanese = "俺だって修行してきたんだ。<line-break>やってやるさ。<end>"
+english = "I've been training too. I can do this.<end>"
+
+["270120"]
+japanese = "こいつ、強いのか？<line-break>しかし…！<end>"
+english = "Is this one strong? Still...!<end>"
+
+["270121"]
+japanese = "さて、さて。<line-break>お手柔らかにお願いしますぞ。<end>"
+english = "Well, now. Do go easy on me.<end>"
+
+["270122"]
+japanese = "大地の力を君に教えてあげよう。<end>"
+english = "Let me show you the power of the earth.<end>"
+
+["270123"]
+japanese = "あたしの炎で、身も心も焦がしてあげるわ。<end>"
+english = "My flames will scorch your body and soul.<end>"
+
+["270124"]
+japanese = "さあ、風の精霊よ。<line-break>私に力を貸して。<end>"
+english = "Come, spirits of the wind. Lend me your strength.<end>"
+
+["270125"]
+japanese = "集中…、集中…。<line-break>今日こそ８人抜くぞー。<end>"
+english = "Focus... focus... Today I'm taking down eight in a row!<end>"
+
+["270126"]
+japanese = "へへ。よろしくな。<end>"
+english = "Heh. Let's have a good fight.<end>"
+
+["270127"]
+japanese = "<line-break>副賞\u3000錬剛石<value:$1A>個を手に入れた。<line-break>\u3000<end>"
+english = "Bonus: Acquired Tempered Steel Stone ×<value:$1A>.<end>"
+
+["270128"]
+japanese = "闘技場メッセージはここまで<end>"
+english = ""

@@ -1,0 +1,101 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["130000"]
+japanese = "<if><value:$2C><less-equal>%9うぉほっほっほ、細い体じゃな。<line-break>冒険者なら、もっとがっしりとした体に<line-break>ならんと、オーガに叩きつぶされるぞい。<end><if><value:$2C><less-equal>%29うぉほっほっほ、筋肉バカになってはダメぞい。<line-break>賢く戦うために頭も鍛えるのじゃ。<end><if><value:$2C><less-equal>%49うぉほっほっほ、少しは筋肉もついたのう。<line-break>じゃが、フットワークが足りんと当たらんぞい。<line-break>敏捷性や器用さも鍛えるのじゃ。<end>うぉほっほっほ、ええ体つきになったぞい。<line-break>また１人、優秀な戦士を育ててしまったぞい。<line-break>わしは名コーチじゃのう。<end>"
+english = "<if><value:$2C><less-equal>%9Whoa-ho-ho! Scrawny little thing, aren't you? If you're going to be an adventurer, you'd better put some meat on those bones, or an Ogre will pound you flat.<end><if><value:$2C><less-equal>%29Whoa-ho-ho! Don't turn into some musclebound fool. Train your mind too, so you can fight intelligently.<end><if><value:$2C><less-equal>%49Whoa-ho-ho! You've put on a bit of muscle. But without the footwork, you'll never land a blow. Work on your agility and dexterity too.<end>Whoa-ho-ho! Now that's a fine physique. I've gone and trained another first-rate warrior. What a splendid coach I am!<end>"
+
+["130001"]
+japanese = "<if><value:$2A><less-equal>%49我らドワーフ族は、初代国王ボルキスの<line-break>時代から、一族最強の戦士が王をつとめるのが<line-break>習わしとなっておる。<line-break>もちろん今の国王ジンガも、前回の王位決定戦で<line-break>優勝した一族最強の戦士なのである。<line-break>もっとも、次の大会までの王位であるがの。<end><if><value:$2A><less-equal>%140わしも一族最強の戦士になるべく、日夜修行を<line-break>しておる。レーグやネメアがドワーフ族なら、<line-break>きっとよい好敵手になっていたであろうな。<end>なにっ！\u3000貴殿が<value:$28>か…。<line-break>ドワーフ族であれば王位も狙えたであろうに…。<line-break>惜しいことだ。<end>"
+english = "<if><value:$2A><less-equal>%49Ever since the reign of Borkis, our first king, Dwarf custom has held that the mightiest warrior of the clan shall rule. Naturally, our present king, Jinga, is the clan's strongest warrior and the victor of the last tournament for the throne. His reign lasts only until the next tournament, mind you.<end><if><value:$2A><less-equal>%140I train day and night to become the mightiest warrior in the clan. If Reig and Nemea were Dwarves, they would surely make worthy rivals.<end>What! You are <value:$28>...? Had you been a Dwarf, you might even have claimed the throne. What a pity.<end>"
+
+["130002"]
+japanese = "<select><value:$20>%3ここがドワーフたちの国だということは\u3000\u3000\u3000<line-break>知っているな。この地には、我々、人間の<line-break>しがらみを持ち込んではならない。<line-break>たとえ敵対する国の人間に会っても、争っては<line-break>ならないのだ。我々は部外者なのだから、<line-break>彼らドワーフのおきてには逆らうなよ。<end>俺の槍は名工デルガドが鍛えたものだ。<line-break>こいつのおかげで、何度命拾いをしたことか…。<line-break>この槍は俺の宝だよ。<end>武器は人を傷つけるだけじゃない。<line-break>俺の槍のように命を守ってくれる時もある。<line-break>大切なのは、どう使うかなのだ。<end>"
+english = "<select><value:$20>%3You know this is the land of the Dwarves. We humans must not drag the affairs of the human world into this place. Even if you meet someone from an enemy nation, you are not to fight. We are outsiders here, so do not defy the rules of the Dwarves.<end>My spear was forged by the master smith Dergado. I've lost count of how many times it's saved my life. This spear is my treasure.<end>Weapons don't only hurt people. Sometimes they protect lives, as my spear has protected mine. What matters is how you use them.<end>"
+
+["130003"]
+japanese = "<select><value:$20>%2我々が通貨として使用しているギアは、<line-break>ここドワーフの国で製造されているのだ。<line-break>それゆえ、ここは人間世界から独立している。<line-break>どこかの国が、ここを占領して通貨を<line-break>独占してしまうと問題だからな。<end>ここにはドワーフ専用地下街道がいくつかある。<line-break>そこにいる案内人に頼めば、連れていって<line-break>もらえるはずだ。<end>"
+english = "<select><value:$20>%2The Gea we use as currency is minted here in the land of the Dwarves. That is why this place remains independent of the human world. There would be trouble if any one nation occupied it and seized control of the currency.<end>There are several Underground Roads here reserved for Dwarves. Ask one of the guides there, and you should be able to get passage.<end>"
+
+["130004"]
+japanese = "<select><value:$33>今、港町アミラルから帰ったとこなんだが、<line-break>名物のドラゴン祭りが、今年から無期延期に<line-break>なったそうだよ。楽しみにしていたのに残念だ。<line-break>お祭り用のシルバードラゴンの数が減ったのと、<line-break>ドラゴンを無傷で捕まえるほどの戦士が<line-break>いなくなったのが理由だろうな。<end>今、港町アミラルから帰ったとこなんだが、<line-break>名物のドラゴン祭りが、今年から無期延期に<line-break>なったそうだよ。楽しみにしていたのに残念だ。<line-break>お祭り用のシルバードラゴンの数が減ったのと、<line-break>ドラゴンを無傷で捕まえるほどの戦士が<line-break>いなくなったのが理由だろうな。<end>今、ロセンから帰ったとこなんだが、<line-break>ロセンは門を閉ざしていて、旅人を<line-break>入れてくれないのじゃ。行って損したわい。<end>今、エンシャントから帰ったとこなんだが、<line-break>荒れ果てた城を見つけて忍び込んだら<line-break>突然モンスターに襲われてな、<line-break>命からがら逃げ帰ってきたわい。<line-break>ひどい旅じゃった。<end>今、リベルダムから帰ったとこなんだが、<line-break>あそこの時計塔はでっかいぞ。<line-break>時計を見ておったら首が痛くなったわい。<end>今、アキュリュースから帰ったとこなんだが、<line-break>あそこは船で渡らねばいけぬのじゃな。<line-break>わしは泳げぬから船に乗れないのじゃ。<line-break>仕方ないので湖の中にある町並みだけを<line-break>見て帰ってきたわい。<end>今、ウルカーンから帰ったとこなんだが、<line-break>あそこは魔道士だらけの町なのじゃな。<line-break>精霊力の話をされても、わしにはわからんわい。<end>今、アルノートゥンから帰ったとこなんだが、<line-break>男だらけのむさくるしい町じゃったわい。<line-break>酒場で注文をとるのがボルダンなんじゃぞ。<end>"
+english = "<select><value:$33>I've just returned from the port town of Amiral. I hear its famous Dragon Festival has been postponed indefinitely as of this year. I was looking forward to it, so that's a shame. I suppose it's because there are fewer Silver Dragons for the festival now, and no warriors left who can capture one unharmed.<end>I've just returned from the port town of Amiral. I hear its famous Dragon Festival has been postponed indefinitely as of this year. I was looking forward to it, so that's a shame. I suppose it's because there are fewer Silver Dragons for the festival now, and no warriors left who can capture one unharmed.<end>I've just returned from Rocen, but the gates were shut and no travelers were being allowed in. The whole journey was a waste.<end>I've just returned from Ancient. I found a ruined castle and slipped inside, only to be attacked by monsters without warning. I barely escaped with my life. It was a dreadful journey.<end>I've just returned from Liberdam. That clock tower is enormous! My neck started aching from staring up at the clock.<end>I've just returned from Aqyurius. It turns out you have to cross by boat. I can't swim, so I couldn't bring myself to board one. I had no choice but to look at the town out in the lake and come home.<end>I've just returned from Vulcaan. The whole town is full of mages. Talk of elemental power goes right over my head.<end>I've just returned from Alnortun. It was an uninviting town full of nothing but men. Why, even the one taking orders at the tavern was Boldan!<end>"
+
+["130005"]
+japanese = "<select><value:$20>%2わしは今年で２６０歳になるが、気力体力<line-break>ともに充実しておるわい。人生経験はもちろん、<line-break>戦士としても、まだまだ若いもんには負けんぞ。<end>この先は決闘場じゃ。今は決闘の時期でないから<line-break>入ってはいかんぞ。神聖なる決闘場には<line-break>選ばれた戦士のみが入れるのじゃからな。<end>"
+english = "<select><value:$20>%2I turn 260 this year, and I'm still in excellent shape, in both body and spirit. I've certainly got the life experience, and even as a warrior, I can still hold my own against the young ones.<end>The dueling ground lies ahead. It is not dueling season, so you may not enter. Only chosen warriors are permitted within that sacred ground.<end>"
+
+["130006"]
+japanese = "<select><value:$20>%3精霊力の強弱関係はひ・み・つ・かで\u3000\u3000\u3000<line-break>おぼえるといいよ。火は水に、水は土に、<line-break>土は風に、風は火に、それぞれ強いから<line-break>頭文字を取ってひ・み・つ・かってわけさ。<line-break>どうだい、覚えやすいだろ？<line-break>これで、効率よく戦えるってものだね。<end>錬剛石は色々な所に落ちているよ。<line-break>洞窟の中などで光っている場所があったら<line-break>錬剛石が落ちているかもしれないね。<end>人生いそがば回れ、ってね。<line-break>歴史が動くような大事件は急がないと<line-break>取り返しがつかなくなるかもしれないけど、<line-break>それ以外は、ゆっくりやったって<line-break>罰は当たらないさ。気持ちに余裕がないと<line-break>新たな発見ってのはできないからね。<end>"
+english = "<select><value:$20>%3Try remembering the elemental strengths as Fi-Wa-Ea-Wi: fire is strong against water, water against earth, earth against wind, and wind against fire. Just take the first sound of each: Fi, Wa, Ea, Wi. Easy to remember, isn't it? Now you can fight more efficiently.<end>Rengoseki can be found lying about in all sorts of places. If you spot something shining in a cave or somewhere like that, there may be Rengoseki there.<end>In life, the longer road can be the quicker one. Great events that move history may become irreversible if you don't act quickly, but otherwise there's no harm in taking your time. You won't discover anything new if you never leave yourself room to breathe.<end>"
+
+["130007"]
+japanese = "<select><value:$33>ろくな武器も作れぬくせに、鍛冶屋を名乗る<line-break>不届き者を、わしは絶対に許さんのじゃ。<line-break>この間も、ノーブルに偽鍛冶屋がおったので<line-break>ぶちのめしてやったわい。<line-break>今頃、心を入れ替えて、魂のこもった武器を<line-break>作っておるじゃろう。<end>ろくな武器も作れぬくせに、鍛冶屋を名乗る<line-break>不届き者を、わしは絶対に許さんのじゃ。<line-break>この間も、ノーブルに偽鍛冶屋がおったので<line-break>ぶちのめしてやったわい。<line-break>今頃、心を入れ替えて、魂のこもった武器を<line-break>作っておるじゃろう。<end>炎竜山に名工カッツが住んでおると聞いて<line-break>出かけていったのじゃが、小屋はもぬけのから<line-break>じゃった。どこへ出かけたのかのう。<end>リベルダムに魂の入らない、なまくらを売る<line-break>武器商人がおったので、足腰がたたんぐらい<line-break>ぶちのめしてやったわい。<end>ロセンにはろくな鍛冶屋がおらんから、<line-break>わしが出かけて育てることにしたわい。<line-break>魂のこもった仕事をする鍛冶工を育てるんじゃ。<end>ロセンの闘技場の中にある鍛冶屋で、<line-break>わしの弟子が働いておる。<line-break>魂のこもったよい仕事をするぞ。<end>ロストールでは戦争が近いから武器が<line-break>飛ぶように売れておる。<line-break>\u3000<line-break>どさくさに紛れて粗悪品を売っておる<line-break>鍛冶屋がおったので、３人ほど<line-break>ぶちのめしたわい。<end>リベルダムの鍛冶屋は、闘技場が破壊され<line-break>店がなくなっても露店で鍛冶をしておる。<line-break>すばらしい男じゃ、わしは感動したぞ。<end>"
+english = "<select><value:$33>I will never forgive any fraud with the gall to call oneself a blacksmith without being able to make a decent weapon. Why, just the other day I found a sham smith in Noble and gave that fraud a thrashing. By now, I'm sure the lesson has sunk in and some soul is going into those weapons.<end>I will never forgive any fraud with the gall to call oneself a blacksmith without being able to make a decent weapon. Why, just the other day I found a sham smith in Noble and gave that fraud a thrashing. By now, I'm sure the lesson has sunk in and some soul is going into those weapons.<end>I heard that the master smith Katz lived on Flame Dragon Mountain, so I went there. But his hut was deserted. I wonder where he's gone.<end>I found an arms dealer in Liberdam selling dull, soulless rubbish, so I gave the dealer such a beating that getting back up was impossible.<end>There isn't a decent blacksmith in Rocen, so I've decided to go there and train some. I'll raise smiths who put their souls into their work.<end>My apprentice works at the smithy inside Rocen's arena, turning out fine work with real soul.<end>With war approaching in Rostorl, weapons are selling as fast as they can be made. I found some blacksmiths taking advantage of the confusion to sell shoddy wares, so I beat three or so of them senseless.<end>The blacksmith in Liberdam still works at a street stall even after the arena was destroyed and his shop was lost. What a splendid man! I was deeply moved.<end>"
+
+["130008"]
+japanese = "<select><value:$20>%3わしは武器を作るのが好きじゃ。<line-break>じゃが、人殺しは好きじゃないのじゃ。<line-break>わしの作った武器で人が死ぬのが悲しいのじゃ。<end>わしは防具を作るのが好きじゃ。<line-break>じゃが、わしの作った防具を着て死んでいく<line-break>人もたくさんおるのじゃ。くやしいのじゃ。<end>いいのじゃ、いいのじゃ、グチを言えるのは<line-break>酔ってる時だけなのじゃ。<line-break>いつもは黙って鍛冶をしておるのじゃ。<end>"
+english = "<select><value:$20>%3I love making weapons. But I don't like killing. It grieves me when someone dies by a weapon I forged.<end>I love making armor. But many people still die wearing armor I forged. It's bitterly frustrating.<end>It's all right, it's all right. Being drunk is the only time I can complain like this. Usually I keep quiet and work at the forge.<end>"
+
+["130009"]
+japanese = "<select><value:$20>%3この大洞窟のおかげで、安心して分断の山脈を<line-break>抜けることができます。ここが使えなくなると、<line-break>海路以外では、大陸を縦断できませんからね。<line-break>ドワーフたちの作った、良質の武器も<line-break>仕入れることができますし、本当に便利な<line-break>トンネルを掘ってくれたものですな。<end>戦争のせいで武器や防具が不足して<line-break>おりましてな、ここの質のいい武器や防具は<line-break>飛ぶように売れてありがたいことですよ。<end>この方の鍛えた武器や防具は質が高くて<line-break>人気があるのです。だけど旅好きなので<line-break>発注した数がそろったためしがないんです。<end>"
+english = "<select><value:$20>%3Thanks to this great cavern, we can cross the Dividing Mountains in safety. If it became unusable, there would be no way to travel the length of the continent except by sea. We can also purchase the fine weapons made by the Dwarves. What a useful tunnel they dug for us.<end>The war has left weapons and armor in short supply, you see. The high-quality wares from here sell as fast as we can stock them, and I'm very grateful for it.<end>The weapons and armor this smith forges are excellent and very popular. But with all that traveling, we've never once received a full order.<end>"
+
+["130010"]
+japanese = "わしが噂の地下の案内人じゃ。<line-break>お主ら冒険者を、ドワーフの地下街道へ<line-break>案内してやるのが、わしの仕事なのじゃ。<line-break>さて、どの地下街道に行きたいのじゃ？<end>"
+english = "I'm the Underground Guide you've heard about. It's my job to lead adventurers like you along the Dwarves' Underground Roads. So, which Underground Road would you like to take?<end>"
+
+["130011"]
+japanese = "北の地下街道<end>"
+english = "Northern Underground Road<end>"
+
+["130012"]
+japanese = "南の地下街道<end>"
+english = "Southern Underground Road<end>"
+
+["130013"]
+japanese = "西の地下街道<end>"
+english = "Western Underground Road<end>"
+
+["130014"]
+japanese = "出直す<end>"
+english = "Come back later<end>"
+
+["130015"]
+japanese = "よっしゃ。<line-break>それでは、出発じゃ。<end>"
+english = "Right, then. Off we go.<end>"
+
+["130016"]
+japanese = "それじゃ、わしはここで待っとるから、<line-break>用が済んだら、声をかけてくれ。<end>"
+english = "I'll wait here, then. Give me a shout when you're done.<end>"
+
+["130017"]
+japanese = "なんだ、地下街道の案内じゃないのか。<line-break>わしは、いつもここにおるから、<line-break>そのうち、用があったら声をかけてくれ。<end>"
+english = "What, you're not here for a guide through the Underground Roads? Well, I'm always here, so if you ever need me, just come and see me.<end>"
+
+["130018"]
+japanese = "おう、用事は済んだのかい。<line-break>連れて帰ってよいんじゃな？<end>"
+english = "Oh, all done, are you? Then we can head back now, right?<end>"
+
+["130019"]
+japanese = "はい、お願いします<end>"
+english = "Yes, please.<end>"
+
+["130020"]
+japanese = "待ってください<end>"
+english = "Please wait.<end>"
+
+["130021"]
+japanese = "よっしゃ。<line-break>それじゃ戻ろうかの。<end>"
+english = "Right, then. Let's head back.<end>"
+
+["130022"]
+japanese = "また、用があったら声をかけてくれ。<line-break>わしは、いつもここにおるからの。<end>"
+english = "Come and see me again if you need anything. I'm always here.<end>"
+
+["130023"]
+japanese = "そうかい。<line-break>じゃ、用事が済んだら声をかけてくれ。<end>"
+english = "All right. Give me a shout when you're done.<end>"
+
+["130024"]
+japanese = "ドワーフ王国メッセージここまで<end>"
+english = ""

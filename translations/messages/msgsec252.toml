@@ -1,0 +1,25 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2520000"]
+japanese = "PSP用新スタートイベント17用開始<end>"
+english = ""
+
+["2520001"]
+japanese = "おや、<value:$28>ですか。<line-break>いらっしゃい。<line-break>\u3000<line-break>どうです。<line-break>記憶は戻りましたか？<end>"
+english = "Oh, <value:$28>. Welcome. Well? Has your memory returned?<end>"
+
+["2520002"]
+japanese = "そうですか…。<line-break>\u3000<line-break>\u3000<line-break><value:$28>が目覚めたという<line-break>魔道の塔に行ってみてはどうですか？<line-break>何か思い出せるかもしれませんよ。<end>"
+english = "I see... Why not visit the Arcane Tower, where you awakened, <value:$28>? It may bring something back.<end>"
+
+["2520003"]
+japanese = "…それに最近、<line-break>気がかりなことがありましてね。<end>"
+english = "There is also something that has been troubling me lately.<end>"
+
+["2520004"]
+japanese = "ええ。<line-break>どうも魔道の塔から<line-break>不穏な空気を感じるのです。<line-break>まだ漠然としたものですし、<line-break><value:$28>に直接、<line-break>関わりがあるかはわかりません。<line-break>ただ、調べてきてもらえると<line-break>私としてはありがたいですね。<line-break><line-break>もし、何事もなければ、<line-break>私の思い過ごしだと安心できますから。<end>"
+english = "Yes. I sense something ominous coming from the Arcane Tower. It is still only a vague feeling, and I do not know whether it has any direct connection to you, <value:$28>. Still, I would appreciate it if you went and looked into it. If nothing is amiss, I can rest assured that I was only worrying over nothing.<end>"
+
+["2520005"]
+japanese = "PSP用新スタートイベント17用終端<end>"
+english = ""

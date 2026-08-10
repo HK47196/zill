@@ -1,0 +1,85 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2130000"]
+japanese = "異種族間の６用開始<end>"
+english = ""
+
+["2130001"]
+japanese = "よぉ、あんたか…！<end>"
+english = "Hey, it's you...!<end>"
+
+["2130002"]
+japanese = "俺は信心深くないが、今のあんたは<line-break>海王様の使いに見えるぜ。<line-break>頼む。相談に乗ってくれ。<end>"
+english = "I'm not a religious man, but right now you look like a messenger from the Sea King himself. Please, hear me out.<end>"
+
+["2130003"]
+japanese = "あれから何度も森へ出かけてるのに、<line-break>ここんとこ、なぜかフィアに<line-break>会えないんだ。<line-break>思えば最後に会った時、<line-break>どことなく態度がよそよそしくて<line-break>何かおかしい感じはしたんだが…。<end>"
+english = "I've gone out to the forest again and again since then, but for some reason I haven't been able to see Fia lately. Thinking back, she did seem a little distant the last time I saw her. I had a feeling something was wrong...<end>"
+
+["2130004"]
+japanese = "…いや、彼女に何もなければ<line-break>俺は別に構わないんだ…。<line-break>\u3000<line-break>でもひょっとして、あんたなら何か<line-break>知ってるかもと思ってな。<end>"
+english = "No... as long as nothing's happened to her, I don't mind. I just thought you might know something.<end>"
+
+["2130005"]
+japanese = "エルフが急に姿を見せなくなるとは<line-break>穏やかでないのう…。<end>"
+english = "It is troubling that an Elf would suddenly stop showing herself...<end>"
+
+["2130006"]
+japanese = "…あんたは？<end>"
+english = "And you are...?<end>"
+
+["2130007"]
+japanese = "わしはイオンズ。<line-break>縁あって<value:$28>と<line-break>知り合った神官じゃ。<end>"
+english = "I'm Ions, a priest. Circumstances brought <value:$28> and me together.<end>"
+
+["2130008"]
+japanese = "どうじゃ、<value:$28>。<line-break>シェーヌの森へ行ってみんか？<end>"
+english = "What do you say, <value:$28>? Shall we pay Chene Forest a visit?<end>"
+
+["2130009"]
+japanese = "なあに、構わんじゃろう。<line-break>それほど神経質になることもあるまい。<line-break>\u3000<line-break>むしろ無関係のわしらにならば、<line-break>向こうも警戒せずに<line-break>会ってくれるかもしれん。<line-break>単なる男女の行き違いであれば<line-break>それを確認するだけでもよかろう。<end>"
+english = "Oh, I'm sure it will be fine. There's no need to fret so. Since we have nothing to do with the matter, she may be less guarded and agree to see us. If this is simply a misunderstanding between a man and a woman, there is no harm in finding that out.<end>"
+
+["2130010"]
+japanese = "むしろ、そうでない場合が<line-break>心配なんじゃ…。<end>"
+english = "What concerns me is the possibility that it isn't...<end>"
+
+["2130011"]
+japanese = "この人の言うとおりだ。<line-break>頼む！<end>"
+english = "The priest is right. Please!<end>"
+
+["2130012"]
+japanese = "仕方ないな<end>"
+english = "All right, I suppose.<end>"
+
+["2130013"]
+japanese = "ちょっと今は…<end>"
+english = "Not right now…<end>"
+
+["2130014"]
+japanese = "ありがとう、恩に着るぜ。<line-break>またあんたには借りが<line-break>できそうだな…。<line-break>俺はしばらく仕事でここを離れる。<line-break>結果はあとで聞かせてくれ。<line-break>頼んだぜ！<end>"
+english = "Thanks. I won't forget this. Looks like I'll owe you yet another favor... I'll be away from here on business for a while. You can tell me how it went later. I'm counting on you!<end>"
+
+["2130015"]
+japanese = "では行くかの、<value:$28>。<line-break>シェーヌの森とやらへ。<end>"
+english = "Then let us be off, <value:$28>―to this Chene Forest.<end>"
+
+["2130016"]
+japanese = "そうか…。<end>"
+english = "I see...<end>"
+
+["2130017"]
+japanese = "いや、いいんだ。<line-break>くだらない話をして悪かった。<line-break>\u3000<line-break>やっぱりこれは俺自身で<line-break>解決しないといけない問題だよな。<line-break>他人に頼るのが間違っていたんだ。<end>"
+english = "No, it's fine. Sorry to bother you with something so trivial. I suppose this is something I have to settle myself. I was wrong to ask anyone else for help.<end>"
+
+["2130018"]
+japanese = "これまでありがとよ、<line-break><value:$28>。<line-break>じゃあな…。<end>"
+english = "Thanks for everything, <value:$28>. See you...<end>"
+
+["2130019"]
+japanese = "<value:$28>よ。<line-break>本当によかったのか？\u3000これで…。<end>"
+english = "<value:$28>... Are you certain that was the right decision?<end>"
+
+["2130020"]
+japanese = "異種族間の６用終端<end>"
+english = ""

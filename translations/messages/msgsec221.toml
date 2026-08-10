@@ -1,0 +1,121 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2210000"]
+japanese = "迷子イベント4用開始<end>"
+english = ""
+
+["2210001"]
+japanese = "うぇーん、うぇーん！<end>"
+english = "Waaah! Waaah!<end>"
+
+["2210002"]
+japanese = "どうしたの？<end>"
+english = "What's wrong?<end>"
+
+["2210003"]
+japanese = "迷子のようです。<line-break>泣きやむ様子がありません。<end>"
+english = "He appears to be lost. He shows no sign of stopping crying.<end>"
+
+["2210004"]
+japanese = "この子はどうして泣いているのですか？<end>"
+english = "Why is this child crying?<end>"
+
+["2210005"]
+japanese = "母親と離れてしまったさびしさから<line-break>心理的に不安定になり、<line-break>そのため、泣いているのかと。<end>"
+english = "I believe the loneliness of being separated from his mother has left him emotionally unsettled, causing him to cry.<end>"
+
+["2210006"]
+japanese = "あのねー。<line-break>冷静に分析するより先に<line-break>やることがあるでしょ！<end>"
+english = "Listen, before you start calmly analyzing him, don't you think there's something else we ought to do?<end>"
+
+["2210007"]
+japanese = "こら。男の子がめったなことで<line-break>泣くもんじゃないぞ。<line-break>\u3000<line-break>大丈夫。ボクがお母さんを<line-break>見つけてつれてきてあげるから。<end>"
+english = "Hey, now. A boy shouldn't cry over every little thing. Don't worry. I'll find your mother and bring her back to you.<end>"
+
+["2210008"]
+japanese = "ほんと？\u3000お姉ちゃんが<line-break>お母さんをつれてきてくれるの？<end>"
+english = "Really? You'll bring Mommy back, miss?<end>"
+
+["2210009"]
+japanese = "うん、約束するよ。<end>"
+english = "Yes. I promise.<end>"
+
+["2210010"]
+japanese = "ってなわけだから、<line-break>この子のこと、頼んだよ。<end>"
+english = "So that's that. I'm leaving him with you.<end>"
+
+["2210011"]
+japanese = "さ、行こ、<value:$28>。<end>"
+english = "Come on, <value:$28>. Let's go.<end>"
+
+["2210012"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["2210013"]
+japanese = "あの…。<line-break>こういう時はどうすれば<line-break>よろしいのでしょうか？<end>"
+english = "Um... What am I supposed to do in a situation like this?<end>"
+
+["2210014"]
+japanese = "すみません。私に訊かれても…。<line-break>\u3000<line-break>\u3000<line-break>………………。<line-break>\u3000<line-break>\u3000<line-break>ひとまず、あやしてみては<line-break>どうでしょうか？<end>"
+english = "I'm sorry, but I wouldn't know... Perhaps you could try soothing him for now?<end>"
+
+["2210015"]
+japanese = "あやすとは、どういうことを<line-break>すればよいのですか？<end>"
+english = "What exactly does soothing him entail?<end>"
+
+["2210016"]
+japanese = "そうですね。<line-break>たとえば笑わせたり、<line-break>お話をしてなぐさめてあげたり…。<end>"
+english = "Well... We could try making him laugh, or talking to him to put him at ease.<end>"
+
+["2210017"]
+japanese = "わかりました。<line-break>笑わせればよいのですね。<line-break>やれるだけ、やってみます。<end>"
+english = "Understood. I need only make him laugh. I shall do what I can.<end>"
+
+["2210018"]
+japanese = "びぇーん、びぇーん！<line-break>お母さん、こわいよーっ！<end>"
+english = "Waaah! Waaah! Mommy, I'm scared!<end>"
+
+["2210019"]
+japanese = "どうなってるの？<line-break>なんか、さっきより<line-break>泣いてるみたいだけど…。<end>"
+english = "What's going on? He looks like he's crying even harder than before.<end>"
+
+["2210020"]
+japanese = "いろいろと試みてはみたのですが…。<end>"
+english = "All sorts of things were tried, but...<end>"
+
+["2210021"]
+japanese = "難しいものですね…。<end>"
+english = "This is rather difficult...<end>"
+
+["2210022"]
+japanese = "お母さん！<end>"
+english = "Mommy!<end>"
+
+["2210023"]
+japanese = "ここにいたのね。<line-break>心配したわよ。<end>"
+english = "There you are! I was so worried.<end>"
+
+["2210024"]
+japanese = "どうも、すみませんでした。<line-break>ありがとうございます。<end>"
+english = "I'm terribly sorry for the trouble. Thank you so much.<end>"
+
+["2210025"]
+japanese = "あなたもちゃんとお礼を言いなさい。<line-break>この人たちがお母さんを<line-break>案内してくれたのよ。<end>"
+english = "You should thank them properly, too. These people showed Mommy where to find you.<end>"
+
+["2210026"]
+japanese = "ありがとー！\u3000お姉ちゃん。<end>"
+english = "Thank you, miss!<end>"
+
+["2210027"]
+japanese = "本物のフレアも<line-break>あんなふうに子供の頃が<line-break>あったのでしょうか？<end>"
+english = "I wonder if the real Flare was ever a child like that.<end>"
+
+["2210028"]
+japanese = "子供というのは不思議なものですね…。<end>"
+english = "Children truly are mysterious...<end>"
+
+["2210029"]
+japanese = "迷子イベント4用終端<end>"
+english = ""

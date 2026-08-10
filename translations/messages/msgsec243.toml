@@ -1,0 +1,65 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2430000"]
+japanese = "PSP用新スタートイベント06用開始<end>"
+english = ""
+
+["2430001"]
+japanese = "待ちたまえ。<line-break><value:$28>ではないか。<end>"
+english = "Wait. Is that you, <value:$28>?<end>"
+
+["2430002"]
+japanese = "どうだ、あれから記憶は戻ったか？<end>"
+english = "Well? Have any of your memories returned since then?<end>"
+
+["2430003"]
+japanese = "そうか。まだ思い出せぬか。<line-break>残念だな。<line-break>\u3000<line-break>自分が何者なのか<line-break>わからぬというのは、<line-break>さぞやもどかしいだろう。<line-break>だが、焦らぬことだ。<line-break>浅慮は時として、破滅につながる。<end>"
+english = "So. You still cannot remember. A pity. It must be frustrating not to know who you are. But do not rush. A rash decision can sometimes lead to ruin.<end>"
+
+["2430004"]
+japanese = "フッ、<value:$28>のことを<line-break>心配しているわけではない。<line-break>ただ、理不尽さを覚えたまでだ。<line-break>無限のソウルの持ち主が<line-break>己を生かすことさえ知らず、<line-break>いたずらに力を浪費していることにな。<end>"
+english = "Hmph. Do not mistake this for concern, <value:$28>. I merely find it absurd that the bearer of the Infinite Soul does not even know how to fulfill that potential, and simply squanders the power within.<end>"
+
+["2430005"]
+japanese = "今の君では、無限のソウルも<line-break>宝の持ち腐れだ。<line-break>\u3000<line-break>無限の可能性が、<line-break>ただの可能性のままで終わってしまう。<line-break>\u3000<line-break>君には、その身に秘めている力を、<line-break>ぜひとも磨いてもらいたいのだ。<line-break>\u3000<line-break>君個人のためでなく、この世界にとって<line-break>大いなる貢献を成し遂げるために。<end>"
+english = "As you are now, even the Infinite Soul is wasted on you. All that infinite potential will remain mere potential. I want you to hone the power hidden within you―not for your own sake, but to make a great contribution to this world.<end>"
+
+["2430006"]
+japanese = "呼び止めてすまなかったな。<line-break>縁があったら、また会おう。<line-break><value:$28>。<end>"
+english = "Forgive me for detaining you. If fate allows, we shall meet again, <value:$28>.<end>"
+
+["2430007"]
+japanese = "待ちたまえ。<line-break><value:$28>ではないか。<end>"
+english = "Wait. Is that you, <value:$28>?<end>"
+
+["2430008"]
+japanese = "どうだ、あれから記憶は戻ったか？<end>"
+english = "Well? Have any of your memories returned since then?<end>"
+
+["2430009"]
+japanese = "そうか。まだ思い出せぬか。<line-break>残念だな。<line-break>\u3000<line-break>自分が何者なのか<line-break>わからぬというのは、<line-break>さぞやもどかしいだろう。<line-break>だが、焦らぬことだ。<line-break>浅慮は時として、破滅につながる。<end>"
+english = "So. You still cannot remember. A pity. It must be frustrating not to know who you are. But do not rush. A rash decision can sometimes lead to ruin.<end>"
+
+["2430010"]
+japanese = "フッ、<value:$28>のことを<line-break>心配しているわけではない。<line-break>ただ、理不尽さを覚えたまでだ。<line-break>無限のソウルの持ち主が<line-break>己を生かすことさえ知らず、<line-break>いたずらに力を浪費していることにな。<end>"
+english = "Hmph. Do not mistake this for concern, <value:$28>. I merely find it absurd that the bearer of the Infinite Soul does not even know how to fulfill that potential, and simply squanders the power within.<end>"
+
+["2430011"]
+japanese = "今の君では、無限のソウルも<line-break>宝の持ち腐れだ。<line-break>\u3000<line-break>無限の可能性が、<line-break>ただの可能性のままで終わってしまう。<line-break>\u3000<line-break>君には、その身に秘めている力を、<line-break>ぜひとも磨いてもらいたいのだ。<line-break>\u3000<line-break>君個人のためでなく、この世界にとって<line-break>大いなる貢献を成し遂げるために。<end>"
+english = "As you are now, even the Infinite Soul is wasted on you. All that infinite potential will remain mere potential. I want you to hone the power hidden within you―not for your own sake, but to make a great contribution to this world.<end>"
+
+["2430012"]
+japanese = "ふむ。<line-break>魔道の塔に興味があるのか…。<end>"
+english = "Hmm. So the Arcane Tower interests you.<end>"
+
+["2430013"]
+japanese = "行きたい気持ちはわかるが、<line-break>賛成しかねるな。<line-break>\u3000<line-break>今の君の力ではむざむざと<line-break>魔物に殺されにいくようなものだ。<line-break>\u3000<line-break>それでもあえて赴くというのなら、<line-break>私に止める権利はない。<line-break>\u3000<line-break>だが、せめてもっと腕を上げてから<line-break>挑んでも遅くはあるまい、<line-break>…とだけ忠告しておこう。<end>"
+english = "I understand why you want to go, but I cannot approve. At your present strength, you would only be going there to be killed by monsters. If you choose to go regardless, I have no right to stop you. Still, there would be no harm in waiting until you have improved your skills before taking on the Tower. Let me at least leave you with that warning.<end>"
+
+["2430014"]
+japanese = "呼び止めてすまなかったな。<line-break>縁があったら、また会おう、<line-break><value:$28>。<end>"
+english = "Forgive me for detaining you. If fate allows, we shall meet again, <value:$28>.<end>"
+
+["2430015"]
+japanese = "PSP用新スタートイベント06用終端<end>"
+english = ""

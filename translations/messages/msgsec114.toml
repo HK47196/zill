@@ -1,0 +1,133 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1140000"]
+japanese = "ザギヴメッセージｖ５用開始<end>"
+english = ""
+
+["1140001"]
+japanese = "ザギヴに気に入られているようだな。<line-break>だが、気をつけることだ。<line-break>見た目では判断できぬからな。<end>"
+english = "It seems Zagiv has taken a liking to you. But be careful. Appearances can be deceiving.<end>"
+
+["1140002"]
+japanese = "よく来てくれたわね、\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>。<line-break>\u3000<line-break>今日は、どうしても<line-break>あなたにお礼が言いたかったの。<end>"
+english = "I'm glad you came, <value:$28>. I really wanted to thank you today.<end>"
+
+["1140003"]
+japanese = "あなたがギルドで受けていた\u3000\u3000\u3000\u3000\u3000<line-break>モンスター退治の依頼の中には、<line-break>闇の怪物も含まれていたのよ。<line-break>私もずっと追っていたの。<line-break>一匹でも多くこの世から消すためにね。<end>"
+english = "Some of the monsters you were hired to hunt through the Guild were creatures of darkness. I'd been hunting them too, trying to rid the world of as many as I could.<end>"
+
+["1140004"]
+japanese = "あなたのおかげで<line-break>ずいぶんと気分が楽になったわ。<line-break>ありがとう、殺してくれて。<end>"
+english = "You've taken a great weight off my mind. Thank you for killing them.<end>"
+
+["1140005"]
+japanese = "私は、闇を憎んでいるのよ。\u3000<line-break>\u3000<line-break>\u3000<line-break>なぜなら、私の体の中にも<line-break>闇が巣くっているから。<line-break>あなたも墓地で見たでしょう？<end>"
+english = "I hate darkness because it lurks inside my body, too. You saw it in the graveyard, didn't you?<end>"
+
+["1140006"]
+japanese = "ふふふ、聞かせてあげるわ。<line-break>私がなぜ闇にとりつかれたのか。<end>"
+english = "Heh... I'll tell you how the darkness came to possess me.<end>"
+
+["1140007"]
+japanese = "あれは、まだディンガルが、<line-break>魔王バロルに支配されていたころ、<line-break>妖術宰相ゾフォルはこう予言した…。<line-break>ザギヴがディンガルを支配する<line-break>…とね。<end>"
+english = "Back when Dingal was still under the rule of Balor, the Demon King, Zofor, the Sorcerous Chancellor, made a prophecy: that Zagiv would rule Dingal.<end>"
+
+["1140008"]
+japanese = "それで、私の家族は魔王バロルに<line-break>捕らえられて…破壊神の円卓騎士<line-break>マゴスの餌食に…………。<line-break>マゴスには魔法も…打撃も…<line-break>効かなかった。<end>"
+english = "Because of that, my family was captured by Balor, the Demon King... and fell prey to Magos, a Knight of the Round Table serving the God of Destruction. Neither magic nor physical blows had any effect on Magos.<end>"
+
+["1140009"]
+japanese = "私の目の前で…家族が、私の家族が…<line-break>なぶり殺されて…いったわ。<line-break>私が…ザギヴ…だったばっかりに…。<line-break>あのとき…、<line-break>ネメア様が助けに来てくださって、<line-break>私だけ…助かった…。<end>"
+english = "Before my very eyes... my family, my own family... were tortured to death. All because I... was Zagiv. Then... Nemea came to the rescue, and I alone... survived.<end>"
+
+["1140010"]
+japanese = "私…だけ…。<end>"
+english = "Only me...<end>"
+
+["1140011"]
+japanese = "マゴスはその時、私の中に潜んだの。<line-break>それ以来、私の中にはマゴスが<line-break>棲み続けているわ。<end>"
+english = "That was when Magos hid inside me. Magos has dwelled within me ever since.<end>"
+
+["1140012"]
+japanese = "マゴスは死んでいない。<line-break>私の中に逃げ込んで、生きている。<line-break>でも、ネメア様は私を殺さなかった…。<end>"
+english = "Magos isn't dead. Magos fled into me and is still alive there. But Nemea didn't kill me...<end>"
+
+["1140013"]
+japanese = "闇に巣くわれていようと、<line-break>心までは闇に堕ちていないなら<line-break>戦え。生き続けろって…。<end>"
+english = "He told me that even if darkness dwelled within me, as long as my heart had not fallen to it, I must fight. I must go on living.<end>"
+
+["1140014"]
+japanese = "ふふふ…。ごめんなさい。<line-break>こんな話を聞きに来たんじゃないわね。<line-break>闇の怪物退治、ありがとう。<line-break>これは私からの気持ちよ。<line-break>受け取っておいて。<end>"
+english = "Heh... I'm sorry. You didn't come here to listen to all this. Thank you for hunting those creatures of darkness. This is a token of my gratitude. Please, take it.<end>"
+
+["1140015"]
+japanese = "くだらない話を<line-break>聞いてくれて、ありがとう。<line-break>\u3000<line-break>少し楽になったわ。<end>"
+english = "Thank you for listening to my foolish story. I feel a little better now.<end>"
+
+["1140016"]
+japanese = "ごめんなさい。<line-break>今日はもう相手をできないわ。<line-break>政務がたくさん残ってるの。<end>"
+english = "I'm sorry, but I can't spend any more time with you today. I still have so much state business to attend to.<end>"
+
+["1140017"]
+japanese = "あの話を聞いて<line-break>まだここに来るなんて…。\u3000\u3000\u3000<line-break>\u3000<line-break>ふふふ、変な人ね。<line-break>うれしいけど、複雑な気分だわ。<end>"
+english = "Even after hearing all that, you still came... Heh. You are a strange one. I'm glad, though I don't quite know how to feel.<end>"
+
+["1140018"]
+japanese = "私、いつまで<line-break>この闇を抑えておけるのかしら？\u3000<line-break>\u3000<line-break>もし、闇に飲まれてしまったら…。<line-break>その時は、きっとネメア様が<line-break>楽にしてくれるわよね。<end>"
+english = "How much longer can I keep this darkness at bay? If it consumes me... then Lord Nemea will surely put me out of my misery, won't he?<end>"
+
+["1140019"]
+japanese = "エリュマルク帝のように…。\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>それとも、あなたがしてくれる？<line-break>ふふふ。それも悪くないわね。<end>"
+english = "Just as he did for Emperor Eryumark... Or would you do it for me? Heh. That wouldn't be so bad either.<end>"
+
+["1140020"]
+japanese = "ゾフォルの予言は<line-break>成就しないですみそうね。<line-break>\u3000<line-break>ネメア様がいれば<line-break>何もかも平気だわ。<line-break>…あなたもいるしね。<end>"
+english = "It seems Zophor's prophecy may never come to pass. With Lord Nemea here, everything will be all right. And you're here too.<end>"
+
+["1140021"]
+japanese = "こんなところにいつまでもいないの。<line-break>他にやることがあるでしょ。<line-break>\u3000<line-break>ふふふ、ほんとに変な人。<end>"
+english = "Don't stay in a place like this forever. You have other things to do, don't you? Hee hee... You really are a strange one.<end>"
+
+["1140022"]
+japanese = "予備メッセージ１<line-break>ザギヴ、ボリューム５<end>"
+english = ""
+
+["1140023"]
+japanese = "予備メッセージ２<line-break>ザギヴ、ボリューム５<end>"
+english = ""
+
+["1140024"]
+japanese = "予備メッセージ３<line-break>ザギヴ、ボリューム５<end>"
+english = ""
+
+["1140025"]
+japanese = "予備メッセージ４<line-break>ザギヴ、ボリューム５<end>"
+english = ""
+
+["1140026"]
+japanese = "予備メッセージ５<line-break>ザギヴ、ボリューム５<end>"
+english = ""
+
+["1140027"]
+japanese = "予備メッセージ６<line-break>ザギヴ、ボリューム５<end>"
+english = ""
+
+["1140028"]
+japanese = "予備メッセージ７<line-break>ザギヴ、ボリューム５<end>"
+english = ""
+
+["1140029"]
+japanese = "予備メッセージ８<line-break>ザギヴ、ボリューム５<end>"
+english = ""
+
+["1140030"]
+japanese = "予備メッセージ９<line-break>ザギヴ、ボリューム５<end>"
+english = ""
+
+["1140031"]
+japanese = "予備メッセージ１０<line-break>ザギヴ、ボリューム５<end>"
+english = ""
+
+["1140032"]
+japanese = "ザギヴメッセージVol5終端<end>"
+english = ""

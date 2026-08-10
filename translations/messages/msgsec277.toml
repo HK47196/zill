@@ -1,0 +1,61 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2770000"]
+japanese = "ジリオン＆イーシャイベントED2用開始<end>"
+english = ""
+
+["2770001"]
+japanese = "教えて、ジリオン…。<line-break>あたしはどうすればいいの？<end>"
+english = "Tell me, Zillion... What am I supposed to do?<end>"
+
+["2770002"]
+japanese = "あたしはこれまでずっと<line-break>陰謀と裏切りの世界に生きてきたわ。<line-break>\u3000<line-break>あたしがテジャワの変に加担したから、<line-break>多くの人が死に、そして…。<line-break>アトレイア様の目は光を失った。<line-break>あたしはいろんな人を不幸にしてきたのよ。<line-break>\u3000<line-break>\u3000<line-break>そんなあたしに<value:$28>から<line-break>愛される資格なんて…。<end>"
+english = "I've spent my whole life surrounded by plots and betrayal. Because I took part in the Tejava Incident, many people died, and... Lady Atleia lost her sight. I've brought misery to so many people. Someone like me has no right to be loved by <value:$28>...<end>"
+
+["2770003"]
+japanese = "\u3000\u3000\u3000\u3000愛に資格なんて必要ない。<line-break>\u3000\u3000\u3000もう自分を責めるのはよせ。<line-break>\u3000\u3000自分を許し、過去を忘れるんだ。<end>"
+english = "No one needs to qualify for love. Stop blaming yourself. Forgive yourself, and let go of the past.<end>"
+
+["2770004"]
+japanese = "でも、あたしのせいであなたが…。<end>"
+english = "But because of me, you...<end>"
+
+["2770005"]
+japanese = "\u3000\u3000これは俺自身が選んだ道だ。<line-break>\u3000\u3000\u3000他の誰にも責任はない。<end>"
+english = "This is the path I chose for myself. No one else is to blame.<end>"
+
+["2770006"]
+japanese = "ジリオン…。<end>"
+english = "Zillion...<end>"
+
+["2770007"]
+japanese = "\u3000\u3000\u3000お前は俺のために充分、頑張った。<line-break>\u3000\u3000\u3000これからはお前自身の幸せのために<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000生きろ。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000大丈夫。<value:$28>なら<line-break>\u3000\u3000\u3000\u3000きっとお前を支えてくれる。<end>"
+english = "You've done more than enough for me. From now on, live for your own happiness. You'll be all right. I'm sure <value:$28> will be there to support you.<end>"
+
+["2770008"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2770009"]
+japanese = "本当にあたしがついていってもいいの？<line-break>あたしには消せない過去がある。<line-break>決して償いきれない罪がある。<end>"
+english = "Are you sure I can come with you? I have a past I can never erase. I can never fully atone for what I've done.<end>"
+
+["2770010"]
+japanese = "でも…。それでもあたしは<line-break>あなたについてゆきたい。<line-break>もしも、許されるのであれば…。<end>"
+english = "But... even so, I want to go with you. If you'll let me...<end>"
+
+["2770011"]
+japanese = "ありがとう。<value:$28>。<end>"
+english = "Thank you, <value:$28>.<end>"
+
+["2770012"]
+japanese = "本当にこれでよかったのかい？<line-break>ジリオンの願いは…これで…<line-break>かなえられたの？<end>"
+english = "Was this really the right thing to do? Did this... fulfill Zillion's wish?<end>"
+
+["2770013"]
+japanese = "そう。ならいいんだ…。<end>"
+english = "I see. Then that's all right...<end>"
+
+["2770014"]
+japanese = "ジリオン＆イーシャイベントED2用開終端<end>"
+english = ""

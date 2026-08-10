@@ -1,0 +1,1217 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["400000"]
+japanese = "ネメア・ボリューム１開始<end>"
+english = ""
+
+["400001"]
+japanese = "あんた、ロストールの西にある<line-break>城塞都市跡に行ったことあるかい？<line-break>\u3000<line-break>実はあの場所で、<line-break>怪現象が起こるって話があってさ。<line-break>ギルドで情報を集めてるんだ。<end>"
+english = "Have you ever been to the Fortress City Ruins west of Rostorl? There are reports of strange things happening there, and the Guild is gathering information.<end>"
+
+["400002"]
+japanese = "なんでも生きてるような黒い闇が\u3000<line-break>現れるってんだが…。<line-break>\u3000<line-break>あんた、もしなんかわかったら<line-break>知らせてくれないか？<line-break>ちゃんと報酬も用意しておくぜ。<end>"
+english = "They say some kind of blackness appears there, as if it were alive... If you find out anything, could you let me know? There'll be a proper reward in it for you.<end>"
+
+["400003"]
+japanese = "お！\u3000城塞都市の噂を突き止めたか！\u3000<line-break>よしよし、聞かせてくれよ。<line-break>\u3000<end>"
+english = "Oh! You got to the bottom of those rumors about the Fortress City? Good, let's hear it.<end>"
+
+["400004"]
+japanese = "へー、円卓騎士バルザーねー。<line-break>そいつ、以前ディンガルを支配していた<line-break>魔王バロルが復活させたヤツだろ？<line-break>結局、バロルは、<line-break>ネメアに倒されちまったが、<line-break>またなんかたくらんでたのかな。<end>"
+english = "Huh. Baltzer, Knight of the Round Table. He's the one Balor the Demon King, who once ruled Dingal, brought back to life, right? Balor was defeated by Nemea in the end, but maybe he'd been plotting something else.<end>"
+
+["400005"]
+japanese = "なんにせよ、ありがとよ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>。<line-break>\u3000<end>"
+english = "Anyway, thanks, <value:$28>.<end>"
+
+["400006"]
+japanese = "<if><value:$01><equal>2このことかしら…？<line-break>噂になってる怪現象って。 <end><if><value:$01><equal>4見るからに怪しげかな。<line-break>噂の怪現象って、これかも。 <end><if><value:$01><equal>5ギルドで言ってた怪現象って、<line-break>これじゃねえのか？ <end><if><value:$01><equal>6ねえ、<value:$28>。<line-break>怪現象って、これじゃないかな。 <end><if><value:$01><equal>12空 <end><if><value:$01><equal>13…これだな。<line-break>例の怪奇現象とやらは。 <end><if><value:$01><equal>10姉ちゃん、きっとこれだよ。<line-break>ギルドで言ってた怪現象って。 <end><if><value:$01><equal>14これは奇怪な。<line-break>ギルドで言っていたのは、<line-break>これかの？ <end><if><value:$01><equal>15ギルドで言ってた怪現象って、<line-break>きっとこれだね。 <end><if><value:$01><equal>17ギルドで言ってたとかいう<line-break>怪現象ってこのことね。<line-break>もちろん、アタクシは知っていてよ。 <end><if><value:$01><equal>19ギルドで言ってたのって、<line-break>これかな？<line-break>なんか気持ち悪いね。 <end><if><value:$01><equal>20空 <end><if><value:$01><equal>193ギルドで言っていた怪現象って<line-break>こ、これ…ですよね？<line-break>私、す、すごく怖い…！<end><if><value:$01><equal>191このことかしら？<line-break>ギルドで言ってた怪現象は。<end>ギルドで言ってたの、これだよね。<line-break>うわー、ほんとに怪現象だなー。<line-break>歌の題材になるよ。 <end>"
+english = "<if><value:$01><equal>2Could this be the strange phenomenon everyone's been talking about...?<end><if><value:$01><equal>4It does look suspicious. Maybe this is the strange phenomenon from the rumors.<end><if><value:$01><equal>5Isn't this the strange phenomenon they were talking about at the Guild?<end><if><value:$01><equal>6Hey, <value:$28>. I think this might be the strange phenomenon.<end><if><value:$01><equal>12<end><if><value:$01><equal>13This is it, then. That so-called strange phenomenon.<end><if><value:$01><equal>10Miss, this has got to be it―the strange phenomenon they mentioned at the Guild.<end><if><value:$01><equal>14How peculiar. Could this be what they spoke of at the Guild?<end><if><value:$01><equal>15This must be the strange phenomenon they mentioned at the Guild.<end><if><value:$01><equal>17So this is that strange phenomenon they supposedly mentioned at the Guild. Of course, I knew that already.<end><if><value:$01><equal>19Could this be what they mentioned at the Guild? It's kind of creepy.<end><if><value:$01><equal>20<end><if><value:$01><equal>193Th-this is the strange phenomenon they mentioned at the Guild... isn't it? I'm s-so scared...!<end><if><value:$01><equal>191Could this be the strange phenomenon they mentioned at the Guild?<end>This is what they mentioned at the Guild, right? Wow, it really is a strange phenomenon. It'd make good material for a song.<end>"
+
+["400007"]
+japanese = "ここにもいないか…。<line-break>バルザーめ…、<line-break>どういうつもりだ。<end>"
+english = "Not here either... Damn you, Baltzer. What are you up to?<end>"
+
+["400008"]
+japanese = "大丈夫か？<end>"
+english = "Are you all right?<end>"
+
+["400009"]
+japanese = "空<end>"
+english = "Empty<end>"
+
+["400010"]
+japanese = "空<end>"
+english = "Empty<end>"
+
+["400011"]
+japanese = "<if><value:$01><equal>2ね、ネメアさん！？ <end><if><value:$01><equal>4あ！\u3000あの英雄ネメアかも！？ <end><if><value:$01><equal>5あ！\u3000ネメアじゃんか！？ <end><if><value:$01><equal>6あ！\u3000英雄ネメア！？ <end><if><value:$01><equal>12空 <end><if><value:$01><equal>13お前は、<line-break>…ネメアか。 <end><if><value:$01><equal>10ね、ネメア…！？ <end><if><value:$01><equal>14…お主は、<line-break>…ね、ネメアか！？ <end><if><value:$01><equal>15…ね、ネメアさん！？ <end><if><value:$01><equal>17誰よ、誰よ、今度は誰なのよー！<line-break>…って、あなた、ネメア！？ <end><if><value:$01><equal>19あぁ！\u3000ネメアさんだぁ！ <end><if><value:$01><equal>193あ、あなたは<line-break>英雄ネメアさん！？<end><if><value:$01><equal>191あなたは…ネメア！？<end>あ！\u3000英雄ネメアだ！ <end>"
+english = "<if><value:$01><equal>2N-Nemea!?<end><if><value:$01><equal>4Ah! Could that be the hero Nemea!?<end><if><value:$01><equal>5Ah! It's Nemea!?<end><if><value:$01><equal>6Ah! Nemea the hero!?<end><if><value:$01><equal>12Empty<end><if><value:$01><equal>13You're... Nemea.<end><if><value:$01><equal>10N-Nemea...!?<end><if><value:$01><equal>14You... A-are you Nemea!?<end><if><value:$01><equal>15N-Nemea!?<end><if><value:$01><equal>17Who? Who is it this time!? Wait... you're Nemea!?<end><if><value:$01><equal>19Ah! It's Nemea!<end><if><value:$01><equal>193Y-you're the hero Nemea!?<end><if><value:$01><equal>191You're... Nemea!?<end>Ah! It's the hero Nemea!<end>"
+
+["400012"]
+japanese = "危ないところだったな。<end>"
+english = "That was close.<end>"
+
+["400013"]
+japanese = "そうだ。<line-break>以前話した闇の気配…。<line-break>それが、ここにある。<end>"
+english = "Yes. That dark presence I mentioned before... It's here.<end>"
+
+["400014"]
+japanese = "<if><value:$01><equal>2破壊神に仕える魔人…？<line-break>そんなヤツがここにいるなんて…。 <end><if><value:$01><equal>4破壊神って、神話に出てくる<line-break>悪者のことだったかな。<line-break>アカデミーで習ったかも。 <end><if><value:$01><equal>5破壊神の円卓騎士！？<line-break>ほんとかよ！？ <end><if><value:$01><equal>6破壊神て…神話に出てくる<line-break>邪神じゃない！<line-break>そんな奴がここにいるの！？ <end><if><value:$01><equal>12空 <end><if><value:$01><equal>13魔人だと…！？<line-break>アーギルシャイアの仲間か！ <end><if><value:$01><equal>10魔人て、オルファウスが<line-break>言ってたヤツの仲間かな？ <end><if><value:$01><equal>14あの破壊神の円卓騎士を<line-break>追っとるとは、<line-break>豪気な冒険をしとるの。 <end><if><value:$01><equal>15破壊神の円卓騎士…。<line-break>そんなにすごい魔人が<line-break>ここにいるなんて…。 <end><if><value:$01><equal>17やーね、魔人？<line-break>まったく、<value:$28>といると<line-break>ろくな目にあわないわ！ <end><if><value:$01><equal>18空 <end><if><value:$01><equal>19魔人だったら、<line-break>私たちも探してるよぉ。<line-break>ね、<value:$28>。 <end><if><value:$01><equal>20空 <end><if><value:$01><equal>193ま、魔人ですか！？<line-break>ま、魔人のいる迷宮なんて<line-break>伝説の勇者さんが挑むところですよね？<line-break>す、すみません！！<line-break>ろ、ロストールのウエイトレスなんかが<line-break>挑んでいい場所じゃありませんよね！？<end><if><value:$01><equal>191破壊神の円卓の騎士…<line-break>そんな恐ろしい相手が、<line-break>ここにいるというの！？<end>魔人に挑むネメアかー。<line-break>いい歌になりそうだなー。<line-break><value:$28>、ついていこうよ。 <end>"
+english = "<if><value:$01><equal>2A demon serving the God of Destruction...? Someone like that is here...?<end><if><value:$01><equal>4The God of Destruction... Was that the villain from the myths? I think we might have learned about that at the Academy.<end><if><value:$01><equal>5A Knight of the Round Table serving the God of Destruction!? Are you serious!?<end><if><value:$01><equal>6The God of Destruction... Isn't that the evil god from the myths!? Someone like that is here!?<end><if><value:$01><equal>12Empty<end><if><value:$01><equal>13A demon, you say...!? An ally of Argyleshire's!?<end><if><value:$01><equal>10A demon... Could this be an ally of the one Orphaus mentioned?<end><if><value:$01><equal>14Chasing after one of the God of Destruction's Knights of the Round Table, are you? That's quite the daring adventure.<end><if><value:$01><equal>15A Knight of the Round Table serving the God of Destruction... I can't believe such a powerful demon is here...<end><if><value:$01><equal>17Oh, no. A demon? Honestly, nothing good ever happens when I'm with you, <value:$28>!<end><if><value:$01><equal>18Empty<end><if><value:$01><equal>19If it's a demon, we're looking for one too. Aren't we, <value:$28>?<end><if><value:$01><equal>20Empty<end><if><value:$01><equal>193A-a demon!? A labyrinth with a demon in it is the sort of place a legendary hero would take on, isn't it? S-sorry!! A R-Rostorl waitress has no business taking on a place like this, right!?<end><if><value:$01><equal>191A Knight of the Round Table serving the God of Destruction... Are you saying such a terrifying foe is here!?<end>Nemea taking on a demon... That could make a good song. Let's follow him, <value:$28>.<end>"
+
+["400015"]
+japanese = "…バルザーを知っているのか？<end>"
+english = ""
+
+["400016"]
+japanese = "そうか。<line-break>ならば、話が早い。<end>"
+english = ""
+
+["400017"]
+japanese = "なぜこの場所に来てしまったのかは<line-break>知らないが、<line-break>ここに長くとどまるのは危険だ。<line-break>ここはバルザーが作り出した異空間。<line-break>先ほどのモンスターもそうだが、<line-break>何が待ちかまえているかわからない。<end>"
+english = "I don't know how you ended up here, but it's dangerous to stay for long. This is another realm created by Baltzer. As the monster from earlier showed, there's no telling what may be waiting here.<end>"
+
+["400018"]
+japanese = "行動を共にした方が<line-break>安全だと思うが、<line-break>構わないかな？<end>"
+english = "It would be safer if we traveled together. Would that be all right?<end>"
+
+["400019"]
+japanese = "では、行こう。<line-break>おそらく、バルザーを倒さねば<line-break>この異空間は消えない。<line-break>ヤツのもとにたどり着き<line-break>雌雄を決さねばなるまい。<end>"
+english = "Then let's go. This other realm likely won't disappear unless we defeat Baltzer. We must reach him and settle this once and for all.<end>"
+
+["400020"]
+japanese = "待っていた…。<end>"
+english = "I've been waiting...<end>"
+
+["400021"]
+japanese = "…バルザー。<end>"
+english = "Baltzer...<end>"
+
+["400022"]
+japanese = "勇者ネメアよ。<end>"
+english = "Nemea the Hero.<end>"
+
+["400023"]
+japanese = "私はネメアだ。<line-break>勇者ネメアなどではない。<end>"
+english = "I am Nemea. I am no hero.<end>"
+
+["400024"]
+japanese = "運命に抗おうとする者…。<end>"
+english = "One who would defy fate...<end>"
+
+["400025"]
+japanese = "これを勇者と呼ばずして、<line-break>誰を勇者と呼ぶ？<end>"
+english = "If that is not a hero, then who is?<end>"
+
+["400026"]
+japanese = "…だが、ムダだ。<line-break>うぬとても運命には逆らえぬ。<end>"
+english = "But it is futile. Not even you can defy fate.<end>"
+
+["400027"]
+japanese = "我らが主、破壊神ウルグ様は<line-break>必ずや復活される…。<end>"
+english = "Our master, Urg, the God of Destruction, shall surely rise again...<end>"
+
+["400028"]
+japanese = "ゆくぞ、<value:$28>。<end>"
+english = "Let's go, <value:$28>.<end>"
+
+["400029"]
+japanese = "フ…フフ…我が事…成れり！<end>"
+english = "Heh... heh heh... My purpose is fulfilled!<end>"
+
+["400030"]
+japanese = "なんだと…？<end>"
+english = "What...?<end>"
+
+["400031"]
+japanese = "死より生まれし獅子…槍の主を殺す。<line-break>我らの主は死の獅子に来る…。<line-break>…妖術宰相ゾフォルの予言だ。<end>"
+english = "The lion born of death shall slay the Lord of the Spear. Our master shall come to the lion of death... So runs the prophecy of Zophor, the Sorcerous Chancellor.<end>"
+
+["400032"]
+japanese = "ああ…。<end>"
+english = "Yes...<end>"
+
+["400033"]
+japanese = "フフ…奴の予言は…外れぬ。<line-break>\u3000<line-break>\u3000<line-break>疑うならば、エ、エルズの<line-break>巫女エアに確かめてみるが…よい。<line-break>奴は…天地千年を見通す能力がある。<end>"
+english = "Heh heh... His prophecy will not fail. If you doubt me, ask E-Er, the shrine maiden of Elz. She has the power to see a thousand years across heaven and earth.<end>"
+
+["400034"]
+japanese = "最期の言葉は、それで終わりか？<end>"
+english = "Are those your final words?<end>"
+
+["400035"]
+japanese = "確かに、聞いた。<end>"
+english = "I have heard them.<end>"
+
+["400036"]
+japanese = "あわてるな。<line-break>バルザーの死によって、<line-break>異空間がその姿を保てなくなったのだ。<line-break>今からテレポートで脱出する。<line-break>私の周りに集まれ。<end>"
+english = "Do not panic. Baltzer's death has left this other realm unable to retain its form. I will teleport us out. Gather around me.<end>"
+
+["400037"]
+japanese = "リベルダムまで跳ぶ。<line-break>ゆくぞ。<end>"
+english = "We're teleporting to Liberdam. Here we go.<end>"
+
+["400038"]
+japanese = "…お前の負けだ。<line-break>破壊神の円卓騎士バルザーよ。<line-break>\u3000<line-break>破壊神ウルグ、復活はさせぬ。<end>"
+english = "You have lost, Baltzer, Knight of the God of Destruction's Round Table. I will not allow Urg, the God of Destruction, to rise again.<end>"
+
+["400039"]
+japanese = "さすがだ…、ネメア。<line-break>\u3000<line-break>\u3000<line-break>破壊神の円卓騎士の中でも<line-break>１、２を争う力を持つ我を<line-break>こうもたやすく倒すとは…な…。<end>"
+english = "Impressive, Nemea... To think you could defeat me so easily, when I am one of the two mightiest Knights of the God of Destruction's Round Table...<end>"
+
+["400040"]
+japanese = "再会のあいさつは抜きだ。<line-break>それより、すぐにここを<line-break>出なければならない。<line-break>バルザーの死により、<line-break>ここはまもなく崩壊するだろう。<end>"
+english = "We can dispense with the reunion greetings. More importantly, we must leave at once. With Baltzer dead, this place will soon collapse.<end>"
+
+["400041"]
+japanese = "以前話した闇の気配が<line-break>まだ残っている。<line-break>これで終わりではないな…。<end>"
+english = "The dark presence I spoke of before still lingers. This is not over...<end>"
+
+["400042"]
+japanese = "むしろ、<line-break>始まりかもしれん。<end>"
+english = "It may only be the beginning.<end>"
+
+["400043"]
+japanese = "あわてるな。<line-break>今からテレポートで脱出する。<line-break>私の周りに集まれ。<end>"
+english = ""
+
+["400044"]
+japanese = "<if><value:$01><equal>2すごい…。<line-break>一瞬で、<line-break>リベルダムに着いたわ。 <end><if><value:$01><equal>6すごい…。<line-break>一瞬で、<line-break>リベルダムに着いちゃった。 <end><if><value:$01><equal>19すっごーい！\u3000すごいすごい！<line-break>一瞬で、<line-break>リベルダムに着いちゃったぁ。 <end><if><value:$01><equal>22すごいなぁ！<line-break>一瞬で、<line-break>リベルダムに着いちゃった。 <end><if><value:$01><equal>193すごいです！<line-break>一瞬で、<line-break>リベルダムに着いちゃいました。<end><if><value:$01><equal>191すごいわね。<line-break>一瞬でリベルダムに着いたわ。<end>すごい…。<line-break>一瞬で、<line-break>リベルダムに…。 <end>"
+english = "<if><value:$01><equal>2Amazing... We reached Liberdam in an instant.<end><if><value:$01><equal>6Amazing... We made it to Liberdam in an instant.<end><if><value:$01><equal>19Wow! Amazing, amazing! We made it all the way to Liberdam in an instant!<end><if><value:$01><equal>22Wow! We made it to Liberdam in an instant.<end><if><value:$01><equal>193That's amazing! We made it to Liberdam in an instant.<end><if><value:$01><equal>191Amazing. We reached Liberdam in an instant.<end>Amazing... In an instant, Liberdam...<end>"
+
+["400045"]
+japanese = "ネメアさん、<line-break>ありがとうございました！<end>"
+english = "Thank you, Nemea!<end>"
+
+["400046"]
+japanese = "こちらこそ。<end>"
+english = ""
+
+["400047"]
+japanese = "<if><value:$01><equal>2それじゃ、町を出るときに<line-break>また会いましょ、<value:$28>。 <end><if><value:$01><equal>15それじゃ、<value:$28>。<line-break>また町を出るときに合流しよう。 <end><if><value:$01><equal>19それじゃ、<value:$28>。<line-break>また町を出るときに合流しようね。 <end><if><value:$01><equal>10それじゃ、姉ちゃん。<line-break>また町を出るときに合流しようぜ。 <end><if><value:$01><equal>193そ、それじゃ、失礼します！<line-break>町を出る時にまた！<end><if><value:$01><equal>191それじゃ、<line-break>町を出るときに合流しましょ。<end>"
+english = "<if><value:$01><equal>2Well then, I'll see you again when we leave town, <value:$28>.<end><if><value:$01><equal>15All right, <value:$28>. We'll regroup when we leave town.<end><if><value:$01><equal>19All right, <value:$28>. We'll meet up again when we leave town, okay?<end><if><value:$01><equal>10All right, sis. We'll meet up again when we leave town.<end><if><value:$01><equal>193W-well then, if you'll excuse me! See you when we leave town!<end><if><value:$01><equal>191Well then, let's regroup when we leave town.<end>"
+
+["400048"]
+japanese = "<if><value:$01><equal>5ホントにリベルダムだぜ。<line-break>…すげえ。 <end>…ここは、…リベルダム。 <end>"
+english = "<if><value:$01><equal>5It really is Liberdam. That's... incredible.<end>This is... Liberdam.<end>"
+
+["400049"]
+japanese = "<if><value:$01><equal>5あ、あんた、本物の<line-break>勇者ネメアだったんだな！ <end>…さすがだ。 <end>"
+english = "<if><value:$01><equal>5Y-you really are Nemea the Hero!<end>Impressive...<end>"
+
+["400050"]
+japanese = "<if><value:$01><equal>5…お、俺、いつか、あんたを<line-break>越えてやるぜ！<line-break>\u3000<line-break>んじゃ、俺はちょっと町を見てくる。<line-break>町を出るときに<line-break>また会おうぜ、<value:$28>！ <end><if><value:$01><equal>14<value:$28>、<line-break>また町を出るときに合流じゃ。 <end>…先に行く。 <end>"
+english = "<if><value:$01><equal>5I-I'll surpass you one day! Well, I'm going to look around town for a bit. See you again when we leave, <value:$28>!<end><if><value:$01><equal>14We'll regroup when we leave town, <value:$28>.<end>I'll go on ahead.<end>"
+
+["400051"]
+japanese = "空<end>"
+english = ""
+
+["400052"]
+japanese = "ホントにリベルダムだわ…。<line-break>これって、すごいかも！<end>"
+english = "It really is Liberdam... This might actually be amazing!<end>"
+
+["400053"]
+japanese = "ネメア様、今日は<line-break>ホントに楽しかったです！<end>"
+english = "Lord Nemea, I had such a wonderful time today!<end>"
+
+["400054"]
+japanese = "…楽しかった？<end>"
+english = "A wonderful time?<end>"
+
+["400055"]
+japanese = "ネメア様、あんまり<line-break>喜んでおられないみたいだわ…。<line-break>ま、いいか。ずらかろっと！<end>"
+english = "Lord Nemea doesn't seem very pleased... Oh well. Time to clear out!<end>"
+
+["400056"]
+japanese = "それじゃ、私、町を見てくるわ<line-break>じゃあね、<value:$28>！<end>"
+english = "I'm going to have a look around town. See you, <value:$28>!<end>"
+
+["400057"]
+japanese = "あ、<value:$28>様でありますか。<line-break>アンギルダン将軍から承っております！<line-break>\u3000<line-break>ただ、将軍は極秘視察で<line-break>１ケ月は戻ってこられません。<line-break>しばらくしてからまたお越しください。<end>"
+english = "Ah, would you be <value:$28>? We've received word from General Angeerdan! However, the general is away on a secret inspection and won't return for at least a month. Please come back later.<end>"
+
+["400058"]
+japanese = "傭兵志願者か。<line-break>担当は将軍とともに出ていて<line-break>１ケ月は政庁に戻ってこない。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ひと月以上たってから来るといい。<line-break>その間に強くなっておくことだ。<line-break>戦場で最後に頼れるのは自分の腕だからな。<end>"
+english = "Here to enlist as a mercenary? The person in charge left with the general and won't be back at the government offices for a month. Come back once the month is up. Use the time to hone your skills. On the battlefield, your own ability is all you can rely on in the end.<end>"
+
+["400059"]
+japanese = "あ、<value:$28>様でありますか。<line-break>アンギルダン将軍は出撃の準備に忙しく、<line-break>政庁においでではありません。<line-break>…これは極秘情報でありますが、<line-break>出撃はあと半月以上先になりそうです。<line-break>しばらくしてからまたお越しください。<end>"
+english = "Ah, would you be <value:$28>? General Angeerdan is busy preparing to deploy and is not at the government offices. This is highly confidential, but it appears the deployment is still more than half a month away. Please come back later.<end>"
+
+["400060"]
+japanese = "傭兵志願者か。<line-break>担当は将軍とともに出ていて\u3000\u3000<line-break>半月は政庁に戻ってこない。<line-break>半月以上たってから来るといい。<line-break>その間に強くなっておくことだ。<line-break>帝国は武を尊ぶのだ。<end>"
+english = "Here to enlist as a mercenary? The person in charge left with the general and won't be back at the government offices for half a month. Come back once half a month has passed. Use the time to hone your skills. The Empire prizes martial prowess.<end>"
+
+["400061"]
+japanese = "空<end>"
+english = "Empty<end>"
+
+["400062"]
+japanese = "空<end>"
+english = "Empty<end>"
+
+["400063"]
+japanese = "空<end>"
+english = "Empty<end>"
+
+["400064"]
+japanese = "空<end>"
+english = "Empty<end>"
+
+["400065"]
+japanese = "空<end>"
+english = "Empty<end>"
+
+["400066"]
+japanese = "空<end>"
+english = "Empty<end>"
+
+["400067"]
+japanese = "おそらく、円卓騎士バルザー。<line-break>破壊神に仕える屈強の魔人のものだ。<end>"
+english = "Most likely, it's Baltzer's. He's a Knight of the Round Table, a mighty demon who serves the God of Destruction.<end>"
+
+["400068"]
+japanese = "あ、<value:$28>様でありますか。<line-break>アンギルダン将軍は出撃の準備に忙しく、<line-break>政庁においでではありません。<line-break>…これは極秘情報でありますが、<line-break>いよいよのようであります！<line-break>半月以内には出撃の用意が整うとか…。<end>"
+english = "Ah, would you be <value:$28>? General Angeerdan is busy preparing to deploy and is not at the government offices. This is highly confidential, but it looks as though the time is almost here! I've heard the preparations will be complete within half a month...<end>"
+
+["400069"]
+japanese = "傭兵志願者か。<line-break>担当は出ている。また来てくれ。\u3000\u3000\u3000<line-break>だが、いよいよ出番らしいぞ。<line-break>あまり遠出はするなよ。<line-break>護衛も考えて引き受けることだ。<line-break>護衛を連れて戦場には出られんからな。<end>"
+english = "Here to enlist as a mercenary? The person in charge is out. Come back later. Still, it sounds like it's almost time for you to see action. Don't travel too far, and think carefully before accepting escort work. You can't take someone you're escorting onto the battlefield.<end>"
+
+["400070"]
+japanese = "傭兵志願者か。<line-break>今のところ用はない。<line-break>ま、半月ぐらいあとにまた顔を出せ。<line-break>…しかし、傭兵など必要あるのか？<line-break>まったく、ファーロスのドラ息子様の<line-break>考えることはわからん。<end>"
+english = "Looking to sign on as a mercenary? We don't need anyone at the moment. Come back in about a fortnight. Though why we need mercenaries at all is beyond me. Damned if I know what that precious wastrel son of Pharos's is thinking.<end>"
+
+["400071"]
+japanese = "これはノーブル伯。<line-break>なにやらお屋敷の方がお探しでした。<line-break>レムオン様のお屋敷に戻られては？<end>"
+english = "Why, if it isn't the Count of Noble. Someone from the estate was looking for you. Perhaps you should return to Lord Lemghon's estate?<end>"
+
+["400072"]
+japanese = "空<end>"
+english = "Empty<end>"
+
+["400073"]
+japanese = "空<end>"
+english = "Empty<end>"
+
+["400074"]
+japanese = "空<end>"
+english = "Empty<end>"
+
+["400075"]
+japanese = "空<end>"
+english = ""
+
+["400076"]
+japanese = "空<end>"
+english = ""
+
+["400077"]
+japanese = "こちらこそ。<end>"
+english = "No, thank you.<end>"
+
+["400078"]
+japanese = "空<end>"
+english = ""
+
+["400079"]
+japanese = "ホントにリベルダムだわ…。<end>"
+english = "It really is Liberdam...<end>"
+
+["400080"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["400081"]
+japanese = "アナタがお礼を言うのよ！<end>"
+english = "You're the one who should be saying thank you!<end>"
+
+["400082"]
+japanese = "高貴なエルフが人間なんかに<line-break>頭下げていいはずないでしょ！<end>"
+english = "A noble Elf can't possibly bow to a mere human!<end>"
+
+["400083"]
+japanese = "こちらこそ。<end>"
+english = ""
+
+["400084"]
+japanese = "そ、それじゃ、また町を出るときに<line-break>合流するわ！<end>"
+english = "W-well, I'll regroup with you when we leave town!<end>"
+
+["400085"]
+japanese = "ここでお別れだな。<line-break>また会おう、<value:$28>。<end>"
+english = "This is where we part ways. Until we meet again, <value:$28>.<end>"
+
+["400086"]
+japanese = "空<end>"
+english = ""
+
+["400087"]
+japanese = "空<end>"
+english = ""
+
+["400088"]
+japanese = "ネメア様。<line-break>これはやはり…。<end>"
+english = "Lord Nemea. Then this does mean...<end>"
+
+["400089"]
+japanese = "決定的ですね。<end>"
+english = "That confirms it.<end>"
+
+["400090"]
+japanese = "ん？\u3000なんだと？<end>"
+english = "Hm? What did you say?<end>"
+
+["400091"]
+japanese = "残念だ、エリュマルクよ。<end>"
+english = "What a pity, Erymalc.<end>"
+
+["400092"]
+japanese = "ぐ…ぐほっ！<line-break>ネ、ネメ…ア…！<end>"
+english = "G-gh... N-Ne...mea...!<end>"
+
+["400093"]
+japanese = "お前が闇に取り憑かれたことに<line-break>気づけなかった私を許せ…。<end>"
+english = "Forgive me for failing to see that the darkness had possessed you...<end>"
+
+["400094"]
+japanese = "ぐ！\u3000お、おのれぇぇ！<line-break>ネメアぁぁぁぁぁ！<end>"
+english = "Gah! Y-you wretch! Nemeaaaa!<end>"
+
+["400095"]
+japanese = "運命にあらがうため。<line-break>以前から、それがネメア様の答えと、<line-break>エリュマルク帝から聞いておりました。<end>"
+english = "“To defy fate.” Emperor Erymalc told me some time ago that this was Lord Nemea's answer.<end>"
+
+["400096"]
+japanese = "私も同様です。<line-break>しかし、まさか、<line-break>闇の力がこんなところにまで…。<end>"
+english = "I was told the same. But I never imagined the power of darkness had reached even here...<end>"
+
+["400097"]
+japanese = "もはや事態は一刻を争うようだな。<line-break>ベルゼーヴァ、用意は整っているな。<end>"
+english = "It seems there is no longer a moment to lose. Beelzeva, everything is ready, I trust.<end>"
+
+["400098"]
+japanese = "は。もちろんです。<end>"
+english = "Yes. Of course.<end>"
+
+["400099"]
+japanese = "なぜそれほど<line-break>闇の神器を欲しがるのだ？<end>"
+english = "Why do you want the Artifact of Darkness so badly?<end>"
+
+["400100"]
+japanese = "あなたには関係ないわ。<line-break>ネメア様が必要としている。<line-break>だから、私たちは手に入れに来たの。<end>"
+english = "That's none of your concern. Lord Nemea needs it, so we've come to claim it.<end>"
+
+["400101"]
+japanese = "素直に渡さぬのならば、<line-break>力ずくで奪うことになる。<end>"
+english = "If you will not hand it over willingly, we shall take it by force.<end>"
+
+["400102"]
+japanese = "わしらも手荒なマネはしとうない。<line-break>\u3000<line-break>\u3000<line-break>闇の神器さえ手に入れば、<line-break>ウルカーンには、<line-break>軍を派遣することもなかろうて。<end>"
+english = "We'd rather not resort to violence either. Once we have the Artifact of Darkness, there should be no need to send an army to Ulkaan.<end>"
+
+["400103"]
+japanese = "…仕方あるまい。<line-break>束縛の腕輪はここだ。<line-break>取りに来い。<end>"
+english = "It seems I have no choice. The Bracelet of Binding is here. Come and take it.<end>"
+
+["400104"]
+japanese = "う…！<line-break>か、体の自由が…。<end>"
+english = "Ugh! I-I can't move...<end>"
+
+["400105"]
+japanese = "ぬ！\u3000こ、これは！？<line-break>力が…、抜けていく…。<end>"
+english = "What? Wh-what is this?! My strength... it's draining away...<end>"
+
+["400106"]
+japanese = "バカめ！\u3000うかつに近づいてきたな！<line-break>お前たちに渡す気などないわ！<end>"
+english = "Fools! You came too close without a second thought! I never had any intention of giving it to you!<end>"
+
+["400107"]
+japanese = "なんと！\u3000神器の力を解放しおったか！<line-break>力を吸いつくされる前に<line-break>ふたりを回復せねば！<end>"
+english = "What?! The artifact's power has been unleashed! I must restore those two before it drains them completely!<end>"
+
+["400108"]
+japanese = "お主、あの怪物の相手を頼む。<line-break>放っておけば、町にまで被害が及ぶ！<end>"
+english = "Take care of that monster. If we leave it unchecked, the town will be harmed as well!<end>"
+
+["400109"]
+japanese = "なんと、わしらの加勢も待たずに<line-break>奴を倒しおったか。大したものだ。<line-break>おかげで助かったわい。<end>"
+english = "You defeated it without even waiting for our help? Impressive. You saved us a great deal of trouble.<end>"
+
+["400110"]
+japanese = "あの時の我の負けは、<line-break>偶然ではなかったということか。<line-break>…おもしろい。<end>"
+english = "So my defeat that day was no accident. Interesting.<end>"
+
+["400111"]
+japanese = "強くなっている…。<line-break>ネメアが言ったとおり、<line-break>我はすでにこの若者に…。<line-break>いや…、<line-break>そんなバカなことが…！<end>"
+english = "He's grown stronger... Nemea was right. Against this youth, I already... No. That's impossible!<end>"
+
+["400112"]
+japanese = "オイフェから話は聞いておる。<line-break>お主、やはり闇の神器を<line-break>集めるつもりじゃな？<end>"
+english = "Aoife told me what happened. You still mean to gather the Artifacts of Darkness, don't you?<end>"
+
+["400113"]
+japanese = "次は…、渡さないわ！<end>"
+english = "Next time... I won't give it up!<end>"
+
+["400114"]
+japanese = "闇の神器を集める限り、<line-break>お互いまたどこかで会おう。<line-break>その時はよろしくな。<end>"
+english = "As long as you keep gathering the Artifacts of Darkness, we'll meet again somewhere. Until then.<end>"
+
+["400115"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["400116"]
+japanese = "気が付いたようじゃな。<line-break>お主のおかげで、<line-break>こちらの体勢を整えられた。<line-break>礼を言うぞ。<line-break>じゃが、闇の神器は<line-break>わしらがもらう。<end>"
+english = "So you're awake. Thanks to you, we had time to regroup. You have my gratitude. But we're taking the Artifact of Darkness.<end>"
+
+["400117"]
+japanese = "あいつは、私たちが倒したわ。<end>"
+english = "We were the ones who defeated that thing.<end>"
+
+["400118"]
+japanese = "言ったでしょう、<line-break>この件には手を出すなって。<line-break>\u3000<line-break>時間を稼いでくれたことには<line-break>感謝するけど、あなたにはまだ、<line-break>荷が重いんじゃない？<end>"
+english = "I told you not to get involved in this. I appreciate you buying us time, but isn't this still more than you can handle?<end>"
+
+["400119"]
+japanese = "これにこりて、もう手を引くことね。<end>"
+english = "Let that be a lesson to you. Stay out of this from now on.<end>"
+
+["400120"]
+japanese = "久しぶりね。<end>"
+english = "It's been a long time.<end>"
+
+["400121"]
+japanese = "闇の神器の探索を依頼された<line-break><value:$28>という冒険者、<line-break>あなただったのね。<end>"
+english = "So you're <value:$28>, the adventurer hired to find the Artifact of Darkness.<end>"
+
+["400122"]
+japanese = "手を引いた方がいいわよ。<line-break>闇の神器…、<line-break>ネメア様もその行方を追っているわ。<line-break>そして、私も<line-break>その旅に同行するつもりよ。<end>"
+english = "You'd be better off walking away. Lord Nemea is searching for the Artifact of Darkness too, and I intend to accompany him.<end>"
+
+["400123"]
+japanese = "私は、ネメア様直属の<line-break>近衛騎士になったのよ。<line-break>\u3000<line-break>私に生きろと言ったあの人が、<line-break>どんな生を歩むのか<line-break>見届けるためにね。<end>"
+english = "I've become a knight in Lord Nemea's personal guard. I mean to see how the person who told me to live chooses to live.<end>"
+
+["400124"]
+japanese = "他にも、ボルダンのゼリグ、<line-break>ドワーフのドルドラムが同行するわ。<line-break>強力なパーティーよ。<end>"
+english = "Zelig of Bordan and Doldrum the Dwarf will be coming too. We'll be a formidable party.<end>"
+
+["400125"]
+japanese = "あなたが闇の神器を探すつもりなら、<line-break>私たちを敵に回すことになるわ。<line-break>\u3000<line-break>その時は…、<line-break>容赦しないわよ。<end>"
+english = "If you mean to keep searching for the Artifact of Darkness, you'll be making enemies of us. If that happens... I won't show you any mercy.<end>"
+
+["400126"]
+japanese = "やあ、<value:$28>。<line-break>こんなところで会うなんて、<line-break>ふふ、うれしい偶然だね。<end>"
+english = "Hello, <value:$28>. Fancy meeting you here. Heh, what a pleasant surprise.<end>"
+
+["400127"]
+japanese = "…闇の神器を探しているの？<end>"
+english = "…Are you looking for the Artifacts of Darkness?<end>"
+
+["400128"]
+japanese = "確かに君の言うとおり、\u3000<line-break>僕は闇の神器を<line-break>ひとつ持っているよ。<line-break>でも、今は渡せないよ。<line-break>あれは、きちんと<line-break>研究しなければならない。<end>"
+english = "You're right. I do have one of the Artifacts of Darkness. But I can't give it to you yet. It needs to be studied properly.<end>"
+
+["400129"]
+japanese = "闇の神器は全部で１２種類。<line-break>世界中に散らばってて、<line-break>それぞれにすごい威力を秘めてる。<line-break>でもそれは闇の力だ。<line-break>使い方を間違えると<line-break>恐ろしいことになる。<end>"
+english = "Artifacts of Darkness come in twelve different forms. They're scattered across the world, and each harbors tremendous power. But theirs is the power of darkness. If they're used the wrong way, something terrible could happen.<end>"
+
+["400130"]
+japanese = "そうだね。本来は<line-break>破壊神を復活させるための物だと、<line-break>僕も聞いてるよ。<line-break>でも、使い道は<line-break>それだけじゃないはずだ。<line-break>あんなに強力な魔力を感じるもの。<end>"
+english = "Yes, I've heard that they were originally meant to revive the God of Destruction. But that can't be their only use. I can sense such immense magical power in them.<end>"
+
+["400131"]
+japanese = "僕は古代の力を信じる。<line-break>だから、研究を続けるよ。<line-break>\u3000<line-break>きっと、何か他の使い道も<line-break>あるはずだから。<end>"
+english = "I believe in the power of the ancients. That's why I'll continue my research. There must be some other use for it.<end>"
+
+["400132"]
+japanese = "わかってくれるよね？<end>"
+english = "You understand, don't you?<end>"
+
+["400133"]
+japanese = "もちろん<end>"
+english = "Of course.<end>"
+
+["400134"]
+japanese = "時と場合による<end>"
+english = "It depends on the circumstances.<end>"
+
+["400135"]
+japanese = "それを聞いて安心したよ。<end>"
+english = "I'm relieved to hear that.<end>"
+
+["400136"]
+japanese = "古代の魔法力を<line-break>甘く見ているわけではないよ。<line-break>\u3000<line-break>でも、危険だからといって、<line-break>何もわからないまま、<line-break>手放すわけにはいかないよ。<end>"
+english = "I'm not underestimating ancient magic. But I can't simply give it up just because it's dangerous, not when nothing is known about it yet.<end>"
+
+["400137"]
+japanese = "ごめんね、<value:$28>。<line-break>残念だけど、今は渡せない。<line-break>\u3000<line-break>何かわかったら<line-break>すぐに君に知らせるから、<line-break>待っててほしい。<end>"
+english = "I'm sorry, <value:$28>. I wish I could, but I can't give it to you yet. I'll let you know as soon as I discover anything, so please be patient.<end>"
+
+["400138"]
+japanese = "ロストールの貴族街にある<line-break>リューガ邸に時々寄ってみてよ。<line-break>\u3000<line-break>研究に進展があったら<line-break>伝言を残しておくから。<line-break>じゃあ、僕は行くよ。<end>"
+english = "Stop by the Ryuga residence in Rostorl's noble quarter from time to time. If I make any progress with my research, I'll leave word there. Well, I should be going.<end>"
+
+["400139"]
+japanese = "わかった。闇の神器は<line-break>ネメアもねらっているんだね。<line-break>気をつけるよ。<end>"
+english = "All right. So Nemea is after the Artifacts of Darkness too. I'll be careful.<end>"
+
+["400140"]
+japanese = "…<value:$28>！<end>"
+english = "…<value:$28>!<end>"
+
+["400141"]
+japanese = "ネメア様のおっしゃったとおりだな。<end>"
+english = "Just as Lord Nemea said.<end>"
+
+["400142"]
+japanese = "この若者は勇敢にも<line-break>ネメア様に挑戦する気らしいぞ。<end>"
+english = "It seems this brave youth intends to challenge Lord Nemea.<end>"
+
+["400143"]
+japanese = "お前に先を越されるとは、\u3000\u3000\u3000<line-break>うかつだったな。<end>"
+english = "Careless of me to let you beat me to it.<end>"
+
+["400144"]
+japanese = "くっ、なんてこと…！<line-break>せっかくここの闇の神器は<line-break>私たちだけに任せてもらえたのに！<end>"
+english = "Damn it! We finally had sole charge of the Sacred Artifact of Darkness here!<end>"
+
+["400145"]
+japanese = "そう功をあせるな、オイフェよ。<end>"
+english = "Don't be so eager for glory, Aoife.<end>"
+
+["400146"]
+japanese = "傲慢の首飾りを渡して、<line-break><value:$28>。<end>"
+english = "Hand over the Necklace of Arrogance, <value:$28>.<end>"
+
+["400147"]
+japanese = "言ったはずよ。<line-break>敵対するなら、殺すって。<end>"
+english = "I warned you. Stand against me, and I'll kill you.<end>"
+
+["400148"]
+japanese = "…ムキになるな。<end>"
+english = "Don't get so worked up.<end>"
+
+["400149"]
+japanese = "ムキになんかなっていないわ！<end>"
+english = "I am not worked up!<end>"
+
+["400150"]
+japanese = "感情的になってはいかんぞ。<line-break>それでは、普段の力が発揮できまい。<end>"
+english = "Don't let your emotions get the better of you. You'll never fight at your best that way.<end>"
+
+["400151"]
+japanese = "黙ってて、ドルドラム。<line-break>私は大丈夫。<line-break>いつも通り戦えるわ！<end>"
+english = "Be quiet, Doldrum. I'm fine. I can fight as well as ever!<end>"
+
+["400152"]
+japanese = "勇ましいな。<line-break>どれ、加勢しよう。<end>"
+english = "Bold words. Here, I'll lend a hand.<end>"
+
+["400153"]
+japanese = "助けはいらないわ。<end>"
+english = "I don't need any help.<end>"
+
+["400154"]
+japanese = "…俺の助けもか？<end>"
+english = "Not even mine?<end>"
+
+["400155"]
+japanese = "私ひとりで十分よ。<end>"
+english = "I can handle this alone.<end>"
+
+["400156"]
+japanese = "やれやれ、ほんに勇ましいことだ。<line-break>ならば、高みの見物としゃれ込もう。<line-break>\u3000<line-break><value:$28>、<line-break>うちのオイフェを<line-break>あんまりいじめてくれるなよ。<end>"
+english = "Good grief, such valor. Very well, I'll enjoy the view from here. <value:$28>, don't be too hard on our Aoife.<end>"
+
+["400157"]
+japanese = "黙ってて、ドルドラム！<line-break>\u3000<line-break>\u3000<line-break>いくわよ！<end>"
+english = "Be quiet, Doldrum! Here I come!<end>"
+
+["400158"]
+japanese = "くっ…！<line-break>私が負けるなんて…！！<end>"
+english = "No...! How could I lose?!<end>"
+
+["400159"]
+japanese = "ソリアスの名にかけて<line-break>友情と努力の下に勝利を。<line-break>チームワークは大切じゃな。<line-break><value:$28>よ、<line-break>今回はわしらの負けじゃ。<line-break>ここはおとなしく退くわい。<end>"
+english = "In the name of Sorias: victory through friendship and effort. Teamwork matters, you see. <value:$28>, we've lost this time. We'll withdraw without a fuss.<end>"
+
+["400160"]
+japanese = "傲慢の首飾りを失った。<end>"
+english = "Lost the Necklace of Arrogance.<end>"
+
+["400161"]
+japanese = "次は、負けないわ！！<end>"
+english = "Next time, I won't lose!<end>"
+
+["400162"]
+japanese = "やれやれ。ま、このくらいの勇み足は<line-break>オイフェならば愛嬌じゃな。<line-break>ゆくぞ、ゼリグ。<end>"
+english = "Good grief. Still, a little rashness like that is part of Aoife's charm. Come, Zelig.<end>"
+
+["400163"]
+japanese = "<if><value:$2A><greater-equal>%15ここは、かつての魔王バロルの城じゃ。<line-break>今はバロルは滅びたが、闇の力は<line-break>いまだに城内にあふれているそうじゃ。<line-break>お前さんもよほどの腕なのじゃろうが<line-break>この城の門をくぐるのであれば<line-break>覚悟を決めて行くことじゃな。<end>ここは、かつての魔王バロルの城じゃ。<line-break>今はバロルは滅びたが、闇の力は<line-break>いまだに城内にあふれているそうじゃ。<line-break>お前さんも冒険者なら<line-break>中を探検したいのじゃろうが<line-break>危険すぎる。やめておくことじゃ。<end>"
+english = "<if><value:$2A><greater-equal>%15This was once the castle of Balor, the Demon King. Balor is no more, but they say the castle is still awash with dark power. Skilled though you may be, if you mean to pass through its gates, you'd best steel yourself first.<end>This was once the castle of Balor, the Demon King. Balor is no more, but they say the castle is still awash with dark power. If you're an adventurer, no doubt you'll want to explore the place, but it's far too dangerous. Best leave it be.<end>"
+
+["400164"]
+japanese = "ありがとう、それじゃ<end>"
+english = "Thanks. See you.<end>"
+
+["400165"]
+japanese = "強くなるにはどうすればいい？<end>"
+english = "How can I get stronger?<end>"
+
+["400166"]
+japanese = "冒険者として一流になりたいんなら\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ソウルを鍛えていくことだ。<line-break>\u3000<line-break>ソウルってのは、魂の形だな。<line-break>魂の形ってのは、すなわち<line-break>お前が持っている能力の象徴みたいなもんだ。<end>"
+english = "If you want to become a first-rate adventurer, you'll need to develop your Soul. A Soul is the shape of your spirit―a symbol of the abilities you possess.<end>"
+
+["400167"]
+japanese = "ソウルを鍛えていくことで、<line-break>お前の魂は形を変えていき、お前の成長を助け、<line-break>いろんな能力を与えてくれるだろうよ。<end>"
+english = "As you develop your Soul, your spirit will take on new forms, helping you grow and granting you all sorts of abilities.<end>"
+
+["400168"]
+japanese = "わかった。ありがとう<end>"
+english = "Got it. Thanks.<end>"
+
+["400169"]
+japanese = "ソウルはどうやって鍛える？<end>"
+english = "How do I strengthen my Soul?<end>"
+
+["400170"]
+japanese = "ソウルを鍛えるには、<line-break>他人のために何かをしてあげればいい。\u3000\u3000<line-break>その心が、ソウルを育てる。<line-break>ま、ギルドのクエストをやりゃあいいのよ。<line-break>そしたら、ソウルが育つ。<line-break>どう育てるかは、お前次第だ。<end>"
+english = "To develop your Soul, do something for someone else. It's the spirit behind the deed that makes your Soul grow. In other words, take on quests from the Guild. Your Soul will grow, but how it grows is up to you.<end>"
+
+["400171"]
+japanese = "おおざっぱに言うとだな、<line-break>Ｂｒａｖｅは勇敢さを、Ｗｉｌｄは荒々しさを、<line-break>Ｓｅａｒｃｈは探究心を、<line-break>Ｃｏｏｌは冷静さを、<line-break>Ｂｅｌｉｅｆは信心深さを、<line-break>Ｋｉｎｄはやさしさを、魂に与えてくれるのさ。<end>"
+english = "Broadly speaking, Ｂｒａｖｅ gives your spirit courage; Ｗｉｌｄ, ferocity; Ｓｅａｒｃｈ, curiosity; Ｃｏｏｌ, composure; Ｂｅｌｉｅｆ, faith; and Ｋｉｎｄ, compassion.<end>"
+
+["400172"]
+japanese = "ありがとう、よくわかったよ<end>"
+english = "Thanks, I understand now.<end>"
+
+["400173"]
+japanese = "もう少し詳しく教えてほしいな<end>"
+english = "Could you explain a little more?<end>"
+
+["400174"]
+japanese = "Ｂｒａｖｅについて教えてほしい<end>"
+english = "Tell me about Ｂｒａｖｅ.<end>"
+
+["400175"]
+japanese = "Ｋｉｎｄについて教えてほしい<end>"
+english = "Tell me about Ｋｉｎｄ.<end>"
+
+["400176"]
+japanese = "Ｓｅａｒｃｈについて教えてほしい<end>"
+english = "Tell me about Ｓｅａｒｃｈ.<end>"
+
+["400177"]
+japanese = "Ｂｅｌｉｅｆについて教えてほしい<end>"
+english = "Tell me about Ｂｅｌｉｅｆ.<end>"
+
+["400178"]
+japanese = "Ｗｉｌｄについて教えてほしい<end>"
+english = "Tell me about Ｗｉｌｄ.<end>"
+
+["400179"]
+japanese = "Ｃｏｏｌについて教えてほしい<end>"
+english = "Tell me about Ｃｏｏｌ.<end>"
+
+["400180"]
+japanese = "<select><value:$20>%4Ｋｉｎｄはやさしさ。<line-break>つまりは気高く正しい心のことさ。<line-break>勇者なら持っていてほしいよな。\u3000\u3000<line-break>あと、この資質がすぐれている奴には<line-break>弓の使い手が多いんだ。<line-break>パーティのサポート役ってとこだな。<end>Ｋｉｎｄはやさしさ。<line-break>つまりは気高く正しい心のことさ。<line-break>勇者なら持っていてほしいよな。\u3000\u3000<line-break>あと、この資質がすぐれている奴には<line-break>弓の使い手が多いんだ。<line-break>パーティのサポート役ってとこだな。<end>Ｋｉｎｄはやさしさ。<line-break>つまりは気高く正しい心のことさ。<line-break>勇者なら持っていてほしいよな。<line-break>ただ、<line-break>やさしすぎると得られない<line-break>闇のソウルもあるってウワサだぜ。<end>Ｋｉｎｄはやさしさ。<line-break>つまりは気高く正しい心のことさ。<line-break>勇者なら持っていてほしいよな。<line-break>尊敬される戦士になるには<line-break>やっぱ、やさしさや正義の心が<line-break>必要になってくるぜ。<end>"
+english = "<select><value:$20>%4Ｋｉｎｄ means compassion: a noble and righteous heart. Just the sort of thing you'd want in a hero. Many who excel in this quality are bow users. They tend to support the party.<end>Ｋｉｎｄ means compassion: a noble and righteous heart. Just the sort of thing you'd want in a hero. Many who excel in this quality are bow users. They tend to support the party.<end>Ｋｉｎｄ means compassion: a noble and righteous heart. Just the sort of thing you'd want in a hero. Mind you, there's a rumor that being too kind can keep you from acquiring certain dark Souls.<end>Ｋｉｎｄ means compassion: a noble and righteous heart. Just the sort of thing you'd want in a hero. If you want to become a respected warrior, you'll need kindness and a sense of justice.<end>"
+
+["400181"]
+japanese = "<select><value:$20>%2Ｓｅａｒｃｈは探求心だ。<line-break>知識を求める心は<line-break>魔法を使うには必要だよな。\u3000\u3000<line-break>ただ、魔法を使うには<line-break>さらに精霊力が身についてないと<line-break>ダメなんだ。<end>Ｓｅａｒｃｈは探求心だ。<line-break>知識を求める心は<line-break>魔法を使うには必要だよな。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>賢くなりたきゃ、この資質を上げるんだ。<line-break>さらに冷静さが加われば<line-break>大魔法使いにだってなれるさ。<end>"
+english = "<select><value:$20>%2Ｓｅａｒｃｈ means curiosity. A thirst for knowledge is essential if you want to use magic. But you'll also need to acquire spirit power before you can cast any spells.<end>Ｓｅａｒｃｈ means curiosity. A thirst for knowledge is essential if you want to use magic. Raise this quality if you want to become wiser. Add composure to it, and you could even become a great mage.<end>"
+
+["400182"]
+japanese = "Ｂｅｌｉｅｆは信仰心だ。<line-break>神に仕える神官や僧侶には<line-break>なくちゃならない資質だよな。<line-break>いやす力が欲しければ、<line-break>信仰心を持つこった。<end>"
+english = "Ｂｅｌｉｅｆ means faith. It's indispensable for priests and monks in divine service. If you want the power to heal, you need faith.<end>"
+
+["400183"]
+japanese = "<select><value:$20>%3Ｗｉｌｄは荒々しさ。<line-break>これで大いなる自然の力を<line-break>身につけることができる。<line-break>人間を超えた動物の力は<line-break>きっと役に立つはずさ。<end>Ｗｉｌｄは荒々しさ。<line-break>これで大いなる自然の力を<line-break>身につけることができる。<line-break>人間を超えた動物の力は<line-break>きっと役に立つはずさ。<end>Ｗｉｌｄは荒々しさ。<line-break>これで大いなる自然の力を\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>身につけることができる。<line-break>ただ、あんまりガサツじゃ<line-break>身につかないソウルもあるってウワサだ。<line-break>よく考えてから、のばしてくれ。<end>"
+english = "<select><value:$20>%3Ｗｉｌｄ means ferocity. It allows you to acquire the awesome power of nature. The strength of beasts, surpassing that of humans, is sure to prove useful.<end>Ｗｉｌｄ means ferocity. It allows you to acquire the awesome power of nature. The strength of beasts, surpassing that of humans, is sure to prove useful.<end>Ｗｉｌｄ means ferocity. It allows you to acquire the awesome power of nature. But rumor has it that being too coarse can keep you from acquiring certain Souls, so think carefully before developing it.<end>"
+
+["400184"]
+japanese = "Ｃｏｏｌは冷静さ。<line-break>冷静な判断力は探検家には\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>必要な能力だよな。<line-break>すばやくなりたいときや<line-break>器用になりたいときは<line-break>この資質をのばしてソウルを得るといい。<end>"
+english = "Ｃｏｏｌ means composure. Sound judgment is essential for an Explorer. If you want to become faster or more dexterous, develop this quality to gain a Soul.<end>"
+
+["400185"]
+japanese = "じゃあな。<line-break>お前の活躍、期待してるぜ。<end>"
+english = "See you around. I'm expecting great things from you.<end>"
+
+["400186"]
+japanese = "Ｂｒａｖｅは勇敢さだ。<line-break>力強い戦士には<line-break>これがないと話にならねえよな。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>だけど勇敢なだけじゃあ、<line-break>いい戦士にはなれないぜ。<line-break>他の資質と組みあわせてのばしていきたいよな。<end>"
+english = "Ｂｒａｖｅ means courage. A powerful warrior won't get far without it. But courage alone doesn't make a good warrior. You'll want to develop it in combination with other qualities.<end>"
+
+["400187"]
+japanese = "ラミリー山を探検していると、\u3000\u3000\u3000\u3000<line-break>光る場所が見つかることがある。<line-break>そんな時は、迷わず調べてみるのだ！<line-break>錬剛石が落ちているからな。<line-break>ただし、他の冒険者が拾うこともある。<line-break>早い者勝ちだぞ。<end>"
+english = "While exploring Mount Ramiri, you may come across a glowing spot. If you do, check it without a second thought! You'll find a tempered-steel stone there. Mind you, another adventurer may pick it up first. First come, first served!<end>"
+
+["400188"]
+japanese = "このあいだ先輩に連れられてゼグナ鉱山を<line-break>探検したんだよ。そしたら、光ってる場所が<line-break>あるんで、調べたら錬剛石を見つけたよ。<line-break>先輩の話だと、何週間に１回くらいは<line-break>こんなことがあるらしいよ。<line-break>君も行ってみたらどうだい？<end>"
+english = "A more experienced adventurer took me exploring Zegna Mine the other day. There was a glowing spot, and when I checked it out, I found some rengoseki. The adventurer who took me said that happens about once every few weeks. Why don't you go take a look yourself?<end>"
+
+["400189"]
+japanese = "この間、聖光石の廃鉱に行ってみたけど<line-break>聖光石は見つからなかったよ。<line-break>かけらなら採れたけどね。<line-break>やっぱり、良質な聖光石ってのは<line-break>採り尽したみたいだね。<end>"
+english = "I went to the Old Sacred Lightstone Mine the other day, but I couldn't find any Holy Light Stone. I did manage to mine a few fragments, though. Looks like all the good-quality stone has already been mined out.<end>"
+
+["400190"]
+japanese = "虹色の山脈で光っている場所を見つけたので、<line-break>そこを調べたら錬剛石が落ちていましたぞ。<line-break>あそこで拾ったのは久しぶりですな。<line-break>あと１個残しておいたから、<line-break>急げば、まだ落ちているかもしれませんぞ。<end>"
+english = "I saw a spot glowing in the Rainbow Mountains, and when I went to take a look, I found some rengoseki lying there. It's been a long time since I last picked any up there. I left one behind, so if you hurry, it may still be there.<end>"
+
+["400191"]
+japanese = "あなた、錬剛石欲しくない？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>鳳凰山に１個だけ落ちていたわよ。<line-break>私には必要ない物だから教えてあげるわ。<line-break>錬剛石が落ちている場所は光っていたから<line-break>行ってみればわかると思うわよ。<line-break>でも、誰かに拾われてても文句言わないでね。<end>"
+english = "Wouldn't you like some Rengoseki? There was a single piece lying on Phoenix Mountain. I have no use for it, so I thought I'd tell you. The spot where I saw it was glowing, so you should recognize it when you get there. But don't blame me if someone else has already picked it up.<end>"
+
+["400192"]
+japanese = "死竜の洞窟を知っているよな。<line-break>あそこに、錬剛石が落ちていることがあるのは<line-break>知っていたかい？<line-break>この間も光っている場所を調べてみたら<line-break>錬剛石が落ちていたよ。<line-break>あと１個くらいは落ちてるんじゃないかな。<end>"
+english = "You know Dead Dragon Cave, don't you? Did you know you can sometimes find refined steelstone lying around in there? I checked a spot that was glinting the other day and found some. I wouldn't be surprised if there's another piece still there.<end>"
+
+["400193"]
+japanese = "（穴の中に何かが見える…）<end>"
+english = "(Something is visible inside the hole...)<end>"
+
+["400194"]
+japanese = "穴に飛び込みますか？<end>"
+english = "Jump into the hole?<end>"
+
+["400195"]
+japanese = "（暖炉の火は消えている…。）<end>"
+english = "(The fire in the hearth has gone out...)<end>"
+
+["400196"]
+japanese = "火をつけてみますか？<end>"
+english = "Would you like to try lighting it?<end>"
+
+["400197"]
+japanese = "おやじ、剣が古くなってきたから\u3000\u3000<line-break>新しいのを買いたいんだ。<line-break>いい剣はないか？<end>"
+english = "Old man, my sword's getting worn out. I want to buy a new one. Got any good blades?<end>"
+
+["400198"]
+japanese = "あんた、新米冒険者だね？\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "You're a novice adventurer, aren't you?<end>"
+
+["400199"]
+japanese = "え？<line-break>なんで新米だってわかったんだ？\u3000\u3000<line-break>\u3000<end>"
+english = "What? How could you tell?<end>"
+
+["400200"]
+japanese = "武器はな、新しく買うよりも、<line-break>強化していった方が強くなるのさ。\u3000<line-break>だから、そう思ったわけだ。<end>"
+english = "A weapon will grow stronger if you keep improving it instead of buying a new one. That's what gave you away.<end>"
+
+["400201"]
+japanese = "な、なるほど。<line-break>それなら、強化してくれないか。\u3000\u3000<line-break>\u3000<end>"
+english = "R-right. That makes sense. Then could you improve mine?<end>"
+
+["400202"]
+japanese = "武器の強化には、錬剛石が必要だが、<line-break>持ってるかい？<line-break>\u3000<end>"
+english = "Improving a weapon takes tempering stone. Do you have any?<end>"
+
+["400203"]
+japanese = "錬剛石？\u3000いや、持ってないな。\u3000\u3000<line-break>その錬剛石って、どうすれば<line-break>手に入るんだ？<end>"
+english = "Tempering stone? No, I don't. How do I get some?<end>"
+
+["400204"]
+japanese = "鉱山なんかへ行くと、ときどき<line-break>地面が光っていることがある。<line-break>そこを調べたら見つかるはずだ。\u3000\u3000<line-break>だが、錬剛石はきちんと<line-break>結晶化するまで時間がかかるし、<line-break>他の冒険者もねらってるからな。<end>"
+english = "In mines and places like that, you'll sometimes see the ground glowing. Search the spot and you should find some. But tempering stone takes time to crystallize properly, and other adventurers are after it too.<end>"
+
+["400205"]
+japanese = "なるほど。<line-break>冒険者は何ごとも冒険から\u3000\u3000\u3000\u3000\u3000<line-break>ってことだな。<line-break>それじゃあ、おやじ。<line-break>錬剛石を手に入れたら、また来るよ。<end>"
+english = "I get it. For an adventurer, everything starts with an adventure. All right, old man. I'll be back once I've found some tempering stone.<end>"
+
+["400206"]
+japanese = "おう！<line-break>ギアもいるから、貯めとけよ。\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "Right! You'll need Gea too, so save some up.<end>"
+
+["400207"]
+japanese = "だから、錬剛石がとれる山を\u3000\u3000\u3000\u3000<line-break>見つけたら、何度か足を<line-break>運んでみるのがいいだろうな。<end>"
+english = "So if you find a mountain where tempering stone can be found, you'd do well to visit it several times.<end>"
+
+["400208"]
+japanese = "空<end>"
+english = ""
+
+["400209"]
+japanese = "空<end>"
+english = ""
+
+["400210"]
+japanese = "空<end>"
+english = ""
+
+["400211"]
+japanese = "空<end>"
+english = ""
+
+["400212"]
+japanese = "空<end>"
+english = ""
+
+["400213"]
+japanese = "空<end>"
+english = ""
+
+["400214"]
+japanese = "空<end>"
+english = ""
+
+["400215"]
+japanese = "空<end>"
+english = ""
+
+["400216"]
+japanese = "空<end>"
+english = ""
+
+["400217"]
+japanese = "空<end>"
+english = ""
+
+["400218"]
+japanese = "空<end>"
+english = ""
+
+["400219"]
+japanese = "空<end>"
+english = ""
+
+["400220"]
+japanese = "空<end>"
+english = ""
+
+["400221"]
+japanese = "空<end>"
+english = ""
+
+["400222"]
+japanese = "空<end>"
+english = ""
+
+["400223"]
+japanese = "ネメアが戻った？\u3000\u3000\u3000\u3000\u3000\u3000<line-break>私を見限り城を出たネメアが？<line-break>\u3000<line-break>ふふふ、今頃なんの用か。<line-break>共に魔王バロルを倒したときの<line-break>思い出話でもしに来たか。<end>"
+english = "Nemea has returned? Nemea, who gave up on me and left the castle? Heh. What business could he have here now? Has he come to reminisce about when we defeated Balor, the Demon King, together?<end>"
+
+["400224"]
+japanese = "あるいは…、\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>戦場で初めて出会われたときの話\u3000\u3000<line-break>かもしれませぬな。<line-break>なんのために戦うのかと陛下が<line-break>問われたとき、民のためにと<line-break>ネメア様は答えられたとか…。<end>"
+english = "Or perhaps he means to speak of your first meeting on the battlefield. When Your Majesty asked what he fought for, Lord Nemea is said to have answered, “For the people.”<end>"
+
+["400225"]
+japanese = "ほう、そうか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>そのようなこともあったか。<line-break>くくく…。<line-break>奴らしいではないか。<line-break>魔王を倒す男の言いそうなことだ。<end>"
+english = "Oh? Is that so? So that happened as well. Heh heh... That does sound like him. Just the sort of thing the man who defeated the Demon King would say.<end>"
+
+["400226"]
+japanese = "………………。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>ネメア様をお連れしても、<line-break>よろしいでしょうか？<end>"
+english = "...Shall I bring Lord Nemea before you?<end>"
+
+["400227"]
+japanese = "よかろう。<line-break>連れてまいれ。<end>"
+english = "Very well. Bring him in.<end>"
+
+["400228"]
+japanese = "ネメア様をお連れしました。<end>"
+english = "I have brought Lord Nemea.<end>"
+
+["400229"]
+japanese = "壮健そうでなによりだ、ネメアよ。<line-break>私の治世を確固たるものにするために、<line-break>お前はなんでもしてくれた。<line-break>かつて、余の下した１２の難事を<line-break>こともなく成し遂げてくれた恩は、<line-break>忘れておらんよ。<end>"
+english = "I am pleased to see you in good health, Nemea. You did everything in your power to secure my reign. I have not forgotten the debt I owe you for accomplishing the Twelve Labors I once set before you with such ease.<end>"
+
+["400230"]
+japanese = "その恩に免じて、<line-break>ひとつ質問に答えてもらえるか？<line-break>我が友、エリュマルクよ。<end>"
+english = "In return for that service, will you answer one question, my friend Erymalc?<end>"
+
+["400231"]
+japanese = "いいだろう。<line-break>聞こうではないか。<end>"
+english = "Very well. Let us hear it.<end>"
+
+["400232"]
+japanese = "初めてあったときの私の言葉を<line-break>覚えているか？<end>"
+english = "Do you remember what I said when we first met?<end>"
+
+["400233"]
+japanese = "そんなことか。<line-break>たしか戦場だったと記憶している。<line-break>\u3000<line-break>なんのために戦うのか、<line-break>と問うた余に、民のためにと<line-break>答えたのだったな。<end>"
+english = "Is that all? I believe it was on a battlefield. I asked what you fought for, and you answered, “For the people.”<end>"
+
+["400234"]
+japanese = "エリュマルク帝は崩御された。<line-break>\u3000<line-break>\u3000<line-break>よって、エリュマルク帝の<line-break>姉上エスリン様の遺児である<line-break>ネメア様があとを継がれる。<end>"
+english = "Emperor Erymalc has passed away. Therefore, Lord Nemea, child of the emperor's late elder sister, Lady Ethlinn, shall succeed him.<end>"
+
+["400235"]
+japanese = "…世界を手に入れる。<end>"
+english = "...And take the world for ourselves.<end>"
+
+["400236"]
+japanese = "我らはこれより、<line-break>迫りくる闇の力に<line-break>対抗しうる勢力を作り上げる。<end>"
+english = "From this moment forward, we shall forge a power capable of standing against the encroaching darkness.<end>"
+
+["400237"]
+japanese = "かつて、魔王バロルを倒し、\u3000<line-break>勇者と呼ばれた男、ネメアは\u3000\u3000\u3000<line-break>叔父であるエリュマルク帝を退け\u3000\u3000\u3000<line-break>ディンガル帝国の帝位についた。\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Nemea, the man hailed as a Hero after defeating Balor, the Demon King, deposed his uncle, Emperor Eryumark, and ascended the throne of the Dingal Empire.<end>"
+
+["400238"]
+japanese = "そして、宰相ベルゼーヴァの\u3000<line-break>指揮の下、豊富な国力を生かして\u3000<line-break>大軍隊を組織。同時に、それを率いる\u3000<line-break>４人の将軍を大抜擢した。\u3000\u3000\u3000<end>"
+english = "Then, under Chancellor Beelzeva's command, the empire drew on its abundant resources to assemble a vast army. Four generals were chosen in a series of bold appointments to lead it.<end>"
+
+["400239"]
+japanese = "魔道アカデミーを首席で卒業した\u3000\u3000<line-break>ザギヴ・ディンガルを\u3000\u3000\u3000\u3000\u3000<line-break>帝国内務統括、玄武将軍に任命、\u3000\u3000<line-break>ベルゼーヴァの下で国内を掌握させ…\u3000<end>"
+english = "Zagiv Dingal, who had graduated at the top of the Academy of Magic, was appointed overseer of the empire's internal affairs and Black Tortoise General, charged with securing control of the realm under Beelzeva...<end>"
+
+["400240"]
+japanese = "さらに、少数種族である<line-break>コーンス族からジラークを登用、<line-break>西方攻略軍総司令、白虎将軍に任じ、<line-break>アキュリュースへの攻撃を命じ…<end>"
+english = "Next, Zsilak was recruited from the Corns, a minority people, and appointed commander-in-chief of the western campaign and White Tiger General, with orders to attack Aquluse...<end>"
+
+["400241"]
+japanese = "無名の兵卒であった\u3000\u3000\u3000\u3000\u3000\u3000<line-break>カルラ・コルキアを青竜将軍に\u3000\u3000\u3000<line-break>抜擢。東方小国家連合、及び\u3000\u3000\u3000\u3000\u3000\u3000<line-break>商業都市リベルダムの攻略を命じ…\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Karla Korkia, once an unknown rank-and-file soldier, was elevated to Azure Dragon General and ordered to conquer the eastern alliance of small states and the commercial city of Liberdam...<end>"
+
+["400242"]
+japanese = "かつてバロル帝のもとで名をはせた\u3000<line-break>老将アンギルダン・ゼイエンを\u3000\u3000<line-break>南方攻略軍総司令、朱雀将軍に任じ、<line-break>大国ロストールの攻略を命じた。\u3000<end>"
+english = "The veteran commander Angildan Zeien, who had once won renown under Emperor Balor, was appointed commander-in-chief of the southern campaign and Vermilion Bird General, and ordered to conquer the great power of Rostorl.<end>"
+
+["400243"]
+japanese = "ディンガル帝国皇帝\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ネメア・ランガスター・ディンガルは、<line-break>バイアシオン大陸のすべてに\u3000\u3000\u3000\u3000\u3000\u3000<line-break>戦いを挑んだのである。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Nemea Langaster Dingal, Emperor of the Dingal Empire, challenged the whole of the Baiashion Continent to war.<end>"
+
+["400244"]
+japanese = "かくして世界は、\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>激動と混沌の時代を迎え\u3000\u3000\u3000\u3000\u3000\u3000<line-break>大きなうねりを描きはじめた…。\u3000\u3000\u3000\u3000<end>"
+english = "And so the world entered an age of upheaval and chaos, and a vast tide began to swell...<end>"
+
+["400245"]
+japanese = "な、何者だ！<line-break>ディンガル帝国の者か？<end>"
+english = "W-who are you?! Are you with the Dingal Empire?<end>"
+
+["400246"]
+japanese = "その方たちは違う。<line-break>心配は無用だ。<end>"
+english = "No, these people aren't with the Dingal Empire. There's no need to worry.<end>"
+
+["400247"]
+japanese = "シェムハザ長老！<end>"
+english = "Elder Shemhaza!<end>"
+
+["400248"]
+japanese = "この方たちのことならば<line-break>私がよく知っている。<end>"
+english = "I know these people well.<end>"
+
+["400249"]
+japanese = "しかし、このようなときに来られるとは<line-break>…フフ、まあ、天命かもしれぬな。<line-break>\u3000<line-break>私の家においでになるとよい。<line-break>頼みたいこともあるのでな。<end>"
+english = "Still, for you to arrive at a time like this... Heh. Perhaps it was ordained. Come to my house. There is something I would ask of you.<end>"
+
+["400250"]
+japanese = "この方のことならば少し聞いている。<line-break>信頼に足る方だ。<end>"
+english = "I've heard something of this person. This is someone we can trust.<end>"
+
+["400251"]
+japanese = "しかし、このようなときに来られるとは<line-break>…フフ、まあ、天命かもしれぬな。<line-break>\u3000<line-break>私はこのウルカーンの長老シェムハザ。<line-break>私の家においでになるとよい。<line-break>頼みたいこともあるのでな。<end>"
+english = "Still, for you to arrive at a time like this... Heh. Perhaps it was ordained. I am Shemhaza, elder of Urkaan. Come to my house. There is something I would ask of you.<end>"
+
+["400252"]
+japanese = "先日、ディンガル皇帝ネメアが<line-break>ウルカーンまで来おってな。<line-break>\u3000<line-break>どこでこの地にあることを知ったか<line-break>闇の神器、束縛の腕輪を渡せと<line-break>言ってきたのだ。<end>"
+english = "The other day, Nemea, Emperor of Dingal, came all the way to Urkaan. I do not know how he learned it was here, but he demanded that we hand over the dark divine artifact known as the Bracelet of Binding.<end>"
+
+["400253"]
+japanese = "束縛の腕輪は、強力な力を持つ<line-break>魔道器だ。利己的な欲望のために<line-break>使ってはならないのだよ。<line-break>神器をあの簒奪者に奪われては、<line-break>いったいどんな災厄を世界に<line-break>もたらすことになるかわからぬ。<end>"
+english = "The Bracelet of Binding is a magical device of tremendous power. It must never be used to satisfy selfish desires. If that usurper takes the divine artifact, there is no telling what calamity he may bring upon the world.<end>"
+
+["400254"]
+japanese = "だから、ネメアとディンガル軍を<line-break>迎え撃つ準備をしているのだよ。<end>"
+english = "That is why we are preparing to meet Nemea and the Dingal Army in battle.<end>"
+
+["400255"]
+japanese = "心配は無用だ。古来、ウルカーンは<line-break>防衛戦争で負けたことがない。<line-break>\u3000<line-break>火の巫女ウルが遺したマグマゴーレムが<line-break>どのような侵略者も、退けてきたのだ。<line-break>今、魔道士たちが起動している。<end>"
+english = "There is no cause for concern. Urkaan has never lost a defensive war. The Magma Golems left by Priestess Uru of the Flame have repelled every invader to come against us. Our mages are activating them now.<end>"
+
+["400256"]
+japanese = "マグマゴーレムにかかれば<line-break>どんな大軍も、ただ死体の山を<line-break>築くために進軍してくるようなものだ。<end>"
+english = "Any army, no matter how vast, would march against the Magma Golems only to leave behind a mountain of corpses.<end>"
+
+["400257"]
+japanese = "な、何事だ！？<end>"
+english = "W-what is happening?!<end>"
+
+["400258"]
+japanese = "ち、長老様っ！<line-break>て、敵襲っ！<end>"
+english = "E-Elder! We're under attack!<end>"
+
+["400259"]
+japanese = "バカな！\u3000早過ぎるぞ！<line-break>だいたい敵接近の報告は受けておらぬ。<line-break>\u3000<line-break>見張りは何をしていた！<line-break>ディンガルの大軍が近づいてきたのに<line-break>まったく、気がつかなかったのか！<end>"
+english = "Impossible! It is too soon! We have had no report of an enemy approaching. What were the lookouts doing?! Did they somehow fail to notice a vast Dingal army bearing down on us?!<end>"
+
+["400260"]
+japanese = "敵は大軍ではありません！<line-break>て、敵は総勢４騎！<end>"
+english = "It isn't an army! Th-there are only four riders!<end>"
+
+["400261"]
+japanese = "４騎！？\u3000バカな！<end>"
+english = "Four riders?! Absurd!<end>"
+
+["400262"]
+japanese = "ええい、かまわん！\u3000今出ている<line-break>マグマゴーレムでひねりつぶせ！<end>"
+english = "Bah, no matter! Have the Magma Golems already deployed crush them!<end>"
+
+["400263"]
+japanese = "そ、それが…！<end>"
+english = "B-but...!<end>"
+
+["400264"]
+japanese = "私はディンガル皇帝ネメア。<line-break>ウルカーン長老シェムハザに告ぐ。<line-break>\u3000<line-break>これ以上の抵抗はムダだ。<line-break>降伏して束縛の腕輪を渡せば、<line-break>生命の安全は保証しよう。<end>"
+english = "I am Nemea, Emperor of Dingal. Hear me, Shemhaza, Elder of Urkaan. Further resistance is futile. Surrender and hand over the Bracelet of Binding, and I shall guarantee your safety.<end>"
+
+["400265"]
+japanese = "皇帝直属遊撃隊、獅子の牙所属<line-break>黒鎧近衛騎士オイフェ以下２名。<line-break>\u3000<line-break>闇の神器、束縛の腕輪を奪取すべく<line-break>突撃します！<end>"
+english = "Black-Armored Guard Knight Aoife of the Lion's Fang, the Emperor's direct-command mobile unit, accompanied by two others. We are charging in to seize the dark divine artifact, the Bracelet of Binding!<end>"
+
+["400266"]
+japanese = "バカな！\u3000マグマゴーレムが全滅！？<line-break>し、信じられぬ！<end>"
+english = "Impossible! All the Magma Golems were destroyed?! I-I cannot believe it!<end>"
+
+["400267"]
+japanese = "ディ、ディンガルの騎士？<line-break>しかも、ダークエルフだと！？<end>"
+english = "A-a knight of Dingal? And a Dark Elf at that?!<end>"
+
+["400268"]
+japanese = "私は皇帝直属遊撃隊、獅子の牙所属<line-break>黒鎧近衛騎士オイフェ。<end>"
+english = "I am Aoife, Black-Armored Guard Knight of the Lion's Fang, the Emperor's direct-command mobile unit.<end>"
+
+["400269"]
+japanese = "…同じくゼリグ。<end>"
+english = "And I am Zelig.<end>"
+
+["400270"]
+japanese = "同じくドルドラム。<line-break>ソリアスに使える神官じゃ。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>長老シェムハザ殿、いかな大軍も<line-break>寄せつけぬマグマゴーレムも、<line-break>少数の勇者にはかなわなんだな。<end>"
+english = "Doldrum, likewise. I am a priest in the service of Solias. Elder Shemhaza, it seems even Magma Golems that can hold any great army at bay are no match for a handful of heroes.<end>"
+
+["400271"]
+japanese = "マグマゴーレムがあっという間に<line-break>倒され、町の者は皆、<line-break>抵抗する気が失せておる。<line-break>長老、降伏なされ。<line-break>悪いようにはせん。<end>"
+english = "The Magma Golems were felled in moments, and the townsfolk have lost all will to resist. Surrender, Elder. No harm will come to you.<end>"
+
+["400272"]
+japanese = "…仕方ない。降伏しよう。<line-break>束縛の腕輪はここだ。<line-break>取りに来い。<end>"
+english = "Very well. I surrender. The Bracelet of Binding is here. Come and take it.<end>"
+
+["400273"]
+japanese = "バカめ！<line-break>うかつに近づいてきおって！<line-break>お前たちに渡す気などないわ！<end>"
+english = "Fools! You came too close without a thought! I never had any intention of giving it to you!<end>"
+
+["400274"]
+japanese = "くっ…不覚。<end>"
+english = "Gah... I let my guard down.<end>"
+
+["400275"]
+japanese = "闇の神器を使えば<line-break>確かに強くはなるが、<line-break>心が闇に堕ちてしまうのじゃぞ！<end>"
+english = "A dark divine artifact may indeed make you stronger, but it will drag your heart into darkness!<end>"
+
+["400276"]
+japanese = "神器の力を使ってもこの程度か。<line-break>…つまらぬ男だ。<line-break>\u3000<line-break>このような者が神器を使い<line-break>長老の地位を守るため、<line-break>汲々としていたのか。<end>"
+english = "Even with the divine artifact's power, this is all you can manage? What a pathetic man. To think someone like you was using it, desperately clinging to your position as elder.<end>"
+
+["400277"]
+japanese = "あとのことはザギヴに任せる。<line-break>ゆくぞ。<end>"
+english = "Leave the rest to Zagiv. We are going.<end>"
+
+["400278"]
+japanese = "…<value:$28>。<line-break>私のやり方に不服か？<end>"
+english = "...<value:$28>. Do you object to my methods?<end>"
+
+["400279"]
+japanese = "…ならば、私と戦え。<line-break>そして、とめてみせよ。<end>"
+english = "Then fight me. Show me you can stop me.<end>"
+
+["400280"]
+japanese = "…また、助けられたわね。<end>"
+english = "You've saved me again.<end>"
+
+["400281"]
+japanese = "でも、勘違いしないで！<line-break>私は恩になんて感じないから！\u3000<line-break>\u3000<line-break>今の私はネメア様の戦士。<line-break>今度会ったとき、もしも敵として<line-break>あなたが現れたなら…。<end>"
+english = "But don't get the wrong idea! I don't feel indebted to you! I am Lord Nemea's warrior now. If we meet again and you stand before me as an enemy...<end>"
+
+["400282"]
+japanese = "私は、あなたを殺すわ。\u3000\u3000\u3000\u3000<line-break>…それだけ。<line-break><end>"
+english = "I will kill you. That is all.<end>"
+
+["400283"]
+japanese = "おお、また会うたな。<line-break>墓場はお気に入りの場所かな？<line-break>\u3000<line-break><value:$28>、<line-break>何度も会うのも、何かの縁じゃ。<line-break>少し散歩でもせんかね。<end>"
+english = "Ah, we meet again. Fond of graveyards, are you? <value:$28>, after so many chance meetings, perhaps fate has had a hand in it. Care to join me for a little stroll?<end>"
+
+["400284"]
+japanese = "墓地を散歩するのも<line-break>面白いものでな。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>墓地は人生の終点であり、<line-break>その人間について記された<line-break>大いなる書物でもある。<end>"
+english = "A walk through a cemetery can be quite interesting. It is the end of a life's journey, but also a great book in which that life is recorded.<end>"
+
+["400285"]
+japanese = "歴史の物言わぬ証人でもあり、<line-break>遺された人間にとっては<line-break>記憶の眠る場所でもある。<end>"
+english = "It stands as a silent witness to history, and for those left behind, it is where memories lie at rest.<end>"
+
+["400286"]
+japanese = "…イズ皇后の墓じゃ。<line-break>おかわいそうな方じゃ。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>エリュマルク帝はネメア様を<line-break>陥れようと、ネメア様に<line-break>絶世の美女イズ様の誘拐を命じた。<end>"
+english = "This is the grave of Empress Iz. A poor soul. Emperor Eryumark sought to bring about Nemea's downfall, so he ordered him to abduct Iz, a beauty without equal.<end>"
+
+["400287"]
+japanese = "イズ様は暗殺教団、施文院の<line-break>大神官じゃった。これをさらうには<line-break>生命がいくつあっても足りぬ。<line-break>しかも、これは犯罪じゃ。<line-break>勇者の仕事ではない。<line-break>成功しても不名誉なことじゃ。<end>"
+english = "Iz was the high priest of Shibun'in, an order of assassins. No number of lives would be enough to abduct Iz. Besides, it was a crime―no work for a hero. Even success would bring dishonor.<end>"
+
+["400288"]
+japanese = "…と言っても、ネメア様が断れば、<line-break>皇帝は命令に背いたことを理由に<line-break>処刑してしまうつもりじゃった。<line-break>退くもならず進むもならず<line-break>という状態じゃの。<line-break>ネメア様はどうしたと思う？<end>"
+english = "Yet if Nemea refused, the emperor intended to have him executed for disobeying an imperial command. He could neither retreat nor go forward. What do you suppose Nemea did?<end>"
+
+["400289"]
+japanese = "ネメア様は皇帝の命に従い<line-break>イズ様をさらったのじゃ。<end>"
+english = "Nemea obeyed the emperor's command and abducted Iz.<end>"
+
+["400290"]
+japanese = "どんな事情があるのか<line-break>ようわからんが、<line-break>ネメア様はその命に従った。<line-break>エリュマルク帝はイズ様に恋し、<line-break>イズ様を皇后にした。<line-break>しかし、イズ様は心を開かなかった。<end>"
+english = "I don't rightly know what was behind it, but Nemea obeyed the order. Emperor Eryumark fell in love with Iz and made Iz his empress. But Iz never opened up to him.<end>"
+
+["400291"]
+japanese = "その上、イズ様はずっとネメア様ばかり<line-break>見つめておられた。エリュマルク帝は<line-break>ネメア様をいよいよ恨まれた。<line-break>エリュマルク帝はイズ様を嫉妬のあまり<line-break>殺され、イズ様と通じていたとして、<line-break>ネメア様の処刑をお命じになった。<end>"
+english = "What is more, Iz had eyes only for Nemea. Emperor Eryumark's hatred of him deepened. In a jealous rage, the emperor had Iz killed, then ordered Nemea's execution on the charge that he and Iz had been involved.<end>"
+
+["400292"]
+japanese = "これが、自分をさらったネメア様への、<line-break>イズ様の復讐だったのかもしれぬ。<line-break>…なんにせよ、悲劇的なことじゃ。<end>"
+english = "Perhaps that was Iz's revenge against Nemea for the abduction. Whatever the truth, it is a tragedy.<end>"
+
+["400293"]
+japanese = "また、来なさるとよい。<line-break>ヒマと縁があれば、<line-break>昔語りなどしようほどにの。<end>"
+english = "Come again sometime. If time and fortune allow, perhaps I'll tell you a tale or two of days gone by.<end>"
+
+["400294"]
+japanese = "これでわかった？<line-break>私は、手加減しないわ。<line-break>もう邪魔をしないことね。<end>"
+english = "Do you understand now? I don't hold back. Don't interfere again.<end>"
+
+["400295"]
+japanese = "すまんな。<line-break>この闇の神器は、<line-break>わしらがもらっていく。<line-break>さあ、行くぞ、<line-break>オイフェ、ゼリグ。<end>"
+english = "Sorry, but we're taking this Sacred Artifact of Darkness. Come, Aoife, Zelig. We're leaving.<end>"
+
+["400296"]
+japanese = "\u3000\u3000\u3000ディンガル帝国<line-break>帝都エンシャント、謁見の間<end>"
+english = "The Dingal Empire ― Ancient, the Imperial Capital ― Audience Chamber<end>"
+
+["400297"]
+japanese = "空<end>"
+english = ""
+
+["400298"]
+japanese = "空<end>"
+english = ""
+
+["400299"]
+japanese = "空<end>"
+english = ""
+
+["400300"]
+japanese = "空<end>"
+english = ""
+
+["400301"]
+japanese = "空<end>"
+english = ""
+
+["400302"]
+japanese = "空<end>"
+english = ""
+
+["400303"]
+japanese = "空<end>"
+english = ""

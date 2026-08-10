@@ -1,0 +1,1557 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["550000"]
+japanese = "ノエル・ボリューム１開始<end>"
+english = ""
+
+["550001"]
+japanese = "だ、だ、誰にも言わない！<line-break>た、たた助けてくれっ！<end>"
+english = "I-I won't tell anyone! J-just help me!<end>"
+
+["550002"]
+japanese = "あ、あひっ！<line-break>た、たすけてくれー！<end>"
+english = "A-ah! H-help me!<end>"
+
+["550003"]
+japanese = "いいぞ、ノエル～！<line-break>あんたなら、できる！<end>"
+english = "That's it, Noel! You can do it!<end>"
+
+["550004"]
+japanese = "がんばれよ。<line-break>気合い入れていけぇ！<end>"
+english = "Keep at it! Put your back into it!<end>"
+
+["550005"]
+japanese = "ノエルお姉ちゃん、がんばって～！<end>"
+english = "Come on, Noel!<end>"
+
+["550006"]
+japanese = "よっ、勇者様～！<end>"
+english = "There's our Hero!<end>"
+
+["550007"]
+japanese = "今日こそ、その大剣、天動地鳴が<line-break>抜ける日だ！<end>"
+english = "Today's the day you pull out that greatsword, Heaven Moves, Earth Roars!<end>"
+
+["550008"]
+japanese = "<if><value:$29><equal>%0おらおら、坊主！<line-break>じゃまするんじゃないぞ！<end>おらおら、姉ちゃん！<line-break>じゃましちゃダメだぜ！<end>"
+english = "<if><value:$29><equal>%0Out of the way, boy! Don't get underfoot!<end>Out of the way, miss! Don't get underfoot!<end>"
+
+["550009"]
+japanese = "かつて、この地には<line-break>魔物が住みついておった。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>すべてを石に変えてしまう<line-break>恐ろしい魔物じゃ。<end>"
+english = "Long ago, a monster made its lair in this land. It was a fearsome creature that turned everything to stone.<end>"
+
+["550010"]
+japanese = "そこへ１人の勇者が現れ、<line-break>この神殿に魔物を封じた。<line-break>その勇者が使った剣があれじゃ。\u3000\u3000\u3000<line-break>地中深く刺さったその剣は、<line-break>いかなる怪力の持ち主にも<line-break>引き抜くことができん。<end>"
+english = "Then a hero appeared and sealed the monster within this temple. That is the sword the hero wielded. Its blade lies buried deep in the earth, and no one, however mighty, can pull it free.<end>"
+
+["550011"]
+japanese = "この世を救う使命を負った勇者だけが、<line-break>あの剣を引き抜くことができるという…<line-break>古くからの言い伝えじゃ。<end>"
+english = "It is said that only the Hero charged with saving the world can draw that sword. So the old legend goes.<end>"
+
+["550012"]
+japanese = "<select><value:$20>%2今までに何人があの剣に挑んだかねぇ。<line-break>でも成功したためしは一度もないよ。<end>あの娘は領主様の１人娘ノエルさ。<line-break>身体は小さいけど、剣の腕は確かだよ。<end>"
+english = "<select><value:$20>%2Who knows how many people have tried to pull out that sword? Not one has ever succeeded.<end>That girl is Noel, the lord's only daughter. She may be small, but she's a fine swordswoman.<end>"
+
+["550013"]
+japanese = "ときどき、こうやって村の力自慢や<line-break>通りがかりの冒険者が挑戦するのさ。<line-break>それをひやかすのが、わしの道楽でね。<end>"
+english = "Every so often, one of the village strongmen or a passing adventurer gives it a try. Heckling them is a little hobby of mine.<end>"
+
+["550014"]
+japanese = "<select><value:$20>%3ノエル様は、足におケガをなされた\u3000\u3000<line-break>お父上の代わりに、ときどき、付近の<line-break>怪物退治などにも活躍されている。<line-break>剣の腕もたつ、なかなか利発な<line-break>お嬢さんだ。しかし、惜しいことだ。<line-break>男だったら、竜騎士にもなれたものを。<end>ここの領主様は、<line-break>かつてこの地を荒らした石化獣を\u3000\u3000<line-break>倒した勇者の子孫さ。<line-break>つまり、ノエル様は<line-break>あの剣の持ち主の子孫というわけだ。<line-break>きっと、引き抜くことができるよ。<end>ノエル様からは<line-break>かねがね、英雄の気を感じていたのだ。<end>"
+english = "<select><value:$20>%3Lady Noel sometimes takes her injured father's place and helps slay monsters in the surrounding area. Her father injured his foot, and she is intelligent and highly skilled with a sword. A pity, though. Had she been a man, she might even have become a Dragon Knight.<end>The lord here is descended from the hero who defeated the Petrifying Beast that once ravaged this land. In other words, Lady Noel is a descendant of that sword's owner. I'm sure she can pull it out.<end>I have long sensed the spirit of a hero in Lady Noel.<end>"
+
+["550015"]
+japanese = "こんな地図にも載っていないような<line-break>珍しい村で、こんな珍しい風習があったなんて。<line-break>実際に世界を旅してないとわからなかったなあ。<line-break>あ、私は数が減って、珍しい存在になった<line-break>コーンスの旅人です。<line-break>う～ん、自分の目で確かめないとなあ。<end>"
+english = "Who would have thought a rare little village, one that isn't even on the map, would have such an unusual custom? I'd never have known without actually traveling the world. Oh, I'm a traveler of the Korns, who have grown so few that we're a rare sight ourselves. Hmm. You really do have to see things with your own eyes.<end>"
+
+["550016"]
+japanese = "…ふっ、<line-break>竜王様のおっしゃるとおりだ。<end>"
+english = "Hmph. The Dragon King was right.<end>"
+
+["550017"]
+japanese = "<value:$28>、見てよ。\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Look, <value:$28>.<end>"
+
+["550018"]
+japanese = "この人たち、みんな同じ刺青してる！<line-break>どういうこと？<end>"
+english = "All these people have the same tattoo! What's going on?<end>"
+
+["550019"]
+japanese = "そうね、実際に見て、確かめなくちゃ。<line-break>オッシ先生もそう言ってたしね。<line-break><line-break>行きましょ、<value:$28>。<line-break>あいつらが何してるか、確かめて<line-break>悪いことなら、くいとめなきゃ。<end>"
+english = "Right. We have to see for ourselves and make sure. Ossi said the same thing. Come on, <value:$28>. Let's find out what they're doing, and if it's something bad, we have to stop it.<end>"
+
+["550020"]
+japanese = "見てよ！\u3000この人たち、<line-break>みんな、同じ刺青してる…。<line-break><line-break>天空神ノトゥーンの紋章…？<line-break>いや、ちょっと違う。<line-break>どこか、まがまがしい…。<end>"
+english = "Look! All these people have the same tattoo... The emblem of Notun, the Sky God? No, it's a little different. There's something sinister about it.<end>"
+
+["550021"]
+japanese = "うん、行ってみようよ。<line-break>すっごく、気になるしさ。<end>"
+english = "Yeah, let's go see. I'm dying to know what this is about.<end>"
+
+["550022"]
+japanese = "<if><value:$01><equal>13…みな同じ刺青がある。\u3000<line-break>…天空神の紋章に似た模様。<line-break>そうか、これが…。<end><if><value:$01><equal>15ねえ、<value:$28>、<line-break>みんな同じ刺青があるよ。<line-break><line-break>ほら、テラネにもある天空神の<line-break>紋章に似てるけど…<line-break>なんか、気味が悪いね…。<end><if><value:$01><equal>14なんと！\u3000\u3000\u3000\u3000\u3000<line-break>どいつもこいつも<line-break>同じ刺青をしておる。<end><if><value:$01><equal>19ねぇ、見て、見て、見てぇ！<line-break>みんな同じ目玉の\u3000\u3000\u3000\u3000\u3000<line-break>刺青してるよぉ！<end>姉ちゃん、大発見だ！<line-break>こいつら、みんな同じ刺青してる。<line-break><line-break>なんだろう、この模様…。<line-break>目玉みたいだ！<end>"
+english = "<if><value:$01><equal>13They all bear the same tattoo. A design resembling the Sky God's emblem. So this is...<end><if><value:$01><equal>15Hey, <value:$28>, they all have the same tattoo. It looks like the emblem of the Sky God you see in Terane, but... there's something unsettling about it.<end><if><value:$01><equal>14Well now! Every last one of them bears the same tattoo.<end><if><value:$01><equal>19Hey, look, look, look! They've all got the same eyeball tattoo!<end>Sis, I've made a huge discovery! These people all have the same tattoo. What's this design supposed to be? It looks like an eyeball!<end>"
+
+["550023"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550024"]
+japanese = "<if><value:$01><equal>13…やめておけ。お前程度のひよっこが<line-break>首を突っ込むべきことではない。<line-break><line-break>…と言っても、<line-break>行く気なのだろう？<line-break>死んで後悔しても、知らんぞ。<end><if><value:$01><equal>14そうじゃな。<line-break>行ってみよう。<end><if><value:$01><equal>19そうだね。<line-break>行ってみよ？<end><if><value:$01><equal>10そうだね、姉ちゃん。<line-break>行ってみよう。<end>そうだね。<line-break>行ってみよう。<end>"
+english = "<if><value:$01><equal>13Stay out of it. This is no business for a greenhorn like you. But you're going anyway, aren't you? Don't blame me if you regret it after you're dead.<end><if><value:$01><equal>14Aye. Let us go and see.<end><if><value:$01><equal>19Yeah. Want to go take a look?<end><if><value:$01><equal>10Yeah, Sis. Let's go see.<end>Yeah. Let's go see.<end>"
+
+["550025"]
+japanese = "なるほど、ね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "So that's it.<end>"
+
+["550026"]
+japanese = "そろって、同じ刺青してやがる。<line-break>しかも物騒な模様だぜ、これは。<end>"
+english = "Every one of them has the same tattoo. And that's one nasty-looking design.<end>"
+
+["550027"]
+japanese = "…施文院だ。<end>"
+english = "The Inscription Institute.<end>"
+
+["550028"]
+japanese = "説明はまたの機会だ。<line-break>連中を追っかけようぜ。<line-break><line-break>石化獣…とかいうのが<line-break>この村には封印されているそうだな。<line-break>急がないとヤバいかもしれない。<end>"
+english = "I'll explain another time. Let's go after them. I hear some creature called the Petrifying Beast is sealed in this village. We could be in trouble if we don't hurry.<end>"
+
+["550029"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550030"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550031"]
+japanese = "あ、みんな同じ刺青だわ。<line-break>ちょっと、個性がないかも。きゃっ！<end>"
+english = "Oh, they all have the same tattoo. Not much individuality there. Eek!<end>"
+
+["550032"]
+japanese = "この危険そうな奴らを追いかけるって…<line-break>どうしよっかな…。<line-break><line-break>ついていこうっと！\u3000でもでも<line-break>こんな危険に飛び込もうとするなんて、<line-break>ちょっと、おバカさんかも！\u3000きゃっ！<end>"
+english = "Follow those dangerous-looking people? What should I do...? I'll tag along! But anyone who'd dive headfirst into danger like this might be a bit of an idiot! Eek!<end>"
+
+["550033"]
+japanese = "見ろよ！\u3000<value:$28>！<line-break>こいつらみんな同じ刺青してる！<line-break><line-break>へへっ、わかったぜ！<line-break>ってことは、つまり…。<end>"
+english = "Look, <value:$28>! These guys all have the same tattoo! Heh, I've got it! Which means...<end>"
+
+["550034"]
+japanese = "はやってるのかな？<end>"
+english = "Think it's the latest fashion?<end>"
+
+["550035"]
+japanese = "よーし、行こうぜ。\u3000\u3000<line-break><value:$28>！<line-break><line-break>へへっ、<line-break>とめたって俺１人でも<line-break>行くつもりだったしな。<end>"
+english = "All right, let's go, <value:$28>! Heh. Even if you tried to stop me, I was planning to go alone.<end>"
+
+["550036"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550037"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550038"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550039"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550040"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550041"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550042"]
+japanese = "あ～！<line-break>みんな同じ刺青してる。\u3000\u3000<line-break><line-break>でも、<line-break>あんまりきれいじゃないね。<line-break>ま、モノがモノだからね。<end>"
+english = "Oh! They all have the same tattoo. It's not very pretty, though. Well, given what it is, I suppose that's no surprise.<end>"
+
+["550043"]
+japanese = "こういうのってさ、<line-break>か～なり、危険なんだよ？<end>"
+english = "You know this sort of thing is very dangerous, right?<end>"
+
+["550044"]
+japanese = "危険だからこそ行く価値があるんだよ。<line-break>それじゃ、追跡、かいし～！<end>"
+english = "The danger is exactly what makes it worthwhile. And now, the chase begins!<end>"
+
+["550045"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550046"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550047"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550048"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550049"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550050"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550051"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550052"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550053"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550054"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550055"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550056"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550057"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550058"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550059"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550060"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550061"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550062"]
+japanese = "なんなの、なんなの、なんなのぉ！？<line-break>いやっ！\u3000最悪、最悪よ、最悪よぉ～！<end>"
+english = "What is this? What is this? What is this?! No! This is the worst! The worst, the worst!<end>"
+
+["550063"]
+japanese = "そろって悪趣味な刺青してるわ！！<line-break>目玉よ、目玉！\u3000め・だ・ま！<end>"
+english = "They've all got the same hideous tattoo! It's an eyeball! An eye-ball!<end>"
+
+["550064"]
+japanese = "…え？\u3000<line-break>天空神ノトゥーンの紋章に似てる？<line-break><line-break>…そ、そんなこと、高貴なエルフの<line-break>アタクシには、ちゃんとわかっててよ！<line-break>ア、アタクシが言いたいのはぁ、別！<end>"
+english = "What? It resembles the emblem of Notun, the Sky God? O-of course I knew that! I am a noble Elf! I-I was making an entirely different point!<end>"
+
+["550065"]
+japanese = "そうよ、アタクシはあいつらの正体を<line-break>突き止めないとって言いたかったの！<line-break><line-break>も、もう！\u3000アタクシのマネしないで！<line-break>ボケッとボサッとしてないで、<line-break>さっさと急いで追いかけるのよぉ！<end>"
+english = "Yes! I was about to say we must uncover who they really are! H-how dare you copy me! Stop standing there gawking and hurry after them!<end>"
+
+["550066"]
+japanese = "む、面妖な！<line-break>全員、同じ刺青…。<end>"
+english = "H-how strange! Every one of them bears the same tattoo...<end>"
+
+["550067"]
+japanese = "兄弟子の意見が正しいでござる。\u3000<end>"
+english = "My senior is right.<end>"
+
+["550068"]
+japanese = "この機会を逃したら<line-break>あの奇怪な奴らの正体はわからぬ！<end>"
+english = "If we let this chance slip away, we shall never learn who those bizarre people are!<end>"
+
+["550069"]
+japanese = "む、面目もござらぬ。<end>"
+english = "I-I am ashamed.<end>"
+
+["550070"]
+japanese = "（みんな同じ刺青がある…）<end>"
+english = "(They all have the same tattoo...)<end>"
+
+["550071"]
+japanese = "（奴らを追いかけなくちゃ！）<end>"
+english = "(I have to follow them!)<end>"
+
+["550072"]
+japanese = "ノエルがやったぞ！<end>"
+english = "Noel did it!<end>"
+
+["550073"]
+japanese = "勇者だ！\u3000勇者の誕生だ！<end>"
+english = "A Hero! A Hero is born!<end>"
+
+["550074"]
+japanese = "つ、ついに<line-break>剣が抜けるときが訪れたか…。<end>"
+english = "C-can the time have finally come for the sword to be drawn...?<end>"
+
+["550075"]
+japanese = "目にもとまらぬ<line-break>すばやさ、とはこのことだな。<line-break>だが、いくらすばやくても<line-break>攻撃がよめるんだよ。天使さん。<line-break>お前ら人形は単調だからな。<end>"
+english = "So this is what they call speed too fast for the eye to follow. But no matter how fast you are, I can read your attacks, angel. You dolls are too predictable.<end>"
+
+["550076"]
+japanese = "石化獣じゃ！<line-break>石化獣が復活しおった！<end>"
+english = "The Petrifying Beast! The Petrifying Beast has returned!<end>"
+
+["550077"]
+japanese = "た、助けてくれ！<end>"
+english = "H-help me!<end>"
+
+["550078"]
+japanese = "きゃ～っ！<end>"
+english = "Aaaah!<end>"
+
+["550079"]
+japanese = "な…！<line-break>遅かったか！<end>"
+english = "What...?! Too late?!<end>"
+
+["550080"]
+japanese = "奴を追うぞ！<line-break><value:$28>！<end>"
+english = "We're going after it, <value:$28>!<end>"
+
+["550081"]
+japanese = "…ソウルリープガキカナイ…。\u3000\u3000\u3000<line-break>…無限ノ、ソウル…<line-break>他ノ対象ニモ予定ノ効果ハ現レナイ。<line-break>…シカシ障害ハコレニテ除去終了。<line-break>任務続行…。<end>"
+english = "SOUL LEAP INEFFECTIVE... INFINITE SOUL... INTENDED EFFECT ALSO FAILS ON OTHER TARGETS. HOWEVER, OBSTACLE REMOVAL COMPLETE. CONTINUING MISSION...<end>"
+
+["550082"]
+japanese = "追うわよ、<value:$28>！<end>"
+english = "We're going after that thing, <value:$28>!<end>"
+
+["550083"]
+japanese = "私の心配なんてしてないで<line-break>さっさと奴を追うの！<line-break>もう！\u3000ほんっとにグズなんだからぁ！<end>"
+english = "Stop worrying about me and go after it already! Honestly, you're so slow!<end>"
+
+["550084"]
+japanese = "<if><value:$01><equal>22アイリーン、それはないよ。\u3000\u3000\u3000\u3000<line-break>少し、ひどいと思うなぁ。<line-break><value:$28>は君のこと<line-break>心配してくれてるんだよ？<line-break>やさしさ、理解してあげなきゃ。<end><if><value:$01><equal>15ねえ、アイリーン、それはないよ。\u3000<line-break>少し、ひどいと思う。<line-break>\u3000<line-break><value:$28>は君のこと<line-break>心配してくれてるんだよ？<line-break>やさしさ、理解してあげなきゃ。<end>アイリーン、ひどいよ。\u3000\u3000\u3000\u3000\u3000<line-break>ルルアンタ、悲しい！<line-break>\u3000<line-break>ねえ、<value:$28>は<line-break>アイリーンのこと<line-break>心配してくれてるんだよぉ？。<end>"
+english = "<if><value:$01><equal>22Irene, that's uncalled for. It's a little cruel. <value:$28> is worried about you, you know. You should appreciate that kindness.<end><if><value:$01><equal>15Irene, that's uncalled for. It's a little cruel. <value:$28> is worried about you, you know. You should appreciate that kindness.<end>Irene, that's mean. Lulluantha is sad! <value:$28> is worried about you, you know?<end>"
+
+["550085"]
+japanese = "<if><value:$01><equal>22<value:$28>のこと<line-break>考えてるのはわかるけどさ。<line-break>きみ、彼の悪い保護者になってるよ。<end><if><value:$01><equal>15<value:$28>のこと考えてるの<line-break>わかるけど。君、<value:$28>の<line-break>悪い保護者になってるよ。\u3000\u3000\u3000\u3000\u3000<end><value:$28>のこと考えてるの<line-break>わかるけど、もっと、<line-break>アイリーンも理解してあげなきゃ。<end>"
+english = "<if><value:$01><equal>22I know you're thinking of <value:$28>, but you're being a bad guardian to him.<end><if><value:$01><equal>15I know you're thinking of <value:$28>, but you're being a bad guardian to <value:$28>.<end>I know you're thinking of <value:$28>, but you need to try harder to understand Irene too.<end>"
+
+["550086"]
+japanese = "<if><value:$01><equal>22ぼくたちは、大丈夫だよ。<line-break>ちょっと、意識が遠くなったけど。<line-break>\u3000<line-break>さ、アイリーンの言うとおり<line-break>あいつを追わなきゃ、だよ！<line-break><value:$28>。<end><if><value:$01><equal>15僕らは、大丈夫だよ。<line-break>ちょっと、意識が遠くなったけど。<line-break>\u3000<line-break>ねえ、アイリーンの言うとおり<line-break>あいつを追わなくちゃ。<line-break><value:$28>。<end>ルルアンタたちは、大丈夫だよぉ。<line-break>ちょっと、クラッとなったけど。<line-break>\u3000<line-break>さ、アイリーンの言うとおり<line-break>あいつを追わなきゃ！<line-break><value:$28>。<end>"
+english = "<if><value:$01><equal>22We're all right. We nearly blacked out, that's all. Now, Irene's right: we have to go after that thing, <value:$28>!<end><if><value:$01><equal>15We're all right. We nearly blacked out, that's all. Irene's right: we have to go after that thing, <value:$28>.<end>Lulluantha and the others are all right! We just got a little dizzy. Irene's right: we have to go after that thing, <value:$28>!<end>"
+
+["550087"]
+japanese = "アイリーン、過保護な母親みたいね！<line-break><value:$28>はマザコンの子供！<line-break>\u3000<line-break>人間って個の自立が足りなくてよ。<line-break>甘えて、依存して、馴れ合って<line-break>それで友情とか絆とか言っちゃって！<end>"
+english = "Irene, you're like an overprotective mother! And <value:$28> has a mother complex! Humans have no sense of individual autonomy. You lean on each other, grow dependent, get far too familiar, and then call it friendship or a bond!<end>"
+
+["550088"]
+japanese = "チャラチャラ親子ごっこしてないで<line-break>さ、行くわよ。<end>"
+english = "Enough of this silly game of parent and child. Come on, we're leaving.<end>"
+
+["550089"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550090"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550091"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550092"]
+japanese = "アイリーン、それはないよ。\u3000\u3000\u3000\u3000\u3000<line-break>少し、ひどいと思う。<line-break>\u3000<line-break><value:$28>はキミのこと<line-break>心配してくれてるんだぞ？<line-break>やさしさ、理解してあげなきゃ。<end>"
+english = "Irene, that's uncalled for. It's a little cruel. <value:$28> is worried about you, you know. You should appreciate that kindness.<end>"
+
+["550093"]
+japanese = "<value:$28>のこと考えてるの<line-break>わかるけど。キミ、<value:$28>の<line-break>悪い保護者になってるよ。\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "I know you're thinking of <value:$28>, but you're being a bad guardian to <value:$28>.<end>"
+
+["550094"]
+japanese = "ハハ、ボクたちは、大丈夫さ。<line-break>…ちょっと、意識が遠くなったけど。<end>"
+english = "Ha ha, we're all right. We nearly blacked out, that's all.<end>"
+
+["550095"]
+japanese = "…やっぱ、ボクより先に<line-break>アイリーンのほうを心配する、よね。<end>"
+english = "You worried about Irene before me... I knew you would.<end>"
+
+["550096"]
+japanese = "あ、ハハ、アイリーンの言うとおり<line-break>急いで、あいつを追わなきゃ。<end>"
+english = "Ah, ha ha. Irene's right. We need to hurry after that thing.<end>"
+
+["550097"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550098"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550099"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550100"]
+japanese = "もう！\u3000情けないんだからぁ！<line-break>さ、早く追わなきゃ！<end>"
+english = "Honestly, you're hopeless! Come on, we have to hurry after it!<end>"
+
+["550101"]
+japanese = "…俺がこれで<line-break>黙っていると思ったか？<line-break>\u3000<line-break>追うぞ！<line-break>逃がさん…。<end>"
+english = "You thought I'd let this go? We're going after it. It won't get away.<end>"
+
+["550102"]
+japanese = "なんじゃ？\u3000なんじゃ？<line-break>一瞬、死んだ婆さんが見えたぞ！\u3000\u3000<end>"
+english = "What? What? For a moment, I saw the old woman who died!<end>"
+
+["550103"]
+japanese = "<value:$28>、追うぞ！<line-break>とにかく、危険な奴じゃということは<line-break>わかったからの！<end>"
+english = "We're going after it, <value:$28>! Whatever else it may be, we know it's dangerous!<end>"
+
+["550104"]
+japanese = "<if><value:$01><equal>17ムキー！\u3000ド下等生物の分際で<line-break>いい根性していてよぉぉ！\u3000ムキー！<line-break>\u3000<line-break>高貴で優雅なエルフのこのアタクシが<line-break>天誅加えてさしあげてよぉぉぉ！<line-break>地面にめり込むほど土下座させてやる！<end>ちっくしょう！<line-break>この俺を本気で怒らせやがったな！<line-break>\u3000<line-break>涙もハナミズも枯れ果てるまで<line-break>泣くほど、後悔させてやるぜ！！<line-break>行くぜ、<value:$28>！<end>"
+english = "<if><value:$01><equal>17Rrraah! Such insolence from a base creature! Rrraah! I, a noble and graceful Elf, shall deliver divine punishment! I'll make you grovel until you're buried in the ground!<end>Damn it! Now you've really made me angry! I'll make you regret it until you've cried yourself dry, tears and snot alike! Let's go, <value:$28>!<end>"
+
+["550105"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550106"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550107"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550108"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550109"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550110"]
+japanese = "あっは、ボ、ボクなら大丈夫だよ。<line-break>一瞬、死んだお母さんが見えたけどね。<end>"
+english = "Ah ha, I-I'm all right. Though for a moment I saw my dead mother.<end>"
+
+["550111"]
+japanese = "そ、そうだね！<line-break>早く奴らを追わなきゃ！<end>"
+english = "R-right! We have to hurry after them!<end>"
+
+["550112"]
+japanese = "死んだ本当のお母さんが見えた…。<line-break>やさしくて、なつかしい…。<end>"
+english = "I saw my real mother, the one who died. She was so kind... just as I remembered.<end>"
+
+["550113"]
+japanese = "…いけない、ちょっと考えちゃった。<line-break>考えると、悲しいだけなのに。<end>"
+english = "No, I shouldn't dwell on it. Thinking about it only makes me sad.<end>"
+
+["550114"]
+japanese = "早く、あの人たちを追いかけよっと！<line-break>ね、<value:$28>！<end>"
+english = "Let's hurry after those people, <value:$28>!<end>"
+
+["550115"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550116"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550117"]
+japanese = "…死んだ父ちゃんと母ちゃんが見えた。<line-break>なつかしかった…。<end>"
+english = "I saw my dead ma and pa. It was good to see them again.<end>"
+
+["550118"]
+japanese = "あ、ああ、姉ちゃんのいうとおりだ<line-break>早く追いかけなくちゃ！<end>"
+english = "Y-yeah, Sis is right. We have to hurry after them!<end>"
+
+["550119"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550120"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550121"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550122"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550123"]
+japanese = "うん、ルルアンタ、大丈夫だよぉ！<line-break>一瞬、フリントさんが見えたけどね…<line-break>\u3000<line-break><value:$28>の方から<line-break>何かおっきなものがルルアンタを包んで<line-break>ルルアンタをここに連れ戻したんだよ。<end>"
+english = "Yeah, Lulluantha's all right! I saw Flint for a moment, though... Then something big came from over by <value:$28>, wrapped around Lulluantha, and brought Lulluantha back here.<end>"
+
+["550124"]
+japanese = "それより、さっきの人<line-break>追いかけなきゃ！\u3000村のみんなが…！<end>"
+english = "Never mind that―we have to go after that person! Everyone in the village...!<end>"
+
+["550125"]
+japanese = "ソウルリープだってぇ？\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Soul Leap, you say?<end>"
+
+["550126"]
+japanese = "…<value:$28>がいなかったら<line-break>あの世行きだったよ。ふぅ…。\u3000\u3000<end>"
+english = "If <value:$28> hadn't been here, I'd be dead. Whew...<end>"
+
+["550127"]
+japanese = "術者のレベルが魔人レベルだったら<line-break>どのみち、あの世行きだったけど。<end>"
+english = "Though if the caster had been on the level of a demon, I'd have died anyway.<end>"
+
+["550128"]
+japanese = "<if><value:$29><equal>%0<value:$28>、カッコよかったなあ<line-break>って思っただけだよ。ふふ。<line-break>さ、奴を追いかけよう！<line-break>村のみんなが心配だよ。<line-break>急がなきゃ！<end><value:$28>、きれいだったなあ<line-break>って思っただけだよ。ふふ。<line-break>さ、奴を追いかけよう！<line-break>村のみんなが心配だよ。<line-break>急がなきゃ！<end>"
+english = "<if><value:$29><equal>%0I was just thinking how impressive you looked, <value:$28>. Hee hee. Come on, let's go after that one! I'm worried about everyone in the village. We have to hurry!<end>I was just thinking how beautiful you looked, <value:$28>. Hee hee. Come on, let's go after that one! I'm worried about everyone in the village. We have to hurry!<end>"
+
+["550129"]
+japanese = "ねえ、<value:$28><line-break>大丈夫？<end>"
+english = "Hey, <value:$28>, are you all right?<end>"
+
+["550130"]
+japanese = "そうだね。<line-break>奴らを追わなくちゃ。<end>"
+english = "Right. We have to go after them.<end>"
+
+["550131"]
+japanese = "拙者のことならば心配無用！<line-break>ま、一瞬、母上の姿が見えましたが。<end>"
+english = "There is no need to worry about me! Though for a moment, I did see my mother.<end>"
+
+["550132"]
+japanese = "いや、拙者の母上は、<line-break>いまだ健在でござるよ。<end>"
+english = "No, my mother is still very much alive.<end>"
+
+["550133"]
+japanese = "拙者の母上は強力かつ大災害なお方。<end>"
+english = "My mother is mighty―and a walking catastrophe.<end>"
+
+["550134"]
+japanese = "それが目に浮かぶということは、<line-break>大変、恐ろしいことなのでござるぞ！<end>"
+english = "So seeing her before my eyes is a most terrifying thing!<end>"
+
+["550135"]
+japanese = "それよりも兄弟子！<line-break>奴を追わねば、村の人たちが！\u3000\u3000\u3000<end>"
+english = "More importantly, senior disciple! We must pursue that one, or the villagers will...!<end>"
+
+["550136"]
+japanese = "（奴を追わなきゃ…。）<end>"
+english = "(I have to go after that one...)<end>"
+
+["550137"]
+japanese = "石化獣じゃ！<line-break>石化獣が復活しおった！<end>"
+english = "The Petrifying Beast! The Petrifying Beast has returned!<end>"
+
+["550138"]
+japanese = "た、助けてくれ！<end>"
+english = "H-help me!<end>"
+
+["550139"]
+japanese = "きゃ～っ！<end>"
+english = "Aaaah!<end>"
+
+["550140"]
+japanese = "どういうことだよ！<line-break>みんな石になっちまってる！<end>"
+english = "What happened?! Everyone's turned to stone!<end>"
+
+["550141"]
+japanese = "…ヴァン？<end>"
+english = "Van...?<end>"
+
+["550142"]
+japanese = "違う！\u3000俺じゃない！<line-break>俺は冗談を言ってねえ！<end>"
+english = "No! It wasn't me! I'm not joking!<end>"
+
+["550143"]
+japanese = "さ、さすが師匠！<end>"
+english = "Th-that's my master!<end>"
+
+["550144"]
+japanese = "<if><value:$01><equal>2う、うそ…<line-break>みんな…石になってる…！？<end><if><value:$01><equal>13…これだけの人数が石化している？<end>…いや、ただの石化ではない。\u3000\u3000<line-break>これは…。<end><if><value:$01><equal>4きゃっ、みんな、石になってる。<line-break>少し、ここに来たの、後悔してるかも！<end><if><value:$01><equal>14なんということじゃ！<line-break>村人を石に変えるとは！\u3000おのれ…。<end><if><value:$01><equal>17な、なんなのよぉ！\u3000石、石…！<line-break>み～んな石になってるじゃない！<end><if><value:$01><equal>19ひ、ひどい！<line-break>みんな…石になってるよぉ！<end><if><value:$01><equal>22みんな魂を抜かれて石にされてるよ。<line-break>さっきの男？\u3000それともあの怪物？<end><if><value:$01><equal>10どういうことだよ！<line-break>みんな石にされちまってる！<end>ね、ねえ、<value:$28>…<line-break>みんな…石になってるよ…！<end>"
+english = "<if><value:$01><equal>2N-no... Everyone's turned to stone?!<end><if><value:$01><equal>13This many people have been petrified?<end>No. This is no ordinary petrification. This is...<end><if><value:$01><equal>4Eek, everyone's turned to stone. I might be starting to regret coming here!<end><if><value:$01><equal>14What horror! To turn the villagers to stone... Curse you!<end><if><value:$01><equal>17W-what is this?! Stone, stone... Everyone's turned to stone!<end><if><value:$01><equal>19H-how awful! Everyone's turned to stone!<end><if><value:$01><equal>22Their souls were torn out, and that turned them to stone. Was it that man? Or the monster?<end><if><value:$01><equal>10What the hell happened? Everyone's been turned to stone!<end>H-hey, <value:$28>... Everyone's turned to stone...!<end>"
+
+["550145"]
+japanese = "…ソウルリープ！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break><line-break>この状況…さっきの奴よりも<line-break>強力な使い手がいるってことか…。<line-break>石化獣って名前はダテじゃないんだな。<end>"
+english = "Soul Leap! Does this mean there's a user even more powerful than the last one...? So the name Petrifying Beast isn't just for show.<end>"
+
+["550146"]
+japanese = "<value:$28>、気をつけろ！<line-break>魂抜かれて、石にされるぞ！<end>"
+english = "Watch out, <value:$28>! You'll have your soul ripped out and be turned to stone!<end>"
+
+["550147"]
+japanese = "み、み、みんな…<line-break>石になってるよ！？<end>"
+english = "E-e-everyone... They've turned to stone?!<end>"
+
+["550148"]
+japanese = "なんと！\u3000みんな石になっておる！<line-break>いったい、何奴が！？<end>"
+english = "Good heavens! Everyone has turned to stone! Who could have done this?!<end>"
+
+["550149"]
+japanese = "…少なくとも、自分の意志から<line-break>石になったわけではござらんな。<end>"
+english = "At the very least, they did not turn to stone of their own accord.<end>"
+
+["550150"]
+japanese = "申しわけござらぬ。<line-break>不謹慎でござった。<end>"
+english = "My apologies. That was in poor taste.<end>"
+
+["550151"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550152"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550153"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550154"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550155"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550156"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550157"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550158"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550159"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550160"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550161"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550162"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550163"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550164"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550165"]
+japanese = "わ、わたしが相手です！<end>"
+english = "I-I'll fight you!<end>"
+
+["550166"]
+japanese = "……………！？<line-break>…ノ…エル…？<end>"
+english = "...?! N-Noel...?<end>"
+
+["550167"]
+japanese = "う…うあ…。<line-break>あ…あ……。<end>"
+english = "Ugh... A-ah...<end>"
+
+["550168"]
+japanese = "たぁーーーーーーーっ！<end>"
+english = "Hyaaaaaah!<end>"
+
+["550169"]
+japanese = "…ノエル！！<end>"
+english = "Noel!!<end>"
+
+["550170"]
+japanese = "きゃぁっ！<end>"
+english = "Aah!<end>"
+
+["550171"]
+japanese = "うっ…！<end>"
+english = "Ugh...!<end>"
+
+["550172"]
+japanese = "<if><value:$01><equal>10姉ちゃん、いくぜ！<end><if><value:$01><equal>15ねえ、<value:$28>！<line-break>今だよ！<end><if><value:$01><equal>2<value:$28>！<line-break>今よ！<end><if><value:$01><equal>19<value:$28>！<line-break>今よ！<end><if><value:$01><equal>4今、スキをついて攻撃すると<line-break>卑怯だけど効果的かも。きゃっ！<end><if><value:$01><equal>13…いくぞ。<end><if><value:$01><equal>14<value:$28>！<line-break>今じゃ！<end><if><value:$01><equal>17<value:$28>！<end><if><value:$01><equal>18今でござる！<end><value:$28>！<line-break>今だ！<end>"
+english = "<if><value:$01><equal>10Sis, let's go!<end><if><value:$01><equal>15<value:$28>! Now!<end><if><value:$01><equal>2<value:$28>! Now!<end><if><value:$01><equal>19<value:$28>! Now!<end><if><value:$01><equal>4Attacking while there's an opening would be cowardly, but perhaps effective. Eek!<end><if><value:$01><equal>13Let's go.<end><if><value:$01><equal>14<value:$28>! Now!<end><if><value:$01><equal>17<value:$28>!<end><if><value:$01><equal>18Now!<end><value:$28>! Now!<end>"
+
+["550173"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550174"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550175"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550176"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550177"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550178"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550179"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550180"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550181"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550182"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550183"]
+japanese = "ちっくしょう！\u3000あと少しで<line-break>あの怪ブツもおだブツだったのに！<line-break>…ププッ、今日も俺はさえてるぜ！<end>"
+english = "Damn! We almost put that beast to rest! Pfft... I'm sharp today!<end>"
+
+["550184"]
+japanese = "ヴァン…、<line-break>こういうときに、<line-break>そういう冗談やめようよ。<line-break>それよりも、<line-break>ねえ、<value:$28><line-break>あの黒づくめも…。<end>"
+english = "Van... not now. Quit joking around. More importantly, <value:$28>, what about the one in black...?<end>"
+
+["550185"]
+japanese = "ホントだ。<end>"
+english = "You're right.<end>"
+
+["550186"]
+japanese = "し、師匠、すばらしい！<line-break>背筋がゾクッとくる寒さでござる！<end>"
+english = "M-Master, magnificent! The chill went straight down my spine!<end>"
+
+["550187"]
+japanese = "へへっ、お前も修行を怠るなよ！<line-break>…で、あの黒づくめはどこ行ったんだ？<end>"
+english = "Heh, don't neglect your training! So... where did the one in black go?<end>"
+
+["550188"]
+japanese = "おいおい、どうしたんだ？<line-break>へへっ、あれしきで、へこたれんなよ。<end>"
+english = "Hey, what's wrong? Heh, don't let a little thing like that get you down.<end>"
+
+["550189"]
+japanese = "ちっ、ホントなら<line-break>大ウケなのによ！<end>"
+english = "Damn. That should've had everyone howling!<end>"
+
+["550190"]
+japanese = "おーい、<value:$28>。<line-break>黒づくめもいねえぞ。どうすんだ？<end>"
+english = "Hey, <value:$28>! The one in black is gone too. What do we do?<end>"
+
+["550191"]
+japanese = "<if><value:$01><equal>2あと少しだったのに…。<line-break>それに、あの、黒づくめも<line-break>逃がしちゃったみたいね…。<line-break><value:$28><line-break>だいじょうぶ？<line-break>ケガはない？<end><if><value:$01><equal>6怪物…逃げちゃった。ううん。<line-break>あのままじゃ、こっちが危なかった…<line-break>見逃してもらったって言うべきかな。<line-break>さっきの黒づくめの男もいない…。<end><if><value:$01><equal>12あの、黒づくめの男も\u3000<line-break>逃がしちまったようだ。<line-break>ここをもとに戻す手がかりはなし、か。<end><if><value:$01><equal>13…黒づくめの方も<line-break>逃げたようだ。<end><if><value:$01><equal>10くそっ、逃がすかよ。<line-break>これ以上、誰かを石にさせるもんか！<line-break>姉ちゃん、追おう！<end><if><value:$01><equal>14逃げおったか…。<line-break>ま、わしらに勝てる相手ではない。<line-break>命があっただけでももうけものじゃな。<line-break>そう言えば、あの黒づくめは…？<line-break>あやつ、最後には、<line-break>改心しよった感じじゃったが。<end><if><value:$01><equal>15怪物も<line-break>…それに、あの黒ずくめの男も、<line-break>逃げちゃったね。<line-break>見逃してもらった、とか、<line-break>運がよかった、という方が<line-break>正しい言い方かもね…。<end><if><value:$01><equal>17高貴なエルフのアタクシにかかれば<line-break>あんな怪物、軽いわ！\u3000物足りないわ！<line-break>楽勝だわ！<line-break>フフ、あの黒づくめも逃げたようね。<line-break>さ、ド下等生物の<value:$28>、<line-break>この偉大なアタクシを讃えてよくてよ！<end><if><value:$01><equal>18黒づくめもおりませぬ。<line-break>…逃げた様子ですな。<end><if><value:$01><equal>4きゃっ、怪物も逃げたし<line-break>黒づくめもいないわ。<line-break>これって、助かったのかも！<end><if><value:$01><equal>19あの怪物にも、黒づくめにも<line-break>逃げられちゃったね。<line-break><value:$28>。<line-break>でも、あの黒づくめの人、<line-break>頭が痛そうにしてたけど…<line-break>大丈夫かなあ。<end>あ～あ、逃げられちゃったよ。<line-break>でも、あんな怪物、<line-break>今のぼくたちには倒せないよぉ。<end>"
+english = "<if><value:$01><equal>2We were so close... And it looks like the one in black got away too. <value:$28>, are you all right? Are you hurt?<end><if><value:$01><equal>6The monster got away... No. If that had gone on, we'd have been in danger. Maybe I should say it let us go. And the man in black from before is gone too...<end><if><value:$01><equal>12Looks like we let the man in black get away too. So much for finding a way to restore this place.<end><if><value:$01><equal>13It seems the one in black escaped as well.<end><if><value:$01><equal>10Damn it, I'm not letting it get away! I won't let anyone else be turned to stone! Sis, let's go after it!<end><if><value:$01><equal>14So it escaped... Well, it was no match for us. It should count itself lucky to be alive. Speaking of which, where is the one in black? The one in black seemed to have had a change of heart by the end.<end><if><value:$01><equal>15The monster... and the man in black both got away. Then again, perhaps it's more accurate to say we were spared. Or just lucky...<end><if><value:$01><equal>17A monster like that is nothing before a noble Elf such as myself! Too easy! Hardly worth my time! Hm-hm, and it seems the one in black fled as well. Now, <value:$28>, you lowest of lowly creatures, you may praise my greatness!<end><if><value:$01><equal>18The one in black is gone as well. It appears that one escaped.<end><if><value:$01><equal>4Eek! The monster got away, and the one in black is gone too. Maybe that means we're safe!<end><if><value:$01><equal>19The monster and the one in black both got away, <value:$28>. But the person in black seemed to have a headache... I wonder if everything's all right.<end>Aw, it got away. But there's no way we could defeat a monster like that as we are now.<end>"
+
+["550192"]
+japanese = "<if><value:$01><equal>2なぁに？\u3000あの娘が気になるの？<line-break>私はいいけど、フェルムちゃんが<line-break>聞いたら、悲しむわよ？<end><if><value:$01><equal>6あの娘…。<line-break>相当、ショックみたいだよ。<line-break>助けにいって…あげなよ。<end><if><value:$01><equal>12とりあえずは<line-break>あの娘をなんとかしてやんなきゃ、な。<end><if><value:$01><equal>13…放っておけ。<line-break>どうせ、自決する。\u3000\u3000\u3000<line-break>\u3000<line-break>関わるだけ時間のムダだ。<line-break>死にたい奴は<line-break>勝手に死ねばいい。<end><if><value:$01><equal>10姉ちゃん、なにやってんだよ！<line-break>早く、追わなきゃ…って<line-break>あ…。<line-break>…そうだよな、姉ちゃん。<line-break>ひとり、助かってる人がいたんだ。<line-break>そっちが、先か。<end><if><value:$01><equal>14おお、そうじゃ。<line-break>助かった娘っこが<line-break>おったのじゃったな。<end><if><value:$01><equal>15そうだ、あの娘…。<end><if><value:$01><equal>17…って、なによぉぉお！<line-break>そんな下等生物なんて<line-break>放っておいて、アタクシを讃えるのよ！<end><if><value:$01><equal>18…その子供を助けるので？<line-break>兄弟子。<end><if><value:$01><equal>4うふふ、<value:$28>ったら<line-break>あそこの女の子を見つめてる。<line-break>\u3000<line-break>あのノエルってコは<line-break>ショックで自分を失ってるのに<line-break>どうするつもりなのかな？<end><if><value:$01><equal>19あっ、そっか！<line-break>確かにあの人の心配してる<line-break>場合じゃなかった。<line-break>あのお姉ちゃん<line-break>…ノエル…だっけ？<line-break>助けなきゃだった。<end>…黒づくめの男にも逃げられた以上、<line-break>この村の人を救う方法はわからない。<line-break>\u3000<line-break>とりあえず、彼女…ノエルだっけ？<line-break>そのノエルだけでも救わなくちゃだよ。<line-break>ね？\u3000<value:$28>。<end>"
+english = "<if><value:$01><equal>2What is it? Interested in that girl? I don't mind, but Ferme would be upset if she heard.<end><if><value:$01><equal>6That girl... She looks badly shaken. Go... help her.<end><if><value:$01><equal>12First things first. We have to do something for that girl.<end><if><value:$01><equal>13Leave her. She'll kill herself anyway. Getting involved is a waste of time. If she wants to die, let her.<end><if><value:$01><equal>10Sis, what are you doing? We have to hurry after it... Oh. Right, Sis. Someone survived. We should see to her first.<end><if><value:$01><equal>14Ah, yes. There was a young lass who survived.<end><if><value:$01><equal>15Right, that girl...<end><if><value:$01><equal>17Wait, what?! Forget that lowly creature and praise me!<end><if><value:$01><equal>18Are you going to help that child, senior disciple?<end><if><value:$01><equal>4Hee-hee, look at <value:$28>, staring at that girl over there. Noel seems so shocked she's beside herself. I wonder what you're planning to do?<end><if><value:$01><equal>19Oh, right! This isn't the time to worry about that person. That girl... Noel, was it? We were supposed to help her.<end>Now that the man in black has escaped too, we have no idea how to save the people of this village. But for now, we have to save her... Noel, wasn't it? At least we have to save Noel. Right, <value:$28>?<end>"
+
+["550193"]
+japanese = "<if><value:$01><equal>2あ、ちょっと！<line-break><value:$28>！<end><if><value:$01><equal>6…<value:$28>。<end><if><value:$01><equal>12…なるほど<line-break>ノエル…って言ったっけ。<end><if><value:$01><equal>13…フッ、やれやれ、<line-break>しょうがない奴だ。<end><if><value:$01><equal>10姉ちゃん<line-break>そのコ、どうだ？<line-break>大丈夫か？<end><if><value:$01><equal>14…ショックじゃったのじゃろうな。<line-break>まるで、ふぬけのようじゃ。<end><if><value:$01><equal>15ショック…だろうな…。<end><if><value:$01><equal>17キー！\u3000この高貴なエルフのアタクシを<line-break>置いてくなんて１００年早くてよぉ！！<end><if><value:$01><equal>18…その子もつらかろう。<line-break>自分の村がこの有様では…。<end><if><value:$01><equal>4きゃっ、<value:$28>ったら<line-break>あのコを助けにいくつもりかな？<line-break>かなり、おバカさんかも！<line-break>あのまま、死なせてあげた方が<line-break>あのコにはつらいことが少ないのに！<line-break>もう、ホントにおせっかいさん！<end><if><value:$01><equal>19ねえ、ノエルってお姉ちゃん、<line-break>だいじょうぶそう？<line-break><value:$28>。<end>…でも、立ち直れるかな。<line-break>彼女…。<end>"
+english = "<if><value:$01><equal>2Hey, wait! <value:$28>!<end><if><value:$01><equal>6<value:$28>...<end><if><value:$01><equal>12I see. Noel, was it?<end><if><value:$01><equal>13Hmph. Honestly, you're hopeless.<end><if><value:$01><equal>10Sis, how is she? Is she all right?<end><if><value:$01><equal>14She must be in shock. She looks completely out of it.<end><if><value:$01><equal>15She must be in shock...<end><if><value:$01><equal>17Aaargh! You dare leave a noble Elf like me behind? You're a hundred years too early!<end><if><value:$01><equal>18This must be hard for the child as well, with the village in such a state...<end><if><value:$01><equal>4Eek! Is <value:$28> really going to help that girl? What a fool! She'd suffer less if you just let her die! Honestly, what a meddler!<end><if><value:$01><equal>19Hey, does Noel look like she'll be all right, <value:$28>?<end>But I wonder if she'll be able to recover...<end>"
+
+["550194"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550195"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550196"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550197"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550198"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550199"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550200"]
+japanese = "＜無＞<end>"
+english = ""
+
+["550201"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550202"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550203"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550204"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550205"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550206"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550207"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550208"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550209"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550210"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550211"]
+japanese = "＜無<end>"
+english = "<end>"
+
+["550212"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550213"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550214"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550215"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550216"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550217"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550218"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550219"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550220"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550221"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550222"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550223"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550224"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550225"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550226"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550227"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550228"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550229"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550230"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550231"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550232"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550233"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550234"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550235"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550236"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550237"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550238"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550239"]
+japanese = "…目が覚めるとキミがいた。<line-break>ボクは、眠りのお姫様…。<end>"
+english = "When I woke up, there you were. I'm the sleeping princess...<end>"
+
+["550240"]
+japanese = "どーして、キミは<line-break>ボクにだけ、そーゆー態度取るかなあ！<end>"
+english = "Why am I the only one you treat like that?!<end>"
+
+["550241"]
+japanese = "…あ、あの娘。<line-break>…たぶん、ショックなんだと思うよ。<line-break>\u3000<line-break>ねえ、<value:$28>…。<line-break>行って…あげてよ…。<end>"
+english = "That girl... I think she's in shock. <value:$28>... please, go to her.<end>"
+
+["550242"]
+japanese = "よ、お目覚めかい？<line-break>どうやら、やっこさん、俺たちに<line-break>とどめを刺さずに行ったようだ。<line-break>あの、黒づくめのボウヤが<line-break>助けてくれたのかも、な。<end>"
+english = "Hey, awake at last? Looks like our friend left without finishing us off. Maybe that boy in black saved us.<end>"
+
+["550243"]
+japanese = "それとも、あのノエルって<line-break>女の子かな？<end>"
+english = "Or was it that girl, Noel?<end>"
+
+["550244"]
+japanese = "俺は、女の名前なら<line-break>一度聞いたら忘れない。<line-break>\u3000<line-break>ま、それが<line-break>半分の確率でってのが<line-break>つらいところだが、な。<end>"
+english = "Once I hear a woman's name, I never forget it. Trouble is, I'm only right half the time.<end>"
+
+["550245"]
+japanese = "こっちからも助けを出してやらないと<line-break>まずい状況みたいだぜ？\u3000彼女。<end>"
+english = "Looks like she could use some help from us too.<end>"
+
+["550246"]
+japanese = "イテテテ…お、俺としたことが、<line-break>怪ぶつにやられて、おだぶつ。<line-break>ププププ…。<end>"
+english = "Ow, ow, ow... Me, done in by a monster and gone to meet my maker. Pfffft...<end>"
+
+["550247"]
+japanese = "ヴァン…、こういうときに、<line-break>そういう冗談やめようよ。<line-break>\u3000<line-break>それよりも、<line-break>ねえ、<value:$28><line-break>あの黒づくめも…。<end>"
+english = "Van... don't make jokes like that right now. More importantly, <value:$28>, the one in black is gone too...<end>"
+
+["550248"]
+japanese = "ホントだ。<end>"
+english = "You're right.<end>"
+
+["550249"]
+japanese = "し、師匠、すばらしい！<line-break>背筋も凍る寒さでござる！<end>"
+english = "M-Master, magnificent! That joke sent a chill down my spine!<end>"
+
+["550250"]
+japanese = "へへっ、お前も修行を怠るなよ！<line-break>…で、あの黒づくめはどこ行ったんだ？<end>"
+english = "Heh, don't neglect your training! So... where did the one in black go?<end>"
+
+["550251"]
+japanese = "おいおい、どうしたんだ？<line-break>へへっ、あれしきで、へこたれんなよ。<end>"
+english = "Hey, what's wrong? Heh, don't let a little thing like that get you down.<end>"
+
+["550252"]
+japanese = "ちっ、ホントなら<line-break>大ウケなのによ！<end>"
+english = "Damn. If that were true, it'd be a riot!<end>"
+
+["550253"]
+japanese = "おーい、<value:$28>。<line-break>黒づくめもいねえぞ。どうすんだ？<end>"
+english = "Hey, <value:$28>. The one in black is gone too. What do we do?<end>"
+
+["550254"]
+japanese = "<if><value:$01><equal>2<value:$28>、しっかりして！<line-break><value:$28>！<end><if><value:$01><equal>13…起きろ。<line-break>…いつまで寝ている。<end><if><value:$01><equal>10姉ちゃん、目を覚ましてくれよ。<line-break>姉ちゃん！！<end><if><value:$01><equal>14こら、しっかりせい。<line-break><value:$28>！<end><if><value:$01><equal>15ねえ、<value:$28>、<line-break>しっかり。しっかりしてよ。<end><if><value:$01><equal>17ちょっと！\u3000ここで死んじゃうのぉ？<line-break>下等生物って短命なのはわかるけど<line-break>こんなに簡単に死なないでよぉ！<line-break>許さなくてよぉ！\u3000高貴なエルフである<line-break>アタクシは許さなくてよぉ！<line-break>早く起きるのよぉ！\u3000目を覚まして！<end><if><value:$01><equal>18兄弟子！<line-break>しっかりしてくだされ。<end><if><value:$01><equal>4もしかして<line-break>死んじゃってるかも…<end><if><value:$01><equal>19<value:$28>～！<line-break><value:$28>、しっかりしてぇ。<end><value:$28>、しっかりしてよぉ！<line-break><value:$28>てばぁ！<end>"
+english = "<if><value:$01><equal>2<value:$28>, wake up! <value:$28>!<end><if><value:$01><equal>13Wake up. How long do you intend to sleep?<end><if><value:$01><equal>10Sis, please wake up. Sis!<end><if><value:$01><equal>14Come now, pull yourself together. <value:$28>!<end><if><value:$01><equal>15Come on, <value:$28>. Wake up. Please wake up.<end><if><value:$01><equal>17What do you think you're doing, dying here?! I know inferior life-forms have short lives, but you can't die this easily! I won't allow it! I, a noble Elf, will not allow it! Get up this instant! Open your eyes!<end><if><value:$01><equal>18Senior disciple! Please, pull yourself together!<end><if><value:$01><equal>4Maybe... maybe this one's dead...<end><if><value:$01><equal>19<value:$28>! <value:$28>, wake up!<end><value:$28>, wake up! Come on, <value:$28>!<end>"
+
+["550255"]
+japanese = "<if><value:$01><equal>2もう、びっくりさせないで！<line-break>死んだかと思ったじゃない。<end><if><value:$01><equal>13…フッ。<line-break>いらぬ心配をかけるな。<end><if><value:$01><equal>10姉ちゃん、<line-break>…よかった。<end><if><value:$01><equal>14<value:$28>、<line-break>ちゃんと生きておるか？<end><if><value:$01><equal>15…よかった。<line-break>ねえ、<value:$28>、<line-break>僕、心配しちゃたよ。<end><if><value:$01><equal>17な、な、な、な、なによ！<line-break>生きてるんなら、<line-break>さっさと起きなさいよ！<line-break>下等生物であるあなたが、<line-break>高貴なエルフであるアタクシに<line-break>心配かけるなんて５００年早くてよぉ！<end><if><value:$01><equal>18兄弟子…<line-break>お気がつかれましたか。<end><if><value:$01><equal>4きゃっ！\u3000生きてたみたい！<end><if><value:$01><equal>19よかったあ！<line-break>大丈夫？<end>よかったぁ！<line-break>このまま目を開けなかったら<line-break>どうしようかと思った。<end>"
+english = "<if><value:$01><equal>2Don't scare me like that! I thought you were dead.<end><if><value:$01><equal>13Hmph. Do not cause needless concern.<end><if><value:$01><equal>10Sis... thank goodness.<end><if><value:$01><equal>14<value:$28>, are you properly alive?<end><if><value:$01><equal>15Thank goodness. <value:$28>, I was so worried.<end><if><value:$01><equal>17W-w-w-w-what?! If you're alive, then get up already! An inferior life-form like you has no business making a noble Elf such as myself worry. You're five hundred years too young!<end><if><value:$01><equal>18Senior disciple... have you regained consciousness?<end><if><value:$01><equal>4Eek! Looks like you're alive!<end><if><value:$01><equal>19Thank goodness! Are you all right?<end>Thank goodness! I was afraid you might never open your eyes.<end>"
+
+["550256"]
+japanese = "<if><value:$01><equal>2残念だけど、逃げられたようね。<end><if><value:$01><equal>13…逃げられた。<line-break>怪物にも、あの男にも…。<end><if><value:$01><equal>10怪物にも、あの黒づくめにも<line-break>逃げられちまったよ、姉ちゃん。<line-break>…ちくしょう！<end><if><value:$01><equal>14逃げおったか…。<line-break>ま、わしらに勝てる相手ではない。<line-break>命があっただけでももうけものじゃな。<line-break>そう言えば、あの黒づくめも…？<line-break>あやつ、最後には、<line-break>改心しよった感じじゃったが。<end><if><value:$01><equal>15ひどい目にあったけど<line-break>どうやら助かったみたいだ。<line-break>…見逃してもらったんだね。<line-break>いや、もしかしたら、<line-break>あの黒づくめに助けられたのかも…。<end><if><value:$01><equal>17もう怪物もあの黒づくめもいなくてよ。<line-break>まったく、だらしなくてよ、あなた。<line-break>\u3000<line-break>ま、あなた１人、どんな目にあっても<line-break>別にかまわないけれど<line-break>高貴なエルフであるアタクシまで…<end><if><value:$01><equal>18どうやら助かった様子。<line-break>怪物にもとどめを刺されなんだとは、<line-break>あの黒づくめに助けられましたかな？<end><if><value:$01><equal>4私、アカデミーではいじめっ子に、<line-break>家ではお義母さんにいじめられてたから、<line-break>すごく、打たれ強いの！\u3000きゃっ！<line-break>あ、それより、あの怪物も<line-break>黒づくめの人も逃げちゃったのね。\u3000\u3000<line-break>助かっちゃったかも！<end><if><value:$01><equal>19あの怪物にも、黒づくめにも<line-break>逃げられちゃったね。<line-break><value:$28>。<line-break>でも、あの黒づくめの人、<line-break>頭が痛そうにしてたけど…<line-break>大丈夫かなあ。<end>あ～あ、逃げられちゃったよ。<line-break>でも、あんな怪物、<line-break>今のぼくたちには倒せないよぉ。<end>"
+english = "<if><value:$01><equal>2Unfortunately, it looks like they got away.<end><if><value:$01><equal>13They escaped. The monster and that man...<end><if><value:$01><equal>10The monster and the one in black both got away, Sis. Damn it!<end><if><value:$01><equal>14So it escaped... Well, it was no foe we could defeat. We are fortunate simply to be alive. Come to think of it, where is the one in black? By the end, that one seemed to have had a change of heart.<end><if><value:$01><equal>15That was awful, but it looks like we survived. We must've been spared. Or maybe the one in black saved us...<end><if><value:$01><equal>17The monster and the one in black are both gone. Honestly, you are utterly hopeless. Not that I care what happens to you, but to drag a noble Elf such as myself into it...<end><if><value:$01><equal>18It appears we survived. Since the monster did not finish us off, might the one in black have saved us?<end><if><value:$01><equal>4I was bullied by bullies at the Academy and by my stepmother at home, so I can take a real beating! Eek! Oh, but never mind that. The monster and the person in black both ran away. Maybe we got lucky!<end><if><value:$01><equal>19The monster and the one in black both got away, <value:$28>. But the person in black seemed to have a headache... I wonder if that person is all right.<end>Oh, they got away. But there's no way we could defeat a monster like that as we are now.<end>"
+
+["550257"]
+japanese = "<if><value:$01><equal>2なぁに？\u3000気がついたら<line-break>すぐ女の子の方に行くわけ？<line-break>\u3000<line-break>べ、別にあたしはいいけど<line-break>フェルムちゃんが悲しむんじゃ<line-break>ないかなーって、思ってさ。<end><if><value:$01><equal>13…放っておけ。<line-break>どうせ、自決する。\u3000\u3000\u3000<line-break>\u3000<line-break>関わるだけ時間のムダだ。<line-break>死にたい奴は<line-break>勝手に死ねばいい。<end><if><value:$01><equal>10…そっか。<line-break>失敗をくいるより<line-break>今、できること、か…、姉ちゃん。<end><if><value:$01><equal>14おお、そうじゃ。<line-break>助かった娘っこが<line-break>おったのじゃったな。<end><if><value:$01><equal>15あ、そうだ。<line-break>ノエルって言ったっけ。<line-break>あのコを助けなくちゃ…。<end><if><value:$01><equal>17何よぉ！\u3000あんな下等生物助けても<line-break>ロクなことはなくてよぉ！\u3000あんなのは<line-break>放っておいて、アタクシの話を聞くの！<end><if><value:$01><equal>18ボルダンには、敗北はこの上ない屈辱。<line-break>…あの人間の貴族の娘にとっても<line-break>そうなのでござろうか？<end><if><value:$01><equal>4あの人は、ずーっとあんな感じかな。\u3000<line-break>たぶん、頭よすぎるのかも。<line-break>きゃっ！<line-break>うふふふ。頭いい人間に、私が<line-break>ひそかに嫉妬と悪感情を持ってるのが、<line-break>よくわかるセリフを言っちゃったかな！<end><if><value:$01><equal>19あっ、そっか！<line-break>確かにあの人の心配してる<line-break>場合じゃなかった。<line-break>あのお姉ちゃん<line-break>…ノエル…だっけ？<line-break>助けなきゃだった。<end>…黒づくめの男にも逃げられた以上、<line-break>この村の人を救う方法はわからない。<line-break>\u3000<line-break>とりあえず、彼女…ノエルだっけ？<line-break>そのノエルだけでも救わなくちゃだよ。<line-break>ね？\u3000<value:$28>。<end>"
+english = "<if><value:$01><equal>2What, the moment you wake up, you run straight to another girl? N-not that I care. I just thought Ferme might be upset.<end><if><value:$01><equal>13Leave her. She'll kill herself anyway. Getting involved is a waste of time. People who want to die can do as they please.<end><if><value:$01><equal>10Right... Instead of dwelling on our failure, we should do what we can now, Sis.<end><if><value:$01><equal>14Ah, yes. There was that young lass who survived.<end><if><value:$01><equal>15Oh, right. Noel, wasn't it? We have to help her...<end><if><value:$01><equal>17What?! Nothing good will come of helping an inferior life-form like that! Leave her and listen to me!<end><if><value:$01><equal>18To a Boldan, there is no greater humiliation than defeat. Is it the same for that human nobleman's daughter?<end><if><value:$01><equal>4Is that person always like that? Maybe it's from being too clever. Eek! Hee hee hee. Did I just say something that makes my secret jealousy and ill will toward clever people painfully obvious?<end><if><value:$01><equal>19Oh, right! This really isn't the time to be worrying about that person. That lady... Noel, was it? We have to help her.<end>Now that the man in black has escaped too, we don't know how to save the villagers. But at least we have to save her... Noel, wasn't it? Right, <value:$28>?<end>"
+
+["550258"]
+japanese = "<if><value:$01><equal>2…ちょ、ちょっと！<line-break><value:$28>！<end><if><value:$01><equal>13…フッ、やれやれ、<line-break>しょうがない奴だ。<end><if><value:$01><equal>10とにかく、今できることは<line-break>そのコを助けることだよな。<end><if><value:$01><equal>14…ショックじゃったのじゃろうな。<line-break>まるで、ふぬけのようじゃ。<end><if><value:$01><equal>15…ひとりぼっちで生き残って<line-break>つらいだろうな、あのコ。<end><if><value:$01><equal>17こらこらこら！\u3000高貴なエルフである<line-break>アタクシをおいていくなんて<line-break>８００年早くてよぉ！<end><if><value:$01><equal>18…その子もつらかろう。<line-break>自分の村がこの有様では…。<end><if><value:$01><equal>4あ、助けにいくんだ。<line-break>うふふ、ホントにおせっかいさん！<end><if><value:$01><equal>19ねえ、ノエルってお姉ちゃん、<line-break>だいじょうぶそう？<line-break><value:$28>。<end>…でも、立ち直れるかな。<line-break>彼女…。<end>"
+english = "<if><value:$01><equal>2W-wait! <value:$28>!<end><if><value:$01><equal>13Hmph. What a hopeless fool.<end><if><value:$01><equal>10Anyway, what we can do now is help that girl.<end><if><value:$01><equal>14The shock must've left her an empty shell.<end><if><value:$01><equal>15It must be awful, being the only one left alive...<end><if><value:$01><equal>17Now see here! You're eight hundred years too young to leave a noble Elf such as myself behind!<end><if><value:$01><equal>18That child must be suffering too, with the village reduced to this...<end><if><value:$01><equal>4Oh, you're going to help her? Hee hee, you really can't help meddling!<end><if><value:$01><equal>19Do you think Noel will be all right, <value:$28>?<end>But will she ever recover from this...?<end>"
+
+["550259"]
+japanese = "（怪物もあの黒づくめもいない。<line-break>\u3000…助かったのか。\u3000\u3000\u3000\u3000\u3000\u3000）<end>"
+english = "The monster and the one in black are both gone. Did we... survive?<end>"
+
+["550260"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550261"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550262"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550263"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550264"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550265"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550266"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550267"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550268"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550269"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550270"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550271"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550272"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550273"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550274"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550275"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550276"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550277"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550278"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550279"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550280"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550281"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550282"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550283"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550284"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550285"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550286"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550287"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550288"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550289"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550290"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550291"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550292"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550293"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550294"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550295"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550296"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550297"]
+japanese = "＜無＞<end>"
+english = "<end>"
+
+["550298"]
+japanese = "…わたしが剣を抜いた。\u3000\u3000<end>"
+english = "I drew the sword.<end>"
+
+["550299"]
+japanese = "そして、石化獣が復活して<line-break>みんなを石に変えた。<end>"
+english = "Then the Petrifying Beast came back to life and turned everyone to stone.<end>"
+
+["550300"]
+japanese = "わたしはなぜか<line-break>石にならなかった…。\u3000\u3000<end>"
+english = "For some reason, I wasn't turned to stone...<end>"
+
+["550301"]
+japanese = "…わたしが剣を抜いた。\u3000\u3000<end>"
+english = "I drew the sword.<end>"
+
+["550302"]
+japanese = "そしたら、石化獣が復活して<line-break>みんなを石に変えた。<end>"
+english = "And then the Petrifying Beast came back to life and turned everyone to stone.<end>"
+
+["550303"]
+japanese = "わたしだけは、なぜか<line-break>石にならなかった…。\u3000\u3000\u3000<end>"
+english = "For some reason, I was the only one who wasn't turned to stone...<end>"
+
+["550304"]
+japanese = "…わたしが剣を抜いた。\u3000<end>"
+english = "I drew the sword.<end>"
+
+["550305"]
+japanese = "だから、石化獣が復活して<line-break>みんなを石に変えた。<end>"
+english = "That's why the Petrifying Beast came back to life and turned everyone to stone.<end>"
+
+["550306"]
+japanese = "わたしだけは、だから<line-break>石にならなかった…。\u3000\u3000<end>"
+english = "And that's why I alone wasn't turned to stone...<end>"
+
+["550307"]
+japanese = "わたし…<line-break>わたし…何をしたの…？<line-break>悪いのは…<line-break>わたし…わたし<line-break>…<end>"
+english = "I... I... What have I done...? The one to blame is... me... I...<end>"
+
+["550308"]
+japanese = "…どうも、ご親切に。\u3000\u3000\u3000<end>"
+english = "That was... very kind of you.<end>"
+
+["550309"]
+japanese = "助けていただき<line-break>ありがとうございました。\u3000<end>"
+english = "Thank you for saving me.<end>"
+
+["550310"]
+japanese = "…<value:$28>さん、<line-break>でしたね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Your name was <value:$28>, wasn't it?<end>"
+
+["550311"]
+japanese = "…よろしければ、<line-break>わたしを、殺してください。<end>"
+english = "If you would... please kill me.<end>"
+
+["550312"]
+japanese = "………………？<end>"
+english = "...?<end>"
+
+["550313"]
+japanese = "あきらめるな<end>"
+english = "Do not give up.<end>"
+
+["550314"]
+japanese = "剣の言葉を聞け<end>"
+english = "Hear the sword's words.<end>"
+
+["550315"]
+japanese = "あきらめるなって…。<end>"
+english = "“Do not give up”...<end>"
+
+["550316"]
+japanese = "わたしだけが生きているということ…<end>"
+english = "The fact that I'm the only one still alive...<end>"
+
+["550317"]
+japanese = "…それは、わたしにはやらないと<line-break>いけないことがあるということ…？\u3000<end>"
+english = "Does that mean... there's something I have to do?<end>"
+
+["550318"]
+japanese = "剣が…答えた…？<end>"
+english = "The sword... answered me?<end>"
+
+["550319"]
+japanese = "それ…が…？<line-break>あきらめるなってことですか？<end>"
+english = "That... was the answer? You mean I shouldn't give up?<end>"
+
+["550320"]
+japanese = "剣の言葉を聞けって…。<end>"
+english = "“Hear the sword's words”...<end>"
+
+["550321"]
+japanese = "剣が、わたしを、選んだ…？<end>"
+english = "The sword chose me...?<end>"
+
+["550322"]
+japanese = "…あきらめなければ、<line-break>道が開けるってことですか？<end>"
+english = "Are you saying a path will open if I don't give up?<end>"
+
+["550323"]
+japanese = "で、でも、わたしなんかに…！<end>"
+english = "B-but someone like me...!<end>"
+
+["550324"]
+japanese = "…<value:$28>、…さん。<end>"
+english = "<value:$28>...<end>"
+
+["550325"]
+japanese = "どうして…？<line-break>何をしろって言うの？<end>"
+english = "Why...? What do you want me to do?<end>"
+
+["550326"]
+japanese = "…あきらめちゃダメなんだ。<end>"
+english = "I can't give up.<end>"
+
+["550327"]
+japanese = "わたしにできることが…<line-break>きっと…。<end>"
+english = "There must be something I can do...<end>"
+
+["550328"]
+japanese = "今どき、ひどい宿屋ね。<line-break>あたし、相部屋なんてイヤだわ。<end>"
+english = "What a dreadful inn for this day and age. I don't want to share a room.<end>"
+
+["550329"]
+japanese = "文句言わない。<line-break>旅は道づれ…ってね。<end>"
+english = "Quit complaining. A journey's better with company, as they say.<end>"
+
+["550330"]
+japanese = "ずいぶん古くさいこと言うのね。<line-break>そういうの、もてないわよ。<end>"
+english = "That's terribly old-fashioned. Talk like that won't make you popular.<end>"
+
+["550331"]
+japanese = "<value:$28>さん！<end>"
+english = "<value:$28>!<end>"
+
+["550332"]
+japanese = "わたしです、ノエルです。\u3000\u3000<end>"
+english = "It's me, Noel.<end>"
+
+["550333"]
+japanese = "いつか、石化獣に襲われたとき<line-break>助けていただいたノエルです！<end>"
+english = "I'm Noel―the girl you saved when the Petrifying Beast attacked!<end>"
+
+["550334"]
+japanese = "わたし、冒険者になったんです。<line-break>村のみんなの呪いを解くため…。<line-break>それから、<value:$28>さん<line-break>みたいに強くなって…、<line-break>たくさんの人を助けるために。<end>"
+english = "I've become an adventurer. I want to break the curse on everyone in my village... and grow strong like you, <value:$28>, so I can help lots of people.<end>"
+
+["550335"]
+japanese = "あっ、そうだ、<line-break>わたしの仲間を紹介します！\u3000\u3000<line-break>\u3000<end>"
+english = "Oh, that's right! Let me introduce my companions!<end>"
+
+["550336"]
+japanese = "俺はレイヴン。<line-break>ま、ひとつよろしく。<end>"
+english = "I'm Raven. Good to meet you.<end>"
+
+["550337"]
+japanese = "え、で…ですね…。<line-break>こちらはカフィンです。<end>"
+english = "And, um... this is Coffin.<end>"
+
+["550338"]
+japanese = "<if><value:$29><equal>%0あなたが<value:$28>？<line-break>ふ～ん、かわいいボウヤだこと。<line-break>あなたと一夜を過ごせるなんて<line-break>ステキだわ。<end>あなたが<value:$28>？<line-break>ふ～ん、かわいい子猫ちゃんだこと。<line-break>あなたと一夜を過ごせるなんて<line-break>ステキだわ。<end>"
+english = "<if><value:$29><equal>%0So you're <value:$28>? My, what a darling boy. How lovely that I'll get to spend the night with you.<end>So you're <value:$28>? My, what a darling kitten. How lovely that I'll get to spend the night with you.<end>"
+
+["550339"]
+japanese = "相部屋はイヤなんだろ？<line-break>なんなら、今夜は野宿したら？<end>"
+english = "Thought you didn't want to share a room. Why not sleep outside tonight?<end>"
+
+["550340"]
+japanese = "うるさい男ね。<line-break>あんた１人でおやりなさい。<end>"
+english = "What an irritating man. You can do that by yourself.<end>"
+
+["550341"]
+japanese = "それから、<line-break>あっちにいるのがナーシェス。<end>"
+english = "And over there is Narscess.<end>"
+
+["550342"]
+japanese = "みんな、とっても強いんです。\u3000<end>"
+english = "They're all incredibly strong.<end>"
+
+["550343"]
+japanese = "みんなの足を引っ張らないように<line-break>わたしも、がんばってます。<end>"
+english = "I'm working hard so I won't hold everyone back.<end>"
+
+["550344"]
+japanese = "あ、あ、すみません！<line-break>起こしてしまったみたいで…。<end>"
+english = "Oh! I'm sorry! It looks like I woke you...<end>"
+
+["550345"]
+japanese = "それじゃ、お休みなさい、<line-break><value:$28>さん。<end>"
+english = "Well then, good night, <value:$28>.<end>"
+
+["550346"]
+japanese = "どこ見てるの？<line-break>ボウヤ。<end>"
+english = "What are you looking at, boy?<end>"
+
+["550347"]
+japanese = "え？<end>"
+english = "What?<end>"
+
+["550348"]
+japanese = "今、あの娘のおしり<line-break>見てたんじゃない？<end>"
+english = "You were staring at that girl's bottom, weren't you?<end>"
+
+["550349"]
+japanese = "目の前に美しいお姉さまがいるってのに<line-break>あんな女の子、目に入らないよ。<end>"
+english = "With a beautiful woman standing right in front of me? I didn't even notice that girl.<end>"
+
+["550350"]
+japanese = "さあて、どうなのかしらね？\u3000\u3000\u3000\u3000<end>"
+english = "Is that so?<end>"
+
+["550351"]
+japanese = "なんたって、あたしの目の前で<line-break>ノエルを口説こうとした男だものね。<end>"
+english = "After all, you're the man who tried to seduce Noel right in front of me.<end>"
+
+["550352"]
+japanese = "あれは違う！<line-break>いいかげんに信じてほしいな…。\u3000\u3000\u3000<line-break>あのときは、冒険者になりたてで…<line-break>ノエルの…、いや、あんたたちの仲間に<line-break>入りたかった。それだけだ。<end>"
+english = "That's not what happened! I wish you'd believe me already. I was new to adventuring then, and I wanted to join Noel's... no, your group. That was all.<end>"
+
+["550353"]
+japanese = "俺と一緒に地平線に沈む<line-break>夕日を見ないかい？<end>"
+english = "Would you watch the sun sink below the horizon with me?<end>"
+
+["550354"]
+japanese = "それが、冒険者として<line-break>仲間に入れてもらうときの言葉かしら？<end>"
+english = "That's how you ask to join a band of adventurers?<end>"
+
+["550355"]
+japanese = "だから…それは、なんて言っていいのか<line-break>わからなかったんだ。<end>"
+english = "I told you... I didn't know what to say.<end>"
+
+["550356"]
+japanese = "あっそぅ。<line-break>もう少し上手なウソがつけないの？\u3000\u3000<line-break>あなたを仲間に入れることに賛成した<line-break>ナーシェスの気まぐれに感謝するのね。<end>"
+english = "Oh, really? Couldn't you invent a better lie? Be grateful Narscess took it into his head to agree to let you join us.<end>"
+
+["550357"]
+japanese = "まぁ、ノエルはあきらめることね。\u3000<end>"
+english = "In any case, give up on Noel.<end>"
+
+["550358"]
+japanese = "あんたがノエルに手を出せないように<line-break>あたしが、しっかり見張ってるから。<end>"
+english = "I'll be watching closely to make sure you keep your hands off Noel.<end>"
+
+["550359"]
+japanese = "…誤解だ。<end>"
+english = "You've misunderstood.<end>"
+
+["550360"]
+japanese = "なにかしら？<line-break>あたしたちに何かご用？<end>"
+english = "What is it? Do you want something from us?<end>"
+
+["550361"]
+japanese = "あいさつもなしに剣を抜くなんて<line-break>感心しないわ。<line-break>もてないわよ、そういうの？<end>"
+english = "Drawing a sword without so much as a greeting? How rude. That won't make you popular, you know.<end>"
+
+["550362"]
+japanese = "…カフィン、やはり、お前に<line-break>言い寄ってくる男じゃないようだぜ？<end>"
+english = "Coffin... looks like he isn't here to court you after all.<end>"
+
+["550363"]
+japanese = "こんな奴ら<line-break>こっちから願い下げよ。<end>"
+english = "As if I'd want anything to do with scum like this.<end>"
+
+["550364"]
+japanese = "んじゃ、<line-break>片付けちまってもいいんだな？<end>"
+english = "Then I can go ahead and dispose of them?<end>"
+
+["550365"]
+japanese = "<value:$28>さん！<end>"
+english = "<value:$28>!<end>"
+
+["550366"]
+japanese = "あ、あ、<value:$28>さん！<end>"
+english = "Oh! <value:$28>!<end>"
+
+["550367"]
+japanese = "あ、えと、また、助けていただきました。<line-break>あの…本当にありがとうございます！<end>"
+english = "Um... you've saved me again. Thank you so much!<end>"
+
+["550368"]
+japanese = "イヤねぇ…。みんなそろって<line-break>施文院の刺青してる。<line-break>\u3000<line-break>あたしたち、<line-break>厄介なのに狙われてるわね。<end>"
+english = "How unpleasant... Every one of them bears the Inscription Order's tattoo. We've attracted the attention of a troublesome lot.<end>"
+
+["550369"]
+japanese = "えと、…せもんいん？<end>"
+english = "Um... the Inscription Order?<end>"
+
+["550370"]
+japanese = "施文院とは、天空神ノトゥーンに\u3000<line-break>仕える宗派のひとつだ。<line-break>\u3000<line-break>もともとは、<line-break>各地を巡って邪悪なものを<line-break>封印していたのだ。<end>"
+english = "The Inscription Order is one of the sects devoted to Notun, the Sky God. Originally, its members traveled the lands sealing away evil.<end>"
+
+["550371"]
+japanese = "中世には神聖王サラミスによって、<line-break>異端とされ、<line-break>ほとんどの宗徒が処刑された…。<line-break>だが、その生き残りは地下へ潜って<line-break>暗殺集団・告死天使を組織し、<line-break>歴史の裏舞台で暗躍を続けた。<end>"
+english = "In the Middle Ages, Holy King Salamis declared them heretics, and nearly all their adherents were executed. The survivors went underground and formed the assassin order known as the Angels of Death, continuing to work in the shadows of history.<end>"
+
+["550372"]
+japanese = "そして、現在もな…。<end>"
+english = "And they remain active to this day...<end>"
+
+["550373"]
+japanese = "それじゃ、この人たちは…。<end>"
+english = "Then these people are...<end>"
+
+["550374"]
+japanese = "間違いない。<line-break>施文院の暗殺者、告死天使だ。<end>"
+english = "There is no doubt. They're the Inscription Order's assassins―the Angels of Death.<end>"
+
+["550375"]
+japanese = "<if><value:$29><equal>%0こんな、物騒な連中に<line-break>ねらわれるようなこと…したかしら。<line-break>\u3000<line-break>でも、おかげでボウヤと<line-break>再会できたわけだし…。<line-break>フフフッ。<end>こんな、物騒な連中に<line-break>ねらわれるようなこと…したかしら。<line-break>\u3000<line-break>でも、おかげで子猫ちゃんと<line-break>再会できたわけだし…。<line-break>フフフッ。<end>"
+english = "<if><value:$29><equal>%0I wonder what we did to attract such dangerous company. Still, it did let me see you again, boy... Heh heh.<end>I wonder what we did to attract such dangerous company. Still, it did let me see you again, kitten... Heh heh.<end>"
+
+["550376"]
+japanese = "戦っているときの真剣な顔…<line-break>フフフ…、かわいかったわよ。<end>"
+english = "That serious look on your face while you fought... Heh heh. It was adorable.<end>"
+
+["550377"]
+japanese = "あ、あの、それじゃ、<line-break>わたしはこれで失礼します！<end>"
+english = "U-um, I'll leave you now!<end>"
+
+["550378"]
+japanese = "予備メッセージ１<line-break>ノエル、ボリューム１その１<end>"
+english = ""
+
+["550379"]
+japanese = "予備メッセージ２<line-break>ノエル、ボリューム１その１<end>"
+english = ""
+
+["550380"]
+japanese = "予備メッセージ３<line-break>ノエル、ボリューム１その１<end>"
+english = ""
+
+["550381"]
+japanese = "予備メッセージ４<line-break>ノエル、ボリューム１その１<end>"
+english = ""
+
+["550382"]
+japanese = "予備メッセージ５<line-break>ノエル、ボリューム１その１<end>"
+english = ""
+
+["550383"]
+japanese = "予備メッセージ６<line-break>ノエル、ボリューム１その１<end>"
+english = ""
+
+["550384"]
+japanese = "予備メッセージ７<line-break>ノエル、ボリューム１その１<end>"
+english = ""
+
+["550385"]
+japanese = "予備メッセージ８<line-break>ノエル、ボリューム１その１<end>"
+english = ""
+
+["550386"]
+japanese = "予備メッセージ９<line-break>ノエル、ボリューム１その１<end>"
+english = ""
+
+["550387"]
+japanese = "予備メッセージ１０<line-break>ノエル、ボリューム１その１<end>"
+english = ""
+
+["550388"]
+japanese = "ノエル・ボリューム１終端<end>"
+english = ""

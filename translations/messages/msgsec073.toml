@@ -1,0 +1,537 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["730000"]
+japanese = "アーギルシャイアメッセージvol3開始<end>"
+english = ""
+
+["730001"]
+japanese = "ひー、だっせー。<line-break>信じられねーよ！<end>"
+english = "Man, that's lame. I can't believe it!<end>"
+
+["730002"]
+japanese = "だろ？\u3000だろ？\u3000ハハハ！<line-break>お前もそう思うだろ？\u3000な？<end>"
+english = "Right? Right? Hahaha! You think so too, don't you? Huh?<end>"
+
+["730003"]
+japanese = "…うーん、世の中って<line-break>なかなかうまくいかないんだなあ。<end>"
+english = "Hmm... Things really don't work out the way you'd expect, do they?<end>"
+
+["730004"]
+japanese = "なんだよ、ナッジ。<line-break>やぶからぼうに。<end>"
+english = "What's with you, Nadge? That came out of nowhere.<end>"
+
+["730005"]
+japanese = "ヴァンはさ、ヴァンのお母さんに<line-break>ベタベタに甘やかされて、バカでしょ？<line-break>\u3000<line-break>一方のチャカは<value:$28>の<line-break>超スパルタ教育のかいあって、<line-break>立派にバカに成長してるでしょ？<end>"
+english = "Van's been spoiled rotten by his mother, and he's an idiot, right? Meanwhile, thanks to <value:$28>'s brutally strict training, Chaka has grown into a first-rate idiot too, right?<end>"
+
+["730006"]
+japanese = "正反対のやり方なのに<line-break>結果的にはどうしてこんなに<line-break>似てくるんだろうって思ってさ。 \u3000 <line-break>それぞれにバカを<line-break>育てようとしたわけでもないのにさ。<line-break>世の中うまくいかないなあって。<end>"
+english = "I was just wondering how two completely opposite approaches could produce such similar results. It isn't as though either one was trying to raise an idiot. Things really don't work out the way you want.<end>"
+
+["730007"]
+japanese = "…ナッジって、やさしいようで<line-break>時々、ズバッていう発言するよな。<end>"
+english = "Nadge seems nice, but he can be pretty blunt sometimes.<end>"
+
+["730008"]
+japanese = "…まあな。<end>"
+english = "Well, yeah.<end>"
+
+["730009"]
+japanese = "…俺の姉のことを<line-break>聞きに来たのか。<end>"
+english = "…You came to ask about my sister?<end>"
+
+["730010"]
+japanese = "聖杯を奪われたときの<line-break>アーギルシャイアの言動…か？<end>"
+english = "What Argyleshire said and did when the Grail was stolen…?<end>"
+
+["730011"]
+japanese = "そうだ。<line-break>お前の思っているとおりだ。<line-break>\u3000<line-break>アーギルシャイア、<line-break>あれは俺の姉<line-break>シェスターだ。<end>"
+english = "Yes. Just as you thought. Argyleshire… She's my sister, Shester.<end>"
+
+["730012"]
+japanese = "シェスターは<line-break>アーギルシャイアに<line-break>体を乗っ取られている。<end>"
+english = "Argyleshire has taken over Shester's body.<end>"
+
+["730013"]
+japanese = "…黙っていたのは<line-break>お前が甘ちゃんの<line-break>冒険者だからだ。<end>"
+english = "…I kept quiet because you're a softhearted adventurer.<end>"
+
+["730014"]
+japanese = "月光で精神だけを斬れば<line-break>姉の体を傷つけずにすむ。<end>"
+english = "If I use Moonlight to cut only the spirit, I won't have to harm my sister's body.<end>"
+
+["730015"]
+japanese = "しかし、アーギルシャイアの<line-break>精神だけを斬れるかといえば<line-break>疑問だ。<line-break>…だが、俺は斬る。<end>"
+english = "I don't know if I can cut only Argyleshire's spirit. …Even so, I'll do it.<end>"
+
+["730016"]
+japanese = "…お前にはそれが耐えられない。<line-break>そうだろう？<line-break>だから、俺は黙っていた。<end>"
+english = "…You couldn't bear that, could you? That's why I kept quiet.<end>"
+
+["730017"]
+japanese = "俺は姉を取り戻すためなら<line-break>どんなことでもする。<line-break>\u3000<line-break>…姉を殺しても、<line-break>俺は奴から姉を取り戻す。<end>"
+english = "I'll do anything to get my sister back. …Even if it means killing her, I'll take my sister back from Argyleshire.<end>"
+
+["730018"]
+japanese = "私に教えてくれ。<line-break>円卓騎士アーギルシャイアよ。<line-break>ウルグ様に秘密で何をしていた？<end>"
+english = "Tell me, Argyleshire, Knight of the Round Table. What have you been doing behind Lord Urg's back?<end>"
+
+["730019"]
+japanese = "…ふ、…ふ、<line-break>おもしろいことよ…。<end>"
+english = "Hah... hah... How amusing...<end>"
+
+["730020"]
+japanese = "質問を変えよう。<line-break>なぜ、貴様のような非力な者が<line-break>この私に勝てると思ったのだ？\u3000\u3000<line-break>この最強の円卓騎士、<line-break>開け放つものヴァシュタールに。<end>"
+english = "Let me ask you something else. What made a weakling like you think you could defeat me―Vashtar the Opener, mightiest of the Knights of the Round Table?<end>"
+
+["730021"]
+japanese = "アスティアに続いて貴様も背信するか？<line-break>私の配下の円卓騎士に<line-break>ふたりも裏切り者が出るとはな…。<line-break>質問を変えよう。<line-break>教えてくれ、アーギルシャイアよ。<line-break>女とは、裏切るものなのか？<end>"
+english = "Will you betray me too, after Astia? Two traitors among the Knights of the Round Table under my command... Let me ask you something else, Argyleshire. Is betrayal simply a woman's nature?<end>"
+
+["730022"]
+japanese = "アーギルシャイア様！<end>"
+english = "Lady Argyleshire!<end>"
+
+["730023"]
+japanese = "サイフォス！<end>"
+english = "Saiphos!<end>"
+
+["730024"]
+japanese = "…アーギルシャイア、<line-break>貴様…たわむれに<line-break>人間を飼っているのか？<end>"
+english = "Argyleshire... have you taken to keeping a human as a pet, merely for sport?<end>"
+
+["730025"]
+japanese = "飼っているのではないわ…。\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>私のサイフォスに<line-break>手をかけるなら…<line-break>あなたを殺すわ、ヴァシュタール。<end>"
+english = "Saiphos is no pet... Lay a hand on my Saiphos, and I will kill you, Vashtar.<end>"
+
+["730026"]
+japanese = "フッ、笑止な…。<line-break>貴様が私を殺すだと？<line-break>ぜひとも殺してほしいものだ。<end>"
+english = "Hmph. How absurd... You, kill me? I would very much like you to kill me.<end>"
+
+["730027"]
+japanese = "おもしろい冗談の礼だ。<line-break>今は殺さぬ。<line-break>２度と私の前に顔を出すな。\u3000\u3000<line-break>来るべきウルグ様の終末の業火に<line-break>その人間ともども焼かれて<line-break>同じ時に死ぬるがよい。<end>"
+english = "Consider this my thanks for the amusing joke: I will spare you for now. Never show your face before me again. When Lord Urg's final conflagration comes, burn with that human, and may you die together.<end>"
+
+["730028"]
+japanese = "深入りしすぎると<line-break>つらいだけだぞ。<line-break>フッ、愚か者が…。<end>"
+english = "Get in too deep and you'll only suffer. Hmph. Fool...<end>"
+
+["730029"]
+japanese = "…申しわけ…ありません、<line-break>アーギルシャイア様。<line-break>私のせいで…あのような…。<line-break>………………！<end>"
+english = "I'm... sorry, Lady Argyleshire. That happened... because of me...!<end>"
+
+["730030"]
+japanese = "俺は地獄までも<line-break>お前たちを追っていく。<end>"
+english = "I will pursue you both into the very depths of hell.<end>"
+
+["730031"]
+japanese = "…ならば、私は、守り通す。<line-break>お前が追いつけない地平まで<line-break>お前の姉を奪って逃げる。<end>"
+english = "Then I will protect her to the end. I will steal your sister away and flee to a horizon where you'll never catch up.<end>"
+
+["730032"]
+japanese = "…ゆくぞ！<end>"
+english = "…Here I go!<end>"
+
+["730033"]
+japanese = "サイフォス！！<end>"
+english = "Saiphos!!<end>"
+
+["730034"]
+japanese = "我が魂の通ずる大地の欠片に命ず！<line-break>覆い隠せ！\u3000ダスト！<end>"
+english = "O fragment of the earth, bound to my soul, I command you! Conceal! Dust!<end>"
+
+["730035"]
+japanese = "…転移すら、<line-break>もはや使えないほど<line-break>弱っているのか。<end>"
+english = "Have you grown so weak that you can't even teleport anymore?<end>"
+
+["730036"]
+japanese = "地獄までも追うと言ったはずだ。<line-break>…情けなど、かけん。<line-break>\u3000<line-break>行くぞ。<line-break>月光の導くままに！<end>"
+english = "I told you I would pursue you into hell. I will show no mercy. Here I come, guided by the moonlight!<end>"
+
+["730037"]
+japanese = "…ここだ。<line-break>ここが、奴らの隠れ家だ。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>アンティノが戦闘モンスターの<line-break>秘密研究所を持っていたと聞いたが<line-break>この隠れ家が研究所のようだな。<end>"
+english = "…This is it. This is their hideout. I heard Antino had a secret lab for combat monsters. Looks like this hideout is the lab.<end>"
+
+["730038"]
+japanese = "奴らはここで究極生物とやらを<line-break>作っているんだ。<line-break>ゆくぞ。<end>"
+english = "They're creating what they call the Ultimate Life-Form here. Let's go.<end>"
+
+["730039"]
+japanese = "アーギルシャイア様！<line-break><value:$28>が、ここまで<line-break>攻めてまいりました！<end>"
+english = "Lady Argyleshire! <value:$28> has fought all the way here!<end>"
+
+["730040"]
+japanese = "うるさい！<line-break>悪い知らせを持って来たお前には、<line-break>悪い結果で報いよう！<end>"
+english = "Silence! Since you've brought me bad news, I'll repay you in kind!<end>"
+
+["730041"]
+japanese = "っくっ…。はぁ…。<line-break>ヴァシュタールにやられた傷が…。<end>"
+english = "Ngh... Ah... The wound Vashtar gave me...<end>"
+
+["730042"]
+japanese = "アーギルシャイア様、<line-break>どうか、私のソウルを吸収して<line-break>お体をいやしてください。<end>"
+english = "Lady Argyleshire, please absorb my Soul and heal yourself.<end>"
+
+["730043"]
+japanese = "フフ、あなたは、心をなくした人形…。<line-break>忘却の仮面の騎士だもの。<line-break>そう言うでしょうね。<line-break>でも、仮面の下のあなたが<line-break>そんなことを言うとは<line-break>思ってなかったのだけれど？<end>"
+english = "Heh. You're a doll without a heart, the knight in the Mask of Oblivion. Of course you'd say that. But I never expected the person beneath the mask to say it too. Did I?<end>"
+
+["730044"]
+japanese = "…気付いておられたのですか…。<line-break>私の精神と記憶が戻りつつあるのを…。<end>"
+english = "You knew? That my mind and memories were returning...<end>"
+
+["730045"]
+japanese = "しかし、それらを取り戻してなお、<line-break>今の私は仮面の騎士サイフォスです。<line-break>それ以外の誰でもありません。<line-break>…それとも、<line-break>あなたが愛してくださっているのは<line-break>ロイという男なのですか？<end>"
+english = "Even with my mind and memories restored, I am still Sifos, the masked knight. I am no one else. Or is it the man called Roy whom you love?<end>"
+
+["730046"]
+japanese = "…そうね。<line-break>わかったわ。<line-break>ありがとう。私のサイフォス。<end>"
+english = "Yes... I understand. Thank you, my Sifos.<end>"
+
+["730047"]
+japanese = "アーギルシャイア様、<line-break>ここは私がくいとめます。<line-break>お逃げください。<end>"
+english = "Lady Argyleshire, I'll hold the line here. Please, get away.<end>"
+
+["730048"]
+japanese = "あなたを置いていく気はないわ。<line-break>あなたは私の一番のお気に入りの<line-break>オモチャなの。<line-break>見てなさい。<line-break>精霊の生命を魔法の火種程度に考えて<line-break>次々と奪っていった人間たちよ…。<end>"
+english = "I have no intention of leaving you behind. You're my favorite toy. Just watch, you humans who took the spirits' lives one after another, treating them as no more than kindling for your magic...<end>"
+
+["730049"]
+japanese = "私は精霊たちの死の苦しみから<line-break>生まれた魔人…。<line-break>\u3000<line-break>すべての生きとし生けるものに<line-break>死の苦しみを教えてあげるわ！<end>"
+english = "I am a demon born from the agony of dying spirits... I will teach every living thing the agony of death!<end>"
+
+["730050"]
+japanese = "サイ…フォス…。<end>"
+english = "Si...fos...<end>"
+
+["730051"]
+japanese = "サイフォス…<line-break>あなただけを行かせない…<line-break>私も…。<end>"
+english = "Sifos... I won't let you go alone. I'm coming too...<end>"
+
+["730052"]
+japanese = "そして、あなたたちも死ぬの…。<line-break>みんな、無に帰すの…。<line-break>ウフフフ…。<end>"
+english = "And all of you will die too... Everyone will return to nothingness... Ahahaha...<end>"
+
+["730053"]
+japanese = "\u3000\u3000\u3000\u3000\u3000すべてを…無に帰すの？\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000あなたの…サイフォスへの気持ちも？<end>"
+english = "Will you return everything... to nothing? Even your feelings for Saiphos?<end>"
+
+["730054"]
+japanese = "私の…気持ち…？<end>"
+english = "My... feelings...?<end>"
+
+["730055"]
+japanese = "\u3000\u3000\u3000何もかも無に帰すことはないわ…。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000私の中で眠りなさい。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000その気持ちと一緒に…。<end>"
+english = "You don't have to return everything to nothing... Sleep within me, together with those feelings...<end>"
+
+["730056"]
+japanese = "サイフォス…。<end>"
+english = "Sifos...<end>"
+
+["730057"]
+japanese = "…今の感じ…。<line-break>姉さんか？<end>"
+english = "What I just felt... Was that you, Sister?<end>"
+
+["730058"]
+japanese = "仮面が…<line-break>忘却の仮面がとれたのか…。<end>"
+english = "The mask... The Mask of Oblivion came off...<end>"
+
+["730059"]
+japanese = "…<value:$28>。<line-break>心配をかけたな。<end>"
+english = "<value:$28>... Sorry to worry you.<end>"
+
+["730060"]
+japanese = "私はあの日、この忘却の仮面の力で\u3000<line-break>デスギガースを倒した。<line-break>\u3000<line-break>だが、その副作用で記憶を封じられ<line-break>魔人のしもべとなってしまったのだ。<line-break>彼女、アーギルシャイアのな…。<end>"
+english = "That day, I used the power of the Mask of Oblivion to defeat Death Gigas. But as a side effect, my memories were sealed away, and I became the servant of a demon: Argyleshire.<end>"
+
+["730061"]
+japanese = "…セラ。<end>"
+english = "Sera...<end>"
+
+["730062"]
+japanese = "…ロイ。<end>"
+english = "Roy...<end>"
+
+["730063"]
+japanese = "さぁ、行こう。<line-break>姉さん。<end>"
+english = "Come on, Sister. Let's go.<end>"
+
+["730064"]
+japanese = "どうして…！<line-break>姉さん！<end>"
+english = "Why...? Sister!<end>"
+
+["730065"]
+japanese = "聞いて…、セラ。<line-break>アーギルシャイアは精霊の<line-break>断末魔の化身なの。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>古代魔法文明から今に至るまで、<line-break>人々は魔法を使い、その源である<line-break>精霊たちの命を奪っていったわ。<end>"
+english = "Listen, Sera. Argyleshire is the embodiment of the spirits' death cries. From the ancient magical civilization to this very day, people have used magic, taking the lives of the spirits from which it draws its power.<end>"
+
+["730066"]
+japanese = "そんな精霊たちの苦しみを背負った<line-break>アーギルシャイアの心は<line-break>憎悪と虚無で冷たく渦巻いていた…。<line-break>彼女に体を乗っ取られた私の心は<line-break>その渦に呑みこまれて<line-break>消えそうだったの…。だけど…。<end>"
+english = "Bearing all that suffering, Argyleshire's heart seethed in a cold vortex of hatred and the Void. When she took possession of my body, my heart was swallowed by that vortex and nearly vanished... But...<end>"
+
+["730067"]
+japanese = "だけど、彼女のロイへの想いは<line-break>凍てついた心の中の唯一の温もりとして<line-break>私の心を包んでくれたわ。<line-break>そして、その想いだけは、<line-break>彼女にとってたったひとつの温もりは、<line-break>私の心の中に残っているの…。<end>"
+english = "But her feelings for Roy were the only warmth in her frozen heart, and they enveloped mine. Those feelings―the one warmth she possessed―still remain within me...<end>"
+
+["730068"]
+japanese = "…セラ、私は言ったはずだ。<line-break>お前が追いつけない地平まで<line-break>お前の姉を奪って逃げると。<end>"
+english = "Sera, I told you. I would steal your sister away and flee to a horizon you could never reach.<end>"
+
+["730069"]
+japanese = "…さようなら、セラ。<line-break>悲しい魔人と仮面の騎士の想いを胸に、<line-break>私たち……行くわ。<end>"
+english = "Goodbye, Sera. Bearing in my heart the feelings of a sorrowful demon and a masked knight, we... will go now.<end>"
+
+["730070"]
+japanese = "…強くなったな。<line-break>お前と刃を交えることができて、<line-break>お前の力を感じて、うれしかったぞ。<line-break>これは、お前が守ってくれ。<end>"
+english = "You've grown strong. I'm glad I could cross blades with you and feel your strength for myself. I want you to protect this.<end>"
+
+["730071"]
+japanese = "私は、他に守らなければ<line-break>ならないものがある。<end>"
+english = "There is something else I must protect.<end>"
+
+["730072"]
+japanese = "あなたのような強い冒険者と<line-break>手合わせができて、光栄だった…。<line-break>どうか、これを…。<end>"
+english = "It was an honor to test myself against an adventurer as strong as you... Please, take this...<end>"
+
+["730073"]
+japanese = "あなたこそ、この忘却の仮面を<line-break>守るにふさわしい力とソウルを<line-break>持っている。<end>"
+english = "You possess the strength and Soul worthy of guarding the Mask of Oblivion.<end>"
+
+["730074"]
+japanese = "忘却の仮面が…<line-break>外れた…。<end>"
+english = "The Mask of Oblivion... came off...<end>"
+
+["730075"]
+japanese = "…<value:$28>か？<end>"
+english = "Is that you, <value:$28>?<end>"
+
+["730076"]
+japanese = "…強く…なったな…。<line-break>お前と…刃を交えることができて、<line-break>うれしかった…ぞ…。<line-break>これを…、<line-break>忘却の仮面を…<line-break>お前が…守ってくれ。<end>"
+english = "You've... grown strong. I'm glad... I could cross blades with you. Take this... the Mask of Oblivion... and protect it.<end>"
+
+["730077"]
+japanese = "いつか…、<line-break>お前と…旅がしたかった…な…。<line-break>元気でな…、<value:$28>…。<end>"
+english = "I wish... we could have traveled together someday. Take care... <value:$28>...<end>"
+
+["730078"]
+japanese = "…ロイ。<line-break>いったか…。<end>"
+english = "Roy... Is he gone...?<end>"
+
+["730079"]
+japanese = "…セラ…か？<end>"
+english = "Sera... Is that you?<end>"
+
+["730080"]
+japanese = "フフ…、最期に…<line-break>お前と…刃を交えることができて、<line-break>うれしかった…ぞ…。<line-break>これを…、<line-break>忘却の仮面を…<line-break>お前が…守ってくれ。<end>"
+english = "Heh... At the end... I'm glad I could cross blades with you. Take this... the Mask of Oblivion... and protect it.<end>"
+
+["730081"]
+japanese = "また…、<line-break>お前と…旅がしたかった…な…。<line-break>元気でな…、セラ…。<end>"
+english = "I wish... we could have traveled together again. Take care... Sera...<end>"
+
+["730082"]
+japanese = "…ロイ。<line-break>いったか…。<end>"
+english = "Roy... Is he gone...?<end>"
+
+["730083"]
+japanese = "…これは、<line-break>お前が預かってくれ。<end>"
+english = "I want you to keep this for me.<end>"
+
+["730084"]
+japanese = "さぁ、行こう。<line-break>姉さん。<end>"
+english = "Come on, Sister. Let's go.<end>"
+
+["730085"]
+japanese = "どうして…！<line-break>姉さん！<end>"
+english = "Why...? Sister!<end>"
+
+["730086"]
+japanese = "聞いて…、セラ。<line-break>アーギルシャイアは精霊の<line-break>断末魔の化身なの。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>古代魔法文明から今に至るまで、<line-break>人々は魔法を使い、その源である<line-break>精霊たちの命を奪っていったわ。<end>"
+english = "Listen, Sera. Argyleshire is the embodiment of the spirits' death cries. From the ancient magical civilization to this very day, people have used magic, taking the lives of the spirits from which it draws its power.<end>"
+
+["730087"]
+japanese = "そんな精霊たちの苦しみを背負った<line-break>アーギルシャイアの心は<line-break>憎悪と虚無で冷たく渦巻いていた…。<line-break>彼女に体を乗っ取られた私の心は<line-break>その渦に呑みこまれて<line-break>消えそうだったの…。だけど…。<end>"
+english = "Bearing all that suffering, Argyleshire's heart seethed in a cold vortex of hatred and the Void. When she took possession of my body, my heart was swallowed by that vortex and nearly vanished... But...<end>"
+
+["730088"]
+japanese = "だけど、彼女のロイへの想いは<line-break>凍てついた心の中の唯一の温もりとして<line-break>私の心を包んでくれたわ。<line-break>そして、その想いだけは、<line-break>彼女にとってたったひとつの温もりは、<line-break>私の心の中に残っているの…。<end>"
+english = "But her feelings for Roy were the only warmth in her frozen heart, and they enveloped mine. Those feelings―the one warmth she possessed―still remain within me...<end>"
+
+["730089"]
+japanese = "…姉さん。<end>"
+english = "Sister...<end>"
+
+["730090"]
+japanese = "私はアーギルシャイアの想いとともに、<line-break>ロイのかたわらに、いつづけたいの。<end>"
+english = "I want to remain by Roy's side, carrying Argyleshire's feelings with me.<end>"
+
+["730091"]
+japanese = "好きに…するがいい…。<end>"
+english = "Do... as you wish...<end>"
+
+["730092"]
+japanese = "…何をしている、<line-break>置いていくぞ。<end>"
+english = "What are you doing? Hurry, or I'll leave without you.<end>"
+
+["730093"]
+japanese = "俺の旅は…終わった。<line-break>これで…何もかも…。\u3000\u3000<line-break>\u3000<line-break>…さらばだ。<line-break>もう、会うこともあるまい。<end>"
+english = "My journey is over. Now everything... Farewell. We will never meet again.<end>"
+
+["730094"]
+japanese = "セラがパーティーを去っていった。<end>"
+english = "Sera has left the party.<end>"
+
+["730095"]
+japanese = "ザギヴ…先輩…。<end>"
+english = "Zagiv...<end>"
+
+["730096"]
+japanese = "なぁに、シェスター？<end>"
+english = "What is it, Shester?<end>"
+
+["730097"]
+japanese = "私は…正しかったのでしょうか？<line-break>セラに…あまり…。<end>"
+english = "Did I do the right thing? With Sera... I wasn't very...<end>"
+
+["730098"]
+japanese = "シェスター、あなたのことは\u3000\u3000\u3000<line-break>あなたが決めるの。<line-break>\u3000<line-break>何が正しかったのかも、<line-break>あなたにしか決められないわ。<line-break>客観的な正解や運命は存在しない。<end>"
+english = "Shester, you must decide for yourself. Only you can decide what was right. There is no objectively right answer, and no such thing as fate.<end>"
+
+["730099"]
+japanese = "セラのことも、ね。<end>"
+english = "And that includes Sera.<end>"
+
+["730100"]
+japanese = "はい、先輩。<end>"
+english = "Yes.<end>"
+
+["730101"]
+japanese = "さようなら、シェスター。<end>"
+english = "Goodbye, Shester.<end>"
+
+["730102"]
+japanese = "くすっ。<line-break>ロイは…渡さない…。<end>"
+english = "Heh. I won't let you have Roy...<end>"
+
+["730103"]
+japanese = "逃がさないわ…\u3000\u3000\u3000\u3000\u3000\u3000<line-break>フフ…<line-break>\u3000<line-break>…そして…みんな…死ぬの。<end>"
+english = "I won't let you escape... Heh... And... everyone will die.<end>"
+
+["730104"]
+japanese = "…姉さん。<end>"
+english = "Sister...<end>"
+
+["730105"]
+japanese = "…これで…すべて…終わった。<end>"
+english = "Now... it's all over.<end>"
+
+["730106"]
+japanese = "さらばだ。<line-break>…もう…会うことはないだろう。<end>"
+english = "Farewell. I don't expect we'll ever meet again.<end>"
+
+["730107"]
+japanese = "（兄さん…）<end>"
+english = "(Brother...)<end>"
+
+["730108"]
+japanese = "これで…<line-break>永遠に…<line-break>あなたの…かたわらに…。<end>"
+english = "Now... I can be by your side... forever...<end>"
+
+["730109"]
+japanese = "どうして…！\u3000どうして<line-break>俺をこの戦いに加えなかった！？<line-break>どうして…姉さんを…殺した…！<end>"
+english = "Why?! Why didn't you let me join this battle?! Why did you... kill my sister?!<end>"
+
+["730110"]
+japanese = "…行け。<line-break>俺の旅は終わった。<line-break>…それだけのことだ。<end>"
+english = "Go. My journey is over. That's all there is to it.<end>"
+
+["730111"]
+japanese = "行け！<end>"
+english = "Go!<end>"
+
+["730112"]
+japanese = "…忘れ物だ。<end>"
+english = "You forgot something.<end>"
+
+["730113"]
+japanese = "…すまん。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>…さらばだ。<line-break>もう、会うまい…。<end>"
+english = "I'm sorry. Farewell... We will not meet again.<end>"
+
+["730114"]
+japanese = "セラがパーティーを去っていった。<end>"
+english = "Sera has left the party.<end>"
+
+["730115"]
+japanese = "ダメだわ。研究所中を捜したけど、\u3000<line-break>アンティノはいないし、<line-break>禁断の聖杯も見つからない。<line-break>アンティノはまだ、究極生物を<line-break>作ろうとしているのかもしれないわ。<line-break>放ってはおけないわね。<end>"
+english = "No luck. I searched the entire laboratory, but there's no sign of Antino or the Forbidden Grail. Antino may still be trying to create the Ultimate Life-Form. We can't leave this alone.<end>"
+
+["730116"]
+japanese = "それに、禁断の聖杯…。<line-break>ここまで追いかけて来たんですもの。<line-break>私たちの手で絶対に取り返さないとね。<end>"
+english = "And then there's the Forbidden Grail... We've come all this way after it. We have to take it back ourselves, no matter what.<end>"
+
+["730117"]
+japanese = "それに、禁断の聖杯…。私の旅は<line-break>聖杯探しから始まったんですもの。<line-break>私の手で決着をつけたいの。<end>"
+english = "And then there's the Forbidden Grail... My journey began with the search for the Grail. I want to see this through myself.<end>"
+
+["730118"]
+japanese = "ダメだね。研究所中を捜したけど、<line-break>禁断の聖杯もアンティノも<line-break>見つからないよ。<line-break>アンティノはまだ、究極生物を<line-break>作ろうとしているんだろうね。<line-break>放っておくと大変なことになるよ。<end>"
+english = "No luck. I searched the whole laboratory, but there's no sign of the Forbidden Grail or Antino. Antino is probably still trying to create the Ultimate Life-Form. If we leave this alone, something terrible could happen.<end>"
+
+["730119"]
+japanese = "ダメだよ、<value:$28>。<line-break>研究所中を捜したけど、禁断の聖杯も<line-break>アンティノも見つからないよ。<line-break>アンティノはまだ、究極生物を<line-break>作ろうとしているのかもしれないよ。<line-break>なんとかしないと。<end>"
+english = "No luck, <value:$28>. I searched the entire laboratory, but I couldn't find the Forbidden Grail or Antino. Antino may still be trying to create the Ultimate Life-Form. We have to do something.<end>"
+
+["730120"]
+japanese = "ちょっと、<value:$28>。<line-break>結局、この研究所のどこにも<line-break>禁断の聖杯なんてなくってよー！<line-break>それにあのアンティノとかいう<line-break>超下等動物も！\u3000あー、もうこれ以上<line-break>こんな所にいたくないわ。帰るのよー！<end>"
+english = "Hey, <value:$28>! So the Forbidden Grail isn't anywhere in this laboratory after all! And neither is that utterly inferior animal called Antino! Oh, I've had enough of this place. We're going home!<end>"
+
+["730121"]
+japanese = "<if><value:$01><equal>3ダメじゃ。研究所中を捜したが<line-break>禁断の聖杯もアンティノも<line-break>見つからんわい。<line-break>もしや、アンティノはまだ<line-break>究極生物を作ろうと…。<line-break>放ってはおけんな。 <end><if><value:$01><equal>4研究所中を捜してみたけど<line-break>禁断の聖杯もアンティノ様も<line-break>いないみたい。<line-break>アンティノ様ったら<line-break>まだ究極生物こしらえるつもりかも！<line-break>ちょっと執念深いかな！\u3000きゃっ！ <end><if><value:$01><equal>5ダメだぜ。研究所中を捜したけど<line-break>禁断の聖杯もアンティノも<line-break>見つからねぇ。<line-break>アンティノの奴<line-break>まだ究極生物を作るつもりかよ。<line-break>このままじゃ、まずいぜ。 <end><if><value:$01><equal>7ダメ。研究所中を捜したけど\u3000<line-break>禁断の聖杯もアンティノも<line-break>見つからないわ。<line-break>アンティノはまだ、究極生物を<line-break>作ろうとしているみたいね。<line-break>なんとかしないと。 <end><if><value:$01><equal>8ダメですね。研究所中を捜しましたが<line-break>禁断の聖杯もアンティノも<line-break>見つかりません。<line-break>アンティノはまだ、究極生物を<line-break>作るつもりなのかもしれません。<line-break>なんとか、やめさせなければ。 <end><if><value:$01><equal>9こりゃ、ダメだわ、見つかんない。\u3000<line-break>研究所中を捜したけどさ、<line-break>禁断の聖杯もアンティノもダメ。<line-break>アンティノの奴、性懲りもなく<line-break>まだ究極生物作るつもりみたいだね。<line-break>放っとくと面倒そうじゃん。 <end><if><value:$01><equal>11ダメだわ。研究所中をくまなく\u3000\u3000\u3000\u3000<line-break>捜してみたけど、禁断の聖杯も<line-break>アンティノも見つからないわ。<line-break>もしかすると、アンティノはまだ<line-break>究極生物を作ろうとしている…？<line-break>野放しにはできないわ。 <end><if><value:$01><equal>12まずいな。研究所中を捜してみたが、<line-break>禁断の聖杯もアンティノも<line-break>見つからない。<line-break>アンティノはまだ、究極生物を<line-break>作ろうとしているのか…。<line-break>いい執念してるぜ。 <end><if><value:$01><equal>10ダメだぜ、姉ちゃん。<line-break>研究所中を捜しまわったけど、<line-break>聖杯もアンティノも見つからない。<line-break>アンティノの奴、まだ<line-break>究極生物を作ろうってのかよ。<line-break>放っとくとまずいんじゃないか？ <end><if><value:$01><equal>14ダメじゃ。研究所中を<line-break>捜してみたが、禁断の聖杯も<line-break>アンティノも見つからんわい。\u3000<line-break>アンティノはまだ、究極生物を<line-break>作ろうとしておるのかもしれん。<line-break>野放しにはできんな。 <end><if><value:$01><equal>15ダメだよ。研究所中を捜してみたけど\u3000<line-break>禁断の聖杯もアンティノも<line-break>見つからないよ。<line-break>もしかすると、アンティノはまだ<line-break>究極生物を作ろうとしているのかも…。<line-break>なんとかしないと。 <end><if><value:$01><equal>16研究所中を捜してみたが<line-break>禁断の聖杯もアンティノも<line-break>見つからん。<line-break>このまま野放しには<line-break>できんな。 <end><if><value:$01><equal>19ダメだよ、<value:$28>。<line-break>研究所中を捜したけど、禁断の聖杯も<line-break>アンティノも見つからないよぉ。<line-break>アンティノはまだ、究極生物を<line-break>作るつもりかもしれないよぉ。<line-break>なんとか、やめさせないと。 <end><if><value:$01><equal>20禁断の聖杯もアンティノも<line-break>見当たらぬ。<line-break>\u3000<line-break>…逃げられたな。 <end><if><value:$01><equal>21ダメだな。研究所中を捜したが<line-break>禁断の聖杯もアンティノも見つからん。<line-break>\u3000<line-break>アンティノはまだ究極生物を<line-break>作ろうとしているのかもしれん。<line-break>野放しにはできんな。 <end><if><value:$01><equal>23禁断の聖杯もアンティノも<line-break>見当たらない…<line-break>逃げられたか。<line-break>しかし、アンティノはまだ<line-break>究極生物を作ろうとしているのか？<line-break>野放しにはできないな<end><if><value:$01><equal>27研究所中を探しても、禁断の聖杯も<line-break>アンティノも見つからない。<line-break> <line-break>アンティノはまだ、究極生物を<line-break>作ろうとしているのか？<line-break>なんとかしないと。 <end><if><value:$01><equal>26ダメじゃ。研究所中を捜したが<line-break>禁断の聖杯もアンティノも<line-break>見つからん。<line-break>もしや、アンティノはまだ<line-break>究極生物を作ろうと…。<line-break>なんとかせねばな。 <end><if><value:$01><equal>24ダメです。研究所中を探しましたが、<line-break>禁断の聖杯もアンティノも<line-break>見当たりません…<line-break>もしや、アンティノはまだ<line-break>究極生物を作ろうと…<line-break>なんとかしないと。<end><if><value:$01><equal>25研究所中を捜したけど、禁断の聖杯も<line-break>アンティノも見つからないよ。<line-break> <line-break>アンティノはまだ、究極生物を<line-break>作るつもりかもしれないよ。<line-break>やめさせないと。 <end><if><value:$01><equal>192研究所を探しましたが<line-break>手掛かりとなるものは見つかりません。<line-break>\u3000<line-break>別の場所に移動したのでしょう。<end><if><value:$01><equal>193<value:$28>さん…。<line-break>研究所中を探しましたけど、<line-break>聖杯もアンティノさんも行方不明です。<line-break>アンティノさんはまだ、<line-break>究極生物を作るつもりでしょうか？<line-break>早くやめさせないと！<end><if><value:$01><equal>194アンティノは聖杯を持って<line-break>逃亡したあとだったよ。<line-break>\u3000<line-break>まだ究極生物を作るつもりらしいね。<line-break>執念深い男だ。<end><if><value:$01><equal>191ダメ。<line-break>アンティノも禁断の聖杯も<line-break>見つからないわ。<line-break>たぶんまた<line-break>究極生物を作ろうとしてるのよ。<line-break>早く見つけないと！<end><if><value:$01><equal>190研究所中を探したが、<line-break>アンティノも聖杯も見つからない。<line-break>まだ究極生物を諦めてないのか？<end>ダメだよ、<value:$28>。<line-break>研究所中を捜したけど、禁断の聖杯も<line-break>アンティノも見つからないよ。<line-break>アンティノはまだ、究極生物を<line-break>作ろうとしているのかもしれない。<line-break>なんとかしないとね。 <end>"
+english = "<if><value:$01><equal>3No luck. I searched the entire laboratory, but found neither the Forbidden Grail nor Antino. Could Antino still be trying to create the Ultimate Life-Form...? We cannot leave this be.<end><if><value:$01><equal>4I searched the whole laboratory, but it looks like neither the Forbidden Grail nor Master Antino is here. Don't tell me Master Antino still means to whip up an Ultimate Life-Form! Rather obsessive, don't you think? Eek!<end><if><value:$01><equal>5No good. I searched the whole laboratory, but there's no sign of the Forbidden Grail or Antino. Is Antino still planning to create the Ultimate Life-Form? This is bad.<end><if><value:$01><equal>7No luck. I searched the entire laboratory, but I couldn't find the Forbidden Grail or Antino. It looks like Antino is still trying to create the Ultimate Life-Form. We have to do something.<end><if><value:$01><equal>8No luck. I searched the entire laboratory, but found neither the Forbidden Grail nor Antino. Antino may still intend to create the Ultimate Life-Form. We must find some way to stop Antino.<end><if><value:$01><equal>9Well, this is no good. Can't find a thing. I searched the whole laboratory, but no Forbidden Grail and no Antino. Looks like Antino still hasn't learned and means to create the Ultimate Life-Form. If we leave this alone, it'll be a real pain.<end><if><value:$01><equal>11No luck. I searched every inch of the laboratory, but found neither the Forbidden Grail nor Antino. Could Antino still be trying to create the Ultimate Life-Form...? We can't leave Antino at large.<end><if><value:$01><equal>12This is bad. I searched the entire laboratory, but found neither the Forbidden Grail nor Antino. Is Antino still trying to create the Ultimate Life-Form...? Talk about persistence.<end><if><value:$01><equal>10No luck, lady. I searched all over the laboratory, but couldn't find the Grail or Antino. Is Antino still trying to create the Ultimate Life-Form? Wouldn't it be dangerous to leave this alone?<end><if><value:$01><equal>14No luck. I searched the whole laboratory, but found neither the Forbidden Grail nor Antino. Antino may still be trying to create the Ultimate Life-Form. We cannot leave Antino at large.<end><if><value:$01><equal>15No luck. I searched the whole laboratory, but couldn't find the Forbidden Grail or Antino. Maybe Antino is still trying to create the Ultimate Life-Form... We have to do something.<end><if><value:$01><equal>16I searched the entire laboratory, but found neither the Forbidden Grail nor Antino. We cannot allow Antino to remain at large.<end><if><value:$01><equal>19No luck, <value:$28>. I searched the whole laboratory, but I just couldn't find the Forbidden Grail or Antino. Antino might still be planning to create the Ultimate Life-Form. We have to find some way to stop Antino.<end><if><value:$01><equal>20No sign of the Forbidden Grail or Antino. Looks like Antino got away...<end><if><value:$01><equal>21No luck. I searched the entire laboratory, but found neither the Forbidden Grail nor Antino. Antino may still be trying to create the Ultimate Life-Form. We cannot leave Antino at large.<end><if><value:$01><equal>23No sign of the Forbidden Grail or Antino... Did Antino get away? But is Antino still trying to create the Ultimate Life-Form? We can't leave Antino at large.<end><if><value:$01><equal>27Even after searching the entire laboratory, I couldn't find the Forbidden Grail or Antino. Is Antino still trying to create the Ultimate Life-Form? We have to do something.<end><if><value:$01><equal>26No luck. I searched the entire laboratory, but found neither the Forbidden Grail nor Antino. Could Antino still be trying to create the Ultimate Life-Form...? We must do something.<end><if><value:$01><equal>24No luck. I searched the entire laboratory, but found neither the Forbidden Grail nor Antino... Could Antino still be trying to create the Ultimate Life-Form...? We have to do something.<end><if><value:$01><equal>25I searched the entire laboratory, but couldn't find the Forbidden Grail or Antino. Antino may still intend to create the Ultimate Life-Form. We have to put a stop to it.<end><if><value:$01><equal>192A search of the laboratory turned up no clues. Our quarry must have moved elsewhere.<end><if><value:$01><equal>193<value:$28>... I searched the whole laboratory, but both the Grail and Antino are missing. Do you think Antino still intends to create the Ultimate Life-Form? We have to stop Antino, and quickly!<end><if><value:$01><equal>194Antino had already fled with the Grail. Apparently, Antino still intends to create the Ultimate Life-Form. Antino is one persistent man.<end><if><value:$01><equal>191No luck. I couldn't find Antino or the Forbidden Grail. Antino is probably trying to create the Ultimate Life-Form again. We have to find Antino quickly!<end><if><value:$01><equal>190I searched the whole laboratory, but found neither Antino nor the Grail. Hasn't Antino given up on the Ultimate Life-Form yet?<end>No luck, <value:$28>. I searched the entire laboratory, but couldn't find the Forbidden Grail or Antino. Antino may still be trying to create the Ultimate Life-Form. We'll have to do something.<end>"
+
+["730122"]
+japanese = "秘密研究所には<line-break>アンティノ・マモンの姿はなかった。<line-break>そして、禁断の聖杯も…。<end>"
+english = "There was no sign of Antino Mamon in the secret laboratory. Nor was there any sign of the Forbidden Grail...<end>"
+
+["730123"]
+japanese = "予備メッセージ１<line-break>アーギルシャイア、ボリューム３<end>"
+english = ""
+
+["730124"]
+japanese = "予備メッセージ２<line-break>アーギルシャイア、ボリューム３<end>"
+english = ""
+
+["730125"]
+japanese = "予備メッセージ３<line-break>アーギルシャイア、ボリューム３<end>"
+english = ""
+
+["730126"]
+japanese = "予備メッセージ４<line-break>アーギルシャイア、ボリューム３<end>"
+english = ""
+
+["730127"]
+japanese = "予備メッセージ５<line-break>アーギルシャイア、ボリューム３<end>"
+english = ""
+
+["730128"]
+japanese = "予備メッセージ６<line-break>アーギルシャイア、ボリューム３<end>"
+english = ""
+
+["730129"]
+japanese = "予備メッセージ７<line-break>アーギルシャイア、ボリューム３<end>"
+english = ""
+
+["730130"]
+japanese = "予備メッセージ８<line-break>アーギルシャイア、ボリューム３<end>"
+english = ""
+
+["730131"]
+japanese = "予備メッセージ９<line-break>アーギルシャイア、ボリューム３<end>"
+english = ""
+
+["730132"]
+japanese = "予備メッセージ１０<line-break>アーギルシャイア、ボリューム３<end>"
+english = ""
+
+["730133"]
+japanese = "アーギルシャイアメッセージvol3終端<end>"
+english = ""

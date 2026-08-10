@@ -1,0 +1,133 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+1 = { source = "ソード", text = "Sword" }
+2 = { source = "グレートソード", text = "Greatsword" }
+3 = { source = "スピア", text = "Spear" }
+4 = { source = "アックス", text = "Axe" }
+5 = { source = "ショートソード", text = "Short Sword" }
+6 = { source = "ボウ", text = "Bow" }
+7 = { source = "ナックル", text = "Knuckle" }
+8 = { source = "シールド", text = "Shield" }
+9 = { source = "クロース", text = "Cloth" }
+10 = { source = "ブレストプレート", text = "Breastplate" }
+11 = { source = "ボディアーマー", text = "Body Armor" }
+12 = { source = "プレートアーマー", text = "Plate Armor" }
+13 = { source = "素手", text = "Unarmed" }
+14 = { source = "月光", text = "Moonlight" }
+15 = { source = "剛刃", text = "Mighty Blade" }
+16 = { source = "浄化の月杖", text = "Moonpurge Staff" }
+17 = { source = "閃刃", text = "Flash Blade" }
+18 = { source = "デスサイズ", text = "Death Scythe" }
+19 = { source = "日光", text = "Sunlight" }
+20 = { source = "七竜剣", text = "7-Dragon Sword" }
+21 = { source = "破滅の槍", text = "Spear of Ruin" }
+22 = { source = "マジカルステッキ", text = "Magical Wand" }
+23 = { source = "カフジエル", text = "Kafziel" }
+24 = { source = "アフ", text = "Afu" }
+25 = { source = "緋炎の宝剣", text = "Crimson Flame" }
+26 = { source = "ロッチナ", text = "Rotchina" }
+27 = { source = "蒼流の聖槍", text = "Azureflow Spear" }
+28 = { source = "斬岩の霊斧", text = "Rockcleaver Axe" }
+29 = { source = "疾風の魔弓", text = "Gale Magic Bow" }
+30 = { source = "バトルブレード", text = "Battle Blade" }
+31 = { source = "破邪の剣", text = "Evil-Bane Sword" }
+32 = { source = "ジンガハンマー", text = "Jinga Hammer" }
+33 = { source = "いばらの杖", text = "Thorn Staff" }
+34 = { source = "神罰の鎚", text = "Judgment Hammer" }
+35 = { source = "アルヒェ", text = "Alhie" }
+36 = { source = "ソルベンジュ", text = "Solvenge" }
+37 = { source = "メテオフィスト", text = "Meteor Fist" }
+38 = { source = "封魔の槍", text = "Spellseal Spear" }
+39 = { source = "ストラスエッジ", text = "Stra's Edge" }
+40 = { source = "賢者のローブ", text = "Sage's Robe" }
+41 = { source = "青の魔鎧", text = "Blue Magic Armor" }
+42 = { source = "黒のビスチェ", text = "Black Bustier" }
+43 = { source = "ネメアの鎧", text = "Nemea's Armor" }
+44 = { source = "白のローブ", text = "White Robe" }
+45 = { source = "派手な服", text = "Flashy Clothes" }
+46 = { source = "エルフマント", text = "Elf Mantle" }
+47 = { source = "ヘヴンバインド", text = "Heaven Bind" }
+48 = { source = "革の鎧", text = "Leather Armor" }
+49 = { source = "貴族の外套", text = "Noble's Mantle" }
+50 = { source = "奴隷呪縛衣", text = "Slavebind Garb" }
+51 = { source = "ライジングサン", text = "Rising Sun" }
+52 = { source = "樫の棒杖", text = "Oak Staff" }
+53 = { source = "マジックヴォルト", text = "Magic Volt" }
+54 = { source = "魔炎弾", text = "Demonflame Shot" }
+55 = { source = "ランカ", text = "Ranka" }
+56 = { source = "ランバーアクス", text = "Lumber Axe" }
+57 = { source = "竜破", text = "Dragon Breaker" }
+58 = { source = "ウィンドミル", text = "Windmill" }
+59 = { source = "閃光の弓", text = "Flash Bow" }
+60 = { source = "アルトロン", text = "Artron" }
+61 = { source = "剛刃", text = "Mighty Blade" }
+62 = { source = "閃刃", text = "Flash Blade" }
+63 = { source = "エメルの弓", text = "Emel's Bow" }
+64 = { source = "火柱の指輪", text = "Flamepillar Ring" }
+65 = { source = "流水の指輪", text = "Flowwater Ring" }
+66 = { source = "沃土の指輪", text = "Rich Earth Ring" }
+67 = { source = "涼風の指輪", text = "Cool Breeze Ring" }
+68 = { source = "清浄の指輪", text = "Ring of Purity" }
+69 = { source = "漆黒の指輪", text = "Jet-Black Ring" }
+70 = { source = "煉獄の腕輪", text = "Purgatory Bangle" }
+71 = { source = "流氷の腕輪", text = "Drift Ice Bangle" }
+72 = { source = "大地の腕輪", text = "Earth Bracelet" }
+73 = { source = "旋風の腕輪", text = "Whirlwind Band" }
+74 = { source = "清廉の腕輪", text = "Integrity Bangle" }
+75 = { source = "無常の腕輪", text = "Transient Band" }
+76 = { source = "闘士の心得", text = "Fighter's Manual" }
+77 = { source = "必勝のお守り", text = "Victory Charm" }
+78 = { source = "盗人奥義", text = "Thief's Secrets" }
+79 = { source = "豪腕の首飾り", text = "Power Necklace" }
+80 = { source = "体力の首飾り", text = "Vigor Necklace" }
+81 = { source = "知恵の首飾り", text = "Wisdom Necklace" }
+82 = { source = "精神の首飾り", text = "Spirit Necklace" }
+83 = { source = "敏速の首飾り", text = "Swift Necklace" }
+84 = { source = "技巧の首飾り", text = "Skill Necklace" }
+85 = { source = "朝日のお守り", text = "Sunrise Charm" }
+86 = { source = "柔軟のお守り", text = "Flexible Charm" }
+87 = { source = "砕石のお守り", text = "Stonebreak Charm" }
+88 = { source = "光明のお守り", text = "Radiance Charm" }
+89 = { source = "不惑のお守り", text = "Clarity Charm" }
+90 = { source = "覚醒のお守り", text = "Awakening Charm" }
+91 = { source = "解毒のお守り", text = "Antidote Charm" }
+92 = { source = "饒舌のお守り", text = "Eloquence Charm" }
+93 = { source = "祝福のお守り", text = "Blessing Charm" }
+94 = { source = "健脚のお守り", text = "Fleetfoot Charm" }
+95 = { source = "灯火のお守り", text = "Lamplight Charm" }
+96 = { source = "城塞の宝玉", text = "Fortress Orb" }
+97 = { source = "神秘の宝玉", text = "Mystic Orb" }
+98 = { source = "大空の羽飾り", text = "Open Sky Plume" }
+99 = { source = "ゴーレムの腕輪", text = "Golem Bracelet" }
+100 = { source = "水鳥の羽飾り", text = "Waterfowl Plume" }
+101 = { source = "火蜥蜴の腕輪", text = "Salamander Band" }
+102 = { source = "戦神の腕輪", text = "War God's Bangle" }
+103 = { source = "智神の指輪", text = "Wisdom God Ring" }
+104 = { source = "運命神のピアス", text = "Fate God's Stud" }
+105 = { source = "天空神の魔除け", text = "Sky God's Ward" }
+106 = { source = "精霊母神の護符", text = "Tira's Amulet" }
+107 = { source = "パワフルコイン", text = "Powerful Coin" }
+108 = { source = "ミスティコイン", text = "Misty Coin" }
+109 = { source = "魔道の指輪", text = "Sorcery Ring" }
+110 = { source = "マノンタリスマン", text = "Manon Talisman" }
+111 = { source = "普通のフライパン", text = "Plain Frying Pan" }
+112 = { source = "伝説のフライパン", text = "Legendary Frypan" }
+113 = { source = "炎呪の手袋", text = "Firecurse Gloves" }
+114 = { source = "形見の剣", text = "Keepsake Sword" }
+115 = { source = "魂狩の刃", text = "Soulhunter Blade" }
+116 = { source = "クルセウス", text = "Cruseus" }
+117 = { source = "ソリアスの戦斧", text = "Solias' War Axe" }
+118 = { source = "水鏡のグローブ", text = "Watermirror Fist" }
+119 = { source = "狂戦士の拳器", text = "Berserker Fist" }
+120 = { source = "ナックルダスター", text = "Knuckle Duster" }
+121 = { source = "グランダガー", text = "Grand Dagger" }
+122 = { source = "大地の衣", text = "Earth Garb" }
+123 = { source = "自作の槍", text = "Makeshift Spear" }
+124 = { source = "深淵の鎚", text = "Abyssal Hammer" }
+125 = { source = "烈怒の槍", text = "Wrath Spear" }
+126 = { source = "バイアスのローブ", text = "Bias's Robe" }
+127 = { source = "シルフィード", text = "Sylphid" }
+128 = { source = "グランディア", text = "Grandia" }
+129 = { source = "烈破の炎弓", text = "Furyflame Bow" }
+130 = { source = "毛髪のローブ", text = "Hairweave Robe" }
+131 = { source = "エプロンドレス", text = "Apron Dress" }
+132 = { source = "火の巫女装束", text = "Fire Maiden Garb" }

@@ -1,0 +1,389 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["800000"]
+japanese = "フゴー、Vol１用メッセージ開始<end>"
+english = ""
+
+["800001"]
+japanese = "ふぉふぉふぉ、<line-break>妻に話しかけるんなら<line-break>わしにも話しかけてほしいのぉ。<line-break>昔っから、よく、<line-break>夫婦は一心同体というからのぉ。<end>"
+english = "Ho ho ho! If you're going to talk to my wife, I'd like you to talk to me too. As the old saying goes, husband and wife are one in body and soul.<end>"
+
+["800002"]
+japanese = "ほーっほっほっ、<line-break>そーですわねー。<end>"
+english = "Ohohoho! Quite so.<end>"
+
+["800003"]
+japanese = "<select><value:$20>%3わしの祖先は、<line-break>ストラ＝フゴーと言ってのぉ。<line-break>えらい義賊だったそうじゃのぉ。<line-break>名誉なことじゃのぉ。<line-break>でも、わしは気にせんぞぉ。<end>冒険者ギルドの基礎は、<line-break>ストラ＝フゴーが作ったそうじゃのぉ。<line-break>えらい人じゃのぉ。<end>ストラ＝フゴー愛用の<line-break>短剣がどこかに<line-break>あるそうじゃのぉ。<line-break>どこにあるのかのぉ。<end>"
+english = "<select><value:$20>%3My ancestor was named Strahugo, you know. They say he was a renowned noble thief. Quite an honor, isn't it? Not that I care.<end>They say Strahugo laid the foundations of the Adventurers' Guild. A great man, he was.<end>They say Strahugo's favorite dagger is somewhere out there. I wonder where it could be.<end>"
+
+["800004"]
+japanese = "ほーっほっほっ、<line-break>そーですわねー。<end>"
+english = "Ho-ho-ho! Yes, quite so.<end>"
+
+["800005"]
+japanese = "ここはフゴー様のお屋敷です。<end>"
+english = "This is Master Hugo's estate.<end>"
+
+["800006"]
+japanese = "あ、ああ、あなたは、あの有名な<line-break><value:$2B>の<value:$28>！<line-break>どうぞ、お通りください。<end>"
+english = "Y-you're <value:$28>, the famous <value:$2B>! Please, go right in.<end>"
+
+["800007"]
+japanese = "あなたのような無名の方を<line-break>通すわけにはまいりません。<line-break>どうぞお引き取りください。<end>"
+english = "I cannot allow someone as little-known as you to enter. Please be on your way.<end>"
+
+["800008"]
+japanese = "どんな意味のなさそうな言葉にも<line-break>言霊の力があり、<line-break>その力は意外な所で実を結ぶもの…。\u3000<line-break>私の言葉を聞きなさい…。<end>"
+english = "Even the most seemingly meaningless words carry spiritual power, and that power may bear fruit in unexpected places. Heed my words...<end>"
+
+["800009"]
+japanese = "…大いなる静寂が迫っているわ。<line-break>急いで時を進めないと<line-break>すべてが静寂に飲み込まれてしまう…。<end>"
+english = "The Great Silence draws near. Unless you hurry and advance time, the silence will swallow everything...<end>"
+
+["800010"]
+japanese = "日と月の運行は腕輪に影響を及ぼす…。<line-break>次に金環食が起こるのは<line-break>１２０７年８月２３日よ…。<end>"
+english = "The courses of the sun and moon affect the bracelet. The next annular eclipse will occur on August 23, 1207...<end>"
+
+["800011"]
+japanese = "日と月の運行は腕輪に影響を及ぼす…。<line-break>次に金環食が起こるのは<line-break>１２０５年４月２５日よ…。<end>"
+english = "The courses of the sun and moon affect the bracelet. The next annular eclipse will occur on April 25, 1205...<end>"
+
+["800012"]
+japanese = "日と月の運行は腕輪に影響を及ぼす…。<line-break>次に金環食が起こるのは<line-break>１２０４年１月２日よ…。<end>"
+english = "The courses of the sun and moon affect the bracelet. The next annular eclipse will occur on January 2, 1204...<end>"
+
+["800013"]
+japanese = "日と月の運行は腕輪に影響を及ぼす…。<line-break>次に金環食が起こるのは<line-break>１２０２年１０月１８日よ…。<end>"
+english = "The courses of the sun and moon affect the bracelet. The next annular eclipse will occur on October 18, 1202...<end>"
+
+["800014"]
+japanese = "<if><value:$01><equal>3金環食が始まったぞ。<line-break>終わるまで、Ｘ分と言うところか…。<end><if><value:$01><equal>4わぁ、金環食が始まったみたい。<line-break>終わるまで、あと、えーと、<line-break>Ｘ分ってとこかな。<end><if><value:$01><equal>5へっ、金環食だ。<line-break>ナイーブな奴がビックリした！<line-break>敏感ショーック！\u3000ってな。ププッ。<line-break>今日も俺はさえてるぜ！<line-break>あと、Ｘ分ってとこだな。<line-break>おい、聞いてるか？<end><if><value:$01><equal>8金環食です。<line-break>あとＸ分続きます。<line-break>でも、うーん、どうなんでしょうねえ？<line-break>ま、いいでしょう。<line-break>何事も勉強ですから。<end><if><value:$01><equal>12美しい…。<line-break>金環食だぜ。<line-break>あとＸ分ってとこだな。<end><if><value:$01><equal>13…金環食だ。<line-break>あとＸ分か。<end><if><value:$01><equal>10姉ちゃん、金環食だ。<line-break>ウヒョー！<line-break>きれいだよなー。<line-break>…あ、そうそう、<line-break>あとＸ分だぜ。<line-break>姉ちゃん。<end><if><value:$01><equal>14見てみい。<line-break>金環食じゃ。<line-break>あとＸ分続くぞ。<end><if><value:$01><equal>15あ、ねえ、<value:$28>、<line-break>金環食が始まったみたいだ。<line-break>Ｘ分続くんだったよね、これ。<end><if><value:$01><equal>16金環食だ。<line-break>あとＸ分だな。<line-break>行くぞ。<end><if><value:$01><equal>17あ、あれ、あれが、金環食よ！<line-break>きれい…。<line-break>\u3000<line-break>１６００年も生きてて、<line-break>何百回とあったはずなのに…。<line-break>ちゃんと見たの、初めて…。<end><if><value:$01><equal>18兄弟子、金環食ですぞ！<line-break>なんかイイ感触ですな！<line-break>………………。<line-break>いまいちであったか…。<line-break>ああ、それそれ、<line-break>あとＸ分ですぞ、兄弟子！<end><if><value:$01><equal>19ああーっ、金環食だよぉ！<line-break>ルルアンタ、はじめて！<line-break>きっれーい。<line-break>これがあとＸ分で<line-break>終わっちゃうのかぁ。<line-break>もったいないなぁー。<end><if><value:$01><equal>20…金環食だ。<line-break>\u3000<line-break>\u3000<line-break>…あとＸ分で終わる。<line-break>花も何もかも、<line-break>美しい者は…一瞬だ。<end><if><value:$01><equal>22きれいだあー。<line-break>金環食…。<line-break>あと、Ｘ分で終わっちゃうけどね。<end>金環食が始まったわ。<line-break>終わるまで、ざっとＸ分ってとこね。<end>"
+english = "<if><value:$01><equal>3The annular eclipse has begun. I'd say there are about Ｘ minutes until it ends...<end><if><value:$01><equal>4Wow, looks like the annular eclipse has started. Let's see... I guess there are about Ｘ minutes left.<end><if><value:$01><equal>5Heh, an annular eclipse. Some sensitive guy got a shock! Sensitivity shooock! Heh heh. I'm sharp as ever today! About Ｘ minutes left. Hey, are you listening?<end><if><value:$01><equal>8It's an annular eclipse. It will last another Ｘ minutes. Although, hmm... what are we to make of that? Well, never mind. Everything is a learning experience.<end><if><value:$01><equal>12Beautiful... An annular eclipse. About Ｘ minutes left.<end><if><value:$01><equal>13An annular eclipse... Ｘ minutes left.<end><if><value:$01><equal>10Sis, it's an annular eclipse. Woo-hoo! Pretty, isn't it? Oh, right, there are Ｘ minutes left. Sis.<end><if><value:$01><equal>14Take a look. It's an annular eclipse. It'll last another Ｘ minutes.<end><if><value:$01><equal>15Oh, hey, <value:$28>. Looks like the annular eclipse has started. This lasts Ｘ minutes, right?<end><if><value:$01><equal>16It's an annular eclipse. Ｘ minutes left. Let's go.<end><if><value:$01><equal>17Oh! That... that's the annular eclipse! It's beautiful... I've lived for sixteen hundred years, and there must have been hundreds of them, but this is the first time I've ever actually watched one...<end><if><value:$01><equal>18Senior disciple, it's an annular eclipse! You might say it has a fine ring to it! ...Not one of my better efforts, perhaps. Oh, yes, there are Ｘ minutes left, senior disciple!<end><if><value:$01><equal>19Ahhh, it's an annular eclipse! Lulluantha's never seen one before! So pretty! And it'll all be over in Ｘ minutes? What a waste!<end><if><value:$01><equal>20An annular eclipse... It will end in Ｘ minutes. Flowers, everything beautiful... all last but a moment.<end><if><value:$01><equal>22So pretty... An annular eclipse. It'll be over in Ｘ minutes, though.<end>The annular eclipse has begun. Roughly Ｘ minutes until it ends.<end>"
+
+["800015"]
+japanese = "ちょうど金環食が始まった。<line-break>あと、Ｘ分以内に、開かずの扉に<line-break>たどり着かないといけない。<line-break>…だけど、これはシャロームの罠だよ。<line-break>ボクの巫女の知識が<line-break>そう教えてくれている。<end>"
+english = "The annular eclipse has just begun. We have to reach the door that never opens within Ｘ minutes. But this is a trap set by Shalom. My knowledge as a priestess tells me so.<end>"
+
+["800016"]
+japanese = "そのことをよく考えてね。<line-break>自分を封じているマノンを<line-break>キミに始末させようとしているんだ。<end>"
+english = "Think carefully about that. Shalom wants you to dispose of Manon, who is keeping him sealed away.<end>"
+
+["800017"]
+japanese = "ちょうど金環食が始まった。<line-break>あと、Ｘ分以内に、開かずの扉に<line-break>たどり着かないといけない。<line-break>だけど、たどり着いてもムダだよ。<line-break>キミには、まだ、<line-break>扉を開けるソウル的な資格がない。<end>"
+english = "The annular eclipse has just begun. We have to reach the door that never opens within Ｘ minutes. But even if we get there, it won't do any good. Your Soul does not yet qualify you to open the door.<end>"
+
+["800018"]
+japanese = "さぁーて、金環食が始まったぞ。<line-break>あと、ざっとみて<line-break>Ｘ分ってとこかな。<end>"
+english = "Well, the annular eclipse has begun. I'd say there are roughly Ｘ minutes left.<end>"
+
+["800019"]
+japanese = "（金環食が始まる…。<line-break>\u3000あとＸ分で終わりそうだ。）<end>"
+english = "(The annular eclipse is beginning... It looks like it will end in Ｘ minutes.)<end>"
+
+["800020"]
+japanese = "はぁっ！？\u3000なに？\u3000どうして？\u3000\u3000\u3000<line-break>あああ、ソウルが…ソウルが…<line-break>ソウルが共鳴する…。<line-break>ああ、私の力が弱まる金環食の時に<line-break>アガスティアとブラックバイパーの<line-break>ソウルを持つ者が…ここに来るなんて！<end>"
+english = "What!? What is this? Why? Ahhh, the Souls... the Souls are resonating... Of all times, during the annular eclipse, when my power is weakened... someone bearing the Souls of Agastia and Black Viper has come here!<end>"
+
+["800021"]
+japanese = "しかも、それが…私と同じ…<line-break>無限のソウルを持つ者だなんて…！\u3000\u3000<line-break>ソウルが共鳴して…！\u3000はうぅっ！<end>"
+english = "And on top of that... a Bearer of the Infinite Soul, just like me...! The Souls are resonating... Ahh!<end>"
+
+["800022"]
+japanese = "いやあっ！<line-break>…扉が、開くぅ！<end>"
+english = "No! The door... it's opening!<end>"
+
+["800023"]
+japanese = "いやあっ！<line-break>ソウルが共鳴して…<line-break>入って…きちゃう！<end>"
+english = "No! The Souls are resonating... You're... getting in!<end>"
+
+["800024"]
+japanese = "シャロームの手の者…かしら？<line-break>ムダよ。<line-break>その扉は開かないわ。<line-break>金環食の間、いくら力が弱まっても<line-break>あなたにその扉を抜けられるほど<line-break>弱くはならないの。<end>"
+english = "An agent of Shalom, perhaps? It's useless. That door will not open. However weak I grow during the annular eclipse, I will never become weak enough for you to pass through it.<end>"
+
+["800025"]
+japanese = "導精魔道マノンをなめないで。<line-break>殺されたくなければ<line-break>おとなしく引き上げるのね。<end>"
+english = "Do not underestimate Manon, the Spirit-Guiding Mage. If you don't want to die, turn around and leave quietly.<end>"
+
+["800026"]
+japanese = "…シャロームの手の者？<line-break>それとも、好奇心に脳が冒された\u3000\u3000\u3000\u3000\u3000<line-break>冒険者…かしら…？<line-break>私は導精魔道マノン…<line-break>ソウル永続維持のため腕輪から失礼するわ。<line-break>愚かなる侵入者さん？<end>"
+english = "An agent of Shalom...? Or merely an adventurer whose brain has been consumed by curiosity? I am Manon, the Spirit-Guiding Mage. Forgive me for addressing you from within the bracelet; it is necessary to preserve my Soul indefinitely. Well, foolish intruder?<end>"
+
+["800027"]
+japanese = "あなた、私のこのソウルが<line-break>目当てみたいだけど、<line-break>そうはいかない…消えてもらうわ…。\u3000\u3000\u3000<line-break>私の力が弱まっている上に<line-break>ソウルの共鳴事故で力がほとんど出ないの。<line-break>手加減してあげられないから、死んで？<end>"
+english = "It seems you're after this Soul of mine, but you won't have it. I'll make you disappear... My power is already weakened, and an accident in the Soul resonance has left me almost powerless. I can't afford to go easy on you, so would you kindly die?<end>"
+
+["800028"]
+japanese = "そんな…！<line-break>これで…シャロームが…！\u3000ああ…！<line-break>数百年の…私の孤独はなんだった…の…？<end>"
+english = "No...! Now Shalom will...! Ah... What was the point of all those centuries... all that loneliness...?<end>"
+
+["800029"]
+japanese = "よくやった。<line-break>無限のソウルを持つ者よ。<line-break>さあ、来たれ…！<end>"
+english = "You have done well, Bearer of the Infinite Soul. Now, come forth...!<end>"
+
+["800030"]
+japanese = "よくやった、<line-break>これで英雄ソウル、マノンを<line-break>手に入れられよう。<end>"
+english = "Well done. Now you may claim Manon, the Hero Soul.<end>"
+
+["800031"]
+japanese = "<value:$28>は<line-break>英雄ソウル、マノンを修得した。<end>"
+english = "<value:$28> acquired Manon, a Hero Soul.<end>"
+
+["800032"]
+japanese = "これで、汝は強大なる源羅の力を得た。<line-break>…いよいよの活躍、期待しているぞ。<line-break>人類の革新のために、な…。<end>"
+english = "Now you possess the mighty power of Genra. I look forward to seeing what you accomplish―for the advancement of humanity...<end>"
+
+["800033"]
+japanese = "エンシャントの廃城で<line-break>暴れておるレムゲドンの亡霊も<line-break>源羅の力でしか倒せぬ。<line-break>行け。そして奴を倒し<line-break>己が得た力に恍惚となるとよい。<line-break>力こそが超人類への道ゆえ、な…<end>"
+english = "Even the ghost of Remgedon, rampaging through Ancient's Ruined Castle, can be defeated only with the power of Genra. Go. Slay it, and revel in the power you have gained. For power alone is the path to superhumanity...<end>"
+
+["800034"]
+japanese = "あ～っ！<line-break>お客さんだよ！<end>"
+english = "Ah! A customer!<end>"
+
+["800035"]
+japanese = "ああ、このリルビーか。<line-break>ベテランの冒険者だよ。<line-break>名前はクリスピー…。<end>"
+english = "Oh, this lilbie? He's a veteran adventurer. His name's Crispy...<end>"
+
+["800036"]
+japanese = "ぼくはレルラ＝ロントン。<line-break>キレイを探して旅をする<line-break>さすらいの吟遊詩人だよ。<line-break>さて、それじゃ、<line-break>きみの方は<line-break>何を求めているのかな…？<end>"
+english = "I'm Relra-Lonton, a wandering minstrel traveling in search of beauty. So, what are you searching for...?<end>"
+
+["800037"]
+japanese = "きみを守って姿を消した大事な人？<end>"
+english = "Someone dear to you who vanished after protecting you?<end>"
+
+["800038"]
+japanese = "親の仇？\u3000凶々しい魔道器？<line-break>聖杯？\u3000妖艶な美女？<line-break>それとも…<end>"
+english = "The one who killed your parents? A sinister magical artifact? The Grail? A bewitching beauty? Or perhaps...<end>"
+
+["800039"]
+japanese = "世界に潜む、謎という謎？<end>"
+english = "Every mystery hidden in the world?<end>"
+
+["800040"]
+japanese = "親の仇？<line-break>父親の秘密？<line-break>それとも、世界に潜む謎という謎？<end>"
+english = "The one who killed your parents? Your father's secret? Or every mystery hidden in the world?<end>"
+
+["800041"]
+japanese = "復讐？<end>"
+english = "Revenge?<end>"
+
+["800042"]
+japanese = "魔人？<line-break>きみを守って姿を消した人？<end>"
+english = "A demon? Someone who vanished after protecting you?<end>"
+
+["800043"]
+japanese = "名誉？<line-break>いるべき場所？<line-break>それとも、世界に潜む謎という謎？<end>"
+english = "Honor? A place where you belong? Or every mystery hidden in the world?<end>"
+
+["800044"]
+japanese = "聖杯？<end>"
+english = "The Grail?<end>"
+
+["800045"]
+japanese = "失われた幼なじみ？<end>"
+english = "A lost childhood friend?<end>"
+
+["800046"]
+japanese = "誰かの過去？\u3000愛？<line-break>それとも…<line-break>世界に潜む謎という謎？<end>"
+english = "Someone's past? Love? Or perhaps... every mystery hidden in the world?<end>"
+
+["800047"]
+japanese = "復讐？<end>"
+english = "Revenge?<end>"
+
+["800048"]
+japanese = "友情？\u3000力？<line-break>それとも…<line-break>世界に潜む謎という謎？<end>"
+english = "Friendship? Power? Or perhaps... every mystery hidden in the world?<end>"
+
+["800049"]
+japanese = "復讐？\u3000魔人？\u3000故郷？<line-break>それとも…<line-break>世界に潜む謎という謎？<end>"
+english = "Revenge? A demon? Your homeland? Or perhaps... every mystery hidden in the world?<end>"
+
+["800050"]
+japanese = "誰かの果たせぬ夢？\u3000技？<line-break>それとも…<line-break>世界に潜む謎という謎？<end>"
+english = "Someone's unfulfilled dream? A skill? Or perhaps... every mystery hidden in the world?<end>"
+
+["800051"]
+japanese = "過去の事？<line-break>自分の可能性？<line-break>それとも…<line-break>世界に潜む謎という謎？<end>"
+english = "Something from your past? Your own potential? Or perhaps... every mystery hidden in the world?<end>"
+
+["800052"]
+japanese = "フフ、ぼくと一緒に旅しようよ？<line-break>仲間にしてよ。<end>"
+english = "Heh heh. Why don't we travel together? Let me join you.<end>"
+
+["800053"]
+japanese = "仲間にする<end>"
+english = "Let Relra-Lonton join<end>"
+
+["800054"]
+japanese = "仲間にしない<end>"
+english = "Don't let Relra-Lonton join<end>"
+
+["800055"]
+japanese = "うわーい！\u3000ねぇ、おじさん。<line-break>なんかデタラメに言ったもののうち、<line-break>いくつか当たってたみたい。<end>"
+english = "Hooray! Hey, old man, it looks like some of those wild guesses I threw out were right.<end>"
+
+["800056"]
+japanese = "ははは、こういう奴だが、<line-break>弓の腕は一流だぜ。<line-break>連れていってやりなよ。<end>"
+english = "Ha ha! He may be a bit much, but he's a first-rate archer. Take him with you.<end>"
+
+["800057"]
+japanese = "やったぁ！<line-break>それじゃ、町の外で待ってるよ。<end>"
+english = "Yes! Then I'll wait for you outside town.<end>"
+
+["800058"]
+japanese = "気をつけるんだぜ。<end>"
+english = "Be careful, all right?<end>"
+
+["800059"]
+japanese = "やったぁ！<line-break>でも…今は、満員みたいだね。<end>"
+english = "Yes! But... it looks like you're full up right now.<end>"
+
+["800060"]
+japanese = "え、猫屋敷で呼んでくれるの？\u3000\u3000\u3000<line-break>でも猫屋敷って…。<line-break>\u3000<line-break>すごいよ！<line-break>きみは猫屋敷にも入れたんだ！<line-break>ますます、おもしろくなってきたよ！<end>"
+english = "What, you'll call for me at Cat Manor? But Cat Manor is... That's amazing! You managed to get into Cat Manor too! This just keeps getting more interesting!<end>"
+
+["800061"]
+japanese = "ぼく、ちょっと近くの森まで行って<line-break>今の感動を曲にしてくるよ！<end>"
+english = "I'm going to head to the nearby woods and turn this excitement into a song!<end>"
+
+["800062"]
+japanese = "気をつけるんだぜ。<end>"
+english = "Be careful, all right?<end>"
+
+["800063"]
+japanese = "きみからは無限の可能性を感じる…。<line-break>そしてきみはその可能性に怖じてない。<line-break>それは、とても、キレイなことなんだ。<end>"
+english = "I sense limitless potential in you... and you aren't afraid of it. That's a truly beautiful thing.<end>"
+
+["800064"]
+japanese = "ああ。クリスピーというのは<line-break>レルラ＝ロントンの本名だよ。\u3000\u3000\u3000<line-break>\u3000<line-break>本人に言わせるとキレイじゃないから<line-break>いにしえの詩人、レルラとロントンの<line-break>名前を合わせてつけたんだそうだよ。<end>"
+english = "Yes. Crispy is Relra-Lonton's real name. He says it isn't beautiful, so he took the names of two ancient poets, Relra and Lonton, and joined them together.<end>"
+
+["800065"]
+japanese = "レルラ＝ロントンはリルビーだから\u3000<line-break>毒に強い。毒を持つ敵が多い所の<line-break>探索では頼りになるぜ。<end>"
+english = "Relra-Lonton is a lilbie, so he's highly resistant to poison. You can count on him when you're exploring places full of enemies that use poison.<end>"
+
+["800066"]
+japanese = "そっか…。<end>"
+english = "Oh... all right.<end>"
+
+["800067"]
+japanese = "ぼく…ちょっと近くの森まで行って<line-break>新しい曲をつくってくるね…。<end>"
+english = "I'll... go to the nearby woods and write a new song.<end>"
+
+["800068"]
+japanese = "気をつけるんだぜ。<end>"
+english = "Be careful, all right?<end>"
+
+["800069"]
+japanese = "あれで、結構いい奴なんだぜ。<line-break>一緒に連れてってやればよかったのに。<end>"
+english = "He's actually a pretty good lad. You should've taken him with you.<end>"
+
+["800070"]
+japanese = "いつ見ても、<line-break>いい絵じゃのぉ。<end>"
+english = "No matter how often I look at it, it's a fine painting.<end>"
+
+["800071"]
+japanese = "ほーっほっほっ、<line-break>そーですわねー。<end>"
+english = "Ho-ho-ho! It certainly is.<end>"
+
+["800072"]
+japanese = "名画であると同時に、<line-break>歴史資料としても<line-break>非常に価値がございます。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>この７枚の絵に描かれた戦神ソリアスと<line-break>破壊神ウルグの戦いの跡地は、今も<line-break>大陸各地に残っているとのことです。<end>"
+english = "Besides being masterpieces, these paintings are also extremely valuable as historical records. The sites where the War God Solias and Ulg, the God of Destruction, fought―as depicted in these seven paintings―are said to survive across the continent to this day.<end>"
+
+["800073"]
+japanese = "それは興味深いのぉ。<line-break>いつか全部行ってみたいのぉ。<end>"
+english = "How fascinating. I should like to visit every one of them someday.<end>"
+
+["800074"]
+japanese = "ほーっほっほっ、<line-break>そーですわねー。<end>"
+english = "Ho-ho-ho! I suppose so.<end>"
+
+["800075"]
+japanese = "かしこまりました。<line-break>至聖賢君ノクサも巡ったと伝えられる<line-break>神々の戦場、調べさせておきましょう。<end>"
+english = "Certainly. I shall have inquiries made into those battlefields of the gods, which the Most Holy Sage-King Noxa is also said to have visited.<end>"
+
+["800076"]
+japanese = "んー。<line-break>楽しみじゃのぉ。<end>"
+english = "Hmm. I shall look forward to it.<end>"
+
+["800077"]
+japanese = "ほーっほっほっ、<line-break>そーですわねー。<end>"
+english = "Ohohoho! Yes, quite so.<end>"
+
+["800078"]
+japanese = "お邪魔いたしました。<line-break>ゆっくりとご鑑賞ください。<end>"
+english = "Forgive the intrusion. Please enjoy the paintings at your leisure.<end>"
+
+["800079"]
+japanese = "大地神バイアスが、<line-break>破壊神ウルグに敗れた様子を描いた作品。<line-break>この後、闇の時代が始まったと伝えられる。<line-break>荘厳な城塞内がその舞台となっている。<end>"
+english = "A work depicting the Earth God Bias's defeat at the hands of Urg, the God of Destruction. It is said that an age of darkness began afterward. The scene is set inside a majestic fortress.<end>"
+
+["800080"]
+japanese = "戦神ソリアスと２匹の従者により、<line-break>破壊神ウルグが退けられた戦いを描いた作品。<line-break>両者の激突は、岩山をひとつ吹き飛ばすほどの<line-break>激しさであったと伝えられる。<end>"
+english = "A work depicting the battle in which War God Solias and two attendants drove back Urg, the God of Destruction. Their clash is said to have been fierce enough to obliterate an entire rocky mountain.<end>"
+
+["800081"]
+japanese = "ソリアスと２匹の従者が撤退を余儀なくされた<line-break>ウルグの１２の円卓騎士襲来を描いた作品。<line-break>この戦いでうがたれた穴に水がたまり、<line-break>乙女の鏡ができたと伝えられる。<end>"
+english = "A work depicting the attack by Urg's twelve Knights of the Round Table, which forced Solias and two attendants to retreat. It is said that water collected in the hole gouged out during the battle, forming Maiden's Mirror.<end>"
+
+["800082"]
+japanese = "６種の武器をたずさえた戦神ソリアスが、<line-break>１２の円卓騎士を倒した戦いを描いた作品。<line-break>ソリアス渾身の一撃は、<line-break>大地を深く貫いたと伝えられる。<end>"
+english = "A work depicting the battle in which War God Solias, bearing six types of weapons, defeated the twelve Knights of the Round Table. It is said that a strike delivered with all Solias's might pierced deep into the earth.<end>"
+
+["800083"]
+japanese = "魔剣ソルベンジュを手に入れたウルグが、<line-break>ソリアスの従者を倒した戦いを描いた作品。<line-break>ソルベンジュの黒き光は地を裂き、谷を作り、<line-break>従者は、その底で息絶えたと伝えられる。<end>"
+english = "A work depicting the battle in which Urg, having obtained the demonic sword Solvenge, defeated Solias's attendant. It is said that Solvenge's black light split the earth and carved out a valley, and that the attendant died at the bottom of the valley.<end>"
+
+["800084"]
+japanese = "戦神ソリアスと破壊神ウルグの<line-break>２度目の戦いを描いた作品。<line-break>大地は震え、火を噴き、流れ出した溶岩は、<line-break>地を覆ったと伝えられる。<end>"
+english = "A work depicting the second battle between War God Solias and Urg, the God of Destruction. It is said that the earth shook and spewed fire, and the lava that poured forth covered the land.<end>"
+
+["800085"]
+japanese = "戦神ソリアスと破壊神ウルグ、<line-break>大陸の形を変えた最後の戦いを描いた作品。<line-break>この戦いのあと、ウルグは眠りにつき、<line-break>ソリアスはこの地を去ったと伝えられる。<end>"
+english = "A work depicting the final battle between War God Solias and Urg, the God of Destruction, which reshaped the continent. It is said that after the battle, Urg went to sleep and Solias left this land.<end>"
+
+["800086"]
+japanese = "フゴーＶｏｌ１予備メッセージ１<end>"
+english = ""
+
+["800087"]
+japanese = "フゴーＶｏｌ１予備メッセージ２<end>"
+english = ""
+
+["800088"]
+japanese = "フゴーＶｏｌ１予備メッセージ３<end>"
+english = ""
+
+["800089"]
+japanese = "フゴーＶｏｌ１予備メッセージ４<end>"
+english = ""
+
+["800090"]
+japanese = "フゴーＶｏｌ１予備メッセージ５<end>"
+english = ""
+
+["800091"]
+japanese = "フゴーＶｏｌ１予備メッセージ６<end>"
+english = ""
+
+["800092"]
+japanese = "フゴーＶｏｌ１予備メッセージ７<end>"
+english = ""
+
+["800093"]
+japanese = "フゴーＶｏｌ１予備メッセージ８<end>"
+english = ""
+
+["800094"]
+japanese = "フゴーＶｏｌ１予備メッセージ９<end>"
+english = ""
+
+["800095"]
+japanese = "フゴーＶｏｌ１予備メッセージ１０<end>"
+english = ""
+
+["800096"]
+japanese = "フゴー、Vol１用メッセージ終端<end>"
+english = ""

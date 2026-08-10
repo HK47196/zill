@@ -1,0 +1,558 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+0x2438a4 = { source = "エイジティー       ", replacement = "Age Tea" }
+0x2438b8 = { source = "レベルティー       ", replacement = "Level Tea" }
+0x2438cc = { source = "ルーマティー       ", replacement = "Luma Tea" }
+0x2438e0 = { source = "ごちそうさま", replacement = "Thanks!" }
+0x2438f0 = { source = "１ギア", replacement = "1 G" }
+0x2438f8 = { source = "２ギア", replacement = "2 G" }
+0x243900 = { source = "３ギア", replacement = "3 G" }
+0x243cd4 = { source = "男性", replacement = "Male" }
+0x243cdc = { source = "女性", replacement = "Fem." }
+0x243ce4 = { source = "黒", replacement = "BK" }
+0x243ce8 = { source = "赤", replacement = "RD" }
+0x243cec = { source = "青", replacement = "BL" }
+0x243cf0 = { source = "茶", replacement = "BR" }
+0x243cf4 = { source = "金", replacement = "GD" }
+0x243d28 = { source = "神の手に魂を委ねる", replacement = "Trust soul to God" }
+0x243d3c = { source = "自らの手で魂を示す", replacement = "Prove soul myself" }
+0x243d50 = { source = "カナ　　かな　　英数　　ゆだねる　　空白　　取消　　入力完了", replacement = "Kana  kana  ABC  auto  space  cancel  done" }
+0x243da0 = { source = "旅先の小さな町", replacement = "Small Town" }
+0x243db0 = { source = "穏やかな田舎町", replacement = "Country Town" }
+0x243dc0 = { source = "王城のある大都市", replacement = "Royal City" }
+0x243dd4 = { source = "黄金色に輝く畑", replacement = "Golden Fields" }
+0x243de4 = { source = "地図にもない村", replacement = "Hidden Village" }
+0x243df4 = { source = "闇に閉ざされし塔", replacement = "Dark Tower" }
+0x243e08 = { source = "始まりの地", replacement = "Origin" }
+0x243e14 = { source = "チュートリアル", replacement = "Tutorial" }
+0x243e24 = { source = "月", replacement = "M" }
+0x243e28 = { source = "日", replacement = "D" }
+0x243e2c = { source = "%2d月", replacement = "%2dM" }
+0x243e4c = { source = "日生まれ", replacement = " Born" }
+0x243e58 = { source = "性別", replacement = "Sex" }
+0x243e64 = { source = "火", replacement = "Fi" }
+0x243e68 = { source = "水", replacement = "Wa" }
+0x243e6c = { source = "土", replacement = "Ea" }
+0x243e70 = { source = "風", replacement = "Wi" }
+0x243e78 = { source = "もはや迷いはない", replacement = "I've decided" }
+0x243e8c = { source = "もう一度考えたい", replacement = "Think again" }
+0x24462c = { source = "あら？大会ないわ", replacement = "Huh? No tourney" }
+0x244640 = { source = "卵I戦", replacement = "Egg I" }
+0x244648 = { source = "決勝戦", replacement = "Final" }
+0x244650 = { source = "チャンプ戦", replacement = "Champion" }
+0x24465c = { source = "防衛戦", replacement = "Defend" }
+0x244800 = { source = "精霊ポイント獲得", replacement = "Spirit Points +" }
+0x244860 = { source = "獲得装備品", replacement = "Gear Won" }
+0x244888 = { source = "可のう", replacement = "Able" }
+0x244894 = { source = "長い", replacement = "Long" }
+0x24489c = { source = "、重い", replacement = ",Heavy" }
+0x2448b0 = { source = "を防ぐ", replacement = "Block" }
+0x2448c0 = { source = "者向け", replacement = "For..." }
+0x2448ec = { source = "の槍", replacement = "Lnc." }
+0x2448f8 = { source = "小刀", replacement = "Dirk" }
+0x244904 = { source = "の長剣", replacement = "L.Swd" }
+0x24490c = { source = "身の剣", replacement = "Sword" }
+0x244914 = { source = "破る槍", replacement = "Pierce" }
+0x24491c = { source = "砕く斧", replacement = "Crush" }
+0x244924 = { source = "く弓", replacement = "Bow" }
+0x244938 = { source = "る杖", replacement = "Rod" }
+0x244950 = { source = "た槍", replacement = "Lnc" }
+0x244958 = { source = "小刀", replacement = "Dirk" }
+0x244970 = { source = "れた衣", replacement = "Robe" }
+0x24497c = { source = "マント", replacement = "Cape" }
+0x244998 = { source = "の弾", replacement = "Ammo" }
+0x2449a4 = { source = "た長槍", replacement = "Lance" }
+0x2449b8 = { source = "用の弓", replacement = "Bow" }
+0x2449c4 = { source = "すい", replacement = "Easy" }
+0x2449d0 = { source = "装備品がいっぱいなのでどれかを捨ててください。", replacement = "Your gear is full. Discard one item." }
+0x244a04 = { source = "捨てる", replacement = "Drop" }
+0x244a0c = { source = "捨てない", replacement = "Keep" }
+0x244a18 = { source = "共有装備品", replacement = "Gear Pool" }
+0x244a24 = { source = "強度", replacement = "Dura" }
+0x244a2c = { source = "攻撃", replacement = "ATK" }
+0x244a34 = { source = "防御", replacement = "DEF" }
+0x244a3c = { source = "精霊　  LV", replacement = "Sprt　  LV" }
+0x244a48 = { source = "効果", replacement = "FX" }
+0x24591c = { source = "聖光石の廃鉱", replacement = "Old HLS Mine" }
+0x24592c = { source = "聖光石の坑道", replacement = "HLS Tunnel" }
+0x24593c = { source = "精神世界", replacement = "Mind" }
+0x245b98 = { source = "難度%s　%s", replacement = "Diff:%s %s" }
+0x245ba4 = { source = "依頼主：%s", replacement = "By: %s" }
+0x245bb0 = { source = "期　限：残り", replacement = "Time:" }
+0x245bc0 = { source = "　　　　　　%u日", replacement = "         %u days" }
+0x245bd4 = { source = "報　酬：", replacement = "Reward:" }
+0x245be0 = { source = "%uギア", replacement = "%u G" }
+0x245be8 = { source = "内　容：%s", replacement = "Info:%s" }
+0x245c00 = { source = "目的地：", replacement = "Dest:" }
+0x245c18 = { source = "依頼地：%s", replacement = "Site:%s" }
+0x245c30 = { source = "所要日数　%2u日\r\n", replacement = "Days: %2u\r\n" }
+0x245c44 = { source = "%s周辺", replacement = "By %s" }
+0x245c4c = { source = "地域情報", replacement = "Region" }
+0x245c70 = { source = "仕事を受ける", replacement = "Accept Job" }
+0x245c80 = { source = "解約する", replacement = "Cancel" }
+0x245c8c = { source = "地域情報", replacement = "Region" }
+0x245c98 = { source = "出直す", replacement = "Leave" }
+0x245ca0 = { source = "　は　い", replacement = "  Yes" }
+0x245cac = { source = "② 受けない　  ① 受ける", replacement = "② Decline  ① Accept" }
+0x245cc8 = { source = "つづける", replacement = "Continue" }
+0x245cd4 = { source = "助かったよ、報酬をうけとってくれ。", replacement = "Thanks. Take your reward." }
+0x2460a8 = { source = "その名前はゲーム中で使用されています", replacement = "That name is used in the game." }
+0x2460d0 = { source = "それでもかまいませんか？", replacement = "Is that still okay?" }
+0x2460ec = { source = "いいえ", replacement = "No" }
+0x2460f4 = { source = "はい", replacement = "Yes" }
+0x246228 = { source = "料金", replacement = "Rate" }
+0x246230 = { source = "%6uギア", replacement = "%6u G" }
+0x246238 = { source = "泊まる", replacement = "Stay" }
+0x246240 = { source = "出直す", replacement = "Leave" }
+0x246248 = { source = " ② やめる    ① 泊まる", replacement = " ② Cancel    ① Stay" }
+0x2465f8 = { source = "  カナ   かな   記号   ゆだねる   空白   取消   中止   完了", replacement = "  Kana   kana   sym   auto   space   cancel   quit   done" }
+0x246658 = { source = "アイテム", replacement = "Items" }
+0x246664 = { source = " 装備品", replacement = " Gear" }
+0x24666c = { source = "よろしく", replacement = "Welcome" }
+0x246678 = { source = "売ります", replacement = "Sell" }
+0x246684 = { source = "やめます", replacement = "Quit" }
+0x246690 = { source = "買う", replacement = "Buy" }
+0x246698 = { source = "売る", replacement = "Sell" }
+0x2466a0 = { source = "出直す", replacement = "Leave" }
+0x2466a8 = { source = "買います", replacement = "Buy" }
+0x2466b4 = { source = "%uギア", replacement = "%u G" }
+0x2466c0 = { source = " ② やめる　    ① 買う", replacement = " ② Cancel     ① Buy" }
+0x2466d8 = { source = "アイテムを一つ以上買う金を持っていない", replacement = "Not enough money to buy anything." }
+0x246700 = { source = " ② やめる　    ① 売る", replacement = " ② Cancel     ① Sell" }
+0x2467c4 = { source = "ｽｷﾙﾎﾟｲﾝﾄ", replacement = "Skill Pt" }
+0x2467d4 = { source = "経験値とスキルポイントを獲得", replacement = "Earned EXP and Skill Points" }
+0x246828 = { source = "② いいえ　　① はい", replacement = "② No  ① Yes" }
+0x246840 = { source = "②いいえ　①はい", replacement = "②No ①Yes" }
+0x246854 = { source = "%10luギア", replacement = "%10lu G" }
+0x2468b0 = { source = "今はセーブを行えません。", replacement = "You cannot save now." }
+0x2468cc = { source = "今はロードを行えません。", replacement = "You cannot load now." }
+0x2468f0 = { source = "神聖暦", replacement = "S.Era" }
+0x2468f8 = { source = "%4u年", replacement = "%4u Y" }
+0x246900 = { source = "%2u月", replacement = "%2u M" }
+0x246908 = { source = "%2u日", replacement = "%2u D" }
+0x246aa0 = { source = "種族　　 ", replacement = "Race  " }
+0x246aac = { source = "誕生日 ", replacement = "Born " }
+0x246b48 = { source = "引受中の仕事", replacement = "Active Jobs" }
+0x246b58 = { source = "意見を聞く", replacement = "Get Advice" }
+0x246b68 = { source = "引き受け中の仕事はありません", replacement = "You have no active jobs." }
+0x246b88 = { source = "依頼主：%s", replacement = "Client:%s" }
+0x246b94 = { source = "内　容：%s", replacement = "Info:%s" }
+0x246bac = { source = "目的地：", replacement = "Goal:" }
+0x246bc0 = { source = "依頼地：%s", replacement = "Site:%s" }
+0x246bcc = { source = "期限　：残り", replacement = "Time: Left" }
+0x246bdc = { source = "%d日", replacement = "%dd" }
+0x246be4 = { source = "報酬　：", replacement = "Reward:" }
+0x246bf0 = { source = "%dギア", replacement = "%d G" }
+0x246c38 = { source = "セーブするファイルを選択", replacement = "Select a save file" }
+0x246d3c = { source = "メモリースティック⑯が見つかりません。\r\n", replacement = "Memory Stick⑯ not found.\r\n" }
+0x246d64 = { source = "このゲームデータをセーブするには", replacement = "To save this game data," }
+0x246d88 = { source = "160KB以上必要です。\r\n", replacement = "Need 160KB or more.\r\n" }
+0x246da0 = { source = "メモリースティック⑯の空き容量が不足しています。", replacement = "Not enough free space on Memory Stick⑯." }
+0x246dd4 = { source = "空き容量があと%dKB以上必要です。", replacement = "Need %dKB more free space." }
+0x246df8 = { source = "このままはじめますか？", replacement = "Start anyway?" }
+0x246e14 = { source = " いいえ ②　   はい ①", replacement = " No ②   Yes ①" }
+0x246e90 = { source = "MEMORY CARD差込口１に差し込まれた\"PlayStation 2\"専用メモリーカード(8MB)を\r\nチェックしています。\r\n抜き差しをしないでください。", replacement = "Checking the MEMORY CARD in slot 1 for \"PlayStation 2\" (8MB).\r\nDo not remove it.\r\n" }
+0x246f0c = { source = "\"PlayStation 2\"専用\r\nメモリーカード(8MB)が\r\nMEMORY CARD差込口１に差し込まれていません。\r\n\r\nロードを中断しますか？", replacement = "No \"PlayStation 2\" MEMORY CARD (8MB) is in slot 1.\r\n\r\nCancel loading?" }
+0x246f7c = { source = "\"PlayStation 2\"専用\r\nメモリーカード(8MB)が\r\nMEMORY CARD差込口１に差し込まれていません。\r\n\r\nセーブを中断しますか？", replacement = "No \"PlayStation 2\" MEMORY CARD (8MB) is in slot 1.\r\n\r\nCancel saving?" }
+0x246fec = { source = "MEMORY CARD差込口１に差し込まれた\"PlayStation 2\"専用メモリーカード(8MB)の\r\nジルオールインフィニットの\r\nセーブデータは壊れています。\r\n\r\nロードを中断しますか？", replacement = "Zill O'll Infinite save data on the \"PlayStation 2\" MEMORY CARD (8MB) in slot 1 is corrupt.\r\n\r\nCancel loading?" }
+0x247088 = { source = "MEMORY CARD差込口１に差し込まれた\"PlayStation 2\"専用メモリーカード(8MB)の\r\nジルオールインフィニットの\r\nセーブデータは壊れています。\r\n\r\nセーブを中断しますか？", replacement = "Zill O'll Infinite save data on the \"PlayStation 2\" MEMORY CARD (8MB) in slot 1 is corrupt.\r\n\r\nCancel saving?" }
+0x247124 = { source = "MEMORY CARD差込口１に差し込まれた\"PlayStation 2\"専用メモリーカード(8MB)に、ジルオールインフィニットの\r\nセーブデータがありません。\r\n\r\n　　②戻る　①再チェック", replacement = "No Zill O'll Infinite save data is on the \"PlayStation 2\" MEMORY CARD (8MB) in slot 1.\r\n\r\n  ② Back  ① Check Again" }
+0x2471c0 = { source = "MEMORY CARD差込口１に差し込まれた\"PlayStation 2\"専用メモリーカード(8MB)は、フォーマットされていません。\r\n\r\nフォーマットしてもよろしいですか？", replacement = "The \"PlayStation 2\" MEMORY CARD (8MB) in slot 1 is not formatted.\r\n\r\nFormat it?" }
+0x24724c = { source = "本当にフォーマットしても\r\nよろしいですか？", replacement = "Are you sure you want to\r\nformat it?" }
+0x247278 = { source = "フォーマット中です。\r\nMEMORY CARD差込口１に差し込まれた\"PlayStation 2\"専用メモリーカード(8MB)の抜き差しをしないでください。", replacement = "Formatting.\r\nDo not remove the \"PlayStation 2\" MEMORY CARD (8MB) from slot 1." }
+0x2472f4 = { source = "フォーマットに成功しました。\r\n　　②戻る　①再チェック", replacement = "Format successful.\r\n  ② Back  ① Check Again" }
+0x24732c = { source = "フォーマットに失敗しました。\r\n\r\nセーブを中断しますか？", replacement = "Format failed.\r\n\r\nCancel saving?" }
+0x247364 = { source = "MEMORY CARD差込口１に差し込まれた\"PlayStation 2\"専用メモリーカード(8MB)に空き容量が不足しています。\r\nこのゲームのデータをセーブするには、(%dKB以上)空き容量が必要です。\r\n\r\nセーブを中断しますか？", replacement = "Not enough space on the \"PlayStation 2\" MEMORY CARD (8MB) in slot 1.\r\nAt least %dKB free space is needed to save this game.\r\n\r\nCancel saving?" }
+0x247424 = { source = "上書きして\r\nよろしいでしょうか？", replacement = "Overwrite this data?" }
+0x247444 = { source = "セーブしています。\r\n\"PlayStation 2\"専用\r\nメモリーカード(8MB)の抜き差しをしないでください。", replacement = "Saving.\r\nDo not remove the \"PlayStation 2\" MEMORY CARD (8MB)." }
+0x2474a0 = { source = "上書きしています。\r\n\"PlayStation 2\"専用\r\nメモリーカード(8MB)の抜き差しをしないでください。", replacement = "Overwriting.\r\nDo not remove the \"PlayStation 2\" MEMORY CARD (8MB)." }
+0x2474fc = { source = "セーブが終了しました。", replacement = "Save complete." }
+0x247514 = { source = "上書きが終了しました。", replacement = "Overwrite complete." }
+0x24752c = { source = "セーブに失敗しました。\r\n\r\nセーブを中断しますか？", replacement = "Save failed.\r\n\r\nCancel saving?" }
+0x24755c = { source = "ゲームのデータを\r\n読み込みますか？\r\n\r\n②いいえ　①はい", replacement = "Load game data?\r\n\r\n②No ①Yes" }
+0x247590 = { source = "前回セーブしたクリア前の\r\nところから始めますか？", replacement = "Start from the last pre-clear save?" }
+0x2475c0 = { source = "新しいキャラクターで\r\nゲームを始めますか？\r\n", replacement = "Start the game\r\nwith a new character?\r\n" }
+0x2475ec = { source = "ロードしています。\r\nMEMORY CARD差込口１に差し込まれた\"PlayStation 2\"専用メモリーカード(8MB)の抜き差しをしないでください。", replacement = "Loading.\r\nDo not remove the \"PlayStation 2\" MEMORY CARD (8MB) from slot 1." }
+0x247668 = { source = "読み込みが終了しました。", replacement = "Load complete." }
+0x247684 = { source = "読み込みに失敗しました。\r\nロードを中断しますか？", replacement = "Load failed.\r\nCancel loading?" }
+0x2476b4 = { source = "\"PlayStation 2\"専用\r\nメモリーカード(8MB)が\r\nMEMORY CARD差込口１に差し込まれていません。\r\nセーブに失敗しました。\r\n\r\nセーブを中断しますか？", replacement = "No \"PlayStation 2\" MEMORY CARD (8MB) is in slot 1.\r\nSave failed.\r\n\r\nCancel saving?" }
+0x24773c = { source = "セーブをキャンセルすると、クリアデータは保存されません。\r\n\r\n本当にセーブを中断しますか？", replacement = "Canceling means clear data will not be saved.\r\n\r\nReally cancel saving?" }
+0x247794 = { source = "このデータは、クリア特典を\r\n引き継ぎ新しくゲームをはじめる時にしか使用できません。", replacement = "This data can only start a new game\r\nwith clear bonuses carried over." }
+0x247808 = { source = "日\r\n", replacement = "D\r\n" }
+0x24780c = { source = "%2u人\r\n", replacement = "%2uP\r\n" }
+0x247814 = { source = "はい", replacement = "Yes" }
+0x24781c = { source = "いいえ", replacement = "No" }
+0x247824 = { source = "は　い　いいえ", replacement = "Yes  No" }
+0x247860 = { source = "はい", replacement = "Yes" }
+0x247868 = { source = "いいえ", replacement = "No" }
+0x247880 = { source = "盾装備なし", replacement = "No Shield" }
+0x247894 = { source = "精霊", replacement = "Sprt" }
+0x247900 = { source = "方向キー上下左右で画面位置の調整を", replacement = "Use the D-pad to adjust the" }
+0x247924 = { source = "行うことができます。", replacement = "screen position." }
+0x247940 = { source = "ラインより下のバーがみえなくなるように", replacement = "Adjust TV brightness until the bar" }
+0x247968 = { source = "テレビの明るさを調整してください。", replacement = "below line is no longer visible." }
+0x247990 = { source = "②やりなおす　　　　　①決定", replacement = "② Retry     ① Confirm" }
+0x2479c8 = { source = "メッセージ速度", replacement = "Text Speed" }
+0x2479d8 = { source = "BGM音量", replacement = "BGM Vol" }
+0x2479e0 = { source = "SE音量", replacement = "SE Vol" }
+0x2479e8 = { source = "インストール", replacement = "Install" }
+0x2479f8 = { source = "初期画面に戻す", replacement = "Back to Title" }
+0x247a08 = { source = "設定完了", replacement = "Finish" }
+0x247a18 = { source = "遅", replacement = "S" }
+0x247a1c = { source = "速", replacement = "F" }
+0x247a38 = { source = " インストールデータが無いため、\r\n「インストール」の設定を\r\n「ON」にすることはできません。", replacement = "No install data found.\r\nThe \"Install\" setting cannot be turned \"ON\"." }
+0x247a90 = { source = " 別のPSP ⑮のインストールデータは使用できないため、\r\n「インストール」の設定を「ON」にすることはできません。", replacement = "Install data from another PSP⑮ cannot be used.\r\nThe \"Install\" setting cannot be turned \"ON\"." }
+0x247afc = { source = " メモリースティック⑯が抜かれているため、\r\n「インストール」を「OFF」にしました。", replacement = "Memory Stick⑯ was removed.\r\n\"Install\" has been set to \"OFF\"." }
+0x247b4c = { source = " 別のPSP ⑮のインストールデータは使用できないため、\r\n「インストール」の設定を「OFF」にしました。", replacement = " Install data from another PSP ⑮ cannot be used.\r\n\"Install\" was set to \"OFF\"." }
+0x247bac = { source = " インストールデータが無いため、\r\n「インストール」の設定を\r\n「OFF」にしました。", replacement = " No install data found.\r\n\"Install\" was set to\r\n\"OFF\"." }
+0x247d00 = { source = "スキルポイント", replacement = "Skill Points" }
+0x247de0 = { source = "攻撃", replacement = "ATK" }
+0x247de8 = { source = "命中", replacement = "Hit" }
+0x247df0 = { source = "必殺", replacement = "Crit" }
+0x247df8 = { source = "防御", replacement = "DEF" }
+0x247e00 = { source = "回避", replacement = "Eva" }
+0x247e08 = { source = "俊敏", replacement = "Agi" }
+0x247e10 = { source = "魔法", replacement = "MAG" }
+0x247e1c = { source = "強度", replacement = "Dura" }
+0x247e24 = { source = "精霊　  LV", replacement = "Sprt　  LV" }
+0x247e30 = { source = "効果", replacement = "FX" }
+0x247e9c = { source = "存在しないラベルです！！\r\n", replacement = "Label not found!!\r\n" }
+0x247eb8 = { source = "msgsec%d.dat\r\nには", replacement = "msgsec%d.dat\r\nhas" }
+0x247ecc = { source = "%d番目のラベルは存在しません！！！\r\n", replacement = "Label %d does not exist!!!\r\n" }
+0x247ef0 = { source = "冒険者", replacement = "Advr." }
+0x2480e8 = { source = "幻覚 ", replacement = "Illus" }
+0x2480f0 = { source = "沈黙 ", replacement = "Mute " }
+0x2480f8 = { source = "暗闇 ", replacement = "Dark " }
+0x248100 = { source = "呪い ", replacement = "Hex " }
+0x248108 = { source = "毒 ", replacement = "Po " }
+0x24810c = { source = "石化 ", replacement = "Stone" }
+0x248114 = { source = "眠り ", replacement = "Sleep" }
+0x24811c = { source = "混乱 ", replacement = "Conf " }
+0x248124 = { source = "麻痺 ", replacement = "Para " }
+0x24812c = { source = "片手剣", replacement = "1H Swd" }
+0x248134 = { source = "両手剣", replacement = "2H Swd" }
+0x24813c = { source = "長柄武器", replacement = "Polearm" }
+0x248148 = { source = "斧", replacement = "A" }
+0x24814c = { source = "小刀手斧", replacement = "Knife/Ax" }
+0x248158 = { source = "弓", replacement = "B" }
+0x24815c = { source = "拳器", replacement = "Fist" }
+0x248164 = { source = "盾", replacement = "S" }
+0x248168 = { source = "布製防具", replacement = "Cloth" }
+0x248174 = { source = "胸当て", replacement = "Cuiras" }
+0x24817c = { source = "胴鎧", replacement = "Mail" }
+0x248184 = { source = "全身鎧", replacement = "Plate" }
+0x24818c = { source = "アクセサリー", replacement = "Accessory" }
+0x2481d8 = { source = "%s　攻撃力%u　強度%u　形状%s　精霊%sLV%u", replacement = "%s ATK%u Dura%u Shape%s Spirit%sLV%u" }
+0x248204 = { source = "%s　防御力%u　強度%u　形状%s　精霊%sLV%u\r\n", replacement = "%s DEF%u Dura%u Shape%s Spirit%sLV%u\r\n" }
+0x248230 = { source = "%s　防御力%u　強度%u　精霊%sLV%u\r\n", replacement = "%s DEF%u Dura%u Spirit%sLV%u\r\n" }
+0x248398 = { source = "通信機を使いますか？", replacement = "Use communicator?" }
+0x2483b0 = { source = "② 使わない", replacement = "② No" }
+0x2483bc = { source = "① 使う", replacement = "① Use" }
+0x24847c = { source = "敵の属性攻撃半減", replacement = "Halves elem dmg" }
+0x248490 = { source = "敵の属性攻撃無効化", replacement = "Nullifies elem dmg" }
+0x2484a4 = { source = "属性攻撃1.5倍", replacement = "Elem dmg x1.5" }
+0x2484b4 = { source = "経験値", replacement = "EXP" }
+0x2484bc = { source = "スキルポイント", replacement = "Skill Points" }
+0x2484cc = { source = "獲得ギア", replacement = "Gained G" }
+0x2484d8 = { source = "1.5倍", replacement = "1.5x" }
+0x2484e0 = { source = "0.5倍", replacement = "0.5x" }
+0x2484e8 = { source = "0倍", replacement = "0x" }
+0x248518 = { source = "神聖歴%d年%d月%d日", replacement = "Sacred %d/%d/%d" }
+0x24852c = { source = "隊列の変更", replacement = "Formation" }
+0x2485e8 = { source = "装備品をはずす", replacement = "Unequip" }
+0x248630 = { source = "消費MP", replacement = "MP Use" }
+0x248640 = { source = "はい　", replacement = "Yes " }
+0x248648 = { source = "%sを詠唱しますか？", replacement = "Cast %s?" }
+0x24865c = { source = "② いいえ　① はい", replacement = "② No  ① Yes" }
+0x24875c = { source = " ② やめる　 ① 習得する", replacement = " ② Quit  ① Learn" }
+0x248778 = { source = "を習得しますか？", replacement = "Learn it?" }
+0x24878c = { source = "はい  ", replacement = "Yes  " }
+0x248794 = { source = "いいえ", replacement = "No" }
+0x24879c = { source = "スキルを習得します", replacement = "Learn skill" }
+0x2487c0 = { source = "チャージスキル", replacement = "Charge Skill" }
+0x2487d0 = { source = "アタックスキル", replacement = "Attack Skill" }
+0x2487e0 = { source = "サポートスキル", replacement = "Support Skill" }
+0x2487f0 = { source = "コマンドスキル", replacement = "Command Skill" }
+0x248800 = { source = "マジックスキル", replacement = "Magic Skill" }
+0x248810 = { source = "オートスキル", replacement = "Auto Skill" }
+0x248840 = { source = "はい", replacement = "Yes" }
+0x248848 = { source = "いいえ", replacement = "No" }
+0x248850 = { source = "を宿しますか？", replacement = "Imbue it?" }
+0x2488fc = { source = "攻撃", replacement = "ATK" }
+0x248904 = { source = "命中", replacement = "Hit" }
+0x24890c = { source = "必殺", replacement = "Crit" }
+0x248914 = { source = "防御", replacement = "DEF" }
+0x24891c = { source = "回避", replacement = "Eva" }
+0x248924 = { source = "俊敏", replacement = "Agi" }
+0x24892c = { source = "魔法", replacement = "MAG" }
+0x249230 = { source = "パーティメンバー変更出来ません。", replacement = "Cannot change party members." }
+0x24a3d0 = { source = "ベルゼーヴァ", replacement = "Beelzeva" }
+0x24a3e0 = { source = "ザギヴ", replacement = "Zagiv" }
+0x24a3e8 = { source = "ティアナ", replacement = "Tiana" }
+0x24a3f4 = { source = "アトレイア", replacement = "Atleia" }
+0x24a400 = { source = "エリス", replacement = "Eris" }
+0x24a408 = { source = "いかない", replacement = "Don't go" }
+0x24a78c = { source = "船賃が足りません", replacement = "Fare too high" }
+0x24a7a1 = { source = "%2d日", replacement = "%2dd" }
+0x24a7a8 = { source = "%2d日", replacement = "%2dd" }
+0x24a7c0 = { source = "移動する", replacement = "Travel" }
+0x24a7cc = { source = "やめる", replacement = "Quit" }
+0x24a7d4 = { source = "入らない", replacement = "Stay out" }
+0x24a7e0 = { source = "%sに入る", replacement = "Enter %s" }
+0x24a7ec = { source = "%d年 %2d月 %2d日", replacement = "%d/%2d/%2d" }
+0x24a800 = { source = "%uギア", replacement = "%u G" }
+0x24a808 = { source = "船賃 300ギア", replacement = "Fare: 300 G" }
+0x24a818 = { source = "%2u日", replacement = "%2ud" }
+0x24a8ec = { source = "ENDING選択", replacement = "ENDING Sel" }
+0x24bd3c = { source = "どのように並べますか？", replacement = "How to sort?" }
+0x24bd54 = { source = "② 捨てない　   ① 捨てる", replacement = "② Keep   ① Discard" }
+0x24bf68 = { source = "%uギア\r\n", replacement = "%u G\r\n" }
+0x24bfb4 = { source = "%uギア", replacement = "%u G" }
+0x24bfc4 = { source = "%dギア", replacement = "%d G" }
+0x24c688 = { source = "はい", replacement = "Yes" }
+0x24c690 = { source = " ② いいえ  　  ① はい", replacement = " ② No     ① Yes" }
+0x24c6d0 = { source = "はい", replacement = "Yes" }
+0x24c6d8 = { source = " ② いいえ  　  ① はい", replacement = " ② No     ① Yes" }
+0x24c718 = { source = "呼び出す", replacement = "Summon" }
+0x24c724 = { source = "別れる", replacement = "Part" }
+0x24c72c = { source = "やめる", replacement = "Quit" }
+0x24c738 = { source = "範囲外の護衛キャラです！！\r\n", replacement = "Escort out of range!!\r\n" }
+0x24c754 = { source = "護衛のキャラクタＩＤ[%d]\r\n", replacement = "Escort character ID[%d]\r\n" }
+0x24c770 = { source = "%sの%s", replacement = "%s %s" }
+0x24cd68 = { source = "データを確認しています。", replacement = "Checking data." }
+0x24cd84 = { source = "メモリースティック⑯を抜き差ししないでください。", replacement = "Do not remove Memory Stick⑯." }
+0x24cf58 = { source = "%s\r\n%s　LV%d　Time %02u:%02u\r\n%s\r\n神聖暦 12%02u年 %2u月 %2u日\r\n総仲間数 %u人", replacement = "%s\r\n%s LV%d Time %02u:%02u\r\n%s\r\nSacred 12%02u/%2u/%2u\r\nAllies %u" }
+0x24cfa4 = { source = "女", replacement = "F" }
+0x24cfa8 = { source = "男", replacement = "M" }
+0x24cfd4 = { source = " 別のPSP ⑮のインストールデータは使用できないため、\r\n「インストール」の設定を「OFF」にしました。", replacement = " Install data from another PSP ⑮ cannot be used.\r\n\"Install\" was set to \"OFF\"." }
+0x24d034 = { source = " インストールデータが無いため、\r\n「インストール」の設定を\r\n「OFF」にしました。", replacement = " No install data found.\r\n\"Install\" was set to\r\n\"OFF\"." }
+0x24d084 = { source = " このデータは、クリア特典を引き継ぎ\r\n 新しくゲームをはじめる時にしか使用できません。", replacement = " This data can only be used when starting a new game\r\n with clear bonuses." }
+0x24d138 = { source = "男", replacement = "M" }
+0x24d13c = { source = "女", replacement = "F" }
+0x24d1c8 = { source = "貴重な品物", replacement = "Valuables" }
+0x24d1d4 = { source = "愛用の装備品", replacement = "Fav. Gear" }
+0x24d1e4 = { source = "出直す", replacement = "Leave" }
+0x24d1ec = { source = "他になにか用はございますか。", replacement = "Anything else?" }
+0x24d20c = { source = "売ります", replacement = "Sell" }
+0x24d218 = { source = "② やめる　  ① 売る", replacement = "② Quit  ① Sell" }
+0x24d380 = { source = "強度を鍛える", replacement = "Hone Dura" }
+0x24d390 = { source = "形状を変える", replacement = "Change Shape" }
+0x24d3a0 = { source = "効果を加える", replacement = "Add Effect" }
+0x24d3b0 = { source = "これで頼むよ", replacement = "Do it" }
+0x24d468 = { source = "%6uギア", replacement = "%6u G" }
+0x24d470 = { source = "よろしく", replacement = "Please" }
+0x24d47c = { source = "② やめる　  ① 買う", replacement = "② Quit  ① Buy" }
+0x24d494 = { source = "料金が足りないようだが…", replacement = "Not enough money..." }
+0x24d4e4 = { source = "強度", replacement = "Dura" }
+0x24d4ec = { source = "階級", replacement = "Rank" }
+0x24d504 = { source = "効果", replacement = "FX" }
+0x24d50c = { source = "頼みます", replacement = "Please" }
+0x24d518 = { source = " ② やめる　    ① 頼む", replacement = " ② Quit    ① Order" }
+0x24d530 = { source = "錬剛石\r\n", replacement = "T.Stn\r\n" }
+0x24d538 = { source = "持っている数\r\n", replacement = "Owned\r\n" }
+0x24d54c = { source = "必要な数\r\n", replacement = "Needed\r\n" }
+0x24d558 = { source = "攻撃", replacement = "ATK" }
+0x24d560 = { source = "命中", replacement = "Hit" }
+0x24d568 = { source = "必殺", replacement = "Crit" }
+0x24d570 = { source = "防御", replacement = "DEF" }
+0x24d578 = { source = "回避", replacement = "Eva" }
+0x24d580 = { source = "俊敏", replacement = "Agi" }
+0x24d600 = { source = "　買う", replacement = " Buy" }
+0x24d608 = { source = "　売る", replacement = " Sell" }
+0x24d610 = { source = "　鍛冶", replacement = " Forge" }
+0x24d618 = { source = "　改名", replacement = " Name" }
+0x24d620 = { source = "　出直す", replacement = " Leave" }
+0x24d630 = { source = "その他所有", replacement = "Other Inv" }
+0x24d680 = { source = "アイテム", replacement = "Items" }
+0x24d68c = { source = " 装備品", replacement = " Gear" }
+0x24d694 = { source = "② やめる　  ① 売る", replacement = "② Quit  ① Sell" }
+0x24d6ac = { source = "よろしく", replacement = "Please" }
+0x24d6b8 = { source = "やめとく", replacement = "Cancel" }
+0x24d758 = { source = "決定", replacement = "OK" }
+0x24d7c0 = { source = "配分を決定しますか？", replacement = "Confirm allocation?" }
+0x24d7d8 = { source = "はい  ", replacement = "Yes  " }
+0x24d7e0 = { source = "いいえ", replacement = "No" }
+0x24d848 = { source = "②中止　　①決定", replacement = "②Cancel  ①OK" }
+0x24d864 = { source = "%sを獲得！", replacement = "Got %s!" }
+0x24d8e4 = { source = "成長", replacement = "Grow" }
+0x24d90c = { source = "スキル", replacement = "Skill" }
+0x24d930 = { source = "獲得！", replacement = "GET!" }
+0x24d944 = { source = "ソウルポイントを獲得！", replacement = "Soul Points GET!" }
+0x24d95c = { source = "よろしいですか？", replacement = "Is this OK?" }
+0x251068 = { source = "残り %2u個", replacement = "Left: %2u" }
+0x251074 = { source = "　　を売る", replacement = "  Sell" }
+0x251080 = { source = "所有 %2u個", replacement = "Own: %2u" }
+0x25108c = { source = "　　を買う", replacement = "  Buy" }
+0x251098 = { source = "%uギア", replacement = "%u G" }
+0x2510a0 = { source = "セーブ", replacement = "Save" }
+0x2510a8 = { source = "ロード", replacement = "Load" }
+0x2510b0 = { source = "人物列伝", replacement = "Profiles" }
+0x2510bc = { source = "歴史事件", replacement = "History" }
+0x2510c8 = { source = "環境設定", replacement = "Settings" }
+0x2511e8 = { source = "所持金", replacement = "Funds" }
+0x2511f0 = { source = "%uギア", replacement = "%u G" }
+0x251240 = { source = "魔法の宝箱", replacement = "Magic Box" }
+0x2512fc = { source = "装備品がいっぱいなので\r\n%s\r\nは入手できません。", replacement = "Inventory full.\r\n%s\r\ncannot be obtained." }
+0x2513e4 = { source = "開戦", replacement = "War" }
+0x2513f4 = { source = "雷獣", replacement = "Bolt" }
+0x251400 = { source = "砂の都", replacement = "Dune" }
+0x251408 = { source = "ロール", replacement = "Role" }
+0x251460 = { source = "二人の勇者", replacement = "Two Heroes" }
+0x25146c = { source = "無垢ではない美しさ", replacement = "Tainted Beauty" }
+0x251480 = { source = "ちょっくら行こうぜ", replacement = "Let's get going" }
+0x251494 = { source = "誅戮者は闇より来たる", replacement = "Slayer from Shadow" }
+0x2514ac = { source = "お前とともに", replacement = "By Your Side" }
+0x2514bc = { source = "世界を癒す手", replacement = "Healing Hand" }
+0x2514cc = { source = "はじめてを一緒に", replacement = "Our First Time" }
+0x2514e0 = { source = "ロストールの新女王", replacement = "Rostorl Queen" }
+0x2514f4 = { source = "雌狐の子は、雌狐…？", replacement = "Fox cub, fox...?" }
+0x25150c = { source = "最後のあいさつ", replacement = "Last Farewell" }
+0x25151c = { source = "大海原の向こうで", replacement = "Beyond the Ocean" }
+0x251530 = { source = "未知の大地へ", replacement = "New Frontier" }
+0x251540 = { source = "最高の武器", replacement = "Top Weapon" }
+0x25154c = { source = "戻ってきた日常", replacement = "Back to Normal" }
+0x25155c = { source = "最凶の女魔道師", replacement = "Wicked Witch" }
+0x25156c = { source = "寄り添う灯火", replacement = "Shared Flame" }
+0x25157c = { source = "君のいない冒険なんて！", replacement = "No Quest Without You!" }
+0x251594 = { source = "生きることと、探すこと", replacement = "To Live, to Seek" }
+0x2515ac = { source = "残る者、旅立つ者", replacement = "Stay or Depart" }
+0x2515c0 = { source = "私の騎士様", replacement = "My Knight" }
+0x2515cc = { source = "自分だけの未来へ", replacement = "My Own Future" }
+0x2515e0 = { source = "風にまかせて", replacement = "Wind's Way" }
+0x2515f0 = { source = "いつも変わらないもの", replacement = "What Never Changes" }
+0x251608 = { source = "フェティ様、珍道中再び", replacement = "Fety Odd Trip II" }
+0x251620 = { source = "笑顔を、いつまでも…", replacement = "Smiles Forever..." }
+0x251638 = { source = "人類の革新", replacement = "Evolution" }
+0x251644 = { source = "人類の黄昏", replacement = "Man's Dusk" }
+0x251650 = { source = "友の願い", replacement = "A Wish" }
+0x25165c = { source = "たくさんのキレイ", replacement = "Many Beauties" }
+0x251670 = { source = "真実の狩人たち", replacement = "True Hunters" }
+0x251680 = { source = "きっと、見つかるはず", replacement = "Surely We'll Find It" }
+0x251698 = { source = "大切な、私の何か", replacement = "My Treasure" }
+0x2516ac = { source = "次は、自分のために…", replacement = "Next, for Myself..." }
+0x2516c4 = { source = "順風満帆", replacement = "A Breeze" }
+0x2516d0 = { source = "旅路の果てに", replacement = "Road's End" }
+0x2516e0 = { source = "決着", replacement = "End" }
+0x2516e8 = { source = "新たなる挑戦", replacement = "Challenge" }
+0x2516f8 = { source = "変わりゆく心", replacement = "Heart's Turn" }
+0x251708 = { source = "ゴブゴブ団、前進", replacement = "Gobgobs, March!" }
+0x25171c = { source = "二つの無限", replacement = "Two Beyond" }
+0x251728 = { source = "二人のたくらみ", replacement = "Their Plot" }
+0x251738 = { source = "竜王の意思", replacement = "Wyrm's Aim" }
+0x251744 = { source = "光と影", replacement = "L & S" }
+0x25174c = { source = "世界一の冒険家", replacement = "Top Adventurer" }
+0x25175c = { source = "最強！　俺様伝説！", replacement = "Best! My Legend!" }
+0x251770 = { source = "また、会える日まで", replacement = "Till We Meet Again" }
+0x251784 = { source = "未来への扉", replacement = "New Door" }
+0x251790 = { source = "終りの地", replacement = "The End" }
+0x25179c = { source = "決意を新たに", replacement = "New Resolve" }
+0x2517ac = { source = "ジリオンの願い", replacement = "Zillion's Wish" }
+0x2517bc = { source = "償いの旅へ", replacement = "Atone" }
+0x2517c8 = { source = "おかえりなさい", replacement = "Welcome Home" }
+0x2517d8 = { source = "二人の未来に", replacement = "Our Future" }
+0x251800 = { source = "達成率", replacement = "Rate" }
+0x251880 = { source = "空中都市浮上", replacement = "Sky City Up" }
+0x251890 = { source = "空中都市墜落", replacement = "Sky Falls" }
+0x2518a0 = { source = "空中都市撃墜", replacement = "Sky Downed" }
+0x2518b0 = { source = "ミズチとイークレムン", replacement = "Mizuchi & Iiklmn" }
+0x2518c8 = { source = "ミズチ対軍船", replacement = "Mizu vs Navy" }
+0x2518d8 = { source = "ミズチ対雷獣", replacement = "Mizu v Bolt" }
+0x2518e8 = { source = "出撃", replacement = "Go!" }
+0x2518f0 = { source = "ジラーク自爆", replacement = "Zsilak Boom" }
+0x251900 = { source = "イシュバアルを倒す", replacement = "Defeat Ishbaal" }
+0x251914 = { source = "ロセンの鐘を鳴らせ", replacement = "Ring Rocen Bell" }
+0x251928 = { source = "アトレイアの闇の巨人", replacement = "Atleia Dark Giant" }
+0x251940 = { source = "ティアナの闇の巨人", replacement = "Tiana's Dark Giant" }
+0x251954 = { source = "エルファス、神になる", replacement = "Elfas Becomes a God" }
+0x25196c = { source = "竜王の覚醒", replacement = "Wyrm Wakes" }
+0x251978 = { source = "ノエル、剣を抜く", replacement = "Noel Draws Sword" }
+0x25198c = { source = "ネメア突撃", replacement = "Nemea Rush" }
+0x251998 = { source = "ティラ登場", replacement = "Tiera Here" }
+0x2519a4 = { source = "竜王登場", replacement = "Dragon!" }
+0x2519b0 = { source = "エルファス、散る", replacement = "Elfas Falls" }
+0x251a50 = { source = "オプション", replacement = "Options" }
+0x251a5c = { source = "つづきから", replacement = "Continue" }
+0x251a68 = { source = "はじめから", replacement = "New Game" }
+0x251a74 = { source = "環境設定", replacement = "Settings" }
+0x251a80 = { source = "ロード選択", replacement = "Load Menu" }
+0x251b8c = { source = "精霊", replacement = "Elem" }
+0x251cf0 = { source = "全員集合", replacement = "Reunion" }
+0x251cfc = { source = "主人公", replacement = "Hero" }
+0x251d04 = { source = "ネメア", replacement = "Nemea" }
+0x251d0c = { source = "システィーナの伝道師", replacement = "Sistina Missionary" }
+0x251d24 = { source = "ジリオン＆イーシャ", replacement = "Zillion & Iria" }
+0x251d38 = { source = "ゴブゴブ団", replacement = "Gobgobs" }
+0x251d44 = { source = "レムオン＆ゼネテス", replacement = "Lemghon & Xenetes" }
+0x251d58 = { source = "４人の巫女", replacement = "4 Maidens" }
+0x251d7c = { source = "インストールを中止しますか？", replacement = "Stop installation?" }
+0x251da0 = { source = "いいえ", replacement = "No" }
+0x251dac = { source = "はい", replacement = "Yes" }
+0x251dbc = { source = "インストール中・・・", replacement = "Installing..." }
+0x251df4 = { source = "壁紙をダウンロードしますか？", replacement = "Download wallpaper?" }
+0x251e14 = { source = "壁紙ダウンロードについて", replacement = "About Wallpapers" }
+0x251e30 = { source = "壁紙データを、メモリースティック⑯にダウンロードします。", replacement = "Download wallpaper to Memory Stick(TM)." }
+0x251e6c = { source = "壁紙を利用するには、PlayStation", replacement = "To use wallpaper on PlayStation" }
+0x251e8c = { source = "Portable上で、", replacement = "Portable," }
+0x251e9c = { source = "別途設定する必要があります。", replacement = "configure it separately." }
+0x251ebc = { source = "次へ", replacement = "Next" }
+0x251ec8 = { source = "メモリースティック⑯の容量を", replacement = "Memory Stick(TM) capacity" }
+0x251ee8 = { source = "チェックしています", replacement = "Checking..." }
+0x251efc = { source = "抜き差ししないで下さい", replacement = "Do not remove it." }
+0x251f14 = { source = "メモリースティック⑯の空き容量が不足しています。", replacement = "Not enough free space on Memory Stick(TM)." }
+0x251f48 = { source = "この壁紙をダウンロードするには", replacement = "To download this wallpaper," }
+0x251f68 = { source = "空き容量があと%dKB以上必要です。", replacement = "Need %dKB more free space." }
+0x251f8c = { source = "エラーが発生したので", replacement = "An error occurred," }
+0x251fa4 = { source = "ダウンロードを中止しました", replacement = "Download canceled." }
+0x251fc0 = { source = "ダウンロードが完了しました", replacement = "Download complete." }
+0x251fdc = { source = "メモリースティック⑯が見つかりません。", replacement = "Memory Stick(TM) not found." }
+0x252004 = { source = "%dKB以上必要です。", replacement = "Need %dKB or more." }
+0x252018 = { source = "インストールについて", replacement = "About Installation" }
+0x252030 = { source = "メモリースティック⑯にデータの一部を", replacement = "Save some data to Memory Stick(TM)" }
+0x252058 = { source = "インストールデータとしてセーブし、", replacement = "as installation data," }
+0x25207c = { source = "インストールデータとUMD", replacement = "install data and UMD" }
+0x252094 = { source = "からのロードを", replacement = "load together" }
+0x2520a4 = { source = "併用することで、ロード時間を短縮する機能 ", replacement = "to shorten load times. " }
+0x2520d0 = { source = "[インストール]を使用できます。", replacement = "[Install] can be used." }
+0x2520f0 = { source = "インストールデータを上書きしますか？", replacement = "Overwrite installation data?" }
+0x252118 = { source = "※セーブには10分程度かかりますので、", replacement = "Saving takes about 10 minutes." }
+0x252140 = { source = "十分に充電するか、ＡＣアダブターを使用して", replacement = "Fully charge or use the AC adapter" }
+0x25216c = { source = "セーブを行うことをお勧めします", replacement = "before saving." }
+0x25218c = { source = "インストールデータをセーブしますか？", replacement = "Save installation data?" }
+0x2521b4 = { source = "インストールは中断されました", replacement = "Installation interrupted." }
+0x2521d4 = { source = "インストールを中止しました", replacement = "Installation canceled." }
+0x2521f0 = { source = "このインストールデータをインストールするには", replacement = "To install this data," }
+0x252220 = { source = "空き容量があと%dMB以上必要です。", replacement = "Need %dMB more free space." }
+0x252244 = { source = "セーブデータを削除しますか？", replacement = "Delete save data?" }
+0x252264 = { source = "インストールが完了しました", replacement = "Installation complete." }
+0x252280 = { source = "インストール機能を使用する場合は、", replacement = "To use installation," }
+0x2522a4 = { source = "環境設定で「インストール」を", replacement = "in Settings, set \"Install\"" }
+0x2522c4 = { source = "「ON」にしてください", replacement = "to \"ON\"." }
+0x2522dc = { source = "283MB以上必要です。", replacement = "Need 283MB or more." }
+0x2522f0 = { source = "283MB以上のメモリースティック⑯が必要です。", replacement = "A 283MB+ Memory Stick(TM) is required." }
+0x25231c = { source = "インストールの設定を「OFF」にしました。", replacement = "Installation set to \"OFF\"." }
+0x2524dc = { source = "モード指定は０，１だけ\r\n", replacement = "Mode must be 0 or 1\r\n" }
+0x252520 = { source = "ダブルクォートのくくり終わりみつからない\r\n", replacement = "Closing double quote not found\r\n" }
+0x252558 = { source = "すいません、数字は１バイト限定です\r\n", replacement = "Sorry, numbers are 1-byte only\r\n" }
+0x25257c = { source = "数字データ登録し忘れてます\r\n", replacement = "Forgot numeric data\r\n" }
+0x252598 = { source = "数字データ登録し忘れているか、エラーが発生してます\r\n", replacement = "Numeric data missing, or an error occurred\r\n" }
+0x253638 = { source = "防御・かばうは選べない", replacement = "No Defend/Cover" }
+0x253650 = { source = "移動することが出来ない", replacement = "Cannot move" }
+0x253840 = { source = "消費MP", replacement = "MP Use" }
+0x253848 = { source = "消費HP", replacement = "HP Use" }
+0x253868 = { source = "使える魔法がない", replacement = "No usable magic" }
+0x253890 = { source = "ポジション選択", replacement = "Pick Position" }
+0x253928 = { source = "バックファイア", replacement = "Backfire" }
+0x2539b4 = { source = "使える", replacement = "Usable" }
+0x253e0c = { source = "身を守っている", replacement = "Defending" }
+0x253e1c = { source = "%sをかばっている", replacement = "Covering %s" }
+0x25417c = { source = "お宝を獲得", replacement = "Got loot" }
+0x254188 = { source = "%luギア", replacement = "%lu G" }
+0x259e8c = { source = "人物列伝", replacement = "Profiles" }
+0x259ebd = { source = "歴史事件", replacement = "History" }
+0x261e00 = { source = "攻　撃", replacement = "Attack" }
+0x261e18 = { source = "スキル", replacement = "Skills" }
+0x261e30 = { source = "魔　法", replacement = "Magic" }
+0x261e48 = { source = "アイテム", replacement = "Items" }
+0x261e60 = { source = "チャージ", replacement = "Charge" }
+0x261e78 = { source = "防　御", replacement = "Defend" }
+0x261e90 = { source = "移　動", replacement = "Move" }
+0x261ea8 = { source = "逃げる", replacement = "Flee" }

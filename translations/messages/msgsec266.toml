@@ -1,0 +1,61 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2660000"]
+japanese = "ジリオン＆イーシャイベント07用開始<end>"
+english = ""
+
+["2660001"]
+japanese = "ジリオン…。<line-break>あなたは今、どこにいるの…？<line-break>もう一度、あなたの声が聞きたい…。<end>"
+english = "Zillion... Where are you now? I want to hear your voice again...<end>"
+
+["2660002"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2660003"]
+japanese = "大丈夫よ。疲れてなんかいないわ。<line-break>ありがとう。心配してくれて。<line-break>ちょっと彼のことを思い出していたの。<end>"
+english = "I'm fine. I'm not tired at all. Thank you for worrying about me. I was just thinking about him.<end>"
+
+["2660004"]
+japanese = "えっ？\u3000ジリオンのことが聞きたいの？<line-break>べつに構わないけど…。<line-break>うーん、何から話していいのか…。<line-break>あたしと知り合ったころは<line-break>まだ駆け出しの冒険者で、<line-break>頑固で無鉄砲な命知らずだったわ。<end>"
+english = "What? You want to hear about Zillion? I don't mind... I'm just not sure where to start. When we first met, he was still a fledgling adventurer―stubborn, reckless, and with no regard for his own life.<end>"
+
+["2660005"]
+japanese = "でも、いざという時には度胸があって、<line-break>彼の機転で助かったことも<line-break>何度かあったわね。<line-break>とても不器用だけど優しくて、<line-break>あいつがそばにいるだけでなぜか<line-break>あたしは安らぎを覚えたの。<end>"
+english = "But when it counted, he had courage, and his quick thinking proved a lifesaver more than once. He was terribly awkward, but kind. Somehow, just having him beside me put me at ease.<end>"
+
+["2660006"]
+japanese = "えっ？\u3000ジリオンにもう一度<line-break>会いたいかって？<line-break>\u3000<line-break>もしかして、<value:$28>は<line-break>彼がどこにいるのか知ってるの？<end>"
+english = "What? Are you asking if I want to see Zillion again? Wait... <value:$28>, do you know where he is?<end>"
+
+["2660007"]
+japanese = "彼のことを教える<end>"
+english = "Tell her about Zillion<end>"
+
+["2660008"]
+japanese = "黙っている<end>"
+english = "Remain silent<end>"
+
+["2660009"]
+japanese = "ジリオンが…アルノートゥンの<line-break>クリスタルの中に？<line-break>\u3000<line-break>じゃあ、シャリの言っていたことは<line-break>本当だったのね…。<end>"
+english = "Zillion is... inside the crystal of Alnortun? Then what Shalli told me was true...<end>"
+
+["2660010"]
+japanese = "ソウルを失ったあたしを助けるために<line-break>ジリオンが…。<line-break>バカよ…。ジリオン…。<line-break>どうして、あたしなんかのために…。<end>"
+english = "Zillion did that... to save me after I lost my Soul? You fool... Zillion... Why would you do that for someone like me...?<end>"
+
+["2660011"]
+japanese = "ごめんなさい、<value:$28>。<line-break>あなたとの旅もここでおしまい。<line-break>あたし、ゼグナ鉱山に行くわ。<line-break>シャリに会って、<line-break>すべてを終わらせなきゃ…。<line-break>さようなら。<end>"
+english = "I'm sorry, <value:$28>. Our journey together ends here. I'm going to Zegna Mine. I have to see Shalli and put an end to all of this... Goodbye.<end>"
+
+["2660012"]
+japanese = "そうよね。<value:$28>がいくら<line-break>大陸中を旅してるといっても<line-break>ジリオンのことは知らないわよね。<line-break>ごめんなさい。<line-break>もしかしてと思ったから…。<end>"
+english = "You're right. You've traveled all over the continent, <value:$28>, but you wouldn't know about Zillion. I'm sorry. I just thought you might...<end>"
+
+["2660013"]
+japanese = "夜も更けてきたし<line-break>あたし、先に休ませてもらうね。<line-break>おやすみなさい。<end>"
+english = "It's getting late, so I think I'll turn in. Good night.<end>"
+
+["2660014"]
+japanese = "ジリオン＆イーシャイベント07用開終端<end>"
+english = ""

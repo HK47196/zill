@@ -1,0 +1,33 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2540000"]
+japanese = "PSP用新スタートイベントED用開始<end>"
+english = ""
+
+["2540001"]
+japanese = "町を見てきてくれたか、<line-break><value:$28>？<line-break>この１年でだいぶ復興しただろう。<end>"
+english = "Have you been to see the town, <value:$28>? It's come a long way in the past year, hasn't it?<end>"
+
+["2540002"]
+japanese = "すべては君のおかげだ。<line-break>竜王を倒し、<line-break>この世界を解放してくれたのだから…。<end>"
+english = "It's all thanks to you. You defeated the Dragon King and set this world free.<end>"
+
+["2540003"]
+japanese = "愉快だとは思わないか？<line-break>いかに吟遊の名手、リルビーでも<line-break>思いつくまい。<line-break>人類の革新に命をかけ、運命と闘い、<line-break>世界の未来を勝ち取った者が<line-break>\u3000<line-break>みずからの驕りと、魔道技術への<line-break>過信ゆえに滅んだ愚かな王によって<line-break>造られた人間であることを…。<end>"
+english = "Don't you find it amusing? Not even a minstrel as gifted as Lilby could have dreamed it up. The one who put life itself on the line for humanity's transformation, fought against fate, and won the world its future was a human created by a foolish king who perished through his own arrogance and overconfidence in magical technology.<end>"
+
+["2540004"]
+japanese = "結局、いかなる運命の力でさえ<line-break>人の意志を支配することは<line-break>できないということか…。<line-break>君は証明してくれた、<line-break>\u3000<line-break>\u3000<line-break>すべては人の生まれによって<line-break>決められるのではなく、その後の<line-break>生き方によって、定まるのだと。<line-break><value:$28>は人々の希望だよ。<line-break>人類の可能性を見つめ、未来を<line-break>切り開いていくための道しるべ…。<end>"
+english = "Perhaps this means that, in the end, no power of fate can rule the human will. You proved that birth does not decide everything. How one lives afterward does. <value:$28> is the hope of the people, a beacon as we look to humanity's potential and forge a path into the future.<end>"
+
+["2540005"]
+japanese = "今にして思えば、君こそが<line-break>人類の革新を担うに<line-break>最もふさわしい存在だったのだろう。<line-break>人類の革新とは、<line-break>人の意志をもって、人自身の力で<line-break>進化していくことなのだから…。<line-break>君と共に成し遂げたことを<line-break>私は誇りに思う。<end>"
+english = "Looking back now, perhaps you were the one best suited to bring about humanity's transformation. For that transformation means humankind evolving by its own will and its own power. I am proud of what we accomplished together.<end>"
+
+["2540006"]
+japanese = "ありがとう。<value:$28>…。<end>"
+english = "Thank you, <value:$28>.<end>"
+
+["2540007"]
+japanese = "PSP用新スタートイベントED用終端<end>"
+english = ""

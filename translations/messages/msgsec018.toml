@@ -1,0 +1,605 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["180000"]
+japanese = "<if><value:$29><equal>0（よし、これで退治依頼は完了だ。<line-break>\u3000報酬を受け取りに、<line-break>\u3000ギルドに戻るとするか）<end>（これで退治依頼は完了したわ。<line-break>\u3000報酬を受け取りに、<line-break>\u3000ギルドに戻りましょう）<end>"
+english = "<if><value:$29><equal>0(Good. That's the extermination job done. Time to head back to the Guild and collect the reward.)<end>(That's the extermination job done. Let's return to the Guild and collect the reward.)<end>"
+
+["180001"]
+japanese = "ふう、なんとか倒せたわね。<line-break>さあ、<value:$28>、あとは<line-break>ギルドに戻って報告するだけよ。<end>"
+english = "Whew, we managed to beat it. Come on, <value:$28>. All that's left is to report back to the Guild.<end>"
+
+["180002"]
+japanese = "ふわっはっは。手強かったのう。<line-break>さて、あとはギルドに報告じゃな。<line-break>行こうぞ。<value:$28>。<end>"
+english = "Bwahaha! A formidable foe indeed. Now we need only report back to the Guild. Come, <value:$28>.<end>"
+
+["180003"]
+japanese = "ふう。やっつけちゃった。<line-break>でも生き物の命を奪ってお金もらうって<line-break>実はものすごく野蛮かも！<end>"
+english = "Whew. We got it. But taking a creature's life for money might actually be terribly barbaric!<end>"
+
+["180004"]
+japanese = "へへっ、いっちょうあがり！<line-break>よし、<value:$28>、報告しに<line-break>ギルドに行こうぜ！<end>"
+english = "Heh, that's that! Come on, <value:$28>, let's go report back to the Guild!<end>"
+
+["180005"]
+japanese = "やったぁ！\u3000倒せたよ。<line-break>あとはギルドに報告するだけだね。<line-break>行こ、<value:$28>。<end>"
+english = "We did it! We beat it! Now all we have to do is report back to the Guild. Let's go, <value:$28>.<end>"
+
+["180006"]
+japanese = "これでこの仕事はカタがついたわね。<line-break>さあ、<value:$28>、帰って<line-break>ギルドに報告しましょう。<end>"
+english = "That settles this job. Come, <value:$28>. Let's head back and report to the Guild.<end>"
+
+["180007"]
+japanese = "やれやれ、終わりましたね。<line-break>さあ、ギルドへ行って<line-break>報告することにしましょう。<end>"
+english = "Well, that's over. Shall we go report to the Guild?<end>"
+
+["180008"]
+japanese = "いんやぁ～、強かったね。<line-break>ま、私たちにかかればチョロいけど。<line-break>さ、ギルドに報酬もらいに行こっか。<end>"
+english = "Whew, that was a tough one. Still, it was nothing the likes of us couldn't handle. Come on, let's collect our reward from the Guild.<end>"
+
+["180009"]
+japanese = "やったね、姉ちゃん。<line-break>あとはギルドに報告すれば<line-break>報酬がもらえるぞ。行こうぜ。<end>"
+english = "We did it, sis. Once we report to the Guild, we'll get our reward. Let's go.<end>"
+
+["180010"]
+japanese = "終わったわね。<line-break>戻りましょう、ギルドへ。<line-break>報告を聞けばみんな安心するわ。<end>"
+english = "It's over. Let's return to the Guild. Everyone will be relieved when they hear the news.<end>"
+
+["180011"]
+japanese = "うい、退治終わり。<line-break>さ、ギルド行って報告して金もらって、<line-break>酒場で一杯といこうぜ。<end>"
+english = "Right, extermination done. Let's report to the Guild, get paid, then have a drink at the tavern.<end>"
+
+["180012"]
+japanese = "フ、他愛もないな。<line-break>帰るぞ。<line-break>ギルドに報告だ。<end>"
+english = "Hmph. That was nothing. We're going back to report to the Guild.<end>"
+
+["180013"]
+japanese = "やれやれ、骨が折れたのう。<line-break>あとはギルドへ行って報告じゃ。<line-break>行くぞい、<value:$28>。<end>"
+english = "Good grief, that was hard work. All that remains is to report to the Guild. Come, <value:$28>.<end>"
+
+["180014"]
+japanese = "ふ～っ、危なかったね。<line-break>でも、これで依頼は達成だね。<line-break>さあ、帰ってギルドに報告しよう。<end>"
+english = "Whew, that was close. But the job's done now. Come on, let's head back and report to the Guild.<end>"
+
+["180015"]
+japanese = "終わったな。<line-break>戻るぞ、<value:$28>。<line-break>\u3000<end>"
+english = "It's over. We're heading back, <value:$28>.<end>"
+
+["180016"]
+japanese = "あーもう！\u3000やっと終わったわ。<line-break><value:$28>、さっさと戻って<line-break>ギルドに報告したら？<end>"
+english = "Ugh! Finally, it's over. <value:$28>, why don't you hurry back and report to the Guild?<end>"
+
+["180017"]
+japanese = "………………。<line-break><line-break><end>"
+english = "……<end>"
+
+["180018"]
+japanese = "やったね、<value:$28>。<line-break>あとはギルドに報告するだけだね。<line-break>じゃ、帰ろ。<end>"
+english = "We did it, <value:$28>. All that's left is to report to the Guild. Let's go home.<end>"
+
+["180019"]
+japanese = "この程度か…。<line-break>むなしいな。<line-break>\u3000<end>"
+english = "Is that all...? How empty it feels.<end>"
+
+["180020"]
+japanese = "終わったな。<line-break>行くぞ。<line-break>\u3000<end>"
+english = "It's over. Let's go.<end>"
+
+["180021"]
+japanese = "よーし、退治、かんりょ～。<line-break>ささ、<value:$28><line-break>ギルドに帰って報酬もらおうよ。<end>"
+english = "All right, extermination complete! Come on, <value:$28>, let's head back to the Guild and get our reward.<end>"
+
+["180022"]
+japanese = "任務が完遂できたなら、<line-break>こんなところに長居は無用だ。<line-break>ギルドへ戻ろうではないか。<end>"
+english = "Now that the mission is complete, there is no reason to linger here. Let us return to the Guild.<end>"
+
+["180023"]
+japanese = "任務完了を確認しました。<line-break>ギルドへ戻りましょう、<line-break><value:$28>様。<end>"
+english = "Mission completion confirmed. Let us return to the Guild, <value:$28>.<end>"
+
+["180024"]
+japanese = "ま、ざっとこんなもんね。<line-break>さっさとギルドへ戻ろう、<line-break><value:$28>。<end>"
+english = "Well, that's how it's done. Let's hurry back to the Guild, <value:$28>.<end>"
+
+["180025"]
+japanese = "弔いは必ずする。<line-break>安らかに眠ってくれい…。<line-break><end>"
+english = "I promise I'll see you laid to rest. Rest in peace…<end>"
+
+["180026"]
+japanese = "よし、あとは私たちが<line-break>無事にギルドへと戻るだけだな。<line-break>行こうか、<value:$28>。<end>"
+english = "Good. Now all we have to do is make it safely back to the Guild. Shall we, <value:$28>?<end>"
+
+["180027"]
+japanese = "………………。<line-break><line-break><end>"
+english = "……<end>"
+
+["180028"]
+japanese = "………………。<line-break><line-break><end>"
+english = "……<end>"
+
+["180029"]
+japanese = "………………。<line-break><line-break><end>"
+english = "……<end>"
+
+["180030"]
+japanese = "………………。<line-break><line-break><end>"
+english = "……<end>"
+
+["180031"]
+japanese = "………………。<line-break><line-break><end>"
+english = "……<end>"
+
+["180032"]
+japanese = "これで退治依頼は完了だ。<line-break><value:$28>、ギルドに戻って<line-break>報酬をいただくとしようぜ。<end>"
+english = "That's the extermination job done. Come on, <value:$28>, let's return to the Guild and collect our reward.<end>"
+
+["180033"]
+japanese = "これで退治依頼は完了だ。<line-break><value:$28>、ギルドに戻って<line-break>報酬をいただくとしようぜ。<end>"
+english = "That's the extermination job done. Come on, <value:$28>, let's return to the Guild and collect our reward.<end>"
+
+["180034"]
+japanese = "これで退治依頼は完了だ。<line-break><value:$28>、ギルドに戻って<line-break>報酬をいただくとしようぜ。<end>"
+english = "That's the extermination job done. Come on, <value:$28>, let's return to the Guild and collect our reward.<end>"
+
+["180035"]
+japanese = "これで退治依頼は完了だ。<line-break><value:$28>、ギルドに戻って<line-break>報酬をいただくとしようぜ。<end>"
+english = "That's the extermination job done. Come on, <value:$28>, let's return to the Guild and collect our reward.<end>"
+
+["180036"]
+japanese = "これで退治依頼は完了だ。<line-break><value:$28>、ギルドに戻って<line-break>報酬をいただくとしようぜ。<end>"
+english = "That's the extermination job done. Come on, <value:$28>, let's return to the Guild and collect our reward.<end>"
+
+["180037"]
+japanese = "これで退治依頼は完了だ。<line-break><value:$28>、ギルドに戻って<line-break>報酬をいただくとしようぜ。<end>"
+english = "That's the extermination job done. Come on, <value:$28>, let's return to the Guild and collect our reward.<end>"
+
+["180038"]
+japanese = "肩慣らしにもならなかったな。<line-break>ギルドに戻って報告するぞ。<line-break>\u3000<end>"
+english = "That wasn't even a warm-up. We're heading back to report to the Guild.<end>"
+
+["180039"]
+japanese = "依頼完了ね。<line-break>さあ、<value:$28>、<line-break>ギルドに戻って報告よ。<end>"
+english = "Job done. Come on, <value:$28>, let's head back and report to the Guild.<end>"
+
+["180040"]
+japanese = "終わりましたね。<line-break>では、戻りましょう。<line-break>\u3000<end>"
+english = "It's over, then. Let's return.<end>"
+
+["180041"]
+japanese = "やりましたね！<line-break>あとはギルドに報告するだけです。<line-break>行きましょう。<end>"
+english = "We did it! All that's left is to report to the Guild. Let's go.<end>"
+
+["180042"]
+japanese = "終わりだな。<line-break>ギルドに戻って報告しよう。<line-break>\u3000<end>"
+english = "It's over. Let's return and report to the Guild.<end>"
+
+["180043"]
+japanese = "<if><value:$29><equal>0（よし、これで探索の依頼は完了だ。<line-break>\u3000報酬を受け取りに、<line-break>\u3000ギルドに戻るとするか）<end>（これで探索の依頼は完了したわ。<line-break>\u3000報酬を受け取りに、<line-break>\u3000ギルドに戻りましょう）<end>"
+english = "<if><value:$29><equal>0(Good. That's the search job done. Time to head back to the Guild and collect the reward.)<end>(That's the search job done. Let's return to the Guild and collect the reward.)<end>"
+
+["180044"]
+japanese = "これね。依頼のものって。<line-break>さあ、<value:$28>、あとは<line-break>ギルドに持って帰れば仕事は完了ね。<end>"
+english = "This must be what we're looking for. Come on, <value:$28>. We just need to take it back to the Guild, and the job's done.<end>"
+
+["180045"]
+japanese = "うむ、見つかったか。あとはこれを<line-break>ギルドに渡せば依頼達成じゃな。<line-break>行こうぞ。<value:$28>。<end>"
+english = "Ah, so we found it. Once we deliver this to the Guild, the job is done. Come, <value:$28>.<end>"
+
+["180046"]
+japanese = "うふふ、見つけちゃった。でも<line-break>今度はこれを届けに戻るのよね。<line-break>はした金のために、えらい手間かも！<end>"
+english = "Hee hee, found it! But now we have to carry it all the way back. That's a great deal of trouble for a pittance!<end>"
+
+["180047"]
+japanese = "へへっ、これこれ、これだよな。<line-break>よし、<value:$28>、ギルドに<line-break>持ってって報酬もらおうぜ。<end>"
+english = "Heh, this is it. This has to be it. Come on, <value:$28>, let's take it to the Guild and get our reward.<end>"
+
+["180048"]
+japanese = "あった～！！<line-break>ね、これでいいんだよね？<line-break>さあ、ギルドに持ってこう。<end>"
+english = "Found it! This is the right thing, isn't it? Come on, let's take it to the Guild.<end>"
+
+["180049"]
+japanese = "…これね。<line-break>さあ、<value:$28>、<line-break>ギルドに帰りましょう。<end>"
+english = "…This is it. Come, <value:$28>. Let's return to the Guild.<end>"
+
+["180050"]
+japanese = "依頼の品はこれですね。<line-break>さあ、ギルドに戻って<line-break>渡してあげましょう。<end>"
+english = "This is the item we were asked to find. Come, let's return to the Guild and hand it over.<end>"
+
+["180051"]
+japanese = "み～っけ。これよね。<line-break>んじゃ、サクッと持ってって<line-break>ギルドで報酬もらいましょ。<end>"
+english = "Found it! This is the one, right? Let's hurry it over to the Guild and collect our reward.<end>"
+
+["180052"]
+japanese = "やったね、姉ちゃん。<line-break>あとはギルドにこれを持ってけば<line-break>報酬がたんまりだ。行こうぜ。<end>"
+english = "We did it, sis. All we have to do is take this to the Guild, and we'll get a handsome reward. Let's go.<end>"
+
+["180053"]
+japanese = "これね。今回の仕事の探し物って。<line-break>あとはギルドに渡すだけね。<line-break>さあ、行きましょう。<end>"
+english = "This is what we were supposed to find for the job. Now we just have to hand it over at the Guild. Let's go.<end>"
+
+["180054"]
+japanese = "ん、これだな。<line-break>さ、ギルドに渡して金もらって、<line-break>酒場で一杯といこうぜ。<end>"
+english = "Yeah, this is it. Let's hand it over at the Guild, get paid, then have a drink at the tavern.<end>"
+
+["180055"]
+japanese = "フン、これか。<line-break>帰るぞ。<line-break>まったく、くだらん使い走りだ。<end>"
+english = "Hmph. So this is it. We're leaving. What a pointless little errand.<end>"
+
+["180056"]
+japanese = "おお、これじゃな。<line-break>あとはギルドに渡すだけじゃ。<line-break>行くぞい、<value:$28>。<end>"
+english = "Ah, this is it. Now we need only hand it over at the Guild. Come, <value:$28>.<end>"
+
+["180057"]
+japanese = "<value:$28>、これだよ。<line-break>見つかってよかったね。<line-break>さ、ギルドに持って行こう。<end>"
+english = "Here it is, <value:$28>. I'm glad we found it. Come on, let's take it to the Guild.<end>"
+
+["180058"]
+japanese = "これのようだな。<line-break>戻るぞ、<value:$28>。<line-break>\u3000<end>"
+english = "This appears to be it. We're heading back, <value:$28>.<end>"
+
+["180059"]
+japanese = "やぁっと見つかったわ！<line-break><value:$28>、さっさと戻って<line-break>ギルドに報告したら？<end>"
+english = "We finally found it! Why don't you hurry back and report to the Guild, <value:$28>?<end>"
+
+["180060"]
+japanese = "………………。<line-break><line-break><end>"
+english = "……<end>"
+
+["180061"]
+japanese = "あったよ、<value:$28>。<line-break>これをギルドに持ってけばいいんだね。<line-break>じゃ、帰ろ。<end>"
+english = "Found it, <value:$28>. We just have to take this to the Guild, right? Let's go home.<end>"
+
+["180062"]
+japanese = "これか…。<line-break>では、戻るか。<line-break>\u3000<end>"
+english = "So this is it… Shall we head back?<end>"
+
+["180063"]
+japanese = "これでいいのだな？<line-break>行くぞ。<line-break>\u3000<end>"
+english = "This is the right one, yes? Let's go.<end>"
+
+["180064"]
+japanese = "はっけ～ん！！<line-break>よーし、あとはギルドに持ってって<line-break>報酬もらうだけだね。<end>"
+english = "Found it! All right, now we just take it to the Guild and collect our reward.<end>"
+
+["180065"]
+japanese = "目的を達したならば、<line-break>無駄な時間を費やすことはない。<line-break>ギルドへとって返すとしよう。<end>"
+english = "Our objective is achieved. There is no reason to waste any more time. Let us make haste back to the Guild.<end>"
+
+["180066"]
+japanese = "目標物、確保しました。<line-break>これで町へ帰れますね、<line-break><value:$28>様。<end>"
+english = "Target secured. We can return to town now, <value:$28>.<end>"
+
+["180067"]
+japanese = "これでよし、と。<line-break>早いとこ、ギルドへ持ってって、<line-break>報酬と引き換えなきゃね。<end>"
+english = "There, that does it. We should hurry it back to the Guild and trade it for our reward.<end>"
+
+["180068"]
+japanese = "やーれやれ、ようやく見つけたわい。<line-break>ま、これで、大手を振って<line-break>町へと帰れるというもんじゃのう。<end>"
+english = "Good grief, we finally found it. Well, now we can return to town with our heads held high.<end>"
+
+["180069"]
+japanese = "これが依頼の品のようだな。<line-break>ギルドへ戻る途中で紛失しないよう、<line-break>くれぐれも気をつけるんだぞ。<end>"
+english = "This appears to be the item we were sent to find. Take great care not to lose it on the way back to the Guild.<end>"
+
+["180070"]
+japanese = "………………。<line-break><line-break><end>"
+english = "……<end>"
+
+["180071"]
+japanese = "………………。<line-break><line-break><end>"
+english = "……<end>"
+
+["180072"]
+japanese = "………………。<line-break><line-break><end>"
+english = "……<end>"
+
+["180073"]
+japanese = "………………。<line-break><line-break><end>"
+english = "……<end>"
+
+["180074"]
+japanese = "………………。<line-break><line-break><end>"
+english = "……<end>"
+
+["180075"]
+japanese = "これで探索の依頼は完了だ。<line-break><value:$28>、ギルドに戻って<line-break>報酬をいただくとしようぜ。<end>"
+english = "That's the search job done. Come on, <value:$28>, let's return to the Guild and collect our reward.<end>"
+
+["180076"]
+japanese = "これで探索の依頼は完了だ。<line-break><value:$28>、ギルドに戻って<line-break>報酬をいただくとしようぜ。<end>"
+english = "That's the search job done. Come on, <value:$28>, let's return to the Guild and collect our reward.<end>"
+
+["180077"]
+japanese = "これで探索の依頼は完了だ。<line-break><value:$28>、ギルドに戻って<line-break>報酬をいただくとしようぜ。<end>"
+english = "That's the search job done. Come on, <value:$28>, let's return to the Guild and collect our reward.<end>"
+
+["180078"]
+japanese = "これで探索の依頼は完了だ。<line-break><value:$28>、ギルドに戻って<line-break>報酬をいただくとしようぜ。<end>"
+english = "That's the search job done. Come on, <value:$28>, let's return to the Guild and collect our reward.<end>"
+
+["180079"]
+japanese = "これで探索の依頼は完了だ。<line-break><value:$28>、ギルドに戻って<line-break>報酬をいただくとしようぜ。<end>"
+english = "That's the search job done. Come on, <value:$28>, let's return to the Guild and collect our reward.<end>"
+
+["180080"]
+japanese = "これで探索の依頼は完了だ。<line-break><value:$28>、ギルドに戻って<line-break>報酬をいただくとしようぜ。<end>"
+english = "That's the search job done. Come on, <value:$28>, let's return to the Guild and collect our reward.<end>"
+
+["180081"]
+japanese = "これだな。<line-break>早くギルドに持って帰るぞ。\u3000<end>"
+english = "This is it. Let's hurry and take it back to the Guild.<end>"
+
+["180082"]
+japanese = "見つけたわ。<line-break>ギルドに持って帰って、<line-break>報酬をもらいましょ。<end>"
+english = "Found it. Let's take it back to the Guild and collect our reward.<end>"
+
+["180083"]
+japanese = "これなのですか？<line-break>では戻りましょう。<line-break>\u3000<end>"
+english = "Is this really it? Then let us return.<end>"
+
+["180084"]
+japanese = "やりましたね！<line-break>あとは持って帰るだけです。<line-break>気をつけて帰りましょう。<end>"
+english = "We did it! Now we only have to take it back. Let's be careful on the way.<end>"
+
+["180085"]
+japanese = "これなのかい？<line-break>なら早く持って帰ろう。<line-break>\u3000<end>"
+english = "Is this it? Then let's hurry and take it back.<end>"
+
+["180086"]
+japanese = "赤い<end>"
+english = "Red<end>"
+
+["180087"]
+japanese = "青い<end>"
+english = "Blue<end>"
+
+["180088"]
+japanese = "栗色の<end>"
+english = "Chestnut<end>"
+
+["180089"]
+japanese = "金色の<end>"
+english = "Golden<end>"
+
+["180090"]
+japanese = "猛き<end>"
+english = "Fierce<end>"
+
+["180091"]
+japanese = "優しき<end>"
+english = "Gentle<end>"
+
+["180092"]
+japanese = "探求する<end>"
+english = "Seeking<end>"
+
+["180093"]
+japanese = "信念の<end>"
+english = "Steadfast<end>"
+
+["180094"]
+japanese = "荒ぶる<end>"
+english = "Raging<end>"
+
+["180095"]
+japanese = "静かなる<end>"
+english = "Serene<end>"
+
+["180096"]
+japanese = "炎の<end>"
+english = "Flame<end>"
+
+["180097"]
+japanese = "水の<end>"
+english = "Water<end>"
+
+["180098"]
+japanese = "地の<end>"
+english = "Earth<end>"
+
+["180099"]
+japanese = "風の<end>"
+english = "Wind<end>"
+
+["180100"]
+japanese = "豪腕の<end>"
+english = "Strong-Armed<end>"
+
+["180101"]
+japanese = "不屈の<end>"
+english = "Indomitable<end>"
+
+["180102"]
+japanese = "聡き<end>"
+english = "Clever<end>"
+
+["180103"]
+japanese = "気高き<end>"
+english = "Noble<end>"
+
+["180104"]
+japanese = "駆け抜ける<end>"
+english = "Fleet<end>"
+
+["180105"]
+japanese = "新たなる<end>"
+english = "New<end>"
+
+["180106"]
+japanese = "深紅の<end>"
+english = "Crimson<end>"
+
+["180107"]
+japanese = "蒼き<end>"
+english = "Azure<end>"
+
+["180108"]
+japanese = "琥珀色の<end>"
+english = "Amber<end>"
+
+["180109"]
+japanese = "黄金の<end>"
+english = "Gold<end>"
+
+["180110"]
+japanese = "豪胆なる<end>"
+english = "Dauntless<end>"
+
+["180111"]
+japanese = "誠心の<end>"
+english = "Sincere<end>"
+
+["180112"]
+japanese = "求道する<end>"
+english = "Truth-Seeking<end>"
+
+["180113"]
+japanese = "専心たる<end>"
+english = "Devoted<end>"
+
+["180114"]
+japanese = "勇猛なる<end>"
+english = "Valiant<end>"
+
+["180115"]
+japanese = "冷徹なる<end>"
+english = "Coolheaded<end>"
+
+["180116"]
+japanese = "烈火の<end>"
+english = "Blazing<end>"
+
+["180117"]
+japanese = "氷の<end>"
+english = "Ice<end>"
+
+["180118"]
+japanese = "大地の<end>"
+english = "Earth<end>"
+
+["180119"]
+japanese = "嵐の<end>"
+english = "Storm<end>"
+
+["180120"]
+japanese = "烈たる<end>"
+english = "Fierce<end>"
+
+["180121"]
+japanese = "剛たる<end>"
+english = "Mighty<end>"
+
+["180122"]
+japanese = "賢たる<end>"
+english = "Wise<end>"
+
+["180123"]
+japanese = "聖なる<end>"
+english = "Holy<end>"
+
+["180124"]
+japanese = "疾たる<end>"
+english = "Swift<end>"
+
+["180125"]
+japanese = "柔なる<end>"
+english = "Supple<end>"
+
+["180126"]
+japanese = "戦士<end>"
+english = "Warrior<end>"
+
+["180127"]
+japanese = "鉄壁<end>"
+english = "Iron Wall<end>"
+
+["180128"]
+japanese = "智者<end>"
+english = "Wise One<end>"
+
+["180129"]
+japanese = "微笑<end>"
+english = "Smile<end>"
+
+["180130"]
+japanese = "流星<end>"
+english = "Shooting Star<end>"
+
+["180131"]
+japanese = "業師<end>"
+english = "Virtuoso<end>"
+
+["180132"]
+japanese = "炎<end>"
+english = "Flame<end>"
+
+["180133"]
+japanese = "水流<end>"
+english = "Current<end>"
+
+["180134"]
+japanese = "大地<end>"
+english = "Earth<end>"
+
+["180135"]
+japanese = "風<end>"
+english = "Wind<end>"
+
+["180136"]
+japanese = "武神<end>"
+english = "War God<end>"
+
+["180137"]
+japanese = "鉄人<end>"
+english = "Iron One<end>"
+
+["180138"]
+japanese = "賢者<end>"
+english = "Sage<end>"
+
+["180139"]
+japanese = "聖人<end>"
+english = "Saint<end>"
+
+["180140"]
+japanese = "稲妻<end>"
+english = "Lightning<end>"
+
+["180141"]
+japanese = "匠<end>"
+english = "Artisan<end>"
+
+["180142"]
+japanese = "業火<end>"
+english = "Inferno<end>"
+
+["180143"]
+japanese = "激流<end>"
+english = "Torrent<end>"
+
+["180144"]
+japanese = "泰山<end>"
+english = "Mount Tai<end>"
+
+["180145"]
+japanese = "烈風<end>"
+english = "Gale<end>"
+
+["180146"]
+japanese = "お抱え剣闘士<end>"
+english = "House Gladiator<end>"
+
+["180147"]
+japanese = "竜殺し<end>"
+english = "Dragonslayer<end>"
+
+["180148"]
+japanese = "剣聖<end>"
+english = "Sword Saint<end>"
+
+["180149"]
+japanese = "竜字将軍<end>"
+english = "Dragon Glyph General<end>"
+
+["180150"]
+japanese = "ノーブル伯<end>"
+english = "Count of Noble<end>"

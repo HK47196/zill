@@ -1,0 +1,613 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1710000"]
+japanese = "イークレムン\u3000Ｖ４\u3000開始<end>"
+english = ""
+
+["1710001"]
+japanese = "待ちやがれ！<end>"
+english = "Hold it right there!<end>"
+
+["1710002"]
+japanese = "ディンガルの敗残兵だな？<line-break>貴様らの首をロストールに売れば<line-break>恩賞にあずかれる。<end>"
+english = "You're defeated soldiers from Dingal, aren't you? We can claim a reward from Rostorl for your heads.<end>"
+
+["1710003"]
+japanese = "すまねえが、死んでもらうぜ。<end>"
+english = "Sorry, but you're going to have to die.<end>"
+
+["1710004"]
+japanese = "くそっ！\u3000やるじゃねえか。<line-break>こうなったら本気でいくぜ！<end>"
+english = "Damn! You're pretty good. Fine, no more holding back!<end>"
+
+["1710005"]
+japanese = "ま、まずいぞ。<line-break>逃げるんだ！<end>"
+english = "Th-this is bad. Run!<end>"
+
+["1710006"]
+japanese = "え？\u3000え？\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>うわっ！？<line-break>待ってくれ～！<end>"
+english = "Huh? What? Aagh! Wait for me!<end>"
+
+["1710007"]
+japanese = "そなた、強いな。<end>"
+english = "You are strong.<end>"
+
+["1710008"]
+japanese = "奴らを捕らえよ。<end>"
+english = "Seize them.<end>"
+
+["1710009"]
+japanese = "ははっ！<end>"
+english = "Yes, sire!<end>"
+
+["1710010"]
+japanese = "余は、ドワーフ王国の国王ジンガ。<line-break>そなたの戦いぶり、見せてもらった。<line-break>見事。<end>"
+english = "I am Jinga, King of the Dwarf Kingdom. I witnessed your skill in battle. Most impressive.<end>"
+
+["1710011"]
+japanese = "敗残兵を保護しろと？\u3000よかろう。<line-break>戦争を持ちこまれるのは許せんが、<line-break>落ち武者狩りを見逃すわけにはいかん。<line-break>これからは見張りの目を厳しくして、<line-break>二度とあのような真似はさせん。<line-break>それでよいかな？<end>"
+english = "You ask me to protect the defeated soldiers? Very well. I will not allow war to be brought here, but neither can I turn a blind eye to the hunting down of defeated soldiers. I shall strengthen the watch and see that nothing of the sort happens again. Will that satisfy you?<end>"
+
+["1710012"]
+japanese = "クッ…フワッハッハッハ！<line-break>このドワーフ王に対して、臆せずに<line-break>敗残兵の保護を言いつけるとはな…。<line-break>強き人間よ、名を名乗れ。<line-break>…その姿、兵卒ではなさそうだが？<end>"
+english = "Heh... Bwahahahaha! To order the Dwarf King, without a trace of fear, to protect defeated soldiers... Strong human, state your name. Judging by your appearance, you're no foot soldier, are you?<end>"
+
+["1710013"]
+japanese = "なるほど、冒険者か。<line-break>では、さらばだ<value:$28>。<line-break>旅の無事を祈っておるぞ。<end>"
+english = "Ah, an adventurer. Then farewell, <value:$28>. May your journey be a safe one.<end>"
+
+["1710014"]
+japanese = "聞けば、お主がドワーフ王に<line-break>敗残兵の保護を願い出てくれた<line-break>そうではないか。<line-break>お主のおかげで、多くの兵が<line-break>安全に逃げ延びることができた。<line-break>\u3000<end>"
+english = "I hear you asked the Dwarf King to grant refuge to our defeated soldiers. Thanks to you, many of them escaped to safety.<end>"
+
+["1710015"]
+japanese = "兵に代わって礼をいう。<line-break>この通りじゃ。<end>"
+english = "On behalf of those soldiers, you have my deepest thanks.<end>"
+
+["1710016"]
+japanese = "ドワーフの王国内でも、かなりの数の<line-break>落ち武者狩りが出たらしい。<line-break>多くの兵の命を、失ってしもうた…。<end>"
+english = "It seems quite a few people took to hunting down routed soldiers, even within the Dwarf Kingdom. We lost many soldiers...<end>"
+
+["1710017"]
+japanese = "さて、ベルゼーヴァ卿が<line-break>わしを叱責しようとお待ちじゃ。<line-break>すまぬが、ついてきてくれぬか。<line-break>わしにとってはお主は、<line-break>まぁ孫のようなものよ。<line-break>それが保険になるからの。<end>"
+english = "Now then, Lord Beelzeva is waiting to give me a proper dressing-down. Sorry to ask, but would you come with me? You're rather like a grandchild to me, you know. And that should serve as a bit of insurance.<end>"
+
+["1710018"]
+japanese = "アキュリュースの船着き場に<line-break>女性がいるはずだ。<line-break>彼女に話しかけてこう言うのだ。\u3000<line-break>帝国はあの陽より輝く、とな。<line-break>あとはその女性が案内してくれる。<line-break>では、しばしさらばだ。<end>"
+english = "There should be a woman at Aqyurius Wharf. Speak to her and say, “The Empire shines brighter than that sun.” She will guide you from there. Until we meet again, farewell.<end>"
+
+["1710019"]
+japanese = "朱雀将軍アンギルダン。<line-break>…君には失望させられた。<end>"
+english = "Vermilion Bird General Angeerdan. You have disappointed me.<end>"
+
+["1710020"]
+japanese = "この戦につぎ込んだ時間と予算と物資。<line-break>君はそれらすべてを無にしたのだ。<line-break>言いわけはあるかね？<end>"
+english = "All the time, funds, and supplies committed to this war―you have brought them all to nothing. Have you any excuse?<end>"
+
+["1710021"]
+japanese = "かつては赤い巨星の異名をとる名将。<line-break>その名声にのぼせ上がって<line-break>いささか、調子にのりすぎたのでは？ <line-break>日頃から、規則を無視する<line-break>おごりたかぶった振る舞い。<line-break>その結果がこれですか、朱雀将軍？<end>"
+english = "Once, you were a renowned commander known as the Red Giant Star. Has that fame gone to your head? Perhaps you grew rather too sure of yourself. You have always behaved with arrogance, flouting the rules―and this is the result, Vermilion Bird General?<end>"
+
+["1710022"]
+japanese = "フッ…、落ち着いたものだな。<line-break>さすがは朱雀将軍とでも言うべきか。<line-break>それとも、恥知らずなだけか…。<line-break>だが、あれほどの失態を演じておいて<line-break>このままその地位にあり続けようと<line-break>思うほど恥知らずでもあるまい。<end>"
+english = "Hmph. Quite composed, aren't you? Perhaps that is only to be expected of the Vermilion Bird General. Or perhaps you simply have no shame. Still, even you cannot be shameless enough to expect to retain your position after a blunder of this magnitude.<end>"
+
+["1710023"]
+japanese = "…朱雀将軍アンギルダン・ゼイエン。<line-break>君を南方攻略軍司令官から解任する。<line-break>\u3000<line-break>今後は、西方攻略軍司令、<line-break>白虎将軍ジラークの指揮下に<line-break>入ってもらう。<end>"
+english = "Vermilion Bird General Angeerdan Zeien. You are relieved of command of the Southern Campaign Army. From now on, you will serve under White Tiger General Zsilak, commander of the Western Campaign Army.<end>"
+
+["1710024"]
+japanese = "君の犯した失敗からすれば、<line-break>寛大すぎるほどの処置だ。<line-break>まさか異存はあるまいな？<end>"
+english = "Given your failure, this is more lenient than you deserve. You'll accept it without objection, I presume?<end>"
+
+["1710025"]
+japanese = "はい。<end>"
+english = "Yes.<end>"
+
+["1710026"]
+japanese = "今後はおとなしくして、\u3000\u3000\u3000\u3000\u3000<line-break>規則に忠実にね。<line-break>アンギルダン将軍。<line-break>ジラーク将軍は、<line-break>規律に厳しいこと、この上ないわ。<line-break>せいぜい、励んでください。<end>"
+english = "From now on, behave yourself and follow the rules, General Angeerdan. General Zsilak is an exceedingly strict disciplinarian. Do try your best.<end>"
+
+["1710027"]
+japanese = "…よし。下がっていい。<end>"
+english = "Very well. You may go.<end>"
+
+["1710028"]
+japanese = "長生きのコツはな、腹を立てんことよ。<line-break>わしは本来なら死刑よ。ただ、<line-break>わしには脱走の前科が２回あるでな。<line-break>若造め、あそこでわしを挑発して、<line-break>怒って奴に襲いかかったところで<line-break>バッサリという筋書きよ。<end>"
+english = "The secret to a long life is not losing your temper. By rights, I should have been sentenced to death. But I've escaped twice before, you see. That young whelp meant to provoke me into attacking him, then cut me down on the spot. That was the plan.<end>"
+
+["1710029"]
+japanese = "ヘタに死刑宣告をしてから逃げられて、<line-break>また他国で傭兵でもやられる前に、<line-break>わしを始末しようとしたわけじゃな。<line-break>ベルゼーヴァ宰相殿は<line-break>双剣の使い手。<line-break>しかも、魔法もかなりできる。<end>"
+english = "He wanted me disposed of before he could formally sentence me to death and risk my escaping again to serve as a mercenary in some other country. Chancellor Beelzeva is a master of twin swords, and no mean hand at magic either.<end>"
+
+["1710030"]
+japanese = "ザギヴは魔道アカデミーを首席で卒業。<line-break>いにしえの強力な呪文も使える。<line-break>ふたり相手ではわしでも勝てぬわ。<line-break>だから、お主を連れていった。<line-break>わしは、お主のことだけを考えて、<line-break>やっとこらえておられた。<end>"
+english = "Zagiv graduated at the top of her class from the Academy of Magic and can cast powerful ancient spells. Even I couldn't defeat the two of them together. That's why I brought you along. Only by keeping you in mind did I manage to hold myself back.<end>"
+
+["1710031"]
+japanese = "わしが悟ったことを教えてやろう。\u3000\u3000<line-break>大事なことは生き延びることじゃ。<line-break>意地も何も生き延びてこそじゃ。<line-break>今日は、本当に感謝しとる。<line-break>おかげで命を拾うたわ。<end>"
+english = "Let me tell you what I've learned: what matters is staying alive. Pride and all the rest mean nothing unless you survive. I truly am grateful to you today. You saved my life.<end>"
+
+["1710032"]
+japanese = "わしは、これから、命令通り、<line-break>ジラークのもとへゆく。<line-break>\u3000<line-break>お主も、この老いぼれに<line-break>つきあう気があったら、<line-break>西方攻略軍に顔を出してくれ。<end>"
+english = "Now I shall obey my orders and go to Zsilak. If you feel like keeping this old fool company, come and visit the Western Campaign Army.<end>"
+
+["1710033"]
+japanese = "おお、<value:$28>。<line-break>来たか。<end>"
+english = "Ah, <value:$28>. You've come.<end>"
+
+["1710034"]
+japanese = "こちらは？<end>"
+english = "And this is?<end>"
+
+["1710035"]
+japanese = "わしの戦友だ。<end>"
+english = "A comrade-in-arms of mine.<end>"
+
+["1710036"]
+japanese = "ということは、<line-break>ここに入る権限はない。<end>"
+english = "Then your comrade has no authority to enter.<end>"
+
+["1710037"]
+japanese = "なんと？<end>"
+english = "What?<end>"
+
+["1710038"]
+japanese = "そもそも卿からして、<line-break>ここに入る権限はないはずだが？<end>"
+english = "For that matter, you shouldn't even be allowed in here, should you?<end>"
+
+["1710039"]
+japanese = "ジラーク、<line-break>わしは話があってきたのだ。<line-break>\u3000<line-break>このままではいたずらに<line-break>兵を損じるばかりだぞ。<end>"
+english = "Zsilak, I came to speak with you. If this continues, we will only squander more soldiers' lives.<end>"
+
+["1710040"]
+japanese = "西方攻略の指揮は<line-break>私に一任されている。<line-break>余計な指図はやめていただきたい。<end>"
+english = "I have been entrusted with sole command of the western campaign. I would ask you to stop interfering.<end>"
+
+["1710041"]
+japanese = "よ、余計じゃと…。<end>"
+english = "You... call that interference?<end>"
+
+["1710042"]
+japanese = "卿は昔、ディンガルから脱走したあと、<line-break>アキュリュースの傭兵隊長を<line-break>していたそうではないか。<line-break>卿の策に<line-break>利敵行為がないとは言えぬ。<end>"
+english = "After deserting Dingal, you once served as an Aqyurius mercenary captain, did you not? I cannot rule out the possibility that your strategy may aid the enemy.<end>"
+
+["1710043"]
+japanese = "利敵行為じゃと？<line-break>見損なうな、ジラーク！<end>"
+english = "Aid the enemy? Do not misjudge me, Zsilak!<end>"
+
+["1710044"]
+japanese = "腹を立てるのは愚者の業だ、<line-break>アンギルダン卿。私はあくまで<line-break>可能性について言及しているだけだ。<line-break>また、軍の中にそう見る向きが<line-break>ないとも言えぬ。そうなると統制上<line-break>問題が生じることになる。<end>"
+english = "Anger is the province of fools, Lord Angeerdan. I am merely noting a possibility. Nor can I say that no one in the army shares that suspicion. That would create problems of discipline.<end>"
+
+["1710045"]
+japanese = "強制手段をとる必要が生じるまえに、<line-break>お帰り願おう。<end>"
+english = "I must ask you to leave before force becomes necessary.<end>"
+
+["1710046"]
+japanese = "くっ。ジラークめ！<line-break>…なるほど、ベルゼーヴァ卿がわしを\u3000<line-break>ジラークのもとへ回したわけじゃ。<line-break>さすがのわしでも、奴のそばにおると、<line-break>せっかく先日抑えた怒りが<line-break>また煮え上がって来おるわ。<end>"
+english = "Damn that Zsilak! So that's why Lord Beelzeva sent me to Zsilak. Even I can scarcely be near the man without the anger I only just mastered the other day boiling up all over again.<end>"
+
+["1710047"]
+japanese = "ジラークの方も、わしが奴の権限を<line-break>脅かすべく、ベルゼーヴァ卿が<line-break>遣わしたと思うて神経質になっておる。<line-break>東の死神カルラは、ジラークと違うて、<line-break>まあなんというか…食わせ者じゃ。<line-break>きっとわしと馬が合う。<end>"
+english = "Zsilak is on edge as well. He thinks Lord Beelzeva sent me to undermine his authority. But Karula, the Death God of the East, is nothing like Zsilak. How shall I put it... she's a wily one. I'm sure we'll get along.<end>"
+
+["1710048"]
+japanese = "わしとカルラとが手を組めば<line-break>必ずや帝国に対し造反すると<line-break>ベルゼーヴァ卿は思うたのだろうよ。<line-break>人の和を信じずして<line-break>帝国に未来はないぞ、<line-break>ベルゼーヴァ卿！！<end>"
+english = "Lord Beelzeva must have thought that if Karula and I joined forces, we would surely rebel against the Empire. The Empire has no future if it puts no faith in concord among its people, Lord Beelzeva!<end>"
+
+["1710049"]
+japanese = "おお、<value:$28>、よく来た。<line-break>今から、アキュリュース攻めらしいぞ。<line-break>\u3000<line-break>無謀にもジラークは、<line-break>あのミズチの棲まう湖を<line-break>正面から突破する腹づもりのようじゃ。<end>"
+english = "Ah, <value:$28>. Good of you to come. It seems the assault on Aqyurius is about to begin. Zsilak, in his recklessness, means to cross the lake where the Mizuchi dwells in a frontal attack.<end>"
+
+["1710050"]
+japanese = "何の策もなしにあの湖を渡るなど<line-break>正気の沙汰ではないが、敵の傭兵部隊は<line-break>正規の軍に比べて統率がとれておらぬ。<line-break>なんとかミズチがいる湖を越え<line-break>集団戦闘に持ち込めれば、<line-break>勝機をつかめるやもしれぬ。<end>"
+english = "Trying to cross that lake without a plan is sheer madness. But the enemy mercenaries lack the discipline of a regular army. If we can somehow cross the lake despite the Mizuchi and draw them into a pitched battle, we may yet have a chance.<end>"
+
+["1710051"]
+japanese = "時間のようじゃ。<line-break>行くぞ！\u3000<value:$28>！<end>"
+english = "Looks like it's time. Let's go, <value:$28>!<end>"
+
+["1710052"]
+japanese = "やはりミズチの棲む湖を越えるのは<line-break>無理であったか。<line-break>この船ももう長くは持つまい…。<end>"
+english = "So crossing the Mizuchi's lake was beyond us after all. This ship will not hold together much longer...<end>"
+
+["1710053"]
+japanese = "<value:$28>、<line-break>お主、泳ぎは得意か？<end>"
+english = "<value:$28>, are you a strong swimmer?<end>"
+
+["1710054"]
+japanese = "何をふるえておる！<line-break>生き延びるためじゃ、来い！<end>"
+english = "Why are you trembling? We must do this to survive. Come!<end>"
+
+["1710055"]
+japanese = "ぶふぅ～。<line-break>大丈夫か？\u3000<value:$28>。<end>"
+english = "Hwoof... Are you all right, <value:$28>?<end>"
+
+["1710056"]
+japanese = "もはや無事なのはわしらだけか。<line-break>しかし、やるだけのことは<line-break>やらねばなるまいの。<line-break>ゆくぞ、<value:$28>！<end>"
+english = "Are we the only ones left unharmed? Still, we must do what we can. Come, <value:$28>!<end>"
+
+["1710057"]
+japanese = "いたぞ！<line-break>やっぱりあのヘビ、<line-break>越えられてやがった！<end>"
+english = "There it is! That damned snake made it across after all!<end>"
+
+["1710058"]
+japanese = "それをここで始末するのが<line-break>私たちの仕事ですからね。<line-break>さ、行きましょう！<end>"
+english = "And it's our job to finish it off here. Come, let's go!<end>"
+
+["1710059"]
+japanese = "ど、どうする俺…？<line-break>なんか、あいつら<line-break>めっちゃ強そうだな…。\u3000<line-break>ええい、めんどくせぇ！<line-break>こうなったら<line-break>当たって砕けちまうか！！<end>"
+english = "W-what am I supposed to do...? Those guys look really strong... Ah, to hell with it! I might as well charge in and take my chances!<end>"
+
+["1710060"]
+japanese = "おやめなさい！！<end>"
+english = "Stop at once!<end>"
+
+["1710061"]
+japanese = "ディンガルの将軍と<line-break>お見受けします。<end>"
+english = "You appear to be a general of Dingal.<end>"
+
+["1710062"]
+japanese = "いかにも！<line-break>朱雀将軍アンギルダンと申す。<line-break>そなたは？<end>"
+english = "Indeed! I am Angeerdan, the Vermilion Bird General. And you are?<end>"
+
+["1710063"]
+japanese = "私はイークレムン。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>水の神殿の巫女です。<line-break>\u3000<line-break>自衛行為こそしますが、<line-break>私どもの町は争いを望みません。<line-break>武器をお収めください。<end>"
+english = "I am Iiklmn, a priestess of the Water Temple. We will defend ourselves, but our town does not seek conflict. Please lower your weapons.<end>"
+
+["1710064"]
+japanese = "ありがとうございます。<end>"
+english = "Thank you.<end>"
+
+["1710065"]
+japanese = "つい先程も、この岸に\u3000\u3000\u3000\u3000\u3000<line-break>そちらの兵の方が<line-break>ふたりほど漂着されました。<line-break>今、傷の手当が終わったところです。<line-break>まもなくこちらに来るでしょう。<end>"
+english = "Just a short while ago, two of your soldiers washed ashore here. We have just finished tending their wounds. They should be here shortly.<end>"
+
+["1710066"]
+japanese = "なんと…。<line-break>かたじけない、感謝いたす！<end>"
+english = "What...? You have my deepest gratitude!<end>"
+
+["1710067"]
+japanese = "あ、アンギルダン将軍…！<end>"
+english = "G-General Angeerdan...!<end>"
+
+["1710068"]
+japanese = "うむ。無事で何よりじゃ。<line-break>安心せい。お主らの働きは<line-break>よくわかっておるわ。<end>"
+english = "Good. I am glad to see you safe. Be at ease. I am well aware of your efforts.<end>"
+
+["1710069"]
+japanese = "湖のミズチたちには、\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>みなさんを襲うことのないよう、<line-break>私から言い含めておきます。<line-break>できれば、もうこれ以上、<line-break>お互いに誰も傷つけることのないよう<line-break>お引き取りいただきたいのですが。<end>"
+english = "I will instruct the Mizuchi in the lake not to attack any of you. If possible, I would ask that you withdraw, so that no one on either side need be hurt again.<end>"
+
+["1710070"]
+japanese = "我が軍も、今はこれ以上、<line-break>刃をふるうことはかないませぬ。<line-break>\u3000<line-break>かさねがさね、かたじけない。<line-break>慈愛に満ちたご配慮、ありがたく<line-break>甘えさせていただき申す。<end>"
+english = "My army is in no condition to wield its blades any further. Once again, you have my gratitude. We shall humbly accept your compassionate offer.<end>"
+
+["1710071"]
+japanese = "では失礼いたします。<line-break>みな様に清き水の加護があらんことを。<end>"
+english = "Then I shall take my leave. May the blessing of pure water be upon you all.<end>"
+
+["1710072"]
+japanese = "赤い…鎧…。<line-break>アンギルダン様…。<end>"
+english = "Red... armor... Lord Angeerdan...<end>"
+
+["1710073"]
+japanese = "いや、何か懐かしい感じのする<line-break>娘じゃったのでな。<end>"
+english = "No, there was simply something strangely familiar about that girl.<end>"
+
+["1710074"]
+japanese = "ば、バカなことを申すな！<line-break>そら、本陣に戻るぞっ。<end>"
+english = "D-don't talk nonsense! Come, we're returning to the main camp!<end>"
+
+["1710075"]
+japanese = "…それで、卿らは<line-break>おめおめと逃げ帰ってきたと、<line-break>こういうことかね？<end>"
+english = "So... you fled back here in disgrace. Is that what happened?<end>"
+
+["1710076"]
+japanese = "さすがはアンギルダン将軍。<line-break>恥も外聞もなく生に執着させれば<line-break>大陸一ですな。<end>"
+english = "Just what one would expect of General Angeerdan. When it comes to clinging to life without shame or dignity, no one on the continent can match you.<end>"
+
+["1710077"]
+japanese = "多くの船が大破、あるいは\u3000\u3000\u3000\u3000<line-break>退却を余儀なくされた状況下では<line-break>それが最善と判断したまで。<line-break>やはりアキュリュースを<line-break>攻めるのであれば、まずはミズチを<line-break>攻略するのが肝要かと思うが…。<end>"
+english = "With so many ships wrecked or forced to retreat, I merely judged withdrawal to be our best course. If we are to attack Akuryusu, surely we must defeat the Mizuchi first...<end>"
+
+["1710078"]
+japanese = "そんなことは卿に言われずとも<line-break>わかっている！！<line-break>\u3000<line-break>…もうよい、下がれ。<line-break>今後の作戦は後日<line-break>追って指示する。<end>"
+english = "I do not need you to tell me that! Enough. You are dismissed. Further orders will follow in due course.<end>"
+
+["1710079"]
+japanese = "アンギルダン将軍…。<line-break>我々のために…<line-break>申しわけありません。<end>"
+english = "General Angeerdan... You did that for us... I'm sorry.<end>"
+
+["1710080"]
+japanese = "フハハ。<line-break>なに、わしとてあの状況は<line-break>逃げたくてたまらんかったからのう。<line-break>おぬしらが気にすることはないわい。<line-break>さあ、また次の戦がある。<line-break>戻ってゆっくり休むがいい。<end>"
+english = "Ha ha! Come now, I was desperate to get out of there myself. None of you need worry about it. Another battle lies ahead, so go back and get some proper rest.<end>"
+
+["1710081"]
+japanese = "<value:$28>、おぬしもじゃ。<line-break>また次の戦いがある。<line-break>ゆっくり体を休めるがよかろう。\u3000<line-break>…しかし、船から湖に飛びこむ時の<line-break>おぬしのこわばった顔…。<line-break>あれは、傑作じゃったのう。<end>"
+english = "That goes for you too, <value:$28>. Another battle lies ahead, so get plenty of rest. But the way your face tensed up when you jumped from the ship into the lake... That was priceless.<end>"
+
+["1710082"]
+japanese = "フハハハハ。<line-break>では、またな。<end>"
+english = "Ha ha ha ha! Until next time.<end>"
+
+["1710083"]
+japanese = "おお、<value:$28>か。<line-break>アキュリュース攻めはしばし休止じゃ。<line-break>\u3000<line-break>ジラークも、前回のミズチによる被害で<line-break>さすがに冷静さを取り戻したらしい。<line-break>何やら作戦を練っているようじゃ。<end>"
+english = "Ah, <value:$28>. The assault on Aqyurius is on hold for now. It seems even Zsilak has regained his composure after the damage Mizuchi caused last time. He appears to be drawing up some kind of plan.<end>"
+
+["1710084"]
+japanese = "先日の娘か…。<line-break>老いぼれの昔話、聞く気があるか？<end>"
+english = "That girl from the other day... Care to hear an old codger's tale?<end>"
+
+["1710085"]
+japanese = "バロルとたもとを分かって、<line-break>アキュリュ－スの傭兵隊長を<line-break>しとるとき、わしは恋に落ちた。\u3000\u3000<line-break>ルフェイと言った。<line-break>先日の娘と同じように<line-break>水の神殿の巫女じゃった。<end>"
+english = "After parting ways with Balor, I was serving as captain of Aqyurius's mercenaries when I fell in love. Her name was Lufei. Like that girl from the other day, she was a priestess of the Water Temple.<end>"
+
+["1710086"]
+japanese = "だが、こちらは傭兵風情、<line-break>ふたりは引き裂かれそうになった。<line-break>わしはルフェイに逃げようと言った。<line-break>しかし、ルフェイはダメだと言った。<line-break>それきり、<line-break>わしらは会えんようになった。<end>"
+english = "But I was a mere mercenary, and it looked as though we would be torn apart. I asked Lufei to run away with me, but she said no. After that, we could no longer see each other.<end>"
+
+["1710087"]
+japanese = "最後にルフェイと会ったのは、<line-break>アキュリュースにバロルの手先、<line-break>円卓騎士ネモが攻めてきたときじゃ。<line-break>強力な敵じゃった。<line-break>しかし、わしがやられかけた時、<line-break>ルフェイが助けに来た。<end>"
+english = "The last time I saw Lufei was when Nemo, Balor's agent and a Knight of the Round Table, attacked Aqyurius. He was a formidable foe. But when I was nearly done for, Lufei came to my aid.<end>"
+
+["1710088"]
+japanese = "彼女は自分の魔法力のすべてを使って<line-break>ネモを撃退した。<line-break>アキュリュースもわしも助かった。\u3000<line-break>だが、彼女は…。<line-break>\u3000<line-break>\u3000<end>"
+english = "She used every last drop of her magical power to drive Nemo back. She saved Aqyurius, and she saved me. But she...<end>"
+
+["1710089"]
+japanese = "先日の娘が、そのルフェイに\u3000\u3000\u3000<line-break>どことなく似ておってな。<line-break>少しばかし、思い出しておったのじゃ。<end>"
+english = "That girl from the other day reminded me of Lufei somehow. I found myself thinking back.<end>"
+
+["1710090"]
+japanese = "何じゃ、またあの娘の話か？<line-break>似とるといっても、雰囲気だけじゃ。\u3000<line-break>わしらは、お互いに年じゃったしな。<line-break>プレゼントも、放浪中に見つけた<line-break>人魚の鱗で作ったイヤリングだけじゃ。<line-break>手作りじゃからこの世にふたつとない。<end>"
+english = "What, are we talking about that girl again? There may be a resemblance, but it's only in the impression she gives. We were both old by then, you know. And the only present was a pair of earrings made from mermaid scales I found during my wanderings. They were handmade, so there isn't another pair like them in the world.<end>"
+
+["1710091"]
+japanese = "…思えば、あのころはまだまだ<line-break>若かったんじゃな。<line-break>そんな恥ずかしいまねも平気でできた。<end>"
+english = "Looking back, I was still young in those days. I could do something that embarrassing and think nothing of it.<end>"
+
+["1710092"]
+japanese = "お前……見たことあるぞっ。<line-break>ディンガルのアンギルダン将軍の\u3000\u3000\u3000<line-break>側近だった奴だろっ！？<line-break>ここを通すわけにはいかないっ！<line-break>アキュリュースは、清らかな水の町っ！<line-break>貴様らに汚させはしないぞっ！<end>"
+english = "You... I've seen you before. You were an aide to General Angeerdan of Dingal, weren't you? I can't let you through! Aqyurius is a city of pure water. I won't let your kind defile it!<end>"
+
+["1710093"]
+japanese = "おい、お前！<line-break>ディンガルの密偵か！？\u3000\u3000\u3000\u3000\u3000<line-break>密偵なのか！？<line-break>この船はアキュリュースへ渡る<line-break>唯一の足だ。お前をここから先へと<line-break>通すわけにはいかないぞ！<end>"
+english = "Hey, you! Are you a Dingal spy? Are you? This boat is the only way across to Aqyurius. I can't let you go any farther!<end>"
+
+["1710094"]
+japanese = "ここまでだ。<line-break>ディンガルの兵隊さんよ。\u3000\u3000<line-break>\u3000<line-break>さあ、今ここで<line-break>命を奪ったりはしない。<line-break>おとなしく引き下がるんだな。<end>"
+english = "That's far enough, Dingal soldier. I won't kill you here and now. Turn around and leave quietly.<end>"
+
+["1710095"]
+japanese = "ああ、本当に<line-break>いい天気ですこと。<end>"
+english = "Oh, what lovely weather.<end>"
+
+["1710096"]
+japanese = "…いい天気ですねえ。<end>"
+english = "...Lovely weather, isn't it?<end>"
+
+["1710097"]
+japanese = "ええ、いい天気ですね<end>"
+english = "Yes, it is lovely weather.<end>"
+
+["1710098"]
+japanese = "帝国はあの陽より輝く<end>"
+english = "The Empire shines brighter than that sun.<end>"
+
+["1710099"]
+japanese = "…ええ。<line-break>本当に、いい天気ですねえ…。<end>"
+english = "...Yes. It really is lovely weather...<end>"
+
+["1710100"]
+japanese = "あら、そうですか。<end>"
+english = "Oh, is that so?<end>"
+
+["1710101"]
+japanese = "こちらです。来てください。<end>"
+english = "This way, please. Follow me.<end>"
+
+["1710102"]
+japanese = "くっ、気に入らねえな。<line-break>せっかく動けなくなってる敵を\u3000\u3000\u3000<line-break>介抱するなんて…。<line-break>じゃ、俺たちが戦場で命がけで<line-break>やってることはいったい何なんだよ！<line-break>くそっ！<end>"
+english = "Damn it, I don't like this. Why tend to enemies when we've finally got them helpless? What the hell are we risking our lives for out there, then? Damn it!<end>"
+
+["1710103"]
+japanese = "敵味方関係なく介抱してやがる。\u3000<line-break>こいつ、バカじゃないのか？<line-break>\u3000<line-break>奴らが回復したら、またこの町に<line-break>攻めてくるだろうさ。<line-break>これじゃあ堂々巡りじゃないか。<end>"
+english = "That fool's tending to everyone, friend and foe alike. Once the enemy recovers, they'll just attack this town again. We'll be right back where we started.<end>"
+
+["1710104"]
+japanese = "ミズチに船から突き落とされ…、<line-break>気付いたら、ここでこうして<line-break>あの少女の介抱を受けている。<line-break>俺はこの町を攻めに来たのに…<line-break>なぜ、こんなことをしてくれる？<line-break>敵の介抱など…、信じられん。<end>"
+english = "Mizuchi knocked me off the ship, and when I came to, I was here, being tended by that girl. I came to attack this town, so why would she do this for me? Tending to an enemy... I can scarcely believe it.<end>"
+
+["1710105"]
+japanese = "この、あふれる感謝の思いはなんだ…。<line-break>胸の奥底から、温かい気持ちになる…。<line-break>これが信仰の力、これが人の愛か。<end>"
+english = "What is this gratitude welling up inside me? A warmth is rising from deep within me. So this is the power of faith. This is human love.<end>"
+
+["1710106"]
+japanese = "戦争だから。命令だから。<line-break>私は敵味方で人を区別して、<line-break>敵は殺したりもしてきました。<line-break>でも、敵味方なんて関係なく<line-break>命に手を差し伸べる、そんな<line-break>少女がいるだなんて…。<end>"
+english = "It was war. I was following orders. I've treated people differently depending on whether they were friend or foe, and I've even killed my enemies. But to think there could be a girl who reaches out to save lives, regardless of which side they're on...<end>"
+
+["1710107"]
+japanese = "よう、<value:$28>。<line-break>…おっと、恨みっこなしだぜ。<line-break>\u3000<line-break>お互い仕事次第で敵味方だ。<line-break>今回は味方同士なんだから<line-break>仲よくやろうや。<end>"
+english = "Hey, <value:$28>. Now, no hard feelings. Depending on the job, we could be allies or enemies. This time we're on the same side, so let's get along.<end>"
+
+["1710108"]
+japanese = "<value:$28>。<line-break>ひとつだけアドバイスしてやるよ。<line-break>\u3000<line-break>いいか、常に自分を見失うな。<line-break>他人に流されて<line-break>同じように行動してると後悔するぞ。<end>"
+english = "<value:$28>, let me give you one piece of advice. Whatever happens, don't lose sight of yourself. If you just follow the crowd and do what everyone else does, you'll regret it.<end>"
+
+["1710109"]
+japanese = "よぉ。<value:$28>だっけ？<line-break>俺はツェラシェル。よろしく。<line-break>\u3000<line-break>ま、傭兵は傭兵同士<line-break>仲よくやっていこうぜ。<line-break>\u3000<end>"
+english = "Hey. You're <value:$28>, right? I'm Tserashel. Good to meet you. Well, we're both mercenaries, so let's get along.<end>"
+
+["1710110"]
+japanese = "人の命の尊さに、ディンガルも<line-break>アキュリュースも関係ありません。<line-break>\u3000<line-break>ミズチたちに湖に浮かんでいた<line-break>ケガ人を運んでもらって、<line-break>こうして手当てをしています。<end>"
+english = "The worth of a human life has nothing to do with whether someone is from Dingal or Aqyurius. The Mizuchi carried the wounded who were floating in the lake here, and I'm tending to them.<end>"
+
+["1710111"]
+japanese = "あの大蛇がねぇ？<line-break>あれ、人を喰わねぇのかな。<end>"
+english = "That giant serpent, eh? Doesn't it eat people?<end>"
+
+["1710112"]
+japanese = "ミズチは精霊に近い水の妖精です。<line-break>何も食べずに生きているんです。<line-break>\u3000<line-break>人を食べて生きているのは、<line-break>人を殺して、お金をもらっている<line-break>あなたたちの方です！<end>"
+english = "The Mizuchi are water fairies, akin to spirits. They don't need to eat at all. You're the ones who feed on people―you kill them for money!<end>"
+
+["1710113"]
+japanese = "おお、こわ。<line-break>しかし、こりゃ一本取られたね。<line-break>\u3000<line-break>じゃ、これ以上怒られないように<line-break>健康な俺は退散しましょうかね。<end>"
+english = "Ooh, frightening. Still, you've got me there. Well, since I'm fit and healthy, I suppose I'll make myself scarce before I get scolded any more.<end>"
+
+["1710114"]
+japanese = "すいません。<line-break>こんな所で声を荒げたりして…。<end>"
+english = "I'm sorry. I shouldn't have raised my voice in a place like this.<end>"
+
+["1710115"]
+japanese = "え？\u3000このイヤリング…ですか？<line-break>きれいでしょう？<line-break>母の形見なんです。<end>なんでも、人魚の鱗から作った<line-break>イヤリングだそうです。<line-break>母が父から送られたとか…。<end>"
+english = "Oh? This earring? It's beautiful, isn't it? It's a memento of my mother.<end>Apparently, it was made from a mermaid's scale. I was told my father gave it to my mother.<end>"
+
+["1710116"]
+japanese = "私の両親は、私が赤ん坊の時に<line-break>亡くしているので、<line-break>何も覚えていないんです。<line-break>でも、これをしていると<line-break>父や母が近くにいるような感じが<line-break>するので、いつもしているんです。<end>"
+english = "My parents died when I was a baby, so I don't remember anything about them. But when I wear this, it feels as though my father and mother are close by. That's why I always keep it on.<end>"
+
+["1710117"]
+japanese = "もうしばらくしたら、ここにいる<line-break>みなさんも普通に歩けるはずです。<line-break>それまでは私はここにいます。<end>"
+english = "Everyone here should be able to walk normally again before long. Until then, I'll stay here.<end>"
+
+["1710118"]
+japanese = "あ、こんにちは、<line-break><value:$28>さん。<line-break>また、来てくださったんですね。\u3000\u3000\u3000<line-break>戦いは、悲しみとケガ人を生むばかり。<line-break>私にできることは、こうやって<line-break>手当てをすることくらい…。<end>"
+english = "Oh, hello, <value:$28>. You've come back again. Fighting only brings sorrow and leaves people wounded. All I can do is tend to them like this.<end>"
+
+["1710119"]
+japanese = "いいかげんにしてほしいもんだな。<line-break>そうやってあんたが今日助けた命が、<line-break>明日戦場で俺たちの命を奪うんだ。<line-break>いっそ、そいつらを<line-break>あの大蛇に喰わせてくれよ。<end>"
+english = "I've had enough of this. The lives you save today will be taking ours on the battlefield tomorrow. You might as well feed the lot of them to that giant serpent.<end>"
+
+["1710120"]
+japanese = "なんて…<line-break>なんてひどいことを言うんですか！！<end>"
+english = "How can you say something so cruel?!<end>"
+
+["1710121"]
+japanese = "おお恐い。ハハハ…。<end>"
+english = "Ooh, frightening. Ha ha ha...<end>"
+
+["1710122"]
+japanese = "でも……あの傭兵さんの<line-break>言う通りなのかもしれません。\u3000\u3000\u3000<line-break>\u3000<line-break>今日助けた命が<line-break>明日、誰かの命を奪う…。<line-break>戦争とは、なんて悲しいのでしょう。<end>"
+english = "But... perhaps that mercenary was right. A life saved today may take another tomorrow. War is such a sad thing.<end>"
+
+["1710123"]
+japanese = "でも、負傷者の救助は続けます。<line-break>それがディンガルの人であれ、<line-break>アキュリュースの人であれ…。<end>"
+english = "Even so, I will continue rescuing the wounded, whether they are from Dingal or Aqyurius.<end>"
+
+["1710124"]
+japanese = "先日、ディンガルの兵たちが<line-break>無理矢理この下へと入っていったのです。\u3000<line-break>\u3000<line-break>それからしばらくしたら、ものすごい音と<line-break>振動がして…兵たちは帰ってきていません。<line-break>この下で何がおきたのでしょうか…。<end>"
+english = "The other day, Dingal's soldiers forced their way down below. A little while later, there was a tremendous noise and violent shaking... The soldiers still haven't returned. What could have happened down there?<end>"
+
+["1710125"]
+japanese = "この下へ行かれるのですか…？<line-break>どうか、気をつけてください……。<end>"
+english = "You're going down there...? Please, be careful.<end>"
+
+["1710126"]
+japanese = "\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…、\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000汝も所詮は無知なる人の子か…。<line-break>\u3000\u3000\u3000この先にあるは水の精霊神の座なり。<line-break>\u3000\u3000\u3000触れること、あたわざるものなり…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が名は海王。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000この先への道は断たせてもらった。<line-break>\u3000\u3000\u3000\u3000世界に、晴れることなき闇を<line-break>\u3000\u3000\u3000もたらすわけにはいかぬゆえな…。<end>"
+english = "Bearer of the Infinite Soul... Are you, too, merely an ignorant child of man? Beyond this point lies the seat of the Water Spirit God. It cannot be touched. My name is the Sea King. I have closed the way forward, for I cannot allow darkness that will never lift to fall upon the world.<end>"
+
+["1710127"]
+japanese = "<if><value:$01><equal>2この亀裂…。<line-break>さっきの声が言ってたのはこれね。<line-break>これじゃ進めそうもないわね。 <end><if><value:$01><equal>3なんじゃ、これはまたえらく大胆に<line-break>道を断ってくれたもんじゃのう。<line-break>これではさすがに進めぬか。 <end><if><value:$01><equal>4これはすごいわ。<line-break>道を断つにも限度があるかも。 <end><if><value:$01><equal>5だあぁぁぁぁ！？<line-break>ここまでやるか普通？<line-break>しゃあないな。引き返すか。 <end><if><value:$01><equal>6これじゃ先に進めないね。<line-break>こんな亀裂、飛び越せないよ。<line-break><value:$28>、戻ろう。 <end><if><value:$01><equal>7これでは先に進めないわね。<line-break>戻るしかないわ。 <end><if><value:$01><equal>9あ～あ、<line-break>これはまたわかりやすすぎるくらい<line-break>先に進めないじゃん。戻ろっか。 <end><if><value:$01><equal>12これじゃあ、先に進めないな。<line-break>仕方ない、戻るとしようや。 <end><if><value:$01><equal>13…これでは、<line-break>先には進めんな。<line-break>引き返すぞ。 <end><if><value:$01><equal>10姉ちゃん！\u3000見ろよこれ。<line-break>まったく、むちゃくちゃするよな。<line-break>しゃあないな、帰ろうか。 <end><if><value:$01><equal>14これでは先に進めんわい。<line-break>戻るしかないのう。 <end><if><value:$01><equal>15ねえ、<value:$28>、<line-break>これじゃ先に進めないよ。<line-break>戻るしかないね。 <end><if><value:$01><equal>17ちょっと、これはどういうことなの！？<line-break>ここまでは無駄足だったわけ？<line-break>キー！！\u3000さっさと戻るのよー！ <end><if><value:$01><equal>19<value:$28>、すごい穴だよ。<line-break>これじゃあ、先に進めないよぉ。<line-break>ねぇ、戻ろう。 <end><if><value:$01><equal>20…戻るぞ。 <end><if><value:$01><equal>11戻るしかなさそうね。<end><if><value:$01><equal>21戻るしかないようだな。<end><if><value:$01><equal>23これでは先に進めないな。<line-break>戻ろう。<end><if><value:$01><equal>27これでは先に進めないな。<line-break>戻ろう、<value:$28>。<end><if><value:$01><equal>26これではさすがに進めぬな。 <line-break>戻るしかなさそうじゃな。<end><if><value:$01><equal>24これでは先に進めませんね。<line-break>戻りましょう、<value:$28>様。<end><if><value:$01><equal>25すごい穴ね。<line-break>これじゃあ、先に進めないよ。<line-break>ねぇ、戻ろう。 <end><if><value:$01><equal>192これでは先に進めません。<line-break>これは戻ったほうがよさそうですね。<end><if><value:$01><equal>193すごい亀裂…。<line-break>まさかここまでするなんて。<line-break>仕方ありません、戻りましょう。<end><if><value:$01><equal>194この亀裂は…。<line-break>やってくれたな海王。<line-break>これでは戻るしかない。<end><if><value:$01><equal>191これはすごいわね。<line-break>…って感心してる場合じゃないんだわ。<line-break>残念だけど、戻るしかないわね。<end><if><value:$01><equal>190これでは先に進めないな。<line-break>引き返すしかなさそうだ。<end>あらら。<line-break>これじゃあ、先に進めないよ。<line-break>すごいね、海王の力って。<line-break>しょうがない、戻ろっか。 <end>"
+english = "<if><value:$01><equal>2This fissure... So this is what that voice was talking about. It doesn't look like we can go any farther.<end><if><value:$01><equal>3Well, now. That's certainly one bold way to cut off the road. No getting past this, I suppose.<end><if><value:$01><equal>4That's incredible. This may be taking “cutting off the road” a bit too far.<end><if><value:$01><equal>5Gaaah!? Isn't this going a little too far? Nothing for it. Let's turn back.<end><if><value:$01><equal>6We can't go any farther. There's no jumping across a fissure this big. Let's go back, <value:$28>.<end><if><value:$01><equal>7We can't go any farther. We'll have to turn back.<end><if><value:$01><equal>9Oh, come on. It couldn't be any more obvious that we're not getting through here. Want to head back?<end><if><value:$01><equal>12We can't go any farther. Nothing for it. Let's head back.<end><if><value:$01><equal>13...We can go no farther. We're turning back.<end><if><value:$01><equal>10Sis! Look at this. This is completely insane, isn't it? Nothing for it. Let's go back.<end><if><value:$01><equal>14No getting any farther this way. We'll have to turn back.<end><if><value:$01><equal>15Hey, <value:$28>, we can't go any farther. We'll have to turn back.<end><if><value:$01><equal>17Wait, what is this!? Did we come all this way for nothing? Aaargh! Hurry up, we're going back!<end><if><value:$01><equal>19<value:$28>, look at the size of that hole. We can't go any farther. Come on, let's go back.<end><if><value:$01><equal>20...We're going back.<end><if><value:$01><equal>11Looks like we'll have to turn back.<end><if><value:$01><equal>21It seems we have no choice but to turn back.<end><if><value:$01><equal>23We can't go any farther. Let's turn back.<end><if><value:$01><equal>27We can't go any farther. Let's turn back, <value:$28>.<end><if><value:$01><equal>26There's no getting past this. It looks as though we'll have to turn back.<end><if><value:$01><equal>24We cannot go any farther. Please, <value:$28>, let us turn back.<end><if><value:$01><equal>25That's quite a hole. We can't go any farther. Come on, let's go back.<end><if><value:$01><equal>192We cannot go any farther. It would be best to turn back.<end><if><value:$01><equal>193What a fissure... I never thought it would be taken this far. We have no choice. Let us turn back.<end><if><value:$01><equal>194This fissure... You've really done it now, Sea King. We have no choice but to turn back.<end><if><value:$01><equal>191Now that's impressive. ...Wait, this is no time to admire it. It's a shame, but we'll have to turn back.<end><if><value:$01><equal>190We can't go any farther. It looks like we'll have to turn back.<end>Oh, wow. We can't go any farther. The Sea King's power really is something. Nothing for it. Let's head back.<end>"
+
+["1710128"]
+japanese = "<value:$28>じゃない。<line-break>私に何か？<end>"
+english = "Well, if it isn't <value:$28>. Do you need something from me?<end>"
+
+["1710129"]
+japanese = "水の精霊神？<line-break>いえ、知らないわね…。<line-break>\u3000<line-break>私たち海賊はどちらかというと<line-break>水の精霊神っていうより海の神様、<line-break>つまり、海王さまを信仰してるから。<end>"
+english = "The Water Spirit God? No, I can't say I've heard of it. We pirates tend to worship the god of the sea―the Sea King―rather than the Water Spirit God.<end>"
+
+["1710130"]
+japanese = "え！？\u3000海王さまの声を？<line-break><value:$28>、あなたって<line-break>すごい冒険をしているのね…。<line-break>海王さまはしぶきの群島の奥、水に<line-break>包まれた島にいると言われているわ。<line-break>まあ、迷信でしょうけどね。<end>"
+english = "What!? You heard the Sea King's voice? <value:$28>, you're having quite an adventure. They say the Sea King dwells on an island enveloped in water, deep within the Spray Archipelago. Though I suppose that's only superstition.<end>"
+
+["1710131"]
+japanese = "前に話したかもしれないけど、<line-break>しぶきの群島は危険な場所よ。<line-break>行くならとめないけど、気をつけて。<end>"
+english = "I may have told you this before, but the Spray Archipelago is a dangerous place. I won't stop you from going, but be careful.<end>"
+
+["1710132"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…、\u3000\u3000\u3000<line-break>\u3000\u3000\u3000この先は、空と水とが交わりし世界。<line-break>\u3000\u3000人の子であるあなたでは、これより先に<line-break>\u3000\u3000\u3000\u3000\u3000進むこと、かないませぬ…。<end>"
+english = "Bearer of the Infinite Soul... Beyond here lies a world where sky and water meet. As a child of man, you cannot venture any farther...<end>"
+
+["1710133"]
+japanese = "\u3000\u3000しかし、あなたがこの先へと進むことは\u3000\u3000<line-break>\u3000\u3000\u3000\u3000私の望むところでもあります。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000私に残された力で<line-break>\u3000\u3000\u3000\u3000あなたの道をひらきましょう…。<end>"
+english = "And yet, I too wish for you to go on. With what power remains to me, I shall open the way for you...<end>"
+
+["1710134"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000これでこの先の地も\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000あなたを受けいれることでしょう。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000さあ、進みなさい。<line-break>\u3000\u3000そして、おいでなさい。私のもとへ…。<line-break>\u3000\u3000\u3000私は水の精霊神アキュリュース…。<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000さあ、進みなさい…。<end>"
+english = "Now the land ahead should accept you. Go forth. And come to me... I am Aqyurius, the spirit god of water... Bearer of the Infinite Soul, go forth...<end>"
+
+["1710135"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000愚かなる人の子よ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000我が言葉に耳を傾けず、ここまで来たか…。<line-break>\u3000\u3000大いなる秩序のため、海王の名において<line-break>\u3000\u3000\u3000\u3000\u3000汝を先に進ませはせぬ。<end>"
+english = "Foolish child of man. So you have come this far without heeding my words... For the sake of the great order, and in the name of the Sea King, I shall let you go no farther.<end>"
+
+["1710136"]
+japanese = "ならば戦うまで！<end>"
+english = "Then it's a fight!<end>"
+
+["1710137"]
+japanese = "秩序は大切ですね<end>"
+english = "Order is important, isn't it?<end>"
+
+["1710138"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000愚かなる人の子よ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000身の程を知れい！<end>"
+english = "Foolish child of man. Know your place!<end>"
+
+["1710139"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000愚かな…。<line-break>\u3000\u3000\u3000\u3000\u3000大いなる秩序の価値が<line-break>\u3000\u3000\u3000\u3000\u3000汝にはわからぬのか…。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我には見える…。<line-break>\u3000\u3000\u3000\u3000\u3000秩序を失いし世界の<line-break>\u3000\u3000\u3000\u3000\u3000混沌にあえぐ様が…。<end>"
+english = "You fool... Can you not understand the value of the great order? I can see it... a world bereft of order, writhing in chaos...<end>"
+
+["1710140"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000それでよい。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000秩序こそこの世界において<line-break>\u3000\u3000\u3000\u3000\u3000\u3000もっとも尊きものなり。<line-break>\u3000\u3000\u3000\u3000さあ、汝の世界へ戻るがいい…。<end>"
+english = "That is as it should be. Nothing in this world is more precious than order. Now, return to your world...<end>"
+
+["1710141"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000何をしておる。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000早く引き返すがよい。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000いたずらに命を<line-break>\u3000\u3000\u3000\u3000\u3000\u3000縮めることはあるまい。<end>"
+english = "What are you doing? Turn back at once. Do not cut your life short for nothing.<end>"
+
+["1710142"]
+japanese = "一緒に戦うお仲間以外の方を<line-break>ご案内するわけにはいきません。\u3000\u3000<line-break>\u3000<line-break>どうか、そちらに連れておられる方と<line-break>お別れになられてから<line-break>もう一度ここにいらしてください。<end>"
+english = "I'm afraid I can only guide those who fight alongside you. Please part company with anyone else accompanying you, then return here.<end>"
+
+["1710143"]
+japanese = "<value:$28>様、<line-break>アンギルダン様から伝言です。\u3000\u3000\u3000<line-break>\u3000<line-break>ジラーク軍は今のところ動く気配なし。<line-break>どうやら東を攻めている死神カルラに<line-break>歩調をあわせる腹づもりらしい。<end>"
+english = "<value:$28>, I have a message from Angeerdan. For now, Zsilak's Army shows no sign of moving. It seems they intend to coordinate with Karula the Death God, who is attacking the east.<end>"
+
+["1710144"]
+japanese = "青竜軍に大きな動きがあった時に<line-break>早急に本陣へ戻ればよいであろう。\u3000<line-break>わしもしばらく旅にでも出るわ。<line-break>…との事です。<line-break>以上、確かにお伝えしました。<line-break>\u3000<end>"
+english = "“If the Azure Dragon Army makes any major move, a swift return to the main camp should suffice. I'll go traveling for a while myself.” That was his message. I have relayed it to you in full.<end>"
+
+["1710145"]
+japanese = "どうして、人は争うのでしょう？<line-break>争いは悲しみを広げていくというのに。<end>"
+english = "Why do people fight when conflict only brings more sorrow?<end>"
+
+["1710146"]
+japanese = "イークレムンＶ４<line-break>予備メッセージ５です<end>"
+english = ""
+
+["1710147"]
+japanese = "イークレムンＶ４<line-break>予備メッセージ６です<end>"
+english = ""
+
+["1710148"]
+japanese = "イークレムンＶ４<line-break>予備メッセージ７です<end>"
+english = ""
+
+["1710149"]
+japanese = "イークレムンＶ４<line-break>予備メッセージ８です<end>"
+english = ""
+
+["1710150"]
+japanese = "イークレムンＶ４<line-break>予備メッセージ９です<end>"
+english = ""
+
+["1710151"]
+japanese = "イークレムンＶ４<line-break>予備メッセージ１０です<end>"
+english = ""
+
+["1710152"]
+japanese = "イークレムンＶ４\u3000終了<end>"
+english = ""

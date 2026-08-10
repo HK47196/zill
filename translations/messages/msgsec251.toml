@@ -1,0 +1,37 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2510000"]
+japanese = "PSP用新スタートイベント16用開始<end>"
+english = ""
+
+["2510001"]
+japanese = "フフフ。よく来た<value:$28>。<line-break>どうやら決心がついたようだな。<line-break>\u3000<line-break>さあ、余と共に新しき人類の<line-break>時代を歩むのだ。<line-break>\u3000<line-break>この世の苦しみも悲しみも<line-break>一切が消え去った世界を<line-break><value:$28>に見せてやろう。<line-break>すべての人々が超人類となった<line-break>理想の世界…。<line-break>\u3000<line-break>そこではもはや、汝が造られた存在で<line-break>あることを問う者はいまい。<line-break>\u3000<line-break>さあ、今こそ時は満ちた。<line-break>余と共に来るがよい。<end>"
+english = "Heh heh heh. Welcome, <value:$28>. It seems you have made up your mind. Come, walk with me into the age of a new humanity. I shall show <value:$28> an ideal world where all people have become superhuman, a world from which every trace of suffering and sorrow has vanished... There, no one will question your nature as a created being. The time has come at last. Come with me.<end>"
+
+["2510002"]
+japanese = "そんなことはできない<end>"
+english = "I can't do that.<end>"
+
+["2510003"]
+japanese = "…決心はついた<end>"
+english = "…I've made up my mind.<end>"
+
+["2510004"]
+japanese = "それが汝の答えか…。<line-break>…賢明な選択とは言えぬぞ。<line-break><value:$28>よ。<end>"
+english = "So that is your answer... I cannot call it a wise choice, <value:$28>.<end>"
+
+["2510005"]
+japanese = "…まあよい。<line-break>１０００年あまりの時も待ったのだ。<line-break>これが最後の機会でもあるまい。<line-break>いましばらく時を待とう…。<end>"
+english = "No matter. I have waited more than a thousand years. This will not be my last opportunity. I shall wait a little longer...<end>"
+
+["2510006"]
+japanese = "決心がついたか…。<line-break>\u3000<line-break>\u3000<line-break>心地よいぞ。その響き…。<line-break>我が息子ベルゼーヴァに失望して以来、<line-break>余が久しく待ち望んだ言葉だ。<end>"
+english = "So you have made your choice... How pleasing those words are. I have longed to hear them ever since my son Beelzeva disappointed me.<end>"
+
+["2510007"]
+japanese = "フフ。そう焦ることはない。<line-break>まずは汝に<line-break>やってもらわねばならぬことがある。<line-break>この塔の最上階…<line-break>その奧には、マノンの腕輪という<line-break>強大な力を秘めた魔道器がある。<line-break>マノンは、かつて<line-break>この塔にいた魔道士の女だ。<line-break>\u3000<line-break>そのマノンの力を封じた腕輪が<line-break>余の復活を阻んでおるのだ。<line-break>\u3000<line-break>汝がこれに打ち勝つことができれば、<line-break>余は解放される、<line-break>汝もまた新たな力を得られよう。<line-break>今はまだ、マノンの腕輪は<line-break>深い眠りについているようだが、<line-break>余が起こしておこう。<line-break>必ずやマノンの腕輪を滅ぼし、<line-break>余を解き放つのだ。よいな。<end>"
+english = "Heh. There is no need for such haste. First, I have a task for you. At the very top of this tower, deep within, lies a magical artifact of immense power called Manon's Bracelet. Manon was a sorceress who once dwelled in this tower. The bracelet, which seals away Manon's power, is preventing my resurrection. If you can overcome it, I shall be freed, and you too shall gain new power. Manon's Bracelet still appears to lie in a deep sleep, but I shall awaken it. You will destroy Manon's Bracelet and set me free. Is that understood?<end>"
+
+["2510008"]
+japanese = "PSP用新スタートイベント16用終端<end>"
+english = ""

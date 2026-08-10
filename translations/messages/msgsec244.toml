@@ -1,0 +1,25 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2440000"]
+japanese = "PSP用新スタートイベント07用開始<end>"
+english = ""
+
+["2440001"]
+japanese = "おや、<value:$28>ですか。<line-break>いらっしゃい。<line-break>\u3000<line-break>どうです。<line-break>記憶は戻りましたか？<end>"
+english = "Ah, <value:$28>. Welcome. Well? Has your memory returned?<end>"
+
+["2440002"]
+japanese = "そうですか…。<line-break>\u3000<line-break>\u3000<line-break><value:$28>がいた<line-break>魔道の塔に行けば、<line-break>何か思い出すかもしれませんね。<line-break>そこで目覚めたという記憶が<line-break>あるのでしょう？<end>"
+english = "I see... Perhaps going back to the Arcane Tower will help you remember something, <value:$28>. You remember waking up there, don't you?<end>"
+
+["2440003"]
+japanese = "ならば、魔道の塔に<line-break>手がかりが残っている可能性も<line-break>充分あると思いますよ。<line-break>少々の危険を冒してでも<line-break>行ってみる価値はあるはずです。<end>"
+english = "Then there is every chance that some clue remains in the Arcane Tower. It should be worth going, even if it means braving a little danger.<end>"
+
+["2440004"]
+japanese = "でも、<value:$28>。<line-break>これだけは覚えておいてください。<line-break>\u3000<line-break>大事なのは過去を知ることではなく、<line-break>未来において何を為し得るかを<line-break>見つけることですよ。<line-break>過去にとらわれるあまり<line-break>未来を見失ってしまっては<line-break>本末転倒です。<line-break>人は過去にではなく、<line-break>未来に向かってしか<line-break>生きられないのですから。<end>"
+english = "But <value:$28>, remember this: what matters is not learning about the past, but discovering what you can accomplish in the future. If you become so bound by the past that you lose sight of the future, you defeat the whole purpose. We can only live toward the future, never the past.<end>"
+
+["2440005"]
+japanese = "PSP用新スタートイベント07用終端<end>"
+english = ""

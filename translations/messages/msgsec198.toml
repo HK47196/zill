@@ -1,0 +1,993 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1980000"]
+japanese = "フェルムメッセージ開始<end>"
+english = ""
+
+["1980001"]
+japanese = "ありがとうございますっ！<line-break>大丈夫ですか？<end>"
+english = "Thank you so much! Are you all right?<end>"
+
+["1980002"]
+japanese = "お強いんですね。感心します。<line-break>失礼ですが、お名前は…？ <end>"
+english = "You're very strong. I'm impressed. Forgive me for asking, but what's your name?<end>"
+
+["1980003"]
+japanese = "<value:$28>…さん…。<end>"
+english = "<value:$28>...<end>"
+
+["1980004"]
+japanese = "たまに悪酔いされるお客さんがいて、<line-break>困っちゃうんです…。<line-break>\u3000<line-break>でも今日は<value:$28>さんが<line-break>いてくれたお陰で助かりました。<end>"
+english = "Sometimes customers don't handle their drink well, and I never know what to do... But you really helped me out today, <value:$28>.<end>"
+
+["1980005"]
+japanese = "私、フェルムって言います。<line-break>いつもこの酒場で働いていますので、<line-break>気が向いたらぜひ立ち寄ってください。<line-break><value:$28>さんのように<line-break>強くて親切な冒険者なら、<line-break>いつでも大歓迎です。<end>"
+english = "I'm Ferme. I work here, so please stop by whenever you feel like it. Strong, kind adventurers like you are always welcome, <value:$28>.<end>"
+
+["1980006"]
+japanese = "いらっしゃいませ！<line-break><value:$28>さん！<line-break>\u3000<line-break>うれしい。来てくれたんですね。<end>"
+english = "Welcome, <value:$28>! I'm so glad you came.<end>"
+
+["1980007"]
+japanese = "あっ、そうだ。<value:$28>さん。<line-break>実は私、ちょっと<line-break>新しいお料理の研究をしてて…<line-break>あの、それでよろしければ…。<line-break><value:$28>さんも、<line-break>味見してくださいませんか？<end>"
+english = "Oh, right, <value:$28>. I've actually been experimenting with a new dish, and, well... if you wouldn't mind, would you taste it too, <value:$28>?<end>"
+
+["1980008"]
+japanese = "遠慮しておく<end>"
+english = "I'll pass.<end>"
+
+["1980009"]
+japanese = "ごちそうになろうかな<end>"
+english = "Maybe I'll take you up on that.<end>"
+
+["1980010"]
+japanese = "そうですか…。残念です。<line-break>少し自信あったんですけど…。<line-break>\u3000<line-break>でも、よかったら<line-break>また今度、食べに来てください。<line-break>私、待ってますから。<end>"
+english = "Oh... That's a shame. I was rather confident about this one. But perhaps you could come and try it another time. I'll be waiting.<end>"
+
+["1980011"]
+japanese = "ありがとうございます。<line-break>今すぐお持ちしますね！<end>"
+english = "Thank you! I'll bring it right out.<end>"
+
+["1980012"]
+japanese = "お待たせしました。<line-break>どうぞ、召し上がってください。<end>"
+english = "Thank you for waiting. Here you are―please, dig in.<end>"
+
+["1980013"]
+japanese = "ど、どうしたんです？<line-break><value:$28>さん…。<line-break>まさか、お口に合いませんか？<end>"
+english = "W-what's wrong, <value:$28>? Don't tell me it's not to your taste?<end>"
+
+["1980014"]
+japanese = "…………<end>"
+english = "…………<end>"
+
+["1980015"]
+japanese = "おかわりっ！<end>"
+english = "Seconds!<end>"
+
+["1980016"]
+japanese = "ご、ごめんなさい！<line-break>おいしくなかったんですね。<end>"
+english = "I-I'm sorry! It wasn't good, was it?<end>"
+
+["1980017"]
+japanese = "料理の本とか読んで、一生懸命、<line-break>勉強したつもりだったんですけど。<line-break>ホント、すみません！<end>"
+english = "I read cookbooks and studied as hard as I could, but... I'm so sorry!<end>"
+
+["1980018"]
+japanese = "よかった。腕によりをかけて<line-break>作った甲斐がありました。<line-break>すぐおかわりお持ちしますね！<end>"
+english = "Oh, good! I put so much effort into making it, and it was worth it. I'll bring you another helping right away!<end>"
+
+["1980019"]
+japanese = "こんなに食べてもらえてうれしいです。<line-break>次も、もっとおいしい料理を作りますね！<line-break>また、いらしてください。<end>"
+english = "I'm so happy you've eaten this much. Next time, I'll make something even better! Please come again.<end>"
+
+["1980020"]
+japanese = "こんなにいっぱいおかわりしてくれて。<line-break>…うれしいな。<line-break>よっぽど気に入ってくださったんだ。<line-break>私もちょっと味見しておこうかな…。<end>"
+english = "So many helpings... I'm so happy. You must really like it. Maybe I should have a little taste too...<end>"
+
+["1980021"]
+japanese = "むぐっ…。<end>"
+english = "Mmph...<end>"
+
+["1980022"]
+japanese = "な…なに、コレ…！？<line-break>こんな変な味にした覚えは…。<line-break>………………。<end>"
+english = "W-what is this?! I don't remember making it taste this strange...<end>"
+
+["1980023"]
+japanese = "あっ！<line-break>もしかして、あの時…。<line-break>\u3000<line-break>塩と間違えてヤンバイ草の粉末を<line-break>入れちゃったんじゃ…。<end>"
+english = "Oh! Wait, back then... Could I have put in powdered Yanbai Herb, thinking it was salt...?<end>"
+
+["1980024"]
+japanese = "うう…。まさかこんな失敗作を<line-break><value:$28>さんに<line-break>お出ししてたなんて…。<end>"
+english = "Oh no... I can't believe I served such a disaster to you, <value:$28>...<end>"
+
+["1980025"]
+japanese = "…でも<line-break>こんなにもまずい料理を<line-break>あんなにも食べてくれた…。<line-break><value:$28>さんって<line-break>強いだけじゃなくて、<line-break>とっても優しい人なんだ…。<end>"
+english = "But <value:$28> ate so much of it, even though it tasted so awful... Not just strong, but very kind too...<end>"
+
+["1980026"]
+japanese = "い、いらっしゃいませ、<line-break><value:$28>さん！<line-break>\u3000<line-break>きょ、今日は<line-break>いいお天気ですね。<end>"
+english = "W-welcome, <value:$28>! L-lovely weather today, isn't it?<end>"
+
+["1980027"]
+japanese = "えっと、あの…。<line-break><value:$28>さんは<line-break>どんな冒険をされてきたんですか？<end>"
+english = "Um, well... <value:$28>, what sorts of adventures have you been on?<end>"
+
+["1980028"]
+japanese = "闇の神器…？<line-break>それってスゴいものなんですか？<end>"
+english = ""
+
+["1980029"]
+japanese = "あ、いえ。もちろん知ってますよ。<line-break>闇の神器ですよね。<end>"
+english = ""
+
+["1980030"]
+japanese = "えーと…。<line-break>……<line-break>……。<end>"
+english = ""
+
+["1980031"]
+japanese = "そうそう！\u3000闇の神器といえば、<line-break>小さいころ、おばあちゃんから<line-break>聞いたことがあるんです。<end>"
+english = "Oh, that's right! Speaking of dark artifacts, my grandmother told me a story about one when I was little.<end>"
+
+["1980032"]
+japanese = "えっ？\u3000どんな話って？<line-break>えーと、そ、その…。<line-break>あれは確か…。<end>"
+english = "What? What kind of story? Um, w-well... If I remember correctly...<end>"
+
+["1980033"]
+japanese = "あ、そうだ！<line-break>思い出しました！<line-break>伝説の…えと、ふ、フライパンです！<end>"
+english = "Oh, yes! I remember now! It was the legendary... um... f-frying pan!<end>"
+
+["1980034"]
+japanese = "と、とと…とにかくそのフライパンは<line-break>恐ろしい闇の神器なんです。<line-break>\u3000<line-break>世界を滅ぼすほどの破壊力を<line-break>秘めているほどの…。<line-break>\u3000<line-break>ひょっとしたら<line-break><value:$28>さんが<line-break>探しているのと同じものかも…。<end>"
+english = "A-anyway, that frying pan is a terrifying dark artifact. It holds enough destructive power to wipe out the whole world... It might even be the very one you're looking for, <value:$28>...<end>"
+
+["1980035"]
+japanese = "あ、あの…。<line-break>もしよろしければ、ですけど<line-break>私も協力させてくださいっ！<line-break>おばあちゃんから聞いた話が、<line-break>もしかすると何か手がかりに<line-break>なることだって…。<end>"
+english = "Um, excuse me... If you wouldn't mind, please let me help! Something my grandmother told me might provide a clue...<end>"
+
+["1980036"]
+japanese = "喜んで<end>"
+english = "Gladly.<end>"
+
+["1980037"]
+japanese = "危険なことに巻き込むわけには…<end>"
+english = "I can't put you in danger...<end>"
+
+["1980038"]
+japanese = "本当にご一緒していいんですか？<line-break>じゃあ私、お休みをいただけるよう<line-break>マスターに頼んでみますね。<end>"
+english = "You really don't mind me coming with you? Then I'll ask the master for some time off.<end>"
+
+["1980039"]
+japanese = "おいおい、頼むもなにも<line-break>話は全部聞こえてたよ。<line-break>構わんから行ってきな。<end>"
+english = "Come on, no need to ask. I heard the whole thing. Go on, I don't mind.<end>"
+
+["1980040"]
+japanese = "ありがとうございます、マスター！<end>"
+english = "Thank you, Master!<end>"
+
+["1980041"]
+japanese = "いいってことよ。だいぶ長いこと<line-break>休みなしで働いてもらってたからな。<line-break>たまには外の世界を見てくるといい。<line-break>それにお前さんがいなければ<line-break>あの変な勇者もどきも来ないだろうし。<line-break>しばらくは静かになる。<end>"
+english = "Think nothing of it. You've been working without a break for a good long while. It'll do you good to see the world outside for once. Besides, with you gone, that weird would-be hero probably won't come around either. Things should be quiet here for a while.<end>"
+
+["1980042"]
+japanese = "というわけで、しばらくの間<line-break>お世話になります。<line-break>よろしくお願いします。<end>"
+english = "So, I'll be traveling with you for a while. Thank you for having me.<end>"
+
+["1980043"]
+japanese = "猫屋敷っていうところで<line-break>呼びだすんですか？<line-break>\u3000<line-break>分かりました。<line-break>じゃあ私待ってますね。<end>"
+english = "You'll summon me at a place called Cat Manor? All right. I'll be waiting, then.<end>"
+
+["1980044"]
+japanese = "じゃあ私、準備してきます。<line-break>町を出る時に合流しましょう。<end>"
+english = "Then I'll go and get ready. Let's meet up when you leave town.<end>"
+
+["1980045"]
+japanese = "そうですか…。<line-break>お力になりたかったんですけど。<line-break>\u3000<line-break><value:$28>さんが<line-break>そう言うのなら…。<line-break>\u3000<line-break>あ、でも、気が向いたら<line-break>いつでも声をかけてくださいね。<end>"
+english = "I see... I was hoping I could help. But if you say so, <value:$28>... Still, if you ever feel like it, you can always call on me.<end>"
+
+["1980046"]
+japanese = "<value:$28>から聞いたんだけど<line-break>何かくだらない話を知ってるそうね。<line-break>伝説のフライパンだか、何とか。<end>"
+english = "<value:$28> tells me you know some ridiculous story. Something about a Legendary Frying Pan.<end>"
+
+["1980047"]
+japanese = "は、はい…。<end>"
+english = "Y-yes...<end>"
+
+["1980048"]
+japanese = "えっ？\u3000伝説のフライパンが、<line-break>どこにあるか…ですか？<end>"
+english = "What? You want to know where the Legendary Frying Pan is...?<end>"
+
+["1980049"]
+japanese = "すみません…。<line-break>それが私にもよくわからないんです。<end>"
+english = "I'm sorry... I don't really know, either.<end>"
+
+["1980050"]
+japanese = "あっ、でも…。<line-break>おばあちゃんはこう言ってました。<line-break>\u3000<line-break>とっても恐ろしい敵が現れて、<line-break>窮地におちいったドワーフとエルフが<line-break>力を合わせて作った魔道器が…その…<line-break>その…伝説のフライパンだって…。<end>"
+english = "Oh, but... my grandmother told me this. When a terrifying enemy appeared, the Dwarves and Elves were driven into a desperate situation, so they joined forces to create a magical artifact. And that artifact was... um... the Legendary Frying Pan...<end>"
+
+["1980051"]
+japanese = "その伝説のフライパンってやつ？<end>"
+english = "You mean that Legendary Frying Pan?<end>"
+
+["1980052"]
+japanese = "そ、そのとおりです…。<line-break>\u3000<line-break>\u3000<line-break>だから、伝説のフライパンは<line-break>ドワーフの技術とエルフの魔力によって<line-break>強力無比な破壊力を秘めているとか。<end>"
+english = "Th-that's right... They say the Legendary Frying Pan combines Dwarven craftsmanship with Elven magic, giving it unrivaled destructive power.<end>"
+
+["1980053"]
+japanese = "酒場でおどけているリルビーの<line-break>ヘタくそな詩より笑えるわ！<line-break>\u3000<line-break>言うに事欠いて、<line-break>高貴なエルフと下等生物のドワーフが<line-break>協力したですってぇ！？<line-break>古今東西、そんなつまらない作り話は<line-break>聞いたことなくってよー！<end>"
+english = "That's funnier than the dreadful poetry Lilby spouts while clowning around at the tavern! Of all the absurd things to say, you claim that noble Elves joined forces with those inferior creatures, the Dwarves!? Never in any age or land have I heard such a ridiculous fabrication!<end>"
+
+["1980054"]
+japanese = "つ、作り話なんかじゃありません。<line-break>本当です。信じてください。<end>"
+english = "I-it isn't made up. It's true. Please believe me.<end>"
+
+["1980055"]
+japanese = "バカバカしい！<line-break>そんな話、信じるも何も、<line-break>検討の余地すらないじゃない！<line-break><value:$28>の口から<line-break>びしっと言ってあげなさいよ！<line-break>ほら、早く！<end>"
+english = "Absurd! There's nothing to believe or disbelieve―it's not even worth considering! <value:$28>, give a clear answer! Come on, hurry!<end>"
+
+["1980056"]
+japanese = "確かにおかしな話だ<end>"
+english = "It certainly sounds strange.<end>"
+
+["1980057"]
+japanese = "探すだけ探してみよう<end>"
+english = "Let's at least try looking for it.<end>"
+
+["1980058"]
+japanese = "でしょ。当然よね。<line-break>はい、これで決まり。<line-break>低俗な夢物語はこれでおしまーい！<end>"
+english = "See? Of course I'm right. There, it's settled. That's the end of this vulgar little fantasy!<end>"
+
+["1980059"]
+japanese = "わかりました…。<line-break><value:$28>さんが<line-break>そうおっしゃるのなら。<line-break>（よかった…。<line-break>\u3000これでもうウソをつかなくてすむ…。）<line-break>\u3000<line-break>（このまま<value:$28>さんが<line-break>\u3000この話を忘れてくれたら、<line-break>\u3000ずっと一緒に旅をしていられる…。）<end>"
+english = "All right... If that's what you say, <value:$28>. (Thank goodness... Now I won't have to keep lying...) (If <value:$28> will just forget all about it, we can keep traveling together...)<end>"
+
+["1980060"]
+japanese = "ええっ！？<end>"
+english = "What!?<end>"
+
+["1980061"]
+japanese = "冗談でしょ、<value:$28>！<line-break>まさか、本気じゃないわよね！？<end>"
+english = "You're joking, <value:$28>! You can't possibly be serious!<end>"
+
+["1980062"]
+japanese = "今度こそ、本当にあきれたわ！<line-break>真偽を見極める目を持っていないから、<line-break>あんたたちは下等生物なのよぉ！<line-break>存在もしない伝説のフライパンを探す？<line-break>雲をつかむような話ってよく言うけど<line-break>まさに、これがそうよ！<end>"
+english = "Now I'm truly appalled! It's because you can't tell truth from falsehood that you're inferior creatures! You want to search for a Legendary Frying Pan that doesn't even exist? People talk about trying to grasp the clouds; this is exactly what they mean!<end>"
+
+["1980063"]
+japanese = "<value:$28>さん…。<line-break>ほ、本当に探すんですか？<end>"
+english = "<value:$28>... A-are you really going to look for it?<end>"
+
+["1980064"]
+japanese = "バッカじゃないの！<line-break>\u3000<line-break>\u3000<line-break>世界中どこを探したって<line-break>そんなくだらない魔道器<line-break>見つかるわけないでしょぉ！<end>"
+english = "How stupid can you be!? You could search the whole world and never find a ridiculous magical artifact like that!<end>"
+
+["1980065"]
+japanese = "どうしよう…。伝説のフライパンが、<line-break>ただの出任せだって<line-break>わかってしまったら…。<line-break>もう<value:$28>さんと一緒に<line-break>旅をすることなんてできないわ…。<line-break>\u3000<line-break>流れ星に願い事をすれば<line-break>本当になるって<line-break>おばあちゃん言ってたけど…。<end>"
+english = "What am I going to do...? If it comes out that the Legendary Frying Pan was just something I made up... I won't be able to travel with <value:$28> anymore... Grandmother said wishes made on shooting stars come true, but...<end>"
+
+["1980066"]
+japanese = "早く流れ星を見つけて<line-break>お願いしなくっちゃ。<line-break>\u3000<line-break>私のウソが<value:$28>さんに<line-break>バレないように…。<end>"
+english = "I have to find a shooting star and make my wish, quickly... I'll wish that <value:$28> never finds out I lied...<end>"
+
+["1980067"]
+japanese = "あっ…。<end>"
+english = "Oh...<end>"
+
+["1980068"]
+japanese = "だ、大丈夫です。<line-break>一晩中、星空をながめていたから<line-break>ちょっと寝不足ぎみで…。<end>"
+english = "I-I'm fine. I stayed up all night watching the stars, so I'm just a little short on sleep...<end>"
+
+["1980069"]
+japanese = "ええ。本当に大丈夫ですから。<line-break>心配なさらないでください。<end>"
+english = ""
+
+["1980070"]
+japanese = "体調を崩すまで、<line-break>星空を見ていたですって？<line-break>…下等生物ってどこまで愚かなの？<end>"
+english = "You watched the stars until you made yourself ill? Is there no limit to the stupidity of inferior creatures?<end>"
+
+["1980071"]
+japanese = "あっ、<value:$28>さん…。<end>"
+english = "Oh, <value:$28>...<end>"
+
+["1980072"]
+japanese = "えっ？\u3000ああ、私ですか。<line-break>今、ちょっと星空を<line-break>ながめていたんです。<end>"
+english = "Hm? Oh, me? I was just looking up at the stars.<end>"
+
+["1980073"]
+japanese = "私、知らなかったんです。<line-break>世界がこんなにも広く、<line-break>驚きと楽しさに満ちていたなんて…。<line-break>ロストールの酒場は大好きですけど、<line-break>ずっとあそこで働いていたら、<line-break>\u3000<line-break>こんな世界を知ることもなく、<line-break>人生を終えていたのかもしれませんね。<line-break>\u3000<line-break>ありがとうございます。<line-break><value:$28>さん。<end>"
+english = "I never knew the world was so vast, or so full of wonder and joy... I love the tavern in Rostorl, but if I'd spent my whole life working there, I might have died without ever knowing a world like this existed. Thank you, <value:$28>.<end>"
+
+["1980074"]
+japanese = "でも、ときどき不安になるんです。<line-break>このまま冒険を続けていたら、<line-break>楽しいことよりも、辛いことのほうが<line-break>多くなるのかなって。<line-break><value:$28>さんはどう思います？<end>"
+english = "But sometimes I worry. If we keep adventuring like this, will there eventually be more pain than happiness? What do you think, <value:$28>?<end>"
+
+["1980075"]
+japanese = "これからも楽しいことがたくさんあるさ<end>"
+english = "There'll be plenty more good times ahead.<end>"
+
+["1980076"]
+japanese = "辛くなったらいつでも言ってくれていい<end>"
+english = "If things ever get hard, you can always talk to me.<end>"
+
+["1980077"]
+japanese = "そうですよね。私もそう思います。<line-break>なんか、とてもすっきりしました。<line-break>これでゆっくり眠れそうです。<line-break>おやすみなさい。<value:$28>さん。<end>"
+english = "You're right. I think so too. I feel so much better now. I think I can sleep soundly tonight. Good night, <value:$28>.<end>"
+
+["1980078"]
+japanese = "やっぱり、一日でも長く<line-break><value:$28>さんのそばにいたい。<line-break>\u3000<line-break>せめて、私のウソに気づかれてしまう<line-break>その日までは…。<end>"
+english = "I really do want to stay by your side for as long as I can, <value:$28>. At least until the day you see through my lie...<end>"
+
+["1980079"]
+japanese = "よーし、今日こそ徹夜してでも<line-break>流れ星を見つけなくっちゃ。<line-break>頑張ろーっと。<end>"
+english = "All right! Tonight I'm going to find a shooting star, even if I have to stay up till dawn. I can do this!<end>"
+
+["1980080"]
+japanese = "つ、つらくなんかないです！<line-break><value:$28>さんと一緒にいて、<line-break>つらかったことなんて一度もないです！<line-break>だって、私は<value:$28>さんと<line-break>一緒に旅ができるだけでも…。<end>"
+english = "I-it's not hard at all! I've never once had a hard time when I'm with you, <value:$28>! I mean, just being able to travel with you, <value:$28>...<end>"
+
+["1980081"]
+japanese = "あっ…。ご、ごめんなさい。<line-break>明日も早いのに引き留めてしまって。<line-break>どうぞ、先に休んでください。<line-break>私はもう少し、夜風に当たってから、<line-break>眠ります。おやすみなさい。<end>"
+english = "Oh... I-I'm sorry. I've kept you up when we have an early start tomorrow. Please, go on to bed. I'll stay out in the night air a little longer, then turn in. Good night.<end>"
+
+["1980082"]
+japanese = "やっぱり、一日でも長く<line-break><value:$28>さんのそばにいたい…。<end>"
+english = ""
+
+["1980083"]
+japanese = "よーし、今日こそ徹夜してでも流れ星を見つけなくっちゃ。<line-break>頑張ろーっと。<end>"
+english = ""
+
+["1980084"]
+japanese = "ん？\u3000伝説のフライパンじゃと？<line-break>何じゃ、そりゃ？<end>"
+english = "Hm? The Legendary Frying Pan? What's that supposed to be?<end>"
+
+["1980085"]
+japanese = "あ、いいんです。ご存じなければ…。<line-break>私も子供のころにおばあちゃんから<line-break>聞いただけですから。<end>"
+english = ""
+
+["1980086"]
+japanese = "はいっ？<line-break>あ、あれって…なんですか？<end>"
+english = "What? Wh-what do you mean, “that”?<end>"
+
+["1980087"]
+japanese = "えっ？\u3000あれって…。<line-break>なんですか？<end>"
+english = ""
+
+["1980088"]
+japanese = "それと似たような話なら、<line-break>わしも耳にしたことがある。<line-break>じいさんが語ってくれた昔話だ。<end>"
+english = "I've heard a similar story myself. An old tale my grandfather used to tell me.<end>"
+
+["1980089"]
+japanese = "遥か、いにしえの時代…。<line-break>ドワーフとエルフが同じ災厄に<line-break>見舞われたことがあってな。<line-break>それを打開するために、<line-break>両種族が初めて協力して作った<line-break>魔道器があったらしい。<line-break>もしかすると、それが…。<line-break>伝説のフライパンとやらかも…。<end>"
+english = "Long, long ago, both Dwarves and Elves were struck by the same calamity. They say the two races worked together for the first time to create a magical artifact that would deliver them from it. Perhaps that artifact was... this so-called Legendary Frying Pan.<end>"
+
+["1980090"]
+japanese = "ええっ！<end>"
+english = ""
+
+["1980091"]
+japanese = "じいさんのホラ話と思っていたが、<line-break>他にも知っている者がいたとなると<line-break>こりゃあ、真実かもしれんぞ。<end>"
+english = ""
+
+["1980092"]
+japanese = "あの…。もしかして、<line-break>どこにあるのか、ご存じでは？<end>"
+english = ""
+
+["1980093"]
+japanese = "さあな。<line-break>わしは、てっきり<line-break>じいさんのホラ話と思うとったでな。<line-break>だが、ロストールにも同じ話が<line-break>伝わっとったとなると<line-break>あながち作り話だとも言い切れん。<line-break>まあ、百年以上も前に聞いた話じゃ。<line-break>わしも詳しいことは覚えとらんが。<end>"
+english = "Who knows? I always took it for one of my grandfather's tall tales. But if the same story has been passed down in Rostorl, perhaps it wasn't entirely made up. Mind you, I heard it over a hundred years ago. I don't remember the details.<end>"
+
+["1980094"]
+japanese = "あっ、<value:$28>さん…。<line-break>どうしたんですか、こんな夜に。<end>"
+english = "Oh, <value:$28>... What brings you here this late at night?<end>"
+
+["1980095"]
+japanese = "えっ？\u3000伝説のフライパンの話ですか？<line-break>えーと、あの、その…。<end>"
+english = "What? The Legendary Frying Pan? Um, well, you see...<end>"
+
+["1980096"]
+japanese = "お、思い出しました！<line-break>昔、おばあちゃんがこんなことを<line-break>言ってたんです。<end>"
+english = "I-I remember now! My grandmother once told me something about it.<end>"
+
+["1980097"]
+japanese = "長い間、犬猿の仲だったドワーフと<line-break>エルフの橋渡しをしたのは、<line-break>とても偉い賢者様だったとか。<end>"
+english = "Apparently, a very great sage once served as a bridge between the Dwarves and Elves, who had long been bitterly at odds.<end>"
+
+["1980098"]
+japanese = "えっ？\u3000賢者様の<line-break>心当たりがあるんですか？<end>"
+english = "What? You have a sage in mind?<end>"
+
+["1980099"]
+japanese = "猫屋敷に住んでいる、<line-break>オルファウスさん…。<end>"
+english = "Orphaus, who lives at Cat Manor...<end>"
+
+["1980100"]
+japanese = "オルファウスさんも賢者だし、<line-break>何か知っているかも、<line-break>…ってこと…ですか？<end>"
+english = "You mean Orphaus is a sage too, so he might know something...?<end>"
+
+["1980101"]
+japanese = "そ、そうですね…。<line-break>確かに可能性があるのなら、<line-break>訪ねてみたほうがいいですよね。<end>"
+english = "Y-yes, I suppose so... If there's even a chance, we should go and see him.<end>"
+
+["1980102"]
+japanese = "いらっしゃい、<value:$28>。<line-break>今日はどうしたんですか？<end>"
+english = "Welcome, <value:$28>. What brings you here today?<end>"
+
+["1980103"]
+japanese = "ほう。伝説のフライパンを<line-break>探しているのですか…。<line-break>それで私を訪ねてきたのですね。<end>"
+english = "Oh? You're looking for the Legendary Frying Pan. So that's why you've come to see me.<end>"
+
+["1980104"]
+japanese = "き、聞いたことないですよね。<line-break>そんな魔道器の話なんて…。<end>"
+english = "Y-you've never heard of it, have you? A magical artifact like that...<end>"
+
+["1980105"]
+japanese = "いえ。ありますよ。<end>"
+english = "Actually, I have.<end>"
+
+["1980106"]
+japanese = "はいっ！？<end>"
+english = "What?!<end>"
+
+["1980107"]
+japanese = "正確な名前は知りませんが、<line-break>エルフに古くから伝わる<line-break>魔道器があると聞いています。<end>"
+english = "I don't know its exact name, but I've heard of a magical artifact passed down among the Elves since ancient times.<end>"
+
+["1980108"]
+japanese = "そ、それはどこにあるんですか！？<end>"
+english = ""
+
+["1980109"]
+japanese = "とは言え、いつだったか<line-break>人間たちに奪われてしまい<line-break>以来、行方知れずらしいですがね。<end>"
+english = "That said, the humans apparently stole it at some point, and no one has known where it is since.<end>"
+
+["1980110"]
+japanese = "そうなんですか…。<line-break>\u3000<line-break>\u3000<line-break>…よかった。<end>"
+english = "Is that so...? Thank goodness.<end>"
+
+["1980111"]
+japanese = "何か言いましたか？<end>"
+english = "Did you say something?<end>"
+
+["1980112"]
+japanese = "い、いえ、何も…！<line-break>\u3000<line-break>\u3000<line-break>あ、でも、行方知れずに<line-break>なっているのなら、<line-break>もう探しようがないですよね。<line-break>ここは、きっぱりあきらめたほうが…。<end>"
+english = "N-no, nothing! But if no one knows where it is, then there's no way to look for it, is there? It would be best to give up on it now...<end>"
+
+["1980113"]
+japanese = "言い伝えによると、<line-break>その魔道器の使い方を誤ったせいで、<line-break>一国が滅びたとあります。<line-break>城塞都市跡あたりに行けば<line-break>何か手がかりぐらいは<line-break>残っているかもしれません。<end>"
+english = "According to the legend, an entire nation was destroyed because the artifact was used improperly. There may still be some clue left near the Fortress City Ruins.<end>"
+
+["1980114"]
+japanese = "え…ええーっ！？<line-break>そ、そんな、まさか…。<end>"
+english = "Wh-what?! No, that can't be...<end>"
+
+["1980115"]
+japanese = "どうしました？<line-break>お顔の色がすぐれないようですが。<end>"
+english = "What's wrong? You look rather pale.<end>"
+
+["1980116"]
+japanese = "だ、大丈夫です！<line-break>ただの寝不足ですから！<line-break>ご心配には及びません！<end>"
+english = "I-I'm fine! I just haven't had enough sleep! There's no need to worry about me!<end>"
+
+["1980117"]
+japanese = "それにしても驚きましたね。<line-break>伝説のフライパンのことを<line-break>オルファウスさんがご存じだったなんて。<line-break>旅を続けていると、私には<line-break>びっくりするようなことばかりです。<end>"
+english = ""
+
+["1980118"]
+japanese = "やっぱり、すごいですね。<line-break><value:$28>さんは…。<line-break>\u3000<line-break>どんなことが起こっても動じないし。<line-break>とっても頼もしくて…。<line-break>優しくて…。<line-break>だけど、ホント言うと…。<line-break>少し不安になることもあります。<end>"
+english = "You really are amazing, <value:$28>. No matter what happens, nothing ever seems to faze you. You're so dependable... and so kind. But to tell you the truth... sometimes I feel a little uneasy.<end>"
+
+["1980119"]
+japanese = "どうして不安になるのか、<line-break>自分にもわからないんです。<line-break>\u3000<line-break><value:$28>さんが、<line-break>強くなればなるほど、どんどん、<line-break>遠くに行ってしまうみたいで…。<line-break>こんな気持ち、初めてです。<end>"
+english = "I don't even know why I feel uneasy. <value:$28>, the stronger you become, the farther away you seem to drift... I've never felt this way before.<end>"
+
+["1980120"]
+japanese = "変なことを言うんだな<end>"
+english = "That's a strange thing to say.<end>"
+
+["1980121"]
+japanese = "俺は俺だよ。\u3000変わったりしない<end>"
+english = "I'm still me. That's not going to change.<end>"
+
+["1980122"]
+japanese = "そ、そうですよね…。<line-break>ごめんなさい。<line-break>変なこと言ってしまって…。<line-break>きっと私、長旅で疲れてるんです。<line-break>忘れてください…。<line-break>おやすみなさい。<end>"
+english = "Y-you're right, of course... I'm sorry. I shouldn't have said anything so strange. I must be tired from the long journey. Please, forget I said it... Good night.<end>"
+
+["1980123"]
+japanese = "よかった…。<line-break>変わらないでくださいね。<line-break>このまま、ずっと。<line-break>私の胸の内にある、<line-break><value:$28>さんのまま。<end>"
+english = "I'm glad... Please don't ever change. Stay just as you are, always―the <value:$28> I hold in my heart.<end>"
+
+["1980124"]
+japanese = "あっ、<value:$28>さん。<line-break>どうしたんですか、こんな夜に…。<end>"
+english = "Oh, <value:$28>. What brings you here this late at night...?<end>"
+
+["1980125"]
+japanese = "えっ？\u3000伝説のフライパンの話ですか？<line-break>えーと、あの、その…。<end>"
+english = "What? You mean the Legendary Frying Pan? Um, well, you see...<end>"
+
+["1980126"]
+japanese = "お、思い出しました！<line-break>おばあちゃんに聞いた話だと…<line-break>\u3000<line-break>使い方を誤って、<line-break>国を滅ぼしちゃった魔道器は<line-break>すんごく厳重に封印されたんだとか。<end>"
+english = "I-I remember now! My grandmother once told me about a magical artifact that destroyed a country when it was misused. Supposedly, it was sealed away very, very securely.<end>"
+
+["1980127"]
+japanese = "そこまで厳重に封印されたものを<line-break>探すのは難しいような気が…。<line-break>\u3000<line-break>残念ですけど、ここはきっぱりと<line-break>あきらめて他の魔道器を…。<end>"
+english = "I can't imagine it would be easy to find something sealed away that securely... It's a shame, but perhaps you should give up on it once and for all and look for another magical artifact...<end>"
+
+["1980128"]
+japanese = "…えっ？<line-break>その封印を解く方法ですか？<line-break>\u3000<line-break>えーと、そ、そうですね。<line-break>確か、あったことはあったと<line-break>思うんですけど…その…。<end>"
+english = "...What? How to break the seal? Um, y-yes. I think there was a way, if I remember correctly, but... well...<end>"
+
+["1980129"]
+japanese = "そ、そうです。呪文です！<line-break>何か特別な呪文を唱えないと<line-break>封印は破れないって言ってました。<end>"
+english = "Y-yes, that's it. An incantation! She said the seal couldn't be broken unless someone recited a special incantation.<end>"
+
+["1980130"]
+japanese = "厨房からなんとも言えない香りと<line-break>不穏な空気がただよってきた。<end>"
+english = "An indescribable smell drifted from the kitchen, along with an ominous air.<end>"
+
+["1980131"]
+japanese = "うまいかまずいか以前に<line-break>食えるブツかどうかが疑問。<line-break>生命の危機を感じる…。<end>"
+english = "Before even asking whether it tastes good or bad, the question is whether this stuff is edible at all. A sense of mortal danger sets in…<end>"
+
+["1980132"]
+japanese = "どうしても？<end>"
+english = "Do you really have to?<end>"
+
+["1980133"]
+japanese = "そ、そうですか…。<line-break>やっぱり、ここまで来たら<line-break>見つけたいですよね。<line-break>でも、そんな古い呪文なんて、<line-break>そうそう、わかるはずが…。<end>"
+english = "I-I see... Now that you've come this far, of course you want to find it. But surely no one would just happen to know an incantation that old...<end>"
+
+["1980134"]
+japanese = "呪文に詳しい方を<line-break>ご存じなんですか？<line-break>\u3000<line-break>古代遺跡を調べている<line-break>考古学者のエストさん…。<end>"
+english = "You know someone well versed in incantations? Est, the archaeologist studying ancient ruins...<end>"
+
+["1980135"]
+japanese = "すみません。旅の疲れが<line-break>出たみたいで、少しめまいが…。<line-break>先に休ませてください。<end>"
+english = "I'm sorry. I think the journey's catching up with me. I'm feeling a little dizzy... Please let me turn in early.<end>"
+
+["1980136"]
+japanese = "これはこれは<value:$28>様。<line-break>今日はどういったご用件でしょうか？<end>"
+english = "Ah, <value:$28>. What brings you here today?<end>"
+
+["1980137"]
+japanese = "はい。エスト様でございますか？<line-break>確か今はアルノートゥンで、<line-break>研究をなさっておられるはずですが。<end>"
+english = "Certainly. Est, you say? I believe Est is currently in Alnortun, conducting research.<end>"
+
+["1980138"]
+japanese = "ふむ。<line-break>エスト様にお尋ねしたいことが<line-break>おありなのですね。<line-break>でしたら、やはりご足労ですが、<line-break>アルノートゥンで直接、エスト様に<line-break>お聞きになられたほうがよろしいかと。<end>"
+english = "Hmm. So there is something you wish to ask Est. In that case, though it will mean making the journey, I believe it would be best to ask Est directly in Alnortun.<end>"
+
+["1980139"]
+japanese = "えっ？\u3000僕に聞きたいことがあるの？<line-break>\u3000<line-break>\u3000<line-break>…伝説のフライパンだって？<line-break>驚いたな…。<line-break>ちょっと、この古文書を見てよ。<end>"
+english = "What? You have something you want to ask me? The Legendary Frying Pan? That's a surprise... Here, take a look at this ancient manuscript.<end>"
+
+["1980140"]
+japanese = "伝説のフライパンだって？<line-break>…驚いたな。<line-break>ちょっと、この古文書を見てよ。<end>"
+english = ""
+
+["1980141"]
+japanese = "ほら、ここ。<line-break>このフライパンみたいな絵と、<line-break>この呪文…。<line-break>まさしく、その魔道器のことが<line-break>記されているんだよ。<end>"
+english = "See, right here. This picture that looks like a frying pan, and this incantation... They're describing that very magical artifact.<end>"
+
+["1980142"]
+japanese = "信じられない。<line-break>なんて僕は幸運なんだ。<line-break>\u3000<line-break>古来より幾多の先人たちが<line-break>探していた伝説の魔道器…。<line-break>それを見つける手がかりがそろったんだ。<end>"
+english = "I can't believe it. What incredible luck! Countless generations have sought this legendary magical artifact since ancient times... and now we have all the clues we need to find it.<end>"
+
+["1980143"]
+japanese = "ロストールに伝わっていた伝承。<line-break>古文書に記された呪文。<line-break>そして、城塞都市跡…。<end>"
+english = "The legend handed down in Rostorl. The incantation recorded in the ancient manuscript. And the Fortress City Ruins...<end>"
+
+["1980144"]
+japanese = "素晴らしいよ、<value:$28>！<line-break>僕も一緒に連れてってよ。<line-break>一生のお願い！<line-break>伝説の魔道器がよみがえる瞬間を、<line-break>僕はこの目に焼きつけたいんだ。<line-break>\u3000<line-break>もし、イヤだって言われても、<line-break>僕は絶対についていくよ。いいね<end>"
+english = "This is wonderful, <value:$28>! Take me with you. I'm begging you! I want to see the moment that legendary magical artifact is restored with my own eyes. Even if you say no, I'm coming with you no matter what. Understood?<end>"
+
+["1980145"]
+japanese = "すみません。私はロストール人で、<line-break>普段、竜王様を信仰してるんですけど、<line-break>今は、天空神様にお願いしちゃいます！<line-break>私は、<value:$28>さんと<line-break>一緒に旅がしたくて、<line-break>つい、出任せを言ってしまいました。<line-break>いつウソがバレて、嫌われるかと思うと<line-break>とても恐ろしくてたまりません。<line-break>お願いです、天空神ノトゥーン様！<line-break>どうか私のウソに<line-break><value:$28>さんが失望しないよう<line-break>お守りください。<end>"
+english = "Forgive me. I'm from Rostorl, and I normally worship the Dragon King, but this time I'm asking the Sky God for help! I wanted so badly to travel with <value:$28> that I made something up without thinking. I'm terrified of being found out and hated. Please, Sky God Notun! Please keep <value:$28> from being disappointed by my lie.<end>"
+
+["1980146"]
+japanese = "よし、古文書に記されている場所は<line-break>間違いなくここだ。<end>"
+english = "All right. This is definitely the place described in the ancient text.<end>"
+
+["1980147"]
+japanese = "じゃ、あとは僕に任せて。<line-break>みんな下がってて…。<end>"
+english = "Leave the rest to me. Everyone, stand back...<end>"
+
+["1980148"]
+japanese = "………………。<line-break>………………。<line-break>………………。<end>"
+english = "... ... ...<end>"
+
+["1980149"]
+japanese = "…変だな。<line-break>この呪文でいいはずなんだけど。<line-break>発音が微妙に違ったのかな…？<end>"
+english = "That's strange. This should be the right spell. Was my pronunciation slightly off...?<end>"
+
+["1980150"]
+japanese = "きゃあーっ！<line-break><value:$28>さん！<line-break>あ、あれ…！<end>"
+english = "Aah! <value:$28>! Th-that...!<end>"
+
+["1980151"]
+japanese = "ご…ごめんなさい、<line-break><value:$28>さん。<line-break>実は伝説のフライパンって…。<end>"
+english = "I-I'm sorry, <value:$28>. The truth is, the Legendary Frying Pan...<end>"
+
+["1980152"]
+japanese = "え！？<end>"
+english = "What?!<end>"
+
+["1980153"]
+japanese = "こ、これって…<line-break>もしかして…！<end>"
+english = "C-could this really be...?<end>"
+
+["1980154"]
+japanese = "伝説の魔道器だ！<end>"
+english = "It's the legendary magical artifact!<end>"
+
+["1980155"]
+japanese = "そうか！\u3000わかったぞ。<line-break>あの怪物は<line-break>魔道器の守護者だったんだ。<line-break>万が一、封印が解かれた時は、<line-break>侵入者を滅ぼすよう、<line-break>仕掛けられていたんだ。<end>"
+english = "Of course! Now I understand. That monster was the magical artifact's guardian. It had been set to destroy any intruders if the seal was ever broken.<end>"
+
+["1980156"]
+japanese = "見てください、<value:$28>さん。<line-break>本当に…<line-break>本当にあったんです…。<end>"
+english = "Look, <value:$28>. It really... it really exists...<end>"
+
+["1980157"]
+japanese = "わ、私…。私は…。<line-break>ひっく…。えっく…。<end>"
+english = "I-I... I... Hic... h-hic...<end>"
+
+["1980158"]
+japanese = "あっ、<value:$28>さん…。<end>"
+english = "Oh, <value:$28>...<end>"
+
+["1980159"]
+japanese = "ええ。そうですね。<line-break>私もエストさんから聞きました。<line-break>\u3000<line-break>形こそ似ているけど、<line-break>あれはフライパンじゃないって。<end>"
+english = "Yes, that's right. Est told me too. It may look like one, but it isn't actually a frying pan.<end>"
+
+["1980160"]
+japanese = "でも、発見できてよかった。<line-break>今、私…。<line-break>とっても解放された気分なんです。<end>"
+english = "Still, I'm glad we found it. I feel... so free now.<end>"
+
+["1980161"]
+japanese = "えっ？\u3000どうしてって…それは…。<end>"
+english = "What? Why...? Well...<end>"
+
+["1980162"]
+japanese = "ごめんなさい！<line-break>伝説のフライパンって、<line-break>全部、ウソだったんです。<end>"
+english = "I'm sorry! The whole thing about the Legendary Frying Pan was a lie.<end>"
+
+["1980163"]
+japanese = "おばあちゃんから聞いたというのは<line-break>本当ですけど…。<line-break>\u3000<line-break>でも、おばあちゃんの話は<line-break>幼かった私を楽しませるための<line-break>おとぎ話だって知ってたから…。<end>"
+english = "It was true that I heard the story from my grandmother. But I knew it was only a fairy tale she'd made up to entertain me when I was little...<end>"
+
+["1980164"]
+japanese = "私は自分のウソで自分を縛り、<line-break>そのあげくひとりで苦しんでいたんです。<line-break>ほんと、バカみたいですよね。<end>"
+english = "I trapped myself in my own lie, and ended up suffering all alone because of it. I must seem like such a fool.<end>"
+
+["1980165"]
+japanese = "でも、不思議と今は自分のついたウソに<line-break>後悔がないんです。<end>"
+english = "But strangely enough, I don't regret the lie now.<end>"
+
+["1980166"]
+japanese = "だって、そのお陰で<line-break><value:$28>さんと、<line-break>一緒に旅ができたんですから。<line-break>苦しんだけど、嬉しかったんです。<line-break>この思い出は、私の一生の宝物です。<line-break>ありがとうございましたっ！<end>"
+english = "Because thanks to that lie, I got to travel with you, <value:$28>. It was painful, but it made me happy too. I'll treasure these memories for the rest of my life. Thank you so much!<end>"
+
+["1980167"]
+japanese = "でも、その旅ももう終わりですね…。<line-break>伝説のフライパンは見つかったし、<line-break>私が一緒にいる理由もありません。<end>"
+english = "But I suppose our journey is over now... We've found the Legendary Frying Pan, and I have no reason to stay with you anymore.<end>"
+
+["1980168"]
+japanese = "もう少しだけご一緒したら、<line-break>私はロストールに帰ります。<line-break>それで…いいですよね？<end>"
+english = "I'll travel with you a little longer, then return to Rostorl. That's... all right with you, isn't it?<end>"
+
+["1980169"]
+japanese = "これからも一緒にいてほしい<end>"
+english = "I want you to stay with me.<end>"
+
+["1980170"]
+japanese = "そんなこと…<end>"
+english = "That's not...<end>"
+
+["1980171"]
+japanese = "いいんですか、そんなこと言って！？<line-break>信じちゃいますよ…。<line-break>私、バカだから…。<end>"
+english = "Are you sure you mean that?! Because I'll believe you... I'm foolish enough to...<end>"
+
+["1980172"]
+japanese = "あ、いいんです。<line-break>気を遣わないでください。<line-break>\u3000<line-break><value:$28>さんと一緒に<line-break>ここまで来られただけでも<line-break>私は幸せ者ですから。<end>"
+english = "Oh, it's all right. You don't have to spare my feelings. I'm lucky just to have made it this far with you, <value:$28>.<end>"
+
+["1980173"]
+japanese = "でも…。<line-break>あと、ほんのもう少しだけ、<line-break>ご一緒させてください。<line-break>あまり、お役には立てないかも<line-break>しれませんけど、私…。<line-break>一生懸命、がんばりますから。<end>"
+english = "But... please let me stay with you just a little longer. I may not be much help, but... I'll do my very best.<end>"
+
+["1980174"]
+japanese = "それにしても、お前さんは<line-break>人間ができているねえ。<line-break>よく怒らないもんだ。<end>"
+english = "Still, you're remarkably understanding. I don't know how you keep from getting angry.<end>"
+
+["1980175"]
+japanese = "怒るって、誰にです？<end>"
+english = "Angry? With whom?<end>"
+
+["1980176"]
+japanese = "決まってる。あいつに、だよ。<line-break>こんな可愛い娘さんを置いて、<line-break>大陸中をほっつき歩いてる、あいつ。<end>"
+english = "You know who. The one who left a lovely girl like you behind to go traipsing all over the continent.<end>"
+
+["1980177"]
+japanese = "しょうがないですよ。<line-break>あの人は自由気ままな風と同じです。<line-break>つなぎとめておくことはできません。<end>"
+english = "It can't be helped. That one's as free as the wind. There's no tying someone like that down.<end>"
+
+["1980178"]
+japanese = "ハッハッハッ。そりゃそうだ。<line-break>家の中におさまってるあいつの姿なんて<line-break>想像もつかねえからな。<end>"
+english = "Ha ha ha! True enough. I can't even picture that one staying put at home.<end>"
+
+["1980179"]
+japanese = "私はただの港なだけで充分なんです。<line-break>冒険という荒々しい未知の航海から、<line-break>あの人が帰ってくるための港…。<end>"
+english = "I'm content just to be a harbor―a harbor to return to from the rough, uncharted voyage of adventure...<end>"
+
+["1980180"]
+japanese = "あーあ、ごちそうさん。<line-break>今度、あいつに会ったら、<line-break>俺が言っといてやるよ。<line-break>さっさと帰港しやがれ<line-break>このろくでなしってな。<end>"
+english = "Oh, spare me. Next time we meet, I'll pass on a message: “Get back to port already, you good-for-nothing.”<end>"
+
+["1980181"]
+japanese = "そろそろ戻ってくるんじゃないかって<line-break>思ってました。<line-break>なんとなくそんな気がして…。<end>"
+english = "I thought you might be coming back soon. I don't know why. I just had a feeling...<end>"
+
+["1980182"]
+japanese = "お帰りなさい、<value:$28>。<end>"
+english = "Welcome home, <value:$28>.<end>"
+
+["1980183"]
+japanese = "あっ、<value:$28>さん！\u3000<line-break>\u3000<line-break>あ、あの…。<line-break>先ほどはありがとうございました。<end>"
+english = "Oh, <value:$28>! Um... thank you for what you did earlier.<end>"
+
+["1980184"]
+japanese = "どうぞ、ゆっくりしていってください。<end>"
+english = "Please, stay and make yourself comfortable.<end>"
+
+["1980185"]
+japanese = "いらっしゃいませ、<line-break><value:$28>さん。<line-break>どうぞ、ゆっくりしていってください。<end>"
+english = "Welcome, <value:$28>. Please, stay and make yourself comfortable.<end>"
+
+["1980186"]
+japanese = "いらっしゃいませ！<line-break><value:$28>さん！<line-break>\u3000<line-break>あ、もしかして私の料理を<line-break>食べに来てくれたんですか？<end>"
+english = "Welcome, <value:$28>! Oh, did you come to have some of my cooking?<end>"
+
+["1980187"]
+japanese = "へえ。いいですね。<line-break>世界のあちこちを旅しているなんて。<line-break>\u3000<line-break>できることなら私も一緒に…。<line-break>\u3000<line-break>\u3000<line-break>あ、いえ。なんでもないです。<line-break>気になさらないでください。<end>"
+english = "Oh, that sounds wonderful. Traveling all over the world like that... If I could, I'd go with you... Oh! No, it's nothing. Please don't mind me.<end>"
+
+["1980188"]
+japanese = "えっ？\u3000今は闇の神器を<line-break>探している…？<line-break>それってスゴいものなんですか？<end>"
+english = "What? You're looking for a dark artifact now...? Is it something really amazing?<end>"
+
+["1980189"]
+japanese = "あ、えーと…。<line-break>………………。<end>"
+english = "Oh, um...<end>"
+
+["1980190"]
+japanese = "どうしよう…。<line-break>\u3000<line-break>\u3000<line-break>この機会を逃したら<line-break>もう<value:$28>さんとは<line-break>会えないかも…。<end>"
+english = "What should I do...? If I let this chance slip away, I may never see <value:$28> again...<end>"
+
+["1980191"]
+japanese = "<value:$28>さん…。<line-break>もしかして、私を冒険の旅に<line-break>加えていただけるんですか？<end>"
+english = "<value:$28>... Does this mean you'll let me join you on your adventures?<end>"
+
+["1980192"]
+japanese = "ど、どうしよう…？<line-break>なんとかつじつまを合わせなきゃ…。<line-break>\u3000<line-break>………………！<end>"
+english = "Wh-what am I going to do...? I have to make the story fit somehow... Wait!<end>"
+
+["1980193"]
+japanese = "エルフとドワーフが協力して作った<line-break>魔道器とな？<end>"
+english = "A magical artifact made by Elves and Dwarves working together, you say?<end>"
+
+["1980194"]
+japanese = "ど、どうしよう…？<line-break>私のついたウソがバレちゃう…。<line-break>\u3000<line-break>せめて、自分から先に<line-break>ごめんなさいって謝ったほうが…。<end>"
+english = "Wh-what should I do...? My lie's going to be exposed... Maybe I should apologize first...<end>"
+
+["1980195"]
+japanese = "むっ。待てよ…。<line-break>もしかすると、あれか？<end>"
+english = "Hm. Wait... Could it be that?<end>"
+
+["1980196"]
+japanese = "ええっ！<end>"
+english = "What?!<end>"
+
+["1980197"]
+japanese = "そ、それって本当なんですか！？<end>"
+english = "I-is that really true?!<end>"
+
+["1980198"]
+japanese = "そ、そうですか…。<end>"
+english = "I-I see...<end>"
+
+["1980199"]
+japanese = "（どうしよう…。まさか<line-break>\u3000こんなことになっちゃうなんて…。）<line-break>\u3000<line-break>（このまま<value:$28>さんが、<line-break>\u3000伝説のフライパンを探し続けたら、<line-break>\u3000私のウソがバレて嫌われちゃう…。）<line-break>（ああん！\u3000どうしたらいいの…！？）<end>"
+english = "(What am I going to do...? I never thought it would turn into this.) (If <value:$28> keeps searching for the Legendary Frying Pan, my lie will come out... and I'll be hated.) (Oh, what am I supposed to do?!)<end>"
+
+["1980200"]
+japanese = "ど、どうしよう…。<line-break>\u3000<line-break>\u3000<line-break>なんとかして、それとなく<line-break><value:$28>さんに<line-break>あきらめてもらわないと…。<end>"
+english = "W-what am I going to do...? I have to find some way to get <value:$28> to give up without making it obvious...<end>"
+
+["1980201"]
+japanese = "でも、とても古い話なので、<line-break>もうその賢者様もとっくに<line-break>亡くなっているでしょうし…。<line-break>残念ですけど、ちょっと<line-break>探しようがないですよね？<line-break>ですよねっ！？<end>"
+english = "But that was such a long time ago. The sage must be long dead by now... It's a shame, but there's no way we could find the sage now, is there? There isn't, right!?<end>"
+
+["1980202"]
+japanese = "そ、そんなはずは…。<line-break>だってあれは…おばあちゃんから<line-break>聞いた根も葉もないおとぎ話…。<line-break>それこそ、探したって絶対に<line-break>見つかるはずが…。<end>"
+english = "Th-that can't be... It was just some ridiculous fairy tale my grandmother told me. No matter how hard anyone looked, it could never be found...<end>"
+
+["1980203"]
+japanese = "いえ、そうとも限りませんよ。<line-break>わずかですが手がかりはあります。<end>"
+english = "Not necessarily. There is one small lead.<end>"
+
+["1980204"]
+japanese = "えっ？\u3000それって<line-break>どういう意味ですか？<end>"
+english = "What? What do you mean?<end>"
+
+["1980205"]
+japanese = "その魔道器…<line-break>見つかるといいですね、<line-break><value:$28>。<end>"
+english = "I hope you find that artifact, <value:$28>.<end>"
+
+["1980206"]
+japanese = "いらっしゃい、<value:$28>。<line-break>今日はどうしたんですか？<end>"
+english = "Welcome, <value:$28>. What brings you here today?<end>"
+
+["1980207"]
+japanese = "ほう。伝説のフライパンを<line-break>探しているのですか…。<line-break>それで私を訪ねてきたのですね。<end>"
+english = "Oh? You're looking for the Legendary Frying Pan. So that's why you've come to see me.<end>"
+
+["1980208"]
+japanese = "き、聞いたことないですよね。<line-break>そんな魔道器の話なんて…。<end>"
+english = "Y-you've never heard of it, have you? A magical artifact like that...<end>"
+
+["1980209"]
+japanese = "いえ。ありますよ。<end>"
+english = "Actually, I have.<end>"
+
+["1980210"]
+japanese = "はいっ！？<end>"
+english = "What?!<end>"
+
+["1980211"]
+japanese = "正確な名前は知りませんが、<line-break>エルフに古くから伝わる<line-break>魔道器があると聞いています。<end>"
+english = "I don't know its exact name, but I've heard of a magical artifact passed down among the Elves since ancient times.<end>"
+
+["1980212"]
+japanese = "そ、そんなはずは…。<line-break>だってあれは…おばあちゃんから<line-break>聞いた根も葉もないおとぎ話…。<line-break>それこそ、探したって絶対に<line-break>見つかるはずが…。<end>"
+english = "Th-that can't be... It was just some ridiculous fairy tale my grandmother told me. No matter how hard anyone looked, it could never be found...<end>"
+
+["1980213"]
+japanese = "とは言え、いつだったか<line-break>人間たちに奪われてしまい<line-break>以来、行方知れずらしいですがね。<end>"
+english = "That said, the humans apparently stole it at some point, and no one has known where it is since.<end>"
+
+["1980214"]
+japanese = "そうなんですか…。<line-break>\u3000<line-break>\u3000<line-break>…よかった。<end>"
+english = "Is that so...? Thank goodness.<end>"
+
+["1980215"]
+japanese = "何か言いましたか？<end>"
+english = "Did you say something?<end>"
+
+["1980216"]
+japanese = "い、いえ、何も…！<line-break>\u3000<line-break>\u3000<line-break>あ、でも、行方知れずに<line-break>なっているのなら、<line-break>もう探しようがないですよね。<line-break>ここは、きっぱりあきらめたほうが…。<end>"
+english = "N-no, nothing! But if no one knows where it is, then there's no way to look for it, is there? It would be best to give up on it now...<end>"
+
+["1980217"]
+japanese = "いえ、そうとも限りませんよ。<line-break>わずかですが手がかりはあります。<end>"
+english = "Not necessarily. There is one small lead.<end>"
+
+["1980218"]
+japanese = "えっ？\u3000それって<line-break>どういう意味ですか？<end>"
+english = "What? What do you mean?<end>"
+
+["1980219"]
+japanese = "言い伝えによると、<line-break>その魔道器の使い方を誤ったせいで、<line-break>一国が滅びたとあります。<line-break>城塞都市跡あたりに行けば<line-break>何か手がかりぐらいは<line-break>残っているかもしれません。<end>"
+english = "According to the legend, an entire nation was destroyed because the artifact was used improperly. There may still be some clue left near the Fortress City Ruins.<end>"
+
+["1980220"]
+japanese = "え…ええーっ！？<line-break>そ、そんな、まさか…。<end>"
+english = "Wh-what?! No, that can't be...<end>"
+
+["1980221"]
+japanese = "どうしました？<line-break>お顔の色がすぐれないようですが。<end>"
+english = "What's wrong? You look rather pale.<end>"
+
+["1980222"]
+japanese = "だ、大丈夫です。<line-break>ただの寝不足ですから。<line-break>ご心配には及びません。<end>"
+english = "I-I'm fine. I just haven't had enough sleep. There's no need to worry about me.<end>"
+
+["1980223"]
+japanese = "その魔道器…<line-break>見つかるといいですね、<line-break><value:$28>。<end>"
+english = "I hope you find that artifact, <value:$28>.<end>"
+
+["1980224"]
+japanese = "どうしよう…。<line-break>何とかして<value:$28>さんに<line-break>あきらめてもらわないと…。<end>"
+english = "What am I going to do...? I have to find some way to make <value:$28> give up...<end>"
+
+["1980225"]
+japanese = "すごく古くて特別な呪文ですから、<line-break>知っている人だって<line-break>今はいるかどうか…。<end>"
+english = "It's a very old and very special incantation. I doubt anyone who knows it is still around...<end>"
+
+["1980226"]
+japanese = "そんな面倒な魔道器のことは<line-break>もう忘れちゃって、<line-break>何か他の物を探してみては…。<end>"
+english = "Why not forget all about that troublesome magical artifact and look for something else...?<end>"
+
+["1980227"]
+japanese = "（終わった…。ううう…。<line-break>\u3000そんな専門家に尋ねたら<line-break>\u3000私のウソなんて見抜かれちゃう…。）<line-break>（そうなったら、もう<line-break>\u3000<value:$28>さんの<line-break>\u3000おそばにいられない…。）<end>"
+english = "(I'm finished... Oh no... If you ask an expert like that, my lie will be exposed...) (And then I won't be able to stay by <value:$28>'s side anymore...)<end>"
+
+["1980228"]
+japanese = "うまいかまずいか以前に<line-break>食えるブツかどうかが疑問。<line-break>生命の危機を感じる…。<end>"
+english = ""
+
+["1980229"]
+japanese = "で、ですから、伝説のフライパンは<line-break>ドワーフの技術とエルフの魔力によって<line-break>強力無比な破壊力を秘めているとか。<end>"
+english = "S-so, they say the Legendary Frying Pan combines Dwarven craftsmanship with Elven magic, giving it unrivaled destructive power.<end>"
+
+["1980230"]
+japanese = "で、でもよく考えてみると<line-break>変な話ですよね？<line-break>\u3000<line-break>昔から仲の悪いエルフとドワーフが<line-break>協力して作った魔道器なんて…。<end>"
+english = "B-but when you really think about it, it does sound strange, doesn't it? A magical artifact made by Elves and Dwarves working together, when they've always been at odds...<end>"
+
+["1980231"]
+japanese = "そ、そうですよね…。<line-break>おかしな話だって<line-break><value:$28>さんも思いますよね。<line-break>（よかった…。<line-break>\u3000これでもうウソをつかなくてすむ…。）<line-break>\u3000<line-break>（このまま<value:$28>さんが<line-break>\u3000この話を忘れてくれたら、<line-break>\u3000ずっと一緒に旅をしていられる…。）<end>"
+english = "Y-yes, exactly... You think it sounds strange too, don't you, <value:$28>? (Thank goodness... Now I won't have to keep lying...) (If <value:$28> will just forget all about it, we can keep traveling together...)<end>"
+
+["1980232"]
+japanese = "そ、そうですか…。<end>"
+english = "I-is that so...?<end>"
+
+["1980233"]
+japanese = "すみません…。<line-break>一晩中、星空をながめていたから<line-break>ちょっと寝不足ぎみで…。<end>"
+english = "I'm sorry... I stayed up all night watching the stars, so I'm just a little short on sleep...<end>"
+
+["1980234"]
+japanese = "だ、大丈夫です！<line-break>皆さんの足手まといにならないよう<line-break>なんとかがんばりますから…。<line-break>さ、行きましょう、<line-break><value:$28>さん。<end>"
+english = "I-I'm all right! I'll do my best not to slow anyone down... Come on, let's go, <value:$28>.<end>"
+
+["1980235"]
+japanese = "変なことを言うんだな<end>"
+english = "That's a strange thing to say.<end>"
+
+["1980236"]
+japanese = "私は私よ。\u3000変わったりしない<end>"
+english = "I'm still me. That's not going to change.<end>"
+
+["1980237"]
+japanese = "そ、そうですよね…。<line-break>ごめんなさい。<line-break>変なこと言ってしまって…。<line-break>きっと私、長旅で疲れてるんです。<line-break>忘れてください…。<line-break>おやすみなさい。<end>"
+english = "Y-you're right, of course... I'm sorry. I shouldn't have said anything so strange. I must be tired from the long journey. Please, forget I said it... Good night.<end>"
+
+["1980238"]
+japanese = "よかった…。<line-break>変わらないでくださいね。<line-break>このまま、ずっと。<line-break>私の胸の内にある、<line-break><value:$28>さんのまま。<end>"
+english = "I'm glad... Please don't ever change. Stay just as you are, always―the <value:$28> I hold in my heart.<end>"
+
+["1980239"]
+japanese = "すみません、<value:$28>さん。<line-break>私、あの人ちょっと苦手なんで<line-break>隠れてますね。<end>"
+english = "Sorry, <value:$28>. I'm not very comfortable around that man, so I'm going to hide.<end>"
+
+["1980240"]
+japanese = "今はそれどころじゃないって…。<line-break><value:$28>さんは<line-break>私のことをどう思って…。<end>"
+english = "I said we don't have time for this... What does <value:$28> really think of me...?<end>"
+
+["1980241"]
+japanese = "あ、いえ。気にしていません…。<line-break>大丈夫です…。<line-break>\u3000<line-break><value:$28>さんは考えがあって<line-break>あの場はそう言ったのだと<line-break>信じていますから…。<end>"
+english = "Oh, no. It doesn't bother me... I'm all right. I trust that <value:$28> had a reason for saying that back there.<end>"
+
+["1980242"]
+japanese = "<value:$28>さん…。<line-break>あの人は？<end>"
+english = "<value:$28>... What about that man?<end>"
+
+["1980243"]
+japanese = "じゃあ、<line-break>あきらめてくれたんですね。<line-break>よかった…。<line-break><value:$28>さんのお陰です。<line-break>ありがとうございます。<end>"
+english = "Then he finally gave up. Thank goodness... It's all thanks to you, <value:$28>. Thank you.<end>"
+
+["1980244"]
+japanese = "<value:$28>さん！<line-break>大丈夫ですか！？<end>"
+english = "<value:$28>! Are you all right?!<end>"
+
+["1980245"]
+japanese = "<value:$28>さんは<line-break>やっばり優しいんですね、<line-break>わざと負けてあげるなんて。<line-break>私、うれしいです、<line-break>そんな<value:$28>さんと<line-break>一緒に旅ができたことが…。<end>"
+english = "You really are kind, <value:$28>. You lost on purpose for him. I'm so glad... that I got to travel with someone like you, <value:$28>.<end>"
+
+["1980246"]
+japanese = "伝説のフライパンを手に入れた。<end>"
+english = "Obtained the Legendary Frying Pan.<end>"
+
+["1980247"]
+japanese = "フェルムメッセージ終了<end>"
+english = ""

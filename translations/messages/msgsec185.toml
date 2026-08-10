@@ -1,0 +1,345 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1850000"]
+japanese = "クリュセイスメッセージＶ４用開始<end>"
+english = ""
+
+["1850001"]
+japanese = "おう、<value:$28>。<line-break>ちっと耳に入れときたいことがあってな。<end>"
+english = "Hey, <value:$28>. There's something I thought you ought to know.<end>"
+
+["1850002"]
+japanese = "いや、仕事の話じゃないんだ。<line-break>リベルダムが落ちたって噂、聞いてるか？<end>"
+english = "No, it's not about a job. Have you heard the rumor that Liberdam has fallen?<end>"
+
+["1850003"]
+japanese = "驚くのも無理はねぇ。<line-break>俺も信じられないからな。<line-break>なんでも一夜でカルラが落としたそうだ。<end>"
+english = "Can't blame you for being surprised. I can hardly believe it myself. They say Karula took the place in a single night.<end>"
+
+["1850004"]
+japanese = "ま、自分の目で確かめてみるのが、\u3000\u3000\u3000<line-break>一番いいだろうな。<line-break>\u3000<line-break>リベルダムに知り合いがいるなら、<line-break>なおさらな。<end>"
+english = "Best see for yourself, I reckon. Especially if you know anyone in Liberdam.<end>"
+
+["1850005"]
+japanese = "\u3000\u3000大陸の商業と文化の中心地、リベルダム。\u3000<line-break>\u3000\u3000\u3000\u3000自由都市とも呼ばれるこの都市は\u3000\u3000\u3000<line-break>\u3000\u3000\u3000これまで、大国の力に屈することなく\u3000\u3000<line-break>\u3000\u3000\u3000常に自治と中立の姿勢を貫いてきた。\u3000\u3000<end>"
+english = "Liberdam, the continent's center of commerce and culture. Also known as the Free City, it had always upheld its autonomy and neutrality, never yielding to the power of great nations.<end>"
+
+["1850006"]
+japanese = "しかし、その誇り高き自由の歴史は、\u3000\u3000<line-break>ディンガル帝国と内通した商人\u3000\u3000\u3000\u3000<line-break>アンティノ・マモンの裏切りにより、\u3000\u3000<line-break>内部から終止符が打たれることとなった。\u3000<end>"
+english = "But that proud history of freedom came to an end from within through the betrayal of Antino Mamon, a merchant who had conspired with the Dingal Empire.<end>"
+
+["1850007"]
+japanese = "アンティノの手引きで<line-break>リベルダムを攻めた青竜将軍カルラは、<line-break>反乱分子の掃討を名目として、<line-break>一夜のうちに市内を徹底的に破壊した。<end>"
+english = "With Antino's aid, Azure Dragon General Karula attacked Liberdam and, under the pretext of purging the insurgents, laid waste to the city in a single night.<end>"
+
+["1850008"]
+japanese = "しかし、反乱分子の<line-break>指導者と目される商家の娘、<line-break>クリュセイス・クロイスは見つからず、<line-break>内通者アンティノの消息も不明であった。<end>"
+english = "Yet Chryseis Crois, who was the daughter of a merchant family and was believed to be the insurgents' leader, was nowhere to be found, and the whereabouts of Antino, the collaborator, were also unknown.<end>"
+
+["1850009"]
+japanese = "\u3000\u3000\u3000結果、リベルダムの繁栄は失われ、\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000そこに残されたものは\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000かつて美しい町並みであったはずのガレキと\u3000<line-break>\u3000\u3000\u3000力なき人々の泣き声だけであった…。\u3000\u3000<end>"
+english = "Thus Liberdam's prosperity was lost. All that remained was the rubble of what had once been a beautiful cityscape and the cries of helpless people...<end>"
+
+["1850010"]
+japanese = "絶対、あそこにいるわね。<line-break>クリュセイスの奴、<line-break>間違いなくフゴーを頼ってるわ。<end>"
+english = "She's definitely there. Khryuseis must have turned to Hugo for help.<end>"
+
+["1850011"]
+japanese = "しかし、フゴーに手を出すと、<line-break>ディンガルの国家財政にまで<line-break>影響が及びます。<line-break>下手なマネはできません。<line-break>これ以上は刺激しない方が…。<end>"
+english = "But if we move against Hugo, it could affect the Dingal treasury itself. We cannot afford to act rashly. It may be best not to provoke him any further.<end>"
+
+["1850012"]
+japanese = "フゴーって、<line-break>そんなにすごいんですか？<end>"
+english = "Is Hugo really that powerful?<end>"
+
+["1850013"]
+japanese = "んー、まぁね。<line-break>この大陸の経済を握ってるの、<line-break>フゴーだからね。<line-break>あいつを敵に回しちゃうと、<line-break>税収が激減するのよ。<end>"
+english = "Mm, you could say that. Hugo controls the economy of this entire continent. If we make an enemy of him, our tax revenues will plummet.<end>"
+
+["1850014"]
+japanese = "美術館壊しちゃって、<line-break>ちょっとやばかったもんね。<line-break>追い打ちかけちゃまずいわね。<end>"
+english = "Wrecking the museum already put us in a tight spot. We'd better not make things any worse.<end>"
+
+["1850015"]
+japanese = "美術品の運び出しを手伝って、<line-break>やっと機嫌を取り戻せたことですし。<end>"
+english = "It took helping move the artwork out just to get back into his good graces.<end>"
+
+["1850016"]
+japanese = "かといって、クリュセイスの<line-break>居場所を確認しないで<line-break>放っておくわけにもいかないし。<end>"
+english = "Still, we can't just let this go without confirming where Khryuseis is.<end>"
+
+["1850017"]
+japanese = "アンティノも逃がすし、<line-break>なんか手際悪いわね。<end>"
+english = "We let Antino get away too. We're not handling this very well.<end>"
+
+["1850018"]
+japanese = "…すみません。<line-break>私の指揮がいたらないばかりに…。<end>"
+english = "I'm sorry. This is all because I failed to lead properly...<end>"
+
+["1850019"]
+japanese = "落ち込んでる暇があったら、<line-break>抜かりがないか、<line-break>もう一度確認してきなさいな。<end>"
+english = "If you have time to mope, go back and make sure nothing's been overlooked.<end>"
+
+["1850020"]
+japanese = "は、はいっ！<end>"
+english = "Y-yes!<end>"
+
+["1850021"]
+japanese = "お、<value:$28>じゃん。<line-break>ちょーどいいところに来た。<line-break>あんたフゴーと付き合いある？<end>"
+english = "Oh, hey, <value:$28>. Perfect timing. You know Hugo, right?<end>"
+
+["1850022"]
+japanese = "ラッキー！<line-break>さすがは<value:$28>。<line-break>頼りになるじゃん。<end>"
+english = "Lucky me! I knew I could count on you, <value:$28>.<end>"
+
+["1850023"]
+japanese = "でさ、ちょっと、<line-break>フゴーのところまで<line-break>行ってきてくんない？<line-break>クリュセイスのこと<line-break>聞いてきてほしいんだけど。<end>"
+english = "So, could you pay Hugo a little visit? I want you to ask him about Khryuseis.<end>"
+
+["1850024"]
+japanese = "情報がほしいだけ。<line-break>フゴーがらみなら、<line-break>もう捜索は打ち切らなきゃ。<line-break>手が出せないからね。<line-break>でも、そうじゃないなら…、<line-break>ま、そんときはそんとき。<end>"
+english = "All I want is information. If Hugo's involved, we'll have to call off the search. We can't touch him. But if he isn't... well, we'll deal with that when the time comes.<end>"
+
+["1850025"]
+japanese = "あら？\u3000あんた冒険者？<line-break>ちょうどよかった、<line-break>ちょっと頼みたいことがあるのよ。<line-break>ここに来られたってことは、<line-break>フゴーと付き合いがある<line-break>ってことよね？<end>"
+english = "Oh? Are you an adventurer? Perfect. I've got a little favor to ask. If you managed to get in here, that means you know Hugo, right?<end>"
+
+["1850026"]
+japanese = "あたしは、カルラ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ディンガル帝国の将軍。<line-break>\u3000<line-break>で、リベルダムを落として、<line-break>今その後片付けの最中なんだけど、<line-break>片づかないことがひとつあってね。<end>"
+english = "I'm Karula, a general of the Dingal Empire. We took Liberdam, and now we're cleaning up afterward. There's just one loose end we haven't been able to tie up.<end>"
+
+["1850027"]
+japanese = "クリュセイスっていう娘が<line-break>見あたらないのよ。<line-break>解放軍の首謀者なんだけどさ、<line-break>そいつがどうもこの上にある<line-break>フゴー邸に<line-break>かくまわれてるっぽいのよね。<end>"
+english = "A girl named Khryuseis is missing. She's the ringleader of the Liberation Army, and it looks like Hugo may be sheltering her at his estate up above.<end>"
+
+["1850028"]
+japanese = "だから、フゴーのところに行ってさ、<line-break>クリュセイスのことについて、<line-break>探りを入れてきてくれない？<line-break>あたしらは、ちょっと<line-break>行けない事情があるのよ。<line-break>頼まれてくれないかなぁ？<end>"
+english = "So, could you go see Hugo and quietly find out what he knows about Khryuseis? There are reasons we can't go ourselves. How about doing us this favor?<end>"
+
+["1850029"]
+japanese = "どう、引き受けてくれる？<line-break>カルラ軍とは、関係ないふりして、<line-break>聞き出してきて。<line-break>成功すれば、<line-break>あたしが自腹で報酬出すわよ。<end>"
+english = "Well? Will you take the job? Pretend you have nothing to do with Karula's Army and get the truth out of him. If you succeed, I'll pay you out of my own pocket.<end>"
+
+["1850030"]
+japanese = "そうこなくっちゃね。<line-break>じゃ、よろしくー。<end>"
+english = "That's what I wanted to hear. I'm counting on you.<end>"
+
+["1850031"]
+japanese = "あら、まだ行ってないの？<line-break>あんましぐずぐずしてるのは、<line-break>みっともないんじゃない？<end>"
+english = "Oh, you still haven't gone? Dragging your feet like this is a little pathetic, don't you think?<end>"
+
+["1850032"]
+japanese = "おっかえりー。<line-break>で、どうだった？<end>"
+english = "Welcome back! So, how did it go?<end>"
+
+["1850033"]
+japanese = "ふーん。<line-break>やるわね、クリュセイス。\u3000<line-break>したたかじゃない。<end>"
+english = "Hmm. Nicely done, Khryuseis. You're a shrewd one, aren't you?<end>"
+
+["1850034"]
+japanese = "ま、フゴーがらみじゃ、\u3000\u3000<line-break>しゃーないわね。<line-break>よし、捜索は打ち切り！<line-break>最後に、時計塔を壊して、<line-break>リベルダム占領作戦は終了！<end>"
+english = "Well, if Hugo's involved, I suppose it can't be helped. All right, call off the search! We'll finish by destroying the clock tower, and then the operation to occupy Liberdam is over!<end>"
+
+["1850035"]
+japanese = "ほい、これ報酬ね。<end>"
+english = "Here you go. Your reward.<end>"
+
+["1850036"]
+japanese = "伝令部隊は、各地に<line-break>リベルダム占領の報を<line-break>飛ばしなさい！！<end>"
+english = "Messenger units, spread word of Liberdam's occupation throughout the land!<end>"
+
+["1850037"]
+japanese = "ね、あんた、あたしの部下にならない？<line-break>すごく見込みありそうだからさ。<line-break>\u3000<line-break>普段は勝手なことしてていいよ。<line-break>ただ、あたしがでかいことする時には、<line-break>力貸してくれないかな？<end>"
+english = "Hey, how about working for me? You seem to have a lot of potential. Most of the time, you can do whatever you like. But when I do something big, would you lend me a hand?<end>"
+
+["1850038"]
+japanese = "力を貸す<end>"
+english = "Agree to help<end>"
+
+["1850039"]
+japanese = "やめておく<end>"
+english = "Decline<end>"
+
+["1850040"]
+japanese = "よし、交渉成立！<line-break>そんじゃ、次の作戦の時まで<line-break>時間の無駄かな…。<line-break>暇だったら、会いに来てよ。<line-break>ロセンの王宮、本拠地にしてるからさ。<end>"
+english = "Good, we have a deal! Well then, I guess you'd only be wasting your time hanging around until the next operation... Come see me if you're free. I'm based at Rocen's royal palace.<end>"
+
+["1850041"]
+japanese = "ダメだったのー！？<line-break>あーあ、がっくり。<end>"
+english = "It didn't work out!? Aw, what a letdown.<end>"
+
+["1850042"]
+japanese = "ま、しゃーないか。<line-break>これ以上捜すのは時間の無駄かな…。<line-break>\u3000<line-break>よし、捜索は打ち切り！<line-break>最後に、時計塔を壊して、<line-break>リベルダム占領作戦は終了！<end>"
+english = "Well, I suppose it can't be helped. Searching any longer would just be a waste of time. All right, call off the search! We'll finish by destroying the clock tower, and then the operation to occupy Liberdam is over!<end>"
+
+["1850043"]
+japanese = "ちょっとちょっと、<line-break>報告してくれなきゃ。<line-break>冒険者の基本でしょ？<end>"
+english = "Come on, you have to report back. That's basic adventuring, isn't it?<end>"
+
+["1850044"]
+japanese = "今日はもうお引き取りください。<end>"
+english = "I'm afraid you'll have to leave for today.<end>"
+
+["1850045"]
+japanese = "これは、<value:$28>様。<line-break>お入りください。<end>"
+english = "Ah, <value:$28>. Please, come in.<end>"
+
+["1850046"]
+japanese = "おや、<value:$28>様。<line-break>このような時に来られるとは。<line-break>どのようなご用ですかな？<end>"
+english = "Why, <value:$28>. I did not expect you at a time like this. What brings you here?<end>"
+
+["1850047"]
+japanese = "何かな、何かな。<end>"
+english = "What is it, then? What is it?<end>"
+
+["1850048"]
+japanese = "ふむ…。<line-break>クリュセイス・クロイスの<line-break>ことについてですか。<end>"
+english = "Hmm... Is this about Khryuseis Crois?<end>"
+
+["1850049"]
+japanese = "なんじゃ…。<line-break>お宝を持ってきたんじゃ<line-break>ないんじゃのぉ。<end>"
+english = "What...? So you haven't brought us any treasure.<end>"
+
+["1850050"]
+japanese = "つまらんのぉ。<end>"
+english = "How dull.<end>"
+
+["1850051"]
+japanese = "ほーほっほっほ。<line-break>そーですわねぇ。<end>"
+english = "Ho, ho, ho, ho! Quite so.<end>"
+
+["1850052"]
+japanese = "あなたには、貴重な品を<line-break>お持ちいただいたご恩もあります。<line-break>\u3000<line-break>事の次第によっては、<line-break>情報をお教えしましょう。<end>"
+english = "We are indebted to you for the valuable things you have brought us. Depending on the circumstances, we may be willing to tell you what we know.<end>"
+
+["1850053"]
+japanese = "信用できる人物なら<line-break>話すんじゃがのぉ。<end>"
+english = "If you can be trusted, we might tell you.<end>"
+
+["1850054"]
+japanese = "私の質問にお答えください。<line-break>どなたに頼まれたのですか？<line-break>正直にお答えください。<end>"
+english = "Please answer my question. Who sent you? Answer honestly.<end>"
+
+["1850055"]
+japanese = "カルラに頼まれた<end>"
+english = "Karula asked me to do it.<end>"
+
+["1850056"]
+japanese = "依頼人の情報は話せない<end>"
+english = "I can't reveal anything about my client.<end>"
+
+["1850057"]
+japanese = "ふむー。<line-break>話せないのぉ。<end>"
+english = "Hmm. So you can't say, eh?<end>"
+
+["1850058"]
+japanese = "依頼人がカルラだからでは\u3000\u3000<line-break>ありません。<line-break>\u3000<line-break>我々は、信用できる人物にしか<line-break>情報を流さないのです。<end>"
+english = "This is not because Karula is your client. We share information only with those we can trust.<end>"
+
+["1850059"]
+japanese = "依頼人の名を<line-break>簡単に明かすような方には、<line-break>お話いたしかねます。<end>"
+english = "We cannot share what we know with someone who would reveal a client's name so readily.<end>"
+
+["1850060"]
+japanese = "お引き取りください。<end>"
+english = "Please leave.<end>"
+
+["1850061"]
+japanese = "ふむー。<line-break>見込みがあるのぉ。<end>"
+english = "Hmm. You may have promise after all.<end>"
+
+["1850062"]
+japanese = "よろしいでしょう。<line-break>依頼人の名を簡単に明かさない。<line-break>そうでなくてはいけません。<end>"
+english = "Very well. A client's name must not be revealed lightly. That is as it should be.<end>"
+
+["1850063"]
+japanese = "あとは、<line-break>情報を守るだけの力が<line-break>あるかどうかじゃのぉ。<end>"
+english = "Now we must see whether you're strong enough to protect that information.<end>"
+
+["1850064"]
+japanese = "さて、そのことも、<line-break>証明していただけますかな？<line-break>我々を相手に。<end>"
+english = "Now then, can you prove that as well? By taking us on?<end>"
+
+["1850065"]
+japanese = "むにゅー…。<end>"
+english = "Mnyuh...<end>"
+
+["1850066"]
+japanese = "ほーっほっほっ、<line-break>むにゅー、ですわねー。<end>"
+english = "Ho, ho, ho! Mnyuh indeed.<end>"
+
+["1850067"]
+japanese = "お見事です。<line-break>約束通り、お教えしましょう。\u3000\u3000<line-break>\u3000<line-break>クリュセイス様は、<line-break>貴重な報酬と引き換えに<line-break>我々がすでにお逃がししています。<end>"
+english = "Splendid. As promised, we will tell you. We have already helped Khryuseis escape in exchange for a valuable reward.<end>"
+
+["1850068"]
+japanese = "リベルダムには、<line-break>すでにいらっしゃいません。<end>"
+english = "She is no longer in Liberdam.<end>"
+
+["1850069"]
+japanese = "勝った。勝った。<end>"
+english = "We won! We won!<end>"
+
+["1850070"]
+japanese = "まことに申しわけありませんが、<line-break>情報を流すには、力不足のようです。<line-break>お引き取りください。<end>"
+english = "I am truly sorry, but you do not appear strong enough for us to entrust you with this information. Please leave.<end>"
+
+["1850071"]
+japanese = "冒険者か？\u3000名を名乗れ。<end>"
+english = ""
+
+["1850072"]
+japanese = "えーと、<value:$28>…。<line-break>フゴー邸に出入りのある者です。<end>"
+english = ""
+
+["1850073"]
+japanese = "よし、通れ。本来、今は中に入れないが、<line-break>カルラ様がフゴー邸に出入りできる人物を<line-break>捜しておいでだ。<line-break>居住区に向かえ。<line-break>急げよ。<end>"
+english = ""
+
+["1850074"]
+japanese = "現在、リベルダムは、封鎖中だ。<line-break>立ち去るがよい。<end>"
+english = "Liberdam is under blockade. Leave at once.<end>"
+
+["1850075"]
+japanese = "クリュセイス様は、<line-break>今はいらっしゃらない。<line-break>日をあらためて、また来てくれ。<end>"
+english = ""
+
+["1850076"]
+japanese = "フゴーと面識があるとは、<line-break>大した冒険者だ。<end>"
+english = ""
+
+["1850077"]
+japanese = "カルラ様もさすがに<line-break>フゴーには手を出せんよ。<line-break>金の力はすごいな。<end>"
+english = ""
+
+["1850078"]
+japanese = "話はつけてきたのか？<line-break>早く頼むよ。<end>"
+english = ""
+
+["1850079"]
+japanese = "知ってる？\u3000クリュセイスって娘。<line-break>ここん家の一人娘なんだけどさ、<line-break>解放軍の首謀者やってんだわ。これが。<line-break>で、そのクリュセイスちゃんが<line-break>フゴーの所に逃げこんでるらしいの。<line-break>そこんとこ、知りたいんだなあ。<end>"
+english = "You know a girl named Khryuseis? She's the only daughter of the family here, and wouldn't you know it, she's the ringleader of the Liberation Army. Word is little Khryuseis has run off to Hugo for protection. That's what I want you to find out.<end>"
+
+["1850080"]
+japanese = "予備メッセージその６<line-break>クリュセイスＶ４<end>"
+english = ""
+
+["1850081"]
+japanese = "予備メッセージその７<line-break>クリュセイスＶ４<end>"
+english = ""
+
+["1850082"]
+japanese = "予備メッセージその８<line-break>クリュセイスＶ４<end>"
+english = ""
+
+["1850083"]
+japanese = "予備メッセージその９<line-break>クリュセイスＶ４<end>"
+english = ""
+
+["1850084"]
+japanese = "予備メッセージその１０<line-break>クリュセイスＶ４<end>"
+english = ""
+
+["1850085"]
+japanese = "クリュセイスメッセージ終端<end>"
+english = ""

@@ -1,0 +1,89 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2190000"]
+japanese = "迷子イベント2用開始<end>"
+english = ""
+
+["2190001"]
+japanese = "うぇーん、うぇーん！<end>"
+english = "Waaah! Waaah!<end>"
+
+["2190002"]
+japanese = "もう大丈夫よ。安心して。<line-break>ほら、涙を拭いて…。<line-break>\u3000<line-break>どうして泣いていたのか、<line-break>話してくれる？<end>"
+english = "It's all right now. Don't worry. Here, wipe your tears... Will you tell me why you were crying?<end>"
+
+["2190003"]
+japanese = "そうだったの。お母さんと<line-break>はぐれたのね。<end>"
+english = "I see. You got separated from your mother.<end>"
+
+["2190004"]
+japanese = "いいわ。一緒に捜しましょ。<end>"
+english = "All right. Let's look for her together.<end>"
+
+["2190005"]
+japanese = "ほんと？<end>"
+english = "Really?<end>"
+
+["2190006"]
+japanese = "お母さんが着ていた服は<line-break>どんな色だったか教えてくれる？<line-break>そうしたら捜しやすくなるわ。<end>"
+english = "Can you tell me what color your mother's clothes were? That'll make her easier to find.<end>"
+
+["2190007"]
+japanese = "うん。<line-break>あのねー、<line-break>お母さんの服はねー。<end>"
+english = "Uh-huh. Um... Mommy's clothes were...<end>"
+
+["2190008"]
+japanese = "どうも、ありがとうございました。<end>"
+english = "Thank you very much.<end>"
+
+["2190009"]
+japanese = "ありがとー、お姉ちゃん。<end>"
+english = "Thank you, miss!<end>"
+
+["2190010"]
+japanese = "さよなら。もうお母さんから<line-break>離れちゃダメよ。<end>"
+english = "Goodbye. Don't leave your mother's side again.<end>"
+
+["2190011"]
+japanese = "うん。<end>"
+english = "Okay.<end>"
+
+["2190012"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["2190013"]
+japanese = "どうしたの、<value:$28>？<line-break>そんな不思議そうな顔をして。<end>"
+english = "What is it, <value:$28>? You look so puzzled.<end>"
+
+["2190014"]
+japanese = "やさしいんだね。<end>"
+english = "You're kind.<end>"
+
+["2190015"]
+japanese = "意外だね。<end>"
+english = "I didn't expect that.<end>"
+
+["2190016"]
+japanese = "やさしいですって？<line-break>バ、バカね…。<end>"
+english = "You think I'm kind? D-don't be ridiculous...<end>"
+
+["2190017"]
+japanese = "意外ですって…？<line-break>そ、そうね。言われてみれば…。<end>"
+english = "You didn't expect that...? W-well, now that you mention it...<end>"
+
+["2190018"]
+japanese = "マゴスの影に怯えていた頃は<line-break>ずっと気持ちが張り詰めていて<line-break>\u3000<line-break>見知らぬ誰かのために<line-break>自分から何かをしてあげるなんて<line-break>余裕はなかったかも…。<end>"
+english = "Back when I lived in fear of Magos's shadow, I was always so tense. Maybe I simply had no room to go out of my way for a complete stranger...<end>"
+
+["2190019"]
+japanese = "ほんと、不思議ね。<line-break>私にそんな一面があったなんて<line-break>自分でも驚いているわ。<end>"
+english = "It really is strange. I never knew I had this side to me. Even I'm surprised.<end>"
+
+["2190020"]
+japanese = "この気持ちをもう少し<line-break>味わっていたいし<line-break>少しそのあたりを散策してくるわね。<end>"
+english = "I'd like to savor this feeling a little longer, so I think I'll take a walk around here.<end>"
+
+["2190021"]
+japanese = "迷子イベント2用終端<end>"
+english = ""

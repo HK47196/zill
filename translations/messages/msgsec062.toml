@@ -1,0 +1,1473 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["620000"]
+japanese = "アイリーンメッセージVOL1用開始<end>"
+english = ""
+
+["620001"]
+japanese = "や、やめてください！<end>"
+english = "P-please stop!<end>"
+
+["620002"]
+japanese = "いや！\u3000やめることなどできん！\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>未来の勇者であるこの俺様の<line-break>熱くたかぶる愛は！\u3000誰にも、そう、<line-break>この俺様にすら止めることはできん！<end>"
+english = "No! I can't stop! My blazing passion, the passion of the future Hero, can't be stopped by anyone―not even me!<end>"
+
+["620003"]
+japanese = "困ります、お客さん。<line-break>い、いや…！\u3000触らないで！<end>"
+english = "Sir, you can't do this. N-no... Don't touch me!<end>"
+
+["620004"]
+japanese = "俺様と２人で愛の冒険に旅立つ。<line-break>それが君の運命なんだ！<end>"
+english = "You and I will set out together on an adventure of love. That is your destiny!<end>"
+
+["620005"]
+japanese = "あっ。た、助けてください！<end>"
+english = "Ah! P-please, help me!<end>"
+
+["620006"]
+japanese = "このお客さん、酔っぱらってて…。<end>"
+english = "This customer is drunk...<end>"
+
+["620007"]
+japanese = "誰だ貴様ぁ！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>どこかで会ったような、<line-break>そうでないような…！<line-break>ううう！\u3000混乱するぅ！<end>"
+english = "Who are you?! I feel as if we've met somewhere before... but then again, maybe not! Ugh! I'm so confused!<end>"
+
+["620008"]
+japanese = "グルグル回るぅ！\u3000ヒック！\u3000<line-break>…ぬおっ、そうか！<line-break>それがねらいか！<line-break>俺様を混乱させて<line-break>そのスキに俺様を倒そうとする<line-break>魔王の刺客だな！\u3000貴様！<end>"
+english = "Everything's spinning! Hic! Ah! Now I see! That's your plan, is it? You're an agent of the Demon King, trying to confuse me so you can strike me down while my guard is lowered!<end>"
+
+["620009"]
+japanese = "フッ、ちょうどいい。\u3000\u3000\u3000\u3000<line-break>俺様の愛の伝説の<line-break>わき役にしてやる！<end>"
+english = "Hmph. Perfect timing. I'll make you a supporting player in the legend of my love!<end>"
+
+["620010"]
+japanese = "なんだ貴様ぁ！\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>フッ、ちょうどいい。<line-break>俺様の愛の伝説の<line-break>わき役にしてやる！<end>"
+english = "Who are you?! Hmph. Perfect timing. I'll make you a supporting player in the legend of my love!<end>"
+
+["620011"]
+japanese = "こ、こんなはずは…。<line-break>\u3000<line-break>\u3000<line-break>ええい、まだだ！<line-break>俺様の無敵伝説は<line-break>これから始まるんだ！<end>"
+english = "Th-this can't be... No, it's not over yet! The legend of my invincibility has only just begun!<end>"
+
+["620012"]
+japanese = "ありがとうございますっ！<line-break>大丈夫ですか？<end>"
+english = "Thank you so much! Are you all right?<end>"
+
+["620013"]
+japanese = "お強いんですね。感心します。<end>"
+english = "You're very strong. I'm impressed.<end>"
+
+["620014"]
+japanese = "失礼ですが、お名前は…。<end>"
+english = "Forgive me, but... may I ask your name?<end>"
+
+["620015"]
+japanese = "<value:$28>…さん…。<end>"
+english = "<value:$28>...<end>"
+
+["620016"]
+japanese = "見ててくれたか？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Did you see that?<end>"
+
+["620017"]
+japanese = "これが俺様の愛の…<line-break>溢れんばかりにほとばしる愛の力！！<end>"
+english = "This is the power of my love... my boundless, surging love!<end>"
+
+["620018"]
+japanese = "恐れずに飛び込んでくるといい。<end>"
+english = "Don't be afraid. Just dive right in.<end>"
+
+["620019"]
+japanese = "俺様の愛の翼は、<line-break>いつでも君を包み込むぜ！\u3000\u3000\u3000<end>"
+english = "The wings of my love will always be there to enfold you!<end>"
+
+["620020"]
+japanese = "だ、大丈夫ですかっ！<end>"
+english = "A-are you all right?!<end>"
+
+["620021"]
+japanese = "ごめんなさい…私なんかのために…。<line-break>…ケガをさせてしまって…。<end>"
+english = "I'm sorry... You were hurt because of someone like me...<end>"
+
+["620022"]
+japanese = "あ、あの失礼ですが、お名前は…。<end>"
+english = "Um, excuse me, but... may I ask your name?<end>"
+
+["620023"]
+japanese = "<value:$28>…さん…。<end>"
+english = ""
+
+["620024"]
+japanese = "あっ、<value:$28>さん！<end>"
+english = "Oh, <value:$28>!<end>"
+
+["620025"]
+japanese = "あ、あの…。<line-break>先ほどはありがとうございました。<end>"
+english = "Um... thank you for earlier.<end>"
+
+["620026"]
+japanese = "あ、あの…。<line-break>先ほどはありがとうございました。<line-break>\u3000<line-break>……あのー、<line-break>このあと、お暇ですか？<end>"
+english = "Um... thank you for earlier. I was wondering... are you free after this?<end>"
+
+["620027"]
+japanese = "ご、ごめんなさい。<line-break>そうですよね。<end>"
+english = "S-sorry. Of course.<end>"
+
+["620028"]
+japanese = "それじゃあ、<value:$28>さん。<line-break>私は仕事に戻ります。<line-break>\u3000<line-break>また、この酒場にも<line-break>いらしてくださいね。<line-break>ありがとうございましたー！<end>"
+english = "Well then, <value:$28>, I'd better get back to work. Please come by the tavern again sometime. Thank you again!<end>"
+
+["620029"]
+japanese = "ほぉーらあ！<line-break><value:$28>、<line-break>起きなさい！<end>"
+english = "Come on, <value:$28>, wake up!<end>"
+
+["620030"]
+japanese = "もう！\u3000またなの？<line-break>何度もベッドから落ちたりして<line-break>ほんっとに、しょうがないんだから。<end>"
+english = "Honestly! Again? You keep falling out of bed. What am I going to do with you?<end>"
+
+["620031"]
+japanese = "ほぉーら、目が覚めたでしょ。<line-break>あの変なゴブリンを追うわよ。<line-break>はやく下に来なさい。<end>"
+english = "There, you're awake now. We're going after that weird Goblin. Hurry up and come downstairs.<end>"
+
+["620032"]
+japanese = "それでは、ごゆっくりどうぞ。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = ""
+
+["620033"]
+japanese = "すごいゴブ！\u3000すごいゴブ！<line-break>人間が俺たちを襲わないだけでなく、<line-break>頭まで下げてるでゴブ～！<end>"
+english = "Amazing, gob! Amazing, gob! The humans aren't attacking us, and they're even bowing to us, gob!<end>"
+
+["620034"]
+japanese = "む、わかったでゴブ！<end>"
+english = "Ah, now I understand, gob!<end>"
+
+["620035"]
+japanese = "すべては、この禁断の聖杯の<line-break>おかげゴブ！<line-break>\u3000<line-break>この聖杯を手に入れて以来、<line-break>体中にみなぎる英知が<line-break>そう告げているゴブ！<end>"
+english = "It's all thanks to this Forbidden Grail, gob! Ever since I acquired it, the wisdom surging through my body has told me so, gob!<end>"
+
+["620036"]
+japanese = "あーっ！\u3000あんたたち！<end>"
+english = "Hey! You lot!<end>"
+
+["620037"]
+japanese = "む、ガサツ女にその他１名！<end>"
+english = "Hm. The uncouth woman and one other person!<end>"
+
+["620038"]
+japanese = "誰がガサツ女よ！<line-break>その聖杯、返してもらうわ！<end>"
+english = "Who are you calling uncouth? Give back that Grail!<end>"
+
+["620039"]
+japanese = "そうはいかないでゴブ。この聖杯は、<line-break>天から我らゴブゴブ団に<line-break>与えられたものゴブ！<end>"
+english = "I think not, gob. This Grail was bestowed upon the Gob-Gob Gang by the heavens, gob!<end>"
+
+["620040"]
+japanese = "何が天から与えられたよ！<line-break>盗んだくせに！<end>"
+english = "Bestowed by the heavens, my foot! You stole it!<end>"
+
+["620041"]
+japanese = "む、ガサツ女が狂暴化したゴブ！<line-break>危険ゴブ！<line-break>ゴブゴブ団、退却ゴブ！<end>"
+english = "The uncouth woman has gone berserk, gob! Danger, gob! Gob-Gob Gang, retreat!<end>"
+
+["620042"]
+japanese = "あ、おねーさん、<line-break>お代はここに置いておくゴブ！<end>"
+english = ""
+
+["620043"]
+japanese = "オルナット、<line-break>メシ食ってる場合じゃないゴブ！<end>"
+english = ""
+
+["620044"]
+japanese = "ああ、メシ～。<end>"
+english = ""
+
+["620045"]
+japanese = "ったく、逃げ足だけは早いわね！<line-break><value:$28>、追いましょ。<end>"
+english = "Damn, running away is the one thing they're good at! <value:$28>, let's go after them.<end>"
+
+["620046"]
+japanese = "バイアシオン最大の都市。<line-break>文化と商業の都…。<line-break>\u3000<line-break>さっすがに大きな街よね、<line-break>リベルダムって！<end>"
+english = "Baiashion's largest city, a center of culture and commerce... Liberdam really is enormous!<end>"
+
+["620047"]
+japanese = "とにかく、この広い街並みから\u3000\u3000<line-break>あいつら３匹を捜さなきゃ。<line-break>\u3000<line-break>まずは、ギルドに行ってみましょ。<line-break>あいつらがいなくても、<line-break>ついでに冒険者登録できるし。<end>"
+english = "Anyway, we've got to find those three somewhere in this huge city. Let's try the Guild first. Even if they're not there, we can register as adventurers while we're at it.<end>"
+
+["620048"]
+japanese = "あ、あの…、<line-break>冒険者登録したいんでゴブが…。<end>"
+english = "Um, excuse me... I'd like to register as an adventurer, gob.<end>"
+
+["620049"]
+japanese = "では、まずここに<line-break>パーティー名を記入してくれ。\u3000<line-break>\u3000<end>"
+english = "First, write your party's name here.<end>"
+
+["620050"]
+japanese = "な、なんかドキドキするゴブ。<end>"
+english = "I-I'm getting kind of nervous, gob.<end>"
+
+["620051"]
+japanese = "ガント親分、がんばるゴブ。<end>"
+english = "You can do it, Boss Gant, gob.<end>"
+
+["620052"]
+japanese = "ごぶごぶだん、\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>でいいのかい？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "The Gob-Gob Gang. Is that right?<end>"
+
+["620053"]
+japanese = "よろしくお願いするでゴブ。<end>"
+english = "Much obliged, gob.<end>"
+
+["620054"]
+japanese = "幻術計振れておらず、<line-break>犯罪登録にも当てはまらず…。\u3000<line-break>\u3000<line-break>これで登録は終了だ。<line-break>あんたらも今日から冒険者だよ。<line-break>がんばりな。<end>"
+english = "No response from the illusion gauge, and no match in the criminal registry... That completes your registration. You're adventurers as of today. Good luck out there.<end>"
+
+["620055"]
+japanese = "団長！<end>"
+english = "Captain!<end>"
+
+["620056"]
+japanese = "これでゴブゴブ団も<line-break>公的に認められたゴブ！<line-break>お前たちにも苦労をかけたゴブ！<end>"
+english = "The Gob-Gob Gang is officially recognized now, gob! I've put you through a lot, gob!<end>"
+
+["620057"]
+japanese = "団長！<end>"
+english = "Captain!<end>"
+
+["620058"]
+japanese = "親分！<end>"
+english = "Boss!<end>"
+
+["620059"]
+japanese = "あーっ！\u3000あんたたち！<end>"
+english = "Ah! You lot!<end>"
+
+["620060"]
+japanese = "む、またもやガサツ女と<line-break>その他１名。<end>"
+english = "Hmph. That crude woman again, accompanied by one other.<end>"
+
+["620061"]
+japanese = "親分、どうするゴブ？<end>"
+english = "What do we do, Boss, gob?<end>"
+
+["620062"]
+japanese = "冒険者になって早々に<line-break>問題を起こすのは得策ではないゴブ。<line-break>ここはバラバラに逃げるゴブ。<line-break>マルーン、オルナット、<line-break>スラムで落ち合うゴブ！<line-break>ゴブゴブ団、退却！<end>"
+english = "It would be unwise to cause trouble so soon after becoming adventurers, gob. Split up and run, gob. Maroon, Ornat―we'll meet in the Slums, gob! Gob-Gob Gang, retreat!<end>"
+
+["620063"]
+japanese = "くすっ、やっぱりゴブリンはバカね。<line-break>合流先を私たちに教えるなんて。<line-break>\u3000<line-break>ついでだからさっさと<line-break>冒険者登録を終わらせちゃって、<line-break>スラムであいつらを待ち伏せましょ。<end>"
+english = "Heh. Goblins really are stupid. They told us exactly where they're meeting. We may as well hurry up and finish registering as adventurers, then lie in wait for them in the Slums.<end>"
+
+["620064"]
+japanese = "冒険者登録かい？<line-break>そこに名前を書いてくれ。\u3000\u3000<line-break>\u3000<end>"
+english = "Looking to register as an adventurer? Write your name there.<end>"
+
+["620065"]
+japanese = "幻術計振れておらず<line-break>犯罪登録にも当てはまらず…。<line-break>\u3000<line-break>おめでとう。<line-break>あんたも冒険者として<line-break>登録されたよ。<end>"
+english = "No reaction from the illusion gauge, and no match in the criminal registry... Congratulations. You're officially registered as an adventurer.<end>"
+
+["620066"]
+japanese = "これからは、バリバリ仕事して<line-break>名をあげていってくれよ。<line-break>がんばりな！<end>"
+english = "Now get out there, take on plenty of work, and make a name for yourself. Good luck!<end>"
+
+["620067"]
+japanese = "じゃ、行きましょ。<line-break>スラムであいつらを捕まえるのよ。<end>"
+english = "Come on, let's go. We're catching them in the Slums.<end>"
+
+["620068"]
+japanese = "まだ、登録が済んでないのに\u3000<line-break>どこへ行くつもりよ。<line-break>\u3000<line-break>カウンターのギルドのおやじに<line-break>話しかければ、すぐ終わるわ。<line-break>さ、早く登録しちゃいましょ。<end>"
+english = "You haven't even registered yet. Where do you think you're going? Just talk to the guy at the Guild counter and you'll be done in no time. Come on, let's get you registered.<end>"
+
+["620069"]
+japanese = "お嬢さん、<line-break>少しは落ち着きましたか？<end>"
+english = "Have you calmed down a little, young lady?<end>"
+
+["620070"]
+japanese = "<value:$28>。<end>"
+english = "<value:$28>.<end>"
+
+["620071"]
+japanese = "未使用<end>"
+english = ""
+
+["620072"]
+japanese = "未使用<end>"
+english = ""
+
+["620073"]
+japanese = "未使用<line-break>\u3000<line-break>\u3000<end>"
+english = ""
+
+["620074"]
+japanese = "未使用<line-break>\u3000<end>"
+english = ""
+
+["620075"]
+japanese = "未使用<line-break>\u3000<line-break>\u3000<end>"
+english = ""
+
+["620076"]
+japanese = "未使用<end>"
+english = ""
+
+["620077"]
+japanese = "未使用<line-break>\u3000<end>"
+english = ""
+
+["620078"]
+japanese = "未使用<end>"
+english = ""
+
+["620079"]
+japanese = "未使用<line-break>\u3000<end>"
+english = ""
+
+["620080"]
+japanese = "団長、遅いゴブ。<line-break>またどっかで買い食いしてるゴブね。<end>"
+english = "Captain, you're late, gob. Off buying snacks somewhere again, are you, gob?<end>"
+
+["620081"]
+japanese = "はっ！<end>"
+english = "Ah!<end>"
+
+["620082"]
+japanese = "とうとう捕まえたわ。これで<line-break>あの変な必殺技も使えないわよね。<end>"
+english = "I've finally got you. Now you can't use that strange finishing move of yours, can you?<end>"
+
+["620083"]
+japanese = "うーん、不覚ゴブ～！<end>"
+english = "Oof, I let my guard down, gob!<end>"
+
+["620084"]
+japanese = "マルーン、遅れてすまん。<line-break>オルナットが腹減ったとうるさいから、<line-break>つい買い食いしてしまったゴブ。<end>"
+english = "Sorry I'm late, Maroon. Ornat kept complaining about being hungry, so I stopped to get something to eat, gob.<end>"
+
+["620085"]
+japanese = "親分だって、<line-break>そのあといろいろ寄り道したゴブ。<end>"
+english = "You went off on all sorts of detours after that too, Boss, gob.<end>"
+
+["620086"]
+japanese = "団長～！<end>"
+english = "Boss!<end>"
+
+["620087"]
+japanese = "む、マルーンがやられているゴブ！<end>"
+english = "What? Maroon's been captured, gob!<end>"
+
+["620088"]
+japanese = "来たわね。<line-break>このゴブリンと聖杯とを交換よ。<end>"
+english = "There you are. Hand over the Grail in exchange for this goblin.<end>"
+
+["620089"]
+japanese = "団長～。<line-break>助けてゴブ～。<end>"
+english = "Boss! Save me, gob!<end>"
+
+["620090"]
+japanese = "ほら、どうするの？<end>"
+english = "Well? What are you going to do?<end>"
+
+["620091"]
+japanese = "…マルーン、すまんでゴブ。<end>"
+english = "Maroon... I'm sorry, gob.<end>"
+
+["620092"]
+japanese = "ええ～！？<end>"
+english = "Whaaat?!<end>"
+
+["620093"]
+japanese = "聖杯がなければ、また、<line-break>人間におびえる暮らしが待ってるゴブ。<end>"
+english = "Without the Grail, we'll go right back to living in fear of humans, gob.<end>"
+
+["620094"]
+japanese = "それだけはもうイヤゴブ！\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>ゴブゴブ団の団長として、個人より<line-break>組織を優先しなければならないことも<line-break>あるのでゴブ。<end>"
+english = "I never want to live like that again, gob! As captain of the Gob-Gob Gang, there are times when I must put the organization before the individual, gob.<end>"
+
+["620095"]
+japanese = "そ、そんな～！\u3000ひどいゴブ～！<end>"
+english = "N-no! That's horrible, gob!<end>"
+
+["620096"]
+japanese = "だが、お前の尊い犠牲は忘れないゴブ！<line-break>さらばゴブ！<end>"
+english = "But I won't forget your noble sacrifice, gob! Farewell, gob!<end>"
+
+["620097"]
+japanese = "親分、どこに逃げるゴブ？<end>"
+english = "Where are you running to, Boss, gob?<end>"
+
+["620098"]
+japanese = "内海をわたって、エンシャントの<line-break>南東にある賢者の森の奧に行くゴブ。<line-break>そこで何かが呼んでいる気がするゴブ！<end>"
+english = "Across the inland sea, deep into Sage's Forest southeast of Ancient, gob. Something there seems to be calling, gob!<end>"
+
+["620099"]
+japanese = "ちょ、ちょっと、待ちなさいよ！<end>"
+english = "W-wait just a minute!<end>"
+
+["620100"]
+japanese = "ゴブゴブ団団員として<line-break>誇り高く死ぬ覚悟はできているゴブ。<line-break>\u3000<line-break>煮て食うなり、焼いて食うなり、<line-break>好きにするゴブ！<end>"
+english = "As a member of the Gob-Gob Gang, I'm ready to die with pride, gob. Whether you boil me or roast me, eat me however you like, gob!<end>"
+
+["620101"]
+japanese = "ゴブリンなんて食べないわよ。<end>"
+english = "I don't eat goblins!<end>"
+
+["620102"]
+japanese = "じゃあ、何で人間は<line-break>ゴブリンを襲うゴブ？<end>"
+english = "Then why do humans attack goblins, gob?<end>"
+
+["620103"]
+japanese = "ゴブリンが人間を襲うからよ！<end>"
+english = "Because goblins attack humans!<end>"
+
+["620104"]
+japanese = "ゴブリンも、人間がゴブリンを襲うから<line-break>自衛のために戦っているだけゴブ！<end>"
+english = "Goblins only fight in self-defense because humans attack us, gob!<end>"
+
+["620105"]
+japanese = "あんたたちはそんなこと<line-break>考えてないでしょ。<line-break>あんたたちは本能で人を襲うのよ。<end>"
+english = "You don't think about any of that. You attack people on instinct.<end>"
+
+["620106"]
+japanese = "そうね、ゴブリンと口ゲンカしてる<line-break>場合じゃなかったわ。<line-break>\u3000<line-break>あいつらは港から内海を<line-break>渡るつもりよ。追いましょ！<line-break>港で捕まえるのよ！<end>"
+english = "Right, this is no time to argue with a goblin. They're planning to cross the Inland Sea from the harbor. Let's go after them! We'll catch them at the harbor!<end>"
+
+["620107"]
+japanese = "ゴブリン質になってしまったゴブ～。<end>"
+english = "I've become a goblin hostage, gob!<end>"
+
+["620108"]
+japanese = "陸路をたどってたら、追いつけないわ！<line-break>今なら港で追いつけるかもしれない。<line-break>港に急ぎましょ！<end>"
+english = "We'll never catch them if we keep going overland! We might still catch them at the port. Let's hurry there!<end>"
+
+["620109"]
+japanese = "仕事なんかしてる場合じゃないわ！<line-break>あいつらを追わなきゃ。<end>"
+english = "This is no time to be working! We have to go after them.<end>"
+
+["620110"]
+japanese = "親分！\u3000あいつらゴブ！<end>"
+english = "Boss! It's them, gob!<end>"
+
+["620111"]
+japanese = "なんで、あいつらには<line-break>こっちの居場所がわかるゴブ？\u3000<line-break>\u3000<line-break>オルナット、<line-break>早く船に乗るゴブ！<end>"
+english = "How do they know where we are, gob? Ornatt, hurry and get on the ship, gob!<end>"
+
+["620112"]
+japanese = "あいつらは、エンシャント行きの<line-break>船に乗り込むつもりだわ。<line-break>追うわよ！<end>"
+english = "They're planning to board the ship to Ancient. After them!<end>"
+
+["620113"]
+japanese = "何すんのよ。<line-break>あいつらを見失っちゃったじゃない！<end>"
+english = "What do you think you're doing? Now we've lost them!<end>"
+
+["620114"]
+japanese = "おぉーっと、ガキどもぉ、<line-break>いいこと教えてやる…。<line-break>船に乗るにはな、金がいるんだよ！<end>"
+english = "Not so fast, brats. Let me teach you something... You need money to board a ship!<end>"
+
+["620115"]
+japanese = "私たちはお客よ。<line-break>ほら。<end>"
+english = "We're paying passengers. See?<end>"
+
+["620116"]
+japanese = "これはこれは。ようこそ。<line-break>ごゆっくりなさってください。\u3000\u3000<line-break>快適な船旅をお約束しますよ。<end>"
+english = "Well, well. Welcome aboard. Make yourselves comfortable. I promise you a pleasant voyage.<end>"
+
+["620117"]
+japanese = "もう！\u3000<line-break><value:$28>、急ぐわよ！<end>"
+english = "Come on! Hurry, <value:$28>!<end>"
+
+["620118"]
+japanese = "確かにこの船に乗ったはずなのに…。<line-break>あいつら、どこへ行ったのかしら？<end>"
+english = "I'm sure they boarded this ship... Where could they have gone?<end>"
+
+["620119"]
+japanese = "結局、船の中では<line-break>見つからなかったわね。<end>"
+english = "So we didn't find them anywhere on the ship after all.<end>"
+
+["620120"]
+japanese = "親分、腹減ったゴブ～。<end>"
+english = "Boss, I'm hungry, gob.<end>"
+
+["620121"]
+japanese = "む、仕方ないゴブ。<line-break>奴らに見つからないように<line-break>荷物の中に隠れてたゴブからな。<end>"
+english = "Hmm. Can't be helped, gob. We've been hiding in the cargo so they wouldn't find us.<end>"
+
+["620122"]
+japanese = "あーっ！！<end>"
+english = "Ah!!<end>"
+
+["620123"]
+japanese = "団長、逃げるゴブ！<end>"
+english = "Captain, run, gob!<end>"
+
+["620124"]
+japanese = "む、ガサツ女とその他一名。<line-break>そしてマルーン！<end>"
+english = "Hmm. The uncouth woman and one other person. And Maroon!<end>"
+
+["620125"]
+japanese = "やっぱり見つかったゴブ。<line-break>これなら普通に船に乗って<line-break>見つかった方がましだったでゴブ。<end>"
+english = "They found us after all, gob. We'd have been better off boarding normally and getting caught, gob.<end>"
+
+["620126"]
+japanese = "オルナット、<line-break>あきらめてはいかんでゴブ！<end>"
+english = "Ornat, you mustn't give up, gob!<end>"
+
+["620127"]
+japanese = "あきらめなければ、<line-break>あの地平の向こうにきっと、<line-break>幸せの大地が待ってるゴブ。<end>"
+english = "If we never give up, the land of happiness will surely be waiting beyond that horizon, gob.<end>"
+
+["620128"]
+japanese = "親分、自分が間違ってたゴブ！<end>"
+english = "Boss, I was wrong, gob!<end>"
+
+["620129"]
+japanese = "あんたたち！<line-break>今度は逃がさないわ！<end>"
+english = "You lot! You're not getting away this time!<end>"
+
+["620130"]
+japanese = "わかってるわよ。<line-break>所持金が船賃には足りないんでしょ。<line-break>\u3000<line-break>任せときなさいって。<line-break>こういう時にこそ、<line-break>私の美貌が役に立つのよ。<end>"
+english = "I know. We don't have enough money for the fare, right? Leave it to me. This is exactly when my beauty comes in handy.<end>"
+
+["620131"]
+japanese = "何よ、その疑わしそうな目は。<line-break>いいわ、女の武器の使い方、<line-break>見せてあげるから。<end>"
+english = "What's with that doubtful look? Fine. I'll show you how a woman uses her charms.<end>"
+
+["620132"]
+japanese = "うるうるうる…。<end>"
+english = "Sniffle, sniffle...<end>"
+
+["620133"]
+japanese = "んだあ？\u3000船賃はあるのか？<line-break>\u3000<line-break>\u3000<end>"
+english = "Huh? You got the fare?<end>"
+
+["620134"]
+japanese = "ボルダンのおじさぁん。<line-break>船賃はないのぉ。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>でもぉ、エンシャントでは<line-break>一人暮らしのおばあさんが<line-break>病気になっててぇ、<end>"
+english = "Oh, Mr. Boldan... We don't have any money for the fare. But there's an old woman living all alone in Ancient, and she's sick...<end>"
+
+["620135"]
+japanese = "お見舞いの品を届けに<line-break>行かなくちゃいけないのぉ。<line-break>お願いぃ、お船に乗せてぇ。<end>"
+english = "We have to bring her a get-well gift. Pleeease, let us on your ship.<end>"
+
+["620136"]
+japanese = "………………。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "...<end>"
+
+["620137"]
+japanese = "…なんだか気持ち悪いが、\u3000<line-break>ま、いいだろ。<line-break>\u3000<line-break>そっちの男はともかく、<line-break>こっちの姉ちゃんは、<line-break>へへ、結構いい感じだしな。<end>"
+english = "...Something about that makes my skin crawl, but all right. Forget the guy―this young lady's pretty easy on the eyes. Heh heh.<end>"
+
+["620138"]
+japanese = "船に乗んな！<end>"
+english = "Get aboard!<end>"
+
+["620139"]
+japanese = "見なさい！<line-break>これが美貌のなせる技よ！<end>"
+english = "See? That's the power of beauty!<end>"
+
+["620140"]
+japanese = "っるさいわねー。文句言ってないで、<line-break>早く船に乗るわよ。<end>"
+english = "Oh, shut up. Quit complaining and get on the ship already.<end>"
+
+["620141"]
+japanese = "いや、<value:$28>の<line-break>言ってるのは文句じゃなくてゴブね。<line-break>\u3000<line-break>その、危ないゴブよ。<line-break>もっと、自分を大切にした方が<line-break>いいゴブよ。<end>"
+english = "No, <value:$28> wasn't complaining, gob. It's just... that was dangerous, gob. You should take better care of yourself.<end>"
+
+["620142"]
+japanese = "あのガサツ女、<line-break>顔はかわいいのに…。\u3000\u3000\u3000\u3000\u3000<line-break>お前も女運悪いゴブね。<line-break>でも、マジメにがんばってれば、<line-break>きっと幸せになれるゴブよ。<end>"
+english = "That crude woman is so pretty, too... You sure have rotten luck with women, gob. But keep working hard and I'm sure you'll find happiness someday.<end>"
+
+["620143"]
+japanese = "ううー、何であんなに<line-break>こき使われなきゃならないのよー！<end>"
+english = "Ugh, why did they have to work me to the bone like that?!<end>"
+
+["620144"]
+japanese = "<value:$28>はいいわよ。<line-break>ボーイだもん。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>なんで、か弱き乙女の私が、<line-break>ボルダンの筋肉ダルマに混じって、<line-break>貨物を運ばなくちゃいけないのよ！<end>"
+english = "<value:$28> has it easy. He's a boy. Why does a frail maiden like me have to haul cargo alongside all those musclebound Boldans?!<end>"
+
+["620145"]
+japanese = "至極妥当な気がするゴブ。<end>"
+english = "That seems entirely reasonable, gob.<end>"
+
+["620146"]
+japanese = "っるさいわねー。<line-break>おかげでなんか体中に筋肉が<line-break>ついちゃったような気がするわ。<end>"
+english = "Oh, shut up. Thanks to all that work, I feel like I've grown muscles all over.<end>"
+
+["620147"]
+japanese = "アイリーンのＳＴＲが３上がった。<end>"
+english = "Irene's ＳＴＲ increased by 3.<end>"
+
+["620148"]
+japanese = "よお、あんたすげえな。<line-break>ボルダンの男衆も顔負けだぜ。<line-break>ガハハハ…！<line-break>おかげで仕事がはかどった。<line-break>これは少ねえが駄賃だ。<line-break>とっときな。<end>"
+english = "Hey, you're something else! You put the Boldan men to shame. Gahahaha! The work went a lot faster thanks to you. It ain't much, but here's a little something for your trouble. Take it.<end>"
+
+["620149"]
+japanese = "１００ギア手に入れた。<end>"
+english = "Obtained 100 Gea.<end>"
+
+["620150"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["620151"]
+japanese = "女の武器か…。<line-break>確かにその筋肉は凶器ゴブね。<end>"
+english = "A woman's weapon, huh...? Those muscles certainly are lethal, gob.<end>"
+
+["620152"]
+japanese = "何よ、っるさいわねー。<line-break>ああ、もう！\u3000おかげであいつらを<line-break>捜す暇もなかったわ。<end>"
+english = "What? Oh, shut up. Damn it! Thanks to all that, I didn't even have time to look for them.<end>"
+
+["620153"]
+japanese = "快適な船旅だったゴブ。<end>"
+english = "That was a comfortable voyage, gob.<end>"
+
+["620154"]
+japanese = "メシもうまかったでゴブ。<end>"
+english = "And the food was good, gob.<end>"
+
+["620155"]
+japanese = "それもこれも聖杯の力ゴブ！<line-break>この聖杯はきっと我らを<line-break>幸せの地へと連れていってくれるゴブ！<end>"
+english = "We owe it all to the power of the Grail, gob! This Grail is sure to lead us to the land of happiness, gob!<end>"
+
+["620156"]
+japanese = "あーっ！！<end>"
+english = "Ah!!<end>"
+
+["620157"]
+japanese = "む、ガサツ女とその他１名。<line-break>そしてマルーン！<end>"
+english = "Hmm. The uncouth woman and one other person. And Maroon!<end>"
+
+["620158"]
+japanese = "あんたたち、<line-break>今度は逃がさないわよ！<end>"
+english = "You lot aren't getting away this time!<end>"
+
+["620159"]
+japanese = "む、ゴブゴブ団、我らの幸せの待つ<line-break>賢者の森へ、進軍ゴブ！<end>"
+english = "Hmm. Gob-Gob Gang, march on Sage's Forest, where our happiness awaits, gob!<end>"
+
+["620160"]
+japanese = "<value:$28>、ボーっとしてないで<line-break>連中を賢者の森まで追いかけるのよ！<end>"
+english = "Don't just stand there, <value:$28>! Chase them all the way to Sage's Forest!<end>"
+
+["620161"]
+japanese = "く、苦しいゴブ…。<end>"
+english = "I-it hurts, gob...<end>"
+
+["620162"]
+japanese = "賢者の森まで、追っかけたけど<line-break>見失っちゃったわ…。<end>"
+english = "I chased them all the way to the Sage's Forest, but I lost them...<end>"
+
+["620163"]
+japanese = "当たり前ゴブ、団長がお前らごときに<line-break>逃げ足で負けるはずがないゴブ！<end>"
+english = "Of course, gob! The captain would never be outrun by the likes of you, gob!<end>"
+
+["620164"]
+japanese = "なによ！<line-break>っるさいわねー！<end>"
+english = "What?! Oh, shut up!<end>"
+
+["620165"]
+japanese = "ゴブー！<end>"
+english = "Gob!<end>"
+
+["620166"]
+japanese = "痛っ！<end>"
+english = "Ow!<end>"
+
+["620167"]
+japanese = "ううん、大丈夫。<line-break>油断したわ、逃げられちゃうなんて。<end>"
+english = "No, I'm fine. I let my guard down. I can't believe they got away.<end>"
+
+["620168"]
+japanese = "とにかく、急いであいつらを<line-break>追わなきゃ。<end>"
+english = "Anyway, we have to hurry after them.<end>"
+
+["620169"]
+japanese = "行きましょ、<value:$28>。<end>"
+english = "Come on, <value:$28>.<end>"
+
+["620170"]
+japanese = "今さら何言ってるのよ。<line-break>ロストールに帰りたくないの？\u3000<line-break>\u3000<line-break>聖杯も取り戻さずに、おめおめと<line-break>迷子の猫が舞い戻るみたいに<line-break>帰っても、恥ずかしくないの？<end>"
+english = "What are you talking about, after all this? Don't you want to go back to Rostorl? Wouldn't you be ashamed to slink back home like a lost kitten, without even recovering the Grail?<end>"
+
+["620171"]
+japanese = "もう、うつむいてないで！<line-break>ほぉーら、行くわよ！<end>"
+english = "Oh, stop hanging your head! Come on, let's go!<end>"
+
+["620172"]
+japanese = "親分、ここゴブか。<end>"
+english = "Boss, is this the place, gob?<end>"
+
+["620173"]
+japanese = "む。<end>"
+english = "Hm.<end>"
+
+["620174"]
+japanese = "よくぞ来た。<line-break>闇の子らよ…。<end>"
+english = "You have done well to come, children of darkness...<end>"
+
+["620175"]
+japanese = "ね、猫がしゃべったゴブ。<end>"
+english = "Th-the cat talked, gob.<end>"
+
+["620176"]
+japanese = "フフ、驚くことはない。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>俺は猫の姿に封じ込められてはいるが、<line-break>本来は魔界の将。<line-break>闇の神器、禁断の聖杯の管理者…<end>"
+english = "Heh. There is no cause for alarm. Though I am sealed within the form of a cat, I am truly a general of the demon realm, keeper of the Forbidden Grail, an Artifact of Darkness...<end>"
+
+["620177"]
+japanese = "破壊神ウルグの円卓騎士\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>名前を知るものネモ様なのだからな！<line-break>\u3000<line-break>さあ、その聖杯の力で俺の封印を解け！<line-break>そして、ともに破壊と絶望の世界を、<line-break>お前たち闇の者の帝国を築くのだ！！<end>"
+english = "For I am Lord Nemo, he who knows the Name, one of Urg the God of Destruction's Knights of the Round Table! Now use the Grail's power to break my seal! Together we shall build a world of destruction and despair, an empire for you creatures of darkness!<end>"
+
+["620178"]
+japanese = "うそ臭いゴブ。<end>"
+english = "Sounds fake, gob.<end>"
+
+["620179"]
+japanese = "破壊と絶望の世界なんていらないゴブ。<line-break>今でもメシはおいしいゴブ。<line-break>それで、十分ゴブ。<end>"
+english = "We don't need a world of destruction and despair, gob. Food tastes good already, gob. That's enough, gob.<end>"
+
+["620180"]
+japanese = "こんな不細工で性格悪そうな子猫が<line-break>我らに幸せをくれるとは思えないゴブ。<line-break>他の人がいるはずゴブ。<end>"
+english = "Can't see an ugly little kitten who looks this mean bringing us happiness, gob. It must be someone else, gob.<end>"
+
+["620181"]
+japanese = "こいつら～。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>お前らを操ってたのは俺なんだぞ！<line-break>\u3000<line-break>聖杯を盗むようにしむけたのも、\u3000<line-break>ここに来るようにしむけたのも、<line-break>全部俺なんだよ！<end>"
+english = "Why, you... I'm the one who's been controlling you! I made you steal the Grail, and I led you here! It was all me!<end>"
+
+["620182"]
+japanese = "俺の言うことを<line-break>さっさと聞いてだな、<line-break>早く俺をもとの姿に戻せ！\u3000\u3000\u3000\u3000<end>"
+english = "Now hurry up and do as I say! Restore me to my true form at once!<end>"
+
+["620183"]
+japanese = "はーん。最近、妙におとなしいと<line-break>思ったら、そんなことを<line-break>企んでいたんですね、ネモ？<end>"
+english = "Ah. I wondered why you'd been so strangely quiet lately. So this is what you were plotting, Nemo?<end>"
+
+["620184"]
+japanese = "んにゃーん、にゃーん。<end>"
+english = "Mrrrow, meow.<end>"
+
+["620185"]
+japanese = "ごまかしてもムダです。<line-break>私は、この屋敷を住みかにしていた<line-break>猫の顔をすべて覚えていますから。<line-break>もっとも、今となっては、あなたの<line-break>不気味な気配におびえて、この屋敷に<line-break>やってくる猫はいなくなりましたがね。<end>"
+english = "There is no use pretending. I remember the face of every cat that made this manor its home. Though by now, your sinister presence has frightened them all away. No cats come here anymore.<end>"
+
+["620186"]
+japanese = "この人ゴブ！<line-break>ピンときたゴブ！\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>やさしそうだし、美形だし、<line-break>結構実力ありそうだし、<line-break>実は性格悪そうだし。<end>"
+english = "It's this person, gob! I can feel it, gob! Looks kind, handsome, and pretty strong―and secretly mean, too.<end>"
+
+["620187"]
+japanese = "この人こそ<line-break>我らを幸せの大地に\u3000\u3000\u3000<line-break>導いてくれるゴブ！<end>"
+english = "This is the one who will lead us to a land of happiness, gob!<end>"
+
+["620188"]
+japanese = "ゴブゴブ団の<line-break>ガント団長さんですね？<end>"
+english = "You are Captain Gant of the Gob-Gob Gang, are you not?<end>"
+
+["620189"]
+japanese = "は、はいゴブ！<end>"
+english = "Y-yes, gob!<end>"
+
+["620190"]
+japanese = "団員の方が森の中でモンスターに<line-break>襲われて大変でしたよ。<line-break>\u3000<line-break>マルーンさん、大丈夫です。<line-break>いらっしゃい。<end>"
+english = "One of your members was attacked by monsters in the forest. It was quite an ordeal. It's all right, Maroon. Come in.<end>"
+
+["620191"]
+japanese = "団長！<end>"
+english = "Captain!<end>"
+
+["620192"]
+japanese = "マルーン！<end>"
+english = "Maroon!<end>"
+
+["620193"]
+japanese = "あいつらから逃げて、団長を追ってたら<line-break>モンスターに囲まれて…<line-break>\u3000<line-break>このオルファウス様が<line-break>助けてくれなかったら、<line-break>どうなってたかわからないゴブ！<end>"
+english = "I escaped from them and went after you, Captain, but then monsters surrounded me... If Lord Orphaus hadn't saved me, who knows what would've happened, gob!<end>"
+
+["620194"]
+japanese = "…スマンでゴブ。<line-break>苦労をかけたゴブ。<end>"
+english = "I'm sorry, gob. I've put you through a lot, gob.<end>"
+
+["620195"]
+japanese = "団長！\u3000気にしないでほしいゴブ！<line-break>団長が組織のために、苦しい決断を<line-break>したことはわかってるゴブ！<end>"
+english = "Captain! Please don't worry about it, gob! I know you had to make a painful decision for the sake of the organization, gob!<end>"
+
+["620196"]
+japanese = "オルファウス様！\u3000お願いゴブ！<line-break>我らを幸せにして欲しいゴブ！<end>"
+english = "Lord Orphaus! Please, gob! Make us happy, gob!<end>"
+
+["620197"]
+japanese = "それは無理ですね。<end>"
+english = "I cannot do that.<end>"
+
+["620198"]
+japanese = "どうしてゴブ？<end>"
+english = "Why not, gob?<end>"
+
+["620199"]
+japanese = "幸せは、最終的には自分の手で<line-break>つかむものだからですよ。<end>"
+english = "Because in the end, happiness is something you must seize with your own hands.<end>"
+
+["620200"]
+japanese = "そんな…。<end>"
+english = "But...<end>"
+
+["620201"]
+japanese = "それにその聖杯…。<line-break>それは手放した方がいいですよ、\u3000<line-break>ガント団長さん。<line-break>それは破壊神の闇の神器といって、<line-break>強い力を与えてくれますが、<line-break>同時に人を不幸にしますから。<end>"
+english = "And that Grail... You would be wise to relinquish it, Captain Gant. It is an Artifact of Darkness belonging to the God of Destruction. It grants great power, but it also brings misery to people.<end>"
+
+["620202"]
+japanese = "それはできないゴブ！<line-break>これがないと我らはもとの暮らしに…！<end>"
+english = "We can't do that, gob! Without it, we'll go back to living the way we did before...!<end>"
+
+["620203"]
+japanese = "それはありません。よくも悪くも、<line-break>あなたは禁断の聖杯の力を<line-break>手に入れてしまったのです。<line-break>たとえ聖杯を失っても、\u3000\u3000\u3000<line-break>その力を失うことは<line-break>できないでしょう。<end>"
+english = "No, you will not. For better or worse, you have already acquired the power of the Forbidden Grail. Even if you lose the Grail itself, you will probably be unable to lose that power.<end>"
+
+["620204"]
+japanese = "だけど…。<end>"
+english = "But...<end>"
+
+["620205"]
+japanese = "あーっ、あんたたち！<end>"
+english = "There you are!<end>"
+
+["620206"]
+japanese = "おやおや、またお客様だ。<end>"
+english = ""
+
+["620207"]
+japanese = "あんたたち、今度こそ逃がさないわよ！<line-break>聖杯を返しなさい！<end>"
+english = "You're not getting away this time! Give back the Grail!<end>"
+
+["620208"]
+japanese = "オルファウス様、さよならゴブ！<line-break>今は聖杯は渡せないゴブ！\u3000だけど、<line-break>いつか我らなりに答えを出すゴブ！<end>"
+english = "Farewell, Lord Orphaus, gob! We can't surrender the Grail yet, gob! But someday we'll find our own answer, gob!<end>"
+
+["620209"]
+japanese = "どいてよ！<line-break>あいつら逃げちゃうじゃない！<end>"
+english = "Move! They're getting away!<end>"
+
+["620210"]
+japanese = "私の家に争いを持ち込まないで<line-break>ほしいですねえ。<end>"
+english = "I would rather you not bring your quarrels into my home.<end>"
+
+["620211"]
+japanese = "…無限のソウルを持つ者？<line-break><line-break><line-break>フフフ。<line-break>運命の女神はどうしてこう<line-break>あざといことが好きなんでしょうねえ。<end>"
+english = "The Bearer of the Infinite Soul...? Heh heh heh. Why is the Goddess of Fate so fond of such transparent little contrivances?<end>"
+
+["620212"]
+japanese = "<value:$28>、下がって…。<line-break>あなたのかなう…相手じゃ…ない…。<end>"
+english = "Get back, <value:$28>... This is... beyond you...<end>"
+
+["620213"]
+japanese = "お願い、<value:$28>。<line-break>私、あなたを守りたいの…。<end>"
+english = "Please, <value:$28>. I want to protect you...<end>"
+
+["620214"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["620215"]
+japanese = "みなさん、そう肩肘を張らないで。<line-break>どうでしょう、<line-break>中でお茶にでもしませんか？<end>"
+english = "Please, everyone, there is no need to be so tense. Why don't we go inside for some tea?<end>"
+
+["620216"]
+japanese = "私も、あなたたちに<line-break>お話ししたいことがありますから。<end>"
+english = "There are matters I wish to discuss with you as well.<end>"
+
+["620217"]
+japanese = "どうするの？<line-break><value:$28>。<end>"
+english = "What do we do, <value:$28>?<end>"
+
+["620218"]
+japanese = "だめよ。だって…。<end>"
+english = "No. We can't. Because...<end>"
+
+["620219"]
+japanese = "…そうね。<line-break>殺すつもりなら、<line-break>とっくにそうしてるわよね。<line-break>…くやしいけど、恐かった。<end>"
+english = "I suppose so. If he meant to kill us, he'd have done it already. I hate to admit it, but I was afraid.<end>"
+
+["620220"]
+japanese = "どうですか？<end>"
+english = "Well? How is it?<end>"
+
+["620221"]
+japanese = "あ、あの、<line-break>とてもおいしかったです。\u3000\u3000\u3000<line-break>\u3000<line-break>あの、ほんと、<line-break>お世辞なんかじゃなくて…、<line-break>とても、やさしい味がしました。<end>"
+english = "Um... it was delicious. Really, I'm not just being polite. It had such a... gentle taste.<end>"
+
+["620222"]
+japanese = "ありがとう。私が作ったんです。<line-break>何よりのほめ言葉ですよ。<end>"
+english = "Thank you. I made it myself. I couldn't ask for higher praise.<end>"
+
+["620223"]
+japanese = "あ、あの…。<line-break>す、すみませんでした。<end>"
+english = "Um... I-I'm sorry.<end>"
+
+["620224"]
+japanese = "いいえ、私も手荒な真似をしました。<line-break>ところで、あのゴブリンたちは<line-break>あなたのお友達ですか？<end>"
+english = "No, I was rather rough with you as well. By the way, are those Goblins friends of yours?<end>"
+
+["620225"]
+japanese = "そんなんじゃないです！<line-break>あいつらは私たちの町から<line-break>聖杯を盗んで逃げたんです。\u3000<line-break>私たちは<line-break>それを取り戻しにきたんです。<end>"
+english = "Of course not! They stole the Grail from our town and ran away. We came to get it back.<end>"
+
+["620226"]
+japanese = "ふぅーん、それなら、<line-break>あのゴブリンは町の恩人ですね。<end>"
+english = "Hmm. In that case, that Goblin is the town's benefactor.<end>"
+
+["620227"]
+japanese = "なんで！<line-break>…どうしてですか？<end>"
+english = "What?! Why would you say that?<end>"
+
+["620228"]
+japanese = "あれは闇の神器というもののひとつで、<line-break>強大な力を持つと同時に<line-break>人に不幸を呼ぶ魔道器なのです。<end>"
+english = "It is one of the Dark Artifacts: a magical device that possesses tremendous power, but also brings misfortune upon people.<end>"
+
+["620229"]
+japanese = "でも、あれはずーっと<line-break>町にまつられてて、別に何も…。<end>"
+english = "But it was enshrined in our town for ages, and nothing ever happened...<end>"
+
+["620230"]
+japanese = "それは神器が眠っていたからです。<line-break>それをこのバカ猫が<line-break>起こしてしまいましたがね。<end>"
+english = "That is because the Artifact was asleep. This foolish cat went and awakened it, however.<end>"
+
+["620231"]
+japanese = "でも、私たち、あの聖杯を求めて<line-break>町を出たんです。あれを取り戻さないと<line-break>ロストールに戻れません…。<line-break>あ、私は、騎士になるから<line-break>町には戻らないつもりですけど…。<line-break><value:$28>は…。<end>"
+english = "But we left town to find that Grail. If we don't get it back, we can't return to Rostorl... Well, I mean, I'm going to become a knight, so I wasn't planning to go back anyway. But <value:$28>...<end>"
+
+["620232"]
+japanese = "アイリーン。人は自分をオリに<line-break>閉じこめてしまわない限り、<line-break>なんだってできるんですよ。\u3000\u3000\u3000\u3000<line-break>夜も更けてきました。<line-break>今日はここで休んでいってください。<line-break>\u3000<end>"
+english = "Irene, people can do anything, so long as they don't lock themselves inside a cage of their own making. It's getting late. Please stay here and rest tonight.<end>"
+
+["620233"]
+japanese = "ゴブリンの諸君の行き先は\u3000\u3000\u3000\u3000\u3000<line-break>その間に、私が探知しておきましょう。<end>"
+english = "In the meantime, I'll find out where those Goblins are headed.<end>"
+
+["620234"]
+japanese = "よろしく、お願いします。<end>"
+english = "Please do. Thank you.<end>"
+
+["620235"]
+japanese = "神器を守る隠れ里…ミイスの村が\u3000\u3000<line-break>焼き払われていました。<line-break>\u3000<line-break>破壊神の円卓騎士アーギルシャイア、<line-break>ついに闇の神器のひとつ<line-break>忘却の仮面を手に入れたようですね。<end>"
+english = "Miis Village, the hidden settlement charged with guarding an Artifact, has been burned to the ground. It appears that Argyleshire, one of the God of Destruction's Knights of the Round Table, has finally obtained one of the Dark Artifacts: the Mask of Oblivion.<end>"
+
+["620236"]
+japanese = "ネモ、知っているんでしょう？<line-break>アーギルシャイアの次のねらいを。\u3000<line-break>\u3000<end>"
+english = "Nemo, you know what Argyleshire is after next, don't you?<end>"
+
+["620237"]
+japanese = "あんたの予想通りだ。<end>"
+english = "Just as you predicted.<end>"
+
+["620238"]
+japanese = "あの気まぐれ女、<line-break>お母さんになりたいんだとよ。<line-break>世界を破壊する究極の怪物のな。\u3000\u3000\u3000<line-break>人間が作ったデスギガースを見て<line-break>怪物を作ることを思いついたらしい。<line-break>その製法を知るために聖杯がいると。<end>"
+english = "That fickle woman says she wants to be a mother―to the ultimate monster that'll destroy the world. Apparently, seeing the Death Gigas humans created gave her the idea of making a monster of her own. She needs the Grail to learn how it's done.<end>"
+
+["620239"]
+japanese = "それで、あなたはあのゴブリンを使って<line-break>聖杯を確保しようとしたんですね。<end>"
+english = "So you used those Goblins to secure the Grail.<end>"
+
+["620240"]
+japanese = "一応、俺の管理物だからな。<line-break>仲間とは言え、取られたくはない。<end>"
+english = "It's under my care, after all. Even if she is a comrade, I don't want her taking it.<end>"
+
+["620241"]
+japanese = "結果的には、<line-break>それがいい方向に働きましたね。<line-break>\u3000<line-break>ロストールがミイス同様に<line-break>焼かれずにすんだんですからね。<line-break>感謝してますよ、ネモ。<end>"
+english = "In the end, it worked out for the best. Rostorl was spared from being burned like Miis. You have my thanks, Nemo.<end>"
+
+["620242"]
+japanese = "あんたの方も<line-break>俺に言うべき事があるだろう？<end>"
+english = "You've got something you ought to tell me too, don't you?<end>"
+
+["620243"]
+japanese = "<value:$28>のことですか？\u3000<line-break>あの子はいい子ですよ。<line-break>\u3000<line-break>竜王が覚醒し、闇の門が開いた。<line-break>勇者ネメアは突如帝都から姿を消し、<line-break>無限のソウルの持ち主が現れた。<end>"
+english = "You mean <value:$28>? That's a good child. The Dragon King has awakened, and the Gate of Darkness has opened. The Hero Nemea suddenly vanished from the Imperial Capital, and the bearer of the Infinite Soul appeared.<end>"
+
+["620244"]
+japanese = "また、大きく<line-break>時代が動き出しそうですねえ。\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "It seems the age is about to undergo another great change.<end>"
+
+["620245"]
+japanese = "あんた、あの子供に聖杯を<line-break>管理させようとしているな？<end>"
+english = "You're planning to put that child in charge of the Grail, aren't you?<end>"
+
+["620246"]
+japanese = "ええ、私の手には余りますから。\u3000<line-break>館には破壊神の騎士も<line-break>同居していることですし。<line-break>無限のソウルの持ち主なら<line-break>管理者として申し分ないでしょう？<end>"
+english = "Yes. It is more than I can manage, especially with a knight of the God of Destruction living under the same roof. The bearer of the Infinite Soul would make an ideal custodian, wouldn't you agree?<end>"
+
+["620247"]
+japanese = "アーギルシャイアは残虐だ。<line-break>あいつがねらってるのに大丈夫か？<end>"
+english = "Argyleshire is vicious. Are you sure the child will be safe with her after it?<end>"
+
+["620248"]
+japanese = "大丈夫ですよ。<line-break>私、信じてますから。<end>"
+english = "It will be all right. I have faith.<end>"
+
+["620249"]
+japanese = "（未使用）<end>"
+english = ""
+
+["620250"]
+japanese = "知恵を付けたゴブリンが<line-break>初めてした自己弁護が自衛のため、\u3000\u3000<line-break>だなんてね。<line-break>知恵を付けたばかりの人間も、<line-break>何でそんなに争ってばかりいるのかって<line-break>神様に聞かれたとき、<end>"
+english = "Imagine that―the first justification the Goblins offered after gaining intelligence was that it was all in self-defense. When humans had only just gained intelligence, and a god asked why they were always fighting...<end>"
+
+["620251"]
+japanese = "きっと、そう、答えたんでしょうね…。<end>"
+english = "...I suppose that was their answer too.<end>"
+
+["620252"]
+japanese = "今日、なんかゴメンね。<line-break>私、あせってたみたい。<line-break>ほんとに言いたかったのは、それだけ。<end>"
+english = "I'm sorry about today. I think I got a little worked up. That's all I really wanted to say.<end>"
+
+["620253"]
+japanese = "ねえ。今日はありがと。\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>オルファウスさんに<line-break>手もなくひねられたとき…、<line-break>正直、恐かった。<end>"
+english = "Hey. Thanks for today. When Orphaus won so effortlessly... honestly, I was scared.<end>"
+
+["620254"]
+japanese = "あなたみたいなのでも<line-break>いてくれて、<line-break>正直、すごく安心したわ。\u3000\u3000<line-break>うん…あなたの背中見てると、<line-break>すごく安心した…。<end>"
+english = "Even having someone like you with me was honestly a huge relief. Yeah... just looking at your back made me feel so safe.<end>"
+
+["620255"]
+japanese = "ねえ。<line-break>…やっぱり、<line-break>ロストールに戻りたい？<end>"
+english = "Hey... do you still want to go back to Rostorl?<end>"
+
+["620256"]
+japanese = "あ、別に答えにくかったら<line-break>答えなくていいのよ。<end>"
+english = ""
+
+["620257"]
+japanese = "何も答えてくれない、か…。<line-break>そっか…、そうだよね。<line-break>フェルムちゃんが…いるもんね…。<end>"
+english = "No answer, huh... I get it. Of course you do. Ferme's there, after all...<end>"
+
+["620258"]
+japanese = "ゴメン。<line-break>怒った？<line-break>なんかしゃべってよ。\u3000\u3000\u3000<line-break>フェルムちゃんとあなたが<line-break>何かあるとかそーゆーことを<line-break>言ってるんじゃないから。<end>"
+english = "Sorry. Are you angry? Say something. I wasn't trying to say there was anything going on between you and Ferme.<end>"
+
+["620259"]
+japanese = "ね、私があなたを守ってあげる。<line-break>…だから、聖杯を取り戻しても、<line-break>ずっと一緒に旅しない？<end>"
+english = "Listen, I'll protect you. So even after we get the Grail back... will you keep traveling with me?<end>"
+
+["620260"]
+japanese = "…寝てるわ。<line-break>…相変わらず子供ねえ。<end>"
+english = "...Asleep. Still such a child.<end>"
+
+["620261"]
+japanese = "でも、聞かれなくてよかった…。\u3000<line-break>\u3000<line-break>\u3000<line-break>言わずにはいられなかったけど、<line-break>聞かれたら今までと同じじゃ<line-break>いられなかったもの…。<end>"
+english = "But I'm glad you didn't hear... I couldn't stop myself from saying it, but if you'd heard, we couldn't have gone on as before...<end>"
+
+["620262"]
+japanese = "<value:$28>、<line-break>あなたは、私が、守ってあげる…。<end>"
+english = "<value:$28>... I'll protect you.<end>"
+
+["620263"]
+japanese = "おはよう、<value:$28>。<line-break>今日はもう旅に出るんですか？<end>"
+english = "Good morning, <value:$28>. Are you setting off on your journey already?<end>"
+
+["620264"]
+japanese = "そうですか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>でも、覚えていてください。<line-break>これはあなたを巡る長い物語の<line-break>ほんの序章にすぎません。<end>"
+english = "I see. But remember: this is only the prologue to a long story centered on you.<end>"
+
+["620265"]
+japanese = "あ、そうだ。これも何かの縁です。<line-break>私もあなたの物語を<line-break>お手伝いさせてもらいましょうか。<line-break>この転送機はあなたの仲間を<line-break>世界中のたいていの所から<line-break>呼び出せるんです。<end>"
+english = "Ah, yes. Since our paths have crossed, perhaps I might lend a hand in your story as well. This teleportation device can summon your companions from almost anywhere in the world.<end>"
+
+["620266"]
+japanese = "やれやれ、鎧を着たまま<line-break>眠っていたんですか…。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>逆に、別れたい仲間を、望む所に<line-break>送り出してやることもできます。<end>"
+english = "Goodness, did you sleep in your armor? It can also send any companions you wish to part with wherever they would like to go.<end>"
+
+["620267"]
+japanese = "もっとも、今後は呼び出す前に\u3000\u3000\u3000\u3000<line-break>相手の方に都合を確認します。<line-break>\u3000<line-break>そして彼らの意志を最優先しますから、<line-break>こんな形で呼び出すことは<line-break>ありませんけどね。<end>"
+english = "Of course, from now on, I'll check whether someone is available before summoning them. Their wishes will come first, so no one will be summoned like this again.<end>"
+
+["620268"]
+japanese = "パーティーの編成がしたくなったら\u3000\u3000<line-break>ここに来てください。<line-break>\u3000<end>"
+english = "Come here whenever you wish to change your party.<end>"
+
+["620269"]
+japanese = "くすくす、すみません。<line-break>起こしてしまったようですねえ。<line-break>おはよう、アイリーン。<end>"
+english = "Hee hee, forgive me. It seems I've woken you. Good morning, Irene.<end>"
+
+["620270"]
+japanese = "お、おはようございます。<end>"
+english = "G-good morning.<end>"
+
+["620271"]
+japanese = "ああ、昨日のゴブリンたちですが、<line-break>エンシャントに向かったようですよ。<end>"
+english = "Ah, those Goblins from yesterday appear to have gone to Ancient.<end>"
+
+["620272"]
+japanese = "オルファウスさん、<line-break>ありがとうございます。<end>"
+english = "Thank you, Orphaus.<end>"
+
+["620273"]
+japanese = "ほぉーら、<line-break>ぐずぐずしてないで行くわよ。<end>"
+english = "Come on, no dawdling. We're leaving!<end>"
+
+["620274"]
+japanese = "いい娘じゃないですか。<line-break>いってらっしゃい。<end>"
+english = "She's a good girl, isn't she? Safe travels.<end>"
+
+["620275"]
+japanese = "聞きたいことがあれば<line-break>答えますよ。<end>"
+english = ""
+
+["620276"]
+japanese = "無限のソウルとは<end>"
+english = ""
+
+["620277"]
+japanese = "転送機について<end>"
+english = ""
+
+["620278"]
+japanese = "闇の神器について<end>"
+english = ""
+
+["620279"]
+japanese = "ネモについて<end>"
+english = ""
+
+["620280"]
+japanese = "アーギルシャイアについて<end>"
+english = ""
+
+["620281"]
+japanese = "質問はない<end>"
+english = ""
+
+["620282"]
+japanese = "そんなこと、口にしましたっけ。<line-break>まあ、秘密です。<line-break>\u3000<line-break>ま、おいおいわかりますよ。<line-break>とりあえずはギルドで<line-break>仕事をしていってください。<end>"
+english = ""
+
+["620283"]
+japanese = "他人のために働くことで、\u3000\u3000\u3000<line-break>魂を成長させていけば<line-break>いずれ、わかってきますよ。<end>"
+english = ""
+
+["620284"]
+japanese = "将来、旅の途中で出会った仲間を<line-break>呼び出すための装置です。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>一緒に旅する仲間を<line-break>変更したくなったら<line-break>この猫屋敷に来てください。<end>"
+english = ""
+
+["620285"]
+japanese = "一緒に旅をしたい仲間を呼び出したり、<line-break>別行動を取ることを決めた仲間を<line-break>送り出したりできますよ。<end>"
+english = ""
+
+["620286"]
+japanese = "破壊神ウルグの復活に<line-break>用いられた強力な魔道器です。\u3000<line-break>１２種類あるといいます。<line-break>禁断の聖杯は<line-break>その中のひとつですね。<line-break>\u3000<end>"
+english = ""
+
+["620287"]
+japanese = "禁断の聖杯については<line-break>今、ゴブゴブ団という<line-break>３匹のゴブリンが持っています。<line-break>とりあえず、現在<line-break>彼らはエンシャントにいますよ。<end>"
+english = ""
+
+["620288"]
+japanese = "ここにいるブサイクな猫です。\u3000\u3000\u3000\u3000<line-break>口は悪いけど、無害ですよ。<line-break>\u3000<line-break>もともとは老人星の精霊で<line-break>天空の賢者とも呼ばれていましたが<line-break>地上に堕ちて、魔人になりました。<end>"
+english = ""
+
+["620289"]
+japanese = "破壊神の強力な魔人、<line-break>１２人の円卓騎士のひとりで<line-break>名前を知るものという異名もあります。<end>"
+english = ""
+
+["620290"]
+japanese = "円卓騎士には他に<line-break>アーギルシャイアなどがいますね。\u3000\u3000<line-break><end>"
+english = ""
+
+["620291"]
+japanese = "破壊神ウルグの円卓騎士の１人です。<line-break>妖艶な美女の姿をしています。<line-break>\u3000<line-break>きわめて、気まぐれで残酷です。<line-break>すでに神器を手に入れるため<line-break>ミイスの村を焼き払っています。<end>"
+english = ""
+
+["620292"]
+japanese = "究極生物を作ろうとして、<line-break>その製法を神器、禁断の聖杯から\u3000\u3000<line-break>得ようと、聖杯をねらっています。<line-break>円卓騎士には他に<line-break>うちのネモなどがいますね。<line-break><end>"
+english = ""
+
+["620293"]
+japanese = "そうですか。<end>"
+english = ""
+
+["620294"]
+japanese = "ま、こんな感じですかね。<line-break>わかっていただけましたか？<end>"
+english = ""
+
+["620295"]
+japanese = "あ、<value:$28>さん！<end>"
+english = ""
+
+["620296"]
+japanese = "……心配…してた…んです…よ。<end>"
+english = ""
+
+["620297"]
+japanese = "ひどいです！\u3000旅に出るなんて、<line-break>何も、教えてくれませんでした！\u3000\u3000\u3000<line-break>\u3000<line-break>そのあとも、何も…<line-break>なんの連絡も、くれませんでした！<line-break>\u3000<end>"
+english = ""
+
+["620298"]
+japanese = "確かに、私、<line-break>力ではアイリーンさんにかないません！<line-break>冒険では足手まといです！<line-break>でも！\u3000でも！<line-break>せめて一言…！<end>"
+english = ""
+
+["620299"]
+japanese = "うっ。<end>"
+english = ""
+
+["620300"]
+japanese = "キス…してくれた…。<end>"
+english = ""
+
+["620301"]
+japanese = "…アイリーンさんとは<line-break>…何も、なかったんですね。<end>"
+english = ""
+
+["620302"]
+japanese = "…今の…キスで…わかりました。<end>"
+english = ""
+
+["620303"]
+japanese = "私、信じてますから…。<line-break>また、帰ってきてくださいね。<end>"
+english = ""
+
+["620304"]
+japanese = "あ…。<end>"
+english = ""
+
+["620305"]
+japanese = "キス…してくれた…。<end>"
+english = ""
+
+["620306"]
+japanese = "とても…優しい…キス…。<end>"
+english = ""
+
+["620307"]
+japanese = "…アイリーンさんと<line-break>旅をしてるんですか？<end>"
+english = ""
+
+["620308"]
+japanese = "…私、<value:$28>さんを<line-break>待っていてもいいんですか？<end>"
+english = ""
+
+["620309"]
+japanese = "…ちゃんと答えてください。<line-break>私、<value:$28>さんを<line-break>信じていていいんですね？<end>"
+english = ""
+
+["620310"]
+japanese = "また、早く…、<line-break>帰ってきてくださいね…。\u3000<line-break>\u3000<line-break>なんか…恥ずかしくて…、<line-break><value:$28>さんの顔が<line-break>まともに、見られません。<end>"
+english = ""
+
+["620311"]
+japanese = "あ、<value:$28>さん！ <line-break>帰ってきてくださったんですね。<line-break>嬉しいです！<line-break>今日もアイリーンさんは<line-break>ご一緒じゃないんですね。<end>"
+english = ""
+
+["620312"]
+japanese = "アイリーンさんは、あなたまで<line-break>巻き込むことはないと思います。<line-break>\u3000<line-break>ご自分は騎士になるために<line-break>故郷を捨てたんですから、<line-break>帰れないのは仕方ないですけど。<end>"
+english = ""
+
+["620313"]
+japanese = "<value:$28>さんは<line-break>ロストールに帰ってきても\u3000\u3000\u3000<line-break>おかしくないと思います。<end>"
+english = ""
+
+["620314"]
+japanese = "アイリーンさんって、力が一番<line-break>って考える人みたいですよね。<line-break>\u3000<line-break>例えば…愛…とか、<line-break>力よりも、ずっと、ずっと<line-break>大切なものがあるのに…。<end>"
+english = ""
+
+["620315"]
+japanese = "あ、…私、<line-break>少し、言いすぎちゃいましたね。\u3000<line-break>\u3000<line-break>…すいません。<line-break>アイリーンさんのこと、<line-break>悪く言う気はなかったんです。<end>"
+english = ""
+
+["620316"]
+japanese = "ただ、<value:$28>さんと<line-break>会えないとき、<line-break>私、ものすごく不安なんです。\u3000\u3000<line-break>こんなに笑顔でいられるのも<line-break>あなたと一緒のときだけなんです。<line-break>それで、つい…。<end>"
+english = ""
+
+["620317"]
+japanese = "<value:$28>さん。<line-break>元気を…くださいますか？<end>"
+english = ""
+
+["620318"]
+japanese = "うっ。<end>"
+english = ""
+
+["620319"]
+japanese = "あ、だ、だいひょうぶでふ！<end>"
+english = ""
+
+["620320"]
+japanese = "ありがとうございます…<line-break>これでしばらく笑顔でいられます。<end>"
+english = ""
+
+["620321"]
+japanese = "また…、元気がなくなる前に、私に<line-break>元気を与えに返ってきてくださいね。<end>"
+english = ""
+
+["620322"]
+japanese = "<select><value:$20>%10あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日はジオールスターのマリネが<line-break>おすすめなんですよ。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日はバイパーの香草ソーセージが<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日はコカトリスのチーズ揚げが<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日はソーンナイトの唐揚げが<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日は赤海鴨のエリエナイ風が<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日はソルバ魚のカルパッチョが<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日は海賊リゾットエルズ風が<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日は夏魚のキノコ和えが<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日は花ウサギの季節のシチューが<line-break>おすすめなんですよー。<end>あ、<value:$28>さん。<line-break>いらっしゃいませー。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また来てくださってうれしいです。<line-break>今日は若鶏とテラネ茄子のパスタが<line-break>おすすめなんですよー。<end>"
+english = ""
+
+["620323"]
+japanese = "あー、<value:$28>さん<line-break>いらっしゃいませー！\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>今、ちょうど、ヒマなんで、<line-break>私が考えた新メニューを<line-break>作っていたところなんです。<end>"
+english = ""
+
+["620324"]
+japanese = "これなんですけど。<line-break>おいしかったら、メニューに<line-break>加えてもらおうかなって思うんです。<line-break>あ、<value:$28>さん、<line-break>よかったら、試食して<line-break>感想とか聞かせてもらえませんか？<end>"
+english = ""
+
+["620325"]
+japanese = "<value:$28>は<line-break>致命的なダメージを受けた。<end>"
+english = ""
+
+["620326"]
+japanese = "あ、あのー、どうですか？<line-break>おいしいですか？<end>"
+english = ""
+
+["620327"]
+japanese = "あ、その、…お、おいしいよ。<end>"
+english = ""
+
+["620328"]
+japanese = "死ぬほどまずい！<end>"
+english = ""
+
+["620329"]
+japanese = "本当ですか！\u3000うれしいです！<line-break>料理、これが始めてで、<line-break>味見もしてないから心配だったんです。<line-break>あ、まだまだ、<line-break>おかわりありますよ。\u3000<line-break>いかがですか？<end>"
+english = ""
+
+["620330"]
+japanese = "お忙しいんですか…。<line-break>じゃあ、しょうがありませんね。<end>"
+english = ""
+
+["620331"]
+japanese = "ありがとうございましたー。<line-break>また、いらしてくださいねー。<end>"
+english = ""
+
+["620332"]
+japanese = "…そ、そんな…、そんな…。<end>"
+english = ""
+
+["620333"]
+japanese = "…す、すいません！<end>"
+english = ""
+
+["620334"]
+japanese = "あー、<value:$28>さん！<end>"
+english = ""
+
+["620335"]
+japanese = "ちょうど、お客さんが<line-break>とぎれて暇だったんです。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>…来てくださって、うれしいです。<line-break>…もしかして、私に会いに<line-break>来てくださったんですか？<end>"
+english = ""
+
+["620336"]
+japanese = "うん<end>"
+english = ""
+
+["620337"]
+japanese = "いや別に…<end>"
+english = ""
+
+["620338"]
+japanese = "うれしいです！<end>"
+english = ""
+
+["620339"]
+japanese = "そうなんですか…。<end>"
+english = ""
+
+["620340"]
+japanese = "あ、<value:$28>さん、<line-break>そういえば、このあいだですね…。<end>"
+english = ""
+
+["620341"]
+japanese = "あ、はいー！<line-break>わかりましたー！<end>"
+english = ""
+
+["620342"]
+japanese = "すいません！<line-break>仕事が入っちゃったんです。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>もう！\u3000何もこんなタイミングで<line-break>仕事、頼まなくてもいいのに！<line-break>ごめんなさい。また、来てくださいね。<end>"
+english = ""
+
+["620343"]
+japanese = "あ、<value:$28>さん<line-break>いらっしゃいませー！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>来てくださってうれしいです！<line-break>今日はお客さんがいなくて…<line-break>とっても考えこむ時間が多くて…。<end>"
+english = ""
+
+["620344"]
+japanese = "ずっと、あなたのことばかり<line-break>考えちゃって、なんかさびしくて…<line-break>だから、来てくださってうれしいです！<line-break>…あのー<line-break>…<value:$28>さん。<line-break>今、お時間、いいですか？<end>"
+english = ""
+
+["620345"]
+japanese = "ホントですか？<line-break>じゃ、近くの丘までデートしませんか？<end>"
+english = ""
+
+["620346"]
+japanese = "いいんです、仕事なんて！<line-break>さ、行きましょ！<end>"
+english = ""
+
+["620347"]
+japanese = "フフフ、とっても楽しかったです。<line-break>今日はホントにありがとうございます。<end>"
+english = ""
+
+["620348"]
+japanese = "ガルドランさんにからまれてたとき、\u3000<line-break>助けてくれましたよね。<line-break>\u3000<line-break>あのとき、ホントうれしかったんです。<line-break>私って、ただの酒場の娘ですから…<line-break>誰も、守ってくれないんですよ。<end>"
+english = ""
+
+["620349"]
+japanese = "周りのお客さんって、<line-break>私がいくら困ってたって、<line-break>ああいうとき、ただ笑ってるんです。\u3000<line-break>私、別にお姫様じゃないですから、<line-break>誰も守ってはくれないんです。<line-break>ときどき、泣きたくなっちゃいます。<end>"
+english = ""
+
+["620350"]
+japanese = "けど、泣いちゃうと、もとの顔に<line-break>戻れないから、笑顔でいるんです。<line-break>しゃべり方もこんなにしてるんです。\u3000<line-break>…だから、あなたが助けてくれたとき、<line-break>ホントにうれしかったんです。<line-break>心と顔とが一緒に笑えたんです。<end>"
+english = ""
+
+["620351"]
+japanese = "でも、私、臆病ですから、そのときは\u3000<line-break>控えめに受け取めてたんです。けど、<line-break>あなたはずっと会いに来てくれて…。<line-break><value:$28>さん。<line-break>私にあなたがホントの笑顔と勇気を<line-break>くれたんです。<end>"
+english = ""
+
+["620352"]
+japanese = "これからも、私に<line-break>笑顔と勇気を<end>たくさん分けてくれますか？<end>"
+english = ""
+
+["620353"]
+japanese = "うっ！<end>"
+english = ""
+
+["620354"]
+japanese = "わらひ、きょふのはひめへの<line-break>デートのこと…わふれまへん！<end>"
+english = ""
+
+["620355"]
+japanese = "やさしいキス…。<end>"
+english = ""
+
+["620356"]
+japanese = "私、今日の初めての<line-break>デートのこと…忘れません！<end>"
+english = ""
+
+["620357"]
+japanese = "未使用<end>"
+english = ""
+
+["620358"]
+japanese = "未使用<end>"
+english = ""
+
+["620359"]
+japanese = "未使用<end>"
+english = ""
+
+["620360"]
+japanese = "未使用<end>"
+english = ""
+
+["620361"]
+japanese = "未使用<end>"
+english = ""
+
+["620362"]
+japanese = "未使用<end>"
+english = ""
+
+["620363"]
+japanese = "あ、いらっしゃいませー。<line-break>ここはロストールで一番大きな酒場<line-break>なんですよ。<line-break>あのー、ご用がありましたら<line-break>何でも私に言いつけてくださいね！<end>"
+english = ""
+
+["620364"]
+japanese = "ほら、<value:$28>、<line-break>さっさとギルドに登録しちゃいましょ。<line-break>\u3000<end>"
+english = "Come on, <value:$28>. Let's hurry up and get you registered with the Guild.<end>"
+
+["620365"]
+japanese = "予備メッセージ９<line-break>\u3000<end>"
+english = ""
+
+["620366"]
+japanese = "予備メッセージ１０<line-break>\u3000<end>"
+english = ""
+
+["620367"]
+japanese = "アイリーンメッセージ終端<end>"
+english = ""

@@ -1,0 +1,117 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["860000"]
+japanese = "カルラメッセージVOL3開始<end>"
+english = ""
+
+["860001"]
+japanese = "はっ。<value:$28>様で<line-break>ありますね。<line-break>どうぞお通りください！<end>"
+english = "Yes, <value:$28>, correct? Please go right through!<end>"
+
+["860002"]
+japanese = "なーんだ、<value:$28>。<line-break>まーた、あんたなんだ。<line-break>１日に何度も来るなんてヒマなのねー。<line-break>会いに来てくれるのはうれしいけどさ、<line-break>次の戦いに備えて<line-break>強くなるのも忘れないでね。<end>"
+english = "Oh, it's you again, <value:$28>. You must have plenty of time on your hands, coming here more than once a day. I'm glad you want to see me, but don't forget to get stronger for the next battle, all right?<end>"
+
+["860003"]
+japanese = "ハァーイ！\u3000元気だった？<line-break>元気なくてもあたしの前では<line-break>元気出しててよね。<end>"
+english = "Hi there! Been well? Even if you haven't, at least try to perk up around me.<end>"
+
+["860004"]
+japanese = "しーっかし、懐かしいよねー。<line-break>ここにさ、ゼネテスとあんたと<line-break>愚王ペウダをやっつけにきたんだよね。<line-break>それが、ディンガルとロストールという<line-break>世界を二分する国の将として敵対関係。<line-break>ちょっと、できすぎだよね。<end>"
+english = "Still, this brings back memories. You, Xenetes, and I came here to take down that fool King Peuda. And now Xenetes and I stand opposed as generals of Dingal and Rostorl, the two nations that divide the world. It's all a little too neat, isn't it?<end>"
+
+["860005"]
+japanese = "しーっかし、懐かしいよねー。<line-break>ここにさ、アイリーンとあんたと<line-break>愚王ペウダをやっつけにきたんだよね。<end>"
+english = "Still, this brings back memories. You, Irene, and I came here to take down that fool King Peuda.<end>"
+
+["860006"]
+japanese = "しーっかし、懐かしいよねー。<line-break>ここに、あんたとさ、<line-break>愚王ペウダをやっつけにきたんだよね。<end>"
+english = "Still, this brings back memories. You and I came here to take down that fool King Peuda.<end>"
+
+["860007"]
+japanese = "あ、落とし穴とか、そのままだから<line-break>気をつけてよね。<line-break>あの化け物はもういないけどね。<end>"
+english = "Oh, and watch your step. The pitfalls and everything are still here. That monster's gone, though.<end>"
+
+["860008"]
+japanese = "昔ね、ここにアイリーンとふたりで<line-break>ロセン王ペウダをやっつけに<line-break>潜入したことがあるの。<line-break>ところが、ペウダの奴<line-break>この部屋に落とし穴とか<line-break>用意してて、見事ハマっちゃってさ。<end>"
+english = "I once sneaked in here with Irene to take down Peuda, the King of Rocen. But that bastard had rigged this room with pitfalls and everything, and we walked right into one.<end>"
+
+["860009"]
+japanese = "なーんか、懐かしいやねー。<line-break>ガムシャラだったあのころがさ。<end>"
+english = "It really takes me back―to those days of charging ahead without a thought for anything else.<end>"
+
+["860010"]
+japanese = "そう、ここにいたんだよねー。<line-break>あたしの故郷を襲い、略奪した\u3000\u3000\u3000\u3000<line-break>あの愚王ペウダがさ。<line-break>まずはペウダ、そして奴を影で<line-break>操っていたリベルダムの武器商人ども。<line-break>そして、次はロストールを倒す…。<end>"
+english = "That's right. That fool King Peuda was here―the one who attacked and plundered my homeland. First Peuda, then the Liberdam arms dealers who pulled his strings from the shadows. And Rostorl is next...<end>"
+
+["860011"]
+japanese = "ま、そんなわけで<line-break><value:$28>様のお力が必要なの。<line-break>強くなってね。期待してるわ。<end>"
+english = "So that's why I need your help, the great <value:$28>. Get stronger. I'm counting on you.<end>"
+
+["860012"]
+japanese = "失礼いたします。<line-break>青竜将軍閣下。<end>"
+english = "Excuse me, Azure Dragon General.<end>"
+
+["860013"]
+japanese = "あ…。<line-break>…<value:$28>。<end>"
+english = "Oh... <value:$28>.<end>"
+
+["860014"]
+japanese = "あなたが、<line-break><value:$28>…。<end>"
+english = "So you're <value:$28>...<end>"
+
+["860015"]
+japanese = "将軍、お話があります。<line-break>どうぞ、人払いを…。<end>"
+english = "General, I need to speak with you. In private, if you please...<end>"
+
+["860016"]
+japanese = "そんじゃ、仕方ないわね。<line-break><value:$28>、悪いけど<line-break>外してくれない？<end>"
+english = "Well, I suppose it can't be helped. Sorry, <value:$28>, but could you leave us alone?<end>"
+
+["860017"]
+japanese = "悪いわね。<line-break>また、来てね。<end>"
+english = "Sorry about that. Come see me again.<end>"
+
+["860018"]
+japanese = "予備メッセージ１<line-break>カルラ、ボリューム３<end>"
+english = ""
+
+["860019"]
+japanese = "予備メッセージ２<line-break>カルラ、ボリューム３<end>"
+english = ""
+
+["860020"]
+japanese = "予備メッセージ３<line-break>カルラ、ボリューム３<end>"
+english = ""
+
+["860021"]
+japanese = "予備メッセージ４<line-break>カルラ、ボリューム３<end>"
+english = ""
+
+["860022"]
+japanese = "予備メッセージ５<line-break>カルラ、ボリューム３<end>"
+english = ""
+
+["860023"]
+japanese = "予備メッセージ６<line-break>カルラ、ボリューム３<end>"
+english = ""
+
+["860024"]
+japanese = "予備メッセージ７<line-break>カルラ、ボリューム３<end>"
+english = ""
+
+["860025"]
+japanese = "予備メッセージ８<line-break>カルラ、ボリューム３<end>"
+english = ""
+
+["860026"]
+japanese = "予備メッセージ９<line-break>カルラ、ボリューム３<end>"
+english = ""
+
+["860027"]
+japanese = "予備メッセージ１０<line-break>カルラ、ボリューム３<end>"
+english = ""
+
+["860028"]
+japanese = "カルラメッセージVOL3終端<end>"
+english = ""

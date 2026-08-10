@@ -1,0 +1,41 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2600000"]
+japanese = "ジリオン＆イーシャイベント01用開始<end>"
+english = ""
+
+["2600001"]
+japanese = "未練かな、やっぱり…。<line-break>\u3000<line-break>\u3000<line-break>何度、ここに来ても<line-break>あいつがいるわけないって<line-break>わかってるのに…。<end>"
+english = "I guess I still can't let go... I know full well the one I'm looking for won't be here, no matter how many times I come back...<end>"
+
+["2600002"]
+japanese = "………！<line-break>…この感覚！？<end>"
+english = "...! This feeling?!<end>"
+
+["2600003"]
+japanese = "この感覚…間違いない。<line-break>無限のソウル…。<end>"
+english = "There's no mistaking this feeling. An Infinite Soul...<end>"
+
+["2600004"]
+japanese = "ごめんなさい。あなたが<line-break>ちょっと知っている人に似てたから…。<line-break>あたしはイーシャ。あなたは？<end>"
+english = "Sorry. You looked a little like someone I know... I'm Iria. And you?<end>"
+
+["2600005"]
+japanese = "<value:$28>…。冒険者なのね。<end>"
+english = "<value:$28>... So you're an adventurer.<end>"
+
+["2600006"]
+japanese = "ちょうどいいわ。今、私ひとりなの。<line-break>一緒に組まない？<line-break>\u3000<line-break>自分で言うのも何だけど、<line-break>そこいらの冒険者より<line-break>よっぽど役に立つと思うわ。<end>"
+english = "Perfect timing. I'm on my own right now. Want to team up? Not to boast, but I think I'd be far more useful than the adventurers around here.<end>"
+
+["2600007"]
+japanese = "ありがとう。助かる。<line-break>よろしくね。<end>"
+english = "Thanks. That'll be a big help. I'm counting on you.<end>"
+
+["2600008"]
+japanese = "えっ？\u3000賢者の森にある猫屋敷？<line-break>…わかったわ。どこに居ても<line-break>そこで呼び出してくれるのね。<line-break>じゃ、待ってるから、<line-break>いつでも呼んでちょうだい。<end>"
+english = "What? Cat Manor in Sage's Forest? All right. So you'll summon me there no matter where I am. I'll be waiting, then. Call me whenever you like.<end>"
+
+["2600009"]
+japanese = "ジリオン＆イーシャイベント01用開終端<end>"
+english = ""

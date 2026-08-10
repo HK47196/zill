@@ -1,0 +1,117 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2420000"]
+japanese = "PSP用新スタートイベント05用開始<end>"
+english = ""
+
+["2420001"]
+japanese = "おや、お客様ですか。<line-break>珍しいですね。<end>"
+english = "Oh, a visitor? How unusual.<end>"
+
+["2420002"]
+japanese = "なるほど。人間の言葉を<line-break>しゃべるゴブリンですか…。<line-break>\u3000<line-break>彼らを追って、この屋敷に<line-break>たどり着いたのですね？<end>"
+english = "I see. Goblins who speak the human tongue... And you followed them here to this manor?<end>"
+
+["2420003"]
+japanese = "私よりもそのゴブリンたちに<line-break>詳しい者がいますよ。<line-break>\u3000<line-break>まあ、ここで立ち話もなんですから。<line-break>お入りください。<line-break>お茶でもいれましょう。<end>"
+english = "There is someone here who knows more about those Goblins than I do. But this is hardly a conversation to have on the doorstep. Please, come in. I'll make some tea.<end>"
+
+["2420004"]
+japanese = "なるほど。<value:$28>の話は<line-break>よくわかりました。<end>"
+english = "I understand your story now, <value:$28>.<end>"
+
+["2420005"]
+japanese = "なんだ、コイツは？<line-break>怪しい匂いがプンプンするぜ。<line-break>\u3000<line-break>たとえるなら、ガーゴイルのよだれと<line-break>リッチの死臭が<line-break>混じり合ったような感じかぁ？<end>"
+english = "What the hell is this? This one reeks of trouble. Like Gargoyle drool mixed with a Lich's stench of death, maybe?<end>"
+
+["2420006"]
+japanese = "お客様を前にして<line-break>意味不明なたとえは<line-break>やめてもらえますか、ネモ。<end>"
+english = "Nemo, would you please refrain from making incomprehensible comparisons in front of our guest?<end>"
+
+["2420007"]
+japanese = "すみませんね。<line-break>あまり気になさらないでください。<end>"
+english = "My apologies. Please don't pay him any mind.<end>"
+
+["2420008"]
+japanese = "まあ、そのゴブリンたちはともかく、<line-break><value:$28>の話は<line-break>なかなか興味深いですね。<line-break>魔道の塔で目覚め、それ以前の<line-break>記憶がないというのは…。<end>"
+english = "Those Goblins aside, your story is quite intriguing, <value:$28>. You awoke in the Arcane Tower with no memory of anything that came before...<end>"
+
+["2420009"]
+japanese = "マジで当たりだ。こいつはヤバイ。<line-break>禁呪よりも破壊的な何かを<line-break>もたらしそうな…。<end>"
+english = "I knew it. This one's dangerous. Looks like this one could bring about something even more destructive than a Forbidden Spell...<end>"
+
+["2420010"]
+japanese = "あなたは聖杯の件があったのに<line-break>まだ懲りていないようですね。<line-break>\u3000<line-break>じつは人語を解するゴブリンたちも<line-break>もとを正せば、<line-break>このネモの仕業なのですよ。<end>"
+english = "It seems the affair with the Grail taught you nothing. In fact, those Goblins who understand human speech are Nemo's doing as well.<end>"
+
+["2420011"]
+japanese = "フフン。今でこそこんな格好だが、<line-break>俺様は、破壊神の円卓騎士の<line-break>ひとりにして最強の魔人、<line-break>その名も高きネモ様よ！<end>"
+english = "Hmph! I may look like this now, but I am one of the Knights of the Round Table serving the God of Destruction, the mightiest of all demons―the great and renowned Lord Nemo!<end>"
+
+["2420012"]
+japanese = "なぜかネモはこんな姿が<line-break>気に入らないらしく、<line-break>\u3000<line-break>もとの姿に戻るために、<line-break>あのゴブリンたちを操って<line-break>聖杯を盗ませたのです。<end>"
+english = "For some reason, Nemo seems displeased with his present form. To regain his original body, he took control of those Goblins and had them steal the Grail.<end>"
+
+["2420013"]
+japanese = "それで途中までは順調だったんだが<line-break>あのゴブリンども、<line-break>いらねえ知恵つけやがって。<line-break>こんな身体でなかったら<line-break>八つ裂きにしているところだぜ。<end>"
+english = "Everything was going smoothly at first, but then those damned Goblins got too clever for their own good. If I weren't stuck in this body, I'd tear them limb from limb.<end>"
+
+["2420014"]
+japanese = "くすっ。<line-break>彼らが聖杯を持って逃げたんですよ。<line-break>首謀者よりも賢い子たちですね。<end><value:$28>は聖杯が<line-break>どういうものかご存じですか？<end>"
+english = "Heh heh. They took the Grail and ran off with it. Cleverer little fellows than the mastermind behind the scheme, wouldn't you say?<end>Do you know what the Grail is, <value:$28>?<end>"
+
+["2420015"]
+japanese = "この世に１２あるという闇の神器。<line-break>そのひとつが禁断の聖杯なのです。<line-break>\u3000<line-break>その名の通り、闇の神器は<line-break>闇に落ちた破壊神、ウルグの復活に<line-break>用いられる魔道器と伝えられています。<line-break>だからこそ闇の神器には、<line-break>途方もない力が秘められています。<end>"
+english = "There are said to be twelve Artifacts of Darkness in this world. The Forbidden Grail is one of them. As the name suggests, legend holds that these magical artifacts are used to resurrect Urg, the God of Destruction who fell into darkness. That is why each Artifact of Darkness contains unfathomable power.<end>"
+
+["2420016"]
+japanese = "なぜ私が、あなたにこのような<line-break>話をするのか不思議そうですね。<end>"
+english = "You seem to be wondering why I would tell you all this.<end>"
+
+["2420017"]
+japanese = "自分が何者なのかも知らない<line-break><value:$28>にこういうことを<line-break>言うのもなんですが…。<line-break>あなたの中に眠っている<line-break>無限のソウルと、闇の神器は<line-break>無関係ではない気がするのですよ。<end>"
+english = "It may be strange to say this when even you don't know who you are, <value:$28>, but I have a feeling the Infinite Soul sleeping within you is not unrelated to the Artifacts of Darkness.<end>"
+
+["2420018"]
+japanese = "申し遅れました。<line-break>私はオルファウスと言います。<line-break>この猫屋敷の主です。<line-break>あなたがこの館を訪れたのも<line-break>何らかの意味があるのでしょう。<line-break>\u3000<line-break>偶然でここにたどり着くことは<line-break>決してありませんからね。<end>\u3000<line-break>だからこそ、あなたに<line-break>闇の神器の話をしたのです。<end>"
+english = "Forgive me for not introducing myself sooner. My name is Orphaus, and I am the master of the Cat Manor. There must be some meaning in your coming here. No one ever finds this manor by mere chance.<end>That is precisely why I told you about the Artifacts of Darkness.<end>"
+
+["2420019"]
+japanese = "すでに闇の神器をめぐって<line-break>さまざまな人の思惑が<line-break>絡みあっています。<line-break>人々の思惑は時に事件を起こし、<line-break>時に悲劇を生むかもしれません。<line-break>\u3000<line-break>それにあなたが巻き込まれることも<line-break>あるでしょう。<line-break>\u3000<line-break>ですが、彼らの意志や理念に<line-break>ふれることで<value:$28>が<line-break>気づくこともあるはずです。<line-break>人々と語らい、その思いに触れる中で<line-break>あなたが求めているものも<line-break>おのずと見えてくると思いますよ。<end>"
+english = "Many people's designs are already entwined around the Artifacts of Darkness. Those designs may lead to incidents, or even give rise to tragedy. You may find yourself caught up in them. But by encountering the convictions and ideals of those involved, there are things <value:$28> may come to understand. As you speak with people and come to know their thoughts and feelings, I believe what you seek will gradually become clear.<end>"
+
+["2420020"]
+japanese = "えっ…！？<line-break>いったい、どうなってるの？<end>"
+english = "What...!? What's going on?<end>"
+
+["2420021"]
+japanese = "逆に、別れたい仲間を、<line-break>望む所に送り出してやることも<line-break>できます。<end>"
+english = "You can also send companions you wish to part with wherever they would like to go.<end>"
+
+["2420022"]
+japanese = "ど、どうなってるの、これ！？<end>"
+english = "W-what is going on here!?<end>"
+
+["2420023"]
+japanese = "ありがとうございます。<end>"
+english = "Thank you.<end>"
+
+["2420024"]
+japanese = "でも、聖杯を追うにしたって<line-break>あのゴブリンたちの行方について<line-break>何か手がかりがないと…。<end>"
+english = "But there's no going after the Grail without some clue as to where those Goblins went...<end>"
+
+["2420025"]
+japanese = "ネモの話だと、<line-break>彼らはエンシャントに<line-break>向かったそうです。<end>"
+english = "According to Nemo, they were headed for Ancient.<end>"
+
+["2420026"]
+japanese = "そうね。<line-break>人間の言葉をしゃべるゴブリンなんて<line-break>どうしたって人目につくでしょうし。<line-break>酒場なんかで情報を集めれば、<line-break>居場所もつかめるかも。<end>"
+english = "Right. Goblins who speak the human tongue are bound to attract attention. If we ask around at taverns and the like, we may be able to track them down.<end>"
+
+["2420027"]
+japanese = "聖杯はここに持ってきてくれれば<line-break>私が預かります。<end>"
+english = "If you bring the Grail here, I will keep it safe.<end>"
+
+["2420028"]
+japanese = "PSP用新スタートイベント05用終端<end>"
+english = ""

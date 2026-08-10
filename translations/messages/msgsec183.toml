@@ -1,0 +1,281 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1830000"]
+japanese = "イークレムン\u3000Ｖ２\u3000開始<end>"
+english = ""
+
+["1830001"]
+japanese = "傭兵志願の方ですね。<line-break>どうぞ、神官長様のお話を<line-break>お聞きください。<end>"
+english = "You're here to volunteer as a mercenary, I take it. Please hear what the High Priest has to say.<end>"
+
+["1830002"]
+japanese = "聖なるこの地を守ろうという意志、<line-break>ありがたく思います。<line-break>そなたに清き水の加護があらんことを。<end>"
+english = "I am grateful for your willingness to defend this sacred land. May the blessing of the pure waters be upon you.<end>"
+
+["1830003"]
+japanese = "では、これよりあなたには<line-break>この聖地の盾として働いてもらいます。<line-break>まずは…<end>"
+english = "From this moment on, you will serve as the shield of this holy ground. First...<end>"
+
+["1830004"]
+japanese = "神官長様！<line-break>ディンガルの軍船が<line-break>攻めてまいりました！<end>"
+english = "High Priest! Dingal warships are attacking!<end>"
+
+["1830005"]
+japanese = "またか！<line-break>しかし、我らにミズチの加護ある限り<line-break>この町はそう簡単には落ちません！<end>"
+english = "Again? But as long as we have the Mizuchi's protection, this town will not fall so easily!<end>"
+
+["1830006"]
+japanese = "<value:$28>と言いましたか。<line-break>さっそくですが、あなたの力を\u3000\u3000\u3000<line-break>貸していただきます。<line-break>大方の敵は、湖のミズチが<line-break>打ち破ってくれます。あなたは<line-break>残りの上陸した兵を退けてください。<end>"
+english = "You said your name was <value:$28>, did you not? I must call upon your strength at once. The Mizuchi in the lake will destroy the bulk of the enemy. Drive back whatever troops make it ashore.<end>"
+
+["1830007"]
+japanese = "よ、ようやくここまで来たのに<line-break>また戦うのかよ～。<line-break>えぇい！\u3000こうなりゃヤケだ！！<end>"
+english = "W-we only just made it this far, and now we have to fight again? Ah, hell! I'm past caring now!!<end>"
+
+["1830008"]
+japanese = "貴様、アキュリュースの傭兵か！<line-break>今しがたのミズチに比べれば<line-break>恐ろしくもないわ！\u3000ゆくぞ！<end>"
+english = "You're an Aqyurius mercenary, are you? You don't scare me, not after that Mizuchi just now! Here I come!<end>"
+
+["1830009"]
+japanese = "がふっ、がふっ。<line-break>ちょ、ちょっと待った。<line-break>湖の水飲んじまってつらいんだよ！<end>"
+english = "Ghk, ghk! W-wait a second! I swallowed some lake water―I'm choking here!<end>"
+
+["1830010"]
+japanese = "さっそく来やがったな！<line-break>お前らブチ倒して、こんなつらい<line-break>戦争の毎日を終わらせてやる！！<end>"
+english = "You didn't waste any time getting here! I'll crush the lot of you and put an end to these miserable days of war!<end>"
+
+["1830011"]
+japanese = "アキュリュースの兵か！<line-break>我らが皇帝の理想の成就のために<line-break>この剣のサビにしてくれる！<end>"
+english = "A soldier of Aqyurius! To see our emperor's ideal fulfilled, I'll cut you down!<end>"
+
+["1830012"]
+japanese = "フン！\u3000金で戦う犬コロどもか！<line-break>我らの正義の戦いの邪魔をするな！<line-break>\u3000<end>"
+english = ""
+
+["1830013"]
+japanese = "くそっ！\u3000どう見ても<line-break>多勢に無勢だ！<line-break>おまけにこいつら、かなりの腕だ！<line-break>頼む、俺ひとりじゃ手に負えない。<line-break>力を貸してくれ！！<end>"
+english = "Damn it! We're hopelessly outnumbered, and these bastards know what they're doing. Please, I can't handle them alone. Help me!<end>"
+
+["1830014"]
+japanese = "ちくしょ～。<line-break>く、来るなら来てみろぉぉ～！<line-break>\u3000<line-break>あ、あんた、味方か？<line-break>頼む、助けてくれ～！<end>"
+english = "D-damn it. Come on, then! Come and get me! A-are you on my side? Please, help me!<end>"
+
+["1830015"]
+japanese = "お、お主は………！？\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>いや、このような運命もあろうて。<line-break>全力でまいるぞ。<line-break>覚悟せい、<value:$28>！！<end>"
+english = "Y-you...!? Still, I suppose this too is fate. I won't hold back. Prepare yourself, <value:$28>!<end>"
+
+["1830016"]
+japanese = "ぐっ…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>さすがだな。<value:$28>よ。<line-break>\u3000<line-break>お主に倒されるのであれば<line-break>この老いぼれの最期としては上できか。<line-break>行け。倒れる姿は見られとうない…。<end>"
+english = "Ngh... Impressive, <value:$28>. If I am to fall by your hand, that's not a bad end for an old relic like me. Go. I don't want you to see me fall...<end>"
+
+["1830017"]
+japanese = "この…町で果てるとは…<line-break>これも…因果という奴か…。<line-break>ルフェイ、わしも今そなたのもとへ…。<end>"
+english = "To meet my end in this town... Perhaps this, too, is karma at work... Lufei, now I too shall join you...<end>"
+
+["1830018"]
+japanese = "見事です。みなさん。<line-break>あれだけの軍勢を相手にし<line-break>さらにはすべて退けるとは…。\u3000\u3000<line-break>これも、水の精霊神の<line-break>加護のたまものでしょう……。<end>"
+english = "Splendid work, all of you. To face such a vast army and drive back every last soldier... This, too, must be a blessing from the Water Spirit God.<end>"
+
+["1830019"]
+japanese = "これは、今回の報酬です。<line-break>また、この聖地が危機に陥ったら\u3000<line-break>その力を貸してください。<end>"
+english = "This is your reward for your efforts. Should this holy place ever be threatened again, please lend your strength once more.<end>"
+
+["1830020"]
+japanese = "この地は決して争いを望みません。<line-break>それでも争いがこの地を包むなら<line-break>守るために戦わねばなりません…。<line-break>戦うことは、決して楽では<line-break>ないでしょうが、どうか私たちに<line-break>力を貸してください。<end>"
+english = "This land seeks no conflict. But if war engulfs it, we must fight to defend it. The battle ahead will not be easy, but please, lend us your strength.<end>"
+
+["1830021"]
+japanese = "本当ならば、傭兵のみなさんの<line-break>力を借りずに済む日が来ることが\u3000<line-break>一番いいことなのですが…。<end>"
+english = "Of course, the best thing would be for the day to come when we no longer need the aid of mercenaries.<end>"
+
+["1830022"]
+japanese = "ふう、お疲れ。<line-break>しかし、今回の敵さんは<line-break>気合い入ってたな。<end>"
+english = "Whew, good work. Those enemies really came at us this time.<end>"
+
+["1830023"]
+japanese = "よかったよ～。<line-break>なんとか生きて報酬もらえたよ～。<line-break>もうこんなのこりごりだ～。<end>"
+english = "Thank goodness! I made it out alive and got paid! I've had enough of this!<end>"
+
+["1830024"]
+japanese = "<if><value:$2A><greater-equal>50よお、<value:$2B>の<line-break><value:$28>じゃないか。<line-break>どうだい、調子の方は？<end>よお、<value:$28>か。<line-break>どうだい、調子は？<end>"
+english = "<if><value:$2A><greater-equal>50Hey, if it isn't <value:$2B> <value:$28>. How've you been?<end>Hey, <value:$28>. How've you been?<end>"
+
+["1830025"]
+japanese = "こないだ、アキュリュースの\u3000\u3000\u3000<line-break>傭兵の話したろ？<line-break>あれな、集まりが悪いんだよ。<line-break>やっぱり、帝国相手に戦うってのは<line-break>どう考えても分が悪いしな。<line-break>みんな、腰が引けてるんだよ。<end>"
+english = "Remember those mercenary jobs for Aqyurius I told you about? Well, we're not getting many takers. However you look at it, fighting the Empire is a losing proposition. Everyone's getting cold feet.<end>"
+
+["1830026"]
+japanese = "それでもな、アキュリュースの人が\u3000\u3000<line-break>頭下げて頼みに来るんだよ。<line-break>どうかお願いしますってな。<line-break>あんたの実力なら<line-break>彼らの力になってやれるかもしれない。<line-break>どうだい？\u3000やってみてくれないか？<end>"
+english = "Even so, the people of Aqyurius keep coming here, bowing their heads and begging for help. With your skill, you might be able to make a difference for them. What do you say? Will you take the job?<end>"
+
+["1830027"]
+japanese = "引き受ける<end>"
+english = "Take the job<end>"
+
+["1830028"]
+japanese = "やめておく<end>"
+english = "Turn it down<end>"
+
+["1830029"]
+japanese = "そうか、ありがとう…って、<line-break>ちょっと待った。あんた、ディンガルの<line-break>傭兵もやってるじゃないか！<line-break>両方かけもちするのはよくないよ。<line-break>どちらか片方にしてくれ。<line-break>どっちにするんだい？<end>"
+english = "All right, thanks... Wait, hold on. You're already working as a mercenary for Dingal! You can't work for both sides. You'll have to choose one. So which will it be?<end>"
+
+["1830030"]
+japanese = "やっぱりディンガル側<end>"
+english = "Stick with Dingal after all<end>"
+
+["1830031"]
+japanese = "心機一転アキュリュース側<end>"
+english = "Make a fresh start with Aqyurius<end>"
+
+["1830032"]
+japanese = "それじゃ、今まで通り<line-break>ディンガル帝国側ってことで<line-break>よろしく頼むぜ、<value:$28>。<end>"
+english = "All right, then. You'll stay with the Dingal Empire, same as before. I'm counting on you, <value:$28>.<end>"
+
+["1830033"]
+japanese = "じゃ、書類の方は送っとくから、<line-break>アキュリュースの神殿の方へ行ってくれ。\u3000<line-break>そこで、詳しい話があるはずだ。<line-break>今後はアキュリュース兵ってことで<line-break>がんばってくれよな。<end>"
+english = "I'll send the paperwork along, so head to the temple in Aqyurius. You should get the details there. From now on, you'll be serving as an Aqyurius soldier. Give it your best.<end>"
+
+["1830034"]
+japanese = "じゃ、書類の方は送っとくから、<line-break>アキュリュースの神殿の方へ行ってくれ。<line-break>そこで、詳しい話があるはずだ。<line-break>今後はアキュリュース兵ってことで<line-break>がんばってくれよな。<end>"
+english = "I'll send the paperwork along, so head to the temple in Aqyurius. You should get the details there. From now on, you'll be serving as an Aqyurius soldier. Give it your best.<end>"
+
+["1830035"]
+japanese = "そうかい。ま、この話は<line-break>ちょっとばかしつらすぎるからな。<line-break>じゃ、この話はここまでだ。<end>"
+english = "Fair enough. This job is a bit too much to ask. We'll leave it at that, then.<end>"
+
+["1830036"]
+japanese = "<if><value:$2A><greater-equal>50よお、<value:$2B>の<line-break><value:$28>じゃないか。<line-break>あんたの腕なら安心して紹介できるな。<end>よお、<value:$28>か。<line-break>どうだい、戦場にでも行って<line-break>武者修業する気はないかい？<end>"
+english = "<if><value:$2A><greater-equal>50Well, if it isn't <value:$2B> <value:$28>. With your skills, I can recommend you without a second thought.<end>Hey, <value:$28>. How about heading to a battlefield to hone your skills?<end>"
+
+["1830037"]
+japanese = "今、アキュリュースがディンガルに<line-break>攻められそうになっててな、<line-break>傭兵を募集しているんだよ。<line-break>報酬は１戦ごとに払うらしい。<line-break>どうだい？\u3000やってみるかい？<end>"
+english = "Akuryus is in danger of being attacked by Dingal and is recruiting mercenaries. Apparently, the pay is per battle. What do you say? Want to give it a try?<end>"
+
+["1830038"]
+japanese = "引き受ける<end>"
+english = "Take the job<end>"
+
+["1830039"]
+japanese = "やめておく<end>"
+english = "Turn it down<end>"
+
+["1830040"]
+japanese = "…って、ちょっと待った。<line-break>あんた、ディンガルにも\u3000\u3000<line-break>やとわれているじゃないか！\u3000\u3000      <line-break>両方かけもちするのはよくないよ。<line-break>どちらか片方にしてくれ。<line-break>どっちにするんだい？<end>"
+english = "Wait, hold on. You're working for Dingal too! You can't fight for both sides. Pick one or the other. Which will it be?<end>"
+
+["1830041"]
+japanese = "やっぱりディンガル側<end>"
+english = "Stick with Dingal after all<end>"
+
+["1830042"]
+japanese = "心機一転アキュリュース側<end>"
+english = "Make a fresh start with Aqyurius<end>"
+
+["1830043"]
+japanese = "それじゃ、今まで通り<line-break>ディンガル帝国側ってことで<line-break>よろしく頼むぜ、<value:$28>。<end>"
+english = "All right, then. You'll stay with the Dingal Empire, just as before. I'm counting on you, <value:$28>.<end>"
+
+["1830044"]
+japanese = "じゃ、書類の方は送っとくから、<line-break>アキュリュースの神殿の方へ行ってくれ。\u3000<line-break>そこで、詳しい話があるはずだ。<line-break>今後はアキュリュース兵ってことで<line-break>よろしく頼んだぜ。<end>"
+english = "I'll send the paperwork ahead, so go to the temple in Akuryus. You should get the full details there. From now on, you'll be serving as an Akuryus soldier. I'm counting on you.<end>"
+
+["1830045"]
+japanese = "じゃ、書類の方は送っとくから、<line-break>アキュリュースの神殿の方へ行ってくれ。<line-break>そこで、詳しい話があるはずだ。<line-break>今後はアキュリュース兵ってことで<line-break>よろしく頼んだぜ。<end>"
+english = "I'll send the paperwork ahead, so go to the temple in Akuryus. You should get the full details there. From now on, you'll be serving as an Akuryus soldier. I'm counting on you.<end>"
+
+["1830046"]
+japanese = "そうかい。ま、傭兵ってのも<line-break>しがらみが多くて、考えもんだからな。<line-break>この話はここまでだ。<end>"
+english = "Fair enough. Being a mercenary comes with plenty of strings attached, so it's worth thinking twice. We'll leave it at that.<end>"
+
+["1830047"]
+japanese = "清きこの地を守るために戦っていただき<line-break>本当にありがとうございます。<line-break>\u3000<line-break>私たちにできるのは<line-break>みなさんの傷をいやすことくらい…。<line-break>微力ながら、お手伝いいたします。<end>"
+english = "Thank you so much for fighting to protect this sacred land. All we can do is tend to your wounds... but we'll help in whatever small way we can.<end>"
+
+["1830048"]
+japanese = "おかげさまで、緒戦においては<line-break>ディンガルの侵攻を防ぐことができました。\u3000\u3000<line-break>ありがとうございました。<line-break>彼らがまた侵攻してくるには、まだしばらくの<line-break>時間があきそうです。その間、みなさんは<line-break>それぞれのなすべき事をされるとよいでしょう。<end>"
+english = "Thanks to your efforts, we were able to repel Dingal's opening assault. You have our gratitude. It appears some time will pass before Dingal can invade again. Until then, you should each attend to whatever business you have.<end>"
+
+["1830049"]
+japanese = "おかげさまで、緒戦においては<line-break>ディンガルの侵攻を防ぐことができました。\u3000\u3000<line-break>ありがとうございました。<line-break>ですが、次の侵攻はそう遠くないでしょう。<line-break>敵の動きを常に警戒し、いつでもこの清き町を<line-break>守りにこれるよう、準備をしておいてください。<end>"
+english = "Thanks to your efforts, we were able to repel Dingal's opening assault. You have our gratitude. But the next invasion will not be long in coming. Keep a constant watch on the enemy's movements, and be ready to return at any time to defend this sacred town.<end>"
+
+["1830050"]
+japanese = "おかげさまで、緒戦においては<line-break>ディンガルの侵攻を防ぐことができました。\u3000\u3000<line-break>ありがとうございました。<line-break>ですが、彼らは明日にでも再びこの町へと<line-break>侵攻してきそうな気配です。今日はこの町に<line-break>宿をとり、明日また神殿へと来てください。<end>"
+english = "Thanks to your efforts, we were able to repel Dingal's opening assault. You have our gratitude. But there are signs that Dingal may invade this town again as soon as tomorrow. Find lodging here tonight, and return to the temple tomorrow.<end>"
+
+["1830051"]
+japanese = "今日の戦いを見ると、<line-break>ディンガル軍は明日も<line-break>この地を攻めてくるでしょう。<line-break>今日はこの町で宿をとり、<line-break>明日またこの神殿入口に<line-break>来てもらえますでしょうか。<end>"
+english = "Judging by today's battle, the Dingal Army will attack this land again tomorrow. Please stay in town tonight, then return to the entrance of this temple tomorrow.<end>"
+
+["1830052"]
+japanese = "この戦いに<line-break>アキュリュースの未来がかかっています。<line-break>\u3000<line-break>あなたたちも明日の戦いに備え<line-break>装備や道具の準備はしておいてください。<end>"
+english = "The future of Aqyurius rests on this battle. Make sure your equipment and supplies are ready for tomorrow's fighting.<end>"
+
+["1830053"]
+japanese = "聖なるこの地を守ろうという意志、ありがたく<line-break>思います。ですが、あなたはお仲間以外の方を<line-break>お連れしていませんでしたか？<line-break>戦いは、厳しいものになります。<line-break>そのお連れの方を安全な地へ送り届けてから<line-break>おいでになった方がよいでしょう。<end>"
+english = "We are grateful for your resolve to defend this sacred land. But was there not someone traveling with you who was not one of your companions? The battle ahead will be fierce. You would be wise to escort that person to safety before returning here.<end>"
+
+["1830054"]
+japanese = "イークレムンＶ２<line-break>予備メッセージ８です<end>"
+english = "Iiklmn Ｖ2: Backup Message 8<end>"
+
+["1830055"]
+japanese = "イークレムンＶ２<line-break>予備メッセージ９です<end>"
+english = ""
+
+["1830056"]
+japanese = "イークレムンＶ２<line-break>予備メッセージ１０です<end>"
+english = ""
+
+["1830057"]
+japanese = "戦争を見たのは初めてです。<line-break>同族で殺し合うとは、<line-break>人間は恐ろしい種族ですね。<end>"
+english = "This is the first war I've ever seen. Humans are a frightening race, killing their own kind like this.<end>"
+
+["1830058"]
+japanese = "森を出なければ、<line-break>戦争を知ることもなかったのに…。<end>"
+english = "If only I had never left the forest, I would never have known war...<end>"
+
+["1830059"]
+japanese = "再びディンガルが攻めてきたら、<line-break>私たちを守ってくださいね。<end>"
+english = "If Dingal attacks again, please protect us.<end>"
+
+["1830060"]
+japanese = "今回もミズチのおかげで<line-break>アキュリュースは守られた。<line-break>これからもそうじゃろう。<end>"
+english = "Once again, Aqyurius was kept safe thanks to Mizuchi. And I expect it will continue to be.<end>"
+
+["1830061"]
+japanese = "ジラーク率いる白虎軍は強いのかい？<line-break>ミズチがいるからって安心して<line-break>いいものなのかねぇ？<end>"
+english = "Is Zsilak's White Tiger Army really that strong? Can we truly rest easy just because Mizuchi is with them?<end>"
+
+["1830062"]
+japanese = "ディンガルから守ってくれてありがとう。<line-break>あんたたち傭兵とミズチがいるから<line-break>あたしらは安心して暮らせるんだよ。<end>"
+english = "Thank you for protecting us from Dingal. With you mercenaries and Mizuchi here, we can live without fear.<end>"
+
+["1830063"]
+japanese = "戦争のおかげで、<line-break>しばらくは仕事もなさそうだし<line-break>せっかくだからゆっくり休むかな。<end>"
+english = "With the war on, it doesn't look like there'll be any work for a while. Might as well take the chance to get some rest.<end>"
+
+["1830064"]
+japanese = "戦いのすぐあとだから、<line-break>傭兵たちが殺気だってて、<line-break>恐いんだよ。<end>"
+english = "The battle only just ended, so the mercenaries are still spoiling for a fight. It's frightening.<end>"
+
+["1830065"]
+japanese = "ここでも激しい戦いがあったらしいね。<line-break>君たち傭兵も大変な仕事だね。<line-break>これからも守ってくれよ。<end>"
+english = "Sounds like there was fierce fighting here too. You mercenaries have a hard job. Keep protecting us, all right?<end>"
+
+["1830066"]
+japanese = "ディンガルのヤツらは、<line-break>再び攻めてくるにちがいない。<line-break>君も警戒を怠るなよ。<end>"
+english = "Those Dingal bastards are bound to attack again. You'd better stay on your guard too.<end>"
+
+["1830067"]
+japanese = "ミズチが大暴れして<line-break>ディンガルの兵士がたくさん死んだよ。<line-break>彼らにも家族がいるだろうに…。<end>"
+english = "Mizuchi went on a rampage, and a lot of Dingal soldiers died. They must have families too...<end>"
+
+["1830068"]
+japanese = "戦争のおかげで観光客が減っちゃうよ。<line-break>困ったことだよな。<end>"
+english = "The war means fewer tourists. That's a real problem.<end>"
+
+["1830069"]
+japanese = "イークレムンＶ２\u3000終了<end>"
+english = ""

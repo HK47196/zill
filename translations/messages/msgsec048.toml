@@ -1,0 +1,229 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["480000"]
+japanese = "ガルドラン・ボリューム３開始<end>"
+english = ""
+
+["480001"]
+japanese = "おや、あ～んた、な～んとか君じゃね。<end>"
+english = "Oh, it's yooou, What-was-your-name.<end>"
+
+["480002"]
+japanese = "わし、あんたを、よ～く覚えとるのね。<line-break>ほ～とんど忘れとるんじゃけどね。<end>"
+english = "I remember you very well. Though I've forgotten almost everything about you.<end>"
+
+["480003"]
+japanese = "そろそろ、立場みたいなのが決定されて<line-break>くるから、よく考えて行動せ～んとね。<end>"
+english = "Your place in things will start taking shape soon, so you'd best think carefully before you act.<end>"
+
+["480004"]
+japanese = "あんた、こ～こには、<line-break>ディードの説明を聞きに来たんじゃね。<end>"
+english = "You've come here to hear about Deed, haven't you?<end>"
+
+["480005"]
+japanese = "その通り<end>"
+english = "That's right.<end>"
+
+["480006"]
+japanese = "いや違う<end>"
+english = "No, that's wrong.<end>"
+
+["480007"]
+japanese = "ディードの使い方はわかっと～るのね。<end>"
+english = "You do know how to use Deed, don't you?<end>"
+
+["480008"]
+japanese = "そ～れなら、わしががかわいこちゃんを<line-break>紹介しちゃうんじゃね。<end>"
+english = "Then let me introduce you to a pretty young thing.<end>"
+
+["480009"]
+japanese = "アミラルの宿屋にルフレンちゃんて娘が<line-break>いるから、会いに行くといいんじゃね。<end>"
+english = "There's a girl called Lufren at the inn in Amiral. You should go and see her.<end>"
+
+["480010"]
+japanese = "ディードの使い方はわかっと～るのね。<end>"
+english = "You do know how to use Deed, don't you?<end>"
+
+["480011"]
+japanese = "それなら、ディードを使って大活躍して<line-break>わしの偉さを広めて欲しいんじゃね。<end>"
+english = "Then I want you to use Deed to perform great deeds and spread word of my greatness.<end>"
+
+["480012"]
+japanese = "ティラの娘と呼ばれるいにしえの怪物、<line-break>アレを退治して、活躍してほしいのね。<end>"
+english = "I want you to make a name for yourself by slaying that ancient monster known as the Daughter of Tira.<end>"
+
+["480013"]
+japanese = "ディードの使い方はわかっと～るのね。<end>"
+english = "You do know how to use Deed, don't you?<end>"
+
+["480014"]
+japanese = "あんたの仲間のセラ君は強いんじゃね。<line-break>彼と一緒に冒険して欲し～いんじゃね。<end>"
+english = "That companion of yours, Sera, is strong. I'd like you to go adventuring with him.<end>"
+
+["480015"]
+japanese = "そ～うすればあんたも、大活躍で～きて<line-break>ディードも有名にな～れるんじゃね～。<end>"
+english = "Then you'll be able to achieve great things, and Deed will become famous too.<end>"
+
+["480016"]
+japanese = "そ～れじゃ、ロジクーニンの豆知識を\u3000<line-break>ひ～とつ披露するのね。<end>"
+english = "Now then, allow me to share one little tidbit from Logikunin.<end>"
+
+["480017"]
+japanese = "<select><value:$20>%20アミラルのドラゴン祭りは<line-break>毎年、○○月の○○日なんじゃね。<end>テラネのボンガとロストールのオッシは<line-break>実は、知り合いだったりするんじゃね。<line-break><line-break>実は、結構、因縁深い２人なんじゃね。<line-break>２人は闘技場でつなっがと～るのね。<line-break>知らない人の話だったらゴメンね。<end>神の手のロッシマの<line-break>誕生日は５月の７日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>ツェラシェルの妹ヴァイライラの<line-break>誕生日は１月の１４日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>ツェラシェルの妹ヴィアリアリの<line-break>誕生日は１月の１４日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>古代の魔道士、封師レオニックが、<line-break>魔道技術を封じたレオニックの迷宮…<line-break><line-break>ロッシマはそのレオニックの迷宮に<line-break>挑んだこ～とがあ～るんじゃね。<line-break>…てことは彼なら場所を知っとるのね。<end>アミラルのロベルトと<line-break>神の手のロッシマは知り合いな～のね。<line-break><line-break>昔、彼らは一緒に旅をした仲間なのね。<line-break>ロッシマについて、知～りたかったら<line-break>ロベルトにきいてみたらいいんじゃね。<end>ロストールの剣術指南オッシの<line-break>誕生日は８月の１２日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>なんにもならなんじゃけどね。<end>霊峰トールはだてに霊峰じゃないのね。<line-break>頂上にはちょっとした秘密があるのね。<end>フゴーの護衛兼鑑定人ダイダロの<line-break>誕生日は１０月の１０日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>なんにもならなんじゃけどね。<end>フゴーの奥さん兼影武者のフゴー夫人の<line-break>誕生日は２月の１７日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>なんにもならなんじゃけどね。<end>エルズのテレジアの<line-break>誕生日は１０月の１９日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>なんにもならなんじゃけどね。<end>ファーロス家当主、大公ノヴィンの<line-break>誕生日は５月の７日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>なんにもならなんじゃけどね。<end>ロストールの酒場のフェルムちゃんの<line-break>誕生日は５月の１１日な～んじゃね。<line-break><line-break>わしの誕生日、１月１日じゃからね。<line-break>わしとフェルムちゃんの<line-break>相性はどうか知りたいんじゃね。<end>エルズの竜の座の女官ベモラベラモの<line-break>誕生日は１２月の１７日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>アミラルのロベルトの奥さんポーリアの<line-break>誕生日は７月の６日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>この世界には、い～たるところに\u3000\u3000\u3000<line-break>運命の女神の刻印があ～るのね。<line-break><line-break>ちょ～っと、そういうと～ころに<line-break>目をつ～けてみると、お～もしろいかも<line-break>し～れないんじゃね。<end>テラネの木こりボンガの<line-break>誕生日は１２月の１７日なんじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>テラネの木こりボンガの奥さんの<line-break>誕生日は５月の５日なんじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>アミラルの宿屋の娘ルフレンちゃんの<line-break>誕生日は２月の２４日なんじゃね。<line-break><line-break>わしの誕生日は１月１日じゃからね。<line-break>わしとルフレンちゃんの<line-break>相性はどうか知りたいんじゃね。<end>"
+english = "<select><value:$20>%20Amiral's Dragon Festival is held every year on the XXth day of XX.<end>Bonga of Terane and Osshi of Rostorl actually know each other. In fact, the two of them have quite a tangled history. Their connection goes back to the arena. Sorry if you've no idea who I'm talking about.<end>Rossima of the Hand of God was born on May 7. Sorry if you've no idea who I'm talking about. Not that knowing this does you any good.<end>Tzelasher's younger sister Vailaila was born on January 14. Sorry if you've no idea who I'm talking about. Not that knowing this does you any good.<end>Tzelasher's younger sister Vialiali was born on January 14. Sorry if you've no idea who I'm talking about. Not that knowing this does you any good.<end>Leonique's Labyrinth, where the ancient mage and Seal Master Leonique sealed away magical technology... Rossima once ventured into that very labyrinth. Which means he must know where it is.<end>Roberto of Amiral and Rossima of the Hand of God know each other. Long ago, they traveled together as companions. If you want to know about Rossima, try asking Roberto.<end>Osshi, Rostorl's swordsmanship instructor, was born on August 12. Sorry if you've no idea who I'm talking about. Not that knowing this does you any good.<end>Sacred Mount Thor isn't called sacred for nothing. There's a little secret at its summit.<end>Daedalo, Hugo's escort and appraiser, was born on October 10. Sorry if you've no idea who I'm talking about. Not that knowing this does you any good.<end>Mrs. Hugo, Hugo's wife and double, was born on February 17. Sorry if you've no idea who I'm talking about. Not that knowing this does you any good.<end>Terezia of Elz was born on October 19. Sorry if you've no idea who I'm talking about. Not that knowing this does you any good.<end>Grand Duke Novin, head of the Pharos family, was born on May 7. Sorry if you've no idea who I'm talking about. Not that knowing this does you any good.<end>Ferme from the tavern in Rostorl was born on May 11. My birthday is January 1, you see. I'd like to know how compatible Ferme and I are.<end>Bemoraberamo, a lady-in-waiting at the Seat of the Dragon in Elz, was born on December 17. Sorry if you've no idea who I'm talking about. Not that knowing this does you any good.<end>Paulia, wife of Roberto of Amiral, was born on July 6. Sorry if you've no idea who I'm talking about. Not that knowing this does you any good.<end>The marks of the Goddess of Fate can be found all over this world. It might be interesting to keep an eye out for places like that.<end>Bonga, the woodcutter from Terane, was born on December 17. Sorry if you've no idea who I'm talking about. Not that knowing this does you any good.<end>The wife of Bonga, the woodcutter from Terane, was born on May 5. Sorry if you've no idea who I'm talking about. Not that knowing this does you any good.<end>Lufren, the innkeeper's daughter in Amiral, was born on February 24. My birthday is January 1, you see. I'd like to know how compatible Lufren and I are.<end>"
+
+["480018"]
+japanese = "ま～、今、ディードの研究を<line-break>鋭意、進めとるからね～。<line-break><line-break>ま～た、日をあらためて来～てくれたら<line-break>新し～い研究の成果を実験させて<line-break>もらうから、ま～た来るんじゃね～。<end>"
+english = "Well, I'm hard at work researching Deed at the moment. Come back another day, and I'll get to test the latest results of my research. So be sure to come back.<end>"
+
+["480019"]
+japanese = "ヴァン、僕、仇をとったんだ。<line-break>ガルドランを殺してきたよ。<end>"
+english = "Van, I got my revenge. I killed Girldlan.<end>"
+
+["480020"]
+japanese = "ねぇ、ヴァン、僕、仇をとったんだ。<line-break>ガルドランを殺してきたよ。<end>"
+english = "Hey, Van. I got my revenge. I killed Girldlan.<end>"
+
+["480021"]
+japanese = "戦って力を得ていくうちに<line-break>人は、命や他人の痛みに鈍感になる。<line-break>\u3000<line-break>そうして、力を持った人間は<line-break>他人を傷つけなければ<line-break>生きていけないようになる。<end>"
+english = "As people fight and grow stronger, they become numb to the value of life and to the pain of others. In time, those with power can no longer live without hurting others.<end>"
+
+["480022"]
+japanese = "こないだ泊まってった<line-break>坊さんの受け売りだけど…<line-break>結構、心にくる言葉だよな。<end>"
+english = "I'm only repeating what that monk who stayed here the other day said... but it hits pretty hard, doesn't it?<end>"
+
+["480023"]
+japanese = "ナッジ、お前、人の命を奪ったことを<line-break>笑って話すような奴じゃ<line-break>なかったのに…。<end>"
+english = "Nadge, you never used to be the kind of man who could laugh while talking about taking a life...<end>"
+
+["480024"]
+japanese = "すまない。俺、お前と旅がしたかった。<line-break>でも、今、お前と行く気にはなれない。<line-break>\u3000<line-break>俺は親父と一緒に<line-break>この町で宿屋をやる。<line-break>決めたよ…、それが、俺の人生だ。<end>"
+english = "I'm sorry. I wanted to travel with you. But now, I can't bring myself to go with you. I'm going to run an inn here in town with my dad. I've made up my mind... That's the life I've chosen.<end>"
+
+["480025"]
+japanese = "…ナッジのこと、頼むぜ。<end>"
+english = "...Take care of Nadge for me.<end>"
+
+["480026"]
+japanese = "<value:$28>…、<line-break>僕、どこで変わっちゃったんだろう…。<line-break>\u3000<line-break>ヴァン…、<line-break>僕はもう、君と一緒には<line-break>歩けないのかな…。<end>"
+english = "<value:$28>... where along the way did I change? Van... maybe I can't walk beside you anymore.<end>"
+
+["480027"]
+japanese = "よう、<value:$28>、<line-break>元気そうで何よりだ。<line-break>\u3000<line-break>泊まっていくかい？<line-break>お前らなら、ただでいいぜ。<end>"
+english = "Hey, <value:$28>. Good to see you looking well. Staying the night? You lot can stay for free.<end>"
+
+["480028"]
+japanese = "泊まる<end>"
+english = "Stay<end>"
+
+["480029"]
+japanese = "泊まらない<end>"
+english = "Don't stay<end>"
+
+["480030"]
+japanese = "そうかい。<line-break>じゃ、ゆっくりしていってくれ。<end>"
+english = "All right. Make yourselves at home.<end>"
+
+["480031"]
+japanese = "疲れはとれたかい？<end>"
+english = "Feeling rested?<end>"
+
+["480032"]
+japanese = "それはよかった。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Glad to hear it.<end>"
+
+["480033"]
+japanese = "ま、俺にできることはこんなもんだ。<line-break>よかったら、また来てくれ。じゃな。<end>"
+english = "Well, that's about all I can do for you. Come back anytime. See you around.<end>"
+
+["480034"]
+japanese = "そうかい。<end>"
+english = "All right.<end>"
+
+["480035"]
+japanese = "また、顔出せよな。<line-break>歓迎するぜ。<end>"
+english = "Come by again, all right? You'll be welcome.<end>"
+
+["480036"]
+japanese = "うちは巡礼客だけでいっぱいだ。<line-break>さあ、帰れ！<line-break>この汚い冒険者め！<end>"
+english = "We're full up with pilgrims. Now get out, you filthy adventurer!<end>"
+
+["480037"]
+japanese = "親父、やめろ。<end>"
+english = "Dad, stop it.<end>"
+
+["480038"]
+japanese = "…ヴァン。<end>"
+english = "...Van.<end>"
+
+["480039"]
+japanese = "親父は色メガネでものを見すぎる。\u3000<line-break>冒険者にもいろいろあるんだ。<line-break>\u3000<line-break>頭っから、<line-break>そんな言い方をするもんじゃない。<line-break>そうだろ、親父？<end>"
+english = "You let your prejudices blind you, Dad. Adventurers aren't all the same. You shouldn't judge people like that from the start. Right, Dad?<end>"
+
+["480040"]
+japanese = "ヴァンが、そう言うなら…<line-break>私も、別に…。<end>"
+english = "If you say so, Van... well, I suppose...<end>"
+
+["480041"]
+japanese = "すまなかったな。<line-break>イヤな気分にさせて。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>でも、今日は巡礼者でいっぱいなのも<line-break>事実なんだ。悪いけど、泊められない。<line-break>また、来てくれ。<end>"
+english = "Sorry I made you feel bad. But the place really is packed with pilgrims today. Sorry, but I can't put you up. Come back another time.<end>"
+
+["480042"]
+japanese = "くっ、冒険者なんて…！<end>"
+english = "Gah, adventurers...!<end>"
+
+["480043"]
+japanese = "親父！<end>"
+english = "Dad!<end>"
+
+["480044"]
+japanese = "ヴァ、ヴァン…。<end>"
+english = "V-Van...<end>"
+
+["480045"]
+japanese = "…すまん。<line-break>さっきはひどいことを言った。<end>"
+english = "...I'm sorry. I said some terrible things earlier.<end>"
+
+["480046"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ３の予備その１だ！<end>"
+english = ""
+
+["480047"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ３の予備その２だ！<end>"
+english = ""
+
+["480048"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ３の予備その３だ！<end>"
+english = ""
+
+["480049"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ３の予備その４だ！<end>"
+english = ""
+
+["480050"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ３の予備その５だ！<end>"
+english = ""
+
+["480051"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ３の予備その６だ！<end>"
+english = ""
+
+["480052"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ３の予備その７だ！<end>"
+english = ""
+
+["480053"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ３の予備その８だ！<end>"
+english = ""
+
+["480054"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ３の予備その９だ！<end>"
+english = ""
+
+["480055"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ３の予備その１０だ！<end>"
+english = ""
+
+["480056"]
+japanese = "ガルドラン・ボリューム３終端<end>"
+english = ""

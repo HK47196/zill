@@ -1,0 +1,657 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["410000"]
+japanese = "ネメア・ボリューム２開始<end>"
+english = ""
+
+["410001"]
+japanese = "（未使用）１<end>"
+english = "(Unused) 1<end>"
+
+["410002"]
+japanese = "（未使用）２<end>"
+english = "(Unused) 2<end>"
+
+["410003"]
+japanese = "（未使用）３<end>"
+english = "(Unused) 3<end>"
+
+["410004"]
+japanese = "（未使用）４<end>"
+english = "(Unused) 4<end>"
+
+["410005"]
+japanese = "（未使用）５<end>"
+english = "(Unused) 5<end>"
+
+["410006"]
+japanese = "（未使用）６<end>"
+english = "(Unused) 6<end>"
+
+["410007"]
+japanese = "（未使用）７<end>"
+english = "(Unused) 7<end>"
+
+["410008"]
+japanese = "（未使用）８<end>"
+english = "(Unused) 8<end>"
+
+["410009"]
+japanese = "（未使用）９<end>"
+english = "(Unused) 9<end>"
+
+["410010"]
+japanese = "（未使用）１０<end>"
+english = "(Unused) 10<end>"
+
+["410011"]
+japanese = "（未使用）１１<end>"
+english = "(Unused) 11<end>"
+
+["410012"]
+japanese = "（未使用）１２<end>"
+english = "(Unused) 12<end>"
+
+["410013"]
+japanese = "（未使用）１３<end>"
+english = "(Unused) 13<end>"
+
+["410014"]
+japanese = "（未使用）１４<end>"
+english = "(Unused) 14<end>"
+
+["410015"]
+japanese = "（未使用）１５<end>"
+english = "(Unused) 15<end>"
+
+["410016"]
+japanese = "（未使用）１６<end>"
+english = "(Unused) 16<end>"
+
+["410017"]
+japanese = "（未使用）１７<end>"
+english = "(Unused) 17<end>"
+
+["410018"]
+japanese = "（未使用）１８<end>"
+english = ""
+
+["410019"]
+japanese = "あ、<value:$28>様。<line-break>エスト様から\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>何か、言づてがあったようです。<line-break>中でレムオン様がお待ちです。<end>"
+english = "Ah, <value:$28>. It seems Est has sent word. Lemghon is waiting for you inside.<end>"
+
+["410020"]
+japanese = "<value:$28>様ですか？<line-break>エスト様からお言づてがあります。\u3000\u3000<line-break>\u3000<line-break>詳しくは、レムオン様が<line-break>聞いているとのことです。<end>中にお入りください。<end>"
+english = "Are you <value:$28>? There's a message for you from Est. I understand Lemghon has the details.<end>Please, go inside.<end>"
+
+["410021"]
+japanese = "エストから、手紙を預かった。<line-break>確かに渡したぞ。<end>"
+english = "Est entrusted me with a letter. Consider it delivered.<end>"
+
+["410022"]
+japanese = "\u3000\u3000\u3000\u3000<value:$28>、元気かい？<line-break>\u3000\u3000\u3000\u3000研究は今のところ順調だよ。<line-break><line-break><line-break>\u3000\u3000\u3000闇の神器は、素晴らしい物だよ。<line-break>\u3000\u3000\u3000\u3000所有するだけで、僕の魔力が<line-break>\u3000\u3000\u3000\u3000\u3000\u3000高まっていくんだ。<end>"
+english = "<value:$28>, how are you? My research is going well so far. The dark sacred artifact is remarkable. Simply having it in my possession makes my magical power grow.<end>"
+
+["410023"]
+japanese = "\u3000\u3000\u3000ただ、最近は身の危険を感じるんだ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000いつも、誰かに<line-break>\u3000\u3000\u3000\u3000\u3000見られてるような感じがして。<end>"
+english = "Lately, though, I've begun to feel like I'm in danger. It feels as if someone is always watching me.<end>"
+
+["410024"]
+japanese = "\u3000\u3000\u3000\u3000\u3000でも、僕は負けないよ。<line-break>\u3000\u3000古の魔道技術を取り戻して、人間社会を<line-break>\u3000\u3000より便利で豊かなものにするつもりだよ。<line-break>\u3000<line-break>\u3000\u3000\u3000そういう訳で、まだ、君に闇の神器を<line-break>\u3000\u3000\u3000\u3000\u3000渡すわけにはいかないんだ。<line-break>\u3000\u3000\u3000これを渡すと研究が遅れてしまうからね。<end>"
+english = "But I won't be defeated. I intend to recover the magical technology of antiquity and use it to make human society more convenient and prosperous. That's why I can't give you the dark sacred artifact just yet. Handing it over would delay my research.<end>"
+
+["410025"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000追伸<line-break>\u3000\u3000\u3000そういえば、ロセンの地下墓地で<line-break>\u3000\u3000\u3000\u3000面白いものを見つけたんだ。<line-break>\u3000<line-break>\u3000\u3000今度こそ、研究の成果を見せることが<line-break>\u3000\u3000\u3000\u3000\u3000できるかもしれない。<line-break>\u3000\u3000\u3000\u3000\u3000時間があったらおいでよ。<end>"
+english = "P.S. Speaking of which, I found something interesting in the Underground Cemetery in Rocen. Maybe this time I'll finally be able to show you the results of my research. Come by if you have time.<end>"
+
+["410026"]
+japanese = "\u3000\u3000\u3000\u3000それじゃあ、<value:$28>。<line-break>\u3000\u3000\u3000君に神のご加護がありますように。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000エスト<end>"
+english = "Goodbye, <value:$28>. May God's protection be with you. Est<end>"
+
+["410027"]
+japanese = "俺もまだまだ甘いな…。<end>"
+english = "I've still got a lot to learn...<end>"
+
+["410028"]
+japanese = "…ここは、<value:$28>が<line-break>決着をつけるべきだ。\u3000\u3000\u3000\u3000<end>"
+english = "…<value:$28> should be the one to settle this.<end>"
+
+["410029"]
+japanese = "危ない！\u3000奴はソウルを吸い取って<line-break>回復しようとしている！<line-break>\u3000<line-break>逃げろ！<line-break><value:$28>！<end>"
+english = "Look out! The enemy's trying to drain Soul to heal! Run, <value:$28>!<end>"
+
+["410030"]
+japanese = "<value:$28>さんー！<end>"
+english = "<value:$28>!<end>"
+
+["410031"]
+japanese = "<value:$28>さん！！<end>"
+english = "<value:$28>!!<end>"
+
+["410032"]
+japanese = "まて、あれは…、<line-break><value:$28>を回復してやがる…。<end>"
+english = "Wait―that's healing <value:$28>…<end>"
+
+["410033"]
+japanese = "バカな！<line-break>神器に支配された者に<line-break>慈しみの心など…！<end>"
+english = "Impossible! Someone enslaved by an Artifact can't feel compassion…!<end>"
+
+["410034"]
+japanese = "…<value:$28>？<end>"
+english = "…<value:$28>?<end>"
+
+["410035"]
+japanese = "あり得ない。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "That can't be.<end>"
+
+["410036"]
+japanese = "神器の力に支配されたものが、<line-break>心を取り戻すなど…。<end>"
+english = "How could a heart return to someone enslaved by an Artifact's power…?<end>"
+
+["410037"]
+japanese = "…助けに来て…くれたんだね？\u3000\u3000<end>"
+english = "…You came to save me… didn't you?<end>"
+
+["410038"]
+japanese = "うれしいよ、君の姿が見られて…。<line-break>さ…早く、僕を…殺して。<end>"
+english = "I'm glad I got to see you… Now… hurry. Kill me.<end>"
+
+["410039"]
+japanese = "無限のソウル…？<line-break>バカな。まだ発動していないはず…。<end>"
+english = "Infinite Soul…? Impossible. It shouldn't have activated yet…<end>"
+
+["410040"]
+japanese = "システィーナの力は…<line-break>闇の神器すらしのぐのか？<end>"
+english = "Can Sistina's power… surpass even a Dark Artifact?<end>"
+
+["410041"]
+japanese = "ノエル、その魔道士を殺せ！\u3000\u3000\u3000<end>"
+english = "Noel, kill that sorcerer!<end>"
+
+["410042"]
+japanese = "闇の神器を使って<line-break>世界を滅ぼそうとしている男だぞ！<end>"
+english = "That man means to destroy the world with a Dark Artifact!<end>"
+
+["410043"]
+japanese = "いいえ。彼はあなたの言うような<line-break>人でありません。<end>"
+english = "No. He isn't the man you claim he is.<end>"
+
+["410044"]
+japanese = "私を疑うのか？<end>"
+english = "You doubt me?<end>"
+
+["410045"]
+japanese = "だって、ナーシェス、あなた自身、<line-break>自分の言葉を信じてないんだもの。<line-break>\u3000<line-break>レイヴン、神器を<line-break><value:$28>さんに返して。<end>"
+english = "Because you don't believe your own words, Narscess. Raven, give the Artifact back to <value:$28>.<end>"
+
+["410046"]
+japanese = "レイヴン、貴様…。<end>"
+english = "Raven, you…<end>"
+
+["410047"]
+japanese = "悪いな。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Sorry.<end>"
+
+["410048"]
+japanese = "お前さんの言っていることは<line-break>正しいんだろうが、納得できない。<end>"
+english = "You may be right, but I can't accept it.<end>"
+
+["410049"]
+japanese = "神器はいただく。<line-break>あいつは始末させない。\u3000\u3000\u3000\u3000\u3000<end>"
+english = "I'm taking the Artifact. And I won't let you dispose of him.<end>"
+
+["410050"]
+japanese = "！\u3000…この感じ！<end>"
+english = "That presence…!<end>"
+
+["410051"]
+japanese = "あ、あれが…、獅子帝ネメア…。\u3000\u3000<end>"
+english = "Th-that's… Nemea, the Lion Emperor…<end>"
+
+["410052"]
+japanese = "ば、バロル帝が倒されるはずだわ…。<line-break>なんて…い、威圧…感…。<end>"
+english = "N-no wonder Emperor Balor was defeated… What an… overwhelming presence…<end>"
+
+["410053"]
+japanese = "レイヴン！<end>"
+english = "Raven!<end>"
+
+["410054"]
+japanese = "レイヴン！\u3000大丈夫？！<end>"
+english = "Raven! Are you all right?!<end>"
+
+["410055"]
+japanese = "レイヴン！\u3000レイヴン！<line-break>しっかりして！\u3000レイヴン！<end>"
+english = "Raven! Raven! Stay with me! Raven!<end>"
+
+["410056"]
+japanese = "へへ…、へへ…。<end>"
+english = "Heh… heh…<end>"
+
+["410057"]
+japanese = "レイヴン、気がついたのね！<line-break>よかった！<end>"
+english = "Raven, you're awake! Thank goodness!<end>"
+
+["410058"]
+japanese = "…へへ、<line-break>ざまぁ…ねぇな…、へへ。<end>"
+english = "Heh… What a sorry sight… heh.<end>"
+
+["410059"]
+japanese = "また、俺を戻してくれたのは、<line-break>あんただったのか…ノエル…。<end>"
+english = "So it was you who brought me back again… Noel…<end>"
+
+["410060"]
+japanese = "その様子では、<line-break>神器はネメアに奪われたようだな…。<line-break>\u3000<line-break>ゆくぞ。<line-break>カフィン、レイヴンを助けて行け。<end>"
+english = "It seems Nemea has taken the Artifact… We're leaving. Coffin, help Raven along.<end>"
+
+["410061"]
+japanese = "…ありがとう、<value:$28>。<end>"
+english = "…Thank you, <value:$28>.<end>"
+
+["410062"]
+japanese = "ううん。あのエルフ以外は<line-break>わかってくれたみたいだし。<line-break>\u3000<line-break>僕はもう大丈夫だよ。<end>"
+english = "No, it's all right. Everyone but that Elf seems to understand. I'll be fine now.<end>"
+
+["410063"]
+japanese = "あのエルフ、たぶん竜王の使者だよ。<line-break>彼は竜王の命で僕を処理しに来たんだ。<line-break>\u3000<line-break>闇の神器に支配されたものは<line-break>決して元に戻れない。<line-break>君はその僕をソウルでいやしてくれた。<end>"
+english = "That Elf is probably an envoy of the Dragon King. He came to dispose of me on the Dragon King's orders. No one enslaved by a Dark Artifact can ever return to normal. But you healed me with your Soul.<end>"
+
+["410064"]
+japanese = "あのエルフの言ったことが正しいなら、<line-break>君はどんどん強くなる。<line-break>あのネメアさえもしのぐほどにね。\u3000<line-break>だから、気をつけて。<line-break>竜王は自分の箱庭の均衡を崩す者を<line-break>許さないから…。<end>"
+english = "If that Elf was right, you'll keep growing stronger―strong enough to surpass even Nemea. So be careful. The Dragon King won't forgive anyone who upsets the balance of his little garden…<end>"
+
+["410065"]
+japanese = "<value:$28>、<line-break>ほんとに嬉しかったよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>僕を闇から救い出してくれたこと、<line-break>そして、救い出してくれたのが<line-break>他ならぬ君だったってこと。<end>"
+english = "<value:$28>, I was so happy. You saved me from the darkness―and of all people, it was you who saved me.<end>"
+
+["410066"]
+japanese = "僕、もう行くよ。<line-break>…じゃね。<end>"
+english = "I should go now. See you.<end>"
+
+["410067"]
+japanese = "…は、早く。だ、ダメだ…。<line-break>これ以上、もたない…！<end>"
+english = "H-hurry. I can't… I can't hold on any longer…!<end>"
+
+["410068"]
+japanese = "…我らは魔人を討伐したのみだ。<end>"
+english = "…We came only to slay the demon.<end>"
+
+["410069"]
+japanese = "おっと、事をかまえるつもりはない。<line-break>おとなしく引き上げさせてくれんかの？<end>"
+english = "Now, now, we've no wish to start a fight. Won't you let us withdraw in peace?<end>"
+
+["410070"]
+japanese = "いいぜ、ドワーフのおっさん。<end>"
+english = "Fine by me, old Dwarf.<end>"
+
+["410071"]
+japanese = "こいつを置いていってもいいならな？<end>"
+english = "Provided you leave this one behind.<end>"
+
+["410072"]
+japanese = "…いつの間に？<end>"
+english = "…When did you do that?<end>"
+
+["410073"]
+japanese = "…やれやれ、魔人の方が<line-break>えらく簡単に片づいたと思ったが、<line-break>\u3000<line-break>やはり、一働きはせんと<line-break>いかんみたいじゃな。<end>"
+english = "Good grief. I thought that demon went down rather too easily. Seems I've still got some work to do.<end>"
+
+["410074"]
+japanese = "どうした？\u3000帰んなよ？<line-break>用事は魔人討伐だけだったんだろ？<end>"
+english = "What's wrong? Go on, get out of here. You only came to slay the demon, didn't you?<end>"
+
+["410075"]
+japanese = "そうはいかないわ。<line-break>用事ができたの。<end>"
+english = "I can't do that. Something else has come up.<end>"
+
+["410076"]
+japanese = "泥棒がいけないことだって、<line-break>あなたに教えてあげないと<line-break>いけなくなったから。<end>"
+english = "Now I have to teach you that stealing is wrong.<end>"
+
+["410077"]
+japanese = "授業料はその闇の神器で頼むぞい。<end>"
+english = "That Dark Artifact will do nicely for tuition.<end>"
+
+["410078"]
+japanese = "<value:$28>、<line-break>詳しいことは知らないが、\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>この魔人、あんたと縁があったんだろ？<line-break>あいつらからけじめは<line-break>取っておかないとな！<end>"
+english = "<value:$28>, I don't know the details, but you had some connection to this demon, didn't you? We can't let them get away without answering for this!<end>"
+
+["410079"]
+japanese = "できの悪い生徒で<line-break>何も学びとれなかったぜ。<line-break>\u3000<line-break>授業料は払わないが、<line-break>いいよな？<end>"
+english = "I'm a poor student. Didn't learn a thing. So I won't be paying tuition. That's all right with you, isn't it?<end>"
+
+["410080"]
+japanese = "レイヴン！<end>"
+english = "Raven!<end>"
+
+["410081"]
+japanese = "<value:$28>！<end>"
+english = "<value:$28>!<end>"
+
+["410082"]
+japanese = "…この感じ…。<end>"
+english = "…This presence…<end>"
+
+["410083"]
+japanese = "エスト・リューガ博士で<line-break>いらっしゃいますね。<end>"
+english = "You are Dr. Est Ryuuga, I presume.<end>"
+
+["410084"]
+japanese = "あなたは？<end>"
+english = "Who are you?<end>"
+
+["410085"]
+japanese = "世界の行く末を憂う者<line-break>…とでも申しておきましょう。\u3000\u3000\u3000<line-break><line-break>あなたは古代の魔道器を研究解析し、<line-break>人類の生活水準をその恩恵によって<line-break>向上させようとしていらっしゃる。<end>"
+english = "Let us say I am one who fears for the fate of the world. You study and analyze ancient magical devices, hoping to use their benefits to improve humanity's standard of living.<end>"
+
+["410086"]
+japanese = "ええ。<end>"
+english = "Yes.<end>"
+
+["410087"]
+japanese = "そして、あなたは<line-break>それにある程度成功している。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>このダンジョンは、失礼だが<line-break>あなたの実力でここまで来られるような<line-break>安全なところではない。<end>"
+english = "And to some extent, you have succeeded. Forgive me, but this dungeon is far too dangerous for someone of your abilities to have made it this far.<end>"
+
+["410088"]
+japanese = "あなたは、魔道器の研究から<line-break>その力を引き出すことに成功し、<line-break>その力でここまで来たのだ。<end>"
+english = "Your research allowed you to draw power from those magical devices, and you used that power to reach this place.<end>"
+
+["410089"]
+japanese = "その通り…だけど、<line-break>いったい…？<end>"
+english = "That's true… but what are you getting at?<end>"
+
+["410090"]
+japanese = "闇の神器…<line-break>先人類が作った究極の魔道器だ…。\u3000\u3000<line-break>\u3000<line-break>あなたは、ある程度までだが、<line-break>その力を抽出することも成功している。<line-break>…違いますか？<end>"
+english = "A Dark Artifact―the ultimate magical device created by the precursor race… You have even succeeded, to a degree, in extracting its power. Am I wrong?<end>"
+
+["410091"]
+japanese = "…ええ。<end>"
+english = "…Yes.<end>"
+
+["410092"]
+japanese = "あなたはその力を、いずれ、<line-break>愚かな人間どもに与えようとする。<line-break>\u3000<line-break>私はそれを<line-break>やめていただきたいのです。<end>"
+english = "In time, you intend to bestow that power upon the fools of humanity. I must ask you to abandon that purpose.<end>"
+
+["410093"]
+japanese = "どうして？<line-break>それが僕の目的なのに？<end>"
+english = "Why? That's the whole purpose of my work.<end>"
+
+["410094"]
+japanese = "それがあるお方の意志だからです。\u3000\u3000<end>"
+english = "Because that is the will of a person I hold in the highest regard.<end>"
+
+["410095"]
+japanese = "愚かで邪悪な人間に<line-break>高度な魔法文明を与えることは…\u3000\u3000\u3000<end>"
+english = "To grant an advanced magical civilization to foolish, wicked humanity…<end>"
+
+["410096"]
+japanese = "ゴブリンに魔剣を与えるよりも<line-break>始末に悪い。<line-break>世界の滅びのもとになる。<end>"
+english = "…would be worse than giving a magic sword to a Goblin. It would bring about the end of the world.<end>"
+
+["410097"]
+japanese = "人間は文明を得ることで賢くなる。<end>"
+english = "Civilization will make humanity wiser.<end>"
+
+["410098"]
+japanese = "いずれ、かつての<line-break>清浄の時代のような時が来る。\u3000\u3000<end>"
+english = "One day, an age like the ancient Age of Purity will return.<end>"
+
+["410099"]
+japanese = "フッ、愚かな…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Hmph. What folly…<end>"
+
+["410100"]
+japanese = "では、どうあっても<line-break>研究をやめていただけないのですね。<end>"
+english = "Then nothing will persuade you to abandon your research.<end>"
+
+["410101"]
+japanese = "や、やめるわけには…いかない。<end>"
+english = "I-I can't abandon it…<end>"
+
+["410102"]
+japanese = "残念です、エスト・リューガ博士\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>まぁ、あのお方は、<line-break>あなたが神器の構造に手を触れた時点で<line-break>生かしておく気はなかったのですが。<end>"
+english = "A pity, Dr. Est Ryuuga. Though, in truth, that person had no intention of letting you live from the moment you touched the Artifact's structure.<end>"
+
+["410103"]
+japanese = "ノエル！\u3000レイヴン！\u3000カフィン！<end>"
+english = "Noel! Raven! Coffin!<end>"
+
+["410104"]
+japanese = "どうしたの、ナーシェス？<end>"
+english = "What is it, Narscess?<end>"
+
+["410105"]
+japanese = "あの邪悪な魔道士は闇の神器を使って<line-break>この世界を滅ぼそうとしている。<line-break>\u3000<line-break>彼を倒すのだ！<end>"
+english = "That wicked sorcerer means to destroy this world with a Dark Artifact. Strike him down!<end>"
+
+["410106"]
+japanese = "ま、待って！<line-break>そんなのウソだ！<end>"
+english = "W-wait! That's a lie!<end>"
+
+["410107"]
+japanese = "では、お前が持ってたこれはなんだ？<line-break>闇の神器、焦燥の耳飾りではないのか？<end>"
+english = "Then what is this you were carrying? Is it not the Earring of Impatience, a Dark Artifact?<end>"
+
+["410108"]
+japanese = "本当にあのハーフエルフが言ってた<line-break>神器があったのね…。<end>"
+english = "So the Artifact that the Half-Elf mentioned really does exist…<end>"
+
+["410109"]
+japanese = "<value:$28>、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>そこの魔道士は闇の神器を使って<line-break>世界を滅ぼそうとしていたのだ。<line-break>倒したまえ！<end>"
+english = "<value:$28>, that sorcerer was trying to destroy the world with a Dark Artifact. Strike him down!<end>"
+
+["410110"]
+japanese = "<value:$28>！<line-break>そんなのウソだよ！<line-break>僕を信じて！<end>"
+english = "<value:$28>! That's a lie! Believe me!<end>"
+
+["410111"]
+japanese = "エストを倒す<end>"
+english = "Defeat Est<end>"
+
+["410112"]
+japanese = "エストを守る<end>"
+english = "Protect Est<end>"
+
+["410113"]
+japanese = "<value:$28>…？<line-break>そんな…。<end>"
+english = "<value:$28>…? No…<end>"
+
+["410114"]
+japanese = "協力、感謝する。<line-break>これで世界の均衡は守られた。<end>"
+english = "You have my thanks. The Balance of the World is preserved.<end>"
+
+["410115"]
+japanese = "ネメアだ！\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "It's Nemea!<end>"
+
+["410116"]
+japanese = "<value:$28>、<line-break>神器を…、守ってくれ！<end>"
+english = "<value:$28>, protect the Artifact… please!<end>"
+
+["410117"]
+japanese = "フッ、愚かな…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Hmph. What folly…<end>"
+
+["410118"]
+japanese = "ノエル、私とレイヴンは<line-break>神器を安全なところまで持って行く。\u3000<end>"
+english = "Noel, Raven and I will take the Artifact somewhere safe.<end>"
+
+["410119"]
+japanese = "<value:$28>をカフィンと排除し、<line-break>エストという魔道士を退治したまえ！\u3000<end>"
+english = "You and Coffin will remove <value:$28> and dispose of the sorcerer called Est!<end>"
+
+["410120"]
+japanese = "で、でも…。<end>"
+english = "B-but…<end>"
+
+["410121"]
+japanese = "<value:$28>を殺せとは言わん。<line-break>世界全体の人の命がかかっているのだ！<end>"
+english = "I am not ordering you to kill <value:$28>. The lives of everyone in the world are at stake!<end>"
+
+["410122"]
+japanese = "…ごめんなさい！<line-break><value:$28>さん！<end>"
+english = "…I'm sorry, <value:$28>!<end>"
+
+["410123"]
+japanese = "待って！<value:$28>。<line-break>この人たちを殺さないよね？\u3000ね？<end>"
+english = "Wait, <value:$28>! You won't kill these people, will you? You won't, right?<end>"
+
+["410124"]
+japanese = "…やっぱり、<value:$28>さんは<line-break>間違ってなかった…。<end>"
+english = "…<value:$28> wasn't wrong after all…<end>"
+
+["410125"]
+japanese = "待って！<line-break><value:$28>さん！<end>"
+english = "Wait, <value:$28>!<end>"
+
+["410126"]
+japanese = "…ありがとう、<value:$28>。<end>"
+english = "…Thank you, <value:$28>.<end>"
+
+["410127"]
+japanese = "ううん。あのエルフ以外は<line-break>わかってくれたみたいだし。<line-break>\u3000<line-break>僕はもう大丈夫だよ。<line-break>ここの調査も終わったし、<line-break>もう行くよ。…じゃね。<end>"
+english = "No, it's all right. Everyone but that Elf seems to understand. I'll be fine now. I've finished investigating this place too, so I'll be going. See you.<end>"
+
+["410128"]
+japanese = "あのエルフ、たぶん竜王の使者だよ。<line-break>彼は竜王の命で僕を処理しに来たんだ。<line-break>\u3000<line-break>君も気をつけて。<line-break>竜王は自分の箱庭の均衡を崩す者を<line-break>許さないから…。<end>"
+english = "That Elf is probably an envoy of the Dragon King. He came to dispose of me on the Dragon King's orders. You should be careful too. The Dragon King won't forgive anyone who upsets the balance of his little garden…<end>"
+
+["410129"]
+japanese = "やっぱり待って！\u3000カフィン！<end>"
+english = "No, wait! Coffin!<end>"
+
+["410130"]
+japanese = "え？<end>"
+english = "What?<end>"
+
+["410131"]
+japanese = "やっぱり変。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Something still isn't right.<end>"
+
+["410132"]
+japanese = "<value:$28>さんが<line-break>悪い人を助けるわけ、ない。<end>"
+english = "<value:$28> would never help someone evil.<end>"
+
+["410133"]
+japanese = "もう遅いわ…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "It's too late now…<end>"
+
+["410134"]
+japanese = "それにあのハーフエルフが言うように<line-break>本当に神器を持ってたのよ？<end>"
+english = "Besides, he really did have the Artifact the Half-Elf mentioned.<end>"
+
+["410135"]
+japanese = "でも…、あ、<value:$28>、<line-break>気がついたのね！<end>"
+english = "But… Oh, <value:$28>, you're awake!<end>"
+
+["410136"]
+japanese = "待って！<line-break><value:$28>さん！<end>"
+english = "Wait, <value:$28>!<end>"
+
+["410137"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>…<end>"
+
+["410138"]
+japanese = "<value:$28>、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>そこの魔道士は闇の神器を使って<line-break>世界を滅ぼそうとしていたのだ。<line-break>倒したまえ！<end>"
+english = "<value:$28>, that sorcerer was trying to destroy the world with a Dark Artifact. Strike him down!<end>"
+
+["410139"]
+japanese = "そんなのウソだよ！\u3000\u3000\u3000\u3000\u3000\u3000<line-break>僕はエスト・リューガ。<line-break>ただの考古学者。僕を信じて！<end>"
+english = "That's a lie! I'm Est Ryuuga, nothing more than an archaeologist. Believe me!<end>"
+
+["410140"]
+japanese = "に、兄さん…。<end>"
+english = "B-brother…<end>"
+
+["410141"]
+japanese = "協力、感謝する。<line-break>これで世界の均衡は守られた。<end>"
+english = "You have my thanks. The Balance of the World is preserved.<end>"
+
+["410142"]
+japanese = "ネメアだ！\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "It's Nemea!<end>"
+
+["410143"]
+japanese = "<value:$28>、<line-break>神器を…、守ってくれ！<end>"
+english = "<value:$28>, protect the Artifact… please!<end>"
+
+["410144"]
+japanese = "ありがとう。<line-break>僕はエスト・リューガ。<line-break>考古学者だよ。君は？<end>"
+english = "Thank you. I'm Est Ryuuga, an archaeologist. And you are?<end>"
+
+["410145"]
+japanese = "そうか！\u3000ふふふふっ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>君があの<value:$28>なんだ。<line-break>\u3000<line-break>兄さんからの手紙で聞いてるよ。<line-break>エリエナイ公レムオン・リューガは<line-break>僕の兄さんなんだ。そうか…。君が…。<end>"
+english = "Oh! Heh heh heh. So you're that <value:$28>. My brother told me about you in a letter. Duke Remon Ryuuga of Elienai is my brother. So… you're the one…<end>"
+
+["410146"]
+japanese = "<value:$28>、<line-break>これからも兄さんをよろしくね。<end>"
+english = "<value:$28>, please keep looking out for my brother.<end>"
+
+["410147"]
+japanese = "<value:$28>っていうんだ…。<line-break>本当に、ありがとうね。<end>"
+english = "So your name is <value:$28>… Thank you. Truly.<end>"
+
+["410148"]
+japanese = "ナーシェス！<end>"
+english = "Narscess!<end>"
+
+["410149"]
+japanese = "ノエル、カフィン！<line-break>ネメアだ。奴に神器を渡すな！<end>"
+english = "Noel! Coffin! It's Nemea. Don't let him have the Artifact!<end>"
+
+["410150"]
+japanese = "…<value:$28>か。<end>"
+english = "…<value:$28>, is it?<end>"
+
+["410151"]
+japanese = "…私のやり方に<line-break>異議があるようだな。<end>"
+english = "…It seems you object to my methods.<end>"
+
+["410152"]
+japanese = "…ならば<line-break>私に挑むがよい。\u3000\u3000\u3000<end>"
+english = "…Then challenge me.<end>"
+
+["410153"]
+japanese = "予備メッセージ１<line-break>ネメア・ボリューム２用<end>"
+english = ""
+
+["410154"]
+japanese = "予備メッセージ２<line-break>ネメア・ボリューム２用<end>"
+english = ""
+
+["410155"]
+japanese = "予備メッセージ３<line-break>ネメア・ボリューム２用<end>"
+english = ""
+
+["410156"]
+japanese = "予備メッセージ４<line-break>ネメア・ボリューム２用<end>"
+english = ""
+
+["410157"]
+japanese = "予備メッセージ５<line-break>ネメア・ボリューム２用<end>"
+english = ""
+
+["410158"]
+japanese = "予備メッセージ６<line-break>ネメア・ボリューム２用<end>"
+english = ""
+
+["410159"]
+japanese = "予備メッセージ７<line-break>ネメア・ボリューム２用<end>"
+english = ""
+
+["410160"]
+japanese = "予備メッセージ８<line-break>ネメア・ボリューム２用<end>"
+english = ""
+
+["410161"]
+japanese = "予備メッセージ９<line-break>ネメア・ボリューム２用<end>"
+english = ""
+
+["410162"]
+japanese = "予備メッセージ１０<line-break>ネメア・ボリューム２用<end>"
+english = ""
+
+["410163"]
+japanese = "ネメア・ボリューム２終端<end>"
+english = ""

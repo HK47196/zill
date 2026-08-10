@@ -1,0 +1,73 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2060000"]
+japanese = "迫害のダークエルフ用開始<end>"
+english = ""
+
+["2060001"]
+japanese = "おい、見ろ！<line-break>ダークエルフだぞ！<end>"
+english = "Hey, look! A Dark Elf!<end>"
+
+["2060002"]
+japanese = "どうやら面倒なことになりそうね。<end>"
+english = "Looks like this is going to be trouble.<end>"
+
+["2060003"]
+japanese = "町から出ていけ！<line-break>汚らわしいダークエルフめ！<end>"
+english = "Get out of town, you filthy Dark Elf!<end>"
+
+["2060004"]
+japanese = "俺の息子はダークエルフに<line-break>殺されたんだ！<line-break>誰か仇をとってくれ！<end>"
+english = "A Dark Elf killed my son! Someone avenge him!<end>"
+
+["2060005"]
+japanese = "構うことはねえ。<line-break>今ここでやっちまえ！<line-break>\u3000<line-break>放っておくと、<line-break>こいつは悪事を働くぞ！<end>"
+english = "Who cares? Let's kill the Dark Elf right now! If we do nothing, the Dark Elf will only go on to commit some crime!<end>"
+
+["2060006"]
+japanese = "ふざけんな。<line-break>ダークエルフをかばう気か、てめえ！<end>"
+english = "Don't give me that. You mean to defend a Dark Elf, you bastard?<end>"
+
+["2060007"]
+japanese = "説得しようとしたってムダよ、<line-break><value:$28>。<line-break>\u3000<line-break>こいつらは矢で口をふさがないかぎり<line-break>引き下がらないわ。<end>"
+english = "There's no point trying to reason with them, <value:$28>. They won't back down unless we silence them with arrows.<end>"
+
+["2060008"]
+japanese = "なんなの、これ？<line-break>バカの集会？<line-break>それとも大陸一のバカを決めるお祭り？<line-break>どっちでもいいけど、<line-break>さっさと道を開けなさいよぉ！<line-break>むさ苦しくしてガマンできなくてよ！<end>"
+english = "What is this? A gathering of fools? Or a festival to decide the greatest fool on the continent? Either way, clear the road already! I can't stand this sweaty mob!<end>"
+
+["2060009"]
+japanese = "なんだと、貴様。ふざけるな！<end>"
+english = "What did you say, you bastard? Don't screw with me!<end>"
+
+["2060010"]
+japanese = "ふざけているのはそっちよ！<line-break>どこの世界にダークエルフだからって<line-break>迫害してもいいなんて理屈が通るのよ！<line-break>他のダークエルフがやったことなんて<line-break>こっちが知るわけないでしょぉ！<end>"
+english = "You're the ones being ridiculous! What kind of logic says it's all right to persecute someone just for being a Dark Elf? How are we supposed to know what other Dark Elves have done?<end>"
+
+["2060011"]
+japanese = "だったら、<line-break>あんたたち下等生物がひとり罪を犯せば<line-break>残りもみーんな同罪なわけね？<line-break>それで罰せられても文句ないんでしょ！<end>"
+english = "So if one of you inferior creatures commits a crime, that makes every last one of you guilty too, does it? Then you won't object when you're all punished for it!<end>"
+
+["2060012"]
+japanese = "うっ！\u3000い、いや、それは…。<end>"
+english = "Urk! N-no, that's...<end>"
+
+["2060013"]
+japanese = "どきなさいよぉ！\u3000高貴なアタクシは<line-break>さっさとおフロに入りたいの！<line-break>くだらないことで邪魔しないで！<end>"
+english = "Out of my way! My noble self wishes to bathe at once! Don't hold me up with this nonsense!<end>"
+
+["2060014"]
+japanese = "ほら、行くわよ<value:$28>！<end>"
+english = "Come along, <value:$28>!<end>"
+
+["2060015"]
+japanese = "ありがとう。<line-break>おかげで無用の争いを<line-break>しないですんだわ。<end>"
+english = "Thank you. That spared us a pointless fight.<end>"
+
+["2060016"]
+japanese = "べ、別にあんたたちを<line-break>助けたわけじゃないわよ。<line-break>\u3000<line-break>アタクシは早くおフロで<line-break>ゆっくりしたかっただけなの。<line-break>誤解しないでちょうだい。<end>"
+english = "I-it's not like I was trying to help you. I only wanted to get to the bath quickly so I could relax. Don't get the wrong idea.<end>"
+
+["2060017"]
+japanese = "迫害のダークエルフ用終端<end>"
+english = ""

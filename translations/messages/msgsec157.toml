@@ -1,0 +1,625 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1570000"]
+japanese = "ギルドから来てくれたのか？<line-break>助かった、近くの町まで連れていってくれ。<end>"
+english = "Did the Guild send you? Thank goodness. Take me to the nearest town.<end>"
+
+["1570001"]
+japanese = "いやー、いいところに来てくれて助かったぜ。<line-break>いつかあんたと一緒に冒険してみたいもんだ。<line-break>\u3000<line-break>約束の報酬より多いが、受け取ってくれ。<line-break>無事に助けてくれたことへのお礼だ。<end>"
+english = "You showed up just in time. I'd like to go adventuring with you someday. Here, take this. It's more than we agreed, but you earned it for getting me back safely.<end>"
+
+["1570002"]
+japanese = "ふう、危ないところだったな。<line-break>あんたが来てくれて助かったぜ。<line-break>約束の報酬だ、ありがとう。<end>"
+english = "Whew, that was close. Good thing you came along. Here's the reward we agreed on. Thanks.<end>"
+
+["1570003"]
+japanese = "なんであんたみたいのが助っ人に来たんだ？<line-break>もっと強いやつが助けてくれりゃよかったのに。<line-break>\u3000<line-break>まっとうな仕事をしてないんだ、<line-break>報酬は払わないからな。<end>"
+english = "Why did someone like you come to help? I wish someone stronger had come to rescue me. You didn't do the job properly, so I'm not paying you.<end>"
+
+["1570004"]
+japanese = "おお、助かった…。ギルドからきてくれたのか。<line-break>近くの町まで連れていってくれ。<end>"
+english = "Oh, thank goodness... Did the Guild send you? Take me to the nearest town.<end>"
+
+["1570005"]
+japanese = "あんたのおかげで助かったぜ。\u3000\u3000\u3000\u3000\u3000<line-break>危うく命を落とすところだった。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>約束の報酬より多いが、受け取ってくれ。<line-break>無事に助けてくれたことへのお礼だ。<end>"
+english = "You saved my life. I nearly died back there. Here, take this. It's more than we agreed, but you earned it for getting me back safely.<end>"
+
+["1570006"]
+japanese = "あんたの加勢がなけりゃ、危なかったぜ。<line-break>ほんとにいいところに現れてくれたな。<line-break>約束の報酬だ、ありがとう。<end>"
+english = "I'd have been in real trouble without your help. You couldn't have arrived at a better time. Here's the reward we agreed on. Thanks.<end>"
+
+["1570007"]
+japanese = "あんた、俺よりも弱いくらいなんじゃないか？<line-break>その程度の腕で救出なんかやるんじゃねえよ。<line-break>\u3000<line-break>まっとうな仕事をしてないんだ、<line-break>報酬は払わないぞ。<end>"
+english = "Are you even as strong as I am? Don't take rescue jobs if that's the best you can do. You didn't do the job properly, so I'm not paying you.<end>"
+
+["1570008"]
+japanese = "あなたは…。助けにきてくれたのですね。<line-break>近くの町まで連れていってください。<end>"
+english = "You... You came to rescue me. Please take me to the nearest town.<end>"
+
+["1570009"]
+japanese = "危ないところを助けていただき、<line-break>どうもありがとうございました。\u3000\u3000<line-break>\u3000<line-break>お約束の報酬です。少し多めですが、<line-break>お納めください。<end>"
+english = "Thank you very much for saving me from such danger. Here is the promised reward. It is a little more than we agreed, but please accept it.<end>"
+
+["1570010"]
+japanese = "あなたのおかげで、なんとか戻ってくることが<line-break>できました。ありがとうございます。<line-break>お約束の報酬です。お納めください。<end>"
+english = "Thanks to you, I managed to make it back. Thank you. Here is the promised reward. Please accept it.<end>"
+
+["1570011"]
+japanese = "生きた心地がしませんでした。<line-break>もっと修行して、高度な魔法を覚えなければ…。<line-break>\u3000<line-break>あ…れ？…あれ？<line-break>か、皮袋を落としてしまったようです…。<line-break>残念ながら、報酬はお支払いできません。<end>"
+english = "I have never been so terrified. I must train harder and learn more advanced magic... Oh... What? Where is it? I-I seem to have dropped my purse... Regrettably, I cannot pay your reward.<end>"
+
+["1570012"]
+japanese = "ああ、ギルドから来てくれたんだね！<line-break>助かったよ、近くの町まで連れてって。<end>"
+english = "Oh, the Guild sent you! What a relief. Take me to the nearest town.<end>"
+
+["1570013"]
+japanese = "君のおかげで命拾いしたよ。もしも君をうたった<line-break>歌を聴いたら僕を思い出してね。<line-break>\u3000<line-break>はい、約束のお金。ちょっと多めだけど、<line-break>とっといて。またどこかで会おうね。<line-break>絶対だよ。<end>"
+english = "You saved my life. If you ever hear a song about yourself, remember me. Here, the money we agreed on. It's a little extra, but keep it. We'll meet again somewhere. We will.<end>"
+
+["1570014"]
+japanese = "おかげでなんとか助かったよ。\u3000\u3000\u3000\u3000\u3000<line-break>どうもありがと。<line-break>\u3000<line-break>はい、約束のお金。もうちょっと<line-break>修行を積めば、君はいい冒険者になれる、<line-break>…ような気がするよ。<end>"
+english = "I managed to survive, thanks to you. Much obliged. Here, the money we agreed on. With a little more training, you might make a good adventurer... I think.<end>"
+
+["1570015"]
+japanese = "うーん、ひどい冒険だった。もっと修行してよ。<line-break>当分君を題材にした詩は作れそうにないなぁ。<line-break>\u3000<line-break>こんなんじゃ、お金なんて払わないからね。<line-break>こっちがお金をもらいたいくらいだよ。<end>"
+english = "What an awful adventure. You need more training. I certainly won't be writing any poems about you for a while. I'm not paying for this. If anything, you should be paying me.<end>"
+
+["1570016"]
+japanese = "ああ、助けにきてくれたのですね。<line-break>どうか、近くの町まで連れていってください。<end>"
+english = "Ah, you have come to rescue me. Please take me to the nearest town.<end>"
+
+["1570017"]
+japanese = "どうもありがとうございました。<line-break>これで無事に巡礼を続けられます。\u3000<line-break>\u3000<line-break>約束のお礼です。すこし多めですが、<line-break>私の気持ちです、お納めください。<end>"
+english = "Thank you very much. Now I can safely continue my pilgrimage. Here is the promised payment. It is a little extra, as a token of my gratitude. Please accept it.<end>"
+
+["1570018"]
+japanese = "どうもありがとうございました。<line-break>これでなんとか巡礼を続けられます。<line-break>約束のお礼です、お納めください。<end>"
+english = "Thank you very much. Now I can at least continue my pilgrimage. Here is the promised payment. Please accept it.<end>"
+
+["1570019"]
+japanese = "神さまはさまざまな試練を私に課すのですね。<line-break>あなたに支払うお金は、風の彼方におられる<line-break>我らが神に献上させていただきます。<line-break>さあ、あなたも一緒にお祈りしましょう。<line-break>我らが神ノトゥーンよ、罪深き大地の汚れを<line-break>そのまぶしき天上より吹き清められたまえ。<end>"
+english = "God does set many trials before me. I shall offer the money meant for you to our god beyond the winds. Come, let us pray together. O Notun, our god, from your radiant heaven, blow the taint from this sinful earth and cleanse it.<end>"
+
+["1570020"]
+japanese = "助けに来てくれたのですね。<line-break>近くの町まで連れていってください。<end>"
+english = "You came to rescue me. Please take me to the nearest town.<end>"
+
+["1570021"]
+japanese = "危ないところを助けていただき、<line-break>どうもありがとうございました。\u3000\u3000<line-break>\u3000<line-break>約束の報酬金と心ばかりのお礼です。<line-break>どうか、お納めください。<end>"
+english = "Thank you very much for saving me from such danger. Here is the promised reward, along with a small token of my gratitude. Please accept it.<end>"
+
+["1570022"]
+japanese = "おかげで、なんとか難を逃れられました。<line-break>約束の報酬金です。<line-break>ありがとうございました。<end>"
+english = "Thanks to you, I managed to escape danger. Here is the promised reward. Thank you.<end>"
+
+["1570023"]
+japanese = "ずいぶんとひどい目に会いました。<line-break>……もっと強い人だったらよかったのに。\u3000<line-break>あなたへの報酬金は、私のケガの治療代として<line-break>使わせていただきますので、あしからず。<end>"
+english = "I have been through a dreadful ordeal. I only wish someone stronger had come... I shall be using your reward to pay for my injuries. I trust you understand.<end>"
+
+["1570024"]
+japanese = "おお、やはり神は私を見捨ててはいない。<line-break>近くの町まででいい、よろしく護衛を頼む。<end>"
+english = "Ah, so God has not forsaken me after all. I need only reach the nearest town. Escort me there.<end>"
+
+["1570025"]
+japanese = "……神の使いが、あなたについていたのです。<line-break>神のご加護に感謝しなさい。<line-break>これは神があなたに与えられる報酬です。<line-break>神に失礼なきよう、有意義に使われよ。<end>"
+english = "A messenger of God was at your side. Give thanks for divine protection. This is the reward God bestows upon you. Use it wisely, lest you offend God.<end>"
+
+["1570026"]
+japanese = "なんとか、きりぬけられましたな。\u3000\u3000\u3000<line-break>多少の戦いは神の試練です。<line-break>神に感謝しなさい。<line-break>これは神があなたに与えられる報酬です。<line-break>神に失礼なきよう、有意義に使われよ。<end>"
+english = "Managed to make it through somehow. A little fighting is merely a trial from God. Give thanks. This is the reward God bestows upon you. Use it wisely, lest you offend God.<end>"
+
+["1570027"]
+japanese = "我を危地に落とそうとする汝は、闇の手の者か？<line-break>神のいかづちが落ちる前に改心するがよい。<line-break>\u3000<line-break>報酬金だと！なんたる不届きものか！<line-break>神よ！この邪なるものに天罰を落とし給え！<end>"
+english = "Are you an agent of darkness, seeking to cast me into peril? Repent before God's thunderbolt strikes you down. A reward, you say? What insolence! O God, visit divine punishment upon this wicked soul!<end>"
+
+["1570028"]
+japanese = "おお、やっと救助が来たのか。<line-break>近くの町まで連れていってくれ。<line-break>頼むぞ。<end>"
+english = "At last, rescue has come. Take me to the nearest town. I am counting on you.<end>"
+
+["1570029"]
+japanese = "おかげで、任務を遂行できる。\u3000\u3000\u3000\u3000\u3000<line-break>礼を言うぞ。冒険者よ。<line-break>\u3000<line-break>約束の報酬と、これは私からの心付けだ。<line-break>遠慮なく受け取り給え。<end>"
+english = "Thanks to you, I can complete my mission. You have my gratitude, adventurer. Here is the promised reward, along with a gratuity from me. Accept it without reservation.<end>"
+
+["1570030"]
+japanese = "なんとか、助かったか。<line-break>約束の報酬だ。受け取り給え。<line-break>ここでよい、さらばだ。<end>"
+english = "It seems I survived. Here is the promised reward. Take it. This will do. Farewell.<end>"
+
+["1570031"]
+japanese = "貴様、三流冒険者め。<line-break>ロストール兵でも、まだましな働きをするぞ。<line-break>誰が報酬など払うか！<end>"
+english = "You third-rate adventurer! Even a Rostorl soldier would have done a better job. You shall receive no reward from me!<end>"
+
+["1570032"]
+japanese = "おお、やっと救助が来たのか。<line-break>近くの町まで連れていってくれ。<line-break>頼むぞ。<end>"
+english = "At last, rescue has come. Take me to the nearest town. I am counting on you.<end>"
+
+["1570033"]
+japanese = "お前の働きは目覚しいものがあった。\u3000<line-break>礼を言うぞ。冒険者よ。<line-break>\u3000<line-break>約束の報酬と、これは私からの心付けだ。<line-break>遠慮なく受け取り給え。<end>"
+english = "Your performance was remarkable. You have my gratitude, adventurer. Here is the promised reward, along with a gratuity from me. Accept it without reservation.<end>"
+
+["1570034"]
+japanese = "なんとか、助かったか。<line-break>約束の報酬だ。受け取り給え。<line-break>ここでよい、さらばだ。<end>"
+english = "It seems I survived. Here is the promised reward. Take it. This will do. Farewell.<end>"
+
+["1570035"]
+japanese = "貴様、三流冒険者め。<line-break>ロストール兵でも、まだましな働きをするぞ。<line-break>誰が報酬など払うか！<end>"
+english = "You third-rate adventurer! Even a Rostorl soldier would have done a better job. You shall receive no reward from me!<end>"
+
+["1570036"]
+japanese = "おお、やっと救助が来たのか。<line-break>近くの町まで連れていってくれ。<line-break>頼むぞ。<end>"
+english = "At last, rescue has come. Take me to the nearest town. I am counting on you.<end>"
+
+["1570037"]
+japanese = "お前の働きは実にすばらしかった。\u3000\u3000\u3000<line-break>礼を言うぞ。冒険者よ。<line-break>\u3000<line-break>約束の報酬と、これは私からの心付けだ。<line-break>遠慮なく受け取り給え。<end>"
+english = "Your performance was truly magnificent. You have my gratitude, adventurer. Here is the promised reward, along with a gratuity from me. Accept it without reservation.<end>"
+
+["1570038"]
+japanese = "なんとか、助かったか…。<line-break>約束の報酬だ。受け取り給え。<line-break>ここでよい、さらばだ。<end>"
+english = "It seems I survived... Here is the promised reward. Take it. This will do. Farewell.<end>"
+
+["1570039"]
+japanese = "貴様、三流冒険者め。誰が報酬など払うか！<line-break>監獄にぶちこまれたくなければ、<line-break>さっさと失せろ。<end>"
+english = "You third-rate adventurer! You shall receive no reward from me. Begone, unless you wish to be thrown into prison!<end>"
+
+["1570040"]
+japanese = "おお、助けに来てくれたか。<line-break>すまんの、若いの。<line-break>近くの町までよろしく頼むぞい。<end>"
+english = "Ah, you've come to help. Much obliged, youngster. Take me to the nearest town, if you would.<end>"
+
+["1570041"]
+japanese = "人間にもこんなに強いのがおるとはな。<line-break>お前さん、なかなかやるのお。<line-break>ほい、報酬金とこれはチップじゃ。<end>"
+english = "I never knew a human could be so strong. You're quite something. Here, your reward and a tip.<end>"
+
+["1570042"]
+japanese = "やれやれ、おかげで助かったわい。<line-break>恩に着るぞい、若いの。ありがとさん。<line-break>ほい、報酬金じゃ。<end>"
+english = "Well, you got me out alive. I'm in your debt, youngster. Thank you. Here, your reward.<end>"
+
+["1570043"]
+japanese = "やれやれ、ひどいめにあわされてしまったの。<line-break>報酬金なんかやらんぞい。<line-break>わしの仲間がおったら、よかったのにのお。<end>"
+english = "Well, that was a wretched ordeal. You're getting no reward from me. If only one of my companions had been there.<end>"
+
+["1570044"]
+japanese = "ああっ、助けに来てくれたのですか！<line-break>お願いです、<line-break>近くの町まで連れていってください。<end>"
+english = "Oh! Have you come to rescue me? Please, take me to the nearest town.<end>"
+
+["1570045"]
+japanese = "危ないところを助けていただき、<line-break>どうもありがとうございました。\u3000\u3000<line-break>\u3000<line-break>約束の報酬金と心ばかりのお礼です。<line-break>どうか、お受け取りください。<end>"
+english = "Thank you very much for saving me from such danger. Here is the promised reward, along with a small token of my gratitude. Please accept it.<end>"
+
+["1570046"]
+japanese = "あなたのおかげで、なんとか戻ってくることが<line-break>できました。<line-break>\u3000<line-break>これは約束の報酬金です。<line-break>ありがとうございました。<end>"
+english = "Thanks to you, I managed to make it back. Here is the promised reward. Thank you.<end>"
+
+["1570047"]
+japanese = "生きた心地がしませんでした。<line-break>こんな目に会わせて、さらにお金を巻き上げよう<line-break>なんて思っていませんよね。<line-break>報酬金はケガの治療代にさせていただきます。<line-break>さよなら。<end>"
+english = "I have never been so terrified. Surely you do not expect to put me through such an ordeal and then wring money out of me as well. I shall use your reward to pay for my injuries. Goodbye.<end>"
+
+["1570048"]
+japanese = "あぁ…、助けに来てくれたのですね。<line-break>近くの町までで結構ですので、<line-break>この恐ろしい場所から連れ帰ってください。<end>"
+english = "Ah... You have come to rescue me. The nearest town will be quite far enough. Please take me away from this dreadful place.<end>"
+
+["1570049"]
+japanese = "危ないところを助けていただき、<line-break>どのように感謝してよいやら……。\u3000\u3000<line-break>ありがとうございました。<line-break>こちらはお礼金とチップでございます。<line-break>本当にありがとうございました。<end>"
+english = "How can I ever thank you for saving me from such danger...? Thank you. Here is your payment, together with a tip. Truly, thank you.<end>"
+
+["1570050"]
+japanese = "危ないところを助けていただき、<line-break>ありがとうございました。<line-break>こちらはお礼金でございます。<end>"
+english = "Thank you for saving me from such danger. Here is your payment.<end>"
+
+["1570051"]
+japanese = "私をこんなめにあわせて……。<line-break>ご主人さまのお耳に入れますぞ。<line-break>せいぜい覚悟してらっしゃい！<end>"
+english = "After putting me through all that... My master shall hear of this. You had better prepare yourself!<end>"
+
+["1570052"]
+japanese = "助けに来てくれたのですね。<line-break>近くの町まで連れていってください。<end>"
+english = "You came to rescue me. Please take me to the nearest town.<end>"
+
+["1570053"]
+japanese = "危ないところを助けていただき、どうも\u3000<line-break>ありがとうございました。<line-break>\u3000<line-break>お礼金とおチップはこちらでございます。<line-break>では、失礼いたします。<end>"
+english = "Thank you very much for saving me from such danger. Here are your payment and tip. Now, if you will excuse me.<end>"
+
+["1570054"]
+japanese = "なんとか助けていただき、<line-break>ありがとうございました。\u3000<line-break>\u3000<line-break>お礼はこちらでございます。<line-break>では、失礼いたします。<end>"
+english = "Thank you for managing to rescue me. Here is your payment. Now, if you will excuse me.<end>"
+
+["1570055"]
+japanese = "危うく死ぬところでしたよ。<line-break>もっと強い人が来てくれたらよかったのに……。<line-break>\u3000<line-break>あなたへの報酬金は、私のケガの治療代として<line-break>使わせていただきますので、あしからず。<end>"
+english = "I very nearly died. I only wish someone stronger had come... I shall be using your reward to pay for my injuries. I trust you understand.<end>"
+
+["1570056"]
+japanese = "おお、助けか？<line-break>近くの町まで連れてってくれ。<end>"
+english = "Oh, is that help? Take me to the nearest town.<end>"
+
+["1570057"]
+japanese = "いやっはっは、助かった助かった。\u3000\u3000<line-break>お礼はこれでよろしいか？<line-break>それと、ボーナスじゃな、ほれ。<line-break>はじめからあんたを護衛に雇っておけば<line-break>よかったのお。<end>"
+english = "Ha ha! Saved at last. Will this do for your reward? And here's a bonus. I should have hired you as my escort from the start.<end>"
+
+["1570058"]
+japanese = "ふう、なんとか九死に一生を得たか。<line-break>いや、ご苦労さん。ほい、お駄賃。<end>"
+english = "Whew, I escaped death by the skin of my teeth. Fine work. Here, something for your trouble.<end>"
+
+["1570059"]
+japanese = "う…、助けが来たと思ったら、<line-break>とんでもない素人冒険者とはのお…。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>礼などやらんぞ。ギルドの親父め、<line-break>もうちっとましなのに依頼すればよいものを。<end>"
+english = "Ugh... I thought rescue had come, only to find some hopeless novice... You'll get no payment from me. That old fool at the Guild should have sent someone halfway competent.<end>"
+
+["1570060"]
+japanese = "助けに来てくれたのか。<line-break>すまないが、近くの町まで頼む。<end>"
+english = "You came to rescue me? Sorry to trouble you, but take me to the nearest town.<end>"
+
+["1570061"]
+japanese = "ありがとうよ。恩に着るぜ。<line-break>報酬とボーナスだ、受け取ってくれ。<line-break>いつでも、酒場に寄ってくれな。<end>"
+english = "Thanks. I owe you one. Here's your reward and a bonus. Drop by the tavern anytime.<end>"
+
+["1570062"]
+japanese = "たすかったぜ。<line-break>約束の報酬だ、受け取ってくれ。<line-break>ありがとうよ、じゃあな。<end>"
+english = "You saved me. Here's the promised reward. Thanks. See you around.<end>"
+
+["1570063"]
+japanese = "ひでぇめにあったぜ、まったく。<line-break>酒場に姿ぁ見せたら、ぶっ殺すからな。あばよ。<end>"
+english = "That was a bloody nightmare. Show your face at the tavern and I'll kill you. Get lost.<end>"
+
+["1570064"]
+japanese = "ああ、助けにきてくれたのですね。<line-break>どうか、近くの町まで連れていってください。<end>"
+english = "Ah, you have come to rescue me. Please take me to the nearest town.<end>"
+
+["1570065"]
+japanese = "ありがとうございました。<line-break>このご恩は一生忘れません。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>約束のお礼です。すこし多めですが、<line-break>私の気持ちです、お納めください。<end>"
+english = "Thank you. I shall never forget this kindness. Here is the promised payment. It is a little extra, as a token of my gratitude. Please accept it.<end>"
+
+["1570066"]
+japanese = "ありがとうございました。<line-break>なんとか助かりました。<line-break>約束のお礼です、お納めください。<end>"
+english = "Thank you. I managed to survive. Here is the promised payment. Please accept it.<end>"
+
+["1570067"]
+japanese = "ずいぶんひどいめにあわされました。<line-break>お礼金は支払いません。失礼します！<end>"
+english = "You put me through a dreadful ordeal. I will not be paying you. Good day!<end>"
+
+["1570068"]
+japanese = "おお、助けに来てくれたか。<line-break>すまんの、若いの。<line-break>近くの町までよろしく頼むぞい。<end>"
+english = "Ah, you've come to help. Much obliged, youngster. Take me to the nearest town, if you would.<end>"
+
+["1570069"]
+japanese = "人間にもこんなに強いのがおるとはな。<line-break>お前さん、なかなかやるのお。<line-break>ほい、報酬金とこれはチップじゃ。<end>"
+english = "I never knew a human could be so strong. You're quite something. Here, your reward and a tip.<end>"
+
+["1570070"]
+japanese = "やれやれ、おかげで助かったわい。<line-break>恩に着るぞい、若いの。ありがとさん。<line-break>ほい、報酬金じゃ。<end>"
+english = "Well, you got me out alive. I'm in your debt, youngster. Thank you. Here, your reward.<end>"
+
+["1570071"]
+japanese = "やれやれ、ひどいめにあわされてしまったの。<line-break>報酬金なんかやらんぞい。<line-break>わしの仲間がおったら、よかったのにのお。<end>"
+english = "Well, that was a wretched ordeal. You're getting no reward from me. If only one of my companions had been there.<end>"
+
+["1570072"]
+japanese = "おう、助けに来てくれたってか。<line-break>ありがてぇ、近くの町まで連れてってくれ。<end>"
+english = "So you've come to rescue me? Much obliged. Take me to the nearest town.<end>"
+
+["1570073"]
+japanese = "おう、助かったぜい。死んじまうかと思ったが<line-break>またカカァのところに戻れるぜ。ありがとよ。<line-break>\u3000<line-break>救出の料金とボーナスだ、受け取ってくれ。<line-break>またピンチになったら、あんたを待ってるぜ。<end>"
+english = "You saved me! I thought I was done for, but now I can get back to the missus. Thanks. Here's the rescue fee and a bonus. If I'm ever in trouble again, I'll be waiting for you.<end>"
+
+["1570074"]
+japanese = "おう、助かったぜい。ありがとよ。これでまた\u3000<line-break>うちのカカァの顔が拝めるってか。<line-break>\u3000<line-break>救出の料金だ、受け取ってくれ。<line-break>またピンチになったら、あんたを待ってるぜ。<end>"
+english = "You saved me! Thanks. So I get to see the missus's face again after all. Here's the rescue fee. If I'm ever in trouble again, I'll be waiting for you.<end>"
+
+["1570075"]
+japanese = "おう、いくら俺が頑丈な鉱山の男でも、<line-break>戦いでほっとかれたらたまらねぇぜ。あばよ！<end>"
+english = "I may be a tough miner, but even I can't stand being abandoned in the middle of a fight. I'm off!<end>"
+
+["1570076"]
+japanese = "ああ、助けに来てくれたのですね。<line-break>どうか、近くの町まで連れて行ってください。<end>"
+english = "Ah, you have come to rescue me. Please take me to the nearest town.<end>"
+
+["1570077"]
+japanese = "ありがとうございました。<line-break>助けてくれたお礼とボーナスです。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>…それから、噂では世界には鍛冶屋でも作れない<line-break>ような強力な武器があるそうですよ。<end>"
+english = "Thank you. Here is your reward for rescuing me, along with a bonus. By the way, rumor has it that there are powerful weapons in this world beyond the skill of any smith to make.<end>"
+
+["1570078"]
+japanese = "ありがとうございました。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>助けてくれたお礼です。<line-break>\u3000<line-break>…それから、あなたの武器、そろそろ鍛えた方が<line-break>いいかもしれませんね。<end>"
+english = "Thank you. Here is your reward for rescuing me. By the way, it may be time to have your weapon improved.<end>"
+
+["1570079"]
+japanese = "ずいぶんひどい目にあわされたもんだ。<line-break>あんた、ちゃんと武器を鍛えているのか？<line-break>\u3000<line-break>助けに来てくれても、かばってくれなきゃ<line-break>意味がないじゃないか。<end>"
+english = "You put me through a dreadful ordeal. Do you even keep your weapon properly tempered? Coming to the rescue means nothing if you don't protect the person you're rescuing.<end>"
+
+["1570080"]
+japanese = "おお、助けに来てくれたのか。<line-break>近くの町まで連れて行ってくれ、頼む。<end>"
+english = "Ah, you've come to rescue me. Take me to the nearest town, please.<end>"
+
+["1570081"]
+japanese = "あんたのおかげで、命拾いしたよ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>どうもありがとうな。<line-break>助けてくれたお礼とボーナスだ。<line-break>ところで、武器や防具を鍛える時は、強度だけ<line-break>じゃなく特殊効果も鍛えておくと、戦闘で<line-break>有利になることがあるから覚えておきなよ。<end>"
+english = "You saved my life. Thank you. Here's your reward and a bonus. One more thing: when tempering weapons or armor, don't just improve their strength. Enhancing their special effects can give you an advantage in battle. Remember that.<end>"
+
+["1570082"]
+japanese = "あんたのおかげで、なんとか助かったよ。\u3000\u3000\u3000<line-break>どうもありがとうな。<line-break>これは助けてくれたお礼だ。<line-break>ところで、武器や防具を選ぶ時は、精霊レベル<line-break>にも注意してくれよ。このレベルが高いほど、<line-break>属性の影響が強くなるんだ、覚えておきな。<end>"
+english = "Thanks to you, I made it out alive. Thank you. Here's your reward. One more thing: when choosing weapons or armor, pay attention to the spirit level. The higher it is, the stronger the elemental influence. Remember that.<end>"
+
+["1570083"]
+japanese = "あんたのおかげで、ひどいめにあったな。<line-break>あんたなんかに二度と会いたくないな。<end>"
+english = "Thanks to you, I had a terrible time. I never want to see you again.<end>"
+
+["1570084"]
+japanese = "ああっ、助けに来てくれたのですか！<line-break>お願いです、<line-break>近くの町まで連れていってください。<end>"
+english = "Oh! Have you come to rescue me? Please, take me to the nearest town.<end>"
+
+["1570085"]
+japanese = "危ないところを助けていただき、<line-break>どうもありがとうございました。\u3000\u3000<line-break>\u3000<line-break>約束の報酬金と心ばかりのお礼です。<line-break>どうか、お受け取りください。<end>"
+english = "Thank you very much for saving me from such danger. Here is the promised reward, along with a small token of my gratitude. Please accept it.<end>"
+
+["1570086"]
+japanese = "あなたのおかげで、なんとか戻ってくることが<line-break>できました。<line-break>\u3000<line-break>これは約束の報酬金です。<line-break>ありがとうございました。<end>"
+english = "Thanks to you, I managed to make it back. Here is the promised reward. Thank you.<end>"
+
+["1570087"]
+japanese = "生きた心地がしませんでした。<line-break>こんな目に会わせて、さらにお金を巻き上げよう<line-break>なんて思っていませんよね。<line-break>報酬金はケガの治療代にさせていただきます。<line-break>さよなら。<end>"
+english = "I have never been so terrified. Surely you do not expect to put me through such an ordeal and then wring money out of me as well. I shall use your reward to pay for my injuries. Goodbye.<end>"
+
+["1570088"]
+japanese = "ああ、助けに来てくれたのですね。<line-break>近くの町まで連れて行ってください。<end>"
+english = "Ah, you have come to rescue me. Please take me to the nearest town.<end>"
+
+["1570089"]
+japanese = "おかげで、助かりました。<line-break>どうもありがとうございました。\u3000\u3000<line-break>\u3000<line-break>お礼金とボーナスです。<line-break>ほんとうにありがとうございました。<end>"
+english = "Thanks to you, I am safe. Thank you very much. Here is your payment and a bonus. Truly, thank you.<end>"
+
+["1570090"]
+japanese = "なんとか、助かりました。<line-break>どうもありがとうございました。<line-break>\u3000<line-break>お礼金です、受け取ってください。<line-break>ほんとうにありがとうございました。<end>"
+english = "I managed to survive. Thank you very much. Here is your payment. Please accept it. Truly, thank you.<end>"
+
+["1570091"]
+japanese = "これじゃ、助けていただいたとは言えませんね。<line-break>お金も払いません。<line-break>失礼します。<end>"
+english = "I could hardly call that a rescue. I will not be paying you. Good day.<end>"
+
+["1570092"]
+japanese = "ああ、助けに来てくれたのですね。<line-break>近くの町まで連れて行ってください。<end>"
+english = "Ah, you have come to rescue me. Please take me to the nearest town.<end>"
+
+["1570093"]
+japanese = "おかげで、助かりました。<line-break>どうもありがとうございました。\u3000\u3000<line-break>\u3000<line-break>お礼金とボーナスです。<line-break>ほんとうにありがとうございました。<end>"
+english = "Thanks to you, I am safe. Thank you very much. Here is your payment and a bonus. Truly, thank you.<end>"
+
+["1570094"]
+japanese = "なんとか、助かりました。<line-break>どうもありがとうございました。\u3000\u3000<line-break>\u3000<line-break>お礼金です、受け取ってください。<line-break>ほんとうにありがとうございました。<end>"
+english = "I managed to survive. Thank you very much. Here is your payment. Please accept it. Truly, thank you.<end>"
+
+["1570095"]
+japanese = "これじゃ、助けていただいたとは言えませんね。<line-break>お金も払えません。<end>"
+english = "I could hardly call that a rescue. I cannot pay you.<end>"
+
+["1570096"]
+japanese = "ああ、助けに来てくれたのですね。<line-break>どうか、近くの町まで連れて行ってください。<end>"
+english = "Ah, you have come to rescue me. Please take me to the nearest town.<end>"
+
+["1570097"]
+japanese = "どうもありがとうございました。<line-break>僕、見かけによらず弱いんです。助かりました。<line-break>\u3000<line-break>これはお礼とボーナスです。<line-break>ほんとうにありがとうございました。<end>"
+english = "Thank you very much. I may not look it, but I'm rather weak. You saved me. Here is your payment and a bonus. Truly, thank you.<end>"
+
+["1570098"]
+japanese = "どうもありがとうございました。<line-break>僕、ケンカはからっきしだめなんです。<line-break>助けてくれたお礼です、受け取ってください。<end>"
+english = "Thank you very much. I'm completely hopeless in a fight. Here is your reward for rescuing me. Please accept it.<end>"
+
+["1570099"]
+japanese = "僕に恨みでもあるんですか！？<line-break>死ぬかと思っちゃったじゃないですか！\u3000\u3000\u3000\u3000<line-break>救出のお礼なんてできませんからね！<line-break>誰が払うもんか。<line-break>僕のケガの治療代を払ってもらいたいくらいだ。<end>"
+english = "Do you have some grudge against me?! I thought I was going to die! You certainly won't get a rescue fee from me. Why should I pay? If anything, you should pay for my injuries.<end>"
+
+["1570100"]
+japanese = "ああ、助けにきてくれたのですね。<line-break>どうか、近くの町まで連れていってください。<end>"
+english = "Ah, you have come to rescue me. Please take me to the nearest town.<end>"
+
+["1570101"]
+japanese = "ありがとうございました。<line-break>このご恩は一生忘れません。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>約束のお礼です。すこし多めですが、<line-break>私の気持ちです、お納めください。<end>"
+english = "Thank you. I shall never forget this kindness. Here is the promised payment. It is a little extra, as a token of my gratitude. Please accept it.<end>"
+
+["1570102"]
+japanese = "ありがとうございました。<line-break>なんとか助かりました。<line-break>約束のお礼です、お納めください。<end>"
+english = "Thank you. I managed to survive. Here is the promised payment. Please accept it.<end>"
+
+["1570103"]
+japanese = "ずいぶんひどいめにあわされました。<line-break>お礼金は支払いません。失礼します！<end>"
+english = "You put me through a dreadful ordeal. I will not be paying you. Good day!<end>"
+
+["1570104"]
+japanese = "おお、助けに来たのだな？<line-break>近くの町までわしの護衛を頼むぞ。<end>"
+english = "Ah, so you have come to my rescue. Escort me to the nearest town.<end>"
+
+["1570105"]
+japanese = "冒険者とはいえ、なかなか見事な<line-break>戦いっぷりであった。礼を申すぞ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>これは謝礼とボーナスだ。<line-break>そなたのような屈強の冒険者はわしの護衛に雇い<line-break>たいものだな。<end>"
+english = "For an adventurer, you acquitted yourself admirably in battle. You have my thanks. Here is your payment and a bonus. I should like to hire a stalwart adventurer such as you as my escort.<end>"
+
+["1570106"]
+japanese = "ふむ、なんとか戻ってこれたか。<line-break>ご苦労だった。<line-break>これは謝礼だ、受け取ってくれ。<end>"
+english = "Hm. So I made it back after all. Well done. Here is your payment. Take it.<end>"
+
+["1570107"]
+japanese = "ふむ、ずいぶんなめにあわされたものだ。命が<line-break>惜しければ、二度と私の前に現れないことだな。<end>"
+english = "Hm. You have put me through quite an ordeal. If you value your life, never show yourself before me again.<end>"
+
+["1570108"]
+japanese = "助けに来てくれたのか。<line-break>近くの町まで連れてってくれないか。<end>"
+english = "You came to rescue me? Would you take me to the nearest town?<end>"
+
+["1570109"]
+japanese = "君、よく助けに来てくれたね。<line-break>助けてくれた謝礼だ、君の契約よりも若干多いが<line-break>受け取ってくれ。<end>"
+english = "You did well to come to my rescue. Here is your payment. It is slightly more than your contract stipulated, but please accept it.<end>"
+
+["1570110"]
+japanese = "君、よく助けに来てくれたね。<line-break>助けてくれた謝礼だ、受け取ってくれ。<end>"
+english = "You did well to come to my rescue. Here is your payment. Please accept it.<end>"
+
+["1570111"]
+japanese = "君、僕にこんなケガをさせておいて、<line-break>謝礼をもらえるなんて考えてないだろうね。<line-break>体が痛むので失礼するよ。<end>"
+english = "Surely you don't expect payment after leaving me with injuries like these. My body aches, so I shall take my leave.<end>"
+
+["1570112"]
+japanese = "ああ、助けに来てくれたのですね。<line-break>近くの町まで連れて行ってください。<end>"
+english = "Ah, you have come to rescue me. Please take me to the nearest town.<end>"
+
+["1570113"]
+japanese = "おかげで、助かりました。<line-break>どうもありがとうございました。\u3000\u3000<line-break>\u3000<line-break>お礼金とボーナスです。<line-break>ほんとうにありがとうございました。<end>"
+english = "Thanks to you, I am safe. Thank you very much. Here is your payment and a bonus. Truly, thank you.<end>"
+
+["1570114"]
+japanese = "なんとか、助かりました。<line-break>どうもありがとうございました。\u3000\u3000<line-break>お礼金です、受け取ってください。<line-break>ほんとうにありがとうございました。<end>"
+english = "I managed to survive. Thank you very much. Here is your payment. Please accept it. Truly, thank you.<end>"
+
+["1570115"]
+japanese = "これじゃ、助けていただいたとは言えませんね。<line-break>お金も払いません。<line-break>失礼します。<end>"
+english = "I could hardly call that a rescue. I will not be paying you. Good day.<end>"
+
+["1570116"]
+japanese = "おお、助けにきてくれたのか。<line-break>すまんが、近くの町まで連れていってくれんか？<end>"
+english = "Ah, you've come to rescue me. Sorry to trouble you, but would you take me to the nearest town?<end>"
+
+["1570117"]
+japanese = "おかげで、無事に戻ってこれたな。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ありがとさんよ。<line-break>\u3000<line-break>助けてくれた謝礼だ、あんたが契約したのよりも<line-break>いくらか多いかもしれねえが、<line-break>遠慮なく受け取ってくれ。<end>"
+english = "Thanks to you, I made it back safely. Much obliged. Here's your payment for rescuing me. It may be a bit more than your contract called for, but take it.<end>"
+
+["1570118"]
+japanese = "なんとか、戻ってこれたな。<line-break>ありがとさんよ。<line-break>助けてくれた謝礼だ。受け取ってくれ。<end>"
+english = "Well, I made it back somehow. Much obliged. Here's your payment for rescuing me. Take it.<end>"
+
+["1570119"]
+japanese = "ずいぶんひどいめにあったな。<line-break>とても感謝する気にはなれんな。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>これからは、もっと修行して強くなってから<line-break>仕事を受けてくれよな。<line-break>じゃあな。<end>"
+english = "That was a dreadful ordeal. I can't say I feel much gratitude. From now on, get stronger before you take on jobs like this. See you around.<end>"
+
+["1570120"]
+japanese = "助けに来てくれたのか。<line-break>近くの町まで連れてってくれないか。<end>"
+english = "You came to rescue me? Would you take me to the nearest town?<end>"
+
+["1570121"]
+japanese = "君、よく助けに来てくれたね。<line-break>助けてくれた謝礼だ、君の契約よりも若干多いが<line-break>受け取ってくれ。<end>"
+english = "You did well to come to my rescue. Here is your payment. It is slightly more than your contract stipulated, but please accept it.<end>"
+
+["1570122"]
+japanese = "君、よく助けに来てくれたね。<line-break>助けてくれた謝礼だ、受け取ってくれ。<end>"
+english = "You did well to come to my rescue. Here is your payment. Please accept it.<end>"
+
+["1570123"]
+japanese = "君、僕にこんなケガをさせておいて、<line-break>謝礼をもらえるなんて考えてないだろうね。<line-break>体が痛むので失礼するよ。<end>"
+english = "Surely you don't expect payment after leaving me with injuries like these. My body aches, so I shall take my leave.<end>"
+
+["1570124"]
+japanese = "おお、助けか？<line-break>近くの町まで連れてってくれ。<end>"
+english = "Oh, is that help? Take me to the nearest town.<end>"
+
+["1570125"]
+japanese = "いやっはっは、助かった助かった。\u3000\u3000<line-break>お礼はこれでよろしいか？<line-break>それと、ボーナスじゃな、ほれ。<line-break>はじめからあんたを護衛に雇っておけば<line-break>よかったのお。<end>"
+english = "Ha ha! Saved at last. Will this do for your reward? And here's a bonus. I should have hired you as my escort from the start.<end>"
+
+["1570126"]
+japanese = "ふう、なんとか九死に一生を得たか。<line-break>いや、ご苦労さん。ほい、お駄賃。<end>"
+english = "Whew, I escaped death by the skin of my teeth. Fine work. Here, something for your trouble.<end>"
+
+["1570127"]
+japanese = "う…、助けが来たと思ったら、<line-break>とんでもない素人冒険者とはのお…。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>礼などやらんぞ。ギルドの親父め、<line-break>もうちっとましなのに依頼すればいいものを。<end>"
+english = "Ugh... I thought rescue had come, only to find some hopeless novice... You'll get no payment from me. That old fool at the Guild should have sent someone halfway competent.<end>"
+
+["1570128"]
+japanese = "ギルドから来てくれたのか？<line-break>助かった、近くの町まで連れていってくれ。<end>"
+english = "Did the Guild send you? Thank goodness. Take me to the nearest town.<end>"
+
+["1570129"]
+japanese = "いやー、いいところに来てくれて助かったぜ。<line-break>いつかあんたと一緒に冒険してみたいもんだ。<line-break>\u3000<line-break>約束の報酬より多いが、受け取ってくれ。<line-break>無事に助けてくれたことへのお礼だ。<end>"
+english = "You showed up just in time. I'd like to go adventuring with you someday. Here, take this. It's more than we agreed, but you earned it for getting me back safely.<end>"
+
+["1570130"]
+japanese = "ふう、危ないところだったな。<line-break>あんたが来てくれて助かったぜ。<line-break>約束の報酬だ、ありがとう。<end>"
+english = "Whew, that was close. Good thing you came along. Here's the reward we agreed on. Thanks.<end>"
+
+["1570131"]
+japanese = "なんであんたみたいのが助っ人に来たんだ？<line-break>もっと強いやつが助けてくれりゃよかったのに。<line-break>\u3000<line-break>まっとうな仕事をしてないんだ、<line-break>報酬は払わないからな。<end>"
+english = "Why did someone like you come to help? I wish someone stronger had come to rescue me. You didn't do the job properly, so I'm not paying you.<end>"
+
+["1570132"]
+japanese = "ああ、助けに来てくれたのですね。<line-break>どうか、近くの町まで連れて行ってください。<end>"
+english = "Ah, you have come to rescue me. Please take me to the nearest town.<end>"
+
+["1570133"]
+japanese = "ありがとうございました。あなたさまのおかげで<line-break>無事に戻ってくることができました。<line-break>\u3000<line-break>助けていただいたお礼です。<line-break>契約の料金よりも多いですが、私の気持ちです。<line-break>どうか、お受け取りください。<end>"
+english = "Thank you. Thanks to you, I returned safely. Here is my payment for your help. It is more than the contracted fee, but please accept it as a token of my gratitude.<end>"
+
+["1570134"]
+japanese = "ありがとうございました。あなたさまのおかげで<line-break>なんとか戻ってくることができました。<line-break>\u3000<line-break>これは、助けていただいたお礼です。<line-break>お受け取りください。<end>"
+english = "Thank you. Thanks to you, I managed to make it back. Here is my payment for your help. Please accept it.<end>"
+
+["1570135"]
+japanese = "ずいぶんひどいめに<line-break>あわせてくださいましたわね。<line-break>お礼金はお支払いできませんわ。失礼します。<end>"
+english = "You have put me through quite an ordeal. I cannot possibly pay you. Good day.<end>"
+
+["1570136"]
+japanese = "あっ、助けに来てくれたんだァ。<line-break>近くの町まで連れてってくれる？\u3000お願いね。<end>"
+english = "Oh, you came to rescue me! Will you take me to the nearest town? Please?<end>"
+
+["1570137"]
+japanese = "あぁ、楽しかった。ちょっと恐かったけど、<line-break>いい詩が書けそう。<line-break>はい、これ助けてくれたお礼。<line-break>え？\u3000ギルドの契約よりも多いって？<line-break>あたしの気持ちだからとっておいてよ。<line-break>ほんとにどうもありがとね。<end>"
+english = "Oh, that was fun! A little frightening, but I think I can write a good poem about it. Here, this is for rescuing me. What? It's more than the Guild contract? It's a token of my gratitude, so keep it. Thank you so much.<end>"
+
+["1570138"]
+japanese = "あぁ、危なかったねぇ。でも、いい詩には<line-break>危険がつきものだものね。<line-break>はい、助けてくれたお礼、どうもありがとね。<end>"
+english = "Oh, that was close. But a good poem always needs a little danger. Here, this is for rescuing me. Thank you.<end>"
+
+["1570139"]
+japanese = "イタイイタイ。あなたを信頼して大損したわ。<line-break>しばらく旅ができないじゃないの！\u3000ふんっ。<end>"
+english = "Ow, ow! Trusting you was a costly mistake. Now I won't be able to travel for ages! Hmph.<end>"
+
+["1570140"]
+japanese = "ああ、助けに来てくれたのね。<line-break>どうか、近くの町まで連れて行ってください。<end>"
+english = "Ah, you came to rescue me. Please take me to the nearest town.<end>"
+
+["1570141"]
+japanese = "どうもありがとうございました。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>このご恩は一生忘れません。<line-break>\u3000<line-break>助けていただいたお礼です。<line-break>契約の料金よりも多いですが、私の気持ちです。<line-break>どうか、お受け取りください。<end>"
+english = "Thank you very much. I shall never forget this kindness. Here is my payment for your help. It is more than the contracted fee, but please accept it as a token of my gratitude.<end>"
+
+["1570142"]
+japanese = "おかげさまで命拾いしました。<line-break>どうもありがとうございました。\u3000\u3000<line-break>\u3000<line-break>これは、助けていただいたお礼です。<line-break>お受け取りください。<end>"
+english = "Thanks to you, my life was spared. Thank you very much. Here is my payment for your help. Please accept it.<end>"
+
+["1570143"]
+japanese = "ああ、どうしてこんなに運がないのかしら…。<line-break>もっと強い人に助けてもらいたかったわ。<line-break>お礼金はお支払いできませんわ。失礼します。<end>"
+english = "Oh, why must I be so unlucky...? I wish someone stronger had rescued me. I cannot possibly pay you. Good day.<end>"
+
+["1570144"]
+japanese = "あぁっ、助けにきてくださったのですね。<line-break>しかもいかにもナイト様という感じ！<line-break>近くの町まで連れてってくださるのね。<end>"
+english = "Oh! You've come to rescue me, and you look every inch a knight! You will take me to the nearest town, won't you?<end>"
+
+["1570145"]
+japanese = "ありがとうございましたですわ。<line-break>またそのうちお願いいたしますわ、ウフ。\u3000\u3000\u3000<line-break>これは、助けていただいた料金ですわ。<line-break>それとボーナスですわね。…今晩お暇でしたら、<line-break>宿屋の二階にいらしてくださいね。<end>"
+english = "Thank you ever so much. Perhaps I shall call on you again sometime. Hee-hee. Here is your rescue fee, and a bonus as well. If you're free tonight, do come to the second floor of the inn.<end>"
+
+["1570146"]
+japanese = "ありがとうございましたですわ。<line-break>今度はもう少しお手柔らかに、お願いしますわ。<line-break>これは、助けていただいた料金ですわ。<end>"
+english = "Thank you ever so much. Next time, do try to be a little gentler. Here is your rescue fee.<end>"
+
+["1570147"]
+japanese = "こんなめにあわせられるとは思いませんでした。<line-break>今度出会ったら、魔法で焼き焦がしますわよ。<end>"
+english = "I never imagined you would put me through such an ordeal. If we meet again, I shall burn you to a cinder with my magic.<end>"
+
+["1570148"]
+japanese = "ああ、助けに来てくれたのですね。<line-break>どうか、近くの町まで連れて行ってください。<end>"
+english = "Ah, you have come to rescue me. Please take me to the nearest town.<end>"
+
+["1570149"]
+japanese = "ありがとうございました。あなたさまのおかげで<line-break>無事に戻ってくることができました。<line-break>\u3000<line-break>助けていただいたお礼です。<line-break>契約の料金よりも多いですが、私の気持ちです。<line-break>どうか、お受け取りください。<end>"
+english = "Thank you. Thanks to you, I returned safely. Here is my payment for your help. It is more than the contracted fee, but please accept it as a token of my gratitude.<end>"
+
+["1570150"]
+japanese = "ありがとうございました。あなたさまのおかげで<line-break>なんとか戻ってくることができました。<line-break>\u3000<line-break>これは、助けていただいたお礼です。<line-break>お受け取りください。<end>"
+english = "Thank you. Thanks to you, I managed to make it back. Here is my payment for your help. Please accept it.<end>"
+
+["1570151"]
+japanese = "ずいぶんひどいめにあわせて<line-break>くださいましたわね。<line-break>お礼金はお支払いできませんわ。失礼します。<end>"
+english = "You have put me through quite an ordeal. I cannot possibly pay you. Good day.<end>"
+
+["1570152"]
+japanese = "あ、助けにきてくれたのね。<line-break>お願い、近くの町まで連れてって！<end>"
+english = "Oh, you came to rescue me. Please, take me to the nearest town!<end>"
+
+["1570153"]
+japanese = "危ないところを、どうもありがとう。<line-break>はい、助けてくれたお礼よ。<line-break>\u3000<line-break>それと、私からのほんの気持ちよ、受け取って。<line-break>あたしは酒場にいるから、遊びに来てくれると<line-break>うれしいわ。<end>"
+english = "Thanks for saving me back there. Here, this is for rescuing me. And take this little something from me as well. I'm at the tavern, so I'd love it if you came by sometime.<end>"
+
+["1570154"]
+japanese = "危ないところを、どうもありがとう。<line-break>あんたが戦う姿、カッコよかったわよ。<line-break>はい、助けてくれたお礼よ、受け取って。<end>"
+english = "Thanks for saving me back there. You looked impressive in battle. Here, this is for rescuing me. Take it.<end>"
+
+["1570155"]
+japanese = "なにが救出に来た、よ。素人同然じゃない。<line-break>おかげで、ずいぶんひどいめにあったわよ！<end>"
+english = "Some rescue that was. You're practically an amateur. Thanks to you, I had a dreadful time!<end>"

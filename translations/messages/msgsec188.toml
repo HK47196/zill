@@ -1,0 +1,633 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1880000"]
+japanese = "解放軍イベント開始<end>"
+english = ""
+
+["1880001"]
+japanese = "おお、<value:$28>。<line-break>お前が来るのを待っていたんだ。<line-break>クリュセイス様のお話を聞いてくれ。<end>"
+english = "Ah, <value:$28>. I've been waiting for you. Please hear what Lady Khryuseis has to say.<end>"
+
+["1880002"]
+japanese = "待っていました、<line-break><value:$28>。<line-break>あなたに頼みたいことがあります。<line-break>先日、リベルダムの廃墟から、<line-break>埋蔵金のありかを記した地図が<line-break>見つかったのです。<end>"
+english = "I've been waiting for you, <value:$28>. I have a favor to ask. A map showing the location of a hidden fortune was recently found among the ruins of Liberdam.<end>"
+
+["1880003"]
+japanese = "おそらく、リベルダムの商人が<line-break>隠していたのでしょう。ですから<line-break>それなりの額が期待できます。<line-break>おわかりですね？\u3000この埋蔵金を<line-break>解放軍の資金としたいのです。<end>"
+english = "It was probably hidden by one of Liberdam's merchants, so we can expect a considerable sum. You understand, I trust? I want to use this fortune to fund the Liberation Army.<end>"
+
+["1880004"]
+japanese = "そこで、<value:$28>。<line-break>あなたに、埋蔵金のありかを<line-break>調査してもらいたいのです。<line-break>引き受けてもらえますね？<end>"
+english = "And so, <value:$28>, I would like you to investigate its whereabouts. You will accept, won't you?<end>"
+
+["1880005"]
+japanese = "引き受ける<end>"
+english = "Accept<end>"
+
+["1880006"]
+japanese = "引き受けない<end>"
+english = "Decline<end>"
+
+["1880007"]
+japanese = "それでは、さっそく<line-break>調査に向かってください。\u3000\u3000\u3000<line-break>\u3000<line-break>地図によると、埋蔵金は<line-break>ロストールの東にある洞窟に<line-break>隠されているようです。<end>"
+english = "Then please begin your investigation at once. According to the map, the fortune appears to be hidden in a cave east of Rostorl.<end>"
+
+["1880008"]
+japanese = "それと、以前お父様に聞いた話では<line-break>財宝を隠すときに、門番として<line-break>モンスターを置く商人もいたそうです。<line-break>くれぐれも、用心してください。<end>"
+english = "One more thing. My father once told me that some merchants left monsters to guard their hidden treasure. Please be extremely careful.<end>"
+
+["1880009"]
+japanese = "埋蔵金は<line-break>ロストールの東に行ったところにある<line-break>洞窟に隠されているようです。<line-break>よろしく、頼みますよ。<end>"
+english = "It seems the buried treasure is hidden in a cave east of Rostorl. I'm counting on you.<end>"
+
+["1880010"]
+japanese = "解放軍の活動には、どうしても<line-break>資金が必要だ。リベルダムの商人の<line-break>埋蔵金なら期待できる。<line-break>頼んだぞ、<value:$28>。<end>"
+english = "The Liberation Army cannot carry on without funds. The buried treasure of a Liberdam merchant looks promising. I'm counting on you, <value:$28>.<end>"
+
+["1880011"]
+japanese = "…解放軍の活動よりも<line-break>優先させることが、<line-break>あなたにはあるというのですか？<line-break>仕方ありませんね。<line-break>他の仲間に当たってみることにします。<line-break>もう、行っていいですよ。<end>"
+english = "You have something more important than the work of the Liberation Army? Very well. I will ask one of our other comrades. You may go now.<end>"
+
+["1880012"]
+japanese = "今はあなたに用はありませんよ。<line-break>どこにでも行ってください。<end>"
+english = "I have no need of you at present. Go wherever you please.<end>"
+
+["1880013"]
+japanese = "お前なら、埋蔵金の調査に適任だと<line-break>思ったんだがな。<line-break>残念だよ。<end>"
+english = "I thought you'd be just the person to investigate the buried treasure. Too bad.<end>"
+
+["1880014"]
+japanese = "モンスターに守らせているということは<line-break>リベルダム商人の埋蔵金はこの奥だね。<line-break>さぁ、見てみよう。<end>"
+english = "The fact that monsters were set to guard it means the Liberdam merchants' hidden treasure must be farther in. Come on, let's take a look.<end>"
+
+["1880015"]
+japanese = "埋蔵金を発見した。<end>"
+english = "Buried treasure found.<end>"
+
+["1880016"]
+japanese = "お金は貯め込まれているだけでは<line-break>無意味だからね。お金にとっても<line-break>見つけてもらってよかったのかもね。<line-break>さぁ、<value:$28>。<line-break>戻って、埋蔵金を発見したことを<line-break>報告しないと。<end>"
+english = "Money is worthless if all you do is hoard it. Maybe even the money itself is glad we found it. Come on, <value:$28>. We need to go back and report that we found the hidden treasure.<end>"
+
+["1880017"]
+japanese = "モンスターが守っているってことは<line-break>埋蔵金はこの奥みたいだね。<line-break>\u3000<line-break>どれくらいあるんだろう。<line-break>早く見てみようよ。<end>"
+english = "If monsters are guarding it, the hidden treasure must be farther in. I wonder how much there is. Come on, let's hurry and see!<end>"
+
+["1880018"]
+japanese = "うわぁ！\u3000さすが、リベルダムの商人の<line-break>埋蔵金だね。ボクが想像してたのよりも<line-break>ずっとすごいや。<line-break>これで解放軍のお金の問題も解決だね。<line-break>さぁ、戻ろう、<value:$28>。<end>"
+english = "Wow! You'd expect no less from the Liberdam merchants' hidden treasure. It's far more impressive than I imagined! This should solve the Liberation Army's money troubles. Come on, let's head back, <value:$28>.<end>"
+
+["1880019"]
+japanese = "<if><value:$01><equal>15モンスターに守らせていたということは<line-break>埋蔵金はこの奥のようだね。<line-break>確認してみようよ。 <end><if><value:$01><equal>19モンスターに守らせてるってことはぁ、<line-break>埋蔵金はこの奥だよ。<line-break>確認してみようよぉ。 <end>モンスターに守らせてたってことは<line-break>埋蔵金はこの奥みたいだね。<line-break>どれくらいあるんだろう。 <end>"
+english = "<if><value:$01><equal>15The fact that monsters were set to guard it means the hidden treasure must be farther in. Let's go see.<end><if><value:$01><equal>19So if monsters were set to guard it, the hidden treasure's got to be farther in. Why don't we go take a look?<end>The fact that monsters were set to guard it means the hidden treasure must be farther in. I wonder how much there is.<end>"
+
+["1880020"]
+japanese = "<if><value:$01><equal>15さすがはリベルダムの商人の<line-break>埋蔵金だね。これだけあれば解放軍の<line-break>財政難もだいぶよくなるはずだよ。 <end><if><value:$01><equal>19うわぁ。さすがはリベルダムの商人の<line-break>埋蔵金だね、<value:$28>。 <end>うわぁ。さすがにリベルダムの商人の<line-break>埋蔵金だけあるね、<value:$28>。 <end>"
+english = "<if><value:$01><equal>15You'd expect no less from the Liberdam merchants' hidden treasure. This should go a long way toward easing the Liberation Army's financial troubles.<end><if><value:$01><equal>19Wow. You'd expect no less from the Liberdam merchants' hidden treasure, <value:$28>.<end>Wow. This is just what you'd expect from the Liberdam merchants' hidden treasure, <value:$28>.<end>"
+
+["1880021"]
+japanese = "<if><value:$01><equal>15でも、もったいない話だよね。<line-break>これだけお金があるなら生活が苦しい<line-break>人たちに分けてあげればいいのに…。 <end><if><value:$01><equal>19でも、これだけお金があるんだったら<line-break>お金がなくて困ってる人に<line-break>分けてあげればいいのに…。 <end>でも、これだけお金があるのに<line-break>貧しい人たちの生活をよくするようには<line-break>使ってあげないんだよね…。 <end>"
+english = "<if><value:$01><equal>15Still, what a waste. With this much money, why not share some with people struggling to make ends meet...?<end><if><value:$01><equal>19But with this much money, why not share some with people in need...?<end>But despite all this money, none of it goes toward improving the lives of the poor...<end>"
+
+["1880022"]
+japanese = "<if><value:$01><equal>15変な話をしてごめん。<line-break>さぁ、戻って報告しないとね。 <end><if><value:$01><equal>19さぁ、<value:$28>。<line-break>埋蔵金見つけたって報告しないと。<line-break>手を出したらダメだからね。 <end>さぁ、<value:$28>。<line-break>戻って報告しなくっちゃ。 <end>"
+english = "<if><value:$01><equal>15Sorry, that was a strange thing to say. Come on, we'd better go back and report this.<end><if><value:$01><equal>19Come on, <value:$28>. We have to report that we found the hidden treasure. And don't touch any of it, all right?<end>Come on, <value:$28>. We have to go back and report this.<end>"
+
+["1880023"]
+japanese = "<if><value:$01><equal>2モンスターに守らせているってことは<line-break>埋蔵金はこの奥のようね。<line-break>見てみましょう。 <end><if><value:$01><equal>3モンスターに守らせておるということは<line-break>埋蔵金はこの奥じゃな。<line-break>見てみよう。 <end><if><value:$01><equal>4うふふ。この奥にあるみたい。<line-break>埋蔵金なんて本当にあるもの<line-break>だったのね！\u3000きゃっ！ <end><if><value:$01><equal>5モンスターに守らせてるってことは\u3000<line-break>埋蔵金はこの奥だな。<line-break>見てみようぜ。<line-break>のぞいてみたら、リベルダムの<line-break>商人愛用の雑巾が出てきたりしてな。<line-break>マイ雑巾、なんて…ププッ。 <end><if><value:$01><equal>7モンスターに守らせてるってことは<line-break>埋蔵金はこの奥ね。<line-break>見てみましょう。 <end><if><value:$01><equal>11モンスターに守らせている<line-break>ということは、埋蔵金は<line-break>この奥に眠っているようね。\u3000\u3000\u3000<line-break>リベルダムの商人の埋蔵金となると<line-break>それなりのものなのでしょうね。<line-break>確認してみましょう。 <end><if><value:$01><equal>12モンスターに守らせてるってことは<line-break>リベルダム商人の埋蔵金はこの奥だな。<line-break>そんじゃ、ご対面といこうや。 <end><if><value:$01><equal>13埋蔵金はこの奥だな。<line-break>…見てみろ。 <end><if><value:$01><equal>10モンスターが守ってるってことは<line-break>埋蔵金はこの奥みたいだぜ。<line-break>行ってみよう、姉ちゃん。 <end><if><value:$01><equal>14どうやらこの奥に、リベルダム商人の<line-break>埋蔵金が眠っているようじゃの。<line-break>見てみるとしようぞ。 <end><if><value:$01><equal>17埋蔵金はこの奥に蓄えられていると<line-break>アタクシのカンが言っていてよ。<line-break>早く行くのよ、<value:$28>！<line-break>アタクシは下等動物の欲望とはムエン。<line-break>ぜんぜん、まったく、興味がなくてよ。<line-break>さっさと確認して洞窟から出るのよー！ <end><if><value:$01><equal>20…埋蔵金は<line-break>この奥、だな。 <end><if><value:$01><equal>23埋蔵金はこの奥か<end><if><value:$01><equal>27モンスターが守ってるということは<line-break>埋蔵金はこの奥だな。<end><if><value:$01><equal>26モンスターに守らせておるということは<line-break>埋蔵金はこの奥じゃな。<end><if><value:$01><equal>24モンスターに守らせているということは<line-break>埋蔵金はこの奥ということですね。<end><if><value:$01><equal>25モンスターに守らせるなんて、<line-break>埋蔵金はこの奥ですって<line-break>言ってるみたいだよね。<end><if><value:$01><equal>21リベルダムの商人の埋蔵金とやらは<line-break>この奥だな。いくら貯め込んでいたのか<line-break>さっそく、見せてもらうとしよう。 <end><if><value:$01><equal>192埋蔵金はこの奥のようですね。<end><if><value:$01><equal>193モンスターが守っていたってことは<line-break>きっと埋蔵金はこの奥ですよ。<line-break>行きましょう、<value:$28>さん。<end><if><value:$01><equal>194埋蔵金はこの奥のようだね。<end><if><value:$01><equal>191モンスターに守らせてたってことは<line-break>埋蔵金はこの奥ね。<end><if><value:$01><equal>190モンスターが守っていたということは、<line-break>この先に埋蔵金がある証拠だ。<end>"
+english = "<if><value:$01><equal>2Setting monsters to guard it means the hidden treasure must be farther in. Let's take a look.<end><if><value:$01><equal>3Setting monsters to guard it means the hidden treasure must be farther in. Let's have a look.<end><if><value:$01><equal>4Hee-hee. It looks as though it's farther in. So hidden treasure really does exist! Eek!<end><if><value:$01><equal>5Setting monsters to guard it means the hidden treasure must be farther in. Let's have a look. Maybe all we'll find is a Liberdam merchant's favorite cleaning rag. A treasured rag... Pfft.<end><if><value:$01><equal>7Setting monsters to guard it means the hidden treasure must be farther in. Let's take a look.<end><if><value:$01><equal>11Setting monsters to guard it means the hidden treasure must be lying farther in. The Liberdam merchants' hidden treasure ought to be quite a sight. Let us see for ourselves.<end><if><value:$01><equal>12Setting monsters to guard it means the Liberdam merchants' hidden treasure must be farther in. Well then, let's go make its acquaintance.<end><if><value:$01><equal>13The hidden treasure is farther in. ...Take a look.<end><if><value:$01><equal>10If monsters are guarding it, the hidden treasure must be farther in. Let's go, sis.<end><if><value:$01><equal>14It would seem the Liberdam merchants' hidden treasure lies farther in. Let us have a look.<end><if><value:$01><equal>17My instincts tell me the hidden treasure is stored farther in. Hurry up, <value:$28>! I am entirely untouched by the base desires of lesser animals. I have absolutely no interest in it whatsoever. Now hurry up and check so we can get out of this cave!<end><if><value:$01><equal>20...The hidden treasure is farther in.<end><if><value:$01><equal>23So the hidden treasure is farther in.<end><if><value:$01><equal>27If monsters are guarding it, the hidden treasure must be farther in.<end><if><value:$01><equal>26Setting monsters to guard it means the hidden treasure must be farther in.<end><if><value:$01><equal>24The fact that monsters were set to guard it means the hidden treasure must be farther in.<end><if><value:$01><equal>25Having monsters guard the place is practically announcing that the hidden treasure is farther in.<end><if><value:$01><equal>21So this so-called hidden treasure of the Liberdam merchants lies farther in. Let us see at once just how much has been hoarded.<end><if><value:$01><equal>192It seems the hidden treasure is farther in.<end><if><value:$01><equal>193If monsters were guarding this place, the hidden treasure must be farther in. Let's go, <value:$28>.<end><if><value:$01><equal>194It looks like the hidden treasure is farther in.<end><if><value:$01><equal>191Setting monsters to guard it means the hidden treasure must be farther in.<end><if><value:$01><equal>190The fact that monsters were guarding this place proves the hidden treasure lies ahead.<end>"
+
+["1880024"]
+japanese = "<if><value:$01><equal>2これは…すごいわね。<line-break>さすがにリベルダムの商人の<line-break>埋蔵金というだけのことはあるわ。<line-break>さっそく、戻って報告しましょう。<line-break>…ネコババしちゃダメよ。 <end><if><value:$01><equal>3これは…大したもんじゃな。<line-break>さすがにリベルダムの商人の<line-break>埋蔵金だわい。<line-break>これだけあれば解放軍の家計も<line-break>だいぶ持ち直すじゃろう。<line-break>さっそく、戻って報告じゃな。 <end><if><value:$01><equal>4うふふ。これだけあれば<line-break>１割や２割くすねたところで\u3000\u3000\u3000\u3000<line-break>気付かれるはずないわ。<line-break>どうしよっかな…くすねちゃおっと！<line-break>きゃっ…て、冗談ですぅ。<line-break><value:$28>ったら目がマジ…。 <end><if><value:$01><equal>5うひゃあ。こりゃすげえや。<line-break>これだけあればバッチリだな。<line-break>戻って報告しようぜ。 <end><if><value:$01><equal>7さすがにリベルダムの商人の<line-break>埋蔵金となると大したものね。<line-break>戻って報告しましょう。 <end><if><value:$01><equal>11さすがにリベルダムの商人の埋蔵金ね。<line-break>これだけあれば解放軍の財政難も<line-break>十分に解消されるはずね。<line-break>さぁ、<value:$28>。<line-break>戻って報告するとしましょう。 <end><if><value:$01><equal>12さすがはリベルダムの商人の<line-break>埋蔵金だな。こんなところに<line-break>これだけ蓄えていたとは。<line-break>これで、解放軍の財政難も<line-break>それなりに解消するだろう。<line-break>さっそく戻って報告しようぜ。 <end><if><value:$01><equal>13大したものだな。<line-break>…戻るぞ。 <end><if><value:$01><equal>10うひゃあ。こりゃすげえや。<line-break>これだけあればバッチリだな。<line-break>戻って報告しようぜ。 <end><if><value:$01><equal>14さすがはリベルダムの商人の<line-break>埋蔵金じゃわい。<line-break>さぁ、戻って報告じゃ。 <end><if><value:$01><equal>17うっげー！\u3000目が痛くなるわ、下劣な<line-break>人間の欲望の固まりを見せつけられて！<line-break>もう、一秒たりともいたくなくてよ！ <end><if><value:$01><equal>20…埋蔵金は発見した。<line-break>戻って報告だ。 <end><if><value:$01><equal>23さすがはリベルダムの商人の<line-break>埋蔵金とでもいうべきか…<line-break>よくこれだけ蓄えたものだ。<line-break>さぁ、戻ろう<end><if><value:$01><equal>27これはすごい…。<line-break>これで、解放軍の財政難も<line-break>十分に解消されるはずだ。<line-break>さっそく戻って報告しよう。 <end><if><value:$01><equal>26さすがはリベルダムの商人の<line-break>埋蔵金じゃな。<line-break>さぁ、戻って報告じゃ。 <end><if><value:$01><equal>24さすがはリベルダムの商人の<line-break>埋蔵金ですね。<line-break>さっそく戻って報告しましょう。<end><if><value:$01><equal>25すごい…<line-break>これだけあれば十分よね<line-break>はやく戻ろうよ<end><if><value:$01><equal>21さすがに大した量だな。<line-break>これだけあれば解放軍の財政難も<line-break>解消するだろう。<line-break>さぁ、戻って報告するぞ、<line-break><value:$28>。 <end><if><value:$01><equal>192戻って報告しましょう。<end><if><value:$01><equal>193す、すごすぎます。<line-break>まさかこんなにもあるなんて…<line-break>早速戻って報告しましょう。<end><if><value:$01><equal>194おびただしい量の虚栄と貪欲…。<line-break>くだらないね。<line-break>さあ、早く戻るとしよう。<end><if><value:$01><equal>191さすがリベルダム商人の<line-break>埋蔵金なだけはあるわね。<line-break>目が痛くなりそうね。<line-break>戻って報告ね。<end><if><value:$01><equal>190これは驚いた。<line-break>これだけあれば解放軍の財政難も<line-break>解消するな。<line-break>戻って報告だ。<end>"
+english = "<if><value:$01><equal>2This is... incredible. It certainly lives up to being the Liberdam merchants' hidden treasure. Let's go back and report this at once. And don't pocket any of it.<end><if><value:$01><equal>3Well... this is quite a haul. You'd expect no less from the Liberdam merchants' hidden treasure. With this much, the Liberation Army's budget should recover considerably. Let us return and report our discovery at once.<end><if><value:$01><equal>4Hee-hee. With this much, no one would notice if I skimmed off ten or twenty percent. What should I do...? I think I'll take some! Eek... I was only joking! <value:$28>, you're looking awfully serious...<end><if><value:$01><equal>5Whoa! This is incredible. This much ought to do the trick. Let's go back and report it.<end><if><value:$01><equal>7The Liberdam merchants' hidden treasure is every bit as impressive as one would expect. Let's go back and report this.<end><if><value:$01><equal>11You'd expect no less from the Liberdam merchants' hidden treasure. This should be more than enough to resolve the Liberation Army's financial troubles. Come, <value:$28>. Let us return and make our report.<end><if><value:$01><equal>12You'd expect no less from the Liberdam merchants' hidden treasure. To think so much was amassed in a place like this. It should ease the Liberation Army's financial troubles considerably. Let's head back and report this at once.<end><if><value:$01><equal>13Impressive. ...We're going back.<end><if><value:$01><equal>10Whoa! This is incredible. This much ought to do the trick. Let's go back and report it.<end><if><value:$01><equal>14You'd expect no less from the Liberdam merchants' hidden treasure. Come, let us return and report it.<end><if><value:$01><equal>17Ugh! Being confronted with this mass of vile human greed is making my eyes hurt! I don't want to stay here another second!<end><if><value:$01><equal>20The hidden treasure has been found. Back to report it.<end><if><value:$01><equal>23One might expect as much from the Liberdam merchants' hidden treasure... Quite a hoard. Come, let us return.<end><if><value:$01><equal>27This is incredible... This should be more than enough to resolve the Liberation Army's financial troubles. Let's return and report it at once.<end><if><value:$01><equal>26You'd expect no less from the Liberdam merchants' hidden treasure. Come, let us return and report it.<end><if><value:$01><equal>24You'd expect no less from the Liberdam merchants' hidden treasure. Let's return and report it at once.<end><if><value:$01><equal>25Amazing... This should be enough. Let's hurry back.<end><if><value:$01><equal>21That is an impressive amount. This should resolve the Liberation Army's financial troubles. Come, <value:$28>. We're going back to report this.<end><if><value:$01><equal>192Let's go back and report this.<end><if><value:$01><equal>193Th-this is incredible. I never imagined there would be so much... Let's go back and report this at once.<end><if><value:$01><equal>194Such a vast accumulation of vanity and greed... How absurd. Come, let us hurry back.<end><if><value:$01><equal>191It certainly lives up to being the Liberdam merchants' hidden treasure. The sight of it is enough to make my eyes hurt. Let's go back and report this.<end><if><value:$01><equal>190Now this is a surprise. This much should resolve the Liberation Army's financial troubles. Back to report it.<end>"
+
+["1880025"]
+japanese = "<if><value:$01><equal>2こら、<value:$28>。<line-break>何をしてるのよ。<line-break>さっさと戻るわよ。 <end><if><value:$01><equal>3何をしておるんじゃ。<line-break>さっさと戻るぞ、<value:$28>。 <end><if><value:$01><equal>4<value:$28>ったら<line-break>やっぱりねらってたのね。<line-break>私にも３割くらいくれないかな。 <end><if><value:$01><equal>5何してんだよ、<value:$28>。<line-break>まさか、ネコババする気じゃ<line-break>ないだろうな。 <end><if><value:$01><equal>7何をしているの。<line-break>さっさと行くわよ。 <end><if><value:$01><equal>11<value:$28>。<line-break>…まさか、少しくらいとっても<line-break>平気なんて思ってないわよね？ <end><if><value:$01><equal>12おいおい、<value:$28>。<line-break>少しくらいなら、くすねても大丈夫<line-break>なんて思ってないだろうな？<line-break>滅多なことするもんじゃないぜ。<line-break>世の中には信用ってもんがある。 <end><if><value:$01><equal>13…何をしている。<line-break>早く行くぞ。 <end><if><value:$01><equal>10何してんだよ、姉ちゃん。<line-break>まさか、ネコババしようってんじゃ<line-break>ないだろうな？ <end><if><value:$01><equal>14何をしとるんじゃ。<line-break>よもや、多少なりともくすねようと<line-break>思ってはおるまいな？ <end><if><value:$01><equal>15何してるの、<value:$28>？<line-break>ま・さ・か、ネコババしようなんて<line-break>思ってないよね？ <end><if><value:$01><equal>17アタクシの崇高な時間はそんなはしたな<line-break>額で買えるようなものではなくてよ。<line-break>さっさと帰るのよー！ <end><if><value:$01><equal>19ちょっとぉ、<value:$28>。<line-break>ま・さ・か、少しくらいなら取っても<line-break>ばれないなんて思ってるのぉ？<line-break>そんなことしてると、<line-break>ルルアンタ、怒っちゃうよ。 <end><if><value:$01><equal>20…何をしている。<line-break>早く戻るぞ。 <end><if><value:$01><equal>21何をしている。<line-break>下らぬことをするな。 <end>…ひょっとして、<line-break>少しくらい取ったってばれない<line-break>なんて、考えてないよね？<line-break>そういうことしてると<line-break>信用なくすもんね。 <end>"
+english = ""
+
+["1880026"]
+japanese = "<value:$28>、<line-break>何をしてるの？<line-break>早く行こうよ。<end>"
+english = "<value:$28>, what are you doing? Come on, let's go.<end>"
+
+["1880027"]
+japanese = "ちょっと、<value:$28>、<line-break>なにしてんの？\u3000早く行こうよ。\u3000<line-break>\u3000<line-break>まさか、ネコババしようってんじゃ<line-break>ないよね？<end>"
+english = "Hey, <value:$28>, what are you doing? Come on, let's go. You're not planning to pocket anything, are you?<end>"
+
+["1880028"]
+japanese = "埋蔵金が見つかったのですね？<line-break>それで、首尾はどうでした？<end>"
+english = "The buried treasure has been found, then? How did it go?<end>"
+
+["1880029"]
+japanese = "なんと、それほどの大金が！<line-break>これで解放軍も息を吹き返す。<end>"
+english = "That much? What a fortune! This will put the Liberation Army back on its feet.<end>"
+
+["1880030"]
+japanese = "それではさっそく<line-break>取りにゆかねばなりませんね。<end>"
+english = "Then it must be retrieved at once.<end>"
+
+["1880031"]
+japanese = "ええ、すぐに埋蔵金の回収作業に<line-break>移るように手配してください。<end>"
+english = "Yes. Please arrange for the recovery operation to begin immediately.<end>"
+
+["1880032"]
+japanese = "わかりました。それではさっそく！<end>"
+english = "Understood. Right away!<end>"
+
+["1880033"]
+japanese = "<value:$28>…。<line-break>その…ご苦労でしたね。<line-break>これで解放軍も、もち直します。<line-break>ありがとう…。<line-break>私を助けてくれて…。<line-break>\u3000<end>"
+english = "<value:$28>... Um... you did well. This will put the Liberation Army back on its feet. Thank you... for helping me...<end>"
+
+["1880034"]
+japanese = "あ、言っておきますけど、<line-break>今のはあくまで、解放軍を率いる身<line-break>として言ったのですよ。<line-break>そこのところを間違えないでね。<line-break>…もう、下がっていいですよ。<end>"
+english = "Oh, but just so we're clear, I only said that in my capacity as leader of the Liberation Army. Don't get the wrong idea. You may go now.<end>"
+
+["1880035"]
+japanese = "あなたが見つけてきてくれた埋蔵金は<line-break>わたくしが責任を持って解放軍の<line-break>活動に役立てます。<line-break>任務、ご苦労でした。<line-break>下がっていいですよ。<end>"
+english = "I will personally see to it that the treasure you found is put to good use by the Liberation Army. Good work on the mission. You may go.<end>"
+
+["1880036"]
+japanese = "<value:$28>。<line-break>あなたが来るのを待っていました。<line-break>話があります。<end>"
+english = "<value:$28>. I've been waiting for you. We need to talk.<end>"
+
+["1880037"]
+japanese = "ディンガルのカルラ軍が<line-break>ロストールに攻め込む動きがあるのは\u3000<line-break>知っていますね？<line-break>ロストールも今の戦力では苦しいはず。<line-break>そこで、我々解放軍がカルラ軍の後方を<line-break>かく乱し、援護しようと思います。<end>"
+english = "You know that Karula's Army in Dingal is preparing to invade Rostorl, don't you? Rostorl will have a hard time holding out with its current forces. So the Liberation Army intends to support Rostorl by disrupting Karula's rear.<end>"
+
+["1880038"]
+japanese = "そこで、この作戦を実行に移すために<line-break>ロストールのエリス王妃に資金援助を<line-break>要請するのがあなたの役目です。<line-break>行ってくれますね？<end>"
+english = "To put this operation into action, your task is to ask Queen Eris of Rostorl for financial support. You'll go, won't you?<end>"
+
+["1880039"]
+japanese = "資金援助の要請に行く<end>"
+english = "Go ask for financial aid<end>"
+
+["1880040"]
+japanese = "行かない<end>"
+english = "Refuse to go<end>"
+
+["1880041"]
+japanese = "ロストール王家まで滅んでしまっては、<line-break>解放軍は後ろ盾を失ってしまいます。<line-break>頼みましたよ。<end>"
+english = "If the Rostorl Royal House falls as well, the Liberation Army will lose its patron. I'm counting on you.<end>"
+
+["1880042"]
+japanese = "ロストール王家の存亡は、<line-break>我々解放軍にとっても死活問題です。<line-break>くれぐれも失敗しないように。<end>"
+english = "The survival of the Rostorl Royal House is a matter of life and death for us in the Liberation Army as well. Make certain you do not fail.<end>"
+
+["1880043"]
+japanese = "…そうですか。<line-break>仕方ありません、他の人に<line-break>行ってもらうことにします。\u3000<line-break>あなたへの用はそれだけです。<line-break>もう、下がってください。<end>"
+english = "I see. Very well, I'll send someone else. That was all I needed from you. You are dismissed.<end>"
+
+["1880044"]
+japanese = "あなたへの用はもうありません。<line-break>下がってください。<end>"
+english = "I have no further need of you. Please leave.<end>"
+
+["1880045"]
+japanese = "おう、<value:$28>。<line-break>今戻ったか。クリュセイス様が<line-break>お待ちかねだ。<end>"
+english = "Ah, <value:$28>. You're back. Lady Khryuseis has been waiting for you.<end>"
+
+["1880046"]
+japanese = "エリス王妃への援助の要請は<line-break>うまくいったようですね。<line-break>王家より活動資金が届いています。\u3000<line-break>実は、あなたがロストールへ向かって<line-break>数日後に、王家から使者が来ました。<line-break>後方かく乱の件は無用だと。<end>"
+english = "It seems your appeal to Queen Eris was successful. Funding has arrived from the royal house. In fact, a royal messenger came a few days after you left for Rostorl. We were told there was no longer any need to disrupt the enemy's rear.<end>"
+
+["1880047"]
+japanese = "どういうことかと尋ねたのですが、<line-break>作戦上の秘密だからと、<line-break>教えてくれませんでした。<line-break>ただ、活動資金は送ると。<line-break>…いったい、何があったのです？<end>"
+english = "I asked why, but the messenger refused to say, claiming it was a military secret. I was told only that we would receive the funding. What in the world happened?<end>"
+
+["1880048"]
+japanese = "ロストール軍に参戦したと言う<end>"
+english = "Say that I joined Rostorl's army<end>"
+
+["1880049"]
+japanese = "参戦したことは伏せておく<end>"
+english = "Keep quiet about having joined the fighting<end>"
+
+["1880050"]
+japanese = "…やはりそうだったのですか。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>実は、すでにロストール軍の中に、<line-break>あなたに似た将軍がいたと報告を<line-break>受けていました。それで、もしやと…。<end>"
+english = "So it was true. I had already received reports of a general in Rostorl's army who resembled you. I wondered if perhaps...<end>"
+
+["1880051"]
+japanese = "…解放軍のために命を懸けて<line-break>くださったのですね。<line-break>解放軍を率いる者として礼を言います。<line-break>本当にありがとう。<line-break>…それと、ごめんなさい。<line-break>危険な目にあわせてしまって…。<end>"
+english = "You risked your life for the Liberation Army. As its leader, you have my thanks. Thank you, truly. And... I'm sorry. I put you in such danger.<end>"
+
+["1880052"]
+japanese = "今回の任務では<line-break>本当にご苦労さまでした。<line-break>ゆっくり休んでください。\u3000\u3000<line-break>もう下がっていいですよ。<line-break>…それと、<line-break>みなさんも下がってください。<end>"
+english = "You've worked very hard on this mission. Please get some rest. You may go now. And the rest of you may leave as well.<end>"
+
+["1880053"]
+japanese = "解放軍を率いる者として…だなんて…<line-break>わたくし、どうして、<line-break>素直に言えないの？<line-break>本当にわたくし、<line-break>かわいげのない女だわ…。<line-break>でも…。<end>"
+english = "“As leader of the Liberation Army”... Why can't I just say what I mean? I'm really not a very likable woman, am I? But...<end>"
+
+["1880054"]
+japanese = "実は、ロストール軍の中に、<line-break>あなたに似た将軍がいたと報告を<line-break>受けています。<line-break>資金を援助するかわりに<line-break>ロストール軍に参加するように<line-break>言われたのではないのですか？<end>"
+english = "The truth is, I've received reports of a general in Rostorl's army who resembled you. Were you told to join their army in exchange for the funding?<end>"
+
+["1880055"]
+japanese = "どうして、言ってくれないのです。<line-break>本当のことを言ってください。<line-break>これは命令ですよ。<end>"
+english = "Why won't you tell me? Tell me the truth. That's an order.<end>"
+
+["1880056"]
+japanese = "…やはり、そうだったのですか。\u3000<line-break>\u3000<line-break>\u3000<line-break>でも、なぜ隠していたのです？<line-break>あなたはわたくしに報告する義務が<line-break>あるはずですよ。<end>"
+english = "So it was true. But why did you hide it from me? You are obliged to report such things to me.<end>"
+
+["1880057"]
+japanese = "わざわざ報告する必要はない<end>"
+english = "There was no need to report it<end>"
+
+["1880058"]
+japanese = "余計な心配をさせたくない<end>"
+english = "I didn't want to cause needless worry<end>"
+
+["1880059"]
+japanese = "そんなことはないわ。<line-break>わたくしはあなたが属する組織の<line-break>指導者なのですよ。<line-break>部下が何をしているのか<line-break>把握していないなんて、<line-break>指導者として失格じゃない。<end>"
+english = "Of course you needed to tell me. I am the leader of the organization you belong to. If I don't even know what my own subordinates are doing, then I'm unfit to lead.<end>"
+
+["1880060"]
+japanese = "あなたが命をかけて、援助の要請を<line-break>果たしてくれたことには、<line-break>本当に感謝しています。<line-break>でも、今後はこのような単独行動は<line-break>慎んでいただきたいわ。<line-break>よろしくて？<end>"
+english = "I am truly grateful that you risked your life to secure the aid we needed. But from now on, I must ask you not to act alone like this. Is that understood?<end>"
+
+["1880061"]
+japanese = "…今のは、言い過ぎでした。<line-break>解放軍のために命を懸けてくれたのに<line-break>あんなことを言って。<line-break>今回の任務は本当にご苦労でした。<line-break>ゆっくり休んでください。<line-break>…みなさんも下がってください。<end>"
+english = "I went too far just now. You risked your life for the Liberation Army, and I said such things to you. You've worked very hard on this mission. Please get some rest. The rest of you may leave as well.<end>"
+
+["1880062"]
+japanese = "…心配させたくなかったですって？\u3000\u3000<line-break>冗談ではないわ！<line-break>あなたは組織のメンバーなのよ！<line-break>…わたくしの組織のメンバーが<line-break>戦場に出ているというのに、わたくしは<line-break>知らないなんて…バカみたいじゃない。<end>"
+english = "You didn't want me to worry? Don't be ridiculous! You are a member of this organization! One of my own people was out on a battlefield, and I knew nothing about it. I look like a complete fool.<end>"
+
+["1880063"]
+japanese = "…ごめんなさい。言い過ぎました。<line-break>でも、今後はわたくしへの報告なしに<line-break>危険なことはしないように。<line-break>今日はゆっくり休んでください。<line-break>ご苦労様でした。<line-break>…みなさんも下がってください。<end>"
+english = "I'm sorry. I went too far. But from now on, you are not to do anything dangerous without reporting to me first. Get some rest today. You've earned it. The rest of you may leave as well.<end>"
+
+["1880064"]
+japanese = "…わたくし、<line-break>どうして素直に言えないの？\u3000<line-break>…ありがとうって。<line-break>わたくしのために戦ってくれて<line-break>いるのに…、わたくしのために<line-break>気を使ってくれているのに…。<end>"
+english = "Why can't I simply say what I mean? Why can't I just say thank you? You're fighting for me, and trying so hard not to worry me...<end>"
+
+["1880065"]
+japanese = "こんなことでは、わたくし<line-break>どんどん<value:$28>に<line-break>嫌われてしまう…。<end>"
+english = "If I keep behaving like this, <value:$28> will like me less and less...<end>"
+
+["1880066"]
+japanese = "何を考えているの、クリュセイス？<line-break><value:$28>が戦っているのは<line-break>解放軍のためなのよ。<line-break>そうに決まっている。<line-break>そうに…。<end>"
+english = "What are you thinking, Khryuseis? <value:$28> is fighting for the Liberation Army. Of course that's the reason. It must be...<end>"
+
+["1880067"]
+japanese = "<select><value:$20>%2どうしたのです、<value:$28>？<line-break>あなたには埋蔵金を調査する任務が<line-break>あるはずですよ。<line-break>こんなところで、<line-break>ぐずぐずしていられる時間は<line-break>ないのではないかしら？<end><value:$28>、<line-break>埋蔵金の調査を急いでください。<line-break>\u3000<line-break>わたくしたち解放軍の活動には、<line-break>どうしても資金が必要なのです。<end>"
+english = "<select><value:$20>%2What are you doing here, <value:$28>? You have a cache of treasure to investigate. Surely you have no time to dawdle here?<end><value:$28>, please hurry with the investigation of the treasure cache. The Liberation Army desperately needs funds to continue its work.<end>"
+
+["1880068"]
+japanese = "<select><value:$20>%3え？\u3000解放軍はどうしてそんなに\u3000\u3000<line-break>資金が必要なのか、ですって？<line-break>\u3000<line-break>組織の運営にはそれなりの資金が<line-break>いるのです。わたくしの運営の仕方に<line-break>問題があると言いたいのですか？<end>資金もそうですけど、人員の不足も<line-break>解放軍の深刻な悩みです。リベルダム\u3000<line-break>陥落の際、大勢の仲間を失いました。<line-break>ですから、今後もあなたを頼ってしまう<line-break>かもしれませんね。<line-break>…解放軍の指導者として、ですが。<end>あなたの見つけてきてくれた埋蔵金の<line-break>おかげで、解放軍も少しは<line-break>持ち直しそうです。<line-break>ですが、資金があるにこしたことは<line-break>ありません。今後も解放軍の仲間には<line-break>節制してもらわないと。<end>"
+english = "<select><value:$20>%3What? Why does the Liberation Army need so much money? Any organization requires a certain amount of funding to operate. Are you suggesting there is something wrong with the way I manage it?<end>Funds are not our only concern. The Liberation Army is also desperately short of personnel. We lost many of our comrades when Liberdam fell. I may have to call upon you again in the future―as leader of the Liberation Army, of course.<end>Thanks to the treasure you found, the Liberation Army should be able to regain some of its footing. Still, one can never have too much funding. Our comrades will have to remain frugal.<end>"
+
+["1880069"]
+japanese = "<value:$28>。<line-break>早く、エリス王妃の元へ\u3000\u3000\u3000<line-break>向かってください。<line-break>この作戦は時期を逃しては…。<line-break>とにかく、急いでください。<end>"
+english = "<value:$28>, please go to Queen Eris at once. If we miss our chance, this operation will... Never mind. Just hurry.<end>"
+
+["1880070"]
+japanese = "<value:$28>。<line-break>エリス王妃への援助要請の件は<line-break>どうなったのですか？<end>"
+english = "<value:$28>, what became of our request for aid from Queen Eris?<end>"
+
+["1880071"]
+japanese = "…そうですか。王妃は<line-break><value:$28>にロストール軍への<line-break>参加を求めてきたのですか…。<end>"
+english = "I see. So the queen asked <value:$28> to join Rostorl's army...<end>"
+
+["1880072"]
+japanese = "<value:$28>さん、<line-break>どうしてロストール軍への参加を\u3000\u3000<line-break>拒否したんですか？<line-break>ロストール軍に参加して<line-break>それなりの功績を挙げられれば<line-break>援助を承知してくれたんでしょう？<end>"
+english = "<value:$28>, why did you refuse to join Rostorl's army? If you had joined and distinguished yourself, the queen would have agreed to help us, wouldn't she?<end>"
+
+["1880073"]
+japanese = "おやめなさい。わたくしが与えた<line-break>任務は、わたくしの提案を王妃に<line-break>伝えることです。<line-break>王妃がそれを聞き入れなかった<line-break>というのでは、仕方ありません。<end>"
+english = "That is enough. The task I gave was simply to convey my proposal to the queen. If she would not accept it, then there was nothing more to be done.<end>"
+
+["1880074"]
+japanese = "そ、そうでした。申しわけありません。<line-break>クリュセイス様、<line-break>それと、<value:$28>さん。<end>"
+english = "Y-you're right. Please forgive me, Lady Khryuseis―and you as well, <value:$28>.<end>"
+
+["1880075"]
+japanese = "<value:$28>、<line-break>ご苦労様でした。王家にはあらためて<line-break>別の打診をしてみます。<line-break>今日は下がっていいですよ。<end>"
+english = "Thank you for your efforts, <value:$28>. I will approach the royal house again with a different proposal. You may leave for the day.<end>"
+
+["1880076"]
+japanese = "<select><value:$20>%3今は特にあなたに頼まなければ\u3000\u3000<line-break>ならない任務はありません。<line-break>\u3000<line-break>わたくしには、あなたと悠長に<line-break>お話をしている時間はないのです。<line-break>下がっていていただけるかしら？<end>何をしているのか、ですって？<line-break>ディンガル軍の動きを探らせています。<line-break>その報告を待っているのです。<line-break>ロストールをリベルダムの二の舞に<line-break>させるわけにはいきません。あなたも<line-break>軍の動向には注意してください。<end>今はうかつには動けません。<line-break>解放軍は、壊滅を免れたとはいえ、<line-break>リベルダムで多くの仲間を失いました。<line-break>これまで以上に慎重に時期を選び、<line-break>ディンガルに気取られないように<line-break>動かなくては。<end>"
+english = "<select><value:$20>%3I have no particular missions for you at present. Nor do I have time for a leisurely conversation with you. Would you kindly leave?<end>You ask what I'm doing? I'm having the Dingal Army's movements investigated, and I'm waiting for the report. We cannot let Rostorl suffer the same fate as Liberdam. You should keep a close eye on the army's movements as well.<end>We cannot afford to act carelessly now. Though the Liberation Army escaped destruction, we lost many comrades at Liberdam. We must choose our moment more carefully than ever and act without being detected by Dingal.<end>"
+
+["1880077"]
+japanese = "あ、<value:$28>。<line-break>その、怪我はありませんか？\u3000\u3000\u3000\u3000<line-break><value:$28>は無理をするから。<line-break>…変なことを言ってごめんなさい。<line-break>今のわたくしには、<value:$28><line-break>しかいないから…。<end>"
+english = "Oh, <value:$28>. You aren't hurt, are you? You always push yourself too hard, <value:$28>. Forgive me. I shouldn't say such things. It's just that now, <value:$28> is all I have...<end>"
+
+["1880078"]
+japanese = "もう、わたくしには<line-break>これ以上大切な人を失うことに<line-break>耐えられそうもありませんもの。<line-break>あなたのことを頼ってしまった<line-break>今のわたくしには…。<end>"
+english = "I don't think I could bear to lose anyone else dear to me. Not now that I've come to rely on you...<end>"
+
+["1880079"]
+japanese = "<value:$28>。<line-break>わたくし、この前、リベルダムの\u3000\u3000\u3000<line-break>難民のもとへ行ってきました。<line-break>実際に彼らの暮らしにふれる必要がある<line-break>と思ったのです。これまでは、資金と<line-break>物資の工面をするだけでしたから。<end>"
+english = "<value:$28>, I recently went to visit the refugees from Liberdam. I felt I needed to see how they actually lived. Until then, all I had done was arrange funds and supplies.<end>"
+
+["1880080"]
+japanese = "そこで、初めて知りました。\u3000\u3000\u3000\u3000\u3000<line-break>人間の生きる力の強さを。<line-break>その姿の美しさを。<line-break>いえ、今まで見ようとしなかっただけ<line-break>かもしれませんね。わたくし、非市民と<line-break>聞くだけで、ゆがんで見てましたから。<end>"
+english = "It was there that I first understood the strength of the human will to live, and the beauty of it. No... perhaps I had simply refused to see it before. The mere word “noncitizen” was enough to distort my view of them.<end>"
+
+["1880081"]
+japanese = "外見は、はっきり言って昔のスラムと<line-break>同じかそれ以上に不衛生だけど、<line-break>その中で生きていく力を失わない人々。<line-break>逆に教えられました。生きていくことの<line-break>大切さを…こんな風に考えられるのも、<line-break>あなたのおかげですね。<end>"
+english = "To be frank, the place is as unsanitary as the old Slums were, if not worse. Yet the people there have not lost their will to survive. They were the ones who taught me how precious it is simply to live. And I can think this way now because of you.<end>"
+
+["1880082"]
+japanese = "わたくしの心の窓を開けてくれたのは<line-break>あなたの優しさですもの。<end>"
+english = "It was your kindness that opened the window of my heart.<end>"
+
+["1880083"]
+japanese = "あ、<value:$28>。<end>"
+english = "Oh, <value:$28>.<end>"
+
+["1880084"]
+japanese = "わたくし、<value:$28>には<line-break>ずっとそばにいてほしいのです。\u3000\u3000<line-break>\u3000<line-break>…でも、それはわたくしのわがまま。<line-break>そんなもので、あなたを<line-break>縛っておくことなどできません。<end>"
+english = "I want you to stay by my side forever, <value:$28>. But that is only my selfish wish. I cannot use it to bind you to me.<end>"
+
+["1880085"]
+japanese = "でも、これだけは覚えていてください。<line-break>ここには、あなたを待っている<line-break>わたくしがいることを…。<line-break>どこに行こうとも、必ず<line-break>わたくしのもとへ帰ってきてください。<end>"
+english = "But please remember this much: I will be here, waiting for you. Wherever you go, please always come back to me.<end>"
+
+["1880086"]
+japanese = "<value:$28>、あのとき、<line-break>あなたは言ってくれましたね。<line-break>わたくしのこと、放っておけないと。<line-break>わたくし、今でも覚えています。<line-break>あなたがそんな風に言ってくれて<line-break>本当にうれしかったですから。<end>"
+english = "<value:$28>, you told me then that you couldn't simply abandon me. I still remember. Hearing you say that made me truly happy.<end>"
+
+["1880087"]
+japanese = "<if><value:$29><equal>%0わたくしは卑怯でした。<line-break>あなたにぬれぎぬを着せたのに、<line-break>…あなたを愛してしまった。<line-break>…ずっと素直になれなかった。<line-break>あなたに許してもらう勇気が、<line-break>わたくしにはなかったのです。<end>わたくしは卑怯でした。<line-break>あなたにぬれぎぬを着せたのに、<line-break>…あなたを頼ってしまった。<line-break>…ずっと素直になれなかった。<line-break>あなたに許してもらう勇気が、<line-break>わたくしにはなかったのです。<end>"
+english = "<if><value:$29><equal>%0I was a coward. Even after I falsely accused you... I fell in love with you. I could never bring myself to be honest. I lacked the courage to ask your forgiveness.<end>I was a coward. Even after I falsely accused you... I came to rely on you. I could never bring myself to be honest. I lacked the courage to ask your forgiveness.<end>"
+
+["1880088"]
+japanese = "でも、わたくしのこんな気持ちを、<line-break>あなたは一言で解消してくれました。<line-break>放っておけないから、と。<end>"
+english = "But with just a few words, you put all those feelings to rest. You said you couldn't simply abandon me.<end>"
+
+["1880089"]
+japanese = "だから、<value:$28>も<line-break>忘れないでください。あなたのことを<line-break>放っておけないわたくしがいることを。<end>"
+english = "So please remember this too, <value:$28>: I cannot simply abandon you either.<end>"
+
+["1880090"]
+japanese = "<value:$28>、<line-break>難民の数は膨れ上がる一方です。\u3000<line-break>このままでは、また資金が…。<line-break><value:$28>には、<line-break>１００００ギアほど提供してくれる<line-break>ようなあてはありませんか？<end>"
+english = "<value:$28>, the number of refugees continues to swell. At this rate, we will run short of funds again. Do you know of anyone who might provide around 10,000 Gea, <value:$28>?<end>"
+
+["1880091"]
+japanese = "資金を援助する<end>"
+english = "Provide the funds<end>"
+
+["1880092"]
+japanese = "期待されても困る<end>"
+english = "Don't expect that from me<end>"
+
+["1880093"]
+japanese = "資金を援助してくれるのですか？<line-break>あなたが！？<end>"
+english = "You will provide the funds? You?!<end>"
+
+["1880094"]
+japanese = "…感謝の言葉もありません。<line-break>この資金を必要としている人たちに<line-break>かわってお礼を言わせてください。<line-break>本当にありがとう。<end>"
+english = "I cannot thank you enough. Please allow me to offer my thanks on behalf of all those who need this money. Thank you, truly.<end>"
+
+["1880095"]
+japanese = "１００００ギアを資金提供した。<end>"
+english = "Provided 10,000 Gea in funding.<end>"
+
+["1880096"]
+japanese = "それでは、わたくし、さっそく<line-break>難民を支援できるように手配を\u3000\u3000<line-break>整えてきます。<line-break><value:$28>、今のわたくしは<line-break>あなただけが頼りです。<line-break>それでは、行ってきます。<end>"
+english = "Then I shall go and make the arrangements to aid the refugees at once. <value:$28>, you are the only person I can rely on now. I must be going.<end>"
+
+["1880097"]
+japanese = "…そうですよね。<line-break>１００００ギアなんて、そんなに簡単に<line-break>手に入れられるわけがありませんね。<end>"
+english = "Of course. There is no easy way to obtain 10,000 Gea.<end>"
+
+["1880098"]
+japanese = "無理なこと言ってしまいましたね。<line-break>…忘れてください。<end>"
+english = "I asked too much of you. Please forget I said anything.<end>"
+
+["1880099"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["1880100"]
+japanese = "<value:$28>…、<line-break>恥を忍んで言います。実はまた<line-break>資金が足りなくなりそうなのです。<end>"
+english = "<value:$28>... I am ashamed to admit this, but it seems we are about to run short of funds again.<end>"
+
+["1880101"]
+japanese = "…今の解放軍は小さな組織です。<line-break>解放軍の運営だけなら、これまでの\u3000<line-break>資金で問題はありませんでした。<line-break>ですが、問題はロセン、リベルダムの<line-break>難民なのです。彼らの生活を支援する<line-break>ための資金がないのです。<end>"
+english = "The Liberation Army is a small organization now. The funds we already had would have been enough to maintain the army itself. The problem is the refugees from Rocen and Liberdam. We have no money with which to support them.<end>"
+
+["1880102"]
+japanese = "カルラ軍はロセンとリベルダムを<line-break>攻略する際、無抵抗の市民は決して<line-break>殺さないように厳命しています。<line-break>そのおかげで多くの命が無意味に<line-break>奪われることなくすみました。<line-break>ですが、そのかわりに…。<end>"
+english = "When taking Rocen and Liberdam, Karula's Army issued strict orders that civilians who did not resist were never to be killed. Thanks to that, many lives were spared a senseless end. But in exchange...<end>"
+
+["1880103"]
+japanese = "両方の町の郊外には、<line-break>難民があふれているのです。<line-break>彼らを見捨てることはできません。<end>"
+english = "The outskirts of both towns are now overflowing with refugees. I cannot abandon them.<end>"
+
+["1880104"]
+japanese = "解放軍の中には、ディンガル軍への<line-break>抵抗運動よりも、難民の救済に資金が<line-break>流れるのが不満な仲間もいます。<line-break>ですが、わたくしには、ディンガルとの<line-break>戦いのために、難民を放っておくなど<line-break>どうしてもできないのです。<end>"
+english = "Some in the Liberation Army resent seeing funds spent on refugee relief rather than resistance against the Dingal Army. But I cannot abandon the refugees merely for the sake of fighting Dingal.<end>"
+
+["1880105"]
+japanese = "<value:$28>、<line-break>わたくし、間違っているのでしょうか？<line-break>\u3000<line-break>やはり、わたくしのような娘には<line-break>解放軍の指導者など務まらないのかも<line-break>しれませんね…。<end>"
+english = "<value:$28>, am I wrong? Perhaps a young woman like me truly is unfit to lead the Liberation Army...<end>"
+
+["1880106"]
+japanese = "せめて、今あと<line-break>１００００ギアあれば…。<end>"
+english = "If only we had another 10,000 Gea now...<end>"
+
+["1880107"]
+japanese = "資金を援助する<end>"
+english = "Provide the funds<end>"
+
+["1880108"]
+japanese = "そんな大金は渡せない<end>"
+english = "I can't give you that much<end>"
+
+["1880109"]
+japanese = "え？\u3000今なんて…？<end>"
+english = "What? What did you just say?<end>"
+
+["1880110"]
+japanese = "あ、あなたが、<line-break>資金を出してくれると言うのですか？<line-break>１００００ギアも！？<end>"
+english = "Y-you mean you will provide the funds? All 10,000 Gea?!<end>"
+
+["1880111"]
+japanese = "どうしてそれほどの大金を<line-break>そんなに簡単に出してくれるのです？<line-break>解放軍のため？\u3000難民のため？<line-break>それとも、わたくしの…。<end>"
+english = "How can you part with such a great sum so readily? Is it for the Liberation Army? For the refugees? Or for me...<end>"
+
+["1880112"]
+japanese = "わたくし、何を言っているのかしら。<line-break><value:$28>は、解放軍の一員<line-break>ですもの、解放軍のためよね。<line-break>でも、あなたはわたくしのやり方に<line-break>賛同してくれるのですね。<line-break>…正直に言って、うれしいです。<end>"
+english = "What am I saying? You are a member of the Liberation Army, <value:$28>, so of course it is for the army. But this means you approve of what I am doing. To be honest, that makes me very happy.<end>"
+
+["1880113"]
+japanese = "あなたの資金提供の申し出、<line-break>ありがたく受けいれさせてもらいます。<line-break>本当にありがとう。<end>"
+english = "I gratefully accept your offer of financial aid. Thank you, truly.<end>"
+
+["1880114"]
+japanese = "１００００ギアを資金提供した。<end>"
+english = "Provided 10,000 Gea in funding.<end>"
+
+["1880115"]
+japanese = "これで、難民の暮らしをいくらか<line-break>楽にしてあげられます。わたくし<line-break>さっそく手はずを整えなくては。<line-break><value:$28>、<line-break>今日のこと、わたくし<line-break>決して忘れませんから。<end>"
+english = "This will make life a little easier for the refugees. I must begin making arrangements at once. <value:$28>, I will never forget what you have done today.<end>"
+
+["1880116"]
+japanese = "余計なことを言ってしまいましたね。<line-break>こんなことを言っていても資金が<line-break>降ってくるわけじゃありませんのに…。<line-break><value:$28>、もう解放軍に<line-break>いても、ディンガルと戦うことは<line-break>できないかもしれません。<end>"
+english = "I should not have said any of that. Talking about it will not make money fall from the sky. <value:$28>, even if you remain with the Liberation Army, you may no longer be able to fight Dingal.<end>"
+
+["1880117"]
+japanese = "もし、あなたがディンガルとの戦いを<line-break>望むなら、解放軍を離れた方が<line-break>いいかもしれません。<line-break>わたくしには、そう望む人を<line-break>止める権利はありません。<line-break>…もう、行ってください。<end>"
+english = "If fighting Dingal is what you want, perhaps you should leave the Liberation Army. I have no right to stop anyone who wishes to do so. Please, go now.<end>"
+
+["1880118"]
+japanese = "<select><value:$20>%2わたくしが間違っているのかしら？<line-break>あの難民のすべてを救おうなんて<line-break>思い上がりなのかしら？<end>ディンガルをはやく倒すことが<line-break>できれば、これ以上の難民を<line-break>出さずにすむかもしれない。<line-break>でも、今困っている人たちを<line-break>見過ごすことはできません。<end>"
+english = "<select><value:$20>%2Am I wrong? Is it arrogance to think I can save every one of those refugees?<end>If we could defeat Dingal quickly, perhaps we could prevent more people from becoming refugees. But I cannot turn away from those who are suffering now.<end>"
+
+["1880119"]
+japanese = "…<value:$28>。<line-break>今日はどうしたのですか？<end>"
+english = "<value:$28>... What brings you here today?<end>"
+
+["1880120"]
+japanese = "難民支援のための<line-break>資金不足のことですか？<line-break>今のところ、どうにか大丈夫です。\u3000<line-break>…でも、<value:$28>はどうして<line-break>そこまで、資金を援助してくれようと<line-break>するのですか？<end>"
+english = "Is this about the shortage of funds for refugee aid? We are managing somehow for now. But why are you willing to provide so much financial help, <value:$28>?<end>"
+
+["1880121"]
+japanese = "他の解放軍の面々は、<line-break>ディンガルへの憎しみのあまり<line-break>戦うことばかり主張しているのに…。\u3000<line-break>前々から不思議に思っていました。<line-break>あなたはどうして、そこまで<line-break>わたくしの活動を助けてくれるのです？<end>"
+english = "The other members of the Liberation Army are so consumed by their hatred of Dingal that all they speak of is fighting. I have wondered about this for some time. Why do you go so far to help me with my work?<end>"
+
+["1880122"]
+japanese = "難民が哀れだからですか？<line-break>それとも…<end>"
+english = "Is it because you pity the refugees? Or...<end>"
+
+["1880123"]
+japanese = "難民を救うのも解放軍の義務だから<end>"
+english = "Because saving refugees is also the Liberation Army's duty<end>"
+
+["1880124"]
+japanese = "クリュセイスを放っておけないから<end>"
+english = "Because I can't just leave Khryuseis alone<end>"
+
+["1880125"]
+japanese = "そう…ですよね。<line-break>わたくしの考えは間違っては<line-break>いないのですよね。<line-break>あなたがそう言ってくれて<line-break>わたくしも、少しは気が楽に<line-break>なりました。<end>"
+english = "Yes... of course. Then I am not wrong in what I am doing. Hearing you say so has eased my mind a little.<end>"
+
+["1880126"]
+japanese = "でも、わたくしは…。<end>"
+english = "But I...<end>"
+
+["1880127"]
+japanese = "…わたくし、これから行かなければ<line-break>いけないところがあったのを<line-break>思い出しました。<line-break>失礼させていただくわ、<line-break><value:$28>。<end>"
+english = "I just remembered that I have somewhere I must be. Please excuse me, <value:$28>.<end>"
+
+["1880128"]
+japanese = "（わたくし、何を期待しているの？<line-break>\u3000<value:$28>がわたくしを<line-break>\u3000許してくれるはずないのに…。）<end>"
+english = "(What was I hoping for? <value:$28> could never forgive me...)<end>"
+
+["1880129"]
+japanese = "え？\u3000…そんな、まさか…。<end>"
+english = "What? No... surely not...<end>"
+
+["1880130"]
+japanese = "…わたくし、あなたには\u3000\u3000\u3000\u3000\u3000\u3000<line-break>一生許してもらえないと<line-break>思っていました。<line-break>ぬれぎぬを着せて…あんなにひどい<line-break>仕打ちをしたわたくしには、あなたに<line-break>優しくしてもらう資格はないと…。<end>"
+english = "I thought you would never forgive me. After falsely accusing you and treating you so cruelly, I believed I had no right to receive any kindness from you...<end>"
+
+["1880131"]
+japanese = "ですから、わたくし、あなたを<line-break>解放軍の一員としてしか見ないように<line-break>決めていたのです。<line-break>わたくしを助けてくれるあなたを<line-break>ついつい頼ってしまいそうに<line-break>なるから…。<end>"
+english = "That is why I decided I would see you only as a member of the Liberation Army. With you helping me, I knew I might find myself relying on you...<end>"
+
+["1880132"]
+japanese = "そんなこと、決して<line-break>許されないことなのに…。<line-break>虫がよすぎることなのに…。\u3000\u3000\u3000\u3000\u3000<line-break>でも、お父様を失い、<line-break>おじさまに捨てられたわたくしを<line-break>支えてくれる人は…もういないから…。<end>"
+english = "I could never allow myself to do that. It would be far too selfish. But after losing Father and being cast aside by Uncle, there is no one left to support me...<end>"
+
+["1880133"]
+japanese = "<if><value:$29><equal>%0<value:$28>…。<line-break>ごめんなさい、<value:$28>！<line-break>わたくしの愚かさを許してください！<line-break>そして、許されるなら、<line-break>…わたくし、あなたのことを<line-break>好きになってもかまいませんか？<end><value:$28>…。<line-break>ごめんなさい、<value:$28>！<line-break>わたくしの愚かさを許してください！<line-break>そして、許されるなら、<line-break>…わたくし、あなたのことを<line-break>これからも頼ってかまいませんか？<end>"
+english = "<if><value:$29><equal>%0<value:$28>... I'm sorry, <value:$28>! Please forgive my foolishness! And if I may... may I allow myself to love you?<end><value:$28>... I'm sorry, <value:$28>! Please forgive my foolishness! And if I may... may I continue to rely on you?<end>"
+
+["1880134"]
+japanese = "ありがとう、<value:$28>…。<line-break>これからも、わたくしのそばに<line-break>いてください。<line-break>わたくしを、支えて…。<end>"
+english = "Thank you, <value:$28>... Please stay by my side from now on. Please... support me.<end>"
+
+["1880135"]
+japanese = "<select><value:$20>%3クリュセイス様なら<line-break>今、はずしてらっしゃる。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>本当に、忙しい人だ。<line-break>何もかも自分ひとりで背負い込んで…。<line-break>どうやら、ほとんど、<line-break>眠ってらっしゃらないようだ。<end>クリュセイス様は<line-break>お仕事がお忙しくてな。<line-break>今日も飛び回っていらっしゃる。<line-break>そのうち、本当に忙殺されて<line-break>死んでしまうのではないかと<line-break>思うほどだ。<end>クリュセイス様は、激務で心身ともに\u3000\u3000\u3000<line-break>すり減らしておられる。まだ若いのだから、<line-break>恋のひとつでもしていたかろうに。<line-break>我らにつらくあたるときもあるが仕方ない。<line-break>この解放軍を、リベルダム陥落後、<line-break>ひとりで支えてきたようなものだからな。<end>"
+english = "<select><value:$20>%3Khryuseis is away at the moment. She really never stops. She takes everything on herself... It seems she barely sleeps.<end>Khryuseis has been busy with her duties. She's rushing from place to place again today. At this rate, I fear she may literally work herself to death.<end>The relentless work is wearing Khryuseis down, in both body and mind. She's still young; surely she'd rather have time for a little romance. She can be hard on us sometimes, but who can blame her? Since the fall of Liberdam, she's practically held the Liberation Army together single-handedly.<end>"
+
+["1880136"]
+japanese = "<value:$28>さん、<line-break>あなたの存在は解放軍に<line-break>欠くべからざるものです。<end>"
+english = "<value:$28>, the Liberation Army couldn't do without you.<end>"
+
+["1880137"]
+japanese = "このままディンガル帝国を\u3000\u3000\u3000\u3000\u3000\u3000<line-break>放っておくわけにはいかない！<line-break>そうでしょう、<value:$28>さん？<end>"
+english = "We can't just stand by and let the Dingal Empire carry on like this! You agree, don't you, <value:$28>?<end>"
+
+["1880138"]
+japanese = "なんで？<end>"
+english = "Why?<end>"
+
+["1880139"]
+japanese = "そうだ！<end>"
+english = "That's right!<end>"
+
+["1880140"]
+japanese = "え…、なんでって…。<line-break>それは…その…。<line-break>とにかくディンガルは悪者なんですよ！<end>"
+english = "Huh? Why...? Well... um... Anyway, Dingal is the villain here!<end>"
+
+["1880141"]
+japanese = "そうです！<line-break>だから、打倒ディンガルのためには<line-break>命も惜しんではいけないんです！<end>"
+english = "Exactly! And if we're to defeat Dingal, we mustn't hesitate to lay down our lives!<end>"
+
+["1880142"]
+japanese = "<select><value:$20>%2ディンガルの奴らはずる賢い。<line-break>奴らはロセンでは、王政の時より少しだけ<line-break>住民よりの政治をしているんだ。<line-break>だから、ロセンの住民の中には<line-break>むしろディンガルの統治を歓迎<line-break>する動きもある。困ったものだ。<end>リベルダムでのディンガルの統治の<line-break>話を聞いたか？\u3000奴らは、市民非市民の\u3000<line-break>階級制度をなくしてしまったんだ。<line-break>おかげで非市民だった連中は、差別を<line-break>受けなくなったって喜んでいるらしい。<line-break>困ったものだ。<end>"
+english = "<select><value:$20>%2The Dingal are a crafty lot. In Rocen, they're governing just a little more in the residents' interests than the monarchy did. So some of the people there are actually starting to welcome Dingal rule. That's a problem.<end>Have you heard how the Dingal are governing Liberdam? They've abolished the whole citizen and noncitizen class system. Apparently, the former noncitizens are delighted that they're no longer being discriminated against. That's a problem.<end>"
+
+["1880143"]
+japanese = "リベルダムが陥落し、<line-break>解放軍は財政上の大きな基盤を失った。<line-break>蓄えがなくなるのは時間の問題だ。<line-break>このままでは、ディンガルを倒す前に<line-break>我々が自滅してしまう。<line-break>なんとかしなければ…。<end>"
+english = "With Liberdam fallen, the Liberation Army has lost a major source of financial support. It is only a matter of time before our reserves run dry. At this rate, we will destroy ourselves before we can defeat Dingal. We have to do something...<end>"
+
+["1880144"]
+japanese = "<select><value:$20>%2知っているか？\u3000クリュセイス様は<line-break>解放軍の資金の大部分を、リベルダムや<line-break>ロセンの難民の救済に回すらしい。<line-break>ただでさえ、資金難だというのに<line-break>これでは、いくら資金があっても<line-break>足らないぞ。困ったものだ。<end>クリュセイス様は難民の救済にもっと<line-break>資金を回すように主張しているそうだ。<line-break>以前は非市民と毛嫌いしていたのにな。<line-break>今は一刻も早くディンガルを倒して<line-break>難民をこれ以上増やさないことの方が<line-break>重要なんだが。困ったものだ。<end>"
+english = "<select><value:$20>%2Have you heard? Lady Khryuseis apparently intends to spend most of the Liberation Army's funds on relief for the refugees from Liberdam and Rocen. We are already short of money. At this rate, no amount will ever be enough. What a mess.<end>They say Lady Khryuseis is insisting that even more money be devoted to refugee relief. And she used to despise them for being non-citizens. But what matters more right now is defeating Dingal as soon as possible, so we don't end up with even more refugees. What a mess.<end>"
+
+["1880145"]
+japanese = "カルラ軍は町を攻略するときに<line-break>無抵抗の住民には手を出さないように\u3000<line-break>命じているそうです。<line-break>どうやら、皇帝ネメアのお達し<line-break>らしいんですがね。まぁ、<line-break>ありがたいことではあるんですが、\u3000\u3000<end>"
+english = "I hear Karula's Army has orders not to harm civilians who offer no resistance when they take a town. Apparently, the order came from Emperor Nemea himself. Well, I suppose we should be grateful, but...<end>"
+
+["1880146"]
+japanese = "ロセンやリベルダムの郊外に難民が<line-break>あふれているのは、カルラが住民を\u3000\u3000<line-break>殺さなかったからなんだそうです。<line-break>我々解放軍の立場上、彼らを見捨てて<line-break>おけない。それを見すかしたカルラの<line-break>作戦だと言っている人もいましたよ。<end>"
+english = "They say the outskirts of Rocen and Liberdam are overflowing with refugees because Karula spared the people there. Given our position as the Liberation Army, we cannot simply abandon them. Some say Karula foresaw that and made it part of her strategy.<end>"
+
+["1880147"]
+japanese = "<value:$28>、<line-break>これからも、わたくしのことを<line-break>支えていてくださいね。<end>"
+english = "Please continue to support me, <value:$28>.<end>"
+
+["1880148"]
+japanese = "今はうかつには動けません。<line-break>解放軍は、壊滅を免れたとはいえ、<line-break>リベルダムで多くの仲間を失いました。<line-break>これまで以上に慎重に時期を選び、<line-break>ディンガルに気取られないように<line-break>動かなくては。<end>"
+english = "We cannot afford to act rashly now. The Liberation Army may have escaped destruction, but we lost many comrades in Liberdam. We must choose our moment more carefully than ever and move without alerting Dingal.<end>"
+
+["1880149"]
+japanese = "（回収は解放軍に任せよう。）<end>"
+english = "(Best leave the recovery to the Liberation Army.)<end>"
+
+["1880150"]
+japanese = "解放軍メッセージであります。<line-break>予備メッセージの４です。<end>"
+english = ""
+
+["1880151"]
+japanese = "解放軍メッセージであります。<line-break>予備メッセージの５です。<end>"
+english = ""
+
+["1880152"]
+japanese = "解放軍メッセージであります。<line-break>予備メッセージの６です。<end>"
+english = ""
+
+["1880153"]
+japanese = "解放軍メッセージであります。<line-break>予備メッセージの７です。<end>"
+english = ""
+
+["1880154"]
+japanese = "解放軍メッセージであります。<line-break>予備メッセージの８です。<end>"
+english = ""
+
+["1880155"]
+japanese = "解放軍メッセージであります。<line-break>予備メッセージの９です。<end>"
+english = ""
+
+["1880156"]
+japanese = "解放軍メッセージであります。<line-break>予備メッセージの１０です。<end>"
+english = ""
+
+["1880157"]
+japanese = "解放軍イベント終端<end>"
+english = ""

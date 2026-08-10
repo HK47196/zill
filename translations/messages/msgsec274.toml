@@ -1,0 +1,29 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2740000"]
+japanese = "ジリオン＆イーシャイベント18用開始<end>"
+english = ""
+
+["2740001"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000よかった…。<line-break>\u3000\u3000\u3000\u3000どうにか声が届いたようだ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000俺の名はジリオン。<end>"
+english = "Thank goodness... It seems my voice reached you somehow. My name is Zillion.<end>"
+
+["2740002"]
+japanese = "\u3000<line-break>\u3000\u3000\u3000そうだ。アルノートゥンの天経院で<line-break>\u3000\u3000\u3000\u3000お前が見たあのクリスタル…。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000俺は今もあの中で<line-break>\u3000\u3000\u3000\u3000\u3000\u3000眠りについている。<end>"
+english = "Yes. That crystal you saw at the Tenkeiin in Alnortun... I still lie sleeping within it.<end>"
+
+["2740003"]
+japanese = "\u3000<line-break>\u3000\u3000お前に頼みたいことがあって来たんだ。<line-break>\u3000<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000勝手な願いだとわかっているが、<line-break>\u3000\u3000\u3000イーシャを支えてやってほしい。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000今までイーシャは<line-break>\u3000\u3000同化の髪飾りの力と俺への想いだけで<line-break>\u3000\u3000\u3000\u3000\u3000\u3000存在を保ってきた。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000だけど、少しずつイーシャは<line-break>\u3000\u3000\u3000お前のことを想い、お前のために<line-break>\u3000\u3000\u3000\u3000\u3000生き始めようとしている。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000お前への想いで同化の髪飾りの力を<line-break>\u3000\u3000\u3000維持できるのなら、俺はそれを望む。<end>"
+english = "I came because I have a favor to ask of you. I know it is selfish of me, but I want you to be there for Iria. Until now, only the power of the Assimilation Hair Ornament and her feelings for me have sustained her existence. But little by little, she is developing feelings for you and beginning to live for your sake. If her feelings for you can sustain the power of the Assimilation Hair Ornament, then that is what I want.<end>"
+
+["2740004"]
+japanese = "\u3000\u3000わかっている。イーシャは優しい女だ。<line-break>\u3000\u3000だからこそ、俺への義務や責任じゃなく、<line-break>\u3000\u3000あいつには自分の道を選んでほしい。<line-break>\u3000<line-break>\u3000\u3000お前とならイーシャも自分を偽らず<line-break>\u3000\u3000\u3000\u3000\u3000素直に生きてゆける。<line-break>\u3000\u3000あいつの幸せ。それだけが俺の願いだ。<end>"
+english = "I know. Iria is a kind woman. That is precisely why I want her to choose her own path, not act out of duty or responsibility to me. With you, Iria can be true to herself and live honestly. Her happiness is all I wish for.<end>"
+
+["2740005"]
+japanese = "\u3000\u3000ありがとう。<value:$28>。<line-break>\u3000\u3000イーシャのことを頼む。<end>"
+english = "Thank you, <value:$28>. Please take care of Iria.<end>"
+
+["2740006"]
+japanese = "ジリオン＆イーシャイベント18用開終端<end>"
+english = ""

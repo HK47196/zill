@@ -1,0 +1,217 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["470000"]
+japanese = "ガルドラン・ボリューム２開始<end>"
+english = ""
+
+["470001"]
+japanese = "おや、あ～んた、な～んとか君じゃね。<end>"
+english = "Well, if it isn't... er, What's-your-name.<end>"
+
+["470002"]
+japanese = "わし、あんたを、よ～く覚えとるのね。<line-break>ほ～とんど忘れとるんじゃけどね。<end>"
+english = "I remember you very well, you know. Mind you, I've forgotten most of it.<end>"
+
+["470003"]
+japanese = "と～にかく、世界を回って見聞を広め、<line-break>いろんな人と出会ってほしいんじゃね。<end>"
+english = "Anyway, I want you to travel the world, broaden your horizons, and meet all sorts of people.<end>"
+
+["470004"]
+japanese = "あんた、こ～こには、<line-break>ディードの説明を聞きに来たんじゃね。<end>"
+english = "You've come here for an explanation of Deed, haven't you?<end>"
+
+["470005"]
+japanese = "その通り<end>"
+english = "That's right.<end>"
+
+["470006"]
+japanese = "いや違う<end>"
+english = "No, that's not right.<end>"
+
+["470007"]
+japanese = "ディードの使い方はわかっと～るのね。<end>"
+english = "So you know how to use a Deed, eh?<end>"
+
+["470008"]
+japanese = "そ～れなら、わしががかわいこちゃんを<line-break>紹介しちゃうんじゃね。<end>"
+english = "In that case, I'll introduce you to a pretty young thing.<end>"
+
+["470009"]
+japanese = "アミラルの宿屋にルフレンちゃんて娘が<line-break>いるから、会いに行くといいんじゃね。<end>"
+english = "There's a girl named Lufren at the inn in Amiral. You ought to go and meet her.<end>"
+
+["470010"]
+japanese = "ディードの使い方はわかっと～るのね。<end>"
+english = "So you know how to use a Deed, eh?<end>"
+
+["470011"]
+japanese = "それなら、ディードを使って大活躍して<line-break>わしの偉さを広めて欲しいんじゃね。<end>"
+english = "Then use Deeds to do great things and spread the word of my greatness!<end>"
+
+["470012"]
+japanese = "ティラの娘と呼ばれるいにしえの怪物、<line-break>アレを退治して、活躍してほしいのね。<end>"
+english = "I want you to make a name for yourself by defeating that ancient monster called the Daughter of Tira.<end>"
+
+["470013"]
+japanese = "そ～れじゃ、ロジクーニンの豆知識を\u3000<line-break>ひ～とつ披露するのね。<end>"
+english = "Well then, let Rojikunin share one little tidbit with you.<end>"
+
+["470014"]
+japanese = "<select><value:$20>%20アミラルのドラゴン祭りは<line-break>毎年、１２月の３１日なんじゃね。<end>テラネのボンガとロストールのオッシは<line-break>実は、知り合いだったりするんじゃね。<line-break><line-break>実は、結構、因縁深い２人なんじゃね。<line-break>２人は闘技場でつなっがと～るのね。<line-break>知らない人の話だったらゴメンね。<end>神の手のロッシマの<line-break>誕生日は５月の７日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>ツェラシェルの妹ヴァイライラの<line-break>誕生日は１月の１４日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>ツェラシェルの妹ヴィアリアリの<line-break>誕生日は１月の１４日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>テラネの宿屋のおじさんの<line-break>誕生日は５月の１１日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>テラネの宿屋のおばさんの<line-break>誕生日は７月の１９日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>なんにもならなんじゃけどね。<end>ロストールの剣術指南オッシの<line-break>誕生日は８月の１２日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>なんにもならなんじゃけどね。<end>ウルカーンの長老シェムハザの<line-break>誕生日は１１月の４日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>なんにもならなんじゃけどね。<end>フゴーの護衛兼鑑定人ダイダロの<line-break>誕生日は１０月の１０日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>なんにもならなんじゃけどね。<end>フゴーの奥さん兼影武者のフゴー夫人の<line-break>誕生日は２月の１７日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>なんにもならなんじゃけどね。<end>エルズのテレジアの<line-break>誕生日は１０月の１９日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>なんにもならなんじゃけどね。<end>ファーロス家当主、大公ノヴィンの<line-break>誕生日は５月の７日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>なんにもならなんじゃけどね。<end>ロストールの酒場のフェルムちゃんの<line-break>誕生日は５月の１１日な～んじゃね。<line-break><line-break>わしの誕生日、１月１日じゃからね。<line-break>わしとフェルムちゃんの<line-break>相性はどうか知りたいんじゃね。<end>エルズの竜の座の女官ベモラベラモの<line-break>誕生日は１２月の１７日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>アミラルのロベルトの奥さんポーリアの<line-break>誕生日は７月の６日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>ノーブルの悪代官ボルボラ兄弟の<line-break>誕生日は１２月の８日な～んじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>テラネの木こりボンガの<line-break>誕生日は１２月の１７日なんじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>テラネの木こりボンガの奥さんの<line-break>誕生日は５月の５日なんじゃね。<line-break><line-break>知らない人の話だったらゴメンね。<line-break>それに、そんなこと知ってても、<line-break>な～んにもならなんじゃけどね。<end>アミラルの宿屋の娘ルフレンちゃんの<line-break>誕生日は２月の２４日なんじゃね。<line-break><line-break>わしの誕生日は１月１日じゃからね。<line-break>わしとルフレンちゃんの<line-break>相性はどうか知りたいんじゃね。<end>"
+english = "<select><value:$20>%20Amiral's Dragon Festival is held every year on December 31.<end>Bonga of Terane and Ossi of Rostorl actually know each other. There's quite a history between those two, in fact. The arena is what connects them. Sorry if you've no idea who I'm talking about.<end>Rossima of the Hand of God was born on May 7. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>Tserashel's younger sister Vailaila was born on January 14. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>Tserashel's younger sister Vialiali was born on January 14. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>The man at the inn in Terane was born on May 11. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>The woman at the inn in Terane was born on July 19. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>Ossi, the swordsmanship instructor in Rostorl, was born on August 12. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>Shemhaza, the elder of Urkaan, was born on November 4. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>Daidaro, Hugo's escort and appraiser, was born on October 10. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>Mrs. Hugo, Hugo's wife and double, was born on February 17. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>Terezia of Elz was born on October 19. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>Grand Duke Novin, head of the Pharos family, was born on May 7. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>Ferme from the tavern in Rostorl was born on May 11. My birthday is January 1, you know. I'd like to know how well Ferme and I would match.<end>Bemora Beramo, a court lady at the Seat of the Dragon in Elz, was born on December 17. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>Porlia, Roberto's wife in Amiral, was born on July 6. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>The corrupt magistrates known as the Bolbora brothers of Noble were born on December 8. Sorry if you've no idea who they are. Not that knowing this does you any good.<end>Bonga, the woodcutter from Terane, was born on December 17. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>The wife of Bonga, the woodcutter from Terane, was born on May 5. Sorry if you've no idea who that is. Not that knowing this does you any good.<end>Lufren, the innkeeper's daughter in Amiral, was born on February 24. My birthday is January 1, you know. I'd like to know how well Lufren and I would match.<end>"
+
+["470015"]
+japanese = "ま～、今、ディードの研究を<line-break>鋭意、進めとるからね～。<line-break><line-break>ま～た、日をあらためて来～てくれたら<line-break>新し～い研究の成果を実験させて<line-break>もらうから、ま～た来るんじゃね～。<end>"
+english = "Well, I'm hard at work researching Deeds at the moment. Come back another day and I'll have you help me test the latest results of my research. So do come again, eh?<end>"
+
+["470016"]
+japanese = "大丈夫か！？<line-break>俺様が通りかかったからには<line-break>もう、助かったも同然だぞ！<end>"
+english = "Are you all right?! Now that I've come along, you're as good as saved!<end>"
+
+["470017"]
+japanese = "おなかが…すいて…。<end>"
+english = "I'm... hungry...<end>"
+
+["470018"]
+japanese = "くっ、飢えか！\u3000<line-break>よし、任せろ！！\u3000<end>"
+english = "Gah, you're starving! Very well―leave it to me!<end>"
+
+["470019"]
+japanese = "さあ、これだ！<line-break>この勇者の熱い魂のこもった<line-break>パンを食べるがいい！<end>"
+english = "Here it is! Eat this bread, infused with the fiery soul of the Hero himself!<end>"
+
+["470020"]
+japanese = "あ、ありがとうございました。<line-break>これで元気が出ました。<end>"
+english = "Oh, thank you very much. I feel better already.<end>"
+
+["470021"]
+japanese = "勇者の熱き魂に触れる者<line-break>また、ひとり、か。<end>"
+english = "Another soul touched by the fiery spirit of a Hero...<end>"
+
+["470022"]
+japanese = "…しまった！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>俺様自身、何日も食ってなくて…<line-break>餓死寸前であのパンを拾ったのを<line-break>忘れていた…！<end>"
+english = "Damn it! I haven't eaten in days myself... I'd forgotten I picked up that bread when I was on the brink of starving to death!<end>"
+
+["470023"]
+japanese = "ぐふっ！<end>"
+english = "Guh!<end>"
+
+["470024"]
+japanese = "へへっ！\u3000無様だな。<line-break>未来の勇者様よお！？\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>調子に乗って人助けして<line-break>自分は行き倒れか？<line-break>とんだおもしろ怪物だな、お前は。<end>"
+english = "Heh! What a sorry sight you are, O future Hero! You got carried away helping someone, and now you're the one lying in the road? You're one hilarious monster.<end>"
+
+["470025"]
+japanese = "ふっ、熱き魂を持つ者は<line-break>その熱き魂を正しく燃やすために<line-break>日々戦わねばならないのだ…。<end>"
+english = "Hmph. Those with fiery souls must fight each day to ensure that fire burns true...<end>"
+
+["470026"]
+japanese = "あぁ？\u3000いきなり何言い出すんだ？<end>"
+english = "Huh? What are you babbling about all of a sudden?<end>"
+
+["470027"]
+japanese = "貴様……あのテラネの少年だな？\u3000\u3000\u3000<line-break>貴様の友人たちが、<line-break>俺様に教えてくれたのだ。<line-break>彼らは、復讐のために<line-break>俺様をつけまわしていた…はずだった。<line-break>しかし、彼らは俺様を救ってくれた。<end>"
+english = "You... You're that boy from Terane, aren't you? Your friends taught me something. They had been following me to take revenge... or so I thought. Yet in the end, they saved me.<end>"
+
+["470028"]
+japanese = "いや、少し違うな。彼らは<line-break>自分の中の正しさのために力を使い、<line-break>その結果として俺様を救ったのだ。<line-break>俺様は震えた…。そして、知ったのだ。<line-break>熱き魂が正しき力を使うとき、<line-break>他人の魂をも、熱く燃やすと。<end>"
+english = "No, that's not quite it. They used their strength in service of their own sense of what was right, and as a result, they saved me. I trembled... and then I understood: when a fiery soul uses righteous power, it sets other souls ablaze as well.<end>"
+
+["470029"]
+japanese = "俺様と同じように、彼らもまた\u3000\u3000\u3000\u3000<line-break>未来をひらく熱き魂だったのだ！<line-break>\u3000<line-break>…そして俺様は自分の道を確信した。<line-break>この熱き魂の燃えるがままに<line-break>生涯を戦い抜く、それが未来の勇者だ！<end>"
+english = "Like me, they too were fiery souls opening the way to the future! And with that, I became certain of my own path. To fight all my life as this fiery soul commands―that is what it means to be a future Hero!<end>"
+
+["470030"]
+japanese = "テラネの少年…、貴様もいつか<line-break>その魂を熱く燃やすのだろうな。<line-break>あの熱き魂たちの友なのだから…。<end>"
+english = "Boy from Terane... one day, your soul too will burn fiercely. You are a friend to those fiery souls, after all...<end>"
+
+["470031"]
+japanese = "…けっ、ガルドランのくせに<line-break>偉そうに語りやがって…。<end>"
+english = "Tch... Girldlan, talking all high and mighty...<end>"
+
+["470032"]
+japanese = "ナッジ…！？<end>"
+english = "Nadge...?!<end>"
+
+["470033"]
+japanese = "ねえ、ヴァン！\u3000何をしたの！！<line-break>僕、ヴァンのこと…心配して…なのに！<end>"
+english = "Van! What did you do?! After I was so worried about you...!<end>"
+
+["470034"]
+japanese = "ははっ、<line-break>俺がガルドランなんか相手にするかよ。<line-break>\u3000<line-break>こいつは別口でおねんねしてるんだ。<line-break>…そんなに騒ぐなよ、大丈夫だ。<end>"
+english = "Ha! Like I'd bother fighting Girldlan. This guy's having a little nap for some other reason. Don't make such a fuss. It's all right.<end>"
+
+["470035"]
+japanese = "本当？<end>"
+english = "Really?<end>"
+
+["470036"]
+japanese = "ああ、本当だって。<line-break>ところで、<value:$28>…。<end>"
+english = "Yeah, really. By the way, <value:$28>...<end>"
+
+["470037"]
+japanese = "俺も仲間に加えてくれ、<line-break>俺、お前らと一緒に旅がしたいんだ。<end>"
+english = "Let me join you. I want to travel with all of you.<end>"
+
+["470038"]
+japanese = "…<value:$28>！<line-break>ヴァンには宿屋が…。<end>"
+english = "<value:$28>! But Van has the inn...<end>"
+
+["470039"]
+japanese = "いいって、いいって。<line-break>じゃ、よろしくな、<value:$28>。<end>"
+english = "All right, all right. I'm counting on you, then, <value:$28>.<end>"
+
+["470040"]
+japanese = "ねえ、本当にガルドランを<line-break>放っておいていいのかなあ。<end>"
+english = "Do you really think we should just leave Girldlan here?<end>"
+
+["470041"]
+japanese = "いいさ。あいつの熱き魂とやらで<line-break>なんとかするだろ。行こうぜ。<end>"
+english = "He'll be fine. That fiery soul of his will see him through somehow. Come on, let's go.<end>"
+
+["470042"]
+japanese = "じゃ、俺はこいつの面倒みるから。<line-break>あとで、一緒にな。<end>"
+english = "Then I'll look after this guy. I'll join you later.<end>"
+
+["470043"]
+japanese = "…ハラが…減った…。<line-break>もう何も見えない…。<line-break>もう何も聞こえない…。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>だが、そこの君よ、安心してくれ。<line-break>未来の勇者は必ずまた立ちあがる…。<end>"
+english = "I'm... hungry... I can't see anything anymore... I can't hear anything anymore... But you there, rest assured. The Hero of the future will rise again, without fail...<end>"
+
+["470044"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ２の予備その２だ！<end>"
+english = ""
+
+["470045"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ２の予備その３だ！<end>"
+english = ""
+
+["470046"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ２の予備その４だ！<end>"
+english = ""
+
+["470047"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ２の予備その５だ！<end>"
+english = ""
+
+["470048"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ２の予備その６だ！<end>"
+english = ""
+
+["470049"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ２の予備その７だ！<end>"
+english = ""
+
+["470050"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ２の予備その８だ！<end>"
+english = ""
+
+["470051"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ２の予備その９だ！<end>"
+english = ""
+
+["470052"]
+japanese = "俺様は未来の勇者ガルドラン！<line-break>Ｖ２の予備その１０だ！<end>"
+english = ""
+
+["470053"]
+japanese = "ガルドラン・ボリューム２終端<end>"
+english = ""

@@ -1,0 +1,897 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1230000"]
+japanese = "（ロストールの冒険者ギルドで青年に、<line-break>\u3000城塞都市跡にいる魔物を<line-break>\u3000倒してくれと頼まれた）<line-break>（彼の仲間は、その魔物に殺された<line-break>\u3000らしい）<end>"
+english = "(At the Adventurers' Guild in Rostorl, a young man asked you to defeat a monster in the Fortress City Ruins.) (Apparently, that monster killed his companions.)<end>"
+
+["1230001"]
+japanese = "あなたに仇討ちを依頼してきた青年の<line-break>仲間を殺した魔物は、<line-break>城塞都市跡にいるのよ。<line-break>駆け出しとはいえ冒険者を何人も<line-break>殺している魔物よ。<line-break>油断しないでね。<end>"
+english = "The monster that killed the companions of the young man who asked you to avenge them is in the Fortress City Ruins. Novices though they were, it has killed several adventurers. Don't let your guard down.<end>"
+
+["1230002"]
+japanese = "その青年は、仲間の仇討ちのために、<line-break>自分のケガも省みず有り金をはたいて、<line-break>お主を雇ったのだな？<line-break>よし！\u3000その仇討ち、わしも手伝う。<line-break>共に魔物とやらを成敗しようぞ。<line-break>城塞都市跡に出発じゃ。<end>"
+english = "So that young man spent every coin he had to hire you to avenge his companions, despite his own injuries? Very well! I shall help you avenge them. Together, we shall punish this monster. Let us depart for the Fortress City Ruins!<end>"
+
+["1230003"]
+japanese = "仇討ちなんて物騒ですね。<line-break>でも、時代錯誤な<line-break>男のロマンを感じます。<line-break><value:$28>様、<line-break>がんばってくださいね。<line-break>私、応援してますから。<end>"
+english = "Vengeance is such a violent business. Still, it has the air of some old-fashioned male fantasy. Do your best, <value:$28>. I'll be cheering you on.<end>"
+
+["1230004"]
+japanese = "俺はいつでも出発できるぜ。<line-break>凶暴な魔物だろうが、何だろうが、<line-break>俺の鉄拳で叩きつぶしてやる！<end>"
+english = "I'm ready to leave whenever you are. Savage monster or whatever else it may be, I'll smash it flat with my iron fist!<end>"
+
+["1230005"]
+japanese = "ロストールで会った<line-break>冒険者との約束を守るために、<line-break>城塞都市跡にいる魔物を倒すんだね。<line-break>相手は、冒険者を何人も殺している<line-break>凶暴な魔物だよ。<line-break>絶対に油断しちゃダメだからね。<end>"
+english = "So you're going to defeat the monster in the Fortress City Ruins and keep your promise to the adventurer you met in Rostorl. It's a savage beast that's already killed several adventurers. You absolutely must not let your guard down.<end>"
+
+["1230006"]
+japanese = "仇討ちなのね…。<line-break>行くかどうかは、あなたが決めて。<line-break>私はあなたの意志に従うわ。<end>"
+english = "So this is about revenge... Whether we go is up to you. I'll abide by your decision.<end>"
+
+["1230007"]
+japanese = "きっと、若すぎるあまり、<line-break>勇み足が過ぎたのでしょうね。<line-break>痛ましいことです。<line-break>城塞都市跡へ行くのなら、<line-break>せめてあなたは万全を期しなさい。<line-break>それが彼らのためでもあります。<end>"
+english = "They were surely so young that they rushed in too recklessly. How tragic. If you go to the Fortress City Ruins, at least make every possible preparation. That would be for their sake as well.<end>"
+
+["1230008"]
+japanese = "仲間がもう死んじゃってるなら、<line-break><value:$28>が魔物を倒しても<line-break>何の得にもならないのにねぇ。<line-break>それでも仇討ちを依頼するんだから、<line-break>人の心って、不思議なもんだわ。<end>"
+english = "With his companions already dead, <value:$28> gains nothing by defeating the monster. Yet he still asks for revenge. The human heart is a strange thing.<end>"
+
+["1230009"]
+japanese = "ロストールで受けた依頼だろ？<line-break>魔物に仲間を殺された冒険者の<line-break>仇を討ってやるんだよな。<line-break>姉ちゃんは、その魔物に勝つ自信が<line-break>あるから引き受けたんだろ？<line-break>まさか、そいつに同情したのか！<end>"
+english = "This is the job you took in Rostorl, right? You're avenging the adventurer whose companions were killed by a monster. You accepted because you're confident you can beat it, right, sis? Don't tell me you felt sorry for the guy!<end>"
+
+["1230010"]
+japanese = "私には、その若者の気持ちが<line-break>痛いほどよくわかるわ。<line-break><line-break><value:$28>、<line-break>あなたが行かないのであれば、<line-break>私が城塞都市跡へ行くわ。<end>"
+english = "I understand that young man's feelings all too painfully. <value:$28>, if you won't go, then I will go to the Fortress City Ruins myself.<end>"
+
+["1230011"]
+japanese = "お前さんは今や、駆け出しの<line-break>冒険者たちの目標だ。<line-break>やつらの期待を裏切らないためにも、<line-break>今回の仇討ちは成功させろよ。<line-break>城塞都市のモンスターは強い。<line-break>油断はするな。<end>"
+english = "You've become a role model for novice adventurers. To live up to their expectations, make sure this quest for vengeance succeeds. The monster in the Fortress City Ruins is strong. Don't let your guard down.<end>"
+
+["1230012"]
+japanese = "城塞都市跡に現れる魔物か…。<line-break>気になる事がある。<line-break>付き合ってやってもいいぞ。<end>"
+english = "A monster appearing in the Fortress City Ruins... Something about that concerns me. I suppose I could accompany you.<end>"
+
+["1230013"]
+japanese = "お主ほど有名になってしまうと、<line-break>他の冒険者の手本となるように<line-break>行動せねばいかんぞ。<line-break>城塞都市跡に現れる魔物とやらも、<line-break>ほっとけば犠牲者が増える一方じゃ。<line-break>ここは、お主が倒すしかないぞ。<end>"
+english = "Now that you have become so famous, you must conduct yourself as an example to other adventurers. If this monster in the Fortress City Ruins is left alone, the number of victims will only grow. You have no choice but to defeat it.<end>"
+
+["1230014"]
+japanese = "ロストールの冒険者の間でも、<line-break>城塞都市跡の魔物は問題に<line-break>なっているみたいだよ。<line-break>ほっとけば新たな犠牲者が出るかも<line-break>しれないし、僕たちで何とかしようよ。<end>"
+english = "It sounds like the monster in the Fortress City Ruins has become a problem for Rostorl's adventurers too. If we leave it alone, there may be more victims. Let's do something about it ourselves.<end>"
+
+["1230015"]
+japanese = "死んだ仲間の仇討ちか…。<line-break>無念を晴らしてやりたい気持ちは<line-break>私にもよくわかるが、<line-break>君まで犠牲になってはならない。<line-break>城塞都市跡に行くのなら、<line-break>万全を期すべきだ。<end>"
+english = "Avenging fallen companions... I understand the desire to avenge them, but you must not become another victim. If you go to the Fortress City Ruins, you should make every possible preparation.<end>"
+
+["1230016"]
+japanese = "仇討ちなんて、<line-break>ほ～んと人間って野蛮よね。<line-break>だから戦争なんて起こすんだわ。<line-break>高貴で優雅で知性あふれる<line-break>アタクシたちを見習って欲しいものね。<end>"
+english = "Revenge? Humans truly are so barbaric. That's why they start wars. They should learn from us: noble, graceful, and brimming with intellect.<end>"
+
+["1230017"]
+japanese = "あだー！\u3000ウッ！\u3000ちぃいいい！<line-break>仇討ちに失敗してケガをしたでござる。<line-break><line-break>少し冗長でござったな。<line-break>拙者、さらに精進する所存。<line-break>兄弟子もがんばってくだされ。<end>"
+english = "Avenge―ow! Ugh! Gaaah! I failed to avenge them and was injured. That was a little long-winded. I intend to train even harder. Do your best as well, senior disciple.<end>"
+
+["1230018"]
+japanese = "ロストールの酒場で教えてもらったの。<line-break>城塞都市跡に凶暴な魔物が住み着いて<line-break>冒険者を襲っているんだってぇ。<line-break><value:$28>が倒してって<line-break>頼まれたのも、きっとその魔物だよ。<end>"
+english = "I heard about it at a tavern in Rostorl. A vicious monster has settled in the Fortress City Ruins and is attacking adventurers. I bet it's the same monster <value:$28> was asked to defeat.<end>"
+
+["1230019"]
+japanese = "………………。<line-break><line-break><line-break>相手の力量を見誤れば、死ぬ。<line-break>忘れるな。<end>"
+english = "........... Misjudge your opponent's strength and you die. Never forget that.<end>"
+
+["1230020"]
+japanese = "無力がために、次々仲間たちが<line-break>殺されていく…。<line-break>さぞ無念だったことだろうな。<line-break>しかし、仇討ちを他人に頼むと<line-break>なると、話は別だ。その者の命まで<line-break>捧げることとなったら、どうする。<end>"
+english = "To be powerless as one companion after another is killed... The frustration must have been unbearable. But asking someone else to take revenge is another matter. What if it costs that person a life as well?<end>"
+
+["1230021"]
+japanese = "城塞都市跡で次々に冒険者を襲っている<line-break>魔物はね、キマイラみたいに頭が２個<line-break>あって、しっぽがヘビなんだって。<line-break>それからねロストールの冒険者たちは、<line-break><value:$28>が魔物を倒してくれる<line-break>のを待ち望んでるみたいだよ。<end>"
+english = "They say the monster attacking adventurers in the Fortress City Ruins has two heads like a Chimera and a snake for a tail. And it sounds like the adventurers of Rostorl are eagerly waiting for <value:$28> to defeat it.<end>"
+
+["1230022"]
+japanese = "駆け出しの身で城塞都市跡に行くとは<line-break>軽率さゆえ身を滅ぼしたと<line-break>言われても仕方がない。<line-break>しかし、彼らのおかげで魔物の<line-break>危険さがわかったというわけだ。<line-break>放っておくわけにはいかないな。<end>"
+english = "They were mere novices when they went to the Fortress City Ruins, so no one could deny that their recklessness cost them their lives. But thanks to them, we now know how dangerous the monster is. We cannot leave it alone.<end>"
+
+["1230023"]
+japanese = "町で聞いた噂が確かならば、<line-break>城塞都市跡に現れる魔物は、<line-break>かなり強大なもののようです。<line-break>仇討ちはともかく、このまま<line-break>放っておくのは、犠牲者を増やす<line-break>ことにつながるかもしれません。<end>"
+english = "If the rumors we heard in town are true, the monster appearing in the Fortress City Ruins is extremely powerful. Revenge aside, leaving it alone may lead to more victims.<end>"
+
+["1230024"]
+japanese = "あの人たちのかたきを討ちに行くのね？<line-break>頑張ろう、<value:$28>。<end>"
+english = "We're going to avenge those people, right? Let's do our best, <value:$28>.<end>"
+
+["1230025"]
+japanese = "…まこと、けしからん。<line-break>道理知らずの冒険者気取りが、<line-break>むざむざ落命なぞしおって！<line-break>城塞都市跡へ向かおう。<line-break>魔物は、獲物ではないのじゃ…。<end>"
+english = "...Truly disgraceful. Those ignorant would-be adventurers went and threw their lives away! Let us head to the Fortress City Ruins. A monster is no mere quarry...<end>"
+
+["1230026"]
+japanese = "あの若者、さぞ無念だったろうな。<line-break>仲間が犠牲になっていくのを目の前に<line-break>どうもできなかったとは…。<line-break><value:$28>に出会えたのは<line-break>せめてもの幸いだっただろう。<line-break>これで仇が討たれるのだからな。<end>"
+english = "That young man must have felt utterly helpless. To watch his companions fall and be unable to do anything... Meeting <value:$28> was at least one stroke of good fortune. Now they will be avenged.<end>"
+
+["1230027"]
+japanese = "依頼してきた男の仲間を殺した魔物は、<line-break>城塞都市跡にいるそうだ。<line-break><line-break>あいつの無念を晴らすために、<line-break>行くぞ、<value:$28>。<end>"
+english = "The monster that killed the client's companions is apparently in the Fortress City Ruins. Let's go, <value:$28>, and lay his regrets to rest.<end>"
+
+["1230028"]
+japanese = "あの冒険者もかわいそうね…。<line-break>とにかく仇を討ってあげましょ。<line-break>魔物は城塞都市跡にいるわ。<line-break>でもね、相手の力を見誤るっていうのは<line-break>命に関わることなのよ。<line-break>肝に銘じておいて、<value:$28>。<end>"
+english = "I feel sorry for that adventurer too... In any case, let's avenge his companions. The monster is in the Fortress City Ruins. But misjudging an opponent's strength can cost you your life. Take that to heart, <value:$28>.<end>"
+
+["1230029"]
+japanese = "………………。<end>"
+english = "...........<end>"
+
+["1230030"]
+japanese = "魔物に仲間たちを殺された…。<line-break>その気持ち、よくわかります。<line-break><line-break>死んでいった彼の仲間たちのためにも、<line-break>城塞都市跡の魔物を倒しましょう。<end>"
+english = "To have your companions killed by a monster... I know that pain well. For the sake of the companions he lost, let us defeat the monster in the Fortress City Ruins.<end>"
+
+["1230031"]
+japanese = "………………。<end>"
+english = "...........<end>"
+
+["1230032"]
+japanese = "（テラネの冒険者ギルドで、<line-break>\u3000紺碧の洞窟を荒らす怪物の退治を<line-break>\u3000依頼された）<end>"
+english = "(At the Adventurers' Guild in Terane, we were hired to defeat the monster ravaging Azure Cave.)<end>"
+
+["1230033"]
+japanese = "テラネで依頼された仕事ね。<line-break>紺碧の洞窟のコロル石は、<line-break>ディンガル帝国の収入源のひとつよ。<line-break>この仕事のできしだいでは、<line-break>私たちの働きが帝国に認められて<line-break>騎士になれる…なんて無理か。<end>"
+english = "This is the job we took in Terane. The Korol Stone in Azure Cave is one of the Dingal Empire's sources of revenue. If we handle this job well, perhaps the Empire will recognize our service and make us knights... No, I suppose that's impossible.<end>"
+
+["1230034"]
+japanese = "５０００ギアとは、<line-break>帝国のコロル石採掘部門も<line-break>ずいぶんとケチじゃな。<line-break>紺碧の洞窟は、お主が依頼を受けた<line-break>テラネの北にある。<line-break>準備ができたら出発しようぞ。<end>"
+english = "Five thousand Gea? The Empire's Korol Stone mining division is rather stingy. Azure Cave lies north of Terane, where you accepted the job. Let us depart once you are ready.<end>"
+
+["1230035"]
+japanese = "その怪物をやっつけるだけで<line-break>５０００ギアも、もらえるんですか！？<line-break>す、すごいです…。<line-break>冒険者って本当にもうかるんですね。<line-break>私、応援してますから、<line-break>がんばってくださいね。<end>"
+english = "You get five thousand Gea just for defeating that monster?! Th-That's incredible... Adventurers really do make a lot of money. I'll be cheering you on, so do your best!<end>"
+
+["1230036"]
+japanese = "この怪物退治は、ほんとうに<line-break>テラネの冒険者ギルドで引き受けた<line-break>仕事なんだな！<line-break>よっしゃぁああ！<line-break>故郷に錦を飾るチャンス到来。<line-break>親父！\u3000おふくろ！\u3000見ててくれよ！<end>"
+english = "You really took this monster-hunting job at the Adventurers' Guild in Terane, right? All riiight! My chance to return home in glory has finally come. Dad! Mom! Watch me!<end>"
+
+["1230037"]
+japanese = "テラネのギルドで依頼されて、<line-break>紺碧の洞窟へ怪物退治に行くんでしょ。<line-break>ふふふ、ボクには何でもお見通しさ。<line-break>報酬が５０００ギアだってこともね。<line-break>今回の報酬でボクの装備品を鍛えて<line-break>欲しいなぁ…なんてダメ？<end>"
+english = "The Guild in Terane hired you to hunt a monster in Azure Cave, right? Heh heh, I know everything. Even that the reward is five thousand Gea. Maybe you could use the money to improve my equipment... No?<end>"
+
+["1230038"]
+japanese = "テラネで依頼されたのは、<line-break>紺碧の洞窟での怪物退治よ。<line-break><line-break>さすがに紺碧の洞窟まで行くとなると<line-break>辺境という気がするわね。<end>"
+english = "The job you took in Terane is to hunt a monster in Azure Cave. Going all the way to Azure Cave really does feel like venturing into the frontier.<end>"
+
+["1230039"]
+japanese = "確か、テラネで依頼されたのは、<line-break>紺碧の洞窟の怪物退治だった<line-break>はずですね。<end>"
+english = "If I remember correctly, the job you took in Terane was to hunt the monster in Azure Cave.<end>"
+
+["1230040"]
+japanese = "今度は紺碧の洞窟で怪物退治？<line-break>報酬が高いのはいいけど、<line-break>ずいぶん遠くまで行くのねぇ～。<end>"
+english = "Now we're hunting a monster in Azure Cave? A big reward is nice, but we're going an awfully long way.<end>"
+
+["1230041"]
+japanese = "姉ちゃん聞いたぜ！<line-break>テラネで引き受けた怪物退治の仕事は、<line-break>成功報酬が５０００ギアなんだって！<line-break>俺、冒険者やっててよかったよ。<line-break>もちろん畑仕事も好きだけど、<line-break>それじゃ大金は手に入らないからな。<end>"
+english = "Sis, I heard! The monster-hunting job you took in Terane pays five thousand Gea if you succeed! I'm glad I became an adventurer. I like farming too, of course, but it won't make me rich.<end>"
+
+["1230042"]
+japanese = "紺碧の洞窟といえば、コロル石の<line-break>採掘場がある。帝国側からしても<line-break>無関係の場所ではないわ。<end>"
+english = "Azure Cave contains a Korol Stone mine. The Empire has a stake in the place too.<end>"
+
+["1230043"]
+japanese = "普通は帝国の依頼した仕事なんて、<line-break>腕利きの冒険者じゃないと<line-break>冒険者ギルドも紹介しないもんだ。<line-break>それが依頼されたってんだから、<line-break>お前さんも腕利き冒険者として、<line-break>世間に認められてるってことだぜ。<end>"
+english = "Normally, the Adventurers' Guild only refers jobs from the Empire to highly skilled adventurers. Since they offered it to you, that means people now recognize you as a skilled adventurer too.<end>"
+
+["1230044"]
+japanese = "紺碧の洞窟の怪物か…。<line-break>気になる事がある。<line-break>付き合ってやってもいいぞ。<end>"
+english = "The monster in Azure Cave... Something about that concerns me. I suppose I could accompany you.<end>"
+
+["1230045"]
+japanese = "帝国の騎士団もふがいないのう。<line-break>怪物退治など、自分たちで<line-break>やればよかろうに。<line-break>それとも、そのような事に<line-break>騎士団を出せない事情がある<line-break>ということじゃろうか。<end>"
+english = "The Empire's knights are a sorry lot. Surely they could hunt the monster themselves. Or is there some reason they cannot deploy the knights for such a task?<end>"
+
+["1230046"]
+japanese = "テラネの町は冒険者に冷たいから、<line-break>あまり冒険者が集まらないんだ。<line-break>ギルドの主人も困っていたと思うよ。<line-break>だから、もしも僕たちがこの仕事を<line-break>失敗したら、他にやってくれる人は<line-break>いないよ。<end>"
+english = "Terane isn't friendly to adventurers, so not many gather there. I think the Guildmaster was having trouble because of that. If we fail this job, there may be no one else willing to do it.<end>"
+
+["1230047"]
+japanese = "テラネのギルドで依頼されたのは<line-break>紺碧の洞窟の怪物退治だったな。<line-break>気を抜かず、解決しよう。<end>"
+english = "The job we took at the Guild in Terane was to hunt the monster in Azure Cave. Let us stay alert and see it through.<end>"
+
+["1230048"]
+japanese = "ま～た飽きもせず怪物退治ぃ！<line-break>いつになったら冒険のすばらしさを<line-break>教えてくれるわけぇ？<line-break>高貴で知的なアタクシでも、<line-break>がまんの限界ってものがあるわよ！<end>"
+english = "Hunting monsters again? Don't you ever get tired of it?! When are you going to show me the wonders of adventure? Even a noble and intellectual lady such as myself has limits to her patience!<end>"
+
+["1230049"]
+japanese = "紺碧の怪物を貝でぶつ！<line-break>略して、今回ぶつ！<line-break>かかってこんかい！<line-break>おそまつさまでござる。<end>"
+english = "I'll conk the Azure monster with a conch! In short: conch-k it! Come and get conked! Thank you, thank you.<end>"
+
+["1230050"]
+japanese = "紺碧の洞窟の怪物を退治したら、<line-break><value:$28>、テラネのギルドへ<line-break>報告に行くんでしょ。<line-break>テラネのボンガさんはいい人だよぉ。<line-break>ルルアンタ、お菓子をもらっちゃった。<line-break>また今度遊びに行くんだぁ。<end>"
+english = "After defeating the monster in Azure Cave, you're going to report back to the Guild in Terane, right, <value:$28>? Bonga in Terane is really nice. He gave Lulluantha some sweets! I'm going back to visit again sometime.<end>"
+
+["1230051"]
+japanese = "………………。<line-break><line-break><line-break>興味がない。<end>"
+english = "........... I have no interest.<end>"
+
+["1230052"]
+japanese = "紺碧の洞窟も、ディンガルの<line-break>鉱物採掘場のひとつだと聞いた。<line-break><line-break>ならば、わざわざ俺たちが<line-break>出るまでもなかろう？<end>"
+english = "I heard Azure Cave is one of Dingal's mineral mines. If so, surely there is no need for us to intervene.<end>"
+
+["1230053"]
+japanese = "紺碧の洞窟の地底湖ってきれいだよね。<line-break>きれいなものも見られて、報酬も<line-break>もらえるなんて一石二鳥だよ。<line-break>ボクはもう、行く気満々だからぁ。<line-break>いつでも出発できるよっ！<line-break>さあ、しゅっぱーつ！<end>"
+english = "The underground lake in Azure Cave is beautiful, isn't it? We get to see something lovely and earn a reward too―the best of both worlds! I'm already raring to go. I can leave anytime! Come on, let's gooo!<end>"
+
+["1230054"]
+japanese = "報告によると紺碧の洞窟の魔物は<line-break>かなり手ごわい相手らしい。<line-break>君がしくじるとは思えんが…。<line-break>用心はしておいた方がよかろう。<end>"
+english = "According to the reports, the monster in Azure Cave is a formidable opponent. I do not expect you to fail, but caution would still be wise.<end>"
+
+["1230055"]
+japanese = "紺碧の洞窟にはディンガルの<line-break>鉱物資源採掘場があります。<line-break><line-break>そこを取り戻したいというのなら、<line-break>帝国が動くべきではないでしょうか？<line-break>どうお考えです、<value:$28>様？<end>"
+english = "Azure Cave contains one of Dingal's mineral extraction sites. If the Empire wants to reclaim it, should the Empire not take action itself? What do you think, <value:$28>?<end>"
+
+["1230056"]
+japanese = "紺碧の洞窟に行くんだよね。<line-break>でも、ディンガルの土地でしょ？<line-break>どうして冒険者にやらせるのかな？<end>"
+english = "We're going to Azure Cave, right? But that's Dingal territory, isn't it? Why are they making adventurers handle it?<end>"
+
+["1230057"]
+japanese = "美しい地底湖とコロル石産出で知られる<line-break>紺碧の洞窟にも魔物が出現したとな。<line-break>闇の勢いは依然増している…。<line-break>封士と呼ばれた身、<line-break>いざ、紺碧の洞窟へ行くぞ！<end>"
+english = "So a monster has appeared even in Azure Cave, famed for its beautiful underground lake and Korol Stone. The darkness continues to gather strength... As one once called a Sealer, I must answer the call. To Azure Cave!<end>"
+
+["1230058"]
+japanese = "紺碧の洞窟が次の目的地になるとは、<line-break>私たちもずいぶんと遠くへやってきた<line-break>ものだな。<line-break>岬の先は全て無限とも思える大海、<line-break>まさに最果ての地という感じだ。<end>"
+english = "To think Azure Cave would be our next destination. We truly have come a long way. Beyond the cape lies nothing but a vast sea that seems infinite. It truly feels like the end of the world.<end>"
+
+["1230059"]
+japanese = "紺碧の洞窟はテラネの北にある。<line-break>おそらく強力な相手だ、気を抜くな。<end>"
+english = "Azure Cave is north of Terane. Our opponent is probably powerful, so stay alert.<end>"
+
+["1230060"]
+japanese = "報酬が高ければ高いほど<line-break>危険なのよ、わかってるわよね？<line-break>気を引き締めてかかるのよ。<end>"
+english = "The greater the reward, the greater the danger. You understand that, don't you? Keep your wits about you.<end>"
+
+["1230061"]
+japanese = "………………。<end>"
+english = "...........<end>"
+
+["1230062"]
+japanese = "紺碧の洞窟で怪物を倒す依頼です。<line-break>報酬は、なんと５０００ギア！？<line-break>たくさんもらえるんですね。<end>"
+english = "The job is to defeat a monster in Azure Cave. And the reward is five thousand Gea?! That's a lot of money.<end>"
+
+["1230063"]
+japanese = "………………。<end>"
+english = "...........<end>"
+
+["1230064"]
+japanese = "（ウルカーンのギルドで会った男の子に<line-break>\u3000鳳凰山へ鳳凰を探しに行ってくれと<line-break>\u3000頼まれてしまった）<end>"
+english = "(A boy we met at the Guild in Urkaan asked us to search Phoenix Mountain for a phoenix.)<end>"
+
+["1230065"]
+japanese = "鳳凰山に鳳凰を探しに行くって、本気？<line-break>あなたに鳳凰探しを頼んだ子が、<line-break>嘘を言ってるかもしれないのに…。<line-break>ほんと、お人好しよね。<line-break>そこがあなたのいいところ<line-break>なのかもしれないけど。<end>"
+english = "Are you seriously going to Phoenix Mountain to look for a phoenix? The child who asked you may have been lying... You really are too kind for your own good. Though perhaps that's one of your better qualities.<end>"
+
+["1230066"]
+japanese = "鳳凰山に鳳凰探しとな？<line-break>ハハハハハハ…。<line-break>おもしろい！\u3000わしも手伝うぞ。<line-break>子どもの願いを聞いてやることも、<line-break>勇者としては大切な仕事だからな。<end>"
+english = "Search Phoenix Mountain for a phoenix, you say? Ha ha ha ha ha! Fascinating! I shall help too. Granting a child's wish is also an important duty for a hero.<end>"
+
+["1230067"]
+japanese = "世界的に有名な冒険者、<line-break><value:$28>様に<line-break>１０ギアで仕事を頼むなんて…。<line-break>ほんっとに子どもって迷惑ですよね。<line-break>でも、そんな子どものわがままにも<line-break>つきあってあげるなんて立派ですね。<end>"
+english = "Imagine asking the world-famous adventurer <value:$28> to do a job for ten Gea... Children truly are such a nuisance. Still, it is admirable of you to indulge such a selfish request.<end>"
+
+["1230068"]
+japanese = "鳳凰山に鳳凰を探しに行くのか！<line-break>おっもしれえじゃないか。<line-break>俺も行きたいぜ。<line-break>ところで、<line-break>鳳凰を見つけたらどうすんだ？<line-break>羽でも抜いて帰るのか？<end>"
+english = "You're going to Phoenix Mountain to look for a phoenix? That sounds great! I want to come too. By the way, what'll you do if you find one? Pluck out a feather and bring it back?<end>"
+
+["1230069"]
+japanese = "ボクは、その子の話を信じるよ。<line-break>キミだって信じているから、<line-break>鳳凰探しを引き受けたんでしょ。<line-break>その子が嘘つきじゃないってことを<line-break>証明するためにも、<line-break>ぜったいに鳳凰を見つけようね。<end>"
+english = "I believe that child's story. You accepted the search because you believe it too, right? Let's make sure we find the phoenix and prove that child isn't a liar.<end>"
+
+["1230070"]
+japanese = "鳳凰を見たという子供の言葉を<line-break>信じるとは、<value:$28>も<line-break>いいところがあるわね。<line-break>ギルドでは一蹴されていたけど、<line-break>腹黒い大人たちに比べれば、<line-break>子供はよほど信頼できるわ。<end>"
+english = "So you believe the child who claims to have seen a phoenix. You do have some good qualities, <value:$28>. The Guild dismissed the story outright, but children are far more trustworthy than scheming adults.<end>"
+
+["1230071"]
+japanese = "子供の言うことを聞いてあげるとは<line-break><value:$28>もなかなか<line-break>余裕が出てきましたね。<line-break>行ってあげるといいでしょう。<line-break>その子が業を煮やして、自分で<line-break>確かめに走らないうちにね。<end>"
+english = "Indulging a child's request shows that you have gained some composure, <value:$28>. You should go, before the child loses patience and runs off to investigate alone.<end>"
+
+["1230072"]
+japanese = "へぇ～、<value:$28>の<line-break>意外な一面発見！\u3000って感じねえ。<line-break>感心しちゃうわ。<line-break>じゃ、いっちょ、鳳凰山まで<line-break>行きましょうか、勇者様。<line-break>夢あるチビッ子のために！<end>"
+english = "Well, well, an unexpected side of <value:$28>! I'm impressed. All right, let's take a trip to Phoenix Mountain, mighty Hero―for the sake of a little dreamer!<end>"
+
+["1230073"]
+japanese = "さすが、姉ちゃんはひと味違うよ。<line-break>世界中捜したって子どもの依頼を<line-break>受ける冒険者は姉ちゃんだけだぜ。<line-break>俺、姉ちゃんの弟だって誇りに思う。<line-break>俺も手伝うからさ、あの子のためにも<line-break>鳳凰を見つけような！<end>"
+english = "I knew you were special, sis. Search the whole world and you wouldn't find another adventurer willing to accept a child's request. I'm proud to be your little brother. I'll help too, so let's find that phoenix for the kid!<end>"
+
+["1230074"]
+japanese = "周囲は何と言ったか知らないけれど、<line-break>私は、<value:$28>の判断は<line-break>正しいと思うわ。<line-break>鳳凰山にもモンスターはいる。<line-break>そんなところへ子供を行かせる<line-break>わけにはいかないもの…。<end>"
+english = "I don't know what everyone else said, but I think you made the right decision, <value:$28>. There are monsters on Phoenix Mountain too. We cannot let a child go to such a place...<end>"
+
+["1230075"]
+japanese = "ウルカーンのギルドの主人に聞いたぜ。<line-break>お前さん、鳳凰山に鳳凰を<line-break>探しに行く依頼を受けたんだろ？<line-break>ギルドの主人は信じてなかったが、<line-break>鳳凰山に鳳凰が降り立つって伝説は<line-break>本当にあるんだ。信じていいと思うぜ。<end>"
+english = "I heard from the Guildmaster in Urkaan. You took a job to search Phoenix Mountain for a phoenix, right? The Guildmaster didn't believe it, but there really is a legend that a phoenix descends upon Phoenix Mountain. I think you can believe the boy.<end>"
+
+["1230076"]
+japanese = "鳳凰山に鳳凰を探しにいくのか…。<line-break>気になる事がある。<line-break>付き合ってやってもいいぞ。<end>"
+english = "You're going to Phoenix Mountain to search for a phoenix... Something about that concerns me. I suppose I could accompany you.<end>"
+
+["1230077"]
+japanese = "鳳凰山に鳳凰を探しに行くとな？<line-break>わはははは…、これは傑作じゃ。<line-break>わしも、ぜひ参加したいぞ。<line-break>もちろん冗談で付き合うのではないぞ。<line-break>お主が、その子を信じておるからこそ、<line-break>わしも信じておるのじゃからな。<end>"
+english = "You mean to search Phoenix Mountain for a phoenix? Wah ha ha ha! What a marvelous idea. I insist on joining you. And I am not coming along as a joke. I believe because you believe that child.<end>"
+
+["1230078"]
+japanese = "鳳凰探し？<line-break>ああ、ウルカーンのギルドで、<line-break>男の子に頼まれた仕事だね。<line-break>その子の言うとおり、鳳凰山で鳳凰を<line-break>見つけられればいいんだけど…。<line-break>もし、いなかったらどうしようか？<end>"
+english = "A phoenix hunt? Ah, the job that boy gave you at the Guild in Urkaan. I hope we can find a phoenix on Phoenix Mountain, just as he said... But what will we do if there isn't one?<end>"
+
+["1230079"]
+japanese = "鳳凰山には鳳凰が降り立つという<line-break>伝説が現にあるらしい。<line-break><line-break>その第一発見者が子供だというだけで、<line-break>鳳凰自体は本当にいるのかもしれない。<line-break>私としても、興味はあるな。<end>"
+english = "Apparently there really is a legend that a phoenix descends upon Phoenix Mountain. The mere fact that a child was the first to spot it does not mean the phoenix itself is imaginary. I admit, I am interested.<end>"
+
+["1230080"]
+japanese = "鳳凰山に鳳凰を探しに行くぅ？<line-break>アナタ、もしかしてバカなの？<line-break>あの山に鳳凰がいるわけないでしょ！<line-break>山の名前が鳳凰山だからって<line-break>鳳凰がいる証拠にはならないのよ！<line-break>くだらなくって付き合ってられないわ。<end>"
+english = "You're going to Phoenix Mountain to look for a phoenix? Are you an idiot? There's no way a phoenix lives on that mountain! Calling it Phoenix Mountain doesn't prove there's a phoenix there! This is too ridiculous for me to bother with.<end>"
+
+["1230081"]
+japanese = "ほーおー<line-break>鳳凰でござるか。<line-break>ほおーっておけばいいでござるよ。<line-break>ふふふふ…、<line-break>拙者もダジャレのコツがつかめて<line-break>きましたぞ。<end>"
+english = "A fee-nix, you say? I say we should nix the whole affair. Heh heh heh... I am finally getting the hang of puns.<end>"
+
+["1230082"]
+japanese = "鳳凰山に鳳凰を探しに行くの？<line-break>ルルアンタも連れてって欲しいなあ。<line-break>だって鳳凰、見たことないんだもん。<line-break>もしダメなら捕まえてきてね。<line-break>約束だよ、ね、<value:$28>。<line-break>ルルアンタのお願いだよ。<end>"
+english = "Are you going to Phoenix Mountain to look for a phoenix? Lulluantha wants to come too! I've never seen a phoenix before. If I can't come, catch it and bring it back, okay? Promise me, <value:$28>. It's Lulluantha's special request.<end>"
+
+["1230083"]
+japanese = "………………。<line-break><line-break><line-break>興味がない。<end>"
+english = "........... I have no interest.<end>"
+
+["1230084"]
+japanese = "鳳凰山に鳳凰がいるというのか。<line-break>子供の言葉は信用できるとは言えんが、<line-break>おもしろい話ではあるな。<end>"
+english = "A phoenix on Phoenix Mountain? I cannot say a child's word is reliable, but it is an intriguing story.<end>"
+
+["1230085"]
+japanese = "へぇ～、その子は鳳凰を見たのかぁ。<line-break>いいなー、いいなー、ボクも見たいな。<line-break>鳳凰探し、楽しそうだなぁー。<line-break>ねえねえ、<value:$28>～。<line-break>ボクも鳳凰探しに連れていってよ。<end>"
+english = "Oh, that child saw a phoenix? Lucky! I want to see one too. Searching for a phoenix sounds like fun! Hey, <value:$28>―take me along on the phoenix hunt!<end>"
+
+["1230086"]
+japanese = "鳳凰が鳳凰山に降り立つということが<line-break>我が帝国に対して何を意味するのか、<line-break>そのことが気になる。<line-break>良い知らせであればいいが…。<end>"
+english = "I wonder what a phoenix descending upon Phoenix Mountain would mean for our Empire. I hope it is a good omen...<end>"
+
+["1230087"]
+japanese = "その子の言うことによれば、<line-break>鳳凰山に本物の鳳凰が<line-break>降り立ったというのですね？<line-break><value:$28>様は<line-break>お優しいのですね。<end>"
+english = "According to that child, a real phoenix descended upon Phoenix Mountain? You are very kind, <value:$28>.<end>"
+
+["1230088"]
+japanese = "鳳凰山の鳳凰、ヴィアも見てみたいな！<line-break>絶対ヴィアも連れてってよ、<line-break><value:$28>！<end>"
+english = "Via wants to see the phoenix on Phoenix Mountain too! You have to take Via with you, <value:$28>!<end>"
+
+["1230089"]
+japanese = "鳳凰山の鳳凰じゃと？<line-break>ううむ、もしやそれが本物であれば<line-break>とてつもない瑞兆のはずなのじゃが…<line-break><value:$28>、頼む。<line-break>わしも連れて行ってくれい。<line-break>事実を見極めたいのじゃ。<end>"
+english = "A phoenix on Phoenix Mountain? Hmm... If it is genuine, it should be an extraordinary omen of good fortune. Please, <value:$28>, take me with you. I wish to ascertain the truth.<end>"
+
+["1230090"]
+japanese = "鳳凰が降り立つという伝説は、<line-break>ウルカーンに古く伝えられている<line-break>ものらしい。<line-break>それが子供にまで受け継がれている。<line-break>私としては、どうか鳳凰に<line-break>実在してほしいと思うのだが…。<end>"
+english = "The legend of a descending phoenix has apparently been passed down in Urkaan since ancient times. It has even survived among the children. For my part, I sincerely hope the phoenix truly exists...<end>"
+
+["1230091"]
+japanese = "俺はあの子の言葉を信じる。<line-break>お前も信じているんだろ、<line-break><value:$28>。<line-break>さあ鳳凰を探しに鳳凰山に行くぞ。<line-break>あの子を嘘つきにしないためにな。<end>"
+english = "I believe that child. You do too, don't you, <value:$28>? Come, let's go to Phoenix Mountain and find the phoenix. We won't let that child be branded a liar.<end>"
+
+["1230092"]
+japanese = "<value:$28>は信じるのね。<line-break>鳳凰山に鳳凰がいるってあの子の言葉。<line-break>そうよね、あなたってそういう人よね。<line-break>それに付き合うあたしも、<line-break>そうとうお人好しなのかもね。<end>"
+english = "You believe the child's claim that a phoenix is on Phoenix Mountain, don't you, <value:$28>? Of course you do. That's just the kind of person you are. And perhaps I'm quite the soft touch myself for going along with it.<end>"
+
+["1230093"]
+japanese = "………………。<end>"
+english = "...........<end>"
+
+["1230094"]
+japanese = "優しいですね、<value:$28>さん。<line-break>あの子の依頼を引き受けるなんて。<line-break>信じているんですね、あの子の言葉を。<end>"
+english = "You're very kind, <value:$28>, accepting that child's request. You believe what the child said, don't you?<end>"
+
+["1230095"]
+japanese = "………………。<end>"
+english = "...........<end>"
+
+["1230096"]
+japanese = "（エステルに竜骨の砂漠で落とした<line-break>\u3000首飾りを探してくるよう<line-break>\u3000頼まれた）<line-break>（彼女に借りた水晶が導いてくれると<line-break>\u3000言うが本当だろうか…。彼女は、<line-break>\u3000リベルダムのギルドで待っている）<end>"
+english = "(Esther asked you to find a necklace she lost in the Dragonbone Desert.) (She says the crystal she lent you will guide you, but can that really be true? She is waiting at the Guild in Liberdam.)<end>"
+
+["1230097"]
+japanese = "自分がなくした物を、<line-break>あなたに探しにいかせるなんて<line-break>エステルってどういう娘なの！<line-break>竜骨の砂漠は広いのよ。<line-break>彼女に借りた水晶の力で本当に<line-break>見つけられるのかしら？<end>"
+english = "What kind of girl is Esther, sending you to find something she lost? The Dragonbone Desert is vast. Can the power of the crystal she lent you really lead us to it?<end>"
+
+["1230098"]
+japanese = "なくした首飾りと、<line-break>今、お主が持っておる水晶が<line-break>引き合うというのじゃな。<line-break>うむ、竜骨の砂漠に行ってみようぞ。<line-break>エステルとやらを信じてな。<end>"
+english = "So the lost necklace and the crystal you now carry are drawn to one another. Very well, let us venture into the Dragonbone Desert and put our faith in this Esther.<end>"
+
+["1230099"]
+japanese = "竜骨の砂漠は広いですよ。<line-break>暑いし、迷うし、モンスターは出るし、<line-break>ぜんっぜんいいことないです。<line-break>しかも、ボランティアなんて…。<line-break><value:$28>様はやさしすぎます！<line-break>今後は、きっぱりと断ってくださいね。<end>"
+english = "The Dragonbone Desert is huge. It's hot, you get lost, and there are monsters―there's nothing good about it! And you're doing this for free... You're far too kind, <value:$28>! From now on, you must refuse requests like this firmly.<end>"
+
+["1230100"]
+japanese = "あんなにでっかい竜骨の砂漠から<line-break>小さな首飾りを探すのかよ！<line-break>お前もお人好しだな…。<line-break>いくら、その水晶と引き合うったって<line-break>あてになんねえぜ。<line-break>うざい仕事だな。<end>"
+english = "You're searching that enormous Dragonbone Desert for one tiny necklace? You're too nice for your own good... Even if the necklace and crystal attract each other, I wouldn't count on it. What an annoying job.<end>"
+
+["1230101"]
+japanese = "………………。<end>"
+english = "...........<end>"
+
+["1230102"]
+japanese = "その水晶が首飾りと反応する？<line-break>それなら、エステル自らが<line-break>竜骨の砂漠へ行けばいいわ。<line-break>どうしてあなたが行く必要があるの？<end>"
+english = "The crystal reacts to the necklace? Then Esther should go to the Dragonbone Desert herself. Why do you need to go?<end>"
+
+["1230103"]
+japanese = "…なるほど。<line-break>しかし、そんな便利な水晶があるなら<line-break>自分で行けばいいと思うのですがね。<line-break>きっと、何が何でも、<line-break><value:$28>に依頼したかった<line-break>ということなんでしょうね。ふふっ。<end>"
+english = "...I see. Still, with such a convenient crystal, one would think she could go herself. I suppose she was determined to have <value:$28> do it, no matter what. Heh heh.<end>"
+
+["1230104"]
+japanese = "めんどくさそーだけど、ちょっと<line-break>ロマンチックなところが、<line-break>あんたの心を動かしたのね～。<line-break>わかるわ、その気持ち。<line-break>化け物退治ばっかりじゃなくって、<line-break>たまにはこういうのも楽しいわ。<end>"
+english = "It sounds like a nuisance, but the touch of romance stirred your heart, didn't it? I understand. It might be fun to do something like this for once instead of always hunting monsters.<end>"
+
+["1230105"]
+japanese = "姉ちゃん本気かよ！<line-break>竜骨の砂漠の広さは知ってるだろ？<line-break>首飾りなんて見つかりっこないよ！<line-break>まったく姉ちゃんのお人好しも<line-break>相当なもんだけど、エステルってのも<line-break>あつかましいな。<end>"
+english = "Are you serious, sis? You know how vast the Dragonbone Desert is! We'll never find a necklace in there! You're far too nice for your own good, but this Esther has some nerve too.<end>"
+
+["1230106"]
+japanese = "竜骨の砂漠で落とした首飾りを<line-break>探して来い？\u3000…そんな些細な<line-break>依頼まで引き受けるのね。<line-break>冒険者は何でも屋とは違うとは<line-break>思っていたけれど、<line-break>線引きは難しそうね。<end>"
+english = "Find a necklace lost in the Dragonbone Desert? You even take on trivial errands like that. I thought adventurers were different from ordinary errand runners, but perhaps the line is difficult to draw.<end>"
+
+["1230107"]
+japanese = "へ～、その水晶が首飾りと<line-break>引き合うわけかい。<line-break>なるほど、魔道王国時代の技術だな。<line-break>お前さんの人徳ってやつかな。<line-break>色々な人間が集まってくる。<line-break>エステルってのも普通じゃなさそうだ。<end>"
+english = "Oh, so the crystal and necklace attract each other. I see―technology from the age of the Magic Kingdom. Perhaps it is your strength of character. All sorts of people are drawn to you. This Esther does not seem ordinary either.<end>"
+
+["1230108"]
+japanese = "お前は、広大な砂漠のなかから<line-break>ちっぽけな首飾りを探すと<line-break>いうのか？<line-break>…あきれたお人好しだ。<end>"
+english = "You mean to search a vast desert for one tiny necklace? ...You are astonishingly softhearted.<end>"
+
+["1230109"]
+japanese = "竜骨の砂漠は、同じような景色が<line-break>続くので迷いやすいところじゃ。<line-break>目印のつけようもないしのう。<line-break>エステルとやらに借りた、<line-break>その水晶の力を信じるしかないのう。<line-break>しかし、なんで自分で探さんのじゃ？<end>"
+english = "The Dragonbone Desert is easy to get lost in because the scenery all looks the same. There is no way to mark the route, either. We have no choice but to trust the power of that crystal Esther lent you. But why does she not search for it herself?<end>"
+
+["1230110"]
+japanese = "首飾りと水晶が引き合うのなら、<line-break>エステルが自分で探してもいいと<line-break>おもうけど…。<line-break>どうしても<value:$28>に<line-break>やってもらわなきゃダメな理由が<line-break>あるのかな？<end>"
+english = "If the necklace and crystal attract each other, Esther could search for it herself... Is there some reason it absolutely has to be <value:$28>?<end>"
+
+["1230111"]
+japanese = "竜骨の砂漠に落とした首飾りと<line-break>その水晶が引き合うのか。<line-break>しかし、砂漠は広いぞ…。<end>"
+english = "So the necklace lost in the Dragonbone Desert and that crystal attract each other. Even so, the desert is vast...<end>"
+
+["1230112"]
+japanese = "くだらない！\u3000くだらない！<line-break>くだらないわー！<line-break>砂漠で首飾りを探すですって！<line-break>高貴で優雅で知性あふれるエルフの<line-break>アタクシが、砂まみれになりながら<line-break>他人の落とし物を探すわけないでしょ！<end>"
+english = "Ridiculous! Ridiculous! Absolutely ridiculous! Searching a desert for a necklace? Do you honestly think a noble, graceful, and brilliant Elf such as myself would get covered in sand looking for something another person lost?<end>"
+
+["1230113"]
+japanese = "砂漠でサバをさばく！<line-break>エステルの首飾りを<line-break>え！\u3000捨てる？<line-break>猛暑の砂漠をも涼しくする<line-break>拙者のダジャレ、<line-break>いかかでござるかな？<end>"
+english = "Slice mackerel in the desert! Esther's necklace―eh, toss it? How are my puns? Enough to cool even the scorching desert?<end>"
+
+["1230114"]
+japanese = "竜骨の砂漠に行くの？<line-break>あそこはと～っても広いから、<line-break>迷っちゃうし探すの大変だよぉ。<line-break>エステルさんに借りた水晶がないと<line-break>絶対に見つからないもん。<line-break>水晶、なくしちゃダメだからね。<end>"
+english = "You're going to the Dragonbone Desert? It's so enormous that you'll get lost, and searching will be really hard. You'll never find the necklace without the crystal Esther lent you. Make sure you don't lose it!<end>"
+
+["1230115"]
+japanese = "………………。<line-break><line-break><line-break>興味がない。<end>"
+english = "........... I have no interest.<end>"
+
+["1230116"]
+japanese = "砂漠で落とした首飾りを探す…<line-break>不可能の比喩かなにかか、それは？<line-break>全く、付き合いきれんな。<end>"
+english = "Searching a desert for a lost necklace... Is that some sort of metaphor for the impossible? Honestly, I cannot be bothered.<end>"
+
+["1230117"]
+japanese = "その水晶と首飾りが<line-break>引き合うんだぁ。<line-break>不思議で、いい感じだね。<line-break>離ればなれになっても引き合い<line-break>やがて巡り会う２人…<line-break>まるで恋人みたいだね。<end>"
+english = "So the crystal and necklace are drawn to each other. That's mysterious and rather lovely. Two people drawn together and reunited after being separated... They're just like lovers.<end>"
+
+["1230118"]
+japanese = "竜骨の砂漠に落とした首飾りを<line-break>探しに行く？\u3000その水晶が<line-break>首飾りと引き合うというのかね？<line-break>いったい、どんな仕掛けだろうか。<line-break>ひょっとするとこれは…魔道王国の<line-break>失われた技術のひとつかもしれん。<end>"
+english = "You are going to find a necklace lost in the Dragonbone Desert? This crystal is drawn to the necklace? I wonder how it works. Perhaps this is one of the lost technologies of the Magic Kingdom...<end>"
+
+["1230119"]
+japanese = "あの広い竜骨の砂漠で首飾りを<line-break>探すだなんて…きっと、誰も依頼を<line-break>受けてくれなかったのでしょう。<line-break>首飾りと引き合うという水晶まで<line-break>渡されてしまっては、<line-break>行かないわけには行きませんね。<end>"
+english = "Searching that vast Dragonbone Desert for a necklace... I imagine no one else would accept the request. And after being entrusted with a crystal that is drawn to the necklace, you can hardly refuse to go.<end>"
+
+["1230120"]
+japanese = "へー、水晶が首飾りと引き合うんだ。<line-break>そんな面白い依頼なら、<line-break>ヴィアも連れて行ってよ！<end>"
+english = "Oh, the crystal and necklace attract each other? If the job is that interesting, take Via along too!<end>"
+
+["1230121"]
+japanese = "ほほう、あの広い竜骨の砂漠に、<line-break>首飾りたったひとつを探しになあ。<line-break>ご苦労なことじゃの、若い衆は。<line-break>まさか、年寄りの手まで借りようとは<line-break>言いださんじゃろ？\u3000わしは日陰で…<line-break>というのは、やはり無理か。<end>"
+english = "Well, well. Searching the vast Dragonbone Desert for a single necklace? Young folk do work hard. Surely you do not mean to enlist an old man's help as well? I shall wait in the shade... No, I suppose I cannot get away with that.<end>"
+
+["1230122"]
+japanese = "竜骨の砂漠は広いぞ。<line-break>いかに<value:$28>が<line-break>エステルのことを思っていて、<line-break>その水晶が本当に私たちを導いて<line-break>くれるとしても、果たして、<line-break>見つかるかどうか…。<end>"
+english = "The Dragonbone Desert is vast. No matter how much <value:$28> cares for Esther, and even if that crystal truly guides us, whether we can actually find the necklace remains to be seen...<end>"
+
+["1230123"]
+japanese = "不思議だな。<line-break>その水晶と首飾りが<line-break>反応し合うのか。<line-break>とりあえず<line-break>砂漠で首飾りを見つけて<line-break>あの娘に届けてやろう。<end>"
+english = "How strange. So the crystal and necklace react to each other. For now, let us find the necklace in the desert and deliver it to that girl.<end>"
+
+["1230124"]
+japanese = "エステルが無くした首飾りに、<line-break>その水晶が反応してくれるのね。<line-break>砂漠は広くて見つけるのは大変だけど…。<line-break>むしろ気になるのは、彼女自身が探さず<line-break>わざわざ頼んできたって理由のほうね。<end>"
+english = "So the crystal reacts to the necklace Esther lost. The desert is vast, and finding it will be difficult... But what concerns me more is why she asked you instead of searching for it herself.<end>"
+
+["1230125"]
+japanese = "その水晶が首飾りに反応すると<line-break>エステルさんがおっしゃっていました。<line-break>だとすれば…<line-break>広い竜骨の砂漠でも<line-break>首飾りを見つけることは、<line-break>不可能ではないでしょう。<end>"
+english = "Esther said the crystal reacts to the necklace. If that is true, finding it may not be impossible, even in the vast Dragonbone Desert.<end>"
+
+["1230126"]
+japanese = "その水晶が首飾りと反応するのなら、<line-break>どうしてエステルさんが<line-break>取りにいかないんでしょうか？<line-break><value:$28>じゃないと<line-break>ダメな理由があるんでしょうか？<end>"
+english = "If that crystal reacts to the necklace, why doesn't Esther retrieve it herself? Is there some reason it has to be <value:$28>?<end>"
+
+["1230127"]
+japanese = "気になるな…。<line-break>なぜ彼女は自分で首飾りを<line-break>探しにいかないんだろう？<line-break>その水晶と首飾りが反応し合うのなら、<line-break>砂漠でも見つけることはできるはず…。<end>"
+english = "It bothers me... Why doesn't she search for the necklace herself? If the crystal and necklace react to each other, she should be able to find it even in the desert...<end>"
+
+["1230128"]
+japanese = "（ロティ・クロイス宛の荷物を<line-break>\u3000届けなくちゃいけない）<line-break><line-break>（クロイス邸は、時計台のある広場の<line-break>\u3000先にある居住区にあるらしい。<line-break>\u3000早く届けてしまおう）<end>"
+english = "(You need to deliver the package addressed to Lottie Krois.) (The Krois residence is apparently in the residential district beyond the square with the clock tower. Deliver it as soon as possible.)<end>"
+
+["1230129"]
+japanese = "その荷物をロティの屋敷に届けるのね。<line-break>ロティの屋敷は時計台がある広場の<line-break>先の居住区にあるわよ。<end>"
+english = "You're delivering that package to Lottie's Mansion, right? It's in the residential district beyond the square with the clock tower.<end>"
+
+["1230130"]
+japanese = "それがロティ殿に届ける荷物だな。<line-break>ロティ殿の家は居住区の入り口に<line-break>建っておる。<line-break>知っておると思うが、居住区は<line-break>時計台がある広場の先にあるのだぞ。<line-break>早く届けるのが良かろう。<end>"
+english = "That is the package for Lottie, then. His house stands at the entrance to the residential district. As you surely know, the district lies beyond the square with the clock tower. You should deliver it promptly.<end>"
+
+["1230131"]
+japanese = "ねえ、<value:$28>様、<line-break>その荷物の中身って何でしょうね。<line-break>すっごく気になりません？<line-break>ロティさんは大商人ですから、<line-break>絶対すごい物が入っていますよ。<line-break>あ、開けてもいいですか？<end>"
+english = "Tell me, <value:$28>, what do you think is inside that package? Aren't you dying to know? Lottie is a great merchant, so there must be something incredible inside. Oh, may I open it?<end>"
+
+["1230132"]
+japanese = "こいつをクロイスって<line-break>武器商人の家へ運べばいいのか。<line-break>なら、さっさと行ってこいよ。<end>"
+english = "You just have to carry this to the home of that arms dealer Krois, right? Then hurry up and get going.<end>"
+
+["1230133"]
+japanese = "ボクはリベルダムを隅々まで<line-break>探検しているからね。<line-break>リベルダムの地理には自信があるんだ。<line-break>キミが荷物を届けないといけない<line-break>ロティ・クロイスの屋敷は、<line-break>時計台広場の先にある居住区さ。<end>"
+english = "I've explored every corner of Liberdam, so I know its geography well. Lottie Krois's mansion, where you need to deliver the package, is in the residential district beyond Clock Tower Square.<end>"
+
+["1230134"]
+japanese = "ロティ・クロイス宛てに荷物を<line-break>届けるんだったわね。その屋敷なら、<line-break>時計台広場の先の居住区にあるわ。<end>"
+english = "You need to deliver a package addressed to Lottie Krois, right? The mansion is in the residential district beyond Clock Tower Square.<end>"
+
+["1230135"]
+japanese = "ロティ・クロイスの屋敷に荷物を<line-break>届けるのですね。ロティの屋敷は、<line-break>時計台広場の先の居住区にありますよ。<end>"
+english = "You are delivering a package to Lottie Krois's residence. Lottie's Mansion is in the residential district beyond Clock Tower Square.<end>"
+
+["1230136"]
+japanese = "冒険者って、大変なのね～。<line-break>有名なロティ・クロイスの屋敷なら、<line-break>時計台広場の先の居住区よ。<end>"
+english = "Being an adventurer is hard work. The mansion of the famous merchant Lottie Krois is in the residential district beyond Clock Tower Square.<end>"
+
+["1230137"]
+japanese = "姉ちゃん、この荷物の中身、<line-break>何だと思う？<line-break>差出人の名前がないのが気になるだろ？<line-break>振った時の音からして、<line-break>液体なのは確かなんだけどな。<end>"
+english = "Sis, what do you think is inside this package? It's strange that there's no sender's name, right? From the sound it makes when shaken, it's definitely some kind of liquid.<end>"
+
+["1230138"]
+japanese = "ロティ・クロイス邸なら、。<line-break>時計台広場の先の居住区にあるわ。<line-break>派手な造りだから、すぐわかるはずよ。<end>"
+english = "The Lottie Krois residence is in the residential district beyond Clock Tower Square. It is quite ostentatious, so you should recognize it immediately.<end>"
+
+["1230139"]
+japanese = "ロティ・クロイスっていやあ、<line-break>リベルダムの武器商人のひとりだな。<line-break>各国の戦争で大もうけしてるそうだ。<line-break>それだけに恨みを買うことも多いだろ。<line-break>この荷物、差出人が書いてないのが<line-break>気になるな。<end>"
+english = "Lottie Krois is one of Liberdam's arms dealers. They say he has made a fortune from wars between nations. That must have earned him plenty of enemies. It bothers me that this package has no sender listed.<end>"
+
+["1230140"]
+japanese = "荷物運びか…、くだらんな。<line-break>クロイスの屋敷は、時計台が建つ<line-break>広場の先の居住区にある。<line-break>そのような仕事。<line-break>さっさとすましてしまえ。<line-break>時間の無駄だ！<end>"
+english = "A delivery job? How pointless. The Krois mansion is in the residential district beyond the square with the clock tower. Finish such work quickly. It is a waste of time!<end>"
+
+["1230141"]
+japanese = "ロティ・クロイスは、リベルダムでも<line-break>有数の大商人でな、わしの鍛えた武器を<line-break>買うために、よく訪ねて来たものよ。<line-break>たしか、あの男の屋敷は時計台広場の<line-break>すぐ近くにある居住区にあったのう。<end>"
+english = "Lottie Krois is one of Liberdam's greatest merchants. He often came to buy weapons I had forged. If memory serves, his mansion was in the residential district very near Clock Tower Square.<end>"
+
+["1230142"]
+japanese = "ロティの屋敷は、時計台が建っている<line-break>広場の先にある居住区にあるらしいね。<line-break>早く届けてしまおうよ。<end>"
+english = "Apparently, Lottie's Mansion is in the residential district beyond the square with the clock tower. Let's hurry and deliver the package.<end>"
+
+["1230143"]
+japanese = "届け先は、ロティ・クロイスだったな。<line-break>その屋敷なら、時計台広場の先の<line-break>居住区にあったはずだ。<end>"
+english = "The recipient was Lottie Krois, correct? The mansion should be in the residential district beyond Clock Tower Square.<end>"
+
+["1230144"]
+japanese = "ロティ・クロイスの屋敷の場所？<line-break>も、もちろん知っているわよ…。<line-break>ロティの屋敷は…<line-break>そ、そうよ、リベルダムにあるのよ。<line-break>さあ、ここまで教えてあげたのよ。<line-break>あとは自分で探しなさいよね！<end>"
+english = "Where is Lottie Krois's mansion? O-Of course I know... Lottie's Mansion is... Y-Yes, it's in Liberdam! There, I've told you that much. Now find it yourself!<end>"
+
+["1230145"]
+japanese = "クロイス邸へのお届け物ボゲー<line-break>クロイス邸へのお届け物ボゲー<line-break>クロイス邸へのお届け物ボゲー<line-break>クロイス邸へのお届け物ボゲー<line-break>クロイス邸へのお届け物ボゲー<line-break>クロイス邸へのお届け物ボゲー<end>"
+english = "A delivery for the Krois mansion, Bogee! A delivery for the Krois mansion, Bogee! A delivery for the Krois mansion, Bogee! A delivery for the Krois mansion, Bogee! A delivery for the Krois mansion, Bogee! A delivery for the Krois mansion, Bogee!<end>"
+
+["1230146"]
+japanese = "ロティさんは、お金持ちなんだよね？<line-break>時計台広場の先にね、お金持ちが<line-break>たくさん住んでる場所があるんだぁ。<line-break>ルルアンタねぇ、きっとロティさんも、<line-break>そこに住んでいると思うよ。<end>"
+english = "Lottie is rich, right? Beyond Clock Tower Square, there's a place where lots of rich people live. Lulluantha thinks Lottie probably lives there too.<end>"
+
+["1230147"]
+japanese = "………………。<line-break><line-break><line-break>居住区は時計台広場の先だ。<end>"
+english = "........... The residential district is beyond Clock Tower Square.<end>"
+
+["1230148"]
+japanese = "ロティ・クロイスに荷物を届けるのか。<line-break>その屋敷なら時計塔広場の先の<line-break>居住区にあるはずだが…<line-break>ロティといえば、戦火に油を注ぐ<line-break>死の商人として有名な男だ。<line-break>深入りするとロクなことがないぞ。<end>"
+english = "You're delivering a package to Lottie Krois? His mansion should be in the residential district beyond Clock Tower Square... But Lottie is notorious as a Merchant of Death who fans the flames of war. Getting too deeply involved will bring nothing but trouble.<end>"
+
+["1230149"]
+japanese = "クロイスの屋敷は、時計台広場の先に<line-break>ある居住区の入り口にあるよ。<line-break>…で、ボクにも荷物を見せてよ。<line-break>あれ？\u3000この荷物って差出人不明だね。<line-break>ふ～ん、ちょっと気になるなぁ。<line-break>中身は何だろう？<end>"
+english = "The Krois mansion is at the entrance to the residential district beyond Clock Tower Square. Now let me see the package too. Huh? There's no sender listed. Hmm, that's intriguing. I wonder what's inside?<end>"
+
+["1230150"]
+japanese = "なに、アンティノ・マモンから、<line-break>ロティ・クロイスへ、届けものだと？\u3000<line-break>怪しいな。少々、検閲させてもらう。<line-break>ふむ、これは、酒か…？<line-break>腑に落ちないが、まあ、行ってよし。<line-break>屋敷は時計塔広場の先の居住区だ。<end>"
+english = "What? A delivery from Antino Mamon to Lottie Krois? Suspicious. I shall inspect it briefly. Hmm, is this liquor...? Something still seems amiss, but you may proceed. The mansion is in the residential district beyond Clock Tower Square.<end>"
+
+["1230151"]
+japanese = "ロティ・クロイス邸なら時計塔広場の<line-break>先の居住区にあったはずですが…<line-break>荷物の中身が少々気になりますね。<line-break>音からすると、酒か何かのようですが<line-break>…冒険者にわざわざ頼んで<line-break>運ばせるようなものでしょうか？<end>"
+english = "The Lottie Krois residence should be in the residential district beyond Clock Tower Square... But the contents of the package concern me. From the sound, it seems to contain liquor or something similar. Is that truly something one would hire an adventurer to deliver?<end>"
+
+["1230152"]
+japanese = "クロイスさんちなら、<line-break>時計塔広場の先だって聞いたよ。<line-break>お届けもの、何だろうね？<end>"
+english = "I heard Krois's house is beyond Clock Tower Square. I wonder what the delivery is.<end>"
+
+["1230153"]
+japanese = "冒険者らしい仕事が板についたと<line-break>思えば、なんじゃ、こんな近所への<line-break>届けものなんぞ押しつけられおって。<line-break>ま、商人どもに言わせりゃ、<line-break>この世は万事金次第なんじゃろうが、<line-break>誇りを捨てては冒険者はお終いじゃぞ。<end>"
+english = "Just when true adventuring work had begun to suit you, they saddled you with a delivery to somewhere nearby. Merchants may claim everything in this world comes down to money, but an adventurer who abandons all pride is finished.<end>"
+
+["1230154"]
+japanese = "こんな楽な仕事は久々だな。<line-break>ロティ・クロイスの屋敷に、この小さな<line-break>包みを届ければいいのだろう？<line-break>こんなことでわざわざ冒険者を<line-break>雇うなんて、アンティノもロティも、<line-break>大商人と言われるだけはあるな。<end>"
+english = "It has been a long time since we had such an easy job. We merely need to deliver this small package to Lottie Krois's mansion, correct? Hiring an adventurer for something so trivial certainly shows that both Antino and Lottie deserve their reputations as great merchants.<end>"
+
+["1230155"]
+japanese = "嫌な予感がする…。<line-break>しめてかかったほうが、<line-break>よさそうだな。<end>"
+english = "I have a bad feeling about this... We had better stay sharp.<end>"
+
+["1230156"]
+japanese = "この仕事、危険な匂いがするわ。<line-break><line-break><line-break>それにあのロティっていう商人からは<line-break>いい噂を聞かないし…。<line-break>用心したほうがいいわよ。<end>"
+english = "This job smells dangerous. And I have heard nothing good about that merchant Lottie... You should be careful.<end>"
+
+["1230157"]
+japanese = "………………。<end>"
+english = "...........<end>"
+
+["1230158"]
+japanese = "ロティさんのお屋敷なら<line-break>時計台がある広場の先の<line-break>居住区にありますよ。<end>"
+english = "Lottie's mansion is in the residential district beyond the square with the clock tower.<end>"
+
+["1230159"]
+japanese = "………………。<end>"
+english = "...........<end>"
+
+["1230160"]
+japanese = "（タルテュバがハンナの人形を<line-break>\u3000ティアナ王女にプレゼントした<line-break>\u3000らしい）<line-break>（ハンナのためにも、<line-break>\u3000ティアナ王女に頼んで<line-break>\u3000返してもらおう）<end>"
+english = "(Apparently, Tartyuba gave Hannah's Doll to Princess Tiana as a present.) (For Hannah's sake, let us ask Princess Tiana to return it.)<end>"
+
+["1230161"]
+japanese = "タルテュバの奴、<line-break>ハンナから奪った人形を<line-break>プレゼントするなんて最低の男ね。<line-break>こうなったら王女様に会うしかないわ。<line-break>事情を話せば、きっと人形を返して<line-break>くれると思うの。<end>"
+english = "That Tartyuba is the worst, giving away a doll he stole from Hannah. We have no choice but to meet the princess now. If we explain the circumstances, I'm sure she'll return it.<end>"
+
+["1230162"]
+japanese = "子供から人形を奪うなど言語道断！<line-break>噂通りロストールの貴族は性根が<line-break>腐りきっておるな。<line-break>かわいそうなハンナのためにも、<line-break>ティアナ王女に会って、<line-break>人形を返してもらうのだぞ。<end>"
+english = "Stealing a doll from a child is utterly inexcusable! Just as the rumors say, Rostorl's nobles are rotten to the core. For poor Hannah's sake, meet Princess Tiana and ask her to return the doll.<end>"
+
+["1230163"]
+japanese = "貴族なのに自分で買った人形でなくて<line-break>盗んだ人形をプレゼントするなんて<line-break>タルテュバは変人ですね。<line-break>もしかして人形を買いに行くのが<line-break>恥ずかしくて、おもわず盗んじゃった<line-break>のかもしれませんね。<end>"
+english = "Tartyuba is certainly an eccentric. Imagine being a noble and giving someone a stolen doll instead of one he bought himself. Perhaps he was too embarrassed to go shopping for a doll and stole one on impulse.<end>"
+
+["1230164"]
+japanese = "貴族だろうが王様だろうが、<line-break>子供から物を奪うなんて<line-break>許せねえなっ！<line-break>ティアナ王女だっけな…<line-break>そいつから人形を取り返して<line-break>ハンナを喜ばせてやろうぜ。<end>"
+english = "Noble or king, nobody gets to steal from a child! Princess Tiana, was it? Let's get the doll back from her and make Hannah happy.<end>"
+
+["1230165"]
+japanese = "王女様の部屋ってどんなのかな？<line-break>きれいなドレスとか高価な宝石とか<line-break>たくさん持っているんだろうね。<line-break>ボクたちがお願いすれば、人形くらい<line-break>返してくれるよね？<line-break>身代金とか要求しないよね？<end>"
+english = "I wonder what the princess's room is like. She must have lots of beautiful dresses and expensive jewels. If we ask, she'll return one little doll, right? She won't demand a ransom or anything, will she?<end>"
+
+["1230166"]
+japanese = "余裕があるのね、<value:$28>。<line-break>子供のために貴族と敵対するなんて。<line-break>フフフッ、なかなか面白いわ。<end>"
+english = "You must have time to spare, <value:$28>, making an enemy of the nobility for a child's sake. Heh heh, how intriguing.<end>"
+
+["1230167"]
+japanese = "タルテュバも面白いことをしますね。<line-break>スラムの女の子から奪った人形を<line-break>ティアナ王女にプレゼントとは…。<line-break>ま、世間からすれば、その子に味方して<line-break>貴族を敵に回そうとしているあなたも<line-break>とても面白い存在でしょうがね。<end>"
+english = "Tartyuba does the most fascinating things. Giving Princess Tiana a doll stolen from a girl in the Slums... Though from society's perspective, you are equally fascinating for siding with that girl and risking the nobility's wrath.<end>"
+
+["1230168"]
+japanese = "スラムの女の子から奪った人形を、<line-break>王女様にプレゼントした？<line-break>うわっ、鳥肌立つ～。<line-break>タルテュバも、そこまでやる奴だとは<line-break>思わなかったわ。<value:$28>、<line-break>天誅下しちゃってよ、天誅！<end>"
+english = "He gave the princess a doll stolen from a girl in the Slums? Ugh, that gives me chills. I never thought Tartyuba would stoop that low. Give him divine punishment, <value:$28>! Divine punishment!<end>"
+
+["1230169"]
+japanese = "姉ちゃん、タルテュバの奴を見ていると<line-break>ボルボラを思い出さないか？<line-break>貴族ってイヤな人間ばかりなんだな。<line-break>ハンナの人形を持ってる王女様も<line-break>気位ばっか高い嫌味な女だったら<line-break>姉ちゃん自慢の平手でやっつけてよ。<end>"
+english = "Sis, doesn't that Tartyuba remind you of Bolbora? Nobles are all awful people. If the princess with Hannah's Doll turns out to be some stuck-up, nasty woman, knock her down with that famous slap of yours.<end>"
+
+["1230170"]
+japanese = "まさか、そんな子供の願いを聞いて、<line-break>ロストール城へ潜入しよう<line-break>というのですか。<line-break>タルテュバも正気とはいいがたいけど、<line-break>あなたも相当の馬鹿ね。<end>"
+english = "Surely you do not intend to honor such a childish wish by infiltrating Rostorl Castle. Tartyuba can hardly be called sane, but you are quite the fool yourself.<end>"
+
+["1230171"]
+japanese = "お前さんにやった銀竜の首飾りが<line-break>あれば、秘密通路から城の中へ<line-break>入ることができるはずだ。<line-break>王女様に会って説明すれば、<line-break>ハンナの人形を返してくれるだろ。<end>"
+english = "With the Silver Dragon Necklace I gave you, you should be able to enter the castle through the secret passage. If you meet the princess and explain, she will probably return Hannah's Doll.<end>"
+
+["1230172"]
+japanese = "ハンナの人形を取り返しに行くだと？<line-break>お前は、とんだお人好しだな。<line-break>城に潜入して見つかったらどうする？<line-break>仮に秘密通路の噂が事実だとしても<line-break>無事に人形を取り返せるという<line-break>保証はないのだぞ。<end>"
+english = "You mean to retrieve Hannah's Doll? You are far too softhearted. What will you do if you are caught infiltrating the castle? Even if the rumors of a secret passage are true, there is no guarantee you will recover the doll safely.<end>"
+
+["1230173"]
+japanese = "残念じゃ、わしがその場におれば、<line-break>タルテュバの首根っこをひっつかんで、<line-break>人形を取り返しにいかせたのじゃが。<line-break>まあ、ゼネテス殿の話が本当なら<line-break>城門の近くに秘密通路があるのじゃろ？<line-break>そこから城に乗り込もうぞ。<end>"
+english = "What a pity. Had I been there, I would have seized Tartyuba by the scruff of his neck and made him retrieve the doll. Still, if Xenetes spoke the truth, there is a secret passage near the castle gate, yes? Let us storm the castle through it!<end>"
+
+["1230174"]
+japanese = "ゼネテスさんにもらった<line-break>銀竜の首飾りがあれば<line-break>秘密通路が見つかるんだってね。<line-break>城門の近くにあるらしいから<line-break>門衛に見つからないように<line-break>探さないといけないね。<end>"
+english = "They say the Silver Dragon Necklace Xenetes gave you will reveal the secret passage. Apparently it is near the castle gate, so we'll have to search without being spotted by the guards.<end>"
+
+["1230175"]
+japanese = "ゼネテスから銀竜の首飾りをもらった<line-break>そうだな。それがあれば、必ず、<line-break>王女のもとへ忍び込めるはずだ。<end>"
+english = "I hear Xenetes gave you the Silver Dragon Necklace. With that, you should certainly be able to slip into the princess's presence.<end>"
+
+["1230176"]
+japanese = "人間の王女がどれほどか知らないけど<line-break>高貴で知性あふれ優雅で華麗なエルフの<line-break>アタクシにかなうわけがないわ！<line-break>だいたいヘッポコ貴族が子供から<line-break>盗んだ人形をもらって喜ぶなんて<line-break>アタクシには信じられないわ。<end>"
+english = "I don't know how impressive a human princess can be, but she could never compare to a noble, brilliant, graceful, and dazzling Elf such as myself! And I cannot believe the princess could be pleased to receive a doll some worthless noble stole from a child.<end>"
+
+["1230177"]
+japanese = "ハンナの人形ボゲー<line-break>ハンナの人形ボゲー<line-break>ハンナの人形ボゲー<line-break>ハンナの人形ボゲー<line-break>ハンナの人形ボゲー<line-break>ハンナの人形ボゲー<end>"
+english = "Hannah's Doll, Bogee! Hannah's Doll, Bogee! Hannah's Doll, Bogee! Hannah's Doll, Bogee! Hannah's Doll, Bogee! Hannah's Doll, Bogee!<end>"
+
+["1230178"]
+japanese = "お願いだよ、<value:$28>。<line-break>ハンナちゃんのためにも<line-break>王女様から人形を取り返してきてね。<line-break>王女様の部屋に行く途中で、<line-break>寄り道とかしちゃダメだからね。<end>"
+english = "Please, <value:$28>. For Hannah's sake, get the doll back from the princess. And don't wander off anywhere on the way to her room!<end>"
+
+["1230179"]
+japanese = "………………。<line-break><line-break><line-break>王女に返してもらえ。<end>"
+english = "........... Make the princess return it.<end>"
+
+["1230180"]
+japanese = "タルテュバがティアナに贈った人形が、<line-break>スラムの少女の持ち物だった？<line-break>その子の依頼を受けて取り戻しに行く？<line-break>はははっ！\u3000おもしろいな、お前は。<line-break>ぜひとも腐れ貴族に一矢報いてやれ。<line-break>が、ただし…<line-break>これだけは約束しろ。<line-break>ティアナに余計なことをすれば、<line-break>この俺が許さんからな。<end>"
+english = "The doll Tartyuba gave Tiana belonged to a girl from the Slums? And you accepted the girl's request to retrieve it? Ha ha ha! You really are something. By all means, strike a blow against that rotten noble. But promise me one thing: if you do anything unnecessary to Tiana, I will never forgive you.<end>"
+
+["1230181"]
+japanese = "ティアナ王女は美人で性格がよくて、<line-break>誰からも好かれるロストールの<line-break>アイドルなんだよ。<line-break>彼女に会いにいけるなんて、<line-break><value:$28>は運がいいよ。<line-break>王女様に、ぼくのことも伝えてよね。<end>"
+english = "Princess Tiana is beautiful, kind, and loved by everyone―she's Rostorl's idol. You're lucky to get the chance to meet her, <value:$28>. Make sure you tell the princess about me too!<end>"
+
+["1230182"]
+japanese = "前々から危ういと聞いてはいたが、<line-break>そんなことをするとは、タルテュバは<line-break>精神を病んでいる人物なのか？<line-break>騒ぎを大きくすれば、あの男、<line-break>どんな行動に出るかわからんぞ。<line-break>それにしても、哀れではあるな…。<end>"
+english = "I had heard for some time that he was unstable, but after this, could Tartyuba truly be mentally ill? If this becomes a major scandal, there is no telling what that man might do. Even so, he is pitiable...<end>"
+
+["1230183"]
+japanese = "ティアナ様に贈られたタルテュバの<line-break>人形が、スラムの子供のもの<line-break>だったとは知りませんでした。<line-break>騒ぎが大きくなれば、タルテュバは<line-break>ますます荒れるでしょう。<line-break>どうか、穏便にお願いします。<end>"
+english = "I did not know that the doll Tartyuba gave Lady Tiana belonged to a child from the Slums. If this becomes a major scandal, Tartyuba will grow even more agitated. Please handle the matter peacefully.<end>"
+
+["1230184"]
+japanese = "ひどい！<line-break>子供から人形をとりあげるなんて！<line-break>貴族のすることじゃないよ！<end>"
+english = "That's awful! Taking a doll from a child! No noble should ever do such a thing!<end>"
+
+["1230185"]
+japanese = "ちょいと寒気がするような話じゃの。<line-break>おのが欲望のために、貴族が<line-break>子供からものをとりあげるとは…。<line-break>事前に阻止したいところじゃったが、<line-break>仕方ない。取り返しに行こうぞ。<line-break>子供との約束は守るもんじゃ。<end>"
+english = "It is a chilling tale indeed. A noble taking something from a child to satisfy his own desires... I wish we could have stopped it beforehand, but it is too late now. Let us retrieve the doll. A promise to a child must be kept.<end>"
+
+["1230186"]
+japanese = "いったい、どんなうまみがあって、<line-break>タルテュバはハンナから人形を<line-break>奪ったりなどしたのだろうな。<line-break>しかもそれをティアナ王女に<line-break>贈っていたとは…理解に苦しむ。<line-break>…ロストール城へ行こう。<end>"
+english = "What could Tartyuba possibly have gained by taking Hannah's doll? And then he gave it to Princess Tiana... I cannot understand it. Let us go to Rostorl Castle.<end>"
+
+["1230187"]
+japanese = "奪われた人形が<line-break>よりによってティアナに<line-break>プレゼントされていたとはな。<line-break><value:$28>、<line-break>早く人形を取りにいって<line-break>女の子に返してやれ。<end>"
+english = "Of all people, the stolen doll was given to Tiana. Hurry and retrieve it, <value:$28>, then return it to the girl.<end>"
+
+["1230188"]
+japanese = "ティアナ様、か…。<line-break><line-break><line-break>今は、王宮に関わりたくないの。<line-break>お人形のことはあなたに任せるわ。<line-break>がんばってね。<end>"
+english = "Lady Tiana... I do not wish to become involved with the royal court right now. I'll leave the matter of the doll to you. Good luck.<end>"
+
+["1230189"]
+japanese = "………………。<end>"
+english = "...........<end>"
+
+["1230190"]
+japanese = "許せません！<line-break>女の子の大事なお人形さんを<line-break>奪ってティアナ様にあげちゃうなんて。<line-break>早くお人形を返してもらいに<line-break>行きましょう。<end>"
+english = "That is unforgivable! Taking a little girl's precious doll and giving it to Lady Tiana... Let us go and have it returned at once.<end>"
+
+["1230191"]
+japanese = "………………。<end>"
+english = "...........<end>"
+
+["1230192"]
+japanese = "（闇の神器探しをケリュネイアと<line-break>\u3000名乗るハーフエルフに依頼された。<line-break>\u3000手に入れたらギルドに届けよう）<line-break>（彼女の情報によると、闇の神器の<line-break>\u3000１個はウルカーンにあるらしい）<end>"
+english = "(A Half-Elf calling herself Ceryneia asked us to search for the Artifacts of Darkness. Once we obtain one, we should deliver it to the Guild.) (According to her information, one of the artifacts is in Urkaan.)<end>"
+
+["1230193"]
+japanese = "オルファウスだけじゃなくて<line-break>ケリュネイアも闇の神器を<line-break>探しているのね。<line-break>彼女の情報が本当かどうか確認する<line-break>ためにも、神器があるっていう<line-break>ウルカーンに行ってみましょ。<end>"
+english = "So Ceryneia is searching for the Artifacts of Darkness too, not just Orphaus. To verify her information, let us visit Urkaan, where one of the artifacts is said to be.<end>"
+
+["1230194"]
+japanese = "闇の神器をすべて集めると<line-break>破壊神ウルグを復活させることが<line-break>できるというではないか。<line-break>そのような危険な物を集めても<line-break>よいのかのう…。<end>"
+english = "They say gathering all the Artifacts of Darkness can resurrect Ulgu, the God of Destruction. Is it truly wise to collect such dangerous objects...?<end>"
+
+["1230195"]
+japanese = "ケリュネイアさんの情報だと<line-break>ウルカーンにあるらしいですよ。<line-break>でも、ウルカーンも広いですから…。<line-break><value:$28>様は探すあてが<line-break>ありますか？<line-break>私は全然ありませんっ！<end>"
+english = "According to Ceryneia's information, it's somewhere in Ulkarn. But Ulkarn is a big place... Do you have any idea where to look, <value:$28>? Because I certainly don't!<end>"
+
+["1230196"]
+japanese = "闇の神器を集めてギルドに届けりゃ<line-break>いいだけの仕事だろ。<line-break>簡単じゃねえか。<line-break>１個目はウルカーンにあるってんだろ。<line-break>おう、さっそく行こうぜ。<line-break>誰かに先を越されちゃむかつくからな。<end>"
+english = "All we have to do is gather the Dark Artifacts and deliver them to the Guild, right? Sounds easy enough. The first one's supposed to be in Ulkarn. Well, let's get going. It'd really tick me off if someone beat us to it.<end>"
+
+["1230197"]
+japanese = "ケリュネイアの情報を信じるなら<line-break>闇の神器のひとつはウルカーンにある<line-break>らしいよ。<line-break>でも、ウルカーンは広いから探すのは<line-break>大変だね。長老のシェムハザさんに<line-break>相談してみよっか？<end>"
+english = "If we believe Ceryneia's information, one of the Dark Artifacts is somewhere in Ulkarn. But Ulkarn is a big place, so finding it won't be easy. Maybe we should ask Elder Shemhaza for advice?<end>"
+
+["1230198"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1230199"]
+japanese = "ケリュネイアから依頼が来ましたか。<line-break>確か、１個目はウルカーンにあると<line-break>彼女はあなた方を導いたはずですよ。<end>"
+english = "Did Ceryneia give you the assignment? If I recall correctly, she pointed you toward Ulkarn for the first one.<end>"
+
+["1230200"]
+japanese = "ハーフエルフのケリュネイアによれば<line-break>１個目の闇の神器は、ウルカーンに<line-break>あるらしいのよね。<line-break>ウルカーンのどことは言ってないから<line-break>それからがまた大変っぽいけど。<end>"
+english = "According to Ceryneia, the Half-Elf, the first Dark Artifact is somewhere in Ulkarn. She didn't say where in Ulkarn, though, so finding it sounds like the hard part.<end>"
+
+["1230201"]
+japanese = "姉ちゃん、ケリュネイアの話が<line-break>本当なら闇の神器はウルカーンに<line-break>あるってことだよな。<line-break>魔人も探してるってオルファウスが<line-break>言ってたろ？\u3000魔人に奪われる前に<line-break>俺たちで手に入れちゃおうぜ。<end>"
+english = "Sis, if Ceryneia was telling the truth, that means the Dark Artifact is in Ulkarn. Orphaus said the demonfolk are looking for it too, remember? Let's get our hands on it before they do.<end>"
+
+["1230202"]
+japanese = "闇の神器の１個は、<line-break>ウルカーンに隠されているらしい。<line-break><line-break>その、ケリュネイアという<line-break>ハーフエルフの言うことを<line-break>信じるなら。<end>"
+english = "Apparently, one of the Dark Artifacts is hidden in Ulkarn. If we can believe that Half-Elf called Ceryneia, that is.<end>"
+
+["1230203"]
+japanese = "そっか、闇の神器のひとつは<line-break>ウルカーンにあるってわけか。<line-break>で、どうするんだい？<line-break>その依頼を受ける気があるなら<line-break>早く探しにいったほうがいいだろう。<end>"
+english = "I see. So one of the Dark Artifacts is in Ulkarn. What are you going to do? If you intend to accept the request, you'd better start looking soon.<end>"
+
+["1230204"]
+japanese = "そのケリュネイアという女は<line-break>信用しても大丈夫なのか？<line-break>何かの罠かもしれんぞ。<line-break>ま、ウルカーンに行けば嘘か真か<line-break>ハッキリするだろうがな。<line-break>たとえ罠でも俺が打ち破ってやる！<end>"
+english = "Are you sure that woman Ceryneia can be trusted? It could be some kind of trap. Well, we'll find out whether it's true or not once we get to Ulkarn. And even if it is a trap, I'll smash right through it!<end>"
+
+["1230205"]
+japanese = "闇の神器は危険な物じゃと聞いておる。<line-break>ウルカーンのような人の多いところに<line-break>あれば何かと問題があるに違いない。<line-break>わしらに管理できるかどうかは<line-break>わからぬが、放置するわけには<line-break>いかぬな。<end>"
+english = "I have heard that the Dark Artifacts are dangerous. If one is in a crowded place like Ulkarn, it is bound to cause trouble. I do not know whether we can keep it under control, but we cannot simply leave it there.<end>"
+
+["1230206"]
+japanese = "闇の神器のひとつがウルカーンにある<line-break>らしいけど、どうやって探そうか？<line-break>あてもなく探してもしょうがないし…。<line-break>やっぱり、長老のシェムハザ様に<line-break>相談するのがいいかもしれないね。<end>"
+english = "One of the Dark Artifacts is supposed to be in Ulkarn, but how are we going to find it? There's no point searching without any leads... Maybe we really should ask Elder Shemhaza for advice.<end>"
+
+["1230207"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1230208"]
+japanese = "闇の神器がどうしたって言うのよ！<line-break>アタクシは高貴で知性あふれる<line-break>エルフなのよ！<line-break>そのアタクシが、どーーーーして<line-break>ハーフエルフなんかの命令で<line-break>ウルカーンに行かなきゃならないのよ！<end>"
+english = "Who cares about some Dark Artifact! I am a noble and brilliant Elf! Why-y-y-y should someone like me have to go to Ulkarn on the orders of some Half-Elf?!<end>"
+
+["1230209"]
+japanese = "１個目の闇の神器ボゲー<line-break>１個目の闇の神器ボゲー<line-break>１個目の闇の神器ボゲー<line-break>１個目の闇の神器ボゲー<line-break>１個目の闇の神器ボゲー<line-break>１個目の闇の神器ボゲー<end>"
+english = "The first Dark Artifact, Bogee! The first Dark Artifact, Bogee! The first Dark Artifact, Bogee! The first Dark Artifact, Bogee! The first Dark Artifact, Bogee! The first Dark Artifact, Bogee!<end>"
+
+["1230210"]
+japanese = "ルルアンタ知ってるよ。<line-break>闇の神器はウルカーンにあるんだよ。<line-break><value:$28>も知っているよね？<line-break>でも、ウルカーンのどこにあるかは、<line-break>ルルアンタ知らないんだぁ。<line-break>だから、一緒に探そうねぇ。<end>"
+english = "Lulluantha knows! The Dark Artifact is in Ulkarn. You know that too, right, <value:$28>? But Lulluantha doesn't know where in Ulkarn it is. So let's look for it together, okay?<end>"
+
+["1230211"]
+japanese = "………………。<line-break><line-break><line-break>ウルカーンだ…。<end>"
+english = "...Ulkarn...<end>"
+
+["1230212"]
+japanese = "ケリュネイアによれば、<line-break>闇の神器の１個はウルカーンに<line-break>眠っているらしい。<line-break>回収した後は、各地のギルドで<line-break>照合するらしいぞ。<end>"
+english = "According to Ceryneia, one of the Dark Artifacts lies dormant in Ulkarn. Once we recover it, apparently we're to have it verified at Guilds in various regions.<end>"
+
+["1230213"]
+japanese = "ケリュネイアの情報だと<line-break>闇の神器のひとつがウルカーンに<line-break>あるんでしょ。<line-break>あそこは魔道士だらけだから、<line-break>ひとりくらい闇の神器を知っている人が<line-break>いるかもね。長老に聞いてみる？<end>"
+english = "According to Ceryneia's information, one of the Dark Artifacts is in Ulkarn, right? That place is full of mages, so at least one of them might know something about it. Want to ask the elder?<end>"
+
+["1230214"]
+japanese = "ディンガルの他にも闇の神器を狙う<line-break>勢力がいるということか。…それに加え<line-break>魔人の類いも動いているという。<line-break>気を抜いている暇もないな。<end>"
+english = "So there are forces besides Dingal seeking the Dark Artifacts. And demonfolk are on the move as well... We cannot afford to let our guard down.<end>"
+
+["1230215"]
+japanese = "ケリュネイアと名乗るハーフエルフの<line-break>言うことによれば、闇の神器の１個は<line-break>ウルカーンにあるそうです。<line-break>当然ですが、そう簡単に手に入るとは<line-break>思えません。警戒されないように、<line-break>慎重に行きましょう。<end>"
+english = "According to a Half-Elf calling herself Ceryneia, one of the Dark Artifacts is in Ulkarn. Naturally, I don't expect it to be easy to obtain. Let's proceed carefully so we don't arouse suspicion.<end>"
+
+["1230216"]
+japanese = "ケリュネイアってハーフエルフが、<line-break>ウルカーンに闇の神器があるって。<line-break>行ってみなくちゃわからないよね。<end>"
+english = "A Half-Elf named Ceryneia says there's a Dark Artifact in Ulkarn. We won't know for sure unless we go and see, right?<end>"
+
+["1230217"]
+japanese = "ケリュネイアとやらに闇の神器探しを<line-break>依頼されたんじゃったな。<line-break>その１つがウルカーンにあるという。<line-break>嘘か真か…ま、ウルカーンに<line-break>行ってみればわかるじゃろ。<end>"
+english = "We were asked by this Ceryneia to search for the Dark Artifacts, weren't we? Supposedly, one of them is in Ulkarn. Whether that is true or false... well, we shall find out if we go to Ulkarn.<end>"
+
+["1230218"]
+japanese = "ケリュネイアの言うことが正しいなら、<line-break>闇の神器の１個はウルカーンにある。<line-break><line-break>そう簡単には教えてくれないと思うが、<line-break>ありかがわからなければ、<line-break>長老のシェムハザを当たってみようか。<end>"
+english = "If Ceryneia is right, one of the Dark Artifacts is in Ulkarn. I doubt anyone will tell us where it is that easily, but if we can't find its location, perhaps we should try Elder Shemhaza.<end>"
+
+["1230219"]
+japanese = "ウルカーンにあると、<line-break>ケリュネイアが言っていたな。<line-break>長老に聞けば何かわかるかもしれん。<end>"
+english = "Ceryneia said it was in Ulkarn. The elder may know something if we ask.<end>"
+
+["1230220"]
+japanese = "彼女、闇の神器を集めて<line-break>どうするつもりなのかしら。<line-break>心配だわ。<line-break>でも、とりあえずは<line-break>ウルカーンで、闇の神器を探しましょ。<line-break>きっと、彼女の考えはそのうちわかるわ。<end>"
+english = "I wonder what she plans to do after gathering the Dark Artifacts. I'm worried. But for now, let's search for the Dark Artifact in Ulkarn. I'm sure we'll understand her intentions eventually.<end>"
+
+["1230221"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1230222"]
+japanese = "ケリュネイアさんは闇の神器が<line-break>ウルカーンにあるって言ってました。<line-break>でも広くて探すのは大変そうですね。<line-break>もしかしたら、長老のシェムハザさんが<line-break>何か知ってるかもしれません。<end>"
+english = "Ceryneia said the Dark Artifact was in Ulkarn. But it's such a big place that finding it sounds difficult. Elder Shemhaza might know something.<end>"
+
+["1230223"]
+japanese = "………………。<end>"
+english = "...<end>"

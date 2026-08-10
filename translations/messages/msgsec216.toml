@@ -1,0 +1,53 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2160000"]
+japanese = "異種族間の９用開始<end>"
+english = ""
+
+["2160001"]
+japanese = "…驚いたな。こりゃ、<line-break>本当に神様ってもんが<line-break>いるのかもしれねえな…。<line-break>この旅立ちの時に<line-break><value:$28>と会えるなんてよ。<end>"
+english = "Well, I'll be damned. Maybe there really are gods after all. Running into you just as we're setting off, <value:$28>...<end>"
+
+["2160002"]
+japanese = "すまなかった。本当はあんたに<line-break>すぐ報告したかったんだが<line-break>出航が急だったんでな。<line-break>つい連絡しそびれちまった。<end>"
+english = "Sorry. I meant to tell you right away, but the ship was leaving on such short notice that I never got the chance to send word.<end>"
+
+["2160003"]
+japanese = "実は、あの後シェーヌの森で<line-break>ふたりで話し合ったんだ…。<line-break>\u3000<line-break>たとえ俺が死んでも、その時は多分、<line-break>そばには俺たちの子どもがいるはずだ。<end>"
+english = "The truth is, we talked it all through afterward in Chene Forest. Even if I die, our children will probably be there by her side when it happens.<end>"
+
+["2160004"]
+japanese = "だったら、自分の分まで<line-break>その子どもたちを<line-break>愛してくれればいいって<line-break>彼が、そう言ってくれたんです。<end>"
+english = "He said that if that happened, I should love our children enough for both of us.<end>"
+
+["2160005"]
+japanese = "ガラにもないことを言っちまったが、<line-break>ま、そういうわけだ。<line-break>\u3000<line-break>結局、ふたりでとことん<line-break>話し合ってさ、<line-break>一緒になるって決めたよ。<line-break>しがらみのない別の大陸に渡って、<line-break>そこで一から築くんだ。<line-break>俺たちの新しい世界を…。<end>"
+english = "Not the sort of thing you'd expect to hear from me, I know, but there it is. We talked until there was nothing left unsaid, and in the end, we decided to be together. We're crossing to another continent, somewhere free of all the ties that bind us here. We'll start from nothing and build a new world of our own.<end>"
+
+["2160006"]
+japanese = "ありがとう、<value:$28>。<line-break>\u3000<line-break>\u3000<line-break>あんたには本当に世話になった。<line-break>ちゃんと別れの挨拶ができて<line-break>うれしいぜ…。<end>"
+english = "Thank you, <value:$28>. You've done more for me than I can say. I'm glad I got the chance to say a proper goodbye.<end>"
+
+["2160007"]
+japanese = "また世界のどこかで会おうぜ、<line-break><value:$28>！<end>"
+english = "We'll meet again somewhere in this world, <value:$28>!<end>"
+
+["2160008"]
+japanese = "なあに、心配には及ばん。<line-break>きっとうまくいくじゃろう。<line-break>\u3000<line-break>あのふたり…。<line-break>実にいい顔をしておったからのう。<line-break>\u3000<line-break>彼らの旅先に幸多からんことを<line-break>わしらも祈ろうではないか。<end>"
+english = "Come now, there is no need to worry. I am sure all will be well. Those two looked truly happy. Let us pray that good fortune attends them on their journey.<end>"
+
+["2160009"]
+japanese = "大丈夫かしら、あのふたり…。<line-break>エルフと人間がうまくいったなんて話、<line-break>聞いたことがないけど。<end>"
+english = "I wonder if those two will be all right. I've never heard of things working out between an Elf and a human.<end>"
+
+["2160010"]
+japanese = "…でも、幸せになってほしいわね。<end>"
+english = "Still, I hope they'll be happy.<end>"
+
+["2160011"]
+japanese = "ルルアンタ、あのふたりは<line-break>きっとうまくいくと思うな。<line-break>だって、とっても幸せそうだったもん。<line-break>ルルアンタ、昔フリントさんから<line-break>教わったことがあるの。<line-break>\u3000<line-break>どんなに困難な旅路だって、<line-break>信頼し合っている者同士なら<line-break>ちっとも恐くないって。<line-break>うん。あのふたりなら<line-break>きっと大丈夫だよ！<end>"
+english = "Lulluantha thinks those two will be just fine. They looked so happy together! Flint taught Lulluantha something a long time ago: no journey is frightening, no matter how hard it is, as long as you trust each other. Mm-hm. Those two will be just fine!<end>"
+
+["2160012"]
+japanese = "異種族間の９用終端<end>"
+english = ""

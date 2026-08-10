@@ -1,0 +1,101 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2220000"]
+japanese = "迷子イベント5用開始<end>"
+english = ""
+
+["2220001"]
+japanese = "うぇーん、うぇーん！<line-break>痛いよーっ！<end>"
+english = "Waaah! It hurts!<end>"
+
+["2220002"]
+japanese = "どうしたの？<line-break>\u3000<line-break>\u3000<line-break>ああ、転んでケガしちゃったんだ。<line-break>痛かったね～。<line-break>ほら、お姉ちゃんに見せてみて？<end>"
+english = "What's wrong? Oh, you fell and hurt yourself. That must have hurt. Here, let me have a look.<end>"
+
+["2220003"]
+japanese = "よく泣きやんだね。えらいえらい。<line-break>もうちょっとガマンしててね。<line-break>今、手当てしてあげるから。<end>"
+english = "Good, you stopped crying. What a brave boy. Just hold still a little longer, all right? I'll patch you up.<end>"
+
+["2220004"]
+japanese = "ほら。お兄ちゃんもヴァンも<line-break>ボーッと突っ立っていないで<line-break>何かしてよ。<end>"
+english = "Come on, big brother. You and Van, stop standing around and do something.<end>"
+
+["2220005"]
+japanese = "何かって…。<line-break>何すりゃいいんだよ？<end>"
+english = "Do something? Like what?<end>"
+
+["2220006"]
+japanese = "たとえば、<line-break>気を紛らわせてあげれば、<line-break>少しは痛みも和らぐでしょ。<line-break>何か話をしてあげるとか、<line-break>面白いことをして見せるとかさ？<end>"
+english = "Distract him, for example. That might take his mind off the pain. Tell him a story, or do something funny for him.<end>"
+
+["2220007"]
+japanese = "そんなことなら<line-break>おやすい御用だぜ。<line-break>なあ、<value:$28>。<end>"
+english = "That'll be easy. Right, <value:$28>?<end>"
+
+["2220008"]
+japanese = "やめとけ、<value:$28>。<line-break>そんな難しい冒険の話、<line-break>子供にわかるわけねえって。<end>"
+english = "Forget it, <value:$28>. A kid's never going to follow some complicated adventure story like that.<end>"
+
+["2220009"]
+japanese = "いいから俺に任せとけって。<line-break>こういうのなら<line-break>得意中の得意なんだ。<end>"
+english = "Just leave it to me. This is my specialty.<end>"
+
+["2220010"]
+japanese = "いいか、坊主。<line-break>今度はお兄ちゃんが<line-break>とっておきのやつを見せてやるぜ。<end>"
+english = "All right, kid. Your big brother's about to show you his best trick.<end>"
+
+["2220011"]
+japanese = "よっ、はっ、とおっ。<end>"
+english = "Hup! Hah! Hyah!<end>"
+
+["2220012"]
+japanese = "そらよっと！<end>"
+english = "And there!<end>"
+
+["2220013"]
+japanese = "男の子だけに、ダンシングってな！<line-break>ウププ…。<end>"
+english = "A little boy deserves a little boy-gie! Heh heh...<end>"
+
+["2220014"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["2220015"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["2220016"]
+japanese = "アハハハハハ。<line-break>どうだ、痛みもフッ飛んだだろ？<end>"
+english = "Hahahahaha! Well? Bet you forgot all about the pain, huh?<end>"
+
+["2220017"]
+japanese = "さ、これでもう大丈夫。<end>"
+english = "There, all better now.<end>"
+
+["2220018"]
+japanese = "おねえちゃん、ありがとう。<end>"
+english = "Thank you, miss.<end>"
+
+["2220019"]
+japanese = "ありがとう。<end>"
+english = "Thank you.<end>"
+
+["2220020"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["2220021"]
+japanese = "あの子、照れちまって、<line-break>お礼言うの忘れたんだな…。<end>"
+english = "Guess he got shy and forgot to thank me...<end>"
+
+["2220022"]
+japanese = "でも、俺を見る目がどことなく<line-break>悲しげな感じがしたんだけど<line-break>なんだったんだろう…。<end>"
+english = "Still, there was something almost sad about the way he looked at me. I wonder what that was about...<end>"
+
+["2220023"]
+japanese = "ほら。<value:$28>もヴァンも<line-break>ボーッと突っ立っていないで<line-break>何かしてよ。<end>"
+english = "Come on, <value:$28>. You and Van, stop standing around and do something.<end>"
+
+["2220024"]
+japanese = "迷子イベント5用終端<end>"
+english = ""

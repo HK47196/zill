@@ -1,0 +1,65 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2550000"]
+japanese = "PSP用ロジクーニン01用開始<end>"
+english = ""
+
+["2550001"]
+japanese = "なんなのよ、この部屋っ！<line-break>汚い本ばっかり！<line-break>カビ臭くて息がつまるわ！<end>"
+english = "What is this place?! Nothing but filthy books! It reeks of mold in here! I can barely breathe!<end>"
+
+["2550002"]
+japanese = "ロジクーニン？\u3000誰よ、それ？<line-break>どう見たって高貴なアタクシが<line-break>読む価値はなさそうね。<end>"
+english = "Logikunin? Who's that? It certainly doesn't look worth reading to someone as noble as I am.<end>"
+
+["2550003"]
+japanese = "…え！？\u3000これって、<line-break>もしかして、あのロジクーニンが<line-break>書き残した本じゃ…。<end>"
+english = "Wait, what?! Could this actually be a book Logikunin left behind...?<end>"
+
+["2550004"]
+japanese = "…間違いないわ！<line-break>すごーい！\u3000世紀の大発見！<line-break>\u3000<line-break>異世界について書かれた<line-break>超一級の資料よ！<end>"
+english = "There's no doubt about it! Amazing! This is the discovery of the century! It's a first-rate source on other worlds!<end>"
+
+["2550005"]
+japanese = "ふーん…。この世界の他にも<line-break>別の世界があるなんて<line-break>なんだか素敵かも…！<line-break>ある日、もうひとつの世界から。<line-break>魅力的な王子様が現れて、私のこと<line-break>お迎えに来てくれたりして…。キャッ！<end>"
+english = "Hmm... Maybe it is rather romantic, knowing there are other worlds beyond this one. Perhaps one day a charming prince will appear from another world and come to sweep me away... Eek!<end>"
+
+["2550006"]
+japanese = "バカね。バカすぎ…。<line-break>果てしなく下等だわ。<end>"
+english = "What an idiot. Too stupid for words... Utterly inferior.<end>"
+
+["2550007"]
+japanese = "よーし、決めたわ！<line-break>ロジクーニンの研究を引き継いで、<line-break>この私が完成させちゃおっと！<line-break>そして、その研究成果を引っさげて<line-break>魔道アカデミーへ復学よ！<end>"
+english = "All right, I've decided! I'll carry on Logikunin's research and finish it myself! Then I'll take the results back to the Magic Academy and get reinstated!<end>"
+
+["2550008"]
+japanese = "アカデミーへ復学ですって？<line-break>下等生物のいかにも小市民的な願いね。<line-break>発想が貧困すぎて笑っちゃうわ！<end>"
+english = "Reinstated at the Academy? How typically petty-bourgeois of an inferior creature. Such poverty of imagination is laughable!<end>"
+
+["2550009"]
+japanese = "…って、聞きなさいよぉ！<end>"
+english = "Hey! I'm talking to you!<end>"
+
+["2550010"]
+japanese = "きゃっ！<line-break>これもロジクーニンの論文かも…！<line-break>\u3000<line-break>…空間に穴を開けて、<line-break>異世界とつなげる方法！？<end>"
+english = "Eek! Could this be another of Logikunin's papers...? A method for opening a hole in space and linking it to another world?!<end>"
+
+["2550011"]
+japanese = "すばらしいわ！<line-break>この技術を完成させれば<line-break>\u3000<line-break>魔道アカデミーに復学どころか<line-break>首席にだってなれるかも！<end>"
+english = "Wonderful! If I perfect this technique, I might not just get reinstated at the Magic Academy. I could even take the top spot!<end>"
+
+["2550012"]
+japanese = "ね、お願い！\u3000<value:$28>。<line-break>本によると、この塔の最上階で<line-break>実験できるみたいなんだけど、<line-break>でも、空間に穴を開けるためには<line-break>千年石と、ハヤスの葉が必要なの。<line-break>もし、見つけたらよろしくね！<end>"
+english = "Please, <value:$28>! The book says the experiment can be done on the top floor of this tower. But opening a hole in space requires a Millennium Stone and a Hayasu Leaf. If you find either one, I'm counting on you!<end>"
+
+["2550013"]
+japanese = "ああ、それと傲慢の首飾りって<line-break>闇の神器も必要だわ。<line-break>実験の時に使わせてちょうだいね！<end>"
+english = "Oh, and we'll also need a dark divine artifact called the Necklace of Arrogance. Let me use it for the experiment, all right?<end>"
+
+["2550014"]
+japanese = "ちょっと待ちなさいよぉ！<line-break>あんなバカバカしい戯言を信じて<line-break>本気で協力するんじゃないでしょうね！<end>"
+english = "Wait just a minute! You're not actually going to help with this because you believe all that ridiculous nonsense, are you?!<end>"
+
+["2550015"]
+japanese = "PSP用ロジクーニン01用終端<end>"
+english = ""

@@ -1,0 +1,561 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1730000"]
+japanese = "オイフェメッセージＶ５開始<end>"
+english = ""
+
+["1730001"]
+japanese = "やあ、こんにちは。<line-break>あなたも、これから\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>旅に出るのですか？<end>"
+english = "Hello there. Are you about to set out on a journey too?<end>"
+
+["1730002"]
+japanese = "そうですか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>あ、そうそう、旅の途中で<line-break>物騒な噂を耳にしました。<line-break>最近、リベルダムへ向かう<line-break>街道には、山賊が出るそうですよ。<line-break>あなたも気をつけてください。<end>"
+english = "I see. Oh, that reminds me. I heard a troubling rumor while I was traveling. Apparently, bandits have been showing up on the road to Liberdam lately. You'd best be careful too.<end>"
+
+["1730003"]
+japanese = "た、たたた、わたた、<line-break>たすけてくれぇぇぇ！！<line-break>\u3000<line-break>ばけ、ばけもの…<line-break>化け物が、化け物が<line-break>俺たちのねぐらにぃぃーっ！<end>"
+english = "H-h-h-help! M-monster... There's a monster―a monster in our hideout!<end>"
+
+["1730004"]
+japanese = "ひぃああ！<line-break>見つかったら殺されるぅぅ。<line-break>たぁぁすけぇてぇぇぇ！！<end>"
+english = "Aaaagh! If I'm found, I'm deeead! Heeelp meee!!<end>"
+
+["1730005"]
+japanese = "<if><value:$01><equal>3どうするんじゃ、<value:$28>？<line-break>山賊とはいえ、放っておくのも<line-break>後味が悪い。行ってみるか？ <end><if><value:$01><equal>4どうするの、<value:$28>？<line-break>やっぱり、助けに行くの？ <end><if><value:$01><equal>5どうするんだ、<value:$28>？<line-break>やっぱ…。 <end><if><value:$01><equal>6あの人、噂の山賊だよね？\u3000\u3000<line-break>きっと、悪い人だよね？<line-break>\u3000<line-break>でも…。<line-break>どうする、<value:$28>？ <end><if><value:$01><equal>13<value:$28>。<line-break>…わざわざ行く気では<line-break>ないだろうな？ <end><if><value:$01><equal>10どうすんだ、姉ちゃん？<line-break>まあ、姉ちゃんのことだから… <end><if><value:$01><equal>14何やら様子がおかしいようじゃな。<line-break>どうする、<value:$28>？<line-break>こやつのねぐらとやらに行ってみるか？ <end><if><value:$01><equal>15<value:$28>、どうしよう？<line-break>化け物だって…。<line-break>行ってみる？ <end><if><value:$01><equal>17<value:$28>！<line-break>まさかとは思うけど、助けに行こう！<line-break>な～んて思ってないでしょうね！？ <end><if><value:$01><equal>19ねぇねぇ、<value:$28>。<line-break>山賊さん、悪い人かもしれないけど、<line-break>助けに行ってあげなくちゃ？\u3000ね？ <end><if><value:$01><equal>20行くのか？ <end><if><value:$01><equal>11どうするの、<value:$28>？<end><if><value:$01><equal>27山賊か？<line-break>様子がおかしい…。<line-break>どうする、<value:$28>？<end><if><value:$01><equal>26化け物とは…<line-break>こやつのねぐらとやらに行ってみるか？ <end><if><value:$01><equal>192どうするのですか？<line-break><value:$28>。<line-break>\u3000<line-break>私は貴方に従います。<end><if><value:$01><equal>193あの人って山賊ですよね。<line-break>でも…。<line-break><line-break><value:$28>さん、どうします？<end><if><value:$01><equal>194…言っておくぞ。<line-break>あそこにいる男は…危険すぎる。<end><if><value:$01><equal>191化け物だなんて本当かしら。<line-break>どうするの、<value:$28>。<line-break>山賊を助けにいくの？<end><if><value:$01><equal>190どうする？<line-break>あいつらは山賊だ。<line-break>それでも助けに行くのか？<end>どうするの、<value:$28>？<line-break>この人、噂になってる山賊の一味だよ。<line-break>それでも…。 <end>"
+english = "<if><value:$01><equal>3What shall we do, <value:$28>? Bandit or no, it wouldn't sit right to simply walk away. Shall we go?<end><if><value:$01><equal>4What are you going to do, <value:$28>? You're going to help, then?<end><if><value:$01><equal>5What are you going to do, <value:$28>? Just as I thought...<end><if><value:$01><equal>6That's the bandit everyone's been talking about, right? The bandit's probably a bad person, right? But... What should we do, <value:$28>?<end><if><value:$01><equal>13<value:$28>. You're not seriously planning to go, are you?<end><if><value:$01><equal>10What're you gonna do, sis? Though knowing you...<end><if><value:$01><equal>14Something seems strange. What shall we do, <value:$28>? Shall we go see this bandit's so-called lair?<end><if><value:$01><equal>15What should we do, <value:$28>? They say there's a monster... Shall we go and see?<end><if><value:$01><equal>17<value:$28>! Don't tell me you're thinking of going to help! You're not, are you?!<end><if><value:$01><equal>19Hey, hey, <value:$28>. The bandit might be a bad person, but we have to go help, don't we? Right?<end><if><value:$01><equal>20You're going?<end><if><value:$01><equal>11What are you going to do, <value:$28>?<end><if><value:$01><equal>27A bandit? Something's not right... What will you do, <value:$28>?<end><if><value:$01><equal>26A monster... Shall we go see this bandit's so-called lair?<end><if><value:$01><equal>192What will you do, <value:$28>? I shall follow your lead.<end><if><value:$01><equal>193That's a bandit, isn't it? But still... What should we do, <value:$28>?<end><if><value:$01><equal>194I'm warning you. That man over there is... far too dangerous.<end><if><value:$01><equal>191I wonder if there really is a monster. What will you do, <value:$28>? Are you going to help the bandit?<end><if><value:$01><equal>190What will you do? Those people are bandits. Are you still going to help?<end>What are you going to do, <value:$28>? This person belongs to that bandit gang everyone's been talking about. Even so...<end>"
+
+["1730006"]
+japanese = "助けに行こう<end>"
+english = "Let's go help.<end>"
+
+["1730007"]
+japanese = "先をいそごう<end>"
+english = "Let's hurry on.<end>"
+
+["1730008"]
+japanese = "<if><value:$01><equal>3うむ、お主なら<line-break>そう言うと思っておったわ。<line-break>では、参ろう。 <end><if><value:$01><equal>4うふふ、また面倒なことに<line-break>巻き込まれるのかも！<line-break>ちょっとだけ楽しみ！\u3000きゃっ。 <end><if><value:$01><equal>5だよなー。<line-break>ほんっと<value:$28>って<line-break>こういうのに首突っ込むよな。<line-break>よし。<line-break>じゃ、いっちょ行こうぜ。 <end><if><value:$01><equal>6うん、そうだよね。<line-break>やっぱり放ってなんておけないよ。<line-break>さあ、行こう！\u3000<value:$28>。 <end><if><value:$01><equal>13まったく…。<line-break>くだらん話だ。 <end><if><value:$01><equal>10やっぱそうだよな。<line-break>じゃ、行こうぜ、姉ちゃん。 <end><if><value:$01><equal>14うむ、わかった。<line-break>では行こう。 <end><if><value:$01><equal>15そうだよね。<line-break>放ってなんておけないよ。<line-break>じゃあ、行こう！ <end><if><value:$01><equal>17あ～～、もう！<line-break>なんでそう下等な同情で行動するの？<line-break>信じられなくってよー！！ <end><if><value:$01><equal>19うん！<line-break>じゃ、行こう！！ <end><if><value:$01><equal>20そうか。 <end><if><value:$01><equal>11わかったわ。<end><if><value:$01><equal>27そうか。 <value:$28>が<line-break>言うのなら、行こう。<end><if><value:$01><equal>26うむ。<end><if><value:$01><equal>192わかりました。<line-break>助けに行きましょう。<end><if><value:$01><equal>193<value:$28>さんなら<line-break>そうおっしゃるって思っていました。<line-break>早く助けに行ってあげましょう！<end><if><value:$01><equal>194君なら、そう言うだろうな。<line-break>…わかった。行こう。<end><if><value:$01><equal>191<value:$28>って<line-break>ほんと、おせっかいね。<line-break>でも、そこがいいところなんだけどね。<line-break>じゃ、行きましょ！<end><if><value:$01><equal>190俺もお前と同じ意見だ。<line-break>急いで向かうぞ。<end>そうだよね。<line-break><value:$28>らしいと思うよ。<line-break>じゃ、行こう！\u3000 <end>"
+english = "<if><value:$01><equal>3Hm. I thought that was what you'd say. Well then, let us be off.<end><if><value:$01><equal>4Hee hee! We might get caught up in another mess! I'm almost looking forward to it! Eek!<end><if><value:$01><equal>5Yeah, figures. <value:$28> really can't resist getting involved in things like this. All right, let's get going.<end><if><value:$01><equal>6Yeah, you're right. We can't just leave things like this. Come on, <value:$28>. Let's go!<end><if><value:$01><equal>13Honestly... What utter nonsense.<end><if><value:$01><equal>10Yeah, I thought so. Come on, sis. Let's go.<end><if><value:$01><equal>14Very well. Let us go.<end><if><value:$01><equal>15You're right. We can't just leave things like this. Come on, let's go!<end><if><value:$01><equal>17Oh, honestly! Why must you act out of such base pity? I simply cannot believe it!<end><if><value:$01><equal>19Right! Let's go!<end><if><value:$01><equal>20I see.<end><if><value:$01><equal>11All right.<end><if><value:$01><equal>27I see. If <value:$28> says so, then let us go.<end><if><value:$01><equal>26Mm.<end><if><value:$01><equal>192Understood. Let's go and help.<end><if><value:$01><equal>193I thought you'd say that, <value:$28>. Let's hurry and help!<end><if><value:$01><equal>194I thought that was what you'd say... All right, let's go.<end><if><value:$01><equal>191You really are a meddler, <value:$28>. But that's one of your good qualities. All right, let's go!<end><if><value:$01><equal>190I agree with you. Let's hurry.<end>You're right. That's just like you, <value:$28>. Come on, let's go!<end>"
+
+["1730009"]
+japanese = "ふふふ。素直に差し出しておけば、<line-break>砦ごと失うこともなかったのに。<line-break>選択を誤ったね、山賊さんたち？<end>"
+english = "Heh heh heh. If you'd simply handed it over, you wouldn't have lost your fortress as well. You made the wrong choice, didn't you, bandits?<end>"
+
+["1730010"]
+japanese = "ぎゃっ！<end>"
+english = "Gah!<end>"
+
+["1730011"]
+japanese = "ぐはっ！<end>"
+english = "Gah!<end>"
+
+["1730012"]
+japanese = "女性だからといって、<line-break>逃がしてあげたりはしないよ。<line-break>それは不平等というものだからね？<end>"
+english = "I won't let you escape just because you're a woman. That wouldn't be fair, would it?<end>"
+
+["1730013"]
+japanese = "ぎゃー！<end>"
+english = "Aaaah!<end>"
+
+["1730014"]
+japanese = "坊や。いくつだ？<end>"
+english = "How old are you, boy?<end>"
+
+["1730015"]
+japanese = "ご、ご、５さ、い…。<end>"
+english = "F-five... years old...<end>"
+
+["1730016"]
+japanese = "そうかい。<line-break>俺が最初に命を奪われかけたのは、<line-break>６つのときだ。だから…<end>"
+english = "I see. I was six the first time someone tried to take my life. So...<end>"
+
+["1730017"]
+japanese = "それまでは守られる権利がある。<line-break>坊や。君の命は奪わない。<end>"
+english = "Until then, you have the right to be protected. I won't take your life, boy.<end>"
+
+["1730018"]
+japanese = "死ねえっ！<end>"
+english = "Die!<end>"
+
+["1730019"]
+japanese = "おっと、危ない。<line-break>その程度の腕で<line-break>刃物を振り回してほしくないな。<end>"
+english = "Whoa, careful. I wish you wouldn't go swinging a blade around when that's the best you can do.<end>"
+
+["1730020"]
+japanese = "俺は君らがこの前、旅の坊主から奪った<line-break>貪欲の盾を探しているんだけど？<line-break>君は何も言わないで死ぬのかな？<end>"
+english = "I'm looking for the Shield of Greed you stole from that traveling monk the other day. Are you going to die without telling me anything?<end>"
+
+["1730021"]
+japanese = "ぜっ、ゼグナだ。<line-break>ゼグナの坑道に隠した！<end>"
+english = "Z-Zegna! We hid it in the Zegna mine!<end>"
+
+["1730022"]
+japanese = "ありがとう。<line-break>そして、<line-break>さよなら。<end>"
+english = "Thank you. And goodbye.<end>"
+
+["1730023"]
+japanese = "ぐぇ！<end>"
+english = ""
+
+["1730024"]
+japanese = "冒険者か。とんだところに来たね。<line-break>６才以上の奴は俺の前に現れた瞬間、<line-break>死が確定するんだ。<end>"
+english = "An adventurer? What an unfortunate place to wander into. Anyone six or older is doomed the moment they appear before me.<end>"
+
+["1730025"]
+japanese = "俺はシスティーナの伝道師、<line-break>黒の祈りのジュサプブロス。<line-break>死と絶望を広めるのが仕事だ。<end>"
+english = "I am a missionary of Sistina, Jusapubros of the Black Prayer. My work is to spread death and despair.<end>"
+
+["1730026"]
+japanese = "君のために俺は剣で祈ろう。<line-break>死と絶望の甘美な歌声が<line-break>君を永遠に包みますように、とね。<line-break>じゃあ、さよなら。<end>"
+english = "For you, I shall pray with my sword: may the sweet song of death and despair enfold you for eternity. And now, goodbye.<end>"
+
+["1730027"]
+japanese = "ほう。やるね。<end>"
+english = "Oh? Not bad.<end>"
+
+["1730028"]
+japanese = "そこの男！\u3000動くな！<end>"
+english = "You there! Don't move!<end>"
+
+["1730029"]
+japanese = "おや？\u3000新手かな？<end>"
+english = "Oh? More company?<end>"
+
+["1730030"]
+japanese = "お前……<line-break>エルフ…<line-break>ダークエルフか。<end>"
+english = "You... An Elf... a Dark Elf.<end>"
+
+["1730031"]
+japanese = "あーあ、せっかく、隠していたのに。<line-break>やっぱり、同門にはわかるんだね。<line-break>\u3000<line-break>それにしてもこれは不利すぎるな。<line-break>じゃあね。<end>"
+english = "Oh, and I went to all that trouble to keep it hidden. I suppose someone from the same order would notice. Still, I'm at far too much of a disadvantage here. See you.<end>"
+
+["1730032"]
+japanese = "逃げた？<line-break>…まぁ、いいわ。<line-break>今は少しでも被害を抑えないと。<end>"
+english = "Escaped? Oh well. For now, we have to keep the damage to a minimum.<end>"
+
+["1730033"]
+japanese = "ふぅ。<line-break>生き残りはこれで全部かの？<end>"
+english = "Phew. Is this everyone who survived?<end>"
+
+["1730034"]
+japanese = "えぇ。生き残ったのは子供だけ。<line-break>それも、小さな子ばかり。<line-break>あとは全滅だわ。<end>"
+english = "Yes. Only the children survived, and every one of them is very young. Everyone else was wiped out.<end>"
+
+["1730035"]
+japanese = "小僧。<line-break>貪欲の盾は、どこだ？<end>"
+english = "Boy. Where is the Shield of Greed?<end>"
+
+["1730036"]
+japanese = "ひ…う、う…えぐ。<line-break>うわーん。<end>"
+english = "Hic... uh... sob... Waaaaah!<end>"
+
+["1730037"]
+japanese = "ゼリグ！<line-break>何をしているの！<line-break>こんな小さな子を泣かせないで。<end>"
+english = "Zelig! What are you doing? Don't make such a little child cry.<end>"
+
+["1730038"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1730039"]
+japanese = "貪欲の盾は、どこにある？<line-break>言え。<end>"
+english = "Where is the Shield of Greed? Tell me.<end>"
+
+["1730040"]
+japanese = "ぜ、ゼグナ…って、<line-break>おじちゃんが…。<end>"
+english = "Z-Zegna... That's what the man said...<end>"
+
+["1730041"]
+japanese = "盾の在処はわかった。<line-break>ゆくぞ。<end>"
+english = "We know where the shield is. Let's go.<end>"
+
+["1730042"]
+japanese = "ゆくぞって…ちょっと待って。<line-break>この子たちを置いては行けないわ。<end>"
+english = "Go? Wait a moment. We can't leave these children here.<end>"
+
+["1730043"]
+japanese = "…今は、盾の方が<line-break>優先する。<end>"
+english = "Right now, the shield takes priority.<end>"
+
+["1730044"]
+japanese = "それは、盾は重要だけど…。<line-break>\u3000<line-break>\u3000<line-break>仕方ないわ。<line-break>ドルドラム。<end>"
+english = "The shield is important, but... Fine. Doldrum.<end>"
+
+["1730045"]
+japanese = "今度は何かな？<end>"
+english = "What is it this time?<end>"
+
+["1730046"]
+japanese = "私とゼリグで盾の所在を<line-break>報告に行くわ。あなたは<line-break>この子たちのことをお願い。<end>"
+english = "Zelig and I will go report the shield's location. I want you to look after these children.<end>"
+
+["1730047"]
+japanese = "やれやれ。<line-break>わしの助けはいらんのと違ったかな？<end>"
+english = "Good grief. I thought you had no need of my help?<end>"
+
+["1730048"]
+japanese = "………………。<line-break>\u3000<line-break>\u3000<line-break>…わかったわ。<line-break>もう頼まない。<end>"
+english = "... Fine. I won't ask anymore.<end>"
+
+["1730049"]
+japanese = "<value:$28>。あなたに<line-break>こんなことを頼める義理じゃないけど、<line-break>他に方法がないの。<line-break>ロセンにいるカルラの所まで行って、<line-break>ここの子供たちを収容するよう言って。<end>"
+english = "<value:$28>. I have no right to ask this of you, but there's no other way. Go to Karula in Rocen and tell her to take these children in.<end>"
+
+["1730050"]
+japanese = "神器を争奪していた相手に、<line-break>ものを頼むとは<line-break>器用な奴だな。<end>"
+english = "Asking a favor of someone you were fighting over a sacred artifact takes remarkable skill.<end>"
+
+["1730051"]
+japanese = "なんですって！<end>"
+english = "What did you say?!<end>"
+
+["1730052"]
+japanese = "怒るな。<line-break>我もそのぐらい器用ならばと<line-break>思ったまでだ。<end>"
+english = "Don't be angry. I only wished I possessed such skill myself.<end>"
+
+["1730053"]
+japanese = "やれやれ。<end>"
+english = "Good grief.<end>"
+
+["1730054"]
+japanese = "戦争になれば、孤児が増える。\u3000\u3000\u3000<line-break>お前さん、そのすべてを<line-break>拾って歩く気かね？<line-break>悪いが、わしらには時間がないのだ。<line-break>ベルゼーヴァ卿も<line-break>次はないと仰せだしな。<end>"
+english = "War creates orphans. Do you mean to go around taking in every last one? I'm sorry, but we have no time. Lord Beelzeva has said there will be no next chance.<end>"
+
+["1730055"]
+japanese = "先に行かせてもらうぞ。<end>"
+english = "I'll go on ahead.<end>"
+
+["1730056"]
+japanese = "…<value:$28>。<line-break>どう？\u3000引き受けてくれるの？<end>"
+english = "<value:$28>... Will you do it?<end>"
+
+["1730057"]
+japanese = "引き受ける<end>"
+english = "Accept<end>"
+
+["1730058"]
+japanese = "引き受けない<end>"
+english = "Decline<end>"
+
+["1730059"]
+japanese = "私だって、孤児をすべて\u3000\u3000\u3000\u3000\u3000\u3000<line-break>救えるなんて、思ってない。<line-break>\u3000<line-break>だけど、目の前に苦しんでいる者が<line-break>いて、それを救える方法があるのに、<line-break>救わないでいるなんて、できない。<end>"
+english = "I don't think I can save every orphan. But when someone is suffering right in front of me and there's a way to help, I can't just stand by and do nothing.<end>"
+
+["1730060"]
+japanese = "とりあえず、<line-break>助けてくれて、ありがとう。<line-break>\u3000<line-break>これを見せれば、カルラは<line-break>理解するはずよ。じゃ、よろしく。<line-break>私はドルドラムたちを追うから。<end>"
+english = "For now, thank you for helping. Show this to Karula and she should understand. I'm counting on you. I have to catch up with Doldrum and the others.<end>"
+
+["1730061"]
+japanese = "言っておきますけど、アタクシは絶対に<line-break>死んでも、行かなくてよー。行くなら、<line-break>アタクシをここに残して行って！<end>"
+english = "Let me make one thing clear: I absolutely refuse to go, even if it kills me! If you're going, leave me here!<end>"
+
+["1730062"]
+japanese = "ちょ、ちょっと、待ちなさいよー！<line-break>高貴なアタクシにこの人間の子供たちの<line-break>お守りをさせる気？\u3000非常識よー！<end>"
+english = ""
+
+["1730063"]
+japanese = "<if><value:$01><equal>4うふふ。ただでさえ、<line-break>いっぱい問題を抱えているのに、<line-break>またまた面倒ごとを抱えちゃった。<line-break><value:$28>って、<line-break>面倒大好き人間みたい！\u3000きゃっ。 <end>………………。<line-break>面倒なことを。 <end>"
+english = "<if><value:$01><equal>4Hee hee! We already have our hands full, and now we've taken on another mess. You must simply adore trouble, <value:$28>! Eek!<end>... What a nuisance.<end>"
+
+["1730064"]
+japanese = "<if><value:$01><equal>3さて、<line-break>わしらも行こうかの。 <end><if><value:$01><equal>5しょうがねぇなぁ。<line-break>俺たちも行くか。 <end><if><value:$01><equal>6それじゃあ、ボクたちも<line-break>急がないとね。 <end><if><value:$01><equal>10姉ちゃん、俺たちも急ごうぜ。 <end><if><value:$01><equal>14ま、エルフは勝手なものじゃて。<line-break>それじゃあ、<value:$28>。<line-break>わしらも急ごうかの。 <end><if><value:$01><equal>15ねえ、<value:$28>。<line-break>僕たちも急いだ方がいいよ。 <end><if><value:$01><equal>19私たちも急いだ方がいいよぉ、<line-break><value:$28>。 <end><if><value:$01><equal>11急ぎましょう。<end><if><value:$01><equal>27急ごう。<end><if><value:$01><equal>26さて、行こうかの。<end><if><value:$01><equal>193さあ、<value:$28>さん。<line-break>早く手紙を届けて<line-break>子供たちを保護してもらいましょう！<end><if><value:$01><equal>191私はオイフェと同じ意見だわ。<line-break>救える命があるのなら救いたい…。<line-break>さあ、急ぎましょ。<end><if><value:$01><equal>190俺たちも急ぐぞ。<end>こりゃあ、ぼくたちも<line-break>急いだ方がよさそうだね。<line-break>それじゃ、しゅっぱーつ！ <end>"
+english = "<if><value:$01><equal>3Well then, shall we be off as well?<end><if><value:$01><equal>5Can't be helped. Guess we'd better get going too.<end><if><value:$01><equal>6Then we'd better hurry too.<end><if><value:$01><equal>10Come on, sis. We'd better hurry too.<end><if><value:$01><equal>14Well, Elves do as they please. Come, <value:$28>. We should hurry as well.<end><if><value:$01><equal>15Hey, <value:$28>. We'd better hurry too.<end><if><value:$01><equal>19We'd better hurry too, <value:$28>.<end><if><value:$01><equal>11Let's hurry.<end><if><value:$01><equal>27Let's hurry.<end><if><value:$01><equal>26Well then, let us go.<end><if><value:$01><equal>193Come on, <value:$28>. Let's deliver the letter quickly and have someone take the children into care!<end><if><value:$01><equal>191I agree with Aoife. If a life can be saved, I want to save it... Come on, let's hurry.<end><if><value:$01><equal>190We need to hurry too.<end>Looks like we'd better hurry too. All right, away we go!<end>"
+
+["1730065"]
+japanese = "そう。仕方ないわね。<line-break>あなたに頼んだ、<line-break>私がバカだったわ。<end>"
+english = "I see. Fine. I was a fool to ask you.<end>"
+
+["1730066"]
+japanese = "引き受ける気はないんでしょう。<line-break>早く、行くといいわ。<end>"
+english = "You don't mean to take it on, do you? You'd better get going.<end>"
+
+["1730067"]
+japanese = "<value:$28>って、<line-break>結構、外道かも！\u3000きゃっ。<end>"
+english = "You may be rather heartless, <value:$28>! Eek!<end>"
+
+["1730068"]
+japanese = "<if><value:$01><equal>3なぜ、引き受けぬ？<line-break>オイフェと敵対しているからか？ <end><if><value:$01><equal>5どうして、引き受けねぇんだよ！<line-break>オイフェと敵対しているからかよ？ <end><if><value:$01><equal>6どうして、引き受けないの？<line-break>オイフェと敵対していることなんて<line-break>今は関係ないじゃない。 <end><if><value:$01><equal>13……何をしたいのだか。<line-break>これではまったくの無駄足だ。 <end><if><value:$01><equal>10なんで引き受けないんだよ？<line-break>姉ちゃんなら当然引き受けると<line-break>思ってたのに。 <end><if><value:$01><equal>14なぜ、引き受けんかったんじゃ。<line-break>誰に頼まれようと、<line-break>やるべきことがあるはずじゃぞ。 <end><if><value:$01><equal>15どうして、引き受けないの？<line-break>困ってる人を放っておくなんて<line-break>死んだお爺ちゃんなら怒ると思うな。<end><if><value:$01><equal>19どうしてぇ？<line-break>あの子たち、かわいそうだよぉ。 <end><if><value:$01><equal>11どうして引き受けないの？<line-break>敵対しているから…？<end><if><value:$01><equal>27…引き受けなかった理由は<line-break>オイフェと敵対しているからか？ <end><if><value:$01><equal>26なぜ、引き受けなかったのじゃ？<line-break>あの子たちはどうなるのじゃ…。<end><if><value:$01><equal>193どうして引き受けないんですか！？<line-break>あの子たちがかわいそうです…。<end><if><value:$01><equal>191なぜ引き受けないの！？<line-break>彼女と敵対してるから？<line-break>そんなの関係ないわ！<line-break>あなたのこと見損なったわ。<end><if><value:$01><equal>190まさか、放っていくのか？<line-break>自分だけの都合で<line-break>あの子たちを見捨ててしまうのか？<end>うーん、なんだかなぁ…。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>これって、誰に頼まれたのか抜きで、<line-break>やらなきゃいけないことだと<line-break>思うけどなぁ、ぼく。 <end>"
+english = "<if><value:$01><equal>3Why did you refuse? Is it because you and Aoife are enemies?<end><if><value:$01><equal>5Why the hell did you refuse? Just because you're enemies with Aoife?<end><if><value:$01><equal>6Why won't you do it? Being enemies with Aoife has nothing to do with this.<end><if><value:$01><equal>13What are you trying to accomplish? This entire journey has been for nothing.<end><if><value:$01><equal>10Why didn't you agree? I was sure you would, sis.<end><if><value:$01><equal>14Why did you refuse? No matter who asks, there are some things that simply must be done.<end><if><value:$01><equal>15Why won't you do it? My late grandfather would be angry if we abandoned people in need.<end><if><value:$01><equal>19Why? Those poor children...<end><if><value:$01><equal>11Why won't you do it? Is it because you're enemies...?<end><if><value:$01><equal>27Did you refuse because you and Aoife are enemies?<end><if><value:$01><equal>26Why did you refuse? What will become of those children...?<end><if><value:$01><equal>193Why won't you do it?! Those poor children...<end><if><value:$01><equal>191Why won't you do it?! Because you and Aoife are enemies? That has nothing to do with this! I thought better of you.<end><if><value:$01><equal>190You're not really going to leave them, are you? Will you abandon those children for your own convenience?<end>Hmm... I don't know about this. Regardless of who asked, I think it's something we ought to do.<end>"
+
+["1730069"]
+japanese = "<if><value:$01><equal>3そうか。いや、お主がそれで<line-break>正しいと思うのならそれでよい。<line-break>では、先を急ごう。 <end><if><value:$01><equal>4意外だわ。面倒なことに<line-break>首突っ込まずにすむなんて。<line-break>ちょっと肩すかしかも！\u3000きゃっ！ <end><if><value:$01><equal>5あ、そ、そうなんだ？<line-break>わかった、先を急ごうぜ。 <end><if><value:$01><equal>6えーーーっ！？<line-break>う、ううん。なんでもないよ。<line-break>そっか。じゃ、行こう。 <end><if><value:$01><equal>13うむ、行こう。 <end><if><value:$01><equal>10あれ？\u3000意外だな。<line-break>まぁ、いいか。<line-break>じゃ、先を急ごう。 <end><if><value:$01><equal>14ふむ、放っておくというのじゃな？<line-break>わかった。では、先を急ごうかの。 <end><if><value:$01><equal>15え？\u3000行かないの？<line-break>…いや、別に何でもないんだ。<line-break>そうだね、先を急ごう。 <end><if><value:$01><equal>17当然よ。少しはまともな思考が<line-break>できるようになったわね。<line-break>それでは、出発よー！ <end><if><value:$01><equal>19ええーっ！？<line-break>山賊さんたち、放っていくの？<line-break>\u3000<line-break>…ううん、なんでもない。<line-break>行こう、<value:$28>。 <end><if><value:$01><equal>20そうか。 <end><if><value:$01><equal>11そう、わかったわ。<end><if><value:$01><equal>27そう…か。<line-break>行こう、<value:$28>。 <end><if><value:$01><equal>26そう…か。<line-break>では、先を急ごう。 <end><if><value:$01><equal>192行かないのですね。<line-break>わかりました。先を急ぎましょう。<end><if><value:$01><equal>193え！？<line-break>い…いえ、何でもないです。<line-break>ちょっと意外だっただけで…。<line-break>先を急ぎましょう。<end><if><value:$01><equal>194そうか、なら先を急ごう。<end><if><value:$01><equal>191意外だわ。<line-break><value:$28>ならてっきり…<line-break>\u3000<line-break>まあ、いいわ。<line-break>先を急ぎましょ。<end><if><value:$01><equal>190放っておくのか…？<line-break>…わかった。<line-break>先を急ごう。<end>そっか。<line-break>うん、じゃ、先を急ごう。 <end>"
+english = "<if><value:$01><equal>3I see. No, if you believe this is right, then so be it. Let us hurry on.<end><if><value:$01><equal>4What a surprise. We get to avoid poking our noses into another mess. It's almost a letdown! Eek!<end><if><value:$01><equal>5O-oh, really? All right, let's hurry on.<end><if><value:$01><equal>6Whaaat?! N-no, it's nothing. Oh. Then let's go.<end><if><value:$01><equal>13Very well. Let us go.<end><if><value:$01><equal>10Huh? Didn't expect that. Oh well. Let's hurry on.<end><if><value:$01><equal>14Hm. So you mean to leave them? Very well. Let us hurry on.<end><if><value:$01><equal>15What? We're not going? No, it's nothing. All right, let's hurry on.<end><if><value:$01><equal>17Naturally. At last, you're beginning to think sensibly. Now, onward!<end><if><value:$01><equal>19What?! We're leaving the bandits? No, it's nothing. Let's go, <value:$28>.<end><if><value:$01><equal>20I see.<end><if><value:$01><equal>11I see. All right.<end><if><value:$01><equal>27I... see. Let's go, <value:$28>.<end><if><value:$01><equal>26I... see. Then let us hurry on.<end><if><value:$01><equal>192So you aren't going. Understood. Let us hurry on.<end><if><value:$01><equal>193What?! N-no, it's nothing. I was just a little surprised... Let's hurry on.<end><if><value:$01><equal>194I see. Then let's hurry on.<end><if><value:$01><equal>191I'm surprised. With you, <value:$28>, I was sure... Never mind. Let's hurry on.<end><if><value:$01><equal>190You're leaving them...? All right. Let's hurry on.<end>I see. All right, then. Let's hurry on.<end>"
+
+["1730070"]
+japanese = "<value:$28>様。<line-break>どうぞお通りください。<end>"
+english = "<value:$28>, please go right in.<end>"
+
+["1730071"]
+japanese = "あら、<value:$28>じゃん。<line-break>元気にしてた？<line-break>\u3000<line-break>え？\u3000オイフェから手紙？<line-break>ふーん。どれどれ。<end>"
+english = "Oh, hey, <value:$28>. How've you been? Huh? A letter from Aoife? Hmm. Let's see.<end>"
+
+["1730072"]
+japanese = "どこで何をやってるかと思ったら。\u3000<line-break>相変わらず、甘ちゃんね。<line-break>…ま、そこがかわいいんだけどね。<line-break>わかったわ。大したことじゃないし、<line-break>他ならぬ<value:$28>の<line-break>頼みだからね。聞いといたげる。<end>"
+english = "So that's what you've been up to. You're still such a soft touch. That's part of your charm, though. All right. It's no great trouble, and since it's you asking, <value:$28>, I'll see to it.<end>"
+
+["1730073"]
+japanese = "でも、あんまりオイフェの方ばっかり<line-break>くっついていっちゃヤだよ。<line-break>あたしの方もちゃんとかまってよね？<end>"
+english = "But don't go spending all your time tagging along after Aoife. You've got to pay some attention to me too, you know?<end>"
+
+["1730074"]
+japanese = "それじゃ、またね。<line-break><value:$28>。<end>"
+english = "See you around, <value:$28>.<end>"
+
+["1730075"]
+japanese = "オイフェ殿からの書状だと？<line-break>しばらく、待て。<end>"
+english = ""
+
+["1730076"]
+japanese = "カルラ様がお会いになるそうだ。<line-break>失礼のないようにな。<end>"
+english = ""
+
+["1730077"]
+japanese = "元気ぃ？\u3000ロセンの鐘楼以来よね？<line-break>あの時、言ったよね。<line-break>部下になるか、死ぬかだって。<line-break>そして、あんたは、<line-break>あたしの部下にはならなかった。<line-break>つまり死を選択したのよね？<end>"
+english = ""
+
+["1730078"]
+japanese = "いくわ！！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = ""
+
+["1730079"]
+japanese = "結構、やるじゃん。<line-break>んで、聞くけどさ。<line-break>あたしのこと、どうしたいの？<end>"
+english = ""
+
+["1730080"]
+japanese = "死んでもらう<end>"
+english = ""
+
+["1730081"]
+japanese = "別にどうもしない<end>"
+english = ""
+
+["1730082"]
+japanese = "それは、ちょっち<line-break>イヤかな。<line-break>遠慮させてもらうわ。<end>"
+english = ""
+
+["1730083"]
+japanese = "つまみだせ！<end>"
+english = ""
+
+["1730084"]
+japanese = "はっ！<end>"
+english = ""
+
+["1730085"]
+japanese = "ふぅん、やさしいんだ。<line-break>…っていうか、<line-break>あたしのこと好きなんでしょ？\u3000<line-break>だったら、あたしの配下に入るのが<line-break>一番じゃない？\u3000<line-break>どぉ？\u3000悪いようにはしないわよ。<end>"
+english = ""
+
+["1730086"]
+japanese = "冗談だってば。\u3000\u3000\u3000\u3000<line-break>本気にしないで。<line-break>\u3000<line-break>じゃ、用が終わったなら<line-break>出てってくんないかな？<end>"
+english = ""
+
+["1730087"]
+japanese = "なあんだ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>またそんな答えか。<line-break>つまんないわね。<line-break>悪いけど、出てってくれる？<line-break>自分のものになんないのに<line-break>いつまでも顔見ていたくないの。<end>"
+english = ""
+
+["1730088"]
+japanese = "あ、子供たちの件だけどさ。<line-break>責任もって引き受けとくから。<line-break>それは、心配しないでいいよ。<end>"
+english = "Oh, about the children. I'll take responsibility for them, so you don't need to worry.<end>"
+
+["1730089"]
+japanese = "バカじゃない？<line-break>考えなしでこんなことになってさ。<line-break>ホント、バカ。<line-break>でも、あたし、バカも好きよ。<line-break>ま、オイフェの顔も立てて<line-break>見逃してあげるわ。行きなさい。<end>"
+english = ""
+
+["1730090"]
+japanese = "あ、子供たちの件もひきうけとくわ。<line-break>ま、恩に感じて、も少し強くなって<line-break>あたしを楽しませてよね。<end>"
+english = ""
+
+["1730091"]
+japanese = "オイフェ殿からの書状だと？<line-break>しばらく、待て。<end>"
+english = "A letter from Lady Aoife? Wait a moment.<end>"
+
+["1730092"]
+japanese = "カルラ様がお会いになるそうだ。<line-break>失礼のないようにな。<end>"
+english = "Lady Karula will see you. Mind your manners.<end>"
+
+["1730093"]
+japanese = "あんたが、オイフェのおつかいね。<line-break>あたしがカルラ。<line-break>ディンガルの東方攻略軍司令。<line-break>でもって青竜将軍。<line-break>ヨロシクぅ。<line-break>じゃ、手紙、見せて。<end>"
+english = "So you're Aoife's messenger. I'm Karula. Commander of Dingal's Eastern Campaign Army. And the Azure Dragon General. Nice to meet you. Now, show me the letter.<end>"
+
+["1730094"]
+japanese = "あら、<value:$28>じゃん。<line-break>オイフェから手紙預かってるんだって？<line-break>どれどれ…<end>"
+english = "Oh, hey, <value:$28>. I hear you're carrying a letter from Aoife. Let's have a look...<end>"
+
+["1730095"]
+japanese = "ふーん。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>あんたもめんどくさいこと<line-break>やってるみたいだね。<line-break>ま、いいわ。大したことじゃないし。<line-break>ここは、どーんと引き受けちゃう。<line-break>オイフェの顔も立ててやらないとね。<end>"
+english = "Hmm. Looks like you're dealing with some troublesome business. Well, all right. It's nothing major. I'll take the whole thing on. Have to oblige Aoife, too.<end>"
+
+["1730096"]
+japanese = "用件がそれだけなら、<line-break>失礼させてもらっちゃおうかな。<line-break>こう見えて、実は忙しいのよね。<end>"
+english = "If that's all you needed, I think I'll be on my way. Believe it or not, I'm actually quite busy.<end>"
+
+["1730097"]
+japanese = "なんか、あんたとは<line-break>また会えそうな気がするなぁ。<line-break>そんじゃ、またね。<end>"
+english = "I've got a feeling we'll meet again. See you around.<end>"
+
+["1730098"]
+japanese = "なんか、あんたとは<line-break>また会えそうな気がするなぁ。<line-break>そんじゃ、またね。<end>"
+english = "I've got a feeling we'll meet again. See you around.<end>"
+
+["1730099"]
+japanese = "シャリ、失敗したようだな。<end>"
+english = ""
+
+["1730100"]
+japanese = "そ、それは…。<end>"
+english = ""
+
+["1730101"]
+japanese = "あのお方はお怒りだ。<end>"
+english = ""
+
+["1730102"]
+japanese = "い、命ばかりは。<line-break>つ、次こそ必ず…。<end>"
+english = ""
+
+["1730103"]
+japanese = "失敗は死でつぐなえ。<line-break>シャリ。<end>"
+english = ""
+
+["1730104"]
+japanese = "ジュサぷー！<line-break>助けに来てくれたんだ！<end>"
+english = ""
+
+["1730105"]
+japanese = "...でも、もうこれで君も<line-break>あのお方から追われる身だね。<end>"
+english = ""
+
+["1730106"]
+japanese = "誰がジュサぷーだ。<line-break>それに、あのお方って誰だよ？\u3000\u3000<line-break>\u3000<line-break>俺たちの計画は俺と君、<line-break>ゾフォルの爺様に、救世主。<line-break>たった４人で切り盛りしてんだ。<end>"
+english = ""
+
+["1730107"]
+japanese = "君も爺様の作った人形を使って、<line-break>くだらない芝居をやっている暇が<line-break>あったら、もっと働けよ。<end>"
+english = ""
+
+["1730108"]
+japanese = "ちょっと、遊んでみただけさ。<line-break>案外、固いこと言うんだな。<end>"
+english = ""
+
+["1730109"]
+japanese = "空中都市は大失敗だったな。\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>闇の聖母の封印を守る巫女が１人も<line-break>死ななかったばかりか、逆に１人が<line-break>封印の守りに入ってしまった。<end>"
+english = ""
+
+["1730110"]
+japanese = "メンゴ。<end>"
+english = ""
+
+["1730111"]
+japanese = "少しは反省の色を見せてくれ。<line-break>円卓騎士メイアも役に立たないし…。<line-break>\u3000<line-break>ここはひとつ、救世主の<line-break>邪竜アズラゴーザ復活計画に<line-break>協力するか。<end>"
+english = ""
+
+["1730112"]
+japanese = "邪竜アズラゴーザねぇ…。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>僕、あんまし、<line-break>竜とか偉ぶったのは好きじゃないな。<line-break>それに、救世主が頼んだ冒険者が<line-break>誘拐任務中、いけにえにするエルフに<line-break>手ェつけて自殺させちゃったんでしょ？<end>"
+english = ""
+
+["1730113"]
+japanese = "まったく、満足に仕事もできない<line-break>素人なんかに頼むから…。<line-break>これ、どーするのよ？。<end>"
+english = ""
+
+["1730114"]
+japanese = "その姉が闇におちていい感じなんだ。<line-break>死の獅子のもとで修行も積んでな。<line-break>きっと邪竜復活に使えるはずだ。<end>"
+english = ""
+
+["1730115"]
+japanese = "…ところで、ひとつきいていいかな？<end>"
+english = ""
+
+["1730116"]
+japanese = "はい、どうぞ。<end>"
+english = ""
+
+["1730117"]
+japanese = "なんで、わざわざ奴らのとなりに<line-break>部屋を取ってる？<end>"
+english = ""
+
+["1730118"]
+japanese = "灯台もと暗しってね。<line-break>敵情視察もかねてる。<end>"
+english = ""
+
+["1730119"]
+japanese = "本当に？<end>"
+english = ""
+
+["1730120"]
+japanese = "…ごめん。おもしろがって<line-break>何も考えずにここにいます。<end>"
+english = ""
+
+["1730121"]
+japanese = "フフ、いい子だ。<line-break>邪竜が起きたら見物に来るといい。<line-break>人形遊びよりは、退屈しのぎになる。<end>"
+english = ""
+
+["1730122"]
+japanese = "楽しみにしてるよ。<line-break>ジュサぷー。<end>"
+english = ""
+
+["1730123"]
+japanese = "<value:$28>さんですね。<line-break>オイフェ様より伝言です。\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "You're <value:$28>, correct? I have a message from Lady Aoife.<end>"
+
+["1730124"]
+japanese = "先に依頼した\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>山賊の孤児救済の件、<line-break>\u3000<line-break>いくら待っても<line-break>らちが明かないようなので<line-break>別の手だてを講じた。<end>"
+english = "“Regarding the bandit orphans I asked you to rescue: it seemed waiting any longer would get us nowhere, so I made other arrangements.<end>"
+
+["1730125"]
+japanese = "孤児はすでに助け出したので、\u3000<line-break>依頼の件は忘れてくれて結構。<line-break>…とのことです。<end>"
+english = "The orphans have already been rescued, so you may forget about the request.” That is her message.<end>"
+
+["1730126"]
+japanese = "そ、それからもうひとつ…。\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "Th-there was one more thing…<end>"
+
+["1730127"]
+japanese = "あんたなんて二度と信用しない！<line-break>この薄情者っ！<end>"
+english = "“I'll never trust you again! You heartless wretch!”<end>"
+
+["1730128"]
+japanese = "あ、あの…これも<line-break>オイフェ様からの伝言でして。\u3000<line-break>必ず伝えるようにと…。<line-break>まあ、そちらにもいろいろと<line-break>言い分はあるでしょうが…。<line-break>では、私はこれで。<end>"
+english = "Ah, um… that was also a message from Lady Aoife. She told me to make sure I passed it on. I'm sure you have your side of the story, but… Well, I'll be going now.<end>"
+
+["1730129"]
+japanese = "部下になる<end>"
+english = ""
+
+["1730130"]
+japanese = "部下にならない<end>"
+english = ""
+
+["1730131"]
+japanese = "うぐ…ひっく、ひっく…。<line-break>このおねえちゃん、恐いけど\u3000<line-break>やさしいよぉ……。<end>"
+english = "Ugh... hic, hic... This lady's scary, but she's nice...<end>"
+
+["1730132"]
+japanese = "も、もう、<line-break>恐くなんてないんだから。<line-break>泣いてなんていないんだから！<line-break>泣いてなんて…泣いてなんて…<line-break>ぶえ～ん、恐かったよ～～。<end>"
+english = "I-I'm not scared anymore, okay? And I'm not crying! I'm not crying... I'm not... Waaaah! I was scared!<end>"
+
+["1730133"]
+japanese = "見つけたぞ。ジュサプブロス。<end>"
+english = "I've found you, Jusapubros.<end>"
+
+["1730134"]
+japanese = "見た顔がいると思ったら…。<line-break>元気そうで何よりだ、ジリオン。<line-break>ところで俺に何か用かな？<end>"
+english = "I thought I recognized someone... I'm glad to see you looking well, Zillion. Now, what business do you have with me?<end>"
+
+["1730135"]
+japanese = "しらばっくれるな。<line-break>同化の髪飾りを返してもらうぞ。<end>"
+english = "Don't play innocent. Give back the Hair Ornament of Assimilation.<end>"
+
+["1730136"]
+japanese = "あれは正当な報酬としてもらったんだ。<line-break>それを力ずくで奪う気かい？<line-break>まるで山賊だな、ジリオン。<end>"
+english = "I received it as rightful payment. Do you mean to take it from me by force? That makes you no better than a bandit, Zillion.<end>"
+
+["1730137"]
+japanese = "予備用メッセージＶ５<line-break>オイフェその９<end>"
+english = ""
+
+["1730138"]
+japanese = "予備用メッセージＶ５<line-break>オイフェその１０<end>"
+english = ""
+
+["1730139"]
+japanese = "オイフェメッセージＶ５終端<end>"
+english = ""

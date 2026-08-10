@@ -1,0 +1,321 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1810000"]
+japanese = "ケリュネイア\u3000Ｖ７\u3000開始<end>"
+english = ""
+
+["1810001"]
+japanese = "あ、<value:$28>。<line-break>…ねえ、<line-break>兄さんについて何か聞いていない？<line-break>ちょっと、気になる噂を<line-break>耳にしたものだから…。<end>"
+english = "Oh, <value:$28>. Have you heard anything about my brother? I heard a rather troubling rumor...<end>"
+
+["1810002"]
+japanese = "<value:$28>…。<line-break>あなた、何か知っているのね？<end>"
+english = "<value:$28>... You know something, don't you?<end>"
+
+["1810003"]
+japanese = "話して！<line-break>お願い、<value:$28>！<end>"
+english = "Tell me! Please, <value:$28>!<end>"
+
+["1810004"]
+japanese = "…次元のはざまに？\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>うそ…。うそよ、そんな…。<line-break>兄さんが…死んだなんて！<end>"
+english = "Into the Interdimensional Rift...? No... That's not true. It can't be... My brother can't be dead!<end>"
+
+["1810005"]
+japanese = "そんなのイヤ！<line-break>イヤよ！<end>"
+english = "No! I don't want that!<end>"
+
+["1810006"]
+japanese = "泣くのはおよしなさい、<line-break>ケリュネイア。<end>"
+english = "Dry your tears, Ceryneia.<end>"
+
+["1810007"]
+japanese = "だって、ネメア兄さんが…<line-break>兄さんが…。<end>"
+english = "But Nemea... My brother...<end>"
+
+["1810008"]
+japanese = "ネメアは死んではいませんよ。<end>"
+english = "Nemea is not dead.<end>"
+
+["1810009"]
+japanese = "え？\u3000だって…<line-break><value:$28>も兄さんが<line-break>次元のはざまに落とされたって…。<end>"
+english = "What? But... <value:$28> said my brother was cast into the Interdimensional Rift...<end>"
+
+["1810010"]
+japanese = "あの子は、そう簡単に\u3000<line-break>死んだりはしません。<line-break>\u3000<line-break>次元のはざまに落とされた<line-break>くらいではね。<end>"
+english = "He won't die so easily. Being cast into the Interdimensional Rift is hardly enough.<end>"
+
+["1810011"]
+japanese = "そのくらいで死ねたなら、<line-break>あの子も苦労はしないでしょうに。<end>"
+english = "If that were enough to kill him, his life would be much easier.<end>"
+
+["1810012"]
+japanese = "…本当に？<end>"
+english = "Is that really true?<end>"
+
+["1810013"]
+japanese = "私がウソをついたことが<line-break>ありますか？<end>"
+english = "Have I ever lied?<end>"
+
+["1810014"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1810015"]
+japanese = "さて、大変なことになりましたね。<line-break>よりによって次元のはざまなんて<line-break>やっかいなところに。<end>"
+english = "Well, this is serious. Of all the troublesome places, it had to be the Interdimensional Rift.<end>"
+
+["1810016"]
+japanese = "<value:$28>、<line-break>話があります。<line-break>居間に来てもらえますか？<end>"
+english = "<value:$28>, there's something I'd like to discuss with you. Would you come to the sitting room?<end>"
+
+["1810017"]
+japanese = "古来より、破壊神ウルグは、<line-break>常に復活の機会をねらっていました。<line-break>\u3000<line-break>復活には、自らの精神を宿すに<line-break>ふさわしい肉体が必要なのです。<line-break>…この時代にその肉体が現れました。<end>"
+english = "Since ancient times, Urg, the God of Destruction, has watched for an opportunity to return. To do so, he needs a body capable of housing his spirit. And now, in this age, such a body has appeared.<end>"
+
+["1810018"]
+japanese = "ネメアです。<line-break>ネメアの肉体ならば、<line-break>ウルグの強大な力の使用に耐えられる。<line-break>ですが、ネメアの肉体を奪うには、<line-break>ネメアの魂が邪魔です。<line-break>そこで、闇の神器が出てきます。<end>"
+english = "Nemea. His body could withstand the use of Urg's immense power. But before Urg can take it, Nemea's soul must be dealt with. That is where the Dark Artifact comes in.<end>"
+
+["1810019"]
+japanese = "闇の神器は、<line-break>魂を破壊することができる<line-break>道具です。<line-break>闇の神器で魂を破壊し、<line-break>抜け殻となった肉体に<line-break>ウルグは降臨します。<end>"
+english = "The Dark Artifact is capable of destroying a soul. Once the soul has been destroyed, Urg will descend into the empty shell left behind.<end>"
+
+["1810020"]
+japanese = "ですが、闇の神器を使わなくても、<line-break>次元のはざまなどという<line-break>闇の力の強いところにいたら、<line-break>直接、ウルグに魂を侵されても<line-break>おかしくはありません。<end>"
+english = "But the Dark Artifact may not even be necessary. In a place steeped in the power of darkness, such as the Interdimensional Rift, Urg could invade the soul directly.<end>"
+
+["1810021"]
+japanese = "なんとしても、<line-break>ネメアを連れ戻さねばなりません。<end>"
+english = "We must bring Nemea back, whatever it takes.<end>"
+
+["1810022"]
+japanese = "この世界に１カ所、次元のはざまと<line-break>つながっている場所があります。<line-break>大陸の南西にある島…闇の門の島です。<line-break>そこに向かい、<line-break>ネメアを救い出してください。<end>"
+english = "There is one place in this world connected to the Interdimensional Rift: an island southwest of the continent, the Island of the Dark Gate. Go there and rescue Nemea.<end>"
+
+["1810023"]
+japanese = "いくらあの子でも、<line-break>今度ばかりは心配なので。<line-break>お願いできますか？<end>"
+english = "As capable as Nemea is, I am worried about him this time. Will you do this for me?<end>"
+
+["1810024"]
+japanese = "とは言っても、闇の門の島へは<line-break>普通の船では渡れませんからね。<line-break>\u3000<line-break>まず、島に渡る方法を<line-break>見つけなければなりません。<end>"
+english = "That said, the Island of the Dark Gate can't be reached by ordinary ship. First, we need to find some other way to the island.<end>"
+
+["1810025"]
+japanese = "未開の森の先に、<line-break>ワッシャー海賊の残党が<line-break>いたと思います。<line-break>彼らなら闇の門の島まで<line-break>行けるかもしれませんね。<end>"
+english = "I believe some remnants of the Washer Pirates are still beyond the Uncharted Forest. They might be able to reach the Island of the Dark Gate.<end>"
+
+["1810026"]
+japanese = "あ、<value:$28>…。<line-break>…ねえ、<line-break>兄さんについて何か聞いていない？<end>"
+english = "Oh, <value:$28>... Have you heard anything about my brother?<end>"
+
+["1810027"]
+japanese = "…そう。なら、いいの。<line-break>そうよ。兄さんは無敵だもの。<line-break>そんなこと、あるわけがない…。<end>"
+english = "I see. Then never mind. That's right. My brother is invincible. There's no way that could have happened...<end>"
+
+["1810028"]
+japanese = "それと、もうひとつ<line-break>やっかいなことがありました。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>聖光石の鉱山で、<line-break>邪竜イシュバアルが復活したようです。<end>"
+english = "There is one more troubling matter. It seems Evil Dragon Ishbaal has been revived in the Holy Light Stone mine.<end>"
+
+["1810029"]
+japanese = "せっかく封印されてたのによ。<line-break>どっかのあほうが<line-break>起こしちまったらしい。<end>"
+english = "After all the trouble of sealing it away, too. Sounds like some fool went and woke it up.<end>"
+
+["1810030"]
+japanese = "どうやら、どっかの誰かが<line-break>動きを止めてるらしいけどな。<line-break>ま、長くは持たんだろうな。<end>"
+english = "Seems somebody's managed to stop it from moving for now. Won't hold for long, though.<end>"
+
+["1810031"]
+japanese = "おそらく、ジラーク将軍でしょう。<line-break>あれだけの魔法力を有する人物は、<line-break>この世界でそうはいません。<line-break>聖光石の力を使いつつ、<line-break>イシュバアルの動きを<line-break>とめているのでしょう。<end>"
+english = "It is probably General Zsilak. There are few in this world with such formidable magical power. He must be using the power of the Holy Light Stone to hold Ishbaal in place.<end>"
+
+["1810032"]
+japanese = "<value:$28>、<line-break>イシュバアルとは、<line-break>戦うことになるかもな。<line-break>せいぜい気をつけろよ。<end>"
+english = "<value:$28>, you may end up having to fight Ishbaal. Watch yourself.<end>"
+
+["1810033"]
+japanese = "\u3000\u3000\u3000\u3000無限のソウルを宿せしもの…。\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000神の祝福を受けしもの…。<line-break>\u3000\u3000\u3000\u3000よく訪れた。エルフの聖地へ…。<line-break>\u3000\u3000\u3000始まりよりすべてを知る私の元へ…。<end>"
+english = "You who bear the Infinite Soul... You who have received God's blessing... Welcome to the sacred land of the Elves... to me, who have known all things since the beginning...<end>"
+
+["1810034"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000汝、耳を傾けるか？\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000長い長い神々の物語に…。<line-break>\u3000\u3000\u3000\u3000\u3000長い長い詩…、始原口伝に…。<end>"
+english = "Will you lend an ear to the long, long tale of the gods... to the long, long poem... the primordial oral tradition?<end>"
+
+["1810035"]
+japanese = "始原口伝を聞く<end>"
+english = "Listen to the Primordial Oral Tradition<end>"
+
+["1810036"]
+japanese = "聞かない<end>"
+english = "Don't listen<end>"
+
+["1810037"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000では、語ろう。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Then I shall tell it.<end>"
+
+["1810038"]
+japanese = "\u3000始原、虚無の中にひとつの意識が生まれた。\u3000<line-break>\u3000\u3000\u3000\u3000\u3000その意識を至聖神と呼ぶ。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000至聖神は虚無の内にある有の因子を\u3000\u3000<line-break>\u3000\u3000\u3000消さないため創造の輪を回し始めた。\u3000\u3000<end>"
+english = "In the beginning, a single consciousness arose within the Void. That consciousness is called the Most Holy God. To keep the element of existence within the Void from vanishing, the Most Holy God set the wheel of creation in motion.<end>"
+
+["1810039"]
+japanese = "\u3000\u3000\u3000\u3000至聖神はいくつかの世界を作り\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000そのひとつを戒律の神、<line-break>\u3000\u3000天空神ノトゥーンに治めさせることにした。<end>"
+english = "The Most Holy God created several worlds and entrusted one of them to the god of law, Notun, the Sky God.<end>"
+
+["1810040"]
+japanese = "\u3000\u3000ノトゥーンはその娘、聖母神ティラに\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000世界を生ませた。<line-break>\u3000\u3000\u3000精霊、海、山、草木、獣たちが生まれ、<line-break>\u3000\u3000\u3000世界は楽園のような秩序で完成した。<end>"
+english = "Notun had his daughter, Tira the Mother Goddess, give birth to the world. Spirits, seas, mountains, plants, and beasts were born, and the world was completed in an order like that of paradise.<end>"
+
+["1810041"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000しかし、至聖神は\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000それをよしとされなかった。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000完成は静寂につながり、<line-break>\u3000\u3000\u3000\u3000\u3000静寂は虚無へとつながる…。<end>"
+english = "But the Most Holy God did not approve. Perfection leads to stillness, and stillness leads to the Void...<end>"
+
+["1810042"]
+japanese = "\u3000\u3000\u3000そこで、至聖神は世界に息吹を送り、\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000創造の輪を回すためのもの、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000破壊し、創造するもの…<line-break>\u3000\u3000\u3000\u3000\u3000あなたたち人間を作られた。<end>"
+english = "And so the Most Holy God breathed life into the world and created what would keep the wheel of creation turning: those who destroy and create... you humans.<end>"
+
+["1810043"]
+japanese = "\u3000\u3000\u3000\u3000\u3000人間は山を開き、海を埋め、\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000精霊を殺して力を得、<line-break>\u3000\u3000\u3000草木鳥獣を殺して、繁栄していった。<line-break>\u3000\u3000その様を見て万物の母、ティラは怒った。<end>"
+english = "Humans cut through mountains and filled in seas. They killed spirits to gain power, slaughtered plants, beasts, and birds, and prospered. At this sight, Tira, Mother of All Things, grew angry.<end>"
+
+["1810044"]
+japanese = "\u3000\u3000\u3000ノトゥーンは至聖神の考えに従い、\u3000\u3000\u3000<line-break>\u3000\u3000\u3000ティラの訴えに耳を貸さなかった。<line-break>\u3000\u3000\u3000子供たちを人間に殺されたティラは、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000怒り、闇に落ちた。<end>"
+english = "Notun obeyed the will of the Most Holy God and refused to hear Tira's pleas. After humans killed her children, Tira grew angry and fell into darkness.<end>"
+
+["1810045"]
+japanese = "\u3000\u3000\u3000\u3000ティラは自分の子である四精霊神、\u3000\u3000<line-break>\u3000\u3000そして、新たに産み落とした恐ろしげな<line-break>\u3000千匹の怪物、すなわちティラの娘とともに、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000反乱を起こした。<end>"
+english = "Tira rose in rebellion with her own children, the Four Spirit Gods, and the thousand fearsome monsters she had newly borne: Tira's daughters.<end>"
+
+["1810046"]
+japanese = "\u3000\u3000\u3000対してノトゥーンは長子バイアスに\u3000\u3000\u3000<line-break>\u3000\u3000竜王ら３聖竜と１２人の巨人を作らせ、<line-break>\u3000\u3000また、末子ウルグを人間に転生させて、<line-break>\u3000\u3000\u3000\u3000\u3000ティラの軍勢を迎え撃った。<end>"
+english = "In response, Notun had the eldest child, Bias, create the Three Sacred Dragons, including the Dragon Kings, and twelve giants. Notun also had the youngest child, Urg, reincarnated as a human, and these forces met Tira's armies in battle.<end>"
+
+["1810047"]
+japanese = "\u3000\u3000\u3000英雄神ウルグの活躍はめざましく、\u3000\u3000\u3000<line-break>\u3000\u3000敗れたティラは、その体を４つに割かれ、<line-break>\u3000\u3000大地に封印された。四精霊神も降伏した。<line-break>\u3000\u3000バイアスは巨人にそれらを見張らせた。<end>"
+english = "Urg, the Hero God, distinguished himself in battle. Defeated, Tira was torn into four pieces and sealed within the earth. The Four Spirit Gods also surrendered, and Bias set the giants to watch over them.<end>"
+
+["1810048"]
+japanese = "\u3000\u3000人間側の完全勝利に終わったかに見えた。\u3000<line-break>\u3000\u3000だが、このことを至聖神は喜ばなかった。<line-break>\u3000\u3000\u3000\u3000\u3000戦乱は喜怒哀楽を生み、<line-break>\u3000\u3000\u3000それが創造の輪を回すからだ。<end>"
+english = "It seemed that the humans had won a complete victory. Yet the Most Holy God took no pleasure in it, for war gives rise to joy, anger, sorrow, and delight, and these keep the wheel of creation turning.<end>"
+
+["1810049"]
+japanese = "\u3000\u3000\u3000\u3000\u3000そこで至聖神は異世界より、\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000気まぐれな女神ファナティックを呼び、<line-break>\u3000\u3000\u3000\u3000この世界の運命をつかさどらせ、<line-break>\u3000\u3000\u3000\u3000\u3000ひとつの事件を起こさせた。<end>"
+english = "And so the Most Holy God summoned the capricious goddess Fanatic from another world, placed the fate of this world in her hands, and had her set a certain incident in motion.<end>"
+
+["1810050"]
+japanese = "\u3000\u3000\u3000\u3000システィーナという少女がいた。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000彼女はウルグの想い人だった。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000彼女は心やさしく、<line-break>\u3000\u3000\u3000そのことが、ウルグの心を捕らえた。<end>"
+english = "There was a maiden named Sistina. She was Urg's beloved. Her heart was gentle, and that gentleness captured Urg's heart.<end>"
+
+["1810051"]
+japanese = "\u3000\u3000精霊、獣、怪物などティラに属する者も\u3000\u3000<line-break>\u3000隔てなくいたわり、彼らが傷つけばいやした。<line-break>\u3000\u3000\u3000システィーナは人間の自然に対する<line-break>\u3000\u3000\u3000\u3000破壊や残虐行為にも反対した。<end>"
+english = "She cared without distinction for all who belonged to Tira, including spirits, beasts, and monsters, and healed them when they were hurt. Sistina also opposed humanity's destruction of nature and its acts of cruelty.<end>"
+
+["1810052"]
+japanese = "\u3000\u3000\u3000このことが人間たちの怒りを買い、\u3000\u3000\u3000<line-break>\u3000\u3000システィーナは、人間になぶり殺された。<line-break>ウルグは彼女の助命を父ノトゥーンに祈ったが、<line-break>\u3000戒律と秩序の神であるノトゥーンは無視した。<end>"
+english = "This incurred the wrath of the humans, and they tortured Sistina to death. Urg begged Notun, Urg's father, to spare her, but Notun, god of law and order, ignored the plea.<end>"
+
+["1810053"]
+japanese = "\u3000\u3000\u3000\u3000ティラはウルグにつけ込んだ。\u3000\u3000\u3000\u3000<line-break>\u3000\u3000システィーナをよみがえらせる代わりに<line-break>\u3000\u3000\u3000\u3000\u3000闇に落ち、破壊神となって<line-break>\u3000\u3000世界を滅ぼすよう、ウルグに申し出た。<end>"
+english = "Tira took advantage of Urg. She offered to restore Sistina to life if Urg would fall into darkness, become the God of Destruction, and destroy the world.<end>"
+
+["1810054"]
+japanese = "\u3000\u3000\u3000ウルグは闇に落ちて破壊神となり、\u3000\u3000\u3000<line-break>\u3000システィーナは黄泉の乙女として復活した。<line-break>\u3000\u3000\u3000システィーナは、よみがえったとき<line-break>\u3000すべての原因となった自らの心を天に投げた。<end>"
+english = "Urg fell into darkness and became the God of Destruction, while Sistina returned to life as the Maiden of the Underworld. Upon her resurrection, Sistina cast her own heart, the cause of it all, into the heavens.<end>"
+
+["1810055"]
+japanese = "\u3000\u3000\u3000システィーナの誰かを思いやる心は\u3000\u3000\u3000<line-break>\u3000\u3000星の光とともに地上のすべてに降り注ぎ、<line-break>\u3000\u3000\u3000\u3000人の心の中でソウルとなった。<end>"
+english = "Sistina's compassion for others poured down with the starlight upon everything on earth and became the Soul within people's hearts.<end>"
+
+["1810056"]
+japanese = "\u3000ウルグはノトゥーンが異世界より呼び出した\u3000<line-break>\u3000\u3000\u3000戦神ソリアスと戦いを繰り広げた。<line-break>\u3000\u3000神々は次々と物質としての身体を失い<line-break>\u3000ついには、地上から神はいなくなった…。<end>"
+english = "Urg waged war against the War God Solias, whom Notun had summoned from another world. One after another, the gods lost their physical bodies, until at last no gods remained upon the earth...<end>"
+
+["1810057"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000そして、今にいたる…。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000もはや地上に神はなく、<line-break>\u3000\u3000\u3000\u3000\u3000代行者たる竜王を残すのみ。<end>"
+english = "And so we come to the present... No gods remain upon the earth now. Only the Dragon Kings, the gods' agents, are left.<end>"
+
+["1810058"]
+japanese = "\u3000\u3000\u3000\u3000\u3000竜王は、神の代行者として\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000世界の均衡を保つことに腐心し、<line-break>\u3000\u3000\u3000闇の者たちは、大地を取り戻さんと、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000機会をうかがっている。<end>"
+english = "As agents of the gods, the Dragon Kings devote themselves to preserving the Balance of the World, while those of darkness watch and wait for a chance to reclaim the earth.<end>"
+
+["1810059"]
+japanese = "\u3000\u3000\u3000時を経て、また訪れるがよかろう。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000汝、さらなる輝きを得ていれば、<line-break>\u3000\u3000\u3000無限のソウルを知ることとなろう。<end>"
+english = "Return when some time has passed. If you have gained still greater radiance, you shall come to know the Infinite Soul.<end>"
+
+["1810060"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000それもよかろう。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000だが、神の物語が知りたくば、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000再び訪れるがよい。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000私は、いつでも語ろう。<end>"
+english = "So be it. But if you wish to hear the tale of the gods, return again. I shall tell it whenever you come.<end>"
+
+["1810061"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000何者でもなき者よ…。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000すなわち、すべての者である者よ…。<end>"
+english = "O you who are no one... and thus are everyone...<end>"
+
+["1810062"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000我はたたえ…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我は認めよう…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000汝のソウル…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000無限のソウルを…。<end>"
+english = "I offer praise... I offer acknowledgment... to your Soul... the Infinite Soul...<end>"
+
+["1810063"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000さあ、宿すがよい…。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000無限のソウル…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000インフィニティアを…。<end>"
+english = "Now, take it within you... the Infinite Soul... Infinitia.<end>"
+
+["1810064"]
+japanese = "<value:$28>は<line-break>インフィニティアを手に入れた。<end>"
+english = "<value:$28> obtained Infinitia.<end>"
+
+["1810065"]
+japanese = "ネガヴァニティアを持つもの…。<line-break>禁忌の力には、触れさせぬ。<line-break>死すがいい、暗き魂よ。<end>"
+english = "Bearer of Negavanitia... I shall not suffer you to touch the forbidden power. Die, dark soul.<end>"
+
+["1810066"]
+japanese = "デモリッシュを習得した。<end>"
+english = "Learned Demolish.<end>"
+
+["1810067"]
+japanese = "アガスティアを宿せしもの、<line-break>汝が力を見せよ…。<end>"
+english = "You who bear Agastia, show me your power...<end>"
+
+["1810068"]
+japanese = "ユニオンスペルのスキルを取得した。<end>"
+english = "Acquired the Union Spell skill.<end>"
+
+["1810069"]
+japanese = "ケリュネイアのＶ７ゴブ！<line-break>よびめっせーじの…１ゴブね。<end>"
+english = ""
+
+["1810070"]
+japanese = "ケリュネイアのＶ７ゴブ！<line-break>よびめっせーじの…２ゴブね。<end>"
+english = ""
+
+["1810071"]
+japanese = "ケリュネイアのＶ７ゴブ！<line-break>よびめっせーじの…３ゴブね。<end>"
+english = ""
+
+["1810072"]
+japanese = "ケリュネイアのＶ７ゴブ！<line-break>よびめっせーじの…え～と４ゴブ。<end>"
+english = ""
+
+["1810073"]
+japanese = "ケリュネイアのＶ７ゴブ！<line-break>よびめっせーじの…え～と５ゴブ。<end>"
+english = ""
+
+["1810074"]
+japanese = "ケリュネイアのＶ７ゴブ！<line-break>よびめっせーじの…え～と６ゴブ。<end>"
+english = ""
+
+["1810075"]
+japanese = "ケリュネイアのＶ７ゴブ！<line-break>よびめっせーじの…な、７ゴブ。<end>"
+english = ""
+
+["1810076"]
+japanese = "ケリュネイアのＶ７ゴブ！<line-break>よびめっせーじの…は、８ゴブ。<end>"
+english = ""
+
+["1810077"]
+japanese = "ケリュネイアのＶ７ゴブ！<line-break>よびめっせーじの…きゅ、９ゴブ。<end>"
+english = ""
+
+["1810078"]
+japanese = "ケリュネイアのＶ７ゴブ！<line-break>よびめっせーじの…さ、最ゴブー！<end>"
+english = ""
+
+["1810079"]
+japanese = "ケリュネイアＶ７\u3000終了<end>"
+english = ""

@@ -1,0 +1,529 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["160000"]
+japanese = "よう、いらっしゃい。<end>"
+english = "Hey, welcome.<end>"
+
+["160001"]
+japanese = "おっ、だいぶ冒険者らしくなってきたな。<line-break>だが、無茶は禁物だぜ。<end>"
+english = "Oh, you're really starting to look like an adventurer. Just don't do anything reckless.<end>"
+
+["160002"]
+japanese = "おっ、<value:$28>じゃないか。<line-break>かなり名をあげてるみたいだな。<end>"
+english = "Well, if it isn't <value:$28>. Sounds like you're making quite a name for yourself.<end>"
+
+["160003"]
+japanese = "天下の<value:$28>が来てくれて、<line-break>うちの店の格も上がるってもんだぜ。<end>"
+english = "Having the famous <value:$28> stop by does wonders for this place's reputation.<end>"
+
+["160004"]
+japanese = "ところで、今日は何の用だい？<end>"
+english = "So, what can I do for you today?<end>"
+
+["160005"]
+japanese = "他に何かあるのかい？<end>"
+english = "Anything else?<end>"
+
+["160006"]
+japanese = "今ある仕事はこんなところだな。<end>"
+english = "These are all the jobs available right now.<end>"
+
+["160007"]
+japanese = "まずかかえてる仕事をかたづけちまってくれ。<line-break>話はそれからだ。<end>"
+english = "Finish what you've already taken on first. Then we'll talk.<end>"
+
+["160008"]
+japanese = "あんた、<value:$15>を持ってるのか。<line-break>すまないが、そいつを譲ってもらえないか？<end>"
+english = "You have <value:$15>? Sorry, but could you let me have it?<end>"
+
+["160009"]
+japanese = "なんだい、気が変わって<line-break>譲る気になったのか？<end>"
+english = "What, changed your mind and decided to hand it over?<end>"
+
+["160010"]
+japanese = "<value:$15>を譲ってくれるのか？<end>"
+english = "<value:$15>―you'll let me have it?<end>"
+
+["160011"]
+japanese = "助かったよ、報酬をうけとってくれ。<end>"
+english = "You really helped me out. Here, take your reward.<end>"
+
+["160012"]
+japanese = "譲ってくれれば、<line-break>すぐに報酬を支払うんだが…。<end>"
+english = "If you hand it over, I'll pay you right away...<end>"
+
+["160013"]
+japanese = "どうだ<value:$28><line-break>この仕事、引き受けてくれるか？<end>"
+english = "Well, <value:$28>? Will you take the job?<end>"
+
+["160014"]
+japanese = "いまお前が引き受けている仕事だ。<line-break>期限は守ってくれよ。<end>"
+english = "This is the job you currently have. Make sure you meet the deadline.<end>"
+
+["160015"]
+japanese = "ありがとうよ。<line-break>また頼むぜ。<end>"
+english = "Thanks. I'll be counting on you again.<end>"
+
+["160016"]
+japanese = "おしいな。期限さえ守ってくれれば…<line-break>悪いが、報酬は半額だ。<end>"
+english = "So close. If only you'd met the deadline... Sorry, but you only get half the reward.<end>"
+
+["160017"]
+japanese = "おっ、なんだ？<line-break>手におえない仕事でもあるのか？<end>"
+english = "Oh? What's this? Got a job you can't handle?<end>"
+
+["160018"]
+japanese = "どうする？\u3000やめるのか？<end>"
+english = "So, what'll it be? Are you quitting?<end>"
+
+["160019"]
+japanese = "ほっとしたよ。<line-break>頑張って、さっさと終わらせちまってくれよな。<end>"
+english = "That's a relief. Now get to it and finish the job quick.<end>"
+
+["160020"]
+japanese = "そうか…残念だよ。<line-break>すぐ他の奴に頼まんとな…。<end>"
+english = "I see... That's a shame. I'll have to ask someone else right away...<end>"
+
+["160021"]
+japanese = "これがお前が引き受けている仕事だ。<end>"
+english = "This is the job you've taken on.<end>"
+
+["160022"]
+japanese = "それじゃ、無事に戻って来いよ。<end>"
+english = "All right, come back in one piece.<end>"
+
+["160023"]
+japanese = "仕事を受けたあとのセリフ<line-break><end>"
+english = "Line spoken after accepting a job<end>"
+
+["160024"]
+japanese = "あんたには、簡単すぎる仕事だ。<line-break>他の冒険者に残しておいてやれよ。<end>"
+english = "This job's too easy for you. Leave it for another adventurer.<end>"
+
+["160025"]
+japanese = "あんたなら、問題なくこなせる仕事だ。<line-break>どうだい？\u3000頼むよ。<end>"
+english = "You should be able to handle this job without any trouble. How about it? I'm counting on you.<end>"
+
+["160026"]
+japanese = "ちょいと危険かもしれないが、挑戦してみるか？<line-break>ただし、命の保証はしないぜ。<end>"
+english = "It might be a little dangerous, but want to give it a try? Just remember, I can't guarantee you'll survive.<end>"
+
+["160027"]
+japanese = "おいおい、あんたには荷が重すぎじゃないか？<line-break>他の仕事にしておいた方が、長生きできるぜ。<end>"
+english = "Whoa, now. Isn't this job a bit much for you? You'll live longer if you choose another one.<end>"
+
+["160028"]
+japanese = "あんた護衛中だろ。他の仕事は、お客さんを<line-break>無事に送り届けてからにしてくれないか？<end>"
+english = "You're in the middle of an escort job, aren't you? How about seeing your client safely to the destination before taking another job?<end>"
+
+["160029"]
+japanese = "おいおい、救出の仕事はどうなったんだ？<line-break>早く助け出してくれないと困るんだよ。<end>"
+english = "Hey, what happened to that rescue job? I need that rescue completed, and quickly.<end>"
+
+["160030"]
+japanese = "<value:$15>を退治する大仕事だぜ。<line-break>この仕事だけに専念してくれ。<end>"
+english = "<value:$15> must be defeated, and it's a major undertaking. Focus on this job alone.<end>"
+
+["160031"]
+japanese = "<value:$15>を探してきて欲しい。<line-break>なくなっちまわないように最優先でやってくれ。<end>"
+english = "<value:$15> needs to be found. Make this your top priority before it disappears.<end>"
+
+["160032"]
+japanese = "<value:$15>を無事に送り届けて欲しい。<line-break>なるべく早く届けてくれよ。<end>"
+english = "<value:$15> needs to be delivered safely. Get there as soon as you can.<end>"
+
+["160033"]
+japanese = "<value:$15>を護衛して欲しい。<line-break>すぐに紹介するから、待っててくれ。<end>"
+english = "<value:$15> needs an escort. I'll make the introduction right away, so hang on.<end>"
+
+["160034"]
+japanese = "<value:$15>を救ってきてくれ。<line-break>一刻を争う仕事だぜ。<end>"
+english = "<value:$15> needs to be rescued. Every moment counts.<end>"
+
+["160035"]
+japanese = "ありがとうよ、また頼むぜ。<end>"
+english = "Thanks. I'll be counting on you again.<end>"
+
+["160036"]
+japanese = "今は仕事がないから、また今度来てくれよ。<end>"
+english = "There aren't any jobs right now. Come back another time.<end>"
+
+["160037"]
+japanese = "まだ何も仕事は受けてないだろう。<end>"
+english = "You haven't taken on any jobs yet.<end>"
+
+["160038"]
+japanese = "ちゃんとやってくれないと困るんだがな。<line-break>違約金は払ってもらうぜ。<end>"
+english = "I need you to follow through on your jobs. You'll have to pay the cancellation fee.<end>"
+
+["160039"]
+japanese = "冒険者は、自分の力量を見極められないと命を<line-break>落としかねない。これはその授業料ってことだ。<end>"
+english = "Adventurers who can't judge their own abilities may end up dead. Consider this the price of the lesson.<end>"
+
+["160040"]
+japanese = "なんだい、持ちあわせが足りないのか？<line-break>しょうがないな、それで許してやるよ。<end>"
+english = "What, you don't have enough money on hand? Fine. I'll let you off with what you've got.<end>"
+
+["160041"]
+japanese = "おいおい、一文なしかよ。まあ、冒険者には<line-break>よくあることだがな。今回は見逃してやるよ。<end>"
+english = "What, not a coin to your name? Well, that happens to adventurers all the time. I'll let it slide this once.<end>"
+
+["160042"]
+japanese = "仕事をたくさん引き受けているようだが<line-break>何かやめたい仕事があるのか？<end>"
+english = "Looks like you've taken on quite a few jobs. Is there one you want to quit?<end>"
+
+["160043"]
+japanese = "仕事をたくさん引き受けているようだな。ひとつでも仕事を終えてから来てくれ。<end>"
+english = "Looks like you've taken on quite a few jobs. Come back after you've finished at least one.<end>"
+
+["160044"]
+japanese = "それはすでに頼んである仕事だろう？<end>"
+english = "That's a job you've already taken, isn't it?<end>"
+
+["160045"]
+japanese = "それは引き受けてないだろう？<end>"
+english = "You haven't taken that job, have you?<end>"
+
+["160046"]
+japanese = "どこの情報が知りたいんだい？<end>"
+english = "Which place do you want information about?<end>"
+
+["160047"]
+japanese = "最近はこの町の情勢が不安定なせいか、ここには<line-break>仕事の依頼が来ないんだよ。すまないな。<end>"
+english = "Maybe it's because things in this town have been so unstable lately, but we aren't getting any job requests here. Sorry.<end>"
+
+["160048"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160049"]
+japanese = "賢者が住むといわれているが、その賢者<line-break>には運命に選ばれた者しか会うことがで<line-break>きないといわれている。赤くて小さなナ<line-break>ジラネの果実が群生している所がある。<line-break><end>"
+english = "A sage is said to live here, but only those chosen by fate can meet them. Small red Najirane Fruit grows abundantly here.<end>"
+
+["160050"]
+japanese = "冒険に慣れてきたころに行くといいぜ。<line-break>いい訓練になる。<end>"
+english = "Go once you've gotten used to adventuring. It'll be good training.<end>"
+
+["160051"]
+japanese = "洞窟の一番奥に、邪竜の屍が横たわって<line-break>いるところから死竜の洞窟と呼ばれる。<line-break>まれに、錬剛石が落ちていることが<line-break>ある。<line-break><end>"
+english = "It is called Dead Dragon Cave because the corpse of an Evil Dragon lies at its deepest point. Rengoseki can occasionally be found there.<end>"
+
+["160052"]
+japanese = "入口あたりは安全だが、奥には行かない方がいい<line-break>ぜ。いきなりモンスターが強くなるからな。<end>"
+english = "It's safe around the entrance, but you shouldn't go any deeper. The monsters suddenly get much stronger.<end>"
+
+["160053"]
+japanese = "有史以前からある塔。最上階に祭壇があ<line-break>るが、なんのための物かは不明である。<line-break>風通しのよいところに風精の結晶が、風<line-break>旅鳥の巣の中には風旅鳥の羽がある。<line-break><end>"
+english = "A prehistoric tower with an altar of unknown purpose atop it. Wind Spirit Crystals form in breezy places; Windfarer Feathers lie in windfarer nests.<end>"
+
+["160054"]
+japanese = "冒険に慣れてきたころに行くといいぜ。<line-break>いい訓練になる。<end>"
+english = "Go once you've gotten used to adventuring. It'll be good training.<end>"
+
+["160055"]
+japanese = "中央に５本の柱が立つ小島がある湖。<line-break>近くに小さな滝があり、タレモルゲの汽<line-break>水が採取できる。湖の北岸にはセヅネの<line-break>毒草があり、セヅネの根を採取できる。<line-break><end>"
+english = "A lake with five pillars on its island. Its waterfall yields Taremorge Brackish Water. Poisonous Sezune herbs and Sezune Root grow on the north shore.<end>"
+
+["160056"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160057"]
+japanese = "のぞき込むと様々な幻影を見ることがで<line-break>きるという美しい湖。周りを森に囲まれ<line-break>ており、人が足を踏みいれることはほと<line-break>んどない。<line-break><end>"
+english = "A beautiful lake said to show all manner of visions to anyone who peers into it. Surrounded by forest, it is almost never visited by people.<end>"
+
+["160058"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160059"]
+japanese = "かつては何者かの住居だったようだが、<line-break>現在は廃墟となってしまった迷宮。<line-break>モンスターがすみついている。<line-break><end>"
+english = "A labyrinth that appears to have once been someone's home, but now lies in ruins. Monsters have taken up residence there.<end>"
+
+["160060"]
+japanese = "入口あたりは安全だが、奥には行かない方がいい<line-break>ぜ。いきなりモンスターが強くなるからな。<end>"
+english = "It's safe around the entrance, but you shouldn't go any deeper. The monsters suddenly get much stronger.<end>"
+
+["160061"]
+japanese = "闇の力に侵され、木々が奇妙にねじれて<line-break>いる不気味な森。様々なキノコが群生し<line-break>ており、まったく日のあたらないところ<line-break>には、コカゲキノコが生えている。<line-break><end>"
+english = "An eerie forest corrupted by darkness, with strangely twisted trees. Mushrooms grow in clusters; Shade Mushrooms thrive where sunlight never reaches.<end>"
+
+["160062"]
+japanese = "冒険に慣れてきたころに行くといいぜ。<line-break>いい訓練になる。<end>"
+english = "Go once you've gotten used to adventuring. It'll be good training.<end>"
+
+["160063"]
+japanese = "はるかな昔からある廃墟。かつて、闇の<line-break>軍勢の侵攻をここでくい止めたという言<line-break>い伝えが残っている。中央広場跡では、<line-break>タレモルゲの汽水が湧き出している。<line-break><end>"
+english = "Ancient ruins where legend says the forces of darkness were halted. Taremorge Brackish Water wells up in the former central plaza.<end>"
+
+["160064"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160065"]
+japanese = "大陸で最大の鉱山も今やモンスターの巣<line-break>となる。まれに錬剛石が落ちている。<line-break>白く輝くヒャンデ鉱が今でも採取でき、<line-break>奈落の穴のそばには土精の結晶がある。<line-break><end>"
+english = "The continent's largest mine, now a monster nest. Rare Rengoseki is found. White Hyande Ore is mined; Earth Spirit Crystals are by the Abyssal Pit.<end>"
+
+["160066"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160067"]
+japanese = "はるかな昔、この地で行われた戦神ソリ<line-break>アスと闘神ウルグの戦いによって、荒野<line-break>になったといわれている。山腹に千年石<line-break>が露出しているところがある。<line-break><end>"
+english = "A battle between War God Solias and Battle God Urg long ago is said to have made this a wasteland. Millennium Stone is exposed on the mountainside.<end>"
+
+["160068"]
+japanese = "冒険に慣れてきたころに行くといいぜ。<line-break>いい訓練になる。<end>"
+english = "Go once you've gotten used to adventuring. It'll be good training.<end>"
+
+["160069"]
+japanese = "闇の力が強く危険なので、人が寄りつか<line-break>ない深い森。そのため、森の奥地の様子<line-break>はよく知られていない。<line-break><line-break><end>"
+english = "A deep forest shunned by people because the power of darkness makes it so dangerous. As a result, little is known about its depths.<end>"
+
+["160070"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160071"]
+japanese = "大陸南西は、闇の力が強い地域だが、<line-break>この森は、まだ安全である。<line-break>赤くて小さなナジラネの果実を採取でき<line-break>るところがある。<line-break><end>"
+english = "Though the southwest is steeped in darkness, this forest remains safe. Small red Najirane Fruit can be gathered here.<end>"
+
+["160072"]
+japanese = "腕に自信があるなら行くといい。だが、<line-break>奥に進むつもりなら、命の保証はしないぜ。<end>"
+english = "Go if you're confident in your abilities. But if you plan to venture deeper, I can't guarantee you'll make it back alive.<end>"
+
+["160073"]
+japanese = "竜王が住むといわれている火山島。東の<line-break>岩場に平らなオッポスの岩があり、また<line-break>タレモルゲの汽水も湧き出している。ど<line-break>こかにノロガメの棲息地があるらしい。<line-break><end>"
+english = "A volcanic island said to house the Dragon King. Find Flat Oppos Rock in the east, Taremorge Brackish Water, and a rumored Norogame habitat.<end>"
+
+["160074"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160075"]
+japanese = "貴重な資源となる七色の砂が山頂付近に<line-break>豊富に見られる。ふもとにある滝では、<line-break>ハッケエの滴が採取できる。まれに、<line-break>錬剛石が落ちていることもある。<line-break><end>"
+english = "Valuable Seven-Colored Sand is plentiful near the summit. Hakkee Droplets are gathered at the foothill waterfall. Rengoseki is sometimes found too.<end>"
+
+["160076"]
+japanese = "そこそこ強けりゃ途中までは行けるだろうが…。<line-break>悪いことは言わん。奥まではやめときな。<end>"
+english = "If you're reasonably strong, you can probably make it partway in... But take my advice: don't venture into the depths.<end>"
+
+["160077"]
+japanese = "大陸一の大砂漠。方向感覚がつかみづら<line-break>く、迷いやすい。勇者ネメアが倒した巨<line-break>大砂虫の死骸が今も横たわっている。<line-break><line-break><end>"
+english = "The continent's largest desert; it is easy to lose your way. The giant sandworm slain by Hero Nemea still lies here.<end>"
+
+["160078"]
+japanese = "そこそこ強けりゃ途中までは行けるだろうが…。<line-break>悪いことは言わん。奥まではやめときな。<end>"
+english = "If you're reasonably strong, you can probably make it partway in... But take my advice: don't venture into the depths.<end>"
+
+["160079"]
+japanese = "かつて邪竜アズラゴーザが封印されたと<line-break>伝えられる断層。<line-break>途中の崖にセヅネの毒草が生え、底にあ<line-break>る洞窟の中には土精の結晶がある。<line-break><end>"
+english = "A fault where Evil Dragon Azragoza was once sealed. Sezune poisonous herbs grow on a cliff; Earth Spirit Crystals lie in a cave below.<end>"
+
+["160080"]
+japanese = "冒険に慣れてきたころに行くといいぜ。<line-break>いい訓練になる。<end>"
+english = "Go once you've gotten used to adventuring. It'll be good training.<end>"
+
+["160081"]
+japanese = "エルフが住んでいるといわれる４つの森<line-break>のひとつ。<line-break>森の中には、蒼風花が青い可憐な花を咲<line-break>かせているところがあるらしい。<line-break><end>"
+english = "One of four forests said to be inhabited by Elves. Azure Windflowers are said to bloom in parts of the forest, producing delicate blue flowers.<end>"
+
+["160082"]
+japanese = "冒険に慣れてきたころに行くといいぜ。<line-break>いい訓練になる。<end>"
+english = "Go once you've gotten used to adventuring. It'll be good training.<end>"
+
+["160083"]
+japanese = "戦神ソリアスと闘神ウルグの戦いで噴火<line-break>した炎竜山の溶岩によりできたという伝<line-break>承がある。火草の赤い花が一年中咲いて<line-break>いて、火草の種が採取できる。<line-break><end>"
+english = "Legend: lava from Flame Dragon Mountain's eruption during Solias and Urg's battle formed this. Red Firegrass blooms all year; seeds can be gathered.<end>"
+
+["160084"]
+japanese = "冒険に慣れてきたころに行くといいぜ。<line-break>いい訓練になる。<end>"
+english = "Go once you've gotten used to adventuring. It'll be good training.<end>"
+
+["160085"]
+japanese = "奥に巨大な墓があるが、いつの時代のだ<line-break>れの墓かはわからない。<line-break>あちこちに罠が仕掛けられていて、<line-break>とても危険である。<line-break><end>"
+english = "A huge tomb lies deep within, of unknown age and occupant. Traps are set throughout, making it extremely dangerous.<end>"
+
+["160086"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160087"]
+japanese = "膨大な量の聖光石が埋蔵されているが、<line-break>現在は採掘されていない。鉱山内には<line-break>聖光石の結晶が青く輝いているところが<line-break>ある。<line-break><end>"
+english = "Vast deposits of Holy Light Stone lie there, though they are not currently being mined. In parts of the mine, Holy Light Stone crystals shine blue.<end>"
+
+["160088"]
+japanese = "冒険に慣れてきたころに行くといいぜ。<line-break>いい訓練になる。<end>"
+english = "Go once you've gotten used to adventuring. It'll be good training.<end>"
+
+["160089"]
+japanese = "アルノートゥン防衛の重要拠点として、<line-break>幾多の戦が行われたが、現在は廃墟とな<line-break>っている。今も敗残兵の亡霊がうろつい<line-break>ているという。<line-break><end>"
+english = "Once a vital Alnortun stronghold and site of many battles, it now lies in ruins. Ghosts of defeated soldiers are said to roam there.<end>"
+
+["160090"]
+japanese = "冒険に慣れてきたころに行くといいぜ。<line-break>いい訓練になる。<end>"
+english = "Go once you've gotten used to adventuring. It'll be good training.<end>"
+
+["160091"]
+japanese = "大陸一広大で非常に迷いやすい森。<line-break>森の中には、太い幹のトヅカネの木や、<line-break>紫色のハヤスの葉、日当たりのよいとこ<line-break>ろに生えるキッカネの香草が見られる。<line-break><end>"
+english = "The continent's largest forest, and easy to get lost in. Thick Tozukane trees, purple Hayasu Leaves, and sunny Kikkane Herbs grow here.<end>"
+
+["160092"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160093"]
+japanese = "廃墟同然の古い塔。なんのために建てら<line-break>れたのかは不明。何者かが住み着いてい<line-break>るという噂がある。きれぐもの巣と風旅<line-break>鳥の羽が採取できる。<line-break><end>"
+english = "An old tower, nearly a ruin. Its purpose is unknown, and someone is rumored to live there. Kiregumo Nests and Windfarer Feathers can be gathered.<end>"
+
+["160094"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160095"]
+japanese = "最近、竜王の覚醒の際に噴火があった。<line-break>頂上付近では、今も溶岩が湧き出してい<line-break>て、貴重な資源である炎竜岩を採取でき<line-break>る。<line-break><end>"
+english = "The Dragon King's Awakening recently caused an eruption. Lava still wells up near the summit, where valuable Flame Dragon Rock can be gathered.<end>"
+
+["160096"]
+japanese = "そこそこ強けりゃ途中までは行けるだろうが…。<line-break>悪いことは言わん。奥まではやめときな。<end>"
+english = "If you're reasonably strong, you can probably make it partway in... But take my advice: don't venture into the depths.<end>"
+
+["160097"]
+japanese = "岩の間から立ちのぼる噴煙で、山全体が<line-break>煙に包まれている。火属性のモンスター<line-break>が多く棲息している。<line-break>まれに錬剛石が落ちていることがある。<line-break><end>"
+english = "Smoke rising from between the rocks shrouds the entire mountain. Many Fire-element monsters live there. Rengoseki can occasionally be found as well.<end>"
+
+["160098"]
+japanese = "駆け出しの冒険者が行っても大丈夫なところ<line-break>だよ。慣れてきたら奥まで行ってみな。<end>"
+english = "It's safe enough for a novice adventurer. Once you've got some experience, try going all the way in.<end>"
+
+["160099"]
+japanese = "谷底には巨大な生物の骨と洞窟がある。<line-break>谷に下りる途中、風桜の木が自生してい<line-break>て、その黄色い実を採取できる。<line-break><line-break><end>"
+english = "Gigantic creature bones and a cave lie at the valley floor. Windcherry trees grow on the descent; their yellow fruit can be gathered.<end>"
+
+["160100"]
+japanese = "駆け出しの冒険者が行っても大丈夫なところ<line-break>だよ。慣れてきたら奥まで行ってみな。<end>"
+english = "It's safe enough for a novice adventurer. Once you've got some experience, try going all the way in.<end>"
+
+["160101"]
+japanese = "谷の入り口にたくさんの穴があいている<line-break>巨大な風気岩が露出している。北の谷間<line-break>と同様に、風桜が自生している。<line-break>谷底には小さな洞窟がある。<line-break><end>"
+english = "At the entrance stands a huge, hole-riddled Windstone. As in North Valley, Windcherry trees grow here. A small cave lies on the valley floor.<end>"
+
+["160102"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160103"]
+japanese = "ふもとには涌き水があり、そこから<line-break>ハッケエの滴が採取できる。<line-break>風精の結晶の主要な産地でもある。<line-break>まれに錬剛石が落ちていることもある。<line-break><end>"
+english = "A spring at the foot yields Hakkee Droplets. It is also a major source of Wind Spirit Crystals; Rengoseki is sometimes found there.<end>"
+
+["160104"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160105"]
+japanese = "ラミリー山から吹き下ろす風がたまり、<line-break>風の属性が強い荒野。<line-break>ラミリー山側の崖の近くに、サマシごけ<line-break>が繁茂しているところがある。<line-break><end>"
+english = "A Wind-aligned wasteland where winds from Mount Ramiri collect. Samashi Moss grows thickly by the cliffs on the Mount Ramiri side.<end>"
+
+["160106"]
+japanese = "冒険に慣れてきたころに行くといいぜ。<line-break>いい訓練になる。<end>"
+english = "Go once you've gotten used to adventuring. It'll be good training.<end>"
+
+["160107"]
+japanese = "多数のモンスターが住みついている。<line-break>洞窟の中ほどには、宝石のように輝くコ<line-break>ロル石の鉱脈が存在する。<line-break>洞窟の最深部には、大きな空洞がある。<line-break><end>"
+english = "Many monsters live here. A gemstone-like Korol Stone vein runs through the cave's middle; a large chamber lies at its deepest point.<end>"
+
+["160108"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160109"]
+japanese = "洞窟最深部に海へと続く地底湖がある。<line-break>そのためか水属性のモンスターが住みつ<line-break>いている。洞窟の中ほどには、宝石のよ<line-break>うに輝くコロル石の鉱脈がある。<line-break><end>"
+english = "At the cave's deepest point is a sea-linked lake, perhaps drawing Water-element monsters. A gemstone-like Korol Stone vein runs through its middle.<end>"
+
+["160110"]
+japanese = "駆け出しの冒険者が行っても大丈夫なところ<line-break>だよ。慣れてきたら奥まで行ってみな。<end>"
+english = "It's safe enough for a novice adventurer. Once you've got some experience, try going all the way in.<end>"
+
+["160111"]
+japanese = "テラネの東にある山。大陸一の標高を誇<line-break>る。中腹にはノトゥーン神殿があり、多<line-break>くの巡礼者が訪れる。<line-break><line-break><end>"
+english = "A mountain east of Terane and the tallest on the continent. Notun Temple stands halfway up its slopes and is visited by many pilgrims.<end>"
+
+["160112"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160113"]
+japanese = "最深部に墓地があるため、土地の人はあ<line-break>まり近寄ろうとはしない。この墓地がい<line-break>つの時代の誰のためのものなのかはわか<line-break>っていない。<end>"
+english = "Locals avoid it because a graveyard lies at its deepest point. No one knows its era or for whom it was built.<end>"
+
+["160114"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160115"]
+japanese = "エルフが住んでいるといわれる４つの森<line-break>のひとつ。人の手が入り始めているせい<line-break>かエルフの痕跡はほとんど見られない。<line-break>紫色をしたヤンバイ草を採取できる。<line-break><end>"
+english = "One of four forests said to house Elves. Human encroachment may explain why almost no Elven trace remains. Purple Yanbai Herb can be gathered.<end>"
+
+["160116"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160117"]
+japanese = "エルフが住んでいるといわれる４つの森<line-break>のひとつ。一番奥に巨木があり、エルフ<line-break>が住む森の象徴といわれている。<line-break>ただし、真偽のほどはさだかではない。<line-break><end>"
+english = "One of four forests said to house Elves. Its deepest point holds a giant tree said to symbolize an Elven forest, though this is uncertain.<end>"
+
+["160118"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160119"]
+japanese = "エルフが住んでいるといわれる４つの森<line-break>のひとつ。<line-break>森の奥の方に紫色のヤンバイ草が群生し<line-break>ている。<line-break><end>"
+english = "One of four forests said to be inhabited by Elves. Purple Yanbai Herb grows in abundance deep in the forest.<end>"
+
+["160120"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160121"]
+japanese = "同じような風景が続く、迷路のような洞<line-break>窟。<line-break>最深部に宝石のように輝くコロル石の鉱<line-break>脈がある。<line-break><end>"
+english = "A maze-like cave where the scenery seems to repeat endlessly. At its deepest point is a vein of Korol Stone that gleams like gemstones.<end>"
+
+["160122"]
+japanese = "入口あたりは安全だが、奥には行かない方がいい<line-break>ぜ。いきなりモンスターが強くなるからな。<end>"
+english = "It's safe around the entrance, but you shouldn't go any deeper. The monsters suddenly get much stronger.<end>"
+
+["160123"]
+japanese = "エンシャント旧市街にある古い塔。１２<line-break>００年以上前に建設され、魔道研究の中<line-break>心となっていたが、今は廃墟となってい<line-break>る。闇に咲く赤い闇中花を採取できる。<line-break><end>"
+english = "Ancient Old Town's tower is over 1,200 years old. Once a magic research center, it is now ruined. Red Darkblooms grow in darkness and can be gathered.<end>"
+
+["160124"]
+japanese = "腕に自信がない限り、行かない方がいい。<line-break>あそこの敵は、簡単には勝てないぜ。<end>"
+english = "Unless you're confident in your abilities, you should stay away. The enemies there won't go down easily.<end>"
+
+["160125"]
+japanese = "エンシャント旧市街にある廃墟。もとは<line-break>魔王バロルの居城。今も闇の気が強く残<line-break>っており、危険な場所となっている。<line-break><line-break><end>"
+english = "Ruins in Ancient Old Town, once the castle of Balor, Demon King. The aura of darkness remains powerful even now, making it a dangerous place.<end>"
+
+["160126"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160127"]
+japanese = "ドワーフ王国の地下に張り巡らされてい<line-break>るドワーフ専用の街道のひとつ。自由に<line-break>行くことはできないが、冒険者ギルドに<line-break>いるドワーフに頼むと案内してくれる。<line-break><end>"
+english = "One of the Dwarf-only roads beneath the Dwarf Kingdom. You cannot travel it freely, but a Dwarf at the Adventurers' Guild will guide you if asked.<end>"
+
+["160128"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160129"]
+japanese = "ドワーフ王国の地下に張り巡らされてい<line-break>るドワーフ専用の街道のひとつ。自由に<line-break>行くことはできないが、冒険者ギルドに<line-break>いるドワーフに頼むと案内してくれる。<line-break><end>"
+english = "One of the Dwarf-only roads beneath the Dwarf Kingdom. You cannot travel it freely, but a Dwarf at the Adventurers' Guild will guide you if asked.<end>"
+
+["160130"]
+japanese = "出てくるモンスターも強くないし、<line-break>駆け出しの冒険者が行っても大丈夫だな。<end>"
+english = "The monsters there aren't very strong. Even a novice adventurer should be fine.<end>"
+
+["160131"]
+japanese = "ドワーフ王国の地下に張り巡らされてい<line-break>るドワーフ専用の街道のひとつ。自由に<line-break>行くことはできないが、冒険者ギルドに<line-break>いるドワーフに頼むと案内してくれる。<line-break><end>"
+english = "One of the Dwarf-only roads beneath the Dwarf Kingdom. You cannot travel it freely, but a Dwarf at the Adventurers' Guild will guide you if asked.<end>"

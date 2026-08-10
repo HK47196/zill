@@ -1,0 +1,61 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["50000"]
+japanese = "ここはノーブル領主エリエナイ公のお屋敷だ。<line-break>用がないのなら、すみやかに立ち去りたまえ。<end>"
+english = "This is the residence of the Duke of Elienai, Lord of Noble. If you have no business here, leave at once.<end>"
+
+["50001"]
+japanese = "な、なんですか？\u3000旅の人？<line-break>私は普通の人で、この町は普通の町。<line-break>何も、悪いことは起こっていませんよ。\u3000\u3000<line-break>…よそのお方は、ここのことは<line-break>あまり嗅ぎまわらない方が身のためですよ。<end>"
+english = "W-what is it? Are you a traveler? I'm an ordinary person, and this is an ordinary town. Nothing bad is happening here. You'd be better off not poking around in this town's affairs.<end>"
+
+["50002"]
+japanese = "な、何よ。よその人が何で話しかけてくるのよ。<line-break>わかったわよ、何かお話しすればいいのね？<line-break>こ、コーンスって額に角のある種族のことよ。<line-break>…き、気が済んだ？\u3000もういいでしょ？<line-break>この子のために、もう話しかけないで！<end>"
+english = "W-what do you want? Why is an outsider talking to me? Fine, you want me to tell you something, is that it? The Corns are a people with horns on their foreheads. S-satisfied now? That's enough, isn't it? For this child's sake, please don't talk to me again!<end>"
+
+["50003"]
+japanese = "ママー。<line-break>この人がボクに話しかけてくるよ。<line-break>何かお話してもいいかな？<end>"
+english = "Mama! This person's talking to me. Can I say something?<end>"
+
+["50004"]
+japanese = "おうぉぅおうぉぅ、<line-break>なに、よそもんが嗅ぎまわってんだあ？<line-break>\u3000<line-break>あんまし、妙なことしてっと、<line-break>しょっぴくぞ、コラ。<line-break>おとなしくしてろ、ボケ、あぁ？<end>"
+english = "Hey, hey, hey! What's an outsider doing snooping around, huh? Try anything funny and I'll haul you in, got it? Behave yourself, moron. Huh?<end>"
+
+["50005"]
+japanese = "な、なんだい。ここは普通の町だよ。<line-break>見るものなんてありゃしない<line-break>いや、ホントさ。悪いことも起こってないし。<end>"
+english = "W-what is it? This is just an ordinary town. There's nothing here worth seeing. No, really. Nothing bad is happening, either.<end>"
+
+["50006"]
+japanese = "ビクッ！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><line-break><line-break>あたし、何も知らないの。<line-break>だから…、ごめんなさいっ！<end>"
+english = "Eek! I don't know anything. So... I'm sorry!<end>"
+
+["50007"]
+japanese = "この町、雰囲気が暗いんです。\u3000\u3000\u3000<line-break>どこにいっても恐い人が目を光らせて<line-break>いるから、町の人の口も重いし…。<end>"
+english = "There's a gloom hanging over this town. Frightening people are watching everywhere you go, so the townsfolk are afraid to say much.<end>"
+
+["50008"]
+japanese = "珍品じゃ、珍品じゃ、珍品はないかの。\u3000\u3000<line-break>フゴーに珍品を売りつけて大もうけするのじゃ。<line-break><line-break>この辺は遺跡なんかも発掘されとるし<line-break>考古学者のエスト様も来るようになったし<line-break>大もうけできる珍品発掘の可能性大なんじゃ。<end>"
+english = "Curios! Curios! Any curios around? I'll foist them on Hugo and make a fortune! Ruins are being excavated around here, and the archaeologist Est has started coming by, too. There's a good chance of digging up a curio worth a fortune!<end>"
+
+["50009"]
+japanese = "ここよりはるか西の方にオズワルドという<line-break>町があるんですが…。最近、連絡が取れない<line-break>そうです。なにか、あったんでしょうか？<end>"
+english = "There's a town called Oswald far to the west of here. Apparently, no one has been able to contact it lately. I wonder if something happened.<end>"
+
+["50010"]
+japanese = "フフ、お姉さまがいいこと教えてあげる。\u3000<line-break>探索クエストの目的物には<line-break>危険な副次効果を持つものがあるのよ。<line-break>例えば、ノロガメは<line-break>持ってると呪いがかかってしまうとか、ね。<line-break>気をつけないとひどい目に遭うわよ。<end>"
+english = "Hee hee. Let your big sister give you a useful tip. Some of the items you're sent to find on exploration quests have dangerous side effects. Carrying a Norogame, for example, can put a curse on you. If you aren't careful, you'll be in for a nasty time.<end>"
+
+["50011"]
+japanese = "な、なんだよ！\u3000勝手に上がりこんできて<line-break>何も話すことはねえよ。ほっといてくれよ！\u3000<line-break>話しかけられると迷惑なんだよ！<end>"
+english = "W-what do you want? You can't just barge in here! I've got nothing to tell you, so leave me alone! I don't want you talking to me!<end>"
+
+["50012"]
+japanese = "誰もがやっかい事を避けたがる。<line-break>イヤなことから目を背け、都合の悪い話には<line-break>耳をふさぐ。それがこの町なんだ。<end>"
+english = "Everyone wants to avoid trouble. People look away from anything unpleasant and shut their ears to anything inconvenient. That's the kind of town this is.<end>"
+
+["50013"]
+japanese = "な、なんですか、旅の人？<line-break>どうして、私の小屋に入ろうとするんですか？<line-break>な、何か探ってるんですか？<line-break>この町は平和で、別に誰も悪い人はいません。<line-break>領主はエリエナイ公レムオン・リューガ様で<line-break>代官はボルボラ様です。ふ、普通の町ですよ。<end>"
+english = "W-what is it, traveler? Why are you trying to enter my hut? A-are you investigating something? This town is peaceful. There aren't any bad people here. Our lord is Lemion Ryuga, Duke of Elienai, and Lord Bolbora is the magistrate. I-it's an ordinary town.<end>"
+
+["50014"]
+japanese = "ノーブルメッセージここまで<end>"
+english = ""

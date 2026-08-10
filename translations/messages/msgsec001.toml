@@ -1,0 +1,801 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["10000"]
+japanese = "汝の魂の導き方を示せ<end>"
+english = "Show how your soul shall be guided.<end>"
+
+["10001"]
+japanese = "汝、その名を魂に刻め<end>"
+english = "Inscribe that name upon your soul.<end>"
+
+["10002"]
+japanese = "その名前はゲーム中で使用されています<line-break>それでもかまいませんか？<end>"
+english = "That name is already in use in the game. Is that all right?<end>"
+
+["10003"]
+japanese = "汝が魂の器を掲げよ<end>"
+english = "Present the vessel of your soul.<end>"
+
+["10004"]
+japanese = "汝が魂に星辰の祝福を与えよ<end>"
+english = "Bestow the blessing of the stars upon your soul.<end>"
+
+["10005"]
+japanese = "汝が魂に秘めたる彩を見出せ<end>"
+english = "Discover the color hidden within your soul.<end>"
+
+["10006"]
+japanese = "フィジカルパラメータの決定をします<line-break>決定ボタンでスロットを止めてください<end>"
+english = "Your Physical Parameters will now be determined. Press the Confirm button to stop the slots.<end>"
+
+["10007"]
+japanese = "汝、無限のソウルを持つ者よ<line-break>我に応ぜよ<line-break>我が問いに答え、その魂を我に示せ<end>"
+english = "O Bearer of the Infinite Soul, answer me. Answer my question and show me your soul.<end>"
+
+["10008"]
+japanese = "汝が魂はここに示された<line-break>今、この魂に迷いはないか？<end>"
+english = "Your soul has been revealed here. Now, have you any doubts about this soul?<end>"
+
+["10009"]
+japanese = "汝、今まさに冒険の扉を開かんとす<line-break>扉の向こうに見えるのはどんな風景か？<end>"
+english = "You now stand ready to open the door to adventure. What vista do you see beyond it?<end>"
+
+["10010"]
+japanese = "<value:$15>よ<line-break>我、汝が進む道を問わん<line-break>汝が道を示し、運命の扉を開けよ<end>"
+english = "<value:$15>, I ask which path you would take. Show me your path and open the door of destiny.<end>"
+
+["10011"]
+japanese = "以前に同じ旅立ちを経験していますがいいですか？<end>"
+english = "You have set out on this same journey before. Is that all right?<end>"
+
+["10012"]
+japanese = "強くありたいと願う時、<line-break>汝が欲する力は次のどちらか？<end>"
+english = "When you yearn to be strong, which of these two forms of power do you desire?<end>"
+
+["10013"]
+japanese = "困難を打ち砕く力<end>"
+english = "The strength to overcome hardship<end>"
+
+["10014"]
+japanese = "逆境に耐える力<end>"
+english = "The strength to endure adversity<end>"
+
+["10015"]
+japanese = "強大な敵が行く手を阻んでいる<line-break>汝はどう対処するか？<end>"
+english = "A formidable enemy bars your path. How will you respond?<end>"
+
+["10016"]
+japanese = "弱点を探して色々な行動をとる<end>"
+english = "Try different tactics to find a weakness<end>"
+
+["10017"]
+japanese = "自分の力を信じて正面から戦う<end>"
+english = "Trust in my own strength and fight head-on<end>"
+
+["10018"]
+japanese = "どこまでも広がる美しい草原に来た<line-break>汝はここで何を望むか？<end>"
+english = "You have come to a beautiful grassland that stretches on without end. What do you desire here?<end>"
+
+["10019"]
+japanese = "広い草原の中を駆ける<end>"
+english = "Race across the vast grasslands<end>"
+
+["10020"]
+japanese = "草原の美しさを絵にする<end>"
+english = "Capture the beauty of the grasslands in a painting<end>"
+
+["10021"]
+japanese = "大きな夕日が水平線に沈む<line-break>この時汝は何を思うか？<end>"
+english = "As the great setting sun sinks below the horizon, what thoughts fill your mind?<end>"
+
+["10022"]
+japanese = "終わりゆく一日への充実感<end>"
+english = "Fulfillment as the day draws to a close<end>"
+
+["10023"]
+japanese = "やってくる明日への希望<end>"
+english = "Hope for tomorrow<end>"
+
+["10024"]
+japanese = "伝説の勇者が夢に出てきた<line-break>彼はどんな表情をしていたか？<end>"
+english = "The legendary hero appeared in your dream. What expression did he wear?<end>"
+
+["10025"]
+japanese = "強靭な意志がにじむりりしい表情<end>"
+english = "A dignified expression that reveals an unyielding will<end>"
+
+["10026"]
+japanese = "すべてを包み込むおだやかな表情<end>"
+english = "A gentle expression that embraces all<end>"
+
+["10027"]
+japanese = "見知らぬ丘に独り立っている<line-break>汝は最初に何を感じるか？<end>"
+english = "You stand alone upon an unfamiliar hill. What do you feel first?<end>"
+
+["10028"]
+japanese = "吹き抜ける風の匂い<end>"
+english = "The scent of the wind sweeping past<end>"
+
+["10029"]
+japanese = "眼下に広がる大地の色<end>"
+english = "The color of the land stretching out below<end>"
+
+["10030"]
+japanese = "魔獣が村を襲っている<line-break>まず汝は何をなすべきか？<end>"
+english = "A monstrous beast is attacking a village. What should you do first?<end>"
+
+["10031"]
+japanese = "即刻その場で魔獣と戦う<end>"
+english = "Fight the beast on the spot<end>"
+
+["10032"]
+japanese = "魔獣を村の外に誘い出す<end>"
+english = "Lure the beast out of the village<end>"
+
+["10033"]
+japanese = "一撃必殺の剣技を極めたい<line-break>汝に必要なのはどちらか？<end>"
+english = "Which do you need to master the sword art of killing with a single stroke?<end>"
+
+["10034"]
+japanese = "爆発的破壊力を生む体力<end>"
+english = "The physical strength to unleash explosive destructive power<end>"
+
+["10035"]
+japanese = "一撃で急所を撃つ集中力<end>"
+english = "The focus to strike a vital point in a single blow<end>"
+
+["10036"]
+japanese = "目の前で冒険者が危機に陥っている<line-break>その冒険者はどんな姿をしているか？<end>"
+english = "An adventurer before you is in peril. What does the adventurer look like?<end>"
+
+["10037"]
+japanese = "魔法が得意そうな優男<end>"
+english = "A gentle-looking man who seems skilled in magic<end>"
+
+["10038"]
+japanese = "勇猛な印象の女剣士<end>"
+english = "A valiant-looking swordswoman<end>"
+
+["10039"]
+japanese = "大きな冒険を終え町に戻ってきた<line-break>明日は何をして過ごすか？<end>"
+english = "After completing a great adventure, you have returned to town. How will you spend tomorrow?<end>"
+
+["10040"]
+japanese = "のんびりと町を散策する<end>"
+english = "Take a leisurely stroll around town<end>"
+
+["10041"]
+japanese = "宿で装備品の整備をする<end>"
+english = "Maintain equipment at the inn<end>"
+
+["10042"]
+japanese = "見知らぬ少年が戦いを挑んできた<line-break>汝はどう応じるか？<end>"
+english = "An unfamiliar boy has challenged you to a fight. How will you respond?<end>"
+
+["10043"]
+japanese = "正面から相手をする<end>"
+english = "Face the opponent head-on<end>"
+
+["10044"]
+japanese = "戦う理由を問いただす<end>"
+english = "Demand to know why the opponent is fighting<end>"
+
+["10045"]
+japanese = "恋人が不治の病で死の淵にいる<line-break>汝は今、何をするべきか？<end>"
+english = "Your beloved lies at death's door, stricken with an incurable disease. What should you do now?<end>"
+
+["10046"]
+japanese = "特効薬を探す旅に出る<end>"
+english = "Set out on a journey to find a cure<end>"
+
+["10047"]
+japanese = "最期の時までそばにいる<end>"
+english = "Stay close until the very end<end>"
+
+["10048"]
+japanese = "魔法の奥義を極めたい<line-break>必要なのはどのような精神か？<end>"
+english = "You wish to master the deepest mysteries of magic. What kind of spirit does that require?<end>"
+
+["10049"]
+japanese = "燃えあがる精神<end>"
+english = "A fiery spirit<end>"
+
+["10050"]
+japanese = "張りつめた精神<end>"
+english = "A taut spirit<end>"
+
+["10051"]
+japanese = "古代の王家の紋章を手に入れた<line-break>その紋章には何が描かれているか？<end>"
+english = "You have acquired the crest of an ancient royal house. What is depicted on it?<end>"
+
+["10052"]
+japanese = "翼を広げた竜の姿<end>"
+english = "A dragon with wings spread<end>"
+
+["10053"]
+japanese = "複雑に描かれた図形<end>"
+english = "An intricately drawn design<end>"
+
+["10054"]
+japanese = "錠がかかっている堅牢な扉がある<line-break>どうやってそれを開けるか？<end>"
+english = "There is a sturdy locked door. How will you open it?<end>"
+
+["10055"]
+japanese = "錠をはずそうとする<end>"
+english = "Try to remove the lock<end>"
+
+["10056"]
+japanese = "扉を叩き壊そうとする<end>"
+english = "Try to smash down the door<end>"
+
+["10057"]
+japanese = "迷宮で魔法の剣を見つけた<line-break>その剣はどんな形をしていたか？<end>"
+english = "You found a magical sword in a labyrinth. What did it look like?<end>"
+
+["10058"]
+japanese = "肉厚で無骨な両手剣<end>"
+english = "A thick, rugged two-handed sword<end>"
+
+["10059"]
+japanese = "細身で鋭利な片手剣<end>"
+english = "A slender, keen-edged one-handed sword<end>"
+
+["10060"]
+japanese = "冒険で得たふたつの財産<line-break>汝にとって大切なのはどちらか？<end>"
+english = "Of the two treasures gained on your adventure, which is more precious to you?<end>"
+
+["10061"]
+japanese = "自分だけの経験や思い出<end>"
+english = "Experiences and memories that are mine alone<end>"
+
+["10062"]
+japanese = "世界にふたつとない財宝<end>"
+english = "A treasure unlike any other in the world<end>"
+
+["10063"]
+japanese = "実力が汝と互角の戦士がいる<line-break>戦うとしたらどこを狙うか？<end>"
+english = "Suppose you faced a warrior your equal. Where would you strike?<end>"
+
+["10064"]
+japanese = "腕を狙って攻撃力を下げる<end>"
+english = "Target the arms to reduce Attack Power<end>"
+
+["10065"]
+japanese = "足を狙って動きを封じる<end>"
+english = "Target the legs to restrict movement<end>"
+
+["10066"]
+japanese = "冒険の人生を終えて穏やかに暮らす時、<line-break>汝はどこに住みたいと願うか？<end>"
+english = "When your life of adventure is over and you seek a peaceful existence, where would you wish to live?<end>"
+
+["10067"]
+japanese = "変化に富んだ大きな街<end>"
+english = "A big city full of variety<end>"
+
+["10068"]
+japanese = "季節と共に生きる田舎<end>"
+english = "A rural life lived with the seasons<end>"
+
+["10069"]
+japanese = "冒険の人生を例えるなら、<line-break>次のどちらが近いと思うか？<end>"
+english = "If you were to liken a life of adventure to one of the following two, which would be the closer match?<end>"
+
+["10070"]
+japanese = "自由気ままに大空を飛ぶ鳥<end>"
+english = "A bird flying free through the open sky<end>"
+
+["10071"]
+japanese = "流れに逆らい川を上る魚<end>"
+english = "A fish swimming upstream against the current<end>"
+
+["10072"]
+japanese = "山奥を冒険していたら小屋があった<line-break>中にいたのはどんな人物か？<end>"
+english = "While exploring deep in the mountains, you come upon a hut. What sort of person is inside?<end>"
+
+["10073"]
+japanese = "狩人<end>"
+english = "Hunter<end>"
+
+["10074"]
+japanese = "魔法使い<end>"
+english = "Mage<end>"
+
+["10075"]
+japanese = "これでいいですか？<end>"
+english = "Is this all right?<end>"
+
+["10076"]
+japanese = "ジャック<end>"
+english = "Jack<end>"
+
+["10077"]
+japanese = "ランセル<end>"
+english = "Lancel<end>"
+
+["10078"]
+japanese = "エリック<end>"
+english = "Eric<end>"
+
+["10079"]
+japanese = "ルロイ<end>"
+english = "Leroy<end>"
+
+["10080"]
+japanese = "ジャン<end>"
+english = "Jean<end>"
+
+["10081"]
+japanese = "サンダース<end>"
+english = "Sanders<end>"
+
+["10082"]
+japanese = "ニックス<end>"
+english = "Nix<end>"
+
+["10083"]
+japanese = "アーバイセン<end>"
+english = "Arbaisen<end>"
+
+["10084"]
+japanese = "アラン<end>"
+english = "Alan<end>"
+
+["10085"]
+japanese = "マールスタック<end>"
+english = "Marlstack<end>"
+
+["10086"]
+japanese = "ナイジェル<end>"
+english = "Nigel<end>"
+
+["10087"]
+japanese = "チャーロウ<end>"
+english = "Charlo<end>"
+
+["10088"]
+japanese = "ボラスキニフ<end>"
+english = "Boraskinif<end>"
+
+["10089"]
+japanese = "ヨルド<end>"
+english = "Yord<end>"
+
+["10090"]
+japanese = "ランド<end>"
+english = "Rand<end>"
+
+["10091"]
+japanese = "クラウン<end>"
+english = "Crown<end>"
+
+["10092"]
+japanese = "リディオン<end>"
+english = "Lidion<end>"
+
+["10093"]
+japanese = "ガルース<end>"
+english = "Garus<end>"
+
+["10094"]
+japanese = "カイル<end>"
+english = "Kyle<end>"
+
+["10095"]
+japanese = "ユリアシュ<end>"
+english = "Yuriash<end>"
+
+["10096"]
+japanese = "ミルード<end>"
+english = "Milud<end>"
+
+["10097"]
+japanese = "ワッツ<end>"
+english = "Watts<end>"
+
+["10098"]
+japanese = "ケイン<end>"
+english = "Kane<end>"
+
+["10099"]
+japanese = "ルーディオン<end>"
+english = "Rudion<end>"
+
+["10100"]
+japanese = "ダイアー<end>"
+english = "Dyer<end>"
+
+["10101"]
+japanese = "ロイスロッド<end>"
+english = "Royce Rod<end>"
+
+["10102"]
+japanese = "レイルース<end>"
+english = "Railus<end>"
+
+["10103"]
+japanese = "ライネックス<end>"
+english = "Rynex<end>"
+
+["10104"]
+japanese = "ルーベンバッハ<end>"
+english = "Rubenbach<end>"
+
+["10105"]
+japanese = "ワッケイン<end>"
+english = "Wackane<end>"
+
+["10106"]
+japanese = "ロベルト<end>"
+english = "Roberto<end>"
+
+["10107"]
+japanese = "ルーベンス<end>"
+english = "Rubens<end>"
+
+["10108"]
+japanese = "オルソン<end>"
+english = "Olson<end>"
+
+["10109"]
+japanese = "ティム<end>"
+english = "Tim<end>"
+
+["10110"]
+japanese = "ルーファン<end>"
+english = "Rufan<end>"
+
+["10111"]
+japanese = "ムスク<end>"
+english = "Musk<end>"
+
+["10112"]
+japanese = "アレフ<end>"
+english = "Aleph<end>"
+
+["10113"]
+japanese = "ルヴァ<end>"
+english = "Luva<end>"
+
+["10114"]
+japanese = "リングローン<end>"
+english = "Ringlone<end>"
+
+["10115"]
+japanese = "レイスニール<end>"
+english = "Raysneel<end>"
+
+["10116"]
+japanese = "リガン<end>"
+english = "Rigan<end>"
+
+["10117"]
+japanese = "バルジ<end>"
+english = "Balge<end>"
+
+["10118"]
+japanese = "ヴィルド<end>"
+english = "Vild<end>"
+
+["10119"]
+japanese = "カール<end>"
+english = "Karl<end>"
+
+["10120"]
+japanese = "オルティ<end>"
+english = "Olti<end>"
+
+["10121"]
+japanese = "キラー<end>"
+english = "Killer<end>"
+
+["10122"]
+japanese = "クレス<end>"
+english = "Cress<end>"
+
+["10123"]
+japanese = "ケヴィム<end>"
+english = "Kevim<end>"
+
+["10124"]
+japanese = "コリスト<end>"
+english = "Coristo<end>"
+
+["10125"]
+japanese = "ロンメル<end>"
+english = "Rommel<end>"
+
+["10126"]
+japanese = "ターレル<end>"
+english = "Tarel<end>"
+
+["10127"]
+japanese = "ツールソー<end>"
+english = "Turso<end>"
+
+["10128"]
+japanese = "テクルード<end>"
+english = "Teclud<end>"
+
+["10129"]
+japanese = "トルディス<end>"
+english = "Tordis<end>"
+
+["10130"]
+japanese = "ハーレイス<end>"
+english = "Harlace<end>"
+
+["10131"]
+japanese = "ルシア<end>"
+english = "Lucia<end>"
+
+["10132"]
+japanese = "セシリア<end>"
+english = "Cecilia<end>"
+
+["10133"]
+japanese = "ファルル<end>"
+english = "Farul<end>"
+
+["10134"]
+japanese = "ユシュアル<end>"
+english = "Yushual<end>"
+
+["10135"]
+japanese = "ミネルヴァ<end>"
+english = "Minerva<end>"
+
+["10136"]
+japanese = "アリシア<end>"
+english = "Alicia<end>"
+
+["10137"]
+japanese = "ルーシー<end>"
+english = "Lucy<end>"
+
+["10138"]
+japanese = "シオン<end>"
+english = "Shion<end>"
+
+["10139"]
+japanese = "カチュア<end>"
+english = "Kachua<end>"
+
+["10140"]
+japanese = "ルフレン<end>"
+english = "Lufren<end>"
+
+["10141"]
+japanese = "シャルヴィー<end>"
+english = "Sharvie<end>"
+
+["10142"]
+japanese = "シェスラン<end>"
+english = "Shesran<end>"
+
+["10143"]
+japanese = "パロア<end>"
+english = "Paroa<end>"
+
+["10144"]
+japanese = "ポーリア<end>"
+english = "Poria<end>"
+
+["10145"]
+japanese = "イリス<end>"
+english = "Iris<end>"
+
+["10146"]
+japanese = "クーファ<end>"
+english = "Kufa<end>"
+
+["10147"]
+japanese = "エルフィーネ<end>"
+english = "Elphine<end>"
+
+["10148"]
+japanese = "セイル<end>"
+english = "Seil<end>"
+
+["10149"]
+japanese = "ソルブリッド<end>"
+english = "Solbridd<end>"
+
+["10150"]
+japanese = "フィンス<end>"
+english = "Fins<end>"
+
+["10151"]
+japanese = "シーラ<end>"
+english = "Sheila<end>"
+
+["10152"]
+japanese = "アン<end>"
+english = "Ann<end>"
+
+["10153"]
+japanese = "ソフィア<end>"
+english = "Sophia<end>"
+
+["10154"]
+japanese = "スティニー<end>"
+english = "Stiny<end>"
+
+["10155"]
+japanese = "ステア<end>"
+english = "Stea<end>"
+
+["10156"]
+japanese = "アルティ<end>"
+english = "Alti<end>"
+
+["10157"]
+japanese = "エレ<end>"
+english = "Ele<end>"
+
+["10158"]
+japanese = "キャロル<end>"
+english = "Carol<end>"
+
+["10159"]
+japanese = "リムル<end>"
+english = "Rimuru<end>"
+
+["10160"]
+japanese = "ティナ<end>"
+english = "Tina<end>"
+
+["10161"]
+japanese = "イルティ<end>"
+english = "Ilti<end>"
+
+["10162"]
+japanese = "レラ<end>"
+english = "Rera<end>"
+
+["10163"]
+japanese = "ノーマ<end>"
+english = "Norma<end>"
+
+["10164"]
+japanese = "リネット<end>"
+english = "Lynette<end>"
+
+["10165"]
+japanese = "リムリア<end>"
+english = "Rimuria<end>"
+
+["10166"]
+japanese = "エルディア<end>"
+english = "Eldia<end>"
+
+["10167"]
+japanese = "メルティニー<end>"
+english = "Meltiny<end>"
+
+["10168"]
+japanese = "アネット<end>"
+english = "Annette<end>"
+
+["10169"]
+japanese = "レンシー<end>"
+english = "Rensy<end>"
+
+["10170"]
+japanese = "アルディール<end>"
+english = "Aldir<end>"
+
+["10171"]
+japanese = "ミリエラ<end>"
+english = "Miriera<end>"
+
+["10172"]
+japanese = "ヘレイナ<end>"
+english = "Heleina<end>"
+
+["10173"]
+japanese = "スパルチュア<end>"
+english = "Spaltua<end>"
+
+["10174"]
+japanese = "ナチュラ<end>"
+english = "Natura<end>"
+
+["10175"]
+japanese = "ルイフェン<end>"
+english = "Luifen<end>"
+
+["10176"]
+japanese = "Ｔｕｇ\u3000ｏｆ\u3000Ｓｔｒｅｅｔ<end>"
+english = "Ｔｕｇ\u3000ｏｆ\u3000Ｓｔｒｅｅｔ<end>"
+
+["10177"]
+japanese = "だましもの<end>"
+english = "The Deceiver<end>"
+
+["10178"]
+japanese = "迫撃！トリプルゴブリン！<end>"
+english = "Onslaught! Triple Goblins!<end>"
+
+["10179"]
+japanese = "はむかうもの<end>"
+english = "The Defiant One<end>"
+
+["10180"]
+japanese = "Ｌｏｓｔ\u3000Ｍｅｍｏｒｙ<end>"
+english = "Ｌｏｓｔ\u3000Ｍｅｍｏｒｙ<end>"
+
+["10181"]
+japanese = "Ｍｅｓｓｅｎｇｅｒ<end>"
+english = "Ｍｅｓｓｅｎｇｅｒ<end>"
+
+["10182"]
+japanese = "Ｂｕｒｎｉｎ’！親子鷹<end>"
+english = "Ｂｕｒｎｉｎ'！ Like Father, Like Son<end>"
+
+["10183"]
+japanese = "盗人村<end>"
+english = "Thieves' Village<end>"
+
+["10184"]
+japanese = "始まりの地<end>"
+english = "The Land of Beginnings<end>"
+
+["10185"]
+japanese = "風の行方<end>"
+english = "Where the Wind Blows<end>"
+
+["10186"]
+japanese = "Ｓｔｒａｎｇｅ\u3000Ｗｏｒｌｄ<end>"
+english = "Ｓｔｒａｎｇｅ\u3000Ｗｏｒｌｄ<end>"
+
+["10187"]
+japanese = "かぐや姫<end>"
+english = "Princess Kaguya<end>"
+
+["10188"]
+japanese = "性格も考え方も全然違うけどなぜか息の合う二人の孤児<line-break>ある日二人の親友が無法者の冒険者に大怪我を負わされた<line-break>その場に居合わせながら助けることができなかった事をくやむ二人<line-break>「僕らでヴァンの仇を討ちに行こうか？」<end>"
+english = "Two orphans with utterly different personalities and ways of thinking somehow make a perfect team. One day, a lawless adventurer gravely injures their close friend. Though both were there, neither could help, and the regret weighs on them. “Why don't we go avenge Van ourselves?”<end>"
+
+["10189"]
+japanese = "主人公の妹ルフレンが、竜王の覚醒の影響で呪いにかかり倒れてしまった。この呪いを解くためには莫大な金がかかるという<line-break>その金を得るために、大金持ちフゴーをペテンにかける主人公たち。一時は失敗しかかったものの、幼なじみゴートの機転により無事大金を手に入れた主人公は、ゴートとともに妹の呪いを解くために旅に出る<end>"
+english = "The protagonist's younger sister, Lufren, collapses under a curse brought on by the Dragon King's Awakening. Breaking the curse will require an enormous sum of money. To raise it, the protagonist and companions set out to swindle the wealthy Hugo. The scheme nearly fails, but a childhood friend named Goat saves it with some quick thinking. With the money safely in hand, the protagonist sets off with Goat on a journey to break Lufren's curse.<end>"
+
+["10190"]
+japanese = "主人公と主人公の居候先のアイリーンは、人語をしゃべる不思議なゴブリン３匹組を退治しに出かけるが、ゴブリンたちの三位一体の攻撃の前に倒れてしまう<line-break>アイリーンの前でまたも無様を演じてしまった主人公は、旅に出ることを決意する<line-break>アイリーンもまた旅に出ることを決意する絶対に主人公のことを守ると誓った、あの幼き日の約束を守るために<end>"
+english = "The protagonist and Irene, with whom the protagonist is staying, set out to defeat a strange trio of Goblins who speak the human tongue. Instead, both are defeated by the Goblins' three-in-one attack. Having once again made a humiliating spectacle in front of Irene, the protagonist decides to leave on a journey. Irene resolves to go as well, determined to keep the promise she made as a child to protect the protagonist no matter what.<end>"
+
+["10191"]
+japanese = "主人公とその弟チャカは、ノーブルの悪代官モルモラとの戦いにおいて、危ないところを謎の貴族に助けられる。そのあとモルモラを倒すことに成功する主人公だが、反逆罪に問われることを恐れた町の長老たちにより、領主レムオンの前に引き出される。目の前に現れた領主は、いつかの謎の貴族だった<line-break>主人公はレムオンに従い、陰謀渦巻く王都ロストールへ旅立つ<end>"
+english = "While fighting Mormora, Noble's corrupt magistrate, the protagonist and younger brother Chaka are saved at the last moment by a mysterious noble. The protagonist later succeeds in defeating Mormora, but the town elders, afraid of being accused of treason, bring the protagonist before their lord, Lemghon. The lord who appears is none other than the mysterious noble from before. Entering Lemghon's service, the protagonist departs for Rostorl, the royal capital seething with intrigue.<end>"
+
+["10192"]
+japanese = "主人公は神器の神殿の神官の子である<line-break>ある日、神器を狙う魔人の襲撃に遭う。この襲撃により、主人公は父を失い、神器を使って闘いを挑んだ兄を連れ去られてしまう<line-break>主人公は、魔人に体を奪われた姉の消息を追ってきたセラとともに、兄ロイとセラの姉の行方を追って旅にでる<end>"
+english = "The protagonist is the child of a priest at the Temple of the Divine Artifact. One day, a demon attacks in pursuit of the artifact. The protagonist's father is killed, and the older brother who used the artifact to challenge the demon is carried away. The protagonist then meets Sera, who has been searching for an older sister whose body was stolen by a demon. Together, they set out to find Roy and Sera's sister.<end>"
+
+["10193"]
+japanese = "主人公は、人のいい行商人である父フリントとロストールへ向かう道中にあった<line-break>あと数日もすれば到着というところで、キャラバンが謎の襲撃者に襲われる<line-break>主人公も剣を手に応戦したが、相手はかなりの手だれだった<line-break>この戦いで命を落とすフリント<line-break>父は最期、息子に手紙を託す<line-break>「これを…王妃様に、必ず届けてくれ…」<end>"
+english = "The protagonist is traveling to Rostorl with Flint, a kindhearted peddler and the protagonist's father. With only a few days left before their arrival, the caravan is attacked by mysterious assailants. The protagonist takes up a sword and fights back, but the attackers are highly skilled. Flint loses his life in the battle. With his dying breath, the father entrusts a letter to his son. “You must... deliver this to Her Majesty the Queen...”<end>"
+
+["10194"]
+japanese = "炎竜山が噴火するとき、その頂上の炎の礼状に現れる炎の泉で打った剣は、神をも切り裂く名剣になると言う<line-break>鍛冶の名工カッツの息子である主人公は、父とともに炎竜山の頂上を目指すが、炎のエレメントの活性化の影響で目覚めた魔物によって父を失い、旅立つことになる<line-break>父と母の夢を果たすため、父と母の師であるドワーフのドーレンを訪ねる旅に<end>"
+english = "It is said that when Flame Dragon Mountain erupts, a sword forged in the spring of flame that appears in the fiery letter at its summit will become a legendary blade capable of cleaving even a god. The protagonist, son of the master blacksmith Katz, sets out with his father for the summit. But a Monster awakened by the increased activity of the fire element kills his father, forcing the protagonist to begin a journey. To fulfill the dream shared by both parents, the protagonist sets off in search of Doren, the Dwarf who taught them.<end>"
+
+["10195"]
+japanese = "山間にあるその村は盗人村と呼ばれているその村で育った主人公の師匠はロッシマという片腕の盗賊だった<line-break>ある日主人公は町の冒険者から、ロッシマは世界中のダンジョンを踏破した英雄で、彼の遺したメモがダンジョンの罠からたくさんの冒険者を救っている事実を聞く<line-break>ロッシマは語る「レオニックの迷宮を踏破し、この俺を越える盗賊になれ」と<end>"
+english = "The mountain village is known as Thieves' Village. The protagonist grew up there under the tutelage of Rossima, a one-armed thief. One day, an adventurer in town reveals that Rossima was a hero who conquered dungeons all over the world, and that the notes he left behind have saved many adventurers from their traps. Rossima says, “Conquer the Labyrinth of Leonic, and become a thief who surpasses me.”<end>"
+
+["10196"]
+japanese = "主人公は母アスティアの後を追ってヴァシュタールの柩という遺跡にやってくる。そこで出会った不思議な少年シャリ騙された主人公は、破壊神を甦らせる魔人ヴァシュタールを復活させてしまう母とともに逃げようとするが、母アスティアは町とともに石にされてしまう<line-break>リルビーの踊り子ルルアンタに出会った主人公は、打倒ヴァシュタールの旅に出る<end>"
+english = "Following the trail of the protagonist's mother, Astia, the protagonist arrives at a ruin known as the Coffin of Vashtar. There, a mysterious boy named Shalli deceives the protagonist into reviving Vashtar, a demon who intends to resurrect the God of Destruction. The protagonist tries to escape with Astia, but Astia and the entire town are turned to stone. After meeting Lulluantha, a dancer from Lilby, the protagonist sets out on a journey to defeat Vashtar.<end>"
+
+["10197"]
+japanese = "主人公とその幼なじみは、竜の座から宝物を盗み手傷を負わされていた不思議な少女メイアを、何も知らずに助けてしまう<line-break>二人は、メイア逃亡の手助けをした罪で、竜の座に捕らえられてしまう<line-break>女王エアは主人公に命じた<line-break>「宝物を取り戻してこい。さもなくば、この少女やエルズの民の命はないものと思え」<end>"
+english = "Knowing nothing of what has happened, the protagonist and a childhood friend help a mysterious wounded girl named Meia, who stole a treasure from the Seat of the Dragon. The two are arrested by the Seat of the Dragon for aiding her escape. Queen Er commands the protagonist, “Bring back the treasure. Otherwise, consider this girl and the people of Elz as good as dead.”<end>"
+
+["10198"]
+japanese = "閃光に包まれて、目を覚ますと、そこは見知らぬ世界だった。主人公の目の前に現れたエルフの魔道士ナーシェスは主人公に言う<line-break>「君は金の聖光石に導かれてこの世界に呼ばれた。君はこの世界が流す悲しみを止める事ができる存在なのだ」<line-break>主人公は、武器商人アンティノの不正を突き止めようとしている少女フィーユと出会い、元の世界に帰る手がかりを求めて旅に出る<end>"
+english = "Engulfed in a flash of light, the protagonist awakens in an unknown world. An Elf mage named Narscess appears and says, “The Golden Holy Light Stone guided you here and summoned you to this world. You are capable of bringing an end to the sorrow this world sheds.” The protagonist meets a girl named Fille, who is trying to expose the wrongdoing of the arms merchant Antino, and sets out in search of a way back to the original world.<end>"
+
+["10199"]
+japanese = "主人公は月世界の住人レンシーの生まれ変わりであった<line-break>主人公が１６才になった時、魔獣・銀狼と化した神弓セリューンを倒し手に入れる。その主人公の前に月からの使者がが現れ、神弓セリューンを使ってレンシーが果たせなかったグフトク討伐を告げる<line-break>主人公は幼なじみのリディオン、さすらいの吟遊新人レルラロントンと旅に出る<end>"
+english = "The protagonist is the reincarnation of Rensy, a resident of the Moon World. At the age of sixteen, the protagonist defeats the Divine Bow Selyune, which has taken the form of the monstrous Silver Wolf, and claims the bow. A messenger from the moon then appears and tells the protagonist to use Selyune to defeat Guftok, a task Rensy could not complete. The protagonist sets out with the childhood friend Lidion and a wandering novice minstrel named Relralonton.<end>"

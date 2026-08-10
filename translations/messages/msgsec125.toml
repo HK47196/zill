@@ -1,0 +1,1541 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1250000"]
+japanese = "<end>"
+english = ""
+
+["1250001"]
+japanese = "（ディンガル帝国の玄武将軍になった<line-break>\u3000ザギヴから、手紙をもらった）<line-break><line-break>（エンシャントの政庁へ出向けという<line-break>\u3000内容だ。…行った方がいいのかな？）<end>"
+english = "(A letter arrived from Zagiv, now the Black Tortoise General of the Dingal Empire.) (It says to report to the Ancient Government Hall. ...Should I go?)<end>"
+
+["1250002"]
+japanese = "玄武将軍からの名指しの依頼！？<line-break>それってチャンスよ！<line-break>もちろん受けるんでしょっ？<line-break>うらやましいわ、<value:$28>。<end>"
+english = "A personal request from the Black Tortoise General!? This is your big chance! You're going to accept, of course, right? I'm so jealous, <value:$28>.<end>"
+
+["1250003"]
+japanese = "ディンガルの内務統括殿とはいろいろと<line-break>あってな、ワシは参加できん。<line-break>すまぬな、<value:$28>。<end>"
+english = "I have a complicated history with Dingal's Director of Internal Affairs, so I cannot take part. Forgive me, <value:$28>.<end>"
+
+["1250004"]
+japanese = "ザギヴさんからお仕事頼まれるなんて<line-break>かなりすごいかも…。<line-break><line-break>お金をたくさんもらえたり、<line-break>とんとん拍子に出世できたり、<line-break>世界を支配できるようになるかも！？<end>"
+english = "Getting a job from Zagiv is kind of a big deal... Maybe you'll get loads of money, fly up the ranks, or even end up ruling the world!<end>"
+
+["1250005"]
+japanese = "俺をさしおいて、なんでお前が<line-break>名指しの依頼を受けるんだよ。<line-break>ちっ、面白くねぇなぁ！<line-break>さっさとエンシャントの政庁に<line-break>行っちまえってんだ。<end>"
+english = "Why do you get a personal request instead of me? Tch. I don't like this one bit! Just hurry up and get over to the Ancient Government Hall already.<end>"
+
+["1250006"]
+japanese = "将軍からの依頼かぁ。!<line-break>どんな依頼なんだろうね？<line-break><line-break>早くエンシャントの政庁に行って<line-break>聞いてみたいよ。もちろん、<line-break>ボクもつれてってくれるんだよね？<end>"
+english = "A request from the general, huh? I wonder what it is. I want to hurry to the Ancient Government Hall and find out. You're taking me with you, of course... right?<end>"
+
+["1250007"]
+japanese = "ザギヴから手紙？<line-break>珍しいこともあるものね。<line-break><line-break>何か裏があるかもしれないけど、<line-break>エンシャントへ行くかどうかは、<line-break>あなたに任せるわ。<end>"
+english = "A letter from Zagiv? That's unusual. There may be more to it than meets the eye, but whether you go to Ancient is up to you.<end>"
+
+["1250008"]
+japanese = "ザギヴさんがあなたにお手紙を？<line-break>ほう、それはそれは…。<line-break><line-break>彼女の力になってあげてくださいね。<line-break><value:$28>。<end>"
+english = "Zagiv sent you a letter? Well, well... Please do what you can to help her, <value:$28>.<end>"
+
+["1250009"]
+japanese = "最近は色々危ないからねー。<line-break><value:$28>も<line-break>気をつけてないとヤバイかもよ？<line-break>それでも行く？<line-break>まっ、そういうの、嫌いじゃないけどね。<end>"
+english = "Things have been dangerous lately. You could be in real trouble if you aren't careful, <value:$28>. Still going? Well, I can't say I dislike that sort of thing.<end>"
+
+["1250010"]
+japanese = "ね、姉ちゃん、俺、感動してる…。<line-break>玄武将軍にまで名声が<line-break>伝わってるなんてよ！<line-break>もちろん依頼内容、聞きに行くだろ？<line-break>場所は、エンシャントの政庁だぜ。<end>"
+english = "Sis, I'm moved... To think your fame has reached even the Black Tortoise General! Of course you're going to hear what the request is, right? The place is the Ancient Government Hall.<end>"
+
+["1250011"]
+japanese = "この手紙は私が出したものよ。<line-break>当然、来るでしょう？<end>"
+english = "I sent that letter. Naturally, you'll come, won't you?<end>"
+
+["1250012"]
+japanese = "お前さんも有名人になったなぁ。<line-break>人から頼りにされるってのは<line-break>けっこういい気分だろ？<line-break>とりあえず、エンシャントの政庁に<line-break>行ってみたらどうだ？<end>"
+english = "You've become quite the celebrity. Feels pretty good to have people counting on you, doesn't it? Why not start by visiting the Ancient Government Hall?<end>"
+
+["1250013"]
+japanese = "お前に名指しの依頼か…。<line-break>ザギヴとて、将軍のひとり。油断しないことだな。<end>"
+english = "A personal request for you... Zagiv is still one of the generals. Don't let your guard down.<end>"
+
+["1250014"]
+japanese = "玄武将軍からの呼び出しか。<line-break>たしか、エンシャントの政庁に<line-break>行くんじゃったな。<end>"
+english = "A summons from the Black Tortoise General, eh? If I remember correctly, you need to go to the Ancient Government Hall.<end>"
+
+["1250015"]
+japanese = "ザギヴさんから手紙がきたんだね。<line-break>エンシャントの政庁に行って<line-break>詳しい話を聞いてみようよ。<end>"
+english = "So you got a letter from Zagiv. Let's go to the Ancient Government Hall and hear the details.<end>"
+
+["1250016"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250017"]
+japanese = "ザギヴから手紙がきた？<line-break>高貴で優雅で知性あふれる<line-break>エルフのアタクシがど～して<line-break>そんなつまんない話を<line-break>聞かなきゃならないのよ！<line-break><line-break>ま、アタクシには関係のない話だし<line-break>好きにすればいいじゃない。<end>"
+english = "A letter from Zagiv? Why should I, a noble, graceful, brilliant Elf, have to listen to such a boooring story!? Well, it has nothing to do with me. Do whatever you like.<end>"
+
+["1250018"]
+japanese = "ザギヴからの手紙ボゲー<line-break>ザギヴからの手紙ボゲー<line-break>ザギヴからの手紙ボゲー<line-break>ザギヴからの手紙ボゲー<line-break>ザギヴからの手紙ボゲー<line-break>ザギヴからの手紙ボゲー<end>"
+english = "Letter from Zagiv, Bogee! Letter from Zagiv, Bogee! Letter from Zagiv, Bogee! Letter from Zagiv, Bogee! Letter from Zagiv, Bogee! Letter from Zagiv, Bogee!<end>"
+
+["1250019"]
+japanese = "ザギヴさんからお手紙がきたのぉ？<line-break><line-break><line-break>もちろん<value:$28>は、<line-break>エンシャントの政庁に、<line-break>行ってあげるんだよねぇ。<end>"
+english = "Zagiv sent you a letter? Of course you're going to visit the Ancient Government Hall for her, right, <value:$28>?<end>"
+
+["1250020"]
+japanese = "………………。<line-break><line-break><line-break>エンシャントの政庁へ行け。<end>"
+english = "... Go to the Ancient Government Hall.<end>"
+
+["1250021"]
+japanese = "音に聞こえし玄武将軍ザギヴも、<line-break>案外ぬるいものだな。<line-break><line-break>フッ…まあ、<line-break>ディンガルの内情を探るのも<line-break>悪くはないのかもしれん。<end>"
+english = "So even the renowned Black Tortoise General Zagiv is softer than I expected. Hmph... Still, it might not be a bad idea to investigate Dingal's internal affairs.<end>"
+
+["1250022"]
+japanese = "玄武将軍からの依頼が来たって？<line-break>ぼくの広報活動が実ったんだね！<line-break><line-break>さあ、エンシャントの政庁へ行って、<line-break>話を聞こうよ！<end>"
+english = "You got a request from the Black Tortoise General? My publicity campaign finally paid off! Come on, let's go hear her out at the Ancient Government Hall!<end>"
+
+["1250023"]
+japanese = "全ては予言どおりの道をゆく、か…。<line-break>フフ、いや、だだの独り言だ。<line-break>君が気にする必要はない。<end>"
+english = "So all things follow the path foretold... Heh. No, merely talking to myself. You needn't concern yourself.<end>"
+
+["1250024"]
+japanese = "<value:$28>様。<line-break>帝国中枢部とカルラには意見の対立が<line-break>あるようです。<line-break>この依頼、危険かもしれません。<end>"
+english = "<value:$28>, there appears to be a disagreement between Karula and the Empire's central leadership. This request may be dangerous.<end>"
+
+["1250025"]
+japanese = "こっそり教えるけどね、ザギヴは<line-break>東の方を見に出かけるらしいの。<line-break> <line-break><value:$28>には、護衛を<line-break>お願いするつもりなんじゃないかな？<end>"
+english = "Just between us, it seems Zagiv is going east to investigate. I think she may intend to ask you to escort her, <value:$28>.<end>"
+
+["1250026"]
+japanese = "ほう、玄武将軍として聞こえし<line-break>ザギヴから手紙とな…。<line-break> <line-break>わしがどうこう言うもんでもない。<line-break><value:$28>、行くか行かぬか、<line-break>おぬし自身で判断するべきじゃ。<end>"
+english = "A letter from Zagiv, the renowned Black Tortoise General... It is not for me to tell you what to do. You must decide for yourself whether to go, <value:$28>.<end>"
+
+["1250027"]
+japanese = "玄武将軍ザギヴからの手紙か…。<line-break>エンシャントの政庁に出向けと？<line-break><line-break>すべてを疑えとは言えないが、<line-break>十分気をつけるんだぞ、<line-break><value:$28>。<end>"
+english = "A letter from Black Tortoise General Zagiv... She wants you to report to the Ancient Government Hall? I won't tell you to suspect everything, but be very careful, <value:$28>.<end>"
+
+["1250028"]
+japanese = "ザギヴから名指しの依頼か。<line-break>どんな依頼なのか気になるな。<line-break>政庁に詳しい話を聞きに行くか。<end>"
+english = "A personal request from Zagiv, huh? I wonder what it is. Shall we go to the Government Hall and hear the details?<end>"
+
+["1250029"]
+japanese = "すごいわね、<line-break>玄武将軍じきじきの依頼だなんて！<line-break>あなたも有名になったのね。<line-break>でもザギヴは結構なやり手らしいし<line-break>油断は禁物よ。<end>"
+english = "Impressive! A request from the Black Tortoise General herself! You've become famous too. But Zagiv is apparently quite formidable, so don't let your guard down.<end>"
+
+["1250030"]
+japanese = "ザギヴからの手紙には、<line-break>エンシャント政庁に来てほしい、と<line-break>書かれていたと記憶しています。<end>"
+english = "As I recall, Zagiv's letter asked you to come to the Ancient Government Hall.<end>"
+
+["1250031"]
+japanese = "<value:$28>さんって<line-break>偉い人にも名前が知られてるんですね。<line-break>自分のことじゃないけど誇らしいです！<line-break>でもいったい何の用でしょうか？<end>"
+english = "Even important people know your name, <value:$28>. It's not about me, but I'm proud! What could they possibly want, though?<end>"
+
+["1250032"]
+japanese = "玄武将軍ザギヴからの依頼か。<line-break>君の思うように行動すればいい。<line-break>どうせ君はこの依頼を受けるんだろ？<line-break>でも彼女には油断しないほうがいい。<line-break>彼女の内には闇が潜んでいるんだ。<end>"
+english = "A request from Black Tortoise General Zagiv. Act as you see fit. You'll accept it anyway, won't you? But you should be wary of her. Darkness lurks within her.<end>"
+
+["1250033"]
+japanese = "（ゼネテスが処刑の危機に…。<line-break>\u3000急いで謁見の間に行かなければ…。）<line-break> <end>"
+english = "(Xenetes is in danger of being executed... I have to hurry to the audience chamber...)<end>"
+
+["1250034"]
+japanese = "謁見の間でゼネテスが処刑される…。<line-break>時間はもうあまりない。<line-break>間に合うかしら…。<end>"
+english = "Xenetes will be executed in the audience chamber... There isn't much time left. I wonder if we'll make it...<end>"
+
+["1250035"]
+japanese = "剣狼と恐れられたゼネテスの命運も<line-break>ついについえるのか…？<line-break>いや、奴ならば、あるいは…。<end>"
+english = "Has fate finally caught up with Xenetes, the dreaded Sword Wolf...? No. Knowing him, perhaps...<end>"
+
+["1250036"]
+japanese = "ゼネテスさんを助けに行くんですね～。<line-break>自らの危険もかえりみず…<line-break>きゃっ、かなりかっこいいかも！<end>"
+english = "You're going to save Xenetes? Braving danger yourself... Oh! That's actually pretty cool!<end>"
+
+["1250037"]
+japanese = "処刑されるゼネテスを<line-break>謁見の間に助けに行くんだ！<line-break>燃えるぜ！\u3000うぉぉぉ！<end>"
+english = "We're going to the audience chamber to save Xenetes from execution! Now this gets my blood pumping! Raaaah!<end>"
+
+["1250038"]
+japanese = "ゼネテスが処刑されちゃうなんて…！<line-break>謁見の間に行って、<line-break>やめさせなくちゃいけないよ！<end>"
+english = "Xenetes is going to be executed...! We have to go to the audience chamber and stop it!<end>"
+
+["1250039"]
+japanese = "権力に目がくらんだ人間の行動とは、<line-break>かくも醜いものなのか…。<line-break>謁見の間へ急ぐわよ！<end>"
+english = "Can people blinded by power truly act so hideously...? Let's hurry to the audience chamber!<end>"
+
+["1250040"]
+japanese = "ゼネテスが処刑される…。<line-break>彼の命はあなたにゆだねられた。<line-break>慎重かつ迅速に行動するのですよ。<end>"
+english = "Xenetes is going to be executed... His life is in your hands. Act swiftly, but with care.<end>"
+
+["1250041"]
+japanese = "へー、あのゼネテスがねえ。<line-break>ま、これが戦争ってもんよねー。<line-break>助けたいなら、謁見の間よん。<end>"
+english = "Huh, Xenetes of all people. Well, that's war for you. If you want to save him, head to the audience chamber.<end>"
+
+["1250042"]
+japanese = "姉ちゃん！<line-break>とりあえず謁見の間へ行くぞ！<line-break>姉ちゃんなら敵の百人や二百人っ！<line-break>くうっ～。<line-break>ぶたなくてもいいじゃんかよ。<end>"
+english = "Sis! Let's get to the audience chamber! You could take a hundred or two hundred enemies easy! Ow... You didn't have to hit me.<end>"
+
+["1250043"]
+japanese = "闇の気配がする…。<line-break>ロストールもまた、<line-break>闇にむしばまれている…。<end>"
+english = "I sense darkness... Rostorl, too, is being consumed by it...<end>"
+
+["1250044"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250045"]
+japanese = "グズグズして俺の足を引っ張るな。<line-break>ゼネテスを助けたくはないのか？<line-break>…フン、謁見の間に行くぞ。<end>"
+english = "Stop dawdling and holding me back. Don't you want to save Xenetes? Hmph. We're going to the audience chamber.<end>"
+
+["1250046"]
+japanese = "なんと、あのゼネテスまでもが<line-break>捕われてしまうとは…！<line-break>謁見の間へ急ぎ、助けるのじゃ！<line-break>立ちふさがる命知らずのあしらいは、<line-break>このデルガドに任せてもらおう！<line-break>それでは、いざ！<end>"
+english = "To think even Xenetes has been captured...! Hurry to the audience chamber and rescue him! Leave any reckless fools who stand in our way to Dergado! Now, onward!<end>"
+
+["1250047"]
+japanese = "早く行こう、<value:$28>！<line-break>ゼネテスが処刑されたら、<line-break>ロストールはどうなるかわからない。<end>"
+english = "Hurry, <value:$28>! If Xenetes is executed, who knows what will become of Rostorl?<end>"
+
+["1250048"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250049"]
+japanese = "高貴で優雅なエルフのアタクシを<line-break>ド下等生物同士の醜い争いに<line-break>巻き込まないでくれる！？<line-break>アタクシは高貴で優雅でハイソで<line-break>知性あふれるエ・ル・フなのよ！<line-break>あなた、ほんとにわかってるの！？<end>"
+english = "Would you kindly stop dragging a noble and graceful Elf like me into an ugly conflict between utterly inferior creatures!? I am a noble, graceful, high-class, brilliant E-L-F! Do you truly understand!?<end>"
+
+["1250050"]
+japanese = "ゼネテス救出ボゲー<line-break>ゼネテス救出ボゲー<line-break>ゼネテス救出ボゲー<line-break>ゼネテス救出ボゲー<line-break>ゼネテス救出ボゲー<line-break>ゼネテス救出ボゲー<end>"
+english = "Rescue Xenetes, Bogee! Rescue Xenetes, Bogee! Rescue Xenetes, Bogee! Rescue Xenetes, Bogee! Rescue Xenetes, Bogee! Rescue Xenetes, Bogee!<end>"
+
+["1250051"]
+japanese = "ゼネテスが死んじゃうなんて、<line-break>ルルアンタ、がまんできないよぉ！<line-break>えっけんの間に行こうよぉ！<end>"
+english = "Lulluantha can't bear the thought of Xenetes dying! Let's go to the audience chamber!<end>"
+
+["1250052"]
+japanese = "………………。<line-break><line-break><line-break>…ゼネテスを救うのか？<end>"
+english = "... Are you going to save Xenetes?<end>"
+
+["1250053"]
+japanese = "クーデターを起こしたのは私だ。<line-break>貴様も私の元へ来るがいい…。<end>"
+english = "I am the one who staged the coup. You, too, may come to me...<end>"
+
+["1250054"]
+japanese = "迫り来る魔の手！<line-break>危機に陥る奇蹟の名将！<line-break>駆けつける我らがヒーロー！<line-break>ほんとに英雄伝説っぽくなってきた！<line-break>こんな現場に居合わせることが<line-break>できるだなんて、夢のようさ！<end>"
+english = "The hand of evil closes in! The miracle-working commander is in peril! Our hero rushes to the rescue! This is really starting to feel like a heroic legend! It's a dream come true to witness something like this firsthand!<end>"
+
+["1250055"]
+japanese = "ゼネテスはお前の友ではないのか？<line-break>もっとも、友のために命を捨てる…<line-break>それが賢いとは、私は言わんがな。<end>"
+english = "Is Xenetes not your friend? Not that I would call throwing away your life for a friend... wise.<end>"
+
+["1250056"]
+japanese = "<value:$28>様。<line-break>王女様の安否はお任せください。<line-break>お早く謁見の間へ！<end>"
+english = "<value:$28>, leave the princess's safety to us. Hurry to the audience chamber!<end>"
+
+["1250057"]
+japanese = "王女様は、私たちが守る！<line-break>ゼネテスを助けてあげてよ、<line-break><value:$28>！<end>"
+english = "We'll protect the princess! Please save Xenetes, <value:$28>!<end>"
+
+["1250058"]
+japanese = "ゼネテスが処刑されてしまう…。<line-break>姫の期待に応える気があるなら、<line-break>急がなくては！<end>"
+english = "Xenetes is about to be executed... If you mean to live up to the princess's hopes, you must hurry!<end>"
+
+["1250059"]
+japanese = "モタモタしている暇はない。<line-break>ゼネテスの命運はつきようとしている。<line-break>謁見の間へ行くぞ、<value:$28>。<end>"
+english = "There's no time to waste. Xenetes's life is about to end. We're going to the audience chamber, <value:$28>.<end>"
+
+["1250060"]
+japanese = "くっ！\u3000まさかまたクーデターが…！<line-break>ゼネテスは王宮の謁見の間だ。<line-break><value:$28>、急ぐぞ！<end>"
+english = "Damn! Not another coup...! Xenetes is in the palace audience chamber. Hurry, <value:$28>!<end>"
+
+["1250061"]
+japanese = "デジャワの変を思い出すわ。<line-break>あの時はエリス様の知謀で事なきを得た<line-break>けど、今回はそうじゃないみたいね。<line-break><value:$28>、<line-break>早くゼネテスを助け出さないと。<line-break>謁見の間に行きましょ。<end>"
+english = "This reminds me of the Dejawa Incident. Lady Eris's wisdom and strategy kept matters from getting out of hand then, but this time seems different. We have to rescue Xenetes quickly, <value:$28>. Let's go to the audience chamber.<end>"
+
+["1250062"]
+japanese = "ゼネテスを助けるのですか。<line-break>ならば急いだほうがよいでしょう。<line-break>彼は謁見の間です。<end>"
+english = "You're going to save Xenetes? Then you should hurry. He's in the audience chamber.<end>"
+
+["1250063"]
+japanese = "あのゼネテスさんが死刑だなんて！<line-break>うちのお店に何度も来てくれたし<line-break>とても気さくで楽しい人なのに。<line-break><value:$28>さん、お願いです。<line-break>ゼネテスさんを助けてください！<line-break>謁見の間へ、早く！<end>"
+english = "I can't believe Xenetes has been sentenced to death! He's visited our shop many times, and he's such a friendly, entertaining man. Please, <value:$28>, save him! Hurry to the audience chamber!<end>"
+
+["1250064"]
+japanese = "ゼネテスなんて<line-break>どうなっても構わないよ。<line-break><line-break>けど、彼が殺されたら<line-break>君が悲しい思いをするかもしれないね。<line-break>仕方ない、謁見の間に行こう。<end>"
+english = "I don't care what happens to Xenetes. But you might be sad if he's killed. Fine, let's go to the audience chamber.<end>"
+
+["1250065"]
+japanese = "（妖術宰相ゾフォルを倒す。<line-break>\u3000闇の勢力の拡大を止めなければ…）<end>"
+english = "(Defeat Zophor, the Sorcerous Chancellor. The spread of the forces of darkness must be stopped...)<end>"
+
+["1250066"]
+japanese = "闇の者の帝国…。<line-break>ディンガルの行く末が<line-break>そんなものになるだなんて…。<line-break>これまで先陣切って戦ってきたけど、<line-break>私、怖いわ…。<end>"
+english = "An empire of dark beings... To think that's what awaits Dingal... I've always fought at the front, but I'm afraid...<end>"
+
+["1250067"]
+japanese = "かつてのディンガルの首都が、<line-break>今や…。<line-break><line-break>ゾフォルめから取り戻さねばならぬ。<line-break>ワシら人の手で…！<end>"
+english = "Dingal's former capital, reduced to this... We must wrest it back from Zophor with human hands!<end>"
+
+["1250068"]
+japanese = "死の町には闇の精霊たちが<line-break>群れているわ。<line-break>気をつけて、<value:$28>様…。<line-break>きゃ！\u3000今のちょっと、<line-break>大魔道士っぽかったかも！？<end>"
+english = "Dark spirits swarm through this city of death. Be careful, <value:$28>... Oh! Did I sound a little like an Archmage just now?<end>"
+
+["1250069"]
+japanese = "冗談言ってる場合じゃねえ！<line-break>ここで尻込みしてちゃ、<line-break>世界のお先は真っ暗だぜ！<line-break>敵が、闇の者だけにな！！<end>"
+english = "This is no time for jokes! If we lose our nerve now, the world's future will be dark indeed! Especially since we're fighting the beings of darkness!<end>"
+
+["1250070"]
+japanese = "ディンガル帝国首都、<line-break>エンシャントが…。<line-break>ゾフォル…許せない。<line-break>謁見の間に急ごう、<line-break><value:$28>！<end>"
+english = "Ancient, capital of the Dingal Empire... Zophor... I won't forgive this. Hurry to the audience chamber, <value:$28>!<end>"
+
+["1250071"]
+japanese = "闇の皇帝が、<line-break>闇の帝国が誕生しようとしている。<line-break>放ってはおけない…！<line-break>謁見の間へ急ぐぞ！<end>"
+english = "An emperor of darkness and an empire of darkness are about to be born. We cannot allow it! Hurry to the audience chamber!<end>"
+
+["1250072"]
+japanese = "やれやれ、世の喧騒から遠ざかって<line-break>生きていこうと決めていた私ですが、<line-break>そうもいかないようですね。<line-break>あなたがやるというのなら、<line-break>精一杯のお手伝いを<line-break>させていただきますよ。<end>"
+english = "Good grief. I had resolved to live far from the clamor of the world, but that seems impossible now. If you mean to do this, I shall help in every way I can.<end>"
+
+["1250073"]
+japanese = "で、勝機はあんの、<line-break><value:$28>？<line-break><line-break>中途ハンパは一番危ない。<line-break>この死神サンが言うんだから、<line-break>間違いない、ってね。<end>"
+english = "So, do we stand a chance, <value:$28>? Half measures are the most dangerous. Take it from Mr. Reaper here: that's the truth.<end>"
+
+["1250074"]
+japanese = "怖くねえのかよ、姉ちゃん。<line-break>敵はエンシャントを死の町にして<line-break>なんとも思わねえ奴だぜ？<line-break>俺は、やっぱりちょっと怖いぜ。<end>"
+english = "Aren't you scared, Sis? We're up against someone who turned Ancient into a city of death without a second thought. I'm still kind of scared.<end>"
+
+["1250075"]
+japanese = "エンシャントをこんなにした<line-break>ゾフォルは、城の謁見の間にいる。<line-break>彼の野望をくじかなければ…。<end>"
+english = "Zophor, the man who did this to Ancient, is in the castle's audience chamber. We must thwart his ambitions...<end>"
+
+["1250076"]
+japanese = "闇の皇帝、闇の帝国、か。<line-break>そんなものが出現するとなると、<line-break>貴族同士の小競り合いなんぞは、<line-break>それこそ子供同士のケンカみたいな<line-break>もんだなあ。<line-break><line-break>ま、今ごろ気づいても遅いんだが。<end>"
+english = "An emperor of darkness and an empire of darkness, eh? If such things appear, squabbles between nobles will seem like children fighting. Not that realizing it now does us any good.<end>"
+
+["1250077"]
+japanese = "ゾフォルを倒しに、この死の町を、<line-break>城の謁見の間まで進むか。<line-break>フッ、お前も趣味が悪いな。<end>"
+english = "So you'll cross this city of death to reach the castle's audience chamber and defeat Zophor? Hmph. You have dreadful taste.<end>"
+
+["1250078"]
+japanese = "かつて栄華を誇った<line-break>エンシャントが、今や…。<line-break>いや、落ち込んだりはしておれん。<line-break>悪が血を流すために<line-break>手に取るのも剣なら、<line-break>悪を討てるものも、また剣じゃ！<end>"
+english = "Ancient once reveled in glory, and now... No, this is no time for despair. Evil may take up the sword to spill blood, but the sword can also strike evil down!<end>"
+
+["1250079"]
+japanese = "ねえ、<value:$28>、<line-break>キミは怖くはないの？<line-break><line-break>エンシャントの人は、<line-break>みんなゾフォルに殺されたんだよ？<line-break>僕、考えただけで吐き気がするよ…。<end>"
+english = "Aren't you afraid, <value:$28>? Zophor killed everyone in Ancient. Just thinking about it makes me sick...<end>"
+
+["1250080"]
+japanese = "かつてのバイアシオン最大の都市が<line-break>ゾフォルひとりの手でここまで…。<line-break>この戦、負けるわけにはいかん。<end>"
+english = "To think one man, Zophor, could reduce what was once Baiashion's greatest city to this... We cannot lose this battle.<end>"
+
+["1250081"]
+japanese = "お、おぞましい！<line-break>破壊神を復活させるために<line-break>住民を生け贄に、ですって？<line-break>アタクシは、か、考えただけで…。<line-break>ううっ…。<line-break><line-break>なっ、何見てるのよ、ド下等生物！<line-break>清純無比なエルフのアタクシが<line-break>は、吐いたりするわけなくってよ！<end>"
+english = "H-how revolting! The residents were sacrificed to revive the God of Destruction? J-just thinking about it... Ugh... W-what are you looking at, you wretched inferior creature!? A perfectly pure Elf like me would n-never vomit!<end>"
+
+["1250082"]
+japanese = "エンシャント虐殺のボゲー<line-break>エンシャント虐殺のボゲー<line-break>エンシャント虐殺のボゲー<line-break>エンシャント虐殺のボゲー<line-break>エンシャント虐殺のボゲー<line-break>エンシャント虐殺のボゲー<end>"
+english = "The Ancient Massacre, Bogee! The Ancient Massacre, Bogee! The Ancient Massacre, Bogee! The Ancient Massacre, Bogee! The Ancient Massacre, Bogee! The Ancient Massacre, Bogee!<end>"
+
+["1250083"]
+japanese = "ねえ、怖いよぉ、<line-break><value:$28>。<line-break><line-break>破壊神を蘇らせるために、<line-break>みんな生け贄にされちゃったなんて…。<line-break><line-break>ルルアンタ、<line-break>こわい夢見ちゃいそうだよぉ。<end>"
+english = "I'm scared, <value:$28>. Everyone was sacrificed to revive the God of Destruction... Lulluantha is going to have nightmares.<end>"
+
+["1250084"]
+japanese = "倒す…。<line-break>闇の円卓騎士が何者であろうと、<line-break><line-break>民を生け贄に蘇った破壊神が<line-break>どれほど強かろうとも…。<end>"
+english = "I will defeat them... Whoever the dark Knight of the Round Table may be, and however powerful the God of Destruction revived through the people's sacrifice...<end>"
+
+["1250085"]
+japanese = "闇の帝国が誕生する。<line-break>夜よりも濃い暗黒に塗られた、<line-break>おぞましい帝国が…。<end>"
+english = "An empire of darkness is being born. A hideous empire steeped in darkness deeper than night...<end>"
+
+["1250086"]
+japanese = "嘘でしょ？\u3000嘘って言ってよ…。<line-break>エンシャントの人たちの命を生け贄に<line-break>破壊神を復活させるだなんて…！<line-break>そんなの…そんなの、<line-break>ぜったい、キレイじゃない！<line-break>キレイの反対側にあることだよ！<end>"
+english = "This can't be true. Tell me it's a lie... Sacrificing the people of Ancient to revive the God of Destruction... That's... that's not beautiful at all! It's the exact opposite of beautiful!<end>"
+
+["1250087"]
+japanese = "我が都、エンシャントが…。<line-break><line-break><line-break>………………。<end>"
+english = "My city, Ancient... ...<end>"
+
+["1250088"]
+japanese = "<value:$28>様。<line-break>謁見の間へ行かれるのですね。<line-break>お供させていただきますわ。<end>"
+english = "You're going to the audience chamber, <value:$28>. Please allow me to accompany you.<end>"
+
+["1250089"]
+japanese = "ゾフォルをやっつけに謁見の間に<line-break>行くんでしょ？<line-break>ねえ、ヴィアも連れてって！<end>"
+english = "You're going to the audience chamber to beat Zophor, right? Take Via with you!<end>"
+
+["1250090"]
+japanese = "ゾフォルめ、想像以上に恐ろしい奴…。<line-break>エンシャントの人々を皆殺しにしてなお<line-break>平然と笑おうとは…。<line-break>謁見の間へ急ぐぞ、<value:$28>。<line-break>奴を討つのじゃ！<end>"
+english = "Zophor is even more terrible than I imagined... He massacred the people of Ancient and can still smile without a care... Hurry to the audience chamber, <value:$28>. We shall strike him down!<end>"
+
+["1250091"]
+japanese = "闇の中で闇を祓う…。<line-break>まるで、困難であることの<line-break>例え話のようだ。<line-break>しかし、私は信じているよ。<line-break><value:$28>になら、<line-break>必ずそれが成し遂げられると。<end>"
+english = "Dispelling darkness from within darkness... It sounds almost like a metaphor for difficulty itself. But I believe you can accomplish it, <value:$28>.<end>"
+
+["1250092"]
+japanese = "街の人たちを生贄に…<line-break>街の人たちの未来を奪ったあいつを<line-break>俺は許せない！<line-break><value:$28>！<line-break>謁見の間へ急ぐぞ！<end>"
+english = "He sacrificed the townspeople and stole their future. I'll never forgive him! Hurry to the audience chamber, <value:$28>!<end>"
+
+["1250093"]
+japanese = "エンシャントが一瞬にして死の都ね。<line-break>住民を生贄だなんて、<line-break>ゾフォルって最低の男ね。<line-break>行きましょ、謁見の間に。<line-break>まだ、全部終わってしまった<line-break>わけじゃないわ。<end>"
+english = "Ancient became a city of death in an instant. Sacrificing its people... Zophor is the worst. Let's go to the audience chamber. It isn't all over yet.<end>"
+
+["1250094"]
+japanese = "ゾフォルは<line-break>謁見の間です。<end>"
+english = "Zophor is in the audience chamber.<end>"
+
+["1250095"]
+japanese = "私怖いです、<value:$28>さん。<line-break>街をこんなにした人と戦わなくちゃって<line-break>思うと、ふるえちゃうんです…。<line-break>でもこんなんじゃダメですよね。<line-break>これ以上犠牲を出さないためにも、<line-break>勇気を出さないと！<end>"
+english = "I'm afraid, <value:$28>. The thought of fighting someone who did this to the city makes me tremble... But I can't stay like this. I have to find the courage to prevent any more victims!<end>"
+
+["1250096"]
+japanese = "ゾフォル、か…。<line-break><line-break><line-break>彼は予言にとらわれた悲しい男だ。<line-break>彼が、変われないのなら<line-break>いつか、戦う時が来ると思っていた。<line-break>行こう、<value:$28>。<line-break>ゾフォルを倒しに、謁見の間へ。<end>"
+english = "Zophor... He is a sad man, trapped by prophecy. If he could not change, I knew the day would come when we had to fight. Come, <value:$28>. Let us go to the audience chamber and defeat Zophor.<end>"
+
+["1250097"]
+japanese = "（エンシャントを脱出する。<line-break>\u3000次のソウルリープが起これば、<line-break>\u3000助からない…。）<end>"
+english = "(Escape Ancient. If another Soul Leap occurs, there will be no surviving it...)<end>"
+
+["1250098"]
+japanese = "言いたいことはわかるわ、<line-break><value:$28>。<line-break><line-break>でも、これが戦争。<line-break>戦争だったのよ！<line-break>少なくとも、途中までは…！<end>"
+english = "I know what you mean, <value:$28>. But this is war. It was war! At least until partway through...<end>"
+
+["1250099"]
+japanese = "ゾフォルめ…。<line-break>二度目のソウルリープまでに、<line-break>何としても脱出するのじゃ！<end>"
+english = "Curse you, Zophor... We must escape at any cost before the second Soul Leap!<end>"
+
+["1250100"]
+japanese = "次のソウルリープが来たら<line-break>私たちももう助からないんですって！<line-break>きゃ！\u3000ハラハラドキドキですねっ！<end>"
+english = "They say we won't survive if the next Soul Leap comes! Oh! How thrillingly suspenseful!<end>"
+
+["1250101"]
+japanese = "革新なんざどうでもいいけど、<line-break>こんなトコで死ぬのはゴメンだ！<line-break><line-break>あのバチアタリ坊主！<line-break>いつか耳元で俺様のとっておきを<line-break>聞かせてやるぜっ！<end>"
+english = "I don't give a damn about progress, but I'm not dying in a place like this! That blasphemous monk! Someday I'll whisper something special right into his ear!<end>"
+
+["1250102"]
+japanese = "は、早く逃げなくっちゃ！<line-break>次のソウルリープが来たら<line-break>ボクたちも助からないよ！<end>"
+english = "W-we have to get out of here! If the next Soul Leap comes, we won't survive either!<end>"
+
+["1250103"]
+japanese = "悔しいけれど、<line-break>今は立ち止まっていられない。<line-break>帝都の門まで退くのよ！<end>"
+english = "It pains me, but we can't stop now. Fall back to the imperial capital's gates!<end>"
+
+["1250104"]
+japanese = "ソウルリープ…また厄介なものを<line-break>持ち出して来ましたね。<line-break>早く退きましょう。<end>"
+english = "A Soul Leap... Another troublesome thing to contend with. Let us withdraw quickly.<end>"
+
+["1250105"]
+japanese = "どうすんの、<value:$28>？<line-break>逃げなきゃやられちゃうよ～？<line-break>宰相サンの革新も台無しよん？<end>"
+english = "What are you going to do, <value:$28>? If we don't run, we're done for. Then the Chancellor's progress will come to nothing too.<end>"
+
+["1250106"]
+japanese = "出直しだ、姉ちゃん！<line-break>俺たちがやられちゃ、<line-break>誰がゾフォルを倒すんだ！<end>"
+english = "We'll come back and try again, Sis! If we get killed, who'll defeat Zophor?<end>"
+
+["1250107"]
+japanese = "ゾフォル…。<line-break>なんということを…。<line-break>今はひとまず町の外へ！<end>"
+english = "Zophor... What have you done...? For now, get outside the city!<end>"
+
+["1250108"]
+japanese = "悔しいが、ここは一度退くぞ、<line-break><value:$28>。<line-break><line-break>俺たちまでやられちゃ、<line-break>エンシャントの人々の<line-break>仇を討つこともできなくなる。<end>"
+english = "It pains me, but we have to withdraw for now, <value:$28>. If we're killed too, we won't be able to avenge the people of Ancient.<end>"
+
+["1250109"]
+japanese = "踏みとどまるなら、１人でしろ。<line-break>自らの目的も果たせず、<line-break>こんなところで死ぬのは愚かだ。<end>"
+english = "If you insist on staying, do it alone. Dying here before accomplishing your purpose would be foolish.<end>"
+
+["1250110"]
+japanese = "ここでわしらが命を失っては、<line-break>闇の者どもの思うツボじゃ。<line-break>悔しいが、退くのじゃ！<end>"
+english = "If we lose our lives here, those creatures of darkness will have exactly what they want. It pains me, but withdraw!<end>"
+
+["1250111"]
+japanese = "人類の革新なんて、<line-break>よくわからないけど、<line-break>死ぬのだけはゴメンだよ！<line-break>早くこの町を脱出しなくちゃ！<end>"
+english = "I don't really understand this talk of humanity's progress, but I refuse to die! We have to escape this city, now!<end>"
+
+["1250112"]
+japanese = "ディンガルの首都が<line-break>魔物の巣窟に変わり果てるとは…。<line-break>ここで死ぬわけには行かないぞ。<end>"
+english = "To think Dingal's capital would become a den of monsters... We cannot die here.<end>"
+
+["1250113"]
+japanese = "何よ、下等生物。<line-break>アタクシに聞かなくちゃ、<line-break>何も決められないの？<line-break>…なんて言ってる暇もないのよー！<line-break>このままじゃ、革新どころか、<line-break>人類滅亡なのよー！！<end>"
+english = "What is it, inferior creature? Can't you decide anything without asking me? But there's no time for that now! At this rate, forget progress―humanity will go extinct!<end>"
+
+["1250114"]
+japanese = "エンシャント虐殺のボゲー<line-break>エンシャント虐殺のボゲー<line-break>エンシャント虐殺のボゲー<line-break>エンシャント虐殺のボゲー<line-break>エンシャント虐殺のボゲー<line-break>エンシャント虐殺のボゲー<end>"
+english = "The Ancient Massacre, Bogee! The Ancient Massacre, Bogee! The Ancient Massacre, Bogee! The Ancient Massacre, Bogee! The Ancient Massacre, Bogee! The Ancient Massacre, Bogee!<end>"
+
+["1250115"]
+japanese = "もうすぐ次のソウルリープが<line-break>来ちゃうんだよぉ！<line-break>早く逃げようよぉ、<value:$28>！<end>"
+english = "The next Soul Leap will be here soon! Let's run, <value:$28>!<end>"
+
+["1250116"]
+japanese = "退かねば…<line-break>生きねば…革新もなにもない。<end>"
+english = "We must retreat... We must live... Otherwise progress means nothing.<end>"
+
+["1250117"]
+japanese = "闇の帝国が誕生する。<line-break>夜よりも黒い暗黒に塗られた、<line-break>おぞましい帝国が…。<line-break>誰がそれを望んだというのだ…。<end>"
+english = "An empire of darkness is being born. A hideous empire steeped in darkness blacker than night... Who could have wished for such a thing...?<end>"
+
+["1250118"]
+japanese = "エンシャントの外まで逃げなくちゃ！<line-break>もうキレイなものを探しにも<line-break>行けなくなっちゃうよ！<end>"
+english = "We have to escape beyond Ancient! Otherwise I'll never get to search for beautiful things again!<end>"
+
+["1250119"]
+japanese = "急ぐのだ、<value:$28>！<line-break>人類の革新を諦めるわけにはいかん。<line-break>何としてもやり遂げねば…！<end>"
+english = "Hurry, <value:$28>! We cannot abandon humanity's progress. We must see it through at any cost...!<end>"
+
+["1250120"]
+japanese = "<value:$28>様、<line-break>お早く都市の外へ！<line-break>ソウルリープが来ます！<end>"
+english = "Hurry outside the city, <value:$28>! The Soul Leap is coming!<end>"
+
+["1250121"]
+japanese = "次のソウルリープが起きれば、<line-break>今度こそみんな死んじゃう！<line-break>エンシャントの外へ逃げよう！<end>"
+english = "If the next Soul Leap happens, everyone really will die this time! Let's escape Ancient!<end>"
+
+["1250122"]
+japanese = "悔しいがここはひとまず退くぞ！<line-break>わしらまでやられては、<line-break>闇の勢力を止めることもできぬ！<end>"
+english = "It pains me, but we must withdraw for now! If we fall too, no one will be left to stop the forces of darkness!<end>"
+
+["1250123"]
+japanese = "町の外まで退くぞ！<line-break>ここで私たちがやられては、<line-break>人々の仇を討つこともできなくなる！<end>"
+english = "Fall back beyond the city! If we're defeated here, we won't be able to avenge the people!<end>"
+
+["1250124"]
+japanese = "悔しいがここは退くんだ。<line-break>死んだらエンシャントの皆の<line-break>仇も討てなくなるぞ。<end>"
+english = "It pains me, but we have to retreat. If we die, we can't avenge the people of Ancient.<end>"
+
+["1250125"]
+japanese = "さすがにここは退かないと<line-break>命が危ないわ。<line-break>早く町を脱出しましょ！<end>"
+english = "If we don't retreat now, our lives really will be in danger. Let's get out of the city, quickly!<end>"
+
+["1250126"]
+japanese = "次のソウルリープが来れば<line-break>私たちも助からないでしょう。<line-break>\u3000<line-break>私は貴方を死なせたくありません。<line-break>ここは退きましょう。<end>"
+english = "If the next Soul Leap comes, we probably won't survive either. I do not want you to die. Let us withdraw.<end>"
+
+["1250127"]
+japanese = "<value:$28>さん、逃げましょう！<line-break>あなたが死んだら、<line-break>誰がゾフォルを倒すんですか！<end>"
+english = "Let's run, <value:$28>! If you die, who will defeat Zophor?<end>"
+
+["1250128"]
+japanese = "早く退くんだ。<line-break>ここで死んだら元も子もない。<line-break>ソウルリープが来れば助からないぞ。<end>"
+english = "Hurry and withdraw. Dying here would make everything pointless. We won't survive if the Soul Leap comes.<end>"
+
+["1250129"]
+japanese = "（ジラークが人間に宣戦布告をした。<line-break>\u3000このままでは、人間にもコーンスにも<line-break>\u3000大きな犠牲が出る…）<end>"
+english = "(Zsilak has declared war on humanity. If this continues, both humans and Corns will suffer terrible losses...)<end>"
+
+["1250130"]
+japanese = "ネメア様がいないからって、<line-break>反乱を起こすだなんて…。<line-break><line-break>ジラーク将軍はもっと冷静な方だと<line-break>思っていたのに。<end>"
+english = "To start a rebellion simply because Lord Nemea is gone... I thought General Zsilak was more levelheaded.<end>"
+
+["1250131"]
+japanese = "まさか反旗を翻そうとは…。<line-break>そこまで思いつめていたのか、<line-break>ジラーク…。<line-break>しかし、人間であるワシらに<line-break>挟む言葉はないのかもしれんな。<line-break>アルノートゥンへ行こう。<end>"
+english = "I never imagined he would rebel... Were you truly driven that far, Zsilak? Yet perhaps we humans have no right to interfere. Let us go to Alnortun.<end>"
+
+["1250132"]
+japanese = "きゃ！\u3000反乱だって！<line-break>勝ち目はあるのかしら！<line-break><end>"
+english = "Oh! A rebellion! I wonder if they have any chance of winning!<end>"
+
+["1250133"]
+japanese = "人間に戦いを挑むだって？<line-break>そんなことしたら…<line-break>人間とコーンスは、なおさら…。<end>"
+english = "They're challenging humanity to war? If they do that, relations between humans and Corns will only...<end>"
+
+["1250134"]
+japanese = "物事を力で解決しても、<line-break>本当の解決にはならないよ。<line-break>そして、いつか…。<end>"
+english = "Solving things by force brings no true resolution. And someday...<end>"
+
+["1250135"]
+japanese = "私がエルフではなくコーンスだったら、<line-break>真っ先に駆けつけてやるところよ。<line-break>勝つことは必ずしも目的ではない…。<line-break>そうせねばならないコーンスの死に様に<line-break>あなたたち人間族がしてきたことを<line-break>映し見るがいいわ。<end>"
+english = "If I were a Corns rather than an Elf, I would be the first to rush there. Victory is not necessarily the goal... Look at the way the Corns are forced to die, and see reflected in it what you humans have done.<end>"
+
+["1250136"]
+japanese = "反乱とは思い切りましたね。<line-break>ナッジ君は考えがちですから、<line-break>考えすぎてわからなくなったんですね。<line-break>…種族の共存に必要なのは<line-break>憎しみではなく友情だということが。<line-break>彼に友情を伝えられるかがカギですね。<end>"
+english = "Rebellion is a bold move. Nadge tends to brood, so he must have thought so much that he lost sight of the truth: coexistence between races requires friendship, not hatred. The key is whether you can show him that friendship.<end>"
+
+["1250137"]
+japanese = "反乱とは、やってくれるじゃない、<line-break>あの白ヤギじーさんも！<line-break><line-break>このカルラさんが<line-break>駆け足で行ってあげるから、<line-break>ガッカリさせないで欲しいもんだわ！<end>"
+english = "So that old white goat has the nerve to rebel! Karula herself will come running, so he'd better not disappoint me!<end>"
+
+["1250138"]
+japanese = "俺も小さいころ、<line-break>コーンスの子をいじめて、<line-break>姉ちゃんにぶたれたよな…。<line-break>あのおとなしいコーンスが、<line-break>反乱だなんて…。<line-break>俺、信じたくねえよ…！<end>"
+english = "When I was little, I bullied a Corns child and you hit me for it, remember, Sis? I can't believe those gentle Corns would rebel... I don't want to believe it!<end>"
+
+["1250139"]
+japanese = "血迷ったな、ジラーク。<line-break><line-break><line-break>ネメア様の厚意をふいにして<line-break>一種族のための反乱に走るとは…<line-break>見損なったわ。<end>"
+english = "You've lost your senses, Zsilak. Squandering Lord Nemea's goodwill to launch a rebellion for a single race... I expected better of you.<end>"
+
+["1250140"]
+japanese = "コーンスの立場を考えれば<line-break>反乱を起こす気持ちはわかる。<line-break>こいつはやっかいな問題だな…。<end>"
+english = "Given the Corns' position, I can understand why they would rebel. This is a difficult problem...<end>"
+
+["1250141"]
+japanese = "フッ、馬鹿め、<line-break>かえって寿命を縮めたな。<line-break><line-break>コーンスだろうが人間だろうが、<line-break>道を踏み誤れば奈落へ落ちる。<line-break>そういうものだ。<end>"
+english = "Hmph, fool. You've only shortened your life. Corns or human, anyone who strays from the path falls into the abyss. That is the way of things.<end>"
+
+["1250142"]
+japanese = "あの温和なコーンスが反乱とは…。<line-break>いや、温和なだけに思いつめてしまう<line-break>ところがあるのか？<line-break>ワシらドワーフのように頑強な<line-break>肉体も持たず、それゆえに…？<line-break>哀しいな、<value:$28>。<end>"
+english = "Those gentle Corns, in rebellion... Or does their very gentleness make them brood too deeply? They lack the sturdy bodies we Dwarves possess, and perhaps because of that...? It is sad, <value:$28>.<end>"
+
+["1250143"]
+japanese = "きみにわかってもらおうとは<line-break>思わないよ、<value:$28>。<line-break><line-break>きみは人間で、僕はコーンス。<line-break>生まれた時からそうだったんだもの…。<line-break><end>"
+english = "I don't expect you to understand, <value:$28>. You're human, and I'm a Corns. That's how we were born...<end>"
+
+["1250144"]
+japanese = "待てなかったか、ジラーク…。<end>"
+english = "Could you not wait, Zsilak...?<end>"
+
+["1250145"]
+japanese = "あら、下等生物、<line-break>エルフのアタクシが大人しくしてるのが<line-break>そんなに不思議？<line-break>何でも力で解決しようとするのは、<line-break>程度が低い証拠なのよ。<line-break>これだから…野蛮な下等生物は。<end>"
+english = "Why, inferior creature, is it so surprising to see an Elf like me staying quiet? Trying to solve everything by force only proves how crude you are. Honestly... you savage inferior creatures.<end>"
+
+["1250146"]
+japanese = "コ―ンスの反乱のボゲー<line-break>コ―ンスの反乱のボゲー<line-break>コ―ンスの反乱のボゲー<line-break>コ―ンスの反乱のボゲー<line-break>コ―ンスの反乱のボゲー<line-break>コ―ンスの反乱のボゲー<end>"
+english = "The Corns Rebellion, Bogee! The Corns Rebellion, Bogee! The Corns Rebellion, Bogee! The Corns Rebellion, Bogee! The Corns Rebellion, Bogee! The Corns Rebellion, Bogee!<end>"
+
+["1250147"]
+japanese = "戦争で解決するなんて、<line-break>力で勝てばいいだなんて…！<line-break>そんなの、間違ってるよぉ！<line-break><value:$28>、<line-break>アルノートゥンへ行こう？<line-break>止めなくちゃいけないよぉ！<end>"
+english = "Settling this through war, saying victory by force is enough... That's wrong! Let's go to Alnortun and stop it, <value:$28>!<end>"
+
+["1250148"]
+japanese = "………………。<line-break><line-break><line-break>…友情でナッジを説得しろ。<line-break><end><end>"
+english = "... Persuade Nadge through friendship.<end><end>"
+
+["1250149"]
+japanese = "いつかこのような日が来るとは<line-break>予想していた。<line-break><line-break>それがたまたま今で、<line-break>たまたまコーンスだっただけだ。<line-break>それ以上、言うことはない。<end>"
+english = "I knew a day like this would come. It merely happened to be now, and the Corns merely happened to be the ones. I have nothing more to say.<end>"
+
+["1250150"]
+japanese = "<value:$28>、<line-break>キミにまでわかってもらおうとは<line-break>思わないけれど…<line-break>リルビーのぼくには、<line-break>わかるような気がする。<line-break>ジラークの気持ちがね。<line-break>でも、このやり方はキレイじゃない。<line-break>これじゃ、コーンスは、<line-break>嫌われちゃうよ…。<end>"
+english = "I don't expect even you to understand, <value:$28>... but as a Lilbie, I think I understand how Zsilak feels. Still, this way isn't beautiful. This will only make people hate the Corns...<end>"
+
+["1250151"]
+japanese = "図に乗ったな、ジラークめ。<line-break>ネメア様の厚意に仇で報いるなど、<line-break>死して償ってもとても足りぬ！<end>"
+english = "You've grown arrogant, Zsilak. Repaying Lord Nemea's kindness with betrayal is a crime not even death could atone for!<end>"
+
+["1250152"]
+japanese = "<value:$28>様、<line-break>コーンスという、<line-break>哀しき一族を助けなくては。<line-break>私も妹も、そのために助力を<line-break>惜しんだりはいたしません。<end>"
+english = "<value:$28>, we must help the tragic Corns people. My sister and I will spare no effort in doing so.<end>"
+
+["1250153"]
+japanese = "<value:$28>、<line-break>もちろん、アルノートゥンに<line-break>行くんだよね？<line-break>ヴァイにも聞いてみて、<line-break>私たちも力を貸すつもりだよ！<end>"
+english = "You're going to Alnortun, of course, right, <value:$28>? I'll ask Vai too. We intend to help!<end>"
+
+["1250154"]
+japanese = "止めねばならぬ…！<line-break>聖光石の坑道には、<line-break>恐ろしい秘密があるのじゃ！<end>"
+english = "We must stop this...! The Holy Light Stone mine holds a terrible secret!<end>"
+
+["1250155"]
+japanese = "ジラーク将軍が反乱を起こすとは…。<line-break>何か悪い予感がする。<line-break>何も起きなければいいのだが。<end>"
+english = "General Zsilak, leading a rebellion... I have a terrible feeling about this. I only hope nothing happens.<end>"
+
+["1250156"]
+japanese = "力ですべてを解決しようとするのは<line-break>間違っている。<line-break>コーンスの反乱を止めるぞ。<end>"
+english = "Trying to solve everything through force is wrong. We're stopping the Corns Rebellion.<end>"
+
+["1250157"]
+japanese = "このままじゃコーンスに未来はないわ。<line-break>彼らを止められるのは、<line-break>あなただけなのよ、<value:$28>。<end>"
+english = "At this rate, the Corns have no future. You're the only one who can stop them, <value:$28>.<end>"
+
+["1250158"]
+japanese = "私には彼らの気持ちがわかりません。<line-break>なぜ、反乱を起こしたのでしょう。<end>"
+english = "I don't understand how they feel. Why did they rebel?<end>"
+
+["1250159"]
+japanese = "コーンスって優しい人ばかりなんです。<line-break>そんなコーンスが反乱を起こすなんて。<line-break>彼らを止めないと！<end>"
+english = "The Corns are such kind people. I can't believe they would rebel. We have to stop them!<end>"
+
+["1250160"]
+japanese = "コーンスは道を誤った。<line-break>力で解決しようとしても、<line-break>どこかで必ず亀裂が生じるのに。<end>"
+english = "The Corns have chosen the wrong path. Trying to solve matters by force will inevitably create a rift somewhere.<end>"
+
+["1250161"]
+japanese = "（思いつめたナッジが反乱に<line-break>\u3000参加してしまった。<line-break>\u3000このままでは…）<end>"
+english = "(Driven to desperation, Nadge has joined the rebellion. At this rate...)<end>"
+
+["1250162"]
+japanese = "ジラーク将軍はもっと冷静な方だと<line-break>思っていたのに…。<line-break>それに、ナッジまで…。<end>"
+english = "I thought General Zsilak was more levelheaded... And now even Nadge...<end>"
+
+["1250163"]
+japanese = "まさか反旗を翻そうとは…。<line-break>そこまで思いつめていたのか、<line-break>ジラーク、ナッジ…。<line-break>しかし、人間であるワシらに<line-break>挟む言葉はないのかもしれんな。<end>"
+english = "I never imagined they would rebel... Were you truly driven that far, Zsilak, Nadge? Yet perhaps we humans have no right to interfere.<end>"
+
+["1250164"]
+japanese = "きゃ！\u3000反乱だって！<line-break>勝ち目はあるのかしら！<end>"
+english = "Oh! A rebellion! I wonder if they have any chance of winning!<end>"
+
+["1250165"]
+japanese = "ナッジ！<line-break>ちくしょう！<line-break>あいつまで反乱に加わるなんて！<line-break>そんなことしたら…<line-break>人間とコーンスは、なおさら…。<end>"
+english = "Nadge! Damn it! Even he joined the rebellion! If he does this... relations between humans and Corns will only...<end>"
+
+["1250166"]
+japanese = "あの優しいナッジが、<line-break>あんなことに加わるなんて…。<line-break><line-break>アルノートゥンに行こうっ、<line-break><value:$28>！<end>"
+english = "I can't believe gentle Nadge would join something like that... Let's go to Alnortun, <value:$28>!<end>"
+
+["1250167"]
+japanese = "ナッジの考えは痛いほどわかるわ。<line-break>私がエルフではなくコーンスだったら、<line-break>真っ先に駆けつけてやるところよ。<line-break>勝つことは必ずしも目的ではない…。<line-break><line-break><line-break>そうせねばならないコーンスの死に様に<line-break>あなたたち人間族がしてきたことを<line-break>映し見るがいいわ。<end>"
+english = "I understand Nadge's thinking painfully well. If I were a Corns rather than an Elf, I would be the first to rush there. Victory is not necessarily the goal... Look at the way the Corns are forced to die, and see reflected in it what you humans have done.<end>"
+
+["1250168"]
+japanese = "反乱とは、思い切ったことを…。<line-break>コーンスには魔力を秘めた角という<line-break>狙われる要素がありますからね。<line-break>エルフよりもつらい立場と言えます。<line-break>その辺をわかってあげてくださいね、<line-break><value:$28>。<end>"
+english = "Rebellion is a bold choice... The Corns are targeted for the magic hidden in their horns, so their position may be even harder than the Elves'. Please try to understand that, <value:$28>.<end>"
+
+["1250169"]
+japanese = "反乱とは、やってくれるじゃない、<line-break>あの白ヤギじーさんたち！<line-break><line-break>このカルラさんが<line-break>駆け足で行ってあげるから、<line-break>ガッカリさせないで欲しいもんだね！<end>"
+english = "So those old white goats have the nerve to rebel! Karula herself will come running, so they had better not disappoint me!<end>"
+
+["1250170"]
+japanese = "俺も小さいころ、<line-break>コーンスの子をいじめて、<line-break>姉ちゃんにぶたれたよな…。<line-break>あのナッジたちが敵だなんて…。<line-break>俺、信じたくねえよ…！<end>"
+english = "When I was little, I bullied a Corns child and you hit me for it, remember, Sis? I can't believe Nadge and the others are our enemies... I don't want to believe it!<end>"
+
+["1250171"]
+japanese = "ネメア様の厚意をふいにして<line-break>反乱を起こすなんて…<line-break>見損なったわ。<end>"
+english = "Starting a rebellion and squandering Lord Nemea's goodwill... I expected better of them.<end>"
+
+["1250172"]
+japanese = "コーンスの立場を考えれば<line-break>反乱を起こす気持ちはわかる。<line-break><line-break>が、ネメアは種族平等をうたって<line-break>ジラークを将軍にしたんじゃ<line-break>なかったのかね？<line-break>敵ながら哀しいぜ、こいつは。<end>"
+english = "Given the Corns' position, I understand why they would rebel. But didn't Nemea proclaim racial equality and make Zsilak a general? He may be our enemy, but this is still sad.<end>"
+
+["1250173"]
+japanese = "フッ、馬鹿め、<line-break>かえって寿命を縮めたな。<line-break><line-break>コーンスだろうが人間だろうが、<line-break>道を踏み誤れば奈落へ落ちる。<line-break>そういうものだ。<end>"
+english = "Hmph, fool. You've only shortened your life. Corns or human, anyone who strays from the path falls into the abyss. That is the way of things.<end>"
+
+["1250174"]
+japanese = "あの温和なコーンスが反乱とは…。<line-break>いや、温和なだけに思いつめてしまう<line-break>ところがあるのか？<line-break>ワシらドワーフのように頑強な<line-break>肉体も持たず、それゆえに…？<line-break>哀しいな、<value:$28>。<end>"
+english = "Those gentle Corns, in rebellion... Or does their very gentleness make them brood too deeply? They lack the sturdy bodies we Dwarves possess, and perhaps because of that...? It is sad, <value:$28>.<end>"
+
+["1250175"]
+japanese = "<value:$28>、ごめんよ。<line-break>でも、きみを裏切るつもりじゃない。<line-break>コーンスの未来のためなんだ！<end>"
+english = "I'm sorry, <value:$28>. But I never meant to betray you. I'm doing this for the future of the Corns!<end>"
+
+["1250176"]
+japanese = "待てなかったか、ジラーク…。<end>"
+english = "Could you not wait, Zsilak...?<end>"
+
+["1250177"]
+japanese = "あら、下等生物、<line-break>エルフのアタクシが大人しくしてるのが<line-break>そんなに不思議？<line-break>何でも力で解決しようとするのは、<line-break>程度が低い証拠なのよ。<line-break>これだから…野蛮な下等生物は。<end>"
+english = "Why, inferior creature, is it so surprising to see an Elf like me staying quiet? Trying to solve everything by force only proves how crude you are. Honestly... you savage inferior creatures.<end>"
+
+["1250178"]
+japanese = "コーンスの反乱のボゲー<line-break>コーンスの反乱のボゲー<line-break>コーンスの反乱のボゲー<line-break>コーンスの反乱のボゲー<line-break>コーンスの反乱のボゲー<line-break>コーンスの反乱のボゲー<end>"
+english = "The Corns Rebellion, Bogee! The Corns Rebellion, Bogee! The Corns Rebellion, Bogee! The Corns Rebellion, Bogee! The Corns Rebellion, Bogee! The Corns Rebellion, Bogee!<end>"
+
+["1250179"]
+japanese = "戦争で解決するなんて、<line-break>力で勝てばいいだなんて…！<line-break>そんなの、間違ってるよぉ！<line-break><value:$28>、<line-break>お願い、やめさせて！<end>"
+english = "Settling this through war, saying victory by force is enough... That's wrong! Please stop it, <value:$28>!<end>"
+
+["1250180"]
+japanese = "我は、人間もコーンスも、<line-break>区別したことはない。<line-break><line-break>強ければ勝つ、それが掟だ。<line-break>コーンスが人間より強く賢ければ、<line-break>反乱は、成功するだろう…。<end>"
+english = "I have never distinguished between humans and Corns. The strong prevail; that is the law. If the Corns are stronger and wiser than humans, the rebellion will succeed...<end>"
+
+["1250181"]
+japanese = "いつかこのような日が来るとは<line-break>予想していた。<line-break><line-break>それがたまたま今で、<line-break>たまたまコーンスだっただけだ。<line-break>それ以上、言うことはない。<end>"
+english = "I knew a day like this would come. It merely happened to be now, and the Corns merely happened to be the ones. I have nothing more to say.<end>"
+
+["1250182"]
+japanese = "<value:$28>、<line-break>キミにまでわかってもらおうとは<line-break>思わないけれど…<line-break>リルビーのぼくには、<line-break>わかるような気がする。<line-break>ジラークやナッジの気持ちがね。<line-break>でも、このやり方はキレイじゃない。<line-break>これじゃ、コーンスは、<line-break>嫌われちゃうよ…。<end>"
+english = "I don't expect even you to understand, <value:$28>... but as a Lilbie, I think I understand how Zsilak and Nadge feel. Still, this way isn't beautiful. This will only make people hate the Corns...<end>"
+
+["1250183"]
+japanese = "図に乗ったな、ジラークめ。<line-break>ネメア様の厚意に仇で報いるなど、<line-break>死して償ってもとても足りぬ！<end>"
+english = "You've grown arrogant, Zsilak. Repaying Lord Nemea's kindness with betrayal is a crime not even death could atone for!<end>"
+
+["1250184"]
+japanese = "<value:$28>様、<line-break>コーンスという、<line-break>哀しき一族を助けなくては。<line-break>私も妹も、そのために助力は<line-break>惜しんだりはいたしません。<end>"
+english = "<value:$28>, we must help the tragic Corns people. My sister and I will spare no effort in doing so.<end>"
+
+["1250185"]
+japanese = "<value:$28>、<line-break>もちろん、アルノートゥンに<line-break>行くんだよね？<line-break>ヴァイにも聞いてみて、<line-break>私たちも力を貸すつもりだよ！<end>"
+english = "<value:$28>, you're going to Alnortun, of course, right? Ask Vai too. We intend to help!<end>"
+
+["1250186"]
+japanese = "止めねばならぬ…！<line-break>聖光石の坑道には、<line-break>恐ろしい秘密があるのじゃ！<end>"
+english = "We must stop this...! The Holy Light Stone mine holds a terrible secret!<end>"
+
+["1250187"]
+japanese = "ナッジが反乱に加わるとは…。<line-break>ディンガル帝国が黙っているとは<line-break>考えにくい。急がなければ！<end>"
+english = "Nadge has joined the rebellion... The Dingal Empire is unlikely to stand by and do nothing. We must hurry!<end>"
+
+["1250188"]
+japanese = "まずいな…。<line-break>ナッジが大切なら<line-break>助けに行かないと。<end>"
+english = "This is bad... If Nadge matters to you, we have to go save him.<end>"
+
+["1250189"]
+japanese = "ナッジも反乱に参加したのね…。<line-break>彼の優しさが、仲間への思いが、<line-break>反乱へと駆り立てたのね。<line-break>でも、コーンスに未来はないわ。<line-break>彼を止めなくちゃ、<line-break><value:$28>。<end>"
+english = "So Nadge joined the rebellion too... His kindness and concern for his comrades drove him to it. But there is no future for the Corns. We have to stop him, <value:$28>.<end>"
+
+["1250190"]
+japanese = "私には彼の気持ちがわかりません。<line-break>なぜ、反乱に参加したのでしょうか…。<end>"
+english = "I don't understand how he feels. Why did he join the rebellion...?<end>"
+
+["1250191"]
+japanese = "まさかナッジさんまで<line-break>反乱に参加するなんて。<line-break>\u3000<line-break>ナッジさんは仲間です。<line-break>それと戦うなんて…。<line-break>どうすればいいんでしょうか…。<end>"
+english = "I can't believe even Nadge joined the rebellion. Nadge is one of us. How can we fight him...? What are we supposed to do...?<end>"
+
+["1250192"]
+japanese = "コーンスは道を誤った。<line-break>力で解決しようとしても、<line-break>どこかで必ず亀裂が生じるんだ。<line-break>ナッジもそれはわかってたはず。<line-break>それでも戦う道を選んだのか…。<end>"
+english = "The Corns chose the wrong path. Trying to settle things by force will always create a rift somewhere. Nadge must have known that. Did he choose to fight anyway...?<end>"
+
+["1250193"]
+japanese = "（カルラの後を追わないと…）<end>"
+english = "(I have to follow Karula...)<end>"
+
+["1250194"]
+japanese = "急いで追いかけてきなさいよ。<line-break>あてにしてるんだから。。<end>"
+english = "Hurry and catch up. I'm counting on you.<end>"
+
+["1250195"]
+japanese = "神速の戦術家とはいえ、<line-break>このスピードは異常じゃな。<line-break>なにか、きな臭い物を感じるの。<end>"
+english = "Even for the Lightning-Fast Tactician, this pace is extraordinary. Something smells suspicious.<end>"
+
+["1250196"]
+japanese = "置いてきぼりなんて…<line-break>ちょっと酷いかも？<end>"
+english = "Leaving us behind... That's a little cruel, isn't it?<end>"
+
+["1250197"]
+japanese = "ちっ…なんだってこんなに<line-break>急ぐんだよ。いくらなんでも<line-break>飛ばしすぎだぜ…。<end>"
+english = "Tch... Why the rush? This pace is ridiculous, no matter how you look at it...<end>"
+
+["1250198"]
+japanese = "えっ？\u3000もう、行っちゃった？<line-break>急いで追いかけないと！<end>"
+english = "What? She's already gone? We have to hurry after her!<end>"
+
+["1250199"]
+japanese = "好機を逃さないってことかしら。<line-break>カルラらしいわ。<line-break><line-break>でも、この強行軍についていける兵は<line-break>少ないはず。<line-break>追いかけた方が良さそうね。<end>"
+english = "I suppose she won't let an opportunity pass. That's Karula for you. But few soldiers can keep up with a forced march like this. We should follow her.<end>"
+
+["1250200"]
+japanese = "アルノートゥンから邪悪な気配がします。<line-break>急いでいって上げてください。<end>"
+english = "I sense an evil presence from Alnortun. Please hurry after her.<end>"
+
+["1250201"]
+japanese = "お留守番しといてね。<end>"
+english = "Stay here and mind things for me.<end>"
+
+["1250202"]
+japanese = "ね、姉ちゃん。<line-break>もう、出発したって…。<line-break>急いで追いかけよう。<end>"
+english = "S-Sis. They say she's already left... Let's hurry after her.<end>"
+
+["1250203"]
+japanese = "…早いわね。<line-break>ベルゼーヴァ様が何か仕掛けた？<end>"
+english = "That was fast... Has Lord Beelzeva set something in motion?<end>"
+
+["1250204"]
+japanese = "後を追うのか？<line-break>優秀な部下がいるの羨ましいぜ…。<line-break>わりぃ、愚痴が出ちまった。<end>"
+english = "You're going after her? I'm jealous that she has such capable subordinates... Sorry. I couldn't help complaining.<end>"
+
+["1250205"]
+japanese = "ふん。巧遅は拙速に如かずのつもりか…<line-break>凡人の自信過剰は痛い目にあうだろうな。<end>"
+english = "Hmph. Does she think a rough job done quickly is better than a fine job done late? A mediocrity's overconfidence is sure to end painfully.<end>"
+
+["1250206"]
+japanese = "わしらを置いてきぼりにするとはな。<line-break>失礼な話じゃわい。<line-break>追いかける？\u3000物好きじゃのう。<end>"
+english = "Leaving us behind like this is downright rude. You want to follow her? You do enjoy making trouble for yourself.<end>"
+
+["1250207"]
+japanese = "コーンスの世界…かぁ。<end>"
+english = "A world for the Corns... huh.<end>"
+
+["1250208"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250209"]
+japanese = "コーンスも人間も野蛮だわ！<line-break>高貴で優雅で知性あふれるエルフの<line-break>ように静かに生きれないの？<line-break>アタクシ、泥臭い戦争は嫌いよ！<end>"
+english = "Corns and humans are both savages! Why can't they live quietly like noble, graceful, brilliant Elves? I despise grubby wars!<end>"
+
+["1250210"]
+japanese = "コーンスの反乱のボゲー<line-break>コーンスの反乱のボゲー<line-break>コーンスの反乱のボゲー<line-break>コーンスの反乱のボゲー<line-break>コーンスの反乱のボゲー<line-break>コーンスの反乱のボゲー<end>"
+english = "The Corns Rebellion, Bogee! The Corns Rebellion, Bogee! The Corns Rebellion, Bogee! The Corns Rebellion, Bogee! The Corns Rebellion, Bogee! The Corns Rebellion, Bogee!<end>"
+
+["1250211"]
+japanese = "カルラさん、行っちゃったね。<line-break>追いかけないの？<end>"
+english = "Karula's gone. Aren't you going after her?<end>"
+
+["1250212"]
+japanese = "………………。<line-break>追わぬのか？<end>"
+english = "... Will you not follow?<end>"
+
+["1250213"]
+japanese = "帝国内部で何かあったようだな。<line-break>いくらカルラでも、この間隔で<line-break>出陣するのは考えられん。<line-break>ロストールを放置するのも妙な話だ。<line-break>ディンガルも長くないかもしれんな。<end>"
+english = "Something must have happened within the Empire. Even Karula would not deploy again so soon. It is also strange to leave Rostorl alone. Dingal may not have long left.<end>"
+
+["1250214"]
+japanese = "種族のための戦いかぁ…。<line-break>僕は複雑な気持ちがするよ。<end>"
+english = "A battle for one's race... I have mixed feelings about it.<end>"
+
+["1250215"]
+japanese = "カルラ…。<line-break>獅子身中の虫め…。<line-break>なかなか尻尾を出さんな。<end>"
+english = "Karula... You traitor in our midst... You hide your true colors well.<end>"
+
+["1250216"]
+japanese = "この短期間の間に出陣するなんて。<line-break>帝国内で何かあったのかもしれません。<line-break>追いかけた方が良さそうですね。<end>"
+english = "Deploying again after so little time... Something may have happened within the Empire. We should probably follow.<end>"
+
+["1250217"]
+japanese = "お兄ちゃんを置いていくなんて！<line-break>それでも、お兄ちゃんはカルラを<line-break>助けにいくの？<end>"
+english = "She left you behind, Big Brother! Are you still going to help Karula?<end>"
+
+["1250218"]
+japanese = "アルノートゥンに攻め入るか…。<line-break>敵の手に落ちているとはいえ、<line-break>複雑な気分じゃ。<end>"
+english = "So we are to attack Alnortun... Even though it has fallen into enemy hands, I have mixed feelings.<end>"
+
+["1250219"]
+japanese = "…早すぎる。<line-break>これでは戦力を立てなおす暇すらない。<line-break>後を追った方が良さそうだな。<end>"
+english = "Too soon... There hasn't even been time to rebuild our forces. We should follow.<end>"
+
+["1250220"]
+japanese = "カルラの行動は拙速に過ぎる。<line-break>俺たちも急ぐぞ。<end>"
+english = "Karula is acting far too hastily. We must hurry too.<end>"
+
+["1250221"]
+japanese = "いくら何でも急ぎすぎよ。<line-break>でも、時間がないのは確かね。<end>"
+english = "She's rushing this far too much. Still, we truly are short on time.<end>"
+
+["1250222"]
+japanese = "カルラはすでに行ってしまいました。<line-break>追いかけるなら急ぐべきです。<end>"
+english = "Karula has already left. If you mean to follow, you should hurry.<end>"
+
+["1250223"]
+japanese = "行っちゃいましたね、カルラさん。<line-break>追いかけないんですか？<end>"
+english = "Karula's already gone. Aren't you going after her?<end>"
+
+["1250224"]
+japanese = "何を急いでいるんだ、あの女は？<line-break>帝国で何かあったのか？<line-break>追いかけたほうがよさそうだな。<end>"
+english = "Why is that woman in such a hurry? Did something happen in the Empire? We should follow her.<end>"
+
+["1250225"]
+japanese = "（湖に沈められた遺跡…<line-break>\u3000どこにその湖があるのだろう？）<line-break><end>"
+english = "(Ruins submerged in a lake... Where could that lake be?)<end>"
+
+["1250226"]
+japanese = "湖に沈められた遺跡か。<line-break>ごめんなさい。見当がつかないわ。<end>"
+english = "Ruins submerged in a lake? I'm sorry. I have no idea where that could be.<end>"
+
+["1250227"]
+japanese = "湖と言われてものう…<line-break>そう言えば、夢幻の湖には水中遺跡が<line-break>あるという噂があったような…。<line-break>はっきりとは憶えておらんのじゃがな。<end>"
+english = "A lake, you say... Come to think of it, I seem to recall a rumor about underwater ruins in the Lake of Illusions. My memory is rather hazy, though.<end>"
+
+["1250228"]
+japanese = "湖に沈められた遺跡？<line-break>禁断の呪文？<line-break>ちょっと、すごいかも？<line-break>…場所が分からない？<line-break>興奮して損しちゃったかも？<end>"
+english = "Ruins submerged in a lake? A forbidden spell? That sounds kind of amazing! ...You don't know where it is? I got excited for nothing.<end>"
+
+["1250229"]
+japanese = "ベルゼーヴァがいるところ？<line-break>どうしてそれを俺が知ってるって<line-break>思うんだよ。<line-break>そうだな、ベルゼーヴァだけに…。<line-break><line-break><line-break>………………。<line-break><line-break><line-break>逃げる準備しなかったか、今？<end>"
+english = "Where Beelzeva is? Why would you think I'd know? Well, since it's Beelzeva... ... Did you just get ready to run away?<end>"
+
+["1250230"]
+japanese = "消えたベルゼーヴァの行き先？<line-break>うーん、ちょっとわかんないや。<line-break><line-break>前にちょくちょくいなくなってた<line-break>このボクでもさ。<line-break><line-break>前に彼に会った場所とか、<line-break>どこか、なかったっけ？<end>"
+english = "Where did Beelzeva disappear to? Hmm, I don't really know, even though I used to disappear all the time myself. Wasn't there somewhere you met him before?<end>"
+
+["1250231"]
+japanese = "禁呪の眠る遺跡…。<line-break><line-break><line-break>そういった場所は魔法的に保護されて<line-break>いることが多いから、発見するのは<line-break>難しいでしょうね。<end>"
+english = "Ruins where a Forbidden Spell lies dormant... Places like that are often protected by magic, so finding them will be difficult.<end>"
+
+["1250232"]
+japanese = "禁断の聖なる呪文ですか？<line-break>それなら、夢幻の湖に封じられたはず。<line-break><line-break>この戦いが終わったら、<line-break>行ってみてはいかがですか？<end>"
+english = "A forbidden sacred spell? If so, it should be sealed in the Lake of Illusions. Why not go there once this battle is over?<end>"
+
+["1250233"]
+japanese = "遺跡の沈んだ湖ねぇ。<line-break>たしか、南の方にそういう噂のある湖が<line-break>あったと思うけど？<end>"
+english = "A lake with sunken ruins... I think there was a lake to the south with rumors like that.<end>"
+
+["1250234"]
+japanese = "よくぞ聞いてくれたぜ、姉ちゃん！<line-break>ヤツなら、霊峰トールとか、魔導の塔とか…<line-break>…の…山か…。<line-break>怒ることないだろ！<line-break>俺の勘って、<line-break>そんなにアテにならないのかよ！<end>"
+english = "Glad you asked, Sis! He might be at Sacred Mount Thor, or the Arcane Tower, or... some... mountain... Hey, don't get mad! Is my intuition really that unreliable?<end>"
+
+["1250235"]
+japanese = "ベルゼーヴァ様…。<line-break><line-break><line-break>………………。<end>"
+english = "Lord Beelzeva... ...<end>"
+
+["1250236"]
+japanese = "湖に沈んだ遺跡？<line-break><line-break><line-break>そうだな…<line-break>夢幻の湖がそんな感じだな。<line-break>行ってみるかい？<end>"
+english = "Ruins submerged in a lake? Well... the Lake of Illusions sounds about right. Want to go there?<end>"
+
+["1250237"]
+japanese = "湖に沈んだ遺跡か…<line-break>魔法で守られているのであれば、<line-break>そう簡単には見つけることはできない。<line-break>面倒だが地道に探すしか<line-break>ないのかもしれん。<end>"
+english = "Ruins submerged in a lake... If magic protects them, they will not be easy to find. It may be tedious, but we might have no choice except to search carefully.<end>"
+
+["1250238"]
+japanese = "湖に沈んだ遺跡？<line-break>見つけたとしても、どうやって<line-break>そこにいけばいいのかのう？<line-break>泳ぐのは苦手じゃしな。<end>"
+english = "Ruins submerged in a lake? Even if we find them, how would we reach them? I'm not a strong swimmer.<end>"
+
+["1250239"]
+japanese = "湖に沈んだ遺跡かぁ…<line-break>心辺りがないなぁ。<line-break><line-break>僕のあまり知らない大陸の南側に<line-break>あるのかもしれないね。<end>"
+english = "Ruins submerged in a lake... Nothing comes to mind. They may be somewhere in the south of the continent, which I don't know very well.<end>"
+
+["1250240"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250241"]
+japanese = "ベルゼーヴァが消えた先？<line-break>湖に沈んだ遺跡？<line-break><line-break>高貴で優雅で知性あふれるエルフには<line-break>下等生物の作った遺跡なんて<line-break>関係ないわ。<end>"
+english = "Where Beelzeva disappeared to? Ruins submerged in a lake? A noble, graceful, brilliant Elf has no interest in ruins built by inferior creatures.<end>"
+
+["1250242"]
+japanese = "ベルゼ成功のボゲー<line-break>ベルゼ成功のボゲー<line-break>ベルゼ成功のボゲー<line-break>ベルゼ成功のボゲー<line-break>ベルゼ成功のボゲー<line-break>ベルゼ成功のボゲー<end>"
+english = "Beelze Success, Bogee! Beelze Success, Bogee! Beelze Success, Bogee! Beelze Success, Bogee! Beelze Success, Bogee! Beelze Success, Bogee!<end>"
+
+["1250243"]
+japanese = "湖に沈んだ遺跡？<line-break>ゴメンね。<value:$28>。<line-break>ルルアンタ、分からないよぉ。<end>"
+english = "Ruins submerged in a lake? Sorry, <value:$28>. Lulluantha doesn't know.<end>"
+
+["1250244"]
+japanese = "………………。<line-break><line-break><line-break>知らぬ。<end>"
+english = "... I know not.<end>"
+
+["1250245"]
+japanese = "湖に沈んだ遺跡か…。<line-break>以前、エストから夢幻の湖の話を<line-break>聞いたことがある。<line-break>そこかもしれんな。<end>"
+english = "Ruins submerged in a lake... Est once told me about the Lake of Illusions. That may be the place.<end>"
+
+["1250246"]
+japanese = "♪古き力は眠りについた…<line-break>♪古き闇は新月の下に…<line-break>♪古き光は夢幻の彼方…<line-break>この伝承が本当なら…<line-break>そこにいるような気がするんだ。<end>"
+english = "♪ Ancient power fell asleep... ♪ Ancient darkness lies beneath the new moon... ♪ Ancient light lies beyond illusion... If the legend is true... I have a feeling that's where he is.<end>"
+
+["1250247"]
+japanese = "魔導の塔、夢幻の湖…。<line-break><line-break><line-break>私は、そこへ禁呪を求めに行ったのだ。<line-break>人間の、さらなる進歩のために…！<end>"
+english = "The Arcane Tower, the Lake of Illusions... I went there in search of Forbidden Spells. For humanity's further advancement...!<end>"
+
+["1250248"]
+japanese = "ベルゼーヴァの行方、ですか。<line-break>そうですね。<line-break>新月の塔、夢幻の湖、魔道の塔。<line-break>ベルゼーヴァは以前、人目を忍んで<line-break>これらの場所に出かけていたようです。<line-break>行かれてみてはいかがでしょう？<end>"
+english = "Beelzeva's whereabouts? Let's see. New Moon Tower, the Lake of Illusions, the Arcane Tower. It seems Beelzeva used to visit those places in secret. Why not investigate them?<end>"
+
+["1250249"]
+japanese = "消えたベルゼーヴァの行方…。<line-break>むかし、ヴァイと調べてたんだけど、<line-break>新月の塔や夢幻の湖や魔道の塔。<line-break>こういったところに行ってたみたい。<line-break>行ってみる？\u3000お兄ちゃん？<end>"
+english = "Where did Beelzeva disappear to...? Vai and I looked into it a long time ago. It seems he used to visit places like New Moon Tower, the Lake of Illusions, and the Arcane Tower. Want to check them out, Big Brother?<end>"
+
+["1250250"]
+japanese = "そうか…聖の禁呪が眠るとされる<line-break>遺跡は湖に眠っているのじゃな。<line-break>そうじゃな…。<line-break>長く旅をしているものなら知っている<line-break>かもしれん。<end>"
+english = "I see... So the ruins said to hold the Holy Forbidden Spell lie beneath a lake. Hmm... Perhaps a seasoned traveler would know something.<end>"
+
+["1250251"]
+japanese = "魔導の塔や新月の塔には<line-break>強大無比な魔法が封じられたと<line-break>聞いているが…。湖か。<line-break>すまない。力になれそうもない。<end>"
+english = "I've heard that incomparably powerful magic was sealed within the Arcane Tower and New Moon Tower, but... a lake? I'm sorry. I don't think I can help.<end>"
+
+["1250252"]
+japanese = "夢幻の湖に水中遺跡があるが、<line-break>行ってみるか？<end>"
+english = "There are underwater ruins in the Lake of Illusions. Shall we go and see?<end>"
+
+["1250253"]
+japanese = "夢幻の湖の水中遺跡の話を<line-break>以前聞いたことがあるわ。<line-break>そこかもしれないわね。<end>"
+english = "I once heard about underwater ruins in the Lake of Illusions. That might be the place.<end>"
+
+["1250254"]
+japanese = "湖に沈められた遺跡ですか…。<line-break>私の経験ではお役に立てません。<line-break>申しわけありません…。<end>"
+english = "Ruins sunk beneath a lake...? I'm afraid my experience is of no use here. My apologies...<end>"
+
+["1250255"]
+japanese = "湖に沈められた遺跡ですか？<line-break>夢幻の湖に水中遺跡があるって<line-break>お客さんから聞きましたけど。<end>"
+english = "Ruins sunk beneath a lake? A customer told me there are underwater ruins in the Lake of Illusions.<end>"
+
+["1250256"]
+japanese = "湖に沈められた遺跡なら、<line-break>夢幻の湖に水中遺跡がある。<line-break>おそらくそこにいるはずだ。<end>"
+english = "If you're looking for ruins beneath a lake, there are underwater ruins in the Lake of Illusions. That's probably where he is.<end>"
+
+["1250257"]
+japanese = "（ベルゼーヴァ…）<line-break><line-break><end>"
+english = "(Beelzeva...)<end>"
+
+["1250258"]
+japanese = "ベルゼーヴァ様…。<line-break>あの方のことだから、<line-break>大丈夫だと思うけど…<end>"
+english = "Lord Beelzeva... Knowing him, I'm sure he'll be all right, but...<end>"
+
+["1250259"]
+japanese = "…あれはお主のせいではない。<line-break>それに宰相殿のことじゃ。<line-break>あの男に屈したりはしないじゃろう。<line-break>そのうち、戻ってくるはずじゃ…。<line-break>きっとな…。<end>"
+english = "...That was not your fault. Besides, we are speaking of the Chancellor. He would never yield to that man. He will return before long... Surely...<end>"
+
+["1250260"]
+japanese = "きゃっ、ベルゼーヴァさんの<line-break>消えた先を知ってるかって？<line-break><line-break>…新月の塔かも？<line-break>あそこには封印された呪文が<line-break>あるって話だし。<end>"
+english = "Oh! You're asking if I know where Beelzeva disappeared to? ...Maybe New Moon Tower? They say there's a spell sealed away there.<end>"
+
+["1250261"]
+japanese = "ベルゼーヴァがいるところ？<line-break>どうしてそれを俺が知ってるって<line-break>思うんだよ。<line-break>そうだな、ベルゼーヴァだけに…。<line-break><line-break><line-break>………………。<line-break><line-break><line-break>逃げる準備しなかったか、今？<end>"
+english = "Where Beelzeva is? Why would you think I'd know? Well, since it's Beelzeva... ... Did you just get ready to run away?<end>"
+
+["1250262"]
+japanese = "消えたベルゼーヴァの行き先？<line-break>うーん、ちょっとわかんないや。<line-break><line-break>前に彼に会った場所とか、<line-break>どこか、なかったっけ？<end>"
+english = "Where did Beelzeva disappear to? Hmm, I really don't know. Wasn't there somewhere you'd met him before?<end>"
+
+["1250263"]
+japanese = "あのお方には、宰相としての他に、<line-break>考えてらいらしたことがあったわ。<line-break>…禁じられた呪文。<line-break>人類の革新に大きな力が必要になると<line-break>すればそういった場所を目指すのかも<line-break>しれないわね。<end>"
+english = "He had matters on his mind beyond his duties as Chancellor. ...Forbidden spells. If great power is needed for humanity's advancement, he may have gone to a place where such spells lie.<end>"
+
+["1250264"]
+japanese = "不死の王シャロームですね…。<line-break>彼の次の標的は…<line-break>おそらくあなたでしょう。<line-break>気をつけてください。<line-break>深遠の闇に囚われないよう…。<end>"
+english = "Shalom, the Immortal King... His next target will probably be you. Please be careful. Do not let the profound darkness claim you...<end>"
+
+["1250265"]
+japanese = "人類の革新…。<line-break>これを成し遂げるには力が必要よ。<line-break><line-break>そういった力が眠る場所、<line-break>古の樹海や、新月の塔、精霊神の座所。<line-break>そういった場所にいるんじゃない？<end>"
+english = "Humanity's advancement... Achieving it will require power. He may be somewhere such power lies dormant: the Ancient Forest, New Moon Tower, or the Spirit God's seat.<end>"
+
+["1250266"]
+japanese = "よくぞ聞いてくれたぜ、姉ちゃん！<line-break>ヤツなら、霊峰トールとか、魔導の塔とか…<line-break>…の…山か…。<line-break>怒ることないだろ！<line-break>俺の勘って、<line-break>そんなにアテにならないのかよ！<end>"
+english = "Glad you asked, Sis! He might be at Sacred Mount Thor, or the Arcane Tower, or... some... mountain... Hey, don't get mad! Is my intuition really that unreliable?<end>"
+
+["1250267"]
+japanese = "ベルゼーヴァ様…。<line-break><line-break><line-break>………………。<end>"
+english = "Lord Beelzeva... ...<end>"
+
+["1250268"]
+japanese = "ディンガルの宰相の行きそうな場所？<line-break>奴の執務室以外でか？<line-break><line-break>…そうだな。少し前に、<line-break>奴を新月の塔で見かけたって<line-break>話を聞いたことがあるぜ。<end>"
+english = "Where might Dingal's Chancellor go? Besides his office? ...Let's see. Not long ago, I heard someone had spotted him at New Moon Tower.<end>"
+
+["1250269"]
+japanese = "奴らの言う人類の革新を進めるには<line-break>強大な力が必要だ。<line-break>それを求めに行ったのではないか？<line-break>新月の塔、魔道の塔…<line-break>ここには、特殊な魔法が封じられたと<line-break>耳に挟んだことがある。<line-break>気になるなら行け。他の連中になど聞くだけ無駄だ。<end>"
+english = "Advancing what they call humanity's advancement would require tremendous power. Perhaps he went in search of it. New Moon Tower, the Arcane Tower... I've heard that unusual magic was sealed in those places. If you're curious, go. Asking anyone else is a waste of time.<end>"
+
+["1250270"]
+japanese = "キーワードは人類の革新じゃな。<line-break>やはり、強い力が必要ではないかの？<line-break><line-break>昔、新月の塔に恐ろしい魔法が<line-break>封印されていると聞いたことがある。<line-break>行ってみるのも手じゃな。<end>"
+english = "The key is humanity's advancement. Would that not require great power? Long ago, I heard that terrifying magic was sealed in New Moon Tower. It may be worth investigating.<end>"
+
+["1250271"]
+japanese = "ベルゼーヴァにしろ、シャロームにしろ<line-break>人類の革新を進めるには大きな力が<line-break>必要になると思うんだ。<line-break>…新月の塔。<line-break>ここには恐ろしい魔法が封じられたと<line-break>確か、聞いたことがあるよ。<end>"
+english = "Whether it's Beelzeva or Shalom, I think advancing humanity would require immense power. ...New Moon Tower. If I remember correctly, I heard that terrifying magic was sealed there.<end>"
+
+["1250272"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250273"]
+japanese = "ベルゼーヴァが消えた先、ですって？<line-break>どうして、アタクシが下等生物の行方を<line-break>言わなきゃいけないの！<line-break>下等生物の考えなんて<line-break>高貴で優雅で知性あふれる<line-break>アタクシたちには関係ないわ。<end>"
+english = "Where Beelzeva disappeared to? Why should I tell you the whereabouts of some inferior creature? What inferior creatures think is no concern of noble, graceful, brilliant beings like us.<end>"
+
+["1250274"]
+japanese = "ベルゼ失敗のボゲー<line-break>ベルゼ失敗のボゲー<line-break>ベルゼ失敗のボゲー<line-break>ベルゼ失敗のボゲー<line-break>ベルゼ失敗のボゲー<line-break>ベルゼ失敗のボゲー<end>"
+english = "Beelze Failure, Bogee! Beelze Failure, Bogee! Beelze Failure, Bogee! Beelze Failure, Bogee! Beelze Failure, Bogee! Beelze Failure, Bogee!<end>"
+
+["1250275"]
+japanese = "前に見たあの人の目…怖かったよぉ…。<line-break>あの人、ぜったい怖いことを考えてる…。<line-break>前にギルドで、こんな話を聞いたんだ。<line-break>魔導の塔と新月の塔には、<line-break>むかし、怖い魔法が封じられんだって…。<line-break>行ってみる？\u3000<value:$28>？<end>"
+english = "The look in his eyes when I saw him before... It was scary... He's definitely planning something frightening... I heard something at the Guild once: terrifying magic was sealed long ago in the Arcane Tower and New Moon Tower... Want to check them out, <value:$28>?<end>"
+
+["1250276"]
+japanese = "…新月の塔…。<line-break>闇の力が眠るという…。<line-break>行ってみるがいい。<end>"
+english = "...New Moon Tower... They say the power of darkness sleeps there... You should go.<end>"
+
+["1250277"]
+japanese = "ベルゼーヴァの消えた先を<line-break>探していると？<line-break><line-break>新月の塔か、夢幻の湖か…。<line-break>奴は以前からこの二箇所を<line-break>調査していたらしい。<end>"
+english = "You're searching for where Beelzeva disappeared to? New Moon Tower or the Lake of Illusions... Apparently, he'd been investigating those two places for some time.<end>"
+
+["1250278"]
+japanese = "♪古き力は眠りについた…<line-break>♪古き闇は新月の下に…<line-break>♪古き光は夢幻の彼方…<line-break>この伝承が本当なら…<line-break>そこにいるような気がするんだ。<end>"
+english = "♪ Ancient power fell asleep... ♪ Ancient darkness lies beneath the new moon... ♪ Ancient light lies beyond illusion... If the legend is true... I have a feeling that's where he is.<end>"
+
+["1250279"]
+japanese = "魔導の塔、夢幻の湖…。<line-break><line-break><line-break>私は、そこへ禁呪を求めに行ったのだ。<line-break>人間の、さらなる進歩のために…！<end>"
+english = "The Arcane Tower, the Lake of Illusions... I went there in search of Forbidden Spells. For humanity's further advancement...!<end>"
+
+["1250280"]
+japanese = "ベルゼーヴァの行方、ですか。<line-break>そうですね。<line-break>新月の塔、夢幻の湖、魔道の塔。<line-break>ベルゼーヴァは以前、人目を忍んで<line-break>これらの場所に出かけていたようです。<line-break>行かれてみてはいかがでしょう？<end>"
+english = "Beelzeva's whereabouts? Let's see. New Moon Tower, the Lake of Illusions, the Arcane Tower. It seems Beelzeva used to visit those places in secret. Why not investigate them?<end>"
+
+["1250281"]
+japanese = "消えたベルゼーヴァの行方…。<line-break>むかし、ヴァイと調べてたんだけど、<line-break>新月の塔や夢幻の湖や魔道の塔…<line-break>こういったところに行ってたみたい。<line-break>行ってみる？\u3000お兄ちゃん？<end>"
+english = "Where did Beelzeva disappear to...? Vai and I looked into it a long time ago. It seems he used to visit places like New Moon Tower, the Lake of Illusions, and the Arcane Tower... Want to check them out, Big Brother?<end>"
+
+["1250282"]
+japanese = "奴らが求めていたものは力じゃ。<line-break>とすれば、やばり禁呪じゃろう。<line-break><line-break>しかし、聖の禁呪が眠るとされる<line-break>遺跡は発見されていない。となれば、<line-break>残るは新月の塔しかあるまい。<end>"
+english = "What they sought was power. That would point to a Forbidden Spell. Yet the ruins said to hold the Holy Forbidden Spell have never been discovered. That leaves only New Moon Tower.<end>"
+
+["1250283"]
+japanese = "人類の革新には大きな力が必要だ。<line-break>とすれば、魔道の塔や新月の塔は<line-break>どうだろう？<line-break>あそこにはかつて、<line-break>強大無比な魔法が封じられたと聞く。<end>"
+english = "Humanity's advancement requires immense power. With that in mind, what about the Arcane Tower or New Moon Tower? I hear that incomparably powerful magic was once sealed there.<end>"
+
+["1250284"]
+japanese = "すまないが心当たりがない。<line-break>ベルゼーヴァの近くにいた人間なら<line-break>何か知っているかもしれない。<end>"
+english = "I'm sorry, but nothing comes to mind. Someone who spent time around Beelzeva might know something.<end>"
+
+["1250285"]
+japanese = "ちょっとわからないわ。<line-break>でも革新って言うくらいだし<line-break>強力な力が必要よね。<line-break>どこか強力な力が封じられた場所に<line-break>いるんじゃない？<end>"
+english = "I'm not really sure. But if it's called an advancement, it must require tremendous power. Don't you think he might be somewhere that such power has been sealed away?<end>"
+
+["1250286"]
+japanese = "ベルゼーヴァの行方…ですか。<line-break>私では…お役に立てません。<line-break>申しわけありません…。<end>"
+english = "Beelzeva's whereabouts...? I'm afraid... I can't help you. My apologies...<end>"
+
+["1250287"]
+japanese = "ベルゼーヴァさんの行き先ですか？<line-break>ちょっと思いつきません。<line-break>\u3000<line-break>もしかしたら今までベルゼーヴァさんに<line-break>会ったことがある場所にいるのかも。<end>"
+english = "Where did Beelzeva go? Nothing comes to mind. Maybe he's somewhere you've encountered him before.<end>"
+
+["1250288"]
+japanese = "ベルゼーヴァの消えた先か。<line-break>奴は力を求めているし<line-break>それを得られる所に行ったはずだ。<line-break>新月の塔に<line-break>強力な魔法が封印されているけど、<line-break>もしかしたら…。<end>"
+english = "Where did Beelzeva disappear to? He's seeking power, so he must have gone somewhere he could obtain it. Powerful magic is sealed in New Moon Tower, so perhaps...<end>"
+
+["1250289"]
+japanese = "（地の精霊神グラジェオンが、<line-break>\u3000転送装置の先の聖なる座所で<line-break>\u3000エステルを呼んでいる）<line-break>（グラジェオンはエステルに<line-break>\u3000試練を受けさせ、<line-break>\u3000巫女として目覚めさせるつもりだ）<line-break>（エステルは行きたいと言っている…）<end>"
+english = "(Grajeon, the Spirit God of Earth, is calling Esther to the sacred seat beyond the teleportation device.) (Grajeon intends to put Esther through a trial and awaken her as a shrine maiden.) (Esther says she wants to go...)<end>"
+
+["1250290"]
+japanese = "転送装置の先には、グラジェオンがいる<line-break>聖なる座所があるのね。<line-break><line-break>エステルはそこで試練を受けて、<line-break>グラジェオンに仕える巫女になる。<line-break><line-break>エステルに聞いてみて決めれば？<line-break>これは彼女自身の問題なんだし。<end>"
+english = "Beyond the teleportation device is the sacred seat where Grajeon awaits. Esther will undergo a trial there and become a shrine maiden who serves Grajeon. Why not ask Esther and then decide? This concerns her personally, after all.<end>"
+
+["1250291"]
+japanese = "地の精霊神グラジェオンが<line-break>エステルを呼んでおるのか。<line-break><line-break>エステル自身がグラジェオンに<line-break>仕えたいと言うのなら、<line-break>止めはしまい。<line-break>しかし、シャリは何と言った？<line-break>ワシはそれが気にかかってならん…。<end>"
+english = "Grajeon, the Spirit God of Earth, is calling Esther? If Esther herself wishes to serve Grajeon, I will not stop her. But what did Shalli say? I cannot help worrying about that...<end>"
+
+["1250292"]
+japanese = "グラジェオンの巫女になれば、<line-break>エステル様は超強大な力を手にすることが<line-break>できるんですって！<line-break>力って、魔力のことかしら？<line-break>だったら、うらやましいかも！<line-break>ユーリスも巫女になってみたいかも！<line-break>あ、グラジェオン様のところへは、<line-break>転送装置で行けるみたいですよ。<end>"
+english = "They say Lady Esther will gain incredible power if she becomes Grajeon's shrine maiden! Does power mean magical power? If so, I might be jealous! Julls might like to become a shrine maiden too! Oh, and it seems the teleportation device leads to where Grajeon is.<end>"
+
+["1250293"]
+japanese = "エステルがそんなにたのミコむんなら、<line-break>巫女でも何でもやらせてやりゃいいと<line-break>俺は思うぜ。<line-break>冗談言ってる場合じゃねえ？<line-break>俺はいつだって大マジだ！<line-break>さっさと転送装置に乗ろうぜ！<end>"
+english = "If Esther's begging that hard, I say let her become a shrine maiden or whatever else she wants. This is no time for jokes? I'm always completely serious! Let's get on that teleportation device already!<end>"
+
+["1250294"]
+japanese = "お願い、<value:$28>。<line-break>ボク、みんなの足手まといには<line-break>なりたくないんだよ。<line-break>地の精霊神グラジェオンの試練を<line-break>受けて、巫女になれれば、<line-break>きっともっと強くなれる！<line-break>…ボク、<value:$28>を<line-break>守りたいんだよ。<end>"
+english = "Please, <value:$28>. I don't want to hold everyone back. If I can undergo the trial of Grajeon, the Spirit God of Earth, and become a shrine maiden, I'm sure I'll grow stronger! ...I want to protect <value:$28>.<end>"
+
+["1250295"]
+japanese = "エステルが地の精霊神グラジェオンに<line-break>仕える、魔導文明の巫女のひとり…。<line-break><line-break>例えそうだとして、お前は、エステルを<line-break>巫女にさせるつもりなのか？<line-break><line-break>結果として、それがシャリの思惑と重なる<line-break>ということを忘れるな。<end>"
+english = "Esther may be one of the shrine maidens of the arcane civilization who serve Grajeon, the Spirit God of Earth... Even if that is true, do you intend to let Esther become a shrine maiden? Do not forget that the outcome would align with Shalli's designs.<end>"
+
+["1250296"]
+japanese = "太古の魔導文明に目をつけてくるとは…<line-break>シャリは相当厄介な相手ですね。<line-break><line-break>それでも、決断するのはあなた…<line-break>そしてエステル自身です。<line-break>重々、お気をつけなさい。<end>"
+english = "For Shalli to set his sights on the ancient arcane civilization... He is a formidable adversary indeed. Even so, the decision belongs to you and to Esther herself. Exercise the utmost caution.<end>"
+
+["1250297"]
+japanese = "へえ～、エステルちゃんが<line-break>太古の魔導文明の巫女かもしれない<line-break>とはね～。<line-break>で、カノジョは、正式に巫女に<line-break>なりたいって言ったんだよね？<line-break>だったら、何を迷ってることがあんのさ。<line-break>かわいい女の子の願いは聞いてやるために<line-break>あるようなもんだよ？<line-break>それが世界のハメツにつながってることも<line-break>けっこう、あるんだけどね。<end>"
+english = "Well, well. So Esther might be a shrine maiden of the ancient arcane civilization. And she said she wants to become a proper shrine maiden, right? Then what is there to hesitate over? Pretty girls' wishes are practically made to be granted. Though they do lead to the end of the world surprisingly often.<end>"
+
+["1250298"]
+japanese = "エステルさんがあんなに頼んでんのに、<line-break>迷ってんのかよ、姉ちゃん！<line-break><line-break>わかってる。シャリが言ってたことが<line-break>気になってるってんだろ？<line-break><line-break>でも、だから姉ちゃんが一緒に<line-break>行くんじゃないかよ。<line-break>あんなチビ、姉ちゃんの怪力で…<line-break>い、痛えっ！<line-break>頭の形が変わったらどうすんだ！<end>"
+english = "Esther begged you that hard, and you're still hesitating, Sis? I know. You're worried about what Shalli said, right? But that's exactly why you're going with her. A little runt like that is no match for your monstrous strength... Ow! What if you change the shape of my skull?!<end>"
+
+["1250299"]
+japanese = "エステルが何を望んでいるか、<line-break>そんなことは問題ではない。<line-break><line-break>出現する新たな力によって、<line-break>歴史は間違いなく混乱する。<line-break><line-break>それを恐れないというのなら、<line-break>言う通りにしてやるといいわ。<line-break>エステルと、あのシャリの言う通りに。<end>"
+english = "What Esther wants is irrelevant. The emergence of a new power will unquestionably throw history into turmoil. If that does not frighten you, then grant the request. Do as Esther and that Shalli say.<end>"
+
+["1250300"]
+japanese = "魔導文明復活の鍵を握る地の巫女、<line-break>エステルはそれになるため、精霊神の<line-break>座所に行きたいってんだろ。<line-break><value:$28>、お人よしの<line-break>お前さんが、エステルの望む通りに<line-break>してやりたいって気持ちはわかるぜ。<line-break>ただ、この件に関しちゃ、もっと<line-break>慎重に考えた方がいいかもしれねえ。<line-break><line-break>ロストールの酒場の看板娘になりたい…<line-break>なんてえ話とは、<line-break>あまりにもスケールが違うからな。<end>"
+english = "Esther wants to go to the Spirit God's seat so she can become the Earth Shrine Maiden who holds the key to reviving the arcane civilization, right? <value:$28>, I know you're softhearted and want to give Esther what she wants. But this may be something you ought to consider more carefully. It's on a completely different scale from wanting to become the tavern's poster girl in Rostorl.<end>"
+
+["1250301"]
+japanese = "精霊神グラジェオンの座所を訪れ、<line-break>試練を受けたエステルが<line-break>魔導文明の地の巫女となる…？<line-break>面白い。<line-break>お前が行くというなら、<line-break>付き合ってもいいぞ。<end>"
+english = "Esther will visit the seat of Grajeon the Spirit God, undergo the trial there, and become the Earth Shrine Maiden of the arcane civilization...? Interesting. If you're going, I wouldn't mind accompanying you.<end>"
+
+["1250302"]
+japanese = "エステルが魔導文明復活の鍵を握る<line-break>巫女のひとりかもしれんとはなあ…。<line-break>本当なら、これは大変なことじゃぞ。<line-break>エステル自身も求めていることじゃ、<line-break>精霊神グラジェオンの聖座とやらに、<line-break>真偽を確かめに赴こうではないか。<end>"
+english = "To think Esther might be one of the shrine maidens who hold the key to reviving the arcane civilization... If true, this is momentous indeed. Esther herself desires it, so let us visit what they call Grajeon the Spirit God's Holy Seat and discover the truth.<end>"
+
+["1250303"]
+japanese = "精霊神グラジェオンの聖座に行くことで<line-break>エステルは地の巫女になれる…。<line-break><line-break>エステルがそうなりたって思うのは<line-break>いいと思うよ。でも、そのせいで、<line-break>魔導文明とかが復活するんでしょ？<line-break>それが悪い結果を呼びはしないか、<line-break>僕、それがちょっと心配だよ。<end>"
+english = "Esther can become the Earth Shrine Maiden by going to Grajeon the Spirit God's Holy Seat... I think it's fine for Esther to want that. But it would revive the arcane civilization or something, wouldn't it? I'm a little worried that might have bad consequences.<end>"
+
+["1250304"]
+japanese = "精霊神グラジェオンに連なる巫女の<line-break>魔力も、それを鍵に蘇るという<line-break>魔導文明の力も…<line-break>問題は、それが正しき方向に<line-break>使われるか否か、というところだ。<line-break><line-break>そして、さらに言えば、<line-break>何が正しいのかを、誰が判断するのか？<line-break>それこそが最大の問題だ。<end>"
+english = "The magical power of a shrine maiden linked to Grajeon the Spirit God, and the power of the arcane civilization said to be revived through her... The question is whether that power will be used for the right purpose. More fundamentally, who decides what is right? That is the greatest question of all.<end>"
+
+["1250305"]
+japanese = "エステルが精霊神の聖座へ行って、<line-break>選ばれし地の巫女になるですって？<line-break><line-break>ふ、ふん、悔しくなんかないわよ。<line-break>高雅なアタクシは、土臭い民族信仰の<line-break>巫女なんかに憧れたりしなくてよ。<line-break>え？\u3000超高度な魔導文明ですって？<line-break>そ、そんなことをアタクシに<line-break>聞かせてどーーしようってのよ！<end>"
+english = "Esther is going to the Spirit God's Holy Seat to become the chosen Earth Shrine Maiden? H-hmph! I'm not jealous. A refined lady like me would never envy a shrine maiden of some dirt-reeking folk religion. What? An extraordinarily advanced arcane civilization? W-why would you tell me thaaat?!<end>"
+
+["1250306"]
+japanese = "聖座のボゲー<line-break>聖座のボゲー<line-break>聖座のボゲー<line-break>聖座のボゲー<line-break>聖座のボゲー<line-break>聖座のボゲー<end>"
+english = "Holy Seat Bogee! Holy Seat Bogee! Holy Seat Bogee! Holy Seat Bogee! Holy Seat Bogee! Holy Seat Bogee!<end>"
+
+["1250307"]
+japanese = "グラジェオンの聖座ってとこに行けば<line-break>エステルは地の巫女になれるんだって。<line-break><line-break>エステルがなりたいっていうんなら<line-break>それがいいと思うけどぉ、<line-break>前のエステルじゃなくなっちゃったら、<line-break>ルルアンタ、さびしいな…。<end>"
+english = "They say Esther can become the Earth Shrine Maiden if she goes to a place called Grajeon's Holy Seat. If Esther wants to become one, I think that's fine, but... Lulluantha would be sad if Esther wasn't the same anymore...<end>"
+
+["1250308"]
+japanese = "………………。<line-break><line-break><line-break>重大なのは、<line-break>地の巫女が現れるということより、<line-break>それにより魔導文明とやらが、<line-break>復活するかもしれぬ、<line-break>ということではないのか。<line-break><line-break>………………。<end>"
+english = "... What matters is not so much the appearance of the Earth Shrine Maiden as the possibility that this may revive the so-called arcane civilization. ...<end>"
+
+["1250309"]
+japanese = "精霊神グラジェオンの聖座へ行き、<line-break>その試練を受けることで、<line-break>エステルが地の巫女となる…。<line-break>エステルがお前を頼っている以上、<line-break>決断する権利はお前にある。<line-break><line-break>滅んだ魔導文明がにわかに復活し、<line-break>ディンガルを、そして世界を焼くか、<line-break>それとも…。<line-break>それが、お前にかかっている。<end>"
+english = "Esther will go to Grajeon the Spirit God's Holy Seat, undergo the trial there, and become the Earth Shrine Maiden... Since Esther is relying on you, the decision is yours to make. The fallen arcane civilization may suddenly return and burn Dingal, and then the world, or else... It all depends on you.<end>"
+
+["1250310"]
+japanese = "グラジェオンの座所に行けば、<line-break>エステルは地の巫女になれるんだって。<line-break>エステルはそれを望んでるんだよね？<line-break>だったら、一緒に行ってあげるのが、<line-break>スマートってものじゃないかな。<line-break><line-break>もちろん行くよ。<line-break>精霊の神様なんてものは、<line-break>めったに見られるもんじゃないからね。<end>"
+english = "They say Esther can become the Earth Shrine Maiden if she goes to Grajeon's seat. That's what Esther wants, right? Then going with her would be the smart thing to do. Of course I'm coming. You rarely get a chance to see a god of the spirits.<end>"
+
+["1250311"]
+japanese = "精霊神が巫女をその聖座へと<line-break>招いているだと…。<line-break><line-break>聞けば、巫女は強力な魔力を秘め、<line-break>なおかつ魔導文明復活の鍵も<line-break>握っているというではないか。<line-break>おお、そこにこそ、<line-break>私が夢見る人間進歩の次なる段階が<line-break>含有されているのではないか…！<end>"
+english = "A Spirit God is inviting a shrine maiden to its Holy Seat...? I hear the shrine maiden harbors tremendous magical power and also holds the key to reviving the arcane civilization. Ah! Could that contain the next stage in human progress that I have dreamed of...?!<end>"
+
+["1250312"]
+japanese = "精霊神グラジェオンの聖座にて、<line-break>エステル様をその巫女とする…。<line-break><line-break>どうなるのであれ、ヴァイは<line-break><value:$28>の決断に従います。<line-break><line-break>が、結果的にそれが、シャリの思惑と<line-break>重なることもお忘れなきように…。<end>"
+english = "Lady Esther is to become Grajeon the Spirit God's shrine maiden at the Holy Seat... Whatever may come, Vai will abide by <value:$28>'s decision. But please do not forget that the outcome may align with Shalli's designs...<end>"
+
+["1250313"]
+japanese = "精霊神グラジェオンの聖座で、<line-break>エステル様を巫女とするって…<line-break><line-break>ヴァイは何て言ったか知らないけど、<line-break>私は反対よ。<line-break><line-break>エステル様がどう思おうと、<line-break>それは結局シャリの思惑通りに<line-break>なってしまう、悪い予感がするから…。<end>"
+english = "Making Lady Esther a shrine maiden at Grajeon the Spirit God's Holy Seat...? I don't know what Vai said, but I'm against it. Whatever Lady Esther may think, I have a terrible feeling that it will ultimately play right into Shalli's hands...<end>"
+
+["1250314"]
+japanese = "イオンズせりふ追加予定！！！<end>"
+english = "Ions dialogue to be added!!!<end>"
+
+["1250315"]
+japanese = "精霊神グラジェオンの聖座へ行き、<line-break>その試練を受けることで、<line-break>エステルが地の巫女となる、か…。<line-break>まだ真偽もわからないことではあるが、<line-break>その背後にシャリの思惑があることは<line-break>間違いがない。<line-break>そのことを忘れず、くれぐれも<line-break>気を抜かないようにするんだぞ、<line-break><value:$28>。<end>"
+english = "So Esther will go to Grajeon the Spirit God's Holy Seat, undergo the trial there, and become the Earth Shrine Maiden... The truth of that remains uncertain, but there can be no doubt that Shalli's designs lie behind it. Never forget that, and do not let your guard down for an instant, <value:$28>.<end>"
+
+["1250316"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250317"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250318"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250319"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250320"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250321"]
+japanese = "（世界を救おうという想いが<line-break>\u3000エルファスを別のものに変えた。<line-break>\u3000あれが本当に神なのだろうか？）<end>"
+english = "(The desire to save the world transformed Elfas into something else. Was that truly a god?)<end>"
+
+["1250322"]
+japanese = "あれは、何だったのかしら？<line-break>エルファスのことを思えば、<line-break>神と呼んであげたいけれど…<line-break>…でも、あれは、神と呼ぶには<line-break>いびつすぎ、醜すぎたわ…。<end>"
+english = "What was that thing? For Elfas's sake, I want to call it a god... But it was too misshapen, too hideous to be called one...<end>"
+
+["1250323"]
+japanese = "エルファス…。<line-break>結局は奴もシャリの手のひらで<line-break>踊らされていたのじゃな…。<line-break>むなしいことじゃ…。<end>"
+english = "Elfas... In the end, Shalli was pulling his strings too... How empty it all is...<end>"
+
+["1250324"]
+japanese = "きゃっ！\u3000<line-break>神様って初めてみたかも。<line-break><line-break>どうせなら、私の願いを<line-break>かなえて欲しかったかも。<end>"
+english = "Oh! I think that might be the first god I've ever seen. It could at least have granted my wish while it was at it.<end>"
+
+["1250325"]
+japanese = "エルファス…。<line-break>いけすかない奴だったが、<line-break>あいつもシャリに操られてたんだな。<line-break>可哀想だが、弱ってるうちに<line-break>倒すしかないよな。<line-break>正義の味方ってのつらいよな。<end>"
+english = "Elfas... I couldn't stand him, but Shalli was manipulating him too. I feel sorry for him, but we have to defeat him while he's weakened. Being a champion of justice is tough.<end>"
+
+["1250326"]
+japanese = "何が何だか、ボクにはわからないよ…。<line-break>でも、悲しいことだってのは、<line-break>すっごくよくわかる。感じる！<line-break>エルファスのためにも、彼を信じた<line-break>人たちのためにも、ボクはシャリを<line-break>許さない！<end>"
+english = "I don't understand any of this... But I know, really know, that it's sad. I can feel it! For Elfas's sake, and for everyone who believed in him, I will never forgive Shalli!<end>"
+
+["1250327"]
+japanese = "あれは神などではなかった…！<line-break>断じて…私は、あんなものを、<line-break>エルファスを神とは認めないぞ！<end>"
+english = "That was no god...! Never... I will never acknowledge that thing, Elfas, as a god!<end>"
+
+["1250328"]
+japanese = "あの神も虚無の子も我々とは<line-break>相容れぬ存在のようです。<line-break><line-break>倒す必要があります。<line-break><value:$28>。<line-break>あなたの力をお借りしますよ。<end>"
+english = "It seems both that god and the Child of the Void are beings with whom we cannot coexist. They must be defeated. <value:$28>, I will require your strength.<end>"
+
+["1250329"]
+japanese = "シャリはあれを神なんて呼んだけど<line-break>…冗談じゃないわ！<line-break>人は、神様になんてなれやしない。<line-break>全知全能でパーフェクトなんて、<line-break>どう背伸びしたって無理なのよ。<line-break>だから、人なんじゃない…。<end>"
+english = "Shalli called that thing a god, but... What a joke! A person can never become a god. No matter how hard one tries, no human can be omniscient, omnipotent, and perfect. That's what makes us human...<end>"
+
+["1250330"]
+japanese = "姉ちゃん、あれは何だったんだろうな。<line-break>エルファスは世界を救おうとしたのか？<line-break>…俺には、何が何だかわかんねえよ。<end>"
+english = "Sis, what was that thing? Was Elfas trying to save the world? ...I don't understand any of this.<end>"
+
+["1250331"]
+japanese = "シャリはあれを神などと呼んだけど…<line-break>あれは絶対に神などではないわ。<line-break>あれは、醜い怪物に他ならない。<end>"
+english = "Shalli called it a god, but... It is absolutely no god. It is nothing more than a hideous monster.<end>"
+
+["1250332"]
+japanese = "まいったね…。<line-break>相手は神様ときたか。<line-break>まったく…退屈しない人生だな。<line-break>行こうか、<value:$28>。<end>"
+english = "Well, this is a fine mess... Now we're up against a god. Honestly... My life is never dull. Shall we go, <value:$28>?<end>"
+
+["1250333"]
+japanese = "あれは、神などではない。<line-break>俺には分かる。<line-break><line-break>やつらはエンシャントのどこかに<line-break>いるはずだ。<line-break>油断するな。<value:$28>。<end>"
+english = "That is no god. I know it. They must be somewhere in Ancient. Stay alert, <value:$28>.<end>"
+
+["1250334"]
+japanese = "大きすぎる力を手にすれば<line-break>それと同じくらい大切なものを失う。<line-break><line-break>あの神は大切なものを失った<line-break>悲しい存在じゃ。とすれば、<line-break>わしらにできることは１つ…。<end>"
+english = "When one gains power beyond measure, one loses something equally precious. That god is a tragic being that lost something precious. That leaves only one thing for us to do...<end>"
+
+["1250335"]
+japanese = "世界中の人たちが、エルファスの<line-break>呼びかけに応えた。<line-break>そして、強大な力が生まれた。<line-break>善にしろ、悪にしろ、人間って<line-break>すごい力を持ってるよね。<line-break>僕は本当にそう思うよ。<end>"
+english = "People all over the world answered Elfas's call, and tremendous power was born. For good or evil, human beings possess incredible power. I truly believe that.<end>"
+
+["1250336"]
+japanese = "この大地を闇の眷属の好きにさせる<line-break>訳にはいけない。<line-break>行くぞ！\u3000<value:$28>。<end>"
+english = "We cannot let the minions of darkness do as they please with this land. Let's go, <value:$28>!<end>"
+
+["1250337"]
+japanese = "あんなの、絶対、神様じゃないわ！<line-break>博識なアタクシは、ちゃ、ちゃんと<line-break>本物の神様を見たこともあってよ！<end>"
+english = "That thing is absolutely not a god! A learned lady like me has a-actually seen a real god, you know!<end>"
+
+["1250338"]
+japanese = "エルファス神になるのボゲー<line-break>エルファス神になるのボゲー<line-break>エルファス神になるのボゲー<line-break>エルファス神になるのボゲー<line-break>エルファス神になるのボゲー<line-break>エルファス神になるのボゲー<end>"
+english = "God Elfas, Bogee! God Elfas, Bogee! God Elfas, Bogee! God Elfas, Bogee! God Elfas, Bogee! God Elfas, Bogee!<end>"
+
+["1250339"]
+japanese = "あの神様をやっつけないと<line-break>みんなが戻ってこないんだよね。<line-break>ルルアンタ、悲しいよぉ。<end>"
+english = "Everyone won't come back unless we beat that god, right? Lulluantha is sad...<end>"
+
+["1250340"]
+japanese = "………………。<line-break>神か…面白い。<line-break>その力…見せてもらおう。<end>"
+english = "... A god... Interesting. Let me see its power.<end>"
+
+["1250341"]
+japanese = "人の弱さが産んだ<line-break>造られし神…。<line-break>悲しい存在だな。<line-break>しかし…倒さねばなるまい。<line-break>やつらは闇の深いところにいる。<line-break>逃がすな。<end>"
+english = "A manufactured god born of human weakness... A tragic being. Yet it must be defeated. They are deep within the darkness. Do not let them escape.<end>"
+
+["1250342"]
+japanese = "確かに輝いてた。確かに、みんなの<line-break>祈りが生んだものだった。<line-break>でも、ボクは認めたくないよ！<line-break>あれが神様だなんて…。<line-break>あんなキレイじゃない神様が、<line-break>生まれてしまっただなんて…！<end>"
+english = "It truly shone. It truly was born from everyone's prayers. But I don't want to accept it! I don't want to believe that was a god... that such an ugly god could have been born...!<end>"
+
+["1250343"]
+japanese = "人間は自らの力で未来を切り開く。<line-break>神に…造られた神などに<line-break>未来を委ねる訳にはいかない。<line-break>我々は人類の未来を取り戻すのだ！<end>"
+english = "Humanity must forge its own future. We cannot entrust that future to a god... to some manufactured god. We will reclaim humanity's future!<end>"
+
+["1250344"]
+japanese = "<value:$28>様…。<line-break>あれが神なのでしょうか？<line-break>…そうですね。<line-break>あれがどのような存在でも<line-break>世界の破滅を認めることはできません。<line-break>つまらないことを申しました。<end>"
+english = "<value:$28>... Is that truly a god? ...You're right. Whatever it may be, we cannot allow it to destroy the world. Forgive my foolish question.<end>"
+
+["1250345"]
+japanese = "人の願いから産まれた神…。<line-break>そんなものに勝てるのかな…。<line-break>お兄ちゃん…。<end>"
+english = "A god born from human wishes... Can we really defeat something like that...? Big Brother...<end>"
+
+["1250346"]
+japanese = "あれが神じゃと？<line-break>あんなもの断じて神ではない！<line-break><line-break>人の願いを利用しとるだけの存在を<line-break>神などと…わしは断じて認めん！<line-break><end>"
+english = "That is a god? That thing is no god! I will never acknowledge as a god a being that merely exploits people's wishes!<end>"
+
+["1250347"]
+japanese = "救世主であるということは、<line-break>まず人であるということではないか。<line-break>私はそう思う。<line-break>もし、エルファスが神になりたいと<line-break>シャリに願ったとすれば…その願いが<line-break>過ちの元だったのだろうな。<end>"
+english = "To be a Savior, must one not first be human? That is what I believe. If Elfas asked Shalli to make him a god... then that wish was likely the root of his error.<end>"
+
+["1250348"]
+japanese = "あれが神だとしても、あんなものに<line-break>俺たちの未来を決められるのは<line-break>ごめんだ！<line-break>俺たちの未来は俺たちが決める！<end>"
+english = "Even if that thing is a god, I'll be damned if I let it decide our future! We decide our own future!<end>"
+
+["1250349"]
+japanese = "あんなのが神なわけがないわ。<line-break>もしあれが神だとしても<line-break>世界を滅ぼす神なんていらない！<line-break><value:$28>、あいつを倒して<line-break>あたしたちの…いえ、この世界の明日を<line-break>取り戻すのよ！<end>"
+english = "There's no way that thing is a god. And even if it is, we don't need a god that destroys the world! <value:$28>, defeat it and take back our... no, this world's tomorrow!<end>"
+
+["1250350"]
+japanese = "人の思いとはこれほどのモノを<line-break>作り出してしまうのですね。<line-break>しかし何故でしょう、胸が痛むのです。<end>"
+english = "To think that human thoughts could create such a thing... Yet why does my heart ache so?<end>"
+
+["1250351"]
+japanese = "あんなの神様じゃありません！<line-break>人の犠牲の上に存在するものが、<line-break>神様なわけがありません。<end>"
+english = "That thing is no god! Nothing that exists through the sacrifice of human lives could ever be a god.<end>"
+
+["1250352"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250353"]
+japanese = "（イーシャは<line-break>\u3000ほほに傷のある男を<line-break>\u3000捜しているらしい）<line-break>（アルノートゥンのイオンズを<line-break>\u3000訪ねてみよう）<end>"
+english = "(Iria appears to be searching for a man with a scar on his cheek.) (Visit Ions in Alnortun.)<end>"
+
+["1250354"]
+japanese = "ほほに傷のある男？<line-break>ゴメン、心当たりがないわ。<line-break>他の人に聞いてみて。<end>"
+english = "A man with a scar on his cheek? Sorry, no one comes to mind. Try asking someone else.<end>"
+
+["1250355"]
+japanese = "ほほに傷のある男？<line-break>心当たりがありすぎて<line-break>見当もつかんな。<line-break>傭兵や冒険者をしておれば、<line-break>顔に傷がつくのも<line-break>珍しくないのでな。<end>"
+english = "A man with a scar on his cheek? Far too many men fit that description for me to guess. Facial scars are hardly uncommon among mercenaries and adventurers.<end>"
+
+["1250356"]
+japanese = "ほほに傷のある男の人？<line-break>それなら、アルノートゥンに、<line-break>そんな神官さんがいたかも。<line-break>あのおじさんと古い知り合いなんて<line-break>案外、イーシャってオバサンかも！<line-break>きゃっ！<end>"
+english = "A man with a scar on his cheek? I think there might be a priest like that in Alnortun. If she's an old friend of that man, maybe this Iria is actually an old lady! Eek!<end>"
+
+["1250357"]
+japanese = "ほほに傷のある男を捜してる？<line-break>お前ってつくづくお人好しだよな。<line-break>うーん…ほほに傷のある男……<line-break>ダメだ！<line-break>ぜんっぜん思い浮かばねえ！<line-break>今回は俺のシャレはナシな。<end>"
+english = "You're looking for a man with a scar on his cheek? You're such a soft touch. Hmm... a man with a scar on his cheek... Nope! I can't think of anyone at all! No pun from me this time.<end>"
+
+["1250358"]
+japanese = "ほほに傷のある人…。<line-break>そういえば、アルノートゥンの<line-break>イオンズさんにもあるよね。<line-break>なんかわかるかもしれないし、<line-break>ダメもとで行ってみたら、<line-break><value:$28>？<end>"
+english = "Someone with a scar on his cheek... Come to think of it, Ions in Alnortun has one too. He might know something, so why not go there and ask, <value:$28>? You've got nothing to lose.<end>"
+
+["1250359"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250360"]
+japanese = "ほほに傷のある男ですか。<line-break>もちろん知っていますよ。<line-break>アルノートゥンに行ってみてください。<end>"
+english = "A man with a scar on his cheek? Of course I know him. Try going to Alnortun.<end>"
+
+["1250361"]
+japanese = "ほほに傷のある男…？<line-break>うーん、<line-break>なんか心当たりあるような…。<line-break>うう…ダメ…。<line-break>頭が…なんか割れそうに痛い…。<line-break>他あたって…ゴメン…。<end>"
+english = "A man with a scar on his cheek...? Hmm, that does sound familiar... Ugh... No... My head... It feels like it's splitting open... Ask someone else... Sorry...<end>"
+
+["1250362"]
+japanese = "姉ちゃん、他に特徴はないのか？<line-break>それだけじゃわかんねえよ。<end>"
+english = "Sis, don't you have any other details? That's not enough to go on.<end>"
+
+["1250363"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250364"]
+japanese = "イーシャがほほに傷のある男をねぇ。<line-break>誰を捜してるのか見当はつくんだが、<line-break>居場所まではわからないな。<end>"
+english = "So Iria is looking for a man with a scar on his cheek. I have an idea who she means, but I don't know where he is.<end>"
+
+["1250365"]
+japanese = "…アルノートゥンに<line-break>ほほの傷が目立つ、<line-break>イオンズという神官がいる。<line-break>捜すなら、さっさと済ませるんだな。<end>"
+english = "...There's a priest named Ions in Alnortun with a prominent cheek scar. If you're going to look, get it over with.<end>"
+
+["1250366"]
+japanese = "ほほに傷のある男とな。<line-break>ふむ、聞いたことがあるぞ。<line-break> <line-break>アルノートゥンの地に、<line-break>優れた神官がおってな。<line-break>ほほの傷が特徴だという話じゃ。<end>"
+english = "A man with a scar on his cheek, you say? Hmm. I have heard of someone like that. There's an accomplished priest in Alnortun said to be known for the scar on his cheek.<end>"
+
+["1250367"]
+japanese = "その人かどうかわからないけど、<line-break>ほほの傷のある男って<line-break>アルノートゥンのイオンズさんかな。<line-break>イオンズさんなら、<line-break>上門の広場によくいらっしゃるよ。<end>"
+english = "I don't know if he's the man you're looking for, but could it be Ions in Alnortun? Ions is often at the Upper Gate plaza.<end>"
+
+["1250368"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250369"]
+japanese = "はぁ！？<line-break>知らないわよ。そんな男！<line-break>\u3000<line-break>仮に見たことがあったとして、<line-break>下等生物の顔がどんなだったかなんて<line-break>覚えているわけないでしょ！<end>"
+english = "What?! I don't know any man like that! Even if I had seen him, why would I remember what some inferior creature's face looked like?!<end>"
+
+["1250370"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250371"]
+japanese = "うーん…。<line-break>アルノートゥンのイオンズさんかな。<line-break>ほほにキズがあったよ。<line-break>よく、しょうこうきを出たとこの<line-break>かいだんに座ってるやさしい人だよ。<line-break>ね、あいにいってみよ？<end>"
+english = "Hmm... Maybe it's Ions in Alnortun. He had a scar on his cheek. He's a nice man who often sits on the stairs just outside the elevator. Hey, let's go see him!<end>"
+
+["1250372"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250373"]
+japanese = "ほほに傷のある男か。<line-break>心当たりがないな。<line-break>\u3000<line-break>旅なれた者なら<line-break>何か知っているかもしれんが。<end>"
+english = "A man with a scar on his cheek? No one comes to mind. A seasoned traveler might know something, though.<end>"
+
+["1250374"]
+japanese = "ああ、彼のことなら知ってるけど…<line-break>どうなったか知らせないほうがいいよ。<line-break>力になれなくて、ごめんね。<end>"
+english = "Oh, I know him, but... it's probably better not to say what happened to him. Sorry I can't help.<end>"
+
+["1250375"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250376"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250377"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250378"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250379"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250380"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250381"]
+japanese = "どうしても彼を見つけたいの。<line-break>詳しいことは言えないけど…<line-break>あたしの大切な人だから…。<end>"
+english = "I have to find him, no matter what. I can't tell you the details, but... he's someone very dear to me...<end>"
+
+["1250382"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1250383"]
+japanese = "すみません、ちょっとわからないです。<line-break>お役に立てなくてすみません。<end>"
+english = "I'm sorry, but I don't know. Sorry I couldn't help.<end>"
+
+["1250384"]
+japanese = "………………。<end>"
+english = "...<end>"

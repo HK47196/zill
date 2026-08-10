@@ -1,0 +1,541 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1540000"]
+japanese = "エルファス\u3000ボリューム５\u3000開始<end>"
+english = ""
+
+["1540001"]
+japanese = "………………。<line-break>\u3000<line-break>\u3000<line-break>美しいな…、<line-break>世界は…。<end>"
+english = "...The world is beautiful.<end>"
+
+["1540002"]
+japanese = "美しい？<line-break>美しいはずさ。<line-break>この世界は輝きに満ちている…。\u3000\u3000<line-break>特にその世界っていうものに、<line-break>好きな人が存在するとき、<line-break>人は世界を美しいと感じるようだね。<end>"
+english = "Beautiful? Of course it is. This world is filled with light... It seems people find the world especially beautiful when someone they love is in it.<end>"
+
+["1540003"]
+japanese = "姉さん以外に好きな人間ができたの？<line-break>エルファス…？<line-break>\u3000<end>"
+english = "Is there someone you love besides your sister, Elfas?<end>"
+
+["1540004"]
+japanese = "フフ、でもね、それは裏切りだよ？<line-break>君の姉さんに対する…。<end>"
+english = "Heh. But you know, that's a betrayal. A betrayal of your sister...<end>"
+
+["1540005"]
+japanese = "…先に裏切ったのは姉さんの方だ。<line-break>\u3000<line-break>\u3000<line-break>姉さんはネメアに心を奪われ、<line-break>僕が姉さんを救い出そうとしても<line-break>エンシャントを離れようとしなかった。<end>"
+english = "...She betrayed me first. Nemea stole her heart, and even when I tried to save her, she refused to leave Ancient.<end>"
+
+["1540006"]
+japanese = "だから、君はその報復に<line-break>姉さんを見殺しにした。<line-break>\u3000<line-break>皇帝エリュマルクの嫉妬から<line-break>彼女を救わずに、放っておいた。<line-break>君の力があれば救えたのに…。<end>"
+english = "So you took your revenge by leaving your sister to die. You abandoned her to Emperor Eryumark's jealousy instead of saving her, even though you had the power to do it...<end>"
+
+["1540007"]
+japanese = "…姉さんは死を望んでいた。<end>"
+english = "...My sister wanted to die.<end>"
+
+["1540008"]
+japanese = "死んだ人はかわいそうだね。<line-break>\u3000<line-break>\u3000<line-break>死んだ人はいつまでもそのときの<line-break>気持ちを、心に持ち続けるのに…<line-break>生きてる人は変わってゆく。<end>"
+english = "The dead are so pitiful. They carry the feelings they had at the moment of death forever... while the living go on changing.<end>"
+
+["1540009"]
+japanese = "死者の気持ちを平然と踏みにじる。<line-break>死者はどうやって<line-break>気持ちを訴えればいいんだろう？<end>"
+english = "They trample the feelings of the dead without a second thought. How are the dead supposed to make their feelings known?<end>"
+
+["1540010"]
+japanese = "…わからないよ、…シャリ。<line-break>…どうすれば、いいんだ？<end>"
+english = "...I don't know, Shalli. What am I supposed to do?<end>"
+
+["1540011"]
+japanese = "公平にするのさ。<line-break>それで、すべてが終わるよ。<end>"
+english = "Make it fair. Then it will all be over.<end>"
+
+["1540012"]
+japanese = "…シャリ、僕は…<line-break>僕は…、どうすれば…。<end>"
+english = "Shalli, I... What am I supposed to do...?<end>"
+
+["1540013"]
+japanese = "簡単さ。後悔してくれ。<line-break>後ろめたく思ってくれ。<line-break>\u3000<line-break>人間は賢いからね。後悔さえあれば、<line-break>自分を守るために、憎悪や軽蔑が<line-break>正当な理由とともに浮かんでくるだろ？<end>"
+english = "It's simple. Regret what you did. Feel guilty about it. Humans are clever, you know. Once regret sets in, hatred and contempt will rise up to protect you, complete with perfectly good reasons. Won't they?<end>"
+
+["1540014"]
+japanese = "さぁ、憎悪を通して世界を見て。<line-break>まだ、世界は美しいかい？<line-break><value:$28>のことを好きなの？<end>"
+english = "Now look at the world through your hatred. Is it still beautiful? Do you love <value:$28>?<end>"
+
+["1540015"]
+japanese = "嫌いだろ？<end>"
+english = "You hate that person, don't you?<end>"
+
+["1540016"]
+japanese = "いい子だ。<line-break>さて、実践の方に行こうか？<end>"
+english = "Good boy. Shall we put that into practice now?<end>"
+
+["1540017"]
+japanese = "<value:$28>を殺すんだ。<line-break>君の姉さんへの真心を示すために。<end>"
+english = "Kill <value:$28>. Show how true your devotion to your sister is.<end>"
+
+["1540018"]
+japanese = "意気地なしだなあ。<line-break>だから坊ちゃん育ちはダメなのさ。<end>"
+english = "What a coward. This is why sheltered little rich boys are no good.<end>"
+
+["1540019"]
+japanese = "はぁい、お元気？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>。<line-break>\u3000<line-break>せっかく会えたんだけど、<line-break>僕は用があるから、<line-break>失礼するよ。<end>"
+english = ""
+
+["1540020"]
+japanese = "でもね、この子がね<line-break>君のこと食べちゃいたいくらい\u3000\u3000<line-break>好きだなんだってさ！<end>"
+english = ""
+
+["1540021"]
+japanese = "<if><value:$2A><greater-equal>50相手してあげてよ！\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>じゃあねぇ！\u3000<value:$2B>の<line-break><value:$28>！<end>相手してあげてよ！\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>じゃあねぇ！<line-break><value:$28>！<end>"
+english = "<if><value:$2A><greater-equal>50Go on, play together! Bye-bye, <value:$28> the <value:$2B>!<end>Go on, play together! Bye-bye, <value:$28>!<end>"
+
+["1540022"]
+japanese = "エルファスＶｏｌ５予備メッセージ１<end>"
+english = ""
+
+["1540023"]
+japanese = "エルファスＶｏｌ５予備メッセージ２<end>"
+english = ""
+
+["1540024"]
+japanese = "エルファスＶｏｌ５予備メッセージ３<end>"
+english = ""
+
+["1540025"]
+japanese = "エルファスＶｏｌ５予備メッセージ４<end>"
+english = ""
+
+["1540026"]
+japanese = "エルファスＶｏｌ５予備メッセージ５<end>"
+english = ""
+
+["1540027"]
+japanese = "エルファスＶｏｌ５予備メッセージ６<end>"
+english = ""
+
+["1540028"]
+japanese = "エルファスＶｏｌ５予備メッセージ７<end>"
+english = ""
+
+["1540029"]
+japanese = "エルファスＶｏｌ５予備メッセージ８<end>"
+english = ""
+
+["1540030"]
+japanese = "エルファスＶｏｌ５予備メッセージ９<end>"
+english = ""
+
+["1540031"]
+japanese = "エルファスＶｏｌ５予備メッセージ１０<end>"
+english = ""
+
+["1540032"]
+japanese = "あーあ、世話が焼ける。<line-break>お手本見せないとダメなのかなあ。<line-break>くすくす。<end>"
+english = "Oh, what a nuisance. Do I have to show you how it's done? Hee hee.<end>"
+
+["1540033"]
+japanese = "逃げるんだ、<value:$28>！<end>"
+english = "Run, <value:$28>!<end>"
+
+["1540034"]
+japanese = "アハハ！\u3000無理無理。<line-break>さあ、出ておいで！<line-break>格好の遊び相手だよ。<end>"
+english = "Ahaha! No chance. Come on out! Here's the perfect playmate for you.<end>"
+
+["1540035"]
+japanese = "エルファスが仲間になった。<end>"
+english = "Elfas joined the party.<end>"
+
+["1540036"]
+japanese = "逃げるんだ、<value:$28>！<end>"
+english = "Run, <value:$28>!<end>"
+
+["1540037"]
+japanese = "アハハ！\u3000無理無理。<line-break>さあ、出ておいで！<line-break>格好の遊び相手だよ。<end>"
+english = "Ahaha! No chance. Come on out! Here's the perfect playmate for you.<end>"
+
+["1540038"]
+japanese = "……………………。<end>"
+english = "...<end>"
+
+["1540039"]
+japanese = "…えっ？<line-break>\u3000<line-break>\u3000<line-break>僕を…仲間に…？<end>"
+english = "What...? You want me... to join you?<end>"
+
+["1540040"]
+japanese = "エルファスが仲間になった。<end>"
+english = "Elfas joined the party.<end>"
+
+["1540041"]
+japanese = "後悔してる、エルファス？<line-break>それじゃ帰って反省しようか。<line-break>ゆっくり心の傷を開いてあげるよ。<end>"
+english = "Do you regret it, Elfas? Then let's go home so you can think about what you've done. I'll slowly open the wound in your heart.<end>"
+
+["1540042"]
+japanese = "じゃ、エルファスは連れていくね。<line-break>彼にはまだやってもらいたいことが、<line-break>残っているんだ。アハハ！<end>"
+english = "Well then, I'll be taking Elfas with me. There are still things I need him to do. Ahaha!<end>"
+
+["1540043"]
+japanese = "はぁい、元気そうだね、<value:$28>。\u3000<line-break>でも、ここまでくるとさすがに<line-break>目ざわりなんだよね。<line-break>\u3000<line-break>無限のソウルの持ち主は、<line-break>もうひとりいるから、<line-break>君にはそろそろ退場してもらおうかな。<end>"
+english = ""
+
+["1540044"]
+japanese = "やめてくれ、シャリ！<end>"
+english = "Stop, Shalli!<end>"
+
+["1540045"]
+japanese = "アハハ。<line-break>聞こえないよ。エルファス。<line-break>君のそんな虚ろな願いなんて。<end>"
+english = ""
+
+["1540046"]
+japanese = "逃げろ、<value:$28>！"
+english = ""
+
+["1540047"]
+japanese = "無理無理。<line-break>さあ、出ておいで！<line-break>格好の遊び相手だよ。<end>"
+english = ""
+
+["1540048"]
+japanese = "そこどいてよ、エルファス。<line-break><value:$28>には<line-break>もう退場してもらうんだから。<end>"
+english = ""
+
+["1540049"]
+japanese = "それはできない。<end>"
+english = ""
+
+["1540050"]
+japanese = "うーん、理解に苦しむなぁ。<end>"
+english = ""
+
+["1540051"]
+japanese = "あれあれ？\u3000ひょっとして、<line-break>僕を敵に回すって意思表示なのかな？<end>"
+english = ""
+
+["1540052"]
+japanese = "それも違う。<end>"
+english = ""
+
+["1540053"]
+japanese = "じゃあ、どういうことだい？<end>"
+english = ""
+
+["1540054"]
+japanese = "<value:$28>が…。<line-break>僕にとって大事な存在だからだ。<end>"
+english = ""
+
+["1540055"]
+japanese = "いいのかな？<line-break><value:$28>をかばうのって<line-break>裏切りじゃない？<line-break>君はこれまで多くの人の命を<line-break>奪ってきたんだよ。<line-break>\u3000<line-break>その中には誰かにとって、<line-break>大事な存在だった人もいたはずさ。<end>"
+english = ""
+
+["1540056"]
+japanese = "何人もその手にかけたあげく、<line-break>自分の姉さんまで見殺しにした君が、<line-break>今さら大事な人を守りたいだなんて…。<line-break>虫のよすぎる話だとは思わないかい？<end>"
+english = ""
+
+["1540057"]
+japanese = "わかってはいる。だけど…。<line-break>もう耐えきれないんだ。<end>"
+english = ""
+
+["1540058"]
+japanese = "理解してくれとは言わぬ。<line-break>だが<value:$28>を決して<line-break>死なせはしない。<end>"
+english = ""
+
+["1540059"]
+japanese = "ふーん。まあいいさ。<line-break>壊れたオモチャに興味はないよ。<line-break>さようなら、エルファス。<end>"
+english = ""
+
+["1540060"]
+japanese = "もう君には、僕がかなえてあげるだけの<line-break>願いはないみたいだからね。<end>"
+english = ""
+
+["1540061"]
+japanese = "もはや僕にはどこに行くアテもない。<line-break>すまないが、しばらく一緒に<line-break>いさせてくれ。<end>"
+english = ""
+
+["1540062"]
+japanese = "あーあ、世話が焼ける。<line-break>お手本見せないとダメなのかなあ。<line-break>くすくす。<end>"
+english = "Oh, what a nuisance. Do I have to show you how it's done? Hee hee.<end>"
+
+["1540063"]
+japanese = "やめてくれ、シャリ！<end>"
+english = "Stop, Shalli!<end>"
+
+["1540064"]
+japanese = "アハハ。<line-break>聞こえないよ。エルファス。<line-break>君のそんな虚ろな願いなんて。<end>"
+english = ""
+
+["1540065"]
+japanese = "逃げろ、<value:$28>！"
+english = ""
+
+["1540066"]
+japanese = "無理無理。<line-break>さあ、出ておいで！<line-break>格好の遊び相手だよ。<end>"
+english = ""
+
+["1540067"]
+japanese = "なんのマネだい、エルファス？<end>"
+english = "What do you think you're doing, Elfas?<end>"
+
+["1540068"]
+japanese = "…<value:$28>を<line-break>死なせたくないんだ…。<line-break>頼む。手を引いてくれ、シャリ。<end>"
+english = "...I don't want <value:$28> to die. Please, Shalli. Leave this alone.<end>"
+
+["1540069"]
+japanese = "姉さんは助けなかったのに<line-break><value:$28>は助けるの？<line-break>あれれ？\u3000どうしてだろ？<end>"
+english = "You wouldn't save your sister, but you'll save <value:$28>? Well, well. I wonder why?<end>"
+
+["1540070"]
+japanese = "あれあれ？\u3000ひょっとして、僕を敵に回すって意思表示なのかな？"
+english = ""
+
+["1540071"]
+japanese = "……………………。<end>"
+english = "...<end>"
+
+["1540072"]
+japanese = "ああ。ずるいね、エルファス。<line-break>君は姉さんの代わりを…安らぎを<line-break><value:$28>に求めてるんだ。<end>"
+english = "Ah. That's not fair, Elfas. You're seeking a replacement for your sister... solace... in <value:$28>.<end>"
+
+["1540073"]
+japanese = "違う。<value:$28>が…。<line-break>僕にとって大事な存在だからだ。<line-break>\u3000<line-break>僕はただ<value:$28>を<line-break>守りたい…。<end>"
+english = "No. It's because <value:$28> is important to me. I only want to protect <value:$28>...<end>"
+
+["1540074"]
+japanese = "くすっ。<line-break>ふーん、そう。<end>"
+english = "Hee hee. Is that so?<end>"
+
+["1540075"]
+japanese = "絶望ってね、<line-break>ホントは<line-break>深い、深ーい願いなんだよ。<line-break><value:$28>ってさ、<line-break>可能性とか希望そのものだし、<line-break>彼が強く惹かれるのも当然かもね。<end>"
+english = "You know, despair is really a deep, deep wish. And <value:$28> is possibility and hope itself. Perhaps it's only natural that he should be drawn so strongly.<end>"
+
+["1540076"]
+japanese = "わかってはいる。だけど…。<line-break>もう耐えきれないんだ。<end>"
+english = ""
+
+["1540077"]
+japanese = "理解してくれとは言わぬ。<line-break>だが<value:$28>を決して<line-break>死なせはしない。<end>"
+english = ""
+
+["1540078"]
+japanese = "ふーん。まあいいさ。<line-break>僕は願いをかなえるけど<line-break>強制はしない。<line-break>君の代わりを探すことにするよ。<line-break>さようなら、エルファス。<end>"
+english = "Hmm. Very well. I grant wishes, but I don't force anyone. I'll find someone to take your place. Farewell, Elfas.<end>"
+
+["1540079"]
+japanese = "もう君には、僕がかなえてあげるだけの<line-break>願いはないみたいだからね。<end>"
+english = ""
+
+["1540080"]
+japanese = "もはや僕にはどこに行くアテもない。<line-break>すまないが、しばらく一緒に<line-break>いさせてくれ。<end>"
+english = ""
+
+["1540081"]
+japanese = "やーちゃった、やっちゃった！<line-break>うわー、人間ってひどいよね、<line-break>もの言わぬ者たちに対しては。<line-break>何も言えない者たちを<line-break>平気で踏みにじっちゃうよね、<line-break>姉さんを見捨てるエルファスみたいに。<end>"
+english = "Oh, you did it! You really did it! Humans are so cruel to those without a voice, aren't they? They trample all over those who can't speak for themselves without a second thought. Just like Elfas abandoning his sister.<end>"
+
+["1540082"]
+japanese = "じゃ、エルファスは連れていくね。<line-break>彼にはまだやってもらいたいことが、<line-break>残っているんだ。アハハ！<end>"
+english = "Well then, I'll be taking Elfas with me. There are still things I need him to do. Ahaha!<end>"
+
+["1540083"]
+japanese = "やーちゃった、やっちゃった！<line-break>うわー、人間ってひどいよね、<line-break>もの言わぬ者たちに対しては。<line-break>何も言えない者たちを<line-break>平気で踏みにじっちゃうよね、<line-break>姉さんを見捨てるエルファスみたいに。<end>"
+english = "Oh, you did it! You really did it! Humans are so cruel to those without a voice, aren't they? They trample all over those who can't speak for themselves without a second thought. Just like Elfas abandoning his sister.<end>"
+
+["1540084"]
+japanese = "後悔してる、エルファス？<line-break>それじゃ帰って反省しようか。<line-break>ゆっくり心の傷を開いてあげるよ。<end>"
+english = "Do you regret it, Elfas? Then let's go home so you can think about what you've done. I'll slowly open the wound in your heart.<end>"
+
+["1540085"]
+japanese = ""
+english = ""
+
+["1540086"]
+japanese = ""
+english = ""
+
+["1540087"]
+japanese = ""
+english = ""
+
+["1540088"]
+japanese = ""
+english = ""
+
+["1540089"]
+japanese = ""
+english = ""
+
+["1540090"]
+japanese = ""
+english = ""
+
+["1540091"]
+japanese = ""
+english = ""
+
+["1540092"]
+japanese = ""
+english = ""
+
+["1540093"]
+japanese = ""
+english = ""
+
+["1540094"]
+japanese = "やめるんだ、シャリ。<line-break>できれば、お前を討ちたくはない…。<end>"
+english = "Stop, Shalli. I don't want to have to strike you down if I can help it...<end>"
+
+["1540095"]
+japanese = "ウフフアハハ…！<line-break>可愛いこと言うね、エルファス。<line-break>そういう甘ちゃんなところは大好きさ。<line-break>でもね、君はもう負け犬なんだ。<line-break>神になる勇気をなくした君には、<line-break>もう石ころほどの価値もないんだよ。<end>"
+english = "Heh heh... Ahahaha! What a sweet thing to say, Elfas. I just love that softhearted side of you. But you're a loser now. You've lost your courage to become a god, so you're not even worth a pebble anymore.<end>"
+
+["1540096"]
+japanese = "くっくっくっ。<value:$28>よ。<line-break>わしらがなにゆえに闇の巨人を呼び出したか、わかるか？<line-break>すべてはバロル様復活のためよ。<line-break>闇の巨人はバロル様が降臨するための<line-break>依り代に必要なのでな。<end>"
+english = "Heh heh heh. Tell me, <value:$28>: do you know why we summoned the Dark Giant? It was all to bring Lord Balor back. The Dark Giant is needed as the vessel through which Lord Balor will descend.<end>"
+
+["1540097"]
+japanese = "闇の巨人をこの世界に<line-break>呼び寄せることができたのも、<line-break>強大な闇の力の持ち主である<line-break>闇の王女がいればこそさ。<line-break>いくら僕やゾフォル爺さんでも<line-break>闇の巨人は生み出せないからね。<end>"
+english = "We were only able to summon the Dark Giant into this world because we had the Princess of Darkness, with all her immense dark power. Even old Zofor and I couldn't create the Dark Giant ourselves.<end>"
+
+["1540098"]
+japanese = "そして、彼女を闇に突き落とした<line-break>最大の功労者は君だよ。<line-break><value:$28>。アハハハ。<end>"
+english = "And no one did more to plunge her into darkness than you, <value:$28>. Ahahaha!<end>"
+
+["1540099"]
+japanese = "さぁて、邪眼帝と呼ばれたバロルの<line-break>お手並み拝見といこうかな。<end>"
+english = "Now then, let's see what Balor, the Evil-Eyed Emperor, can do.<end>"
+
+["1540100"]
+japanese = "ウフフ…アハハ！\u3000すごい！<line-break>予想以上だね、バロルの力は！<end>"
+english = "Hee hee... Ahaha! Amazing! Balor's power exceeds even my expectations!<end>"
+
+["1540101"]
+japanese = "ネ、ネメア…。<line-break>生きていたの…。<line-break> <line-break>ふふふ…でも、同じ事。<line-break>魔王バロルよ、<line-break>闇の者、ネメアを消し去りたまえ！<end>"
+english = ""
+
+["1540102"]
+japanese = "くっ！<line-break>破滅の槍の力を解放する気？<end>"
+english = "Damn! Are you going to unleash the power of the Spear of Ruin?<end>"
+
+["1540103"]
+japanese = "僕は残念だよ。ネメア。<line-break>次元の狭間に消えたと聞いていたのに、<line-break>また地上に舞い戻ってくるなんて。<end>"
+english = ""
+
+["1540104"]
+japanese = "エルファス。イズのことは…。<end>"
+english = ""
+
+["1540105"]
+japanese = "黙っててくれないか、ネメア。お前が姉さんにした仕打ちを<line-break>僕は忘れたわけじゃない。<line-break>ただ、今は死者にではなく…、<line-break>生きている人への思いを<line-break>大切にしたいんだ。<end>"
+english = ""
+
+["1540106"]
+japanese = "フッ。いずれすべてが終われば、<line-break>語り合う機会もあるだろう。<line-break>\u3000<line-break>今はただ鬼神となって、奴らの野望を<line-break>粉砕せねばならん。<end>"
+english = ""
+
+["1540107"]
+japanese = "奇遇だね。認めたくはないけど<line-break>初めて意見が合った。<line-break>急ごう、<value:$28>。<line-break>今ならまだ間に合う。<line-break>バロルが本来の力を取り戻す前に<line-break>滅ぼすんだ。<end>"
+english = ""
+
+["1540108"]
+japanese = "人間は、よきにつけ悪しきにつけ、<line-break>変わってゆくものです。<line-break>\u3000<line-break>人の思いは、やがて世界を<line-break>新たな未来に導いていくでしょう。<line-break>これからは人間の時代が来るんですね。<end>"
+english = ""
+
+["1540109"]
+japanese = "だけど、<line-break>そうは…いかない！<end>"
+english = "But I won't let that happen!<end>"
+
+["1540110"]
+japanese = "そんなこと知るもんか。<end>"
+english = "How should I know?<end>"
+
+["1540111"]
+japanese = "答えはね、ネメアは気づいているからさ。<line-break>あのとき、世界を救ったのが<line-break>自分たちだけじゃなかったって。<line-break>そしてあのときの悲劇のこともね。<line-break>それで彼は英雄視されるのを拒むのさ。<line-break>僕に言わせれば変なこだわりだけどね。<line-break>魔王バロルとネメアが戦ってるとき<line-break>実は、別の場所でも<line-break>世界を救うための戦いがあったんだ。<line-break>不死である魔王バロルを倒すために<line-break>イズの封印を破るって戦いがね。<line-break>\u3000<line-break>ゼネテス、君、そして<line-break>忘れられた大いなるソウルの持ち主は、<line-break>イズが施した封印に挑んだ…。<end>"
+english = "The answer is that Nemea knows. He knows his group wasn't the only one to save the world that day, and he knows about the tragedy that occurred. That's why he refuses to be hailed as a hero. A strange thing to be so particular about, if you ask me. While Nemea fought Balor, Demon King, another battle to save the world was actually being fought elsewhere―a battle to break Iz's seal so that the immortal Balor could be defeated. Xenetes, you, and the forgotten bearer of the great Soul challenged the seal Iz had placed...<end>"
+
+["1540112"]
+japanese = "ゾフォルは苦しんでいたんだ。<line-break>\u3000<line-break>\u3000<line-break>あらがえない運命と<line-break>見たくもない予知に<line-break>苛まれながら…。<line-break>そしていつの日か、<line-break>その苦しみから解放されることを<line-break>願っていたんだ…。<line-break>…僕は<value:$28>に救われた。<line-break>\u3000<line-break>\u3000<line-break>もし、<value:$28>と<line-break>出会っていなければ…<line-break>\u3000<line-break>今ここで倒されていたのは<line-break>僕だったのかもしれない…。<end>"
+english = "Zophor was suffering, tormented by a fate he could not resist and visions he never wished to see. All the while, he hoped that someday he would be freed from that suffering... <value:$28> saved me. If I had never met <value:$28>... perhaps I would have been the one lying defeated here.<end>"
+
+["1540113"]
+japanese = "ゾフォルは苦しんでいたんだ。<line-break>\u3000<line-break>\u3000<line-break>あらがえない運命と<line-break>見たくもない予知に<line-break>苛まれながら…。<line-break>そしていつの日か、<line-break>その苦しみから解放されることを<line-break>願っていたんだ…。<line-break>…僕は<value:$28>に救われた。<line-break>\u3000<line-break>\u3000<line-break>もし、<value:$28>と<line-break>出会っていなければ…<line-break>\u3000<line-break>今ここで倒されていたのは<line-break>僕だったのかもしれない…。<end>"
+english = "Zophor was suffering, tormented by a fate he could not resist and visions he never wished to see. All the while, he hoped that someday he would be freed from that suffering... <value:$28> saved me. If I had never met <value:$28>... perhaps I would have been the one lying defeated here.<end>"
+
+["1540114"]
+japanese = "やめるんだ、シャリ。<line-break>できれば、お前を討ちたくはない…。<end>"
+english = "Stop this, Shalli. I would rather not strike you down...<end>"
+
+["1540115"]
+japanese = "ウフフ…。<end>"
+english = "Hee hee...<end>"
+
+["1540116"]
+japanese = "ウフフアハハ…！<line-break>かわいいこと言うね、エルファス。<line-break>そういう甘ちゃんなところは大好きさ。<line-break>でも、君はもう舞台を降りちゃったし、<line-break>ちょっと惜しいけど、<line-break>代役を立てさせてもらうよ。<line-break>破壊の化身、魔王バロルをね。<end>"
+english = "Hee hee, ahaha...! How sweet of you, Elfas. I love that softhearted side of you. But you've already left the stage. It's a bit of a shame, but I'll have to cast a replacement: the Embodiment of Destruction, Balor, Demon King.<end>"
+
+["1540117"]
+japanese = "もう誰にも止められないよ。<line-break>強大な闇の巨人が世界中を襲ってるのさ。<line-break>でも、これはほんの序の口<line-break>ここからが本番だ。<end>"
+english = ""
+
+["1540118"]
+japanese = "ゾフォル爺さん、頼んだよ。<end>"
+english = ""
+
+["1540119"]
+japanese = "くっくっくっ。<value:$28>よ。<line-break>わしらがなにゆえに闇の巨人を呼び出したか、わかるか？<line-break>すべてはバロル様復活のためよ。<line-break>闇の巨人はバロル様が降臨するための<line-break>依り代に必要なのでな。<end>"
+english = ""
+
+["1540120"]
+japanese = "闇の巨人をこれだけ<line-break>呼び寄せることができたから<line-break>バロルも復活できた。<line-break>それもすべて、<line-break>強大な闇の力の持ち主である<line-break>闇の王女がいればこそだけどね。<end>"
+english = "Summoning this many Giants of Darkness made it possible to revive Balor as well. Of course, none of it would have been possible without the Princess of Darkness and her tremendous dark power.<end>"
+
+["1540121"]
+japanese = "ありがとう、<value:$28>。<line-break>彼女を闇に突き落とした<line-break>最大の功労者は君だよ。アハハハ！<end>"
+english = "Thank you, <value:$28>. No one did more than you to cast her into darkness. Ahahaha!<end>"
+
+["1540122"]
+japanese = "さぁて、邪眼帝と呼ばれたバロルの<line-break>お手並み拝見といこうかな。<end>"
+english = "Now then, let's see what Balor, the Evil-Eyed Emperor, can do.<end>"
+
+["1540123"]
+japanese = "ウフフ…アハハ！\u3000すごい！<line-break>予想以上だね、バロルの力は！<end>"
+english = "Hee hee... Ahaha! Amazing! Balor's power is greater than I expected!<end>"
+
+["1540124"]
+japanese = "あら、ネメア…。<line-break>破壊神の門たる<line-break>偽りの勇者様。<line-break>あなたに彼らと一緒にいる<line-break>資格はないわ。<line-break>神よ、汚らわしきネメアを消せ！<end>"
+english = "Why, Nemea... False Hero, gateway of the God of Destruction. You have no right to stand with them. God, erase that filthy Nemea!<end>"
+
+["1540125"]
+japanese = "くっ！<line-break>破滅の槍の力を解放する気なの？<end>"
+english = "Damn! Are you going to unleash the Spear of Ruin's power?<end>"
+
+["1540126"]
+japanese = "エルファス…。<end>"
+english = "Elfas...<end>"
+
+["1540127"]
+japanese = "僕は残念だよ。ネメア。<line-break>次元の狭間に消えたと聞いていたのに、<line-break>また地上に舞い戻ってくるなんて。<end>"
+english = ""
+
+["1540128"]
+japanese = "エルファス。イズのことは…。<end>"
+english = ""
+
+["1540129"]
+japanese = "ネメア…。<line-break>姉さんのこと、<line-break>水に流したわけじゃない。<line-break>ただ、今は死者にではなく…、<line-break>生きている人への思いを<line-break>大切にしたいんだ。<end>"
+english = "Nemea... I haven't put what happened to my older sister behind me. But right now, the feelings I want to cherish aren't for the dead... They're for the living.<end>"
+
+["1540130"]
+japanese = "ふっ…そうか。<end>"
+english = "Hmph... I see.<end>"
+
+["1540131"]
+japanese = "奇遇だね。認めたくはないけど<line-break>初めて意見が合った。<line-break>急ごう、<value:$28>。<line-break>今ならまだ間に合う。<line-break>バロルが本来の力を取り戻す前に<line-break>滅ぼすんだ。<end>"
+english = ""
+
+["1540132"]
+japanese = "人間は、善きにつけ悪しきにつけ、<line-break>変わってゆくものです。<line-break>\u3000<line-break>人の思いは、やがて世界を<line-break>新たな未来に導いていくでしょう。<line-break>これからは人間の時代が来るんですね。<end>"
+english = ""
+
+["1540133"]
+japanese = "僕は<value:$28>と進む道を選んだ。<line-break>もう、過去からも運命からも<line-break>逃げるつもりはない。<end>"
+english = "I chose to walk the same path as <value:$28>. I won't run from the past or from fate anymore.<end>"
+
+["1540134"]
+japanese = "エルファス\u3000ボリューム５\u3000終端<end>"
+english = ""

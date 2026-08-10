@@ -1,0 +1,341 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1750000"]
+japanese = "ロッシマ（２）メッセージＶ１開始<end>"
+english = ""
+
+["1750001"]
+japanese = "おおぉぉい！\u3000主人！<line-break>すまんけんど、酒の追加を<line-break>持ってきてくれんかのう？<end>"
+english = "Heeey! Boss! Sorry to bother you, but could you bring me some more booze?<end>"
+
+["1750002"]
+japanese = "はい、はい。<line-break>あとで持っていきますから。<end>"
+english = "All right, all right. I'll bring you some later.<end>"
+
+["1750003"]
+japanese = "とっておきの小部屋も、すっかり<line-break>あの老人専用になってしまったな、<line-break>トホホホ…<end>"
+english = "And now my prized little room has become that old man's private retreat. Oh, the misery...<end>"
+
+["1750004"]
+japanese = "ここは、わしの貸し切りじゃー\u3000<line-break>おもーとったけど、<line-break>そーじゃなかったんじゃのう。<line-break>こがいな隠し部屋に気付くとは、<line-break>われも勘がええのー。<line-break>名前はなんてゆーんね？<end>"
+english = "I thought I had this place all to myself, but I suppose not. Sharp of you to find a hidden room like this. What's your name?<end>"
+
+["1750005"]
+japanese = "<value:$28>ゆーんか。<line-break>わしはロッシマじゃ。<line-break>よろしくのう。<end>"
+english = "<value:$28>, is it? I'm Rossima. Good to meet you.<end>"
+
+["1750006"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1750007"]
+japanese = "われ…。<line-break>ええ体しとるのう。<end>"
+english = "You... You've got quite the build.<end>"
+
+["1750008"]
+japanese = "か、かんちがいしんさんな。<line-break>やらしー意味じゃないんでぇ。<line-break>われ、冒険者じゃろう？<end>"
+english = "D-don't get the wrong idea. I didn't mean anything indecent. You're an adventurer, aren't you?<end>"
+
+["1750009"]
+japanese = "冒険者をやっとって、<line-break>楽しいか？<end>"
+english = "Do you enjoy being an adventurer?<end>"
+
+["1750010"]
+japanese = "楽しいです<end>"
+english = "It's fun.<end>"
+
+["1750011"]
+japanese = "つまらないです<end>"
+english = "It's boring.<end>"
+
+["1750012"]
+japanese = "そりゃあ結構なことじゃ。\u3000\u3000\u3000\u3000<line-break>冒険はロマンじゃけえのー。<line-break>\u3000<line-break>じゃけど、まだ、ほんまの楽しみは<line-break>知らんじゃろう。<end>"
+english = "Well, that's grand. Adventure is the stuff of romance, after all. But you haven't discovered the real fun of it yet, have you?<end>"
+
+["1750013"]
+japanese = "ほーか、つまらんか。<line-break>なるほどのう。<line-break>じゃが、冒険者を続けるんじゃろ？<end>"
+english = "Oh, so you find it dull, eh? Hmm. But you're going to carry on as an adventurer, aren't you?<end>"
+
+["1750014"]
+japanese = "ほんなら、楽しいほうが<line-break>ええじゃろうのう。<end>"
+english = "Then you might as well enjoy yourself, eh?<end>"
+
+["1750015"]
+japanese = "わしが、冒険の本当のおもしろさを<line-break>教えてやろうかい。<line-break>われ、今、暇なんか？<end>"
+english = "How about I show you what makes adventuring truly exciting? You got some time to spare right now?<end>"
+
+["1750016"]
+japanese = "暇です<end>"
+english = "I'm free.<end>"
+
+["1750017"]
+japanese = "忙しいです<end>"
+english = "I'm busy.<end>"
+
+["1750018"]
+japanese = "ほんなら、行こうか。<line-break>仲間をつれて<line-break>わしについてきんさい。<end>"
+english = "Well then, let's be off. Gather your companions and follow me.<end>"
+
+["1750019"]
+japanese = "ここはのう、昔、盗人虎の穴と<line-break>呼ばれとった所よ。<end>"
+english = "Long ago, this place was called the Thieves' Den.<end>"
+
+["1750020"]
+japanese = "ここにいろいろな罠を仕掛けといた。<line-break>それをうまく突破して、<line-break>試練の証を見つけんさい。<line-break>われの実力を<line-break>見させてもらうけぇのう。<end>"
+english = "I've set all sorts of traps in here. Make your way past them and find the trial token. Let's see what you're capable of.<end>"
+
+["1750021"]
+japanese = "ほーか、暇か！<line-break>そんなら、わしについてきんさい。<line-break>…と言いたいとこなんじゃが。<line-break>ディテクターのスキルを使えんと<line-break>話にならん。宝箱を開けられんと<line-break>試練にならんからなあ。<end>"
+english = "Oh, so you're free! Then follow me―or so I'd like to say. But there's no point unless you can use the Detector skill. It wouldn't be much of a trial if you couldn't open the treasure chests.<end>"
+
+["1750022"]
+japanese = "そんなにあせりんさんなや。\u3000\u3000\u3000<line-break>楽しみはとっておくもんでぇ。<line-break>そうじゃな…。<line-break>もうすこしギルドで仕事をして<line-break>グレモリィのソウルを宿しんさい。<line-break>わしはここで待っとるけぇ。<end>"
+english = "No need to rush. Fun's best saved for later. Let's see... Do a little more work for the Guild and acquire Gremory's Soul. I'll wait here.<end>"
+
+["1750023"]
+japanese = "ほんまか…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>そんならしょうがないの。<line-break>わしはここで待っとるけぇ。<line-break>われが暇になったらきんさい。<line-break>冒険のおもしろさを<line-break>教えてやるけんの。<end>"
+english = "Is that so... Well, it can't be helped. I'll wait here, so come back when you're free. Then I'll show you what makes adventuring so much fun.<end>"
+
+["1750024"]
+japanese = "どしたんね？<line-break>実は暇じゃったんかいの？<end>"
+english = "What's the matter? Were you free after all?<end>"
+
+["1750025"]
+japanese = "おお、われか！<line-break>どうねぇ、暇になったかいの？<end>"
+english = "Oh, it's you! Well, are you free now?<end>"
+
+["1750026"]
+japanese = "暇です<end>"
+english = "I'm free.<end>"
+
+["1750027"]
+japanese = "忙しいです<end>"
+english = "I'm busy.<end>"
+
+["1750028"]
+japanese = "ほんなら、行こうか。<line-break>仲間をつれて<line-break>わしについてきんさい。<end>"
+english = "Right, let's be off. Gather your companions and follow me.<end>"
+
+["1750029"]
+japanese = "ここはのう、昔、盗人虎の穴と<line-break>呼ばれとった所よ。<end>"
+english = "Long ago, this place was known as the Thieves' Den.<end>"
+
+["1750030"]
+japanese = "ここにいろいろな罠を仕掛けといた。<line-break>それをうまく突破して、<line-break>試練の証を見つけんさい。<line-break>われの実力を<line-break>見させてもらうけぇのう。<end>"
+english = "I've set all sorts of traps here. Make your way past them and find the proof of the trial. Let's see what you're capable of.<end>"
+
+["1750031"]
+japanese = "ほーか、暇か！<line-break>そんなら、わしについてきんさい。<line-break>…と言いたいとこなんじゃが。<line-break>ディテクターのスキルを使えんと<line-break>話にならん。宝箱を開けられんと<line-break>試練にならんからなあ。<end>"
+english = "Oh, so you're free! Then follow me. Or that's what I'd like to say, but there's no point if you can't use the Detector skill. You can't take the trial if you can't open the treasure chests.<end>"
+
+["1750032"]
+japanese = "そんなにあせりんさんなや。\u3000\u3000\u3000<line-break>楽しみはとっておくもんでぇ。<line-break>そうじゃな…。<line-break>もうすこしギルドで仕事をして<line-break>グレモリィのソウルを宿しんさい。<line-break>わしはここで待っとるけぇ。<end>"
+english = "No need to rush. Some pleasures are best saved for later. Let's see... Do a little more work for the Guild and let Gremory's Soul dwell within you. I'll be waiting here.<end>"
+
+["1750033"]
+japanese = "ほんまか…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>そんならしょうがないの。<line-break>わしはここで待っとるけぇ。<line-break>われが暇になったらきんさい。<line-break>冒険のおもしろさを<line-break>教えてやるけんの。<end>"
+english = "Is that so... Well, no help for it, then. I'll wait here. Come back when you're free, and I'll show you what makes adventuring so much fun.<end>"
+
+["1750034"]
+japanese = "怪しいと思うたら、調べてみにゃあ<line-break>始まらんで。気い抜いたら死じゃ。<end>"
+english = "If something looks suspicious, check it out. Let your guard down and you're dead.<end>"
+
+["1750035"]
+japanese = "われ、どこ行く気やぁ！<line-break>まだ、試練の証は手に<line-break>入れとらんじゃろが！\u3000逃げるんか！<end>"
+english = "Where do you think you're going? You haven't found the proof of the trial yet! Are you running away?<end>"
+
+["1750036"]
+japanese = "宝箱に罠はつきもんじゃけぇのう。<line-break>成功したからゆうて<line-break>気を抜きんさんなよ。<end>"
+english = "Treasure chests come with traps. Don't let your guard down just because you succeeded.<end>"
+
+["1750037"]
+japanese = "これが呪いガスじゃったら<line-break>どうする気じゃ。<line-break>パーティーが全滅するんでぇ！<end>"
+english = "What if that had been curse gas? Your whole party would've been wiped out!<end>"
+
+["1750038"]
+japanese = "そがーな罠はのう、<line-break>はずせて当然なんじゃけぇ。<end>"
+english = "You ought to be able to disarm a trap like that.<end>"
+
+["1750039"]
+japanese = "このアホたれが！<line-break>猛毒の矢じゃったら、<line-break>われ死んどったぞ。<end>"
+english = "You fool! If that had been an arrow tipped with deadly poison, you'd be dead.<end>"
+
+["1750040"]
+japanese = "そがーな罠はのう、コツさえ<line-break>つかめば簡単なんでぇ。<end>"
+english = "A trap like that is easy once you know the trick.<end>"
+
+["1750041"]
+japanese = "ありゃりゃー。運が悪けりゃ、<line-break>われの体はバラバラじゃあ。<line-break>そがーに早死にしたいんかのう。<end>"
+english = "Oh, dear. With a bit less luck, you'd have been torn to pieces. Are you really that eager to die young?<end>"
+
+["1750042"]
+japanese = "罠を発見した。<end>"
+english = "Trap detected.<end>"
+
+["1750043"]
+japanese = "そりゃーのう、<line-break>床からトゲが飛び出す罠よね。<line-break>気づいてよかったのう。<end>"
+english = "That one sends spikes shooting up from the floor. Good thing you spotted it.<end>"
+
+["1750044"]
+japanese = "その罠は、<line-break>スイッチを切らんと解除できんで。<line-break>スイッチを探しんさい。<end>"
+english = "You can't disarm that trap until you turn off the switch. Go find it.<end>"
+
+["1750045"]
+japanese = "われ、どこに眼つけとんじゃ！<line-break>床の色が違うじゃろが！<line-break>死にたいんか！<end>"
+english = "Where the hell are you looking?! The floor's a different color! You trying to get yourself killed?!<end>"
+
+["1750046"]
+japanese = "床からトゲの罠を発見した。<line-break>しかし、解除してあるようだ。<end>"
+english = "A spike trap was found in the floor, but it appears to have been disarmed.<end>"
+
+["1750047"]
+japanese = "竜の像の口の中にスイッチを見つけた<line-break>スイッチを押してみますか？<end>"
+english = "You found a switch inside the dragon statue's mouth. Would you like to press it?<end>"
+
+["1750048"]
+japanese = "押さない<end>"
+english = "Don't press it<end>"
+
+["1750049"]
+japanese = "押す<end>"
+english = "Press it<end>"
+
+["1750050"]
+japanese = "何かの装置が作動したようだ。<end>"
+english = "Some kind of device appears to have activated.<end>"
+
+["1750051"]
+japanese = "これで、あの罠が解除できた<line-break>わけじゃのう。<line-break>さっそく見に行ってみんさい。<end>"
+english = "That should have disarmed the trap. Go and have a look right away.<end>"
+
+["1750052"]
+japanese = "竜の像の口の中に<line-break>十字型と円型の２つのくぼみがある。<end>"
+english = "Inside the dragon statue's mouth are two indentations, one cross-shaped and one circular.<end>"
+
+["1750053"]
+japanese = "竜の像の口の中に<line-break>十字型と円型の２つのくぼみがある。<end>"
+english = "Inside the dragon statue's mouth are two indentations, one cross-shaped and one circular.<end>"
+
+["1750054"]
+japanese = "赤色の十字鍵をはめ込みますか？<end>"
+english = "Would you like to insert the red cross-shaped key?<end>"
+
+["1750055"]
+japanese = "はめ込まない<end>"
+english = "Don't insert it<end>"
+
+["1750056"]
+japanese = "はめ込む<end>"
+english = "Insert it<end>"
+
+["1750057"]
+japanese = "赤色の十字鍵は十字型のくぼみに<line-break>ぴったりとおさまった。<end>"
+english = "The red cross-shaped key fit perfectly into the cross-shaped recess.<end>"
+
+["1750058"]
+japanese = "銀色の円盤をはめ込みますか？<line-break>"
+english = "Insert the silver disc?"
+
+["1750059"]
+japanese = "はめ込まない<end>"
+english = "Do not insert<end>"
+
+["1750060"]
+japanese = "はめ込む<end>"
+english = "Insert<end>"
+
+["1750061"]
+japanese = "銀色の円盤は円型のくぼみに<line-break>ぴったりとおさまった。<end>"
+english = "The silver disc fit perfectly into the circular recess.<end>"
+
+["1750062"]
+japanese = "竜の像の口の中に<line-break>十字型と円型の２つのくぼみがある。<end>"
+english = "Inside the dragon statue's mouth are two recesses, one cross-shaped and one circular.<end>"
+
+["1750063"]
+japanese = "銀色の円盤をはめ込みますか？<end>"
+english = "Insert the silver disc?<end>"
+
+["1750064"]
+japanese = "はめ込まない<end>"
+english = "Do not insert<end>"
+
+["1750065"]
+japanese = "はめ込む<end>"
+english = "Insert<end>"
+
+["1750066"]
+japanese = "銀色の円盤は円型のくぼみに<line-break>ぴったりとおさまった。<end>"
+english = "The silver disc fit perfectly into the circular recess.<end>"
+
+["1750067"]
+japanese = "やーっとここまで来たのう。<line-break>もう一息でぇ。<end>"
+english = "Finally made it this far, eh? Just a little farther now.<end>"
+
+["1750068"]
+japanese = "よっしゃ、よう試練を乗り越えたの。<line-break>そいじゃあ、外へ出ようかの。<end>"
+english = "Well done! You made it through the trial. Let's head outside, then.<end>"
+
+["1750069"]
+japanese = "どうね？\u3000楽しかったじゃろ？<line-break>今日の失敗は、明日への糧じゃけぇ。<line-break>同じ失敗は、もうせんことよ。<line-break>われのようなひよっこはのぉ、<line-break>一歩一歩調べながら進むぐらいの<line-break>心構えでおらんといけんで。<end>"
+english = "Well? Had fun, didn't you? Today's mistake is a lesson for tomorrow, so don't make the same mistake again. A greenhorn like you needs to check the way ahead and take things one step at a time.<end>"
+
+["1750070"]
+japanese = "ほんじゃあ、<line-break>ロストールに帰ろうかのう。<end>"
+english = "Well then, shall we head back to Rostorl?<end>"
+
+["1750071"]
+japanese = "わしの試練をよう乗り越えた。<line-break>われは鍛えがいがありそうじゃ。<line-break>わしゃあ、楽しみじゃ。<end>"
+english = "You did well to overcome my trial. I reckon you'll be worth training. I'm looking forward to it.<end>"
+
+["1750072"]
+japanese = "また、宝探しに連れてっちゃるよ。<line-break>暇があったら来んさい。<line-break>わしはいつもの場所で飲んどるけぇ。<line-break>じゃけど、もうちっと鍛えて<line-break>からにしんさいよ。<line-break>次の迷宮は今回より手強いからのう。<end>"
+english = "I'll take you treasure hunting again sometime. Come by when you've got a spare moment. I'll be drinking in my usual spot. But get a bit more training under your belt first. The next labyrinth will be tougher than this one.<end>"
+
+["1750073"]
+japanese = "おう！\u3000よう来たのう。<line-break>じゃが、すまん。<line-break>今日は宝探しに行けんのじゃ。<line-break>わしゃあ昨晩から飲んどって<line-break>頭がガンガンするんよ。<line-break>ほんまにすまんのう。<end>"
+english = "Ah, good to see you! Sorry, though. I can't go treasure hunting today. I've been drinking since last night, and my head's pounding. I'm truly sorry.<end>"
+
+["1750074"]
+japanese = "予備メッセージ１<line-break>ロッシマ（２）のＶ１<end>"
+english = ""
+
+["1750075"]
+japanese = "予備メッセージ２<line-break>ロッシマ（２）のＶ１<end>"
+english = ""
+
+["1750076"]
+japanese = "予備メッセージ３<line-break>ロッシマ（２）のＶ１<end>"
+english = ""
+
+["1750077"]
+japanese = "予備メッセージ４<line-break>ロッシマ（２）のＶ１<end>"
+english = ""
+
+["1750078"]
+japanese = "予備メッセージ５<line-break>ロッシマ（２）のＶ１<end>"
+english = ""
+
+["1750079"]
+japanese = "予備メッセージ６<line-break>ロッシマ（２）のＶ１<end>"
+english = ""
+
+["1750080"]
+japanese = "予備メッセージ７<line-break>ロッシマ（２）のＶ１<end>"
+english = ""
+
+["1750081"]
+japanese = "予備メッセージ８<line-break>ロッシマ（２）のＶ１<end>"
+english = ""
+
+["1750082"]
+japanese = "予備メッセージ９<line-break>ロッシマ（２）のＶ１<end>"
+english = ""
+
+["1750083"]
+japanese = "予備メッセージ１０<line-break>ロッシマ（２）のＶ１<end>"
+english = ""
+
+["1750084"]
+japanese = "ロッシマ（２）メッセージＶ１終端<end>"
+english = ""

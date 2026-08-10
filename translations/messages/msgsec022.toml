@@ -1,0 +1,421 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["220000"]
+japanese = "どうやら、この<value:$15>は、<line-break><value:$16>に潜んでいるらしい。<end>"
+english = "Apparently, this <value:$15> is lurking in <value:$16>.<end>"
+
+["220001"]
+japanese = "モンスターによる被害が多発しているが、<line-break>エンシャント周辺でも同様の報告があった。<line-break>報告にあった<value:$15>は、人身に被害を<line-break>与え、耕作地を荒らし、放置しかねるとのこと。<line-break>よってここに討伐令を布告するものである。<line-break>期限は、<value:$1B>日以内。見事退治せし者には、<line-break><value:$1A>ギアの賞金を与える。<end>"
+english = "Reports from Ancient say attacks by <value:$15> have injured people and ravaged farmland. This threat cannot be ignored. An official extermination order is hereby issued. Deadline: <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["220002"]
+japanese = "街の周辺に<value:$15>が出没するように<line-break>なりました。あまりに狂暴なので、私たちは<line-break>外出するにもおびえながら歩くありさまです。<line-break>そこで、退治してくださる強い方を募集します。<line-break>やっていただけるのなら<value:$1A>ギアを<line-break>進呈しましょう。<line-break><value:$1B>日以内にやりとげてください。<end>"
+english = "<value:$15> has begun appearing near town. It is so vicious that we are afraid whenever we venture outside. We seek someone strong enough to defeat it. Reward: <value:$1A> Gea. Please complete the job within <value:$1B> days.<end>"
+
+["220003"]
+japanese = "我々の研究を阻害する存在がある。<line-break><value:$15>だ。あのモンスターが我々の<line-break>集中力を奪っているのだ。退治する必要がある。<line-break><value:$15>を退治せよ。<line-break>条件として、<value:$1A>ギアの報酬、<line-break><value:$1B>日以内の期限をつける。<end>"
+english = "Something is interfering with our research: <value:$15>. That monster is ruining our concentration and must be dealt with. Eliminate <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220004"]
+japanese = "みなさまのごひいきのおかげで、<line-break>私どもはたいへん繁盛しております。<line-break>ところが、<value:$15>が現れて、<line-break>材料を採りにくくなってしまいました。<line-break>これでは思うように商売ができません。<line-break>お願いです。<value:$1B>日以内に退治してください。<line-break>報酬は<value:$1A>ギアです。<end>"
+english = "Thanks to your continued patronage, our business is thriving. Unfortunately, the appearance of <value:$15> has made it difficult to gather materials, and we cannot conduct business as we would like. Please defeat it within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["220005"]
+japanese = "いつも世話になってるな。<line-break>最近、採鉱場に<value:$15>が出るように<line-break>なったんで、仕事に影響がでてきている。<line-break>こいつを倒してほしいんだ。<line-break>お礼は、<value:$1A>ギア。<line-break><value:$1B>日以内に退治してくれ。<end>"
+english = "Thanks for all your help. Lately, <value:$15> has been showing up at the mine and interfering with our work. I want you to take it down. Reward: <value:$1A> Gea. Finish it within <value:$1B> days.<end>"
+
+["220006"]
+japanese = "闇の影響を受けて、<value:$15>が凶暴化<line-break>しているようです。このまま放っておいては、<line-break>危険が増すばかりです。<value:$1B>日以内に退治し、<line-break>危険を取りのぞいてください。<line-break><value:$1A>ギアを寸志として進呈しましょう。<line-break>勇敢なる冒険者の魂に、<line-break>神のご加護のあらんことを。<end>"
+english = "Darkness has driven <value:$15> into a frenzy. The danger will only grow if ignored. Defeat the threat within <value:$1B> days. We offer <value:$1A> Gea as a modest token. May divine protection be upon every brave adventurer.<end>"
+
+["220007"]
+japanese = "我が宿には巡礼の方が大勢いらっしゃいます。<line-break>その巡礼者の方が、道中モンスターに<line-break>襲われることが多いとか。我々としては<line-break>憂慮すべき事態と言えます。<line-break>道中に出る<value:$15>を<line-break>退治してください。お礼は<value:$1A>ギア。<line-break>期限は<value:$1B>日以内です。<end>"
+english = "Many pilgrims stay at our inn, and we hear that pilgrims are often attacked by monsters on the road. This is a matter of grave concern to us. Please defeat <value:$15>, which appears along the route. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220008"]
+japanese = "最近、仲間内で声の不調を訴える者が<line-break>多くおります。彼らはのどを傷めています。<line-break>原因を探ると、<value:$15>が悪い空気を<line-break>流しているからだと判明しました。<line-break>モンスターの退治をお願いします。<line-break><value:$1A>ギアのお礼をいたします。<line-break><value:$1B>日以内でお願いします。<end>"
+english = "Many among our company have recently complained of voice trouble and sore throats. We investigated and discovered that <value:$15> is fouling the air. Please defeat the monster. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220009"]
+japanese = "私たちの奥方連中はよく連れ立って<line-break>街の外まで遊びに行くのだ。<line-break>だが、ここのところ<value:$15>が出るので<line-break>危なくて遊びに行けないと言っておる。<line-break><value:$15>を退治してくれ。<line-break>褒美は<value:$1A>ギアである。<line-break><value:$1B>日以内に退治してほしい。<end>"
+english = "Our wives often go out together beyond town for leisure. Lately, however, they say it is too dangerous because <value:$15> has been appearing. Eliminate <value:$15>. Reward: <value:$1A> Gea. Complete the hunt within <value:$1B> days.<end>"
+
+["220010"]
+japanese = "<value:$15>が街の周辺に出没するように<line-break>なりました。たいへん凶暴で、人を見ると<line-break>襲ってきます。私たちにはどうしようも<line-break>ありません。強い冒険者の方にお願いします。<line-break>あいつを倒してください。<line-break><value:$1A>ギアご用意しました。<line-break><value:$1B>日以内にお願いします。<end>"
+english = "<value:$15> has begun appearing around town. It is extremely vicious and attacks anyone it sees. We are powerless against it, so we appeal to a strong adventurer: please defeat it. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220011"]
+japanese = "このごろ村の近くに<value:$15>がよく出て<line-break>くるんで、わしら困っとるんじゃ。こないだも<line-break>村の者が危うくケガをするところじゃった。<line-break>あんたがたにお願いするよ。<line-break>みんなで金を出しあって<line-break><value:$1A>ギア用意したんじゃ。<line-break><value:$1B>日以内に化け物を倒してくれんか。<end>"
+english = "<value:$15> has been showing up near our village, and we don't know what to do. Just the other day, one of the villagers was nearly hurt. We're asking for your help. Everyone pooled money to offer <value:$1A> Gea. Could you defeat the monster within <value:$1B> days?<end>"
+
+["220012"]
+japanese = "毎度お世話になっております。<line-break><value:$15>が現れるようになって、<line-break>他の街から仕入れをするのが<line-break>非常に難しくなっています。<line-break>どうかあいつを退治していただけませんか。<line-break>当方としては<value:$1A>ギア用意できます。<line-break><value:$1B>日以内で、ぜひお願いいたします。<end>"
+english = "Thank you for your continued support. Since <value:$15> began appearing, obtaining goods from other towns has become extremely difficult. Would you kindly eliminate it? We can offer <value:$1A> Gea. Please complete the job within <value:$1B> days.<end>"
+
+["220013"]
+japanese = "お前さんたちには格好の仕事だ。<line-break>頼みたいのは<value:$15>の退治だ。<line-break><value:$1A>ギア用意したから、<line-break><value:$1B>日以内で頼むぜ。<line-break>俺たちが材料集めしてるとこいつが襲ってきやが<line-break>るんだ。おかげで商売あがったりさ。お前さんた<line-break>ちが倒してくれりゃまたいい仕事ができるぜ。<end>"
+english = "Here's a perfect job for you: eliminate <value:$15>. I've got <value:$1A> Gea for you if you finish within <value:$1B> days. The blasted thing attacks us whenever we're out gathering materials. It's ruining our business. Take it down, and we can get back to doing good work.<end>"
+
+["220014"]
+japanese = "最近、<value:$15>が出てましてね。<line-break>うちのお客さんが酔っ払ってうろついてて、<line-break>えらい目にあったらしいんですよ。<line-break>そのお客さん、あいつがいなくならないと落ち着<line-break>いて酒も飲めないって、ぐちってまして…。<line-break><value:$1A>ギア出しますから、<line-break><value:$1B>日以内にあいつを退治してください。<end>"
+english = "There have been sightings of <value:$15> nearby. A drunken customer had a terrible encounter and now cannot relax over a drink until the threat is gone... I'll pay <value:$1A> Gea if you defeat it within <value:$1B> days.<end>"
+
+["220015"]
+japanese = "一般の旅行者にとっては、<line-break>旅は安全でなければなりません。しかし、<line-break>このところ<value:$15>が旅行者を襲うよう<line-break>になりました。私どもといたしましてはこれは<line-break>放置できません。冒険者の方々にお願いします。<line-break>退治してください。<value:$1A>ギアの報酬で、<line-break><value:$1B>日以内の期限です。<end>"
+english = "Travel must be safe for ordinary travelers. Recently, however, <value:$15> has begun attacking people on the road. We cannot let this continue. Adventurers, please eliminate the threat. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220016"]
+japanese = "この街では冒険者はそれほどたたえられて<line-break>いません。冒険者の活躍が知られていない<line-break>からです。<line-break>町の近くの<value:$15>を倒してください。<line-break><value:$1A>ギアさしあげます。<line-break><value:$1B>日以内にお願いします。<line-break>あなた方の活躍を、私が歌にして広めましょう。<end>"
+english = "Adventurers receive little acclaim in this town because their exploits are not widely known. Defeat <value:$15> near town within <value:$1B> days, and I will pay <value:$1A> Gea. I shall spread word of your deeds in song.<end>"
+
+["220017"]
+japanese = "他の街からの訪問者を迎えるのは、うれしい<line-break>ことだ。私はよく館に客を招待する。ところが<line-break>ひとつ問題がある。道中に<value:$15>が<line-break>現れるらしいのだ。<line-break>そなたらに頼みたい。モンスターを排除して<line-break>くれんか。褒美として<value:$1A>ギアとらそう。<line-break><value:$1B>日以内に頼むぞ。<end>"
+english = "I often welcome visitors from other towns to my manor, but there have been sightings of <value:$15> along the route. Remove this threat and I shall grant you <value:$1A> Gea. Complete the task within <value:$1B> days.<end>"
+
+["220018"]
+japanese = "<value:$15>が出没しています。<line-break>今のところ被害にあった人はいません。<line-break>しかし、このままでは遠からず傷つけられる人が<line-break>でてくるでしょう。<line-break>そうなる前にモンスターを成敗してください。<line-break><value:$1A>ギアを用立てました。<line-break><value:$1B>日以内に終わらせてください。<end>"
+english = "<value:$15> has been sighted. No one has been harmed yet, but it will not be long before someone is injured if nothing is done. Defeat the monster before that happens. We have secured a reward of <value:$1A> Gea. Finish the job within <value:$1B> days.<end>"
+
+["220019"]
+japanese = "おいらたちの畑を荒らす奴がいる。<line-break><value:$15>っていうんだ。<line-break>とてもおっかねえ奴で、おいらたちには<line-break>どうしようもないんだ。<line-break>あのモンスターを倒してくれ。<line-break>少ないけど、<value:$1A>ギア用意したぜ。<line-break><value:$1B>日以内に退治するように頼むよ。<end>"
+english = "Something is tearing up our fields. It's called <value:$15>, and it's far too frightening for us to handle. Please defeat that monster. It isn't much, but we've put together <value:$1A> Gea. We need it done within <value:$1B> days.<end>"
+
+["220020"]
+japanese = "近頃暴れてる<value:$15>のおかげで、<line-break>材料の仕入れに苦労しています。<line-break><value:$15>退治を依頼します。<line-break><value:$1A>ギア出します。<line-break><value:$1B>日以内にお願いします。<end>"
+english = "The recent rampages of <value:$15> are making it difficult to procure materials. We request the elimination of <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220021"]
+japanese = "頼みたいのは<value:$15>の退治。<line-break>報酬は、<value:$1A>ギア。<line-break>期限は<value:$1B>日以内。<line-break>モンスターのせいで仕事に支障が出てるんでな。<line-break>腕の立つ冒険者に任せる。<line-break>よろしく頼むぞ。<end>"
+english = "Job: eliminate <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days. The monster is disrupting our work, so I'm leaving this to a capable adventurer. I'm counting on you.<end>"
+
+["220022"]
+japanese = "たいていの酒場では、客寄せのために吟遊詩人に<line-break>来てもらってるよ。<line-break>異国の珍しい歌や曲にお客さんは大喜びさ。<line-break>でもね、最近<value:$15>が出るもんで、<line-break>街に寄ってくれないことがあるんだ。<line-break>これじゃ困るんで、追い払ってほしいんだ。<line-break>お礼は<value:$1A>ギア。<value:$1B>日以内に頼むよ。<end>"
+english = "Taverns hire bards to draw crowds with songs from foreign lands. Lately, the presence of <value:$15> has kept some from visiting town. Please drive the threat away. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220023"]
+japanese = "毎度ご利用ありがとうございます。今回みなさま<line-break>にお願いしたいのは、旅行者の道中の安全確保で<line-break>す。旅行者の方は、みなさまのようにお強い方ば<line-break>かりではありません。危険は、あらかじめ取りの<line-break>ぞいておきたいのです。退治して欲しいのは、<line-break><value:$15>です。お礼は<value:$1A>ギア<line-break>です。<value:$1B>日以内にお願いします。<end>"
+english = "Thank you for your continued patronage. This request concerns the safety of travelers on the road. Not every traveler is as strong as you, so we wish to remove known dangers in advance. Please eliminate <value:$15> within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["220024"]
+japanese = "このごろ私たちの歌声が通りにくくなりました。<line-break>空気に邪気が含まれてきたせいです。<line-break>原因は、少し前から現れるようになった<line-break><value:$15>です。<line-break>この者の退治を依頼します。<line-break>謝礼として用意できるのは<value:$1A>ギアです。<line-break>期限は<value:$1B>日以内でお願いします。<end>"
+english = "Our voices have not been carrying well of late because a malign presence has tainted the air. The cause is <value:$15>, which began appearing some time ago. We request its elimination. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220025"]
+japanese = "人や物の移動が自由であるのは商売にとって大切<line-break>です。しかしこのごろ現れる<value:$15>が<line-break>通行の邪魔をするので、商売に悪い影響が出て<line-break>います。勇敢なる冒険者の方々に、倒して<line-break>いただきたいのです。<line-break><value:$1A>ギアを用意しました。<line-break><value:$1B>日以内の解決を望みます。<end>"
+english = "The free movement of people and goods is vital to commerce. Recently, <value:$15> has been obstructing travel and harming our business. We ask brave adventurers to defeat it. Reward: <value:$1A> Gea. We seek a resolution within <value:$1B> days.<end>"
+
+["220026"]
+japanese = "近頃、村の近くに<value:$15>が出るのよ。<line-break>私たちは恐くて夜も眠れないわ。<line-break><value:$15>を倒して、<line-break>村の近くから追い払って。<line-break>多くないけど<value:$1A>ギアなら用意できるわ。<line-break><value:$1B>日以内にお願いね。<end>"
+english = "<value:$15> has been appearing near the village lately. We're so frightened that we can't even sleep at night. Defeat <value:$15> and drive it away from the village. We don't have much, but we can offer <value:$1A> Gea. Please do it within <value:$1B> days.<end>"
+
+["220027"]
+japanese = "冒険者の方々に依頼したいことがございます。<line-break><value:$15>の退治です。<line-break>お礼は<value:$1A>ギア、<line-break>期間は<value:$1B>日以内でどうでしょうか。<line-break>街の外に出ると<value:$15>が襲ってくる<line-break>ので、思うように仕事がはかどらないのです。<end>"
+english = "We have a request for adventurers: eliminate <value:$15>. We offer <value:$1A> Gea, with a deadline of <value:$1B> days. Whenever we leave town, <value:$15> attacks us, making it impossible to get our work done.<end>"
+
+["220028"]
+japanese = "闘技場で戦う戦士にゃ武器は重要だからな。<line-break>俺たちもはりきって仕事をしてるんだ。<line-break>けどよ、材料をとりに街の外に出ると<line-break><value:$15>が邪魔しやがる。<line-break>こいつを倒してくれないか。<line-break>報酬は<value:$1A>ギア。<line-break><value:$1B>日以内が期限だぜ。<end>"
+english = "Weapons are essential to the warriors who fight in the arena, so we put our hearts into our work. But whenever we leave town to gather materials, <value:$15> gets in our way. Will you take it down? Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220029"]
+japanese = "闘技場の戦士さんたちのいこいの場だからね。<line-break>とびっきりうまい酒を用意してるよ。うちらは<line-break>遠くまで出かけていい水を運んでくるんだよ。<line-break>最近そこに<value:$15>が現れてさ。<line-break>なかなか水を取りに行けなくなったんだ。<line-break><value:$1A>ギアを払うから、<line-break><value:$1B>日以内にあいつを退治しておくれよ。<end>"
+english = "Arena warriors come here to unwind, so we serve the finest liquor. We fetch its water from far away, but the presence of <value:$15> now keeps us from collecting it. Defeat the threat within <value:$1B> days for <value:$1A> Gea.<end>"
+
+["220030"]
+japanese = "全世界に広がるフゴー宿屋の本店ですから、誇り<line-break>を持ってみなさまをお迎えします。と言いたいの<line-break>ですが、最近街の近くに<value:$15>が出て<line-break>旅行者の方に危害を加えます。<line-break>これではどうぞお越しくださいとは申せません。<line-break><value:$1A>ギアであなた方に退治を依頼します。<line-break><value:$1B>日以内によろしくお願いします。<end>"
+english = "As the worldwide main branch of Hugo Inn, we take pride in welcoming guests. But attacks by <value:$15> endanger travelers near town, so we can hardly invite anyone to visit. Eliminate the threat within <value:$1B> days for <value:$1A> Gea.<end>"
+
+["220031"]
+japanese = "街の近くに住みついている<value:$15>を<line-break>退治してほしい。<line-break>報酬は<value:$1A>ギア。<line-break><value:$1B>日以内に排除してほしい。<end>"
+english = "Eliminate <value:$15>, which has settled near town. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220032"]
+japanese = "英雄の歌を作るのを競い合っています。<line-break>現在は題材を探している所です。<line-break>どなたかモンスター退治を<line-break>してくださいませんか。<line-break>最近話題の<value:$15>を倒してください。<line-break><value:$1A>ギアお支払いします。<line-break><value:$1B>日以内にお願いします。<end>"
+english = "We are competing to compose songs about heroes and are currently searching for subjects. Would someone undertake a monster hunt? Defeat the much-discussed <value:$15> within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["220033"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000告<line-break>狂暴なモンスターが人民を傷つけている。<line-break>市井の勇者よ、モンスターに正義の鉄槌を<line-break>下してくれたまえ。<line-break>対象：<value:$15><line-break>期間：<value:$1B>日以内<line-break>報酬：<value:$1A>ギア<end>"
+english = "NOTICE: A vicious monster is harming the people. Heroes from among the citizenry, bring down the hammer of justice upon it. Target: <value:$15>. Deadline: <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["220034"]
+japanese = "子供たちは街の外が好きでしてね。<line-break>しょっちゅう飛び回ってるんですよ。<line-break>でも最近、街の外には<line-break><value:$15>が出るんですよ。<line-break>いつモンスターが子供たちを襲うか心配です。<line-break><value:$1A>ギアさしあげますから、<line-break><value:$1B>日以内にあいつを倒してください。<end>"
+english = "The children love being outside town and are always running about. But <value:$15> has been appearing there lately, and we fear it may attack them. We offer <value:$1A> Gea to defeat it within <value:$1B> days.<end>"
+
+["220035"]
+japanese = "夜中のうちに畑が荒らされていることが<line-break>ありまして、夜に見張っていたら、<line-break>これが<value:$15>の仕業でして…。<line-break>この悪者を退治してほしいんです。<line-break><value:$1A>ギアをお礼にさしあげます。<line-break><value:$1B>日以内に頼みますよ。<end>"
+english = "Our fields have sometimes been ravaged during the night. When we kept watch, we discovered that <value:$15> was responsible... Please eliminate this menace. Reward: <value:$1A> Gea. We need it done within <value:$1B> days.<end>"
+
+["220036"]
+japanese = "近頃、<value:$15>が出ます。<line-break>たいへん物騒なモンスターなので、<line-break>アイテムの材料を集めに行けません。<line-break>どなたか、モンスター退治を<line-break>していただけませんか。<line-break><value:$1A>ギアを支払いましょう。<line-break><value:$1B>日以内にお願いします。<end>"
+english = "<value:$15> has been appearing lately. It is such a dangerous monster that we cannot go out to gather materials for items. Would someone please eliminate it? Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220037"]
+japanese = "求む！\u3000強者！<line-break>恐ろしい<value:$15>の出現で、<line-break>鉱石を取りに行けなくて困ってる。<line-break>誰か腕に覚えのある冒険者がいたらよ、<line-break><value:$15>をやっつけてくれ。<line-break>報酬は、<value:$1A>ギアだ。悪くねぇだろ？<line-break><value:$1B>日以内で頼むぜ。<end>"
+english = "WANTED: SOMEONE STRONG! The terrifying <value:$15> is keeping us from gathering ore. If you've got the skill, take down <value:$15>. Reward: <value:$1A> Gea. Not bad, eh? Finish within <value:$1B> days.<end>"
+
+["220038"]
+japanese = "近頃この街もにぎやかになったね。それはいいこ<line-break>となんだけど、人が増えたら、それを狙うモンス<line-break>ターも増えちゃってさ。うちのお得意さんで襲わ<line-break>れる人も出てきてるのさ。<value:$1B>日以内で、<line-break><value:$15>を倒してくれないかね。<line-break><value:$1A>ギア出すよ。お得意さんには、<line-break>安心して酒を飲みに来てほしいからね。<end>"
+english = "The town has gotten livelier lately, which is good, but more people have attracted more monsters. Some of our regulars have already been attacked. Could you defeat <value:$15> within <value:$1B> days? I'll pay <value:$1A> Gea. I want our customers to feel safe coming in for a drink.<end>"
+
+["220039"]
+japanese = "フゴー宿屋では、お泊まりいただく方々に、<line-break>安全な旅をお楽しみいただけるよう<line-break>努力いたしております。<line-break>ところが、街の近くを<value:$15>が<line-break>うろついており、とても危険なのです。<line-break>そこで、これを倒していただきたい。<line-break><value:$1A>ギア、<value:$1B>日以内でお願いします。<end>"
+english = "Hugo Inn strives to ensure that every guest enjoys a safe journey. Unfortunately, <value:$15> has been prowling near town, creating a serious danger. Please defeat it within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["220040"]
+japanese = "勇敢な戦士の歌を創り上げたいと思います。<line-break>我こそは最強の戦士と自負される方に<line-break>お願いします。<line-break><value:$15>を成敗し、<line-break>その勝利の軌跡を歌にさせてください。<line-break>お礼は<value:$1A>ギアです。<line-break>日限を<value:$1B>日以内と決めさせていただきます。<end>"
+english = "I wish to compose a song about a brave warrior. This request is for the mightiest warrior among you: defeat <value:$15>, and let me set the story of your victory to song. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220041"]
+japanese = "戦士たちよ、<value:$15>を征伐し、<line-break>再びこの地に安寧をもたらしたまえ。<line-break>期限は<value:$1B>日以内。<line-break>報酬は<value:$1A>ギアである。<end>"
+english = "Warriors, vanquish <value:$15> and restore peace to this land. Deadline: <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["220042"]
+japanese = "<value:$15>が出没しています。<line-break>何が目的なのかわかりません。<line-break>それだけに私たちは恐くて恐くて…。<line-break>みなで集めた<value:$1A>ギアで、<line-break><value:$1B>日以内に退治をお願いできますか。<end>"
+english = "<value:$15> has been sighted. We have no idea what it wants, which makes it all the more terrifying... Could you eliminate it within <value:$1B> days? Everyone contributed to a reward of <value:$1A> Gea.<end>"
+
+["220043"]
+japanese = "私らの畑を荒らす奴がいて困っています。<line-break><value:$15>というモンスターなのですが、<line-break>私らの力では追い返すことができません。<line-break>冒険者の方々に退治をお願いします。<line-break><value:$1A>ギア用意しました。<line-break><value:$1B>日以内にやっつけてしまってください。<end>"
+english = "A monster called <value:$15> is ravaging our fields, and we cannot drive it away ourselves. Adventurers, please eliminate it within <value:$1B> days. We have prepared a reward of <value:$1A> Gea.<end>"
+
+["220044"]
+japanese = "道具の材料は街の中だけではそろわないことが<line-break>多く、どうしても様々な場所に出なければなり<line-break>ません。<line-break>しかし、近頃、<value:$15>が現れて<line-break>危険なのです。<value:$1A>ギアの報酬で<line-break>あいつを倒していただきたいのですが、<line-break><value:$1B>日以内でお願いできませんか？<end>"
+english = "The materials needed to make tools often cannot all be found in town, so we must travel to many different places. Recently, however, <value:$15> has appeared and made those journeys dangerous. Would you defeat it within <value:$1B> days for <value:$1A> Gea?<end>"
+
+["220045"]
+japanese = "武器の材料集めを邪魔する奴がおる。<line-break><value:$15>じゃ。<line-break>こいつを倒してほしい。<line-break><value:$1A>ギア出せるでの。<line-break><value:$1B>日以内に頼むぞ。<end>"
+english = "Something is interfering with our efforts to gather weapon materials: <value:$15>. I want it taken down. I can offer <value:$1A> Gea. Finish the job within <value:$1B> days.<end>"
+
+["220046"]
+japanese = "モンスターがよく出てね。<line-break>酔っ払った客が、何人も被害にあってるんだ。<line-break>危ないから酔っ払えないなんてことになったら<line-break>商売あがったりだよ。<line-break><value:$15>をやっつけてくれないかね。<line-break><value:$1B>日以内にやってくれるかな。<line-break>報酬は<value:$1A>ギア出すよ。<end>"
+english = "Monsters have been showing up often, and several drunken customers have already fallen victim. If people can't get drunk because it isn't safe, we'll be out of business! Could you take down <value:$15> within <value:$1B> days? I'll pay <value:$1A> Gea.<end>"
+
+["220047"]
+japanese = "旅の道中に危険が存在するようです。<line-break>先日お客様が<value:$15>に出会われたとの<line-break>ことです。安全な旅を提供するのが私どもの役目<line-break>ですから、対策を立てねばなりません。<line-break>彼らを倒して危険を取り除いてください。<line-break>報酬は<value:$1A>ギア、<line-break>期間は<value:$1B>日以内です。<end>"
+english = "There appears to be danger along the road. A guest reportedly encountered <value:$15> the other day. Providing safe journeys is our duty, so we must act. Defeat the monsters and remove the threat. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220048"]
+japanese = "私たち吟遊詩人は、新たな英雄の歌を作ることが<line-break>喜びです。常に新たな題材を求めているのです。<line-break>近頃、街を騒がしている<value:$15>の退治<line-break>は、歌には絶好の題材です。<line-break>我こそはと思われる冒険者の方、退治をお願いし<line-break>ます。お礼に<value:$1A>ギアお支払いできます。<line-break><value:$1B>日以内にお願いします。<end>"
+english = "We bards delight in composing heroic songs and always seek fresh material. Defeating <value:$15>, now troubling the town, would make a splendid subject. Prove your courage within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["220049"]
+japanese = "<value:$15>がうごめいています。<line-break>この邪気を感じさせるモンスターは、<line-break>放置すれば、いつか私たちに害をなすでしょう。<line-break>退治してくださる方を募集します。<line-break>報酬は<value:$1A>ギア。<line-break>期限は<value:$1B>日以内です。<line-break>冒険者の方々の活躍に期待しています。<end>"
+english = "<value:$15> is stirring. This monster radiates an evil presence and may someday harm us if left unchecked. We seek someone to eliminate it. Reward: <value:$1A> Gea. Deadline: <value:$1B> days. We look forward to seeing what the adventurers can do.<end>"
+
+["220050"]
+japanese = "恐ろしい奴が現れてね。<value:$15>って<line-break>いうんだ。狂暴だからそのうち何をしでかすか<line-break>わかったもんじゃないよ。そうなる前に、あの<line-break>モンスターを退治しなけりゃならない。<line-break>誰か腕に自身のある人、モンスター退治に行って<line-break>おくれよ。<value:$1A>ギアの謝礼が出せるよ。<line-break><value:$1B>日以内で頼むね。<end>"
+english = "A terrifying creature called <value:$15> has appeared. It's so vicious that there's no telling what it might do. We must eliminate it before anything happens. If you're confident in your skill, please hunt the monster. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220051"]
+japanese = "近頃は物騒になったわねぇ。<line-break>モンスターが村の周りをうろつくんだもの。<line-break>いやあねぇ。<line-break><value:$15>の退治をお願いできない？<line-break>もちろんお礼は出すわ。<line-break><value:$1A>ギアでどうかしら。<line-break>期限は<value:$1B>日以内ね。<end>"
+english = "Things have become so dangerous lately. Monsters are prowling around the village. How awful. Could you eliminate <value:$15>? Of course there will be a reward. How does <value:$1A> Gea sound? The deadline is <value:$1B> days.<end>"
+
+["220052"]
+japanese = "この街の道具屋にとって、山は大事な材料の<line-break>入手先です。その山に近頃化け物がうろつく<line-break>ようになり、材料集めに支障が出ています。<line-break>あなた方に、<value:$15>を退治して<line-break>いただきたいのです。<line-break>受けていただけるなら<value:$1A>ギアさしあげ<line-break>ましょう。<value:$1B>日以内にお願いします。<end>"
+english = "The mountain is an important source of materials for this town's item shops. A monster has recently begun prowling there, interfering with our gathering. We would like you to eliminate <value:$15>. If you accept, we will pay <value:$1A> Gea. Please finish within <value:$1B> days.<end>"
+
+["220053"]
+japanese = "<value:$15>の退治してくれる方募集！！<line-break>お礼は<value:$1A>ギア！<line-break>期限は<value:$1B>日以内！<line-break>奴が邪魔をするせいで仕事がはかどらん。<line-break>退治をしてくれる奴を募集しとる。<line-break>確実に仕留めてくれよ。<end>"
+english = "WANTED: Someone to eliminate <value:$15>!! Reward: <value:$1A> Gea! Deadline: <value:$1B> days! That thing keeps getting in the way of our work. We need someone to take it down, and make sure the job is finished.<end>"
+
+["220054"]
+japanese = "この街の地酒は大人気さ。うまさの秘密は、<line-break>ある植物を入れてることなんだけどね。<line-break>それがさ、<value:$15>が出るように<line-break>なっちまって、取りにいけないのさ。<line-break>強い人に頼むよ。あいつを倒しておくれ。<line-break><value:$1A>ギア、用意したよ。<line-break><value:$1B>日以内にやってほしいね。<end>"
+english = "The local liquor is hugely popular. The secret is a certain plant we add to it. But since <value:$15> started appearing, we haven't been able to gather any. We need someone strong to take it down. Reward: <value:$1A> Gea. Please finish within <value:$1B> days.<end>"
+
+["220055"]
+japanese = "ここは有名な火山の街。我が宿には温泉目的の<line-break>お客様が多数いらっしゃいます。ところが<line-break>最近<value:$15>が出るようになったため、<line-break>お客様が恐がってご来訪なさらないのです。<line-break>彼を倒してください。<line-break><value:$1A>ギアご用意できます。<line-break>期限は<value:$1B>日以内でお願いします。<end>"
+english = "This is a famous volcanic town, and many guests visit our inn for the hot springs. Since <value:$15> began appearing, however, frightened customers have stopped coming. Please defeat it. We can offer <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220056"]
+japanese = "歌の素材も鮮度が第一です。古い英雄の歌もいい<line-break>ですが、新しい英雄の歌の方がより新鮮味がある<line-break>というもの。<line-break><value:$15>退治の様子を歌にしたいと考え<line-break>ています。冒険者の方に退治をお願いしたいので<line-break>す。<value:$1A>ギアお支払いします。<line-break><value:$1B>日以内の条件で依頼します。<end>"
+english = "Freshness matters even in the subject of a song. Old songs about heroes are fine, but new heroes make for fresher material. We wish to sing of the hunt for <value:$15>, so we ask an adventurer to defeat it. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220057"]
+japanese = "世の乱れによりあまたの異形の者が<line-break>動き出しました。その内のひとつ、<line-break><value:$15>は、アキュリュース周辺で<line-break>活動し、住民を襲っております。<line-break>どうか、<value:$15>を倒し、この街を<line-break>救ってください。報酬は<value:$1A>ギアです。<line-break><value:$1B>日以内に依頼を果たされるよう願います。<end>"
+english = "These troubled times have stirred countless unnatural beings. Attacks by <value:$15> now plague people near Achilleus. Please defeat <value:$15> and save the town. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220058"]
+japanese = "<value:$15>退治の勇者募集。<line-break><value:$1A>ギアの好条件。<line-break>私たちを苦しめているモンスターを倒してくれる<line-break>方はいませんか。<line-break>腕自慢のあなた、稼ぐチャンスです。<line-break><value:$1B>日以内にできる方、応募待ってます。<end>"
+english = "HERO WANTED to eliminate <value:$15>. Excellent reward: <value:$1A> Gea. Will no one defeat the monster tormenting us? If you're proud of your skill, this is your chance to earn. Applicants able to finish within <value:$1B> days are welcome.<end>"
+
+["220059"]
+japanese = "助けて！<line-break><value:$15>が村を襲うの。村の男たちが鋤<line-break>や鍬で戦うけど、今まで戦ったことなんてないか<line-break>ら、モンスターを追い払うだけでも大変なのよ。<line-break>強い冒険者さん、<value:$15>を退治して。<line-break>村のみんなで<value:$1A>ギア集めたから。<line-break>早く、そう<value:$1B>日以内にお願い！<end>"
+english = "Help! Attacks by <value:$15> threaten our village. Our men have only plows and hoes and no battle experience. They can barely drive the threat away. Please defeat <value:$15>! We pooled <value:$1A> Gea. Hurry! Do it within <value:$1B> days!<end>"
+
+["220060"]
+japanese = "街の外に<value:$15>が出没するんで、<line-break>外出もできない。<line-break>これじゃあ材料を集められない。<line-break>あんた方に頼むよ。あいつを退治してくれ。<line-break><value:$1A>ギア出すよ。<line-break><value:$1B>日以内にやりとげてくれ。<end>"
+english = "<value:$15> has been appearing outside town, so we can't even go out. That means we can't gather materials. We're asking you to eliminate it. Reward: <value:$1A> Gea. Finish within <value:$1B> days.<end>"
+
+["220061"]
+japanese = "近頃<value:$15>が現れて材料収集の<line-break>邪魔をしやがるんだ。<line-break>仕事にならんぜ、まったく。<line-break>こいつを倒しちゃくれねえか。<line-break>お礼はするぜ。<value:$1A>ギアだ。<line-break>頼まれてくれるんなら<value:$1B>日以内に<line-break>仕留めてくれ。<end>"
+english = "<value:$15> has been getting in the way of our material gathering lately. We can't get any work done at all. Will you take it down? I'll make it worth your while: <value:$1A> Gea. If you accept, finish it within <value:$1B> days.<end>"
+
+["220062"]
+japanese = "アキュリュース名産、銘酒「水の都」。<line-break>アキュリュースだけでなく他の街から飲みに来る方<line-break>もいるんだよ。でも、材料を取りに行ってた場所<line-break>にモンスターが出るようになってね…。<line-break><value:$15>を倒してくれないかな。<line-break>お礼に<value:$1A>ギア払うよ。<line-break><value:$1B>日以内にお願いできるかな。<end>"
+english = "Achilleus's famous liquor, “City of Water,” draws drinkers from other towns as well as our own. But monsters have started appearing where we gather its ingredients... Could you defeat <value:$15>? I'll pay <value:$1A> Gea. Please do it within <value:$1B> days.<end>"
+
+["220063"]
+japanese = "水の都として名高いアキュリュースですから、観光<line-break>を目的とされるお客様が多数ご来店なさいます。<line-break>しかし、近頃はモンスターが増えて危険だから、<line-break>と旅行をとりやめるお客様もいらっしゃいます。<line-break><value:$15>を倒して、街周辺の安全を確保<line-break>してください。<value:$1A>ギアの報酬で、<line-break>期限は<value:$1B>日以内です。<end>"
+english = "Achilleus, the City of Water, attracts many tourists. Lately, some have canceled their trips because monsters make travel too dangerous. Defeat <value:$15> and secure the area around town. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220064"]
+japanese = "あなたも英雄の仲間入り！<line-break>我が吟遊詩人ギルドでは、新しい英雄の歌を作る<line-break>ため、歌の題材となってくださる冒険者を募集し<line-break>ています。<value:$1B>日以内に狂暴なことで有名な<line-break><value:$15>を倒していただきます。<line-break>見事成功された方には、<value:$1A>ギアの賞金と<line-break>英雄の歌の題材になる名誉が与えられます。<end>"
+english = "Become a hero yourself! The Bards' Guild seeks adventurers to inspire new songs about heroes. Defeat the notoriously vicious <value:$15> within <value:$1B> days. Success brings a prize of <value:$1A> Gea and the honor of becoming the subject of a heroic song.<end>"
+
+["220065"]
+japanese = "邪悪なる者の気配が感じられます。<line-break><value:$15>を倒し、<line-break>かの地に清浄を取り戻してください。<line-break>お礼として<value:$1A>ギアをお持ちください。<line-break><value:$1B>日以内に果たされることを望みます。<end>"
+english = "An evil presence can be felt. Defeat <value:$15> and restore purity to that land. Please accept <value:$1A> Gea in gratitude. We hope the task will be fulfilled within <value:$1B> days.<end>"
+
+["220066"]
+japanese = "<value:$15>が悪さをしおる。<line-break>そのおかげでわしらはたいへん迷惑しておる。<line-break>ひとつ懲らしめてやらにゃならん。<line-break>冒険者さん、頼まれてくれんか。<line-break><value:$1A>ギア出す。<line-break><value:$1B>日以内にお願いするぞ。<end>"
+english = "<value:$15> has been causing trouble, and we're suffering for it. That thing needs to be taught a lesson. Adventurer, will you take the job? I'll pay <value:$1A> Gea. Please finish within <value:$1B> days.<end>"
+
+["220067"]
+japanese = "荒海の乗りこえる強い船を作るには、丈夫な木材<line-break>が必要さ。この街の外にはいい林があるんで、<line-break>そこから木を切り出してる。だけどよ、最近<line-break><value:$15>が林の近くまで出てくるんで、<line-break>木材の伐採ができなくなっちまった。<line-break>モンスター退治を頼みたい。報酬は<line-break><value:$1A>ギア、期限は<value:$1B>日以内だ。<end>"
+english = "Ships that cross rough seas need sturdy timber. We cut ours in a forest outside town, but the presence of <value:$15> has halted the logging. Eliminate the threat within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["220068"]
+japanese = "他の街からやってきた商人と交流することは、<line-break>道具屋である私どもには欠かせないことです。<line-break>ところが最近<value:$15>が出るので、<line-break>他の街の商人がエルズに近づけないのです。<line-break>そこで冒険者の方に退治をお願いしたいのです。<line-break>お礼は<value:$1A>ギアでどうでしょうか。<line-break><value:$1B>日以内にやっつけてしまってください。<end>"
+english = "As item merchants, we depend on trade with merchants from other towns. Recently, however, <value:$15> has kept them from approaching Elz. We therefore ask an adventurer to eliminate it. How does a reward of <value:$1A> Gea sound? Please finish it within <value:$1B> days.<end>"
+
+["220069"]
+japanese = "いい武器にゃあいい材料が欠かせねえ。うちは<line-break>近くの鉱山で採ってる上等の材料を使ってるん<line-break>だが、街と鉱山の村の間に<value:$15>が<line-break>出やがって。村の奴がビビって売りにこなく<line-break>なっちまった。まあ無理もねえがな。<line-break>あんたたちに頼む。あんにゃろうを倒してくれ。<line-break><value:$1A>ギアで、<value:$1B>日以内。<end>"
+english = "Good weapons need fine materials from the nearby mine. But the presence of <value:$15> between town and the mining village has scared off our suppliers. Can't blame them. Take that bastard down within <value:$1B> days for <value:$1A> Gea.<end>"
+
+["220070"]
+japanese = "<value:$15>っていう強い奴がいるんだよ。<line-break>あたしとお客さんが、そいつを倒せる戦士がいる<line-break>かどうかって賭けをしてるのさ。あたしはいる<line-break>ほうに賭けてるってわけ。それでさ…。<line-break><value:$1A>ギアでそいつを倒しに行ってくれない<line-break>かい？\u3000<value:$1B>日以内で。賭けの期限がもう<line-break>その日までしかないんだよ。よろしくね。<end>"
+english = "There's a powerful creature called <value:$15>. My customers and I have a wager on whether any warrior can defeat it, and I bet that someone could. So... will you take it down for <value:$1A> Gea? You have <value:$1B> days; the wager ends then. I'm counting on you.<end>"
+
+["220071"]
+japanese = "ここのところエルズ周辺に<value:$15>が<line-break>出没しております。<line-break>現状のままですと、我がフゴー宿屋のお客様で<line-break>ある旅行者の方に危害が及ぶおそれがあります。<line-break>そこで、退治を依頼します。<line-break><value:$1A>ギアをお支払いします。<line-break><value:$1B>日以内にお願いします。<end>"
+english = "<value:$15> has recently been sighted around Elz. If the situation continues, travelers staying at our Hugo Inn may come to harm. We therefore request its elimination. Reward: <value:$1A> Gea. Please complete the job within <value:$1B> days.<end>"
+
+["220072"]
+japanese = "新しい英雄の歌を創りたいと考えています。<line-break>あなた方に題材になってもらいたいのです。<line-break>威風堂々たるあなた方こそ英雄の歌に<line-break>ふさわしい。<value:$15>を倒して<line-break>そのお話を私に聞かせてください。<line-break>お礼として<value:$1A>ギア進呈しましょう。<line-break><value:$1B>日以内と期限を区切らせていただきます。<end>"
+english = "I wish to compose a new song about heroes, and I want you to be its subject. Your imposing presence makes you perfect for such a song. Defeat <value:$15>, then tell me the tale. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220073"]
+japanese = "ラドラス１<end>"
+english = "Ladras 1<end>"
+
+["220074"]
+japanese = "ラドラス２<end>"
+english = "Ladras 2<end>"
+
+["220075"]
+japanese = "ラドラス３<end>"
+english = "Ladras 3<end>"
+
+["220076"]
+japanese = "ラドラス４<end>"
+english = "Ladras 4<end>"
+
+["220077"]
+japanese = "ラドラス５<end>"
+english = "Ladras 5<end>"
+
+["220078"]
+japanese = "ラドラス６<end>"
+english = "Ladras 6<end>"
+
+["220079"]
+japanese = "ラドラス７<end>"
+english = "Ladras 7<end>"
+
+["220080"]
+japanese = "ラドラス８<end>"
+english = "Ladras 8<end>"
+
+["220081"]
+japanese = "国民に害をなすモンスターが徘徊している。<line-break>悪を斬る刃を持つ者に依頼する。<line-break><value:$15>を成敗してくれたまえ。<line-break>報酬は<value:$1A>ギア、<line-break>期限は<value:$1B>日以内である。<end>"
+english = "A monster that harms the people is roaming about. This request is for one whose blade cuts down evil: strike down <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220082"]
+japanese = "近頃街道にモンスターが出没しています。<line-break>通行人に被害が出る可能性もあります。<line-break>私たちも全力で倒そうとしていますが、<line-break>成功していません。<line-break>倒すために助力をお願いします。<line-break>報酬として<value:$1A>ギアを用意します。<line-break><value:$1B>日以内に倒してください。<end>"
+english = "Monsters have recently begun appearing on the highway, and travelers may be harmed. We have done everything in our power to defeat them, without success. We ask for your help. Reward: <value:$1A> Gea. Please defeat them within <value:$1B> days.<end>"
+
+["220083"]
+japanese = "わしらは細工物を作るのが好きでの。一日中やっ<line-break>ていても飽きはせん。だが、最近村の近くに<line-break><value:$15>が出るようになって、<line-break>恐ろしゅうて落ち着いて細工できんのじゃ。<line-break>うちの村は年寄りばかりだで誰も戦えんのじゃ。<line-break>お願えするだ。モンスターを追い払ってくれ。<line-break><value:$1A>ギア、<value:$1B>日以内でどうじゃ。<end>"
+english = "We love making handicrafts all day, but since sightings of <value:$15> began near our village, we're too frightened to work. Only old folk live here, and none can fight. Please drive the threat away within <value:$1B> days for <value:$1A> Gea.<end>"
+
+["220084"]
+japanese = "<value:$15>が出没しています。<line-break>商用で移動しているときにモンスターに出会うの<line-break>は、商売に支障がでますし、たいへん危険です。<line-break>そこで、あらかじめモンスターを排除しておきた<line-break>いと思います。退治をお願いします。<line-break><value:$1A>ギアをお礼としてさしあげます。<line-break>期間は<value:$1B>日以内です。<end>"
+english = "<value:$15> has been sighted. Encountering a monster while traveling on business is both disruptive and extremely dangerous, so we wish to remove the threat in advance. Please eliminate it within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["220085"]
+japanese = "俺たちは、材料集めにあちこちに行くんだがよ。<line-break>最近<value:$15>に出くわすことが<line-break>多くてな。集めた荷物を抱えて戦うのは、<line-break>ちとたいへんなんだよ。<line-break>悪いんだが、奴を倒してくんねぇか？<line-break><value:$1A>ギア用意したからよ。<line-break><value:$1B>日以内に退治してくれ。<end>"
+english = "We travel all over to gather materials, but lately we keep running into <value:$15>. Fighting while carrying everything we've collected is no easy task. Sorry to ask, but could you take it down? I've put together <value:$1A> Gea. Eliminate it within <value:$1B> days.<end>"
+
+["220086"]
+japanese = "うちには、旅の人が飲みに来ることもよくあるの<line-break>よ。このごろ、「さっきモンスターに出会った、<line-break>ドワーフの国は安全だって聞いてたのに」なんて<line-break>言う旅の人が多くてね。せっかく旅に出たのに、<line-break>そんなこと言わせちゃかわいそうでしょ。<line-break><value:$1A>ギア出すわ。<value:$15>を<line-break>倒してちょうだい。<value:$1B>日以内によろしくね。<end>"
+english = "Travelers often come here for a drink. Lately, many have said, “I just ran into a monster. I heard the Dwarf country was safe.” It's a shame for anyone who came all this way to feel that way. I'll pay <value:$1A> Gea. Please defeat <value:$15> within <value:$1B> days.<end>"
+
+["220087"]
+japanese = "<value:$15>が出没しているとの知らせが<line-break>あります。<line-break>このモンスターは狂暴であり、<line-break>旅行者の方の安全がおびやかされています。<line-break>モンスターを退治し安全を確保してください。<line-break>謝礼は<value:$1A>ギア、<line-break>期限は<value:$1B>日以内とします。<end>"
+english = "We have received reports that <value:$15> has been sighted. This vicious monster threatens the safety of travelers. Eliminate it and secure the area. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["220088"]
+japanese = "空気に妖気が混ざってきています。原因は、<line-break>近頃この周辺に現れる<value:$15>です。<line-break>澄んだ空気のもとでなければ、<line-break>私たちの歌は本来の美しさを発揮できません。<line-break><value:$15>退治を依頼したいと思います。<line-break><value:$1A>ギアの報酬、<line-break><value:$1B>日以内の期限でいかがでしょうか。<end>"
+english = "An uncanny presence taints the air, and it comes from <value:$15>. Without clear air, our songs lose their true beauty. Please eliminate <value:$15>. We offer <value:$1A> Gea for completion within <value:$1B> days.<end>"
+
+["220089"]
+japanese = "昨今、モンスターによる被害が多発しているが、<line-break>テラネ周辺でも同様の報告があった。<line-break>報告にあった<value:$15>は、人身に被害を<line-break>与え、耕作地を荒らし、放置しかねるとのこと。<line-break>よってここに討伐令を布告するものである。<line-break>期限は、<value:$1B>日以内。見事退治せし者には、<line-break><value:$1A>ギアの賞金を与える。<end>"
+english = "Reports from Terane say attacks by <value:$15> have injured people and ravaged farmland. This threat cannot be ignored. An official extermination order is hereby issued. Deadline: <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["220090"]
+japanese = "最近、街の周囲で<value:$15>が暴れて<line-break>います。このままでは、自由に街の外に出る<line-break>こともできず、日々の生活もままなりません。<line-break>どなたか<value:$1B>日以内に、このモンスターを退治<line-break>してくださいませんでしょうか？<line-break>報酬は<value:$1A>ギア用意しています。<line-break>どうかよろしくお願いいたします。<end>"
+english = "<value:$15> has been rampaging around town. If this continues, we will be unable to venture outside freely or even go about our daily lives. Would someone please eliminate this monster within <value:$1B> days? We have prepared a reward of <value:$1A> Gea. Please help us.<end>"
+
+["220091"]
+japanese = "最近現れたモンスターが強くて、困っとります。<line-break>なんでも<value:$15>とかいうやつじゃそう<line-break>ですが、わしらでは手に負えませんです。<line-break>ほっとくと畑も村も危ないので、<line-break><value:$1B>日以内に、退治していただきたい。<line-break>お礼はあまりできんですが、できるだけのことは<line-break>するつもりですじゃ。どうかお助けくだされ。<end>"
+english = "We cannot handle the monster known as <value:$15>. Our fields and village are in danger. Please defeat the threat within <value:$1B> days. We cannot offer much, but we will do all we can to repay you. Please help us.<end>"
+
+["220092"]
+japanese = "闇の力が強まり、世界に悪しき気が満ちはじめて<line-break>います。その影響はあまたの生き物にも及んでい<line-break>るようです。巡礼者を脅かす<value:$15>も<line-break>闇にとりつかれた哀れなる命です。<line-break>この悲しき命を、闇の苦痛から救う勇者を捜して<line-break>います。<value:$1B>日以内に、その命を解放して<line-break>くれた者には、お礼をさせていただきます。<end>"
+english = "Darkness is spreading through the world and corrupting living creatures. Even <value:$15> must be pitied, for darkness causes the threat to pilgrims. We seek a hero to grant release from torment within <value:$1B> days. A reward will be given.<end>"
+
+["220093"]
+japanese = "うちの常連が、モンスターが出たって、<line-break>うるさくってね。酔っぱらいのたわごとですます<line-break>わけにもいかんから、ちょっくら若いのに調べさ<line-break>せたんだが、いたんだよね。やばそうなヤツが。<line-break>で、退治して欲しいんだわ。<line-break><value:$1B>日以内、報酬は、<value:$1A>ギア出すよ。<line-break>よろしくね。<end>"
+english = "A regular kept making a fuss about a monster. I couldn't dismiss it as drunken nonsense, so I sent a youngster to check. Sure enough, something nasty was out there. Eliminate the threat within <value:$1B> days for <value:$1A> Gea. Thanks.<end>"
+
+["220094"]
+japanese = "冒険者の方々にはごひいきにしていただき、<line-break>ありがとうございます。日頃のご愛顧に応える<line-break>べく、日々、様々な品を作っていますが、<line-break>最近、<value:$15>が出没し、よい材料を<line-break>採集しにくくなっております。そこで、<line-break>報酬<value:$1A>ギアで、退治を依頼いたします。<line-break><value:$1B>日以内で、お願いできませんでしょうか？<end>"
+english = "Thank you, adventurers, for your patronage. We make many goods in return, but the presence of <value:$15> makes fine materials hard to gather. We offer <value:$1A> Gea for eliminating the threat within <value:$1B> days.<end>"
+
+["220095"]
+japanese = "優れた武器防具は、良質の材料と腕のいい職人に<line-break>よって作られる。が、最近、現れた<line-break><value:$15>が物騒なヤツでな。危なくて、<line-break>じっくり材料を集められんと、職人どもが困って<line-break>おる。<value:$1B>日以内に退治して欲しいんだが、<line-break><value:$1A>ギアでどうじゃ？\u3000あんたらにしても<line-break>わしらの仕事がうまくいかんのは困るじゃろう。<end>"
+english = "Fine arms require quality materials and skilled artisans. Since <value:$15> appeared, gathering materials is too dangerous. Eliminate the threat within <value:$1B> days for <value:$1A> Gea. You need our work too.<end>"
+
+["220096"]
+japanese = "最近現れた<value:$15>が、旅人を襲うそう<line-break>です。我がフゴー商会宿屋経営部門としては、<line-break>旅人の安全は何よりも大切なものですので、<line-break>退治を依頼します。<line-break>当方では、報酬として<value:$1A>ギア用意<line-break>いたしております。<line-break><value:$1B>日以内に倒してください。お願いします。<end>"
+english = "Travelers are being attacked by <value:$15>. Hugo Company's inn division puts their safety first and requests the threat's elimination. Reward: <value:$1A> Gea. Please complete the hunt within <value:$1B> days.<end>"
+
+["220097"]
+japanese = "遠くから珍しい品物を運んでくると、高い値段で<line-break>売れるんだ。他の街からも商人がやって来るんだ<line-break>ぜ。でもよ、最近現れた<value:$15>の<line-break>おかげで、他の街の商人が来れなくなったんだ。<line-break>せっかく高い値をつけてくれるのによ。<line-break><value:$15>を退治してくれ。<line-break>報酬は<value:$1A>ギア。<value:$1B>日以内で頼むぜ。<end>"
+english = "Distant rarities sell well to visiting merchants. But the presence of <value:$15> keeps them away, costing us dearly. Eliminate <value:$15>. Reward: <value:$1A> Gea. Get it done within <value:$1B> days.<end>"
+
+["220098"]
+japanese = "困ったな。<line-break>街の外に<value:$15>が出るんで、<line-break>落ち着いて外出ができないよ。誰かモンスターを<line-break>やっつけてくれる人がいればいいんだけど。<line-break>退治してくれるなら、<value:$1A>ギアは出すね。<line-break><value:$1B>日以内で片付けられればの話だけど。<line-break>頼まれてくれる人はいないのかな。<end>"
+english = "This is a real problem. There have been sightings of <value:$15> outside town, so I cannot go out without worry. Won't someone defeat the threat? I'll pay <value:$1A> Gea if the job is done within <value:$1B> days. Will no one accept?<end>"
+
+["220099"]
+japanese = "わしらは畑仕事をして暮らしておる。収穫の時が<line-break>一番の楽しみじゃ。じゃが、ここのところ現れ<line-break>おった<value:$15>が、わしらの畑を荒らし<line-break>てしまうんじゃ。せっかくの、わしらの畑を。<line-break>どなたか、<value:$15>を懲らしめては<line-break>くれんだろうか。<value:$1A>ギアでどうじゃ。<line-break><value:$1B>日以内にやっていただけるかの。<end>"
+english = "We live by farming, and harvest is our greatest joy. But lately, our precious fields have been ravaged by <value:$15>. Will someone teach <value:$15> a lesson within <value:$1B> days? We can offer <value:$1A> Gea.<end>"
+
+["220100"]
+japanese = "毎度ありがとうございます。<line-break>本日はお願いがあります。<line-break>私どもの商売を妨害するモンスター、<line-break><value:$15>を倒していただきたいのです。<line-break><value:$1A>ギアでいかがでしょう？<line-break><value:$1B>日以内に完了していただければ幸いです。<line-break>では今後ともごひいきに。<end>"
+english = "Thank you for your continued patronage. We have a request today: please defeat <value:$15> to end the interference with our business. How does <value:$1A> Gea sound? We would appreciate it if you completed the job within <value:$1B> days. We look forward to your continued patronage.<end>"
+
+["220101"]
+japanese = "材料を収集するのも俺たちの重要な仕事だ。<line-break>だがここのところ材料収集の作業場に<line-break><value:$15>が出没している。俺たちもたび<line-break>たび襲われるようになった。これではいけない。<line-break>そこで頼む。モンスターを成敗してくれ。<line-break><value:$1A>ギアをお礼として用意した。<line-break>期日は<value:$1B>日以内とさせてもらう。<end>"
+english = "Gathering materials is vital to our work, but attacks by <value:$15> plague our collection site. This cannot continue. Eliminate the threat within <value:$1B> days. We have prepared <value:$1A> Gea as a reward.<end>"
+
+["220102"]
+japanese = "街から離れた場所に酒の貯蔵庫があるんだが、<line-break>先日酒を取りに行こうとしたところ、<line-break>道中モンスターに襲われ逃げ帰りました。<line-break><value:$1A>ギア出しますから、<line-break><value:$15>をあそこから追い払って<line-break>ください。<value:$1B>日以内でお願いします。<end>"
+english = "Our liquor storehouse lies some distance from town. An attempt to fetch liquor the other day ended in a monster attack on the road and a hasty retreat. We will pay <value:$1A> Gea if you drive <value:$15> away from there. Please do it within <value:$1B> days.<end>"
+
+["220103"]
+japanese = "このたび、お得意様である団体様がアミラルの<line-break>我が店にいらっしゃることになりました。<line-break>しかし道中には<value:$15>がいることが<line-break>私どもの調査で判明しました。<line-break>あなた方にお願いしたいのは、そのモンスターの<line-break>退治です。<value:$1A>ギアの謝礼でいかが<line-break>でしょう。<value:$1B>日以内に退治してください。<end>"
+english = "A valued group of regulars will soon visit our establishment in Amiral. Our investigation found <value:$15> along their route. Please eliminate the threat within <value:$1B> days. Would <value:$1A> Gea be an acceptable reward?<end>"
+
+["220104"]
+japanese = "私たちの仕事は、各地のでき事やお話を歌にして<line-break>多くの人に広めること。<line-break>英雄の歌もそのひとつ。<line-break>勇者たるあなた方に依頼します。<line-break><value:$15>を退治してください。<line-break><value:$1A>ギア、<value:$1B>日以内が条件です。<line-break>あなた方のご活躍を、歌にして広めましょう。<end>"
+english = "We turn events and tales from across the land into songs, including heroic ballads. We ask you, as heroes, to defeat <value:$15>. The terms are <value:$1A> Gea and completion within <value:$1B> days. We will spread your deeds in song.<end>"

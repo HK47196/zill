@@ -1,0 +1,197 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1450000"]
+japanese = "グフトク、Ｖｏｌ６メッセージ開始<end>"
+english = ""
+
+["1450001"]
+japanese = "私が恐い？<end>"
+english = "Are you afraid of me?<end>"
+
+["1450002"]
+japanese = "私はワッシャー海賊のおかしらよ。<line-break>裏では、大声では言えないようなことを<line-break>やってるかもしれないわ。<end>"
+english = "I'm the leader of the Washer Pirates. For all you know, I may be doing things behind the scenes that can't be spoken of openly.<end>"
+
+["1450003"]
+japanese = "何がおかしいの！？<end>"
+english = "What's so funny?!<end>"
+
+["1450004"]
+japanese = "悪いことをしてるなんて思えない<end>"
+english = "I just can't imagine you doing anything bad.<end>"
+
+["1450005"]
+japanese = "すみません。もう笑いません<end>"
+english = "Sorry. I won't laugh anymore.<end>"
+
+["1450006"]
+japanese = "…知ったような口、きかないで。<line-break>私のこと、何も知らないくせに…。<end>"
+english = "Don't talk as if you know me. You don't know anything about me...<end>"
+
+["1450007"]
+japanese = "いいわ。<line-break>今日は私の話を聞いてもらう。<line-break>イヤと言っても帰さないから。<end>"
+english = "Fine. Today, you're going to listen to my story. I'm not letting you leave, even if you say no.<end>"
+
+["1450008"]
+japanese = "ワッシャー海賊の初代おかしらはね、<line-break>私の父さんだったの。<line-break>名前はカンダカン。<line-break>闇の門の島や古城への海路を<line-break>開いたのも父さんよ。<end>"
+english = "The first leader of the Washer Pirates was my father. His name was Kandakan. He was the one who opened the sea routes to the Island of the Dark Gate and the Old Castle.<end>"
+
+["1450009"]
+japanese = "強くて、勇気があって、<line-break>やさしくて…。<line-break>誰もが父さんを慕っていたわ。\u3000\u3000\u3000<line-break>でも、ある日突然、<line-break>貝の毒にあたって死んでしまったの。<end>"
+english = "He was strong, brave, and kind... Everyone looked up to him. But then, one day, he suddenly died of shellfish poisoning.<end>"
+
+["1450010"]
+japanese = "それでひとり娘だった私が<line-break>第２代おかしらに推されたわけ。<line-break>\u3000<line-break>父さんの命、ワッシャー海賊を<line-break>つぶすわけにはいかない。<line-break>だから、やるしかなかったわ。<end>"
+english = "So, as his only daughter, I was chosen to be the second leader. The Washer Pirates were my father's life. I couldn't let them fall apart. I had to do it.<end>"
+
+["1450011"]
+japanese = "こんな話、退屈？<end>"
+english = "Is this boring you?<end>"
+
+["1450012"]
+japanese = "退屈<end>"
+english = "It is boring.<end>"
+
+["1450013"]
+japanese = "そうでもない<end>"
+english = "Not really.<end>"
+
+["1450014"]
+japanese = "じゃあ、終わりにしてあげる。<line-break>だから最後にひとつだけ約束して。<end>"
+english = "Then I'll stop. But first, promise me one thing.<end>"
+
+["1450015"]
+japanese = "私と一緒に船に乗ってちょうだい。<line-break>あなたなら、父さんの代わりが務まるわ。<line-break>私より立派なおかしらになれる。<line-break>今すぐでなくてもいいの。<line-break>あなたの冒険に区切りがついたら、<line-break>私と一緒に海を旅してちょうだい。<end>"
+english = "Come aboard my ship. You could take my father's place. You'd make a better leader than I ever could. It doesn't have to be now. Once you reach a stopping point in your adventure, come sail the seas with me.<end>"
+
+["1450016"]
+japanese = "ありがとう。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>ほんと言うとね、<line-break>私、疲れちゃったの。<line-break>海賊なんて向いていないのね。<end>"
+english = "Thank you. To tell you the truth, I'm tired. I suppose I'm just not cut out to be a pirate.<end>"
+
+["1450017"]
+japanese = "でも、私がワッシャー海賊を\u3000\u3000\u3000\u3000<line-break>辞めたら父さんが悲しむわ。<line-break>だから、それはできない。<line-break>ただ、父さんみたいな人が、<line-break>そばにいてくれたら…、<line-break>そう思うの。<end>"
+english = "But if I left the Washer Pirates, my father would be sad. I can't do that. I just wish I had someone like him by my side...<end>"
+
+["1450018"]
+japanese = "ときには私をしかったり、<line-break>励ましたりしてくれる人が…。<end>"
+english = "Someone who would scold me sometimes, and encourage me...<end>"
+
+["1450019"]
+japanese = "ねぇ、<value:$28>。<line-break>わからない？<line-break>あなたのこと言ってるのよ。\u3000\u3000\u3000<line-break>今すぐでなくてもいい。<line-break>あなたの冒険に区切りがついたら、<line-break>私と海を旅してほしいの。<end>"
+english = "Don't you understand, <value:$28>? I'm talking about you. It doesn't have to be now. Once you reach a stopping point in your adventure, I want you to sail the seas with me.<end>"
+
+["1450020"]
+japanese = "わかった。いつか、きっと…<end>"
+english = "All right. Someday, for sure...<end>"
+
+["1450021"]
+japanese = "そんなことはできない<end>"
+english = "I can't do that.<end>"
+
+["1450022"]
+japanese = "ワッシャー海賊に入ってくれるの？<line-break>ずっと一緒にいてくれるの？<end>"
+english = "Will you join the Washer Pirates? Will you stay for good?<end>"
+
+["1450023"]
+japanese = "…ありがとう。<line-break>ウソでもうれしい。<end>"
+english = "...Thank you. Even if you don't mean it, I'm glad you said it.<end>"
+
+["1450024"]
+japanese = "今日はこのくらいで<line-break>勘弁してあげる。<line-break>\u3000<line-break>さぁ、行って。<line-break>行ってちょうだい。<end>"
+english = "I'll let you off for today. Now go. Please, just go.<end>"
+
+["1450025"]
+japanese = "父さん…、<line-break><value:$28>は冒険を終えて、<line-break>ここへ戻ってくると思う？<line-break>…そうよね。<line-break>きっと帰ってきてくれるわね。<end>"
+english = "Dad... do you think <value:$28> will come back here when the adventure is over? ...Yes, of course. I'm sure of it.<end>"
+
+["1450026"]
+japanese = "それじゃ、帰すわけにはいかない。<line-break>いい答えをくれるまではね。<line-break>\u3000<line-break>もう一度聞くわ。<line-break>私と一緒に海を旅してくれる？<end>"
+english = "Then I can't let you leave. Not until you give me the answer I want. Let me ask you again. Will you sail the seas with me?<end>"
+
+["1450027"]
+japanese = "やっぱり、私が恐いんじゃない。<line-break>\u3000<line-break>\u3000<line-break>いいわよ、帰してあげる。<line-break>ほら、行きなさいよ。<end>"
+english = "I knew it. You are afraid of me. Fine, I'll let you go. Go on, then.<end>"
+
+["1450028"]
+japanese = "今、俺は究極の生物を作り上げた。<line-break>俺は奴を生み出すためだけに<line-break>生まれたのかもしれない。<line-break>戦闘モンスター事業の成功も、<line-break>親友ロティに対する反発も、<line-break>リベルダムの陥落も、<end>"
+english = "Now I have created the ultimate life-form. Perhaps I was born solely to bring it into being. The success of my combat-monster business, my rebellion against my best friend Lottie, the fall of Liberdam,<end>"
+
+["1450029"]
+japanese = "魔人の奴隷になったのも、<line-break>すべてはここに至るまでの<line-break>通過点でしかなかったのだ。\u3000\u3000\u3000<line-break>この俺の小さな身体は仮の姿。<line-break>お前こそが<line-break>本当の俺だったのかもしれないな。<end>"
+english = "Even becoming a demon's slave―everything was merely another step on the road to this moment. This small body of mine is only a temporary form. Perhaps you were my true self all along.<end>"
+
+["1450030"]
+japanese = "俺は運命を成し遂げた。<line-break>満足だ。醜く、強大なお前、<line-break>いや、本当の自分に会えて…。<end>"
+english = "I have fulfilled my destiny. I am content to have met you, hideous and mighty... no, to have met my true self.<end>"
+
+["1450031"]
+japanese = "いろいろあったが、<line-break>これで俺の苦労も報われる。<end>"
+english = "A lot has happened, but now all my struggles will have been worth it.<end>"
+
+["1450032"]
+japanese = "今こそ披露しよう、<line-break>これが究極生物エクリプスだ！<end>"
+english = ""
+
+["1450033"]
+japanese = "さあ、エクリプスよ！<line-break>絶対的な強さを持つ、本当の俺よ！<line-break>その力で世界をなぎ倒すのだ！！<end>"
+english = "Now, Eclipse! My true self, possessed of absolute strength! Use that power to lay waste to the world!<end>"
+
+["1450034"]
+japanese = "…禁断の聖杯だわ。<end>"
+english = "The Forbidden Grail...<end>"
+
+["1450035"]
+japanese = "ついに…<line-break>ついに取り戻したのね。<line-break>\u3000<line-break>………………。<end>"
+english = "At last... You finally got it back. ...<end>"
+
+["1450036"]
+japanese = "<if><value:$01><equal>3これは…？<line-break>これが究極生物を作るための<line-break>闇の神器、禁断の聖杯か？ <end><if><value:$01><equal>4禁断の聖杯…。<line-break>知識は与えてくれるけれど、<line-break>本当の英知を与えてくれることはない。<line-break>ちょっと悲しいかも。<line-break>だから、闇の神器なのね。<line-break>はい、<value:$28>。 <end><if><value:$01><equal>5これが禁断の聖杯かよ…。<line-break>俺はおりこうさんになんか、<line-break>なりたくねえぜ。 <end><if><value:$01><equal>20…禁断の聖杯か。<line-break>我には無用のものだ。<end><if><value:$01><equal>6これが禁断の聖杯…。<line-break>ずいぶん長い間、<line-break>これを追いかけていたよね。 <end><if><value:$01><equal>7これが禁断の聖杯ね。<line-break>闇の神器のひとつ…。 <end><if><value:$01><equal>9これが禁断の聖杯だね。<line-break>マジで究極生物なんて<line-break>作る気だったんだ、こいつ。\u3000\u3000\u3000\u3000\u3000<line-break>こんだけの能力あるんだったら、<line-break>あのとき、手下にしてもよかったかな。<line-break>…って、ウソウソ。 <end><if><value:$01><equal>11禁断の聖杯…。<line-break>やはり、アンティノが持っていたのね。 <end><if><value:$01><equal>12これが禁断の聖杯か…。<line-break>長かったな、<value:$28>。 <end><if><value:$01><equal>13これが、<line-break>…禁断の聖杯だな。 <end><if><value:$01><equal>10これが禁断の聖杯か。<line-break>…これがあれば俺も<line-break>頭よくなれっかな？<line-break>ウソウソ。<line-break>冗談だって！<line-break>殴んなよ！ <end><if><value:$01><equal>14やっぱり、奴が持っておった。<line-break>ほれ、<value:$28>、<line-break>禁断の聖杯じゃ。 <end><if><value:$01><equal>15ねえ、聖杯があったよ。<line-break>やっと見つかったね、<line-break><value:$28>。 <end><if><value:$01><equal>17ほら、あったわ。<line-break>闇の神器、禁断の聖杯。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ド下等生物って命が短いから、<line-break>何か生きてた証が欲しいのよねー。<line-break>まったく、ホントに、迷惑だわ！ <end><if><value:$01><equal>19<value:$28>！<line-break>あったあった、あったよぉ！<line-break>禁断の聖杯！ <end><if><value:$01><equal>21孤独…か…。<line-break>俺も、あの男のようになる<line-break>ところだったのかもしれぬ。\u3000\u3000\u3000<line-break>ほら、禁断の聖杯だ。<line-break>ずっと、探し求めていたのだろう？ <end><if><value:$01><equal>23闇の神器、禁断の聖杯か…。<line-break><value:$28>、受け取れ。 <end><if><value:$01><equal>27これが、<line-break>…禁断の聖杯。 <end><if><value:$01><equal>26ほれ、<value:$28>、<line-break>禁断の聖杯じゃ。 <end><if><value:$01><equal>24これが闇の神器、<line-break>禁断の聖杯ですね。<line-break><value:$28>様。<end><if><value:$01><equal>25これが探してた禁断の聖杯ね。<end><if><value:$01><equal>192これが禁断の聖杯ですか。<line-break>どうぞ。<line-break>私には必要のないものです。<end><if><value:$01><equal>193…こ、これが<line-break>闇の神器・禁断の聖杯なんですね…。<line-break>…ごくり。<line-break>…これを使えば、料理ベタな私でも<line-break><value:$28>さんに<line-break>おいしいお料理を作れちゃうんだ…。<line-break>もともとロストールにあったものだし<line-break>生まれも育ちもロストールの私が<line-break>ちょ、ちょっとくらい使ったって…。<line-break>…や、やだなぁ。冗談ですよ。<end><if><value:$01><equal>194闇の神器、禁断の聖杯だ。<line-break>知識は与えてくれるけど、<line-break>知識に溺れない方法は教えてくれない。<line-break>ほら、<value:$28>。<end><if><value:$01><equal>191闇の神器、禁断の聖杯よ。<line-break>…やっぱり闇の神器って恐ろしいわ。<end><if><value:$01><equal>190あったぞ、禁断の聖杯だ。<line-break>ほら、<value:$28>。<line-break>ずっと探していたんだろ？<line-break>あの男も、こんなものさえなければ<line-break>哀しい結末にはならなかったかもな…。<end>あーっ！\u3000あったよぉ！<line-break>闇の神器、禁断の聖杯！ <end>"
+english = "<if><value:$01><equal>3What is this...? Is this the Forbidden Grail, the Dark Artifact for creating the Ultimate Life-Form?<end><if><value:$01><equal>4The Forbidden Grail... It gives knowledge, but it can never give true wisdom. That's a little sad, maybe. So that's why it's a Dark Artifact. Here, <value:$28>.<end><if><value:$01><equal>5So this is the Forbidden Grail... I don't wanna get all clever or anything.<end><if><value:$01><equal>20The Forbidden Grail... I have no need of such a thing.<end><if><value:$01><equal>6So this is the Forbidden Grail... It's been a very long chase, hasn't it?<end><if><value:$01><equal>7So this is the Forbidden Grail. One of the Dark Artifacts...<end><if><value:$01><equal>9So this is the Forbidden Grail. This guy seriously meant to create an Ultimate Life-Form. Someone that capable might have made a good minion back then. Nah, kidding.<end><if><value:$01><equal>11The Forbidden Grail... Antino had it after all.<end><if><value:$01><equal>12So this is the Forbidden Grail... It's been a long road, <value:$28>.<end><if><value:$01><equal>13So this is... the Forbidden Grail.<end><if><value:$01><equal>10So this is the Forbidden Grail. Think this could make me smarter? Kidding! It was a joke! Don't hit me!<end><if><value:$01><equal>14Just as I thought, Antino had it. Here, <value:$28>. The Forbidden Grail.<end><if><value:$01><equal>15Hey, here's the Grail. It finally turned up, <value:$28>.<end><if><value:$01><equal>17Here it is: the Dark Artifact, the Forbidden Grail. Utterly inferior creatures don't live long, so they want something to prove they were ever here. Honestly, what a nuisance!<end><if><value:$01><equal>19<value:$28>! I found it! I found it! The Forbidden Grail!<end><if><value:$01><equal>21Loneliness... I might have ended up like that man myself. Here, the Forbidden Grail. You've been searching for it all this time, haven't you?<end><if><value:$01><equal>23The Dark Artifact, the Forbidden Grail... Take it, <value:$28>.<end><if><value:$01><equal>27So this is... the Forbidden Grail.<end><if><value:$01><equal>26Here, <value:$28>. The Forbidden Grail.<end><if><value:$01><equal>24This is the Dark Artifact known as the Forbidden Grail, <value:$28>.<end><if><value:$01><equal>25Here's the Forbidden Grail at last.<end><if><value:$01><equal>192So this is the Forbidden Grail. Please, take it. I have no need of it.<end><if><value:$01><equal>193S-so this is the Dark Artifact, the Forbidden Grail... Gulp. If I used this, even a bad cook like me could make delicious food for <value:$28>... It was originally in Rostorl, and I was born and raised in Rostorl, so if I used it j-just a little... O-oh, come on. I'm joking.<end><if><value:$01><equal>194The Dark Artifact, the Forbidden Grail. It gives knowledge, but it doesn't teach you how to keep from drowning in it. Here, <value:$28>.<end><if><value:$01><equal>191The Dark Artifact, the Forbidden Grail... Dark Artifacts really are terrifying.<end><if><value:$01><equal>190Found it―the Forbidden Grail. Here, <value:$28>. You've been searching for it all this time, haven't you? Maybe that man wouldn't have met such a sad end if it weren't for this thing...<end>Ah! I found it! The Dark Artifact, the Forbidden Grail!<end>"
+
+["1450037"]
+japanese = "闇の神器、<line-break>禁断の聖杯を手に入れた。<end>"
+english = "Obtained the Forbidden Grail, a sacred artifact of darkness.<end>"
+
+["1450038"]
+japanese = "グフトクＶｏｌ６予備メッセージ１<end>"
+english = ""
+
+["1450039"]
+japanese = "グフトクＶｏｌ６予備メッセージ2<end>"
+english = ""
+
+["1450040"]
+japanese = "グフトクＶｏｌ６予備メッセージ3<end>"
+english = ""
+
+["1450041"]
+japanese = "グフトクＶｏｌ６予備メッセージ4<end>"
+english = ""
+
+["1450042"]
+japanese = "グフトクＶｏｌ６予備メッセージ5<end>"
+english = ""
+
+["1450043"]
+japanese = "グフトクＶｏｌ６予備メッセージ6<end>"
+english = ""
+
+["1450044"]
+japanese = "グフトクＶｏｌ６予備メッセージ7<end>"
+english = ""
+
+["1450045"]
+japanese = "グフトクＶｏｌ６予備メッセージ8<end>"
+english = ""
+
+["1450046"]
+japanese = "グフトクＶｏｌ６予備メッセージ9<end>"
+english = ""
+
+["1450047"]
+japanese = "グフトクＶｏｌ６予備メッセージ10<end>"
+english = ""
+
+["1450048"]
+japanese = "グフトク、Ｖｏｌ６メッセージ終端<end>"
+english = ""

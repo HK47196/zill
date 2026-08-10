@@ -1,0 +1,69 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2110000"]
+japanese = "異種族間の５-１用開始<end>"
+english = ""
+
+["2110001"]
+japanese = "よぉ！\u3000あんたか。<line-break>ちょうどよかった…。<end>"
+english = "Hey! There you are. Good timing...<end>"
+
+["2110002"]
+japanese = "…実は折り入って、<line-break>あんたに話があるんだ。<end>"
+english = "Actually... there's something important I need to talk to you about.<end>"
+
+["2110003"]
+japanese = "俺、あれからちょくちょく<line-break>あの森でフィアと会っててさ。<line-break>\u3000<line-break>それで…その…<line-break>なんて言うか、あれだよ…。<line-break>その…つまり、わかるだろ？<line-break>いいかげん察してくれよ。<end>"
+english = "I've been meeting up with Fia in that forest every so often since then. And, well... how do I put it? It's just... You know what I mean, right? Come on, take the hint already.<end>"
+
+["2110004"]
+japanese = "惚れちまったんだ…。<line-break>人間のこの俺が、エルフのあの娘に<line-break>恋しちまったんだよ！<end>"
+english = "I've fallen for her... Me, a human, in love with an Elf!<end>"
+
+["2110005"]
+japanese = "若いの、盗み聞きする気はなかったが<line-break>つい耳に入ってしまったのでな。<line-break>ひと言、言わせてもらえんかの？<end>"
+english = "Youngster, I did not mean to eavesdrop, but I could not help overhearing. May I say something?<end>"
+
+["2110006"]
+japanese = "…あ、ああ。<end>"
+english = "Uh... sure.<end>"
+
+["2110007"]
+japanese = "ずばり言う。<line-break>おぬし気は確かか？<end>"
+english = "I'll be blunt. Are you in your right mind?<end>"
+
+["2110008"]
+japanese = "えっ…！？<end>"
+english = "What...?!<end>"
+
+["2110009"]
+japanese = "エルフなんぞ高慢で、<line-break>他種族を見下すしか能のない<line-break>鼻持ちならん連中じゃぞ？<line-break>わしも長いこと大陸を回っておるが<line-break>人間とエルフが恋に落ちて幸せになった<line-break>などという話はついぞ聞かぬわい。<end>"
+english = "Elves are arrogant, insufferable creatures who do nothing but look down on other races. I have wandered this continent for many a year, yet never once have I heard of a human and an Elf falling in love and living happily together.<end>"
+
+["2110010"]
+japanese = "だろうね…。<line-break>…確かに俺もずっとそう思ってた。<end>"
+english = "I suppose not... To be honest, that's what I always thought too.<end>"
+
+["2110011"]
+japanese = "…けどさ、話してるうちに<line-break>エルフもそんな奴らだけじゃない、<line-break>ってことに気づいたんだ。<line-break>数は少ないけど、人間と対等に<line-break>付き合ってくれる変わり者も<line-break>いるんだよ。<line-break>お互いに偏見を捨てさえすれば、<line-break>きっと、もっといい関係を<line-break>築けるはずなんだ。<line-break>俺とフィアだって必ず…。<end>"
+english = "But after talking to her, I realized not all Elves are like that. There may not be many, but some of them are odd enough to treat humans as equals. If both sides could just let go of their prejudices, I'm sure we could build a better relationship. And Fia and I can too. I know we can...<end>"
+
+["2110012"]
+japanese = "ふん！\u3000バカバカしい…。<line-break>世間知らずのひよっこの言葉じゃな。<line-break>\u3000<line-break>わしに言わせれば、<line-break>恋とやらで頭に血がのぼって<line-break>現実が見えておらんだけじゃ。<end>"
+english = "Hmph! What nonsense... Spoken like a greenhorn who knows nothing of the world. As I see it, you've let this thing called love go to your head. You simply can't see reality anymore.<end>"
+
+["2110013"]
+japanese = "…勝手にせい！<line-break>どうせうまくいくはずないわい！<line-break>\u3000<line-break>痛い思いをすれば、<line-break>そのうち幻想から覚めるじゃろう。<end>"
+english = "Do as you please! It will never work! Once you get hurt, you'll wake up from that fantasy soon enough.<end>"
+
+["2110014"]
+japanese = "大丈夫。わかってるよ。<line-break>あのドワーフだって、別に俺とフィアの<line-break>仲に水を差そうと言ったわけじゃない。<line-break>普通に考えれば、あっちのほうが<line-break>正しいってことなんだろうな。<line-break>でも、俺は…。<end>"
+english = "It's okay. I understand. That Dwarf wasn't actually trying to come between Fia and me. If you look at it sensibly, the Dwarf is probably right. But I...<end>"
+
+["2110015"]
+japanese = "………………。<line-break>悪い、<value:$28>。<line-break>しばらくひとりにしておいてくれ。<end>"
+english = "…Sorry, <value:$28>. I need to be alone for a while.<end>"
+
+["2110016"]
+japanese = "異種族間の５-１用終端<end>"
+english = ""

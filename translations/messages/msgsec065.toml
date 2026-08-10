@@ -1,0 +1,501 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["650000"]
+japanese = "ティアナメッセージVOL2開始<end>"
+english = ""
+
+["650001"]
+japanese = "？？？<line-break>\u3000<line-break>\u3000<line-break>なんの音かしら？<end>"
+english = "??? What was that sound?<end>"
+
+["650002"]
+japanese = "きゃっ！<end>"
+english = "Ah!<end>"
+
+["650003"]
+japanese = "あなた、いったいどなたですか？<line-break>こんなところから入ってくるなんて。<end>"
+english = "Who in the world are you? And coming in through a place like that...<end>"
+
+["650004"]
+japanese = "ティアナ王女に<line-break>会わせてほしいのですか？<end>"
+english = "You want me to take you to Princess Tiana?<end>"
+
+["650005"]
+japanese = "何かわけありのようですね。<line-break>護衛を呼ぶのは簡単ですが…。<line-break>\u3000<line-break>いいですよ。<line-break>お話を聞きましょう。<end>"
+english = "There seems to be more to this. I could easily call the guards, but... Very well. I'll hear what you have to say.<end>"
+
+["650006"]
+japanese = "あのお人形…、<line-break>そういうことでしたの。<end>"
+english = "That doll... So that's what this was about.<end>"
+
+["650007"]
+japanese = "ええ、私がティアナです。<line-break>ごめんなさい、名乗らないで。<line-break>\u3000<line-break>少し待っていてくださいね。<end>"
+english = "Yes, I am Tiana. Forgive me for not introducing myself. Please wait here a moment.<end>"
+
+["650008"]
+japanese = "くすっ、そういうことだったのですか。<line-break>タルテュバ様からの贈り物にしては、<line-break>その…趣味がいいと思いました。<end>"
+english = "Oh, so that's what happened. For a gift from Lord Tarteuba, I thought it was... surprisingly tasteful.<end>"
+
+["650009"]
+japanese = "では、お返しします。<end>"
+english = "Then I'll give it back to you.<end>"
+
+["650010"]
+japanese = "そのお人形…、<line-break>とても大切にされていたようですね。<line-break>本当に申しわけないことをしました。<line-break>ティアナが心から謝っていたと<line-break>女の子に伝えてください。<end>"
+english = "That doll... It seems she treasured it dearly. What I did was truly inexcusable. Please tell the girl that Tiana is deeply sorry.<end>"
+
+["650011"]
+japanese = "ふふふ…。<line-break>そんなに変ですか？ <line-break>\u3000<line-break>一国の王女が見ず知らずの侵入者を<line-break>親しげにおもてなしするのが。<end>"
+english = "Hee hee... Is it really so strange? A princess warmly entertaining a trespasser she's never met, I mean.<end>"
+
+["650012"]
+japanese = "そうかもしれません。<line-break>…でも、あなたが悪い人には<line-break>とても見えないから…。<line-break>では、お名前だけでも<line-break>うかがいましょうか、<line-break>不法侵入者さん？<end>"
+english = "Perhaps it is. But you simply don't look like a bad person. So, Trespasser, may I at least ask your name?<end>"
+
+["650013"]
+japanese = "<if><value:$29><equal>%0<value:$28>…様？<line-break>レムオン様の弟君で、先ごろ<line-break>ノーブル伯になられた、あの…？<end><if><value:$29><equal>%1<value:$28>…様？<line-break>レムオン様の妹君で、先ごろ<line-break>ノーブル伯になられた、あの…？<end>"
+english = "<if><value:$29><equal>%0Lord <value:$28>...? You mean Lemghon's younger brother, the one who recently became Count of Noble?<end><if><value:$29><equal>%1Lady <value:$28>...? You mean Lemghon's younger sister, the one who recently became Countess of Noble?<end>"
+
+["650014"]
+japanese = "<if><value:$29><equal>%0それではタルテュバ様の<line-break>従弟にあたられるのですね。<line-break>\u3000<line-break>でも、それならどうして<line-break>そんな所からいらしたのです？<end><if><value:$29><equal>%1それではタルテュバ様の<line-break>従妹にあたられるのですね。<line-break>\u3000<line-break>でも、それならどうして<line-break>そんな所からいらしたのです？<end>"
+english = "<if><value:$29><equal>%0Then you are Lord Tarteuba's cousin. But if so, why did you come in through a place like that?<end><if><value:$29><equal>%1Then you are Lord Tarteuba's cousin. But if so, why did you come in through a place like that?<end>"
+
+["650015"]
+japanese = "ふふ、確かに王女に会いたいと<line-break>言っても、面識のない門番の方は<line-break>連れてきてくれませんよね。<end>"
+english = "Hee hee. I suppose a gatekeeper who doesn't know you would hardly bring you to see the princess simply because you asked.<end>"
+
+["650016"]
+japanese = "わかりました。<line-break>私から、話を通しておきますわ。<end>"
+english = "Very well. I'll make the necessary arrangements myself.<end>"
+
+["650017"]
+japanese = "今度からは、堂々と正面から<line-break>お入りくださいね。<line-break>\u3000<line-break>侵入者と間違えられて<line-break>騒ぎにでもなったら、あなたのお兄様に<line-break>迷惑がかかるでしょう？<end>"
+english = "From now on, please come openly through the front entrance. If someone mistook you for an intruder and caused an uproar, it would only make trouble for your brother, wouldn't it?<end>"
+
+["650018"]
+japanese = "<value:$28>…様。<line-break>素敵なお名前ですね。<end>"
+english = "<value:$28>... What a lovely name.<end>"
+
+["650019"]
+japanese = "ティアナ様、よろしいでしょうか？<line-break>陛下がおみえです。<end>"
+english = "Lady Tiana, may I? His Majesty is here.<end>"
+
+["650020"]
+japanese = "お父様が？\u3000大変！<end>"
+english = "Father? Oh no!<end>"
+
+["650021"]
+japanese = "<value:$28>様、<line-break>お人形のこと、お願いいたします。<line-break>私が謝っていたと伝えてください。<end>"
+english = "<value:$28>, please see to the doll for me. Tell the girl I said I was sorry.<end>"
+
+["650022"]
+japanese = "追い返すようで<line-break>申しわけありません。<line-break>では、また…。<end>"
+english = "I'm sorry to send you away like this. Until we meet again...<end>"
+
+["650023"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650024"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650025"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650026"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650027"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650028"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650029"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650030"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650031"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650032"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650033"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650034"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650035"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650036"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650037"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650038"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650039"]
+japanese = "ダミー<line-break><end>"
+english = ""
+
+["650040"]
+japanese = "おい、<value:$28>。<end>"
+english = "Hey, <value:$28>.<end>"
+
+["650041"]
+japanese = "今から王宮のティアナ王女を<line-break>訪ねる。お前も来い。<end>"
+english = "I'm going to visit Princess Tiana at the royal palace. You're coming too.<end>"
+
+["650042"]
+japanese = "<if><value:$29><equal>%0ダメだ。お前は俺の弟なのだ。\u3000\u3000\u3000<line-break>言うことを聞いてもらう。<line-break>\u3000<line-break>それに王女に拝謁しておくのは<line-break>悪くはない。そろそろ貴族として<line-break>社交界にも名を売っておかないとな。<end>ダメだ。お前は俺の妹なのだ。\u3000\u3000\u3000<line-break>言うことを聞いてもらう。<line-break>\u3000<line-break>それに王女に拝謁しておくのは<line-break>悪くはない。そろそろ貴族として<line-break>社交界にも名を売っておかないとな。<end>"
+english = "<if><value:$29><equal>%0No. You're my younger brother, and you'll do as I say. Besides, an audience with the princess will do you no harm. It's time you started making a name for yourself in society as a noble.<end>No. You're my younger sister, and you'll do as I say. Besides, an audience with the princess will do you no harm. It's time you started making a name for yourself in society as a noble.<end>"
+
+["650043"]
+japanese = "言葉づかいや身だしなみには\u3000\u3000<line-break>細心の注意を払え。<line-break>\u3000<line-break>相手はお前と同い年の小娘だが、<line-break>宮廷暮らしが長い上に<line-break>あのファーロスの雌狐の娘だ。<end>"
+english = "Take the utmost care with your manners and appearance. She may be a mere girl your age, but she's spent years at court―and she's the daughter of that Vixen of Pharos.<end>"
+
+["650044"]
+japanese = "見破られるなよ、\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>。<line-break>\u3000<end>"
+english = "Don't let her see through you, <value:$28>.<end>"
+
+["650045"]
+japanese = "レムオン様、<line-break>ようこそおいでくださいました。<end>"
+english = "Lord Lemghon, welcome.<end>"
+
+["650046"]
+japanese = "これはティアナ王女、<line-break>今日は一段と美しい。<end>"
+english = "Princess Tiana. You look lovelier than ever today.<end>"
+
+["650047"]
+japanese = "<if><value:$29><equal>%0くすっ、レムオン様ったら\u3000<line-break>お上手ですこと。<line-break>\u3000<line-break>弟君の前では<line-break>紳士で通すおつもりかしら？<end>くすっ、レムオン様ったら\u3000<line-break>お上手ですこと。<line-break>\u3000<line-break>妹君の前では<line-break>紳士で通すおつもりかしら？<end>"
+english = "<if><value:$29><equal>%0My, Lord Lemghon, how charming. Do you mean to play the gentleman in front of your younger brother?<end>My, Lord Lemghon, how charming. Do you mean to play the gentleman in front of your younger sister?<end>"
+
+["650048"]
+japanese = "<if><value:$29><equal>%0弟のことをご存じとは<line-break>お耳が早い。さすがは、<line-break>諜略に長けたエリスの娘だな。<end>妹のことをご存じとは<line-break>お耳が早い。さすがは、<line-break>諜略に長けたエリスの娘だな。<end>"
+english = "<if><value:$29><equal>%0So you've already heard about my younger brother. You are well informed. Just what I'd expect from the daughter of Eris, a woman skilled in intrigue.<end>So you've already heard about my younger sister. You are well informed. Just what I'd expect from the daughter of Eris, a woman skilled in intrigue.<end>"
+
+["650049"]
+japanese = "フフ、王宮中その噂で持ちきりです。<line-break>ファーロスの雌狐の娘で<line-break>なくても知っていますわ。<end>"
+english = "The whole palace is abuzz with the rumor. I would have heard even if I were not the daughter of the Vixen of Pharos.<end>"
+
+["650050"]
+japanese = "<if><value:$29><equal>%0まったく、くだらん噂話しか<line-break>能のない奴らが多すぎる。\u3000\u3000\u3000<line-break>\u3000<line-break>紹介する。我が弟、<line-break>ノーブル伯<value:$28>だ。<end>まったく、くだらん噂話しか<line-break>能のない奴らが多すぎる。\u3000\u3000\u3000<line-break>\u3000<line-break>紹介する。我が妹、<line-break>ノーブル伯<value:$28>だ。<end>"
+english = "<if><value:$29><equal>%0Too many people are good for nothing but idle gossip. Let me introduce my younger brother, <value:$28>, Count of Noble.<end>Too many people are good for nothing but idle gossip. Let me introduce my younger sister, <value:$28>, Count of Noble.<end>"
+
+["650051"]
+japanese = "お目にかかれて光栄です、<line-break>ノーブル伯。<end>"
+english = "It is an honor to meet you, Count of Noble.<end>"
+
+["650052"]
+japanese = "俺は他にも用事がある。<line-break>お前はあとは好きにしろ。<end>"
+english = "I have other business to attend to. Do as you please from here.<end>"
+
+["650053"]
+japanese = "ティアナ、<line-break>少ししか話せなくて残念だが<line-break>これで失礼する。<end>"
+english = "Tiana, I regret that we had so little time to speak, but I must take my leave.<end>"
+
+["650054"]
+japanese = "レムオン様、<line-break>またいらっしゃってください。<end>"
+english = "Lord Lemghon, please come again.<end>"
+
+["650055"]
+japanese = "<value:$28>、<line-break>変な気は起こすなよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>王女にはもう、フィアンセがいる。<line-break>しかも、そいつは王妃エリスの実家<line-break>名家ファーロス家の跡取りだ。<end>"
+english = "<value:$28>, do not get any ideas. The princess is already betrothed―and to the heir of the illustrious House Pharos, Queen Eris's own family.<end>"
+
+["650056"]
+japanese = "フィアンセ殿に怒られなければな。<end>"
+english = "Provided your betrothed does not take offense.<end>"
+
+["650057"]
+japanese = "フィアンセだなんて！<line-break>存じません、そんな方！<end>"
+english = "Betrothed? I know of no such person!<end>"
+
+["650058"]
+japanese = "貴族としての義務を果たさず、<line-break>酒とバクチにおぼれ、<line-break>宮廷にも近づこうとしない…。<line-break>いくら名家の出でも<line-break>あんな方と結婚なんて<line-break>考えられませんわ。<end>"
+english = "Neglecting every noble duty, drowning in drink and gambling, refusing even to go near the court... No matter how illustrious the lineage, I cannot imagine marrying someone like that.<end>"
+
+["650059"]
+japanese = "フィアンセ…ですか？\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>お母様が決めたことです。<line-break>お母様の実家ファーロス家の跡取りで<line-break>従兄に当たる方ですけど…。<end>"
+english = "My betrothed...? Mother arranged it. The heir to House Pharos―her own family―and my cousin as well...<end>"
+
+["650060"]
+japanese = "酒とバクチにおぼれ、<line-break>宮廷にも近づこうとしません。\u3000\u3000\u3000<line-break>\u3000<line-break>そんな方と結婚するだなんて<line-break>とても考えられません。<end>"
+english = "Drowning in drink and gambling, never even going near the court... I simply cannot imagine marrying someone like that.<end>"
+
+["650061"]
+japanese = "くすっ、<value:$28>様って<line-break>私が今までに出会った方々とは、<line-break>どこか違う雰囲気をお持ちですね。<line-break>また、いらしてくださいね。\u3000\u3000<line-break><value:$28>様。<line-break>\u3000<end>"
+english = "Hee hee. <value:$28>, there's something about you that sets you apart from everyone I've ever met. Please do visit again, <value:$28>.<end>"
+
+["650062"]
+japanese = "<value:$28>、よく来た。\u3000<end>"
+english = "<value:$28>, glad you could come.<end>"
+
+["650063"]
+japanese = "今からティアナ王女の所へ行く。<line-break>お前も来い。<end>"
+english = "I'm going to see Princess Tiana now. Come with me.<end>"
+
+["650064"]
+japanese = "…いやに素直だな。<line-break>どこか身体の具合でも悪いのか？<end>"
+english = "You're unusually cooperative. Are you feeling ill?<end>"
+
+["650065"]
+japanese = "フッ、さすがは<line-break>丈夫なだけが取り柄の奴だ。<end>"
+english = "Heh. Sturdy as ever. It is the one thing you have going for you.<end>"
+
+["650066"]
+japanese = "ほめたつもりだが…。ふふっ。<line-break>不器用な兄を許してやってくれ。<end>"
+english = "I meant it as a compliment. Heh. You must forgive your awkward brother.<end>"
+
+["650067"]
+japanese = "これはレムオン様、<line-break>それに<value:$28>様。<line-break>\u3000<line-break>ようこそ<line-break>お越しくださいました。<end>"
+english = "Why, Lemghon―and <value:$28> as well. Welcome.<end>"
+
+["650068"]
+japanese = "ティアナ様にもご機嫌うるわしく。<end>"
+english = "And I trust you are well, Princess Tiana.<end>"
+
+["650069"]
+japanese = "さぁ、ご遠慮なさらずに<line-break>奥へお入りくださいませ。<end>"
+english = "Please, don't hesitate. Come in.<end>"
+
+["650070"]
+japanese = "ずいぶん丁重な<line-break>もてなしようではないか？<end>"
+english = "Quite a gracious welcome, isn't it?<end>"
+
+["650071"]
+japanese = "お母様ですら一目置く<line-break>レムオン様のおいでですもの。<line-break>当然の応対ですわ。<end>"
+english = "Even Mother holds you in high regard, Lemghon. A proper reception is only natural.<end>"
+
+["650072"]
+japanese = "笑える冗談だ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "That's quite a joke.<end>"
+
+["650073"]
+japanese = "しかし、どういうものかな？<line-break>俺のような者を部屋に入れるとは。<end>"
+english = "Still, is this wise? Letting a man like me into your room?<end>"
+
+["650074"]
+japanese = "フィアンセが聞いたら<line-break>怒るのではないか？\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Wouldn't your betrothed be angry to hear of it?<end>"
+
+["650075"]
+japanese = "婚約者といっても、<line-break>お母様が勝手に決めたこと。\u3000\u3000\u3000<line-break>\u3000<line-break>幼なじみのレムオン様とのことを<line-break>とやかく言われる筋合いは<line-break>ありません。<end>"
+english = "The engagement was Mother's decision alone. My betrothed has no right to complain about me and Lemghon. We've known each other since childhood.<end>"
+
+["650076"]
+japanese = "だいたい、酒とバクチにおぼれて<line-break>宮廷に近寄ろうともしない方を<line-break>ティアナは婚約者とは認めません。<end>"
+english = "Besides, Tiana will not accept as a betrothed someone who wallows in drink and gambling and refuses even to come to court.<end>"
+
+["650077"]
+japanese = "いっそのこと、レムオン様が私の<line-break>夫になってくださればいいのです。<end>"
+english = "I would much rather have you for my husband, Lemghon.<end>"
+
+["650078"]
+japanese = "…それはできんな。<end>"
+english = "That I cannot do.<end>"
+
+["650079"]
+japanese = "まぁ、意地悪！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>でも、ふふふ…レムオン様らしいわ。<line-break>迷うそぶりくらい見せてくれても<line-break>バチは当たらなくてよ。<end>"
+english = "Oh, how cruel! Still... heh, that is just like you, Lemghon. You might at least have pretended to consider it. It would hardly have hurt you.<end>"
+
+["650080"]
+japanese = "何も王が男子でなければならぬ<line-break>理由はない。<line-break>\u3000<line-break>ティアナも、エリスのように<line-break>女王として君臨すれば、<line-break>無理に結婚することもなかろう？<end>"
+english = "There is no reason the monarch must be a man. You could reign as queen, as Eris does, and then you would have no need to force yourself to marry, would you?<end>"
+
+["650081"]
+japanese = "女が出しゃばるのは<line-break>好きではありません。<line-break>\u3000<line-break>特にお母様みたいに<line-break>出しゃばるのは…。<line-break>それに…。<end>"
+english = "I do not care for women who push themselves to the fore. Especially not the way Mother does... And besides...<end>"
+
+["650082"]
+japanese = "どうする、<value:$28>？<line-break>\u3000<line-break>\u3000<line-break>お前、いつも<line-break>男なんかには負けないと<line-break>言い張っているではないか。<end>"
+english = "What about you, <value:$28>? You're always insisting you won't lose to any man.<end>"
+
+["650083"]
+japanese = "すみません。\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "I'm sorry.<end>"
+
+["650084"]
+japanese = "<value:$28>様がどうこうと<line-break>申しあげるつもりはなかったのです。<end>"
+english = "<value:$28>, I did not mean to imply anything about you.<end>"
+
+["650085"]
+japanese = "許してやるのか…。\u3000\u3000<end>"
+english = "So you will let it pass...?<end>"
+
+["650086"]
+japanese = "お前、もしかして<line-break>俺以外には寛大なのか？<end>"
+english = "Are you generous with everyone but me?<end>"
+
+["650087"]
+japanese = "私はファーロス家を発展させるための<line-break>道具ではありませんもの。<end>"
+english = "I am not a tool to be used for the advancement of House Pharos.<end>"
+
+["650088"]
+japanese = "やれやれ、エリスも哀れだな。\u3000<end>"
+english = "Well, poor Eris.<end>"
+
+["650089"]
+japanese = "ファーロス家発展のために<line-break>知略の限りを尽くしたところが…<end>"
+english = "She has used every ounce of her ingenuity to advance House Pharos...<end>"
+
+["650090"]
+japanese = "娘のわがままのせいで<line-break>その綿密な計画も水の泡か。\u3000\u3000<end>"
+english = "And now her daughter's selfishness has brought that meticulous plan to nothing.<end>"
+
+["650091"]
+japanese = "ひどいわ、レムオン様！<line-break>わがままだなんて。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>これでも、国のことを<line-break>いろいろと考えているつもりです。<end>"
+english = "How cruel, Lemghon! Calling me selfish! I do give a great deal of thought to the country, you know.<end>"
+
+["650092"]
+japanese = "これは失礼、ティアナ王女。<line-break>さすがはファーロスの…<end>"
+english = "My apologies, Princess Tiana. Just what one would expect of Pharos's...<end>"
+
+["650093"]
+japanese = "ええ、<line-break>ファーロスの雌狐の娘です！<end>"
+english = "Yes, I am the daughter of the Vixen of Pharos!<end>"
+
+["650094"]
+japanese = "俺はいつかエリスの専政を打ち破る。<end>"
+english = "Someday I will overthrow Eris's autocracy.<end>"
+
+["650095"]
+japanese = "そして広場の千年樹に記されたとおり<line-break>貴族共和の政治を復活させる。<end>"
+english = "Then I will restore the aristocratic republic, just as it is written on the thousand-year tree in the square.<end>"
+
+["650096"]
+japanese = "悲しいですわ。<line-break>ティアナはそのとき…、\u3000\u3000\u3000<line-break>\u3000<line-break>お母様と一緒に<line-break>ファーロスの一族として、<line-break>粛清されてしまうのですね…。<end>"
+english = "How sad. When that day comes... Tiana will be purged alongside Mother as a member of the Pharos family.<end>"
+
+["650097"]
+japanese = "心配するな。幼なじみのよしみで<line-break>特別に大きな墓を建ててやる。<end>"
+english = "Don't worry. In honor of our childhood friendship, I'll have an especially large tomb built for you.<end>"
+
+["650098"]
+japanese = "もう、レムオン様！<end>"
+english = "Oh, Lemghon!<end>"
+
+["650099"]
+japanese = "…冗談だ。王家と排除するべき敵の\u3000\u3000<line-break>区別は付いている。<line-break>ティアナをどうこうするつもりはない。<end>"
+english = "A joke. I can distinguish the royal house from the enemies who must be eliminated. I have no intention of harming you, Tiana.<end>"
+
+["650100"]
+japanese = "ふふ、<line-break>大事な幼なじみですものね。<end>"
+english = "Heh. I am your dear childhood friend, after all.<end>"
+
+["650101"]
+japanese = "そうだな。<line-break>大事な幼なじみ…だからな。<end>"
+english = "Yes. You are a dear childhood friend... after all.<end>"
+
+["650102"]
+japanese = "また、<line-break>いらしてくださいますよね。<line-break>レムオン様。<end>"
+english = "You will come again, won't you, Lemghon?<end>"
+
+["650103"]
+japanese = "ああ、<line-break>くだらぬ噂の種にならぬ程度にな。<end>"
+english = "Yes. As long as it does not start any foolish rumors.<end>"
+
+["650104"]
+japanese = "<value:$28>様も。<end>"
+english = "And you too, <value:$28>.<end>"
+
+["650105"]
+japanese = "またお会いできる日を<line-break>楽しみにしています。<end>"
+english = "I look forward to seeing you again.<end>"
+
+["650106"]
+japanese = "俺とティアナは幼なじみ。\u3000\u3000\u3000\u3000<line-break>ただ、それだけだ。<line-break>\u3000<line-break>何を言い出すかと思えば…。<line-break>ふん、お前も宮廷のくだらぬ噂話に<line-break>毒されたな。<end>"
+english = "Tiana and I have been friends since childhood. That's all there is to it. So that's what you were getting at... Hmph. You too have been poisoned by the court's ridiculous gossip.<end>"
+
+["650107"]
+japanese = "…今日は<line-break>無理に付き合わせて悪かった。\u3000<line-break>これでも感謝しているつもりだ。<line-break>お前なら、<line-break>わかってくれるだろうが…。<end>"
+english = "...Sorry I dragged you along today. I do appreciate it, in my own way. I thought you would understand...<end>"
+
+["650108"]
+japanese = "くっ、クズどもが<line-break>コソコソ隠れやがって…。<line-break>さては、陰で俺を笑ってるんだな！<end>"
+english = "Damn those scum, skulking around out of sight... I bet they're laughing at me behind my back!<end>"
+
+["650109"]
+japanese = "くそっ！\u3000どいつもこいつも<line-break>俺のことバカにしやがって！<line-break>なめやがって！\u3000なめやがってエ！<end>"
+english = "Damn it! Every last one of them treats me like a fool! How dare they look down on me! How dare they look down on me!<end>"
+
+["650110"]
+japanese = "予備メッセージ３<line-break>ティアナ、ボリューム２<end>"
+english = ""
+
+["650111"]
+japanese = "予備メッセージ４<line-break>ティアナ、ボリューム２<end>"
+english = ""
+
+["650112"]
+japanese = "予備メッセージ５<line-break>ティアナ、ボリューム２<end>"
+english = ""
+
+["650113"]
+japanese = "予備メッセージ６<line-break>ティアナ、ボリューム２<end>"
+english = ""
+
+["650114"]
+japanese = "予備メッセージ７<line-break>ティアナ、ボリューム２<end>"
+english = ""
+
+["650115"]
+japanese = "予備メッセージ８<line-break>ティアナ、ボリューム２<end>"
+english = ""
+
+["650116"]
+japanese = "予備メッセージ９<line-break>ティアナ、ボリューム２<end>"
+english = ""
+
+["650117"]
+japanese = "予備メッセージ１０<line-break>ティアナ、ボリューム２<end>"
+english = ""
+
+["650118"]
+japanese = "…ゼネテスさん。すまない。<end>"
+english = "Xenetes... I'm sorry.<end>"
+
+["650119"]
+japanese = "貴族だろうが国王だろうが、<line-break>人を踏みにじっていいやつなんか<line-break>いやしないんだ。<line-break>そのことだけは覚えておけ。<end>"
+english = "Noble or king, no one has the right to trample on others. Don't ever forget that.<end>"
+
+["650120"]
+japanese = "ま、タルテュバも<line-break>しばらくはおとなしくしてるだろ。<end>"
+english = "Well, Tartyuba should stay quiet for a while.<end>"
+
+["650121"]
+japanese = "ありがとうよ、本当に。<line-break>助かったよ。<end>"
+english = "Thank you. I mean it. You really helped me out.<end>"
+
+["650122"]
+japanese = "ゼネテスと同じくらいかっこよかったよ。<end>"
+english = "You were every bit as cool as Xenetes.<end>"
+
+["650123"]
+japanese = "いつもゼネテスさんに<line-break>助けてもらえるわけじゃない。<line-break>それはわかってるんだが…。<end>"
+english = "Xenetes won't always be around to help. I know that, but...<end>"
+
+["650124"]
+japanese = "ティアナメッセージVOL2終端<end>"
+english = ""

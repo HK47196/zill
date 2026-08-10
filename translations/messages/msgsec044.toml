@@ -1,0 +1,465 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["440000"]
+japanese = "リューガ・ボリューム３開始<end>"
+english = ""
+
+["440001"]
+japanese = "お前も来るか？<end>"
+english = "Are you coming too?<end>"
+
+["440002"]
+japanese = "ティアナを訪ねるところだ。<line-break>美人と会うのも悪くなかろう？<line-break>\u3000<line-break>それとも、やきもちを妬く<line-break>女でもできたか？<end>"
+english = "I'm on my way to see Tiana. Nothing wrong with paying a visit to a beautiful woman, is there? Or have you found yourself a woman who'd get jealous?<end>"
+
+["440003"]
+japanese = "バカか。本気にするな。<line-break>相手は王女だぞ。<end>"
+english = "Don't be an idiot. I wasn't serious. She's a princess.<end>"
+
+["440004"]
+japanese = "ティアナ王女を訪ねるところだ。<end>"
+english = "I'm on my way to see Princess Tiana.<end>"
+
+["440005"]
+japanese = "相変わらず気の利かぬ女だ。\u3000\u3000\u3000\u3000<end>"
+english = "As tactless as ever.<end>"
+
+["440006"]
+japanese = "男が女のもとを訪れようというのだ。<line-break>遠慮する気にはならないのか？<end>"
+english = "A man is going to visit a woman. Don't you think you ought to stay behind?<end>"
+
+["440007"]
+japanese = "バカか。本気にするな。<end>"
+english = "Don't be an idiot. I wasn't serious.<end>"
+
+["440008"]
+japanese = "ふふふ…、<value:$28>様って<line-break>本当におもしろい方ですね。<end>"
+english = "Hee hee... <value:$28>, you really are amusing.<end>"
+
+["440009"]
+japanese = "笑わないでやってくれ。\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Try not to laugh.<end>"
+
+["440010"]
+japanese = "冗談で言ってるのではない。<line-break>こいつは王宮のしきたりにうといのだ。<end>"
+english = "I'm not joking. Court etiquette is not exactly a strong suit.<end>"
+
+["440011"]
+japanese = "でも、無意味なしきたりばかり。<line-break>おじぎの仕方、お食事の席順や作法…。<end>"
+english = "But those customs are all pointless. How to bow, where everyone sits at dinner, table manners...<end>"
+
+["440012"]
+japanese = "フッ、これは意外だ。\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Hmph. Now that is unexpected.<end>"
+
+["440013"]
+japanese = "いつも、フィアンセ殿の不作法を<line-break>嫌っているではないか？<end>"
+english = "But haven't you always disliked your betrothed's bad manners?<end>"
+
+["440014"]
+japanese = "あれは…<line-break>あの方は度をこえています！<end>"
+english = "That's different... My betrothed goes too far!<end>"
+
+["440015"]
+japanese = "確かにな。どうせ、昼間から\u3000\u3000<line-break>酒と賭博にあけくれ、<line-break>\u3000<line-break>薄暗い酒場で、女をはべらし、<line-break>鼻の下を伸ばしているのだろう。<line-break>貴族の名を盾にな。<end>"
+english = "True enough. No doubt your betrothed spends the day drinking and gambling, sitting in some dim tavern surrounded by women and leering at them, all while using a noble title as a shield.<end>"
+
+["440016"]
+japanese = "それは違います！<line-break>あの方は、そんな方ではありません！<line-break>\u3000<line-break>ましてや、<line-break>貴族の名をひけらかすなんて…！<end>"
+english = "That's not true! My betrothed is nothing like that, much less the sort to flaunt a noble title...!<end>"
+
+["440017"]
+japanese = "…ごめんなさい。<line-break>私、何をムキになってるのかしら。<end>"
+english = "...I'm sorry. Why am I getting so worked up?<end>"
+
+["440018"]
+japanese = "何も謝ることなどないさ。\u3000\u3000\u3000\u3000<end>"
+english = "You have nothing to apologize for.<end>"
+
+["440019"]
+japanese = "では失礼する。<line-break>愛しのフィアンセ殿によろしくな。<end>"
+english = "I'll take my leave, then. Give my regards to your darling betrothed.<end>"
+
+["440020"]
+japanese = "レムオン様…。<end>"
+english = "Lemghon...<end>"
+
+["440021"]
+japanese = "みっともないところを<line-break>見せてしまったな。<end>"
+english = "You've seen me make a sorry spectacle of myself.<end>"
+
+["440022"]
+japanese = "バカを言え！\u3000ティアナは<line-break>ファーロスの雌狐の娘だ。<line-break>\u3000<line-break>誰がファーロス家の<line-break>血を引く女などに<line-break>心を奪われるものか！<end>"
+english = "Don't be a fool! Tiana is the daughter of the Vixen of Pharos. As if I could ever lose my heart to a woman with the blood of House Pharos!<end>"
+
+["440023"]
+japanese = "黙れ！\u3000俺は…<end>"
+english = "Silence! I...<end>"
+
+["440024"]
+japanese = "…そうだ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Yes.<end>"
+
+["440025"]
+japanese = "…お前の言うとおりだ。<line-break>俺はティアナを好きだった！\u3000\u3000\u3000<end>"
+english = "You were right. I was in love with Tiana!<end>"
+
+["440026"]
+japanese = "あんな男と婚約する前から…<line-break>幼いころから、ずっと！\u3000ずっと！<end>"
+english = "Long before she was betrothed to that man... Ever since childhood―all this time! All this time!<end>"
+
+["440027"]
+japanese = "だが、許されないことだ！\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>この想いを告げることも、<line-break>いや、こんな気持ちを抱くことすらも<line-break>許されないのだ！<end>"
+english = "But it cannot be allowed! I mustn't tell her how I feel―no, I mustn't even feel this way!<end>"
+
+["440028"]
+japanese = "フフ…。満足か？\u3000\u3000<end>"
+english = "Heh... Satisfied now?<end>"
+
+["440029"]
+japanese = "…俺のこんな姿を見て<line-break>満足か？<end>"
+english = "Does seeing me like this satisfy you?<end>"
+
+["440030"]
+japanese = "すまん…。貴様には…<line-break>つい…甘えてしまう。<end>"
+english = "I'm sorry... I couldn't help leaning on you.<end>"
+
+["440031"]
+japanese = "お前に見放されたら、俺は…。<end>"
+english = "If even you turned your back on me, I...<end>"
+
+["440032"]
+japanese = "…いや、なんでもない。<line-break>まさに醜態だった。忘れてくれ。<end>"
+english = "No, it's nothing. That was a disgraceful display. Forget it.<end>"
+
+["440033"]
+japanese = "\u3000\u3000帝国軍の侵攻をかろうじて食い止めた<line-break>\u3000\u3000\u3000\u3000\u3000ロストール王国だったが、<line-break>\u3000\u3000国家としての勢いはおとろえる一方で<line-break>\u3000\u3000国内でのひずみが表面化し始めていた。<end>"
+english = "The Kingdom of Rostorl had barely managed to halt the imperial army's advance. But its strength as a nation continued to wane, and internal strains were beginning to surface.<end>"
+
+["440034"]
+japanese = "王都ロストールからやや南に位置する<line-break>ノーブルの町で、領主に代わって\u3000<line-break>町を治めていた代官ボルボラの暴政に<line-break>領民が蜂起、暴動となった。<line-break>この騒ぎは、領主であるエリエナイ公<line-break>レムオン・リューガの手によって\u3000<line-break>ボルボラが討たれる事で決着したが、<line-break>その裏には、更に大きなうねりがあった。<end>"
+english = "In Noble, a town a short distance south of the capital, Rostorl, the people rose up against the tyranny of Bolbora, the governor who ruled in their lord's stead, and the uprising erupted into a riot. The unrest ended when Bolbora was slain by the local lord, Duke Lemghon Ryuga of Elienai. Yet behind it all lay an even greater current.<end>"
+
+["440035"]
+japanese = "今回の騒ぎは、ファーロスの雌狐と<line-break>呼ばれる王妃エリスが、<line-break>政敵であるレムオンの失脚を狙い、<line-break>密偵を使って起こしたものだった。<end>"
+english = "The unrest had been orchestrated by Queen Eris, known as the Vixen of Pharos. Seeking the downfall of her political rival Lemghon, she had used spies to incite it.<end>"
+
+["440036"]
+japanese = "騒ぎを急速に鎮圧したレムオンの手腕は\u3000\u3000\u3000<line-break>鮮やかであったが、この事件が表した\u3000\u3000<line-break>ディンガル帝国との国勢の差は\u3000\u3000\u3000<line-break>隠しきれないものがあった。\u3000\u3000<end>"
+english = "Lemghon's swift suppression of the unrest was masterful, but the gulf in national strength between Rostorl and the Dingal Empire, laid bare by the incident, could not be concealed.<end>"
+
+["440037"]
+japanese = "\u3000\u3000\u3000\u3000長い歴史を持つ大国ロストール。<line-break>\u3000\u3000\u3000\u3000\u3000その国土を照らす日差しは    <line-break>\u3000\u3000\u3000\u3000\u3000\u3000今、確実に赤みを増し      <line-break>\u3000\u3000\u3000\u3000\u3000そっと傾こうとしていた…。  <end>"
+english = "Rostorl, a great power with a long history. The sunlight bathing its lands was now steadily growing redder, beginning to slant ever so gently...<end>"
+
+["440038"]
+japanese = "あ、<value:$28>将軍！<line-break>ここはロストールの大貴族、<line-break>エリエナイ公レムオンの屋敷です。<line-break>重要な調査が必要なため、<line-break>誰も中に入れるなとの<line-break>青竜将軍閣下よりの厳命であります。<end>"
+english = "Ah, General <value:$28>! This is the residence of Duke Lemghon of Elienai, one of Rostorl's foremost nobles. An important investigation must be conducted here, and His Excellency the Azure Dragon General has given strict orders that no one be allowed inside.<end>"
+
+["440039"]
+japanese = "青竜将軍閣下の厳命により<line-break>ここには誰も入れられん。\u3000\u3000\u3000<line-break>さあ、散れ散れ！<end>"
+english = "By strict order of His Excellency the Azure Dragon General, no one may enter. Now move along!<end>"
+
+["440040"]
+japanese = "これは、伯爵様。<line-break>どうぞ、お通りください。<end>"
+english = "Ah, Count. Please, go right in.<end>"
+
+["440041"]
+japanese = "ここは、<line-break>エリエナイ公レムオン様のお屋敷だ。<line-break>用のない者は立ち去るがよい。<end>"
+english = "This is the residence of Duke Lemghon of Elienai. Anyone with no business here is to leave.<end>"
+
+["440042"]
+japanese = "おっと、そんなに恐い顔をするなよ。<end>"
+english = "Whoa, no need to glare at me like that.<end>"
+
+["440043"]
+japanese = "今日は、お前に<line-break>いい話を持ってきたんだぜ。<end>"
+english = "I've got something good for you today.<end>"
+
+["440044"]
+japanese = "よう、また会ったな。<end>"
+english = "Hey. Good to see you again.<end>"
+
+["440045"]
+japanese = "今日は、お前に<line-break>いい話を持ってきたんだぜ。<end>"
+english = "I've got something good for you today.<end>"
+
+["440046"]
+japanese = "よう。<line-break>俺はツェラシェル。<line-break>もとは天空神ノトゥーンの神官だ。\u3000\u3000<line-break>とは言っても、今じゃ見てのとおりだ。<line-break>まあ、仲よくやろうぜ。<end>"
+english = "Hey. I'm Tzerashel. I used to be a priest of Notun, the Sky God. Still, you can see what I'm like now. Anyway, let's get along, eh?<end>"
+
+["440047"]
+japanese = "んで、さっそくだが、<line-break>今日はお前に<line-break>いい話を持ってきたんだ。<end>"
+english = "Now, down to business. I've brought you something good today.<end>"
+
+["440048"]
+japanese = "お前もよく知ってるレムオンの話さ。<end>"
+english = "It's about Lemghon―someone you know well.<end>"
+
+["440049"]
+japanese = "何年か前、奴の母親が死んだころ、<line-break>俺は、カミラっていうダルケニス族の<line-break>女性について調べまわってたんだ。<line-break>ってのも、その母親が<line-break>死に際に奴をまくらもとに呼んで<line-break>爆弾発言したらしくてな。<end>"
+english = "A few years back, around the time his mother died, I was digging into a Dalkenis woman named Camilla. Apparently, on her deathbed, his mother called him to her side and dropped quite the bombshell.<end>"
+
+["440050"]
+japanese = "ほら、よくあるだろ？<line-break>あなたの本当のおかあさんは…<line-break>ってな感じの奴さ。<end>"
+english = "You know the sort of thing: “Your real mother is...” That kind of bombshell.<end>"
+
+["440051"]
+japanese = "何が言いたいかはわかったろ？<line-break>で、俺は奴がダルケニスだっていう\u3000<line-break>決定的な証拠が欲しいわけさ。<line-break>で、お前のその立場を上手く使って、<line-break>奴の尻尾をつかんでほしいんだ。<end>"
+english = "You see where I'm going with this, don't you? I want conclusive proof that he's Dalkenis. I need you to make good use of your position and catch him out.<end>"
+
+["440052"]
+japanese = "うまくいったら、王妃様が<line-break>召し抱えてくださるってよ。<line-break>どうだ？\u3000奴を売る気はないか？<end>"
+english = "If you pull it off, the Queen will take you into her service. What do you say? Care to sell him out?<end>"
+
+["440053"]
+japanese = "ふーん。それが答えってわけか。<line-break>ま、いいさ。それなら俺が、<line-break>俺の流儀でやるだけだ。じゃあな。<end>"
+english = "Hmm. So that's your answer. Fine. Then I'll do it my way. See you around.<end>"
+
+["440054"]
+japanese = "やっぱり気になる<end>"
+english = "It's still on my mind.<end>"
+
+["440055"]
+japanese = "関係ない。寝よう<end>"
+english = "It doesn't matter. Time to sleep.<end>"
+
+["440056"]
+japanese = "おや、あなたも外出ですか？<line-break>今日は新月のようです。<line-break>どうぞお足元に気をつけて。<end>"
+english = "Oh, are you heading out as well? It seems there's a new moon tonight. Please watch your step.<end>"
+
+["440057"]
+japanese = "おや、もうお戻りですか。<line-break>それでは、おやすみなさいませ。<end>"
+english = "Oh, you're back already. Well then, good night.<end>"
+
+["440058"]
+japanese = "<value:$28>か。<end>"
+english = "<value:$28>?<end>"
+
+["440059"]
+japanese = "ん…？<line-break>あんたは…。<end>"
+english = "Hm...? You're...<end>"
+
+["440060"]
+japanese = "いや、これは俺がやったんじゃない。\u3000<line-break>\u3000<line-break>\u3000<line-break>酒場で飲んでたら、外を知ってる奴が<line-break>歩いて行ってな。一緒に飲もうと思って<line-break>追ってきたらここについたってわけさ。<end>"
+english = "No, I didn't do this. I was drinking at the tavern when someone familiar with the outside world walked past. I followed, hoping we could have a drink together, and ended up here.<end>"
+
+["440061"]
+japanese = "ああ。<line-break>確かに何かやばい感じがする。<line-break>…行ってみるか。<end>"
+english = "Yeah. Something definitely feels wrong. Shall we take a look?<end>"
+
+["440062"]
+japanese = "そういや自己紹介してなかったっけか。<line-break>俺はゼネテス。まあ一応、冒険者だ。<line-break>\u3000<line-break>お前さんのことは噂に聞いてるぜ。<line-break><value:$28>、だろ？<line-break>ま、これからよろしく。<end>"
+english = "Come to think of it, I never introduced myself, did I? I'm Xenetes. An adventurer, more or less. I've heard the rumors about you. <value:$28>, right? Anyway, good to meet you.<end>"
+
+["440063"]
+japanese = "何だ？\u3000…この匂い…。<line-break>こんな真夜中に、香をたいているのか？<line-break>\u3000<line-break>向こうからか…。<line-break>よし、行くぞ、<value:$28>！<end>"
+english = "What's that smell...? Is someone burning incense at this hour? It's coming from over there... Come on, <value:$28>!<end>"
+
+["440064"]
+japanese = "どうした、ふたりとも？<line-break>こんな夜中に騒々しいな。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>まあ、いいさ。<line-break>ちょうどこっちも準備が終わった。<line-break>ほら、そろそろだ。<end>"
+english = "What's the matter with you two? You're making quite a racket this late at night. No matter. We've just finished preparing as well. Look―it's almost time.<end>"
+
+["440065"]
+japanese = "この香の匂い、何だかわかるか？<line-break>これは新月の香っていうシロモノでな。<line-break>\u3000<line-break>まあ、俺たち人間にとっては<line-break>ただの香なんだが、ダルケニス族には<line-break>強力な覚せい作用があってな。<end>"
+english = "Do you know what that incense is? It's something called Incense of the New Moon. To us humans, it's merely incense, but it has a powerful stimulant effect on the Dalkenis.<end>"
+
+["440066"]
+japanese = "う…ぐあぁっ…！<end>"
+english = "Ugh... Gaaah...!<end>"
+
+["440067"]
+japanese = "ほらな。<line-break>こんな風に、ダルケニス族は<line-break>我を忘れてしまうってわけさ。<end>"
+english = "See? This is what it does. The Dalkenis lose all control of themselves.<end>"
+
+["440068"]
+japanese = "ウウ…グッ、ググ、ア…アア…<line-break>ガアアアアア！！！！<end>"
+english = "Uuugh... Ggh, grrgh, a... aaah... GRAAAAAAAH!<end>"
+
+["440069"]
+japanese = "ウウグガアアアアッ！！<end>"
+english = "GRRRAAAAAAAH!<end>"
+
+["440070"]
+japanese = "がは…っ！<end>"
+english = "Gah...!<end>"
+
+["440071"]
+japanese = "ガアアァッ！<line-break>血…、血…、血…血！<end>"
+english = "GRAAAAH! Blood... Blood... blood... Blood!<end>"
+
+["440072"]
+japanese = "兄さん！<line-break>大丈夫ですか！？<end>"
+english = "Brother! Are you all right?!<end>"
+
+["440073"]
+japanese = "こいつっ！！<end>"
+english = "You bastard!!<end>"
+
+["440074"]
+japanese = "よせ、ヴィア。<line-break>無茶して奴と戦うことはない。<end>"
+english = "Stop, Via. There's no need to do anything reckless by fighting him.<end>"
+
+["440075"]
+japanese = "でもこいつ！<line-break>兄さんを！！<end>"
+english = "But he...! My brother...!<end>"
+
+["440076"]
+japanese = "そんなことは構うな。<line-break>俺たちの仕事は終わった。<line-break>あとは奴を放っておけばいい。\u3000\u3000\u3000<line-break>このまま街へ出て暴れまわって<line-break>誰かの血でも吸ってくれれば、<line-break>晴れて奴はダルケニスのおたずね者だ。<end>"
+english = "Never mind that. Our work is done. All we have to do now is leave him alone. If he goes on a rampage through the city and sucks someone's blood, he'll officially be a wanted man among the Dalkenis.<end>"
+
+["440077"]
+japanese = "行くぞ、ヴァイ、ヴィア。<end>"
+english = "We're leaving, Vai, Via.<end>"
+
+["440078"]
+japanese = "これが俺のやり方だ。<line-break>悪く思うなよ。<end>"
+english = "This is how I do things. Don't hold it against me.<end>"
+
+["440079"]
+japanese = "ウガァアアア！<line-break>血！\u3000血ィアアアア！！<end>"
+english = "GRAAAAAH! Blood! BLOOOOOD!!<end>"
+
+["440080"]
+japanese = "こりゃ、ちょっとマズイかもな。<line-break>手荒になるが、目を覚まさせてやるか。<end>"
+english = "This could be trouble. It'll take some rough treatment, but let's snap him out of it.<end>"
+
+["440081"]
+japanese = "普段のレムオンじゃない。<line-break>気を抜くなよ、<value:$28>！<end>"
+english = "This isn't the Lemghon we know. Stay sharp, <value:$28>!<end>"
+
+["440082"]
+japanese = "んー…、<line-break>やりすぎたかな？<end>"
+english = "Hmm... Think I overdid it?<end>"
+
+["440083"]
+japanese = "ま、大丈夫か。<line-break>息してるし、見た目も元に戻ってる。<line-break>しばらくすりゃ気がつくだろう。<line-break>んじゃ、あとは頼むわ。<line-break>任せたぜ、<value:$28>。<end>"
+english = "Well, he should be fine. He's breathing, and he looks like himself again. He'll probably come around before long. I'll leave the rest to you, <value:$28>.<end>"
+
+["440084"]
+japanese = "いや、俺は帰っとくわ。<line-break>俺に助けられたなんて知ったら、<line-break>かえって面倒になりそうだからな。<line-break>そんじゃ、おやすみな。<line-break><value:$28>。<end>"
+english = "No, I think I'll head home. If he finds out I helped him, it'll only make things more complicated. Well then, good night, <value:$28>.<end>"
+
+["440085"]
+japanese = "…<value:$28>。<line-break>ここで…何を…？<line-break>\u3000<line-break>！！<end>"
+english = "<value:$28>... What are you doing here...?!<end>"
+
+["440086"]
+japanese = "…貴様。<line-break>見た…のか…！？<end>"
+english = "You... Did you see...?<end>"
+
+["440087"]
+japanese = "…出て行け。<line-break>出ていくのだ。<end>"
+english = "Leave. Get out of here.<end>"
+
+["440088"]
+japanese = "あんた、聞いたかい？<line-break>レムオン様の話。<end>"
+english = "Have you heard about Lord Lemghon?<end>"
+
+["440089"]
+japanese = "なんの話？<end>"
+english = "What story?<end>"
+
+["440090"]
+japanese = "聞いた<end>"
+english = "I have.<end>"
+
+["440091"]
+japanese = "レムオン様が、ダルケニスだったってのさ。<line-break>とんでもない話だよ、吸血鬼が大きな顔して<line-break>のさばってたなんてさ。<end>"
+english = "They say Lord Lemghon was a Dalkenis. Can you imagine? A vampire strutting around as if he owned the place!<end>"
+
+["440092"]
+japanese = "…だろうね。<line-break>町中、その話でもちきりさ。<end>"
+english = "I should think so. The whole town's talking about it.<end>"
+
+["440093"]
+japanese = "なんとも恐ろしいことじゃ。<line-break>国を動かすような大貴族様が<line-break>ダルケニス族じゃったとは…。<line-break>今までも時々人を襲って<line-break>血を吸うていたんじゃろうか…。<line-break>ひえぇぇぇ～。<end>"
+english = "What a terrifying business. To think that a great noble with enough influence to sway the whole country was one of the Dalkenis... Do you suppose people have been attacked and had their blood sucked now and then, all this time...? Eeeeeeek!<end>"
+
+["440094"]
+japanese = "ダルケニスを殺すと賞金が出るらしい。<line-break>それでみんなレムオンを捜してるんだ。<line-break>\u3000<line-break>ま、こんな真っ昼間の大通りには<line-break>顔を出すはずはないけどね。<end>"
+english = "Apparently there's a bounty for killing a Dalkenis. That's why everyone's looking for Lemghon. Not that he'd show his face on a main street in broad daylight.<end>"
+
+["440095"]
+japanese = "あのレムオン様が<line-break>ダルケニス族だったなんて…。\u3000\u3000\u3000<line-break>\u3000<line-break>でも、たとえダルケニスだろうと、<line-break>公爵様は、公爵様だわ。そうでしょ？<end>"
+english = "To think Lord Lemghon is one of the Dalkenis... But Dalkenis or not, His Grace is still His Grace. Isn't that right?<end>"
+
+["440096"]
+japanese = "<value:$28>様…、<line-break>レムオン様がここしばらく<line-break>お戻りになっておりません。\u3000\u3000\u3000\u3000<line-break>私めに一言もなく、このように長い間<line-break>屋敷を離れられたことは、<line-break>今まで一度もなかったのですが…。<end>"
+english = "<value:$28>... Master Lemghon has not returned for some time now. Never before has he stayed away from the manor for so long without saying a word to me...<end>"
+
+["440097"]
+japanese = "近頃街ではよからぬ噂が<line-break>流れておりますが、それしきのことで<line-break>姿を消すようなお方ではないはずです。<line-break>レムオン様の身にいったい何が…。<end>"
+english = "There have been some troubling rumors going around town of late, but surely he would not disappear over something like that. What could have happened to Master Lemghon...?<end>"
+
+["440098"]
+japanese = "レムオン様の身にいったい何が…。\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "What could have happened to Lord Lemghon...?<end>"
+
+["440099"]
+japanese = "\u3000\u3000\u3000\u3000\u3000…<value:$28>。<line-break>\u3000\u3000\u3000\u3000\u3000…無限のソウルを持つ者。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000そして、その力ゆえに<line-break>\u3000\u3000\u3000\u3000\u3000世界を混沌に導く者よ…。<end>"
+english = "…<value:$28>. Bearer of the Infinite Soul. You whose power will plunge the world into chaos…<end>"
+
+["440100"]
+japanese = "\u3000\u3000\u3000\u3000汝の存在はあまりにも危険だ…。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000均衡と秩序のため、<line-break>\u3000\u3000\u3000\u3000神の代理たる竜王の名において、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我は汝を滅せん…。<end>"
+english = "Your very existence poses too great a danger… For the sake of balance and order, in the name of the Dragon King, divine proxy, I shall destroy you…<end>"
+
+["440101"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000…なぜだ？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000…運命の女神よ<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000なぜ、…我を滅ぼし<line-break>\u3000\u3000\u3000\u3000世界を混沌の闇に包まんとする…？<end>"
+english = "…Why? Goddess of Fate… why do you seek to destroy me and shroud the world in the darkness of chaos…?<end>"
+
+["440102"]
+japanese = "\u3000\u3000\u3000余はうつつの身の最後の神であった…。\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000人の子よ…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000すべての神を殺し、<line-break>\u3000\u3000人は自分の足で歩めると言えるのか？<end>"
+english = "I was the last god embodied in this world… Child of man… After killing all the gods, can humanity truly claim to stand on its own feet?<end>"
+
+["440103"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000神去った世に、汝は、\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000何を試そうというのだ。<line-break>\u3000\u3000\u3000\u3000光と闇の均衡が崩れぬこと、<line-break>\u3000\u3000\u3000\u3000\u3000もはや、かなうまい…。<end>"
+english = "Now that the gods are gone, what is it you mean to attempt? The balance between light and darkness can no longer be preserved…<end>"
+
+["440104"]
+japanese = "<value:$28>は<line-break>竜殺しの称号を得た。<end>"
+english = "<value:$28> earned the title of Dragonslayer.<end>"
+
+["440105"]
+japanese = "エリエナイ公レムオン＝リューガだ。<line-break>予備メッセージＶ３の２。<end>"
+english = ""
+
+["440106"]
+japanese = "エリエナイ公レムオン＝リューガだ。<line-break>予備メッセージＶ３の３。<end>"
+english = ""
+
+["440107"]
+japanese = "エリエナイ公レムオン＝リューガだ。<line-break>予備メッセージＶ３の４。<end>"
+english = ""
+
+["440108"]
+japanese = "エリエナイ公レムオン＝リューガだ。<line-break>予備メッセージＶ３の５。<end>"
+english = ""
+
+["440109"]
+japanese = "エリエナイ公レムオン＝リューガだ。<line-break>予備メッセージＶ３の６。<end>"
+english = ""
+
+["440110"]
+japanese = "エリエナイ公レムオン＝リューガだ。<line-break>予備メッセージＶ３の７。<end>"
+english = ""
+
+["440111"]
+japanese = "エリエナイ公レムオン＝リューガだ。<line-break>予備メッセージＶ３の８。<end>"
+english = ""
+
+["440112"]
+japanese = "エリエナイ公レムオン＝リューガだ。<line-break>予備メッセージＶ３の９。<end>"
+english = ""
+
+["440113"]
+japanese = "エリエナイ公レムオン＝リューガだ。<line-break>予備メッセージＶ３の１０。<end>"
+english = ""
+
+["440114"]
+japanese = "エリエナイ公レムオン＝リューガだ。<line-break>予備メッセージＶ３の１。<end>"
+english = ""
+
+["440115"]
+japanese = "リューガ・ボリューム３終端<end>"
+english = ""

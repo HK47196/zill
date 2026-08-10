@@ -1,0 +1,1217 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["880000"]
+japanese = "エステルメッセージVOL1開始<end>"
+english = ""
+
+["880001"]
+japanese = "ちぇっ、ちょっと見せてくれても<line-break>いいのにな。<end>"
+english = "Aw, come on. It wouldn't hurt to let me take a quick look.<end>"
+
+["880002"]
+japanese = "わあっ。すいませんっ！<line-break>ま、まだ何もしてませんっ。\u3000\u3000<line-break>\u3000<line-break>エステル・ズゥ、非市民ですっ！<line-break>職業は冒険者ですっ！<line-break>ちゃんとギルドに登録してま…。<end>"
+english = "Ah! Sorry! I-I haven't done anything yet! Esther Zu, noncitizen! Occupation: adventurer! I'm properly registered with the Guild...<end>"
+
+["880003"]
+japanese = "…なんだ、都市治安警官じゃないのか。<line-break>おどかさないでよ…。まったく。<line-break>\u3000<line-break>…って、治安警官があんまり非市民に<line-break>横柄で権力的なんで、ついヒクツに<line-break>なっちゃったボクもボクだけどね。<end>"
+english = "Oh, you're not a city security officer. Don't scare me like that... Honestly. Then again, city security officers are so overbearing and authoritarian toward noncitizens that I automatically start groveling. I suppose that's my fault, too.<end>"
+
+["880004"]
+japanese = "見てよ、この時計塔。<line-break>大陸一でっかい魔法仕掛けの時計。<end>"
+english = "Look at this clock tower. It's the biggest magic-powered clock on the continent.<end>"
+
+["880005"]
+japanese = "でも、非市民にそんなもの見せる<line-break>必要はないってさ。<line-break>さっき断られちゃった。<line-break>だから、忍び込んで見ちゃおうって<line-break>決心したときにキミが来たんで、<line-break>ボクはビックリさせられたわけ。<end>"
+english = "But apparently there's no reason to show something like that to a noncitizen. They turned me away just now. I'd just decided to sneak in and see it for myself when you showed up, so you gave me quite a fright.<end>"
+
+["880006"]
+japanese = "あのさ、<line-break>動いているってすごいよね…。<line-break>\u3000<line-break>ボクの住んでいるところにも<line-break>魔法仕掛けのものがたくさん<line-break>あるんだけどさ…。<end>"
+english = "You know, it's amazing that it actually works... There are plenty of magic-powered things where I live, too, but...<end>"
+
+["880007"]
+japanese = "じゃあね、<line-break>………………。<end>"
+english = "Well, bye...<end>"
+
+["880008"]
+japanese = "…キミの名前、<line-break>ボク、まだ聞いてないよ！\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>こっちは、職務質問と間違えて<line-break>もうしゃべっちゃったんだから。<line-break>キミも教えないと公平じゃないよ！<end>"
+english = "Wait, I still haven't asked your name! I already told you all about myself because I thought you were questioning me. It's only fair that you tell me yours!<end>"
+
+["880009"]
+japanese = "こうなりゃ、いっそ強行突破、<line-break>不法侵入といきますか。<line-break>ボクの興味はとめられないよ！<end>"
+english = "Well, if that's how it is, maybe I'll just force my way in. Trespassing it is! Nothing can stop my curiosity!<end>"
+
+["880010"]
+japanese = "ね。<line-break>中身が見てみたいと思わない？<end>"
+english = "Don't you want to see what's inside?<end>"
+
+["880011"]
+japanese = "そんなに否定するんなら\u3000\u3000\u3000\u3000<line-break>別に何者でもいいけどさ。<line-break>\u3000<line-break>とにかく、<line-break>ボク、リベルダムによくいるし、<line-break>また会おうよ。じゃあね！<end>"
+english = ""
+
+["880012"]
+japanese = "ふぅーん、\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>っていうのか。<line-break>\u3000<line-break>とにかく、<line-break>ボク、リベルダムによくいるし、<line-break>また会おうよ。じゃあね！<end>"
+english = "Hmm. So your name's <value:$28>. Anyway, I'm in Liberdam a lot, so let's meet again sometime. Bye!<end>"
+
+["880013"]
+japanese = "あれ、<line-break><value:$28>じゃない？<end>"
+english = "Hey, isn't that <value:$28>?<end>"
+
+["880014"]
+japanese = "あぁ、リベルダムのこと？<line-break>残念だけど、ボクは…。<end>"
+english = "Oh, you mean Liberdam? Sorry, but I'm...<end>"
+
+["880015"]
+japanese = "ボクがリベルダム出身じゃない<line-break>ことぐらいすぐわかるだって？<line-break>\u3000<line-break>どーせボクは<line-break>小汚いカッコした非市民だよ。<line-break>キミだって非市民じゃないか？<end>"
+english = "You could tell right away I'm not from Liberdam? Well, I guess I'm just a grubby-looking non-citizen. But aren't you a non-citizen too?<end>"
+
+["880016"]
+japanese = "非市民じゃない<end>"
+english = "I'm not a non-citizen.<end>"
+
+["880017"]
+japanese = "非市民で悪い？<end>"
+english = "What's wrong with being a non-citizen?<end>"
+
+["880018"]
+japanese = "へへーん。そんなのウソだね。\u3000\u3000\u3000\u3000<line-break>ボクの目は節穴じゃないぞ。<line-break>\u3000<line-break>ボクは人を見る目には自信があるんだ。<line-break>キミってさぁ、ぜ～んぜん<line-break>市民って感じしないもん。<end>"
+english = "Heh! That's a lie. I know what I'm looking at. I'm a pretty good judge of people, you know. And you don't seem like a citizen at all.<end>"
+
+["880019"]
+japanese = "あ、言っておくけど、<line-break>悪い意味で言ってんじゃないよ。<line-break>\u3000<line-break>自分では何もしてないのに<line-break>いばり散らしてるだけのリベルダム市民<line-break>なんて、ボク大っ嫌いだから。<end>"
+english = "Oh, and I don't mean that in a bad way. I can't stand Liberdam citizens who've never accomplished anything themselves and do nothing but lord it over everyone.<end>"
+
+["880020"]
+japanese = "そんなことないよ。<line-break>むしろ、市民って聞くと<line-break>構えちゃうかな。<line-break>まぁ、ボクだって<line-break>市民はみんな悪者だなんて<line-break>考えてるわけじゃないけどさ。<end>"
+english = "Not at all. If anything, hearing that someone's a citizen puts me on my guard. Not that I think every citizen is bad, of course.<end>"
+
+["880021"]
+japanese = "ボク、市民かどうかなんて<line-break>つまらないレベルで人を見ないから。<line-break>\u3000<end>"
+english = "I don't judge people on something as petty as whether they're citizens.<end>"
+
+["880022"]
+japanese = "それじゃあね、<value:$28>。<line-break>見たい試合があるからボクは行くよ。<line-break>またね。<end>"
+english = "Well, see you around, <value:$28>. There's a match I want to watch, so I'd better go. Bye!<end>"
+
+["880023"]
+japanese = "あぁ、そうだよ。<line-break>ボクも時々闘技場に出るんだ。<line-break>\u3000<line-break>見ての通りだから<line-break>そんなに強い相手とは<line-break>試合にならないけどね。<end>"
+english = "Yeah, that's right. I fight in the arena sometimes too. As you can see, though, I'm no match for anyone too strong.<end>"
+
+["880024"]
+japanese = "そういう<value:$28>は<line-break>どうなんだい？<line-break>結構、強いんじゃない？\u3000\u3000\u3000<end>"
+english = "What about you, <value:$28>? You're pretty strong, aren't you?<end>"
+
+["880025"]
+japanese = "まぁね<end>"
+english = "Yeah, I guess.<end>"
+
+["880026"]
+japanese = "まだまだ駆け出し<end>"
+english = "I'm still a beginner.<end>"
+
+["880027"]
+japanese = "もう戻ってください！<line-break>前みたいにギリギリでは困ります！<end>"
+english = "Please come back now! We can't have you cutting it as close as last time!<end>"
+
+["880028"]
+japanese = "ちゃんと戻るよ！<line-break>そんなにボクが信用できないの！？<end>"
+english = "I'll be back in time! Do you really trust me that little?!<end>"
+
+["880029"]
+japanese = "ふ～ん、やっぱりそうなんだ。\u3000<line-break>なんとなくわかるもん。<line-break>\u3000<line-break>剣聖レーグみたいな<line-break>圧倒的な闘気は感じないけど、<line-break>内に秘めてる何かを感じるよ。<end>"
+english = "Hmm, so I was right. I could just tell. You don't have the overwhelming fighting spirit of Reig the Sword Saint, but I can sense something hidden inside you.<end>"
+
+["880030"]
+japanese = "またまたぁ。<line-break>ボクって結構、目利きなんだよ。<line-break>\u3000<line-break>キミもボクと同じで<line-break>まだまだ駆け出しってところ<line-break>なんじゃないの？<end>"
+english = "Oh, come on. I've got a pretty good eye for these things. You're still just starting out, same as me, aren't you?<end>"
+
+["880031"]
+japanese = "アハハハ。やっぱりね。<end>"
+english = "Ahahaha! I knew it.<end>"
+
+["880032"]
+japanese = "ふ～ん、ボクの気のせいかな？<line-break>それとも謙遜してるの？<line-break>\u3000<line-break>ま、最初はみんな駆け出しさ。<line-break>ボクらの武器は、いわば<line-break>可能性だもんね。<end>"
+english = "Hmm. Maybe I was imagining it. Or are you just being modest? Well, everyone starts out as a beginner. You could say our weapon is our potential.<end>"
+
+["880033"]
+japanese = "キミもそのうち、<line-break>レーグみたいに<line-break>強くなれるかもよ？\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Maybe someday you'll be as strong as Reig.<end>"
+
+["880034"]
+japanese = "そうではありません。<line-break>何があるかわかりませんから<line-break>用心に用心を重ねなくては！<end>"
+english = "That is not the issue. We don't know what might happen, so we must take every possible precaution!<end>"
+
+["880035"]
+japanese = "ボクの生まれた所？<line-break>…ここからはかなり遠いよ。\u3000\u3000\u3000<line-break>\u3000<line-break>ボク、時々こうして<line-break>故郷を抜け出して、いろんなとこを<line-break>見てまわっているんだ。<end>"
+english = "Where was I born? A long way from here. Every so often, I slip away from home like this and travel around seeing all sorts of places.<end>"
+
+["880036"]
+japanese = "でも、いまだにさ、<line-break>にぎやかな街に来ると<line-break>ワクワクしちゃうんだよね。\u3000\u3000\u3000<line-break>キミもボクの気持ち<line-break>わかるよね？<end>"
+english = "Even now, though, I still get excited whenever I come to a bustling city. You know what I mean, don't you?<end>"
+
+["880037"]
+japanese = "都会生まれだから、わからない<end>"
+english = "I was born in the city, so I wouldn't know.<end>"
+
+["880038"]
+japanese = "よくわかるよ<end>"
+english = "I know exactly what you mean.<end>"
+
+["880039"]
+japanese = "ウッソだぁ、ボクにはわかるんだから。<line-break>キミ、絶対そんな感じしないもん。<line-break>\u3000<line-break>ボクもリベルダムに最初に来たころは<line-break>市民じゃないってことに<line-break>引け目を感じてたけどさ。<end>"
+english = "No way! I can tell, you know. You don't seem like that at all. When I first came to Liberdam, I felt self-conscious about not being a citizen too.<end>"
+
+["880040"]
+japanese = "今は、自分じゃ何もしていないのに<line-break>市民の家に生まれたっていうだけで<line-break>市民だ市民だっていばってる方が、<line-break>よっぽどカッコ悪いって思うんだよね。<line-break>…生まれた家なんて<line-break>…自分には関係ないのにさ。<end>"
+english = "But now I think it's much more pathetic to be born into a citizen family, accomplish nothing yourself, and still strut around boasting about being a citizen. It's not like you chose the family you were born into.<end>"
+
+["880041"]
+japanese = "あはっ！\u3000やっぱりわかる？<line-break>そうなんだよ。いろんなモノを見て<line-break>感動していかなきゃダメだよね。<end>"
+english = "Aha! So you do understand! That's right. You have to go out, see all sorts of things, and let them move you.<end>"
+
+["880042"]
+japanese = "…あんな所に埋もれて<line-break>一生を終えるなんて、<line-break>ボク、ぜーったいヤダ！\u3000<line-break>キミだって<line-break>同じ気持ちでここに来たんだろ？<end>"
+english = "No way am I spending my whole life buried away in a place like that! You felt the same way when you came here, didn't you?<end>"
+
+["880043"]
+japanese = "さ、我々と一緒に。<end>"
+english = "Come along with us.<end>"
+
+["880044"]
+japanese = "…時計はさ、いろいろな部品から\u3000\u3000\u3000<line-break>できあがっているよね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>部品の１個１個は、<line-break>ひたすら同じ動きを繰り返してる。<line-break>\u3000<end>"
+english = ""
+
+["880045"]
+japanese = "でもさ、そのなかの１個だけでも<line-break>動くのをやめてしまったら、<line-break>時計全体は止まってしまうんだよね…。<line-break>ひとつの部品がヤダって言ったら…。<line-break>\u3000<line-break>\u3000<end>"
+english = ""
+
+["880046"]
+japanese = "アハハハ。<line-break>ボク、何をわけわかんないこと<line-break>言ってんだろ。<end>"
+english = ""
+
+["880047"]
+japanese = "<value:$28>？<end>"
+english = "<value:$28>?<end>"
+
+["880048"]
+japanese = "なんだお前は！？<line-break>邪魔するな！<end>"
+english = "Who are you?! Stay out of this!<end>"
+
+["880049"]
+japanese = "面倒だ。処理しろ！<end>"
+english = "What a nuisance. Deal with this!<end>"
+
+["880050"]
+japanese = "イタタタ！\u3000くそっ！<end>"
+english = "Ow, ow, ow! Damn it!<end>"
+
+["880051"]
+japanese = "なんてことしてくれたんだ！<line-break>あそこまでやることないじゃない！<end>"
+english = "What did you do that for?! You didn't have to go that far!<end>"
+
+["880052"]
+japanese = "ボクはキミに助けてなんて<line-break>一言も言ってない。<line-break>急ぐんだ！\u3000どいてよ！<end>"
+english = "I never asked you to save me. I'm in a hurry, so move!<end>"
+
+["880053"]
+japanese = "まだ、やだよ。<line-break>会っておきたい人がいるんだから！！<end>"
+english = "No, not yet. There's someone I want to see first!<end>"
+
+["880054"]
+japanese = "…？<line-break>会っておきたい人？<end>"
+english = "Hm? Someone you want to see?<end>"
+
+["880055"]
+japanese = "と、ともかく、<line-break>もうしばらく自由にさせてよ！<end>"
+english = "A-anyway, just let me do as I please a little longer!<end>"
+
+["880056"]
+japanese = "だめです。<line-break>逃がしませんよ！<end>"
+english = "No. You're not getting away!<end>"
+
+["880057"]
+japanese = "どいてよ、もう！<end>"
+english = "Oh, just get out of my way!<end>"
+
+["880058"]
+japanese = "そりゃ、確かに手を出したのは<line-break>こっちが先だけど…。<line-break>\u3000<line-break>勝手に首を突っ込んできたのは<line-break>キミの方じゃないか。<end>"
+english = "All right, we did start it, but... you're the one who barged in without being asked.<end>"
+
+["880059"]
+japanese = "ほっとけなかったからって…。<line-break>\u3000<line-break>\u3000<line-break><value:$28>…。<end>"
+english = "You couldn't just leave me alone...? <value:$28>...<end>"
+
+["880060"]
+japanese = "そ、そんな心配しなくたって<line-break>ボクも冒険者なんだ。<line-break>自分の身は自分で守れるよ。<end>"
+english = "Y-you don't have to worry so much. I'm an adventurer too. I can take care of myself.<end>"
+
+["880061"]
+japanese = "じゃ、急ぐから。<end>"
+english = "Well, I have to hurry.<end>"
+
+["880062"]
+japanese = "やぁ、…ひさしぶりだね。<end>"
+english = "Hey... It's been a while.<end>"
+
+["880063"]
+japanese = "しばらくさ、用があって<line-break>リベルダム離れてたんだ。<line-break>\u3000<line-break>…この前は、ありがと。<line-break>ごめんね、礼も言わずに行っちゃって。<line-break>…怒ってる？<end>"
+english = "I had to leave Liberdam for a while on some business. And... thanks for the other day. Sorry I left without even thanking you. Are you mad at me?<end>"
+
+["880064"]
+japanese = "てへへ、ありがと。<line-break>で、あのさ。ありがとついでに、<line-break>ちょっと頼まれてほしいんだけど…。<line-break>首飾りを探してほしいんだ。<line-break>竜骨の砂漠に落ちている…。<end>"
+english = "Hee hee, thanks. So, um... since I'm already thanking you, could I ask a little favor? I want you to find a necklace. It's lying somewhere in the Dragonbone Desert...<end>"
+
+["880065"]
+japanese = "いや、砂漠でも大丈夫。<line-break>この水晶を持ってれば<line-break>きっと見つかる。<line-break>これ、首飾りと<line-break>引き合う様にできてるんだ。<end>"
+english = "No, the desert won't be a problem. If you have this crystal, I'm sure you'll find it. It's made to be drawn toward the necklace.<end>"
+
+["880066"]
+japanese = "絶対、他の人じゃダメなんだ！<line-break>キミに…探してほしいんだ。<line-break>お願い…。ダメかな…？<end>"
+english = "It has to be you! I want you to find it. Please... Will you do it?<end>"
+
+["880067"]
+japanese = "ありがと！<line-break>よかった…。<line-break>\u3000<line-break>じゃあ、はい。<line-break>この水晶がみちびいてくれるよ。<end>"
+english = "Thank you! What a relief... Here, take this. The crystal will guide you.<end>"
+
+["880068"]
+japanese = "頼んだよ、<value:$28>！<line-break>リベルダムのギルドで待ってるからさ！<end>"
+english = "I'm counting on you, <value:$28>! I'll be waiting at the Guild in Liberdam!<end>"
+
+["880069"]
+japanese = "エステルの首飾りを手渡した。<end>"
+english = "Handed over Esther's necklace.<end>"
+
+["880070"]
+japanese = "ありがとう！<line-break>見つけてきてくれたんだ！<end>"
+english = "Thank you! You found it for me!<end>"
+
+["880071"]
+japanese = "あ、水晶の方はいいの！<line-break>キミが持っててくれるかな…？<end>"
+english = "Oh, don't worry about the crystal! Would you hold on to it for me...?<end>"
+
+["880072"]
+japanese = "よかった…。そうじゃなきゃ…\u3000\u3000\u3000\u3000<line-break>意味がないんだ…。<line-break>\u3000<line-break>あっ、えっ、その<line-break>…ハハハ、何でもないよ！\u3000独り言！<line-break>あんまり根ほり葉ほり聞かないの！<end>"
+english = "Good... Otherwise, there wouldn't be any point... Oh! Uh, I mean... Ha ha ha, it's nothing! Just talking to myself! Don't go prying into everything!<end>"
+
+["880073"]
+japanese = "えっ、あっ、報酬…？<line-break>アハハハ…。<line-break>…体で払うって、ダメ？<line-break>あ、変な意味じゃなくて、<line-break>ボクがキミのパーティーに<line-break>入るってことなんだけどね。<end>"
+english = "Huh? Oh, a reward...? Ah ha ha ha... Could I pay you with my body? Oh, not like that! I mean, I could join your party.<end>"
+
+["880074"]
+japanese = "えーっ！\u3000あのっ！\u3000そのっ！<line-break>…ボクなんかで…いいの？<end>"
+english = "What?! Um! I mean... You'd really be all right with someone like me?<end>"
+
+["880075"]
+japanese = "…たっぷりこき使ってやる、<line-break>冒険の旅はつらいぞって…。<line-break>\u3000<line-break>いやーん！<line-break>やっぱりボクって<line-break>肉体労働専門なのね？<end>"
+english = "You mean you'll work me to the bone and show me how hard the adventuring life is...? Nooo! So I really am just here for the heavy lifting?<end>"
+
+["880076"]
+japanese = "もー！\u3000冒険の仲間になろうって<line-break>言ってるだけじゃん！<line-break>ボク、待ってるからねー！<end>"
+english = ""
+
+["880077"]
+japanese = "<value:$28>、ごめん。<line-break>ボク、ちょっと用事があって、しばらく<line-break>キミと一緒に冒険できないんだ…。<line-break>多分、呼び出しにも応えられない…。<line-break>でも……、絶対戻ってくるから、<line-break>何も聞かないで行かせてほしい。<end>"
+english = "<value:$28>, I'm sorry. There's something I need to take care of, so I won't be able to go adventuring with you for a while. I probably won't be able to come when you call, either... But I promise I'll come back. Please, just let me go without asking any questions.<end>"
+
+["880078"]
+japanese = "ホントごめんなさい！<end>"
+english = "I'm so sorry!<end>"
+
+["880079"]
+japanese = "ボクだって…<line-break>いつでもキミのそばにいたいのに…。<end>"
+english = "I wish I could always be by your side, too...<end>"
+
+["880080"]
+japanese = "へへー。<line-break>…ただいま。<end>"
+english = "Hee-hee. I'm back.<end>"
+
+["880081"]
+japanese = "パーティに入れる<end>"
+english = "Add to the party<end>"
+
+["880082"]
+japanese = "今はいい<end>"
+english = "Not now<end>"
+
+["880083"]
+japanese = "じゃ、がんばるからね。<end>"
+english = "All right, I'll do my best.<end>"
+
+["880084"]
+japanese = "うん、わかった。<line-break>じゃあ、待ってるから。<end>"
+english = "Okay, got it. I'll be waiting, then.<end>"
+
+["880085"]
+japanese = "…ねえ、キミ、<line-break>大丈夫かい？<end>"
+english = "Hey... are you all right?<end>"
+
+["880086"]
+japanese = "よかった。気がついたね。<line-break>でも、こんな所でのびてるなんて<line-break>ちょっとカッコ悪いんじゃなあい？<end>"
+english = "Good, you're awake. Still, lying here out cold isn't exactly a good look, is it?<end>"
+
+["880087"]
+japanese = "そういえばさっき、髪の短い女の子と<line-break>男たちが向こうに走っていったけど、<line-break>キミ、あれと関係あるの？<end>"
+english = "Come to think of it, I just saw a short-haired girl and a group of men running that way. Do you have something to do with them?<end>"
+
+["880088"]
+japanese = "う～ん、なんか急いでたみたい。<line-break>何があるんだろうね？<line-break>あたいには知りようもないけどさ。<line-break>じゃ、あたいはギルドに<line-break>届けものしなきゃなんないから。<line-break>じゃね、バイバ～イ。<end>"
+english = "Hmm, they seemed to be in quite a hurry. Wonder what's going on? Not that I'd know. Anyway, I've got a delivery to make to the Guild. See you. Bye-bye!<end>"
+
+["880089"]
+japanese = "わかった<end>"
+english = "Got it.<end>"
+
+["880090"]
+japanese = "しょうがないな<end>"
+english = "Fine, if I have to.<end>"
+
+["880091"]
+japanese = "う～ん…<end>"
+english = "Hmm...<end>"
+
+["880092"]
+japanese = "ね、ね、お願い！<end>"
+english = "Come on, please!<end>"
+
+["880093"]
+japanese = "やった！\u3000ありがと！<line-break>あれ、でも今は無理みたいだね。\u3000<line-break>\u3000<line-break>それじゃ、必要になったら呼んでよ。<line-break>絶対だよ！<end>"
+english = "Yes! Thank you! Oh, but it looks like it won't work right now. Then call me when you need me. You'd better!<end>"
+
+["880094"]
+japanese = "待ってるからね。<end>"
+english = "I'll be waiting.<end>"
+
+["880095"]
+japanese = "それじゃ、町を出るときに合流するよ。<line-break>よーし、がんばるぞ！<end>"
+english = "Then I'll meet up with you when you leave town. All right, I'll do my best!<end>"
+
+["880096"]
+japanese = "パーティーに即入れる<end>"
+english = "Add to the party now<end>"
+
+["880097"]
+japanese = "今はいい<end>"
+english = "Not right now<end>"
+
+["880098"]
+japanese = "これはデバッグ用メッセージです。<line-break>通常は、ＯＦＦのままでよい<line-break>を選んでください。<end>"
+english = ""
+
+["880099"]
+japanese = "誘拐状態フラグをＯＮにする<end>"
+english = ""
+
+["880100"]
+japanese = "ＯＦＦのままでよい<end>"
+english = ""
+
+["880101"]
+japanese = "フラグをＯＮにしました。<line-break>もう一度話しかけて返事をしなければ<line-break>ＯＫです。<end>"
+english = ""
+
+["880102"]
+japanese = "では、何もしません。<end>"
+english = ""
+
+["880103"]
+japanese = "誘拐状態フラグをＯＦＦにする<end>"
+english = ""
+
+["880104"]
+japanese = "ＯＮのままでよい<end>"
+english = ""
+
+["880105"]
+japanese = "空中都市飛行準備フラグをＯＮにする<end>"
+english = ""
+
+["880106"]
+japanese = "ＯＦＦのままでよい<end>"
+english = ""
+
+["880107"]
+japanese = "これはデバッグ用メッセージです。<line-break>私は、今、誘拐されていません。<line-break>\u3000<end>"
+english = ""
+
+["880108"]
+japanese = "フラグをＯＮにしました。<line-break>もう一度話しかけて確認してください<line-break>\u3000<end>"
+english = ""
+
+["880109"]
+japanese = "これはデバッグ用メッセージです。<line-break>私は、今、誘拐されています。<line-break>\u3000<end>"
+english = ""
+
+["880110"]
+japanese = "フラグをＯＦＦにしました。<line-break>もう一度話しかけて確認してください<line-break>\u3000<end>"
+english = ""
+
+["880111"]
+japanese = "未使用：べーだ！<line-break>じゃあね！\u3000待ってるから！<end>"
+english = ""
+
+["880112"]
+japanese = "未使用：チャカ、いくぜ？<end>"
+english = ""
+
+["880113"]
+japanese = "未使用：う、うん…。<line-break>すぐ、いくよ。<end>"
+english = ""
+
+["880114"]
+japanese = "未使用：でも、姉ちゃん、よかったよな。<line-break>エステルが帰ってきて。<end>"
+english = ""
+
+["880115"]
+japanese = "未使用：あっ、<value:$28>が<line-break>誰か美少年と話しとるぞ、ばあさんや。<end>"
+english = ""
+
+["880116"]
+japanese = "未使用：じいさんや、正体を確かめんと！<line-break><value:$28>に悪い虫がつくぞえ！<end>"
+english = ""
+
+["880117"]
+japanese = "未使用：よし、突撃じゃ！<line-break>いくぞ！\u3000ばあさんや！<end>"
+english = ""
+
+["880118"]
+japanese = "未使用：なんだよ！\u3000ゼネテスもレムオンも。<line-break>ボクはエステルだよ。もう！<end>"
+english = ""
+
+["880119"]
+japanese = "未使用：はて、誰でしたかいのう、ばあさんや。<end>"
+english = ""
+
+["880120"]
+japanese = "未使用：はて、人違いじゃないですかのう、<line-break>じいさんや。<end>"
+english = ""
+
+["880121"]
+japanese = "未使用：意地悪っ！<end>"
+english = ""
+
+["880122"]
+japanese = "未使用：おい！\u3000冗談だ！<line-break>あとで、猫屋敷で呼び出すから、<line-break>怠けずに鍛えておくのだぞ！<end>"
+english = ""
+
+["880123"]
+japanese = "未使用：べーだ！\u3000<line-break>じゃあね！\u3000待ってるから！<end>"
+english = ""
+
+["880124"]
+japanese = "未使用：レムオン、いくぜ？<end>"
+english = ""
+
+["880125"]
+japanese = "未使用：あ、ああ…。<end>"
+english = ""
+
+["880126"]
+japanese = "未使用：<value:$28>、よかったな。<line-break>エステルが帰ってきて。<end>"
+english = ""
+
+["880127"]
+japanese = "えっ、あっ、おみやげね。<line-break>ハハハ……ない。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>…ごめんなさい！<line-break>それじゃ、猫屋敷で呼んでくれんの<line-break>待ってるから！<end>"
+english = "Huh? Oh, a souvenir. Ha ha ha... I don't have one. Sorry! Well, I'll be waiting at Cat Manor for you to come get me!<end>"
+
+["880128"]
+japanese = "<value:$28>さんですね。<end>"
+english = "You must be <value:$28>.<end>"
+
+["880129"]
+japanese = "ま、待ってください！<line-break>私たちは怪しいものではありません！<line-break>その水晶、エステル様からもらったんですね？<end>"
+english = "W-wait! We're not up to anything suspicious! Lady Esther gave you that crystal, didn't she?<end>"
+
+["880130"]
+japanese = "それは、エステル様が、<line-break>あなたを信頼しているという何よりの証。<line-break>あなた様を信用してお話しします。<line-break>私たちは、砂漠の一族。<line-break>竜骨の砂漠の奥深くにある<line-break>ラドラスに住む一族です。<end>"
+english = "That is proof enough that Lady Esther trusts you. We trust you as well, so we will explain who we are. We are the Desert Clan, a people who live in Ladras, deep within the Dragonbone Desert.<end>"
+
+["880131"]
+japanese = "そして、エステル様は<line-break>我ら砂漠の一族の族長なのです。<end>"
+english = "Lady Esther is the chieftain of our Desert Clan.<end>"
+
+["880132"]
+japanese = "以前お会いしたとき、<line-break>我々がエステル様と言い争っていたのは、<line-break>エステル様をラドラスに連れ戻すためでした。<end>"
+english = "When last we met, we were arguing with Lady Esther because we were trying to bring her back to Ladras.<end>"
+
+["880133"]
+japanese = "エステル様は好奇心がお強く、<line-break>よくラドラスを抜け出しては<line-break>冒険に行ってしまわれるものでして…。<end>"
+english = "Lady Esther is intensely curious. She often slips away from Ladras and goes off adventuring...<end>"
+
+["880134"]
+japanese = "まずは、我々とエステル様の関係を<line-break>おわかりいただけたでしょうか？<end>"
+english = "Do you now understand our relationship with Lady Esther?<end>"
+
+["880135"]
+japanese = "ありがとうございます。<line-break>以前、はからずもあなた様と刃を交えた無礼は<line-break>お許しください。<end>"
+english = "Thank you. We did not mean to cross blades with you when last we met. Please forgive our discourtesy.<end>"
+
+["880136"]
+japanese = "問題はここからなのです。<line-break>実は、そのエステル様が<line-break>ここしばらく行方不明なのです。<end>"
+english = "Now we come to the problem. Lady Esther has been missing for some time.<end>"
+
+["880137"]
+japanese = "我々も手を尽くしたのですが<line-break>居場所をつかむことができず…！<end>"
+english = "We have tried everything, but we cannot find her!<end>"
+
+["880138"]
+japanese = "エステル様に水晶を託された<line-break>あなた様を信用してお願いいたします。<line-break>どうか、エステル様を捜してください。\u3000\u3000<line-break>その水晶は、エステル様の首飾りと<line-break>引き合います。今、エステル様を捜せるのは<line-break>あなた様だけなのです。<end>"
+english = "Lady Esther entrusted that crystal to you, so we place our trust in you as well. Please, find her. The crystal is drawn to Lady Esther's necklace. You are the only one who can find her now.<end>"
+
+["880139"]
+japanese = "なんとしても、<line-break>１ケ月以内に捜しだしてください。<end>"
+english = "Whatever it takes, you must find her within one month.<end>"
+
+["880140"]
+japanese = "ありがとうございます。<line-break>すでに水晶にわずかな反応があるようですから、<line-break>おそらくリベルダムの近くでしょう。<line-break>水晶が導く場所を<line-break>探してみてください。<line-break>どうか、よろしくお願いします。<end>"
+english = "Thank you. The crystal already seems to be responding faintly, so she is probably somewhere near Liberdam. Try searching for the Place Revealed by the Crystal. Please, we are counting on you.<end>"
+
+["880141"]
+japanese = "<value:$28>！<line-break>危ない！<end>"
+english = "<value:$28>! Look out!<end>"
+
+["880142"]
+japanese = "アハハ、物騒な世の中になったなぁ。<line-break>電撃がとんでくるなんて。<line-break>君、大丈夫？<end>"
+english = "Ahaha! The world's become a dangerous place, hasn't it? Electric bolts flying around and all. Are you all right?<end>"
+
+["880143"]
+japanese = "大丈夫、大丈夫。<line-break>彼女に手荒な真似はしてないよ。<line-break>\u3000<line-break>動けないように<line-break>呪縛をかけちゃったけどね。<end>"
+english = "She's fine, she's fine. I haven't hurt her. I did put a binding spell on her so she couldn't move, though.<end>"
+
+["880144"]
+japanese = "<value:$28>、<line-break>こいつがボクをさらったんだ！<end>"
+english = "<value:$28>, this thing kidnapped me!<end>"
+
+["880145"]
+japanese = "くすっ、僕じゃないさ。<line-break>正確にはこいつだろ？<line-break>君をさらったのは。<end>"
+english = "Heh, it wasn't me. Strictly speaking, this is the one that kidnapped you, isn't it?<end>"
+
+["880146"]
+japanese = "勇者君、こいつはちょっち手強いよ！<line-break>がんばって！\u3000死んだりしないでね！<end>"
+english = "Hey, hero, this one's a little tough! Good luck! Try not to die, okay?<end>"
+
+["880147"]
+japanese = "おみごと！\u3000強いねぇ。<line-break>ご褒美に呪縛を解いてあげるよ。<end>"
+english = "Well done! You're strong. As a reward, I'll release her from the binding spell.<end>"
+
+["880148"]
+japanese = "あ、動ける！<end>"
+english = "Oh, I can move!<end>"
+
+["880149"]
+japanese = "くすっ、よかったね。<line-break><value:$28>に感謝しないとね。<line-break>じゃ、またね。<line-break>あははっ。<end>"
+english = "Heh, good for you. Be sure to thank <value:$28>. See you around. Ahaha!<end>"
+
+["880150"]
+japanese = "<value:$28>、ありがとう！<line-break>助けに来てくれるって信じてた！<end>"
+english = "Thank you, <value:$28>! I knew you'd come to save me!<end>"
+
+["880151"]
+japanese = "えっ…！<line-break>どうして…ボクが<line-break>ラドラスの人間だって知ってるの？<end>"
+english = "What...?! How did you know I'm from Ladras?<end>"
+
+["880152"]
+japanese = "ラドラスのみんながボクを捜してたの？<line-break>た、大変だ。<line-break>すぐに戻らないと。<line-break>ねぇ、ついてきてくれないかな？<line-break>途中でまた襲われると嫌だし、<line-break>それに話したいことができたし。<end>"
+english = "Everyone in Ladras was looking for me? Th-that's bad. I have to get back right away. Will you come with me? I don't want to be attacked again on the way, and now I have something I want to talk to you about.<end>"
+
+["880153"]
+japanese = "ありがと、<value:$28>。<line-break>じゃあ行こう。ラドラスへ。<line-break>\u3000<line-break>ラドラスは<line-break>竜骨の砂漠の中にあるんだ。<line-break>ボクが案内するよ。<end>"
+english = "Thanks, <value:$28>. All right, let's go to Ladras. It's in the Dragonbone Desert. I'll show you the way.<end>"
+
+["880154"]
+japanese = "ここがラドラスの入り口。<line-break>ラドラスではこのテレポーターで<line-break>移動することが多いんだ。<end>"
+english = "This is the entrance to Ladras. We usually get around Ladras using this teleporter.<end>"
+
+["880155"]
+japanese = "すごいでしょ。<line-break>ラドラスは古代に滅びた\u3000\u3000\u3000\u3000<line-break>魔道王国の遺産なんだ。<line-break>だから、いろんな力が眠っている。<line-break>ボクたち砂漠の一族は<line-break>それを守っているんだ。<end>"
+english = "Amazing, isn't it? Ladras is the legacy of a sorcerous kingdom that fell in ancient times. All sorts of powers still lie dormant here. Our desert clan guards that legacy.<end>"
+
+["880156"]
+japanese = "ボクたち以外にも<line-break>いろんな仕掛けがラドラスの遺産を<line-break>守っているんだ。<line-break>不定期に行われる<line-break>族長がいるかいないかのチェックも<line-break>そのひとつなんだよ。<end>"
+english = "Besides us, all sorts of mechanisms protect Ladras's legacy. One is a check, carried out at irregular intervals, to see whether the clan chief is here.<end>"
+
+["880157"]
+japanese = "族長がいなければ、<line-break>ラドラスは砂漠に沈む。<end>"
+english = "If the clan chief isn't here, Ladras sinks into the desert.<end>"
+
+["880158"]
+japanese = "異邦人に侵略されたと見なして、<line-break>遺産を守るために一族ごとね。<line-break>\u3000<line-break>だから、キミがボクを<line-break>助けてくれていなかったら、<line-break>ここは沈んでいたかもしれない。<end>"
+english = "It assumes we've been invaded by outsiders and sinks the entire clan along with Ladras to protect the legacy. So if you hadn't saved me, this place might have sunk.<end>"
+
+["880159"]
+japanese = "さ、ついてきて。<end>"
+english = "Come on, follow me.<end>"
+
+["880160"]
+japanese = "お待ちしておりました！<line-break>エステル様！<end>"
+english = "Esther! Your arrival has been eagerly awaited!<end>"
+
+["880161"]
+japanese = "ごめん…。<line-break>心配かけて。<end>"
+english = "Sorry... for worrying you.<end>"
+
+["880162"]
+japanese = "<value:$28>様、助かりました。<line-break>ありがとうございます。<end>"
+english = "You were a great help, <value:$28>. Thank you.<end>"
+
+["880163"]
+japanese = "エステル様、<line-break>すぐにこちらへ。<end>"
+english = "Esther, please come this way at once.<end>"
+
+["880164"]
+japanese = "それじゃ、ちょっと行ってくる。<line-break>あちこち見学してて。<line-break>\u3000<end>"
+english = "I'm going to head out for a bit. Have a look around while I'm gone.<end>"
+
+["880165"]
+japanese = "<value:$28>、<line-break>来てくれたんだ！<end>"
+english = "<value:$28>, you came!<end>"
+
+["880166"]
+japanese = "パーティーを編成しますか？<end>"
+english = "Form a party?<end>"
+
+["880167"]
+japanese = "はい<end>"
+english = "Yes<end>"
+
+["880168"]
+japanese = "いいえ<end>"
+english = "No<end>"
+
+["880169"]
+japanese = "じゃ、ボク待ってるから。<end>"
+english = "Then I'll be waiting.<end>"
+
+["880170"]
+japanese = "<if><value:$29><equal>%0エステルって、坊やの仲間よね。<line-break>この前、あたしたちが助けたわ。\u3000<line-break>\u3000<line-break>ずいぶん長いこと<line-break>囚われの身だったみたいで、<line-break>かなり衰弱してたわ。<end>エステルって、子猫ちゃんの仲間よね。<line-break>この前、あたしたちが助けたわ。<line-break>\u3000<line-break>ずいぶん長いこと<line-break>囚われの身だったみたいで、<line-break>かなり衰弱してたわ。<end>"
+english = "<if><value:$29><equal>%0Esther's one of your companions, isn't she, little boy? We rescued her the other day. It looked as though she'd been held captive for a very long time. She was terribly weak.<end>Esther's one of your companions, isn't she, kitten? We rescued her the other day. It looked as though she'd been held captive for a very long time. She was terribly weak.<end>"
+
+["880171"]
+japanese = "どうして助けに行かなかったわけ？<line-break>彼女、衰弱よりも何よりもそれが<line-break>つらかったみたいだったわ。<line-break>彼女、<line-break>あんたのパーティーを抜けるって。<line-break>あたしは大賛成してあげたわ。<end>"
+english = "Why didn't you go and rescue her? More than the weakness or anything else, that seemed to be what hurt her most. She says she's leaving your party. I told her I was all for it.<end>"
+
+["880172"]
+japanese = "仲間のこと、<line-break>あんなにほっとくなんて最低ね。\u3000<line-break>\u3000<line-break>ナーシェスが突然、神懸かり的に<line-break>あのダンジョンに行こうなんて<line-break>言い出さなかったら、どうなってたか。<end>"
+english = "Leaving one of your own like that is despicable. If Narscess hadn't suddenly had a flash of divine inspiration and suggested going to that dungeon, there's no telling what would have happened.<end>"
+
+["880173"]
+japanese = "あたし、ノエルの仲間でよかった。<line-break>ノエルはあたしがダルケニスでも<line-break>仲間として助けてくれたもの。<end>"
+english = "I'm glad I'm one of Noel's companions. Even though I'm a Dalkenis, Noel helped me as one of her companions.<end>"
+
+["880174"]
+japanese = "ちょっと幻滅だわ。<line-break>あたしの言いたいのはそれだけ。<end>"
+english = "I'm a little disappointed in you. That's all I wanted to say.<end>"
+
+["880175"]
+japanese = "<value:$28>…。<end>"
+english = ""
+
+["880176"]
+japanese = "い、今さら何しに来たんだよ。<line-break>絶対、キミが助けてくれるって<line-break>信じてたのに…。<line-break>だけど、キミは来なかった…。<line-break>\u3000<line-break>\u3000<end>"
+english = ""
+
+["880177"]
+japanese = "出てって！<line-break>ボク、みじめだよ！\u3000\u3000\u3000\u3000\u3000\u3000<line-break>出てって！！<end>"
+english = ""
+
+["880178"]
+japanese = "すばらしい…。これなら、<line-break>万一の事態にも対応できよう。<end>"
+english = ""
+
+["880179"]
+japanese = "フッ、保護魔法に引っかかったか？\u3000\u3000<line-break>やはり私の手には負えぬようだ。<line-break>\u3000<line-break>しかし、あのお方が、<line-break>エステルという小娘を救ってまで<line-break>手札に残しておかれたのもうなずける。<end>"
+english = ""
+
+["880180"]
+japanese = "これは誰かと思えば、<line-break>ご自分の仲間も助けない勇者殿！<line-break>立ち聞きとはお行儀が悪いですな？<end>"
+english = ""
+
+["880181"]
+japanese = "いつになったら<line-break>この小言は終わるんだろ？<end>"
+english = "How long is this lecture going to go on?<end>"
+
+["880182"]
+japanese = "このバカものは勝手にラドラスを出て、<line-break>砂漠に首飾りを探しに<line-break>行っとったんじゃ。<line-break>自分の首飾りを砂漠に隠して、<line-break>誰かに取ってきてもらえば<line-break>その者とのきずなが永遠のものになる。<end>"
+english = "This fool left Ladras without permission and went off into the desert looking for a necklace. Hide your own necklace in the desert and have someone retrieve it, and the bond between you will last forever.<end>"
+
+["880183"]
+japanese = "…そんなバカげたまじないが\u3000\u3000\u3000\u3000\u3000<line-break>最近、流行っとるんじゃ。<line-break>ほんに困ったもんじゃ。<end>"
+english = "That ridiculous charm has become quite the fashion lately. It's a real nuisance.<end>"
+
+["880184"]
+japanese = "こんにちは。<end>"
+english = ""
+
+["880185"]
+japanese = "なんの用なの！<line-break>シャリ！<end>"
+english = ""
+
+["880186"]
+japanese = "つれないなぁ。<line-break>僕の目当ては君ひとりさ。<end>"
+english = ""
+
+["880187"]
+japanese = "ふぅん、ほんとにボクひとり？<line-break>とてもそんな風には見えないけど？<end>"
+english = ""
+
+["880188"]
+japanese = "あと、アキュリュースにひとり、<line-break>ウルカーンにひとり、<line-break>竜の座にひとりってとこかな？<end>"
+english = ""
+
+["880189"]
+japanese = "結構、浮気者じゃない？<end>"
+english = ""
+
+["880190"]
+japanese = "その上、強引だよ。<end>"
+english = ""
+
+["880191"]
+japanese = "さぁ、ついてきてもらおうか、<line-break>かわいこちゃん？<end>"
+english = ""
+
+["880192"]
+japanese = "それが答え？\u3000もっと紳士的に<line-break>願いたかったんだけどな。<end>"
+english = ""
+
+["880193"]
+japanese = "殺れ。<end>"
+english = ""
+
+["880194"]
+japanese = "フフ、そんなんじゃ<line-break>ぜんぜんダメだよ、エステル。<line-break>いつか命を落とすよ？<line-break>君は他のパーティーメンバーに<line-break>あまり貢献していない。<line-break>平たく言えば役立たずだね！<end>"
+english = ""
+
+["880195"]
+japanese = "………………！<end>"
+english = ""
+
+["880196"]
+japanese = "君は地の巫女だ。<line-break>その気になれば、今の怪物なんて<line-break>ひとひねりだったろうに…。<end>"
+english = ""
+
+["880197"]
+japanese = "………………！？<end>"
+english = ""
+
+["880198"]
+japanese = "エステル、君こそが<line-break>ラドラスを支配した４人の巫女のひとり<line-break>ズゥの子孫なんだ。<line-break>そして、君こそが<line-break>地の精霊神グラジェオンに仕える、<line-break>強大な魔力を持つ地の巫女なんだよ。<end>"
+english = ""
+
+["880199"]
+japanese = "<if><value:$01><equal>2エステル、シャリの言うことなんかに<line-break>耳を貸しちゃダメよ！<end><if><value:$01><equal>21貴様の言うことなど<line-break>信じられぬな！<end><if><value:$01><equal>3貴様の言うことなぞ<line-break>信じられるか！<end><if><value:$01><equal>5へっ、てめえの言うことなんか<line-break>信じらんねえよ！<end><if><value:$01><equal>42お前の言うことなんか<line-break>信じられるものか！<end><if><value:$01><equal>7貴様の言うことなど<line-break>信じられるものか！<end><if><value:$01><equal>38こいつの言うことなんかに<line-break>耳を貸すな！\u3000エステル！<end><if><value:$01><equal>39あんたの言うことなんか<line-break>信じられないよ！<end><if><value:$01><equal>10お前の言うことなんか<line-break>信じられない！<end><if><value:$01><equal>13フッ、貴様など<line-break>信じられるか！<end><if><value:$01><equal>14貴様の言うことなんぞ<line-break>信じられんわい！<end><if><value:$01><equal>15エステル、あんな奴の言うこと<line-break>聞かないほうがいいよ。<end><if><value:$01><equal>4難しいこと、わかんない！<line-break>ウソ臭いかも！\u3000きゃっ！<end><if><value:$01><equal>22ダメだよ、エステルぅ！<line-break>あいつの言うこと信じちゃ！<end><if><value:$01><equal>19エステル、シャリの言うことは<line-break>信じちゃダメ！\u3000危険だよ！<end><if><value:$01><equal>40貴様の言うことなんか<line-break>信じられるものか！<end><if><value:$01><equal>41エステル、信じちゃダメ<line-break>シャリは何かたくらんでる！<end><if><value:$01><equal>9シャリぃ、エステル惑わして<line-break>今度は何をたくらんでる？<end><if><value:$01><equal>18拙者、貴様の<line-break>言うことなど信じぬわ！<end><if><value:$01><equal>17うさんくさいシャリの言うことなんて<line-break>信じられない、信じられないわぁ！<end><if><value:$01><equal>11あなたの言うことは<line-break>信じられないわ。<end><if><value:$01><equal>12…食えない奴だな。<line-break>今度は何をたくらんでいる？<end><if><value:$01><equal>8…エステルを惑わすのは<line-break>やめてください。<end><if><value:$01><equal>16貴様は信じられん。<end>…たわごとを。<end>"
+english = ""
+
+["880200"]
+japanese = "ラドラスに戻って、隠された<line-break>グラジェオンの聖座を求めるといい。<line-break>確かめてから人を疑いなよ。あはは。<end>"
+english = ""
+
+["880201"]
+japanese = "………………。<end>"
+english = ""
+
+["880202"]
+japanese = "<if><value:$01><equal>12エステル、しっかりしろ。<line-break>奴の言葉にとらわれるな！<end><if><value:$01><equal>8エステル、大丈夫ですか。<line-break>彼の言葉にとらわれてはいけません。<end><if><value:$01><equal>16…奴の言葉にとらわれるな。<line-break>それが奴のねらいなのだ。<end><if><value:$01><equal>9奴の言葉にとらわれないで…。<line-break>…力って罠よ、エステル。<end><if><value:$01><equal>22エステル、しっかりしてよぉ！<line-break>言葉で君をとらえる…<line-break>それが奴のねらいなんだよ！<end><if><value:$01><equal>19ね、エステル、しっかりしてよぉ！<line-break>シャリの言うことなんて聞いちゃダメ！<end><if><value:$01><equal>2アイリーン、しっかりして。<line-break>シャリの言葉にとらわれないで！<end><if><value:$01><equal>3エステル、しっかりするのだ。<line-break>奴の言葉にとらわれるな！<end><if><value:$01><equal>7エステル、しっかりして。<line-break>奴の言葉にとらわれないで！<end><if><value:$01><equal>38エステル、しっかりしろ。<line-break>奴の言葉にとらわれるな！<end><if><value:$01><equal>21エステル、しっかりしろ。<line-break>奴の言葉にとらわれるな！<end><if><value:$01><equal>11エステル、しっかりして。<line-break>奴の言葉にとらわれないで。<end><if><value:$01><equal>13…しっかりしろ<line-break>奴の言葉にとらわれるな。<end><if><value:$01><equal>15ねえ、エステル、しっかりして！<line-break>奴の言葉にとらわれないで！<end><if><value:$01><equal>39エステル、しっかりしな。<line-break>奴の言葉にとらわれんじゃないよ！<end><if><value:$01><equal>10エステル、しっかりして！<line-break>奴の言葉にとらわれるな！<end><if><value:$01><equal>14エステル、しっかりせい。<line-break>奴の言葉にとらわれてはならん！<end><if><value:$01><equal>40エステル、しっかりしろ。<line-break>奴の言葉にとらわれるな！<end><if><value:$01><equal>41エステル、しっかりして。<line-break>シャリの言葉にとらわれないで！<end><if><value:$01><equal>42エステル、しっかりしろ。<line-break>奴の言葉にとらわれるな！<end>………………。<end>"
+english = ""
+
+["880203"]
+japanese = "ボクが…地の巫女…<line-break>魔道文明を復活させる鍵のひとり…？<end>"
+english = ""
+
+["880204"]
+japanese = "<if><value:$01><equal>19エステルぅ！<end><if><value:$01><equal>15ねえ、エステル！<end>エステル！<end>"
+english = ""
+
+["880205"]
+japanese = "あ、…ゴメン。<end>"
+english = ""
+
+["880206"]
+japanese = "あ…<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>なんだか変な感じなんだ。<line-break>いつもの見なれたラドラスなのに<line-break>誰かに見られてるような…。<end>"
+english = "Oh... <value:$28>. Something feels strange. This is the same familiar Ladras I've always known, but... I feel like someone's watching me.<end>"
+
+["880207"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000…エステルよ…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000目覚めるのだ…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が地の巫女よ…<end>"
+english = "Esther... Awaken... my priestess of earth...<end>"
+
+["880208"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000…我は地の精霊神\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000グラジェオンなり…<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が座所を求めよ…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が試練を受けよ…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が望みをかなえよ…<end>"
+english = "I am Grajeon, spirit god of the earth... Seek the place where I dwell... Face my trial... Fulfill my wish...<end>"
+
+["880209"]
+japanese = "こないだのシャリも言ってた…。<line-break>ボクが…地の巫女…。<line-break>ラドラスの４人の巫女のひとり…。<end>"
+english = "Shalli said it the other day, too... That I'm... the Priestess of Earth. One of the four priestesses of Ladras...<end>"
+
+["880210"]
+japanese = "え！？<line-break>今の、<value:$28>にも<line-break>聞こえたの！？<end>"
+english = "What!? You heard that too, <value:$28>?<end>"
+
+["880211"]
+japanese = "<value:$28>。<line-break>あのさ、悪いんだけど<line-break>ちょっとつきあってくれないかな？<line-break>さっきの声…、地の精霊神に<line-break>会ってみたいんだ。<end>"
+english = "<value:$28>... Sorry to ask, but would you come with me for a bit? That voice just now... I want to meet the Spirit God of Earth.<end>"
+
+["880212"]
+japanese = "この柱…。<line-break>普段は壊れてて<line-break>ウンともスンともいわないけど…。<line-break>さっきの声の感じ…<line-break>きっと、この向こうに…。<end>"
+english = "This pillar... Usually it's broken and won't do a thing. But that voice just now... I'm sure it came from the other side.<end>"
+
+["880213"]
+japanese = "よ、よかったー！<line-break>いっきなりボクひとりで<line-break>飛ばされちゃうんだもんなー。\u3000<line-break><value:$28>が来なかったら<line-break>どうしようかって思ったよ。<end>"
+english = "Oh, thank goodness! I got whisked away all by myself out of nowhere. I didn't know what I'd do if you didn't show up, <value:$28>.<end>"
+
+["880214"]
+japanese = "ゴメン、ゴメンって。<line-break>…でも、どうしても気になるんだよ。<line-break>\u3000<line-break>きっとこの先に<line-break>地の精霊神がいるんだよ。<line-break>ねえ、行ってみようよ！<end>"
+english = "Sorry! I said I was sorry. But I just can't stop wondering about it. I'm sure the Earth Spirit God is somewhere up ahead. Come on, let's go see!<end>"
+
+["880215"]
+japanese = "\u3000\u3000 \u3000\u3000\u3000\u3000\u3000\u3000\u3000来たか…。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000エステルよ…。ズゥの血を引く娘よ…。<line-break>\u3000\u3000 \u3000\u3000\u3000\u3000\u3000我が地の巫女よ…。<end>"
+english = "You have come... Esther, daughter of Zuu's line... priestess of my earth...<end>"
+
+["880216"]
+japanese = "ボクを、呼んでたよね？<line-break>ずっと…。<line-break>キミが、地の精霊神なの？<end>"
+english = "You've been calling me, haven't you? All this time... Are you the Earth Spirit God?<end>"
+
+["880217"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000いかにも我は\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000地の精霊神、グラジェオン。<line-break>\u3000\u3000\u3000\u3000\u3000待っていたぞ。エステルよ。<end>"
+english = "Indeed. I am Grajeon, spirit god of the earth. I have awaited you, Esther.<end>"
+
+["880218"]
+japanese = "ねぇ！<line-break>ボクが地の巫女って、<line-break>どういうこと！？<end>"
+english = "Hey! What do you mean, I'm the Earth Priestess?!<end>"
+
+["880219"]
+japanese = "\u3000\u3000\u3000\u3000\u3000汝こそ、我に仕えし魔道の巫女\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ズゥの血と力を受け継ぐ者なり。<line-break>\u3000\u3000\u3000\u3000\u3000しかし、その力は未だ目覚めず。<end>"
+english = "You are the one who inherited the blood and power of Zuu, the priestess of magic who served me. Yet that power still lies dormant.<end>"
+
+["880220"]
+japanese = "ねぇ、<line-break>その巫女の力って<line-break>どうすれば身につくの？<end>"
+english = "So what do I have to do to gain the priestess's powers?<end>"
+
+["880221"]
+japanese = "だ、だって…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ボク、<value:$28>の<line-break>力になりたいんだ。<line-break>これからも一緒に冒険するんだ！<line-break>足手まといになんて<line-break>絶対になりたくないんだ！！<end>"
+english = "B-because... I want to help <value:$28>. We're going to keep adventuring together! I don't ever want to be a burden!!<end>"
+
+["880222"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000エステルよ…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000ここより先に、<line-break>\u3000\u3000\u3000\u3000\u3000フルーヴという巨人がおる。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000奴を倒すのだ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000さすれば我が力をもって<line-break>\u3000\u3000\u3000\u3000\u3000 汝の力を引き出してやろう。<end>"
+english = "Esther... Beyond this place dwells a giant called Fluve. Defeat it, and by my power, I shall draw out yours.<end>"
+
+["880223"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["880224"]
+japanese = "よし、じゃあ行こう<end>"
+english = "All right, let's go.<end>"
+
+["880225"]
+japanese = "行く必要なんかないよ<end>"
+english = "No need to go.<end>"
+
+["880226"]
+japanese = "ホント！？<end>"
+english = "Really?!<end>"
+
+["880227"]
+japanese = "グラジェオン、<line-break>ボクたち行くよ！<end>"
+english = "Grajeon, we're going!<end>"
+
+["880228"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よかろう。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000では我は、汝を<line-break>\u3000\u3000\u3000\u3000\u3000\u3000 精霊の座へと導かん。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000汝、気高き地の光を越え<line-break>\u3000\u3000\u3000\u3000\u3000\u3000彼の巨人に挑むがよい。<line-break>\u3000\u3000\u3000 \u3000\u3000挑み、打ち破るがよい…。<end>"
+english = "Very well. I shall guide you to the Seat of the Spirits. Pass beyond the noble light of earth and face that giant. Challenge it, and strike it down...<end>"
+
+["880229"]
+japanese = "そ、そんな！！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>だって、このままじゃ<line-break>ボク、本当にキミの足手まとい…。<end>"
+english = "N-no!! But at this rate, I really will just hold you back...<end>"
+
+["880230"]
+japanese = "…キミの決めたことには従うよ。<line-break>でも、でも、ボク…。<end>"
+english = "...I'll go along with your decision. But... but I...<end>"
+
+["880231"]
+japanese = "\u3000\u3000\u3000\u3000\u3000うつろいやすき人の子よ。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000気が変わったならば<line-break>\u3000\u3000\u3000\u3000\u3000また我を訪ねるがよい。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000さらばだ。<end>"
+english = "Inconstant child of man, if you change your mind, come and seek me again. Farewell.<end>"
+
+["880232"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000どうした？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000巨人を前に臆したか？<end>"
+english = "What is it? Have you lost your nerve before the giant?<end>"
+
+["880233"]
+japanese = "そんなことはない<end>"
+english = "Not at all.<end>"
+
+["880234"]
+japanese = "やめておこうかな<end>"
+english = "Maybe I should call it off.<end>"
+
+["880235"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000ならば行くがよい。\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Then go.<end>"
+
+["880236"]
+japanese = "そんな！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ここまで来て…。<line-break>\u3000<line-break>ボク、巫女の力が欲しいのに…。<line-break>キミの足手まといになんかならない<line-break>強い力が欲しいのに…。<end>"
+english = "No! Not after we've come this far... I want the shrine maiden's power. I want to be strong enough that I won't hold you back...<end>"
+
+["880237"]
+japanese = "わかったよ。<line-break>キミが決めたことには従うよ…。<end>"
+english = "Okay. If that's what you've decided, I'll go along with it...<end>"
+
+["880238"]
+japanese = "フン…地の巫女か。\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>グラジェオンめ…<line-break>闇の力の高まりを知り、<line-break>我を滅ぼさんと欲したか。<end>"
+english = "Hmph... So you are the Earth Priestess. Curse you, Grajeon... You sensed the growing power of darkness and sought to destroy me?<end>"
+
+["880239"]
+japanese = "しかし、汝らごときに倒される<line-break>このフルーヴではない。<line-break>来るがよい、精霊神のしもべよ！！<end>"
+english = "But Furuve will not fall to the likes of you. Come, servants of the Spirit God!<end>"
+
+["880240"]
+japanese = "愚かなり、地の巫女よ。<line-break>精霊神に躍らされ、<line-break>我を撃ち、闇を呼ぶか…。<line-break>愚かなり…愚かなり…。<end>"
+english = "Foolish Earth Priestess. Made to dance to the Spirit God's tune, you strike me down and call forth darkness...? Foolish... How foolish.<end>"
+
+["880241"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よくやった…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000エステルよ…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が地の巫女よ…。<end>"
+english = "Well done... Esther... my priestess of the earth...<end>"
+
+["880242"]
+japanese = "\u3000\u3000\u3000\u3000よくぞ、巨人フルーヴを倒した。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000約束通り、汝の内なる力を引き出そう。<line-break>\u3000\u3000\u3000\u3000目覚めよ。地の巫女エステルよ。<end>"
+english = "Well done. You have defeated Giant Fleuve. As promised, I shall draw out the power within you. Awaken, Esther, Priestess of Earth.<end>"
+
+["880243"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000さあ、再び行くがよい。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000汝のなすべき旅の道へ。<line-break>\u3000\u3000\u3000\u3000\u3000さらばだ。我が地の巫女よ。<end>"
+english = "Now go forth once more, along the path you are meant to travel. Farewell, priestess of my land.<end>"
+
+["880244"]
+japanese = "う、う～ん…。<line-break>なんだか、最後は妙に乱暴だったなあ。<line-break>フラフラするよ。<end>"
+english = "Ugh... That was oddly rough at the end. I feel all wobbly.<end>"
+
+["880245"]
+japanese = "<value:$28>、<line-break>大丈夫だった？\u3000<end>"
+english = "<value:$28>, are you all right?<end>"
+
+["880246"]
+japanese = "う、うわ！<line-break>なんだこの服！？<line-break>\u3000<line-break>ん…？<end>"
+english = "Whoa! What's with this outfit?! Hm...?<end>"
+
+["880247"]
+japanese = "なんだろ？\u3000この感じ。<line-break>ボク、いろんなことがわかるような<line-break>不思議な感じだ…。<line-break>この服も…<line-break>巫女の服なんだ…。<line-break>精霊神がくれたのかな…。<end>"
+english = "What is this feeling? It's strange... like I can understand all sorts of things. And this outfit... it's a priestess's robe. Did the Spirit God give it to me...?<end>"
+
+["880248"]
+japanese = "これが、地の巫女になったって\u3000\u3000<line-break>ことなのかな…？<line-break>うーん、よくわかんないや。<line-break>たはっ、なんだかスースーするや。<line-break>…ね、<value:$28>、<line-break>このカッコ、どう思う？<end>"
+english = "Does this mean I've become the Priestess of Earth...? Hmm, I don't really get it. Hah, it's kind of drafty, too. Hey, <value:$28>... what do you think of this outfit?<end>"
+
+["880249"]
+japanese = "ステキだと思う<end>"
+english = "I think it looks great.<end>"
+
+["880250"]
+japanese = "ガラじゃない<end>"
+english = "It's not really you.<end>"
+
+["880251"]
+japanese = "え、そ、そう！？<line-break>キミにそう言ってもらえると、<line-break>ボク、うれしいな…。<end>"
+english = "R-really?! Hearing that from you makes me happy...<end>"
+
+["880252"]
+japanese = "ね、キミさえよければ<line-break>ボク、このカッコで<line-break>冒険に出てもいいよ？<end>"
+english = "You know, if you don't mind, I could even go adventuring dressed like this.<end>"
+
+["880253"]
+japanese = "あっは、やっぱそれは<line-break>さすがにダメかな。<line-break>確かに動きにくいしね。ハハ…。\u3000\u3000<line-break>冒険のときはいつもの服にするよ。<line-break>けど、九柱ではこのカッコでいるから<line-break>ステキなボクに会いに来てよ。<end>"
+english = "Ahaha, yeah, I guess that'd be a bit much. Besides, it's hard to move around in this. Haha... I'll wear my usual clothes when I go adventuring. But I'll dress like this at the Nine Pillars, so come and see how lovely I look.<end>"
+
+["880254"]
+japanese = "…ん～。<line-break>あは、そうだよね。<line-break>うん、自分でもさ、そう思うんだ。<line-break>でも、これを着ていると<line-break>なんだか落ち着くんだ。<line-break>なんでだろうね。<end>"
+english = "Hmm... Ahaha, you're right. I think so too, honestly. But for some reason, wearing this makes me feel at ease. I wonder why.<end>"
+
+["880255"]
+japanese = "だからボク、九柱にいるときは<line-break>このカッコでいたいんだ。<line-break>冒険には今までの服で行くけどね。<line-break>…キミが気に入ってくれなくて<line-break>少し、残念だな…。<end>"
+english = "That's why I want to dress like this whenever I'm at the Nine Pillars. I'll still wear my usual clothes when I go adventuring, though. I'm a little disappointed you don't like it...<end>"
+
+["880256"]
+japanese = "じゃ、ボク、自分の部屋に帰るから。<line-break>またあとでね！<end>"
+english = "Well, I'm going back to my room. See you later!<end>"
+
+["880257"]
+japanese = "\u3000\u3000\u3000来たか、我が地の巫女エステルよ…。\u3000\u3000<line-break>\u3000\u3000\u3000\u3000ならば、我は今一度汝に問う。<line-break>\u3000\u3000\u3000汝、巨人を倒し、力を欲するか？<end>"
+english = "You have come, Esther, my priestess of earth... Then I ask you once more: will you defeat the giant and seek power?<end>"
+
+["880258"]
+japanese = "やあ、<value:$28>。<line-break>来てくれたんだね。<end>"
+english = "Hi, <value:$28>. You came to see me!<end>"
+
+["880259"]
+japanese = "へへへ～。<line-break>ボクのこのカッコも、見なれると<line-break>だいぶいい感じでしょ？<end>"
+english = "Hee hee! Once you get used to seeing me like this, it actually looks pretty good, don't you think?<end>"
+
+["880260"]
+japanese = "ちょっとした気分転換になるし、<line-break>もう少しここでこうしてるよ。<line-break>じゃ、またあとで合流ね。<end>"
+english = "It's a nice change of pace, so I think I'll stay like this a little longer. I'll catch up with you later.<end>"
+
+["880261"]
+japanese = "ところでさあ…。<line-break>う～、う～、<line-break>やっぱりボクも外に行きたいなあ…。<line-break><value:$28>、ボクも<line-break>連れていってくれないかなあ？<line-break>ボク、きっとキミの役に立てるよ。<end>"
+english = "By the way... Nngh... I really do want to go outside. <value:$28>, couldn't you take me with you? I know I could be useful.<end>"
+
+["880262"]
+japanese = "じゃあ、一緒に行こう<end>"
+english = "Then come with me.<end>"
+
+["880263"]
+japanese = "君はここにいるべきだよ<end>"
+english = "You should stay here.<end>"
+
+["880264"]
+japanese = "ホント！？<line-break>やったあー！！<end>"
+english = "Really?! Hooray!<end>"
+
+["880265"]
+japanese = "って、おい！！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>もうパーティー満員じゃない！！<line-break>ホントにもう！<line-break>ま、しょうがないか。<line-break>今度はボクも一緒に連れて行ってよね。<end>"
+english = "Hey, hold on! Your party's already full! Honestly! Oh well, I guess it can't be helped. Take me with you next time, okay?<end>"
+
+["880266"]
+japanese = "よーし、がんばるぞー！<line-break>よろしくね、<value:$28>。<end>"
+english = "All right, I'll do my best! I'm counting on you, <value:$28>.<end>"
+
+["880267"]
+japanese = "ぐむ～。<line-break>そう言われるとは思ったけど…。<line-break>\u3000<line-break>でも、いつかまたボクも<line-break>一緒に冒険させてよね。<line-break>約束だよ！<end>"
+english = "Hmph. I thought you might say that... But let me come adventuring with you again someday, all right? Promise!<end>"
+
+["880268"]
+japanese = "やあ、<value:$28>。<line-break>ラドラスはどう？<line-break>まだちょっと迷ったりする？<end>"
+english = "Hi, <value:$28>. How are you finding Ladras? Do you still get a little lost?<end>"
+
+["880269"]
+japanese = "せっかく来たんだから<line-break>色々見てまわってよ。<line-break>じゃ、またあとで合流ね。<end>"
+english = "Since you're here, have a look around. I'll catch up with you later.<end>"
+
+["880270"]
+japanese = "ところでさあ…。<line-break>ボクも外に行きたいなあ…<line-break>な～んて…。<line-break>ねえ、<value:$28>。<line-break>ボクもキミの冒険に<line-break>連れていってくれないかなあ？<end>"
+english = "By the way... I kind of wish I could go outside too... Just a thought. Hey, <value:$28>, couldn't you take me along on your adventure?<end>"
+
+["880271"]
+japanese = "ぶ～。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>そうかな～。<line-break>つまんないの～。<line-break>でも、いつかまたボクも<line-break>一緒に冒険させてよね。<line-break>約束だよ！<end>"
+english = "Boo. You really think so? That's no fun. But let me come adventuring with you again someday, all right? Promise!<end>"
+
+["880272"]
+japanese = "やあ、<value:$28>。<line-break>何回もボクに会いに来てくれるなんて<line-break>うれしいよ。<end>"
+english = "Hi, <value:$28>. I'm so happy you keep coming to see me.<end>"
+
+["880273"]
+japanese = "あ～。<line-break>さては、ボクのこのカッコ、<line-break>かなり気に入ってるでしょ？<end>"
+english = "Aha! You really like this look of mine, don't you?<end>"
+
+["880274"]
+japanese = "ボク、もう少しここでこうしてるよ。<line-break>じゃ、またあとで合流ね。<end>"
+english = "I think I'll stay like this a little longer. I'll catch up with you later.<end>"
+
+["880275"]
+japanese = "って、おい！！<line-break>そういえばパーティー満員じゃない！！<line-break>ホントにもう！<line-break>ま、しょうがないか。<line-break>今度はボクも一緒に連れて行ってよね。<end>"
+english = "Hey, hold on! Come to think of it, your party's already full! Honestly! Oh well, I guess it can't be helped. Take me with you next time, okay?<end>"
+
+["880276"]
+japanese = "ぐむむ～。<line-break>やっぱりそう言うの～？<line-break>しょうがないか…。<line-break>でも、いつかまたボクも<line-break>一緒に冒険させてよね。<line-break>約束だよ！<end>"
+english = "Nnngh. You're really going to say that? Oh well... But let me come adventuring with you again someday, all right? Promise!<end>"
+
+["880277"]
+japanese = "やあ、<value:$28>。<line-break>また来てくれたんだ。<line-break>うれしいよ。<end>"
+english = "Hi, <value:$28>. You came back! I'm so happy.<end>"
+
+["880278"]
+japanese = "ところでさあ…<line-break>やっぱりボクも外に行きたいなあ…。<line-break>\u3000<line-break>ねえ、<value:$28>。<line-break>お願い！\u3000ボクもキミの冒険に<line-break>連れていってくれないかな？<end>"
+english = "By the way... I really do want to go outside after all. Please, <value:$28>! Couldn't you take me along on your adventure?<end>"
+
+["880279"]
+japanese = "ぶ～。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>またそう言うんだ～。<line-break>つまんないの～。<line-break>でも、いつかまたボクも<line-break>一緒に冒険させてよね。<line-break>約束だよ！<end>"
+english = "Boo. You're saying that again? That's no fun. But let me come adventuring with you again someday, all right? Promise!<end>"
+
+["880280"]
+japanese = "見ての通り移動の間にしか行けなくなって<line-break>しまったので案内の必要はなくなった。<line-break>これからは何を話せばよいのやら…。<end>"
+english = "As you can see, the Chamber of Travel is the only place accessible now, so there's no need for me to show you around anymore. Now what am I going to talk about...?<end>"
+
+["880281"]
+japanese = "ラドラスが浮上したときは<line-break>どうなることかと思ったけど、<line-break>無事に着地できてほんとうに良かったわ。<line-break>死んでしまったら外の世界を冒険する<line-break>ことができなくなるものね。<line-break><value:$28>さんありがとう。<end>"
+english = "When Ladras rose into the air, I was afraid of what might happen, but I'm so glad it landed safely. I couldn't explore the outside world if I'd died, after all. Thank you, <value:$28>.<end>"
+
+["880282"]
+japanese = "エステルだよ。<line-break>空きだよ。<end>"
+english = ""
+
+["880283"]
+japanese = "エステルだよ。<line-break>空きだよ。<end>"
+english = ""
+
+["880284"]
+japanese = "エステルだよ。<line-break>空きだよ。<end>"
+english = ""
+
+["880285"]
+japanese = "エステルだよ。<line-break>空きだよ。<end>"
+english = ""
+
+["880286"]
+japanese = "エステルだよ。<line-break>空きだよ。<end>"
+english = ""
+
+["880287"]
+japanese = "エステルだよ。<line-break>空きだよ。<end>"
+english = ""
+
+["880288"]
+japanese = "エステルだよ。<line-break>空きだよ。<end>"
+english = ""
+
+["880289"]
+japanese = "エステルだよ。<line-break>空きだよ。<end>"
+english = ""
+
+["880290"]
+japanese = "エステルだよ。<line-break>空きだよ。<end>"
+english = ""
+
+["880291"]
+japanese = "エステルだよ。<line-break>空きだよ。<end>"
+english = ""
+
+["880292"]
+japanese = "エステルだよ。<line-break>空きだよ。<end>"
+english = ""
+
+["880293"]
+japanese = "エステルだよ。<line-break>空きだよ。<end>"
+english = ""
+
+["880294"]
+japanese = "あ…、<line-break><value:$28>…。<end>"
+english = "Oh... <value:$28>...<end>"
+
+["880295"]
+japanese = "やった。<line-break>じゃあ、出発するときに合流するね。<end>"
+english = "Great! Then I'll join you when you set out.<end>"
+
+["880296"]
+japanese = "やっぱり、<line-break>冒険って楽しいよね。<end>"
+english = ""
+
+["880297"]
+japanese = "では、我らも引き続き<line-break>捜してみます。<line-break>\u3000<line-break>ゆくぞ。<end>"
+english = "We will continue the search as well. Come, let us go.<end>"
+
+["880298"]
+japanese = "<value:$28>、ごめん。<line-break>ボク、そろそろまた、<line-break>ラドラスへ戻らなきゃならないんだ。<line-break>キミの呼び出しにも応えられない…<line-break>でも、ボクがチェックを受けなくちゃ、<line-break>ラドラスが…。<end>"
+english = "<value:$28>, I'm sorry. I have to go back to Ladras again soon. I won't be able to come when you call, either... But if I don't get checked, Ladras will...<end>"
+
+["880299"]
+japanese = "未使用<line-break>\u3000<end>"
+english = ""
+
+["880300"]
+japanese = "未使用<line-break>\u3000<end>"
+english = ""
+
+["880301"]
+japanese = "未使用<line-break>\u3000<end>"
+english = ""
+
+["880302"]
+japanese = "未使用<line-break>\u3000<end>"
+english = ""
+
+["880303"]
+japanese = "エステルメッセージVOL1終端<end>"
+english = ""

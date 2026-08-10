@@ -1,0 +1,733 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1120000"]
+japanese = "エステルメッセージVOL5開始<end>"
+english = ""
+
+["1120001"]
+japanese = "<if><value:$29><equal>%0\u3000\u3000\u3000\u3000招かれざる客が来たみたいだね。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000彼女を追ってきたのかな？<end>\u3000\u3000\u3000\u3000招かれざる客が来たみたいだね。<line-break>\u3000\u3000\u3000\u3000\u3000彼女を追ってきたのかな？<end>"
+english = "<if><value:$29><equal>%0Looks like we have an uninvited guest. Did you come after her?<end>Looks like we have an uninvited guest. Did you come after her?<end>"
+
+["1120002"]
+japanese = "<if><value:$01><equal>2その声…シャリね！？ <end><if><value:$01><equal>3シャリか！？<line-break>どこにおる！！ <end><if><value:$01><equal>4ああっ、お約束の展開かも！<line-break>どこかからシャリが<line-break>話しかけてきてるのね！ <end><if><value:$01><equal>5シャリだな！！<line-break>ちくしょう！\u3000どこにいる！！ <end><if><value:$01><equal>13フン…出たか。 <end><if><value:$01><equal>10シャリだな！？<line-break>どこだ！！ <end><if><value:$01><equal>14その声…シャリじゃな！？<line-break>姿を現さんか！！ <end><if><value:$01><equal>15シャリ！！<line-break>どこだ！\u3000姿を現せ！ <end><if><value:$01><equal>17何よぉぉ！\u3000偉そうに！<line-break>出てきなさいよ！\u3000シャリ！！ <end><if><value:$01><equal>19シャリ！！<line-break>どこ！？\u3000出てきなさいよぉ！！ <end><if><value:$01><equal>27シャリか！？<line-break>出てこい！<end><if><value:$01><equal>26シャリじゃな！？<line-break>姿を現さんか！！ <end><if><value:$01><equal>193その声はシャリさん！？<line-break>ど、どこから、しゃべってるんですか？<end><if><value:$01><equal>191シャリ！<line-break>どこにいるの！<line-break>姿を見せなさい！<end><if><value:$01><equal>190どこだ！<line-break>姿を見せろ！<end>その声…シャリだね！！<line-break>出てきなよ！ <end>"
+english = "<if><value:$01><equal>2That voice... Shalli?!<end><if><value:$01><equal>3Shalli?! Where are you?!<end><if><value:$01><equal>4Ah! This could be one of those classic twists! Shalli's speaking from somewhere!<end><if><value:$01><equal>5That's Shalli! Damn it! Where are you?!<end><if><value:$01><equal>13Hmph... So there you are.<end><if><value:$01><equal>10Shalli?! Where are you?!<end><if><value:$01><equal>14That voice... Shalli?! Show yourself!<end><if><value:$01><equal>15Shalli! Where are you? Show yourself!<end><if><value:$01><equal>17Oh, listen to you, acting so high and mighty! Come out here, Shalli!<end><if><value:$01><equal>19Shalli! Where are you?! Come out here!<end><if><value:$01><equal>27Shalli?! Come out!<end><if><value:$01><equal>26Shalli?! Show yourself!<end><if><value:$01><equal>193That voice... Mr. Shalli?! W-where are you speaking from?<end><if><value:$01><equal>191Shalli! Where are you? Show yourself!<end><if><value:$01><equal>190Where are you?! Show yourself!<end>That voice... Shalli! Come on out!<end>"
+
+["1120003"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000アハハッ、そんなに\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000いきりたたないでよ。<line-break>\u3000\u3000\u3000\u3000今日は特別な日なんだからさ。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000だから、招かれざる客だけど<line-break>\u3000\u3000\u3000\u3000\u3000特別に、歴史の目撃者に<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000してあげるよ。<end>"
+english = "Ahaha! Don't get so worked up. Today is a very special day. So even though you're an uninvited guest, I'll make an exception and let you witness history.<end>"
+
+["1120004"]
+japanese = "\u3000\u3000今、いにしえの魔道文明の大いなる遺産、<line-break>\u3000\u3000\u3000\u3000空中都市が、４人の巫女の力で<line-break>\u3000\u3000よみがえり、大空へと飛び立つのさ！！<end>"
+english = "Now the Floating City, the great legacy of an ancient magical civilization, will be restored by the power of the four priestesses and take to the skies!<end>"
+
+["1120005"]
+japanese = "\u3000\u3000\u3000\u3000この空中都市ラドラスってね、\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000こう見えて実は<line-break>\u3000\u3000\u3000ものすごく大掛かりな兵器なんだよ。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000それこそ、これひとつで<line-break>\u3000\u3000\u3000この大陸が沈んじゃうくらいのね。<end>"
+english = "You see, despite appearances, Floating City Ladras is actually an immense weapon―powerful enough to sink this entire continent all by itself.<end>"
+
+["1120006"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000…そうだ！！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000それ、やっちゃおう！<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000この都市の浮上を願いながら、<line-break>\u3000\u3000\u3000それでも死ななければならなかった<line-break>\u3000\u3000\u3000\u3000多くの悲しい魂たちのために！<end>"
+english = ""
+
+["1120007"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000今生きるすべての命も、\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000彼らの所へ連れて行ってやろう。<line-break>\u3000\u3000\u3000さびしくないようにね。アハハハハ！<end>"
+english = ""
+
+["1120008"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000あ、もし、君に\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ご意見ご要望があったら<line-break>\u3000\u3000\u3000\u3000この都市の制御の間まで来てよ。<line-break>\u3000<line-break>\u3000…って、言わなくても君はここまで来るか。<line-break>じゃ、今、そこと、この制御の間を直結するよ。<line-break>\u3000\u3000さ、こっちに来なよ、<value:$28>。<end>"
+english = ""
+
+["1120009"]
+japanese = "やあ、<value:$28>。<line-break>こんな時にまで君と一緒なんて<line-break>もうこれは、運命的な何かを感じるね。<line-break>ところで、これ、すごいんだよ。<line-break>一度巫女たちが起動させれば、<line-break>僕でも動かせるようになってるんだ。<end>"
+english = "Hello, <value:$28>. To think we'd end up together even at a time like this... It almost feels like fate, doesn't it? Anyway, this thing is amazing. Once the priestesses activate it, even I can operate it.<end>"
+
+["1120010"]
+japanese = "<if><value:$01><equal>2シャリ！！<line-break>巫女たちはどこにいるの！？ <end><if><value:$01><equal>3巫女は…<line-break>イークレムンはどこにおる！！ <end><if><value:$01><equal>4一度巫女たちが…って、<line-break>巫女たちはどこにいるの？ <end><if><value:$01><equal>5そ、そうだ、巫女だよ！！<line-break>彼女たちはどこにいるんだ！！ <end><if><value:$01><equal>13…言え。<line-break>巫女たちをどこに隠した？ <end><if><value:$01><equal>10あ、そうだ、巫女。<line-break>彼女たちはどこにいるんだよ！！ <end><if><value:$01><equal>14そうじゃ、わしらは<line-break>その娘らを取り戻しに来たんじゃ。<line-break>どこにいるか言うのじゃ！！ <end><if><value:$01><equal>15彼女たち、無事なんだろうね？<line-break>どこにいるんだ、教えろ！！ <end><if><value:$01><equal>17こっちはあんたなんかじゃなくて<line-break>巫女の方に会いたいのよ！<line-break>どこにいるか教えなさいよー！！ <end><if><value:$01><equal>19お姉ちゃんたちをどこに隠したの！？ <end><if><value:$01><equal>27巫女たちをどこに隠した？ <end><if><value:$01><equal>26巫女たちをどこに隠したのじゃ！<end><if><value:$01><equal>193お、教えてください！<line-break>巫女さんたちは<line-break>ど、どこにいるんですか！？<end><if><value:$01><equal>191シャリ！！<line-break>巫女たちをどこにやったの！？<end><if><value:$01><equal>190巫女たちをどこに隠した！！<line-break>答えろ！！<end>その巫女たちの方に<line-break>会いにきたんだ。<line-break>どこにいるか教えなよ！ <end>"
+english = "<if><value:$01><equal>2Shalli! Where are the priestesses?!<end><if><value:$01><equal>3The priestess... Where is Iiklmn?!<end><if><value:$01><equal>4Once the priestesses... Wait, where are the priestesses?<end><if><value:$01><equal>5Th-that's right, the priestesses! Where are they?!<end><if><value:$01><equal>13...Tell me. Where have you hidden the priestesses?<end><if><value:$01><equal>10Oh, right, the priestesses. Where are they?!<end><if><value:$01><equal>14Aye, we came to take those girls back. Tell us where they are!<end><if><value:$01><equal>15They're safe, aren't they? Tell me where they are!<end><if><value:$01><equal>17We didn't come to see you―we came for the priestesses! Tell us where they are!<end><if><value:$01><equal>19Where did you hide the ladies?!<end><if><value:$01><equal>27Where have you hidden the priestesses?<end><if><value:$01><equal>26Where have you hidden the priestesses?!<end><if><value:$01><equal>193P-please, tell me! W-where are the priestesses?!<end><if><value:$01><equal>191Shalli! What have you done with the priestesses?!<end><if><value:$01><equal>190Where have you hidden the priestesses?! Answer me!<end>We came to see the priestesses. Tell us where they are!<end>"
+
+["1120011"]
+japanese = "今、彼女たちには、<line-break>この都市の底の動力の間で<line-break>動力になってもらってるよ。<end>"
+english = "Right now, they're down in the power chamber at the bottom of the city, serving as its power source.<end>"
+
+["1120012"]
+japanese = "行かせないよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>言ったでしょ？\u3000<line-break>君は招かれざる客だって。<line-break>僕はこれを使ってやるんだ。<line-break>それをジャマするっていうのだけは<line-break>ほっとけないな。<end>"
+english = "I can't let you go. I told you, didn't I? You're not welcome here. I'm going to use this, and I can't just let you interfere with that.<end>"
+
+["1120013"]
+japanese = "全部終わったあとで<line-break>ちゃんと彼女たちも送ってあげるから、<line-break>先に逝って待っててよ。<end>"
+english = "Once everything's over, I'll make sure to send them after you. Why don't you go on ahead and wait for them?<end>"
+
+["1120014"]
+japanese = "フフ…、意外にやるね。<line-break>まさか、これだけ力を出したのに\u3000<line-break>負けるとは思わなかったな。<line-break>でも、たぶん君にとって<line-break>状況はちっともよくなってないよ。<end>"
+english = "Heh... You're better than I expected. I never thought I'd unleash that much power and still lose. But I doubt your situation has improved in the slightest.<end>"
+
+["1120015"]
+japanese = "ほ～ら、こんな所で暴れるから、\u3000\u3000<line-break>この部屋のどこかが<line-break>おかしくなっちゃったんだよ。<line-break>あーあ、もう空中都市も終わりかあ。<line-break>巫女や、砂漠の民のみなさんも<line-break>巻き添えにして墜落だね。<end>"
+english = "See what happens when you run wild in a place like this? Something in this chamber has gone wrong. Ah, well. I suppose this is the end of the Floating City. It'll crash with the priestesses and all those desert folk caught up in it.<end>"
+
+["1120016"]
+japanese = "大爆発にまでつきあう気はないから<line-break>僕はここで失礼するよ。<line-break>じゃあね、<value:$28>。<end>"
+english = "I have no intention of staying for the big explosion, so I'll be taking my leave. Goodbye, <value:$28>.<end>"
+
+["1120017"]
+japanese = "<if><value:$01><equal>2<value:$28>！<line-break>巫女たちの所へ行きましょう。<line-break>動力の間にいるって言ってたわ。<line-break>彼女たちなら<line-break>何とかしてくれるかもしれない。 <end><if><value:$01><equal>3こうしてはおれん！<line-break>ゆくぞ、<value:$28>。<line-break>動力の間じゃ！ <end><if><value:$01><equal>4ものすごい事態かも！！<line-break>まさか、墜落して大爆発なんていう\u3000<line-break>ピンチだったなんて！<line-break>とりあえず動力の間まで行って、<line-break>そこに巫女のみなさんがいるなら<line-break>頭下げて助けてもらわなきゃ！！ <end><if><value:$01><equal>5だ、大爆発だぁ！？<line-break>大変だぜ、<value:$28>！！<line-break>\u3000<line-break>…っつっても、俺らじゃ<line-break>どうしょうもないか…、そうだ！！<line-break>巫女たちならなんとかできるかも！ <end><if><value:$01><equal>13聞いていたな？<line-break>動力の間に巫女がいる。<line-break>行くぞ。<line-break>この状態を打破できるのは<line-break>おそらく彼女たちだけだ。 <end><if><value:$01><equal>10ま、待て、シャリ！！<line-break>巫女たちは<line-break>どこにいるんだよ！！\u3000<line-break>…あ、そういえば<line-break>動力の間にいるって言ってたっけ。<line-break>よし、姉ちゃん、じゃあそこだ！！ <end><if><value:$01><equal>14<value:$28>、急ぐぞい！！<line-break>まずは、動力の間じゃ！\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>そこで巫女たちを助け出したあと、<line-break>彼女らに爆発を防ぐ手立てを聞く。<line-break>これしかあるまい！！ <end><if><value:$01><equal>15<value:$28>、行こう。<line-break>まずは動力の間に行って\u3000\u3000\u3000<line-break>巫女のみんなを助けなきゃ。<line-break>それから、彼女たちと協力して<line-break>爆発を食い止めよう！ <end><if><value:$01><equal>17ああっ、もぅお！<line-break>どうしてこんなに矢継ぎ早に<line-break>絶体絶命が押し寄せるのよー！？<line-break>とにかく、なんとかするのよ！<line-break>まずは、捕まっている巫女たちに<line-break>話を聞くのよ！\u3000急ぐのよー！！ <end><if><value:$01><equal>19大変だよぉ、<value:$28>！<line-break>爆発したら、みんな死んじゃうよ！<line-break>なんとかしなきゃ！！<line-break>そう言えばさっき、巫女の<line-break>お姉ちゃんたちが動力の間にいる<line-break>って言ってたよぉ。行かなきゃ！ <end><if><value:$01><equal>21<value:$28><line-break>まずは巫女たちを助けなければ。<line-break>動力の間だ！\u3000急ぐぞ！！<end><if><value:$01><equal>27爆発を食い止めなければ！<line-break>まずは巫女たちを助けるぞ！<line-break><value:$28>。<line-break>動力の間だ！<end><if><value:$01><equal>26爆発を食い止めなければ！<line-break>急ぐのじゃ、<value:$28><line-break>動力の間じゃ！<end><if><value:$01><equal>193だ、大爆発に墜落！？<line-break>た、大変です！！<line-break>\u3000<line-break><value:$28>さん！<line-break>早く巫女さんたちを助けないと！<end><if><value:$01><equal>191大爆発！？<line-break>冗談じゃないわ！<line-break>\u3000<line-break><value:$28>、急ぎましょ！<line-break>巫女たちを助けるしか<line-break>打開策はないわ！<end><if><value:$01><equal>190くっ！<line-break>何とか爆発を食い止めないと！<line-break>でもどうすれば…？<line-break>ラドラスの巫女である彼女たちなら<line-break>何か知っているかもしれない。<line-break>動力の間に急ごう！<end>大変だ！\u3000早くなんとかしないと、<line-break>僕たちみんなドッカ～ンだよ！！<line-break>\u3000<line-break>う～ん、う～ん…、そうだ！<line-break>まずは巫女のみんなを助けに行こう！<line-break>彼女たちなら何か対策知ってるかも！ <end>"
+english = "<if><value:$01><equal>2<value:$28>! Let's go to the priestesses. He said they're in the power chamber. They may be able to do something.<end><if><value:$01><equal>3We have no time to waste! Come, <value:$28>. To the power chamber!<end><if><value:$01><equal>4This could be really bad! I never imagined we'd be facing a crash and a huge explosion! First, let's get to the power chamber. If the priestesses are there, we'll have to beg them to help us!<end><if><value:$01><equal>5A-a huge explosion?! This is bad, <value:$28>! Not that there's much we can do about it... Wait, that's it! Maybe the priestesses can!<end><if><value:$01><equal>13You heard him. The priestesses are in the power chamber. Let's go. They're probably the only ones who can get us out of this.<end><if><value:$01><equal>10W-wait, Shalli! Where are the priestesses?! Oh, right... He said they were in the power chamber. All right, sis, that's where we're going!<end><if><value:$01><equal>14Hurry, <value:$28>! To the power chamber first! Once we've rescued the priestesses, we'll ask them how to prevent the explosion. It's our only choice!<end><if><value:$01><equal>15Let's go, <value:$28>. First we have to reach the power chamber and rescue the priestesses. Then we'll work with them to stop the explosion!<end><if><value:$01><equal>17Oh, come on! Why do we keep landing in one life-or-death crisis after another?! We have to do something! First, let's talk to the captive priestesses. Hurry!<end><if><value:$01><equal>19This is awful, <value:$28>! If it explodes, everybody will die! We have to do something! Oh, that's right―he said the priestess ladies were in the power chamber. We have to go!<end><if><value:$01><equal>21<value:$28>, we must rescue the priestesses first. They're in the power chamber! Hurry!<end><if><value:$01><equal>27We have to stop the explosion! First we'll rescue the priestesses. <value:$28>, to the power chamber!<end><if><value:$01><equal>26We must stop the explosion! Hurry, <value:$28>! To the power chamber!<end><if><value:$01><equal>193A crash and a h-huge explosion?! Th-this is terrible! <value:$28>! We have to rescue the priestesses, quickly!<end><if><value:$01><equal>191A huge explosion?! You have got to be joking! Hurry, <value:$28>! Our only hope is to rescue the priestesses!<end><if><value:$01><equal>190Ngh! We have to stop the explosion somehow! But how...? As the priestesses of Ladras, they may know something. Let's hurry to the power chamber!<end>This is bad! If we don't do something fast, we'll all go boom! Hmm... Hmm... I've got it! First, let's go rescue the priestesses. They might know how to stop this!<end>"
+
+["1120018"]
+japanese = "やっと、おとなしくしてくれる気に<line-break>なったみたいだね。<line-break>じゃ、ホントに静かになってもらうか。<end>"
+english = "It looks like you're finally ready to behave. Now let's make sure you really do stay quiet.<end>"
+
+["1120019"]
+japanese = "ん？<line-break>この振動、外から！？<line-break>まさか…。<end>"
+english = "Hm? That tremor came from outside?! It can't be...<end>"
+
+["1120020"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000いく星霜をへて\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000なお消えぬ無念の思いより生まれし<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000虚無の子よ、<line-break>\u3000\u3000\u3000\u3000\u3000ここはお前の世界ではない…。<end>"
+english = "Child of the Void, born of bitter regrets that have endured undiminished through the ages... This is not your world.<end>"
+
+["1120021"]
+japanese = "く…、<line-break>竜王…！！<end>"
+english = "Ngh... The Dragon King...!<end>"
+
+["1120022"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000虚無の子よ…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000この世界は汝を望まぬ…。<line-break>\u3000\u3000\u3000\u3000\u3000己があるべき場所へと<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000帰るがよい…。<end>"
+english = "Child of the Void... This world has no wish for you. Return to the place where you belong...<end>"
+
+["1120023"]
+japanese = "やんなっちゃうな、もう。<line-break>子供の遊びに出てきてほしくないね。\u3000<line-break>\u3000<line-break>それに、僕はこの世界の人たちの<line-break>満たされない想いから生まれたんだよ？<line-break>だから、ここにいたっていいじゃない。<end>"
+english = "Oh, this is getting tiresome. You really don't need to involve yourself in a child's game. Besides, I was born from the unfulfilled desires of the people of this world, you know? So there's nothing wrong with me being here.<end>"
+
+["1120024"]
+japanese = "それにしても、<line-break>あいかわらずひどいことするなあ、\u3000<line-break>竜王様は。<line-break>この空中都市の脅威を消すために、<line-break>ここの住人も巫女も、無限のソウルを<line-break>持つ者まで巻き添えにする？<end>"
+english = "Still, as cruel as ever, aren't you, Lord Dragon King? To eliminate the threat posed by this Floating City, you'll sacrifice its residents, the priestesses, and even the Bearer of the Infinite Soul along with it?<end>"
+
+["1120025"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000笑止な。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000他人の心配をしてみせるか？<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000汝は虚無の子、<line-break>\u3000\u3000\u3000汝は痛みを知ることはできても<line-break>\u3000\u3000\u3000\u3000\u3000\u3000感じることはできぬ。<line-break>\u3000\u3000\u3000ただのうつろな人形に過ぎぬのだ。<end>"
+english = "How absurd. You pretend to care for others? You are the Child of the Void. You may know what pain is, but you cannot feel it. You are nothing more than an empty puppet.<end>"
+
+["1120026"]
+japanese = "うわ、言ってくれるね。<line-break>確かにその通りだけどさ。<end>"
+english = "Wow. You really don't hold back, do you? Though I can't say you're wrong.<end>"
+
+["1120027"]
+japanese = "さてと、そろそろ潮時かな。<line-break>このオモチャが墜落する前に<line-break>僕は失礼するよ。<end>"
+english = "Well, I suppose it's time for me to go. I'll take my leave before this toy crashes.<end>"
+
+["1120028"]
+japanese = "じゃ、<value:$28>。<line-break>せっかくだから、墜落の瞬間まで<line-break>ゆっくりしてってよ。<line-break>あはははは！<line-break>じゃあね～。<end>"
+english = "Well then, <value:$28>. Since you're here, why not relax and enjoy the moment of impact? Ahahahaha! Bye-bye!<end>"
+
+["1120029"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000…<value:$28>、<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000空中都市はこのままゆけば、<line-break>\u3000\u3000\u3000\u3000あとわずかの時で地に落ちよう。<end>"
+english = "...<value:$28>, Bearer of the Infinite Soul... If nothing is done, the Floating City will soon fall to the earth.<end>"
+
+["1120030"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000動力の間へ行き\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000巫女たちを助け出すのだ。<line-break>\u3000\u3000巫女ならば最悪の事態を回避する術を<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000持っていよう…。<line-break>\u3000\u3000\u3000力及ばず虚無の子に敗れたとはいえ、<line-break>\u3000\u3000この空中都市の脅威を退けようとした<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000その魂、見事なり。<line-break>\u3000\u3000\u3000我が再び戦う力を授けてやろう。<end>"
+english = "Go to the power chamber and rescue the priestesses. They may know how to avert the worst... Though your strength was not enough and you fell to the Child of the Void, your soul, which sought to repel the threat posed by this Floating City, is admirable indeed. I shall grant you the power to fight once more.<end>"
+
+["1120031"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000では、さらばだ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ。<end>"
+english = "And now, farewell, Bearer of the Infinite Soul.<end>"
+
+["1120032"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000…<value:$28>、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "…<value:$28>, <value:$28>…<end>"
+
+["1120033"]
+japanese = "\u3000\u3000\u3000\u3000\u3000ボク…だよ。エステルだよ…。\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000ゴメンね…。<line-break>\u3000\u3000\u3000\u3000ボクなんかのために、こんなことに<line-break>\u3000\u3000\u3000\u3000\u3000巻き込んじゃって…。怒ってる？<line-break>\u3000\u3000\u3000\u3000\u3000\u3000ボク…、自分でも驚いてるよ。<line-break>\u3000\u3000\u3000\u3000\u3000ボクにこんなモノを動かす力が<line-break>\u3000\u3000\u3000\u3000\u3000\u3000あるなんてさ…。ほとんど<line-break>\u3000\u3000\u3000\u3000\u3000自由にならないんだけど…ね…。<end>"
+english = "It's… me. Esther… I'm sorry. I dragged you into all this… for someone like me. Are you angry? I'm… surprised myself. I never knew I had the power to move something like this… Not that I can control much of it…<end>"
+
+["1120034"]
+japanese = "\u3000\u3000\u3000\u3000だから、ラドラスが落ちるのを\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ボクにはとめられない…。<line-break>\u3000\u3000\u3000砂漠の一族のみんなを助けられない。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000くやしいけど…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000だけど、ボク、<line-break>\u3000\u3000\u3000\u3000たぶん、キミぐらいなら<line-break>\u3000\u3000\u3000なんとか外へ飛ばせそうなんだ。<line-break>\u3000\u3000\u3000\u3000\u3000…助けられそうなんだ。<end>"
+english = "That's why I can't stop Ladras from falling… I can't save everyone in the desert clan. I hate that… But I think I can at least manage to send you outside. I think… I can save you.<end>"
+
+["1120035"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000…よかった…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000最後の最後でキミの役に立てる。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000キミを救える…。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000サヨナラだね、\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000ボクのこと…忘れないでね……。<end>"
+english = "…I'm glad… At the very end, I can finally do something for you. I can save you… This is goodbye, <value:$28>… Please… don't forget me…<end>"
+
+["1120036"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000…<value:$28>、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000<value:$28>よ…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000聞こえるか…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000わらわじゃ、エアじゃ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000すべては定め…<line-break>\u3000\u3000\u3000こうなることはわかっておった…<line-break>\u3000<end>"
+english = "…<value:$28>, <value:$28>… Can you hear me? It is I, Er. All is ordained… I knew it would come to this…<end>"
+
+["1120037"]
+japanese = "\u3000\u3000\u3000\u3000ある意味、これはわらわにとって\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000最高に幸せな結末かもしれぬ。<line-break>\u3000\u3000\u3000\u3000\u3000わらわは子をなざずに死に<line-break>\u3000そなたはわらわを救おうとしてくれておる。<line-break>\u3000\u3000今のわらわは、この都市の力にとらわれ<line-break>\u3000\u3000\u3000魔力のほとんどを吸われてしまった…。<line-break>\u3000\u3000\u3000もはや、わらわにはラドラスの墜落を<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000防ぐことはできぬ…。<end>"
+english = "In a way, this may be the happiest possible ending for me. I shall die without bearing a child, while you are trying to save me. I am now bound by the power of this city, and it has drained away nearly all my magic… I can no longer prevent Ladras from falling…<end>"
+
+["1120038"]
+japanese = "\u3000\u3000\u3000\u3000しかし、<value:$28>よ。<line-break>\u3000\u3000\u3000そなたを再び母なる大地へと飛ばし、\u3000\u3000<line-break>\u3000\u3000\u3000生きながらえさせるくらいならば<line-break>\u3000\u3000\u3000\u3000\u3000今のわらわにもできよう…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000さらばじゃ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000…<value:$28>よ。<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…。<line-break>\u3000\u3000\u3000そなたはわらわの…希望…であった。<end>"
+english = "But, <value:$28>… I still have enough power to send you back to Mother Earth and preserve your life… Farewell, <value:$28>… Bearer of the Infinite Soul… You were… my hope.<end>"
+
+["1120039"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000…<value:$28>様、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000<value:$28>様…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000フレアです…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000どうしてでしょう。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000今、私は道具として<line-break>\u3000\u3000\u3000\u3000この造られた命をまっとうできて<line-break>\u3000\u3000\u3000\u3000\u3000何も他に思うこともないはず…。<end>"
+english = "…<value:$28>, <value:$28>… This is Flare… Why, I wonder? Now, as a tool, I am seeing this created life through to its end. I should have nothing else on my mind…<end>"
+
+["1120040"]
+japanese = "\u3000\u3000\u3000それなのに、あなたの名前が浮かび、\u3000\u3000<line-break>\u3000\u3000\u3000\u3000この都市の呪縛にあらがって<line-break>\u3000\u3000私はあなたの名前を叫び続けています。<line-break>\u3000<line-break>\u3000\u3000今、私に残された最後の魔力を使って\u3000\u3000\u3000<line-break>\u3000\u3000\u3000あなたを外の大地へと飛ばします。<line-break>\u3000\u3000\u3000\u3000…これは、道具としてではなく<line-break>\u3000\u3000\u3000\u3000\u3000私という命が持つ願いです…。<end>"
+english = "And yet your name comes to mind, and I keep calling it as I struggle against this city's hold. I will use the last of my magic to send you to the land outside. This is not a tool's wish, but my own wish as a living being…<end>"
+
+["1120041"]
+japanese = "\u3000\u3000\u3000\u3000私は今まで、このかりそめの生を\u3000\u3000\u3000<line-break>\u3000\u3000\u3000これほど惜しんだことはありません。<line-break>\u3000\u3000あなたにさえ会わなければ、このような<line-break>\u3000\u3000\u3000\u3000切なさは知らずに済んだのに…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000さようなら…<line-break>\u3000\u3000\u3000\u3000\u3000私に迷いを与えた人…<line-break>\u3000\u3000\u3000\u3000私の死を苦いものに変えた人…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000私の大事な人…。<end>"
+english = "Never before have I been so reluctant to relinquish this fleeting life. If only I had never met you, I would never have known such heartache… Farewell… You who made me doubt… You who made my death bitter… You who are so dear to me…<end>"
+
+["1120042"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000…<value:$28>さん、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000<value:$28>さん…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000聞こえますか…私の声…。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000<value:$28>さん…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000イークレムンです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000私、うれしいです…。<line-break>\u3000\u3000\u3000あなたがここまで来てくれたことが…。<end>"
+english = "…<value:$28>, <value:$28>… Can you hear my voice? <value:$28>… This is Iiklmn. I'm so happy… that you came all this way…<end>"
+
+["1120043"]
+japanese = "\u3000\u3000\u3000\u3000\u3000この空中都市は墜落します。\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ごめんなさい…。今の私は<line-break>\u3000\u3000\u3000\u3000この都市に力を奪われていて、<line-break>\u3000\u3000\u3000\u3000それを防ぐことができません…。<line-break>\u3000\u3000\u3000今の私に残された力でできることは、<line-break>\u3000\u3000\u3000\u3000\u3000あなたをここから瞬間移動で<line-break>\u3000\u3000\u3000\u3000\u3000外へと逃がすことくらいです。<end>"
+english = "This Floating City is going to fall. I'm sorry… The city is draining my power, so I can't stop it… All I can do with the power I have left is teleport you away from here, to safety outside.<end>"
+
+["1120044"]
+japanese = "イークレムン！！<end>"
+english = "Iiklmn!!<end>"
+
+["1120045"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000アンギルダン様…。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000すいません、私は先に<line-break>\u3000\u3000\u3000\u3000お母様のもとへとまいります。<line-break>\u3000\u3000\u3000\u3000どうか、いつまでもお元気で。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000さようなら、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000<value:$28>さん、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000さようなら、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000アンギ…、お父様…。<end>"
+english = "Lord Angeerdan… I'm sorry. I will go on ahead to Mother. Please stay well for a long time to come. Goodbye, <value:$28>… Goodbye, Angeer… Father…<end>"
+
+["1120046"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000さようなら…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000私は、ミズチたちやお母様、<line-break>\u3000\u3000そして、アンギルダンお父様のもとへ<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000まいります…。<end>"
+english = "Goodbye… I am going to join Mizuchi and the others, Mother, and Father Angeerdan…<end>"
+
+["1120047"]
+japanese = "\u3000\u3000さようなら…。<line-break>私は、ミズチたちや<line-break>\u3000お母様のもとへ<line-break>\u3000\u3000まいります…。<end>"
+english = "Goodbye… I am going to join Mizuchi and the others, and Mother…<end>"
+
+["1120048"]
+japanese = "<if><value:$01><equal>2空中都市が…<line-break>ラドラスが…落ちたのね。<line-break>\u3000<line-break>………………。 <end><if><value:$01><equal>3おおおおぉぉーーーーー！！\u3000\u3000\u3000\u3000<line-break>イークレムン、<line-break>イークレムンよ…。<line-break>この父を…許してくれ…。<line-break>最後の最後まで、何ひとつ<line-break>父らしいことをしてやれなんだ…！ <end><if><value:$01><equal>4ああっ！！\u3000落ちちゃったわ！<line-break>あそこには…、あの中には……。<line-break>\u3000<line-break>…ダメ。<line-break>悲しすぎて、これ以上は<line-break>言葉にならないかも…。 <end><if><value:$01><equal>5ちくしょう！<line-break>ちくしょう！！<line-break>ちくしょう！！！\u3000\u3000\u3000<line-break>助けられなかった！<line-break>誰も！\u3000何も！<line-break>ち…くしょ……ぉ……！ <end><if><value:$01><equal>13クッ…！ <end><if><value:$01><equal>10うあああああ！！<line-break>ラドラス、落ちちまったぁぁぁ！！<line-break>姉ちゃん！\u3000姉ちゃん！！<line-break>なあ、あの中の人たちは！？<line-break>巫女のみんなは！？<line-break>なあ、姉ちゃん、姉…ちゃん…。 <end><if><value:$01><equal>14ラドラスが…落ちよった…。<line-break>わしらの力が、わしらの力が<line-break>足りんかったばかりに…。<line-break>すまんかったなあ…。<line-break>本当に、すまんかったなあ…。 <end><if><value:$01><equal>15<value:$28>…。<line-break>ラドラスが…落ちたよ…。\u3000<line-break>人が、たくさんの人が…。<line-break>くやしいよ…。<line-break>また、僕が無力なせいで…<line-break>僕には、何もできなかった…。 <end><if><value:$01><equal>17まぁったく！\u3000人間のクセに<line-break>分不相応なものを作るから<line-break>こんなことになるのよ！！<line-break>…まったく…、<line-break>あんなもの作るから…。<line-break>ホントにもう…。 <end><if><value:$01><equal>19イヤだよぉ、<value:$28>！<line-break>ラドラス、落ちちゃったぁ！！<line-break>\u3000<line-break>おねえちゃんたちも<line-break>砂漠の人たちも、死んじゃったぁ！<line-break>ひどいよ、ひどいよ……。 <end><if><value:$01><equal>26イズキヤルだけではのうて<line-break>巫女様方までも<line-break>救えなんだか…！<line-break>シャリ、<line-break>お主のねらいはなんじゃ？<line-break>何をやろうとしておる！？ <end><if><value:$01><equal>27彼らはあれを守るために生まれ<line-break>守るべくして死んだのだ。<line-break>悔いはあるまい。<line-break>それが定め。<line-break>もし、彼らでなければ<line-break>後の世の誰かがああなったのだ。<end><if><value:$01><equal>11あれが…定め…。<line-break>誰も、運命には逆らえない…。 <end><if><value:$01><equal>20………………。 <end><if><value:$01><equal>193そ、そんなことって…。<line-break>私たちだけが助かって…<line-break>あの中にいた人たちが…！<line-break>こんなの…ひどすぎます！！<end><if><value:$01><equal>191…ごめんなさい。<line-break>あたしたちの力が足りなくて…。<line-break>ごめん…ごめんね…。<end><if><value:$01><equal>190くそ！<line-break>俺の力が及ばなかったばかりに！<line-break>すまない！<end>"
+english = "<if><value:$01><equal>2The Floating City... Ladras has fallen. ...<end><if><value:$01><equal>3Aaaaaaaagh!! Iiklmn... Oh, Iiklmn... Forgive your father... In the end, I never did a single thing a father should have done for you!<end><if><value:$01><equal>4Oh! It fell! There... inside it... No... It's too sad. I don't think I can say any more...<end><if><value:$01><equal>5Damn it! Damn it!! Damn it!!! I couldn't save anyone! I couldn't save anything! Damn... it...<end><if><value:$01><equal>13Ngh...!<end><if><value:$01><equal>10Aaaaaagh!! Ladras fell!! Sis! Sis!! What about the people inside!? What about all the priestesses!? Come on, Sis... Sis...<end><if><value:$01><equal>14Ladras... has fallen... All because we weren't strong enough... I'm sorry. I'm so very sorry...<end><if><value:$01><equal>15<value:$28>... Ladras has fallen... So many people... It's so frustrating... Once again, I was powerless. I couldn't do anything...<end><if><value:$01><equal>17Honestly! That's what happens when mere humans build things beyond their station!! They just had to build that thing... Honestly...<end><if><value:$01><equal>19No, <value:$28>! Ladras fell!! The older girls and the people of the desert... they're all dead! It's awful! It's so awful...<end><if><value:$01><equal>26We failed to save not only Izukiyal, but even the priestesses...! Shalli, what are you after? What are you trying to do!?<end><if><value:$01><equal>27They were born to protect that, and they died as they were meant to. They can have no regrets. Such was their destiny. If it had not been them, someone in a later age would have met the same fate.<end><if><value:$01><equal>11That was... destiny... No one can defy fate...<end><if><value:$01><equal>20...<end><if><value:$01><equal>193H-how could this happen...? We were the only ones saved, while all those people inside...! It's too horrible!!<end><if><value:$01><equal>191I'm sorry... We weren't strong enough... I'm sorry... I'm so sorry...<end><if><value:$01><equal>190Damn it! All because I wasn't strong enough! I'm sorry!<end>"
+
+["1120049"]
+japanese = "\u3000動力部、不要生命体混入<line-break>\u3000自動排除反応、動作開始<line-break>排除終了条件、生命活動停止<end>"
+english = ""
+
+["1120050"]
+japanese = "\u3000 動力部、大破…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>拘束機能、自動終了…<line-break>動力部全機能…停止…<end>"
+english = ""
+
+["1120051"]
+japanese = "<value:$28>様…、<line-break>こんな所にまで…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>また私は、自分の役目を<line-break>果たしきれませんでした。<line-break>道具に、なりきれませんでした…。<end>"
+english = ""
+
+["1120052"]
+japanese = "ええ…、実は、私も<line-break>ホッとしているのです。<line-break>なぜでしょう…こんな感覚…。\u3000\u3000<line-break>道具としての自分をまっとうできず、<line-break>こうしてあなたに助けられることを<line-break>こんなにも嬉しく思うなんて…。<end>"
+english = ""
+
+["1120053"]
+japanese = "<value:$28>よ…。<line-break>そなたがここまで来ること、<line-break>このエアにも見通せなんだ。<line-break>無限のソウルを持つ者の未来は<line-break>誰にも見えぬか。<line-break>しかし、これからどうするのじゃ？<end>"
+english = ""
+
+["1120054"]
+japanese = "始めにここに連れてこられた時、<line-break>不思議な光る球がある部屋に<line-break>連れて行かれたんです。<end>"
+english = ""
+
+["1120055"]
+japanese = "ああ、制御の間ね。<end>"
+english = ""
+
+["1120056"]
+japanese = "あそこにいけば、<line-break>何かできるかもしれないですよね？<end>"
+english = ""
+
+["1120057"]
+japanese = "ですが…<line-break>どうやってあの部屋まで…？<end>"
+english = ""
+
+["1120058"]
+japanese = "エア！！<end>"
+english = ""
+
+["1120059"]
+japanese = "わかっておる。<line-break>あそこへ飛びたいというのじゃな？<line-break>大丈夫じゃ。それくらいの魔力はある。<line-break>時間がない。<line-break>ゆくぞ。<end>"
+english = ""
+
+["1120060"]
+japanese = "<value:$28>さん。<line-break>来てくれたんですね…。<line-break>ありがとうございます。<end>"
+english = ""
+
+["1120061"]
+japanese = "イークレムン殿！！\u3000<line-break>無事であったか！<line-break>\u3000<line-break>よかった。<line-break>本当に、よかった…。<end>"
+english = ""
+
+["1120062"]
+japanese = "お…アンギルダン様も…。<line-break>ありがとうございます。<end>"
+english = ""
+
+["1120063"]
+japanese = "私…ずっと考えてました。<line-break><value:$28>さんが助けてくれたら<line-break>どんなにうれしいだろうって。<line-break>そして今、<value:$28>さんは<line-break>本当に助けに来てくれて…。<line-break>私、本当にうれしいです。<end>"
+english = ""
+
+["1120064"]
+japanese = "<value:$28>よ…。<line-break>そなたがここまで来ること、<line-break>このエアにも見通せなんだ。<line-break>無限のソウルを持つ者の未来は<line-break>誰にも見えぬか。<line-break>しかし、これからどうするのじゃ？<end>"
+english = ""
+
+["1120065"]
+japanese = "ここに連れてこられた時、<line-break>最初に行った部屋に<line-break>光る球体が浮いてました。<end>"
+english = ""
+
+["1120066"]
+japanese = "ああ、制御の間だね。<line-break>あそこでラドラスを動かすみたい。<end>"
+english = ""
+
+["1120067"]
+japanese = "はい。<line-break>あそこに行けば、私たちの力で<line-break>何かできるのではないでしょうか？<end>"
+english = ""
+
+["1120068"]
+japanese = "ですが、もう時間がありません。<line-break>どうやってあの部屋まで…？<end>"
+english = ""
+
+["1120069"]
+japanese = "エア！！<end>"
+english = ""
+
+["1120070"]
+japanese = "わかっておる。<line-break>あそこへ飛びたいというのじゃな？<line-break>大丈夫じゃ。それくらいの魔力はある。<line-break>時間がない。<line-break>ゆくぞ。<end>"
+english = ""
+
+["1120071"]
+japanese = "このような所まで…。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>まったく、そなたのことだけは<line-break>このわらわにも見通せんわ…。<line-break>しかし、見通せぬがゆえに<line-break>嬉しさも、ひとしおではあるがな…。<end>"
+english = ""
+
+["1120072"]
+japanese = "あー、んー、あのー…<line-break>いい雰囲気なのはわかるんだけど<line-break>そろそろ起きあがってもいいかな？<end>"
+english = ""
+
+["1120073"]
+japanese = "この都市が落ちるまで、<line-break>そんなに時間がありませんね…。<line-break>どうしましょう？<end>"
+english = ""
+
+["1120074"]
+japanese = "役割を果たせなかったから…<line-break>不要な存在だから…、<line-break>ここで…死ぬのですね…。<end>"
+english = ""
+
+["1120075"]
+japanese = "バカなこと言っちゃいけないよ！！<line-break>ボクたちは生き残るんだ。<line-break>もちろん、ラドラスのみんなも守る！<end>"
+english = ""
+
+["1120076"]
+japanese = "エア！！<end>"
+english = ""
+
+["1120077"]
+japanese = "わかっておる。<line-break>最初に連れて行かれた制御の間、<line-break>あそこへ飛びたいというのじゃな？<line-break>時間がない。<line-break>ゆくぞ。<end>"
+english = ""
+
+["1120078"]
+japanese = "い、今さら、何しに来たんだよ。<line-break>ずっと、ずっと、いつだって<line-break>ボクはキミのことを待ってたのに…。<line-break>ホントに…。<line-break>来るのが遅すぎるんだよぉ…。<end>"
+english = ""
+
+["1120079"]
+japanese = "…まあ、でも、<line-break>こうして来てくれたから、よし！<end>"
+english = ""
+
+["1120080"]
+japanese = "<value:$28>。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break><value:$28>！<line-break><value:$28>！<line-break><value:$28>！！<end>"
+english = ""
+
+["1120081"]
+japanese = "さすがに今回は<line-break>ものすっごく恐かったよ～。<line-break>\u3000<line-break>ボク、ここでラドラスに\u3000\u3000<line-break>魔力吸いとられて……、<line-break>もうダメかと…あ！！<end>"
+english = ""
+
+["1120082"]
+japanese = "みんな！<line-break>大丈夫！？<end>"
+english = ""
+
+["1120083"]
+japanese = "そなたに心配されるほど<line-break>弱くはないわ、地の巫女よ。<end>"
+english = ""
+
+["1120084"]
+japanese = "まだ少し、体に力が入りませんが…<line-break>大丈夫です。<value:$28>さん、<line-break>ありがとうございます。<end>"
+english = ""
+
+["1120085"]
+japanese = "ですが、このラドラスは<line-break>もうすぐ落ちます。<line-break>これも、結局は意味がありません…。<end>"
+english = ""
+
+["1120086"]
+japanese = "そんなことない！！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>きっと、何か方法はあるよ。<line-break>希望も、可能性もあるよ！<line-break>ボクたちは生き残るんだ！<line-break>もちろん、ラドラスのみんなも守る！<end>"
+english = ""
+
+["1120087"]
+japanese = "エア！！<end>"
+english = ""
+
+["1120088"]
+japanese = "わかっておる。<line-break>最初に連れて行かれた制御の間、<line-break>あそこへ飛びたいというのじゃな？<line-break>時間がない。<line-break>ゆくぞ。<end>"
+english = ""
+
+["1120089"]
+japanese = "ホントに、時間がないみたいだね。<line-break>じゃあ、さっそく始めよう。<line-break>\u3000<line-break>フレアとイークレムンは<line-break>自分たちの精霊の制御球の所に。<line-break>エアは転移の準備をしておいて。<end>"
+english = ""
+
+["1120090"]
+japanese = "転移じゃと？<line-break>エステル、何を考えておる？<end>"
+english = ""
+
+["1120091"]
+japanese = "うん、まず、ボクが、せーの！\u3000<line-break>って言ったら、フレアとイークレムンは<line-break>うまく地面に着くように念じて。<line-break>で、地面に着いたらもう一度<line-break>せーの！\u3000って言うから、そしたら<line-break>制御球に、壊れろ！\u3000って念じて。<end>"
+english = ""
+
+["1120092"]
+japanese = "ここを、動かなくしよう。<line-break>二度と使えないように。<end>"
+english = ""
+
+["1120093"]
+japanese = "それは！！<line-break>…これを壊すことは…<line-break>動かなくするということは…。<line-break>私たち巫女が今まで<line-break>存在しつづけてきた意味も理由も<line-break>なくなってしまいます。<end>"
+english = ""
+
+["1120094"]
+japanese = "でも、もし再びこのようなことが<line-break>起きれば、また悲しみが生まれます。<line-break>大切な命が失われるでしょう。<line-break>それよりは、今この空中都市を<line-break>永久に封じた方が、世界にとって<line-break>いいのではないでしょうか。<end>"
+english = ""
+
+["1120095"]
+japanese = "ボクもイークレムンと同じ気持ちだよ。<line-break>悲しみや絶望を生むために<line-break>ボクたちはいるんじゃない。<line-break>８００年、ボクたち巫女の存在が<line-break>これのためにあったというのなら、<line-break>今日でそれを終わりにしよう。<end>"
+english = ""
+
+["1120096"]
+japanese = "じゃあ、イークレムンとフレアは<line-break>自分たちの制御球の所に行って。<end>"
+english = ""
+
+["1120097"]
+japanese = "エア、転移の方は任せたからね。<line-break>\u3000<line-break>\u3000<line-break>何が起きるかわからないから、<line-break>どこでもいい、安全な場所に<line-break>みんなを飛ばしてね。<end>"
+english = ""
+
+["1120098"]
+japanese = "わかった。<line-break>任せておけ。<end>"
+english = ""
+
+["1120099"]
+japanese = "いい？\u3000じゃ、始めるよ。<end>"
+english = ""
+
+["1120100"]
+japanese = "せーの！！<end>"
+english = ""
+
+["1120101"]
+japanese = "…よし、<line-break>なんとか着地はしたみたいだね。<line-break>じゃ次、壊れろって、いくよ！<line-break>せぇーーーーの！！<end>"
+english = ""
+
+["1120102"]
+japanese = "昔、これを空に飛ばそうと、<line-break>たくさんの人が犠牲となり<line-break>たくさんの命が空費されたのに…。<end>"
+english = ""
+
+["1120103"]
+japanese = "…今、これは飛べないまま壊される。<end>"
+english = ""
+
+["1120104"]
+japanese = "…ゴメンね。<line-break>あんなに強い願いだったのに<line-break>かなえてあげられなくて…。<end>"
+english = ""
+
+["1120105"]
+japanese = "ここならばまず安全じゃろう。\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>…しかし、わらわの力では<line-break>このような未来は見えなかった。<line-break>これも<value:$28>の力か…。<end>"
+english = ""
+
+["1120106"]
+japanese = "違うよ、エア。<line-break><value:$28>が特別だから<line-break>こうなったんじゃないよ。\u3000<line-break>みんなで一緒に<line-break>希望を持ってがんばった。<line-break>だから、こうなったんだよ。<end>"
+english = ""
+
+["1120107"]
+japanese = "フッ…そうか。<line-break>そなたらしい言葉だな、<line-break>地の巫女よ。<end>"
+english = ""
+
+["1120108"]
+japanese = "さて、精霊の巫女たちよ。<line-break>そなたらを、あるべき地へ<line-break>帰してやらねばなるまいな。<end>"
+english = ""
+
+["1120109"]
+japanese = "じゃあ、ボクはラドラスに帰るよ。<line-break>たぶん、もう大丈夫でしょ。<line-break>\u3000<line-break>じゃあね、<value:$28>。<line-break>ラドラスを守ってくれて<line-break>ホントにありがとう！<end>"
+english = ""
+
+["1120110"]
+japanese = "では、私も<line-break>アキュリュースへ帰ります。<line-break>\u3000<line-break><value:$28>さん、<line-break>アキュリュースに来た時には<line-break>私の所にも来てくださいね。<end>"
+english = ""
+
+["1120111"]
+japanese = "私は…<line-break>道具としての役目を<line-break>完全に失ってしまいました…。\u3000\u3000<line-break>これから、どう生きればいいのか、<line-break>それすらもわかりません。<line-break>わかりません…けど…。<end>"
+english = ""
+
+["1120112"]
+japanese = "私は、生きていきたいと思います。<line-break>あなたと同じこの世界で生きることが<line-break>なぜかとても嬉しいのです…。<line-break>では、私もまいります。<line-break><value:$28>様、<line-break>また、お会いしましょう…。<end>"
+english = ""
+
+["1120113"]
+japanese = "さあ、そなたも行くがよい。<line-break>無限のソウルを持つ者よ。<line-break>\u3000<line-break>最後に、礼を言うぞ。<line-break>そなたのおかげで、わらわも<line-break>未来に希望を見出せそうじゃ。<end>"
+english = ""
+
+["1120114"]
+japanese = "じゃあ、ボクはラドラスに帰るよ。<line-break>たぶん、もう大丈夫でしょ。<line-break>\u3000<line-break>じゃあね、<value:$28>。<line-break>ラドラスを守ってくれて<line-break>ホントにありがとう！<end>"
+english = ""
+
+["1120115"]
+japanese = "私も、ウルカーンへ戻ります。<line-break>そこにはもう、私の役目は<line-break>何もないかもしれませんが…。<line-break><value:$28>様、<line-break>それでは…。<end>"
+english = ""
+
+["1120116"]
+japanese = "<value:$28>さん…、<line-break>本当にありがとうございました。<line-break>\u3000<line-break>私…私もできることなら<line-break><value:$28>さんの旅に…。<end>"
+english = ""
+
+["1120117"]
+japanese = "…いえ、なんでもありません。<line-break>私は、アキュリュースで<line-break>私のなすべきことをなしましょう。<line-break>では、<value:$28>さん、<line-break>また、アキュリュースへ…<line-break>私の所へいらしてください。<end>"
+english = ""
+
+["1120118"]
+japanese = "昔、これを空に飛ばそうと、<line-break>たくさんの人が犠牲となり<line-break>たくさんの命が空費されたのに…。<end>"
+english = "Long ago, so many people were sacrificed trying to send this into the sky. So many lives were squandered...<end>"
+
+["1120119"]
+japanese = "…今、これは飛べないまま壊される。<end>"
+english = "And now it will be destroyed without ever flying.<end>"
+
+["1120120"]
+japanese = "…ゴメンね。<line-break>あんなに強い願いだったのに<line-break>かなえてあげられなくて…。<end>"
+english = "I'm sorry. The wish was so strong, but I couldn't make it come true...<end>"
+
+["1120121"]
+japanese = "私も、ウルカーンへ戻ります。<line-break>そこにはもう、私の役目は<line-break>何もないかもしれませんが…。<line-break><value:$28>様、<line-break>それでは…。<end>"
+english = ""
+
+["1120122"]
+japanese = "<value:$28>…。<line-break>わらわは、今<line-break>希望を感じておる。\u3000\u3000\u3000\u3000\u3000<line-break>おそらく、わらわにとって<line-break>生まれて始めての希望じゃ。<line-break>未来を強く願うほどのな…。<end>"
+english = ""
+
+["1120123"]
+japanese = "今までのわらわは<line-break>見える未来に絶望するだけで<line-break>あらがう強さを持たなかった。\u3000<line-break>そなたが、教えてくれたのじゃ。<line-break>未来を切り開く強さを。<line-break>希望を持ち、進む生き方を…。<end>"
+english = ""
+
+["1120124"]
+japanese = "………………。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>行くがよい。<line-break>このままでは、わらわはそなたを<line-break>引きとめてしまいそうじゃ。<end>"
+english = ""
+
+["1120125"]
+japanese = "では、私は<line-break>アキュリュースへ帰ります。<line-break>\u3000<line-break><value:$28>さん、<line-break>アキュリュースに来た時には<line-break>私の所にも来てくださいね。<end>"
+english = ""
+
+["1120126"]
+japanese = "私も、ウルカーンへ戻ります。<line-break>そこにはもう、私の役目は<line-break>何もないかもしれませんが…。<line-break><value:$28>様、<line-break>それでは…。<end>"
+english = ""
+
+["1120127"]
+japanese = "へへっ、えへへへ…。\u3000\u3000\u3000\u3000\u3000<line-break>ホント、ありがとう。<line-break><value:$28>。<line-break>やっぱり、キミはすごいよ。<line-break>ボクにとっては、勇者ネメアより<line-break>ずっとずっと素敵な勇者様だ。<end>"
+english = ""
+
+["1120128"]
+japanese = "<value:$28>…。<line-break>ボク…、ホントに……。<end>"
+english = ""
+
+["1120129"]
+japanese = "よいか？\u3000エステルよ。<end>"
+english = ""
+
+["1120130"]
+japanese = "え！！<line-break>あ、あ、あ、ああ、うん。<line-break>よろしくお願い…します。<end>"
+english = ""
+
+["1120131"]
+japanese = "じゃ、ボク<line-break>ラドラスのみんなの所に帰るよ。<line-break>やっぱり、ちょっと心配だし。<line-break>じゃあね！\u3000<value:$28>。<line-break>ラドラスを……ボクたちを助けてくれて<line-break>ホントにありがとう！！<end>"
+english = ""
+
+["1120132"]
+japanese = "さあ、そなたも行くがよい。<line-break>無限のソウルを持つ者よ。\u3000\u3000<line-break>\u3000<line-break>最後に、礼を言うぞ。<line-break>そなたのおかげで、わらわも<line-break>未来に希望を見出せそうじゃ。<end>"
+english = ""
+
+["1120133"]
+japanese = "行くがよい。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>よ。<line-break>\u3000<line-break>そなたの力ならば<line-break>この大陸を包む暗き運命をも<line-break>打ち砕くことができようぞ。<end>"
+english = "Go forth, <value:$28>. With your power, you may yet shatter even the dark fate that hangs over this continent.<end>"
+
+["1120134"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000待っていたぞ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000地の巫女よ。そして<line-break>\u3000\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000かつて汝らに<line-break>\u3000\u3000\u3000\u3000巨人フルーヴを倒してもらったが<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我の力はいまだ戻らぬ。<end>"
+english = "I have been waiting for you, Priestess of the Earth―and you, Bearer of the Infinite Soul... You once defeated Giant Fleuve at my behest, yet my power has still not returned.<end>"
+
+["1120135"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000来たか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我は汝を待っておった…。\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000かつて汝に<line-break>\u3000\u3000\u3000巨人フルーヴを倒してもらったが<line-break>\u3000\u3000\u3000\u3000\u3000我の力はいまだ戻らぬ。<end>"
+english = "So you have come, Bearer of the Infinite Soul. I have been waiting for you... You once defeated Giant Fleuve at my behest, yet my power has still not returned.<end>"
+
+["1120136"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000巨人フルーヴの兄\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000巨人パンタ・レイが<line-break>\u3000\u3000\u3000\u3000\u3000我が力を封じておるのだ。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000ゆえに今再び、我は汝に求める。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000彼の巨人を退け<line-break>\u3000\u3000\u3000\u3000\u3000我の力を解き放ってほしい。<end>"
+english = "Giant Fleuve's elder brother, Giant Panta Rhei, has sealed away my power. Thus I ask this of you once more: drive back that giant and set my power free.<end>"
+
+["1120137"]
+japanese = "わかった<end>"
+english = "All right.<end>"
+
+["1120138"]
+japanese = "関係ないな<end>"
+english = "It's got nothing to do with me.<end>"
+
+["1120139"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よし。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000では我は、汝を<line-break>\u3000\u3000\u3000\u3000\u3000\u3000精霊の座へと導かん。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000汝、気高き地の光を越え<line-break>\u3000\u3000\u3000\u3000\u3000\u3000彼の巨人に挑むがよい。<line-break>\u3000\u3000\u3000\u3000\u3000挑み、打ち破るがよい…。<end>"
+english = "Very well. Then I shall guide you to the Seat of the Spirits. Pass beyond the light of the exalted land and challenge that giant. Challenge the giant, and vanquish it…<end>"
+
+["1120140"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000そうか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ならば無理強いはすまい。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000うつろいやすき人の子よ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000気が変わったならば<line-break>\u3000\u3000\u3000\u3000\u3000また我を訪ねるがよい。<end>"
+english = "I see. Then I shall not force you. O fickle child of man, if you change your mind, come and visit me again.<end>"
+
+["1120141"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000どうした？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000巨人を前に臆したか？<end>"
+english = "What's wrong? Lost your nerve before the giant?<end>"
+
+["1120142"]
+japanese = "そんなことはない<end>"
+english = "Not at all.<end>"
+
+["1120143"]
+japanese = "やめておこうかな<end>"
+english = "Maybe I should call it off.<end>"
+
+["1120144"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000ならば行くがよい。\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "If so, then go.<end>"
+
+["1120145"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000そうか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ならば無理強いはすまい。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000うつろいやすき人の子よ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000気が変わったならば<line-break>\u3000\u3000\u3000\u3000\u3000また我を訪ねるがよい。<end>"
+english = "I see. Then I shall not force you. Fickle child of man, if you change your mind, you may seek me out again.<end>"
+
+["1120146"]
+japanese = "フン…貴様が<line-break>無限のソウルを持つ者か…。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>この世界のため、<line-break>そして、我が弟フルーヴの無念のため、<line-break>貴様を無へと帰してやろう！！<end>"
+english = "Hmph... So you are the Bearer of the Infinite Soul. For the sake of this world, and for my younger brother Flueve's unfulfilled hopes, I shall return you to nothingness!<end>"
+
+["1120147"]
+japanese = "く、無念…。<line-break>我が力もってしても<line-break>貴様らの愚行をとめられぬか…。<line-break>大きく、しかし愚かなる魂よ。<line-break>やがて来る闇に絶望し<line-break>己が行いをくいるがいい…。<end>"
+english = "Damn... So even my power cannot put an end to your folly. O great but foolish soul, despair at the darkness soon to come, and rue what you have done.<end>"
+
+["1120148"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000さすがだな…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よくやった、<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…。<end>"
+english = "Impressive... You have done well, Bearer of the Infinite Soul...<end>"
+
+["1120149"]
+japanese = "\u3000\u3000\u3000よくぞ、巨人パンタ・レイを倒した。\u3000\u3000<line-break>\u3000\u3000\u3000これで、我の力を妨げる者はない。<line-break>\u3000\u3000礼を言うぞ。無限のソウルを持つ者よ。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我は感謝の証として、<line-break>\u3000\u3000\u3000\u3000汝に我の力の一部を与えよう。<line-break>\u3000\u3000\u3000人の子にはあまるほどの巨大な力を。<end>"
+english = "You have done well to defeat the giant Panta Rhei. Now no one remains who can hinder my power. You have my thanks, Bearer of the Infinite Soul. As a token of my gratitude, I shall grant you a portion of my power―an immense power beyond what any child of man could contain.<end>"
+
+["1120150"]
+japanese = "地の最高位の魔法が解放された。<end>"
+english = "The highest-level earth magic has been unlocked.<end>"
+
+["1120151"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000エステルよ…、\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000地の巫女よ…。<end>"
+english = "Esther... Priestess of Earth...<end>"
+
+["1120152"]
+japanese = "何？\u3000精霊神様。<end>"
+english = "What is it, Spirit God?<end>"
+
+["1120153"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000我の力を分け与えよう。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000地の巫女である汝ならば<line-break>\u3000\u3000\u3000\u3000受け入れることができるはずだ。<end>"
+english = "I shall share my power with you. As the Priestess of Earth, you should be able to receive it.<end>"
+
+["1120154"]
+japanese = "エステルの巫女としての力が<line-break>大きく引き出された。<end>"
+english = "A great deal of Esther's power as a priestess has been brought forth.<end>"
+
+["1120155"]
+japanese = "すごい…。<line-break>これが、ボクの力…？<end>"
+english = "Incredible... Is this my power...?<end>"
+
+["1120156"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000さよう。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000その力、我ら精霊の使いとして<line-break>\u3000\u3000\u3000\u3000\u3000\u3000存分にふるうがよい。<end>"
+english = "Just so. Wield that power to the fullest in the service of us spirits.<end>"
+
+["1120157"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000では、さらばだ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ。<end>"
+english = "Then farewell, Bearer of the Infinite Soul.<end>"
+
+["1120158"]
+japanese = "\u3000\u3000\u3000来たか、無限のソウルを持つ者よ…。\u3000\u3000<line-break>\u3000\u3000\u3000\u3000ならば、我は今一度汝に乞う。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000我が大いなる力を封じる<line-break>\u3000\u3000\u3000\u3000\u3000巨人、パンタ・レイを<line-break>\u3000\u3000\u3000\u3000\u3000倒してはくれまいか？<end>"
+english = "So you have come, Bearer of the Infinite Soul... Then once more, I implore you: will you defeat the giant Panta Rhei, who seals away my great power?<end>"
+
+["1120159"]
+japanese = "しょうがない<end>"
+english = "I suppose I have no choice.<end>"
+
+["1120160"]
+japanese = "関係ないってば<end>"
+english = "I told you, it's got nothing to do with me!<end>"
+
+["1120161"]
+japanese = "\u3000\u3000\u3000\u3000\u3000 \u3000\u3000来たか、地の巫女よ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000ん、汝は…。<line-break>\u3000\u3000\u3000なるほど、無限のソウルを持つ者か…。<line-break>\u3000<line-break>\u3000\u3000\u3000 \u3000 \u3000\u3000大いなる可能性を持つ<line-break>\u3000\u3000\u3000  \u3000\u3000 \u3000\u3000人の子らよ。<line-break>\u3000\u3000\u3000  \u3000\u3000 \u3000汝に頼みがある。<end>"
+english = "You have come, priestess of earth. Hmm, and you are... I see. The Bearer of the Infinite Soul... Children of man, you hold great potential. I have a favor to ask of you.<end>"
+
+["1120162"]
+japanese = "\u3000\u3000 \u3000\u3000ここより先に、<line-break>\u3000\u3000 フルーヴという巨人がおる。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000汝の力で葬ってくれ。<line-break>\u3000 \u3000彼奴は我の力を妨げる力。<line-break>\u3000\u3000 \u3000不要な存在なのだ…。<end>"
+english = "Beyond this place dwells a giant called Fluve. Bury it with your power. That creature is a force that impedes my own. Its existence serves no purpose...<end>"
+
+["1120163"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よし。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000では我は、汝を<line-break>\u3000\u3000\u3000\u3000 \u3000\u3000精霊の座へと導かん。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000汝、気高き地の光を越え<line-break>\u3000\u3000\u3000\u3000\u3000\u3000彼の巨人に挑むがよい。<line-break>\u3000\u3000\u3000\u3000 \u3000挑み、打ち破るがよい…。<end>"
+english = "Good. I shall guide you to the Seat of the Spirits. Pass beyond the noble light of earth and face that giant. Challenge it, and strike it down...<end>"
+
+["1120164"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000そうか。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000ならば無理強いはすまい。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000うつろいやすき人の子よ。<line-break>\u3000\u3000\u3000\u3000気が変わったならば<line-break>\u3000\u3000\u3000 また我を訪ねるがよい。<end>"
+english = "I see. Then I shall not compel you. Fickle child of man, should you change your mind, come before me again.<end>"
+
+["1120165"]
+japanese = "\u3000\u3000\u3000\u3000\u3000うつろいやすき人の子よ。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000気が変わったならば<line-break>\u3000\u3000\u3000\u3000\u3000また我を訪ねるがよい。<end>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000さらばだ。<end>"
+english = "O fickle child of man. If you change your mind, come and seek me again.<end>Farewell.<end>"
+
+["1120166"]
+japanese = "フン…地の巫女と<line-break>無限のソウルを持つ者か。<line-break>\u3000<line-break>グラジェオンめ…<line-break>闇の力の高まりを知り、<line-break>我を滅ぼさんと欲したか。<end>"
+english = "Hmph... The Earth Priestess and the Bearer of the Infinite Soul. Curse you, Grajeon... You sensed the growing power of darkness and sought to destroy me?<end>"
+
+["1120167"]
+japanese = "しかし、汝らごときに倒される<line-break>このフルーヴではない。<line-break>来るがよい、精霊神のしもべよ！！<end>"
+english = "But Furuve will not fall to the likes of you. Come, servants of the Spirit God!<end>"
+
+["1120168"]
+japanese = "愚かなり、人の子よ。<line-break>精霊神に躍らされ、<line-break>我を撃ち、闇を呼ぶか…。<line-break>愚かなり…愚かなり…。<end>"
+english = "Foolish child of man. Made to dance to the Spirit God's tune, you strike me down and call forth darkness...? Foolish... How foolish.<end>"
+
+["1120169"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よくやった…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が地の巫女よ…。<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…。<end>"
+english = "Well done... my priestess of the earth... Bearer of the Infinite Soul...<end>"
+
+["1120170"]
+japanese = "\u3000\u3000地の巫女よ、無限のソウルを持つ者よ。\u3000\u3000<line-break>\u3000\u3000\u3000よくぞ、巨人フルーヴを倒した。<line-break>\u3000\u3000\u3000心から、礼を言わせてもらうぞ。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000さあ、再び行くがよい。<line-break>\u3000\u3000\u3000\u3000\u3000汝らのなすべき旅の道へ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000さらばだ。<end>"
+english = "Priestess of Earth! Bearer of the Infinite Soul! You have done well to defeat Giant Fleuve. I offer you my heartfelt thanks. Now, all of you, go forth once more upon the path you must travel. Farewell.<end>"
+
+["1120171"]
+japanese = "\u3000\u3000\u3000\u3000\u3000来たか、地の巫女よ。そして、\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000 \u3000無限のソウルを持つ者よ…。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ならば、我は今一度汝に乞う。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我の力を封じつづける<line-break>\u3000\u3000\u3000 \u3000彼の巨人を倒してはくれまいか？<end>"
+english = "You have come, priestess of earth, and you, Bearer of the Infinite Soul... Then I beseech you once more: will you defeat the giant that continues to seal away my power?<end>"
+
+["1120172"]
+japanese = "えっ！？<line-break>せ、制御の間ですか？<end>"
+english = "What!? Th-the control chamber?<end>"
+
+["1120173"]
+japanese = "えっ！？<line-break>ど、動力の間ですか？<end>"
+english = "What!? Th-the Chamber of Power?<end>"
+
+["1120174"]
+japanese = "あ、あちらです！<end>"
+english = "O-over there!<end>"
+
+["1120175"]
+japanese = "予備メッセージ４<line-break>エステルのＶ５だよ。<end>"
+english = ""
+
+["1120176"]
+japanese = "予備メッセージ５<line-break>エステルのＶ５だよ。<end>"
+english = ""
+
+["1120177"]
+japanese = "予備メッセージ６<line-break>エステルのＶ５だよ。<end>"
+english = ""
+
+["1120178"]
+japanese = "予備メッセージ７<line-break>エステルのＶ５だよ。<end>"
+english = ""
+
+["1120179"]
+japanese = "予備メッセージ８<line-break>エステルのＶ５だよ。<end>"
+english = ""
+
+["1120180"]
+japanese = "予備メッセージ９<line-break>エステルのＶ５だよ。<end>"
+english = ""
+
+["1120181"]
+japanese = "予備メッセージ１０<line-break>エステルのＶ５だよ。<end>"
+english = ""
+
+["1120182"]
+japanese = "エステルメッセージVOL5終端<end>"
+english = ""

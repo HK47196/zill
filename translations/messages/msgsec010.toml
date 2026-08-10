@@ -1,0 +1,77 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["100000"]
+japanese = "<select><value:$20>%3世界各地で起きた先の地震や火山の噴火は<line-break>竜王の覚醒が原因です。竜王の覚醒が<line-break>起きるとき、人の世は乱れるといいます。<end>水の精霊神も世界の異変を感じ取って<line-break>いるのでしょう。この地に集う水の精霊たちが<line-break>影響を受けて、ざわついているのを感じます。<end>竜王は世界のバランスを崩しかねない<line-break>存在である、無限のソウルを持つ者を<line-break>恐れているのです。<end>"
+english = "<select><value:$20>%3The recent earthquakes and volcanic eruptions around the world were caused by the Dragon King's Awakening. It is said that when the Dragon King awakens, the human world is thrown into turmoil.<end>The Water Spirit God must sense the upheaval in the world as well. I can feel its effects making the water spirits gathered here restless.<end>The Dragon King fears the Bearer of the Infinite Soul, whose very existence could upset the balance of the world.<end>"
+
+["100001"]
+japanese = "<select><value:$20>%2アキュリュースは本当に美しい所ね。\u3000\u3000\u3000<line-break>人間の造った建物と水の精霊が無理なく<line-break>融合していて、ほんとうにすばらしいわ。<line-break>冒険エルフの祖、ラミュ様のおっしゃるように<line-break>森を出て本当によかった。<end>ロストールには、エルフの森の長老樹に\u3000\u3000<line-break>負けないくらい立派な、千年樹と呼ばれる<line-break>巨木があるんですってね。<line-break>私も１度、見にいってみようかしら。<line-break>きっと雄々しい樹の精霊が住んでいるのよ。<end>"
+english = "<select><value:$20>%2Aqyurius is such a beautiful place. The buildings made by humans blend so naturally with the water spirits. It's truly wonderful. Just as the revered Lamy, forebear of the adventuring Elves, said, I'm so glad I left the forest.<end>I hear Rostorl has an enormous tree called the Millennium Tree, every bit as magnificent as the Elder Tree in the Elven Forest. Perhaps I'll go and see it someday. I'm sure a proud and mighty tree spirit lives there.<end>"
+
+["100002"]
+japanese = "<select><value:$33>あなたの旅立ちはまだ途中でしょ。<line-break>どうしてここにいるの？<end>アキュリュースは水も豊富で景色も美しくて<line-break>ほんとうによい所だわ。<line-break>他国の軍隊もミズチを恐れて攻めてこないしね。<end>エルフって男も女もきれいな顔をしてるのね。<line-break>ああやって景色を見てる姿なんてステキねぇ。<end>あのエルフの男性に話しかけられると<line-break>胸がドキドキしちゃうの…<line-break>これって恋かも！？<end>愛があれば歳の差なんて…<line-break>とは言うけど５００歳も離れていると<line-break>困っちゃうのよねぇ。<end>えっ！\u3000リベルダムがカルラに攻められて<line-break>陥落したって？\u3000そう…あたしの恋も<line-break>陥落寸前よ。<end>いいの…。<line-break>こうして姿を見ていられるだけで。<line-break>だって彼、森に妻と子どもがいるんだもん。<end>いいの…。<line-break>こうして姿を見ていられるだけで。<line-break>だって彼、森に妻と子どもがいるんだもん。<end>"
+english = "<select><value:$33>Your journey isn't over yet, is it? Why are you here?<end>Aqyurius is a lovely place, with abundant water and beautiful scenery. And no foreign army dares attack, because everyone fears the Mizuchi.<end>Elven men and women both have such beautiful faces. They look wonderful gazing at the scenery like that.<end>Whenever that Elven man speaks to me, my heart starts pounding... Could this be love?!<end>People say age doesn't matter when you're in love... but a five-hundred-year difference does make things difficult.<end>What?! Liberdam fell to Karula? Oh... my heart's about to fall too.<end>It's all right... Just being able to look at him like this is enough. He has a wife and children back in the forest, you see.<end>It's all right... Just being able to look at him like this is enough. He has a wife and children back in the forest, you see.<end>"
+
+["100003"]
+japanese = "<select><value:$20>%3ここ水の都アキュリュースは<line-break>古代魔道王国ラドラスの水の巫女ネイが<line-break>５世紀に造った町なんじゃよ。<end>今でもネイの血をひく女性が水の巫女として<line-break>代々、水の精霊神に仕えておるんじゃ。<line-break>そういえば、今の水の巫女は誰じゃったかな。<end>こうして美しく咲いた花を愛でたり、<line-break>水の流れを耳で感じておる時が、<line-break>わしの至福の一時なんじゃよ。<end>"
+english = "<select><value:$20>%3Aqyurius, the City of Water, was founded in the fifth century by Nei, the Water Priestess of the ancient magical kingdom of Ladras.<end>Even now, a woman of Nei's blood serves the Water Spirit God as Water Priestess in every generation. Come to think of it, who is the current Water Priestess?<end>My happiest moments are spent admiring flowers in full bloom or listening to the flowing water.<end>"
+
+["100004"]
+japanese = "<select><value:$33>この町で展開する旅立ちはないんだけどねえ。<end>ここはよい所だろ？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>あたしも若いころに観光で来てから、<line-break>すっかり気に入っちゃってねえ。<line-break>故郷のロストールから引っ越してきたんだよ。<line-break>あんたも冒険者をやめるときがきたら<line-break>ここに住んでみるのはどうだい。<end>故郷のロストールは貴族がいばっている<line-break>イヤな国だったけど、ここは自由でよいよ。<line-break>自由人のあんたにもわかるかね？<end>あんたも冒険者なんかやめて、<line-break>傭兵としてここに住んだらどうだい。<line-break>あたしゃ大歓迎だけどね。<end>ゼネテスがディンガル軍を追い払って<line-break>くれたみたいだね。<line-break>故郷のことだけに少し心配していたんだよ。<end>ディンガルに占領されても、<line-break>今まで通りの生活が送れるんなら<line-break>あたしは文句はないんだけどね。<end>ロストールもディンガルの領土になるのかねえ。<line-break>世界がディンガルに統一されて、<line-break>戦争がなくなるのならかまやしないけど…。<end>エルファス様の予言通りに世界が滅んだら、<line-break>もう、この美しい景色を見ることができなく<line-break>なってしまうねえ。<end>"
+english = "<select><value:$33>There aren't any journeys to be found in this town, though.<end>It's a lovely place, isn't it? I first came here sightseeing when I was young and liked it so much that I moved here from my native Rostorl. When the time comes for you to give up adventuring, why not settle down here too?<end>Rostorl was a nasty country where the nobles lorded it over everyone, but people are free here. A free spirit like you ought to understand that, eh?<end>Why don't you give up adventuring and settle here as a mercenary? I'd be delighted to have you.<end>It seems Xenetes drove off the Dingal Army. Rostorl is my homeland, so I was a little worried.<end>I wouldn't complain about Dingal occupying us, so long as we could go on living as we always have.<end>I wonder if Rostorl will become part of Dingal too. I wouldn't mind if Dingal united the world and put an end to war, but...<end>If the world ends just as Lord Elfas foretold, I won't be able to look upon this beautiful view again.<end>"
+
+["100005"]
+japanese = "<select><value:$33>おやまあ、どうしてここにいるのかい？<end>アキュリュースはミズチたちが守っているから、<line-break>どこの国の王様も攻めてこれないのさ。<line-break><line-break>どんな強い軍隊も水の中じゃ<line-break>ミズチたちにかなうわけないだろうからね。<end>東のディンガルでは勇者ネメアが<line-break>前の皇帝を倒して即位したそうだよ。<line-break>詳しい事情は知らないけど恐ろしい話だね。<end>ネメアは本気で世界を<line-break>自分の物にするつもりなんだね。<line-break>だったらここにも攻めてくるのかね。<end>ロストールの王宮じゃディンガルが<line-break>攻めてくるって大騒ぎだっただろうよ。<line-break>エリス以外は能なしだからね。<end>リベルダムのように破壊されたら、<line-break>もう、ここに住む気にはならないだろうね。<line-break>この美しい景色を失ってしまってはねえ。<end>ディンガルに占領されても、<line-break>あたしらの生活は変わらないだろうねえ。<line-break>攻められるっていう実感がないよ。<end>世界は本当に滅んでしまうのかい？<line-break>何とかならないものなのかねえ。<end>"
+english = "<select><value:$33>Well, now. What are you doing here?<end>Aqyurius is protected by the Mizuchi, so no king in the world can attack it. No matter how powerful an army may be, it couldn't hope to defeat the Mizuchi in the water.<end>They say Hero Nemea overthrew the former emperor in eastern Dingal and took the throne. I don't know the details, but it sounds dreadful.<end>Nemea truly means to make the whole world his own. Does that mean he'll attack this place too?<end>I expect the royal court in Rostorl was in an uproar over the threat of a Dingal invasion. Everyone there but Eris is useless.<end>If this place were destroyed like Liberdam, I doubt I'd want to live here any longer. Not without this beautiful view.<end>Even if Dingal occupied us, I doubt our lives would change. It's hard to imagine this place ever coming under attack.<end>Is the world really going to end? Isn't there anything that can be done?<end>"
+
+["100006"]
+japanese = "<if><value:$2C><less-equal>%9北の谷間と南の谷間を探険するときは<line-break>無理をするなよ。谷間の奥にいるモンスターは<line-break>あんたのレベルだと苦戦すると思うぜ。<end><if><value:$2C><less-equal>%29アキュリュース周辺の冒険ポイントっていえば\u3000<line-break>北と南にある谷間だな。あんたのレベルだと<line-break>奥の方まで探険できるだろうから行ってみな。<end><if><value:$2C><less-equal>%49この町のどこかに蒼流の聖槍があるんだ。<line-break>力強く流れる激流のように敵を突き破る槍<line-break>というくらいだから強力なんだろうな。<end>水属性の禁呪がこの地のどこかに<line-break>封印されているらしいんだ。<line-break>どうにかして手に入れたいものだけどな。<end>"
+english = "<if><value:$2C><less-equal>%9Don't push yourself when you explore North Valley and South Valley. At your level, I think the monsters deeper in the valleys will give you trouble.<end><if><value:$2C><less-equal>%29If you're looking for places to explore around Aqyurius, try North Valley and South Valley. At your level, you should be able to make it pretty far in, so go have a look.<end><if><value:$2C><less-equal>%49The Sacred Spear of the Azure Torrent is somewhere in this town. They say it pierces enemies like a raging torrent, so it must be powerful.<end>Apparently, a Forbidden Spell of the Water element is sealed somewhere in this land. I'd like to find some way to get my hands on it.<end>"
+
+["100007"]
+japanese = "<if><value:$2C><less-equal>%9水属性のモンスターは火属性の武器が<line-break>苦手なんだ。水属性は土属性に強くて<line-break>火属性に弱いからね。<end><if><value:$2C><less-equal>%29迷宮探険にはディテクターのスキルが必須だね。<line-break>このスキルがないと宝箱を開けることが<line-break>できないからね。<end><if><value:$2C><less-equal>%49強力な武器は鍛えることができないよ。<line-break>結局は、自分の鍛えていった武器が<line-break>一番強いのかもしれないな。<end>防具を鍛えることを忘れてないかい？<line-break>攻撃だけでなく、守りも大切だよ。<end>"
+english = "<if><value:$2C><less-equal>%9Water-element monsters are vulnerable to Fire-element weapons. Water is strong against Earth and weak against Fire.<end><if><value:$2C><less-equal>%29The Detector skill is essential when you're exploring a labyrinth. Without it, you can't open treasure chests.<end><if><value:$2C><less-equal>%49You can't enhance weapons that are already powerful. In the end, the strongest weapon may be one you've built up yourself.<end>You haven't forgotten to improve your armor, have you? Defense matters just as much as attack.<end>"
+
+["100008"]
+japanese = "<if><value:$2A><less-equal>%49傭兵ってのは、ごろつきの集まりみたいなもん<line-break>だから結束力ってものがなくてねえ。誰もが<line-break>納得するリーダーがいればいいんだけど。<end><if><value:$2A><less-equal>%100ミズチがいるからアキュリュースは安全なんだ。<line-break>それならば、ミズチがいなくなったら他国に<line-break>簡単に攻め滅ぼされるかもしれないわけだろ。<line-break>いや、こんなこと考えるようになったのは<line-break>イークレムンさんの話を聞いてからなんだ。<line-break>あの人がミズチが減ってきてるって言うから…。<end>ロストールで、有名な冒険者の話を聞いたんだ。<line-break><value:$2B>の<value:$28>って<line-break>呼ばれてるそうだよ。<line-break>あのゼネテスに負けず劣らず大人気ってんだから<line-break>かなりの凄腕冒険者なんだろうねえ。<line-break>そんな人が傭兵隊長なら安心なんだけどなあ。<end>"
+english = "<if><value:$2A><less-equal>%49Mercenaries are little more than a band of ruffians, so there's no real unity among them. If only they had a leader everyone could accept.<end><if><value:$2A><less-equal>%100Aqyurius is safe because the Mizuchi are here. But if the Mizuchi disappeared, another country might wipe us out with ease, right? I never used to think like this. It only started after Iiklmn told me the Mizuchi were dwindling...<end>I heard about a famous adventurer in Rostorl. Apparently, <value:$28> is known as <value:$2B>. Anyone every bit as popular as Xenetes must be a formidable adventurer. I'd feel a lot safer with someone like that commanding the mercenaries.<end>"
+
+["100009"]
+japanese = "<select><value:$33>貴様のくる所ではない。帰れ。<end>他の国は知らないがアキュリュースは平和な<line-break>もんだよ。ミズチがいる限り他国も攻めて<line-break>きやしないから、警備の仕事は暇なんだ。<end>勇者ネメアがディンガルの皇帝になったのは\u3000\u3000<line-break>知っていても、その部下で朱雀将軍に任命された<line-break>アンギルダンって爺さんが魔王バロルの時代に<line-break>ここの傭兵隊長をしていたなんてことは<line-break>知らないだろう。ま、俺も隊長に教えて<line-break>もらうまで知らなかったんだけどね。<end>東方諸国の盟主ロセンがディンガルに<line-break>滅ぼされたそうだな。あの国は国王のペウダが<line-break>愚王と呼ばれるぐらいひどい国だったからな。<line-break>国民は案外、ディンガルの占領を喜んでいたり<line-break>するんじゃないか。ま、このことでディンガル<line-break>にとって東方の脅威はなくなったわけだ。<end>我々の仕事は、この地に住む人々を守ることだ。<line-break>そのためには日々の鍛錬を忘れてはならない。<line-break>それは冒険者も同じだよな？<end>ミズチがいなくなれば抵抗はできないよ。<line-break>ディンガル帝国の軍事力は強大だからね。<line-break>君もそう思うだろ？<end>ミズチがいなくなって自由に船が<line-break>行き来できるようになったんだ。<line-break>おかげで不法侵入者の監視がたいへんだよ。<end>結局、ネメアの世界征服は何だったのかな？<line-break>いらぬ混乱を招いただけだと思うけど。<end>"
+english = "<select><value:$33>You have no business here. Leave.<end>I can't speak for other countries, but Aqyurius is peaceful enough. As long as the Mizuchi are here, no foreign power will attack, so guard duty is dull work.<end>You may know that Hero Nemea became emperor of Dingal, but I doubt you know that one of his subordinates, an old man named Angeerdan who was appointed Vermilion Bird General, once commanded the mercenaries here in the days of Balor, Demon King. Well, I didn't know either until the captain told me.<end>I hear Rocen, leader of the Eastern Nations, has been destroyed by Dingal. Peuda was such a terrible king that he was known as the Fool King, so his subjects may actually be glad of the occupation. In any case, Dingal no longer faces a threat from the east.<end>Our duty is to protect the people who live here. To do that, we must never neglect our daily training. The same goes for adventurers, wouldn't you say?<end>Without the Mizuchi, we couldn't put up any resistance. The military might of the Dingal Empire is overwhelming. You agree, don't you?<end>Now that the Mizuchi are gone, ships can come and go freely. That has made keeping watch for trespassers much harder.<end>In the end, what did Nemea's conquest of the world accomplish? I think it only caused needless chaos.<end>"
+
+["100010"]
+japanese = "<select><value:$20>%3湖の中ほどに島が見えるだろ？<line-break>あれが水の都アキュリュースだよ。<end>地の精霊神グラジェオンが、妹である水の精霊神<line-break>アキュリュースのために大地を踏みしめてできた<line-break>のが、グラジェオンの足跡とよばれるこの湖さ。<end>アキュリュースは湖の真ん中にある島のことさ。<line-break>当然船に乗らなくちゃいけないぞ。<line-break>船の乗り方は知っているかい？<line-break>あそこのボルダンに話しかければ<line-break>タダでアキュリュースへ運んでもらえるよ。<end>"
+english = "<select><value:$20>%3See that island out in the middle of the lake? That's Aqyurius, the City of Water.<end>This lake is called Grajeon's Footprint. It was formed when Grajeon, the Earth Spirit God, stamped upon the ground for his younger sister, Aqyurius, the Water Spirit God.<end>Aqyurius is the island in the middle of the lake, so naturally you'll need a boat to get there. Do you know how to board one? Speak to Boldan over there, and he'll take you to Aqyurius free of charge.<end>"
+
+["100011"]
+japanese = "<if><value:$2A><less-equal>%49ロストールにはゼネテスっていう<line-break>腕利きの冒険者がいるんだ。<line-break>会ったことあるかい？<end><if><value:$2A><less-equal>%120君は傭兵をしたことがあるかい？<line-break>もしないなら一度やっておくといい。<line-break>何事も経験だから。<end>君は<value:$28>だろ？<line-break>思ったより若いんでびっくりしたよ。<line-break>たいした腕前なんだってね。<end>"
+english = "<if><value:$2A><less-equal>%49There's a skilled adventurer named Xenetes in Rostorl. Have you ever met him?<end><if><value:$2A><less-equal>%120Have you ever worked as a mercenary? If not, you should try it at least once. Every experience is worth having.<end>You're <value:$28>, aren't you? I was surprised to see how young you are. I hear you're remarkably skilled.<end>"
+
+["100012"]
+japanese = "アキュリュースを出るんだな。<line-break>じゃ、船に乗らなきゃいかんぞ。<line-break>金はとらんが準備はできているんだろうな。<end>"
+english = "So, you're leaving Aqyurius. Well, you'll have to go by ship. I won't charge you, but you're ready to go, aren't you?<end>"
+
+["100013"]
+japanese = "ここから船に乗ってアキュリュースへ行くのだ。<line-break>船代はいらないから気軽に乗るといい。<line-break>船に乗る準備はできているのか？<end>"
+english = "You can take the ship from here to Aqyurius. There's no fare, so feel free to come aboard. Are you ready to board?<end>"
+
+["100014"]
+japanese = "アキュリュースを出る<end>"
+english = "Leave Aqyurius<end>"
+
+["100015"]
+japanese = "まだ、準備ができてない<end>"
+english = "I'm not ready yet<end>"
+
+["100016"]
+japanese = "アキュリュースへ行く<end>"
+english = "Go to Aqyurius<end>"
+
+["100017"]
+japanese = "まだ、準備ができていない<end>"
+english = "Not ready yet<end>"
+
+["100018"]
+japanese = "アキュリュースメッセージここまで<end>"
+english = ""

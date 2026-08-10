@@ -1,0 +1,161 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1150000"]
+japanese = "ザギヴメッセージｖ７用開始<end>"
+english = ""
+
+["1150001"]
+japanese = "ごめん…なさい。<end>"
+english = "I'm... sorry.<end>"
+
+["1150002"]
+japanese = "朱雀将軍の死についてよ。<line-break>私と宰相とで<line-break>死に追いやったんだから。<line-break>彼の権力の強大化と<line-break>彼を追放した際の危険性を考えると、<line-break>あのときは、ああしないとって…。<end>"
+english = "It's about the death of the Vermilion Bird General. The Chancellor and I drove him to it. At the time, given how powerful he was becoming and the danger that would come with banishing him, we thought we had to do what we did...<end>"
+
+["1150003"]
+japanese = "彼…アンギルダン将軍は<line-break>いい人だった？<end>"
+english = "Was he... was General Angeerdan a good man?<end>"
+
+["1150004"]
+japanese = "うん…<end>"
+english = "Yeah...<end>"
+
+["1150005"]
+japanese = "どうだったかな…<end>"
+english = "I'm not sure...<end>"
+
+["1150006"]
+japanese = "…そう。<line-break>それでも、あなたは<line-break>私を助けてくれたのね。<end>"
+english = "I see. And even so, you helped me.<end>"
+
+["1150007"]
+japanese = "許してもらえるとは思えない。<line-break>けれど、もう一度謝罪させて。<end>"
+english = "I don't expect you to forgive me. But let me apologize once more.<end>"
+
+["1150008"]
+japanese = "ごめんなさい。<end>"
+english = "I'm sorry.<end>"
+
+["1150009"]
+japanese = "フフ、やさしいのね。<end>"
+english = "Heh. You're kind.<end>"
+
+["1150010"]
+japanese = "アンギルダン将軍は<line-break>いい人だったみたいね。<end>"
+english = "It sounds like General Angeerdan was a good man.<end>"
+
+["1150011"]
+japanese = "許してもらえるとは思えない。<line-break>けれど、もう一度謝罪させて。<end>"
+english = ""
+
+["1150012"]
+japanese = "ごめんなさい。<end>"
+english = ""
+
+["1150013"]
+japanese = "…そう。<end>"
+english = "...I see.<end>"
+
+["1150014"]
+japanese = "ごめんなさい。<line-break>ひとりで考えさせて。<end>"
+english = "I'm sorry. I need some time alone to think.<end>"
+
+["1150015"]
+japanese = "あたしはどうしたらいいの？<line-break>ネメア様がいなくなってしまったら、<line-break>あたしはどうしたら…！<end>"
+english = "What am I supposed to do? If Lord Nemea is gone, what am I supposed to do?!<end>"
+
+["1150016"]
+japanese = "どうしても信じられない。<line-break>あのネメア様が…。<line-break>ディンガル帝国はもう終わりなの？<end>"
+english = "I still can't believe it. Not Lord Nemea... Is this the end of the Dingal Empire?<end>"
+
+["1150017"]
+japanese = "予言が…成就するのかしら？<line-break>運命は変わらないの…！？<end>"
+english = "Will the prophecy come true? Can't fate be changed?!<end>"
+
+["1150018"]
+japanese = "私が望まなくとも<line-break>私が闇にのまれてしまえば…<line-break>\u3000<line-break>そのときは、<line-break>私の闇がディンガルを<line-break>支配するのでしょうね…。<end>"
+english = "Even against my wishes, if the darkness consumes me... then my darkness will rule Dingal, won't it...?<end>"
+
+["1150019"]
+japanese = "ダメね、こんなことじゃ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>どうしてこんなに悲観的なのかしら。<line-break>\u3000<line-break>ネメア様だって、<line-break>亡くなられたと決まったわけでは<line-break>ないわよね。<end>"
+english = "This won't do. Why am I being so pessimistic? We don't know for certain that Lord Nemea is dead, do we?<end>"
+
+["1150020"]
+japanese = "<value:$28>！<line-break>あなた、何か聞いてないかしら？<line-break>ネメア様の行方がわからないのよ。<end>"
+english = "<value:$28>! Have you heard anything? No one knows where Lord Nemea is.<end>"
+
+["1150021"]
+japanese = "じ、次元のはざまに…！？<line-break>そ、そんな…。<line-break>\u3000<line-break>ネメア様…。<line-break>このままでは…予言が…。<end>"
+english = "Th-the Interdimensional Rift...?! N-no... Lord Nemea... At this rate, the prophecy will...<end>"
+
+["1150022"]
+japanese = "お願い…。<line-break>ひとりにして…。<end>"
+english = "Please... leave me alone.<end>"
+
+["1150023"]
+japanese = "今は、もう話せることなどない。<end>"
+english = "I have nothing more to say to you now.<end>"
+
+["1150024"]
+japanese = "<select><value:$20>%2ネメア様が…姿を消され、<line-break>闇の気配が濃くなった…。<line-break>これは何を意味するのだろうな。<end>ネメア様こそが<line-break>時代を変えられるお人だった。<line-break>なのに、なぜ！？<end>"
+english = "<select><value:$20>%2Lord Nemea has vanished... and the presence of darkness grows stronger. What could it mean?<end>Lord Nemea was the one man who could change the course of this age. But why!?<end>"
+
+["1150025"]
+japanese = "予言が正しかったというのか。<line-break>あのゾフォルの予言が！<end>"
+english = "So the prophecy was true? That prophecy of Zophor's!<end>"
+
+["1150026"]
+japanese = "<value:$28>か。<line-break>ネメア様が亡くなられた<line-break>という噂を知っているか？<end>"
+english = "<value:$28>. Have you heard the rumor that Lord Nemea is dead?<end>"
+
+["1150027"]
+japanese = "な、なんだと！？<line-break>次元のはざまに落とされただと！<line-break>\u3000<line-break>ば、バカな…。<line-break>それでは、本当にネメア様は…。<end>"
+english = "W-what!? Cast into the Interdimensional Rift!? I-impossible... Then Lord Nemea really is...<end>"
+
+["1150028"]
+japanese = "…すまんが、今日は帰ってくれ。<line-break>考えをまとめたい。<end>"
+english = "I'm sorry, but please go home for today. I need time to collect my thoughts.<end>"
+
+["1150029"]
+japanese = "予備メッセージ１<line-break>ザギヴ、Ｖ７<end>"
+english = ""
+
+["1150030"]
+japanese = "予備メッセージ２<line-break>ザギヴ、Ｖ７<end>"
+english = ""
+
+["1150031"]
+japanese = "予備メッセージ３<line-break>ザギヴ、Ｖ７<end>"
+english = ""
+
+["1150032"]
+japanese = "予備メッセージ４<line-break>ザギヴ、Ｖ７<end>"
+english = ""
+
+["1150033"]
+japanese = "予備メッセージ５<line-break>ザギヴ、Ｖ７<end>"
+english = ""
+
+["1150034"]
+japanese = "予備メッセージ６<line-break>ザギヴ、Ｖ７<end>"
+english = ""
+
+["1150035"]
+japanese = "予備メッセージ７<line-break>ザギヴ、Ｖ７<end>"
+english = ""
+
+["1150036"]
+japanese = "予備メッセージ８<line-break>ザギヴ、Ｖ７<end>"
+english = ""
+
+["1150037"]
+japanese = "予備メッセージ９<line-break>ザギヴ、Ｖ７<end>"
+english = ""
+
+["1150038"]
+japanese = "予備メッセージ１０<line-break>ザギヴ、Ｖ７<end>"
+english = ""
+
+["1150039"]
+japanese = "ザギヴメッセージＶ７終端<end>"
+english = ""

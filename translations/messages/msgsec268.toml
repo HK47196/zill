@@ -1,0 +1,29 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2680000"]
+japanese = "ジリオン＆イーシャイベント09用開始<end>"
+english = ""
+
+["2680001"]
+japanese = "ごめんなさい。あなたと同じように<line-break>星を見に来たわけじゃないの。<line-break>\u3000<line-break>お別れを言いに来たのよ。<line-break>もう残された時間がないから…。<line-break>うっ…！<end>"
+english = "I'm sorry. I didn't come here to see the stars like you did. I came to say goodbye. I don't have any time left... Ngh...!<end>"
+
+["2680002"]
+japanese = "ダメよ。あたしにはわかるの。<line-break>もう同化の髪飾りも、<line-break>あたしの想いを支えられない。<line-break>あたしはこれまでずっとジリオンへの<line-break>想いだけで生きてきた。<line-break>\u3000<line-break>でも、あなたと一緒に旅をするように<line-break>なってから、あたしの中で少しずつ<line-break>あなたへの想いが大きくなって…。<end>"
+english = "No, it's no use. I can tell. Even the Hair Ornament of Assimilation can't sustain my feelings anymore. Until now, my feelings for Zillion were all that kept me going. But since I started traveling with you, my feelings for you have grown little by little...<end>"
+
+["2680003"]
+japanese = "ごめんなさい、<value:$28>。<line-break>本当はこんなこと言わずに<line-break>黙って消えるつもりだった…。<line-break>でも、もう自分を偽り続けることは<line-break>できないの。<line-break>\u3000<line-break>たとえこの身が消滅しても<line-break>あなたへの想いは止められない。<end>"
+english = "I'm sorry, <value:$28>. I meant to disappear without ever telling you any of this... But I can't keep lying to myself. Even if this body ceases to exist, I can't stop loving you.<end>"
+
+["2680004"]
+japanese = "あたしは、もっとあなたと旅をして<line-break>もっと語り合って、そしてもう少しだけ<line-break>あなたと生きたかった。<end>"
+english = "I wanted to travel with you longer, to talk with you more... and to live beside you just a little longer.<end>"
+
+["2680005"]
+japanese = "さようなら、<value:$28>…。<end>"
+english = "Goodbye, <value:$28>...<end>"
+
+["2680006"]
+japanese = "ジリオン＆イーシャイベント09用開終端<end>"
+english = ""

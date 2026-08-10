@@ -1,0 +1,29 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2780000"]
+japanese = "ジリオン＆イーシャイベントED3用開始<end>"
+english = ""
+
+["2780001"]
+japanese = "<value:$28>と出会ってから、<line-break>俺はいろんなことに気づかされた。<line-break>\u3000<line-break>自分を犠牲にすることの意味、<line-break>俺を想ってくれる人の願い、<line-break>幸せのありかた…。<end>"
+english = "Since meeting <value:$28>, I've come to understand so much: what it means to sacrifice myself, the wishes of anyone who cares about me, and what happiness can be...<end>"
+
+["2780002"]
+japanese = "お前と旅したお陰で<line-break>己の命を捧げることだけが<line-break>唯一の答えではないと俺は知った。<line-break>自分すら大切にできない人間には<line-break>他者を救うことなどできない。<line-break>お前はそう気づかせてくれた。<line-break>感謝している。<value:$28>。<end>"
+english = "Traveling with you taught me that laying down my life isn't the only answer. You can't save anyone else if you can't even value yourself. You made me realize that. Thank you, <value:$28>.<end>"
+
+["2780003"]
+japanese = "でも、それでもなお俺はイーシャを<line-break>このままにしてはおけない。<line-break>\u3000<line-break>たとえ世界中を探してでも<line-break>イーシャをもとに戻す方法を<line-break>俺は必ず見つけだす。<end>"
+english = "But even so, I can't leave Iria as she is. Even if I have to search the whole world, I will find a way to restore her.<end>"
+
+["2780004"]
+japanese = "だけど、それは自分を犠牲にして<line-break>救うためじゃない。<line-break>\u3000<line-break>イーシャを解放し、そして俺も<line-break>笑って<value:$28>と<line-break>未来を歩むためだ。<end>"
+english = "But I won't save her by sacrificing myself. I'll free Iria so that I can smile too and walk into the future with <value:$28>.<end>"
+
+["2780005"]
+japanese = "長い旅になるかもしれない…。<line-break>それでも俺についてきてくれるのか？<end>"
+english = "It may be a long journey... Will you still come with me?<end>"
+
+["2780006"]
+japanese = "ジリオン＆イーシャイベントED3用開終端<end>"
+english = ""

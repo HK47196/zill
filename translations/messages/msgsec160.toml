@@ -1,0 +1,45 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1600000"]
+japanese = "やあ、<value:$28>。<line-break>どうだい、私が君の父親になってあげようか？<line-break>お父さんと呼んでくれたまえ…ひっく。<end>"
+english = "Hello, <value:$28>. How would you like me to be your father? Go on, call me Papa... hic!<end>"
+
+["1600001"]
+japanese = "大人になったら都会に行ってやるって<line-break>思ってたのに…。<line-break>なぜか離れられないんだよな。<end>"
+english = "I thought I'd go off to the city once I grew up... But for some reason, I just can't seem to leave.<end>"
+
+["1600002"]
+japanese = "う～ん、どう見てもアスティアさんと<line-break>お前が親子だなんて思えないな。<line-break>雰囲気がぜ～んぜん違うんだよ。<end>"
+english = "Hmm... Looking at the two of you, I'd never think you and Astia were parent and child. You're nothing alike.<end>"
+
+["1600003"]
+japanese = "ねえ、<value:$28>。<line-break>また、一緒に森に行こうね。<line-break>約束だよ。<end>"
+english = "Hey, <value:$28>. Let's go to the forest together again sometime. Promise?<end>"
+
+["1600004"]
+japanese = "あら、<value:$28>。<line-break>このあいだ魔物が町に迷い込んだときは、<line-break>大変だったわね。<end>"
+english = "Oh, <value:$28>. It was awful when that monster wandered into town the other day, wasn't it?<end>"
+
+["1600005"]
+japanese = "村の周りを魔物がうろうろしていて、<line-break>外との交流がほとんどないだろう？<line-break>世界で何がおこってるのかわかりゃしないよ。<end>"
+english = "With monsters prowling around the village, we hardly have any contact with the outside world. We haven't a clue what's going on out there.<end>"
+
+["1600006"]
+japanese = "外との交流がないんで、<line-break>たいしたもんはないけどな。<end>"
+english = "We don't have much contact with the outside, so there isn't much here.<end>"
+
+["1600007"]
+japanese = "キャー！<end>"
+english = "Aaaah!<end>"
+
+["1600008"]
+japanese = "誰か助けてくれーー！<end>"
+english = "Somebody, help me!<end>"
+
+["1600009"]
+japanese = "勘弁してくれーーー！<line-break>わしは死にたくない！<end>"
+english = "Spare me! I don't want to die!<end>"
+
+["1600010"]
+japanese = "オズワルド＆ミイスメッセージここまで<end>"
+english = ""

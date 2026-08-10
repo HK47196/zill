@@ -1,0 +1,789 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["280000"]
+japanese = "旅立ち０１メッセージ<end>"
+english = ""
+
+["280001"]
+japanese = "それにしても、<line-break>昨日の地震はすごかったね。<line-break><end>"
+english = "That was quite an earthquake yesterday, wasn't it?<end>"
+
+["280002"]
+japanese = "よう。<end>"
+english = "Hey.<end>"
+
+["280003"]
+japanese = "やあ、ヴァン。<end>"
+english = "Hi, Van.<end>"
+
+["280004"]
+japanese = "この小屋、<line-break>墜落しちゃうかと思ったよ。<line-break><end>"
+english = "I thought this whole shack was going to come crashing down.<end>"
+
+["280005"]
+japanese = "しっかし、昨日の地震はまいったよな。<line-break>うちなんか家中グチャグチャさ。<line-break>まったく商売にならないぜ。<end>"
+english = "Man, that earthquake yesterday was awful. My whole place is a wreck. I can't do any business like this.<end>"
+
+["280006"]
+japanese = "…しっかし、この小屋、<line-break>よく持ちこたえたよな。<end>"
+english = "Still, this shack held up surprisingly well.<end>"
+
+["280007"]
+japanese = "本当によく壊れなかったよね。<line-break>あちこち修理しなきゃならないけど。<line-break>\u3000<line-break>あ、ねえ、<value:$28>。<line-break><end>"
+english = "I can't believe it didn't fall apart. We'll have to make repairs all over, though. Oh, hey, <value:$28>.<end>"
+
+["280008"]
+japanese = "ねえ、<value:$28>。<end>"
+english = "Hey, <value:$28>.<end>"
+
+["280009"]
+japanese = "ボンガさんの所で<line-break>木を分けてもらおうよ。<end>"
+english = "Let's see if Bonga can spare us some lumber.<end>"
+
+["280010"]
+japanese = "ヴァンも手伝ってくれるよね？<end>"
+english = "You'll help too, won't you, Van?<end>"
+
+["280011"]
+japanese = "ちっ、しょうがねえな。<line-break><value:$28>、行こうぜ。<end>"
+english = "Tch. Fine. Let's go, <value:$28>.<end>"
+
+["280012"]
+japanese = "じゃ、行こう。<end>"
+english = "All right, let's go.<end>"
+
+["280013"]
+japanese = "ボンガの家って町の北の外れだろ？<line-break>さっさと行ってこようぜ。<end>"
+english = "Bonga's house is on the northern edge of town, right? Let's get going.<end>"
+
+["280014"]
+japanese = "なんだよ、行かないのかよ！？<end>"
+english = "What, you're not coming?!<end>"
+
+["280015"]
+japanese = "まあまあ、<line-break>いいから行こう、ヴァン。<end>"
+english = "Easy, Van. Let's just go.<end>"
+
+["280016"]
+japanese = "ね、やっぱり降りてきたでしょ？<end>"
+english = "See? You came down, just like I thought.<end>"
+
+["280017"]
+japanese = "ハハッ、ホントだ。<line-break>\u3000<line-break>\u3000<line-break><value:$28>、<line-break>お前、ナッジに行動<line-break>読まれてるぜ。<end>"
+english = "Ha! You did. <value:$28>, Nadge knew exactly what you'd do.<end>"
+
+["280018"]
+japanese = "じゃ、行こうか。<line-break><value:$28>、ヴァン。<end>"
+english = "All right, <value:$28>, Van. Let's go.<end>"
+
+["280019"]
+japanese = "その代わり、うちのダンナに\u3000<line-break>弁当を届けてくれないかい？<end>"
+english = "In return, could you take my husband his lunch?<end>"
+
+["280020"]
+japanese = "おや、いらっしゃい、<value:$28>。<line-break>うちのダンナに用があるんだってね。\u3000<line-break>話はナッジから聞いたよ。<end>"
+english = "Oh, hello, <value:$28>. I hear you've come to see my husband. Nadge told me all about it.<end>"
+
+["280021"]
+japanese = "でも、あいにくうちのダンナだったら、<line-break>仕事だって山に出ちまってるのさ。<line-break><end>"
+english = "Unfortunately, my husband's gone up the mountain for work.<end>"
+
+["280022"]
+japanese = "昨日あんな地震があったってのに？<end>"
+english = "Even after that earthquake yesterday?<end>"
+
+["280023"]
+japanese = "こら！<line-break>勝手に２階に上がるな！<line-break>そちらにはお客様がいるんだ！<end>"
+english = "Hey! You can't just go upstairs! We have guests up there!<end>"
+
+["280024"]
+japanese = "イタをもらいに来たのに出かけてイタ。<line-break>…ププッ。<end>"
+english = "We came for wood, but wouldn't you know it, he'd gone out. Heh heh.<end>"
+
+["280025"]
+japanese = "…あ。イタで引っかけてるんだ。<line-break>ふーん。<end>"
+english = "Oh. A joke on “wood” and “wouldn't.” Huh.<end>"
+
+["280026"]
+japanese = "それはそうと、<line-break>ちょっと困ったなぁ…。<end>"
+english = "Anyway, this puts us in a bit of a bind.<end>"
+
+["280027"]
+japanese = "なーに、木材くらい<line-break>私が見てやるよ。\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Oh, is that all? I can pick out the lumber for you.<end>"
+
+["280028"]
+japanese = "じゃ、これが弁当。\u3000\u3000\u3000\u3000\u3000<line-break>頼んだよ。<end>"
+english = "Here, this is his lunch. I'm counting on you.<end>"
+
+["280029"]
+japanese = "あんまりおいしそうだからって<line-break>途中で食べたら承知しないよ。<end>"
+english = "I don't care how good it looks―if you eat it on the way, you'll answer to me.<end>"
+
+["280030"]
+japanese = "ちぇ。<line-break>自分で作ってよく言うぜ。<end>"
+english = "Sheesh. That's rich, coming from the one who made it.<end>"
+
+["280031"]
+japanese = "そうだ。<line-break>ヴァンはここに残りな。<line-break>小屋の木材選びを手伝ってもらうよ。<end>"
+english = "Oh, that's right. Van, you stay here. You can help me choose the lumber for the shed.<end>"
+
+["280032"]
+japanese = "よう、<line-break>冒険者登録に来たのかい？\u3000\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "Hey there. Come to register as an adventurer?<end>"
+
+["280033"]
+japanese = "そうかい。<line-break>そのうち冒険者になりたくなったら<line-break>ギルドで冒険者登録するといいぜ。<end>"
+english = "All right. If you ever decide you want to become an adventurer, come register at the Guild.<end>"
+
+["280034"]
+japanese = "えーっ！？<end>"
+english = "What?!<end>"
+
+["280035"]
+japanese = "ヴァンは落ち着きがないから、<line-break>山に行ったらきっとケガするしね。<end>"
+english = "Van can never sit still. He'd only get hurt if he went up the mountain.<end>"
+
+["280036"]
+japanese = "な、なにをぉぉ！！<end>"
+english = "Wh-what did you say?!<end>"
+
+["280037"]
+japanese = "じゃ、裏山にいるうちのダンナに<line-break>弁当を届けとくれ。<line-break>最高の木材を選んどくからね。<end>"
+english = "Then take this lunch to my husband up on the mountain out back. I'll make sure to pick out the very best lumber.<end>"
+
+["280038"]
+japanese = "おばさん、ヴァン、よろしくね。<end>"
+english = "Mrs. Bonga, Van―I'm counting on you.<end>"
+
+["280039"]
+japanese = "ちぇっ…、<line-break>まあ、任せとけよ。<end>"
+english = "Tch... Fine, leave it to me.<end>"
+
+["280040"]
+japanese = "これも持っていきな。<line-break>ケガしたら使うんだよ。<end>"
+english = "Take this with you, too. Use it if you get hurt.<end>"
+
+["280041"]
+japanese = "おう。<line-break>誰かと思ったら小僧どもか。<line-break>どうした？<end>"
+english = "Oh, it's you boys. What's up?<end>"
+
+["280042"]
+japanese = "弁当？<line-break>そうか、ありがとよ。<line-break>んじゃ、ひと休みするか。\u3000<end>"
+english = "Lunch? Oh, thanks. Then I suppose it's time for a break.<end>"
+
+["280043"]
+japanese = "…そうか、昨日の地震でねえ。<line-break>\u3000<end>"
+english = "Oh... so it was yesterday's earthquake.<end>"
+
+["280044"]
+japanese = "よし、明日なら小屋の修理を\u3000<line-break>手伝ってやるぜ。<end>"
+english = "All right, I can help you repair the shed tomorrow.<end>"
+
+["280045"]
+japanese = "お前らだけでやるより<line-break>いくらかマシになるだろう？\u3000<end>"
+english = "It'll go a little better with my help than if you do it by yourselves, won't it?<end>"
+
+["280046"]
+japanese = "本当！？\u3000ありがとう。<line-break>助かるよ、ボンガさん。<end>"
+english = "Really? Thank you! That'll be a huge help, Bonga.<end>"
+
+["280047"]
+japanese = "おうよ。<end>"
+english = "You bet.<end>"
+
+["280048"]
+japanese = "…ボンガさんって…、<line-break>本当においしそうに食べますね。<end>"
+english = "Bonga... you really look like you're enjoying that.<end>"
+
+["280049"]
+japanese = "おうよ、<line-break>うちのかみさんのメシは天下一品だ。<line-break>\u3000<line-break>お前らも嫁さんには<line-break>料理上手な娘をもらえよ。<end>"
+english = "You bet. My wife's cooking is second to none. When you boys get married, make sure you choose girls who can cook.<end>"
+
+["280050"]
+japanese = "あー<line-break>食った、食った。\u3000<line-break><end>"
+english = "Ah, I'm stuffed.<end>"
+
+["280051"]
+japanese = "すまんが、これを<line-break>かみさんに<line-break>持っていってくれ。<end>"
+english = "Sorry to ask, but could you take this to my wife?<end>"
+
+["280052"]
+japanese = "じゃあ、<line-break>お仕事がんばってくださいね、<line-break>ボンガさん。<end>"
+english = "Well then, good luck with your work, Bonga.<end>"
+
+["280053"]
+japanese = "ああ、<value:$28>。<line-break>宿屋のヴァンが<line-break>大変なことになったんだって？<end>"
+english = "Ah, <value:$28>. Is it true Van at the inn is in serious trouble?<end>"
+
+["280054"]
+japanese = "おう、遅かったじゃないか。<end>"
+english = "Hey, what took you so long?<end>"
+
+["280055"]
+japanese = "お帰り。ご苦労さまだったね。<line-break>よさそうな木を選んでおいたよ。<end>"
+english = "Welcome back. Thanks for all your hard work. I've picked out some good wood for you.<end>"
+
+["280056"]
+japanese = "木こりの奥さんの見立てなら<line-break>間違いないね。<end>"
+english = "When the woodcutter's wife picks something out, you know it'll be good.<end>"
+
+["280057"]
+japanese = "なに言ってんだい。<end>"
+english = "Oh, listen to you.<end>"
+
+["280058"]
+japanese = "ヴァンも手伝い、ありがとうよ。<end>"
+english = "And thank you for helping, Van.<end>"
+
+["280059"]
+japanese = "まったく、<line-break>さんざんこき使ってくれたぜ。<end>"
+english = "You sure worked me to the bone.<end>"
+
+["280060"]
+japanese = "ははは、ありがとう、ヴァン。<end>"
+english = "Ha ha! Thanks, Van.<end>"
+
+["280061"]
+japanese = "ま、あの小屋は俺もよく行くし、<line-break>直らないと困るからな。<end>"
+english = "Well, I use that cabin a lot too. I'd be in trouble if it didn't get fixed.<end>"
+
+["280062"]
+japanese = "それなんだけど、<line-break>明日、ボンガさんが<line-break>直すの手伝ってくれるって！<end>"
+english = "About that―Bonga said he'll help us fix it tomorrow!<end>"
+
+["280063"]
+japanese = "ふふっ、あの人なら<line-break>そう言うと思ったよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>みんな、今日はうちに泊まっていきな。<line-break>夕飯にはごちそうを作ってあげるよ。<end>"
+english = "Heh, I thought he'd say that. Why don't you all stay here tonight? I'll make you a feast for supper.<end>"
+
+["280064"]
+japanese = "お、俺もいいの？<end>"
+english = "I-I can stay too?<end>"
+
+["280065"]
+japanese = "夕飯の支度ができるまで<line-break>遊んできな。<line-break>あ、弁当箱は置いていきなよ。<end>"
+english = "Go play until supper's ready. Oh, and leave the lunch box here.<end>"
+
+["280066"]
+japanese = "空の弁当箱をボンガ夫人に渡した。<end>"
+english = "Gave the Empty Lunch Box to Mrs. Bonga.<end>"
+
+["280067"]
+japanese = "それじゃ、遊んでおいで。<line-break>はいこれ、少ないけど。<end>"
+english = "Off you go, then. Here―it's not much.<end>"
+
+["280068"]
+japanese = "なに言ってんだい。<line-break>当たり前だろう。<end>"
+english = "What are you talking about? Of course you can.<end>"
+
+["280069"]
+japanese = "やったぜ！<line-break>こづかいもらえるなんて、<line-break>なんか得した気分だな。<end>"
+english = "All right! Getting spending money too makes me feel like I've come out ahead.<end>"
+
+["280070"]
+japanese = "うん。<line-break>それに夜はごちそうだなんて、<line-break>楽しみだね。<end>"
+english = "Yeah. And we're having a feast tonight. I can't wait.<end>"
+
+["280071"]
+japanese = "よっしゃ！<line-break>町の広場に行ってみようぜ！<line-break>イヤッホー！！<end>"
+english = "All right! Let's go check out the town square! Yahoo!!<end>"
+
+["280072"]
+japanese = "こ、小僧～！！<line-break>この誇り高き俺様にぶつかっておいて<line-break>一言もなしか？<end>"
+english = "Y-you brat! You run into someone as proud as me and don't even say a word?<end>"
+
+["280073"]
+japanese = "なんだよオッサン。\u3000\u3000\u3000\u3000<end>"
+english = "What's your problem, old man?<end>"
+
+["280074"]
+japanese = "自分だけの道じゃねえだろ！<line-break>偉そうにしてんじゃねえ！<end>"
+english = "You don't own the road! Stop acting so important!<end>"
+
+["280075"]
+japanese = "生意気な！<line-break>人として許せん！\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>俺様を敵に回すと<line-break>割に合わないことを思い知れ！<end>"
+english = "Insolent brat! As a human being, I cannot forgive you! You'll learn that making an enemy of me doesn't pay!<end>"
+
+["280076"]
+japanese = "こっ…の、小僧ども！<line-break>この俺様を２度も転ばせたな！\u3000<line-break>\u3000<line-break>貴様らなど、<line-break>俺様が編み出した伝説の必殺技で<line-break>こらしめてやる！<end>"
+english = "Y-you brats! You've made me fall twice now! I'll teach you a lesson with the legendary finishing move of my own invention!<end>"
+
+["280077"]
+japanese = "ヘッ。<line-break>偉そうなこと言っておいてよ。<line-break>ザマぁねえな！！<end>"
+english = "Hah. All that big talk, and look at you now! Pathetic!<end>"
+
+["280078"]
+japanese = "小っ僧ぉぉぉ！<line-break>いい気になるなよぉぉぉお！！<end>"
+english = "You little braaat! Don't get carried away!<end>"
+
+["280079"]
+japanese = "食らえ！！<line-break>必殺！\u3000無敵復活勇者槍！！<end>"
+english = "Take this! Finishing Move: Invincible Revival Hero Spear!<end>"
+
+["280080"]
+japanese = "子供とて許されると思うな！<end>"
+english = "Don't think I'll spare you just because you're a child!<end>"
+
+["280081"]
+japanese = "俺様の燃える瞳は…<line-break>悪の火種を見逃さんっ！<end>"
+english = "My blazing eyes... never miss a single spark of evil!<end>"
+
+["280082"]
+japanese = "ヴァンは僕が看てる。<line-break><value:$28>は<line-break>道具屋で薬草を買ってきて。<end>"
+english = "I'll look after Van. <value:$28>, go buy a Medicinal Herb at the supply shop.<end>"
+
+["280083"]
+japanese = "ああ、<value:$28>。<line-break>宿屋のヴァンが<line-break>大変なことになったんだって？<line-break>代金はいいから、<line-break>早くこの薬草を<line-break>持っていってやれ。<end>"
+english = "Ah, <value:$28>. Is it true Van at the inn is in serious trouble? Don't worry about paying. Just hurry and take this Medicinal Herb to him.<end>"
+
+["280084"]
+japanese = "ヴァンちゃん、しっかりして。<line-break>あなたがいなくなったら…私…。<line-break>オイオイオイオイ。<end>"
+english = "Van, hold on. If I lost you... I... Waaaaah!<end>"
+
+["280085"]
+japanese = "<value:$28><line-break>…薬草は？\u3000\u3000\u3000<end>"
+english = "<value:$28>... What about the Medicinal Herb?<end>"
+
+["280086"]
+japanese = "うちのヴァンはな、<line-break>この宿屋の大切な跡継ぎなんだ。<line-break>お前たちみたいなノラ犬とは違うんだ！<end>"
+english = "Our Van is the cherished heir to this inn. He's not some stray dog like you lot!<end>"
+
+["280087"]
+japanese = "…ああ。<line-break>お前たちと関わったばかりに\u3000\u3000\u3000\u3000\u3000<line-break>ヴァンはこんな目に…。<line-break>出て行け！<line-break>そして二度とヴァンに近づくな！！<line-break>出て行け！<end>"
+english = "This only happened to Van because he got mixed up with you... Get out! And never go near him again! Get out!<end>"
+
+["280088"]
+japanese = "…気にするな。<line-break>お前らのせいじゃない。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "Don't worry about it. It wasn't your fault.<end>"
+
+["280089"]
+japanese = "お前らともめた<line-break>ガルドランって奴は<line-break>評判の悪い冒険者らしいぞ。\u3000\u3000\u3000<line-break>あの騒ぎで<line-break>もう町を逃げちまったようだがな。<end>"
+english = "That Girldlan fellow you tangled with is apparently an adventurer with a bad reputation. Seems he's already fled town after all that commotion, though.<end>"
+
+["280090"]
+japanese = "ま、今日は疲れたろう。<line-break>納屋に干し草が積んである。<line-break>ふたりとも、そこで休むといい。\u3000<end>"
+english = "Well, you two must be tired after today. There's hay piled up in the barn. You can sleep there.<end>"
+
+["280091"]
+japanese = "楽！\u3000勝！<line-break>\u3000<line-break>\u3000<line-break>思い知ったか。<line-break>俺様と貴様らとでは、<line-break>熱くたぎる心が圧倒的に違うっ！<end>"
+english = "Too easy! Now do you understand? My heart burns far hotter than yours!<end>"
+
+["280092"]
+japanese = "ぐあ！\u3000ごふ！<line-break>っくっ…！！<end>"
+english = "Gah! Guh! Nngh...!<end>"
+
+["280093"]
+japanese = "う、うう…。ヴァ…ン…。<end>"
+english = "U-ugh... V... Van...<end>"
+
+["280094"]
+japanese = "おや、気がついたかい。<line-break>ひどい目にあったねえ。<end>"
+english = "Oh, you're awake. That was quite an ordeal, wasn't it?<end>"
+
+["280095"]
+japanese = "あ、あの…、<line-break>ヴァン…は…？<end>"
+english = "Um... where's Van...?<end>"
+
+["280096"]
+japanese = "ヴァン…、<line-break>ヴァンの所へ行ってみようよ。<end>"
+english = "Van... Let's go see him.<end>"
+
+["280097"]
+japanese = "ヴァンちゃん…、しっかりするのよ。<line-break>かわいそうに、痛かったでしょうに…。<end>"
+english = "Van... stay with me. Oh, you poor thing. That must have hurt...<end>"
+
+["280098"]
+japanese = "…タチの悪い冒険者を相手にするから<line-break>こんな目に…。<line-break>全部、お前らのせいだ！<end>"
+english = "This is what comes of dealing with vicious adventurers... It's all your fault!<end>"
+
+["280099"]
+japanese = "いいか！？<line-break>ヴァンは大事なうちの跡取り息子だ。<line-break>お前らみたいなノラ犬とは違うんだ！<line-break>うちのヴァンにつきまとうな！<line-break>出て行け！<line-break>さあ、もう帰ってくれ！<end>"
+english = "Listen to me! Van is our precious son and the heir to this inn. He's not some stray dog like you lot! Stay away from him! Get out! Go on, leave us alone!<end>"
+
+["280100"]
+japanese = "おじさん、ヴァンは、<line-break>ヴァンは大丈夫なんですか？<end>"
+english = "Mister, is Van... Is Van going to be all right?<end>"
+
+["280101"]
+japanese = "大丈夫に決まっている！<line-break>けられて熱を出しているだけだ！<line-break>縁起でもないことを言うな！<end>"
+english = "Of course he is! He was kicked and has a fever, that's all! Don't talk like that!<end>"
+
+["280102"]
+japanese = "うあーーーっ！！<end>"
+english = "Aaaagh!!<end>"
+
+["280103"]
+japanese = "ああーっ！\u3000ヴァーーン！！<end>"
+english = "Aah! Van!!<end>"
+
+["280104"]
+japanese = "フン！\u3000どうだ俺様の愛の槍は！？<line-break>貴様のような悪ガキにはいい薬だ！<end>"
+english = "Hmph! How do you like my spear of love?! That'll teach a wicked brat like you!<end>"
+
+["280105"]
+japanese = "ヴァン、ヴァン！<line-break>ごめんね、僕、動けなかった…。<line-break>僕らが、僕らがすぐに…。<end>"
+english = "Van! Van! I'm sorry. I couldn't move... We... we'll... right away...<end>"
+
+["280106"]
+japanese = "僕、先に行って<line-break>待ってるから！<end>"
+english = "I'll go on ahead and wait for you!<end>"
+
+["280107"]
+japanese = "…お前たちふたりとも、<line-break>ヴァンを見殺しにしたんだな！<end>"
+english = "So the two of you just left Van to die!<end>"
+
+["280108"]
+japanese = "違うよ、おじさん！<line-break>僕たちは…<end>"
+english = "No, mister! We...<end>"
+
+["280109"]
+japanese = "いつもはヴァンと友達ぶってるくせに、<line-break>いざってときは知らん顔か？<line-break>くっ…！<end>"
+english = "You always act like Van's friends, but when it really matters, you look the other way? Damn it...!<end>"
+
+["280110"]
+japanese = "お前たちは友達なんかじゃあない！<line-break>出て行け！<line-break>二度とヴァンに近づくな！<end>"
+english = "You're no friends of his! Get out! And never go near Van again!<end>"
+
+["280111"]
+japanese = "…これだね。\u3000\u3000\u3000\u3000\u3000<end>"
+english = "...This is it.<end>"
+
+["280112"]
+japanese = "…今日は、もう寝よう。<line-break>\u3000<end>"
+english = "...Let's call it a night.<end>"
+
+["280113"]
+japanese = "おはよう。<line-break>ずいぶん早い目覚めだね、<line-break><value:$28>。<line-break>…やっぱり<line-break>眠れなかったんだね…。<end>"
+english = "Morning. You're up awfully early, <value:$28>. ...You couldn't sleep after all, could you?<end>"
+
+["280114"]
+japanese = "ねえ。<line-break>僕らでヴァンの仇を<line-break>とりに行こう。<line-break>僕らも冒険者になるんだ。<line-break>ガルドランって奴が冒険者なら<line-break>きっとどこかで会えるよ。<end>"
+english = "Listen. Let's go avenge Van. We'll become adventurers too. If this Girldlan fellow is an adventurer, we're bound to run into him somewhere.<end>"
+
+["280115"]
+japanese = "…僕、<line-break>大切な友達を傷つけられて<line-break>何もできなかったなんて…。<line-break>…くやしいよ。<line-break>もうこんな思いはしたくない。<line-break>もっと強くならなきゃダメなんだ。<end>"
+english = "...A dear friend of mine was hurt, and I couldn't do a thing. It's so frustrating. I never want to feel this way again. I have to get stronger.<end>"
+
+["280116"]
+japanese = "やっぱりそうか。<line-break>まったく、お前たちって奴は…。<end>"
+english = "So I was right. Honestly, you lot...<end>"
+
+["280117"]
+japanese = "…これを持っていけ。<line-break>うちにある物で<line-break>役に立ちそうなのはこれくらいだ。\u3000<end>"
+english = "...Take this with you. It's about the only thing we have that might be of some use.<end>"
+
+["280118"]
+japanese = "仇討ちなんてやめろって言いたいが…<line-break>どうせ、聞きゃあしねえんだろ？<line-break>\u3000<end>"
+english = "I'd tell you to forget this revenge business... but you wouldn't listen anyway, would you?<end>"
+
+["280119"]
+japanese = "ま、いずれわかるさ。<line-break>力は自分の中の<line-break>正しいことのためだけに使え。\u3000\u3000\u3000<line-break>…今はそれだけを胸に刻んどけ。<line-break>\u3000<line-break>\u3000<end>"
+english = "Well, you'll understand someday. Use your strength only for what you know is right. For now, just remember that.<end>"
+
+["280120"]
+japanese = "小屋は私たちが<line-break>ピカピカにしとくからね。<line-break>胸を張って行ってきな。<end>"
+english = "We'll have the cabin sparkling clean for you. Now go, and hold your head high.<end>"
+
+["280121"]
+japanese = "もしかしたら、<line-break>もう帰って来られないかもね…。<end>"
+english = "Maybe we won't be able to come back...<end>"
+
+["280122"]
+japanese = "そうだね、行こうか。<end>"
+english = "Yeah. Let's go.<end>"
+
+["280123"]
+japanese = "ヴァン！\u3000危ない！！<end>"
+english = "Van! Look out!!<end>"
+
+["280124"]
+japanese = "ナッジ！\u3000どうする？<end>"
+english = "Nadge! What now?<end>"
+
+["280125"]
+japanese = "よし、行こう！<end>"
+english = "All right, let's go!<end>"
+
+["280126"]
+japanese = "気が進まないな…<end>"
+english = "I don't really feel like it...<end>"
+
+["280127"]
+japanese = "（…ボンガさんのとこに行って、<line-break>\u3000ボンガさんに、いったい<line-break>\u3000なんて言えばいいんだ…？\u3000）<end>"
+english = "(...When I get to Bonga's place, what am I supposed to say to him...?)<end>"
+
+["280128"]
+japanese = "（…とにかく<line-break>\u3000まず、ヴァンの所に<line-break>\u3000行かなきゃ…。\u3000\u3000\u3000）<end>"
+english = "(...Anyway, I have to get to Van first...)<end>"
+
+["280129"]
+japanese = "あ、ねえ。<line-break>大きな街の方が<line-break>情報が手に入ると思うんだ。<line-break>エンシャントに行こうよ。<line-break>帝国の首都だもの。<line-break>きっとガルドランの行方がわかるよ。<end>"
+english = "Oh, hey. I think we'd have a better chance of finding information in a big city. Let's go to Ancient. It's the imperial capital, so I'm sure we'll find out where Girldlan is.<end>"
+
+["280130"]
+japanese = "<if><value:$01><equal>5ヴァンのメッセージです。<end><if><value:$01><equal>15ナッジのメッセージでーす。<end><if><value:$01><equal>16ネメアのメッセージです。<end><if><value:$01><equal>12ゼネテスのメッセージです。<end>それ以外のメッセージです。<end>"
+english = ""
+
+["280131"]
+japanese = "あぁっ、待ってよ、ヴァン。<line-break>もう！<end>"
+english = "Hey, wait up, Van! Come on!<end>"
+
+["280132"]
+japanese = "僕はヴァンを追いかけて<line-break>先に行くから、<line-break><value:$28>もすぐ来てね。<end>"
+english = "I'm going on ahead to catch up with Van, so hurry after us, <value:$28>, okay?<end>"
+
+["280133"]
+japanese = "あ、<value:$28>。<line-break>ボンガさんの家はこっちだよ。<end>"
+english = "Oh, <value:$28>. Bonga's house is this way.<end>"
+
+["280134"]
+japanese = "<value:$28>、何やってんだよ！<line-break>こっちだよ、こっち。<line-break>早く来いよ！<end>"
+english = "<value:$28>, what are you doing? Over here! This way! Hurry up!<end>"
+
+["280135"]
+japanese = "じゃ、行こう、<value:$28>。<end>"
+english = "Come on, <value:$28>. Let's go.<end>"
+
+["280136"]
+japanese = "裏山の道には<line-break>モンスターが出るからね。<line-break>一緒に力を合わせて行こう。<end>"
+english = "There are monsters on the path up the hill, so let's stick together and help each other.<end>"
+
+["280137"]
+japanese = "あ、ねえ、<value:$28>。<line-break>ボンガさんがいる裏山は<line-break>奥だよ。<end>"
+english = "Oh, hey, <value:$28>. Bonga is farther into the hills.<end>"
+
+["280138"]
+japanese = "特大愛妻弁当をボンガに手渡した。<end>"
+english = "Handed the Extra-Large Wife-Made Bento to Bonga.<end>"
+
+["280139"]
+japanese = "<select><value:$20>%3かみさんのとこに<line-break>弁当箱を持ってってくれ。<line-break>悪いな。<end>俺が手伝えば、<line-break>お前らだけでやるより<line-break>いくらかマシになるだろう？<end>あー、食った食った。<line-break>やっぱ、ウチのかみさんのメシは<line-break>最高だな。<end>"
+english = "<select><value:$20>%3Take the lunch box to my wife for me, will you? Sorry to trouble you.<end>It'll go a little better with my help than if you do it by yourselves, won't it?<end>Ah, that hit the spot. Nothing beats my wife's cooking.<end>"
+
+["280140"]
+japanese = "あ、ヴァン、待ってよ！<line-break>…もう。<end>"
+english = "Oh, Van, wait up! ...Honestly.<end>"
+
+["280141"]
+japanese = "ねえ、僕らも広場に行こう。<line-break>あの調子じゃ、<line-break>ヴァンが何やらかすか心配だよ。<end>"
+english = "Come on, let's go to the square too. The way Van's carrying on, I'm worried about what he might get up to.<end>"
+
+["280142"]
+japanese = "<select><value:$20>%3夕飯はまだだよ。<line-break>広場でも行って遊んできな。<end>いくら、私の料理が<line-break>楽しみだからって、<line-break>そう、せっつくもんじゃないよ。<end>ナッジやヴァンはどうしたい？<line-break>お前たちは、３人いつも一緒だろ？<line-break>ほらほら、遊んでおいで。<end>"
+english = "<select><value:$20>%3Dinner isn't ready yet. Go play in the square.<end>I know you're looking forward to my cooking, but there's no need to pester me.<end>What do Nadge and Van want to do? You three are always together, aren't you? Go on, run along and play.<end>"
+
+["280143"]
+japanese = "<select><value:$20>%3おう、<line-break>弁当箱を届けてくれたかい。<line-break>ありがとよ。<end>オラオラ、<line-break>ヒマなんだったら、<line-break>広場でも行って遊んできな。\u3000\u3000<line-break>いつも、ヴァンやナッジと３人、<line-break>そうしてるじゃないか。<end>うちのかみさんの料理は<line-break>うまいぞ～。<line-break>期待してろよ、小僧。<end>"
+english = "<select><value:$20>%3Oh, you delivered the lunch box? Thanks.<end>Go on, if you've got nothing to do, run along and play in the square. That's what you, Van, and Nadge always do, isn't it?<end>My wife's a fine cook. You've got something to look forward to, boy.<end>"
+
+["280144"]
+japanese = "ヴァン！<end>"
+english = "Van!<end>"
+
+["280145"]
+japanese = "う…う…。<end>"
+english = "Nngh... nngh...<end>"
+
+["280146"]
+japanese = "早く道具屋へ行って<line-break>薬草を買ってきてよ…。<line-break>ねえ、お願いだよ…。<end>"
+english = "Hurry to the item shop and buy some Medicinal Herb... Please, I'm begging you...<end>"
+
+["280147"]
+japanese = "ヴァンは宿屋だ。<line-break>早く行ってやれ。<end>"
+english = "Van's at the inn. Hurry and get to him.<end>"
+
+["280148"]
+japanese = "ヴァンだったら、<line-break>知らせを聞いた宿屋のご亭主が<line-break>宿屋に運んでいったわよ。<end>"
+english = "Van? The innkeeper heard the news and took him to the inn.<end>"
+
+["280149"]
+japanese = "宿屋のご亭主は<line-break>大切なひとり息子がケガをさせられたって<line-break>もう、カンカンよ。<end>"
+english = "The innkeeper's furious that someone hurt his precious only son.<end>"
+
+["280150"]
+japanese = "薬草だと！？<line-break>お前たちの薬草など<line-break>いらん！！<end>"
+english = "Medicinal Herb?! I don't need your Medicinal Herb!<end>"
+
+["280151"]
+japanese = "善意の薬草は<line-break>ヴァンの父に踏みにじられた。<end>"
+english = "The Goodwill Herb was trampled by Van's Father.<end>"
+
+["280152"]
+japanese = "なんだ！？<line-break>他人の子に大ケガさせておいて<line-break>その目は！？<end>"
+english = "What's that look for?! You seriously injured someone else's child!<end>"
+
+["280153"]
+japanese = "やめるんだ、<line-break><value:$28>！<end>"
+english = "Stop, <value:$28>!<end>"
+
+["280154"]
+japanese = "ちっ。<line-break>まったく、これだから…<end>"
+english = "Tch. This is exactly why...<end>"
+
+["280155"]
+japanese = "あんたもだ、宿屋のダンナ。<line-break>そのくらいにしておくんだな。<end>"
+english = "That goes for you too, innkeeper. You've said enough.<end>"
+
+["280156"]
+japanese = "さ、小僧ども、うちに来い。<end>"
+english = "Come on, you brats. Come to my place.<end>"
+
+["280157"]
+japanese = "町はちょっとした騒ぎだ。<line-break>外に出ても、あまり<line-break>いい気分はしないだろうな。\u3000<end>"
+english = "The town's in a bit of an uproar. You won't much like being out there.<end>"
+
+["280158"]
+japanese = "寝ろ。<line-break>明日になれば、騒ぎも収まる。<line-break>今日は寝ちまえ。<end>"
+english = "Go to sleep. By tomorrow, things will have calmed down. Just get some sleep tonight.<end>"
+
+["280159"]
+japanese = "<select><value:$20>%3きゃぴっ！\u3000<value:$28>！<line-break>また、おもしろいことしてあそぼーね！<line-break>えひひひひっ！<end>こないだ、ヴァンとやったイタズラ、<line-break>おっもしろかったよねー！<line-break>えっへへへー！<end>お兄ちゃんたちとイタズラするの、<line-break>弟を泣かせる次くらいに<line-break>おもしろいよ！<end>"
+english = "<select><value:$20>%3Eee! <value:$28>! Let's do something fun again sometime! Hee-hee-hee!<end>That prank we played with Van the other day was so much fun! Hee-hee-hee!<end>Playing pranks with the older boys is almost as much fun as making my little brother cry!<end>"
+
+["280160"]
+japanese = "<select><value:$20>%3おねえちゃんに、<line-break>へんなちえつけないでよ！<line-break>ぼくがひどいめにあうんだから！<end>おねえちゃんが<line-break>どんどんキョーボーになるの、<line-break><value:$28>たちのせいだからね！<end>えーん、えーん！<line-break>おねえちゃんがヴァンのマネして<line-break>ぼくをいじめるよお！<end>"
+english = "<select><value:$20>%3Stop putting weird ideas in my sister's head! I'm the one who suffers for it!<end><value:$28>, you and the others are why my sister keeps getting more and more vicious!<end>Waaah! My sister's copying Van and picking on me!<end>"
+
+["280161"]
+japanese = "<select><value:$20>%3お前もナッジも孤児だ。<line-break>だからまあ、気に入らないことも<line-break>多いんだろう。<line-break>お前たちが厄介なことをするのも<line-break>お前たちが悪いんじゃない。<line-break>うんうん、私にはわかってるよ。<end>お前もナッジも孤児だ。<line-break>だからまあ、気に入らないことも\u3000\u3000<line-break>多いんだろう。<line-break>しかも、ナッジときた日には、<line-break>人間じゃない、コーンスだ。<line-break>素直になれんのも仕方ないか。<end>しょうがないのかもしれんが、<line-break>そんなに神官様や宿屋のご亭主に<line-break>反発しなくてもいいんじゃないかね？<line-break>奥に住んでるボンガ夫婦にしか<line-break>心を開かないんじゃ、<line-break>よくないよ。<end>"
+english = "<select><value:$20>%3You and Nadge are both orphans. I suppose there must be plenty you're unhappy about. It isn't your fault that the two of you keep causing trouble. Yes, yes, I understand.<end>You and Nadge are both orphans. I suppose there must be plenty you're unhappy about. And Nadge isn't even human―he's Korns. I suppose it's only natural that he can't be more open about things.<end>Maybe it can't be helped, but do you really need to defy the priest and the innkeeper at every turn? It isn't good to shut everyone out except Bonga and his wife, off at the far end of town.<end>"
+
+["280162"]
+japanese = "<select><value:$20>%4教会で食い物をくすねてたの、<line-break>神官様はあんたらだって言ってたけど、<line-break>あれ、ピクシーの仕業だったんだろ？<line-break>あたしゃ知ってるよ。<line-break>あんたらがそのピクシーを<line-break>街から追い出してくれたってことをさ。<end>教会で食い物をくすねてたの、<line-break>神官様はあんたらだって言ってたけど、\u3000<line-break>あれ、ピクシーの仕業だったんだろ？<line-break>なんで、ちゃんと言いわけしないかねえ。<line-break>そんなんだから、<line-break>厄介者あつかいされるのさ。<end>あたしゃ知ってるよ。<line-break>あんたはちゃんとした子だって。<line-break>ちゃんと街で暮らせばいいのに。\u3000\u3000<line-break>一緒にいるコーンスの子は<line-break>ムリかもしれないけど、<line-break>あんたはちゃんとした人間なんだし。<end>あたしゃ知ってるよ。<line-break>宿屋で女魔道士の着替えのぞいてたの\u3000\u3000<line-break>あんたらじゃないんだろ？<line-break>なんで、ちゃんと言いわけしないかねえ。<line-break>そんなんだから、<line-break>厄介者あつかいされるのさ。<end>"
+english = "<select><value:$20>%4The priest said you lot were stealing food from the church, but it was that Pixie, wasn't it? I know what really happened. You chased the Pixie out of town for us.<end>The priest said you lot were stealing food from the church, but it was that Pixie, wasn't it? Why didn't you just explain yourselves properly? No wonder everyone treats you like troublemakers.<end>I know you're a good kid. You ought to settle down and live here properly. The Korns child with you might not be able to, but you're a proper human being.<end>I know it wasn't you lot peeping at the sorceress while she was changing at the inn. Why didn't you just explain yourselves properly? No wonder everyone treats you like troublemakers.<end>"
+
+["280163"]
+japanese = "<select><value:$20>%3ねえねえ、知ってる？<line-break>おかしなかっこうした<line-break>冒険者がこのテラネに来てさ。\u3000<line-break>俺様は未来の勇者だとか言って。<line-break>なんか目つきが恐いのよ。<line-break>いやねえ、ああいう手合いは。<end>ねえねえ、知ってる？<line-break>昨日の地震のこと、<line-break>いやー、びっくりしたわねえ！\u3000<line-break>大きな獣のほえ声みたいでさ！<line-break>この大陸中が震えたって言うよ！<line-break>すごいわねえ。<end>悪ガキ３人組の残りふたりなら、<line-break>街の奥のボンガの家の方に行ったわよ。<line-break>こっちじゃ、逆方向よ。<end>"
+english = "<select><value:$20>%3Hey, have you heard? Some adventurer in a ridiculous outfit has come to Terane, going around calling himself a future hero. There's something frightening about the look in his eyes. I can't stand that sort.<end>Hey, have you heard about yesterday's earthquake? Oh, it gave me such a fright! It sounded like some enormous beast roaring! They say the whole continent shook. Can you imagine?<end>If you're looking for the other two in that trio of little troublemakers, they went toward Bonga's house at the far end of town. You're going the wrong way.<end>"
+
+["280164"]
+japanese = "ちっ、ヒヨッコ冒険者とのケンカか！<line-break>また、やっかいをしてのけたな。<line-break><value:$28>よ。<line-break>…ったく、また、宿屋のオヤジに、<line-break>冒険者に武器を売るからだとか<line-break>怒鳴られちまうぜ。<end>"
+english = "Tch! A fight with some greenhorn adventurer? You've gone and caused trouble again, <value:$28>. Damn it, now the innkeeper's going to start shouting at me again for selling weapons to adventurers.<end>"
+
+["280165"]
+japanese = "<select><value:$20>%3…どんな意味においても、<line-break>気にかけてくれる人や<line-break>帰るべき家があるということは幸せだ。<line-break>わかったようなことを言う<line-break>大人は気に入らないという目だな、<line-break>少年。<end>昨日の大地震が<line-break>私の見当どおりのものだとすれば、<line-break>今日、運命が動き出す者がいるはずだ。<line-break>大人はいつもわかったようなことを言う<line-break>…そう言いたげな顔だな、<line-break>少年。<end>この町の宿屋の亭主が言うように<line-break>私たち冒険者は<line-break>しょせんは根なし草かもしれんな。<end>"
+english = "<select><value:$20>%3By any measure, it's a blessing to have someone who cares about you and a home to return to. You have the look of a boy who doesn't care for adults talking as though they know everything.<end>If yesterday's great earthquake was what I suspect, then someone's destiny should be set in motion today. Adults always talk as though they know everything... That's what your face says, boy.<end>Perhaps the innkeeper in this town is right. In the end, we adventurers may be nothing more than rootless wanderers.<end>"
+
+["280166"]
+japanese = "ケンカか…。<end>"
+english = "A fight, eh...<end>"
+
+["280167"]
+japanese = "…あの宿屋のバカ息子の友達ね。<line-break>\u3000<line-break>\u3000<line-break>あのヴァンって子に<line-break>言ってちょうだい！<line-break>着替えをのぞかないでって！<end>"
+english = "...So you're friends with the idiot son from that inn, are you? Tell that Van boy not to peek while I'm changing!<end>"
+
+["280168"]
+japanese = "宿屋のあの子が<line-break>冒険者に<line-break>ケガをさせられたんですってね。\u3000<line-break>ひどい目にあったわね。<line-break>冒険者が<line-break>あんな人ばかりだと思わないでね。<end>"
+english = "I heard the boy from the inn was injured by an adventurer. That must have been awful. Please don't think all adventurers are like that.<end>"
+
+["280169"]
+japanese = "おいおい、またもめ事かよ！<line-break>しかも、今度は相手が冒険者だって？<line-break>かんべんしてくれよ！<line-break>これで、また<line-break>宿屋のおやじさんや神官様の<line-break>ギルドへの風当たりが強くなる！<end>"
+english = "Oh, come on―not more trouble! And this time the other side is an adventurer? Give me a break! Now the innkeeper and the priest will come down even harder on the Guild!<end>"
+
+["280170"]
+japanese = "<select><value:$20>%3ひっ！<line-break>すいません！\u3000すいません！<line-break>もう、のぞきはしねえよ！<line-break>だから、このことは<line-break>どうか内密に…！<end>おうっ若造！\u3000ムリするなよ！<line-break>名を売る前に死んじまっちゃあ<line-break>意味がねえからな！<line-break>…って、あ、あのときの！<line-break>へ、へへ…。<line-break>黙っててくれてて助かるよ。<end>に、にらむなよ…。<end>"
+english = "<select><value:$20>%3Eek! Sorry! I'm sorry! I won't peep again! So please, keep this between us...!<end>Hey, youngster! Don't push yourself too hard! No point dying before you've made a name for yourself! W-wait, you're the one from before! H-heh... Thanks for keeping quiet about it.<end>D-don't glare at me...<end>"
+
+["280171"]
+japanese = "おいっ、ここはギルドだぞ！<line-break>こんな所で何してんだ！<line-break>大変なんだろ！<end>"
+english = "Hey, this is the Guild! What are you doing in a place like this? Aren't you in serious trouble?<end>"
+
+["280172"]
+japanese = "<select><value:$20>%3あんたの連れの男の子…<line-break>あの額の角はコーンスだね？\u3000\u3000\u3000\u3000<line-break>…いや、めずらしい。<line-break>コーンスは魔法が得意な種族なんだ。<line-break>きっとあんたの連れの子も<line-break>魔法が使えるだろう。<end>この町の有力者たちは<line-break>とかく、やっかいごとが嫌いらしいな。<line-break>もめごとの原因になるよそ者もな。<line-break>冒険者へのあつかいが冷たいよ。<line-break>冒険者の王とも言うべきネメアが解放した<line-break>ディンガル帝国領とは思えないほどだ。<end>この町、テラネは<line-break>ディンガル帝国の北部にある\u3000<line-break>小さな町だ。<line-break>ディンガル帝国は魔王バロルに<line-break>支配されていたのだが、<line-break>勇者ネメアに解放されたのだ。<end>"
+english = "<select><value:$20>%3That boy traveling with you... The horn on his forehead means he's one of the Corns, doesn't it? Now that's a rare sight. The Corns are a race with a gift for magic. I'm sure the boy with you can use magic too.<end>It seems the powerful people in this town want nothing to do with trouble―or with outsiders who might cause it. Adventurers get a cold reception here. You'd hardly think this was Dingal Empire territory liberated by Nemea, a man who might well be called the king of adventurers.<end>Terane is a small town in the north of the Dingal Empire. The empire was once ruled by Balor, Demon King, until it was liberated by the Hero Nemea.<end>"
+
+["280173"]
+japanese = "やれやれ、<line-break>大変なことになったものだ…。<end>"
+english = "Good grief. What a mess this has become...<end>"
+
+["280174"]
+japanese = "こら！\u3000お前たちだな！<line-break>聖水の盆にゼノプスのオタマジャクシを<line-break>３匹も入れたのは！<end>"
+english = "Hey! It was you, wasn't it? You're the ones who put three Xenopus tadpoles in the holy-water basin!<end>"
+
+["280175"]
+japanese = "<select><value:$20>%3いいや、入れたのは５匹だと！？<line-break>数が問題じゃないんだ！<line-break>数が！！<end>お前じゃなくてヴァンの仕業だと？<line-break>ヴァンのお父さんは<line-break>そんなことは絶対ないと言っていたぞ！<end>神も恐れぬばちあたりどもが！<line-break>いつか、ロクでもないことになるに<line-break>決まっている！<end>"
+english = "<select><value:$20>%3What? You put in five, not three?! That's not the point! The number isn't the issue!<end>You're saying Van did it, not you? Van's father said he'd never do such a thing!<end>Godless little blasphemers! Mark my words, you'll come to a bad end one day!<end>"
+
+["280176"]
+japanese = "やはりロクでもないことを\u3000\u3000<line-break>してくれたな！！<line-break>このばちあたりどもが！<line-break>おお、天空神ノトゥーンよ、<line-break>戒めと裁きの神ノトゥーンよ、<line-break>罪深き少年たちに罰を…。<end>"
+english = "Just as I thought―you've gone and done something terrible! You impious wretches! O Notun, God of the Skies, Notun, God of Admonition and Judgment, punish these sinful boys...<end>"
+
+["280177"]
+japanese = "<select><value:$20>%3おい、イタズラもほどほどにしろよ。<line-break>それでなくてもここの神官は<line-break>ガミガミ屋なんだからさ。<end>あんまり神官様を刺激するなよ。<line-break>昨日の大地震でいろいろ壊れて、<line-break>おかんむりなんだからさ。<end>ヴァンがあれほど悪さしてても、<line-break>ヴァンのご両親は気づかないんだからな。<line-break>親バカってホントこわいよ。<end>"
+english = "<select><value:$20>%3Hey, don't take your pranks too far. The priest here is enough of a scold as it is.<end>Try not to provoke the priest. A lot of things were damaged in yesterday's earthquake, and he's already furious.<end>Van gets up to all that mischief, and his parents still don't notice. Doting parents really are frightening.<end>"
+
+["280178"]
+japanese = "困ったことになったな…。<line-break>よりによって宿屋のヴァンが<line-break>ケガさせられるだなんて…。<end>"
+english = "This is bad... Of all people, Van from the inn had to be the one who was hurt...<end>"
+
+["280179"]
+japanese = "<select><value:$20>%2君と一緒に住んでる彼、<line-break>額に角がついていたね。<line-break>コーンスなんだね？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>コーンスは魔法が得意な種族なんだが<line-break>最近、数が減ってきていてね。<line-break>世界を巡礼してても見なくなったよ。<end>この大陸、バイアシオンは<line-break>神話の大陸と呼ばれるほど<line-break>神々の足跡が残されているんだ。<line-break>私はその神々の足跡を訪ねて<line-break>世界中をまわる巡礼船長だ。<line-break>ハハハハ！<end>"
+english = "<select><value:$20>%2That fellow you live with had a horn on his forehead. He's one of the Korns, isn't he? The Korns are a race with a gift for magic, but their numbers have been dwindling lately. Even on my pilgrimages around the world, I hardly see them anymore.<end>So many traces of the gods remain here that this continent, Baiashion, is known as the Continent of Myth. I am a Pilgrim Captain, traveling the world in search of those traces. Ha ha ha ha!<end>"
+
+["280180"]
+japanese = "なんだ、なんだ？<line-break>いったい何があったんだね？<end>"
+english = "What's this? What in the world happened?<end>"
+
+["280181"]
+japanese = "<select><value:$20>%3………………。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>…背中に何も<line-break>入れてないでしょうね？<end>昨日の地震…。<line-break>胸騒ぎがするわ…。<line-break>いったい、なんだったのかしら…。\u3000<line-break>人の力なんて、自然の力に比べれば<line-break>ちっぽけなもの…。<line-break>ただ、祈るしかないのよ。<end>いっつも祈ってばっかりだって<line-break>バカにするけど、<line-break>あなたも神にざんげなさい。<line-break>そうしないと<line-break>いつかバチがあたるわよ！<end>"
+english = "<select><value:$20>%3...You haven't put anything down my back, have you?<end>Yesterday's earthquake... I have a terrible feeling about it. What in the world was it? Human power is so small beside the power of nature... All we can do is pray.<end>You make fun of me for always praying, but you should confess your sins to God too. If you don't, divine punishment will catch up with you one day!<end>"
+
+["280182"]
+japanese = "おお、天空神ノトゥーンよ、<line-break>戒めと裁きの神ノトゥーンよ、<line-break>罪深き少年たちに罰を…。<end>"
+english = "O Notun, God of the Skies, Notun, God of Admonition and Judgment, punish these sinful boys...<end>"
+
+["280183"]
+japanese = "<select><value:$20>%3おお、<value:$28>か。<line-break>お前の連れのヴァン公に言っときな。<line-break>うちにゃガキに飲ます酒はねえとよ。<end>おお、<value:$28>か。<line-break>お前さんにはいずれ、俺特製の<line-break>スペシャルティーを飲ましてやるぜ。<end>今日、うちに変な客が来てさ。<line-break>俺様は未来の勇者だとか、<line-break>密書の件は失敗じゃないとか荒れてたよ。<line-break>何かとあんたらは<line-break>やっかいばかり起こすからな。<line-break>あんな奴と関わるんじゃねえぞ！<end>"
+english = "<select><value:$20>%3Oh, <value:$28>, is it? Tell that Lord Van you're traveling with that I don't serve booze to kids.<end>Ah, <value:$28>. One of these days, I'll treat you to my own special tea.<end>Had a strange customer in here today. Kept ranting about being the Hero of the future and how the Secret Letter business hadn't been a failure. You lot cause enough trouble as it is. Don't get mixed up with someone like that!<end>"
+
+["280184"]
+japanese = "<select><value:$20>%2ったく…。きっちり、<line-break>やっかいごとを起こしやがって…！<end>おい、こんなとこで<line-break>ぼやぼやしてる場合なのかよ？<end>"
+english = "<select><value:$20>%2Damn it... You just had to go and stir up trouble, didn't you!<end>Hey, is this really the time to be standing around?<end>"
+
+["280185"]
+japanese = "な、何かあったのですか？<end>"
+english = "D-Did something happen?<end>"
+
+["280186"]
+japanese = "外は大騒ぎみたいだけど、<line-break>こんな時でもあのおじいさんの視線が<line-break>腰のあたりにからみつくのよねえ。<end>"
+english = "It sounds like there's chaos outside, but even now, I can feel that old man's eyes crawling all over my hips.<end>"
+
+["280187"]
+japanese = "<select><value:$20>%3うむうむ。<line-break>男はの、少し悪いくらいで<line-break>ちょうどええんじゃ。<line-break>お前も将来はわしのような<line-break>立派な大人になれるぞ。<line-break>うむうむ。<end>うむうむ。<line-break>男はの、少しエロいくらいで<line-break>ちょうどええんじゃ。<line-break>お前も将来はわしのような<line-break>立派な大人になれるぞ。<line-break>うむうむ。<end>ああ…。<line-break>わしの毎日はあの娘っ子の<line-break>尻を眺めるだけで過ぎてゆく…。<line-break>まさに極楽…。これぞ至福…。<line-break>天空神ノトゥーン様の天界など<line-break>およびもつかぬわい…。<end>"
+english = "<select><value:$20>%3Mm-hmm. A man should be a little bit bad. That's just right. You can grow up to be a fine adult like me someday. Mm-hmm.<end>Mm-hmm. A man should be a little lecherous. That's just right. You can grow up to be a fine adult like me someday. Mm-hmm.<end>Ah... My days pass by with nothing to do but gaze at that young girl's backside... Paradise itself... Pure bliss... Even the heavenly realm of Notun, the Sky God, cannot compare...<end>"
+
+["280188"]
+japanese = "ふん、大騒ぎしおって。<line-break>大事なのは平常心じゃ。<line-break>むふふふ…。<end>"
+english = "Hmph. What a commotion they're making. The important thing is to remain calm. Heh heh heh...<end>"
+
+["280189"]
+japanese = "ふん！<line-break>テラネの町の厄介者の片割れか。<line-break>もうひとりの角つきの方はどうした？<line-break>とにかく、<line-break>うちのヴァンにつきまとうな！<line-break>ヴァンはお前らノラ犬とは違うんだ。<end>"
+english = "Hmph! So you're one half of Terane's resident pair of troublemakers. Where's the horned one? Never mind. Just stay away from our Van! He's not some stray dog like you lot.<end>"
+
+["280190"]
+japanese = "あなたたちみたいなのと<line-break>つきあってるから<line-break>最近、ヴァンちゃんがおかしいのよ！<line-break>ひどくつまらないダジャレなんか<line-break>言ったりして…。<line-break>あんな子じゃなかったのに…。<end>"
+english = "It's because he spends time with the likes of you that Van's been acting so strangely lately! He's even started making dreadful puns... He was never like that before...<end>"
+
+["280191"]
+japanese = "おう、今、手が離せねえんだ。<line-break>また、あとにしてくれ。<line-break>悪いな。<end>"
+english = "Yeah, I'm tied up right now. Come back later, would you? Sorry.<end>"
+
+["280192"]
+japanese = "<select><value:$20>%3おう、<value:$28>。<line-break>たまには、うちのカミサンのとこにも<line-break>ちゃんと顔を出してるか？<end>ヴァンの親御さんは相変わらずだが、<line-break>テラネはお前のふるさとだ。<line-break>ま、ゆっくりしていきな。<end>おう、<value:$28>。<line-break>うちのカミサンの料理が<line-break>恋しくなって戻ってきたのかい？<end>"
+english = "<select><value:$20>%3Hey, <value:$28>. You do stop by and see the missus once in a while, don't you?<end>Van's parents are the same as ever, but Terane is your hometown. Stay awhile and make yourself at home.<end>Hey, <value:$28>. Did you come back because you missed the missus's cooking?<end>"
+
+["280193"]
+japanese = "<select><value:$20>%3私の料理はおいしんだよ。<line-break>また、機会があったら<line-break>食べにきておくれよ。<end>うちの人は今日も裏山さ。<line-break>ホントに仕事熱心っていうか、<line-break>なんというか…。<end>宿屋のご亭主に会ったかい？\u3000\u3000\u3000<line-break>あの人も悪い人じゃあ、<line-break>ないんだけどねえ。<line-break>ま、世の中には<line-break>いろいろな人がいるものさ。<line-break>グジグジ気にしちゃあいけないよ。<end>"
+english = "<select><value:$20>%3My cooking's good, you know. Come back for another meal sometime.<end>My husband's on the hill out back again today. You could say he's really devoted to his work, or... well...<end>Have you met the innkeeper? He's not a bad man, really. It takes all sorts to make a world, you know. Don't let it bother you.<end>"
+
+["280194"]
+japanese = "<select><value:$20>%3<value:$28>。<line-break>約束どおり、<line-break>小屋はピカピカにしといたよ。<line-break>\u3000<line-break>よしとくれよ、礼なんて。<line-break>みずくさい。<end>うちの人は今日も裏山さ。<line-break>ホントに仕事熱心っていうか、<line-break>なんというか…。<end><value:$28>。<line-break>なんだか旅に出て、<line-break>少ししまったいい顔になったねえ。<line-break>ま、うちの人には<line-break>まだまだ、かなわないけどね。<end>"
+english = "<select><value:$20>%3<value:$28>. Just as I promised, I left the cottage sparkling clean. Oh, don't thank me. We're not strangers.<end>My husband's on the hill out back again today. You could say he's really devoted to his work, or... well...<end><value:$28>. Traveling's given you a more mature look. You've still got a long way to go before you can compete with my husband, though.<end>"
+
+["280195"]
+japanese = "ね、ねえ、<value:$28>。<line-break>じ、地震だよ！！<end>"
+english = "H-hey, <value:$28>! I-it's an earthquake!!<end>"
+
+["280196"]
+japanese = "旅立ち０１メッセージ終端<end>"
+english = ""

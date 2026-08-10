@@ -1,0 +1,177 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2350000"]
+japanese = "PSP用エルファス新イベント用<end>"
+english = ""
+
+["2350001"]
+japanese = "エルファス様ーっ！<end>"
+english = "Elfas!<end>"
+
+["2350002"]
+japanese = "おや？\u3000君はたしか…。<end>"
+english = "Oh? You're the one who...<end>"
+
+["2350003"]
+japanese = "よかった。<line-break>もう一度エルファス様に会えて。<line-break>\u3000<line-break>お母さんから聞いたんです。<line-break>エルファス様が<line-break>ボクの命を救ってくれたって。<line-break>だから、お母さんが、<line-break>今度お会いしたら、<line-break>しっかりお礼をしなさいって。<end>"
+english = "I'm so glad I got to see you again, Master Elfas. My mother told me you saved my life. She said that if I ever saw you again, I had to be sure to thank you properly.<end>"
+
+["2350004"]
+japanese = "エルファス様。<line-break>ありがとうございました！<end>"
+english = "Master Elfas, thank you so much!<end>"
+
+["2350005"]
+japanese = "いや…。<line-break>僕には礼を受ける資格なんて…。<end>"
+english = "No... I don't deserve your thanks...<end>"
+
+["2350006"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2350007"]
+japanese = "エルファス様。<line-break>こっちの人はだぁれ？<end>"
+english = "Master Elfas, who's this?<end>"
+
+["2350008"]
+japanese = "えっ？\u3000ああ…。<line-break>どう言っていいのか…。<line-break>えーっと、つまり…。<end>"
+english = "What? Oh... I'm not sure how to put it... Well, that is...<end>"
+
+["2350009"]
+japanese = "従者だよ<end>"
+english = "My attendant.<end>"
+
+["2350010"]
+japanese = "大事な人だよ<end>"
+english = "Someone important to me.<end>"
+
+["2350011"]
+japanese = "そ、そう。僕の従者だよ。<line-break>確か冒険者ギルドで雇ったんだ。<line-break>よく働いてくれている。<end>"
+english = "Y-yes. My attendant. Hired through the Adventurers' Guild, if I remember correctly. Very hardworking.<end>"
+
+["2350012"]
+japanese = "へえ。さすがはエルファス様。<line-break>とっても強そうな人を<line-break>従者につれているんだね。<end>"
+english = "Wow. I should've known, Master Elfas. Your attendant looks really strong!<end>"
+
+["2350013"]
+japanese = "フフッ…。<line-break>強いことは確かだよ。<line-break>\u3000<line-break>その辺の魔物だって<line-break><value:$28>を見たら<line-break>裸足で逃げ出すんじゃないかな。<line-break>ねえ、<value:$28>？<end>"
+english = "Heh... Strong, certainly. I imagine even the monsters around here would run for their lives at the sight of <value:$28>. Isn't that right, <value:$28>?<end>"
+
+["2350014"]
+japanese = "うわぁ。カッコいい。<line-break>こんな人に守られているなら、<line-break>エルファス様も安心だね。<end>"
+english = "Wow, that's so impressive! With someone like that protecting you, you don't have anything to worry about, Master Elfas.<end>"
+
+["2350015"]
+japanese = "もちろんさ。<line-break>さあ、お母さんが心配しているよ。<line-break>そろそろ家にお帰り。<end>"
+english = "Of course not. Now, your mother must be worried. It's about time you went home.<end>"
+
+["2350016"]
+japanese = "うん。またね。<line-break>エルファス様！<line-break>それと従者さん！<end>"
+english = "Okay. See you again, Master Elfas! And you too, attendant!<end>"
+
+["2350017"]
+japanese = "僕はあんな子供の命まで<line-break>利用しようとしていた…。<line-break>\u3000<line-break>それは許されることでは<line-break>ないのかもしれない。<end>"
+english = "I was even going to use that child's life... Perhaps that can't be forgiven.<end>"
+
+["2350018"]
+japanese = "そうだね。もう迷っている暇はない。<line-break>僕は救世主であることを捨て、<line-break>違う道を選んだんだ。<line-break>今はその道を信じて進もう。<line-break>君と一緒に…。<end>"
+english = "Yes. There's no time to waver anymore. I gave up being the Savior and chose a different path. Now I'll trust in that path and follow it, together with you...<end>"
+
+["2350019"]
+japanese = "へぇ。親友なんだぁ！<end>"
+english = "Oh, so you're best friends!<end>"
+
+["2350020"]
+japanese = "あ、いや。違うよ！<line-break>つまり、なんと言うか…。<end>"
+english = "What? No, that's not it! I mean, how can I put this...<end>"
+
+["2350021"]
+japanese = "ともに同じ目的に向かって進む<line-break>仲間と言うか、同志と言うか…。<line-break>えーと、とにかく違うんだよ。<end>"
+english = "We're companions pursuing the same goal. Or comrades, perhaps... Anyway, we're not best friends.<end>"
+
+["2350022"]
+japanese = "あー、コホン。ふむ。<line-break>そろそろ、君のお母さんが<line-break>心配しているころだ。<line-break>早く家にお帰り。<end>"
+english = "Er, ahem. Hmm. Your mother must be getting worried by now. Hurry home.<end>"
+
+["2350023"]
+japanese = "うん。それじゃまたね。<line-break>エルファス様！<line-break>それとエルファス様の大事な人！<end>"
+english = "Okay, see you later, Master Elfas! And you too, the person who's so important to Master Elfas!<end>"
+
+["2350024"]
+japanese = "僕はあんな子供の命まで<line-break>利用しようとしていた…。<line-break>\u3000<line-break>それは許されることでは<line-break>ないのかもしれない。<end>"
+english = "I was even going to use that child's life... Perhaps that can't be forgiven.<end>"
+
+["2350025"]
+japanese = "そうだね。もう迷っている暇はない。<line-break>僕は救世主であることを捨て、<line-break>違う道を選んだんだ。<line-break>今はその道を信じて進もう。<line-break>君と一緒に…。<end>"
+english = "Yes. There's no time to waver anymore. I gave up being the Savior and chose a different path. Now I'll trust in that path and follow it, together with you...<end>"
+
+["2350026"]
+japanese = "わかった。恋人なんだ！<end>"
+english = "I know! You're lovers!<end>"
+
+["2350027"]
+japanese = "そ、そんなんじゃない！<end>"
+english = "N-no, it's nothing like that!<end>"
+
+["2350028"]
+japanese = "あ、いや。そのつまり…。<line-break>そういう意味の大事な人ではなく、<line-break>えーと、とにかく違うんだよ。<end>"
+english = "No, wait. I mean... not important in that sense. Um, anyway, that's not it.<end>"
+
+["2350029"]
+japanese = "あー、コホン。ふむ。<line-break>そろそろ、君のお母さんが<line-break>心配しているころだ。<line-break>早く家にお帰り。<end>"
+english = "Er, ahem. Hmm. Your mother must be getting worried by now. Hurry home.<end>"
+
+["2350030"]
+japanese = "うん。それじゃまたね。<line-break>エルファス様！<line-break>それとエルファス様の大事な人！<end>"
+english = "Okay, see you later, Master Elfas! And you too, the person who's so important to Master Elfas!<end>"
+
+["2350031"]
+japanese = "僕はあんな子供の命まで<line-break>利用しようとしていた…。<line-break>\u3000<line-break>それは許されることでは<line-break>ないのかもしれない。<end>"
+english = "I was even going to use that child's life... Perhaps that can't be forgiven.<end>"
+
+["2350032"]
+japanese = "そうだね。もう迷っている暇はない。<line-break>僕は救世主であることを捨て、<line-break>違う道を選んだんだ。<line-break>今はその道を信じて進もう。<line-break>君と一緒に…。<end>"
+english = "Yes. There's no time to waver anymore. I gave up being the Savior and chose a different path. Now I'll trust in that path and follow it, together with you...<end>"
+
+["2350033"]
+japanese = "施文院は解体されたよ…。<line-break>僕が長として率いていた告死天使も<line-break>二度と暗躍することはない。<end>"
+english = "The Academy of Inscriptions has been dissolved. And the Angels of Death, which I once led, will never again work from the shadows.<end>"
+
+["2350034"]
+japanese = "でも、それですべてが<line-break>終わったわけじゃない。<line-break>\u3000<line-break>姉さんを失った哀しみ…。<line-break>ネメアへの憎しみ…。<line-break>\u3000<line-break>告死天使の長として<line-break>多くの命を奪ってきた過去…。<line-break>\u3000<line-break>さらに僕は<line-break>救世主という名のもとに、<line-break>世界を滅ぼそうとした…。<end>"
+english = "But that doesn't mean it's all over. The grief of losing my sister. My hatred for Nemea. My past as leader of the Angels of Death, taking so many lives. And then, in the name of the Savior, I tried to destroy the world.<end>"
+
+["2350035"]
+japanese = "でも、そのすべてを含めて、<line-break>今の僕なんだ…。<line-break>それを否定したりはしない。<end>"
+english = "But all of that is part of who I am now. I won't deny it.<end>"
+
+["2350036"]
+japanese = "これからは、自分の過去と向き合い、<line-break>償いをする旅に出るよ。<line-break>\u3000<line-break>その旅がどれだけの時間を<line-break>必要とするかはわからない。<line-break>でも…。<line-break>無茶な願いを承知の上で、<line-break>その旅に一緒に<line-break>ついてきてほしいんだ。<line-break><value:$28>…。<end>"
+english = "Now I'm setting out on a journey to face my past and make amends. I don't know how long it will take. But... I know I'm asking too much, and still, I want you to come with me, <value:$28>.<end>"
+
+["2350037"]
+japanese = "ありがとう。<value:$28>…。<line-break>僕は君に約束するよ。<line-break>\u3000<line-break>君という光を見つめ続けて、<line-break>僕は歩いていく。<line-break>二度と道を誤らないように…。<end>"
+english = "Thank you, <value:$28>. I promise you this: I'll keep walking with you as my guiding light, so that I never lose my way again.<end>"
+
+["2350038"]
+japanese = "施文院は解体されたよ…。<line-break>僕が長として率いていた告死天使も<line-break>二度と暗躍することはない。<end>"
+english = "The Academy of Inscriptions has been dissolved. And the Angels of Death, which I once led, will never again work from the shadows.<end>"
+
+["2350039"]
+japanese = "でも、それですべてが<line-break>終わったわけじゃない。<line-break>\u3000<line-break>姉さんを失った哀しみ…。<line-break>ネメアへの憎しみ…。<line-break>\u3000<line-break>告死天使の長として多くの命を<line-break>奪ってきた過去…。<line-break>\u3000<line-break>さらに僕は<line-break>救世主という名のもとに、<line-break>世界を滅ぼそうとした…。<end>"
+english = "But that doesn't mean it's all over. The grief of losing my sister. My hatred for Nemea. My past as leader of the Angels of Death, taking so many lives. And then, in the name of the Savior, I tried to destroy the world.<end>"
+
+["2350040"]
+japanese = "でも、そのすべてを含めて、<line-break>今の僕なんだ…。<line-break>それは否定しない。<end>"
+english = "But all of that is part of who I am now. I won't deny it.<end>"
+
+["2350041"]
+japanese = "これからは、自分の過去と向き合い、<line-break>償いをする旅に出るよ。<line-break>\u3000<line-break>その旅がどれだけの時間を<line-break>必要とするかはわからない。<line-break>\u3000<line-break>たぶん長い旅になると思う。<line-break>もしかすると生きている間には<line-break>終わらないかもしれない。<line-break>でも…。それでも僕は君に<line-break>ついてきてほしいんだ。<line-break><value:$28>…。<end>"
+english = "Now I'm setting out on a journey to face my past and make amends. I don't know how long it will take. It will probably be a long journey. It may not even end within my lifetime. But even so... I want you to come with me, <value:$28>.<end>"
+
+["2350042"]
+japanese = "ありがとう。<value:$28>…。<line-break>僕は君に約束するよ。<line-break>\u3000<line-break>君という光を見つめ続けて、<line-break>僕は歩いていく。<line-break>二度と道を誤らないように…。<end>"
+english = "Thank you, <value:$28>. I promise you this: I'll keep walking with you as my guiding light, so that I never lose my way again.<end>"
+
+["2350043"]
+japanese = "PSP用エルファス新イベント用<end>"
+english = ""

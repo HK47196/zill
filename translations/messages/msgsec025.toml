@@ -1,0 +1,421 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["250000"]
+japanese = "一度も戦闘をしなけりゃ、ボーナスが出る。<line-break>うまくやれよ。<end>"
+english = "If you avoid fighting altogether, you'll get a bonus. Play it smart.<end>"
+
+["250001"]
+japanese = "我が帝国の<value:$17><value:$16>を<line-break><value:$15>まで<line-break>無事送り届ける護衛者を募集する。<line-break>報酬は、<value:$1A>ギア。<line-break>期限は、<value:$1B>日以内である。<end>"
+english = "Escort wanted to deliver the Empire's <value:$17><value:$16> safely to <value:$15>. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["250002"]
+japanese = "市民ギルドの<value:$17><value:$16><line-break>が、<value:$15>まで行かねばなりません。<line-break>しかし、道中は危険なので、<line-break>護衛してくださる方を募集したいと思います。<line-break><value:$1A>ギアのお礼で、<line-break><value:$1B>日以内にやっていただける方、<line-break>ぜひお願いします。<end>"
+english = "The Citizens' Guild's <value:$17><value:$16> must travel to <value:$15>, but the road is dangerous. We are seeking an escort. Reward: <value:$1A> Gea. Please complete the journey within <value:$1B> days.<end>"
+
+["250003"]
+japanese = "道中の護衛をする者を募集する。<line-break>当アカデミーの<value:$17><line-break><value:$16>の<value:$15>までの<line-break>行程に同行し、危険が迫ったならば<line-break>回避してほしい。<line-break>報酬は、<value:$1A>ギア。<line-break><value:$1B>日以内に送り届けてほしい。<end>"
+english = "Escort wanted. Accompany the Academy's <value:$17><value:$16> on the journey to <value:$15>, avoiding any danger that arises. Reward: <value:$1A> Gea. Safe arrival is required within <value:$1B> days.<end>"
+
+["250004"]
+japanese = "冒険者の方々には、お世話になっております。<line-break>このたびお願いするのは、旅の道中の護衛です。<line-break>この町の<value:$17><value:$16>が、<line-break><value:$15>まで行く間、<line-break>同行して身を守ってください。<line-break>お礼は、<value:$1A>ギア用意しました。<line-break><value:$1B>日以内に着くようにお願いします。<end>"
+english = "Thank you, adventurers, for all your help. We now need an escort for a journey. Please accompany and protect this town's <value:$17><value:$16> on the way to <value:$15>. Reward: <value:$1A> Gea. Please arrive within <value:$1B> days.<end>"
+
+["250005"]
+japanese = "いつも世話になってるな。頼みたいことがある。<line-break>この町の<value:$17><value:$16>が、<line-break><value:$15>まで行くんだが、<line-break>通り道が危険でな。守ってやってほしいんだ。<line-break>腕のいい冒険者をつけてやってくれ。<line-break>報酬は、<value:$1A>ギアだ。<line-break><value:$1B>日以内に送り届けてくれよ。<end>"
+english = "Another job for a skilled adventurer: escort this town's <value:$17><value:$16> to <value:$15>; the road is dangerous. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["250006"]
+japanese = "世が乱れており、残念ながら旅の道中の安全が<line-break>確保されているとはいえません。<line-break>そこでお願いがございます。<line-break>我が神殿の<value:$17><value:$16>が、<line-break><value:$15>に行く間の護衛です。<line-break><value:$1A>ギアを寸志といたします。<line-break><value:$1B>日以内に目的地まで送り届けてください。<end>"
+english = "Safe travel cannot be assured. Please escort our temple's <value:$17><value:$16> to <value:$15>. We offer a modest <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["250007"]
+japanese = "我が宿に泊まられた<line-break><value:$17><value:$16>様を<line-break><value:$15>までお送りください。<line-break>お礼は、<value:$1A>ギア。<line-break><value:$1B>日以内に<line-break>お送りくださるようお願いします。<end>"
+english = "Please escort <value:$17><value:$16>, a guest at our inn, to <value:$15>. Reward: <value:$1A> Gea. Please complete the journey within <value:$1B> days.<end>"
+
+["250008"]
+japanese = "私を<value:$15>まで<line-break>送ってもらえませんか？<line-break>最近は、街道も危険になりましたので、<line-break>護衛をお願いしたいのです。<line-break><value:$1A>ギアのお礼をいたします。<line-break><value:$1B>日以内に送り届けてくださる方、<line-break>待っています。<end>"
+english = "Could someone take me to <value:$15>? The highways have grown dangerous lately, so I need an escort. I will pay <value:$1A> Gea. I await someone who can get me there within <value:$1B> days.<end>"
+
+["250009"]
+japanese = "ロストールから<value:$15>までの行程には<line-break>多くの危難が待ち構えておる。<line-break>このたび当家の<value:$17><line-break><value:$16>が出向くにあたり、<line-break>腕の立つ者に護衛を頼みたい。<line-break>褒美は、<value:$1A>ギアだ。<line-break><value:$1B>日以内に向こうに着くように頼む。<end>"
+english = "Many perils await on the road from Rostorl to <value:$15>. As our house's <value:$17><value:$16> must make the journey, I wish to hire a capable escort. Reward: <value:$1A> Gea. Arrival is required within <value:$1B> days.<end>"
+
+["250010"]
+japanese = "市民ギルドの<value:$17><value:$16><line-break>が、<value:$15>まで出かけます。<line-break>道中は危険と聞いているので、とても心配です。<line-break>強い冒険者の方、護衛をお願いできませんか？<line-break><value:$1A>ギアご用意しました。<line-break><value:$1B>日以内に到着できるようお願いします。<end>"
+english = "The Citizens' Guild's <value:$17><value:$16> is traveling to <value:$15>. I hear the road is dangerous, and I'm very worried. Would a strong adventurer please serve as escort? I have prepared <value:$1A> Gea. Please arrive within <value:$1B> days.<end>"
+
+["250011"]
+japanese = "このごろは旅の道中も安全ではないのう。<line-break>強くもない者の一人旅は無謀じゃて。<line-break>じゃが、村の<value:$17><value:$16>が、<line-break><value:$15>まで出向かねばならんのじゃ。<line-break>そこで、あんたがたに護衛を頼みたいのじゃ。<line-break>みなで金を出しあって<value:$1A>ギア用意した。<line-break><value:$1B>日以内に到着させてやってくれんか。<end>"
+english = "Travel isn't safe these days. Please escort the village's <value:$17><value:$16> to <value:$15>. We pooled <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["250012"]
+japanese = "毎度ありがとうございます。<line-break>このたびは私どもからのお願いがございます。<line-break>この町の<value:$17><value:$16>が、<line-break><value:$15>に出かけるにあたって、<line-break>護衛の方をお願いしたいのです。<line-break>当方としては、<value:$1A>ギアご用意できます。<line-break><value:$1B>日以内に到着してくださるよう願います。<end>"
+english = "Thank you for your continued patronage. We have a request: this town's <value:$17><value:$16> will be traveling to <value:$15>, and we would like to arrange an escort. We can offer <value:$1A> Gea. Please arrive within <value:$1B> days.<end>"
+
+["250013"]
+japanese = "腕自慢のお前さんたちにうってつけの仕事だ。<line-break>この町の<value:$17><value:$16>が、<line-break><value:$15>に行く間の護衛を依頼したい。<line-break><value:$1A>ギア用意したから、<line-break><value:$1B>日以内にたどりつくよう頼むぜ。<line-break>うまくいかなきゃいい武器が作れなくなる。<line-break>任せたぜ。<end>"
+english = "A job for skilled fighters: escort this town's <value:$17><value:$16> to <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days. If you fail, we can't make good weapons. I'm counting on you.<end>"
+
+["250014"]
+japanese = "この町の<value:$17><line-break><value:$16>を<value:$15>まで送り<line-break>届けたいんですよ。<line-break>でも街の外は最近、危ないんですよ。<line-break><value:$1A>ギアをお礼としてさしあげますから、<line-break><value:$1B>日以内に目的地に着けるよう、<line-break>護衛をお願いします。<end>"
+english = "We need to get this town's <value:$17><value:$16> to <value:$15>, but it's been dangerous outside town lately. We'll pay <value:$1A> Gea, so please provide an escort and reach the destination within <value:$1B> days.<end>"
+
+["250015"]
+japanese = "旅は安全でなければなりません。<line-break>それを提供するのも私どもの役目です。<line-break>この街から<value:$15>まで行かれる<line-break><value:$17><value:$16>様の護衛を<line-break>お願いします。<line-break><value:$1A>ギアの報酬で、<line-break><value:$1B>日以内が到着の期限です。<end>"
+english = "Travel should be safe, and providing that safety is part of our duty. Please escort <value:$17><value:$16> from this city to <value:$15>. Reward: <value:$1A> Gea. Arrival deadline: within <value:$1B> days.<end>"
+
+["250016"]
+japanese = "<value:$15>まで行くんだけど、<line-break>危ないから誰か守ってくれませんか？<line-break>お礼に<value:$1A>ギア差し上げます。<line-break><value:$1B>日以内に向こうまで送ってください。<end>"
+english = "I'm going to <value:$15>, but it's dangerous. Could someone protect me? I'll pay <value:$1A> Gea. Please get me there within <value:$1B> days.<end>"
+
+["250017"]
+japanese = "当家の<value:$17><value:$16>の<line-break>護衛を引き受けてくれる者を探している。<line-break>目的地は、<value:$15>である。<line-break>褒美は、<value:$1A>ギアとらせる。<line-break><value:$1B>日以内で、無事に送り届けるように。<end>"
+english = "I seek someone to escort our house's <value:$17><value:$16>. Destination: <value:$15>. Reward: <value:$1A> Gea. Deliver the traveler safely within <value:$1B> days.<end>"
+
+["250018"]
+japanese = "市民ギルドの<value:$17><value:$16><line-break>が、どうしてもはずせない用事のために、<line-break><value:$15>に行かねばなりません。<line-break>冒険者の方に護衛をお願いします。<line-break><value:$1A>ギアを用立てました。<line-break><value:$1B>日以内に目的地まで送り届けてください。<end>"
+english = "The Citizens' Guild's <value:$17><value:$16> must travel to <value:$15> on unavoidable business. We ask an adventurer to serve as escort. We have raised <value:$1A> Gea. Please deliver the traveler to the destination within <value:$1B> days.<end>"
+
+["250019"]
+japanese = "村の<value:$17><value:$16>が、<line-break><value:$15>に行かなきゃなんないんだ。<line-break>通り道には、モンスターとか盗賊とかが<line-break>出てきてとてもおっかないらしい。<line-break>なんとか<value:$1A>ギア用意できたから、<line-break>護衛を頼まれてほしいんだ。<line-break><value:$1B>日以内に着いてくれ。<end>"
+english = "The village's <value:$17><value:$16> has to go to <value:$15>. They say monsters and bandits appear along the road, and it sounds terrifying. We somehow managed to raise <value:$1A> Gea, so please take the escort job. Get there within <value:$1B> days.<end>"
+
+["250020"]
+japanese = "この町の<value:$17><value:$16>が、<line-break><value:$15>に行くことになりました。<line-break>護衛を務めてくださる方を募集します。<line-break><value:$1A>ギアをお礼としてさしあげます。<line-break>到着の期限は、<value:$1B>日以内です。<end>"
+english = "This town's <value:$17><value:$16> will be traveling to <value:$15>. We are seeking someone to serve as escort. Reward: <value:$1A> Gea. Arrival deadline: within <value:$1B> days.<end>"
+
+["250021"]
+japanese = "旅の者の護衛を頼みたい。<line-break><value:$17><value:$16>が、<line-break><value:$15>まで行く。<line-break>報酬は、<value:$1A>ギア。<line-break>期限は<value:$1B>日以内。<line-break>道中は戦闘要員がいなければ危険な場所だ。<line-break>あんたたちの腕に期待してるよ。<end>"
+english = "I need an escort for a traveler. <value:$17><value:$16> is going to <value:$15>. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days. The route is dangerous without someone capable of fighting. I'm counting on your skill.<end>"
+
+["250022"]
+japanese = "この町の<value:$16>が、<line-break>用事で<value:$15>に行くことになってね。<line-break>物騒だから襲ってくる奴を<line-break>追い払ってくれる人を探してるんだよ。<line-break>お礼は、<value:$1A>ギア。<line-break><value:$1B>日以内に連れてってくれる人、<line-break>お願いね。<end>"
+english = "This town's <value:$16> has business in <value:$15>. With things so dangerous, we're looking for someone to drive off any attackers. Reward: <value:$1A> Gea. Please take the traveler there within <value:$1B> days.<end>"
+
+["250023"]
+japanese = "毎度ご利用ありがとうございます。<line-break><value:$17><value:$16>様が、<line-break><value:$15>に行かれます。<line-break>私どもの調べでは、道中は危険とのこと。<line-break>そこで護衛を依頼したいと思います。<line-break>謝礼として<value:$1A>ギア。<line-break><value:$1B>日以内の到着をお願いします。<end>"
+english = "Thank you for your continued patronage. <value:$17><value:$16> will be traveling to <value:$15>. Our inquiries indicate that the road is dangerous, so we would like to hire an escort. Reward: <value:$1A> Gea. Please arrive within <value:$1B> days.<end>"
+
+["250024"]
+japanese = "<value:$15>に行くことになったのですが、<line-break>最近は魔物が多くて危ないと聞いています。<line-break>そこで護衛してくれる方を探しています。<line-break>お礼として<value:$1A>ギアを用意しました。<line-break><value:$1B>日以内に到着できるようお願いします。<end>"
+english = "I am traveling to <value:$15>, but I hear the recent increase in monsters has made the journey dangerous. I am therefore seeking an escort. Reward: <value:$1A> Gea. Please ensure arrival within <value:$1B> days.<end>"
+
+["250025"]
+japanese = "このたび、自治連の<value:$16>が、<line-break><value:$15>まで出向くことになっています。<line-break>その護衛を依頼したいと思います。<line-break><value:$1A>ギア用意しました。<line-break><value:$1B>日以内に到着してください。<end>"
+english = "The <value:$16> of the Self-Governance Union will be traveling to <value:$15>. We would like to hire an escort. Reward: <value:$1A> Gea. Please arrive within <value:$1B> days.<end>"
+
+["250026"]
+japanese = "村の<value:$17><value:$16>が、<line-break><value:$15>まで出かけるの。でも最近、<line-break>旅行者を襲う奴らの噂をよく聞くの。<line-break>どなたか守ってやってくれませんか？<line-break>少ないけれど、<value:$1A>ギア用意しましたわ。<line-break><value:$1B>日以内に向こうに着けるようにお願いね。<end>"
+english = "Please escort the village's <value:$17><value:$16> to <value:$15>; travelers have been attacked lately. It's not much, but we offer <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["250027"]
+japanese = "冒険者の方々に依頼したいことがございます。<line-break>この町の<value:$17><value:$16>が、<line-break><value:$15>まで行く間の護衛です。<line-break>お礼は、<value:$1A>ギア。<line-break>到着日限は、<value:$1B>日以内でどうでしょうか。<line-break>途中にはかなりの危険が考えられます。<line-break>よろしくお願いいたします。<end>"
+english = "I have a request for the adventurers. Please escort this town's <value:$17><value:$16> to <value:$15>. Reward: <value:$1A> Gea. Would an arrival deadline of <value:$1B> days be acceptable? Considerable danger is expected along the way. Thank you.<end>"
+
+["250028"]
+japanese = "<value:$17><value:$16>が、<line-break><value:$15>まで行くんだが、<line-break>何が起こるかわからんから、護衛を頼みたい。<line-break>報酬は、<value:$1A>ギア。<line-break><value:$1B>日以内に着くのが条件だぜ。<end>"
+english = "<value:$17><value:$16> is traveling to <value:$15>, and there's no telling what might happen, so I want an escort. Reward: <value:$1A> Gea. You have to arrive within <value:$1B> days.<end>"
+
+["250029"]
+japanese = "この町の<value:$16>が、<line-break>大事な用事で<value:$15>に出かけるんだ。<line-break>でも、戦いの心得があるわけじゃないから、<line-break>襲ってくる奴がいたらどうしようもないよ。<line-break><value:$1A>ギアを払うから、<line-break><value:$1B>日以内に着けるよう護衛を頼むよ。<end>"
+english = "This town's <value:$16> is traveling to <value:$15> on important business. Without any combat training, there would be no way to handle an attack. I'll pay <value:$1A> Gea, so provide an escort and arrive within <value:$1B> days.<end>"
+
+["250030"]
+japanese = "旅の方の安全をお守りするのも<line-break>我々フゴー宿屋の使命のひとつです。<line-break>このたび<value:$15>に出向かれる<line-break><value:$17><value:$16>様の<line-break>護衛をお願いします。<line-break><value:$1A>ギアで、引き受けていただけませんか？<line-break><value:$1B>日以内に送り届けてください。<end>"
+english = "Protecting travelers is one of the missions of Hugo Inn. Please escort <value:$17><value:$16> to <value:$15>. Would you accept the job for <value:$1A> Gea? Complete the journey safely within <value:$1B> days.<end>"
+
+["250031"]
+japanese = "私の<value:$17><value:$16>を<line-break><value:$15>まで無事に送り届けてほしい。<line-break>報酬は、<value:$1A>ギア。<line-break>到着期限は、<value:$1B>日以内とする。<end>"
+english = "Deliver my <value:$17><value:$16> safely to <value:$15>. Reward: <value:$1A> Gea. Arrival deadline: within <value:$1B> days.<end>"
+
+["250032"]
+japanese = "<value:$15>まで<line-break>無事に送り届けてもらえませんか？<line-break>お礼は、<value:$1A>ギアです。<line-break><value:$1B>日以内に向こうに着きたいので、<line-break>よろしくお願いします。<end>"
+english = "Could you deliver me safely to <value:$15>? Reward: <value:$1A> Gea. I want to arrive within <value:$1B> days, so please help.<end>"
+
+["250033"]
+japanese = "道中の危険を排除する勇者を募集する。<line-break>精強な戦士諸君の応募を心待ちにしている。<line-break>護衛対象：<value:$17><value:$16><line-break>目的地\u3000：<value:$15><line-break>到着期限：<value:$1B>日以内<line-break>報酬\u3000\u3000：<value:$1A>ギア<end>"
+english = "Heroes wanted to eliminate danger along the road. We eagerly await applications from mighty warriors. Escort target: <value:$17><value:$16>. Destination: <value:$15>. Arrival deadline: within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["250034"]
+japanese = "市民ギルドの<value:$16>が、<line-break><value:$15>に行くことになりました。<line-break>道々のことを考えると、<line-break>護衛をつけたほうがいいと思いましてね。<line-break><value:$1A>ギアさしあげますので、<line-break><value:$1B>日以内に連れていってもらえませんか？<end>"
+english = "The Citizens' Guild's <value:$16> will be traveling to <value:$15>. Considering the road ahead, we believe an escort would be wise. We'll pay <value:$1A> Gea. Could you get the traveler there within <value:$1B> days?<end>"
+
+["250035"]
+japanese = "ちょっと用事がありましてね、<line-break><value:$15>まで人をやらねばなりません。<line-break>でも、途中は危険がいっぱいなんですよ。<line-break>そんなわけで、村の<value:$16>を<line-break>守ってください。<line-break>報酬は、<value:$1A>ギアです。<line-break><value:$1B>日以内に着けるように頼みますよ。<end>"
+english = "We have some business in <value:$15> and must send someone there, but the road is full of danger. Please protect the village's <value:$16>. Reward: <value:$1A> Gea. Please arrive within <value:$1B> days.<end>"
+
+["250036"]
+japanese = "近頃、旅の道程はたいへん物騒です。<line-break>この町の<value:$17><value:$16>が、<line-break><value:$15>に行くまでの護衛を<line-break>どなたかしていただけませんか。<line-break><value:$1A>ギアを支払いましょう。<line-break><value:$1B>日以内にこなせる方にお願いします。<end>"
+english = "Travel has become terribly dangerous lately. Would someone please escort this town's <value:$17><value:$16> to <value:$15>? Payment: <value:$1A> Gea. Please accept only if you can complete the job within <value:$1B> days.<end>"
+
+["250037"]
+japanese = "この町の<value:$17><value:$16>が、<line-break><value:$15>に向かうんだが、<line-break>途中にはモンスターやら盗賊やらが出るんで、<line-break>１人じゃ危なくていけねぇ。<line-break>で、護衛をお願いしてぇんだわ。<line-break><value:$1A>ギア用意したからよ。<line-break><value:$1B>日以内に到着させてやってくれ。<end>"
+english = "This town's <value:$17><value:$16> is headed to <value:$15>, but monsters and bandits appear along the way, making it too dangerous to travel alone. So I need an escort. I've prepared <value:$1A> Gea. Get the traveler there within <value:$1B> days.<end>"
+
+["250038"]
+japanese = "<value:$15>にいる人に用事があるんで、<line-break>この町の<value:$16>が<line-break>行くことになったんだ。<line-break>でも、近ごろは街道も危険だからね。<line-break>護衛をつけたいと思うのさ。<line-break><value:$1A>ギア出すよ。<line-break><value:$1B>日以内に連れていってくれよな。<end>"
+english = "We have business with someone in <value:$15>, so this town's <value:$16> is going there. The highways have been dangerous lately, so I want to arrange an escort. I'll pay <value:$1A> Gea. Get the traveler there within <value:$1B> days.<end>"
+
+["250039"]
+japanese = "<value:$17><value:$16>様が、<line-break>次の目的地<value:$15>に向かわれます。<line-break>そこで、護衛してくださる方を募集します。<line-break>謝礼は、<value:$1A>ギア。<line-break>到着の期限は、<value:$1B>日以内です。<end>"
+english = "<value:$17><value:$16> will be departing for the next destination, <value:$15>. We are therefore seeking an escort. Reward: <value:$1A> Gea. Arrival deadline: within <value:$1B> days.<end>"
+
+["250040"]
+japanese = "護衛をしてくださる方を募っています。<line-break>目的地は<value:$15>です。<line-break><value:$1B>日以内で到着してください。<line-break>お礼は、<value:$1A>ギアです。<end>"
+english = "Escort wanted. Destination: <value:$15>. Arrival required within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["250041"]
+japanese = "<value:$17><value:$16>を<line-break><value:$15>まで派遣することになった。<line-break>だが、道程には悪しき者が存在しており、<line-break>使者を害する恐れがある。<line-break>戦士たちよ、この方を無事送ってほしい。<line-break>謝礼は、<value:$1A>ギア。<line-break>到着の期限は、<value:$1B>日以内とする。<end>"
+english = "<value:$17><value:$16> is to be dispatched to <value:$15>, but evildoers on the road may harm our envoy. Warriors, deliver this person safely. Reward: <value:$1A> Gea. Arrival deadline: within <value:$1B> days.<end>"
+
+["250042"]
+japanese = "市民ギルドの<value:$16>が、<line-break><value:$15>まで出かけます。<line-break>物騒な世の中ですし、着くまでの間に<line-break>危険がふりかかる恐れがあります。<line-break>そこで、護衛してくれる人を募集します。<line-break><value:$1A>ギアをお礼としてさしあげます。<line-break><value:$1B>日以内に着けるようにお願いします。<end>"
+english = "The Citizens' Guild's <value:$16> is traveling to <value:$15>. These are dangerous times, and trouble may strike before arrival, so we seek an escort. Reward: <value:$1A> Gea. Please arrive within <value:$1B> days.<end>"
+
+["250043"]
+japanese = "村の<value:$17><value:$16>を<line-break><value:$15>まで行かせることになりました。<line-break>道中は危険なので、護衛をつけねばなりません。<line-break><value:$1A>ギア用意しました。<line-break><value:$1B>日以内に着けるようにお願いします。<end>"
+english = "The village's <value:$17><value:$16> must travel to <value:$15>. The road is dangerous, so an escort is needed. We have prepared <value:$1A> Gea. Please arrive within <value:$1B> days.<end>"
+
+["250044"]
+japanese = "<value:$17><value:$16>が、<line-break><value:$15>まで行きます。<line-break>その護衛を募集しています。<line-break>お礼は、<value:$1A>ギア。<line-break><value:$1B>日以内に着くことが条件です。<line-break>よろしくお願いします。<end>"
+english = "<value:$17><value:$16> is traveling to <value:$15>. We are seeking an escort. Reward: <value:$1A> Gea. Arrival within <value:$1B> days is required. Thank you.<end>"
+
+["250045"]
+japanese = "<value:$15>に用事があって、<line-break>この町の<value:$17><value:$16>を<line-break>行かせるんだが、道中の安全が心配でな。<line-break>同行して、守ってやってくれ。<line-break><value:$1A>ギア出せるでの。<line-break>到着が<value:$1B>日以内になるよう頼むぞ。<end>"
+english = "We have business in <value:$15>, so I'm sending this town's <value:$17><value:$16> there, but I'm worried about safety on the road. Go along and provide protection. I can pay <value:$1A> Gea. Make sure arrival is within <value:$1B> days.<end>"
+
+["250046"]
+japanese = "<value:$15>に用事があってね。<line-break>この町の<value:$16>が<line-break>行くんだよ。でも、危ないよね。<line-break>最近は、道々何が出るかわからないし。<line-break>護衛についてくれないかね。<line-break><value:$1B>日以内に着かせてやっておくれよ。<line-break>報酬は、<value:$1A>ギア出すよ。<end>"
+english = "We have business in <value:$15>, so this town's <value:$16> is going there. But it's dangerous, isn't it? These days, you never know what might appear on the road. Could you go along as escort? Get the traveler there within <value:$1B> days. I'll pay <value:$1A> Gea.<end>"
+
+["250047"]
+japanese = "当宿屋にお泊りの<line-break><value:$17><value:$16>様が、<line-break><value:$15>にお発ちになります。<line-break>護衛してくださる冒険者の方を募集します。<line-break>報酬は、<value:$1A>ギア。<line-break>到着までの期限は、<value:$1B>日以内です。<end>"
+english = "<value:$17><value:$16>, a guest at our inn, will be departing for <value:$15>. We seek an adventurer to serve as escort. Reward: <value:$1A> Gea. Arrival deadline: within <value:$1B> days.<end>"
+
+["250048"]
+japanese = "この街から<value:$15>に移ります。<line-break>その際、同行し守っていただきたいのです。<line-break>お礼に<value:$1A>ギアお支払いできます。<line-break><value:$1B>日以内に連れていってくださる方、<line-break>お待ちしています。<end>"
+english = "I am moving from this city to <value:$15> and would like someone to accompany and protect me. I can pay <value:$1A> Gea. I await someone who can take me there within <value:$1B> days.<end>"
+
+["250049"]
+japanese = "<value:$17><value:$16>を<line-break><value:$15>に派遣することになりました。<line-break>道中の安全を確保するため、<line-break>護衛してくださる方を募集します。<line-break>報酬は、<value:$1A>ギア。<line-break>到着の期限は、<value:$1B>日以内です。<line-break>あなた方の活躍に期待しています。<end>"
+english = "<value:$17><value:$16> is to be dispatched to <value:$15>. We seek an escort to ensure safe passage. Reward: <value:$1A> Gea. Arrival deadline: within <value:$1B> days. We look forward to seeing what you can do.<end>"
+
+["250050"]
+japanese = "この街の<value:$17><value:$16>が、<line-break><value:$15>に住む人に会いに行くんだが、<line-break>あの辺りは、戦いの心得がないと不安だろ。<line-break>腕に自身がある人、護衛を頼まれてくれないか。<line-break><value:$1A>ギアの謝礼が出せる。<line-break><value:$1B>日以内に着けるように頼むよ。<end>"
+english = "Please escort this city's <value:$17><value:$16> to meet someone in <value:$15>. That area is dangerous for anyone unable to fight. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["250051"]
+japanese = "近頃は物騒になったからねぇ。<line-break>ちょっと出かけるだけでも危なくてねぇ。<line-break>でも、村の<value:$17><value:$16>が<line-break><value:$15>まで行かなくちゃならないのよ。<line-break>護衛をお願いできない？<line-break>お礼は出すわ。<value:$1A>ギアでどうかしら。<line-break><value:$1B>日以内に向こうに着いてね。<end>"
+english = "Things have grown dangerous lately. Even a short trip can be risky. Still, the village's <value:$17><value:$16> must go to <value:$15>. Could you provide an escort? I can pay <value:$1A> Gea. Please get there within <value:$1B> days.<end>"
+
+["250052"]
+japanese = "この町の<value:$17><value:$16>が、<line-break>商談で<value:$15>に出かけます。<line-break>護衛を務めてください。<line-break><value:$1A>ギア、<line-break><value:$1B>日以内の到着が条件です。<end>"
+english = "This town's <value:$17><value:$16> is traveling to <value:$15> for business negotiations. Serve as escort. Reward: <value:$1A> Gea. Arrival required within <value:$1B> days.<end>"
+
+["250053"]
+japanese = "<value:$17><value:$16>を<line-break>護衛してくれる方を募集！！<line-break><value:$15>が目的地！<line-break>到着期限は、<value:$1B>日以内！<line-break>お礼は、<value:$1A>ギア！<end>"
+english = "Escort wanted for <value:$17><value:$16>!! Destination: <value:$15>! Arrival deadline: within <value:$1B> days! Reward: <value:$1A> Gea!<end>"
+
+["250054"]
+japanese = "<value:$15>に用があって、<line-break>この町の<value:$16>が<line-break>行くことになったんだ。<line-break>１人で行かせるのは、不安だからね。<line-break>誰か護衛をしておくれ。<line-break><value:$1A>ギア、用意したよ。<line-break><value:$1B>日以内にやってほしいね。<end>"
+english = "We have business in <value:$15>, so this town's <value:$16> must go there. I'm uneasy about sending anyone alone, so please provide an escort. I've prepared <value:$1A> Gea. Complete the job within <value:$1B> days.<end>"
+
+["250055"]
+japanese = "<value:$15>へ、我が宿にお泊りの<line-break><value:$17><value:$16>様が<line-break>向かわれるそうなので、<line-break>護衛をつける必要があります。<line-break>腕に覚えのある冒険者を募ります。<line-break><value:$1A>ギアご用意できます。<line-break>到着の期限は、<value:$1B>日以内でお願いします。<end>"
+english = "<value:$17><value:$16>, a guest at our inn, is apparently headed to <value:$15>, so an escort is needed. We seek an adventurer confident in their abilities. Reward: <value:$1A> Gea. Please arrive within <value:$1B> days.<end>"
+
+["250056"]
+japanese = "旅の道中は安全ではありません。<line-break>我が身を守護する強者がいない限り、<line-break>街から街への移動など不可能であるというもの。<line-break><value:$15>に行く間の護衛を募集します。<line-break><value:$1A>ギアのお礼をします。<line-break><value:$1B>日以内に連れていってくださる方、<line-break>お願いします。<end>"
+english = "The road is not safe. Traveling from one town to another is all but impossible without someone strong to protect me. I seek an escort to <value:$15>. Reward: <value:$1A> Gea. Please take me there within <value:$1B> days.<end>"
+
+["250057"]
+japanese = "世が乱れ街道が安全でなくなっております。<line-break><value:$15>に人をやるのですが、<line-break>行く手を阻む者がいるやもしれません。<line-break>どうか、使いの<value:$16>を守護し、<line-break>無事使命をまっとうさせてください。<line-break>報酬は、<value:$1A>ギア。<line-break><value:$1B>日以内の到着を希望します。<end>"
+english = "Highways are unsafe, and enemies may block the way. Please guard our messenger, <value:$16>, on the mission to <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["250058"]
+japanese = "<value:$17><value:$16>の護衛募集<line-break><value:$15>までの往路<line-break><value:$1A>ギアの好条件<line-break>旅の道中を護衛してくれる方はいませんか。<line-break>腕自慢のあなた、稼ぐチャンスです。<line-break><value:$1B>日以内に送り届けられる方、待ってます。<end>"
+english = "Escort wanted: <value:$17><value:$16> to <value:$15>. Excellent pay: <value:$1A> Gea. Skilled applicants only; arrival within <value:$1B> days.<end>"
+
+["250059"]
+japanese = "村の<value:$17><value:$16>が、<line-break><value:$15>まで行くの。<line-break>でも、あの辺りはとっても危ないわ。<line-break>強い冒険者さん、護衛をお願い。<line-break>お礼は、<value:$1A>ギア集めたわ。<line-break><value:$1B>日以内に向こうに着かなきゃならないの。<line-break>頼むわね。<end>"
+english = "The village's <value:$17><value:$16> is going to <value:$15>, but that area is terribly dangerous. Any strong adventurers out there? Please provide an escort. We collected <value:$1A> Gea as a reward. The traveler must arrive within <value:$1B> days. Please help.<end>"
+
+["250060"]
+japanese = "物騒な世の中になりまして、<line-break>他の街に行くにしても、護衛をつけなければ、<line-break>危なくなりました。<line-break>この町の<value:$17><value:$16>が、<line-break><value:$15>に行くまでの護衛を依頼します。<line-break>報酬は、<value:$1A>ギア。<line-break><value:$1B>日以内に送ってあげてください。<end>"
+english = "These have become dangerous times, and even travel to another town now requires an escort. Please escort this town's <value:$17><value:$16> to <value:$15>. Reward: <value:$1A> Gea. Deliver the traveler within <value:$1B> days.<end>"
+
+["250061"]
+japanese = "<value:$15>までの街道が、<line-break>やばい雰囲気になってるらしくてな。<line-break>アキュリュース鍛冶屋の<value:$16>を<line-break>護衛しちゃくれねえか。<line-break>お礼は、はずんで<value:$1A>ギアだ。<line-break><value:$1B>日以内に連れてってくれよな。<end>"
+english = "Word is, the highway to <value:$15> has gotten pretty nasty. Could you escort <value:$16> from the Aqyurius Smithy? I'm offering a generous <value:$1A> Gea. Get the traveler there within <value:$1B> days.<end>"
+
+["250062"]
+japanese = "<value:$15>の人と話したいことがある。<line-break>この町の<value:$16>を<line-break>使いに出すんだが、どうやら道中は、<line-break>かなり危険らしい。護衛を頼みたいんだ。<line-break>報酬は、<value:$1A>ギア払うよ。<line-break><value:$1B>日以内で送ってくれ。<end>"
+english = "I need to speak with someone in <value:$15>. I'm sending this town's <value:$16> as a messenger, but apparently the road is quite dangerous. I need an escort. I'll pay <value:$1A> Gea. Complete the journey within <value:$1B> days.<end>"
+
+["250063"]
+japanese = "我が宿に泊まられた<line-break><value:$17><value:$16>様を、<line-break><value:$15>まで送り届けてください。<line-break>最近、物騒なので、護衛が必要なのです。<line-break>報酬は、<value:$1A>ギアで、<line-break>期限は、<value:$1B>日以内です。<end>"
+english = "Please deliver <value:$17><value:$16>, a guest at our inn, to <value:$15>. These are dangerous times, so an escort is necessary. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["250064"]
+japanese = "<value:$15>まで送ってくださる<line-break>冒険者の方を募集しています。<line-break><value:$1B>日以内に目的地に<line-break>到着したいです。<line-break>報酬は、<value:$1A>ギアです。<line-break>屈強な方をお待ちしています。<end>"
+english = "Adventurer wanted to take me to <value:$15>. I wish to reach the destination within <value:$1B> days. Reward: <value:$1A> Gea. Strong applicants preferred.<end>"
+
+["250065"]
+japanese = "闇の力を強く感じるようになった今、<line-break>我が風の神殿が派遣する使いの旅も、<line-break>安らかであることはかなわぬでしょう。<line-break>神殿の<value:$16>を守護し、<line-break><value:$15>に送り届けてください。<line-break>報酬として、<value:$1A>ギア用意しました。<line-break><value:$1B>日以内に果たされることを望みます。<end>"
+english = "The Darkness grows strong, and even our envoy faces danger. Guard the Wind Temple's <value:$16> to <value:$15>. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+
+["250066"]
+japanese = "市民ギルドの<value:$16>が<line-break>用事で<value:$15>に出かけるんだが、<line-break>冒険者さん、ひとつ護衛を頼むよ。<line-break><value:$1A>ギア出す。<line-break><value:$1B>日以内に、送り届けてくれ。<end>"
+english = "The Citizens' Guild's <value:$16> has business in <value:$15>. Adventurer, could you handle the escort? I'll pay <value:$1A> Gea. Deliver the traveler within <value:$1B> days.<end>"
+
+["250067"]
+japanese = "うちんとこの<value:$16>が、<line-break><value:$15>の街まで行くことになってな。<line-break>護衛を頼みたいんだ。<line-break>報酬は、<value:$1A>ギア。<line-break>期限は、<value:$1B>日以内ってとこだな。<end>"
+english = "Our <value:$16> has to travel to the city of <value:$15>, and I need an escort. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["250068"]
+japanese = "このたび<value:$15>まで、<line-break><value:$17><value:$16>が<line-break>出向くこととなりました。<line-break>道中のことを考えると、護衛が必要です。<line-break><value:$1A>ギアのお礼で、到着は、<value:$1B>日以内<line-break>という条件で、引き受けてくださる方、<line-break>待っています。<end>"
+english = "<value:$17><value:$16> will be traveling to <value:$15>. Considering the road ahead, an escort is necessary. We offer <value:$1A> Gea, with arrival required within <value:$1B> days. We await someone willing to accept these terms.<end>"
+
+["250069"]
+japanese = "<value:$17><value:$16>が、<line-break><value:$15>に用があってよ、<line-break>途中、なんだかおっかねえのが出るらしいんで、<line-break>護衛を頼みたいんだ。<line-break><value:$1A>ギアで、<value:$1B>日以内。<line-break>よろしくな。<end>"
+english = "<value:$17><value:$16> has business in <value:$15>, and apparently something frightening has been appearing along the way. I need an escort. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days. Thanks.<end>"
+
+["250070"]
+japanese = "この町の<value:$16>が、<line-break><value:$15>にいる人に会いに行くんだ。<line-break>戦いが強いっていうわけじゃなし、<line-break>やっぱり守ってくれる人が必要さね。<line-break><value:$1A>ギアで護衛をしてくれないかい？<line-break>到着は、<value:$1B>日以内で、よろしく頼むよ。<end>"
+english = "This town's <value:$16> is going to meet someone in <value:$15>. Combat isn't exactly a strong suit, so someone needs to provide protection. Will you serve as escort for <value:$1A> Gea? Please arrive within <value:$1B> days.<end>"
+
+["250071"]
+japanese = "我が宿屋にお泊りの<line-break><value:$17><value:$16>様が、<line-break><value:$15>に向かわれます。<line-break>その方の護衛を依頼します。<line-break><value:$1A>ギアをお支払いいたします。<line-break>到着期限は、<value:$1B>日以内です。<end>"
+english = "<value:$17><value:$16>, a guest at our inn, will be traveling to <value:$15>. We request an escort. Payment: <value:$1A> Gea. Arrival deadline: within <value:$1B> days.<end>"
+
+["250072"]
+japanese = "<value:$15>に行きたいのですが、<line-break>護衛してくださる方を募集します。<line-break>お礼は、<value:$1A>ギア。<line-break>期限は、<value:$1B>日以内とします。<end>"
+english = "I wish to travel to <value:$15> and am seeking an escort. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["250073"]
+japanese = "ラドラス１<end>"
+english = "Ladras 1<end>"
+
+["250074"]
+japanese = "ラドラス２<end>"
+english = "Ladras 2<end>"
+
+["250075"]
+japanese = "ラドラス３<end>"
+english = "Ladras 3<end>"
+
+["250076"]
+japanese = "ラドラス４<end>"
+english = "Ladras 4<end>"
+
+["250077"]
+japanese = "ラドラス５<end>"
+english = "Ladras 5<end>"
+
+["250078"]
+japanese = "ラドラス６<end>"
+english = "Ladras 6<end>"
+
+["250079"]
+japanese = "ラドラス７<end>"
+english = "Ladras 7<end>"
+
+["250080"]
+japanese = "ラドラス８<end>"
+english = "Ladras 8<end>"
+
+["250081"]
+japanese = "<value:$15>への使いの護衛者を募集する。<line-break>報酬は、<value:$1A>ギア。<line-break>到着期限は、<value:$1B>日以内である。<line-break>屈強な冒険者を待っている。<end>"
+english = "Escort wanted for a messenger bound for <value:$15>. Reward: <value:$1A> Gea. Arrival deadline: within <value:$1B> days. Strong adventurers preferred.<end>"
+
+["250082"]
+japanese = "<value:$15>へ行く、<line-break>市民ギルドの<value:$16>の<line-break>護衛をお願いします。<line-break>報酬は、<value:$1A>ギア用意しました。<line-break><value:$1B>日以内に現地に到着する<line-break>必要があるので、期限をお守りください。<end>"
+english = "Please escort the Citizens' Guild's <value:$16> to <value:$15>. Reward: <value:$1A> Gea. Arrival is required within <value:$1B> days, so observe the deadline.<end>"
+
+["250083"]
+japanese = "村の<value:$17><value:$16>が、<line-break><value:$15>へ行くんだがの。<line-break>近頃は物騒ゆえ、万一のことがあるかもしれん。<line-break>おねげえするだ。護衛をしてやってくれんか？<line-break><value:$15>に着かせてやってくれ。<line-break><value:$1A>ギア出すだで。<line-break><value:$1B>日以内でやってくれるかの。<end>"
+english = "Things are dangerous these days. Please escort the village's <value:$17><value:$16> to <value:$15>. Get the traveler safely to <value:$15> within <value:$1B> days. I'll pay <value:$1A> Gea.<end>"
+
+["250084"]
+japanese = "<value:$17><value:$16>が、<line-break><value:$15>に行くことになりました。<line-break>旅の安全を考えて、冒険者の方に<line-break>護衛をお願いしたいと思います。<line-break><value:$1A>ギアをお礼としてさしあげます。<line-break>期間は、<value:$1B>日以内です。<end>"
+english = "<value:$17><value:$16> will be traveling to <value:$15>. For safety, we would like an adventurer to serve as escort. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days.<end>"
+
+["250085"]
+japanese = "<value:$15>の街に、<line-break>腕利きの<value:$17><value:$16>を<line-break>派遣することになりました。<line-break>道のりは安全ではないでしょう。<line-break>腕の確かな方にご同行いただきたいと思います。<line-break><value:$1A>ギア用意しました。<line-break><value:$1B>日以内に到着するようお願いします。<end>"
+english = "We are dispatching the skilled <value:$17><value:$16> to the city of <value:$15>. The road is unlikely to be safe, so we seek a capable companion. Reward: <value:$1A> Gea. Please arrive within <value:$1B> days.<end>"
+
+["250086"]
+japanese = "いい酒の研究のために<line-break><value:$17><value:$16>が、<line-break><value:$15>に行くことになってね。<line-break>でも道のりは、危険がいっぱい。<line-break>１人じゃ心細いから護衛してもらいたいんだよ。<line-break><value:$1A>ギア出すから、<line-break><value:$1B>日以内に着くようにしてくれ。<end>"
+english = "<value:$17><value:$16> is traveling to <value:$15> to research good liquor. But the road is full of danger, and traveling alone would be unsettling, so I need an escort. I'll pay <value:$1A> Gea. Make sure the traveler arrives within <value:$1B> days.<end>"
+
+["250087"]
+japanese = "我が宿にお泊りの<line-break><value:$17><value:$16>様の<line-break>護衛をしてください。<line-break><value:$15>まで行かれるそうです。<line-break>謝礼は、<value:$1A>ギア。<line-break>期限は、<value:$1B>日以内です。<line-break>よろしくお願いします。<end>"
+english = "Please escort <value:$17><value:$16>, a guest at our inn. The guest is traveling to <value:$15>. Reward: <value:$1A> Gea. Deadline: within <value:$1B> days. Thank you.<end>"
+
+["250088"]
+japanese = "<value:$15>まで行く道のりには、<line-break>数々の苦難が待ちうけていることでしょう。<line-break>困難な旅にのぞむ私をお守りください。<line-break><value:$1A>ギアのお礼をいたします。<line-break><value:$1B>日以内に到着させてください。<end>"
+english = "Many hardships surely await on the road to <value:$15>. Please protect me on this difficult journey. Reward: <value:$1A> Gea. Get me there within <value:$1B> days.<end>"
+
+["250089"]
+japanese = "昨今の情勢を考えるに、<line-break>旅の道程には重大な危険が存在するであろう。<line-break>このたび、我が帝国の<value:$16>を<line-break><value:$15>に送るにあたり、<line-break>危険を回避するため、護衛の者を募集したい。<line-break><value:$1B>日以内に到着すること。<line-break>報酬は、<value:$1A>ギアである。<end>"
+english = "Given the current situation, grave dangers are likely to beset any journey. As the Empire is sending <value:$16> to <value:$15>, we seek an escort to avoid such dangers. Arrival required within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["250090"]
+japanese = "近頃は旅をするにも、街道さえ危険なようです。<line-break><value:$15>に行く<value:$16>には<line-break>護衛をつけてやらなければいけません。<line-break>冒険者の方にお願いします。<line-break>護衛を務めて、<value:$1B>日以内に<line-break>向こうに到着させてやってください。<line-break>お礼は、<value:$1A>ギアです。<end>"
+english = "Even the highways seem dangerous for travelers these days. <value:$16> needs an escort to <value:$15>. Adventurers, please take the job and ensure arrival within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["250091"]
+japanese = "わしらが他の街に行きたいと思っても、<line-break>途中で盗賊やらモンスターやらが邪魔します。<line-break>強い人に守ってもらわねば、旅もできんのです。<line-break>村の<value:$17><value:$16>を守って、<line-break><value:$15>まで行ってくださらんか。<line-break><value:$1B>日以内に着いていただきたいのじゃが、<line-break>少しですがお礼はするつもりですじゃ。<end>"
+english = "Bandits and monsters make travel unsafe. Please guard the village's <value:$17><value:$16> to <value:$15> and arrive within <value:$1B> days. We offer a small reward.<end>"
+
+["250092"]
+japanese = "我が神殿の<value:$16>が、<line-break><value:$15>に出向くにあたり、<line-break>この者を守護して送り届けてくださる勇者を<line-break>探しております。急ぎの用であるため、<line-break><value:$1B>日以内の到着を強く希望します。<line-break>報酬は、<value:$1A>ギアです。<end>"
+english = "Our temple's <value:$16> is traveling to <value:$15>, and we seek a hero to provide protection and ensure safe arrival. The business is urgent, so arrival within <value:$1B> days is strongly preferred. Reward: <value:$1A> Gea.<end>"
+
+["250093"]
+japanese = "ヤバいんだよね、最近は。<line-break>町の外が安全じゃないんだ。<line-break>だけど、テラネ酒場の<value:$16>が、<line-break><value:$15>に行かなくっちゃならない。<line-break>そこで、護衛してくれる人を探してるんだ。<line-break><value:$1B>日以内に向こうに着いてほしいな。<line-break>報酬は、<value:$1A>ギアでどうかな？<end>"
+english = "Things are bad lately. It isn't safe outside town. But Terane Tavern's <value:$16> has to go to <value:$15>, so we're looking for an escort. Please arrive within <value:$1B> days. How does <value:$1A> Gea sound?<end>"
+
+["250094"]
+japanese = "日頃のご愛顧ありがとうございます。<line-break>このたびお願いしたいのは、護衛です。<line-break>テラネ道具店の<value:$16>を<line-break><value:$15>まで護衛してほしいのです。<line-break>到着は、<value:$1B>日以内でお願いいたします。<line-break>お礼は、<value:$1A>ギアでいかがでしょうか。<end>"
+english = "Thank you for your continued patronage. We need someone to escort Terane Item Shop's <value:$16> to <value:$15>. Please arrive within <value:$1B> days. Would <value:$1A> Gea be an acceptable reward?<end>"
+
+["250095"]
+japanese = "仕事の都合で、<value:$15>に人をやる。<line-break>この町の<value:$16>だ。<line-break>だが聞く所によると、町の外は危険らしい。<line-break>そこで、冒険者に護衛してもらいたい。<line-break>期限は、<value:$1B>日以内。<line-break>お礼は、<value:$1A>ギアだ。<end>"
+english = "Business requires us to send someone to <value:$15>: this town's <value:$16>. But according to reports, it is dangerous outside town, so we want an adventurer to serve as escort. Deadline: within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["250096"]
+japanese = "旅は危険ととなりあわせです。<line-break>我が宿屋に宿泊された<line-break><value:$17><value:$16>様、<line-break>この方の行き先である<value:$15>まで<line-break>護衛をお願いします。<line-break><value:$1B>日以内に到着してください。<line-break><value:$1A>ギアのお礼をいたします。<end>"
+english = "Travel and danger go hand in hand. Please escort <value:$17><value:$16>, a guest at our inn, to <value:$15>. Arrival required within <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["250097"]
+japanese = "近頃はどこも物騒だ。<line-break>俺たちも腕っぷしには自信があるが、<line-break>それでも１人旅は危ねえな。<line-break>うちの<value:$16>を守って、<line-break><value:$1B>日以内に<value:$15>に行ってくれ。<line-break>報酬は、<value:$1A>ギア出すぜ。<end>"
+english = "Things have gotten dangerous everywhere lately. We're no slouches in a fight, but even so, traveling alone is risky. Protect our <value:$16> on the way to <value:$15> and arrive within <value:$1B> days. We'll pay <value:$1A> Gea.<end>"
+
+["250098"]
+japanese = "市民ギルドの<value:$16>が<line-break><value:$15>に行くんだが、<line-break>どうも道中、危険らしい。<line-break>誰か護衛してくれる人がいるといいんだけど。<line-break><value:$1A>ギアは、出しますよ。<line-break><value:$1B>日以内に到着させてくださいね。<line-break>誰かやってくれませんかね。本当に。<end>"
+english = "It would be good to have someone escort <value:$16> from the Citizens' Guild to <value:$15>, as the road seems dangerous. We'll pay <value:$1A> Gea. Please complete the journey within <value:$1B> days. Won't someone take the job? Please?<end>"
+
+["250099"]
+japanese = "村の<value:$17><value:$16>が、<line-break><value:$15>まで行く用事ができての。<line-break>どうしてもはずすわけにはいかないんじゃ。<line-break>そこで護衛を頼みたいんだが、<line-break>誰か引き受けてくれんかの？<line-break>あまり日がないんで、<value:$1B>日以内でな。<line-break>お礼は、<value:$1A>ギアでどうかな？<end>"
+english = "Unavoidable business will take the village's <value:$17><value:$16> to <value:$15>. I'd like to hire an escort. Would anyone take the job? There isn't much time, so please arrive within <value:$1B> days. How does <value:$1A> Gea sound?<end>"
+
+["250100"]
+japanese = "日頃のご愛顧、ありがとうございます。<line-break>この町の<value:$17><value:$16>を<line-break><value:$15>まで護衛していただきたい。<line-break><value:$1B>日以内の到着を希望します。<line-break>報酬は、<value:$1A>ギアです。<end>"
+english = "Thank you for your continued patronage. We would like someone to escort this town's <value:$17><value:$16> to <value:$15>. Please arrive within <value:$1B> days. The reward is <value:$1A> Gea.<end>"
+
+["250101"]
+japanese = "俺たちは仕事の都合で他の街に行くことがある。<line-break>近頃じゃ、道中は安全とはいえねえ。<line-break>何度も危ない目にあってる。護衛が必要だ。<line-break><value:$17><value:$16>が、<line-break><value:$15>に行くんだ。その護衛を頼む。<line-break><value:$1B>日以内に到着してくれ。<line-break>報酬は、<value:$1A>ギア用意したぜ。<end>"
+english = "Our work takes us to other towns, but roads are unsafe. Escort <value:$17><value:$16> to <value:$15>. Deadline: <value:$1B> days. Reward: <value:$1A> Gea.<end>"
+
+["250102"]
+japanese = "この町の<value:$17><value:$16>が、<line-break><value:$15>に出かけます。<line-break>危険があるといけませんので、<line-break>護衛をつけたいと思います。<line-break>どなたか護衛として、同行してください。<line-break><value:$1B>日以内に到着してくだされば、<line-break><value:$1A>ギアを報酬としてさしあげます。<end>"
+english = "We would like someone to accompany this town's <value:$17><value:$16> to <value:$15> as an escort, in case of danger. Please arrive within <value:$1B> days. The reward will be <value:$1A> Gea.<end>"
+
+["250103"]
+japanese = "<value:$17><value:$16>様を<line-break><value:$15>まで送ってくださる方を<line-break>募集いたします。<line-break><value:$1B>日以内の到着、<line-break><value:$1A>ギアの報酬という条件で、<line-break>ぜひお願いいたします。<end>"
+english = "We seek someone to escort <value:$17><value:$16> to <value:$15>. The terms are arrival within <value:$1B> days and a reward of <value:$1A> Gea. We sincerely hope someone will accept.<end>"
+
+["250104"]
+japanese = "私たちの仕事は、各地のできごとを歌にして<line-break>多くの人に広めること。街から街へ移動して<line-break>いろいろな場所で歌を歌います。<line-break>次は、<value:$15>に行きたいのですが、<line-break>どなたか護衛をお願いできませんか？<line-break><value:$1B>日以内に連れていってください。<line-break><value:$1A>ギアの報酬を差し上げます。<end>"
+english = "We turn events into songs and travel town to town performing them. Next we go to <value:$15>. Get us there within <value:$1B> days. Reward: <value:$1A> Gea.<end>"

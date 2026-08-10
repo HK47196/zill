@@ -1,0 +1,93 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2410000"]
+japanese = "PSP用新スタートイベント04用開始<end>"
+english = ""
+
+["2410001"]
+japanese = "団長。本当にこの先に<line-break>賢者が住んでいる屋敷が<line-break>あるんでゴブか？<end>"
+english = "Captain, is there really a mansion up ahead where a sage lives, gob?<end>"
+
+["2410002"]
+japanese = "うむ。間違いはないゴブ。<line-break>信じて進むゴブ。<end>"
+english = "Indeed. There's no mistake, gob. Have faith and press on.<end>"
+
+["2410003"]
+japanese = "でも噂によると選ばれた者しか<line-break>行き着けないと聞いたゴブ…。<end>"
+english = "But I heard only the chosen can ever reach it, gob...<end>"
+
+["2410004"]
+japanese = "む、心配ないゴブ。<line-break>聖杯を得た我らゴフゴブ団が<line-break>選ばれし者でないわけがないゴブ。<end>"
+english = "No need to worry, gob. We of the Gob-Gob Gang obtained the Grail. How could we possibly not be the chosen ones?<end>"
+
+["2410005"]
+japanese = "そ、そうでゴブね。<line-break>何か希望が出てきたでゴブ。<end>"
+english = "Y-You're right, gob. I'm starting to feel hopeful.<end>"
+
+["2410006"]
+japanese = "えっ？<line-break>なんで、ゴブリンが<line-break>人間の言葉をしゃべれるの？<line-break>こいつら外見こそゴブリンだけど<line-break>ひょっとして新種の魔物かしら？<end>"
+english = "What? How can Goblins speak the human tongue? They look like Goblins, but could they be some new kind of monster?<end>"
+
+["2410007"]
+japanese = "むむっ、失敬な女ゴブ。<line-break>初対面の我々に向かって<line-break>あからさまな侮蔑ゴブ。<end>"
+english = "Hmph! What an insolent woman, gob. Openly insulting us the moment we meet!<end>"
+
+["2410008"]
+japanese = "やっぱり、このゴブリンたち<line-break>人の言葉をしゃべってる！？<line-break>\u3000<line-break><value:$28>、<line-break>最近、世界中で<line-break>おかしなことが起こっているの。<line-break>大地震もそうだし、<line-break>隠れ里が魔人に、<line-break>焼き払われたって話も聞いたわ…。<end>"
+english = "They really are speaking the human tongue! <value:$28>, strange things have been happening all over the world lately. There was that great earthquake, and I heard a hidden village was burned to the ground by demons...<end>"
+
+["2410009"]
+japanese = "むっ！？\u3000この妄想女。<line-break>栄えある我らゴブゴブ団が<line-break>村を焼き討ちしたと言ってるゴブ。<end>"
+english = "What!? That deluded woman is accusing the illustrious Gob-Gob Gang of burning down the village, gob!<end>"
+
+["2410010"]
+japanese = "えっ！？<line-break>そ、そんなこと<line-break>言ってない…。<end>"
+english = "What!? I-I never said that...<end>"
+
+["2410011"]
+japanese = "焼き討ちの罪を<line-break>我らにかぶせるつもりゴブね！？<line-break>なんでそんなヒドイことをするゴブか？<end>"
+english = "You're trying to pin the burning on us, gob!? Why would you do something so awful?<end>"
+
+["2410012"]
+japanese = "マルーン、<line-break>最近、世界中で<line-break>おかしなことが起こってるゴブ。<line-break>大地震もそうだし、<line-break>隠れ里が魔人に<line-break>焼き払われたという話も聞いたゴブ。<line-break>それでこの妄想女も<line-break>気が動転してしまって、<line-break>妄想癖がひどくなってるゴブよ。<end>"
+english = "Maroon, strange things have been happening all over the world lately, gob. There was that great earthquake, and I heard a hidden village was burned to the ground by demons. All that must have rattled this deluded woman and made her delusions even worse.<end>"
+
+["2410013"]
+japanese = "…そうだったでゴブか<line-break>そういう意味では、この妄想女も<line-break>被害者だったゴブね？<end>"
+english = "Oh... Is that what happened, gob? Then I suppose this deluded woman is a victim too?<end>"
+
+["2410014"]
+japanese = "もう！\u3000被害者違う！！<line-break>って言うか、それ、<line-break>さっき私が言ったこと…！<end>"
+english = "Enough! I'm not a victim! And anyway, you just repeated exactly what I said...!<end>"
+
+["2410015"]
+japanese = "それにしてもこの妄想女の<line-break>礼儀知らずにもほどがあるゴブ！<line-break>団長、どうするゴブ？<end>"
+english = "Still, this deluded woman's rudeness knows no bounds, gob! Captain, what should we do?<end>"
+
+["2410016"]
+japanese = "よし、マルーン。<line-break>お前がひとつ懲らしめてやるでゴブ。<end>"
+english = "Very well, Maroon. You teach her a lesson, gob.<end>"
+
+["2410017"]
+japanese = "ええっ！？<end>"
+english = "What!?<end>"
+
+["2410018"]
+japanese = "親分、<line-break>こんなところで争っても<line-break>幸せにはなれないゴブ。<line-break>賢者様の屋敷を<line-break>探すのが先ゴブ。<end>"
+english = "Boss, fighting here won't bring us happiness, gob. Finding the sage's mansion comes first.<end>"
+
+["2410019"]
+japanese = "む、それもそうゴブ。<line-break>こんな妄想女にかまっていては<line-break>時間の無駄ゴブ。<line-break>我々には崇高な目的があるゴブ。<line-break>無礼な人間どもは<line-break>こっちから無視するゴブ。<end>"
+english = "Hm, you have a point, gob. Wasting time on this deluded woman will get us nowhere. We have a noble purpose! We'll be the ones to ignore these rude humans.<end>"
+
+["2410020"]
+japanese = "よし、いくゴブ！<line-break>ゴブゴブ団の幸せに向かって<line-break>全速前進ゴブ！<end>"
+english = "Let's go, gob! Full speed ahead toward the Gob-Gob Gang's happiness!<end>"
+
+["2410021"]
+japanese = "あっ、見て。逃げるわよ！<line-break>追ってみましょ！<end>"
+english = "Oh, look! They're getting away! Let's follow them!<end>"
+
+["2410022"]
+japanese = "PSP用新スタートイベント04用終端<end>"
+english = ""

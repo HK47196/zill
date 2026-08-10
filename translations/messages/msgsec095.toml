@@ -1,0 +1,333 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["950000"]
+japanese = "オイフェメッセージＶ１開始<end>"
+english = ""
+
+["950001"]
+japanese = "俺たち冒険者のことをバカにする気か？<line-break>この小娘！<end>"
+english = "Are you mocking us adventurers, you little brat?<end>"
+
+["950002"]
+japanese = "別にバカになんかしてなくてよー？\u3000<line-break>ただ、事実を言ってあげただけ。<line-break>\u3000<line-break>こぉ～んなに、つまらない世界を<line-break>真顔でうろついて冒険ですって？<line-break>ホント笑わせるわ！\u3000くだらないわ！<end>"
+english = "I'm not mocking you. I merely told you the truth. You wander around this dreadfully dull world with straight faces and call it adventure? What a joke! How utterly ridiculous!<end>"
+
+["950003"]
+japanese = "こ、この…！\u3000冒険のすばらしさを<line-break>バカにしやがって…！<end>"
+english = "Y-you... How dare you mock the wonders of adventure!<end>"
+
+["950004"]
+japanese = "冒険をバカになんてしてないわ。<line-break>あなたがたの程度の低さを指摘したの。<end>"
+english = "I wasn't mocking adventure. I was pointing out how inferior you are.<end>"
+
+["950005"]
+japanese = "こっ、こっ、このエルフが！<line-break>ギタギタにしてやる！！<end>"
+english = "Y-you... You damned Elf! I'll tear you to pieces!<end>"
+
+["950006"]
+japanese = "そ、アタクシは高貴なエルフなのよ。<line-break>あなたたち下等生物とは違うのよ。<line-break>\u3000<line-break>すぐ暴力に訴えようとするのね？<line-break>これだから下等生物ってイヤなのよ。<line-break>つまらないわ。ホントつまらない！<end>"
+english = "That's right. I am a noble Elf, quite unlike you inferior creatures. Do you always resort to violence so quickly? That's precisely what I can't stand about inferior creatures. How dull. Utterly dull!<end>"
+
+["950007"]
+japanese = "あのエルフを助ける<end>"
+english = "Help that elf<end>"
+
+["950008"]
+japanese = "放っておく<end>"
+english = "Leave the elf alone<end>"
+
+["950009"]
+japanese = "こっ、こいつは、俺たちのことを<line-break>バカにしてるんだぞ！<line-break>\u3000<line-break>こんな奴を助ける気か！<line-break>貴様も痛い目にあわねば<line-break>わからんようだな！<end>"
+english = "S-she's making fools of us! You're going to help someone like that? Looks like you won't understand until you've had a taste of pain yourself!<end>"
+
+["950010"]
+japanese = "くっ！\u3000この…！<line-break>覚えていろよ！<end>"
+english = "Damn you... Just you remember this!<end>"
+
+["950011"]
+japanese = "おい、そこのエルフ、<line-break>お前も今度会ったらこうしてやる！<line-break>覚えていろよ！<end>"
+english = "Hey, Elf! Next time we meet, you'll get the same! Remember that!<end>"
+
+["950012"]
+japanese = "あー、程度が低いわね、下等生物って！<line-break>こうやってなんでも暴力で<line-break>決めようとするのよねー！<line-break>ま、そこが下等生物が下等生物である<line-break>理由なんでしょうけど、エルフである<line-break>高貴なアタクシには耐えられないわ！<end>"
+english = "Oh, inferior creatures are so terribly crude! You always try to settle everything with violence, don't you? I suppose that's what makes inferior creatures inferior, but a noble Elf such as myself simply cannot abide it!<end>"
+
+["950013"]
+japanese = "このつまらない世界をありがたがって<line-break>うろついて、冒険だって喜べるのも<line-break>その程度の低い脳みそあってのことね。<line-break>失礼するわ。外界を見ろってラミュ様は<line-break>おっしゃるけど、こんなつまらない世界<line-break>見る価値はないもの。森に戻るわ。<end>"
+english = "Only with brains as inferior as yours could you roam this dull world, cherish it, and delight in calling that adventure. Good day. Lady Ramyu tells me to see the outside world, but a world this tedious isn't worth seeing. I'm going back to the forest.<end>"
+
+["950014"]
+japanese = "いや、世界は驚きに満ちている<end>"
+english = "No, the world is full of surprises<end>"
+
+["950015"]
+japanese = "声をかけない<end>"
+english = "Say nothing<end>"
+
+["950016"]
+japanese = "はぁ～？<end>"
+english = "What?<end>"
+
+["950017"]
+japanese = "さっきの、頭の中まで冒険ロマンの<line-break>連中も、そこまで言わなかったわ！<line-break>\u3000<line-break>あなた、あいつらに輪をかけてアホ？<line-break>信じられないうつけ者？\u3000こぉ～んなに<line-break>つまらない世界が驚きに満ちている？<end>"
+english = "Even those adventure-addled fools from before didn't go that far! Are you even more stupid than they were? Some kind of unbelievable simpleton? You think this dreadfully dull world is full of wonders?<end>"
+
+["950018"]
+japanese = "バカじゃない？\u3000アホじゃない？<line-break>どこへ行っても新しい驚きなんかない。<line-break>陳腐で何もかもがありふれてたわ。<end>"
+english = "Are you stupid? A complete fool? There's nothing new or surprising anywhere. Everything I saw was stale and commonplace.<end>"
+
+["950019"]
+japanese = "世界の何がつまらないの？<end>"
+english = "What's so boring about the world?<end>"
+
+["950020"]
+japanese = "じゃあ、禁断の聖杯って知ってる？<end>"
+english = "Then do you know about the Forbidden Grail?<end>"
+
+["950021"]
+japanese = "ロストールのお城はつまらなかったわ。<line-break>門番が立ってるだけだもん。ダメね。<end>"
+english = "The castle in Rostorl was dull. All it had was a guard standing at the gate. No good at all.<end>"
+
+["950022"]
+japanese = "あ、あとは、ウルカーンもつまんない。<line-break>な、何もなかったもん。ダメダメよ！<end>"
+english = "A-and Urkaan was dull too. There was n-nothing there. No good at all!<end>"
+
+["950023"]
+japanese = "あ、あとは…何って…、何もかもよ！！<line-break>下等生物のくせに細かくてよぉ！！<line-break>\u3000<line-break>アタクシはつまんないって言う理由を<line-break>言ったんだから、今度はあなたが<line-break>世界はすばらしいって理由を言う番よ！<end>"
+english = "A-and what else...? Everything! For an inferior creature, you certainly do fuss over petty details! I've told you why I find the world dull, so now it's your turn to explain why it's wonderful!<end>"
+
+["950024"]
+japanese = "禁断の聖杯…？<end>"
+english = "The Forbidden Grail...?<end>"
+
+["950025"]
+japanese = "ロストールのお城はつまらなかったわ。<line-break>門番が立ってるだけだもん。ダメね。<end>"
+english = ""
+
+["950026"]
+japanese = "し、し、知らないわけないでしょ。<end>"
+english = "O-of course I know what that is.<end>"
+
+["950027"]
+japanese = "アタクシは高貴で優雅なエルフなのよ！<line-break>何もかも知り尽くして飽き飽きだわ！<line-break>\u3000<line-break>き、禁断の聖杯は…その…杯なのよ。<line-break>魔法の物品ね。そうよ魔法の杯よぉ！<line-break>禁断…って言うくらいだから、あ！<end>"
+english = "I am a noble and refined Elf! I know everything there is to know, and I'm thoroughly bored with it all! Th-the Forbidden Grail is... well... a cup. A magical object. Yes, a magical cup! And since it's forbidden... Ah!<end>"
+
+["950028"]
+japanese = "禁酒ができるのよ！\u3000そうよ、酒ほど<line-break>イヤなものはないわ。ドワーフなんかが<line-break>いっつも酒の臭いをプンプンさせて…！<line-break>アレを世界から消し去るために存在する<line-break>杯だわ。酒臭いドワーフを一掃するの！<line-break>そうね…アレはいい線いってるかしら？<end>"
+english = "It can put a stop to drinking! That's right, nothing is more loathsome than alcohol. Dwarves are forever reeking of the stuff...! The grail exists to wipe it from the face of the world. It will rid us of every alcohol-reeking Dwarf! Yes... that sounds about right, doesn't it?<end>"
+
+["950029"]
+japanese = "何よ！\u3000違うって、じゃ、じゃあ、<line-break>答えはなんなのよ！\u3000答えなさいよ！<end>"
+english = "What? If that's wrong, th-then what is the answer? Tell me!<end>"
+
+["950030"]
+japanese = "何で答えないのよ！<line-break>さっきの奴らの方がまだマシだわ！\u3000\u3000<line-break>\u3000<line-break>あいつらは、バカだったけど、<line-break>何か説明しようとしたもの。<line-break>あなた、高貴なエルフをバカにする気？<end>"
+english = "Why won't you answer? Even those fools from before were better than you! They were idiots, but at least they tried to explain something. Are you mocking a noble Elf?<end>"
+
+["950031"]
+japanese = "ま、待ちなさいよぉ！<line-break>アタクシを置いて行こうなんて、<line-break>１００年早いわ！<end>"
+english = "W-wait! You're a hundred years too early to think you can leave me behind!<end>"
+
+["950032"]
+japanese = "一緒に旅についてくれば<line-break>証明できるですって？<line-break>上等じゃない！\u3000よろしくてよ！<line-break>世界が驚きに満ちているって言った<line-break>あなたの言葉、ぜーったい、必ず、<line-break>旅で証明していただくわ！<end>"
+english = "You say you can prove it if I travel with you? Very well! I accept! You said the world was full of wonders, and you will most certainly prove it to me on this journey!<end>"
+
+["950033"]
+japanese = "町を出るときに合流よ！\u3000わかって？<line-break>逃げないで来なさいよ、ド下等生物！<end>"
+english = "We'll meet when you leave town. Understood? You'd better show up, you utterly inferior creature!<end>"
+
+["950034"]
+japanese = "猫屋敷で呼び出すぅ？<end>"
+english = "You'll summon me at Cat Manor?<end>"
+
+["950035"]
+japanese = "し、知ってるわよ。そのくらい。<line-break>わかったわ、待っていてあげてよ！<end>"
+english = "O-of course I knew that much. Very well, I'll be gracious enough to wait for you!<end>"
+
+["950036"]
+japanese = "どきなさいよ。レディ、しかもエルフに<line-break>道を譲るのは常識、道理、礼儀でしょ！<end>"
+english = "Out of my way. Yielding the path to a lady, especially an Elf, is common sense, common decency, and common courtesy!<end>"
+
+["950037"]
+japanese = "ま、あなた、他の人間みたいに<line-break>小理屈で説明しないだけマシかもね！<end>"
+english = "Well, perhaps you're better than the other humans. At least you don't try to explain everything with petty arguments!<end>"
+
+["950038"]
+japanese = "ちょっと、ほめただけで<line-break>調子にのらないようにね！<end>"
+english = "Don't get carried away just because I paid you one little compliment!<end>"
+
+["950039"]
+japanese = "名を名乗りなさいよ！\u3000エルフに対して<line-break>名乗らないなんて無礼な下等生物ね！<line-break>\u3000<line-break>言っておきますけど、忘れてたんじゃ<line-break>絶対、絶対、絶対、なくてよ！<line-break>とにかく、早く名乗りなさい、無礼者！<end>"
+english = "State your name! Only a thoroughly ill-mannered inferior creature would fail to introduce oneself to an Elf! And let me make one thing clear: I absolutely, positively, most certainly did not forget to ask! Now hurry up and give me your name, you boor!<end>"
+
+["950040"]
+japanese = "<value:$28>？\u3000いいわね。<line-break>下等生物らしい名前だわ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>アタクシはフェティ。尊敬の念を込めて<line-break>フェティ様と呼んでよくてよ！<line-break>それじゃあね、<value:$28>！<end>"
+english = "<value:$28>? Very nice. A fitting name for an inferior creature. I am Fety. You may address me as Lady Fety, with all the proper respect! See you, <value:$28>!<end>"
+
+["950041"]
+japanese = "キャー！<end>"
+english = ""
+
+["950042"]
+japanese = "最近は、酒場の中で平気で武器を出す<line-break>物騒な連中が増えてきたなあ…。<line-break>\u3000<line-break>ああ、でも、あんたの行動は<line-break>間違っちゃいないと思うぜ。<line-break>仕方ないって時はあるものさ。<end>"
+english = ""
+
+["950043"]
+japanese = "からまれてる女の子を\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>助けに入るなんて<line-break><value:$28>さんらしいですね。<line-break>……私が同じようになっても、<line-break>助けに入って………。<line-break>あ、い、いえ、なんでもないです…。<end>"
+english = ""
+
+["950044"]
+japanese = "くっ…うるさいハエが！<end>"
+english = "Gah... You irritating fly!<end>"
+
+["950045"]
+japanese = "我こそはウルグの円卓騎士、\u3000\u3000\u3000\u3000<line-break>打ち砕く者、ダナン。<line-break>いにしえのドワーフの勇者…。<line-break>我が城に、<line-break>のこのこ入り込む者がいようとは、<line-break>このダナンも、なめられたものよ…。<end>"
+english = "I am Dannan the Crusher, one of Urg's Knights of the Round Table. An ancient Dwarf Hero... To think anyone would dare stroll into my castle. It seems even I, Dannan, have been sorely underestimated...<end>"
+
+["950046"]
+japanese = "我が異名の由来を知らぬか！？<line-break>ダナンの前に出た者は、ひとり残らず、<line-break>この闇の神器、憤怒の鎚の餌食よ…。<end>"
+english = "Do you not know how I earned my epithet?! Every last one who has stood before Dannan has fallen prey to this Dark Artifact, the Hammer of Wrath...<end>"
+
+["950047"]
+japanese = "熟れた果実のごとく、<line-break>その頭、<line-break>かち割ってくれようぞ！<end>"
+english = "I shall split your skull like a piece of ripe fruit!<end>"
+
+["950048"]
+japanese = "ぐぁ…！<line-break>バ、バカな…<end>"
+english = "Gaaah...! I-impossible...<end>"
+
+["950049"]
+japanese = "<if><value:$01><equal>2…終わったわね。<line-break><value:$28>、大丈夫？ <end><if><value:$01><equal>4この人、あんなに強がってたのに<line-break>かなりカッコわるいかも。 <end><if><value:$01><equal>5へへっ、ざまあみろってんだ。<line-break>俺たちを甘く見るなっての。 <end><if><value:$01><equal>6終わったね、<line-break><value:$28>。 <end><if><value:$01><equal>7…終わったわ。 <end><if><value:$01><equal>11終わったわね。 <end><if><value:$01><equal>13フッ、口ほどにもない…。 <end><if><value:$01><equal>10ふぅ、危なかったぜ。<line-break>姉ちゃん、大丈夫か？ <end><if><value:$01><equal>14さすがは伝説のドワーフの戦士よ。<line-break>やりおるのう。 <end><if><value:$01><equal>15…やった。<line-break>危ないところだったね。 <end><if><value:$01><equal>17フン！\u3000フン！\u3000フンっだ！<line-break>ドワーフなんて、大口たたいたって<line-break>こんなものよね！ <end><if><value:$01><equal>19ふぅ、びっくりした。<line-break>突然おそってくるんだもん。 <end><if><value:$01><equal>20………………。 <end><if><value:$01><equal>21…ふん、<line-break>威勢がいいのは最初だけか…。 <end><if><value:$01><equal>23大丈夫か？\u3000<value:$28>。<end><if><value:$01><equal>27…終わったな。<line-break>大丈夫か？\u3000<value:$28>。<end><if><value:$01><equal>26ふぅ…。<line-break>危ないところじゃったな<end><if><value:$01><equal>24危ないところでしたね。<line-break>大丈夫でしたか？<line-break><value:$28>様。<end><if><value:$01><equal>25ふぅ…。<line-break>いきなり襲ってくるなんて<line-break>ひどいわよね<end><if><value:$01><equal>192お怪我は、ありませんか？<end><if><value:$01><equal>193大丈夫ですか、<value:$28>さん。<line-break>と、突然襲ってきたから<line-break>わ、私、ビックリしてしまって…。<end><if><value:$01><equal>194円卓の騎士といっても<line-break>大したことはなかったな…。<end><if><value:$01><equal>191あたし…無事なのね。<line-break>もう魔人は、相手したくないわ。<end><if><value:$01><equal>190無事みたいだな。<line-break>何事もなくてよかった。<end>大丈夫、<line-break><value:$28>？ <end>"
+english = "<if><value:$01><equal>2It's over... Are you all right, <value:$28>?<end><if><value:$01><equal>4All that bluster, only to end up looking this pathetic.<end><if><value:$01><equal>5Heh, serves you right. That's what you get for underestimating us.<end><if><value:$01><equal>6It's over, <value:$28>.<end><if><value:$01><equal>7It's over...<end><if><value:$01><equal>11It's over.<end><if><value:$01><equal>13Hmph. All talk...<end><if><value:$01><equal>10Whew, that was close. You all right, sis?<end><if><value:$01><equal>14Just what I'd expect from a legendary Dwarf warrior. Well fought!<end><if><value:$01><equal>15Yes... That was close.<end><if><value:$01><equal>17Hmph! Hmph! Hmph! Dwarves can boast all they like, but this is all they're capable of!<end><if><value:$01><equal>19Whew, that scared me. That attack came out of nowhere!<end><if><value:$01><equal>20………………。<end><if><value:$01><equal>21Hmph... So the bravado didn't last long.<end><if><value:$01><equal>23Are you all right, <value:$28>?<end><if><value:$01><equal>27It's over... Are you all right, <value:$28>?<end><if><value:$01><equal>26Whew... That was a close one.<end><if><value:$01><equal>24That was a close call. Are you unharmed, <value:$28>?<end><if><value:$01><equal>25Whew... Attacking without warning like that was just awful.<end><if><value:$01><equal>192Are you hurt?<end><if><value:$01><equal>193Are you all right, <value:$28>? Th-the attack was so sudden, and I... I was so startled...<end><if><value:$01><equal>194For a Knight of the Round Table, that was nothing special...<end><if><value:$01><equal>191I'm... safe. I never want to face another demon.<end><if><value:$01><equal>190Looks like all is well. I'm glad nothing happened.<end>Are you all right, <value:$28>?<end>"
+
+["950050"]
+japanese = "<if><value:$01><equal>2早くここを出ましょ。 <end><if><value:$01><equal>5あばよ、ダナン。<line-break>お前もかわいそうな奴だナン。<line-break>…ププププッ。 <end><if><value:$01><equal>6帰ろう、<value:$28>。<line-break>なんだか、早くここを出たいよ。 <end><if><value:$01><equal>7それじゃあ、<line-break>帰りましょう。 <end><if><value:$01><equal>13…帰るぞ。 <end><if><value:$01><equal>10そんじゃ、行こうぜ。 <end><if><value:$01><equal>14さぁて、帰って酒でも飲むかの。\u3000<line-break>\u3000<line-break>\u3000<line-break>伝説ではボルキスに敗れたあと<line-break>邪竜シャンマと融合したというのに<line-break>あっけなかったのお！\u3000ガハハ！ <end><if><value:$01><equal>15さあ、<value:$28>、<line-break>帰ろう。 <end><if><value:$01><equal>17さあ、<value:$28>。<line-break>このカビ臭い城から<line-break>１秒でも早く出るのよー！ <end><if><value:$01><equal>21帰るぞ。 <end><if><value:$01><equal>23さあ、帰ろう<line-break><value:$28>。<end><if><value:$01><equal>27さあ、帰ろう<end><if><value:$01><equal>26さあ、ここを出ようか…。<end><if><value:$01><equal>24それじゃあ、<line-break>帰りましょう、<value:$28>様<end><if><value:$01><equal>25それじゃあ、<line-break>帰りましょう。 <end><if><value:$01><equal>192…嫌な予感がします。<line-break>早くここから離れましょう。<end><if><value:$01><equal>193さあ、<value:$28>さん。<line-break>早く帰りましょう。<end><if><value:$01><equal>194邪竜シャンマと融合した者が<line-break>この程度で…？<line-break><line-break>…いや考えすぎか。<line-break>さあ、帰ろう。<end><if><value:$01><equal>191本当に倒せたのかしら…？<line-break><line-break><line-break>…ふ。私、魔人を過剰に恐がりすぎよね。<line-break>とにかく、ここを出ないと。<end><if><value:$01><equal>190…倒せたのか？<line-break>経験上、魔人は油断できない。<line-break>倒せたと思ってもな。<line-break>…いずれにせよ、<line-break>急いでここを離れたほうがいいな。<end>それじゃあ、<line-break>帰ろうよ、<value:$28>。 <end>"
+english = "<if><value:$01><equal>2Let's hurry and get out of here.<end><if><value:$01><equal>5So long, Dannan. You're one sorry Dannan... Pffft!<end><if><value:$01><equal>6Let's go home, <value:$28>. I don't know why, but I want to get out of here as soon as we can.<end><if><value:$01><equal>7Well then, let's go home.<end><if><value:$01><equal>13We're leaving.<end><if><value:$01><equal>10All right, let's go.<end><if><value:$01><equal>14Well then, shall we go home and have a drink? The legends say Dannan merged with the Evil Dragon Shanma after being defeated by Borkis, yet that was over in no time! Gahaha!<end><if><value:$01><equal>15Come on, <value:$28>. Let's go home.<end><if><value:$01><equal>17Come on, <value:$28>! We're getting out of this musty castle as fast as we can!<end><if><value:$01><equal>21We're leaving.<end><if><value:$01><equal>23Come on, <value:$28>. Let's go home.<end><if><value:$01><equal>27Come on, let's go home.<end><if><value:$01><equal>26Well, shall we get out of here...?<end><if><value:$01><equal>24Well then, let us return, <value:$28>.<end><if><value:$01><equal>25Well then, let's go home.<end><if><value:$01><equal>192I have a bad feeling about this... We should get away from here quickly.<end><if><value:$01><equal>193Come, <value:$28>. Let's hurry home.<end><if><value:$01><equal>194Could someone who merged with the Evil Dragon Shanma really be defeated that easily...? No, I'm probably overthinking it. Come on, let's go home.<end><if><value:$01><equal>191Did we really win...? Hm. I suppose I'm too afraid of demons. In any case, we need to get out of here.<end><if><value:$01><equal>190Is it really over...? In my experience, you can never let your guard down around demons, even when you think the fight is finished. Either way, we'd better leave this place quickly.<end>Well then, let's go home, <value:$28>.<end>"
+
+["950051"]
+japanese = "…待つがよい<end>"
+english = "...Wait.<end>"
+
+["950052"]
+japanese = "<if><value:$01><equal>5誰だ！？ <end><if><value:$01><equal>13誰だ！？ <end><if><value:$01><equal>10誰だ！？ <end><if><value:$01><equal>14誰じゃ！？ <end><if><value:$01><equal>19誰なのぉ！？ <end><if><value:$01><equal>23誰だ！？ <end><if><value:$01><equal>27誰だ！？ <end><if><value:$01><equal>26誰じゃ！？ <end><if><value:$01><equal>24誰！？ <end><if><value:$01><equal>25誰なの！？ <end><if><value:$01><equal>192誰です？<end><if><value:$01><equal>193だ、誰ですか！？<end><if><value:$01><equal>194誰だ！？<end><if><value:$01><equal>191誰！？<end><if><value:$01><equal>190誰だ！？<end>誰！？ <end>"
+english = "<if><value:$01><equal>5Who's there?!<end><if><value:$01><equal>13Who's there?!<end><if><value:$01><equal>10Who's there?!<end><if><value:$01><equal>14Who goes there?!<end><if><value:$01><equal>19Who is it?!<end><if><value:$01><equal>23Who's there?!<end><if><value:$01><equal>27Who's there?!<end><if><value:$01><equal>26Who goes there?!<end><if><value:$01><equal>24Who?!<end><if><value:$01><equal>25Who is it?!<end><if><value:$01><equal>192Who is it?<end><if><value:$01><equal>193W-who is it?!<end><if><value:$01><equal>194Who's there?!<end><if><value:$01><equal>191Who?!<end><if><value:$01><equal>190Who's there?!<end>Who?!<end>"
+
+["950053"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000余は邪竜シャンマ…\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000いにしえ、ボルキスに敗れ、<line-break>\u3000\u3000そのおり、ダナンに力を盗み取られ<line-break>\u3000\u3000\u3000\u3000\u3000\u3000悠久の年を経しが…<end>"
+english = "I am Shanma, the Evil Dragon... Long ago, Borkis defeated me, and in that moment Danan stole my power. Countless ages have passed, but...<end>"
+
+["950054"]
+japanese = "\u3000\u3000\u3000\u3000\u3000うぬの働きにより\u3000\u3000<line-break>\u3000\u3000\u3000\u3000今ここに解放された…<line-break>\u3000\u3000\u3000まずは、うぬを喰い裂き…<line-break>\u3000\u3000世界を破壊してくれようぞ…！<end>"
+english = "Your deeds have set me free here and now... First, I shall rip you apart... and then destroy the world...!<end>"
+
+["950055"]
+japanese = "邪竜シャンマ…！<end>"
+english = "Shanma, the Evil Dragon...!<end>"
+
+["950056"]
+japanese = "<if><value:$01><equal>4う～ん、アカデミーで習ったかも…。<line-break>ボルキスに敗れて王になり損なった<line-break>ドワーフの戦士ダナンは…<line-break>えと、確か…、<line-break>ボルキスに退治された邪竜シャンマと<line-break>融合し、力を得て…<end><if><value:$01><equal>8さて、いよいよ…。<end><if><value:$01><equal>9おっさん、おっさん。<line-break>あんた、ほんとにダナン？<end><if><value:$01><equal>11…ダナン？<line-break>彼、さっき、<line-break>ドワーフのダナンって言ったわよね。<line-break>ということは、彼が、<line-break>邪竜シャンマと融合した<line-break>ドワーフの戦士ダナン…！？<end><if><value:$01><equal>16さて…、これからだな。<end><if><value:$01><equal>20…感じる。<end>終わった…のか？<end>"
+english = ""
+
+["950057"]
+japanese = "<if><value:$01><equal>4きゃん！<line-break>もしかして…！<end>しっ…！<end>"
+english = ""
+
+["950058"]
+japanese = "フフ、余を…<line-break>余を引きずり出すとは…<line-break>うつけた者どもよ…<end>"
+english = ""
+
+["950059"]
+japanese = "<if><value:$01><equal>3正体を現しおったな！ <end><if><value:$01><equal>4きゃん、やっぱり大当たり！<line-break>アカデミーで習ったことでも<line-break>たまには役に立つのかも！<line-break>だけど、ここで<line-break>食べられちゃったら<line-break>実は役に立ってないかも！\u3000きゃっ！ <end><if><value:$01><equal>8真打ち登場ですか？<line-break>邪竜シャンマ！ <end><if><value:$01><equal>9フフ、雪辱戦ってわけ？<line-break>こうじゃなきゃ！ <end><if><value:$01><equal>11…邪竜シャンマ！ <end><if><value:$01><equal>12やれやれ、やっと、<line-break>真打ち登場ってわけだ。 <end><if><value:$01><equal>16…きたか。 <end><if><value:$01><equal>20…きたか。 <end><if><value:$01><equal>23…邪竜シャンマ！ <end><if><value:$01><equal>26正体を現したな！ <end><if><value:$01><equal>24邪竜シャンマ！ <end><if><value:$01><equal>25邪竜シャンマ！ <end><if><value:$01><equal>192…邪竜。 <end><if><value:$01><equal>193あ、あれが邪竜！？<line-break>あんな恐ろしいのと<line-break>戦っちゃうんですか！？<end><if><value:$01><equal>194邪竜シャンマ！<line-break><if><value:$01><equal>191………………！<line-break>まだ死んでなかったのね…。<line-break><line-break>…いいわ、<line-break>何度でも倒してあげようじゃないの！<end><if><value:$01><equal>190やはり正体を隠していたか！<line-break>いくぞ、<value:$28>。<end>ようやく正体を現したか！ <end>"
+english = "<if><value:$01><equal>3So you've shown your true form!<end><if><value:$01><equal>4Eek! I knew I was right! Maybe the things they teach at the Academy really do come in handy sometimes! Though if I get eaten here, I suppose they didn't help after all! Eek!<end><if><value:$01><equal>8So the main attraction has arrived? Shanma, the Evil Dragon!<end><if><value:$01><equal>9Heh. A chance to settle the score, huh? That's more like it!<end><if><value:$01><equal>11…Shanma, the Evil Dragon!<end><if><value:$01><equal>12Good grief. At last, the main attraction.<end><if><value:$01><equal>16So, you've come.<end><if><value:$01><equal>20So, you've come.<end><if><value:$01><equal>23…Shanma, the Evil Dragon!<end><if><value:$01><equal>26So you've shown your true form!<end><if><value:$01><equal>24Shanma, the Evil Dragon!<end><if><value:$01><equal>25Shanma, the Evil Dragon!<end><if><value:$01><equal>192…The Evil Dragon.<end><if><value:$01><equal>193Th-that's the Evil Dragon?! We're going to fight something that terrifying?!<end><if><value:$01><equal>194Shanma, the Evil Dragon!<line-break><if><value:$01><equal>191…! So you weren't dead after all... Fine, then. I'll defeat you as many times as I have to!<end><if><value:$01><equal>190So you were hiding your true form after all! Let's go, <value:$28>.<end>So you've finally shown your true form!<end>"
+
+["950060"]
+japanese = "まだだよ、<value:$28>。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>かつて、ダナンはボルキスと<line-break>ドワーフ王の座をかけて闘い敗れたんだ。<line-break>ダナンはくやしさのあまり闇に落ちた。<end>"
+english = "It's not over yet, <value:$28>. Long ago, Danan fought Borkis for the Dwarf throne and lost. The bitterness of defeat drove Danan into darkness.<end>"
+
+["950061"]
+japanese = "そして力を求め、<line-break>ボルキスに倒された邪竜シャンマと<line-break>融合した…。<line-break>ダナンが倒れた今、<line-break>シャンマが立ち上がるよ。<line-break>気をつけて。<end>"
+english = "Seeking power, Danan fused with Shanma, the Evil Dragon defeated by Borkis... Now that Danan has fallen, Shanma will rise. Be careful.<end>"
+
+["950062"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000さすがは地の巫女よ…\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000余のこと、よう知っておる…。<end>"
+english = "Just what I would expect from the Priestess of Earth... You know me well.<end>"
+
+["950063"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000余は邪竜シャンマ、\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000ダナンを滅ぼしたること、感謝する…。<line-break>\u3000\u3000\u3000\u3000うぬが解放したる余の力、<line-break>\u3000\u3000\u3000その身でとくと味わうがよい…。<end>"
+english = "I am Shanma, the Evil Dragon. You have my thanks for destroying Danan... Now taste for yourself the power of mine that you have unleashed...<end>"
+
+["950064"]
+japanese = "やぁーりぃー！<line-break>ま、ボクたちにかかれば<line-break>こんなもんさ！<line-break>さ、行こう、<line-break><value:$28>。<end>"
+english = "We did it! Well, that's about what you'd expect from us! Come on, <value:$28>. Let's go.<end>"
+
+["950065"]
+japanese = "わぁああ！<line-break>な、何？\u3000なんなの！？<end>"
+english = "Aaaah! Wh-what? What's happening?!<end>"
+
+["950066"]
+japanese = "じゃ、邪竜シャンマぁ！？<end>"
+english = "Sh-Shanma, the Evil Dragon?!<end>"
+
+["950067"]
+japanese = "（やった…！）<end>"
+english = "(Yes...!)<end>"
+
+["950068"]
+japanese = "フフ…<line-break>フフフ…<end>"
+english = "Heh... Heh heh heh...<end>"
+
+["950069"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000人の子ごときに敗れるとは…。\u3000\u3000\u3000\u3000<line-break>\u3000\u3000我ら、神々とともに生まれし生き物の時代は…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000終わったの…か…？<end>"
+english = "To think I could be defeated by a mere human... Has the age of creatures such as us, born alongside the gods... come to an end...?<end>"
+
+["950070"]
+japanese = "<if><value:$01><equal>2<value:$28>、<line-break>闇の神器、憤怒の鎚、あったわ。 <end><if><value:$01><equal>3<value:$28>、<line-break>闇の神器、憤怒の鎚じゃ。 <end><if><value:$01><equal>4<value:$28>、<line-break>闇の神器、憤怒の鎚だわ。 <end><if><value:$01><equal>5闇の神器、憤怒の鎚だ。<line-break>ほらよ。 <end><if><value:$01><equal>6闇の神器、憤怒の鎚だよ。<line-break>はい。 <end><if><value:$01><equal>7<value:$28>、<line-break>闇の神器・憤怒の鎚よ。 <end><if><value:$01><equal>8<value:$28>、<line-break>闇の神器、憤怒の鎚です。 <end><if><value:$01><equal>9ほい、<value:$28>。<line-break>闇の神器、憤怒の鎚だってさ。 <end><if><value:$01><equal>11<value:$28>、<line-break>闇の神器、憤怒の鎚よ。 <end><if><value:$01><equal>12ほらよ、<line-break>闇の神器、憤怒の鎚だ。 <end><if><value:$01><equal>13…憤怒の鎚だ。<line-break>受け取れ。 <end><if><value:$01><equal>10姉ちゃん。<line-break>闇の神器、憤怒の鎚だよ。<line-break>ほい。 <end><if><value:$01><equal>14闇の神器、憤怒の鎚じゃ。<line-break>受け取れ。 <end><if><value:$01><equal>15これが、闇の神器、憤怒の鎚か。<line-break>あ、ねえ、渡すよ。 <end><if><value:$01><equal>16憤怒の鎚だ。受け取ってくれ。<line-break>私は、もはや闇の神器には<line-break>用はないからな。 <end><if><value:$01><equal>17闇の神器、憤怒の鎚ですって！<line-break>まったくドワーフらしい、<line-break>ゴツゴツした武器だわ！ <end><if><value:$01><equal>19ふんぬのつち…<line-break>これも闇の神器なんだぁ…。<line-break>はい、<value:$28>。 <end><if><value:$01><equal>21闇の神器、憤怒の鎚か…。<line-break>受け取れ、<value:$28>。 <end><if><value:$01><equal>23闇の神器、憤怒の鎚…。<line-break>受け取れ、<value:$28>。 <end><if><value:$01><equal>27闇の神器、憤怒の鎚だ。<end><if><value:$01><equal>26闇の神器、憤怒の鎚じゃ。<end><if><value:$01><equal>24<value:$28>様、<line-break>闇の神器、憤怒の鎚です。 <end><if><value:$01><equal>25闇の神器、憤怒の鎚…。<end><if><value:$01><equal>192闇の神器、憤怒の鎚です。<line-break>どうぞ。<end><if><value:$01><equal>193闇の神器、憤怒の鎚です。<line-break>どうぞ<value:$28>さん。<end><if><value:$01><equal>194闇の神器、憤怒の鎚だ。<line-break>間違っても、身につけないほうがいい。<line-break>怒りに囚われて、心を失くすから。<end><if><value:$01><equal>191これが闇の神器、憤怒の鎚よ。<line-break>…ゴメンナサイ。<line-break><value:$28>が持ってて。<line-break>…なんか、昔のことを思い出して<line-break>心が…冷たいモノに<line-break>なでられてる気持ちになるの…。<end><if><value:$01><equal>190これが闇の神器、憤怒の鎚か。<line-break>…こいつも凶々しい気を放ってやがる。<line-break>受け取れ、<value:$28>。<end>はい、<value:$28>。<line-break>闇の神器、憤怒の鎚。 <end>"
+english = "<if><value:$01><equal>2<value:$28>, I found the Dark Artifact, the Hammer of Wrath.<end><if><value:$01><equal>3<value:$28>, this is the Dark Artifact, the Hammer of Wrath.<end><if><value:$01><equal>4<value:$28>, it's the Dark Artifact, the Hammer of Wrath.<end><if><value:$01><equal>5The Dark Artifact, the Hammer of Wrath. Here.<end><if><value:$01><equal>6It's the Dark Artifact, the Hammer of Wrath. Here you go.<end><if><value:$01><equal>7<value:$28>, it's the Dark Artifact, the Hammer of Wrath.<end><if><value:$01><equal>8<value:$28>, this is the Dark Artifact, the Hammer of Wrath.<end><if><value:$01><equal>9Here, <value:$28>. Apparently it's the Dark Artifact, the Hammer of Wrath.<end><if><value:$01><equal>11<value:$28>, it's the Dark Artifact, the Hammer of Wrath.<end><if><value:$01><equal>12Here. It's the Dark Artifact, the Hammer of Wrath.<end><if><value:$01><equal>13The Hammer of Wrath... Take it.<end><if><value:$01><equal>10Hey, sis. It's the Dark Artifact, the Hammer of Wrath. Here.<end><if><value:$01><equal>14The Dark Artifact, the Hammer of Wrath. Take it.<end><if><value:$01><equal>15So this is the Dark Artifact, the Hammer of Wrath. Oh, here. You take it.<end><if><value:$01><equal>16The Hammer of Wrath. Take it. I have no further use for Dark Artifacts.<end><if><value:$01><equal>17So this is the Dark Artifact, the Hammer of Wrath! What a big, clunky, thoroughly Dwarven weapon!<end><if><value:$01><equal>19The Hammer of Wrath... So this is another Dark Artifact... Here, <value:$28>.<end><if><value:$01><equal>21The Dark Artifact, the Hammer of Wrath... Take it, <value:$28>.<end><if><value:$01><equal>23The Dark Artifact, the Hammer of Wrath... Take it, <value:$28>.<end><if><value:$01><equal>27It's the Dark Artifact, the Hammer of Wrath.<end><if><value:$01><equal>26This is the Dark Artifact, the Hammer of Wrath.<end><if><value:$01><equal>24<value:$28>, this is the Dark Artifact, the Hammer of Wrath.<end><if><value:$01><equal>25The Dark Artifact, the Hammer of Wrath...<end><if><value:$01><equal>192This is the Dark Artifact, the Hammer of Wrath. Here you are.<end><if><value:$01><equal>193This is the Dark Artifact, the Hammer of Wrath. Here you are, <value:$28>.<end><if><value:$01><equal>194It's the Dark Artifact, the Hammer of Wrath. Whatever you do, don't equip it. Anger will take hold of you, and you'll lose your heart.<end><if><value:$01><equal>191This is the Dark Artifact, the Hammer of Wrath. I'm sorry... <value:$28>, you hold on to it. Somehow it brings back the past, and it feels as though something cold is... stroking my heart...<end><if><value:$01><equal>190So this is the Dark Artifact, the Hammer of Wrath. This thing's giving off a sinister aura too. Take it, <value:$28>.<end>Here, <value:$28>. The Dark Artifact, the Hammer of Wrath.<end>"
+
+["950071"]
+japanese = "<value:$28>は<line-break>竜殺しの称号を得た。<end>"
+english = "<value:$28> earned the title of Dragonslayer.<end>"
+
+["950072"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000逃げるか…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000それもよかろう。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我は解放されさえすれば、<line-break>\u3000\u3000\u3000\u3000\u3000あとは力をたくわえるのみ。<line-break>\u3000\u3000\u3000\u3000\u3000いずれ世界を滅してみせよう。<end>"
+english = "So, you flee... Very well. All I need is my freedom; then I need only gather my strength. In time, I shall destroy the world.<end>"
+
+["950073"]
+japanese = "予備用メッセージＶ１<line-break>オイフェその２<end>"
+english = ""
+
+["950074"]
+japanese = "予備用メッセージＶ１<line-break>オイフェその３<end>"
+english = ""
+
+["950075"]
+japanese = "予備用メッセージＶ１<line-break>オイフェその４<end>"
+english = ""
+
+["950076"]
+japanese = "予備用メッセージＶ１<line-break>オイフェその５<end>"
+english = ""
+
+["950077"]
+japanese = "予備用メッセージＶ１<line-break>オイフェその６<end>"
+english = ""
+
+["950078"]
+japanese = "予備用メッセージＶ１<line-break>オイフェその７<end>"
+english = ""
+
+["950079"]
+japanese = "予備用メッセージＶ１<line-break>オイフェその８<end>"
+english = ""
+
+["950080"]
+japanese = "予備用メッセージＶ１<line-break>オイフェその９<end>"
+english = ""
+
+["950081"]
+japanese = "予備用メッセージＶ１<line-break>オイフェその１０<end>"
+english = ""
+
+["950082"]
+japanese = "オイフェメッセージVOL1終端<end>"
+english = ""

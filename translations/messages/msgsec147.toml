@@ -1,0 +1,697 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1470000"]
+japanese = "ルルアンタ（修）その１\u3000開始<end>"
+english = ""
+
+["1470001"]
+japanese = "お、来たな、\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>。<line-break>\u3000<line-break>そんじゃ、ギルドに行くとしようか。<line-break>ついてきてくれ。<end>"
+english = "There you are, <value:$28>. All right, let's head to the Guild. Follow me.<end>"
+
+["1470002"]
+japanese = "ゼネテスさんじゃないか。<line-break>最近、顔を見せなかったが、<line-break>どこをほっつき歩いていたんだい？<end>"
+english = "Well, if it isn't Xenetes. Haven't seen you around lately. Where've you been wandering off to?<end>"
+
+["1470003"]
+japanese = "ま、いろんなとこだ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>で、さっそくだが、こいつのギルド<line-break>登録をしてやってくれないか？<line-break>俺の新しい相棒なんでな。<end>"
+english = "Oh, here and there. Anyway, could you register this one with the Guild? My new partner.<end>"
+
+["1470004"]
+japanese = "へえ。あんたかい。<line-break>ゼネテスさんが目を付けたんだ。<line-break>将来有望なんだろうね。<end>"
+english = "Oh? So you're the one. If Xenetes has his eye on you, you must have real potential.<end>"
+
+["1470005"]
+japanese = "犯罪登録なし。幻術計振れておらず。\u3000\u3000\u3000<line-break>…はい、あなたは今日から<line-break>冒険者として登録されました。<line-break>頑張って仕事してくれよ。<line-break>あんたが有名になったら、そのギルド登録を<line-break>したのは俺だって鼻が高いからね。<end>"
+english = "No criminal record. No reading on the illusion gauge... All right. As of today, you're officially registered as an adventurer. Work hard out there. If you become famous, I'll be proud to say I was the one who registered you with the Guild.<end>"
+
+["1470006"]
+japanese = "それで、ゼネテスさん。<line-break>せっかく来たんだから、<line-break>ひとつ仕事を頼まれてみないかい？<end>"
+english = "Now then, Xenetes. Since you're here, how about taking on a job?<end>"
+
+["1470007"]
+japanese = "ん？\u3000そうだな、<line-break>初心者向けのだったら、<line-break>聞いてみてもいいぜ？<end>"
+english = "Hm? All right. If it's fit for a beginner, I'll hear you out.<end>"
+
+["1470008"]
+japanese = "初心者向けとは言えないだろうが、<line-break>あんたが一緒だったら<line-break>大丈夫なんじゃないかな。<end>"
+english = "I wouldn't call it a beginner's job, but with you along, it should be all right.<end>"
+
+["1470009"]
+japanese = "ふぅん。<line-break>…で、どんなんだい？<end>"
+english = "Hmm. So, what is it?<end>"
+
+["1470010"]
+japanese = "最近、子供の誘拐事件が<line-break>続発しているのは知っているだろう？<line-break>\u3000<line-break>その強盗団のアジトから子供たちを<line-break>助け出してほしいって依頼だ。<end>"
+english = "You know about the recent wave of child abductions, don't you? The request is to rescue the children from the bandits' hideout.<end>"
+
+["1470011"]
+japanese = "へぇ。てことは、アジトの場所は<line-break>つきとめてあるのかい？<end>"
+english = "Oh? So you've tracked down their hideout?<end>"
+
+["1470012"]
+japanese = "ああ。このロストールから<line-break>２日ほど南西に行ったところにある<line-break>洞窟だってわかったんだ。<end>"
+english = "Yes. We found out it's a cave about two days' journey southwest of Rostorl.<end>"
+
+["1470013"]
+japanese = "ふぅん。<line-break>あの飢えた者の迷宮って<line-break>呼ばれてる洞窟だな。<end>"
+english = "Hmm. That cave they call the Labyrinth of the Hungry.<end>"
+
+["1470014"]
+japanese = "ロストールでも被害が増えてきてるんだ。<line-break>ゼネテスさん、頼むよ。<line-break>報酬は５００ギアだ。<end>"
+english = "The number of victims here in Rostorl is rising too. Please, Xenetes. The reward is 500 Gea.<end>"
+
+["1470015"]
+japanese = "…だそうだ。<line-break>どうする、<value:$28>？<end>"
+english = "There you have it. What do you say, <value:$28>?<end>"
+
+["1470016"]
+japanese = "何？\u3000フリントを襲った連中が\u3000\u3000\u3000\u3000<line-break>そんなことを言っていたのか？<line-break>\u3000<line-break>ま、かわいい女の子を捕まえて<line-break>お頭へ献上ってのは、<line-break>悪党なら誰でも言いそうなことだが…。<end>"
+english = "What? The men who attacked Flint said that? Well, “capture a pretty girl and present her to the boss” is the sort of thing any villain might say...<end>"
+
+["1470017"]
+japanese = "これは、ひょっとすると<line-break>ひょっとするな。そんじゃ、ひとつ<line-break>依頼を受けてみるとするか？<end>"
+english = "There may be something to this after all. So, shall we take the job?<end>"
+
+["1470018"]
+japanese = "おやじ、聞いての通りだ。<line-break>その依頼、俺たちが受けるぜ。<end>"
+english = "You heard, old man. We'll take the job.<end>"
+
+["1470019"]
+japanese = "そうかい。そうこなくっちゃな。<line-break>それじゃ、頼んだぜ、ゼネテスさん。<line-break>それに、<value:$28>。<end>"
+english = "Good. That's what I wanted to hear. I'm counting on you, Xenetes―and you too, <value:$28>.<end>"
+
+["1470020"]
+japanese = "そんじゃ、依頼も受けたことだし、<line-break>そろそろ宿屋に戻った方がいいな。<line-break>出発は明日だ。<line-break>ルルアンタが作るっていう夕飯、<line-break>俺も同席していいだろう？<end>"
+english = "Now that we've taken the job, we'd better head back to the inn. We leave tomorrow. You won't mind if I join you for the dinner Lulluantha's making, will you?<end>"
+
+["1470021"]
+japanese = "俺は先に宿屋に戻ってる。<line-break><value:$28>も<line-break>寄り道してないでさっさと戻れよ。<end>"
+english = "I'll go on ahead to the inn. Don't dawdle, <value:$28>. Get back there soon.<end>"
+
+["1470022"]
+japanese = "おいおい、<value:$28>。<line-break>どこに行くんだ？<end>"
+english = "Hey, <value:$28>. Where are you going?<end>"
+
+["1470023"]
+japanese = "ルルアンタが心配するだろう。<line-break>宿屋で待っていてやろうぜ？<end>"
+english = "Lulluantha will be worried. Why don't we wait for her at the inn?<end>"
+
+["1470024"]
+japanese = "二階も見てきたが、ルルアンタは<line-break>まだ帰ってきてないぜ。<line-break>俺はここで待たせてもらうとするよ。<end>"
+english = "I checked upstairs too, but Lulluantha still isn't back. Think I'll wait here.<end>"
+
+["1470025"]
+japanese = "なんだ、待ちきれないのか？<line-break>お前さんを喜ばせようと、いろいろ<line-break>買いこんでて遅くなってるんだろ？<end>"
+english = "What, can't wait? All that shopping to please you must be taking a while, eh?<end>"
+
+["1470026"]
+japanese = "…ひょっとしたら…<line-break>…まさかな。<end>"
+english = "Maybe... No. Couldn't be.<end>"
+
+["1470027"]
+japanese = "一緒にいた女の子ですか？<line-break>まだ、戻ってきてませんよ。<end>"
+english = "You mean the girl who was with you? She hasn't come back yet.<end>"
+
+["1470028"]
+japanese = "おい、<value:$28>。<line-break>どこに行くんだ？<end>"
+english = "Hey, <value:$28>. Where are you headed?<end>"
+
+["1470029"]
+japanese = "ルルアンタを捜しに行くのか？<line-break>…確かに、ルルアンタが出てから<line-break>だいぶ時間がたつが…。<end>"
+english = "Going to look for Lulluantha? She has been gone quite a while...<end>"
+
+["1470030"]
+japanese = "…実は、俺も例の子供を狙った<line-break>誘拐事件のことがひっかかっていた。<line-break>もしかしたら、ルルアンタが…。<line-break>町を捜してみた方がよさそうだな。<line-break>手遅れになるとまずい。<end>"
+english = "Actually, I've had that kidnapping case on my mind too―the one targeting children. Maybe Lulluantha... We'd better search the town. We can't afford to be too late.<end>"
+
+["1470031"]
+japanese = "よし、そんじゃ、俺も心当たりを<line-break>当たってみることにする。<line-break><value:$28>も頼んだぜ。<end>"
+english = "All right, then I'll follow up on a few leads myself. I'm counting on you too, <value:$28>.<end>"
+
+["1470032"]
+japanese = "リルビーの娘を見なかったかって？<line-break>そう言えば、さっき広場の方に<line-break>走っていくの見たような…。<end>"
+english = "Lilby's daughter? Now that you mention it, I think I saw her running toward the square a little while ago...<end>"
+
+["1470033"]
+japanese = "リルビーの娘さん？\u3000そう言われても、<line-break>同じ様な格好をしている娘さんが<line-break>たくさんおるからのう。わからんのう。<end>"
+english = "Rilby's daughter? I'm afraid I couldn't tell you. There are so many young women dressed just like her.<end>"
+
+["1470034"]
+japanese = "え？\u3000リルビーの女の子を<line-break>見なかったかって？<line-break>う～ん、ちょっとわからないな。<end>"
+english = "What? You're asking if I've seen a Lilbie girl? Hmm, I'm not sure.<end>"
+
+["1470035"]
+japanese = "いらっしゃいませ。<line-break>今日は何になさいますか？\u3000\u3000\u3000<line-break>\u3000<line-break>え？\u3000リルビーの女の子ですか？<line-break>カウンターにいるお客さんでは<line-break>ないんですよね？<end>"
+english = "Welcome. What can I get you today? What? A Lilbie girl? You don't mean the customer at the counter, do you?<end>"
+
+["1470036"]
+japanese = "お店には、他にリルビーの方は<line-break>来てないと思いますよ。<line-break>ごめんなさい。<end>"
+english = "I don't think any other Lilbies have come into the shop. Sorry.<end>"
+
+["1470037"]
+japanese = "<if><value:$29><equal>%0（はやく、ルルアンタを捜さないと。<line-break>\u3000まずは町の中を捜そう。）<end>（はやく、ルルアンタを捜さないと。<line-break>\u3000まずは町の中を捜しましょう。）<end>"
+english = "<if><value:$29><equal>%0(I've got to find Lulluantha, fast. I'll search the town first.)<end>(I must find Lulluantha quickly. I should begin by searching the town.)<end>"
+
+["1470038"]
+japanese = "！\u3000これは…。<end>"
+english = "Wait... This is...<end>"
+
+["1470039"]
+japanese = "<value:$28>。<line-break>どうやら、まずいことになりそうだ。<end>"
+english = "<value:$28>. It looks like we may be in trouble.<end>"
+
+["1470040"]
+japanese = "見覚えがあるだろう？<line-break>ルルアンタの服のボタンだ。<end>"
+english = "You recognize this, don't you? It's a button from Lulluantha's clothes.<end>"
+
+["1470041"]
+japanese = "あぁ、誘拐かはともかく<line-break>ルルアンタに何かあったのは<line-break>間違いなさそうだな。<end>"
+english = "Yeah. Kidnapping or not, something's definitely happened to Lulluantha.<end>"
+
+["1470042"]
+japanese = "おい、そこの兄さん。<line-break>ちょっと、待ってくれ。<end>"
+english = "Hey, you there. Hold up a minute.<end>"
+
+["1470043"]
+japanese = "えー？\u3000ボクに用があるのかーい？<line-break>\u3000<line-break>\u3000<end>"
+english = "Oh? Is it me you wanted?<end>"
+
+["1470044"]
+japanese = "いや、あんたは<line-break>この広場でよく見かけるんでね。<line-break>ちょっと、聞きたいことがあるんだ。<line-break>今さっき、この辺りで<line-break>リルビーの女の子と、男が何か<line-break>言い争ってたりはしなかったか？<end>"
+english = "I see you around this square a lot, so I wanted to ask you something. Did you happen to see a Lilbee girl arguing with a man around here just now?<end>"
+
+["1470045"]
+japanese = "うーん、そういえばこの辺りで<line-break>リルビーの女の子が、人相の悪ーい<line-break>男たちと、もめてるのを見たねー。<line-break>でも、しばらくしたら<line-break>女の子は男たちと一緒に町の外に<line-break>行ってしまったみたいだけどねー。<end>"
+english = "Hmm... Now that you mention it, I did see a Lilbee girl having words with some rather nasty-looking men around here. But after a while, she seemed to leave town with them.<end>"
+
+["1470046"]
+japanese = "間違いなさそうだな。<line-break>ルルアンタはそいつらに<line-break>連れていかれたんだ。<end>"
+english = "No doubt about it. They're the ones who took Lulluantha.<end>"
+
+["1470047"]
+japanese = "それで、ボクはもー、<line-break>行ってもいいのかーい？\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "So, may I go now?<end>"
+
+["1470048"]
+japanese = "ああ、ひきとめちまって<line-break>悪かったな。助かったぜ。<end>"
+english = "Yeah, sorry for holding you up. You've been a big help.<end>"
+
+["1470049"]
+japanese = "そうかーい。それなら、<line-break>ボクは行かせてもらうよー。\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "Very well. In that case, I'll be on my way.<end>"
+
+["1470050"]
+japanese = "誘拐のプロにしてはお粗末だが、<line-break>奴らはもう、この町からは離れていると<line-break>考えた方がいいだろうな。<line-break>ギルドの親父の話では、<line-break>奴らのアジトは飢えた者の迷宮だ。<line-break>今から追うぞ。<end>"
+english = "Sloppy work for professional kidnappers, but we'd better assume they've already left town. According to the old man at the Guild, their hideout is the Labyrinth of the Hungry. We're going after them now.<end>"
+
+["1470051"]
+japanese = "すぐに出発しよう。<line-break>うまくいけば、途中で<line-break>捕まえられるかもしれん。<line-break>俺は門で待っている。<line-break>準備をすませてきてくれ。<end>"
+english = "Let's leave right away. With any luck, we might catch them on the way. I'll wait at the gate. Go get ready.<end>"
+
+["1470052"]
+japanese = "冒険者ってのは、危険な仕事だからな。<line-break>装備を調え、いざって時のために薬を<line-break>用意しておくのは、基本中の基本だ。<line-break>薬は道具屋、装備は鍛冶屋だ。<line-break>こいつをとっときな。<end>"
+english = "Being an adventurer is dangerous work. Getting your gear in order and keeping medicine on hand for emergencies are the bare essentials. You get medicine at the item shop and equipment at the smithy. Here, take this.<end>"
+
+["1470053"]
+japanese = "気にすんな。<line-break>返したきゃ、出世払いでいいって。<line-break>じゃ、門で待ってるぜ。<end>"
+english = "Don't worry about it. If you want to pay me back, you can do it once you've made it big. I'll be waiting at the gate.<end>"
+
+["1470054"]
+japanese = "<value:$28>、<line-break>もう準備はいいんだな？<end>"
+english = "<value:$28>, you're ready to go, right?<end>"
+
+["1470055"]
+japanese = "準備できた<end>"
+english = "I'm ready<end>"
+
+["1470056"]
+japanese = "まだ準備中<end>"
+english = "I'm still getting ready<end>"
+
+["1470057"]
+japanese = "そんじゃ、出かけるとしよう。<line-break>急ごうぜ、<value:$28>。<end>"
+english = "All right, let's head out. We'd better hurry, <value:$28>.<end>"
+
+["1470058"]
+japanese = "ルルアンタのことが心配で\u3000\u3000\u3000<line-break>気が急ぐのもわかるが、<line-break>冒険の前の準備は肝心だ。<line-break>待っているから、もう一度<line-break>町へ戻って、準備してきてくれ。<end>"
+english = "I know you're worried about Lulluantha and eager to get moving, but it's vital to prepare before an adventure. I'll wait for you, so go back to town and make sure you're ready.<end>"
+
+["1470059"]
+japanese = "あぁ、見覚えがある。<line-break>ノーブルで襲ってきた連中に<line-break>違いない。<line-break>入口がふたつあるな。<line-break>そんじゃ、効率よく<line-break>二手に分かれるか。<end>"
+english = "Yeah, I recognize them. They're the ones who attacked us in Noble. There are two entrances. Let's split up and save some time.<end>"
+
+["1470060"]
+japanese = "先に俺が正面から行って、奴らの<line-break>注意を引きつけるから、お前さんは<line-break>右の入口から侵入してくれ。<end>"
+english = "I'll go in through the front and draw their attention. You slip in through the entrance on the right.<end>"
+
+["1470061"]
+japanese = "俺のことは心配しなさんな。<line-break>それよりも、お前さんだってひとりだ。<line-break>十分に気をつけて行ってくれ。<line-break>確認しておくが、俺たちの目標は<line-break>ルルアンタの救出。それと、<line-break>捕まっている子供たちの解放だ。<end>"
+english = "Don't you worry about me. You'll be on your own too, so watch yourself. Just to be clear, our objectives are to rescue Lulluantha and free the children they're holding captive.<end>"
+
+["1470062"]
+japanese = "そんじゃ、行くとしますか。<end>"
+english = "Well then, let's get going.<end>"
+
+["1470063"]
+japanese = "ん、なんだあ、てめえは！？<end>"
+english = "Huh? Who the hell are you?!<end>"
+
+["1470064"]
+japanese = "いや、なぁに。ちょっくら<line-break>ここにやっかいになってる子供たちを<line-break>返してもらおうかと思ってね。<end>"
+english = "Oh, nothing much. I just thought I'd ask you to give back the children who've been enjoying your hospitality.<end>"
+
+["1470065"]
+japanese = "あん？\u3000お前、ノーブルで<line-break>邪魔してきた男だな。<line-break>ふざけやがってえ！<end>"
+english = "Huh? You're the bastard who got in our way in Noble. You've got some nerve!<end>"
+
+["1470066"]
+japanese = "<if><value:$29><equal>%0（正面はゼネテスさんに任せよう。<line-break>\u3000急がないと。）<end>（正面はゼネテスさんに任せましょう。<line-break>\u3000急がないと。）<end>"
+english = "<if><value:$29><equal>%0(I'll let Xenetes handle the front. I need to hurry.)<end>(I'll leave the front to Xenetes. I must hurry.)<end>"
+
+["1470067"]
+japanese = "なんだぁ、こいつ。<line-break>やっちまえ。<end>"
+english = ""
+
+["1470068"]
+japanese = "しまった。侵入者か。<line-break>こっから先には行かせないぜ！<end>"
+english = ""
+
+["1470069"]
+japanese = "なんだ、貴様！？<line-break>どうやって入ってきた？\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "Who the hell are you?! How did you get in here?<end>"
+
+["1470070"]
+japanese = "あぁん？\u3000リルビーの娘だと？<line-break>あぁ、あのやかましい小娘のことか？\u3000<line-break>\u3000<line-break>あいつなら、さっき<line-break>他のガキどもと一緒に<line-break>エンシャントに送っちまったぜ。<end>"
+english = "Huh? Lilby's daughter? Oh, you mean that noisy little brat? She got sent off to Ancient with the other kids just a little while ago.<end>"
+
+["1470071"]
+japanese = "へっへ。やろうってのかぁ、俺と？<line-break>そのうち、俺の子分どもが戻ってくる。<line-break>そうなりゃ万事休すだぜ。<end>"
+english = "Heh heh. You really want to take me on? My boys'll be back before long, and then you're finished.<end>"
+
+["1470072"]
+japanese = "よく見りゃ、お前もなかなか<line-break>いい感じじゃねぇか。俺様直々に<line-break>かわいがってやってもいいんだぜ？\u3000\u3000<end>"
+english = "Now that I get a good look at you, you're not half bad. Maybe I'll give you some personal attention.<end>"
+
+["1470073"]
+japanese = "世の中、そう都合よくは<line-break>いかないと思うがな。<end>"
+english = "I don't think things are going to work out quite that conveniently for you.<end>"
+
+["1470074"]
+japanese = "もう、お前たち以外に<line-break>満足に動ける奴は残ってないぜ。<end>"
+english = "You're the only ones left who can still put up a fight.<end>"
+
+["1470075"]
+japanese = "な、なんだと…！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "W-What...?!<end>"
+
+["1470076"]
+japanese = "さて、こいつらを叩けば終わりだ。<line-break>さっさとやっちまおうぜ、<line-break><value:$28>。<end>"
+english = "All right. Once we take these guys down, it's over. Let's get it done, <value:$28>.<end>"
+
+["1470077"]
+japanese = "ち、ちくしょう！<line-break>おい、お前ら、ぬかるんじゃねえぞ！<line-break>\u3000<end>"
+english = "D-Damn it! Come on, you lot! Don't screw this up!<end>"
+
+["1470078"]
+japanese = "ちっ、ちくしょう…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>こんなはずじゃ…。<line-break>\u3000<end>"
+english = "Tch, damn it... This wasn't supposed to happen...<end>"
+
+["1470079"]
+japanese = "よくやったな、<value:$28>。<line-break>ひとりで行かせて大丈夫かとも<line-break>思っていたが、いらぬ心配だった。<line-break>で、<value:$28>。<line-break>お前さんの方はどうだった？<line-break>ルルアンタは見つかったか？<end>"
+english = "Well done, <value:$28>. I wasn't sure sending you alone was a good idea, but it seems I had nothing to worry about. What about you, <value:$28>? Did you find Lulluantha?<end>"
+
+["1470080"]
+japanese = "…なるほど、エンシャントへね。\u3000\u3000\u3000<line-break>これは厄介なことになってきたな。<line-break>\u3000<line-break>ここの子供たちは俺が救出した<line-break>全員無事だ。…と言っても、<line-break>まだエンシャントのほうが残ってるが。<end>"
+english = "Ancient, then. This is getting complicated. I rescued the children here, and they're all safe. But there are still the ones in Ancient.<end>"
+
+["1470081"]
+japanese = "うーん、そうだな。とりあえず\u3000\u3000\u3000\u3000<line-break>今回助け出した子供たちを<line-break>送り届けなきゃならんからな。<line-break>子供は俺がロストールまで連れていく。<line-break>お前さんは先にエンシャントへ行って<line-break>さぐりを入れておいてくれ。<end>"
+english = "Hmm. First, I need to see the children I rescued safely back. I'll take them to Rostorl. You go on ahead to Ancient and see what you can find out.<end>"
+
+["1470082"]
+japanese = "エンシャントに行ってる奴らは\u3000\u3000<line-break>そんなに多くはないだろうが、<line-break>油断はするなよ。<line-break>俺も急いでエンシャントへ向かう。<line-break>行動を起こすのは、なるべく<line-break>俺が行ってからにしてくれ。<end>"
+english = "There probably aren't many of them in Ancient, but don't let your guard down. I'll make for Ancient as quickly as I can. If possible, wait until I get there before you make a move.<end>"
+
+["1470083"]
+japanese = "そんじゃ、俺は子供たちを連れて<line-break>ロストールに向かう。<line-break>エンシャントで会おう。<end>"
+english = "All right, I'll take the children to Rostorl. See you in Ancient.<end>"
+
+["1470084"]
+japanese = "<if><value:$29><equal>%0（はやくルルアンタを捜さないと！<line-break>\u3000ルルアンタはエンシャントにいる。）<end>（はやくルルアンタを捜さないと！<line-break>\u3000ルルアンタは<line-break>\u3000エンシャントにいるわ。）<end>"
+english = "<if><value:$29><equal>%0(I have to find Lulluantha, fast! She's in Ancient.)<end>(I have to find Lulluantha, fast! She's in Ancient.)<end>"
+
+["1470085"]
+japanese = "ちっ、まずったぜ。<line-break>よりによって、あのアンギルダンに<line-break>見つかっちまうなんてよ。<end>"
+english = "Damn, I screwed up. Of all people, Angeerdan had to spot me.<end>"
+
+["1470086"]
+japanese = "そこのお主、冒険者だな！<line-break>その男を捕まえてくれ！<line-break>人さらいじゃ！<end>"
+english = "You there―you're an adventurer, aren't you? Catch that man! He's a kidnapper!<end>"
+
+["1470087"]
+japanese = "な、なんだ貴様！？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>邪魔すんじゃねぇ！<line-break>\u3000<end>"
+english = "W-who the hell are you?! Stay out of this!<end>"
+
+["1470088"]
+japanese = "おう、捕まえてくれたか。<line-break>助かったわ。<line-break>わしはアンギルダン、冒険者じゃ。<end>"
+english = "Ah, you caught him. Much obliged. I'm Angeerdan, an adventurer.<end>"
+
+["1470089"]
+japanese = "<value:$28>か。<line-break>その名、覚えておこう。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>最近、ロストール付近で子供たちを<line-break>ねらった誘拐事件が増えていてな。<line-break>こやつは、その一味なんじゃ。<end>"
+english = "<value:$28>, is it? I'll remember that name. There's been a rash of children being abducted around Rostorl lately. This scoundrel is one of the kidnappers.<end>"
+
+["1470090"]
+japanese = "なんと、お主もその事件を<line-break>追っておったのか。すでにアジトも<line-break>叩いているとは、大したものじゃ。<line-break>わしの方でも、エンシャントへ<line-break>連れてこられた子供たちは<line-break>助け出しておいた。<end>"
+english = "What, you've been investigating the kidnappings too? And you've already raided their hideout? Impressive. For my part, I rescued the children they'd brought to Ancient.<end>"
+
+["1470091"]
+japanese = "じゃが、お主の言うルルアンタらしい<line-break>リルビーの娘は見あたらなかったぞ。<end>"
+english = "But I saw no sign of the Lilbie girl you say is called Lulluantha.<end>"
+
+["1470092"]
+japanese = "おい、お主。話は聞いていたな？<line-break>リルビーの娘はどうしたのじゃ？<line-break>知らぬとは言わさんぞ。<end>"
+english = "You there. You heard all that, didn't you? What happened to the Lilbie girl? Don't tell me you don't know.<end>"
+
+["1470093"]
+japanese = "…エンシャントに来る途中で<line-break>賢者の森に、逃げられちまったんだよ。<line-break>…仲間が追っている。<end>"
+english = "…On the way to Ancient, she escaped into Sage's Forest. …My crew's after her.<end>"
+
+["1470094"]
+japanese = "やれやれ。今度は賢者の森かい？<end>"
+english = "Good grief. Sage's Forest this time?<end>"
+
+["1470095"]
+japanese = "よぉ、アンギルダンのとっつぁん。<line-break>まだ生きていたか。<end>"
+english = "Hey there, old Angeerdan. Still alive?<end>"
+
+["1470096"]
+japanese = "ワハハ、死んでたまるか。<end>"
+english = "Wahaha! I'm not about to die yet.<end>"
+
+["1470097"]
+japanese = "俺の相棒の<value:$28>が<line-break>世話になったようだな。礼を言う。<end>"
+english = "Seems my partner <value:$28> owes you one. You have my thanks.<end>"
+
+["1470098"]
+japanese = "いや、<value:$28>には<line-break>協力してもらったんじゃ。<line-break>礼を言わねばならぬのはこちらじゃな。<end>"
+english = "No, <value:$28> lent me a hand. I'm the one who should be giving thanks.<end>"
+
+["1470099"]
+japanese = "へぇ、赤い巨星アンギルダンに<line-break>恩を売るとは、<value:$28>も<line-break>なかなかやるじゃないか。<end>"
+english = "Well, well. Getting the Red Giant Angeerdan in your debt? Not bad, <value:$28>.<end>"
+
+["1470100"]
+japanese = "で、アンギルダン。あんた、<line-break>帝国から追われている身だろ？<line-break>こんな所にいていいのかい？<end>"
+english = "So, Angeerdan―you're wanted by the Empire, aren't you? Is it wise to be standing around here?<end>"
+
+["1470101"]
+japanese = "うむ。その通りじゃ。\u3000\u3000\u3000\u3000<line-break>道中、こ奴らを追ってきたら<line-break>帝都まで来てしまってな。<line-break>じゃが、お主の言うとおり<line-break>ここでのんびりとしていられる<line-break>身分ではない。<end>"
+english = "Aye, that I am. I followed these rogues along the road and found myself all the way in the imperial capital. But you're right. I'm in no position to linger here.<end>"
+
+["1470102"]
+japanese = "ゼネテスよ、わしが助け出しておいた<line-break>子供たちをお主に預けたい。<line-break>一緒に来てくれぬか？<end>"
+english = "Xenetes, I'd like to entrust the children I rescued to you. Will you come with me?<end>"
+
+["1470103"]
+japanese = "そいつは構わないが…。<end>"
+english = "I don't mind, but...<end>"
+
+["1470104"]
+japanese = "お主らの手柄にしておいてくれ。<line-break>わしは道すがら、泣き叫んでいた<line-break>子供たちを助けたにすぎん。<end>"
+english = "Let the credit go to you two. I merely rescued some wailing children I came upon along the road.<end>"
+
+["1470105"]
+japanese = "そんじゃ、<line-break>そういうことにしておくか。<line-break>あとで一杯おごらせてもらう。<end>"
+english = "All right, we'll leave it at that. Let me buy you a drink later.<end>"
+
+["1470106"]
+japanese = "おお、そうさせてもらおう。<end>"
+english = "Ah, I'll hold you to that.<end>"
+
+["1470107"]
+japanese = "<value:$28>よ。必ず、<line-break>ルルアンタを助けてやるのじゃぞ。<line-break>では、さらばじゃ。<end>"
+english = "<value:$28>, you must save Lulluantha. Farewell.<end>"
+
+["1470108"]
+japanese = "そんじゃ、<value:$28>。<line-break>俺はアンギルダンのとっつぁんが<line-break>助けた子供たちを引き取ってくる。<line-break>これで、俺たちが引き受けた<line-break>ギルドの仕事はほとんど終了だ。<line-break>あとは、ルルアンタを追わんとな。<end>"
+english = "Well then, <value:$28>, I'm going to take charge of the children old Angeerdan rescued. That should just about wrap up the Guild job we took. Now we only need to go after Lulluantha.<end>"
+
+["1470109"]
+japanese = "ん？\u3000なんでとっつぁんが<line-break>追われてるのかって？<line-break>ハハ、別に悪さしたってんじゃない。<end>"
+english = "Hm? You want to know why the old man's wanted? Ha, it's not as if he did anything wicked.<end>"
+
+["1470110"]
+japanese = "わけを聞きたいかい？<end>"
+english = "Want to hear the story?<end>"
+
+["1470111"]
+japanese = "聞きたい<end>"
+english = "Hear the story<end>"
+
+["1470112"]
+japanese = "聞かない<end>"
+english = "I don't want to hear it<end>"
+
+["1470113"]
+japanese = "よし、ちょっと長いぜ。<line-break>アンギルダンは、かつてバロルのもとで<line-break>ディンガル統一のために戦った将軍で、<line-break>百戦錬磨の名将、<line-break>赤い巨星の通り名を持つ戦士だ。<end>"
+english = "All right, but it's a bit of a long story. Angeerdan was once a general under Balor, fighting to unite Dingal. He's a veteran of countless battles, a renowned commander and warrior known as the Red Giant.<end>"
+
+["1470114"]
+japanese = "だが、バロルが魔王になると<line-break>バロルとケンカして<line-break>ディンガルを飛び出しちまった。\u3000\u3000<line-break>その後、世界中を傭兵として<line-break>渡り歩いたが、<line-break>結局、どこにも落ち着かずじまい。<end>"
+english = "But when Balor became the Demon King, Angeerdan fell out with him and left Dingal. After that, he roamed the world as a mercenary but never settled down anywhere.<end>"
+
+["1470115"]
+japanese = "その後、魔王バロルが、<line-break>勇者ネメアに倒された時、<line-break>再びディンガルの将軍になったんだが、<line-break>皇帝エリュマルクってのが、<line-break>無理難題をネメアに押しつけるのを<line-break>見かねて堂々と批判した。<end>"
+english = "Later, when the Hero Nemea defeated Balor, Demon King, Angeerdan became a general of Dingal once more. But when Emperor Elyumark started saddling Nemea with impossible demands, Angeerdan couldn't stand by. He openly criticized the emperor.<end>"
+
+["1470116"]
+japanese = "それが原因で、皇帝に<line-break>処刑されかけるところを脱走。<line-break>今や、お尋ね者のご老体だ。<end>"
+english = "The emperor nearly had him executed for it, but he escaped. Now the old man's a wanted fugitive.<end>"
+
+["1470117"]
+japanese = "だが、こういう風に長々と語るより、<line-break>落ち着きがなくて、一生を棒に振った<line-break>老傭兵といった方がわかりやすいかな。<end>"
+english = "But instead of going on at length like that, it might be simpler to call him a restless old mercenary who wasted his whole life.<end>"
+
+["1470118"]
+japanese = "人の過去にはこだわらないって？<line-break>いいね、そういうの好きだぜ。<end>"
+english = "You don't care about a man's past? I like that.<end>"
+
+["1470119"]
+japanese = "そんじゃ、エンシャントの<line-break>門で落ち合うとしよう。<line-break>じゃ、行ってくるぜ。<end>"
+english = "All right, let's meet at the gates of Ancient. I'll be off, then.<end>"
+
+["1470120"]
+japanese = "ん？\u3000<value:$28>か。<end>"
+english = "Hm? <value:$28>?<end>"
+
+["1470121"]
+japanese = "アンギルダンのとっつぁんが<line-break>助け出していた子供たちのことは<line-break>ここのギルドの親父に頼んでおいた。<line-break>子供たちの話だと、逃げ出したのは<line-break>ルルアンタだけのようだ。<line-break>早く捜さんとな。<end>"
+english = "I've left the children old Angeerdan rescued in the care of the man at the Guild here. From what they said, it sounds like Lulluantha was the only one who escaped. We'd better find her fast.<end>"
+
+["1470122"]
+japanese = "よし、そんじゃ、<line-break>俺は門の所で待ってるぜ。<end>"
+english = "Right, then. I'll wait by the gate.<end>"
+
+["1470123"]
+japanese = "おい、<value:$28>。<line-break>今は仕事を受けている時じゃ<line-break>ないだろう？<line-break>ルルアンタひとりじゃ危険だ。<line-break>早く捜しだしてやろうぜ。<end>"
+english = "Hey, <value:$28>. This is no time to be taking on jobs. Lulluantha's in danger out there alone. Come on, let's hurry and find her.<end>"
+
+["1470124"]
+japanese = "おい、<value:$28>。<line-break>のんびりと宿屋に泊まっていられる<line-break>状況じゃないだろう？<line-break>ルルアンタの身が心配だ。<line-break>早く助けに行ってやろうぜ。<end>"
+english = "Hey, <value:$28>. This is no time to be lounging around at the inn, is it? I'm worried about Lulluantha. Let's hurry and go help her.<end>"
+
+["1470125"]
+japanese = "<value:$28>、<line-break>もう準備はいいんだな？<end>"
+english = "You're all set, right, <value:$28>?<end>"
+
+["1470126"]
+japanese = "準備できた<end>"
+english = "I'm ready.<end>"
+
+["1470127"]
+japanese = "まだ準備中<end>"
+english = "I'm still getting ready.<end>"
+
+["1470128"]
+japanese = "ルルアンタは賢者の森だ。<line-break>はやく助けてやろうぜ、<line-break><value:$28>。<line-break>おっと、その前に体力を<line-break>回復しておかないとな。<end>"
+english = "Lulluantha is in Sage's Forest. Let's hurry and save her, <value:$28>. But first, we'd better recover our strength.<end>"
+
+["1470129"]
+japanese = "あんまりグズグズしていられる<line-break>状況じゃない。準備は肝心だが<line-break>急いでくれ。<end>"
+english = "We can't afford to dawdle. I know it's important to be prepared, but hurry.<end>"
+
+["1470130"]
+japanese = "ここが賢者の森だ。この森の奥には<line-break>運命に選ばれた者しか中に入れない、<line-break>賢者の住む屋敷があるそうだが…<line-break>今はそれどころじゃないな。<line-break>さぁ、さっさとルルアンタを<line-break>捜そうぜ。<end>"
+english = "This is Sage's Forest. They say that deep within it stands a sage's manor, which only those chosen by fate can enter... but we don't have time for that now. Come on, let's hurry up and find Lulluantha.<end>"
+
+["1470131"]
+japanese = "おいおい、そっちは出口だぞ。<line-break>今はのんびりしていられる<line-break>状況じゃないぜ？<end>"
+english = "Hey, that's the way out. This is no time to be taking it easy, you know?<end>"
+
+["1470132"]
+japanese = "ちっ。あのリルビーのガキめ。<line-break>いったい、どこに逃げやがったんだ。\u3000<line-break>\u3000<end>"
+english = "Damn that Lilbie brat. Where the hell did she run off to?<end>"
+
+["1470133"]
+japanese = "バカ野郎が。<line-break>しっかり見張っとけと言ったのに、\u3000\u3000<line-break>お前が油断してるからだろうが。<end>"
+english = "You idiot! I told you to keep a close watch. She got away because you let your guard down!<end>"
+
+["1470134"]
+japanese = "え？\u3000その…そうでしたっけね。\u3000\u3000\u3000<line-break>へっへ…。<line-break>すいませんです、はい。<line-break>でも、リルビーのガキがひとりで<line-break>こんな森の中で迷ったら、<line-break>モンスターに食われておしまいですぜ。<end>"
+english = "Huh? Uh... did you? Heh heh... Sorry, sir. But if that Lilbie brat gets lost in these woods all alone, she'll wind up monster food.<end>"
+
+["1470135"]
+japanese = "…まぁ、いい。エンシャントでの<line-break>仕事をすませて、さっさと<line-break>お頭の所に戻らねばならんからな。\u3000\u3000<end>"
+english = "Never mind. We need to finish the job in Ancient and get back to the boss.<end>"
+
+["1470136"]
+japanese = "おっと、その必要はないぜ。<line-break>お頭もエンシャントの子供たちも<line-break>戻ったところで、もういないからな。<end>"
+english = "No need for that. By the time you get back, your boss and the children from Ancient will already be gone.<end>"
+
+["1470137"]
+japanese = "何者だ、お前ら！<line-break>こんな所をうろついているとは\u3000\u3000\u3000\u3000<line-break>怪しい奴め！<end>"
+english = "Who are you? Anyone prowling around a place like this has to be up to no good!<end>"
+
+["1470138"]
+japanese = "…どうやら俺たちが何者なのか、<line-break>知っているようだな。<line-break>さっきのセリフ。どういう意味だ？\u3000\u3000<end>"
+english = "You seem to know who we are. What did you mean by that?<end>"
+
+["1470139"]
+japanese = "言葉通りの意味さ。もう、<line-break>あんたらに戻るところはないぜ。<line-break>\u3000<line-break>さぁ、ルルアンタの居場所を<line-break>教えてもらおうか？<end>"
+english = "Exactly what I said. You've got nowhere to go back to now. So, why don't you tell us where Lulluantha is?<end>"
+
+["1470140"]
+japanese = "…なるほど、あのリルビーの娘を\u3000\u3000\u3000<line-break>捜しに来たってわけか。<line-break>そう言えば、見知った顔がいる。<end>"
+english = "So you've come looking for that Lilbie girl. Come to think of it, I recognize one of you.<end>"
+
+["1470141"]
+japanese = "お前、フリントのガキだな。\u3000\u3000\u3000\u3000<line-break>親父を殺した俺が憎かろう。<line-break>どうだ、俺と勝負してみるか？<line-break>俺に勝てたら、<line-break>フリント暗殺を依頼してきた奴の<line-break>名を教えてやる。知りたいだろう？<end>"
+english = "You're Flint's brat, aren't you? You must hate me for killing your father. How about taking me on? Beat me, and I'll tell you who hired us to assassinate Flint. You want to know, don't you?<end>"
+
+["1470142"]
+japanese = "やめとけ、<value:$28>。<line-break>挑発に乗るんじゃない。<end>"
+english = "Don't do it, <value:$28>. Don't rise to the bait.<end>"
+
+["1470143"]
+japanese = "一対一で勝負する<end>"
+english = "Fight one-on-one<end>"
+
+["1470144"]
+japanese = "挑発には乗らない<end>"
+english = "Ignore the taunt<end>"
+
+["1470145"]
+japanese = "よし、そうこなくっちゃな。<line-break>見事に親父の仇を取ってみやがれ！\u3000<line-break>\u3000<end>"
+english = "That's more like it! Let's see you avenge your father!<end>"
+
+["1470146"]
+japanese = "ひっ、ひぃ～～～～～！<line-break>こいつ、強すぎる～～～～～。<line-break>\u3000<end>"
+english = "Eek! This one's too strong!<end>"
+
+["1470147"]
+japanese = "ふぅ、冷や冷やしたが、<line-break>よくやったな、<value:$28>。<end>"
+english = "Whew, you had me worried. Well done, <value:$28>.<end>"
+
+["1470148"]
+japanese = "さぁ、ルルアンタの居場所と<line-break>ついでに、フリント暗殺の黒幕の名前、<line-break>言ってもらおうか？<end>"
+english = "Now tell us where Lulluantha is―and while you're at it, the name of whoever was behind Flint's assassination.<end>"
+
+["1470149"]
+japanese = "…ふ、フリントの暗殺を…<line-break>依頼してきたのは…ロストールの…<line-break>エリエナイ公レムオンだ…。<end>"
+english = "The one who hired us to assassinate Flint was... Duke Lemghon of Elienai... from Rostorl.<end>"
+
+["1470150"]
+japanese = "エリエナイ公？\u3000話にならんな。<end>"
+english = "The Duke of Elienai? That's absurd.<end>"
+
+["1470151"]
+japanese = "エリエナイ公の人柄は知っている。<line-break>盗賊に暗殺を頼むような奴じゃない。<line-break>\u3000<line-break>おおかた、暗殺を依頼した奴に、<line-break>何かあったらそう言うように<line-break>命令されたってところだな。<end>"
+english = "I know what the Duke of Elienai is like. The Duke would never hire bandits for an assassination. Whoever really hired you must have ordered you to give that name if anything went wrong.<end>"
+
+["1470152"]
+japanese = "…し、信じるかどうかは…\u3000\u3000\u3000\u3000<line-break>貴様らの勝手だぜ…。<line-break>\u3000<end>"
+english = "Believe it or not... that's up to you.<end>"
+
+["1470153"]
+japanese = "ま、いい。<line-break>で、ルルアンタはどこにやった？<end>"
+english = "Fine. Now, what did you do with Lulluantha?<end>"
+
+["1470154"]
+japanese = "なんだ、ビビッちまったか？<line-break>まぁ、いい。知られてるとあっては<line-break>貴様らを生かしておくわけにはいかん。<line-break>おい、野郎ども！<line-break>抜かるんじゃないぜ！<end>"
+english = "What's wrong, lost your nerve? No matter. Now that you've found us out, we can't let any of you live. Come on, boys! Don't let your guard down!<end>"
+
+["1470155"]
+japanese = "<value:$28>、<line-break>仮にもフリントを倒した相手だ。<line-break>気を引き締めてくれよ。<end>"
+english = "<value:$28>, this is the one who defeated Flint. Stay sharp.<end>"
+
+["1470156"]
+japanese = "ひっ、ひぃ～～～～～！<line-break>こいつ、強すぎる～～～～～。<line-break>\u3000<end>"
+english = ""
+
+["1470157"]
+japanese = "ふぅ、よくやったな、<line-break><value:$28>。<end>"
+english = "Whew. Well done, <value:$28>.<end>"
+
+["1470158"]
+japanese = "さぁ、ルルアンタの居場所を<line-break>言ってもらおうか？<end>"
+english = "Now tell us where Lulluantha is.<end>"
+
+["1470159"]
+japanese = "…あのリルビーの娘なら<line-break>今ごろ…この森に住み着いている\u3000<line-break>モンスターどもの腹の中だぜ…。<end>"
+english = "That Lilbie girl? By now she's in the belly of one of the monsters living in these woods.<end>"
+
+["1470160"]
+japanese = "なんだと！？<end>"
+english = "What!?<end>"
+
+["1470161"]
+japanese = "…ウソじゃないぜ。あのガキには\u3000<line-break>逃げられちまったんだよ…。<line-break>\u3000<line-break>チビひとりじゃ…どのみち<line-break>この森からは抜けだせん…。<line-break>ざ、残念だったな…ぐふっ。<end>"
+english = "I'm not lying. The brat got away from us. But a little runt like her could never make it out of these woods alone. Too bad... Guh!<end>"
+
+["1470162"]
+japanese = "まずいことになったな。\u3000\u3000\u3000<line-break>早くルルアンタを捜そう。<line-break>\u3000<line-break>こいつの言うとおり、<line-break>女の子ひとりで抜け出せるような<line-break>森じゃない。急いで捜すんだ。<end>"
+english = "This is bad. We have to find Lulluantha, fast. Just as he said, this isn't a forest a girl can make it out of alone. Hurry. We have to find her.<end>"
+
+["1470163"]
+japanese = "悪いが今は海がしけていてな。<line-break>出航を見合わせているんだ。<line-break>しばらくは船を出せそうにないぜ。<end>"
+english = "Sorry, but the sea's too rough right now. Departures are on hold, and it doesn't look like the ship will be sailing for a while.<end>"
+
+["1470164"]
+japanese = "あんた、ロストールのギルドで<line-break>受けた仕事が残ってるだろう？\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>まだ捕まっている子供がいるみたいだ。<line-break>次の仕事を引き受ける前に、<line-break>今の仕事を終わらせてくれないか？<end>"
+english = "You still have a job from the Guild in Rostorl to finish, don't you? Apparently, at least one child is still being held captive. Could you finish that job before taking on another one?<end>"
+
+["1470165"]
+japanese = "どうしたんだ、<value:$28>？<line-break>まだ引き受けた仕事は<line-break>終わってないんだろう？\u3000\u3000\u3000\u3000\u3000<line-break>子供たちの命がかかっているんだ。<line-break>今は、飢えた者の迷宮へ<line-break>急いでくれないか？<end>"
+english = "What's wrong, <value:$28>? You haven't finished the job you took on yet, have you? The children's lives are at stake. Could you hurry to the Labyrinth of the Hungry right away?<end>"
+
+["1470166"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その１／４<end>"
+english = ""
+
+["1470167"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その１／５<end>"
+english = ""
+
+["1470168"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その１／６<end>"
+english = ""
+
+["1470169"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その１／７<end>"
+english = ""
+
+["1470170"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その１／８<end>"
+english = ""
+
+["1470171"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その１／９<end>"
+english = ""
+
+["1470172"]
+japanese = "予備メッセージ<line-break>ルルアンタ（修）その１／１０<end>"
+english = ""
+
+["1470173"]
+japanese = "ルルアンタ（修）その１\u3000終端<end>"
+english = ""

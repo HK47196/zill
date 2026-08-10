@@ -1,0 +1,117 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1820000"]
+japanese = "イークレムン\u3000Ｖ１\u3000開始<end>"
+english = ""
+
+["1820001"]
+japanese = "あ、こんにちは。<line-break>いいお天気ですね。<end>"
+english = "Oh, hello. Lovely weather, isn't it?<end>"
+
+["1820002"]
+japanese = "今、ミズチの心と話をしてるんです。<line-break>ここには、死んで体を失った<line-break>ミズチの心がいるんです。<end>"
+english = "I'm talking to a Mizuchi spirit right now. The spirit of a Mizuchi that died and lost its body is here.<end>"
+
+["1820003"]
+japanese = "あれ？\u3000めずらしい。\u3000\u3000\u3000\u3000<line-break>この子、あなたのことを<line-break>気に入ったみたいです。<line-break>ミズチの心って<line-break>よっぽどのことがないと<line-break>人前に姿を出さないんですよ。<end>"
+english = "Oh? How unusual. This one seems to have taken a liking to you. Mizuchi spirits almost never show themselves to people unless there's a very special reason.<end>"
+
+["1820004"]
+japanese = "あ、うふふっ。<line-break>ホントに、なんででしょうね。\u3000\u3000\u3000<line-break>\u3000<line-break>あの、お名前はなんというんですか？<line-break>私は、ここの神殿の巫女、<line-break>イークレムンといいます。<end>"
+english = "Oh... Hee hee. I wonder why. May I ask your name? I'm Iiklmn, a shrine maiden of this temple.<end>"
+
+["1820005"]
+japanese = "<value:$28>さん…ですか。<line-break>…不思議です。私もなぜか<line-break>この子と同じように…<end>"
+english = "<value:$28>... is it? How strange. For some reason, I also... just like this one...<end>"
+
+["1820006"]
+japanese = "イークレムン様！                <line-break>\u3000<line-break>\u3000<line-break>また、ミズチと<line-break>お話をしておられるのですか？<line-break>そろそろ、おつとめの時間ですが。<end>"
+english = "Lady Iiklmn! Are you speaking with the Mizuchi again? It's nearly time for your duties.<end>"
+
+["1820007"]
+japanese = "あ、はい。<line-break>わかりました、神官長様。<end>"
+english = "Oh, yes. Of course, Chief Priest.<end>"
+
+["1820008"]
+japanese = "それでは、ごきげんよう。<line-break>また、お会いできるといいですね。<end>"
+english = "Well then, farewell. I hope we meet again.<end>"
+
+["1820009"]
+japanese = "あ…、<value:$28>さん。<line-break>こんにちは。<end>"
+english = "Oh... Hello, <value:$28>.<end>"
+
+["1820010"]
+japanese = "<value:$28>さんは<line-break>冒険者なんですよね？<line-break>ご家族は、いらっしゃるんですか？\u3000\u3000<line-break>私の両親は、私が赤ん坊のころに<line-break>亡くなったんだそうです。<line-break>だから、私、家族の記憶がないんです。<end>"
+english = "You're an adventurer, aren't you, <value:$28>? Do you have any family? I'm told my parents died when I was a baby, so I don't have any memories of my family.<end>"
+
+["1820011"]
+japanese = "でも、私の母は水の巫女だったそうで、<line-break>その巫女の血を受け継いだ私は<line-break>この神殿で育ててもらったんです。<line-break>だから、私にとっては<line-break>神官長様や神殿のみなさんが<line-break>家族みたいなものですね。<end>"
+english = "But I'm told my mother was a Water Priestess. I inherited her blood, so the temple took me in and raised me. To me, the high priest and everyone here at the temple are like family.<end>"
+
+["1820012"]
+japanese = "このイヤリング、見てください。<line-break>母の形見らしいんですが、<line-break>人魚のウロコでできているそうです。<line-break>このイヤリングに触れていると、<line-break>なんだか気持ちがなごんで、<line-break>とても落ちつくんです。<end>"
+english = "Look at this earring. It's apparently a keepsake from my mother, made from mermaid scales. Touching it somehow soothes me and makes me feel very calm.<end>"
+
+["1820013"]
+japanese = "それと、これを見てると、<line-break>なんだか懐かしい雰囲気の人の姿が<line-break>ぼんやりと頭に浮かぶんです。<line-break>赤い鎧を着た大きな男性と、<line-break>私によく似た感じの女性。<line-break>あれは、私の両親なのでしょうか…？<end>"
+english = "And when I look at it, I get a hazy picture of two people who seem strangely familiar: a large man in red armor, and a woman who looks a lot like me. Could they be my parents...?<end>"
+
+["1820014"]
+japanese = "あ…、おしゃべりしていて<line-break>おつとめを忘れるところでした…。\u3000<line-break>\u3000<line-break>それでは、…<value:$28>さん。<line-break>失礼します。<line-break>\u3000<end>"
+english = "Oh... I was so caught up chatting, I nearly forgot my duties. Well then, <value:$28>... if you'll excuse me.<end>"
+
+["1820015"]
+japanese = "ディンガルのジラーク将軍が\u3000\u3000\u3000<line-break>この町を攻めてきています。<line-break>\u3000<line-break>ミズチたちが守ってくれるおかげで<line-break>この町は無事ですが…、それでも<line-break>町の人たちに動揺が広がっています。<end>"
+english = "General Zsilak of Dingal is attacking this town. Thanks to the Mizuchi, the town is safe, but unrest is spreading among the townspeople.<end>"
+
+["1820016"]
+japanese = "そのミズチたちも、人々の恐怖や<line-break>怒りを感じて、苦しんでいます。<line-break>精霊は、精神に感応しやすいですから。<line-break>調和と変化というのが、水の神殿の<line-break>教義だというのに…、どうして<line-break>人は、調和できないのでしょう…。<end>"
+english = "The Mizuchi are suffering too. They can feel the people's fear and anger, and spirits are highly sensitive to such emotions. Harmony and change are the very teachings of the Water Temple... So why can't people live in harmony?<end>"
+
+["1820017"]
+japanese = "あ、すいません。<line-break>そろそろ、おつとめの時間です。<line-break>\u3000<line-break>それでは、<value:$28>さん<line-break>失礼します。<line-break>\u3000<end>"
+english = "Oh, I'm sorry. It's nearly time for my duties. If you'll excuse me, <value:$28>.<end>"
+
+["1820018"]
+japanese = "<if><value:$01><equal>2何、この向こう…。<line-break>中が…水で覆われている？<line-break>これじゃ進めないわね…。 <end><if><value:$01><equal>3どうなっとるんじゃ？<line-break>この向こうは空気の代わりに<line-break>水があるのか？\u3000これでは進めぬぞ。 <end><if><value:$01><equal>4なんでこの向こう、<line-break>空気が水になっているのかしら？<line-break>進んだらおぼれちゃうかも！ <end><if><value:$01><equal>5お、おい、この向こう…、<line-break>普通の景色みたいだけど水の中だぜ！？<line-break>これじゃ、先に進めないな。 <end><if><value:$01><equal>6なんだろうね、この向こう。<line-break>水で覆われてて…結界なのかな？<line-break>進んだら、やっぱりおぼれるのかな。 <end><if><value:$01><equal>7ここを境に、向こう側は<line-break>全部水になってるわ。<line-break>ちょっと、進めないわね。 <end><if><value:$01><equal>9へ～、不思議なもんだねぇ。<line-break>この先、水がつまってるよ。<line-break>これはちょっと進めないかな。 <end><if><value:$01><equal>12ふぅん、この向こうは水の世界か。<line-break>悪い、俺、エラ呼吸できないんだ。<line-break>引き返すしかなさそうだな。 <end><if><value:$01><equal>13…くっ。なんだ？<line-break>水で覆われているのか…。<line-break>先に進めそうにないな。 <end><if><value:$01><equal>10姉ちゃん！\u3000見ろよ！！<line-break>この向こう、水で覆われてるぜ！<line-break>これじゃ、先に進めないぜ。 <end><if><value:$01><equal>14む？\u3000なんじゃこれは…？<line-break>水で覆われていて<line-break>先に進めんぞ。 <end><if><value:$01><equal>15ねえ、<value:$28>、見てよ。<line-break>この向こう、水で覆われてる。<line-break>これじゃ先に進めないよ。 <end><if><value:$01><equal>17ちょっと、これはどういうことなの！？<line-break>なんでこの先の空がぜ～んぶ水なのよ。<line-break>これじゃ息ができなくなるじゃないの！<line-break>あ、いえ、もちろん、この先が水で<line-break>覆われていることは、知っていてよ。<line-break>お約束通り驚いてみせただけよー！ <end><if><value:$01><equal>19<value:$28>、こっち見て。<line-break>お空が全部、海みたいになってるよ。<line-break>このまま進むとおぼれちゃうね。 <end><if><value:$01><equal>20…水で世界が<line-break>さえぎられている。<line-break>先には、進めぬな。 <end><if><value:$01><equal>11水で世界が<line-break>さえぎられている…。<line-break>先には進めないわね。 <end><if><value:$01><equal>21どうなっているんだ？<line-break>この向こうは空気の代わりに<line-break>水で覆われているのか？<line-break>これでは先に進めないな。<end><if><value:$01><equal>23どういうことだ？<line-break>向こうは水で覆われているのか…<line-break>これでは先に進めないな。<end><if><value:$01><equal>27不思議な光景だな。<line-break>空気の代わりに水で覆われているのか。<line-break>これでは先に進めないな。<end><if><value:$01><equal>26この向こうは空気の代わりに<line-break>水があるようじゃな。<line-break>先へは進めぬようじゃ。<end><if><value:$01><equal>24…水で世界が<line-break>さえぎられているようですね。<line-break>これでは先に進めません。<end><if><value:$01><equal>25ねぇ、見て。不思議ね。<line-break>この向こう、水で覆われている。<line-break>この先には進めないみたいね。<end><if><value:$01><equal>192水で世界がさえぎられています。<line-break>これ以上は進めません。<end><if><value:$01><equal>193不思議…。水で覆われています。<line-break>この先ってやっぱり進んだら<line-break>溺れちゃいますよね？<end><if><value:$01><equal>194水の結界か。<line-break>これじゃぁ先に進むことはできないな。<end><if><value:$01><equal>191ダメね。<line-break>水で覆われてて<line-break>先に進めないわ。<end><if><value:$01><equal>190何だこれは。<line-break>水で覆われて先に進めない。<end>あらら。世界が水に包まれてる。<line-break>キレイだけど、これじゃあ<line-break>先に進めないよ。 <end>"
+english = "<if><value:$01><equal>2What is this...? Is everything beyond here... covered in water? We can't go any farther like this.<end><if><value:$01><equal>3What in the world's going on? Is there water instead of air beyond here? We can go no farther.<end><if><value:$01><equal>4Why does the air turn into water past here? We might drown if we keep going!<end><if><value:$01><equal>5H-hey, beyond here... It looks like an ordinary landscape, but it's underwater! We can't go any farther like this.<end><if><value:$01><equal>6I wonder what's beyond here. It's covered in water... Maybe it's some kind of barrier? Do you think we'd drown if we went in?<end><if><value:$01><equal>7Everything past this point is water. We're not getting through here.<end><if><value:$01><equal>9Well, now. That's a curious sight. The way ahead is full of water. I don't think we'll be getting through.<end><if><value:$01><equal>12Huh. So it's a world of water beyond here. Sorry, but I can't breathe through gills. Looks like we'll have to turn back.<end><if><value:$01><equal>13Ngh... What is this? Is everything beyond here covered in water...? It doesn't look like we can go any farther.<end><if><value:$01><equal>10Sis! Look! Everything past here is covered in water! We can't go any farther like this.<end><if><value:$01><equal>14Hm? What is this...? The way ahead is covered in water. We can go no farther.<end><if><value:$01><equal>15Hey, <value:$28>, look. Everything past here is covered in water. We can't go any farther like this.<end><if><value:$01><equal>17Just what is the meaning of this!? Why is the whole sky ahead nothing but water? We won't be able to breathe in there! Oh, no, of course I knew the way ahead was covered in water. I was merely acting surprised, as convention demands!<end><if><value:$01><equal>19<value:$28>, look over here. The whole sky looks like the sea. We'd drown if we kept going, wouldn't we?<end><if><value:$01><equal>20The world is cut off by water... We can go no farther.<end><if><value:$01><equal>11Water cuts off the world beyond here... We can't go any farther.<end><if><value:$01><equal>21What's going on? Is everything beyond here filled with water instead of air? We can't go any farther like this.<end><if><value:$01><equal>23What is the meaning of this? Is the way ahead covered in water...? We can't go any farther like this.<end><if><value:$01><equal>27What a strange sight. Is there water instead of air beyond here? We can't go any farther like this.<end><if><value:$01><equal>26It seems there is water instead of air beyond here. It appears we can go no farther.<end><if><value:$01><equal>24It seems the world beyond here is cut off by water... We cannot go any farther.<end><if><value:$01><equal>25Look. How strange. Everything beyond here is covered in water. It seems we can't go any farther.<end><if><value:$01><equal>192The world beyond here is cut off by water. We cannot proceed any farther.<end><if><value:$01><equal>193How strange... Everything beyond here is covered in water. We'd drown if we went any farther, wouldn't we?<end><if><value:$01><equal>194A barrier of water, is it? We can't go any farther like this.<end><if><value:$01><equal>191No use. The way ahead is covered in water. We can't go any farther.<end><if><value:$01><equal>190What is this? The way ahead is covered in water. We can't go any farther.<end>Oh, my. The whole world is wrapped in water. It's beautiful, but we can't go any farther like this.<end>"
+
+["1820019"]
+japanese = "イークレムンＶ１<line-break>予備メッセージ２です<end>"
+english = ""
+
+["1820020"]
+japanese = "イークレムンＶ１<line-break>予備メッセージ３です<end>"
+english = ""
+
+["1820021"]
+japanese = "イークレムンＶ１<line-break>予備メッセージ４です<end>"
+english = ""
+
+["1820022"]
+japanese = "イークレムンＶ１<line-break>予備メッセージ５です<end>"
+english = ""
+
+["1820023"]
+japanese = "イークレムンＶ１<line-break>予備メッセージ６です<end>"
+english = ""
+
+["1820024"]
+japanese = "イークレムンＶ１<line-break>予備メッセージ７です<end>"
+english = ""
+
+["1820025"]
+japanese = "イークレムンＶ１<line-break>予備メッセージ８です<end>"
+english = ""
+
+["1820026"]
+japanese = "イークレムンＶ１<line-break>予備メッセージ９です<end>"
+english = ""
+
+["1820027"]
+japanese = "イークレムンＶ１<line-break>予備メッセージ１０です<end>"
+english = ""
+
+["1820028"]
+japanese = "イークレムンＶ１\u3000終了<end>"
+english = ""

@@ -1,0 +1,329 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2640000"]
+japanese = "ジリオン＆イーシャイベント05用開始<end>"
+english = ""
+
+["2640001"]
+japanese = "えっ？\u3000あたしが冒険している理由？<end>"
+english = "What? You want to know why I'm an adventurer?<end>"
+
+["2640002"]
+japanese = "そうね。一緒に旅をしているんだし<line-break>それぐらいは話しておくべきかしら。<line-break>\u3000<line-break>人を捜しているの。<end>"
+english = "Well, we are traveling together. I suppose I should tell you that much. I'm looking for someone.<end>"
+
+["2640003"]
+japanese = "さあ、どこにいるのか今のところ<line-break>見当もつかないわ…。<end>"
+english = "I have no idea where he is yet.<end>"
+
+["2640004"]
+japanese = "ごめんなさい。<line-break>今は詳しく話せない。<line-break>\u3000<line-break>昔、いろいろあって、<line-break>すぐには他人を<line-break>信じることができないの…。<end>"
+english = "I'm sorry. I can't tell you the whole story yet. A lot happened in the past, and I can't bring myself to trust people so easily.<end>"
+
+["2640005"]
+japanese = "気を悪くしないでね。<line-break>あたしに染みついた<line-break>習性みたいなものだから。<end>"
+english = "Please don't take it personally. It's just a habit I can't seem to shake.<end>"
+
+["2640006"]
+japanese = "ちょっと夜風に当たって<line-break>散歩してくるわ。おやすみ。<end>"
+english = "I'm going for a walk to get some night air. Good night.<end>"
+
+["2640007"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640008"]
+japanese = "ずっと夜は独りで眠っていたから<line-break>パーティと一緒にいるのが<line-break>慣れなくって…。<line-break>…でも、誰かがずっとそばに<line-break>ついていてくれるのって、<line-break>そんなに悪い気分じゃないわね。<end>"
+english = "I've always slept alone at night, so I'm not used to having the party around. But having someone stay by my side all the time... it isn't such a bad feeling.<end>"
+
+["2640009"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640010"]
+japanese = "ありがとう。褒めてくれて。<line-break>よく働くでしょ、あたし。<line-break>\u3000<line-break>結構、見かけよりも年季が<line-break>入っているんだから。<end>"
+english = "Thank you. It's nice of you to say so. I work hard, don't I? I've got a lot more experience than you might think from looking at me.<end>"
+
+["2640011"]
+japanese = "リベルダムの宿屋で<line-break>働いていたこともあったのよ。<line-break>\u3000<line-break>もしかすると、その時に<line-break><value:$28>とも<line-break>会っていたかもね。ふふっ。<end>"
+english = "I once worked at an inn in Liberdam. Who knows? I might even have met you back then, <value:$28>. Heh.<end>"
+
+["2640012"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640013"]
+japanese = "えっ？\u3000あたしの生まれ？<line-break>\u3000<line-break>\u3000<line-break>…ロストールよ。<line-break>家はそこの下級貴族だったわ。<line-break>\u3000<line-break>でも、故郷にはいい思い出が<line-break>あまりないから話したくないの。<line-break>それ以上は訊かないで…。<end>"
+english = "What? Where was I born? ...Rostorl. My family belonged to the lesser nobility there. But I don't have many fond memories of home, so I'd rather not talk about it. Please don't ask me anything more...<end>"
+
+["2640014"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640015"]
+japanese = "えっ？\u3000あたしの捜している人が<line-break>どんな人かって？<end>"
+english = "What? You want to know what the person I'm looking for is like?<end>"
+
+["2640016"]
+japanese = "そうね。<value:$28>がだいたい<line-break>どんな人かもわかってきたし。<line-break>\u3000<line-break>あたしが捜している人の名前は<line-break>ジリオン…。<end>"
+english = "Well, I think I have a fair idea of what kind of person you are now, <value:$28>. The man I'm looking for is named Zillion...<end>"
+
+["2640017"]
+japanese = "ううん。<line-break>あちこちで人に訊いているけど<line-break>まだ、これといった手がかりは…。<line-break>でも、どこにいようと<line-break>あいつがあたしのために<line-break>何かをしてるってことは感じるの。<line-break>たぶん、あいつががんばってるから<line-break>あたしがこうしていられるって…。<line-break>\u3000<line-break>こんな感覚、うまく説明できないから、<line-break>話しても笑われるだけだと<line-break>思うけど…。<end>"
+english = "No. I've asked around everywhere, but I still haven't found any real leads... Even so, wherever he is, I can feel that he's doing something for me. Maybe it's because he's doing all he can that I'm still here like this... I can't explain the feeling very well. You'd probably only laugh if I told you...<end>"
+
+["2640018"]
+japanese = "ありがとう。信じてくれるのね。<line-break>\u3000<line-break>\u3000<line-break>あいつってとても強情だから<line-break>あたしに黙って何かに<line-break>耐えているんじゃないかなって。<line-break>そんな気がするの…。<line-break>\u3000<line-break>\u3000<line-break>だから絶対に見つけてやるのよ。<line-break>いつまでも恩着せられっぱなしなんて、<line-break>あたしの性に合わないし。<line-break>もし、あたしのために<line-break>何か無茶しているんだったら<line-break>必ず見つけて一発ひっぱたいてやるわ。<end>"
+english = "Thank you. You believe me. He's terribly stubborn, so I can't help thinking he may be enduring something without telling me. That's the feeling I get... And that's why I'm going to find him, no matter what. Staying in his debt forever just isn't in my nature. If he's doing something reckless for my sake, I'll find him and give him a good slap.<end>"
+
+["2640019"]
+japanese = "話したら気持ちが少し落ち着いたわ。<line-break>ありがとう。<end>"
+english = "I feel a little calmer now that I've talked about it. Thank you.<end>"
+
+["2640020"]
+japanese = "おやすみなさい、<value:$28>。<end>"
+english = "Good night, <value:$28>.<end>"
+
+["2640021"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640022"]
+japanese = "えっ？\u3000あたしが捜している<line-break>ジリオンのこと？<line-break>そうね。何から話していいのか…。<end>"
+english = "What? You mean Zillion, the man I'm looking for? Well... where should I begin?<end>"
+
+["2640023"]
+japanese = "まだ駆け出しの冒険者だったころ<line-break>ジリオンはお父さんの形見だっていう<line-break>ショートソードを差しててね。<line-break>依頼をこなすのに躍起になってたわ。<line-break>初々しかったな。あのころはまだ<line-break>十代の後半ぐらいだったし。<line-break>たぶん今はもういい歳に<line-break>なってると思うけど…。<end>"
+english = "When Zillion was still a novice adventurer, he carried a short sword that he said was a keepsake from his father. He was desperate to complete every job he took. He was so fresh-faced back then, still only in his late teens. I imagine he must be well into adulthood by now...<end>"
+
+["2640024"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640025"]
+japanese = "昔を思い出していたの。<line-break>ロストールで起こった<line-break>テジャワの変っていう政変のこと。<line-break>ファーロス家の失権を狙う貴族たちが<line-break>起こした醜い争いよ。<line-break>多くの血が流されたわ。<line-break>そして、あたしとジリオンの運命も<line-break>あれをきっかけにして<line-break>一変してしまった…。<line-break>もう今さら、<line-break>どうしようもないことだけどね…。<end>"
+english = "I was remembering the past―the political upheaval in Rostorl known as the Tejava Incident. It was an ugly struggle started by nobles who sought to strip House Pharos of its power. A great deal of blood was shed, and it changed Zillion's fate and mine completely... Not that anything can be done about it now...<end>"
+
+["2640026"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640027"]
+japanese = "これまでずっと独りで生きてきたのに<line-break>今は<value:$28>と一緒に<line-break>旅をしている…。<line-break>わからないものね、人の運命なんて。<line-break>でも、わくわくして楽しいわ。<line-break>こんな気持ち久しぶりよ。<end>"
+english = "I spent all those years living alone, and now I'm traveling with you, <value:$28>. You never can tell where fate will take you. But it's exciting. I'm having fun. I haven't felt this way in a long time.<end>"
+
+["2640028"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640029"]
+japanese = "ううん、違うの。<line-break>ちょっと考え事をしていたら<line-break>気弱になっちゃって…。<end>"
+english = "No, that's not it. I got lost in thought and let myself lose heart...<end>"
+
+["2640030"]
+japanese = "大丈夫よ。ありがとう。<line-break>不思議ね。あなたの瞳を見ていると<line-break>なぜだか心が落ち着くわ。<end>"
+english = "I'm all right. Thank you. It's strange. Somehow, looking into your eyes puts me at ease.<end>"
+
+["2640031"]
+japanese = "えっ、ジリオンのこと？<line-break>\u3000<line-break>\u3000<line-break>そうね。どんな関係って<line-break>訊かれても…。<end>"
+english = "What? You mean Zillion? Well... I'm not sure how to describe our relationship.<end>"
+
+["2640032"]
+japanese = "敵だったり、味方だったり…。<line-break>\u3000<line-break>\u3000<line-break>協力したかと思ったら、<line-break>お互い意固地になって反発して…。<line-break>よくケンカしたわ。<end>"
+english = "Sometimes we were enemies, sometimes allies. One moment we'd be working together, and the next we'd both dig in our heels and turn against each other. We fought a lot.<end>"
+
+["2640033"]
+japanese = "ジリオンはぶっきらぼうだけど<line-break>子供には好かれていてね。<line-break>\u3000<line-break>信じないと思うけど、<line-break>小さかったティアナ王女に<line-break>なつかれたこともあったのよ。<end>"
+english = "Zillion could be gruff, but children liked him. You may not believe it, but even Princess Tiana became attached to him when she was little.<end>"
+
+["2640034"]
+japanese = "でも、<value:$28>はどこか<line-break>あいつに似ているわ。<line-break>\u3000<line-break>優しくて強くて、<line-break>他人のために一生懸命で…。<line-break>\u3000<line-break>昔のあたしはずっと独りで生きてきて<line-break>失うものがないからこそ<line-break>自分は強いのだと無邪気に信じていた。<line-break>でも、ジリオンやあなたと出会って、<line-break>あたしは初めて、人のために<line-break>強くなれることを知った…。<end>"
+english = "But there's something about you that reminds me of him, <value:$28>. You're kind and strong, and you work so hard for other people... I used to live entirely on my own. I naively believed I was strong because I had nothing to lose. But after meeting Zillion and you, I learned for the first time that I could become strong for someone else's sake...<end>"
+
+["2640035"]
+japanese = "<value:$28>に<line-break>出会えて良かった。<line-break>\u3000<line-break>いつの日か、あたしが<line-break>おばあちゃんになったら、<line-break>\u3000<line-break>あなたとの冒険を孫たちに自慢して<line-break>聞かせるわ。<end>"
+english = "I'm glad I met you, <value:$28>. Someday, when I'm a grandmother, I'll boast to my grandchildren about our adventures together.<end>"
+
+["2640036"]
+japanese = "もっとも、そんな未来があればの<line-break>話だけど…。<end>"
+english = "Assuming that future ever comes, of course...<end>"
+
+["2640037"]
+japanese = "そうね。あたしが落ちこんでいたら<line-break>それこそ救いようがないわね。<line-break>\u3000<line-break>ありがとう。<value:$28>。<line-break>少し元気が出てきたわ。<line-break>もう大丈夫よ。<end>"
+english = "You're right. If I let myself get down, then I really would be beyond help. Thank you, <value:$28>. I'm feeling a little better now. I'll be all right.<end>"
+
+["2640038"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640039"]
+japanese = "こっちに来ない？\u3000いい星空よ。<end>"
+english = "Why don't you come over here? The stars are beautiful.<end>"
+
+["2640040"]
+japanese = "世界がどんなに変わっても、<line-break>この星空は変わらない…。<line-break>\u3000<line-break>人の心もこの星空のように<line-break>永遠に変わらなければいいのに…。<line-break>\u3000<line-break>でも、そう望んでしまうことこそが<line-break>人の心の弱さなのかもね…。<end>"
+english = "No matter how much the world changes, these stars remain the same... I wish people's hearts could remain forever unchanged, just like them... But perhaps wishing for that is itself a weakness of the human heart...<end>"
+
+["2640041"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640042"]
+japanese = "えっ、ジリオンのことを？<end>"
+english = "What, you want to hear about Zillion?<end>"
+
+["2640043"]
+japanese = "だいぶ昔の話だけど、<line-break>テジャワの変を終息させるため、<line-break>ジリオンは全力を尽くしたわ。<line-break>それでも多くの人が<line-break>不幸に巻きこまれた。<line-break>\u3000<line-break>幼かったアトレイア様が<line-break>両目の光を失ったのもその時よ。<end>"
+english = "It was a long time ago, but Zillion did everything in his power to bring the Tejava Incident to an end. Even so, many people were caught up in the tragedy. That was also when Lady Atleia, still only a child, lost the sight in both her eyes.<end>"
+
+["2640044"]
+japanese = "可哀相なアトレイア様のこと思うと<line-break>今でも胸が痛むの…。<end>"
+english = "My heart still aches whenever I think of poor Lady Atleia...<end>"
+
+["2640045"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640046"]
+japanese = "…何でもないわ。<line-break>ただジリオンが無事でいてくれるよう<line-break>祈っていただけ。<end>"
+english = "It's nothing. I was only praying that Zillion is safe.<end>"
+
+["2640047"]
+japanese = "今なら<value:$28>に話せるかな。<line-break>あたし昔、王宮でエリス様に<line-break>仕えていたころがあったの…。<line-break>これでも腕利きのつもりでいたんだけど<line-break>結局はただ政争の道具として<line-break>操られているだけだった。<line-break>そんなあたしに人としての生き方を<line-break>思い出させてくれたのが<line-break>ジリオンよ…。<line-break>彼がいなければ、たぶん<line-break>あたしもここにはいなかった。<line-break>いつもそう思っているわ。<end>"
+english = "I think I can tell you now, <value:$28>. I once served Lady Eris at the royal palace. I fancied myself quite capable, but in the end, I was only being manipulated as a tool in a political struggle. Zillion was the one who reminded me how to live as a human being. If it weren't for him, I probably wouldn't be here now. I've always believed that.<end>"
+
+["2640048"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640049"]
+japanese = "こっちに来ない？\u3000いい星空よ。<end>"
+english = "Why don't you come over here? The stars are beautiful.<end>"
+
+["2640050"]
+japanese = "世界がどんなに変わっても、<line-break>この星空は変わらない…。<line-break>\u3000<line-break>人の心もこの星空のように<line-break>永遠に変わらなければいいのに…。<line-break>\u3000<line-break>でも、そう望んでしまうことこそが<line-break>人の心の弱さなのかもね…。<end>"
+english = "No matter how much the world changes, these stars remain the same... I wish people's hearts could remain forever unchanged, just like them... But perhaps wishing for that is itself a weakness of the human heart...<end>"
+
+["2640051"]
+japanese = "<value:$28>…。<line-break>最近、あたし、思うようになったの。<line-break>\u3000<line-break>これ以上、多くを望んでしまう前に、<line-break>今、このまま消えることになったら<line-break>それが一番幸せなのかもしれないって。<end>"
+english = "<value:$28>... I've been thinking lately. Before I begin to wish for anything more, perhaps the greatest happiness would be to simply disappear now, while everything is still like this.<end>"
+
+["2640052"]
+japanese = "あはは。バカね。<line-break>消えやしないわよ。<line-break>そのくらい、幸せだなって思ったの。<end>"
+english = "Ha ha. Don't be silly. I'm not going to disappear. I only meant that this is how happy I feel.<end>"
+
+["2640053"]
+japanese = "覚えておくといいわ、<line-break>鈍感なる無限のソウルの持ち主さん。<line-break>\u3000<line-break>女の子は<line-break>幸せの絶頂にも<line-break>不安を感じてしまうんだって。<end>"
+english = "Remember this, you obtuse bearer of the Infinite Soul: even at the height of happiness, a girl can still feel uneasy.<end>"
+
+["2640054"]
+japanese = "…あと、こんな風に<line-break>話をした女の子がいたことも<line-break>覚えていてね。<end>"
+english = "And remember that there was a girl who spoke to you this way.<end>"
+
+["2640055"]
+japanese = "胸が…苦しいの。<end>"
+english = "My chest... it hurts.<end>"
+
+["2640056"]
+japanese = "………………。<line-break>…知らない。<line-break>\u3000<line-break>…ねえ、ひとつだけ訊いていい？<line-break>無限のソウルを授かると<line-break>人ってどうして鈍感になる…の？<end>"
+english = "...I don't know. Listen, may I ask you just one thing? Why does receiving the Infinite Soul make a person so... oblivious?<end>"
+
+["2640057"]
+japanese = "…ごめんなさい。<line-break>あたし…どうかしてる。<line-break>忘れて。<line-break>…おやすみ、<value:$28>。<end>"
+english = "I'm sorry. I... don't know what's come over me. Forget it. Good night, <value:$28>.<end>"
+
+["2640058"]
+japanese = "えっ？\u3000あたしが冒険している理由？<end>"
+english = "What? You want to know why I'm an adventurer?<end>"
+
+["2640059"]
+japanese = "そうね。一緒に旅をしてるんだし<line-break>それぐらいは話しておくべきかしら。<line-break>\u3000<line-break>人を捜しているの。<end>"
+english = "Well, we are traveling together. I suppose I should tell you that much. I'm looking for someone.<end>"
+
+["2640060"]
+japanese = "さあ、どこにいるのか今のところ<line-break>見当もつかないわ…。<end>"
+english = "I have no idea where he is yet.<end>"
+
+["2640061"]
+japanese = "ごめんなさい。<line-break>今は詳しく話せない。<line-break>\u3000<line-break>昔、いろいろあって、<line-break>すぐには他人を<line-break>信じることができないの…。<end>"
+english = "I'm sorry. I can't tell you the whole story yet. A lot happened in the past, and I can't bring myself to trust people so easily.<end>"
+
+["2640062"]
+japanese = "気を悪くしないでね。<line-break>あたしに染みついた<line-break>習性みたいなものだから。<end>"
+english = "Please don't take it personally. It's just a habit I can't seem to shake.<end>"
+
+["2640063"]
+japanese = "ちょっと夜風に当たって<line-break>散歩してくるわ。おやすみ。<end>"
+english = "I'm going for a walk to get some night air. Good night.<end>"
+
+["2640064"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640065"]
+japanese = "えっ？\u3000あたしの捜している人が<line-break>どんな人かって？<end>"
+english = "What? You want to know what the person I'm looking for is like?<end>"
+
+["2640066"]
+japanese = "そうね。<value:$28>がだいたい<line-break>どんな人かもわかってきたし。<line-break>\u3000<line-break>あたしが捜している人の名前は<line-break>ジリオン…。<end>"
+english = "Well, I think I have a fair idea of what kind of person you are now, <value:$28>. The man I'm looking for is named Zillion...<end>"
+
+["2640067"]
+japanese = "ううん。<line-break>あちこちで人に訊いているけど<line-break>まだ、これといった手がかりは…。<line-break>でも、どこにいようと<line-break>あいつがあたしのために<line-break>何かをしてるってことは感じるの。<line-break>たぶん、あいつががんばってるから<line-break>あたしがこうしていられるって…。<line-break>\u3000<line-break>こんな感覚、うまく説明できないから、<line-break>話しても笑われるだけだと<line-break>思うけど…。<end>"
+english = "No. I've asked around everywhere, but I still haven't found any real leads... Even so, wherever he is, I can feel that he's doing something for me. Maybe it's because he's doing all he can that I'm still here like this... I can't explain the feeling very well. You'd probably only laugh if I told you...<end>"
+
+["2640068"]
+japanese = "ありがとう。信じてくれるのね。<line-break>\u3000<line-break>\u3000<line-break>あいつってとても強情だから<line-break>あたしに黙って何かに<line-break>耐えているんじゃないかなって。<line-break>そんな気がするの…。<line-break>\u3000<line-break>\u3000<line-break>だから絶対に見つけてやるのよ。<line-break>いつまでも恩着せられっぱなしなんて、<line-break>あたしの性に合わないし。<end>"
+english = "Thank you. You believe me. He's terribly stubborn, so I can't help thinking he may be enduring something without telling me. That's the feeling I get... And that's why I'm going to find him, no matter what. Staying in his debt forever just isn't in my nature.<end>"
+
+["2640069"]
+japanese = "あたしが意地っ張り？<line-break>ジリオンにも同じことを言われたわ。<line-break>\u3000<line-break>一度なんて、面と向かって馬鹿って<line-break>言われたのよ。<line-break>\u3000<line-break>ホント、どうしてこう<line-break>無限のソウルの持ち主って<line-break>鈍感なのかしら。<end>"
+english = "You think I'm stubborn? Zillion said the same thing to me. Once, he even called me an idiot to my face. Honestly, why are bearers of the Infinite Soul always so obtuse?<end>"
+
+["2640070"]
+japanese = "そうよ。ジリオンも<line-break><value:$28>と同じように<line-break>無限のソウルを持っていたわ。<end>"
+english = "Yes. Zillion possessed the Infinite Soul, just as you do, <value:$28>.<end>"
+
+["2640071"]
+japanese = "でも、たぶんあたしのために<line-break>その力を…。<end>"
+english = "But that power of his... perhaps, for my sake...<end>"
+
+["2640072"]
+japanese = "ありがとう、<value:$28>。<line-break>励ましてくれて。<line-break>\u3000<line-break>そうね。あたしが落ちこんでいても<line-break>仕方ないわよね。<line-break>\u3000<line-break>今のあたしにできることは<line-break>一日でも早くジリオンを<line-break>捜しだすこと…。<end>"
+english = "Thank you for encouraging me, <value:$28>. You're right. There's no point in letting myself get discouraged. All I can do now is find Zillion as soon as possible...<end>"
+
+["2640073"]
+japanese = "<value:$28>に話したおかげで<line-break>少しは胸のつかえが取れたみたい。<line-break>\u3000<line-break>お陰でまた明日からがんばってけそう。<line-break>ありがと、<value:$28>。<line-break>おやすみなさい。<end>"
+english = "Talking to you has lifted some of the weight from my chest, <value:$28>. I think I can keep going again tomorrow. Thank you, <value:$28>. Good night.<end>"
+
+["2640074"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2640075"]
+japanese = "ごめんなさい。<line-break>ちょっと考え事をしていたら<line-break>混乱しちゃって…。<end>"
+english = "I'm sorry. I was thinking about things and got myself all confused.<end>"
+
+["2640076"]
+japanese = "もう、あたしにもどうしたらいいか<line-break>わからないのよ…。<end>"
+english = "I don't know what to do anymore...<end>"
+
+["2640077"]
+japanese = "時々、ジリオンの顔を<line-break>忘れそうになるの。<line-break>\u3000<line-break>すぐに思い出せたあいつの笑顔が、<line-break>どんどん薄れていく。<line-break>それがどうしようもなく恐いの…。<end>"
+english = "Sometimes I feel as though I'm forgetting Zillion's face. I used to be able to picture his smile at once, but it's fading more and more. It terrifies me...<end>"
+
+["2640078"]
+japanese = "いったい、あたしは今、<line-break>誰を想っているのか…。<line-break>\u3000<line-break>それがわからなくて不安に<line-break>押しつぶされそうになる。<line-break>\u3000<line-break>あたしの願いはただジリオンを<line-break>捜しだすことだけだった。<line-break>\u3000<line-break>でも、今は本当にそれが望みなのか<line-break>自分でもわからない…。<end>"
+english = "Who am I thinking of now...? Not knowing makes me feel as though the anxiety will crush me. All I ever wanted was to find Zillion. But now I don't even know if that's truly what I want anymore...<end>"
+
+["2640079"]
+japanese = "そうね。焦ってもしょうがないわよね。<line-break>とにかく今はジリオンを<line-break>捜しださないと。<line-break>でないと、あたしは自分の心に…。<end>"
+english = "You're right. There's no use rushing. For now, I simply have to find Zillion. Otherwise, my own heart...<end>"
+
+["2640080"]
+japanese = "ううん。なんでもないわ。<line-break>おやすみなさい、<value:$28>。<end>"
+english = "No, it's nothing. Good night, <value:$28>.<end>"
+
+["2640081"]
+japanese = "ジリオン＆イーシャイベント05用開終端<end>"
+english = ""

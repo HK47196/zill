@@ -1,0 +1,897 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1220000"]
+japanese = "（ディンガル帝国の朱雀将軍になった<line-break>\u3000アンギルダンから、自分の副将に<line-break>\u3000なるようにとの手紙をもらった）<line-break>（アンギルダンの頼みを聞いて、<line-break>\u3000副将になるためにエンシャントの城へ<line-break>\u3000行こうか、それとも断りに…）<end>"
+english = "(Angeerdan, now the Vermilion Bird General of the Dingal Empire, sent a letter asking me to become his deputy.) (Should I accept Angeerdan's request and go to the castle in Ancient to become his deputy, or go there to decline...?)<end>"
+
+["1220001"]
+japanese = "朱雀将軍から自分の副将になるよう<line-break>誘われたって本当なの！？<line-break>それってすごいことよ。<line-break>うらやましいな…。<line-break>もちろん誘いを受けるんでしょ。<line-break>こんなチャンスは二度とないわよ。<end>"
+english = "Is it true the Vermilion Bird General asked you to become his deputy!? That's incredible. I'm so jealous... Of course you're going to accept. You'll never get another chance like this.<end>"
+
+["1220002"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220003"]
+japanese = "冒険者から朱雀軍の副将になるなんて<line-break>かなりの強運の持ち主かも。<line-break>この若さで副将に出世ということは…<line-break>数年後にはディンガル皇帝とか…。<line-break>これは玉のこしねらいでアタックする<line-break>しかないかも…。<end>"
+english = "Going from adventurer to deputy commander of the Vermilion Bird Army... You must be incredibly lucky. If you've risen to deputy commander at such a young age, then in a few years you might be Emperor of Dingal... Maybe I should make a move and marry into power...<end>"
+
+["1220004"]
+japanese = "アンギルダンがレターをくレター？<line-break>なんで俺じゃなくてお前に来るんだよ！<line-break>どう考えても俺の方が強いのによ。<line-break>ところで、アンギルダンって誰だ？<line-break>何！\u3000騎士だってぇ！<line-break>急いでエンシャントに行かナイト！<end>"
+english = "Angeerdan sent you a letter? Why'd it come to you instead of me!? I'm obviously stronger than you. By the way, who's Angeerdan? What!? He's a knight? Then we'd better not wait all night―hurry to Ancient!<end>"
+
+["1220005"]
+japanese = "アンギルダン？<line-break>もしかして真紅のプレートアーマーを<line-break>身につけたお爺さんのこと？<line-break>へ～、あの人ってすごい人だったのね。<line-break>実はボク、リベルダムの酒場で<line-break>ごちそうになったことがあるんだ。<end>"
+english = "Angeerdan? You mean the old man in crimson plate armor? Huh, so he was someone important. He actually treated me to a meal at the tavern in Liberdam once.<end>"
+
+["1220006"]
+japanese = "アンギルダンがあなたを副将に招く？<line-break>…それは良かったわね。せいぜい<line-break>戦死しないように気をつけるといいわ。<end>"
+english = "Angeerdan invited you to be his deputy? ...How nice for you. Do try not to get killed in battle.<end>"
+
+["1220007"]
+japanese = "帝国軍朱雀将軍の副将に、あなたが？<line-break>それはすごい出世ですねえ。<line-break>…え、受けるかどうか迷ってる？<line-break>存分、考え、悩むといいでしょう。<line-break>それだけの価値があることです。<end>"
+english = "You, deputy to the imperial army's Vermilion Bird General? That is quite a promotion. ...What? You're unsure whether to accept? Take all the time you need to think and agonize over it. A decision like this deserves no less.<end>"
+
+["1220008"]
+japanese = "アンギのおっさんに認められるなんて、<line-break>やるじゃん、<value:$28>。<line-break><line-break>帝国軍に入ったら、このカルラさんも<line-break>色々教えてあげるよ～。<line-break>手取り足取り、なんてね。<end>"
+english = "Not bad, <value:$28>. You even earned old Angie's approval. If you join the imperial army, Karula can teach you all sorts of things. Hand over hand, every step of the way... Just kidding.<end>"
+
+["1220009"]
+japanese = "姉ちゃん、アンギルダンの手紙には<line-break>なんて書いてあったのか教えてくれよ。<line-break>えっ、見せてくれるって。どれどれ…<line-break>…すごいよ姉ちゃん！<line-break>アンギルダンに副将を頼まれるなんて。<line-break>もちろんエンシャントへ行くんだよな。<end>"
+english = "Sis, tell me what Angeerdan's Letter said. What, you'll let me see it? Let's have a look... Wow, Sis! Angeerdan asked you to be his deputy! You're going to Ancient, right?<end>"
+
+["1220010"]
+japanese = "一介の冒険者から副将を選ぶとは。<line-break>アンギルダンも思い切ったことを。<line-break>さすがは歴戦の老将ということかしら。<end>"
+english = "Choosing a mere adventurer as his deputy... That was a bold decision, even for Angeerdan. I suppose that is what one should expect from a veteran general.<end>"
+
+["1220011"]
+japanese = "アンギルダンのとっつぁんも人を<line-break>見る目があるねー。俺も同じ立場なら<line-break>お前さんを副将にするだろうな。<line-break>どうする？\u3000エンシャントへ行くかい。<line-break>俺に遠慮する必要はこれっぽっちも<line-break>ないぜ。自分の思うようにするといい。<end>"
+english = "Old Angeerdan has a good eye for people. If I were in his position, I'd make you my deputy too. So, what will you do? Go to Ancient? Don't hold back on my account―not even a little. Do whatever you think is right.<end>"
+
+["1220012"]
+japanese = "アンギルダンが自分の副将に<line-break>お前を選んだのか…。<line-break>大胆な男だな。<line-break>どうする？\u3000誘いを受けるなら<line-break>迷わずエンシャントへ向かえ。<end>"
+english = "Angeerdan chose you as his deputy...? He's a bold man. What will you do? If you're accepting his offer, head straight for Ancient.<end>"
+
+["1220013"]
+japanese = "なんと！\u3000アンギルダン殿がお主を<line-break>自分の副将として取り立ててくれると<line-break>言うのか。それはすごいことじゃな。<line-break>それで、お主はどうするつもりじゃ。<line-break>アンギルダン殿はお主が来るのを<line-break>今や遅しと待っておるのじゃぞ。<end>"
+english = "What! Lord Angeerdan means to elevate you to the position of his deputy? That is remarkable indeed. So, what do you intend to do? Lord Angeerdan is waiting impatiently for you to arrive.<end>"
+
+["1220014"]
+japanese = "アンギルダンさんは、自分の副将に<line-break>なるよう誘ってくれたんでしょ。<line-break><value:$28>どうするの？<line-break>アンギルダンさんは、エンシャントで<line-break><value:$28>のことを待っている<line-break>と思うよ。<end>"
+english = "Angeerdan asked you to become his deputy, right? What will you do, <value:$28>? I think Angeerdan is waiting for <value:$28> in Ancient.<end>"
+
+["1220015"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220016"]
+japanese = "ふーん、あんた戦争に行くつもりなの。<line-break>アンギルダンの副将になるっていうのは<line-break>そういうことなんでしょ。<line-break>アタクシは遠慮させてもらうわ。<line-break>高貴で優雅なエルフのアタクシは人間の<line-break>醜い争いになど巻き込まれたくないの。<end>"
+english = "Oh? So you're planning to go to war. That's what becoming Angeerdan's deputy means, isn't it? Count me out. I am a noble and elegant Elf, and I have no desire to be dragged into the ugly conflicts of humans.<end>"
+
+["1220017"]
+japanese = "アンギルダン殿は騎士ですぞ。<line-break>兄弟子、ぐずぐすしていてはダメです。<line-break>急いでエンシャントへ行かナイト！<line-break>………………。<line-break>使い古されたネタで申し訳ありませぬ。<end>"
+english = "Lord Angeerdan is a knight, Senior Disciple. This is no time to dawdle. Hurry to Ancient―don't wait all knight! ............... Forgive me for resorting to such a tired joke.<end>"
+
+["1220018"]
+japanese = "アンギルダンのお爺ちゃんは<line-break>ディンガル帝国の朱雀将軍に<line-break>なったんだよねぇ。<line-break>ルルアンタ、副将には興味ないけど<line-break>アンギルダンのお爺ちゃんに<line-break>会いたくなってきちゃった。<end>"
+english = "Grandpa Angeerdan became the Dingal Empire's Vermilion Bird General, right? Lulluantha isn't interested in being a deputy, but now I want to see Grandpa Angeerdan.<end>"
+
+["1220019"]
+japanese = "………………。<line-break><line-break><line-break>アンギルダンの願いを聞いてやれ。<end>"
+english = "............... Grant Angeerdan's request.<end>"
+
+["1220020"]
+japanese = "お前がアンギルダン、つまり、<line-break>ディンガル帝国朱雀将軍の副将に？<line-break>関係ない。誰であろうと、な。<end>"
+english = "You? Deputy to Angeerdan―the Dingal Empire's Vermilion Bird General? It makes no difference. No matter who you are.<end>"
+
+["1220021"]
+japanese = "アンギルダンの副将ってことは<line-break>ディンガル帝国朱雀将軍の副将だよね。<line-break>冒険者から副将なんて大出世だよ。<line-break>だんだん英雄伝説っぽくなってきた！<line-break>これはもう、その話にのるしかないね。<line-break>すぐにエンシャントの城へ行かないと！<end>"
+english = "Being Angeerdan's deputy means being deputy to the Dingal Empire's Vermilion Bird General, right? Going from adventurer to deputy commander is an enormous promotion. This is starting to feel like a heroic legend! You simply have to accept. Hurry to the castle in Ancient!<end>"
+
+["1220022"]
+japanese = "朱雀将軍が君を副将に選んだか。<line-break>君の素質を見抜くとは、<line-break>さすがアンギルダンは目ざといな。<end>"
+english = "So the Vermilion Bird General chose you as his deputy. Angeerdan was sharp enough to recognize your potential. Impressive.<end>"
+
+["1220023"]
+japanese = "おめでたく思います。…が、<line-break>そのようなことを誰彼かまわず<line-break>触れ回って、危険はないのですか？<end>"
+english = "I am happy for you. However... is it safe to go around telling everyone about such a thing?<end>"
+
+["1220024"]
+japanese = "ガッカリだよ、<value:$28>。<line-break>それを受けちゃったら、<line-break>私たち、敵同士になるんだよ！？<end>"
+english = "I'm disappointed, <value:$28>. If you accept, we'll become enemies!<end>"
+
+["1220025"]
+japanese = "そうか、ディンガルに仕官するのか…。<line-break>ならば、覚えておいてくれ、<line-break><value:$28>。<line-break>統治と占領、この２つが、必ずしも<line-break>同じ意味ではないということをな…。<end>"
+english = "I see. So you will enter Dingal's service... Then remember this, <value:$28>: governing and occupying do not necessarily mean the same thing.<end>"
+
+["1220026"]
+japanese = "<value:$28>が、朱雀将軍の<line-break>副将に大抜擢されるとは…。<line-break><line-break>祝ってやりたいが、今一度よく<line-break>考えて決断するといい。その出世は、<line-break>戦場に通じているのだからな。<end>"
+english = "To think <value:$28> would be chosen for the great honor of serving as the Vermilion Bird General's deputy... I want to congratulate you, but think it over once more before deciding. That promotion leads directly to the battlefield.<end>"
+
+["1220027"]
+japanese = "あのアンギルダンから<line-break>副将になってくれと頼まれるなんて、<line-break>腕を上げたな、<value:$28>。<line-break>しかし、そうなると<line-break>ロストールを攻めることになるのか…。<end>"
+english = "For Angeerdan himself to ask you to be his deputy... You've come a long way, <value:$28>. But would that mean attacking Rostorl...?<end>"
+
+["1220028"]
+japanese = "朱雀将軍アンギルタンの副将に？<line-break>彼の目にとまるなんて、さすがね。<end>"
+english = "Deputy to Vermilion Bird General Angeerdan? Impressive, catching his attention like that.<end>"
+
+["1220029"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220030"]
+japanese = "ディンガル帝国の朱雀軍の副将に<line-break>なるんですか？<line-break>\u3000<line-break>ロストールを<value:$28>さんが<line-break>攻めるってことですよね？<line-break>いえ、なんでもないです…。<end>"
+english = "You're becoming a deputy commander in the Dingal Empire's Vermilion Bird Army? That means <value:$28> will attack Rostorl, doesn't it? No, it's nothing...<end>"
+
+["1220031"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220032"]
+japanese = "（エンシャントの南東にある賢者の森。<line-break>\u3000そこには運命に選ばれた人間のみが<line-break>\u3000入れる屋敷があるらしい）<line-break>（冒険者ギルドの主人が言うには、<line-break>\u3000未来の勇者を自称するガルドランは<line-break>\u3000その猫屋敷へ向かったようだ）<end>"
+english = "(Southeast of Ancient lies the Sage's Forest. It is said to contain a manor that only humans chosen by destiny may enter.) (According to the master of the Adventurers' Guild, Girldlan, the self-proclaimed future Hero, has set out for that Cat Manor.)<end>"
+
+["1220033"]
+japanese = "私の聞いた話によると、ガルドランは<line-break>賢者の森へ向かったらしいわ。<line-break>猫屋敷に通れるつもりなのね。<end>"
+english = "From what I've heard, Girldlan has gone to the Sage's Forest. He must think he can gain entry to Cat Manor.<end>"
+
+["1220034"]
+japanese = "あやつ、賢者の森へ行ったそうじゃ。<line-break>運命に選ばれた者のみ通れるという<line-break>賢者殿に会えるつもりなのじゃなあ。<end>"
+english = "I hear that fellow went to the Sage's Forest. He must think the Sage, who receives only those chosen by destiny, will meet with him.<end>"
+
+["1220035"]
+japanese = "ガルドラン様が賢者の森へ行ったという<line-break>ことはですね～、運命に選ばれた者だ<line-break>っていう自覚があるからです！<line-break>賢者様が会ってくれなかったら、<line-break>少しは落ち着きが出るんでしょうか？<line-break>そうなるといいですね～！\u3000きゃっ！<end>"
+english = "Lord Girldlan went to the Sage's Forest because he considers himself one of those chosen by destiny! If the Sage refuses to see him, do you think he might calm down a little? I certainly hope so! Eek!<end>"
+
+["1220036"]
+japanese = "ガルドランの野郎は、賢者の森へ<line-break>行ったらしいぜ！\u3000くっそ～！<line-break>俺より先に猫遊びするつもりだな！<end>"
+english = "That bastard Girldlan went to the Sage's Forest! Damn it! He's going to play with the cats before I do!<end>"
+
+["1220037"]
+japanese = "ボクが聞いたところによるとね、<line-break>ガルドランは賢者の森へ行ったって！<line-break>猫屋敷まで踏み込むつもりなのかな？<end>"
+english = "From what I heard, Girldlan went to the Sage's Forest! I wonder if he plans to venture all the way into Cat Manor.<end>"
+
+["1220038"]
+japanese = "ガルドラン？<line-break>どこへ行ったかということ以前に、<line-break>それが誰だったかが思い出せない…。<end>"
+english = "Girldlan? Never mind where he went―I can't even remember who he was...<end>"
+
+["1220039"]
+japanese = "まあ、私は黙っていましょうかね。<line-break>人を選ぶのは、運命、ですから…。<line-break>ふふふっ。<end>"
+english = "Perhaps I should keep quiet. After all, destiny is what chooses people... Heh heh.<end>"
+
+["1220040"]
+japanese = "ああ、あのうるっさいヤツね。<line-break>酒場ではどうやら賢者の森へ行くって<line-break>叫んでたらしいけど…？<end>"
+english = "Oh, that obnoxiously loud fellow. Apparently he was shouting in the tavern about going to the Sage's Forest...?<end>"
+
+["1220041"]
+japanese = "大変だ、姉ちゃん！<line-break>ガルドランの奴、賢者の森の猫屋敷へ<line-break>向かったらしいんだ！<line-break>姉ちゃんや俺を差し置いて、<line-break>ガルドランが賢者様に会っちゃったら<line-break>俺、たまんなく悔しいぜ！<end>"
+english = "This is bad, Sis! That Girldlan fellow is heading for Cat Manor in the Sage's Forest! If Girldlan meets the Sage before you or me, I'll be beside myself with frustration!<end>"
+
+["1220042"]
+japanese = "ガルドラン？\u3000勇者を名乗る冒険者？<line-break>冒険者であるあなたを差し置いて、<line-break>私がその行方を知るはずがないわ。<end>"
+english = "Girldlan? The adventurer who calls himself a Hero? If you, an adventurer, do not know where he went, how could I possibly know?<end>"
+
+["1220043"]
+japanese = "ああ、ガルドランだろ？<line-break>酒場でな、賢者の森へ行くって<line-break>声高に叫んでたみたいだぜ？<line-break>運命に選ばれた者だなんて平気で<line-break>言えるんだからな。いやはや、<line-break>恐れ入っちまうぜ。<end>"
+english = "Oh, Girldlan? Apparently he was loudly proclaiming in the tavern that he was going to the Sage's Forest. Anyone who can casually call himself chosen by destiny is truly something else. I'm almost impressed.<end>"
+
+["1220044"]
+japanese = "ガルドランは賢者の森へ行った。<line-break>猫屋敷まで通るつもりなのだろうが、<line-break>まず十割方、不可能だろうな。<end>"
+english = "Girldlan went to the Sage's Forest. He probably intends to make it as far as Cat Manor, but there is virtually no chance of that.<end>"
+
+["1220045"]
+japanese = "おお、あの勇者気取りはな、<line-break>賢者の森へと行ったらしいぞ。<line-break>エンシャントの南東じゃ。<end>"
+english = "Ah, that would-be Hero apparently went to the Sage's Forest. It lies southeast of Ancient.<end>"
+
+["1220046"]
+japanese = "ガルドランは賢者の森にある<line-break>猫屋敷へ向かったらしいね。<line-break>僕たちもいそいで追いかけようよ。<end>"
+english = "Apparently Girldlan has headed for Cat Manor in the Sage's Forest. Let's hurry after him.<end>"
+
+["1220047"]
+japanese = "ガルドランは賢者の森へ向かった。<line-break>猫屋敷の賢者に会うつもりらしいな。<line-break>会えるかどうかは運命次第だが…。<end>"
+english = "Girldlan went to the Sage's Forest. Apparently he means to meet the Sage of Cat Manor. Whether he succeeds is up to destiny...<end>"
+
+["1220048"]
+japanese = "ガルドラン？\u3000冒険者？<line-break>よして頂戴。そんな下賎なことは、<line-break>アタクシより酒場の親父の専門だわ。<line-break>"
+english = "Girldlan? An adventurer? Spare me. Such lowly matters are the tavern keeper's concern, not mine."
+
+["1220049"]
+japanese = "エラーメッセージです。<end>"
+english = "This is an error message.<end>"
+
+["1220050"]
+japanese = "ルルアンタ、知ってるよぉ。<line-break>ガルドランは賢者の森目指して<line-break>駆けてったんだよぉ！<end>"
+english = "Lulluantha knows! Girldlan went running toward the Sage's Forest!<end>"
+
+["1220051"]
+japanese = "…賢者の森だ。<line-break>勝手に行くといいだろう。<end>"
+english = "...The Sage's Forest. Go there if you want.<end>"
+
+["1220052"]
+japanese = "ガルドラン？<line-break>冒険者の行く場所など、知らん。<line-break>酒場か、宿屋ではないのか…。<end>"
+english = "Girldlan? I know nothing of the places adventurers frequent. Perhaps a tavern or an inn...<end>"
+
+["1220053"]
+japanese = "ガルドランは、エンシャント南東の<line-break>賢者の森に向かったらしいよ！<line-break><line-break>猫屋敷の賢者様に会うつもりだとは<line-break>思うけど、運命は味方について<line-break>くれるのかな～？<end>"
+english = "Apparently Girldlan headed for the Sage's Forest southeast of Ancient! I imagine he means to meet the Sage of Cat Manor, but I wonder if destiny will favor him.<end>"
+
+["1220054"]
+japanese = "賢者の森へと向かったらしいな。<line-break>猫屋敷の賢者が会ってくれると<line-break>考えているらしいが…。<end>"
+english = "Apparently he headed for the Sage's Forest. He seems to think the Sage of Cat Manor will meet with him...<end>"
+
+["1220055"]
+japanese = "その者なら、賢者の森へ行ったと<line-break>聞きましたよ。猫屋敷の賢者様に<line-break>会えると考えてのことじゃ？<end>"
+english = "I heard that person went to the Sage's Forest. Presumably in the belief that the Sage of Cat Manor would grant an audience?<end>"
+
+["1220056"]
+japanese = "ガルドラン…？<line-break>ヴィア、そんな人、<line-break>知らないよ。<end>"
+english = "Girldlan...? Via doesn't know anyone like that.<end>"
+
+["1220057"]
+japanese = "自称未来の勇者が、<line-break>おのれの素質を試しに行ったか。<line-break><line-break>やめておけばいいものを。<line-break>賢者の森はそんなに甘くはない。<line-break>立ち直れなくなるぞ。<end>"
+english = "So the self-proclaimed future Hero has gone to test his potential. He should have left well enough alone. The Sage's Forest is not so forgiving. This may crush him beyond recovery.<end>"
+
+["1220058"]
+japanese = "ガルドランというと…<line-break>ああ、あの、未来の勇者などと<line-break>自分で叫んでいた男か。<line-break>賢者の森へと向かったと聞いたが、<line-break>賢者のいる猫屋敷までたどり着くのは<line-break>おそらく無理だろうな。<end>"
+english = "Girldlan...? Ah, the man who went around proclaiming himself the future Hero. I heard he headed for the Sage's Forest, but he will probably never reach Cat Manor, where the Sage resides.<end>"
+
+["1220059"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220060"]
+japanese = "自称勇者様なら賢者の森に向かった<line-break>らしいわ。自分が運命に選ばれた者って<line-break>思い込んでるのね。<end>"
+english = "Apparently our self-proclaimed Hero went to the Sage's Forest. He really believes he was chosen by destiny.<end>"
+
+["1220061"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220062"]
+japanese = "ガルドランさんは、賢者の森へ<line-break>向かったみたいです。運命に選ばれた<line-break>人しか猫屋敷に入れないのに。<line-break>ま、まさかガルドランさんが運命に<line-break>選ばれた人なんでしょうか！？<end>"
+english = "It seems Girldlan went to the Sage's Forest, even though only those chosen by destiny can enter Cat Manor. C-could Girldlan actually be one of the chosen!?<end>"
+
+["1220063"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220064"]
+japanese = "（ジラークのアルノートゥン攻めを<line-break>\u3000手伝う約束をした）<line-break><line-break>（準備ができたらアキュリュースへ<line-break>\u3000行かなければ…）<end>"
+english = "(I promised to help Zsilak attack Alnortun.) (Once preparations are complete, I must go to Aquilyus...)<end>"
+
+["1220065"]
+japanese = "ジラークのアルノートゥン攻めを<line-break>手伝うのよね。準備ができたら<line-break>アキュリュースへ行きましょ。<end>"
+english = "We're helping Zsilak attack Alnortun, remember? Once we're ready, let's go to Aquilyus.<end>"
+
+["1220066"]
+japanese = "ジラークのアルノートゥン攻めを<line-break>手伝うのじゃな。準備ができたら<line-break>アキュリュースへ行くとしようぞ。<end>"
+english = "We are to help Zsilak attack Alnortun. Once preparations are complete, let us go to Aquilyus.<end>"
+
+["1220067"]
+japanese = "えっ！<line-break>ジラークさんと一緒に戦うって<line-break>言ってませんでしたか？<end>"
+english = "What! Didn't you say you were going to fight alongside Zsilak?<end>"
+
+["1220068"]
+japanese = "ジラークがあんなに真剣に頼んでいた<line-break>のを忘れたのかよ！<line-break>記憶力のない奴だな。<end>"
+english = "Have you forgotten how earnestly Zsilak pleaded with you? Your memory is terrible.<end>"
+
+["1220069"]
+japanese = "ジラークと一緒にアルノートゥンを<line-break>攻める約束をしていたよね。<line-break>もう準備は終わったの？<end>"
+english = "You promised to attack Alnortun with Zsilak, remember? Have you finished preparing?<end>"
+
+["1220070"]
+japanese = "ジラークに従ってアルノートゥンを<line-break>攻めるという話ではなかったの？<line-break>…うかつね。<end>"
+english = "Weren't you going to follow Zsilak into the attack on Alnortun? ...How careless.<end>"
+
+["1220071"]
+japanese = "ジラークさんが聞いたら泣きますよ。<line-break>あなたに仲間になって欲しくて<line-break>一生懸命頼んでいたのですから。<end>"
+english = "Zsilak would weep if he heard that. He pleaded so earnestly because he wanted you to join him.<end>"
+
+["1220072"]
+japanese = "あらら～、それ聞いたら、<line-break>ジラークはガックリくるわよ？<line-break>あんたに相当期待してたからね。<end>"
+english = "Oh dear. Zsilak would be crushed if he heard that. He had such high hopes for you.<end>"
+
+["1220073"]
+japanese = "姉ちゃんしっかりしてくれよ。<line-break>ジラークと一緒にアルノートゥンを<line-break>攻めるんだろ。<line-break>準備ができたらアキュリュースへ<line-break>来てくれって頼まれたんだろ。<end>"
+english = "Get it together, Sis. You're attacking Alnortun with Zsilak, remember? He asked you to come to Aquilyus once you were ready.<end>"
+
+["1220074"]
+japanese = "ジラークのアルノートゥン攻めに<line-break>傭兵として参加するのよ。<line-break>アキュリュースで合流よ。<end>"
+english = "You're joining Zsilak's attack on Alnortun as a mercenary. You are to rendezvous in Aquilyus.<end>"
+
+["1220075"]
+japanese = "ジラーク側につくんだったな。<line-break>アルノートゥン攻めの用意は<line-break>できたのかい？<line-break>用意ができたなら、<line-break>アキュリュースへ行くとしようや。<end>"
+english = "You were going to side with Zsilak. Are you ready for the attack on Alnortun? If so, let's head to Aquilyus.<end>"
+
+["1220076"]
+japanese = "ジラークのアルノートゥン攻めに<line-break>参加するのだったな。<end>"
+english = "You were going to join Zsilak's attack on Alnortun.<end>"
+
+["1220077"]
+japanese = "ジラークのアルノートゥン攻めに<line-break>参加するのであろう。<line-break>しっかりせんかい。<end>"
+english = "You are joining Zsilak's attack on Alnortun, are you not? Pull yourself together.<end>"
+
+["1220078"]
+japanese = "<value:$28>もジラーク将軍の<line-break>アルノートゥン攻めに<line-break>参加してくれるんだよね。<line-break>僕もコーンスが差別されない世界を<line-break>つくるために全力で戦うよ。<line-break>さあ！\u3000アキュリュースへ行こうよ。<end>"
+english = "You're joining General Zsilak's attack on Alnortun too, right, <value:$28>? I'll fight with all my strength to create a world where the Korns aren't discriminated against. Come on! Let's go to Aquilyus.<end>"
+
+["1220079"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220080"]
+japanese = "高貴で気品あふれるエルフのアタクシが<line-break>どうしてあんたの雇い主を覚えなくちゃ<line-break>いけないのよ。失礼するわねぇ。<end>"
+english = "Why should a noble and refined Elf like me have to remember who employs you? Now, if you'll excuse me.<end>"
+
+["1220081"]
+japanese = "よー、平和ですな傭兵さん…<line-break>拙者にはダジャレの才能がないので<line-break>あろうか…否！\u3000くじけませんぞ！<end>"
+english = "Ah, all is mercenarily peaceful, I see... Could it be that I have no talent for puns? No! I shall not be discouraged!<end>"
+
+["1220082"]
+japanese = "ジラークさんと一緒にアルノートゥンを<line-break>攻めるんだよぉ。<line-break>でもねルルアンタ、戦争は嫌いなの。<line-break>だから、本当は<value:$28>にも<line-break>ジラークさんにも戦わなくていい方法を<line-break>考えて欲しいなぁ…。<end>"
+english = "We're going to attack Alnortun with Zsilak. But Lulluantha hates war. So I really wish <value:$28> and Zsilak would find a way for neither of you to have to fight...<end>"
+
+["1220083"]
+japanese = "………………。<line-break><line-break><line-break>ジラークと共に、アルノートゥンを<line-break>攻めると約束したのではないのか。<end>"
+english = "............... Did you not promise to attack Alnortun alongside Zsilak?<end>"
+
+["1220084"]
+japanese = "そんなことも忘れたのか。<line-break>ジラークのアルノートゥン攻めも、<line-break>先行き不安だな。<end>"
+english = "You forgot even that? Zsilak's attack on Alnortun does not bode well.<end>"
+
+["1220085"]
+japanese = "ジラーク将軍が、あんなに一生懸命<line-break>頼んできたのを忘れちゃったの？<line-break>ジラーク将軍が聞いたら泣くよぉ。<line-break>ふふふ…、冗談、冗談。<line-break><value:$28>は忙しいからね。<line-break>たま～に物忘れするのも仕方ないよ。<end>"
+english = "You forgot how earnestly General Zsilak pleaded with you? He'll cry if he hears about this. Hee hee... Just kidding. <value:$28> is very busy, so forgetting things once in a while can't be helped.<end>"
+
+["1220086"]
+japanese = "君が参加するのは、ジラークの<line-break>アルノートゥン攻めだったはずだ。<line-break>帝国の面汚しになってくれるなよ。<end>"
+english = "You are supposed to be joining Zsilak's attack on Alnortun. Do not disgrace the Empire.<end>"
+
+["1220087"]
+japanese = "ジラークに依頼されたのは<line-break>アルノートゥンの攻撃ですが、<line-break>合流地はアキュリュースです。<end>"
+english = "Zsilak asked you to attack Alnortun, but the rendezvous point is Aquilyus.<end>"
+
+["1220088"]
+japanese = "ジラークは、アキュリュースに行けって<line-break>言ったんだよね。<line-break>あっ、気をつけてね。<end>"
+english = "Zsilak told you to go to Aquilyus, right? Oh, and be careful.<end>"
+
+["1220089"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220090"]
+japanese = "ジラークが頼んできたのは、<line-break>アルノートゥン攻めだったはずだ。<line-break><line-break>準備が整い次第、アキュリュースに<line-break>来てくれとのことだった。<end>"
+english = "Zsilak asked you to help attack Alnortun. He said to come to Aquilyus as soon as your preparations were complete.<end>"
+
+["1220091"]
+japanese = "おい、しっかりするんだ。<line-break>ジラークと共にアルノートゥンを<line-break>攻めると決めただろ。<end>"
+english = "Hey, pull yourself together. You decided to attack Alnortun alongside Zsilak.<end>"
+
+["1220092"]
+japanese = "ジラークと一緒に<line-break>アルノートゥンを攻めるんでしょ。<line-break>さあ、アキュリュースに行くわよ。<end>"
+english = "You're attacking Alnortun with Zsilak, remember? Come on, we're going to Aquilyus.<end>"
+
+["1220093"]
+japanese = "ジラークと共にアルノートゥンを<line-break>攻めるとのことでしたが。<end>"
+english = "I was told you would attack Alnortun alongside Zsilak.<end>"
+
+["1220094"]
+japanese = "ジラークさんに怒られちゃいますよ。<line-break>一緒にアルノートゥンを攻めるって<line-break>約束していたじゃないですか。<line-break>でもできれば戦争なんてしてほしく<line-break>ないです。人がいっぱい死んじゃうのは<line-break>つらいですから。<end>"
+english = "Zsilak will be angry with you. You promised to attack Alnortun together, remember? But if possible, I wish you wouldn't go to war at all. It's painful when so many people die.<end>"
+
+["1220095"]
+japanese = "ジラークと<line-break>アルノートゥンを攻めると<line-break>約束してたんじゃないのかい？<end>"
+english = "Didn't you promise to attack Alnortun with Zsilak?<end>"
+
+["1220096"]
+japanese = "（エルズの冒険者ギルドで、<line-break>\u3000風泣きの洞窟に現れる怪物を<line-break>\u3000倒してくれと頼まれたな）<line-break>（怪物を倒したら、<line-break>\u3000忘れずに報告しないと…）<end>"
+english = "(At the Adventurers' Guild in Elz, I accepted a request to slay the monster appearing in Wind-Wailing Cave.) (Once it is defeated, I must remember to report back...)<end>"
+
+["1220097"]
+japanese = "ああ、エルズの冒険者ギルドで<line-break>引き受けた怪物退治の仕事ね。<line-break>そいつは風泣きの洞窟に現れるのよね。<line-break>エルズの人たちも、洞窟に入れなくて<line-break>困っているみたいだし、急ぎましょ。<end>"
+english = "Oh, the monster-slaying job you accepted at the Adventurers' Guild in Elz. The creature appears in Wind-Wailing Cave, right? The people of Elz are having trouble because they cannot enter the cave, so let's hurry.<end>"
+
+["1220098"]
+japanese = "風泣きの洞窟に現れるという怪物を<line-break>退治するのであったな。<line-break>準備ができたら出発しようぞ。<line-break>見事、怪物を倒し冒険者ギルドへ<line-break>報告すれば、エルズの人々も安心して<line-break>コロル石を拾いに行けるようになるな。<end>"
+english = "We are to slay the monster said to appear in Wind-Wailing Cave. Let us depart once preparations are complete. If we defeat it and report back to the Adventurers' Guild, the people of Elz will be able to gather Korol Stone without fear.<end>"
+
+["1220099"]
+japanese = "たしか、風泣きの洞窟に出る<line-break>怪物を退治するお仕事でしたよね。<line-break>どんな怪物なのかな？<end>"
+english = "The job was to slay the monster in Wind-Wailing Cave, wasn't it? I wonder what kind of monster it is.<end>"
+
+["1220100"]
+japanese = "ものすごい怪物だって言うじゃないか。<line-break>よし、行こうぜ！\u3000風泣きの洞窟によ！<line-break>俺の実力を見せてやるぜ！！<end>"
+english = "They say it's one incredible monster. All right, let's go―to Wind-Wailing Cave! I'll show you what I can do!<end>"
+
+["1220101"]
+japanese = "ボクらが怪物を退治しないと、<line-break>エルズの人たちはコロル石を<line-break>採掘できなくて困るんだ。<line-break>できるだけ早く怪物を退治して、<line-break>町の人たちを安心させてあげたいよ。<line-break>キミもそう思うよね？<end>"
+english = "Unless we defeat the monster, the people of Elz cannot mine Korol Stone. I want to slay it as soon as possible and put the townspeople's minds at ease. You feel the same, right?<end>"
+
+["1220102"]
+japanese = "風泣きの洞窟での怪物退治の依頼よ。<line-break>コロル石が採掘できず、エルズの<line-break>住民が困り果てているらしいわ。<end>"
+english = "The request is to slay the monster in Wind-Wailing Cave. Apparently the people of Elz are desperate because they cannot mine Korol Stone.<end>"
+
+["1220103"]
+japanese = "風泣きの洞窟での怪物退治です。<line-break>どうやらかなりの大物らしいですが、<line-break>エルズの皆さんの嘆願もあります。<line-break>がんばってくださいね、<line-break><value:$28>。<end>"
+english = "Your task is to slay the monster in Wind-Wailing Cave. It seems to be quite formidable, but the people of Elz have pleaded for help. Do your best, <value:$28>.<end>"
+
+["1220104"]
+japanese = "風泣きの洞窟に出るってヤツね。<line-break>とんでもないのがいるらしいって？<line-break>大丈夫、カルラさんがついてるって！<end>"
+english = "Oh, the thing that appears in Wind-Wailing Cave. They say it's something truly awful? Don't worry―the great Karula is with you!<end>"
+
+["1220105"]
+japanese = "姉ちゃん、この仕事がんばろうな。<line-break>エルズの人たちは、俺たちを頼って<line-break>いるんだものな。<line-break>風泣きの洞窟の怪物を退治して<line-break>冒険者ギルドに報告すれば、<line-break>町の人たちも喜ぶだろうね。<end>"
+english = "Let's do our best on this job, Sis. The people of Elz are counting on us. If we slay the monster in Wind-Wailing Cave and report back to the Adventurers' Guild, the townspeople will be delighted.<end>"
+
+["1220106"]
+japanese = "風泣きの洞窟での怪物退治。<line-break>コロル石採掘所で生計を立てている<line-break>エルズの住人たちの悲願よ。<end>"
+english = "Slay the monster in Wind-Wailing Cave. It is the dearest wish of the people of Elz, whose livelihoods depend on the Korol Stone mine.<end>"
+
+["1220107"]
+japanese = "風泣きの洞窟にものすごい怪物が<line-break>現れるもんで、エルズの人らは<line-break>コロル石を採掘できなくて困っている。<line-break>その怪物を退治するのが、<line-break>お前さんのお仕事ってわけだ。<line-break>退治したらギルドに報告するんだぜ。<end>"
+english = "A fearsome monster has been appearing in Wind-Wailing Cave, leaving the people of Elz unable to mine Korol Stone. Your job is to slay it. Once it's dead, report back to the Guild.<end>"
+
+["1220108"]
+japanese = "風泣きの洞窟に現れる怪物か…。<line-break>気になる事がある。<line-break>付き合ってやってもいいぞ。<end>"
+english = "The monster appearing in Wind-Wailing Cave... Something about it concerns me. I suppose I could accompany you.<end>"
+
+["1220109"]
+japanese = "エルズの人々を安心させるためにも、<line-break>ものすごい怪物とやらを退治せねばな。<line-break>場所は風泣きの洞窟じゃったな？<line-break>こうして話す時間も惜しいわい。<line-break>さっさと退治して、冒険者ギルドに<line-break>報告するのじゃ。<end>"
+english = "We must slay this so-called fearsome monster and put the people of Elz at ease. It was in Wind-Wailing Cave, yes? We have no time to waste talking. Slay it at once and report back to the Adventurers' Guild.<end>"
+
+["1220110"]
+japanese = "エルズのギルドで引き受けた仕事だね。<line-break>たしか、風泣きの洞窟に現れる怪物を<line-break>退治する仕事だよ。<line-break>どんな強敵かわからないから、<line-break>万全の準備をして出かけなくちゃね。<end>"
+english = "It's the job we accepted at the Guild in Elz. We have to slay the monster that appears in Wind-Wailing Cave. We don't know how powerful it is, so we'll need to prepare thoroughly before setting out.<end>"
+
+["1220111"]
+japanese = "風泣きの洞窟に出没する怪物か…。<line-break>気にかかることがある。<line-break>用心してくれ、<value:$28>。<end>"
+english = "The monster haunting Wind-Wailing Cave... Something about it troubles me. Be careful, <value:$28>.<end>"
+
+["1220112"]
+japanese = "高貴なエルフのアタクシが、<line-break>怪物退治に興味があるわけないでしょ。<line-break>くだらない質問をしないで欲しいわ！<end>"
+english = "Why would a noble Elf like me have any interest in slaying monsters? Stop asking such ridiculous questions!<end>"
+
+["1220113"]
+japanese = "怪物かい？\u3000ぶっ飛ばしてやろう。<line-break>かい？、ぶっと…<line-break>かいぶつ…。<line-break>兄弟子、いかがですかな？<end>"
+english = "A monster, you say? We'll cave it in! Cave it... cave... Senior Disciple, what do you think?<end>"
+
+["1220114"]
+japanese = "怪物は風泣きの洞窟にいるんだよぉ。<line-break>はやく退治して、エルズの人たちに<line-break>安心して欲しいなぁ。<line-break>それから怪物を退治したら、<line-break>忘れずに報告しなきゃダメだよ。<end>"
+english = "The monster is in Wind-Wailing Cave. I want to defeat it quickly so the people of Elz can stop worrying. And once it's dead, don't forget to report back.<end>"
+
+["1220115"]
+japanese = "………………。<line-break><line-break><line-break>風泣きの洞窟に現れる怪物を倒すなど<line-break>お前にとっては造作もないことだ。<line-break>さっさと片付けてしまえ。<end>"
+english = "............... Defeating the monster in Wind-Wailing Cave should be child's play for you. Get it over with.<end>"
+
+["1220116"]
+japanese = "話ではかなりの大物だということだが<line-break>臆病な村人たちの言は信用できん。<line-break>風泣きの洞窟へ行くぞ。<end>"
+english = "They say it is quite formidable, but the words of cowardly villagers cannot be trusted. We are going to Wind-Wailing Cave.<end>"
+
+["1220117"]
+japanese = "ものすごい怪物は風泣きの洞窟に<line-break>現れるって言うよ。<line-break>どんなのか興味あるよねぇ？<line-break>ねえねえ、早く行こうよ。<line-break>ギルドの主人もエルズの人たちも<line-break><value:$28>の報告を待ってるよ。<end>"
+english = "They say the fearsome monster appears in Wind-Wailing Cave. Aren't you curious what it's like? Come on, let's hurry! The Guild master and the people of Elz are waiting for <value:$28> to report back.<end>"
+
+["1220118"]
+japanese = "風泣きの洞窟は大陸中でも重要な<line-break>コロル石の産地だ。モンスター<line-break>ごときに占拠させるわけにはいかん。<end>"
+english = "Wind-Wailing Cave is one of the continent's most important sources of Korol Stone. We cannot let a mere monster occupy it.<end>"
+
+["1220119"]
+japanese = "風泣きの洞窟にいるという怪物は<line-break>かなり強大だと聞きました。<line-break>準備はもうお済みですか？<end>"
+english = "I heard the monster in Wind-Wailing Cave is extremely powerful. Have you finished preparing?<end>"
+
+["1220120"]
+japanese = "風泣きの洞窟にいる怪物は、<line-break>とってもすごいっていったよ。<line-break>頑張らないとね！<end>"
+english = "They said the monster in Wind-Wailing Cave is really incredible. We'll have to do our best!<end>"
+
+["1220121"]
+japanese = "風泣きの洞窟の怪物というのは、<line-break>聞く限り、かなりの大物らしいな。<line-break>これはもしや、イズキヤルの…。<line-break>ぜひこの目で確かめたい。<line-break>必ずわしも連れて行ってくれよ。<end>"
+english = "From what I have heard, the monster in Wind-Wailing Cave is quite formidable. Could it perhaps be one of Izukiyal's...? I must see it with my own eyes. Be sure to take me with you.<end>"
+
+["1220122"]
+japanese = "風泣きの洞窟の怪物を退治してくれ<line-break>というのが、エルズの人たちの<line-break>悲願だ。<line-break>大切なコロル石が採れなくては<line-break>彼らは生活していけない。<line-break>頑張ろう、<value:$28>。<end>"
+english = "The people of Elz desperately want the monster in Wind-Wailing Cave slain. Without their precious Korol Stone, they cannot make a living. Let us do our best, <value:$28>.<end>"
+
+["1220123"]
+japanese = "エルズの人たちが<line-break>コロル石を取れなくて困ってるらしい。<line-break>\u3000<line-break>風泣きの洞窟の化け物を倒して<line-break>皆を助けるぞ。<end>"
+english = "Apparently the people of Elz are suffering because they cannot gather Korol Stone. We'll defeat the beast in Wind-Wailing Cave and help everyone.<end>"
+
+["1220124"]
+japanese = "風泣きの洞窟で怪物退治ね。<line-break>結構手ごわいらしいから<line-break>気をつけて行きましょ。<end>"
+english = "We're slaying a monster in Wind-Wailing Cave. It is supposed to be fairly tough, so let's be careful.<end>"
+
+["1220125"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220126"]
+japanese = "ものすごい怪物が<line-break>風泣きの洞窟にいるらしいですよ。<line-break>頼まれたのは、その怪物の退治です。<line-break>エルズの人たちは<line-break>コロル石が採掘できなくて困ってます。<line-break>助けてあげましょう！<end>"
+english = "Apparently there is a fearsome monster in Wind-Wailing Cave. We were asked to slay it. The people of Elz are suffering because they cannot mine Korol Stone. Let's help them!<end>"
+
+["1220127"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220128"]
+japanese = "（エンシャントの冒険者ギルドで、<line-break>\u3000女魔道士に、乙女の鏡に現れる<line-break>\u3000魔物を倒すよう依頼されたな）<line-break>（魔物を倒したら、<line-break>\u3000忘れずに報告しないと…）<end>"
+english = "(At the Ancient Adventurers' Guild, a female mage asked me to slay the monster appearing at Maiden's Mirror.) (Once it is defeated, I must remember to report back...)<end>"
+
+["1220129"]
+japanese = "エンシャントのギルドで頼まれた、<line-break>乙女の鏡に現れる魔物を倒して<line-break>欲しいっていう依頼のことね。<line-break>報酬額も聞かずに依頼を受けちゃう<line-break>なんて…。<line-break>女魔道士の色香に惑わされたのかしら？<end>"
+english = "Oh, the request you received at the Guild in Ancient to slay the monster appearing at Maiden's Mirror. You accepted without even asking about the reward... Did the female mage's charms cloud your judgment?<end>"
+
+["1220130"]
+japanese = "おお、エンシャントのギルドで<line-break>アカデミーの女魔道士に頼まれた<line-break>仕事のことだな。<line-break>依頼内容は乙女の鏡に現れる魔物を<line-break>退治して欲しいというものだったな。<line-break>お主、忘れてしまったのか？<end>"
+english = "Ah, the job that female mage from the Academy gave you at the Guild in Ancient. She asked you to slay the monster appearing at Maiden's Mirror. Have you forgotten?<end>"
+
+["1220131"]
+japanese = "<value:$28>様に魔物退治を<line-break>依頼した女魔道士って魔道アカデミーの<line-break>関係者じゃないですよね？<line-break>ユーリスは退学だ！<line-break>なんて言ってないですよね？<end>"
+english = "The female mage who asked <value:$28> to slay the monster isn't connected to the Magic Academy, is she? She didn't say, “Julls is expelled!” or anything like that, did she?<end>"
+
+["1220132"]
+japanese = "乙女の鏡とかいう湖に出る魔物を<line-break>倒してくれっていう依頼だろ。<line-break>もう、準備はできたのか？<line-break>他のヤツに倒されちまったら困るだろ。<line-break>さっさと退治してしまおうぜ。<line-break>報酬は、ほーしゅーないのか？<end>"
+english = "It's the request to slay the monster appearing in that lake called Maiden's Mirror, right? Are you ready? We can't let someone else defeat it first. Let's hurry and finish it off. And we'd better get our just re-ward!<end>"
+
+["1220133"]
+japanese = "ボクの知る限りだと、<line-break>エンシャントの北にある乙女の鏡に、<line-break>退治を依頼された魔物が出るんだよね。<line-break>魔物を退治したら、<line-break>エンシャントのギルドに行って、<line-break>女魔道士に報告するのを忘れないでよ。<end>"
+english = "As far as I know, the monster you were asked to slay appears at Maiden's Mirror, north of Ancient. Once it's dead, don't forget to go to the Guild in Ancient and report to the female mage.<end>"
+
+["1220134"]
+japanese = "その依頼主、果たして信用に足りる<line-break>人物かしら？\u3000都合よく魔物退治だけ<line-break>させるつもりだったら、どうするの？<end>"
+english = "Can that client really be trusted? What will you do if all she wants is to use you to slay the monster?<end>"
+
+["1220135"]
+japanese = "乙女の鏡の魔物退治でしたか。<line-break>それで、その女魔道士が誰なのか、<line-break>ちゃんと調べたのですか？<line-break>…いや、お人よしは、あなたの<line-break>いいところだと思いますよ。<line-break>気をつけて行って来てください。<end>"
+english = "It was the monster at Maiden's Mirror, wasn't it? Did you properly investigate who that female mage is? ...No, I do think your trusting nature is one of your better qualities. Take care out there.<end>"
+
+["1220136"]
+japanese = "乙女の鏡で魔物退治、ってやつね。<line-break>軽～く引き受けちゃったのは、<line-break>お得意な仕事内容だから？<end>"
+english = "Oh, the monster-slaying job at Maiden's Mirror. Did you accept it so casually because it's your specialty?<end>"
+
+["1220137"]
+japanese = "姉ちゃんがエンシャントのギルドで<line-break>女魔道士に依頼された魔物退治の<line-break>ことかい？<line-break>乙女の鏡に出るっていう魔物を<line-break>退治すれば依頼達成なんだろ。<line-break>まさか、姉ちゃん忘れてたのか？<end>"
+english = "You mean the monster-slaying job that female mage gave you at the Guild in Ancient, Sis? The request is complete once you slay the monster appearing at Maiden's Mirror, right? Don't tell me you forgot.<end>"
+
+["1220138"]
+japanese = "乙女の鏡に出没する魔物退治。<line-break>依頼内容自体だけ見れば、<line-break>ごくありふれたものだわ。<end>"
+english = "Slaying the monster that appears at Maiden's Mirror. Judging by the request alone, it is perfectly ordinary.<end>"
+
+["1220139"]
+japanese = "ああ、乙女の鏡に現れる魔物を<line-break>退治してくれって依頼の話ね。<line-break>なんだ？\u3000怖じ気づいたのかい。<line-break>お前さんの評判を聞いて、<line-break>わざわざ依頼してきたっていうのに<line-break>裏切るわけにもいかんわな。<end>"
+english = "Oh, the request to slay the monster appearing at Maiden's Mirror. What, have you lost your nerve? The client sought you out after hearing of your reputation. You can hardly betray that trust.<end>"
+
+["1220140"]
+japanese = "乙女の鏡に現れる魔物か…。<line-break>気になる事がある。<line-break>付き合ってやってもいいぞ。<end>"
+english = "The monster appearing at Maiden's Mirror... Something about it concerns me. I suppose I could accompany you.<end>"
+
+["1220141"]
+japanese = "乙女の鏡に現れる魔物じゃと…。<line-break>ふん、恐れることはないわ。<line-break>わしが、ついておるのじゃからのう。<line-break>さっさと退治して、その女魔道士を<line-break>喜ばせてやるとよいわい。<end>"
+english = "A monster at Maiden's Mirror...? Hmph, there is nothing to fear. I shall be with you. Hurry and slay it, and make that female mage happy.<end>"
+
+["1220142"]
+japanese = "乙女の鏡に現れる魔物を退治して<line-break>欲しいってお願いだったね。<line-break>特に期限はなかったと思うよ。<line-break>わざわざ<value:$28>を指名して<line-break>きたんだから責任重大だね。<line-break>失敗は許されないよ。<end>"
+english = "The request was to slay the monster appearing at Maiden's Mirror. I don't think there was any particular deadline. The client specifically requested <value:$28>, so this is a serious responsibility. Failure is not an option.<end>"
+
+["1220143"]
+japanese = "乙女の鏡に現れる魔物退治か。<line-break>依頼主が何者かはともかく、<line-break>油断しないようにな。<end>"
+english = "Slaying the monster appearing at Maiden's Mirror, is it? Whatever the client's identity, do not let your guard down.<end>"
+
+["1220144"]
+japanese = "高貴なエルフのアタクシが、<line-break>ど～して、女魔道士のお願いを<line-break>聞かなくちゃいけないわけぇ？<line-break>魔道士なら、魔物退治なんて<line-break>自分でやればいいんだわ！<end>"
+english = "Why should a noble Elf like me grant a female mage's request? If she's a mage, she can slay the monster herself!<end>"
+
+["1220145"]
+japanese = "兄弟子！<line-break>女魔道士の色香に<line-break>まどうわされもうしたな！<line-break>魔道と惑うのシャレ…<line-break>いや、もう何も語りますまい。<line-break>兄弟子の顔が物語っておるゆえ。<end>"
+english = "Senior Disciple! That female mage's charms have utterly bewitched you! A mage making you amazed... No, I shall say no more. Your face says it all.<end>"
+
+["1220146"]
+japanese = "魔道士のお姉さんのお願い事？<line-break>魔物退治のことかなぁ？<line-break>それだったらルルアンタ知ってるよ。<line-break>魔物は乙女の鏡に現れて、<line-break>とっても強そうなんだって。<line-break><value:$28>、勝てる自信ある？<end>"
+english = "A favor for the lady mage? Do you mean slaying the monster? Lulluantha knows about that. They say it appears at Maiden's Mirror and looks really strong. Are you sure you can beat it, <value:$28>?<end>"
+
+["1220147"]
+japanese = "………………。<line-break><line-break><line-break>乙女の鏡の魔物か…。<line-break>俺を倒したお前の実力なら<line-break>簡単な仕事だな。<end>"
+english = "............... The monster at Maiden's Mirror... With the strength you showed in defeating me, it should be an easy job.<end>"
+
+["1220148"]
+japanese = "依頼を受けるのはかまわないが、<line-break>その女魔道士は信用の置ける<line-break>人物なのか？<line-break>乙女の鏡の魔物を倒させて、<line-break>あとは知らぬ存ぜぬだったら<line-break>どうするつもりだ。<end>"
+english = "Accepting the request is fine, but can that female mage be trusted? What will you do if she has you slay the monster at Maiden's Mirror and then disclaims all responsibility?<end>"
+
+["1220149"]
+japanese = "乙女の鏡に魔物が出るのは<line-break>あんまり、きれいじゃないね。<line-break><value:$28>もイヤだよねぇ？<line-break>だったら、さっさとやっつけちゃおう。<line-break>だいじょうぶ、だいじょうぶ、<line-break><value:$28>なら楽勝だよ。<end>"
+english = "Having a monster at Maiden's Mirror isn't very pretty. You don't like it either, do you, <value:$28>? Then let's hurry and beat it. Don't worry, don't worry. It'll be easy for <value:$28>.<end>"
+
+["1220150"]
+japanese = "怪物退治は君の十八番ではないか。<line-break>速やかに乙女の鏡へ向かいたまえ。<end>"
+english = "Slaying monsters is your specialty, is it not? Proceed to Maiden's Mirror at once.<end>"
+
+["1220151"]
+japanese = "乙女の鏡に出没する魔物退治が<line-break>依頼の内容ですが、ギルドを<line-break>通していない依頼なだけに、<line-break>解決後、その女魔道士を<line-break>逃がさないのが重要です。<end>"
+english = "The request is to slay the monster appearing at Maiden's Mirror. Since it did not come through the Guild, it is important not to let the female mage get away afterward.<end>"
+
+["1220152"]
+japanese = "乙女の鏡にいる魔物退治だって。<line-break>お礼、ちゃんともらえるのかな？<end>"
+english = "They want you to slay the monster at Maiden's Mirror. I wonder if you'll actually receive a reward.<end>"
+
+["1220153"]
+japanese = "ギルドを通していないだけに、<line-break>乙女の鏡に出没する魔物については<line-break>情報が少ないな。<line-break>しかし、これももしかすると…。<line-break>足手まといにはならん。<line-break>わしも連れて行ってくれい。<end>"
+english = "Since the request did not come through the Guild, there is little information about the monster appearing at Maiden's Mirror. But perhaps this too is... I will not be a burden. Take me with you.<end>"
+
+["1220154"]
+japanese = "乙女の鏡に出没する魔物退治が<line-break>依頼だが…これはギルドを通した<line-break>仕事ではない。<line-break>報酬がもらえなくても自暴自棄を<line-break>起こすんじゃないぞ、<line-break><value:$28>。<end>"
+english = "The request is to slay the monster appearing at Maiden's Mirror, but it did not come through the Guild. Don't do anything desperate if you receive no reward, <value:$28>.<end>"
+
+["1220155"]
+japanese = "乙女の鏡に現れる化け物退治か。<line-break>お前の噂を聞いて依頼してきたんだ。<line-break>失敗は許されないぞ。<end>"
+english = "So you're slaying the beast appearing at Maiden's Mirror. The client sought you out after hearing the rumors about you. Failure is not permitted.<end>"
+
+["1220156"]
+japanese = "あの依頼、引き受けたのね。<line-break>なんだか信用していいのか<line-break>わからない依頼主だったけど…。<line-break>もしかして、色香に負けたとか…？<line-break>って冗談よ。早く乙女の鏡に<line-break>魔物を倒しに行きましょ。<end>"
+english = "So you accepted that request. The client didn't seem entirely trustworthy... Did her charms get the better of you? I'm joking. Let's hurry to Maiden's Mirror and slay the monster.<end>"
+
+["1220157"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220158"]
+japanese = "乙女の鏡の魔物退治ですよね。<line-break>なんだか強いって噂ですけど、<line-break>きっと大丈夫ですよね。<line-break>だって私には<value:$28>さんが…<line-break>あ、いえ、な…なんでもないです。<end>"
+english = "We're slaying the monster at Maiden's Mirror, right? Rumor says it's strong, but I'm sure everything will be fine. After all, I have <value:$28>... Oh, n-no, it's nothing.<end>"
+
+["1220159"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220160"]
+japanese = "（アミラルの冒険者ギルドで、<line-break>\u3000幻惑の洞窟に現れる獣を<line-break>\u3000退治するよう頼まれたな）<line-break>（獣を倒したら、<line-break>\u3000忘れずに報告しないと…）<end>"
+english = "(At the Adventurers' Guild in Amiral, I accepted a request to slay the beast appearing in Bewildering Cave.) (Once it is defeated, I must remember to report back...)<end>"
+
+["1220161"]
+japanese = "あなたってほんとにお人好しよね。<line-break>他人のために、正体不明の獣を倒す<line-break>約束をしちゃうなんて。<line-break>でも、そこがいいところなのかもね。<line-break>獣が出るのは幻惑の洞窟だったかしら？<line-break>依頼主のためにも急ぎましょ。<end>"
+english = "You really are too kind. You promised to slay an unknown beast for someone else's sake. But perhaps that's one of your better qualities. The beast appears in Bewildering Cave, doesn't it? Let's hurry, for the client's sake.<end>"
+
+["1220162"]
+japanese = "近頃、幻惑の洞窟に住み着いた<line-break>獣を退治するのだな。<line-break>わしの準備はできておるぞ。<line-break>そいつを倒して、アミラルの者が<line-break>安心してコロル石を採取できるように<line-break>してやろうではないか。<end>"
+english = "We are to slay the beast that recently settled in Bewildering Cave. I am ready. Let us defeat it so the people of Amiral can gather Korol Stone without fear.<end>"
+
+["1220163"]
+japanese = "幻惑の洞窟に出るんですよね、その獣。<line-break>洞窟はアミラルの近くにあるし…。<line-break>アミラルっていい思い出がないんです。<line-break>あんまり行きたくないな…。<end>"
+english = "That beast appears in Bewildering Cave, right? And the cave is near Amiral... I don't have good memories of Amiral. I really don't want to go back...<end>"
+
+["1220164"]
+japanese = "わかってる、何も言うなって。<line-break>ひとりで獣退治に行く度胸がないから、<line-break>一緒に来てくれって言いたいわけだ。<line-break>引き受けた仕事は、やり遂げないと<line-break>恥ずかしいもんな。<line-break>よし、幻惑の洞窟に行こうぜ。<end>"
+english = "I know, you don't have to say anything. You lack the nerve to go slay the beast alone, so you want me to come. It would be embarrassing not to finish a job you've accepted. All right, let's go to Bewildering Cave.<end>"
+
+["1220165"]
+japanese = "その獣は、幻惑の洞窟に<line-break>住み着いてるみたいだよ。<line-break>アミラルの人たちも困っているみたい。<line-break>キミなら簡単に退治できるよね。<line-break>早く依頼してきた冒険者や町の人を<line-break>安心させてあげたいな。<end>"
+english = "It seems the beast has settled in Bewildering Cave. The people of Amiral are having trouble too. You can defeat it easily, right? I want to put the adventurer who made the request and the townspeople at ease as soon as possible.<end>"
+
+["1220166"]
+japanese = "幻惑の洞窟に住み着いた獣を<line-break>倒すというのが依頼だったはず。<line-break>洞窟は、アミラルの東にあるわ。<end>"
+english = "The request was to slay the beast that settled in Bewildering Cave. The cave lies east of Amiral.<end>"
+
+["1220167"]
+japanese = "幻惑の洞窟に不穏な獣が住み着いて<line-break>いるようですね。アミラルの人たちが<line-break>あなたの戦いに期待していますよ。<end>"
+english = "It seems an ominous beast has settled in Bewildering Cave. The people of Amiral are counting on you.<end>"
+
+["1220168"]
+japanese = "またモンスター退治を引き受けたの？<line-break>ホント、そういうの好きよね。<end>"
+english = "You accepted another monster-slaying job? You really do love that sort of thing.<end>"
+
+["1220169"]
+japanese = "その獣が出る幻惑の洞窟は、<line-break>アミラルの東にあるんだぜ。<line-break>姉ちゃん知ってたか？<line-break>姉ちゃんアミラル行くんなら、<line-break>俺もつれてってくれよな。<line-break>あそこの料理はうまいんだぜー。<end>"
+english = "Bewildering Cave, where the beast appears, lies east of Amiral. Did you know that, Sis? If you're going to Amiral, take me with you. The food there is delicious!<end>"
+
+["1220170"]
+japanese = "アミラルの東にある幻惑の洞窟に<line-break>不穏な獣が出没しているらしい。<line-break>それを倒せという依頼よ。<end>"
+english = "An ominous beast is said to be roaming Bewildering Cave, east of Amiral. Your request is to slay it.<end>"
+
+["1220171"]
+japanese = "しっかし、お前さんに泣きついた<line-break>冒険者も、うかつな奴だねぇ。<line-break>仕事は自分の実力で選ぶものだろうに。<line-break>で、その獣は幻惑の洞窟にいるんだな。<line-break>さっさと退治して、噂のうかつ君を<line-break>安心させてやろうや。<end>"
+english = "Still, that adventurer who came crying to you was careless. People should choose jobs suited to their own abilities. So the beast is in Bewildering Cave? Let's slay it quickly and reassure our famously careless friend.<end>"
+
+["1220172"]
+japanese = "幻惑の洞窟に住み着いた獣か…。<line-break>気になる事がある。<line-break>付き合ってやってもいいぞ。<end>"
+english = "The beast that settled in Bewildering Cave... Something about it concerns me. I suppose I could accompany you.<end>"
+
+["1220173"]
+japanese = "ものすごい獣とな？<line-break>ふむ、戦ってみる価値は<line-break>ありそうじゃな。<line-break>お主の準備ができたなら、<line-break>幻惑の洞窟に行くとしようぞ。<end>"
+english = "A fearsome beast, you say? Hmm. It sounds worth fighting. Once you are ready, let us go to Bewildering Cave.<end>"
+
+["1220174"]
+japanese = "困っている後輩を助けてあげるのは<line-break>先輩の役目だって、<line-break>お爺ちゃんも言っていたよ。<line-break>幻惑の洞窟に住み着いた獣を倒して、<line-break>後輩冒険者を助けてあげようね。<line-break>準備ができたら出発しよう。<end>"
+english = "Grandpa always said it is a senior's duty to help a junior in trouble. Let's slay the beast that settled in Bewildering Cave and help that junior adventurer. We can leave once preparations are complete.<end>"
+
+["1220175"]
+japanese = "幻惑の洞窟に現れる獣退治か。<line-break>どんな獣が出てくるものか…<line-break>ともかく、油断しないようにな。<end>"
+english = "So we are slaying the beast appearing in Bewildering Cave. Who knows what sort of creature it may be... In any case, do not let your guard down.<end>"
+
+["1220176"]
+japanese = "高貴なエルフのアタクシが、<line-break>ど～して名前も知らない冒険者の<line-break>ために獣退治をしなくちゃならないの！<line-break>洞窟の中で泥まみれになって<line-break>戦うのなんて、泥臭いドワーフにでも<line-break>やらせればいいんだわ！<end>"
+english = "Why should a noble Elf like me slay a beast for some adventurer whose name I don't even know? Leave the muddy work of fighting in a cave to some grubby Dwarf!<end>"
+
+["1220177"]
+japanese = "ものすごい獣は、化け物！<line-break>化け物は、のけ者！<line-break>拙者は道化者！<line-break>兄弟子！\u3000どうですかぁあああ！<line-break>会心の３連発はっ！<end>"
+english = "A fearsome beast is a monster! A monster is an outcast! And I am a jester! Senior Disciple! What do you thiiink? Three brilliant hits in a row!<end>"
+
+["1220178"]
+japanese = "ものすごい獣って、<line-break>どのくらいすごいのぉ？<line-break>大きな牙がはえてたりするのかなぁ。<line-break>自分が強いからって油断はだめだよ。<line-break>幻惑の洞窟に行くときは、<line-break>きちんと準備してね。<end>"
+english = "Just how fearsome is this fearsome beast? Maybe it has enormous fangs. Don't get careless just because you're strong. Prepare properly before going to Bewildering Cave.<end>"
+
+["1220179"]
+japanese = "………………。<line-break><line-break><line-break>追いつめられた獣は手強い。<line-break>油断するな。<end>"
+english = "............... A cornered beast is dangerous. Do not let your guard down.<end>"
+
+["1220180"]
+japanese = "幻惑の洞窟に潜んでいる獣退治？<line-break>またそんな依頼を引き受けて来たのか？<line-break><line-break>…あまりにも情報が少なすぎる。<line-break>軽はずみに引き受けてばかりいると、<line-break>寿命を縮めかねんぞ。<end>"
+english = "Slaying the beast lurking in Bewildering Cave? You accepted another request like that? ...There is far too little information. If you keep accepting jobs so recklessly, you may shorten your life.<end>"
+
+["1220181"]
+japanese = "その獣は幻惑の洞窟のコロル石が<line-break>取れる所にいるんだよね？<line-break>それなら洞窟の一番奥だよ。<line-break>コロル石がいろんな色で輝いて<line-break>きれいな場所なんだぁ。<end>"
+english = "The beast is near the Korol Stone deposits in Bewildering Cave, right? Then it must be at the very back. It's a beautiful place, with Korol Stone shining in all sorts of colors.<end>"
+
+["1220182"]
+japanese = "幻惑の洞窟は内部がとても狭くなって<line-break>いたはずだ。ましてや、<line-break>敵の獣の正体は一切不明…。<line-break>不意を突かれれば、君といえど簡単に<line-break>命を失うことになるかもしれない。<line-break>アミラルの人々を、失望させるなよ。<end>"
+english = "The passages inside Bewildering Cave are extremely narrow, if I recall. Worse, we know nothing at all about the beast. If it catches you by surprise, even you might easily lose your life. Do not disappoint the people of Amiral.<end>"
+
+["1220183"]
+japanese = "幻惑の洞窟に潜む獣退治というのが、<line-break><value:$28>様が今回<line-break>お引き受けになった依頼です。<line-break>洞窟最深部のコロル石の採掘所あたりに<line-break>その獣は出没するらしいのですが、<line-break>残念ながら、詳細は一切不明です。<end>"
+english = "The request <value:$28> has accepted is to slay the beast lurking in Bewildering Cave. It apparently appears near the Korol Stone mine at the cave's deepest point, but unfortunately, no further details are known.<end>"
+
+["1220184"]
+japanese = "幻惑の洞窟の奥に、<line-break>ものすごい獣が出るんだって。<line-break>ものすごいらしいよ。<end>"
+english = "They say a fearsome beast appears deep inside Bewildering Cave. Apparently it really is fearsome.<end>"
+
+["1220185"]
+japanese = "わしに一種特殊な勘があると言ったら、<line-break><value:$28>、おぬしは<line-break>それを信じてくれるか？<line-break>…幻惑の洞窟の、凶暴かつ巨大な獣。<line-break>それが怒りとともに発している悲しみを<line-break>わしはふと直感した気がするのじゃ。<end>"
+english = "If I told you I possessed a certain special intuition, would you believe me, <value:$28>? That huge, ferocious beast in Bewildering Cave... I feel I somehow sensed the sorrow it gives off along with its rage.<end>"
+
+["1220186"]
+japanese = "最近、この手の依頼が<line-break>増えているような気がしないか？<line-break>冒険者としては腕が鳴るところだが…<line-break>敵も生命あるものだと意識すると、<line-break>罪を自覚してしまいそうになる。<line-break>せめて…今回も、祈りを捧げよう。<end>"
+english = "Does it not feel as though requests like this have become more common lately? As an adventurer, the challenge excites me... But when I remember that our enemies are living beings too, I begin to feel the weight of sin. At the very least... let us offer a prayer again this time.<end>"
+
+["1220187"]
+japanese = "お前はなんにでも首を突っ込むんだな。<line-break>俺もほっとくことができない性分だから<line-break>気持ちはわかるけどな。<line-break>引き受けたからには、手を抜くなよ。<line-break>獣のいる幻惑の洞窟へ向かうぞ。<end>"
+english = "You stick your nose into everything. I understand, though―I'm not the sort who can ignore trouble either. Since you accepted the job, don't hold back. We're heading to Bewildering Cave, where the beast is.<end>"
+
+["1220188"]
+japanese = "<value:$28>って人がよすぎよ。<line-break>あんな依頼引き受けちゃうなんて、<line-break>ほんと、お人好しね。<line-break>あの冒険者もプライドが無いのかしら。<line-break>ま、いいわ。幻惑の洞窟にいる獣を<line-break>倒しに行きましょ。<end>"
+english = "You're far too kind, <value:$28>. Accepting a request like that―you really are a soft touch. Doesn't that adventurer have any pride? Oh well. Let's go slay the beast in Bewildering Cave.<end>"
+
+["1220189"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220190"]
+japanese = "<value:$28>さんってすごいです。<line-break>今日会った人のために、<line-break>危険な仕事を引き受けるだなんて…。<line-break>そういうところが私…<line-break>あ、いえ、なんでもないんです。<line-break>幻惑の洞窟に急ぎましょう！<end>"
+english = "You're amazing, <value:$28>. Taking on a dangerous job for someone you only met today... That part of you makes me... Oh, n-no, it's nothing. Let's hurry to Bewildering Cave!<end>"
+
+["1220191"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["1220192"]
+japanese = "（ロセンの冒険者ギルドで、<line-break>\u3000火山岩地帯にいる魔物を倒すよう<line-break>\u3000依頼されたな）<line-break>（魔物を倒したら、<line-break>\u3000忘れずに報告しないと…）<end>"
+english = "(At the Adventurers' Guild in Rocen, I accepted a request to slay the monster in the Volcanic Rock Zone.) (Once it is defeated, I must remember to report back...)<end>"
+
+["1220193"]
+japanese = "神官の話だと、その魔物は<line-break>とてつもない闇の力を持っている<line-break>らしいじゃない。<line-break>自分の実力を過信して挑めば、<line-break>命を落とすわよ。<end>"
+english = "According to the priest, that monster possesses tremendous dark power. If you challenge it out of overconfidence in your abilities, it will cost you your life.<end>"
+
+["1220194"]
+japanese = "こたびの魔物は、とてつもない闇の力を<line-break>持っておるというではないか。<line-break>お主、魔物を倒す自信はあるのか？<line-break>火山岩地帯は火属性のモンスターが<line-break>多く出るところだ。<line-break>風属性の武器が欲しいものだがな。<end>"
+english = "They say this monster possesses tremendous dark power. Are you confident you can defeat it? The Volcanic Rock Zone is crawling with Fire-element monsters. A Wind-element weapon would come in handy.<end>"
+
+["1220195"]
+japanese = "<value:$28>様の活躍は、<line-break>ロセンにも届いているんですね。<line-break>すばらしいですわ。<line-break>がんばって闇の魔物を<line-break>退治してくださいね。<line-break>私、応援してますから。<end>"
+english = "Word of your exploits has reached Rocen too, <value:$28>. How wonderful. Do your best to defeat the dark monster. I'll be cheering you on.<end>"
+
+["1220196"]
+japanese = "闇の魔物がどうしたよ！<line-break>俺たちにかかりゃ敵じゃないぜ。<line-break>さっさと火山岩地帯へ行くぞ。<line-break>まさか、闇の魔物だからって<line-break>やみるつもりじゃないだろうな！<end>"
+english = "Who cares if it's a dark monster? It's no match for us. Let's get to the Volcanic Rock Zone already. You're not going to let a little darkness make you turn tail, are you?<end>"
+
+["1220197"]
+japanese = "キミがロセンで引き受けた仕事だね。<line-break>ギルドに依頼してきた神官の話だと、<line-break>闇の力を持った魔物なんでしょ。<line-break>どう？\u3000やっつける自信あるの？<line-break>ボク…キミにはあまり無茶を<line-break>しないで欲しいな。<end>"
+english = "This is the job you took in Rocen, right? The priest who brought the request to the Guild said the monster possesses dark power. So? Think you can beat it? I...don't want you taking too many risks.<end>"
+
+["1220198"]
+japanese = "ディンガルは何をしている？<line-break>闇の魔物が出没していると言うのに、<line-break>その退治を冒険者ごときに任すつもり？<line-break><value:$28>が通りかかったのは、<line-break>幸いだったとしか言い様がないわ。<line-break>火山岩地帯へ向かうわよ！<end>"
+english = "What is Dingal doing? A dark monster is on the loose, yet its extermination is being left to a mere adventurer? It was extraordinarily fortunate that <value:$28> happened to pass by. We're heading for the Volcanic Rock Zone!<end>"
+
+["1220199"]
+japanese = "ロセンの神官殿の話では、<line-break>火山岩地帯の魔物は、<line-break>闇の力を持つらしいですねえ。<line-break>なかなか手ごわいかもしれません。<line-break>心してかかった方が良さそうですよ。<end>"
+english = "According to the priest from Rocen, the monster in the Volcanic Rock Zone possesses dark power. It may prove quite formidable. You'd best take it seriously.<end>"
+
+["1220200"]
+japanese = "火山岩地帯に、闇の魔物ねえ。<line-break>行く前に、装備を再確認した方が<line-break>いいかもよ、<value:$28>。<line-break>ちょ～っとややこしいけどさ、<line-break>その辺しっかりできる冒険者って、<line-break>カッコいいよ、やっぱさ。<end>"
+english = "A dark monster in the Volcanic Rock Zone, huh? You might want to double-check your equipment before you go, <value:$28>. It's kind of a pain, but an adventurer who takes care of that stuff properly is pretty cool, you know?<end>"
+
+["1220201"]
+japanese = "姉ちゃん、火山岩地帯はロセンの<line-break>南東にあるんだぜ。<line-break>知ってたか？<line-break>魔物を倒したあとの報告は、<line-break>ロセンの冒険者ギルドに行くんだぜ。<end>"
+english = "Hey, miss, the Volcanic Rock Zone is southeast of Rocen. Did you know that? Once you've defeated the monster, report back to the Adventurers' Guild in Rocen.<end>"
+
+["1220202"]
+japanese = "火山岩地帯に出没している魔物が、<line-break>闇の力を持っている、ですって…？<line-break><line-break>…知らなかった。<line-break><value:$28>、私からも、<line-break>どうか退治をお願いするわ。<end>"
+english = "The monster appearing in the Volcanic Rock Zone has dark power...? I...didn't know. Please, <value:$28>. I too ask you to defeat it.<end>"
+
+["1220203"]
+japanese = "竜王の覚醒が原因かどうかわからんが、<line-break>闇の力を持った魔物が封印を解かれて<line-break>うろつくことが多くなっている。<line-break>今回のも、そのたぐいかもしれんな。<line-break>お前さんなら問題ないと思うが、<line-break>油断するなよ。<end>"
+english = "I don't know whether the Dragon King's Awakening is to blame, but more and more monsters with dark power have been breaking free of their seals and roaming about. This one may be another of that sort. I don't expect you'll have any trouble, but don't let your guard down.<end>"
+
+["1220204"]
+japanese = "闇の力を持つ魔物か…。<line-break>気になる事がある。<line-break>付き合ってやってもいいぞ。<end>"
+english = "A monster with dark power... There's something I want to look into. I suppose I could come along.<end>"
+
+["1220205"]
+japanese = "とてつもない闇の力を持つ魔物とな？<line-break>火山岩地帯に、そのような魔物が<line-break>おるとは初耳じゃぞ。<line-break>火山岩地帯には火草の種を求めて<line-break>冒険者が集まるぞ。<line-break>被害者が出る前に退治せねばな。<end>"
+english = "A monster with tremendous dark power, you say? This is the first I've heard of such a monster in the Volcanic Rock Zone. Adventurers gather there in search of Firegrass Seeds. We must defeat it before anyone comes to harm.<end>"
+
+["1220206"]
+japanese = "ロセンの冒険者ギルドで引き受けた<line-break>仕事のことだね。<line-break>たしか、依頼者は神官だったかな。<line-break>神官の話だと魔物からは、<line-break>ものすごい闇の力が感じられたそう<line-break>だから、用心しないとね。<end>"
+english = "This is about the job you took at the Adventurers' Guild in Rocen, right? If I remember correctly, the client was a priest. The priest apparently sensed tremendous dark power coming from the monster, so we'd better be careful.<end>"
+
+["1220207"]
+japanese = "一言助言を言わせてもらえるなら、<line-break>火属性の敵には風属性、闇属性には<line-break>聖属性の攻撃が有効だ。<line-break>知恵と機転もまた我々の武器。<line-break>…そういうことだな。<end>"
+english = "If I may offer one piece of advice: Wind-element attacks are effective against Fire-element enemies, while Holy-element attacks are effective against Dark-element enemies. Wisdom and resourcefulness are also weapons at our disposal. ...That's the idea.<end>"
+
+["1220208"]
+japanese = "何度も言うけどアタクシは、<line-break>高貴で優雅で知性あふれる<line-break>エルフなのよ、エ・ル・フ。<line-break>そのアタクシがど～して<line-break>山登りなんてしないと<line-break>いけないのよ！<end>"
+english = "How many times must I say it? I am a noble, graceful, brilliant elf. An e-l-f! So why in the world must someone like me go climbing mountains?!<end>"
+
+["1220209"]
+japanese = "すさまじい闇の力を持つ魔物ですか…。<line-break>ま～ものにもよりますが、<line-break>闇だけにやみといたほうがいいですぞ。<end>"
+english = "A monster with tremendous dark power, you say...? Well, it depends on the monster, but with darkness like that, perhaps you'd best call it a night.<end>"
+
+["1220210"]
+japanese = "今度は火山岩地帯に行くの？<line-break><value:$28>が有名になったから、<line-break>いろんな人が頼ってくるね。<line-break>たくさんお仕事して疲れたら、<line-break>無理しないで休んでね。<end>"
+english = "Are you going to the Volcanic Rock Zone this time? Now that you're famous, <value:$28>, all sorts of people come asking for help. If all that work wears you out, don't push yourself. Be sure to rest.<end>"
+
+["1220211"]
+japanese = "………………。<line-break><line-break><line-break>戦いは生か死だ。<line-break>気を抜いた者が死ぬ。<end>"
+english = "……………… Battle is life or death. Those who let their guard down die.<end>"
+
+["1220212"]
+japanese = "冒険者ギルドに泣きついてくるとは…<line-break>闇を払うのこそ、神官最大の仕事では<line-break>なかったのか？<line-break>ふん…それだけ世は<line-break>怠慢に満ちているということか。<line-break>嘆かわしい限りだな。<end>"
+english = "To think a priest would go crying to the Adventurers' Guild... Was driving back the darkness not a priest's greatest duty? Hmph. Is this how thoroughly the world has succumbed to indolence? How deplorable.<end>"
+
+["1220213"]
+japanese = "火山岩地帯って、渦巻きの岩が<line-break>あるところだね。<line-break>昔から気になってたんだぁ。<line-break>ボクのカンだと、あそこが怪しいよ。<line-break>あーゆーとこに魔人とか闇の力を<line-break>持った魔物とかが集まるものなのさ。<end>"
+english = "The Volcanic Rock Zone is where those spiral-shaped rocks are, right? I've been curious about that place for ages. My instincts tell me there's something suspicious about it. Places like that always attract fiends and monsters with dark powers.<end>"
+
+["1220214"]
+japanese = "竜王の覚醒以来、闇の魔物の<line-break>出現を耳にする機会が<line-break>明らかに増えてきている。<line-break>変革の時代が到来したという<line-break>証なのか…。<end>"
+english = "Since the Dragon King's Awakening, reports of dark monsters have clearly become more frequent. Could this be proof that an age of upheaval has arrived...?<end>"
+
+["1220215"]
+japanese = "火山岩地帯に現れるという魔物は、<line-break>ロセンの神官の現によれば、<line-break>闇の力を持つもののようです。<line-break>こちらも闇属性に耐えうるような<line-break>防備を調えておかねば、<line-break>危険かもしれません。<end>"
+english = "According to the priest from Rocen, the monster said to appear in the Volcanic Rock Zone seems to possess dark power. It may be dangerous unless we equip ourselves to withstand the Dark element as well.<end>"
+
+["1220216"]
+japanese = "火山岩の近くにいる魔物は、<line-break>闇の力を持つって言ったよ。<line-break>気をつけないとね。<end>"
+english = "The monster near the volcanic rocks was said to have dark power. We'd better be careful.<end>"
+
+["1220217"]
+japanese = "神官ともあろう人間が、闇の力を持つ<line-break>魔物退治を他人任せにするとは…！<line-break>…ま、叫んでおっても仕方ない。<line-break>魔物の方も、おざなりされるよりは<line-break>手厚く弔われた方が幸せに決まっとる。<line-break>火山岩地帯へ行こうぞ、<end>"
+english = "For a priest to leave the slaying of a monster with dark power to someone else...! Still, there is no point in shouting about it. The monster will surely be happier receiving a proper burial than being treated as an afterthought. Let us go to the Volcanic Rock Zone.<end>"
+
+["1220218"]
+japanese = "冒険者として名が知れたことで<line-break>多くの人々に頼られるように<line-break>なったのは誇るべきだ。<line-break>彼らの期待に答えるためにも、<line-break>視野は広く持たないといけないぞ。<end>"
+english = "You should be proud that your renown as an adventurer has led so many people to rely on you. To live up to their expectations, you must keep a broad perspective.<end>"
+
+["1220219"]
+japanese = "神官の話だと、闇の力を持つ魔物は<line-break>火山岩地帯にいるらしいな。<line-break>\u3000<line-break>今回は何か危険な匂いがする。<line-break>いつも以上に気を引き締めていくぞ。<end>"
+english = "According to the priest, the monster with dark power is in the Volcanic Rock Zone. Something about this job smells dangerous. We'll need to stay even more alert than usual.<end>"
+
+["1220220"]
+japanese = "どうやら今回の魔物退治は<line-break>少し危険みたいね。<line-break>\u3000<line-break>万全の態勢で火山岩地帯に<line-break>向かいましょ。<end>"
+english = "It sounds like hunting this monster may be a little dangerous. Let's make sure we're fully prepared before heading to the Volcanic Rock Zone.<end>"
+
+["1220221"]
+japanese = "………………。<end>"
+english = "………………<end>"
+
+["1220222"]
+japanese = "今回の依頼って危険じゃないですか？<line-break>だってすごい闇の力を持ってるって<line-break>神官の方がおっしゃってましたし…。<line-break>…そうですよね。それでも行くのが<line-break><value:$28>さんですよね。<line-break>私もほんの少しですけど力になります。<end>"
+english = "Isn't this request dangerous? The priest said the monster has tremendous dark power... Yes, I know. You'd go anyway, wouldn't you, <value:$28>? I may not be much help, but I'll do what little I can.<end>"
+
+["1220223"]
+japanese = "………………。<end>"
+english = "………………<end>"

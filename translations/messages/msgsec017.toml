@@ -1,0 +1,1181 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["170000"]
+japanese = "よお、ヒヨッコ。俺に何の用だ？<end>"
+english = "Hey, rookie. What can I do for you?<end>"
+
+["170001"]
+japanese = "よお、だいぶいい顔つきになってきたな。<line-break>今日はどうしたんだ？<end>"
+english = "Hey, you're starting to look the part. What brings you here today?<end>"
+
+["170002"]
+japanese = "よお、噂は聞いてるぜ。頑張ってるじゃないか。<line-break>さて、今日は何をしたいんだ？<end>"
+english = "Hey, I've heard the stories. You're doing well for yourself. So, what can I do for you today?<end>"
+
+["170003"]
+japanese = "よお、ずいぶんと立派な冒険者になったな。<line-break>よし、俺もいっちょ腕を振るわないとな。<end>"
+english = "Hey, you've become quite the adventurer. All right, I'd better put my skills to work too.<end>"
+
+["170004"]
+japanese = "他に用事があるんなら言ってくれ。<line-break>遠慮なんかするんじゃないぜ。<end>"
+english = "If there's anything else you need, just say the word. Don't hold back.<end>"
+
+["170005"]
+japanese = "じゃあ、また来てくれよ。<end>"
+english = "Well, come back anytime.<end>"
+
+["170006"]
+japanese = "%s\u3000攻撃力%u<line-break>強度%u\u3000階級%u\u3000ＥＣ%u\u3000ＥＳ%s<line-break>%sの特殊効果を持っている<end>"
+english = "%s\u3000Attack Power %u\u3000Strength %u\u3000Rank %u\u3000ＥＣ %u\u3000ＥＳ %s\u3000Special Effect: %s<end>"
+
+["170007"]
+japanese = "%s\u3000攻撃力%u<line-break>強度%u\u3000階級%u\u3000ＥＣ%u\u3000ＥＳ%s<line-break>特殊効果は持っていない<end>"
+english = "%s\u3000Attack Power %u\u3000Strength %u\u3000Rank %u\u3000ＥＣ %u\u3000ＥＳ %s\u3000No special effect<end>"
+
+["170008"]
+japanese = "%s\u3000防御力%u<line-break>強度%u\u3000階級%u\u3000ＥＣ%u\u3000ＥＳ%s<line-break>%sの特殊効果を持っている<end>"
+english = "%s\u3000Defense Power %u\u3000Strength %u\u3000Rank %u\u3000ＥＣ %u\u3000ＥＳ %s\u3000Special Effect: %s<end>"
+
+["170009"]
+japanese = "%s\u3000防御力%u<line-break>強度%u\u3000階級%u\u3000ＥＣ%u\u3000ＥＳ%s<line-break>特殊効果は持っていない<end>"
+english = "%s\u3000Defense Power %u\u3000Strength %u\u3000Rank %u\u3000ＥＣ %u\u3000ＥＳ %s\u3000No special effect<end>"
+
+["170010"]
+japanese = "そいつはちょっと…無理だな。<line-break>できがよすぎて、それ以上鍛えようがないぜ。<end>"
+english = "That one's a bit... no. It's already so well made, there's nothing more I can do to improve it.<end>"
+
+["170011"]
+japanese = "なるほど、あんたの注文はよくわかった。<line-break>さっそく仕事にうつるが、かまわないな？<end>"
+english = "All right, I know what you want. I'll get started right away. That's all right with you, right?<end>"
+
+["170012"]
+japanese = "よし、ちょっとばかし待ってろよ…<end>"
+english = "Right, give me a moment...<end>"
+
+["170013"]
+japanese = "そら、仕上がった！\u3000なかなかのもんだろ。<line-break>我ながらいい仕事をしたって感じだぜ。<end>"
+english = "There, finished! Not bad, eh? That's a fine bit of work, if I say so myself.<end>"
+
+["170014"]
+japanese = "おいおい、それ以上抱えたら動けなくなるぜ。<line-break>何かいらないものを処分したほうがいいな。<end>"
+english = "Hold on. Carry any more and you won't be able to move. You'd better get rid of something you don't need.<end>"
+
+["170015"]
+japanese = "じゃあ、これでいいんだな。<end>"
+english = "So, this is what you want?<end>"
+
+["170016"]
+japanese = "そうか、ありがとうよ。<line-break>自分好みに鍛えてやってくれ。<end>"
+english = "All right, thanks. Hone it to your liking.<end>"
+
+["170017"]
+japanese = "アイテムと装備品、どっちを売ってくれるんだ？<end>"
+english = "What are you selling, items or equipment?<end>"
+
+["170018"]
+japanese = "アイテムは１つも持っていないじゃないか。<line-break>からかうのは、やめて欲しいもんだな。<end>"
+english = "You don't have a single item. Come on, don't mess with me.<end>"
+
+["170019"]
+japanese = "持ってる装備品は全部装備しているじゃないか。<line-break>装備している物は買い取れないよ。<end>"
+english = "All the equipment you own is in use. I can't buy anything you have equipped.<end>"
+
+["170020"]
+japanese = "こいつをいくつ売ってくれるんだ？<end>"
+english = "How many of these are you selling?<end>"
+
+["170021"]
+japanese = "じゃ、こいつを買い取るがかまわないな？<line-break>あとで返してくれなんて言うなよ。<end>"
+english = "Right, I'll buy this from you. You're sure? Don't come asking for it back later.<end>"
+
+["170022"]
+japanese = "これは、俺にとっては価値のないものだね。<line-break>すまないが、買い取ることはできないな。<end>"
+english = "This is worthless to me. Sorry, but I can't buy it.<end>"
+
+["170023"]
+japanese = "そうか、ありがとうよ。<line-break>お互い、いい商売をしたな。<end>"
+english = "All right, thanks. A good deal for both of us.<end>"
+
+["170024"]
+japanese = "悪いが、この名前は変えられないな。<line-break>今以上によい名があるとは、思えないんでね。<end>"
+english = "Sorry, but I can't change this name. I can't imagine a better one.<end>"
+
+["170025"]
+japanese = "じゃ、<value:$15>ってのはどうだ？<line-break><end>"
+english = "Then how about <value:$15>?<end>"
+
+["170026"]
+japanese = "名前を入力してください。<line-break><end>"
+english = "Please enter a name.<end>"
+
+["170027"]
+japanese = "方向キーでカーソル移動、①ボタンで決定。<line-break><end>"
+english = "Use the directional buttons to move the cursor, and press the ① button to confirm.<end>"
+
+["170028"]
+japanese = "８文字まで入力できます。<end>"
+english = "You can enter up to 8 characters.<end>"
+
+["170029"]
+japanese = "それじゃ、また来てくれよ。<line-break>それから、武器の手入れはまめにしろよ。<end>"
+english = "Come back anytime. And be sure to keep your weapons in good shape.<end>"
+
+["170030"]
+japanese = "どいつを鍛えるんだい？<end>"
+english = "Which one do you want upgraded?<end>"
+
+["170031"]
+japanese = "どいつの名前を変えるんだい？<end>"
+english = "Which one do you want to rename?<end>"
+
+["170032"]
+japanese = "攻撃力と重量のバランスがいい武器だ。<line-break>ダブルブレードのスキルで二刀流も可能だ。<end>"
+english = "This weapon offers a good balance of Attack Power and weight. With the Double Blade skill, you can also use it for Dual Wielding.<end>"
+
+["170033"]
+japanese = "両手持ちの大きな剣だ。攻撃力は抜群だぜ。<line-break>ただ、重いから、非力だと扱いづらいがな。<end>"
+english = "It's a large, two-handed sword with outstanding Attack Power. But it's heavy, so you'll have trouble handling it if you're not very strong.<end>"
+
+["170034"]
+japanese = "両手持ちの槍だ。後列の敵にも攻撃できるぜ。<line-break>攻撃力も高いぞ。<end>"
+english = "It's a two-handed spear that can even hit enemies in the back row. Its Attack Power is high, too.<end>"
+
+["170035"]
+japanese = "両手持ちの斧だ。攻撃力は最高だがその分重い。<line-break>かなり腕力がないと、使いこなせないだろうな。<end>"
+english = "It's a two-handed axe. It has the highest Attack Power, but it's correspondingly heavy. You'll need a lot of strength to wield it effectively.<end>"
+
+["170036"]
+japanese = "軽いから、速攻でいくならこいつがおすすめだ。<line-break>ダブルブレードのスキルで二刀流も可能だしな。<end>"
+english = "It's light, so I'd recommend this one if you want to attack quickly. With the Double Blade skill, you can also use it for Dual Wielding.<end>"
+
+["170037"]
+japanese = "飛び道具だから、離れていても攻撃できるし<line-break>飛んでいる敵が相手でも命中度は落ちないぞ。<end>"
+english = "Since it's a ranged weapon, you can attack from a distance, and its accuracy won't drop even against flying enemies.<end>"
+
+["170038"]
+japanese = "軽いから、すばやく動けて２連続攻撃ができる。<line-break>ただ、一撃の攻撃力は低いな。<end>"
+english = "It's light, so you can move quickly and attack twice in a row. The downside is that each hit has low Attack Power.<end>"
+
+["170039"]
+japanese = "ダミーメッセージ<end>"
+english = "Dummy message<end>"
+
+["170040"]
+japanese = "とても軽いから、すばやさ重視ならおすすめだ。<line-break>もっとも身軽な分、防御力は低いぞ。<end>"
+english = "It's very light, so I'd recommend it if you value agility. The trade-off for that freedom of movement is low defense.<end>"
+
+["170041"]
+japanese = "防御力と重さのバランスがよいのが特徴だ。<line-break>冒険者の標準的な防具といえるな。<end>"
+english = "Its strength lies in its good balance of defense and weight. You could call it the standard armor for adventurers.<end>"
+
+["170042"]
+japanese = "上半身を完全に守ることができる防具だ。<line-break>前列で戦う冒険者なら、これがおすすめだ。<end>"
+english = "This armor provides complete protection for the upper body. I'd recommend it for adventurers who fight in the front row.<end>"
+
+["170043"]
+japanese = "最高の防御力を誇る反面、非常に重い防具だ。<line-break>すばやさよりも、防御力を重視するならこれだ。<end>"
+english = "It boasts the highest defense, but it's also extremely heavy. If you value defense over agility, this is the one.<end>"
+
+["170044"]
+japanese = "どの装備に精霊を宿しますか？<end>"
+english = "Which piece of equipment would you like to imbue with a spirit?<end>"
+
+["170045"]
+japanese = "別の装備に精霊を宿しますか？<end>"
+english = "Would you like to imbue another piece of equipment with a spirit?<end>"
+
+["170046"]
+japanese = "その装備の属性は変えられません。<end>"
+english = "That equipment's attribute cannot be changed.<end>"
+
+["170047"]
+japanese = "どの精霊を宿しますか？<end>"
+english = "Which spirit would you like to imbue it with?<end>"
+
+["170048"]
+japanese = "あなたの旅に、神のご加護のあらんことを。<end>"
+english = "May divine protection be with you on your journey.<end>"
+
+["170049"]
+japanese = "ライトソード<end>"
+english = "Light Sword<end>"
+
+["170050"]
+japanese = "エストック<end>"
+english = "Estoc<end>"
+
+["170051"]
+japanese = "タコーバ<end>"
+english = "Takouba<end>"
+
+["170052"]
+japanese = "バトルブレード<end>"
+english = "Battle Blade<end>"
+
+["170053"]
+japanese = "ファルカタ<end>"
+english = "Falcata<end>"
+
+["170054"]
+japanese = "ブロードソード<end>"
+english = "Broadsword<end>"
+
+["170055"]
+japanese = "シャムシール<end>"
+english = "Shamshir<end>"
+
+["170056"]
+japanese = "タルワール<end>"
+english = "Talwar<end>"
+
+["170057"]
+japanese = "バデレール<end>"
+english = "Badelaire<end>"
+
+["170058"]
+japanese = "ファルシオン<end>"
+english = "Falchion<end>"
+
+["170059"]
+japanese = "ロムパイア<end>"
+english = "Rhomphaia<end>"
+
+["170060"]
+japanese = "フランベルジェ<end>"
+english = "Flamberge<end>"
+
+["170061"]
+japanese = "フォセ<end>"
+english = "Fosse<end>"
+
+["170062"]
+japanese = "ファルクス<end>"
+english = "Falx<end>"
+
+["170063"]
+japanese = "バスターブレード<end>"
+english = "Buster Blade<end>"
+
+["170064"]
+japanese = "クレイモアー<end>"
+english = "Claymore<end>"
+
+["170065"]
+japanese = "フランベルジェ<end>"
+english = "Flamberge<end>"
+
+["170066"]
+japanese = "ヘビーブレード<end>"
+english = "Heavy Blade<end>"
+
+["170067"]
+japanese = "ツヴァイハンダー<end>"
+english = "Zweihander<end>"
+
+["170068"]
+japanese = "トゥハンドソード<end>"
+english = "Two-Handed Sword<end>"
+
+["170069"]
+japanese = "サリッサ<end>"
+english = "Sarissa<end>"
+
+["170070"]
+japanese = "バトルスピア<end>"
+english = "Battle Spear<end>"
+
+["170071"]
+japanese = "オウルパイク<end>"
+english = "Owl Pike<end>"
+
+["170072"]
+japanese = "ジャベリン<end>"
+english = "Javelin<end>"
+
+["170073"]
+japanese = "トライデント<end>"
+english = "Trident<end>"
+
+["170074"]
+japanese = "コルセスカ<end>"
+english = "Corsesca<end>"
+
+["170075"]
+japanese = "バトルグレイヴ<end>"
+english = "Battle Glaive<end>"
+
+["170076"]
+japanese = "クーゼ<end>"
+english = "Kuse<end>"
+
+["170077"]
+japanese = "ハルベルト<end>"
+english = "Halberd<end>"
+
+["170078"]
+japanese = "ラースルール<end>"
+english = "Rasrur<end>"
+
+["170079"]
+japanese = "バルディッシュ<end>"
+english = "Bardiche<end>"
+
+["170080"]
+japanese = "バトルアクス<end>"
+english = "Battle Axe<end>"
+
+["170081"]
+japanese = "タバール<end>"
+english = "Tabar<end>"
+
+["170082"]
+japanese = "ジャ・ダグナ<end>"
+english = "Dja Dagna<end>"
+
+["170083"]
+japanese = "フランシスカ<end>"
+english = "Francisca<end>"
+
+["170084"]
+japanese = "ヘビーハンマー<end>"
+english = "Heavy Hammer<end>"
+
+["170085"]
+japanese = "バトルハンマー<end>"
+english = "Battle Hammer<end>"
+
+["170086"]
+japanese = "バトルメイス<end>"
+english = "Battle Mace<end>"
+
+["170087"]
+japanese = "ブロードアックス<end>"
+english = "Broad Axe<end>"
+
+["170088"]
+japanese = "ヘビーアックス<end>"
+english = "Heavy Axe<end>"
+
+["170089"]
+japanese = "アケナケース<end>"
+english = "Akinakes<end>"
+
+["170090"]
+japanese = "サクス<end>"
+english = "Seax<end>"
+
+["170091"]
+japanese = "ソードブレイカー<end>"
+english = "Swordbreaker<end>"
+
+["170092"]
+japanese = "バトルダガー<end>"
+english = "Battle Dagger<end>"
+
+["170093"]
+japanese = "スティレット<end>"
+english = "Stiletto<end>"
+
+["170094"]
+japanese = "カタール<end>"
+english = "Katar<end>"
+
+["170095"]
+japanese = "キンドジャール<end>"
+english = "Kindjal<end>"
+
+["170096"]
+japanese = "ククリ<end>"
+english = "Kukri<end>"
+
+["170097"]
+japanese = "クリスナイフ<end>"
+english = "Kris Knife<end>"
+
+["170098"]
+japanese = "チンクエディア<end>"
+english = "Cinquedea<end>"
+
+["170099"]
+japanese = "ジェンダワ<end>"
+english = "Jendawa<end>"
+
+["170100"]
+japanese = "ショートボウ<end>"
+english = "Shortbow<end>"
+
+["170101"]
+japanese = "ヒンディ<end>"
+english = "Hindi<end>"
+
+["170102"]
+japanese = "ライトボウ<end>"
+english = "Light Bow<end>"
+
+["170103"]
+japanese = "シュティングボウ<end>"
+english = "Shooting Bow<end>"
+
+["170104"]
+japanese = "ロングボウ<end>"
+english = "Longbow<end>"
+
+["170105"]
+japanese = "コンポジッドボウ<end>"
+english = "Composite Bow<end>"
+
+["170106"]
+japanese = "ストロングボウ<end>"
+english = "Strong Bow<end>"
+
+["170107"]
+japanese = "バトルボウ<end>"
+english = "Battle Bow<end>"
+
+["170108"]
+japanese = "カマサ<end>"
+english = "Kamasa<end>"
+
+["170109"]
+japanese = "バトルナックル<end>"
+english = "Battle Knuckles<end>"
+
+["170110"]
+japanese = "ジュル<end>"
+english = "Jur<end>"
+
+["170111"]
+japanese = "ブラスナックル<end>"
+english = "Brass Knuckles<end>"
+
+["170112"]
+japanese = "メタルナックル<end>"
+english = "Metal Knuckles<end>"
+
+["170113"]
+japanese = "アイアングラブ<end>"
+english = "Iron Glove<end>"
+
+["170114"]
+japanese = "バグ・ナウ<end>"
+english = "Bug Now<end>"
+
+["170115"]
+japanese = "ウォーグラブ<end>"
+english = "War Glove<end>"
+
+["170116"]
+japanese = "ベアーナックル<end>"
+english = "Bare Knuckle<end>"
+
+["170117"]
+japanese = "セスタス<end>"
+english = "Cestus<end>"
+
+["170118"]
+japanese = "ドラゴンクロー<end>"
+english = "Dragon Claw<end>"
+
+["170119"]
+japanese = "スモールシールド<end>"
+english = "Small Shield<end>"
+
+["170120"]
+japanese = "バックラー<end>"
+english = "Buckler<end>"
+
+["170121"]
+japanese = "ラウンドシールド<end>"
+english = "Round Shield<end>"
+
+["170122"]
+japanese = "ヒーターシールド<end>"
+english = "Heater Shield<end>"
+
+["170123"]
+japanese = "ゼルドナーシルト<end>"
+english = "Zeldner Shield<end>"
+
+["170124"]
+japanese = "ラージシールド<end>"
+english = "Large Shield<end>"
+
+["170125"]
+japanese = "ナイトシールド<end>"
+english = "Knight Shield<end>"
+
+["170126"]
+japanese = "タワーシールド<end>"
+english = "Tower Shield<end>"
+
+["170127"]
+japanese = "カイトシールド<end>"
+english = "Kite Shield<end>"
+
+["170128"]
+japanese = "ヘビーシールド<end>"
+english = "Heavy Shield<end>"
+
+["170129"]
+japanese = "クロスガーダー<end>"
+english = "Cross Guarder<end>"
+
+["170130"]
+japanese = "キルトアーマー<end>"
+english = "Quilted Armor<end>"
+
+["170131"]
+japanese = "サーコート<end>"
+english = "Surcoat<end>"
+
+["170132"]
+japanese = "バトルローブ<end>"
+english = "Battle Robe<end>"
+
+["170133"]
+japanese = "レザーコート<end>"
+english = "Leather Coat<end>"
+
+["170134"]
+japanese = "ヘビークロス<end>"
+english = "Heavy Cloth<end>"
+
+["170135"]
+japanese = "アーマークロス<end>"
+english = "Armor Cloth<end>"
+
+["170136"]
+japanese = "レザーアーマー<end>"
+english = "Leather Armor<end>"
+
+["170137"]
+japanese = "キルボアール<end>"
+english = "Kiruboar<end>"
+
+["170138"]
+japanese = "ハードレザー<end>"
+english = "Hard Leather<end>"
+
+["170139"]
+japanese = "ボーンブレスト<end>"
+english = "Bone Breastplate<end>"
+
+["170140"]
+japanese = "ブレストガード<end>"
+english = "Breastguard<end>"
+
+["170141"]
+japanese = "ライトアーマー<end>"
+english = "Light Armor<end>"
+
+["170142"]
+japanese = "ワルキューレ<end>"
+english = "Valkyrie<end>"
+
+["170143"]
+japanese = "ブレストアーマー<end>"
+english = "Breastplate<end>"
+
+["170144"]
+japanese = "ヘビーブレスト<end>"
+english = "Heavy Breastplate<end>"
+
+["170145"]
+japanese = "チェストメイル<end>"
+english = "Chest Mail<end>"
+
+["170146"]
+japanese = "ホーバーク<end>"
+english = "Hauberk<end>"
+
+["170147"]
+japanese = "クィラス<end>"
+english = "Cuirass<end>"
+
+["170148"]
+japanese = "ブレストチェイン<end>"
+english = "Breast Chain<end>"
+
+["170149"]
+japanese = "バンディッド<end>"
+english = "Banded Armor<end>"
+
+["170150"]
+japanese = "チェインメイル<end>"
+english = "Chain Mail<end>"
+
+["170151"]
+japanese = "チェインスーツ<end>"
+english = "Chain Suit<end>"
+
+["170152"]
+japanese = "スプリントメイル<end>"
+english = "Splint Mail<end>"
+
+["170153"]
+japanese = "ラメラーアーマー<end>"
+english = "Lamellar Armor<end>"
+
+["170154"]
+japanese = "ヘビーアーマー<end>"
+english = "Heavy Armor<end>"
+
+["170155"]
+japanese = "スケールメイル<end>"
+english = "Scale Mail<end>"
+
+["170156"]
+japanese = "ドラゴンメイル<end>"
+english = "Dragon Mail<end>"
+
+["170157"]
+japanese = "スタッドメイル<end>"
+english = "Studded Mail<end>"
+
+["170158"]
+japanese = "リングメイル<end>"
+english = "Ring Mail<end>"
+
+["170159"]
+japanese = "スーツアーマー<end>"
+english = "Suit Armor<end>"
+
+["170160"]
+japanese = "フルフィールド<end>"
+english = "Full Field<end>"
+
+["170161"]
+japanese = "フルチェイン<end>"
+english = "Full Chain<end>"
+
+["170162"]
+japanese = "ビショップメイル<end>"
+english = "Bishop Mail<end>"
+
+["170163"]
+japanese = "ランサーアーマー<end>"
+english = "Lancer Armor<end>"
+
+["170164"]
+japanese = "ナイトプレート<end>"
+english = "Knight Plate<end>"
+
+["170165"]
+japanese = "フルスケール<end>"
+english = "Full Scale<end>"
+
+["170166"]
+japanese = "パラディーム<end>"
+english = "Paladim<end>"
+
+["170167"]
+japanese = "キャヴァリアー<end>"
+english = "Cavalier<end>"
+
+["170168"]
+japanese = "ドラグーンメイル<end>"
+english = "Dragoon Mail<end>"
+
+["170169"]
+japanese = "お気をつけて。<line-break>旅の安全を心からお祈りしております。<end>"
+english = "Take care. We sincerely wish you a safe journey.<end>"
+
+["170170"]
+japanese = "そうですか。それは残念です。<line-break>またのご利用をお待ちしております。<end>"
+english = "I'm sorry to hear that. We hope you'll stay with us another time.<end>"
+
+["170171"]
+japanese = "お気をつけて。<line-break>旅の安全を心からお祈りしております。<end>"
+english = "Take care. We sincerely wish you a safe journey.<end>"
+
+["170172"]
+japanese = "いらっしゃいませ。冒険者の宿にようこそ。<line-break>旅の疲れをここでいやしていってください。<end>"
+english = "Welcome to the Adventurers' Inn. Rest here awhile and recover from your journey.<end>"
+
+["170173"]
+japanese = "いらっしゃいませ。<value:$28>さん。<line-break>私どもの宿で心と体を休めていってください。<end>"
+english = "Welcome, <value:$28>. Rest your body and mind here at our inn.<end>"
+
+["170174"]
+japanese = "いらっしゃいませ。<value:$28>さん。<line-break>あなたの事はお客様の間でも評判ですよ。<end>"
+english = "Welcome, <value:$28>. Our guests have been talking about you.<end>"
+
+["170175"]
+japanese = "ようこそ<value:$28>さん。有名な<line-break><value:$2B>をお迎えできて光栄です。<end>"
+english = "Welcome, <value:$28>. It is an honor to receive the renowned <value:$2B>.<end>"
+
+["170176"]
+japanese = "お泊りになられますか？<end>"
+english = "Will you be staying with us?<end>"
+
+["170177"]
+japanese = "おはようございます。<line-break>昨夜はよくお休みになれましたか？<end>"
+english = "Good morning. Did you sleep well last night?<end>"
+
+["170178"]
+japanese = "失礼ですが、お金が足りないようですね。<line-break>それではお泊めするわけにはいきません。<end>"
+english = "I'm sorry, but you don't appear to have enough money. I'm afraid I can't give you a room.<end>"
+
+["170179"]
+japanese = "では料金として<value:$1A>ギアいただきます。<line-break>よろしいですか？<end>"
+english = "Then the charge will be <value:$1A> Gea. Is that acceptable?<end>"
+
+["170180"]
+japanese = "お客さん、<line-break>泊まるならお金を払ってください。<end>"
+english = "If you want to stay, you'll have to pay.<end>"
+
+["170181"]
+japanese = "いらっしゃいませ。<line-break>どのようなご用向きでしょうか？<end>"
+english = "Welcome. What can I do for you?<end>"
+
+["170182"]
+japanese = "いらっしゃいませ。<line-break>何か珍しい物でも見つかりましたか？<end>"
+english = "Welcome. Have you found anything unusual?<end>"
+
+["170183"]
+japanese = "いらっしゃいませ、<value:$28>さん。<line-break>本日は、どのようなご用向きでしょうか？<end>"
+english = "Welcome, <value:$28>. What can I do for you today?<end>"
+
+["170184"]
+japanese = "これは、これは<value:$28>様。<line-break>いつもお世話になっております。<end>"
+english = "Why, if it isn't <value:$28>. Thank you, as always, for your patronage.<end>"
+
+["170185"]
+japanese = "他にも、何かご用はありますでしょうか？<line-break>遠慮なくおっしゃってください。<end>"
+english = "Is there anything else I can do for you? Please don't hesitate to ask.<end>"
+
+["170186"]
+japanese = "お買い上げありがとうございます。<end>"
+english = "Thank you for your purchase.<end>"
+
+["170187"]
+japanese = "こちらの商品は充分お持ちのようですね。<line-break>これ以上は無駄な荷物になると思いますが…。<end>"
+english = "You seem to have plenty of these already. Any more would only weigh you down.<end>"
+
+["170188"]
+japanese = "こちらの商品を、いくつ買っていただけますか？<end>"
+english = "How many would you like to buy?<end>"
+
+["170189"]
+japanese = "個数はこれでよろしいのですね？<end>"
+english = "Are you sure this is the quantity you want?<end>"
+
+["170190"]
+japanese = "それでは買い取らせていただきますが、<line-break>かまいませんね？<end>"
+english = "Very well, let's proceed with the sale. Is that acceptable?<end>"
+
+["170191"]
+japanese = "アイテムと装備品、どちらを売って<line-break>いただけるのですか？<end>"
+english = "Which would you like to sell: items or equipment?<end>"
+
+["170192"]
+japanese = "アイテムは１つも持っておられないようですが…<line-break>ははは…、お客様は冗談がお上手ですね。<end>"
+english = "It seems you don't have a single item to sell. Ha ha... You do like your jokes.<end>"
+
+["170193"]
+japanese = "装備品をすべて身につけておられるようです…。<line-break>申しわけありませんが買い取りはできません。<end>"
+english = "It appears that all your equipment is currently in use. I'm sorry, but I can't buy any of it.<end>"
+
+["170194"]
+japanese = "これをおいくつ売っていただけるのですか？<end>"
+english = "How many of these would you like to sell?<end>"
+
+["170195"]
+japanese = "ありがとうございました。<end>"
+english = "Thank you.<end>"
+
+["170196"]
+japanese = "ありがとうございました。<end>"
+english = "Thank you.<end>"
+
+["170197"]
+japanese = "申しわけありませんが、この品はちょっと…。<line-break>別の品にしていただけませんか。<end>"
+english = "I'm sorry, but this particular item is... Could you offer me something else?<end>"
+
+["170198"]
+japanese = "ありがとうございました。<line-break>またのお越しをお待ちしております。<end>"
+english = "Thank you. We look forward to seeing you again.<end>"
+
+["170199"]
+japanese = "今日は何を売ってもらえるのですかな？<end>"
+english = "Now then, what will you be selling me today?<end>"
+
+["170200"]
+japanese = "ほかに珍しい品はありませんか？<end>"
+english = "Do you have any other rare goods?<end>"
+
+["170201"]
+japanese = "特に珍しい品物は、<line-break>持っていないようですが…。<end>"
+english = "It doesn't appear that you have anything particularly rare.<end>"
+
+["170202"]
+japanese = "そちらですか…ふむ、まあ<line-break><value:$1A>ギアといった所でしょうな。<end>"
+english = "That one, is it? Hmm... I'd say <value:$1A> Gea.<end>"
+
+["170203"]
+japanese = "おお、このような品をお持ちですか。<line-break><value:$1A>ギアでいかがですかな？<end>"
+english = "Oh, you have something like this? How does <value:$1A> Gea sound?<end>"
+
+["170204"]
+japanese = "こ、これは珍しいっ！\u3000ぜひ、<line-break><value:$1A>ギアでお譲りください！<end>"
+english = "Th-this is rare! Please, let me have it for <value:$1A> Gea!<end>"
+
+["170205"]
+japanese = "大して価値のない品ばかりですね。<line-break>この程度の品を買っていては<line-break>フゴー様にしかられてしまいます。<end>"
+english = "These are all of little value. Hugo would scold me if I bought goods of this caliber.<end>"
+
+["170206"]
+japanese = "現在、装備している物は<line-break>買い取れませんね。あらかじめ<line-break>はずしておいてもらえますかな。<end>"
+english = "I can't buy anything currently equipped. Kindly remove it first.<end>"
+
+["170207"]
+japanese = "<value:$15>ですか。<line-break>ふむ…<value:$1A>ギアですな。<end>"
+english = "<value:$15>, is it? Hmm... I'd say <value:$1A> Gea.<end>"
+
+["170208"]
+japanese = "おお、これが<value:$15>ですか。<line-break><value:$1A>ギアでお譲りください。<end>"
+english = "Oh, so this is <value:$15>. Please, let me have it for <value:$1A> Gea.<end>"
+
+["170209"]
+japanese = "こ、これがかの<value:$15>っ！<line-break><value:$1A>ギアでよろしいですか！？<end>"
+english = "C-could this be the famed <value:$15>?! Would <value:$1A> Gea be acceptable?!<end>"
+
+["170210"]
+japanese = "珍しい物を手に入れたおりには<line-break>ぜひ、お持ちください。<line-break>高く買い取らせていただきますぞ。<end>"
+english = "If you ever acquire anything rare, please bring it to me. I shall pay you handsomely for it.<end>"
+
+["170211"]
+japanese = "商談成立ですね。<line-break>フゴー様もお喜びでしょう。<line-break>では、こちらが代金です。<end>"
+english = "Then we have a deal. Hugo will be pleased. Here is your payment.<end>"
+
+["170212"]
+japanese = "このメモリ－カードは壊れています。<line-break>別のカードを挿入してください。<end>"
+english = "This memory card is corrupted. Please insert another card.<end>"
+
+["170213"]
+japanese = "差込口１のメモリーカードは初期化<line-break>されていません。初期化しますか？<end>"
+english = "The memory card in slot 1 has not been formatted. Format it now?<end>"
+
+["170214"]
+japanese = "データを書き込む容量がありませ<line-break>ん。冒険の記録ができませんが、<line-break>このまま続けますか<end>"
+english = "There is not enough space to write the data. Your adventure cannot be saved. Continue anyway?<end>"
+
+["170215"]
+japanese = "ロードするデータがありません。<line-break><end>"
+english = "There is no data to load.<end>"
+
+["170216"]
+japanese = "メモリ－カードが正しく接続されていません。<line-break>差込口１のメモリーカードを確認してください。<end>"
+english = "The memory card is not connected correctly. Please check the memory card in slot 1.<end>"
+
+["170217"]
+japanese = "フォーマット中です。<end>"
+english = "Formatting...<end>"
+
+["170218"]
+japanese = "データファイルを作成しますか<end>"
+english = "Create a data file?<end>"
+
+["170219"]
+japanese = "データを上書きしますか？<end>"
+english = "Overwrite the data?<end>"
+
+["170220"]
+japanese = "メモリーカードをチェックしています。<line-break>メモリーカード、コントローラを抜かな<line-break>いでください。<end>"
+english = "Checking the memory card. Do not disconnect the memory card or controller.<end>"
+
+["170221"]
+japanese = "オープニング<end>"
+english = "Opening<end>"
+
+["170222"]
+japanese = "エンディング<end>"
+english = "Ending<end>"
+
+["170223"]
+japanese = "竜王の覚醒<end>"
+english = "Dragon King's Awakening<end>"
+
+["170224"]
+japanese = "開戦<end>"
+english = "The Outbreak of War<end>"
+
+["170225"]
+japanese = "空中都市ラドラス<end>"
+english = "Floating City Ladras<end>"
+
+["170226"]
+japanese = "アキュリュース進軍<end>"
+english = "Akuryus Advances<end>"
+
+["170227"]
+japanese = "雷獣<end>"
+english = "Thunder Beast<end>"
+
+["170228"]
+japanese = "黒い巨人<end>"
+english = "Black Giant<end>"
+
+["170229"]
+japanese = "砂の都<end>"
+english = "City of Sand<end>"
+
+["170230"]
+japanese = "スタッフロール<end>"
+english = "Credits<end>"
+
+["170231"]
+japanese = "目覚め<end>"
+english = "Awakening<end>"
+
+["170232"]
+japanese = "闘志<end>"
+english = "Fighting Spirit<end>"
+
+["170233"]
+japanese = "死闘<end>"
+english = "Mortal Struggle<end>"
+
+["170234"]
+japanese = "激闘<end>"
+english = "Fierce Battle<end>"
+
+["170235"]
+japanese = "古神<end>"
+english = "Ancient God<end>"
+
+["170236"]
+japanese = "善戦<end>"
+english = "A Good Fight<end>"
+
+["170237"]
+japanese = "勝利<end>"
+english = "Victory<end>"
+
+["170238"]
+japanese = "敗北<end>"
+english = "Defeat<end>"
+
+["170239"]
+japanese = "世界<end>"
+english = "The World<end>"
+
+["170240"]
+japanese = "進軍<end>"
+english = "Advance<end>"
+
+["170241"]
+japanese = "破滅<end>"
+english = "Ruin<end>"
+
+["170242"]
+japanese = "海路<end>"
+english = "Sea Route<end>"
+
+["170243"]
+japanese = "城下<end>"
+english = "Castle Town<end>"
+
+["170244"]
+japanese = "大都市<end>"
+english = "Metropolis<end>"
+
+["170245"]
+japanese = "商都<end>"
+english = "City of Commerce<end>"
+
+["170246"]
+japanese = "豪商<end>"
+english = "Wealthy Merchant<end>"
+
+["170247"]
+japanese = "村落<end>"
+english = "Village<end>"
+
+["170248"]
+japanese = "港町<end>"
+english = "Port Town<end>"
+
+["170249"]
+japanese = "水の都<end>"
+english = "City of Water<end>"
+
+["170250"]
+japanese = "故郷<end>"
+english = "Homeland<end>"
+
+["170251"]
+japanese = "聖地<end>"
+english = "Holy Land<end>"
+
+["170252"]
+japanese = "大地<end>"
+english = "The Land<end>"
+
+["170253"]
+japanese = "探検<end>"
+english = "Exploration<end>"
+
+["170254"]
+japanese = "密林<end>"
+english = "Jungle<end>"
+
+["170255"]
+japanese = "光壁<end>"
+english = "Wall of Light<end>"
+
+["170256"]
+japanese = "暗路<end>"
+english = "Dark Path<end>"
+
+["170257"]
+japanese = "隠密<end>"
+english = "Stealth<end>"
+
+["170258"]
+japanese = "廃墟<end>"
+english = "Ruins<end>"
+
+["170259"]
+japanese = "墓地<end>"
+english = "Graveyard<end>"
+
+["170260"]
+japanese = "迷宮<end>"
+english = "Labyrinth<end>"
+
+["170261"]
+japanese = "火<end>"
+english = "Fire<end>"
+
+["170262"]
+japanese = "水<end>"
+english = "Water<end>"
+
+["170263"]
+japanese = "闇<end>"
+english = "Dark<end>"
+
+["170264"]
+japanese = "虚無<end>"
+english = "Void<end>"
+
+["170265"]
+japanese = "秘境<end>"
+english = "Uncharted Lands<end>"
+
+["170266"]
+japanese = "暁光<end>"
+english = "Light of Dawn<end>"
+
+["170267"]
+japanese = "三枚目<end>"
+english = "Comic Relief<end>"
+
+["170268"]
+japanese = "三人組<end>"
+english = "The Trio<end>"
+
+["170269"]
+japanese = "仲間<end>"
+english = "Companions<end>"
+
+["170270"]
+japanese = "過去<end>"
+english = "The Past<end>"
+
+["170271"]
+japanese = "暗雲<end>"
+english = "Dark Clouds<end>"
+
+["170272"]
+japanese = "恐慌<end>"
+english = "Panic<end>"
+
+["170273"]
+japanese = "命火<end>"
+english = "Flame of Life<end>"
+
+["170274"]
+japanese = "微光<end>"
+english = "Faint Light<end>"
+
+["170275"]
+japanese = "遺跡<end>"
+english = "Ancient Ruins<end>"
+
+["170276"]
+japanese = "緊迫<end>"
+english = "Tension<end>"
+
+["170277"]
+japanese = "貴族<end>"
+english = "Nobility<end>"
+
+["170278"]
+japanese = "要塞<end>"
+english = "Fortress<end>"
+
+["170279"]
+japanese = "限界<end>"
+english = "The Limit<end>"
+
+["170280"]
+japanese = "孤独<end>"
+english = "Solitude<end>"
+
+["170281"]
+japanese = "悲しみ<end>"
+english = "Sorrow<end>"
+
+["170282"]
+japanese = "宝箱開ける<end>"
+english = "Opening a Treasure Chest<end>"
+
+["170283"]
+japanese = "宝箱ワンダフルオープン<end>"
+english = "Wonderful Treasure Chest Opening<end>"
+
+["170284"]
+japanese = "祭<end>"
+english = "Festival<end>"
+
+["170285"]
+japanese = "子守歌<end>"
+english = "Lullaby<end>"
+
+["170286"]
+japanese = "予言者<end>"
+english = "Prophet<end>"
+
+["170287"]
+japanese = "達成<end>"
+english = "Achievement<end>"
+
+["170288"]
+japanese = "魔境<end>"
+english = "Demon Realm<end>"
+
+["170289"]
+japanese = "虚無の雰囲気音<end>"
+english = "Void Ambience<end>"
+
+["170290"]
+japanese = "森の雰囲気音<end>"
+english = "Forest Ambience<end>"
+
+["170291"]
+japanese = "夜の雰囲気音<end>"
+english = "Night Ambience<end>"
+
+["170292"]
+japanese = "歓声<end>"
+english = "Cheers<end>"
+
+["170293"]
+japanese = "夢の雰囲気音<end>"
+english = "Dream Ambience<end>"
+
+["170294"]
+japanese = "猫屋敷転送室の雰囲気音<end>"
+english = "Cat Mansion Teleportation Room Ambience<end>"

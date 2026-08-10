@@ -1,0 +1,2969 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["890000"]
+japanese = "エステルメッセージVOL4開始<end>"
+english = ""
+
+["890001"]
+japanese = "<value:$28>…さんだな？<end>"
+english = "You're <value:$28>, aren't you?<end>"
+
+["890002"]
+japanese = "ま、待ってください！<line-break>私たちは怪しいものではありません！<line-break>その水晶、エステル様からもらったんですね？<end>"
+english = "W-wait! We're not up to anything suspicious! Lady Esther gave you that crystal, didn't she?<end>"
+
+["890003"]
+japanese = "それは、エステル様ご自身の<line-break>意志でしか外れないもの。<line-break>あなた様を信用してお話しします。<line-break>私たちは砂漠の一族。<line-break>竜骨の砂漠奥深くにある魔道王国の遺産、<line-break>ラドラスに住まう者です。<end>"
+english = "That crystal cannot be removed unless Lady Esther wills it. We trust you, so we will explain. We are the desert clan, inhabitants of Ladras, a legacy of the Kingdom of Sorcery deep within the Dragonbone Desert.<end>"
+
+["890004"]
+japanese = "そして、エステル様は<line-break>我ら砂漠の一族の族長なのです。<line-break>\u3000<end>"
+english = "And Lady Esther is the chief of our desert clan.<end>"
+
+["890005"]
+japanese = "中世、世界は神聖王国と魔道王国に<line-break>大きく二分されていました。<line-break>魔道王国は魔道技術により栄えていました。\u3000\u3000<line-break>しかし、支配者層に内部分裂が起こり、<line-break>そこを神聖王国の征服王ラムゼーにつかれ、<line-break>滅亡してしまったのです。<end>"
+english = "In the Middle Ages, the world was largely divided between the Holy Kingdom and the Kingdom of Sorcery. The Kingdom of Sorcery prospered through its sorcerous technology. But its ruling class split into opposing factions, and Ramsey, the Holy Kingdom's Conqueror King, seized the opportunity to destroy it.<end>"
+
+["890006"]
+japanese = "滅亡時、魔道王国の支配者のひとり、ズゥは<line-break>その魔道技術がラムゼーの手に渡るのを恐れ、<line-break>魔法で砂漠を作って魔道王国を砂に沈めました。<line-break>私たちは、その砂漠に埋もれた<line-break>魔道王国の遺産を、外部の人間から守るために<line-break>残された砂漠の一族なのです。<end>"
+english = "As the kingdom fell, one of its rulers, Zuu, feared that its sorcerous technology would fall into Ramsey's hands. Using magic, Zuu created a desert and buried the Kingdom of Sorcery beneath the sands. We are the desert clan left behind to protect the kingdom's buried legacy from outsiders.<end>"
+
+["890007"]
+japanese = "無論、砂の上で生きられるわけはありません。\u3000<line-break>我々は、ラドラスで生活しているのです。<line-break>\u3000<line-break>ラドラスでは、砂漠の中にいるのが<line-break>ウソのように暮らしやすい環境になっていて、<line-break>食べ物も飲み物も用意してくれるのです。<end>"
+english = "Naturally, we cannot live on the surface of the sands. We live in Ladras. Life there is so comfortable that it is hard to believe we are in the middle of a desert. Ladras even provides our food and drink.<end>"
+
+["890008"]
+japanese = "ただ、この技術が外部の者に渡らないように、<line-break>不定期的にラドラスが族長の血統の者が<line-break>ラドラス内にいるかを調べます。<line-break>ラドラス内に族長がいないと、ラドラスが<line-break>異邦人によって占拠されたと判断され、<line-break>魔道技術の秘密を守るため、砂に沈むのです。<end>"
+english = "To keep this technology from falling into outside hands, Ladras checks at irregular intervals to ensure that someone of the chief's bloodline is present. If the chief is absent, Ladras concludes that outsiders have occupied the city and sinks beneath the sand to protect the secrets of its sorcerous technology.<end>"
+
+["890009"]
+japanese = "…そこで、族長であるエステル様なのです。\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>エステル様は好奇心がお強く、<line-break>よく、ラドラスを抜けて<line-break>砂漠の外へ冒険に出かけられます。<end>"
+english = "That brings us to our chief, Lady Esther. She is intensely curious and often slips out of Ladras to go adventuring beyond the desert.<end>"
+
+["890010"]
+japanese = "それで九柱のチェックのために、エステル様を\u3000<line-break>連れ戻しにまいったおりにあなた様に出会い、<line-break>この前のようなことになってしまったのです。<line-break>責任感の強いお方ですので、<line-break>タイミングを見てはラドラスに戻って<line-break>チェックを受けてくださるのですが…<end>"
+english = "When we came to bring Lady Esther back for the Nine Pillars' inspection, we encountered you, and that led to what happened before. She has a strong sense of responsibility, so she usually finds an opportunity to return to Ladras for the inspection, but...<end>"
+
+["890011"]
+japanese = "今回は、会いたい人がいるからと<line-break>聞き分けていただけず、<line-break>あのような事態になったのです。<end>"
+english = "This time, she insisted that there was someone she wanted to see and refused to listen to us. That is how matters came to such a pass.<end>"
+
+["890012"]
+japanese = "まあ、あのときのことはもういいのです。<line-break>本題に入りましょう。<line-break>また、チェックの時が近づいております。<line-break>ですが、エステル様が戻られないのです。<line-break>我々はエステル様の身に<line-break>何か起こったのではと案じております。<end>"
+english = "But never mind what happened then. Let us come to the point. Another inspection is drawing near, but Lady Esther has not returned. We fear something may have happened to her.<end>"
+
+["890013"]
+japanese = "エステル様に水晶を託された<line-break>あなた様を信用してお願いいたします。<line-break>どうか、エステル様を捜してください。\u3000\u3000<line-break>その水晶は、エステル様の首飾りと<line-break>引き合います。今、エステル様を捜せるのは<line-break>あなた様だけなのです。<end>"
+english = "Lady Esther entrusted that crystal to you, so we place our trust in you as well. Please, find her. The crystal is drawn to Lady Esther's necklace. You are the only person who can find her now.<end>"
+
+["890014"]
+japanese = "エステル様が戻らなければ、<line-break>我々はあと１ケ月で、ラドラスもろとも\u3000\u3000<line-break>砂に沈むことになります。<line-break>どうか、エステル様を捜してください。<line-break>あと１ケ月しかないんです。<line-break>お願いします、<value:$28>さん。<end>"
+english = "If Lady Esther does not return, then one month from now we will sink beneath the sand along with Ladras. Please find her. We have only one month left. I beg you, <value:$28>.<end>"
+
+["890015"]
+japanese = "ありがとうございます。<line-break>どうか、よろしくお願いします。<end>"
+english = "Thank you. We are counting on you.<end>"
+
+["890016"]
+japanese = "（反応した…。リベルダムから<line-break>\u3000そう遠くないダンジョンだな…。）<end>"
+english = "(It reacted... That dungeon isn't far from Liberdam...)<end>"
+
+["890017"]
+japanese = "大変だ、<value:$28>！<line-break>エステルがシャリにさらわれちゃった！<end>"
+english = "<value:$28>, it's terrible! Shalli kidnapped Esther!<end>"
+
+["890018"]
+japanese = "<value:$28>、<line-break>それは…？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>お姉ちゃんの首飾り…。<line-break>これでお姉ちゃんの居所が<line-break>わかるんだね？<end>"
+english = "<value:$28>, what's that...? Sis's necklace... We can use it to find out where she is, right?<end>"
+
+["890019"]
+japanese = "…竜骨の砂漠の真ん中…。<end>"
+english = "The middle of the Dragonbone Desert...<end>"
+
+["890020"]
+japanese = "ラドラスのあたりだよ？<line-break>どうなってるの？\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ねぇ、<value:$28>、<line-break>とにかく助けに行かなきゃ！<end>"
+english = "That's near Ladras, isn't it? What's going on? Come on, <value:$28>, we have to go save her!<end>"
+
+["890021"]
+japanese = "僕、とにかく、情報をあつめるよ。<line-break>用があったら猫屋敷で呼んで。じゃね！<end>"
+english = "I'll start gathering information. If you need me, call for me at Cat Manor. See you!<end>"
+
+["890022"]
+japanese = "<value:$28>様！<line-break>エステル様が、エステル様が！<line-break>シャリという魔術師にさらわれてしまいました！<end>"
+english = "<value:$28>! Lady Esther... Lady Esther has been kidnapped by a sorcerer named Shalli!<end>"
+
+["890023"]
+japanese = "それは…エステル様の首飾りの水晶…。\u3000\u3000<line-break>それがあればエステル様の居場所が<line-break>わかるはず…。<end>"
+english = "That is... the crystal from Lady Esther's necklace. With it, we should be able to find her...<end>"
+
+["890024"]
+japanese = "…竜骨の砂漠の真ん中…。<line-break>我らがラドラス…？\u3000バカな！\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "The middle of the Dragonbone Desert... Our Ladras...? Impossible!<end>"
+
+["890025"]
+japanese = "お姉ちゃんの首飾りが…。<line-break>これでお姉ちゃんの居所が<line-break>わかるんだね？<end>"
+english = "Sis's necklace... We can use it to find out where she is, right?<end>"
+
+["890026"]
+japanese = "…竜骨の砂漠の真ん中…。\u3000<line-break>ラドラスのあたりだよ？<line-break>どうなってるの？<line-break>ねぇ、<value:$28>、<line-break>とにかく助けに行かなきゃ！<end>"
+english = "The middle of the Dragonbone Desert... That's near Ladras, isn't it? What's going on? Come on, <value:$28>, we have to go save her!<end>"
+
+["890027"]
+japanese = "（…ここには確か、<line-break>\u3000地の精霊神の座所への道が…。）<end>"
+english = "(If I remember correctly, there is a path here leading to the Seat of the Earth Spirit God...)<end>"
+
+["890028"]
+japanese = "（エステルは、ここに、<line-break>\u3000いるのかもしれない…）<end>"
+english = "(Esther might be here...)<end>"
+
+["890029"]
+japanese = "ラドラスのチェックを受けている間は、<line-break>エステル様は外に出られないのです。<line-break>お待ちください。<end>"
+english = "Lady Esther cannot go outside while Ladras is carrying out its inspection. Please wait.<end>"
+
+["890030"]
+japanese = "おかげでチェックに間に合ったよ。<line-break>ありがとう、<value:$28>。<line-break>\u3000<line-break>ねぇ、ちょっと座って話そっか。<end>"
+english = "Thanks to you, I made it in time for the check. Thank you, <value:$28>. Hey, why don't we sit down and talk for a bit?<end>"
+
+["890031"]
+japanese = "あ、この衣装？<line-break>巫女の正装なんだ。<line-break>似合う？<end>"
+english = "Oh, this outfit? It's a priestess's formal dress. Does it suit me?<end>"
+
+["890032"]
+japanese = "えへへ、ありがと。<line-break>ねえ、座らない？<end>"
+english = "Hehe, thanks. Hey, want to sit down?<end>"
+
+["890033"]
+japanese = "チェックが終わったあと、<line-break>ボク、いつもここに来るんだ。<line-break>\u3000<line-break>ここは、ラドラスから外が見える<line-break>たったひとつの場所だから。<line-break>\u3000<end>"
+english = "I always come here after the check. It's the only place in Ladras where you can see the world outside.<end>"
+
+["890034"]
+japanese = "ラドラスはね、古代の魔道王国の<line-break>遺産のおかげで、砂漠の真ん中でも<line-break>生活できる環境が整えられているんだ。<line-break>だから飲み物にも食べ物にも<line-break>困ったことがない…。<line-break>\u3000<end>"
+english = "The legacy of the ancient magical kingdom makes Ladras livable even in the middle of the desert. We've never had to worry about food or drink...<end>"
+
+["890035"]
+japanese = "でもボクたちは、古代の魔道王国の遺産<line-break>っていうのが、他にどんなすごいことを<line-break>秘めているのか、知らないんだ。<line-break>動いているのも、このラドラスの<line-break>居住システムだけ。<line-break>他の魔道文明は眠ったまんまさ。<end>"
+english = "But we have no idea what other wonders the legacy of the ancient magical kingdom might hold. The only thing still operating is Ladras's habitation system. The rest of its magical civilization remains dormant.<end>"
+
+["890036"]
+japanese = "魔道王国の遺産は、魔道王国を支配した<line-break>４人の巫女の血を引く者が集まった時、<line-break>復活するという…。<line-break>ボクは一応、ここの族長なんだけど、<line-break>それでも、そういう巫女とか、<line-break>遺産とかのことはよく知らないんだ。<end>"
+english = "They say the legacy of the magical kingdom will awaken when the descendants of the four priestesses who ruled it come together... I'm supposed to be the chief here, but even I don't know much about those priestesses or the legacy.<end>"
+
+["890037"]
+japanese = "それでも復活の日まで、<line-break>ボクたちはこのラドラスに飼われて、<line-break>ここを守り続けなくちゃならない。<line-break>それが運命…ってやつ。<line-break><line-break><end>"
+english = "Even so, until the day it awakens, Ladras will keep us penned up here, and we'll have to go on guarding it. That's what they call fate...<end>"
+
+["890038"]
+japanese = "うんざりだ。<line-break>ボクはそんなことのためだけに<line-break>生きていくなんて気はない。<line-break>こんな所でずっと、誰かのために<line-break>埋もれて生きていくなんて…<line-break>がまんできないんだ。<end>"
+english = "I'm sick of it. I won't live my whole life just for that. I can't stand the thought of staying buried in a place like this forever, living for someone else...<end>"
+
+["890039"]
+japanese = "ね、また、一緒に旅をしよ？<line-break>いいでしょ？<line-break>\u3000<end>"
+english = "Hey, let's travel together again. All right?<end>"
+
+["890040"]
+japanese = "パーティーに加える<end>"
+english = "Add Esther to the party<end>"
+
+["890041"]
+japanese = "今はいい<end>"
+english = "Not right now<end>"
+
+["890042"]
+japanese = "がんばるからね。<line-break>出発するときに、合流するよ。<line-break>じゃあ、あとでね。<end>"
+english = "I'll do my best. I'll meet up with you when you're ready to leave. See you later.<end>"
+
+["890043"]
+japanese = "うん、わかった。<line-break>じゃあ、猫屋敷で呼んでね。<line-break>待ってるから。<end>"
+english = "All right. Then call for me at Cat Manor. I'll be waiting.<end>"
+
+["890044"]
+japanese = "じゃあ、猫屋敷で呼んでね。<line-break>待ってるから。<line-break>\u3000<end>"
+english = "Then call for me at Cat Manor. I'll be waiting.<end>"
+
+["890045"]
+japanese = "こんばんは、エステル。<line-break>ごきげんはいかが？<end>"
+english = "Good evening, Esther. How are you?<end>"
+
+["890046"]
+japanese = "シャリ！<end>"
+english = "Shalli!<end>"
+
+["890047"]
+japanese = "うわ、嫌われたもんだなあ。<line-break>僕は君に会うために<line-break>飛んできたってのにさ。<line-break>ねえ、エステル。<line-break>君って、<value:$28>の<line-break>役に立ってるの？<end>"
+english = "Wow, you really do hate me. And after I came flying all this way just to see you. Tell me, Esther―are you any use to <value:$28>?<end>"
+
+["890048"]
+japanese = "な…！<line-break>いきなり何を言い出すんだよ！？<end>"
+english = "Wh-what?! Where did that come from?!<end>"
+
+["890049"]
+japanese = "ほら、こうやって君はいつも<line-break><value:$28>に支えられてる。<line-break>もしかして、足手まといなんじゃない？<end>"
+english = "See? <value:$28> is always the one supporting you. Maybe you're just getting in the way.<end>"
+
+["890050"]
+japanese = "………………！<end>"
+english = "...!<end>"
+
+["890051"]
+japanese = "だから僕はね、エステル。<line-break>君の本当の力を引き出してあげたいと<line-break>思って、君を迎えに来たんだ。<line-break>君は古代魔道王国ラドラスの<line-break>４人の巫女のひとり、<line-break>ズゥの血を引く地の巫女なんだよ。<end>"
+english = "That's why I've come to take you with me, Esther. I want to bring out your true power. You're the Earth Maiden, descended from Zuu―one of the four maidens of the ancient Magic Kingdom Ladras.<end>"
+
+["890052"]
+japanese = "………………！？<end>"
+english = "…!?<end>"
+
+["890053"]
+japanese = "君は本当はすごい魔力を持っているし、<line-break>古代の魔道文明だってよみがえらせる<line-break>力を持っているんだよ。<line-break>なのに、君は全然それに気付かずに<line-break>そうやって毎日を過ごしてる。<end>"
+english = "You possess tremendous magical power. You even have the power to revive the ancient magical civilization. Yet you've gone on living day after day without ever realizing it.<end>"
+
+["890054"]
+japanese = "ありゃりゃ。<line-break>なんだか、エステル連れて行くのが\u3000<line-break>気まずい感じになっちゃったな。<line-break>ま、今はそんなに急いでないから<line-break>出なおしてくることにするよ。<line-break>じゃあねーん。<end>"
+english = "Whoops. Taking Esther with me now would be rather awkward. Well, I'm not in any great hurry, so I'll come back another time. See you!<end>"
+
+["890055"]
+japanese = "ボクが…地の巫女…？<line-break>魔道王国ラドラスの巫女…？<end>"
+english = "I'm... the Earth Maiden? A maiden of Magic Kingdom Ladras...?<end>"
+
+["890056"]
+japanese = "あ、アハハ…、ゴメン。<line-break>ちょっと、面食らっちゃった。<line-break>\u3000<line-break>シャリもいなくなったし<line-break>もう大丈夫だよ。<line-break>さ、寝よ寝よ。<end>"
+english = "Ah, haha... sorry. That caught me off guard. Shalli's gone now, so everything's fine. Come on, let's get some sleep.<end>"
+
+["890057"]
+japanese = "き、キミは…シャリ！！<end>"
+english = "Y-you're... Shalli!!<end>"
+
+["890058"]
+japanese = "空中都市ラドラス、<line-break>それを復活させるためには<line-break>４人の巫女が必要なんだ。<line-break>ねえ、エステル。<line-break>君が必要なんだ。<line-break>一緒に来てくれないかな？<end>"
+english = "It takes four priestesses to restore the Floating City Ladras. Esther, I need you. Won't you come with me?<end>"
+
+["890059"]
+japanese = "誰がキミなんかと！<line-break>絶対、お断りだよ！！<end>"
+english = "Like I'd ever go anywhere with you! Absolutely not!!<end>"
+
+["890060"]
+japanese = "大体、巫女ってなんだよ！？<line-break>ボクはそんなのじゃないよ！<end>"
+english = "And what's all this about priestesses!? I'm not one of them!<end>"
+
+["890061"]
+japanese = "あれ、まだ知らないんだっけ？<line-break>君って、古代の巫女の血を引く<line-break>ラドラスの地の巫女なんだよ。<end>"
+english = "Oh, you still don't know? You carry the blood of the ancient priestesses. You're the priestess of the land of Ladras.<end>"
+
+["890062"]
+japanese = "な！？<line-break>なんなんだよいきなり！！\u3000\u3000<line-break>\u3000<line-break>ボクはエステル！<line-break>確かにラドラス生まれだけど、<line-break>巫女なんて知るもんか！！<end>"
+english = "What!? Where did that come from!? I'm Esther! Sure, I was born in Ladras, but I don't know anything about being a priestess!!<end>"
+
+["890063"]
+japanese = "やれやれ、<line-break>君って僕のことを<line-break>ホントに邪険にするんだね。<line-break>でも、来てもらうよ。<line-break>空中都市ラドラスが飛ぶことは<line-break>願いだからね。<end>"
+english = "Honestly, you really don't want anything to do with me, do you? But you're coming anyway. The wish is for the Floating City Ladras to fly.<end>"
+
+["890064"]
+japanese = "ラドラスが…飛ぶ？<line-break>…空中都市だって？<line-break>そんなこと…。<line-break>…仮にキミの言ってることが<line-break>正しいとして、ラドラスを飛ばすことが<line-break>キミの願いなのか！？<end>"
+english = "Ladras... will fly? You mean it's really a Floating City? That's... Even if what you're saying is true, is making Ladras fly your wish!?<end>"
+
+["890065"]
+japanese = "…僕の願い？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ううん、違うよエステル。<line-break>僕に願いなんかはないよ。<line-break>これは君の祖先たちの願いさ。<line-break>これを飛ばすことを願いつつ消えた<line-break>幾千幾万もの生命の遠い願い…。<end>"
+english = "My wish? No, Esther. I don't have any wishes. This is the wish of your ancestors―the distant wish of the thousands upon tens of thousands of lives that vanished longing to see it fly...<end>"
+
+["890066"]
+japanese = "<value:$28>！！<end>"
+english = "<value:$28>!!<end>"
+
+["890067"]
+japanese = "やっぱり来たね、<value:$28>。<line-break>もうお互い全然新鮮味がないね。\u3000<line-break>こういう展開ってさ。<line-break>君は、僕がまた怪物を呼び出して<line-break>君と戦わせたりするって思ってる。<line-break>そうでしょ？<end>"
+english = "I knew you'd come, <value:$28>. This sort of thing has become rather predictable for both of us, hasn't it? You think I'm going to summon another monster and make you fight it. Am I right?<end>"
+
+["890068"]
+japanese = "でも、今回はちょっと趣向を変えて\u3000<line-break>そういうまどろっこしいのは<line-break>なしで行こうかな。<line-break>お互い、面倒なのはイヤでしょ？<line-break>じゃ、エステルはもらっていくから。<line-break>バイバ～イ。<end>"
+english = "But I think I'll change things up this time and skip all that tedious business. Neither of us wants the bother, right? So I'll just take Esther. Bye-bye!<end>"
+
+["890069"]
+japanese = "ハァイ、エステル。<line-break>相変わらず元気そうだね。<end>"
+english = "Hi, Esther. Looking lively as ever.<end>"
+
+["890070"]
+japanese = "…シャリ！<end>"
+english = "…Shalli!<end>"
+
+["890071"]
+japanese = "たゆまぬ努力のかいあって<line-break>他の巫女たちは僕の手に落ちたよ。<line-break>残るは、君だけさ。<end>"
+english = "Thanks to my tireless efforts, all the other priestesses have fallen into my hands. You're the only one left.<end>"
+
+["890072"]
+japanese = "ボクを…どうしようっていうんだ！？<end>"
+english = "What are you planning to do... with me?!<end>"
+
+["890073"]
+japanese = "大体、巫女ってなんだよ！？<line-break>ボクはそんなのじゃないよ！<end>"
+english = "And what's all this about priestesses?! I'm not one of them!<end>"
+
+["890074"]
+japanese = "あれ、まだ知らないんだっけ？<line-break>君って、古代の巫女の血を引く<line-break>ラドラスの地の巫女なんだよ。<end>"
+english = "Oh, you still don't know? You carry the blood of the ancient priestesses. You're the priestess of the land of Ladras.<end>"
+
+["890075"]
+japanese = "な！？<line-break>なんなんだよいきなり！！\u3000\u3000<line-break>\u3000<line-break>ボクはエステル！<line-break>確かにラドラス生まれだけど、<line-break>巫女なんて知るもんか！！<end>"
+english = "What?! Where did that come from?! I'm Esther! Sure, I was born in Ladras, but I don't know anything about being a priestess!<end>"
+
+["890076"]
+japanese = "ん～、なんか、もう<line-break>ゴチャゴチャ説明するのも<line-break>面倒になってきちゃったな。<line-break>君を連れて行く。<line-break>もう時間もないんだ。<end>"
+english = "Hmm... I'm getting tired of explaining all this. You're coming with me. There's no time left.<end>"
+
+["890077"]
+japanese = "また、君なの？\u3000ここで僕が怪物を<line-break>召還して、君たちが戦っているうちに<line-break>エステルをさらうってパターン？<line-break>いいかげん、飽きたよ。<line-break>そもそも、僕の実力なら<line-break>そんなことする必要ないからね。<end>"
+english = "You again? What, am I supposed to summon a monster here and abduct Esther while you fight it? I'm tired of that routine. With my power, there's no need for any of that.<end>"
+
+["890078"]
+japanese = "じゃ、最後の巫女は連れてくよ。<line-break>これで空中都市ラドラスは晴れて<line-break>大空に飛びたつことができる。<end>"
+english = "Well, I'll be taking the last priestess. Now the Floating City Ladras can finally take to the skies.<end>"
+
+["890079"]
+japanese = "…<value:$28>！<end>"
+english = "…<value:$28>!<end>"
+
+["890080"]
+japanese = "それじゃあ、<line-break>さようなら、<line-break><value:$28>。<end>"
+english = "Well then, goodbye, <value:$28>.<end>"
+
+["890081"]
+japanese = "<if><value:$01><equal>2<value:$28>、大変よ！<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>エステルが…<line-break>エステルがさらわれたの。<line-break>シャリに連れ去られたのよ！ <end><if><value:$01><equal>3<value:$28>、一大事じゃ！<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>エステルがさらわれた。<line-break>シャリに連れ去られたらしい！ <end><if><value:$01><equal>4<value:$28>、<line-break>ひょっとして大事件かも！\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>エステル様が誘拐されたって。<line-break>シャリに連れ去られたっていう話。 <end><if><value:$01><equal>5<value:$28>、<line-break>こんな所にいたのかよ！\u3000\u3000\u3000<line-break>\u3000<line-break>大変だ！<line-break>エステルがさらわれた。<line-break>シャリに連れ去られちまった！ <end><if><value:$01><equal>13…ここにいたか。<line-break>エステルがさらわれた。<line-break>シャリの仕業らしい。 <end><if><value:$01><equal>10姉ちゃん、大変だよ！\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>エステルがさらわれたんだ！<line-break>また、あのシャリの仕業だぜ！ <end><if><value:$01><equal>14<value:$28>、一大事じゃ！<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>エステルがさらわれた！<line-break>シャリに連れ去られたそうじゃ！ <end><if><value:$01><equal>15ねえ、<value:$28>、<line-break>大変だよ！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>エステルが…<line-break>エステルが連れ去られたんだ。<line-break>シャリにさらわれたんだよ！ <end><if><value:$01><equal>17<value:$28>！\u3000捜してよ！<line-break>まったく、アタクシに捜させるなんて<line-break>下等生物のくせに５００年早くてよ！<line-break>エステルが、さらわれちゃったのよ。<line-break>シャリに連れ去られたって話なのよー！ <end><if><value:$01><equal>19<value:$28>、<line-break><value:$28>！<line-break>大変だよぉ！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>エステルお姉ちゃんが…<line-break>エステルお姉ちゃんがね！<line-break>シャリにさらわれちゃったって。 <end><if><value:$01><equal>27大変だ、<value:$28>！<line-break>エステルがシャリにさらわれた！<end><if><value:$01><equal>26大変じゃ！\u3000大変じゃ！<line-break>エステルがシャリにさらわれた！<end><if><value:$01><equal>193<value:$28>さ～ん！<line-break>たたた大変です！<line-break>\u3000<line-break>エステルさんがシャリさんに<line-break>さらわれちゃいました！！<end><if><value:$01><equal>191<value:$28>大変よ！<line-break>\u3000<line-break>\u3000<line-break>エステルがさらわれたらしいわ。<line-break>シャリの仕業よ！<end><if><value:$01><equal>190こんなところにいたのか！<line-break>いいか、落ち着いて聞け。<line-break>\u3000<line-break>エステルがシャリにさらわれた。<end>ねぇ、<value:$28>！<line-break>大変だよぉ、大変だったらぁ！\u3000\u3000<line-break>\u3000<line-break>エステルが、<line-break>シャリにさらわれちゃったんだよ！ <end>"
+english = "<if><value:$01><equal>2<value:$28>, we've got trouble! Esther... Esther's been kidnapped. Shalli took her!<end><if><value:$01><equal>3<value:$28>, disaster has struck! Esther's been kidnapped. It seems Shalli took her!<end><if><value:$01><equal>4<value:$28>, this might be really serious! They say Lady Esther was kidnapped. Apparently Shalli took her.<end><if><value:$01><equal>5<value:$28>, so this is where you've been! We've got trouble! Esther's been kidnapped. Shalli took her!<end><if><value:$01><equal>13So this is where you were. Esther's been kidnapped. Shalli seems to be behind it.<end><if><value:$01><equal>10Sis, we've got trouble! Esther's been kidnapped! It's that Shalli again!<end><if><value:$01><equal>14<value:$28>, disaster has struck! Esther's been kidnapped! They say Shalli took her!<end><if><value:$01><equal>15Hey, <value:$28>, we've got trouble! Esther... Esther's been taken. Shalli kidnapped her!<end><if><value:$01><equal>17<value:$28>! You should be the one looking for me! The nerve of a lower life-form making me search for you! You're five hundred years too young for that! Esther's been kidnapped. I heard Shalli took her!<end><if><value:$01><equal>19<value:$28>, <value:$28>! This is awful! Esther... Esther, she... They say Shalli kidnapped her.<end><if><value:$01><equal>27We've got trouble, <value:$28>! Shalli kidnapped Esther!<end><if><value:$01><equal>26Disaster! Disaster! Shalli has kidnapped Esther!<end><if><value:$01><equal>193<value:$28>! Th-th-this is terrible! Esther's been kidnapped by Shalli!!<end><if><value:$01><equal>191<value:$28>, we've got trouble! It seems Esther's been kidnapped. Shalli did it!<end><if><value:$01><equal>190So this is where you were! Listen, and stay calm. Shalli has kidnapped Esther.<end>Hey, <value:$28>! It's awful, really awful! Shalli kidnapped Esther!<end>"
+
+["890082"]
+japanese = "これは…！<end>"
+english = "This is...!<end>"
+
+["890083"]
+japanese = "<if><value:$01><equal>2エステルの水晶？<line-break>これで、エステルの居場所が<line-break>わかるのね。<line-break>これは竜骨の砂漠…<line-break>ラドラスのあたり…！？ <end><if><value:$01><equal>3エステルの水晶か…！<line-break>こいつで、エステルの<line-break>居場所がわかるんじゃな！<line-break>竜骨の砂漠…！<line-break>ラドラスのあたりじゃな。 <end><if><value:$01><equal>4エステル様の水晶？<line-break>そっか、これでエステル様の<line-break>居場所がわかるかも！<line-break>きゃっ、何か映ってる！<line-break>…ええと、竜骨の砂漠…？<line-break>ラドラスのあたり…かな？ <end><if><value:$01><equal>5エステルの水晶？<line-break>そうか。こいつでエステルの<line-break>居場所がわかるんだったよな。<line-break>これは…、<line-break>ええと、竜骨の砂漠…<line-break>ラドラスじゃねえかよ！ <end><if><value:$01><equal>13エステルの水晶か…。<line-break>前にも使ったな。<line-break>今度はどこに捕まっている？<line-break>竜骨の砂漠が映っている。<line-break>…ラドラスか！？ <end><if><value:$01><equal>10さすが姉ちゃん！<line-break>その水晶があれば<line-break>エステルの居場所がわかるよな！<line-break>見ろよ！\u3000何か映ってるぜ。<line-break>これ…竜骨の砂漠だよな？<line-break>ほら、ラドラスだよ！ <end><if><value:$01><equal>14エステルの水晶か？<line-break>ガハハハ、忘れとった！<line-break>これでエステルの居場所がわかるの。<line-break>竜骨の砂漠が映っておるわい！<line-break>なるほど、わかったぞ！<line-break>ラドラスじゃ！ <end><if><value:$01><equal>15エステルの水晶！<line-break>それで、エステルの居場所が<line-break>わかるんだよね。<line-break>竜骨の砂漠が映ってる。<line-break>ラドラスのあたりだ！ <end><if><value:$01><equal>17水晶？\u3000エステルの？<line-break>そんなものが<line-break>ホントに役に立つかしら？<line-break>あら、確かに何か映っている…。<line-break>これは…、竜骨の砂漠だわ！<line-break>わかったわ、ラドラスなのね！ <end><if><value:$01><equal>19エステルお姉ちゃんの水晶！\u3000<line-break>それで、お姉ちゃんの居場所が<line-break>わかるんだよね。<line-break>わぁ、見て！\u3000何か映ってるよ！<line-break>えっと、これ竜骨の砂漠じゃない…？<line-break>ほら、ラドラスだよぉ！ <end><if><value:$01><equal>27エステルの水晶？<line-break>これは…竜骨の砂漠…？<line-break>そうか、ラドラスか！<end><if><value:$01><equal>26エステルの水晶か<line-break>これは、竜骨の砂漠…<line-break>ラドラスじゃな<end><if><value:$01><equal>193エステルさんの水晶…。<line-break>なるほど！<line-break>これで居場所がわかりますよ！<line-break>うーん、何か映ってますね…<line-break>これは…竜骨の砂漠…？<line-break>ここ、きっとラドラスです！<end><if><value:$01><equal>191さすが<value:$28>。<line-break>この水晶を使えば<line-break>エステルの居場所がわかるわね。<line-break>何か映ってるわ。<line-break>これは竜骨の砂漠…。<line-break>エステルはラドラスにいるのね。<end><if><value:$01><equal>190エステルの水晶？<line-break>それでエステルの居場所が<line-break>わかるのか。<line-break>何か見えるぞ。<line-break>これは竜骨の砂漠…？<line-break>そうか、ラドラスか！<end>エステルの水晶！\u3000\u3000\u3000<line-break>そっか、これでエステルの<line-break>居場所がわかるね。<line-break>見て、見て！\u3000何か映ってる。<line-break>竜骨の砂漠だよ、これ。<line-break>ほらラドラスがある…！ <end>"
+english = "<if><value:$01><equal>2Esther's Crystal? So this will show us where Esther is. That's the Dragonbone Desert... somewhere near Ladras?!<end><if><value:$01><equal>3Esther's Crystal...! This will tell us where Esther is! The Dragonbone Desert...! Around Ladras, then.<end><if><value:$01><equal>4Esther's Crystal? Oh, that's right! This might show us where Lady Esther is! Ah! Something's appearing! Um... is that the Dragonbone Desert? Somewhere near Ladras, maybe?<end><if><value:$01><equal>5Esther's Crystal? Oh, right. This thing can show us where Esther is. That's... uh, the Dragonbone Desert... That's Ladras!<end><if><value:$01><equal>13Esther's Crystal... We've used it before. Where is she being held this time? It's showing the Dragonbone Desert. Ladras?!<end><if><value:$01><equal>10That's my big sister! That crystal can show us where Esther is, right? Look! Something's appearing. That's the Dragonbone Desert, isn't it? See? There's Ladras!<end><if><value:$01><equal>14Esther's Crystal? Gahahaha! I'd forgotten all about it! This will show us where Esther is. It's showing the Dragonbone Desert! Ah, now I have it! Ladras!<end><if><value:$01><equal>15Esther's Crystal! That can show us where Esther is, right? It's showing the Dragonbone Desert. Somewhere near Ladras!<end><if><value:$01><equal>17A crystal? Esther's? Can that thing truly be of any use? Oh, something really is appearing... Why, that's the Dragonbone Desert! I have it―she's in Ladras!<end><if><value:$01><equal>19Esther's Crystal! That can show us where Esther is, right? Wow, look! Something's appearing! Um... isn't that the Dragonbone Desert? See? There's Ladras!<end><if><value:$01><equal>27Esther's Crystal? Is that... the Dragonbone Desert? So it's Ladras!<end><if><value:$01><equal>26Esther's Crystal, eh? That's the Dragonbone Desert... Ladras, then.<end><if><value:$01><equal>193Esther's Crystal... I see! This will show us where she is! Hmm, something's appearing... Is that the Dragonbone Desert? That must be Ladras!<end><if><value:$01><equal>191Well done, <value:$28>. We can use this crystal to find Esther. Something's appearing. That's the Dragonbone Desert... Esther is in Ladras.<end><if><value:$01><equal>190Esther's Crystal? This can show us where Esther is? I can see something. Is that the Dragonbone Desert? So it's Ladras!<end>Esther's Crystal! Oh, right! This can show us where Esther is. Look, look! Something's appearing. That's the Dragonbone Desert. See? There's Ladras...!<end>"
+
+["890084"]
+japanese = "<if><value:$01><equal>2シャリはいよいよ、<line-break>ラドラスで事を起こす気ね。<line-break>急ぎましょ。エステルが危ないわ。 <end><if><value:$01><equal>3エステルもシャリもラドラスじゃな。<line-break><value:$28>、急ごうぞ。<line-break>一刻も早くラドラスへ行かねば。 <end><if><value:$01><equal>4エステル様は捕らわれの身。\u3000\u3000\u3000\u3000<line-break>ラドラスで、王子様の助けを<line-break>待っているのね…。きゃっ！<line-break>でも、運命は残酷かも…。<line-break>助けに行くのは、王子様じゃなくて<line-break><value:$28>だったりするのね。 <end><if><value:$01><equal>5行こうぜ、<value:$28>！<line-break>エステルを助けるんだ。\u3000\u3000<line-break>\u3000<line-break>きっとエステルだって、<line-break>ラドラスで<line-break>俺たちの助けを待ってるぜ。 <end><if><value:$01><equal>13…やめておけ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>足手まといなのが<line-break>いなくなっただけだ…。<line-break>…と言っても、<line-break>お前は助けに行くのだろう？<line-break>仕方あるまい。 <end><if><value:$01><equal>10姉ちゃん、急ごうぜ。\u3000\u3000\u3000\u3000\u3000<line-break>早くしないと、<line-break>エステルが危ない。<line-break>何しろ、相手はシャリだからな。 <end><if><value:$01><equal>14一刻も早く、<line-break>ラドラスへ行かにゃならんぞ。\u3000<line-break>エステルを助けにの。<line-break>何しろ、相手はシャリじゃて。<line-break>ラドラスの魔道技術を使って<line-break>何をやらかしおるか…。 <end><if><value:$01><equal>15行こうよ、ラドラスへ。<line-break>エステルを助けなきゃ。 <end><if><value:$01><equal>17わかったわ！\u3000ピンときたわ！<line-break>さすが、アタクシは高貴なエルフだわ！<line-break>シャリのねらいはラドラスよ！<line-break>そう、その魔道技術を手に入れるため<line-break>エステルをさらったのだわ！<line-break>行くのよー！\u3000ラドラスへ！ <end><if><value:$01><equal>19急ごうよ、<value:$28>。<line-break>エステルお姉ちゃんを\u3000\u3000<line-break>助けなくちゃ！<line-break>ラドラスに行かなくちゃ！ <end><if><value:$01><equal>27急ごう、<value:$28>。<line-break>ラドラスへ！<end><if><value:$01><equal>26急ぐのじゃ！<line-break>シャリめ、何をするつもりじゃ？<end><if><value:$01><equal>193急ぎましょう<value:$28>さん！<line-break>絶対にエステルさんを助けないと！<end><if><value:$01><equal>191行きましょ、<value:$28>。<line-break>早くエステルを助けないと<line-break>シャリが何をするか…！<end><if><value:$01><equal>190エステルを助けにいくぞ！<line-break>急がないとシャリが何をするか…。<end>ラドラスへ行くんでしょ？<line-break>エステルを助けに。<line-break>\u3000<line-break>急がないとね。<line-break>相手はシャリだから。 <end>"
+english = "<if><value:$01><equal>2Shalli is finally about to make his move in Ladras. Let's hurry. Esther is in danger.<end><if><value:$01><equal>3Esther and Shalli are both in Ladras. We must hurry, <value:$28>. We have to reach Ladras as quickly as we can.<end><if><value:$01><equal>4Lady Esther is a captive, waiting in Ladras for a prince to rescue her... Ah! But fate can be cruel. Perhaps it won't be a prince who comes to her rescue, but <value:$28>.<end><if><value:$01><equal>5Come on, <value:$28>! We're going to save Esther. I'm sure she's waiting for us to rescue her in Ladras.<end><if><value:$01><equal>13Leave it. We're merely rid of some deadweight... Though you'll go to the rescue regardless, won't you? Very well.<end><if><value:$01><equal>10Come on, sis, we have to hurry. Esther will be in danger if we don't get there soon. She's dealing with Shalli, after all.<end><if><value:$01><equal>14We must make haste for Ladras and rescue Esther. Shalli is our foe, after all. Who knows what he might do with Ladras's magical technology...<end><if><value:$01><equal>15Come on, let's go to Ladras. We have to save Esther.<end><if><value:$01><equal>17I've got it! It all makes sense! Of course it does―I'm a noble Elf! Shalli is after Ladras! Yes, he kidnapped Esther so he could seize its magical technology! To Ladras!<end><if><value:$01><equal>19We have to hurry, <value:$28>. We have to save Esther! We have to get to Ladras!<end><if><value:$01><equal>27Let's hurry, <value:$28>. To Ladras!<end><if><value:$01><equal>26Make haste! What is that wretch Shalli planning?<end><if><value:$01><equal>193We have to hurry, <value:$28>! We absolutely must save Esther!<end><if><value:$01><equal>191Let's go, <value:$28>. We have to hurry and save Esther. Who knows what Shalli might do...!<end><if><value:$01><equal>190We're going to save Esther! We have to hurry. Who knows what Shalli might do...<end>We're going to Ladras to save Esther, aren't we? We'd better hurry. We're dealing with Shalli, after all.<end>"
+
+["890085"]
+japanese = "<if><value:$01><equal>2いつものように、<line-break>町を出るときに合流しましょ！ <end><if><value:$01><equal>3いつものように、<line-break>町を出るときに合流じゃ！ <end><if><value:$01><equal>4エステル様…<line-break>なんか…かわいそうかも！<line-break>きゃっ！<line-break>それじゃ、準備してこよっと！<line-break>町を出たところで合流ね！ <end><if><value:$01><equal>5いつものように、<line-break>町を出るときに合流だ！<line-break>お前も急げよ！ <end><if><value:$01><equal>13急げ。<line-break>町を出るときに<line-break>合流する。 <end><if><value:$01><equal>10それじゃ、準備してくる！<line-break>町を出たところで合流だな！ <end><if><value:$01><equal>14それでは、<line-break>準備してくるぞい！<line-break>町を出たところで合流じゃ！ <end><if><value:$01><equal>15いつものように、<line-break>町を出るときに合流だね！<line-break>急いで！ <end><if><value:$01><equal>17…何よ。その、当たり前だ、<line-break>少しは人の話も聞きなさい、<line-break>って感じの冷ややかなマナザシは…。<line-break>ハハン、アタクシの才能への嫉妬？<line-break>とにかく、グズグズしてないで<line-break>早く準備してくるのよぉ！ <end><if><value:$01><equal>19それじゃあ、いつものように、<line-break>町を出るときに合流だね！ <end><if><value:$01><equal>27それじゃあ、いつものように、<line-break>町から出るときに合流だね<end><if><value:$01><equal>26いつものように、<line-break>町を出るときに合流じゃな！ <end><if><value:$01><equal>193いつものように、<line-break>町を出るときに合流しましょう！ <end><if><value:$01><equal>191いつものように、<line-break>町を出るときに合流するわよ！ <end><if><value:$01><equal>190いつものように、<line-break>町を出るときに合流するぞ！ <end>それじゃあ、いつものように<line-break>町を出るときに合流しよう！ <end>"
+english = "<if><value:$01><equal>2We'll meet up when we leave town, as usual!<end><if><value:$01><equal>3We'll meet when we leave town, as usual!<end><if><value:$01><equal>4Lady Esther... I kind of feel sorry for her! Oh! I'd better go get ready! We'll meet just outside town!<end><if><value:$01><equal>5We'll meet up when we leave town, as usual! You'd better hurry too!<end><if><value:$01><equal>13Hurry. We'll meet when we leave town.<end><if><value:$01><equal>10I'll go get ready! We'll meet just outside town!<end><if><value:$01><equal>14Well then, I'll go get ready! We'll meet just outside town!<end><if><value:$01><equal>15We'll meet up when we leave town, as usual! Hurry!<end><if><value:$01><equal>17What? What's with that cold look that says, “Obviously. And try listening to someone else for once”? Hah! Jealous of my talent? In any case, stop dawdling and hurry up and get ready!<end><if><value:$01><equal>19Then we'll meet up when we leave town, as usual!<end><if><value:$01><equal>27Then we'll meet up when we leave town, as usual.<end><if><value:$01><equal>26We'll meet when we leave town, as usual!<end><if><value:$01><equal>193We'll meet up when we leave town, as usual!<end><if><value:$01><equal>191We'll meet up when we leave town, as usual!<end><if><value:$01><equal>190We'll meet up when we leave town, as usual!<end>Then we'll meet up when we leave town, as usual!<end>"
+
+["890086"]
+japanese = "<if><value:$01><equal>2エステルの水晶？<line-break>これで、エステルの居場所が<line-break>わかるの？<line-break>これは…竜骨の砂漠…？<line-break>何かしら、この塔は…。 <end><if><value:$01><equal>3エステルの水晶か…！<line-break>こいつで、エステルの<line-break>居場所がわかるかもしれんな。<line-break>竜骨の砂漠…じゃと…？<line-break>この塔の群はなんじゃ…。 <end><if><value:$01><equal>4エステル様の水晶？<line-break>そっか、これでエステル様の<line-break>居場所がわかるかも！<line-break>きゃっ、何か映ってる！<line-break>…ええと、竜骨の砂漠…？<line-break>なんか、変な塔がいっぱい！ <end><if><value:$01><equal>5エステルの水晶？\u3000\u3000\u3000<line-break>こんなんでエステルの<line-break>居場所がわかるのかよ。<line-break>これは…、<line-break>ええと、竜骨の砂漠…？<line-break>おい、これであってんのかよ？ <end><if><value:$01><equal>13水晶だと…？<line-break>それで、あのうざったい女の<line-break>行方がわかるのか？<line-break>竜骨の砂漠が映っている。<line-break>…なんだ、この塔の群は。 <end><if><value:$01><equal>10さすが姉ちゃん！<line-break>その水晶で<line-break>エステルを捜すんだ！\u3000\u3000\u3000<line-break>やったぜ！\u3000<line-break>何か映ってるぜ。<line-break>ええと、これ…竜骨の砂漠？ <end><if><value:$01><equal>14エステルの水晶？<line-break>こんなんで、いったい、<line-break>エステルの居場所がわかるのかの。<line-break>したり！<line-break>竜骨の砂漠が映っておるわい！<line-break>ここにいるのじゃな！ <end><if><value:$01><equal>15エステルの水晶？<line-break>それで、エステルの居場所が\u3000\u3000\u3000<line-break>わかるんだね。<line-break>…竜骨の砂漠が映ってる。<line-break>あと、塔の群も…。<line-break>ねえ、彼女はここにいるのかな…。 <end><if><value:$01><equal>17水晶？\u3000エステルの？<line-break>そんなものが<line-break>ホントに役に立つかしら？<line-break>あら、確かに何か映っている…。<line-break>これは…、竜骨の砂漠だわ！<line-break>塔の群…？\u3000何よ、これ！？ <end><if><value:$01><equal>19エステルお姉ちゃんの水晶！\u3000<line-break>それで、お姉ちゃんの居場所が<line-break>わかるかもしれないよ。<line-break>わぁ、見て！\u3000何か映ってるよ！<line-break>えっと、これ竜骨の砂漠だよぉ！\u3000\u3000<line-break>たくさん、塔が立ってる。 <end><if><value:$01><equal>27エステルの水晶？<line-break>映っているのは…竜骨の砂漠だな。<line-break>しかし…塔の群はいったい… <end><if><value:$01><equal>26エステルの水晶じゃと？<line-break>何か映っているな。<line-break> <line-break>これは…、竜骨の砂漠じゃ！<line-break>しかし…なんなのじゃ？<line-break>この塔の群は…。 <end><if><value:$01><equal>193エステルさんの水晶…。<line-break>なるほど！<line-break>これで居場所がわかりますよ！<line-break>うーん、何か映ってますね…<line-break>これは…竜骨の砂漠…？<line-break>でもなんでしょう、この塔…<end><if><value:$01><equal>191さすが<value:$28>。<line-break>この水晶を使えば<line-break>エステルの居場所がわかるわね。<line-break>何か映ってるわ。<line-break>これは竜骨の砂漠…？<line-break>でもなに、この塔の群れは…？<end><if><value:$01><equal>190エステルの水晶？<line-break>それでエステルの居場所が<line-break>わかるのか。<line-break>何か見えるぞ。<line-break>これは竜骨の砂漠…？<line-break>だが、なんだこの塔の群は…。<end>エステルの水晶！\u3000\u3000\u3000\u3000\u3000\u3000<line-break>そっか、これでエステルの<line-break>居場所がわかるかもね。<line-break>見て、見て！\u3000何か映ってる。<line-break>竜骨の砂漠だよ。それに、塔の群…。<line-break>神話の歌にある空中都市かも…！ <end>"
+english = "<if><value:$01><equal>2Esther's Crystal? Can this tell us where Esther is? Is this... the Dragonbone Desert? What are these towers...?<end><if><value:$01><equal>3Esther's Crystal...! This might tell us where Esther is. The Dragonbone Desert...? And what is this cluster of towers...?<end><if><value:$01><equal>4Esther's Crystal? Oh, right! Maybe this can tell us where Lady Esther is! Ah! Something's appearing! Um... is that the Dragonbone Desert? There are strange towers everywhere!<end><if><value:$01><equal>5Esther's Crystal? This little thing can tell us where Esther is? That's... um, the Dragonbone Desert? Hey, are we sure this thing's right?<end><if><value:$01><equal>13A crystal...? That can tell us where that irritating woman went? It's showing the Dragonbone Desert. What is this cluster of towers?<end><if><value:$01><equal>10I knew you could do it, Sis! You're going to use that crystal to find Esther! All right! Something's showing up. Uh, is this... the Dragonbone Desert?<end><if><value:$01><equal>14Esther's Crystal? Can such a thing truly tell us where Esther is? Aha! It shows the Dragonbone Desert! So that is where she is!<end><if><value:$01><equal>15Esther's Crystal? So this can tell us where Esther is. It's showing the Dragonbone Desert... and a cluster of towers. Do you think she's there...?<end><if><value:$01><equal>17A crystal? Esther's? Can such a thing truly be of any use? Oh, something really is appearing... This is the Dragonbone Desert! A cluster of towers...? What is this!?<end><if><value:$01><equal>19Esther's Crystal! Maybe this can tell us where she is. Wow, look! Something's appearing! Um, that's the Dragonbone Desert! And there are lots of towers.<end><if><value:$01><equal>27Esther's Crystal? It's showing... the Dragonbone Desert. But what is that cluster of towers...?<end><if><value:$01><equal>26Esther's Crystal, you say? Something is appearing. Why, this is the Dragonbone Desert! But what is this cluster of towers...?<end><if><value:$01><equal>193Esther's Crystal... Of course! This will tell us where she is! Hmm, something's appearing... Is that the Dragonbone Desert? But what is this tower...?<end><if><value:$01><equal>191I knew you could do it, <value:$28>. We can use Esther's Crystal to find her. Something's appearing. Is that the Dragonbone Desert? But what is this cluster of towers...?<end><if><value:$01><equal>190Esther's Crystal? Can it tell us where Esther is? I can see something. Is that the Dragonbone Desert? But what is this cluster of towers...?<end>Esther's Crystal! Oh, right! Maybe this can tell us where Esther is. Look, look! Something's appearing. It's the Dragonbone Desert, and there's a cluster of towers... Could it be the Floating City sung of in legend...?<end>"
+
+["890087"]
+japanese = "<if><value:$01><equal>2<value:$28>、急ぎましょ。<line-break>エステルが危ないわ。<line-break>…なんだか、そんな予感がするの。\u3000\u3000<line-break>誘拐されてるから危ないのは当然だけど<line-break>それだけじゃなくて…。<line-break>この塔で大変なことが起こりそうな…。 <end><if><value:$01><equal>3<value:$28>、急ごうぞ。<line-break>一刻も早くこの塔の群へ行かねば。 <end><if><value:$01><equal>4エステル様は捕らわれの身。\u3000\u3000\u3000\u3000<line-break>この塔で、王子様の助けを<line-break>待っているのね…。きゃっ！<line-break>でも、運命は残酷かも…。<line-break>助けに行くのは、王子様じゃなくて<line-break><value:$28>だったりするのね。 <end><if><value:$01><equal>5行こうぜ、<value:$28>！<line-break>エステルを助けるんだ。\u3000\u3000<line-break>\u3000<line-break>きっとエステルだって、<line-break>竜骨の砂漠の真ん中で<line-break>俺たちの助けを待ってるぜ。 <end><if><value:$01><equal>13…やめておけ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>足手まといなのが<line-break>いなくなっただけだ…。<line-break>…と言っても、<line-break>お前は助けに行くのだろう？<line-break>仕方あるまい。 <end><if><value:$01><equal>10姉ちゃん、急ごうぜ。\u3000\u3000\u3000\u3000\u3000<line-break>早くしないと、<line-break>エステルが危ない。<line-break>何しろ、相手はシャリだからな。 <end><if><value:$01><equal>14一刻も早く、<line-break>あそこへ行かにゃならんぞ。\u3000\u3000<line-break>エステルを助けにの。<line-break>何しろ、相手はシャリじゃて。<line-break>何をやらかしおるか…。 <end><if><value:$01><equal>15とにかく、行こうよ。<line-break>エステルを助けなきゃ。 <end><if><value:$01><equal>17わかったわ！\u3000ピンときたわ！<line-break>さすが、アタクシは高貴なエルフだわ！<line-break>シャリのねらいはあの塔よ！<line-break>そして、そうよそうよ、そうなのよ！<line-break>エステルもあの塔と何か関係があるの！<line-break>行くのよぉ！\u3000ラドラスへ！ <end><if><value:$01><equal>19急ごうよ、<value:$28>。<line-break>エステルお姉ちゃんを\u3000\u3000<line-break>助けなくちゃ！ <end><if><value:$01><equal>27急ごう、<value:$28>。<line-break>ラドラスへ！<end><if><value:$01><equal>26急ぐのじゃ！<line-break>シャリめ、何をするつもりじゃ？<end><if><value:$01><equal>193急ぎましょう<value:$28>さん！<line-break>絶対にエステルさんを助けないと！<end><if><value:$01><equal>191行きましょ、<value:$28>。<line-break>早くエステルを助けないと<line-break>シャリが何をするか…！<end><if><value:$01><equal>190エステルを助けにいくぞ！<line-break>急がないとシャリが何をしだすか…。<end>竜骨の砂漠へ行くんでしょ？<line-break>エステルを捜しに。<line-break>\u3000<line-break>急がないとね。<line-break>相手はシャリだから。 <end>"
+english = "<if><value:$01><equal>2We have to hurry, <value:$28>. Esther's in danger. I just have this feeling. Of course she's in danger if she's been kidnapped, but there's more to it than that... I feel as if something terrible is about to happen in this tower...<end><if><value:$01><equal>3We must hurry, <value:$28>. We must reach those towers as swiftly as we can.<end><if><value:$01><equal>4Lady Esther is a captive, waiting in that tower for a prince to rescue her... Oh! But fate can be so cruel. Instead of a prince, she may find <value:$28> coming to her rescue.<end><if><value:$01><equal>5Let's go, <value:$28>! We've got to save Esther. I'm sure she's waiting for us to rescue her, right in the middle of the Dragonbone Desert.<end><if><value:$01><equal>13Forget it. We're simply rid of dead weight... Still, you're going to rescue her anyway, aren't you? Fine.<end><if><value:$01><equal>10Let's hurry, Sis. Esther will be in danger if we don't get there soon. Shalli's the one we're dealing with, after all.<end><if><value:$01><equal>14We must get there as swiftly as we can and rescue Esther. Shalli is the one we're dealing with. Who knows what he might do...<end><if><value:$01><equal>15Come on, let's go. We have to save Esther.<end><if><value:$01><equal>17I've got it! It just came to me! Of course it did―I am a noble Elf! Shalli is after that tower! And yes, yes, that's it! Esther has some connection to it too! We're going to Ladras!<end><if><value:$01><equal>19Let's hurry, <value:$28>. We have to save Esther!<end><if><value:$01><equal>27Let's hurry, <value:$28>. To Ladras!<end><if><value:$01><equal>26Hurry! What is that wretch Shalli plotting?<end><if><value:$01><equal>193We have to hurry, <value:$28>! We absolutely must save Esther!<end><if><value:$01><equal>191Let's go, <value:$28>. If we don't save Esther quickly, who knows what Shalli might do...!<end><if><value:$01><equal>190We're going to rescue Esther! If we don't hurry, who knows what Shalli might do...<end>You're going to the Dragonbone Desert, aren't you? To look for Esther. We'd better hurry. We're up against Shalli.<end>"
+
+["890088"]
+japanese = "<if><value:$01><equal>2いつものように、<line-break>町を出るときに合流しましょ！ <end><if><value:$01><equal>3いつものように、<line-break>町を出るときに合流じゃ！ <end><if><value:$01><equal>4エステル様…<line-break>なんか…かわいそうかも！<line-break>きゃっ！<line-break>それじゃ、準備してこよっと！<line-break>街を出たところで合流ね！ <end><if><value:$01><equal>5いつものように、<line-break>町を出るときに合流だ！<line-break>お前も急げよ！ <end><if><value:$01><equal>13急げ。<line-break>町を出るときに<line-break>合流する。 <end><if><value:$01><equal>10それじゃ、準備してくる！<line-break>街を出たところで合流だな！ <end><if><value:$01><equal>14それでは、<line-break>準備してくるぞい！<line-break>街を出たところで合流じゃ！ <end><if><value:$01><equal>15いつものように、<line-break>町を出るときに合流だね！<line-break>急いで！ <end><if><value:$01><equal>17…何よ。<line-break>その、当てずっぽうじゃない？<line-break>って感じの冷ややかなマナザシは…。<line-break>ハハン、アタクシの才能への嫉妬？<line-break>とにかく、グズグズしてないで<line-break>早く準備してくるのよー！ <end><if><value:$01><equal>19それじゃあ、いつものように、<line-break>町を出るときに合流だね！ <end><if><value:$01><equal>27それでは、いつものように、<line-break>町から出るときに合流しよう。<end><if><value:$01><equal>26いつものように、<line-break>町を出るときに合流じゃな！ <end><if><value:$01><equal>193いつものように、<line-break>町を出るときに合流しましょう！ <end><if><value:$01><equal>191いつものように、<line-break>町を出るときに合流するわよ！ <end><if><value:$01><equal>190いつものように、<line-break>町を出るときに合流するぞ！ <end>それじゃあ、いつものように<line-break>町を出るときに合流しよう！ <end>"
+english = "<if><value:$01><equal>2We'll meet up when we leave town, as usual!<end><if><value:$01><equal>3We'll meet when we leave town, as usual!<end><if><value:$01><equal>4Lady Esther... I kind of feel sorry for her! Oh! I'd better go get ready! We'll meet just outside town!<end><if><value:$01><equal>5We'll meet up when we leave town, as usual! You'd better hurry too!<end><if><value:$01><equal>13Hurry. We'll meet when we leave town.<end><if><value:$01><equal>10I'll go get ready! We'll meet just outside town!<end><if><value:$01><equal>14Well then, I'll go get ready! We'll meet just outside town!<end><if><value:$01><equal>15We'll meet up when we leave town, as usual! Hurry!<end><if><value:$01><equal>17What? What's with that cold look that says, “You're just guessing, aren't you?” Hah! Jealous of my talent? In any case, stop dawdling and hurry up and get ready!<end><if><value:$01><equal>19Then we'll meet up when we leave town, as usual!<end><if><value:$01><equal>27Then we'll meet up when we leave town, as usual.<end><if><value:$01><equal>26We'll meet when we leave town, as usual!<end><if><value:$01><equal>193We'll meet up when we leave town, as usual!<end><if><value:$01><equal>191We'll meet up when we leave town, as usual!<end><if><value:$01><equal>190We'll meet up when we leave town, as usual!<end>Then we'll meet up when we leave town, as usual!<end>"
+
+["890089"]
+japanese = "あんた、<value:$28>さんだね？<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "You're <value:$28>, right?<end>"
+
+["890090"]
+japanese = "同じ冒険者のよしみで、<line-break>ひとつ教えてやろうと思ってな。\u3000<line-break>\u3000<line-break>エステルって娘、<line-break>あんたの仲間だろう？<end>"
+english = "As one adventurer to another, I thought I'd let you know something. Esther's one of your companions, right?<end>"
+
+["890091"]
+japanese = "彼女、どうやら、<line-break>厄介ごとに巻き込まれたようだぜ。<line-break>\u3000<line-break>シャリって魔道士が、<line-break>彼女を無理やり連れていくのを<line-break>見かけたよ。<end>"
+english = "Looks like she's gotten mixed up in some trouble. I saw a mage named Shalli forcing her to go with him.<end>"
+
+["890092"]
+japanese = "俺の話はそれだけだ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "That's all I have to say.<end>"
+
+["890093"]
+japanese = "（エステル…！）<end>"
+english = "(Esther...!)<end>"
+
+["890094"]
+japanese = "（エステルの水晶に<line-break>\u3000何か映ってる。）<line-break>\u3000<line-break>（…竜骨の砂漠…<line-break>\u3000塔の群…。）<end>"
+english = "(Something's appearing in Esther's Crystal.) (The Dragonbone Desert... a cluster of towers...)<end>"
+
+["890095"]
+japanese = "（とにかく、助けに行かないと…！）<end>"
+english = "(I have to go save her...!)<end>"
+
+["890096"]
+japanese = "<value:$28>様！！<end>"
+english = "<value:$28>!!<end>"
+
+["890097"]
+japanese = "<value:$28>様！<line-break>エステル様が、エステル様が！<line-break>\u3000<line-break>シャリという魔術師に<line-break>さらわれてしまいました！<end>"
+english = "<value:$28>! Esther―Esther's been abducted by a sorcerer named Shalli!<end>"
+
+["890098"]
+japanese = "我々がいつものように<line-break>エステル様を迎えに行った<line-break>その目の前で……！\u3000\u3000\u3000\u3000\u3000\u3000<line-break>我ながら、なんという…失態…！<end>"
+english = "We went to meet Esther as usual, and she was abducted right before our eyes...! What an... utter failure on our part...!<end>"
+
+["890099"]
+japanese = "もはや、頼みの綱は<line-break><value:$28>様だけなのです！！<end>"
+english = "You are our only hope now, <value:$28>!!<end>"
+
+["890100"]
+japanese = "お願いです！<line-break>エステル様を助け出してください！！<end>"
+english = "Please! You must rescue Esther!!<end>"
+
+["890101"]
+japanese = "それは…エステル様の水晶…。<line-break>すばらしい！\u3000そこに映る風景で<line-break>エステル様の居場所がわかるかも！！<end>"
+english = "That is Esther's crystal... Wonderful! The scene reflected in it may show us where she is!!<end>"
+
+["890102"]
+japanese = "これは…竜骨の砂漠……。<line-break>バカな！<line-break>我らのラドラスに……！？<end>"
+english = "This is... the Dragonbone Desert... Impossible! In our Ladras...!?<end>"
+
+["890103"]
+japanese = "いや、この水晶がラドラスを映すなら<line-break>我々はラドラスに戻るべきだろう。<line-break>\u3000<line-break><value:$28>様も、是非<line-break>ラドラスまで来て、我々に<line-break>力をお貸しください。<end>"
+english = "No. If the crystal is showing Ladras, then we should return there. Please come to Ladras as well, <value:$28>, and lend us your aid.<end>"
+
+["890104"]
+japanese = "よし、では行くぞ。<end>"
+english = "Good. Let us be off.<end>"
+
+["890105"]
+japanese = "（エステルの水晶に<line-break>\u3000何か映ってる。）<line-break>\u3000<line-break>（…竜骨の砂漠…<line-break>\u3000ラドラス…！）<end>"
+english = "(Something's showing in Esther's Crystal.) (...The Dragonbone Desert... Ladras...!)<end>"
+
+["890106"]
+japanese = "（…ここに<line-break>\u3000エステルがいる！？）<end>"
+english = "(...Esther's here?!)<end>"
+
+["890107"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000 \u3000\u3000汝は…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000なるほど。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者か…。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000汝に頼みがある。<end>"
+english = "You are... I see. The Bearer of the Infinite Soul... Bearer of the Infinite Soul, I have a favor to ask of you.<end>"
+
+["890108"]
+japanese = "\u3000\u3000\u3000\u3000\u3000ここより先に、<line-break>\u3000\u3000フルーヴという巨人がおる。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000汝の力で葬ってくれ。<line-break>\u3000 \u3000あ奴は我の力を妨げる。<line-break>\u3000\u3000\u3000不要な存在なのだ…。<end>"
+english = "Beyond this place dwells a giant called Fluve. Bury it with your power. That creature impedes my power. Its existence serves no purpose...<end>"
+
+["890109"]
+japanese = "わかった<end>"
+english = "All right.<end>"
+
+["890110"]
+japanese = "関係ない<end>"
+english = "Not my problem.<end>"
+
+["890111"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よし。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000では我は、汝を<line-break>\u3000\u3000\u3000\u3000\u3000\u3000 精霊の座へと導かん。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000 \u3000汝、気高き地の光を越え<line-break>\u3000\u3000\u3000\u3000 \u3000\u3000彼の巨人に挑むがよい。<line-break>\u3000\u3000\u3000\u3000  \u3000挑み、打ち破るがよい…。<end>"
+english = "Good. I shall guide you to the Seat of the Spirits. Pass beyond the noble light of earth and face that giant. Challenge it, and strike it down...<end>"
+
+["890112"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000そうか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ならば無理強いはすまい。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000うつろいやすき人の子よ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000気が変わったならば<line-break>\u3000\u3000\u3000\u3000\u3000\u3000また我を訪ねるがよい。<end>"
+english = "I see. Then I shall not force the matter. Inconstant child of man, if you change your mind, come and seek me again.<end>"
+
+["890113"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000どうした？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000巨人を前に臆したか？<end>"
+english = "What is it? Have you lost your nerve before the giant?<end>"
+
+["890114"]
+japanese = "そんなことはない<end>"
+english = "Not at all.<end>"
+
+["890115"]
+japanese = "やめておこうかな<end>"
+english = "Maybe I should call it off.<end>"
+
+["890116"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000ならば行くがよい。\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Then go.<end>"
+
+["890117"]
+japanese = "フン…貴様、<line-break>無限のソウルを持つ者か…。<line-break>\u3000<line-break>グラジェオンめ…、<line-break>闇の力の高まりを知り<line-break>我を滅ぼさんと欲したか。<end>"
+english = "Hmph... So you are the Bearer of the Infinite Soul. Curse you, Grajeon... You sensed the growing power of darkness and sought to destroy me?<end>"
+
+["890118"]
+japanese = "しかし、汝ごときに倒される<line-break>このフルーヴではない。<line-break>来るがよい！！<end>"
+english = "But Furuve will not fall to the likes of you. Come!<end>"
+
+["890119"]
+japanese = "愚かなり、無限のソウルを持つ者よ。<line-break>精霊神に躍らされ、<line-break>我を撃ち、闇を呼ぶか…。<line-break>愚かなり…愚かなり…。<end>"
+english = "Foolish Bearer of the Infinite Soul. Made to dance to the Spirit God's tune, you strike me down and call forth darkness...? Foolish... How foolish.<end>"
+
+["890120"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よくやった…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…。<end>"
+english = "Well done... Bearer of the Infinite Soul...<end>"
+
+["890121"]
+japanese = "\u3000\u3000\u3000\u3000よくぞ、巨人フルーヴを倒した。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000礼を言うぞ。<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…。<end>"
+english = "You have done well to defeat Giant Fleuve. You have my thanks, Bearer of the Infinite Soul...<end>"
+
+["890122"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000さあ、再び行くがよい。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000汝のなすべき旅の道へ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000さらばだ。<end>"
+english = "Now go forth once more, along the path you are meant to travel. Farewell.<end>"
+
+["890123"]
+japanese = " \u3000\u3000\u3000来たか、無限のソウルを持つ者よ…。\u3000\u3000<line-break> \u3000\u3000\u3000\u3000ならば、我は今一度汝に乞う。<line-break>  \u3000\u3000\u3000彼の巨人を倒してはくれまいか？<end>"
+english = "So, you have come, Bearer of the Infinite Soul... Then I beseech you once more: will you defeat that giant?<end>"
+
+["890124"]
+japanese = "しょうがない<end>"
+english = "Fine.<end>"
+
+["890125"]
+japanese = "関係ない<end>"
+english = "Not my problem.<end>"
+
+["890126"]
+japanese = "族長不在のとき、ラドラスが沈むのも<line-break>族長が巫女の血を引く<line-break>ラドラスの守だからさ。<end>"
+english = "Ladras sinks whenever the chieftain is away because the chieftain is the Guardian of Ladras, descended from a maiden's bloodline.<end>"
+
+["890127"]
+japanese = "予備メッセージ２<line-break>エステルのＶ４だよ。<end>"
+english = ""
+
+["890128"]
+japanese = "予備メッセージ３<line-break>エステルのＶ４だよ。<end>"
+english = ""
+
+["890129"]
+japanese = "予備メッセージ４<line-break>エステルのＶ４だよ。<end>"
+english = ""
+
+["890130"]
+japanese = "予備メッセージ５<line-break>エステルのＶ４だよ。<end>"
+english = ""
+
+["890131"]
+japanese = "予備メッセージ６<line-break>エステルのＶ４だよ。<end>"
+english = ""
+
+["890132"]
+japanese = "予備メッセージ７<line-break>エステルのＶ４だよ。<end>"
+english = ""
+
+["890133"]
+japanese = "予備メッセージ８<line-break>エステルのＶ４だよ。<end>"
+english = ""
+
+["890134"]
+japanese = "予備メッセージ９<line-break>エステルのＶ４だよ。<end>"
+english = ""
+
+["890135"]
+japanese = "予備メッセージ１０<line-break>エステルのＶ４だよ。<end>"
+english = ""
+
+["890136"]
+japanese = "は…ああ…あ、あぁあ。<end>"
+english = "Hah... ah... a-ahhh...<end>"
+
+["890137"]
+japanese = "こ、来ないで。<line-break>たぶん、ふぐ、あ、あぁああ、<line-break>だいじょ…ぶだから。<end>"
+english = "D-don't come near me. I think... ngh, a-ahhh... I'll be all right.<end>"
+
+["890138"]
+japanese = "大丈夫よ。<line-break>もう、おさまったから…<end>"
+english = "I'm all right. It's passed now...<end>"
+
+["890139"]
+japanese = "私のこと、知っているの？<end>"
+english = "Do you know me?<end>"
+
+["890140"]
+japanese = "はい<end>"
+english = "Yes<end>"
+
+["890141"]
+japanese = "いいえ<end>"
+english = "No<end>"
+
+["890142"]
+japanese = "そう…<line-break>なんだか…<line-break>どうなってもいい気分だわ…<end>"
+english = "Oh... Somehow... I feel as though I don't care what happens to me...<end>"
+
+["890143"]
+japanese = "そう…<line-break>なんだか…<line-break>どうなってもいい気分だわ…<end>"
+english = "Oh... Somehow... I feel as though I don't care what happens to me...<end>"
+
+["890144"]
+japanese = "この歌？\u3000忘れたわ…<line-break>誰かが、私が眠りに落ちるまで<line-break>ずっと歌ってくれた歌…<end>"
+english = "This song? I'd forgotten it... Someone sang it to me until I fell asleep...<end>"
+
+["890145"]
+japanese = "フフ、歌がうまいのね。<line-break>それに覚えも早いわ。<end>"
+english = "Heh, you sing well. And you're a quick study.<end>"
+
+["890146"]
+japanese = "この歌を聞いてるととても落ち着くの。<line-break>フフ、こんな状態で部下の前には<line-break>出られないものね。<end>"
+english = "This song always puts me at ease. Heh, I couldn't let my subordinates see me like this.<end>"
+
+["890147"]
+japanese = "おう！\u3000<value:$28><line-break>手紙が届いているぜ。<end>"
+english = "Hey, <value:$28>! There's a letter for you.<end>"
+
+["890148"]
+japanese = "\u3000\u3000\u3000<value:$28>殿<line-break>\u3000\u3000依頼いたしたき件あり。<line-break>\u3000\u3000至急、エンシャント政庁まで<line-break>\u3000\u3000お越しくださるよう。<line-break>\u3000\u3000\u3000ザギヴ・ディンガル<end>"
+english = "To <value:$28>: I have a matter requiring your assistance. Please come to the Ancient government offices at once. Zagiv Dingar<end>"
+
+["890149"]
+japanese = "おう！\u3000<value:$28><line-break>手紙が届いているぜ。<end>"
+english = "Hey, <value:$28>! A letter came for you.<end>"
+
+["890150"]
+japanese = "               <value:$28>殿<line-break>                依頼いたしたき件あり。\u3000\u3000<line-break>                至急、エンシャント政庁まで<line-break>                お越しくださるよう。<line-break>                ザギヴ・ディンガル<end>"
+english = "<value:$28>, I have a matter requiring your assistance. Please come to the Ancient government offices at once. Zagiv Dingal<end>"
+
+["890151"]
+japanese = "<value:$28>様でありますか！<line-break>ザギヴ将軍よりお話は承っております！<line-break>どうぞ！\u3000ご案内いたします！<end>"
+english = "Are you <value:$28>? General Zagiv told us to expect you! Right this way―I'll show you in!<end>"
+
+["890152"]
+japanese = "これは、<value:$28>様<line-break>ザギヴ将軍よりお話は承っております。<line-break>ご案内いたしますぞ。<end>"
+english = "Ah, <value:$28>. General Zagiv told us to expect you. Allow me to show you in.<end>"
+
+["890153"]
+japanese = "…東方領土すべてを、ひとりの人間が<line-break>排他的に支配しているという事態は、<line-break>帝国にとって歓迎すべきものではない。<end>"
+english = "It is not in the Empire's interest to have the entire Eastern Territory under the exclusive control of a single person.<end>"
+
+["890154"]
+japanese = "はっ、承知しております。<end>"
+english = "Yes. I understand.<end>"
+
+["890155"]
+japanese = "…特に、カルラのように、軍を<line-break>私物化する女の手に預けておくのはな。<end>"
+english = "Especially when that person is a woman like Karula, who treats the army as her private property.<end>"
+
+["890156"]
+japanese = "ご期待には必ずや沿えると存じます。<end>"
+english = "I shall not disappoint you.<end>"
+
+["890157"]
+japanese = "あ…<end>"
+english = "Ah...<end>"
+
+["890158"]
+japanese = "玄武将軍。君だけが頼りだ。<end>"
+english = "General of the Black Tortoise. You are my only hope.<end>"
+
+["890159"]
+japanese = "は…はい…<end>"
+english = "Y-yes...<end>"
+
+["890160"]
+japanese = "あ、あなた、<line-break>いつからそこにいたの！？<end>"
+english = "Y-you! How long have you been standing there?!<end>"
+
+["890161"]
+japanese = "なら、いいわ。<line-break>こっちに来て。<end>"
+english = "Then it's all right. Come here.<end>"
+
+["890162"]
+japanese = "今日は、どうしても<line-break>あなたにお礼が言いたかったの。<end>"
+english = "There was something I especially wanted to do today: thank you.<end>"
+
+["890163"]
+japanese = "あなたがギルドで受けていた<line-break>モンスター退治の依頼の中には、<line-break>闇の怪物も含まれていたのよ。<line-break>私もずっと追っていたの。<line-break>一匹でも多くこの世から消すためにね。<end>"
+english = "Some of the monster-hunting jobs you took through the Guild involved creatures of darkness. I've been hunting them for a long time myself, trying to rid the world of as many as I can.<end>"
+
+["890164"]
+japanese = "あなたのおかげで、<line-break>ずいぶんと気分が楽になったわ。<line-break>ありがとう、殺してくれて。<end>"
+english = "Thanks to you, a great weight has been lifted from me. Thank you for killing them.<end>"
+
+["890165"]
+japanese = "これは私からの気持ちよ、<line-break>受け取っておいて。<end>"
+english = "This is a token of my gratitude. Please take it.<end>"
+
+["890166"]
+japanese = "もうひとつ、あなたを見込んで<line-break>依頼したいことがあるんだけど、<line-break>引き受けていただけないかしら？<end>"
+english = "There's one more thing I'd like to entrust to you. Would you accept the assignment?<end>"
+
+["890167"]
+japanese = "引き受ける<end>"
+english = "Accept<end>"
+
+["890168"]
+japanese = "引き受けない<end>"
+english = "Decline<end>"
+
+["890169"]
+japanese = "本日、本職は帝国東方領土の<line-break>巡察に出発します。<line-break>貴殿にその警護を依頼します。<end>"
+english = "Today I depart on an official inspection of the Empire's Eastern Territory. I request that you serve as my escort.<end>"
+
+["890170"]
+japanese = "引き受けていただける、かしら？<end>"
+english = "Will you accept?<end>"
+
+["890171"]
+japanese = "ありがとう。<line-break>それでは、状況を説明するわ。<end>"
+english = "Thank you. Then I'll explain the situation.<end>"
+
+["890172"]
+japanese = "カルラはロセンに利権を集中させ、<line-break>巨利を得、自軍を強化している。<line-break>…帝国にいつ牙を剥くかわからない。<line-break>だから、ロセンの領内視察を名目に<line-break>その辺を内密に調査するつもりなの。<line-break>カルラの野望をくじくためにね。<end>"
+english = "Karula has concentrated lucrative interests in Rocen under her control, reaping enormous profits and strengthening her army. We have no way of knowing when she might turn on the Empire. So I intend to use an inspection of Rocen as a pretext to investigate the matter discreetly and thwart Karula's ambitions.<end>"
+
+["890173"]
+japanese = "その私の警護をカルラが担当するの。<line-break>カルラだってこっちの意図は覚ってる…<line-break>絶対に何かしかけてくるわ。<line-break>と言って、こちらから大々的な<line-break>警護部隊をしつらえるわけにも<line-break>いかないの。<end>"
+english = "Karula herself will be responsible for my protection. She must realize what we're planning, and she'll certainly try something. But I cannot arrive with a conspicuously large escort of my own.<end>"
+
+["890174"]
+japanese = "例えば、警護に不満があるのか、<line-break>と疑われでもすれば、それを<line-break>視察拒否の口実とされるかもしれない。<line-break>相手はあのカルラ。<line-break>少しでもぬかりがあれば、<line-break>たちまち足元をすくわれるわ。<end>"
+english = "If she suspected that I found her protection inadequate, for example, she might use that as grounds to refuse the inspection. This is Karula we're dealing with. One misstep, and she'll have us at her mercy.<end>"
+
+["890175"]
+japanese = "そこで、あなたに私の警護を<line-break>お願いしたいの。<line-break>ごく私的な警護を、ね。<end>"
+english = "That is why I want you to guard me―as a strictly private escort.<end>"
+
+["890176"]
+japanese = "フフ、うれしいわ。<line-break>こっちの用意はできています。<line-break>すぐ出発しましょう。<end>"
+english = "Heh, I'm glad. Everything is ready on my end. Let's leave at once.<end>"
+
+["890177"]
+japanese = "わしは帝国ではお尋ね者じゃ。<line-break>また、内務統括殿とはいろいろあった。<line-break>すまんが、わしは参加できん…<end>"
+english = "I'm wanted in the Empire, and I have a history with the Director of Internal Affairs. Sorry, but I can't take part...<end>"
+
+["890178"]
+japanese = "すまんの、<value:$28>。<end>"
+english = "Sorry, <value:$28>.<end>"
+
+["890179"]
+japanese = "我らは反ディンガルの闘士！<line-break>ロセン王国復興を志す者だ！<end>"
+english = "We are fighters against Dingal! We seek the restoration of the Kingdom of Rocen!<end>"
+
+["890180"]
+japanese = "ディンガルの侵略者！<line-break>その巨魁ザギヴ・ディンガル！<end>"
+english = "Dingal invader! Zagiv Dingal, ringleader of them all!<end>"
+
+["890181"]
+japanese = "今日がその命運のつきる時だ！<line-break>死をもって侵略と非道の罪をあがなえ！<end>"
+english = "Today your fate is sealed! Pay for your invasion and your atrocities with your life!<end>"
+
+["890182"]
+japanese = "<value:$28>？<line-break>貴様、<value:$28>ではないか！<end>"
+english = "<value:$28>? You... You're <value:$28>, aren't you?!<end>"
+
+["890183"]
+japanese = "くっ、どういうつもりだ。<line-break>ディンガルに寝返ったのか！<end>"
+english = "Damn it, what are you doing? Have you gone over to Dingal?!<end>"
+
+["890184"]
+japanese = "ややこしい話が出てきたんで<line-break>確認させてもらうけど、<line-break>あなた、私を守ってくれるのよね？<end>"
+english = "This has become rather complicated, so let me make sure of one thing: you are still going to protect me, aren't you?<end>"
+
+["890185"]
+japanese = "了解したわ。今の会話は、<line-break>カルラの演出の可能性もあるから、<line-break>私の記憶から抹消することにします。<end>"
+english = "Understood. That exchange may have been staged by Karula, so I shall erase it from my memory.<end>"
+
+["890186"]
+japanese = "さ、<value:$28>、<line-break>行くわ！<end>"
+english = "Come, <value:$28>. We're leaving!<end>"
+
+["890187"]
+japanese = "ずいぶん簡単にかたがついたわね。 <line-break>カルラがこんなにマヌケだとは<line-break>思えないのだけど…。<end>"
+english = "That was settled remarkably easily. I can't believe Karula would be this foolish...<end>"
+
+["890188"]
+japanese = "我らを…侮辱するな…。<line-break>我らはカルラの手先などでは…<line-break>ない…。<end>"
+english = "Do not... insult us... We are not... Karula's lackeys...<end>"
+
+["890189"]
+japanese = "そうね。正確には、<line-break>カルラに利用されていただけね。<end>"
+english = "True. To be precise, she was merely using you.<end>"
+
+["890190"]
+japanese = "くっ…、ま、ま…だ言う…か…。<end>"
+english = "D-damn you... You're still... saying that...?<end>"
+
+["890191"]
+japanese = "ククク…<line-break>リベルダムのアンティノ商会で<line-break>新開発された戦闘モンスターだ。\u3000<line-break>こいつは打撃も魔法も吸収する…<line-break>お前でも、か、勝てん…ぞ…。<end>"
+english = "Heh heh... It's a newly developed combat monster from the Antino Trading Company in Liberdam. It absorbs both physical blows and magic... Even you c-can't defeat it...<end>"
+
+["890192"]
+japanese = "い、いや…<end>"
+english = "N-no...<end>"
+
+["890193"]
+japanese = "…い…や…<line-break>…マゴ…ス…！<end>"
+english = "No... Magos...!<end>"
+
+["890194"]
+japanese = "いや、いや、イヤアアアア！<end>"
+english = "No, no―NOOOOO!<end>"
+
+["890195"]
+japanese = "…い…や。<end>"
+english = "…no…<end>"
+
+["890196"]
+japanese = "…マゴ…ス…<line-break>いや、いや、イヤアアアア！<end>"
+english = "…Magos… no, no, NOOOO!<end>"
+
+["890197"]
+japanese = "そう…<line-break>仕方ない…わね。<end>"
+english = "All right... I suppose there's no choice.<end>"
+
+["890198"]
+japanese = "ありがとう、<line-break>さがってくれていいわ。<end>"
+english = "Thank you. You may stand down.<end>"
+
+["890199"]
+japanese = "………………<end>"
+english = "………………<end>"
+
+["890200"]
+japanese = "<if><value:$01><equal>4ザギヴはショック状態みたいだわ。<line-break>どうしよっかな…<end><if><value:$01><equal>5ちっ、使えない奴だな。<line-break>いきなりショック状態だなんて…<end><if><value:$01><equal>6ザギヴ、完全にショック状態だよ。<line-break>どうしよう、<value:$28>…。<end><if><value:$01><equal>13…ショック状態だな。<line-break>…危険な状態だ。<end><if><value:$01><equal>14どうしたことじゃ。<line-break>あのスライムが出てきよったら、<line-break>いきなりこの有様じゃ。<end><if><value:$01><equal>15ねぇ、ザギヴはショック状態だよ。<line-break>どうしよう、<value:$28>？<end><if><value:$01><equal>17なぁーに？<line-break>あきれちゃうわ！\u3000<line-break>信じられないわ！！<line-break>あのスライムが出てきたら<line-break>いきなり錯乱状態？<line-break>これだから下等生物はっ！<end><if><value:$01><equal>19ザギヴお姉ちゃん！<line-break>ねえ、しっかりして！<end><if><value:$01><equal>20………………。<end><if><value:$01><equal>27かなりひどいショック状態だ…。<line-break>ロセンへ行くのは不可能だな。<line-break>エンシャントへ戻って介抱しよう。<end><if><value:$01><equal>26………………？<line-break>この娘御からは、<line-break>闇のニオイがするのう。<end><if><value:$01><equal>22ザギヴはショック状態だ。<line-break>ロセンに連れていくのは、<line-break>かなり危険だと思うなぁ…。<line-break>ここはエンシャントまで逃げようよ。<line-break>それでいいよね？<end><if><value:$01><equal>192ザギヴはショック状態です。<line-break>どうしますか？<end><if><value:$01><equal>193<value:$28>さん！<line-break>ザギヴさんが…！\u3000ザギヴさんが！<line-break>ど、ど、どうしましょう！？<end><if><value:$01><equal>194…精神に虚空の通り道が空いたな。<line-break>忌まわしい記憶もぶり返して<line-break>急速に彼女を蝕んでいる…。<end><if><value:$01><equal>191この感じ…？<line-break>私にも経験がある…。<line-break><line-break>ううん、なんでもないの。<line-break>ごめんなさい。<line-break>少し、昔のこと思い出しちゃって…。<end><if><value:$01><equal>190………………？<line-break><line-break><line-break>まずいな…。<line-break>こいつ、魔人憑きか…。<end>"
+english = "<if><value:$01><equal>4Zagiv seems to be in shock. What should I do...?<end><if><value:$01><equal>5Tch. Useless. Going into shock without warning...<end><if><value:$01><equal>6Zagiv's completely in shock. What do we do, <value:$28>...?<end><if><value:$01><equal>13She's in shock. Her condition is dangerous.<end><if><value:$01><equal>14What happened here? That Slime appeared, and suddenly she was like this.<end><if><value:$01><equal>15Zagiv's in shock. What do we do, <value:$28>?<end><if><value:$01><equal>17Oh, honestly! This is absurd! That Slime appears and she immediately loses her mind? Inferior creatures!<end><if><value:$01><equal>19Big Sis Zagiv! Come on, pull yourself together!<end><if><value:$01><equal>20............<end><if><value:$01><equal>27She's in severe shock. We can't continue to Rocen. Let's return to Ancient and tend to her.<end><if><value:$01><equal>26............? I smell darkness on this young lady.<end><if><value:$01><equal>22Zagiv's in shock. Taking her to Rocen would be far too dangerous... Let's retreat to Ancient. That's all right, isn't it?<end><if><value:$01><equal>192Zagiv is in shock. What should we do?<end><if><value:$01><equal>193<value:$28>! Zagiv... Zagiv is...! W-what should we do?!<end><if><value:$01><equal>194A path into the void has opened within her mind. Loathsome memories are returning and rapidly eating away at her...<end><if><value:$01><equal>191This feeling...? I've been through it too... No, it's nothing. I'm sorry. It just brought back something from long ago...<end><if><value:$01><equal>190............? This is bad... Is she possessed by a demon...?<end>"
+
+["890201"]
+japanese = "<if><value:$01><equal>4そうね。ザギヴさんを連れて、<line-break>エンシャントまで引き上げましょ！<end><if><value:$01><equal>5…わかったよ、<line-break>こいつを介抱するんだろ。<line-break>ただ、俺、こいつが気に入らねえんだ。<line-break>だけど、お前がそう言うんなら、<line-break>エンシャントの宿屋まで<line-break>こいつを運んでってやるよ。<end><if><value:$01><equal>6うん、エンシャントの宿屋に戻ろう。<line-break>今、カルラの懐に入り込むなんて<line-break>死にに行くのも同じだもん。<end><if><value:$01><equal>13この女を介抱するために、<line-break>エンシャントへ戻ろうというのか？<line-break> <line-break>勝手にするがいい。<line-break>おまえやロイが言い出しそうなことだ。<end><if><value:$01><equal>14そうじゃな。<line-break>エンシャントの宿屋にでも戻って<line-break>ザギヴを介抱せにゃあな。<end><if><value:$01><equal>15…そうだね。<line-break>今、この状態じゃ、<line-break>カルラのエジキだよ。<line-break><value:$28>の言うことに賛成だ。<line-break>エンシャントの宿屋に戻って<line-break>態勢を立て直そうよ。<end><if><value:$01><equal>17え、えぇーっ？<line-break>エンシャントの宿屋まで<line-break>連れ帰って介抱するですって？<line-break>高貴なエルフのアタクシが<line-break>どうしてそんなことしなきゃ<line-break>いけないわけ！<end><if><value:$01><equal>19うん。ザギヴお姉ちゃんが心配だもん。<line-break><value:$28>が言うとおり、<line-break>エンシャントの宿屋に戻ろ。<end><if><value:$01><equal>20…好きにしろ。うぬの旅だ。<line-break>エンシャントの宿屋に戻るならば<line-break>早いほうがいいだろう。<end><if><value:$01><equal>26そうじゃな。<line-break>今はそんなことにはかまっておれん。<line-break>ひとまずエンシャントへ戻るとするか。<end><if><value:$01><equal>27…別に私は、キツい感じの女性に<line-break>弱いわけではないぞ。<end><if><value:$01><equal>22じゃ、善後策は宿屋で考える。<line-break>ってことで、てったーい！<end><if><value:$01><equal>192わかりました。<line-break>彼女を連れて<line-break>エンシャントに戻りましょう。<end><if><value:$01><equal>193わ、わかりました。<line-break>すみません。<line-break>私のほうが動揺してしまって…。<line-break>まずはザギヴさんの手当てですよね。<line-break>とにかくエンシャントまで<line-break>急いで戻らないと…。<end><if><value:$01><equal>194…いや、僕の言葉は<line-break>気にしなくていいよ。<line-break>これは彼女の運命だ。<line-break>とにかく視察は無理だろうね。<line-break>エンシャントまで<line-break>引き上げるとしよう。<end><if><value:$01><equal>191…私のカンが外れてればいいけど、<line-break>そうでなければ<line-break>彼女は…そう、とても危険な状態よ。<line-break>とにかく、安全圏…<line-break>そうね、エンシャントまで<line-break>戻ったほうがいいと思うわ。<end><if><value:$01><equal>190俺の言葉の意味なんてどうでもいい。<line-break>何が起こっても、どうせ背負い込む…<line-break>そういう奴だろ、お前も？<line-break>とにかく<line-break>彼女を介抱するためにも、<line-break>ひとまずエンシャントまで戻るぞ。<end>"
+english = "<if><value:$01><equal>4Right. Let's take Zagiv and withdraw to Ancient!<end><if><value:$01><equal>5Fine. You want us to look after her, right? I don't like her, though. But if that's what you want, I'll carry her back to the inn in Ancient.<end><if><value:$01><equal>6Yeah, let's go back to the inn in Ancient. Going straight into Karula's grasp now would be suicide.<end><if><value:$01><equal>13You would return to Ancient merely to nurse this woman? Do as you please. It is precisely what you or Roy would suggest.<end><if><value:$01><equal>14Aye. We'd best return to an inn in Ancient and tend to Zagiv.<end><if><value:$01><equal>15Yeah. In this state, she'd be easy prey for Karula. I agree with <value:$28>. Let's go back to the inn in Ancient and regroup.<end><if><value:$01><equal>17W-what?! Take her all the way back to the inn in Ancient and nurse her? Why should a noble Elf such as myself have to do any such thing?!<end><if><value:$01><equal>19Yeah. I'm worried about Big Sis Zagiv. Let's do what <value:$28> says and go back to the inn in Ancient.<end><if><value:$01><equal>20Do as you wish. It is your journey. If you intend to return to the inn in Ancient, you had best make haste.<end><if><value:$01><equal>26Aye. This is no time to concern ourselves with that. Let us return to Ancient for now.<end><if><value:$01><equal>27It's not as though I have a weakness for stern women.<end><if><value:$01><equal>22Then we'll work out what comes next at the inn. So, retreeeat!<end><if><value:$01><equal>192Understood. Let us take her back to Ancient.<end><if><value:$01><equal>193U-understood. I'm sorry. I was the one who lost composure... Zagiv needs treatment first. We must hurry back to Ancient...<end><if><value:$01><equal>194No, pay no heed to what I said. This is her fate. In any event, the inspection is no longer possible. Let us withdraw to Ancient.<end><if><value:$01><equal>191I hope my intuition is wrong. If it isn't, then she's in very grave danger. We should get somewhere safe... Yes, I think we should return to Ancient.<end><if><value:$01><equal>190What I meant doesn't matter. Whatever happens, you'll take the burden on yourself anyway. You're that sort too, aren't you? For now, we're going back to Ancient so we can tend to her.<end>"
+
+["890202"]
+japanese = "………………<end>"
+english = "...<end>"
+
+["890203"]
+japanese = "<if><value:$01><equal>4ザギヴはショック状態みたいだわ。<line-break>どうしよっかな…<end><if><value:$01><equal>5ちっ、使えない奴だな。<line-break>いきなりショック状態だなんて…<end><if><value:$01><equal>13…ショック状態だな。<line-break>…危険な状態だ。<end><if><value:$01><equal>14どうしたことじゃ。<line-break>あのスライムがでてきよったら、<line-break>いきなりこの有様じゃ。<end><if><value:$01><equal>17なぁーに？\u3000<line-break><end>あきれちゃうわ！\u3000<line-break>信じられないわ！！<line-break>あのスライムが出てきたら<line-break>いきなり錯乱状態？<line-break>これだから下等生物はっ！<end>………………<end>"
+english = "<if><value:$01><equal>4Zagiv seems to be in shock. What should I do...?<end><if><value:$01><equal>5Tch. Useless. Going into shock all of a sudden...<end><if><value:$01><equal>13She's in shock. This is serious.<end><if><value:$01><equal>14What happened? That Slime appeared, and suddenly she ended up like this.<end><if><value:$01><equal>17Whaaat?<end>How appalling! I can't believe it! That Slime shows up and she suddenly becomes delirious? That's the trouble with lower life-forms!<end>...<end>"
+
+["890204"]
+japanese = "<if><value:$01><equal>4そうね。ザギヴさんを連れて、<line-break>エンシャントまで引き上げましょ！<end><if><value:$01><equal>5…わかったよ、<line-break>こいつを介抱するんだろ。<line-break>ただ、俺、こいつが気に入らねえんだ。<line-break>だけど、お前がそう言うんなら、<line-break>エンシャントの宿屋まで<line-break>こいつを運んでってやるよ。<end><if><value:$01><equal>13この女を介抱するために、<line-break>エンシャントへ戻ろうというのか？<line-break> <line-break>勝手にするがいい。<line-break>おまえやロイが言い出しそうなことだ。<end><if><value:$01><equal>14そうじゃな。<line-break>エンシャントの宿屋にでも戻って<line-break>ザギヴを介抱せにゃあな。<end><if><value:$01><equal>17え、えぇーっ？<line-break>エンシャントの宿屋まで<line-break>連れ帰って介抱するですって？<line-break>高貴なエルフのアタクシが<line-break>どうしてそんなことしなきゃ<line-break>いけないわけ！<end>…好きにしろ。うぬの旅だ。<line-break>エンシャントの宿屋に戻るならば<line-break>早い方がいいだろう。<end>"
+english = "<if><value:$01><equal>4Right. Let's take Zagiv with us and withdraw to Ancient!<end><if><value:$01><equal>5All right, I get it. We have to look after her. I don't like her, though. But if that's what you want, I'll carry her back to the inn in Ancient.<end><if><value:$01><equal>13You would have us return to Ancient to tend to this woman? Do as you please. It is just the sort of thing you or Roy would suggest.<end><if><value:$01><equal>14Aye. We'd best return to the inn in Ancient and tend to Zagiv.<end><if><value:$01><equal>17W-what?! You expect me to take her all the way back to the inn in Ancient and nurse her? Why should a noble Elf such as myself have to do anything of the sort?!<end>Do as you please. It is your journey. If you mean to return to the inn in Ancient, you would do well to hurry.<end>"
+
+["890205"]
+japanese = "姉ちゃん、どうしよう。<line-break>ザギヴはショック状態みたいだ。<line-break>\u3000<line-break>…ここに、置いてっちゃおうか？<end>"
+english = "Sis, what do we do? Zagiv looks like she's in shock. Should we... leave her here?<end>"
+
+["890206"]
+japanese = "いってえ！\u3000冗談だよ、冗談！<line-break>緊張をほぐそうってしただけだろ！<line-break>\u3000<line-break>もう、すぐ手ぇ出すんだからな。<line-break>俺の頭がこれ以上悪くなったら、<line-break>姉ちゃんのせいだぜ！<end>"
+english = "Ow! I was joking! Just trying to ease the tension! You always hit first. If I get any stupider, it'll be your fault, Sis!<end>"
+
+["890207"]
+japanese = "チャカは少し頭が悪くなった。<line-break>チャカのＩＮＴが１下がった。<end>"
+english = "Chaka got a little stupider. Chaka's ＩＮＴ dropped by 1.<end>"
+
+["890208"]
+japanese = "チャカは少し打たれ強くなった。<line-break>チャカのＶＩＴが１上がった。<end>"
+english = "Chaka got a little tougher. Chaka's ＶＩＴ rose by 1.<end>"
+
+["890209"]
+japanese = "ちぇっ、わかったよ。<line-break>ザギヴをエンシャントまで連れ帰って<line-break>宿屋で介抱しよう。<end>"
+english = "Fine, fine. We'll take Zagiv back to Ancient and nurse her at the inn.<end>"
+
+["890210"]
+japanese = "ありがとう。<line-break>多分、もう、大丈…夫…だから…<end>"
+english = "Thank you. I think I'll be all ri...ght now...<end>"
+
+["890211"]
+japanese = "ごめんなさい。<line-break>あんなことになって…しまって…<end>"
+english = "I'm sorry... for what happened...<end>"
+
+["890212"]
+japanese = "あのときの…記憶が…<line-break>甦って…<end>"
+english = "The memories... of that day... came back...<end>"
+
+["890213"]
+japanese = "妖術宰相ゾフォルは予言したわ…。<line-break>ザギヴがディンガルを支配する、<line-break>って…<line-break>それで、私の家族は魔王バロルに<line-break>捕らえられて…ウルグの円卓騎士、<line-break>棲みつくものマゴスの餌食に…<end>"
+english = "Zophor, the Sorcerous Chancellor, made a prophecy... that Zagiv would rule Dingal. Because of it, my family was captured by Balor, Demon King... and fed to Magos the Indweller, one of Urg's Knights of the Round Table...<end>"
+
+["890214"]
+japanese = "マゴスは昼のあの怪物兵器によく似た<line-break>外見をしていたの…。そして…<line-break>やはり魔法も…打撃も…効かなかった。<end>"
+english = "Magos looked much like that monstrous weapon we saw today... And just as before, neither magic nor physical blows had any effect.<end>"
+
+["890215"]
+japanese = "私の…目の前で…家族が…私の家族が…<line-break>な、なぶり…殺されて…いった。<line-break>\u3000<line-break>私が…ザギヴという名前…だった…<line-break>ばっかりに…<end>"
+english = "Before my very eyes... my family... My family was tortured to death... all because my name was Zagiv...<end>"
+
+["890216"]
+japanese = "あのとき…、<line-break>ネメア様が助けに来て…くださって…、<line-break>私だけ…助かった…<end>"
+english = "Then Lord Nemea came to save us... and I alone survived...<end>"
+
+["890217"]
+japanese = "私…だけ…<end>"
+english = "Only me...<end>"
+
+["890218"]
+japanese = "私…だけ…。私のせいなのに…<line-break>私…だけ…むざむざと…<line-break>生き残ってしまった！<line-break>私、生まれなければ…よかった…！<end>"
+english = "Only me... Even though it was my fault, I alone survived... I alone came through alive! I wish I'd never been born!<end>"
+
+["890219"]
+japanese = "近づかないで！<end>"
+english = "Stay away from me!<end>"
+
+["890220"]
+japanese = "マゴスは、その時、私の中に潜んだの。<line-break>それ以来、マゴスは私の中に…！<line-break>私は汚れているの！<end>"
+english = "Magos hid inside me that day. Ever since then, Magos has been within me... I'm tainted!<end>"
+
+["890221"]
+japanese = "私なんて…ザギヴなんて、<line-break>いてはいけないの！<line-break>いてはいけなかったのよ！<line-break>生きとし生けるものすべてが<line-break>呪わしい！\u3000恨めしい！<end>"
+english = "Someone like me... Zagiv should never exist! I should never have existed! Every living thing is hateful to me! I resent them all!<end>"
+
+["890222"]
+japanese = "だって私は、生きていては<line-break>いけない存在なのだもの！<end>"
+english = "Because I am something that must not be allowed to live!<end>"
+
+["890223"]
+japanese = "そうじゃ、生きていてはいけない…<line-break>お前はそう世界に否定されたのじゃ。<end>"
+english = "Yes. You must not live... That is how the world rejected you.<end>"
+
+["890224"]
+japanese = "システィーナの伝道師のひとり、<line-break>妖術宰相ゾフォル。<line-break>闇の誕生にあわせ、参上した。<end>"
+english = "I am Zophor, the Sorcerous Chancellor, one of Sistina's missionaries. I have come to attend the birth of darkness.<end>"
+
+["890225"]
+japanese = "自分と少しでも異質なものには、<line-break>恐怖と拒絶を抱かずにおられぬ。<line-break>それが人の性じゃ。<line-break>さぞお前は疎外感にさいなまれた<line-break>はずじゃの。<line-break>…かわいそうに。<end>"
+english = "People cannot help but fear and reject anything even slightly different from themselves. Such is human nature. You must have suffered terribly from feeling so alienated... Poor child.<end>"
+
+["890226"]
+japanese = "…い、痛い。<end>"
+english = "I-it hurts...<end>"
+
+["890227"]
+japanese = "かわいそうにな。<line-break>お前は何も悪いことはしておらぬ。<line-break>\u3000<line-break>お前が存在すること自体が悪じゃと、<line-break>この世界に否定されただけじゃ。<end>"
+english = "Poor child. You have done nothing wrong. The world merely rejected you, declaring your very existence an evil.<end>"
+
+["890228"]
+japanese = "痛い、痛いよ…<end>"
+english = "It hurts... It hurts...<end>"
+
+["890229"]
+japanese = "さぁ、お前の痛みを解放するがいい。<line-break>世界がお前に産みつけた痛みを、<line-break>この世界にわからせてやるのじゃ。<end>"
+english = "Come. Set your pain free. Make this world understand the pain it forced upon you at birth.<end>"
+
+["890230"]
+japanese = "ふ、うう…、ア…、アアア！<end>"
+english = "Nngh... Ah... Aaaah!<end>"
+
+["890231"]
+japanese = "このままではお前は無だ。<line-break>お前の胸の内の怪物を孵してやれ。<line-break>\u3000<line-break>そして、力を手に入れろ。<line-break>皇帝になれ。<line-break>さすれば誰もお前を否定できぬ！<end>"
+english = "As you are now, you are nothing. Hatch the monster within your breast. Take its power. Become Emperor. Then no one will ever deny you again!<end>"
+
+["890232"]
+japanese = "ウウッ、ウグッ、ウガアアアッ！<end>"
+english = "Ugh... Ggh... GRAAAAAH!<end>"
+
+["890233"]
+japanese = "円卓騎士マゴスが孵化する。<line-break>お主ひとりでは奴には勝てぬぞ。<line-break>逃げぬのか？<end>"
+english = "Magos, Knight of the Round Table, is about to hatch. You cannot defeat Magos alone. Will you not flee?<end>"
+
+["890234"]
+japanese = "昔、助けられた恩義もある。<line-break>今なら逃げても追わぬぞ。<end>"
+english = "I owe you for helping me long ago. Flee now, and I will not pursue you.<end>"
+
+["890235"]
+japanese = "逃げる<end>"
+english = "Flee<end>"
+
+["890236"]
+japanese = "逃げない<end>"
+english = "Don't flee<end>"
+
+["890237"]
+japanese = "うぅ…ぐぅっ…<line-break>…<value:$28>…？<end>"
+english = "Nngh... <value:$28>...?<end>"
+
+["890238"]
+japanese = "逃げおったわ。フフ、あきらめろ。<line-break>こうなることは<line-break>わかっておったはずじゃ。<line-break>さぁ、絶望に身をゆだねよ。<line-break>お前の中で育てられた<line-break>かわいい悪魔をかえすのじゃ。<end>"
+english = "So your companion fled. Heh heh... Give up. You knew this would happen. Yield yourself to despair. Hatch the precious little demon nurtured inside you.<end>"
+
+["890239"]
+japanese = "はあっ！\u3000苦しい、よ…<line-break>あぁ…はあああっ！<end>"
+english = "Ah! It hurts... Aah... Aaaaah!<end>"
+
+["890240"]
+japanese = "な、なんじゃ？<end>"
+english = "Wh-what is this?<end>"
+
+["890241"]
+japanese = "この…歌…<end>"
+english = "This... song...<end>"
+
+["890242"]
+japanese = "絶望を、押し返しおったか…<end>"
+english = "You pushed back the despair...<end>"
+
+["890243"]
+japanese = "…<value:$28>。<end>"
+english = "<value:$28>...<end>"
+
+["890244"]
+japanese = "私は皇帝にならない。<line-break>皇帝になっても否定されないのは、<line-break>皇帝という地位だけ。…私じゃない。<end>"
+english = "I will not become Emperor. If I did, it would only be the title of Emperor that no one could deny―not me.<end>"
+
+["890245"]
+japanese = "フォフォ…。<line-break>いくら強がっても運命には勝てぬよ。<line-break>どれ、お前の未来を語ってやろうか。<end>"
+english = "Ho ho... Brave words cannot overcome fate. Shall I tell you what your future holds?<end>"
+
+["890246"]
+japanese = "お前は<value:$28>と<line-break>猫屋敷へ行く。<line-break>\u3000<line-break>あそこの結界に守られていれば<line-break>マゴスの復活を遅らせられるからな。<end>"
+english = "You will go with <value:$28> to Cat Manor. Its barrier can delay Magos's return.<end>"
+
+["890247"]
+japanese = "だが、それは一時しのぎに過ぎぬ。<line-break>やがて、体内で力をつけたマゴスにより<line-break>お前は地獄の苦しみを受け…<end>"
+english = "But that is only a temporary reprieve. In time, Magos will grow stronger within your body, and you will suffer the torments of hell...<end>"
+
+["890248"]
+japanese = "ザギヴさんですが、<line-break>とりあえず眠ってもらいました。<end>"
+english = "As for Zagiv, I have put her to sleep for the time being.<end>"
+
+["890249"]
+japanese = "ゾフォルもやりますね。<line-break>彼女が心を閉ざしてしまうように、<line-break>うまいこと持っていっている…<end>"
+english = "Zophor is quite capable, skillfully maneuvering Zagiv into closing off her heart...<end>"
+
+["890250"]
+japanese = "ザギヴさんが自ら心を開き、<line-break>運命に立ち向かう気にならないかぎり<line-break>手の施しようはありませんね。<end>"
+english = "There is nothing we can do unless Zagiv opens her heart of her own accord and resolves to face her fate.<end>"
+
+["890251"]
+japanese = "<value:$28>、<line-break>彼女を旅に連れていってくれませんか？<end>"
+english = "<value:$28>, would you take her with you on your journey?<end>"
+
+["890252"]
+japanese = "結界を張って浄化している<line-break>猫屋敷でも危険な状態なのに、<line-break>外に出るなんて…無茶よ！<end>"
+english = "She's in danger even here at Cat Manor, within a purifying barrier. Taking her outside would be madness!<end>"
+
+["890253"]
+japanese = "ケリュネイア。<line-break>\u3000<line-break>\u3000<line-break>人とは、どんな時であっても、<line-break>挑み続けなくてはならない<line-break>ものなのですよ。<end>"
+english = "Ceryneia. No matter the circumstances, a person must continue to meet every challenge.<end>"
+
+["890254"]
+japanese = "挑むのをやめる時、それがすなわち、<line-break>生きるのをやめる時なのです。<end>"
+english = "To stop meeting those challenges is to stop living.<end>"
+
+["890255"]
+japanese = "マゴスが糧としている<line-break>ザギヴさんの魔力を弱め、<line-break>復活を遅らせています。<line-break>彼女自身の負担もあります。<line-break>とても本来の実力は出せないでしょう。<line-break>頼みますよ、<value:$28>。<end>"
+english = "We are weakening Zagiv's magic, which Magos feeds upon, and delaying the revival. This also places a burden on Zagiv herself, so she will be unable to fight at anything near her full strength. I am counting on you, <value:$28>.<end>"
+
+["890256"]
+japanese = "<value:$28>！<line-break>あなたまで、そんな！<end>"
+english = "<value:$28>! Not you too!<end>"
+
+["890257"]
+japanese = "まあまあ…<line-break><value:$28>を<line-break>信じましょう、ケリュネイア。<line-break><value:$28>、<line-break>ザギヴさんを呼び出したいときは<line-break>他の人と同じく転送機ですからね。<end>"
+english = "Now, now... Let us put our faith in <value:$28>, Ceryneia. <value:$28>, when you wish to call Zagiv, use the teleporter just as you would for anyone else.<end>"
+
+["890258"]
+japanese = "ザギヴさんですが、<line-break>とりあえず眠ってもらいました。<end>"
+english = "As for Zagiv, I have put her to sleep for the time being.<end>"
+
+["890259"]
+japanese = "ゾフォルもやりますね。<line-break>彼女が心を閉ざしてしまうように、<line-break>うまいこと持っていっている…<end>"
+english = "Zophor is quite capable, skillfully maneuvering Zagiv into closing off her heart...<end>"
+
+["890260"]
+japanese = "ザギヴさんが自ら心を開き、<line-break>運命に立ち向かう気にならないかぎり<line-break>手の施しようはありませんね。<end>"
+english = "There is nothing we can do unless Zagiv opens her heart of her own accord and resolves to face her fate.<end>"
+
+["890261"]
+japanese = "<value:$28>、<line-break>彼女を旅に連れていってくれませんか？<end>"
+english = "<value:$28>, would you take her with you on your journey?<end>"
+
+["890262"]
+japanese = "無理という言葉は可能性を<line-break>檻に閉じこめてしまいますよ。<line-break>まあ、聞いてください。<end>"
+english = "The word “impossible” locks possibility inside a cage. Please, hear me out.<end>"
+
+["890263"]
+japanese = "マゴスが糧としている<line-break>ザギヴさんの魔力を弱め、<line-break>復活を遅らせています。<line-break>彼女自身の負担もあります。<line-break>とても本来の実力は出せないでしょう。<line-break>頼みますよ、<value:$28>。<end>"
+english = "We are weakening Zagiv's magic, which Magos feeds upon, and delaying the revival. This also places a burden on Zagiv herself, so she will be unable to fight at anything near her full strength. I am counting on you, <value:$28>.<end>"
+
+["890264"]
+japanese = "それでは<value:$28>、<line-break>ザギヴさんのこと、頼みますよ。<line-break>\u3000<line-break><value:$28>、<line-break>ザギヴさんを呼び出したいときは<line-break>他の人と同じく転送機ですからね。<end>"
+english = "Then I leave Zagiv in your care, <value:$28>. <value:$28>, when you wish to call her, use the teleporter just as you would for anyone else.<end>"
+
+["890265"]
+japanese = "おや、君か。<line-break>こんな時に私を訪ねてくるとは<line-break>君もほとほと運がないな。<end>"
+english = "Oh, it's you. Coming to see me at a time like this―you really have the worst luck.<end>"
+
+["890266"]
+japanese = "すぐにわかる。<line-break>ケガをしたくなければ<line-break>じっとしていることだ。<end>"
+english = "You'll understand soon enough. If you don't want to get hurt, stay right where you are.<end>"
+
+["890267"]
+japanese = "円卓の騎士ら魔人や、邪竜、破壊神…<line-break>こういった難物を蘇らせるには、<line-break>莫大な魔道エネルギーが要る。<end>"
+english = "Demons such as the Knights of the Round Table, the Evil Dragons, the God of Destruction... Reviving such formidable beings requires an enormous amount of arcane energy.<end>"
+
+["890268"]
+japanese = "だが、人間のソウルを吸い取り、<line-break>そこからそれに足るだけのエネルギーを<line-break>抽出する技というものが存在するのだ。<line-break>その禁忌なる技の名、<line-break>すなわち…ソウルリープ。<end>"
+english = "But there is a technique that drains the Souls of humans and extracts enough energy from them for precisely that purpose. The name of this forbidden art is... Soul Leap.<end>"
+
+["890269"]
+japanese = "もっとも…<line-break>この私がいる限り、<line-break>そのような真似はできんがな。<end>"
+english = "Of course... as long as I am here, no one can pull off such a thing.<end>"
+
+["890270"]
+japanese = "意見があるのなら、直接言うがいい。<line-break>これを引き起こした張本人が、<line-break>おいでになったようだからな…。<end>"
+english = "If you have something to say, say it directly. It seems the one responsible for all this has arrived...<end>"
+
+["890271"]
+japanese = "肉体の父、ウリア・ベルライン。<line-break>魂の父、あるいは魔道の塔のウジ虫、<line-break>シャローム。<line-break>そして義理の父、魔王バロル…。<end>"
+english = "My father of the flesh, Uria Berline. My father of the soul―or the maggot of the Arcane Tower―Shalom. And my father by marriage, Balor, Demon King...<end>"
+
+["890272"]
+japanese = "私には父親が多いが、彼もそのひとりだ。<line-break>私の養い親にして、<line-break>私の出生を画策した男…<end>"
+english = "I have many fathers, and he is one of them: the man who raised me and contrived the circumstances of my birth...<end>"
+
+["890273"]
+japanese = "システィーナの伝道師のひとり、<line-break>ゾフォルという老いぼれじゃ。<line-break>昔は妖術宰相とも呼ばれておった。<end>"
+english = "An old fool named Zofor, one of Sistina's missionaries. Once, I was also known as the Sorcerous Chancellor.<end>"
+
+["890274"]
+japanese = "おや…<line-break>そこにおるのは<line-break>無限のソウルの持ち主か…<line-break>なるほど、なるほど。<line-break>わしにも未来が読めぬワケじゃ。<end>"
+english = "Well now... Is that the bearer of the Infinite Soul? I see, I see. No wonder even I could not read the future.<end>"
+
+["890275"]
+japanese = "わざわざ出てきてもらって<line-break>ご苦労だったが、<line-break>さっそく消えてもらおう。<end>"
+english = "I appreciate you coming all this way, but now I'll have you disappear.<end>"
+
+["890276"]
+japanese = "その自信が命取りじゃ。<line-break>この妖術宰相の力、<line-break>目に焼き付けるがよい！<end>"
+english = "That confidence will be your undoing. Behold the power of the Sorcerous Chancellor―and burn it into your memory!<end>"
+
+["890277"]
+japanese = "…さすがじゃな。<line-break>その身に秘めし闇の力。<line-break>わしの予想を上回っておったわ。<end>"
+english = "Impressive. The dark power hidden within you surpassed even my expectations.<end>"
+
+["890278"]
+japanese = "…終わりだ。<end>"
+english = "It's over.<end>"
+
+["890279"]
+japanese = "…それはどうかな？<end>"
+english = "Is it, now?<end>"
+
+["890280"]
+japanese = "！？<end>"
+english = "?!<end>"
+
+["890281"]
+japanese = "…今じゃ！\u3000やれ！<end>"
+english = "Now! Do it!<end>"
+
+["890282"]
+japanese = "ぐあっ！<end>"
+english = "Gah!<end>"
+
+["890283"]
+japanese = "ほう。驚いたな。<line-break>次元の裂け目を阻み、さらに<line-break>ソウルリープまで阻むとは…。<line-break>まあ、さすがに無事ってわけには<line-break>いかなかったようだが…。<end>"
+english = "Well, that is a surprise. You stopped the dimensional rift and even blocked Soul Leap... Though it appears you did not come through unscathed.<end>"
+
+["890284"]
+japanese = "き、貴様は…<end>"
+english = "Y-you...<end>"
+
+["890285"]
+japanese = "俺はシスティーナの伝道師、<line-break>黒の祈りのジュサプブロス。<line-break>ゾフォル爺さんのお仲間さ。<end>"
+english = "I'm Jusapubros of the Black Prayer, a missionary of Sistina. An associate of old Zofor's.<end>"
+
+["890286"]
+japanese = "言ったじゃろう？<line-break>その自信が命取りじゃと。<end>"
+english = "Did I not warn you? That confidence would be your undoing.<end>"
+
+["890287"]
+japanese = "言ったじゃろう？<line-break>その自信が命取りじゃと。<end>"
+english = "Did I not warn you? That confidence would be your undoing.<end>"
+
+["890288"]
+japanese = "…今じゃ！\u3000やれ！<end>"
+english = "…Now! Do it!<end>"
+
+["890289"]
+japanese = "ぐあっ！<end>"
+english = "Gah!<end>"
+
+["890290"]
+japanese = "ほう…まだ耐えられるとはの…。<line-break>だが、帝都の人間のソウルは、<line-break>ウルグ様にささげられた。<end>"
+english = "Well... I'm surprised you can still hold out. But the Souls of the people in the imperial capital have been offered to Lord Urg.<end>"
+
+["890291"]
+japanese = "…そうはいかん。<line-break>人類の革新を…<line-break> <line-break>貴様らごときに阻まれるわけには<line-break>いかんのだ！<end>"
+english = "No... I cannot allow the transformation of humanity to be thwarted by the likes of you!<end>"
+
+["890292"]
+japanese = "…やはり、こうなる、か。<end>"
+english = "So it has come to this after all.<end>"
+
+["890293"]
+japanese = "いくらあらがっても無駄。<line-break>すべては、さだめ…。<end>"
+english = "Struggle all you like. It is futile. All is ordained...<end>"
+
+["890294"]
+japanese = "いくらあらがおうとも…<line-break>すべては、さだめ…。<line-break>ふふ…うふふふふふ。<end>"
+english = "However fiercely you struggle... all is ordained... Heh... Ahahahahaha.<end>"
+
+["890295"]
+japanese = "ザギヴがディンガルを支配する…。<line-break>妖術宰相ゾフォルの預言が、<line-break>いよいよ成就の時を迎えるというのか…<end>"
+english = "Zagiv will rule Dingal... Can it be that the prophecy of Zofor, the Sorcerous Chancellor, is finally about to be fulfilled?<end>"
+
+["890296"]
+japanese = "気をつけたまえ。<line-break>彼女の内には、円卓騎士マゴスが<line-break>棲みついているのだ。<end>"
+english = "Be careful. Magos, a Knight of the Round Table, dwells within her.<end>"
+
+["890297"]
+japanese = "…ベルゼーヴァ。<line-break>もうあなたを逃さないわ。<line-break>私は皇帝となり、もうなにも逃さない。<end>"
+english = "Beelzeva... I won't let you escape again. I am the emperor now, and I will never let anything escape me again.<end>"
+
+["890298"]
+japanese = "くっ、玄武将軍…。<end>"
+english = "Guh... General of the Black Tortoise...<end>"
+
+["890299"]
+japanese = "いくら、あなたの力が強くても<line-break>今の私には勝てないわ。<line-break>今の私からは逃げられない…。<end>"
+english = "No matter how great your power is, you cannot defeat me as I am now. And you cannot escape me...<end>"
+
+["890300"]
+japanese = "！？<end>"
+english = "?!<end>"
+
+["890301"]
+japanese = "…今よ！<end>"
+english = "…Now!<end>"
+
+["890302"]
+japanese = "ぐあっ！<end>"
+english = "Gah!<end>"
+
+["890303"]
+japanese = "…まだ耐えられるなんて、さすがね。<line-break>でも、帝都の人間のソウルは、<line-break>ウルグ様にささげられたわ。<line-break>あなたたちも立つことはできない。<line-break>さあ、おとなしくしなさい…<end>"
+english = "I'm impressed you're still holding out. But the Souls of the people in the imperial capital have already been offered to Lord Urg. None of you can even stand. Now, be still...<end>"
+
+["890304"]
+japanese = "…そうはいかん。<line-break>人類の革新を…<line-break>阻まれるわけにはいかんのだ！<end>"
+english = "No... I cannot allow the transformation of humanity to be thwarted!<end>"
+
+["890305"]
+japanese = "逃がさない…。<line-break>誰も、運命からは逃れられない…！<end>"
+english = "I won't let you escape... No one can escape fate!<end>"
+
+["890306"]
+japanese = "いくらあらがっても無駄。<line-break>すべては、さだめ…。<end>"
+english = "Struggle all you like. It is futile. All is ordained...<end>"
+
+["890307"]
+japanese = "いくらあらがおうとも…<line-break>すべては、さだめ…。<line-break>ふふ…うふふふふふ。<end>"
+english = "However fiercely you struggle... all is ordained... Heh... Ahahahahaha.<end>"
+
+["890308"]
+japanese = "くっ…やはり、ここまでが限界か。<line-break>次のソウルリープからは逃げられん。<line-break>人類の革新なる前に果てるさだめか…！<end>"
+english = "Damn... So this is my limit. I won't survive the next Soul Leap. Am I fated to die before humanity can be transformed...?<end>"
+
+["890309"]
+japanese = "…そうだな。<line-break>あきらめるには早い。<line-break>まだ、君たちがいる…<end>"
+english = "Yes... It is too soon to give up. You are still here...<end>"
+
+["890310"]
+japanese = "君たちの力を回復した。<end>"
+english = "I have restored your strength.<end>"
+
+["890311"]
+japanese = "私も、人類の革新という大望を<line-break>抱きながら、みすみすこんなところで<line-break>死ぬわけにはいかないからな。<end>"
+english = "I, too, harbor the grand ambition of transforming humanity. I cannot simply allow myself to die here.<end>"
+
+["890312"]
+japanese = "さあ、急ぐのだ。<line-break>次の攻撃が来る前に脱出するのだ。<end>"
+english = "Now, hurry. Escape before the next attack comes.<end>"
+
+["890313"]
+japanese = "間に合ったか。<end>"
+english = "Made it in time?<end>"
+
+["890314"]
+japanese = "今の我らでは、やつらには勝てない。<line-break> <line-break> <line-break>…ネメア様亡き今、<line-break>人類の革新は叶わぬこと<line-break>なのかもしれん。<end>"
+english = "As we are now, we cannot defeat them. With Lord Nemea gone... perhaps humanity can never be transformed.<end>"
+
+["890315"]
+japanese = "…その自信はどこから来るのだ？<line-break> <line-break> <line-break>しかし…<line-break>君のおかげで命が助かったのは事実だ。<end>"
+english = "What makes you so confident? Still... the fact remains that I owe you my life.<end>"
+
+["890316"]
+japanese = "今の我らでは、やつらには勝てまい。<line-break>さらなる力を手に入れる必要がある。<end>"
+english = "As we are now, we cannot defeat them. We must obtain still greater power.<end>"
+
+["890317"]
+japanese = "…かつて、そのあまりの威力ゆえ、<line-break>封士レオニックの手によって<line-break>遺跡に封印されたという、<line-break>禁呪とも呼ぶべき最強の聖魔法、<line-break>アドヴェント。<end>"
+english = "Advent―the mightiest of holy magics, worthy of being called a Forbidden Spell. It is said that its power was so great, the Sealer Leonic once sealed it away in a ruin.<end>"
+
+["890318"]
+japanese = "遺跡はある湖に沈められた。<line-break>強大なる力を秘めた者だけが、<line-break>その遺跡に入ることができると言う。<line-break>もし、君が…<line-break>人類に革新をもたらしうる存在であれば、<line-break>そこに来ることができるはずだ。<end>"
+english = "The ruin was submerged in a lake. It is said that only one who harbors tremendous power can enter it. If you truly are capable of transforming humanity... you should be able to reach that place.<end>"
+
+["890319"]
+japanese = "さらばだ、<value:$28>。<line-break>無限のソウル…無限の可能性を持つ者。<line-break> <line-break>君に人類を導く力があるのなら…<line-break>また会うことになろう。<end>"
+english = "Farewell, <value:$28>―bearer of the Infinite Soul, and of infinite possibility. If you possess the power to lead humanity... then we shall meet again.<end>"
+
+["890320"]
+japanese = "く、来る…！<end>"
+english = "I-it's coming...!<end>"
+
+["890321"]
+japanese = "人類の革新を成し遂げんとするこの私、<line-break>そして、それを可能とする鍵である<line-break><value:$28>が、<line-break>分別なき魂のひとつとして<line-break>破壊神の杯に盛られるのか…！<line-break>くっ…こんな、こんなことが…！<end>"
+english = "I would bring about humanity's transformation, and <value:$28> is the key to making it possible―yet are we to be served in the God of Destruction's cup as nothing more than two mindless souls...?! No... This cannot be...!<end>"
+
+["890322"]
+japanese = "フフフ…なんとふがいなき有り様か。<line-break>我が子よ…。<end>"
+english = "Heh heh heh... What a pathetic sight, my child.<end>"
+
+["890323"]
+japanese = "シャローム…貴様！<line-break>醜きウジ虫の魂までは、<line-break>ソウルリープも見逃したか！<end>"
+english = "Shalom... you bastard! It seems even Soul Leap overlooked the soul of one repulsive maggot!<end>"
+
+["890324"]
+japanese = "ほほう、たいした減らず口だ。<line-break>耳元に聞こえる死の息吹、<line-break>その恐怖にどれだけ耐えられるものか。<line-break>人類の革新者たるもの、まずは自身で<line-break>人並みの領域を超越して見せねばならぬ。<line-break>…これは、見ものだな。<end>"
+english = "Oh? Such bold words. Let us see how long that bravado lasts with death breathing in your ear. One who would transform humanity must first prove capable of transcending the limits of ordinary mortals. This should be quite a spectacle.<end>"
+
+["890325"]
+japanese = "クッ！<line-break>貴様の悪趣味ぶりには<line-break>吐き気すら覚える！<line-break>息子の死に際くらい、<line-break>気を利かせられないのか！<end>"
+english = "Damn you! Your depravity makes me sick! Could you not show a little consideration while your own son is dying?<end>"
+
+["890326"]
+japanese = "まあ、そう捨て鉢になるな。<line-break>我が子の死を悲しまない親が<line-break>いると思うか？<end>"
+english = "Come now, do not be so desperate. Do you imagine any parent would not mourn the death of a child?<end>"
+
+["890327"]
+japanese = "貴様が欲しているのは、<line-break>意のままに操れる人形だろう！<line-break> <line-break>恥を知れ！<line-break>貴様は、人類の革新者どころか、<line-break>死肉にたかる金蝿そのものだ！<end>"
+english = "What you want is a puppet you can control at will! Have you no shame? You are no agent of humanity's transformation. You are nothing but a blowfly feeding on carrion!<end>"
+
+["890328"]
+japanese = "フフフ。<line-break>ここへ来て、ウジ虫から金蝿に格上げか。<line-break> <line-break>で、そのとおりだ、と言ったら<line-break>…何なのだ？<end>"
+english = "Heh heh heh. A promotion from maggot to blowfly, at this late hour. And if I told you that you were right... what then?<end>"
+
+["890329"]
+japanese = "な、なんだと…？<end>"
+english = "W-what did you say...?<end>"
+
+["890330"]
+japanese = "これは取り引きだ、我が子よ。<line-break>汝の、親しみやすき肉体をささげ、<line-break>この金蝿の王と契約せよ。<line-break>さすれば、余はこの窮地から、<line-break><value:$28>を救い出そう。<end>"
+english = "I offer you a bargain, my child. Surrender that familiar flesh of yours and enter into a pact with this king of blowflies. In return, I shall rescue <value:$28> from this predicament.<end>"
+
+["890331"]
+japanese = "人類革新の方針は違えど、<line-break><value:$28>は、<line-break>余にとってもかけがえのない存在だ。<line-break>こんなところで、<line-break>みすみす失いたくはない。<line-break>悪い話ではあるまい？<end>"
+english = "Though our visions for humanity's transformation differ, <value:$28> is irreplaceable to me as well. I have no wish to stand by and lose someone so precious here. It is not such a poor bargain, is it?<end>"
+
+["890332"]
+japanese = "…わかっている。<line-break>だが、完全に食い潰されさえ<line-break>しなければ…<line-break>いつか必ず奴の支配に対して<line-break>私は反旗をひるがえす…<end>"
+english = "I know. But so long as he does not consume me completely... someday, without fail, I will rise against his rule...<end>"
+
+["890333"]
+japanese = "それが想定できないほど、<line-break>愚かな男ではない。<end>"
+english = "I am not fool enough to think he has failed to anticipate that.<end>"
+
+["890334"]
+japanese = "貴様が言うとおりにしよう！<line-break>その代わり…<end>"
+english = "I will do as you say! But in return...<end>"
+
+["890335"]
+japanese = "<value:$28>は必ず助け出そう。<line-break>万が一にもぬかりはない。<end>"
+english = "I shall save <value:$28>. You have my word―nothing will go amiss.<end>"
+
+["890336"]
+japanese = "我が子よ、余は約束を果たしたぞ。<line-break>次は、汝の番だ。<end>"
+english = "My child, I have fulfilled my promise. Now it is your turn.<end>"
+
+["890337"]
+japanese = "私の性格が、<line-break>狡猾な貴様に似なかったことを<line-break>喜ぶがいい。<line-break>私も…約束を守ろう。<end>"
+english = "Be grateful I did not inherit your cunning nature. I, too... will keep my promise.<end>"
+
+["890338"]
+japanese = "よかろう。<line-break>人類革新の日は近いぞ、わが息子よ…！<end>"
+english = "Very well. The day of humanity's transformation draws near, my son...!<end>"
+
+["890339"]
+japanese = "………………。<end>"
+english = "................<end>"
+
+["890340"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["890341"]
+japanese = "く、来る…！<end>"
+english = "I-it's coming...!<end>"
+
+["890342"]
+japanese = "人類の革新を成し遂げんとするこの私、<line-break>そして、それを可能とする鍵である<line-break><value:$28>が、<line-break>分別なき魂のひとつとして、<line-break>破壊神の杯に盛られるのか…！<line-break>くっ…こんな、こんなことが…！<end>"
+english = "I would bring about humanity's transformation, and <value:$28> is the key to making it possible―yet are we to be served in the God of Destruction's cup as nothing more than two mindless souls...?! No... This cannot be...!<end>"
+
+["890343"]
+japanese = "そ、そうはさせぬ。<line-break>我が身果てようとも、人類の革新の芽を<line-break>摘ませるわけにはいかんのだ。<line-break>ゆけ！<line-break>無限のソウルの持ち主よ。<line-break>人類の…人類の革新を…<end>"
+english = "N-no, I will not allow it. Even if I perish, I cannot let the seed of humanity's transformation be crushed. Go! Bearer of the Infinite Soul. Humanity's... humanity's transformation...<end>"
+
+["890344"]
+japanese = "…地獄の苦しみだぜ<end>"
+english = "...It's sheer hell.<end>"
+
+["890345"]
+japanese = "魔人相手に<line-break>こいつも、こいつの面倒見てる<line-break>ケリュネイアもよくやってるぜ。<line-break>正直、魔人やってたころは<line-break>人間の生きようって姿に<line-break>俺、気づいてなかった。<end>"
+english = "Ceryneia and the one in her care are both doing damn well against a demon. Honestly, back when I was a demon myself, I never saw the way humans strive to live.<end>"
+
+["890346"]
+japanese = "弱いってことは<line-break>大変なことだけど、だから、<line-break>人は誰かと一緒にいられるんだな。<line-break>そう、弱いってことは<line-break>大事なことなんだ…。<line-break>とても、つらいけれど…。<end>"
+english = "Being weak is hard. But that's why people can be with one another. Yes, weakness matters, painful as it is.<end>"
+
+["890347"]
+japanese = "マゴスは人の心に棲む魔人だ。<line-break>どんなに鋭い剣だろうが、<line-break>どんなに強い魔法だろうが、<line-break>心には触れることすらできない。<line-break>クッ。<line-break>どうすりゃいいんだ？<end>"
+english = "Magos is a demon that dwells in the human heart. No sword, however keen, and no magic, however powerful, can so much as touch the heart. Damn it. What am I supposed to do?<end>"
+
+["890348"]
+japanese = "このままじゃ、<line-break>こいつもケリュネイアも…<line-break> <line-break>クッ。魔人の俺には人間の心を<line-break>救うことなんてできやしねぇ。<line-break>人間のお前がなんとかしろ！<end>"
+english = "If this goes on, Ceryneia and the one in her care will... Damn it. I'm a demon. There's no way I can save a human heart. You're human, so do something about it!<end>"
+
+["890349"]
+japanese = "あ…、<value:$28>。<end>"
+english = "Ah... <value:$28>.<end>"
+
+["890350"]
+japanese = "今日は、少し、いいみたいなの…。<line-break>でも…。<end>"
+english = "Things seem a little better today... but...<end>"
+
+["890351"]
+japanese = "<select><value:$20>%2また…、<line-break>いつ闇に飲まれるかわからない。<line-break>今度もマゴスに<line-break>支配されずにいられるかわからない…。<line-break>私、こわい…。<end>もう…限界かも知れない。<line-break> <line-break> <line-break>それに<line-break>これ以上、みんなに迷惑…<line-break>かけられない…。<end>"
+english = "<select><value:$20>%2I don't know when the darkness might swallow me again. I don't know if I'll be able to keep Magos from taking control of me next time... I'm scared.<end>I may have reached my limit... And I can't keep burdening everyone like this.<end>"
+
+["890352"]
+japanese = "あら、<value:$28>。<line-break>来てくれたのね。<end>"
+english = "Oh, <value:$28>. You came.<end>"
+
+["890353"]
+japanese = "私のことが心配だったの？<end>"
+english = "Were you worried about me?<end>"
+
+["890354"]
+japanese = "ありがとう…。<line-break><value:$28>が<line-break>そう言ってくれると、心強いわ。<line-break>私、これから…<end>"
+english = "Thank you... Hearing you say that gives me courage, <value:$28>. From now on, I...<end>"
+
+["890355"]
+japanese = "ううっ…！<end>"
+english = "Ugh...!<end>"
+
+["890356"]
+japanese = "ザギヴ…！<end>"
+english = "Zagiv...!<end>"
+
+["890357"]
+japanese = "ふう…ふう…。<line-break>ど、どうして…？<line-break>今日は…大丈夫だと思ったのに…。<line-break>だんだん…<line-break>間隔も短くなってきている。<line-break>もう、限界なのかもしれない…。<end>"
+english = "Hah... hah... W-why...? I thought I'd be all right today... but they're coming faster and faster. I may already be at my limit...<end>"
+
+["890358"]
+japanese = "ザギヴ、弱気にならないで。<line-break>いつだって希望はあるものよ！<end>"
+english = "Zagiv, don't lose heart. There's always hope!<end>"
+
+["890359"]
+japanese = "希望？\u3000希望なんてない！<line-break>運命には逆らえないの！<line-break>…私にあるのは、絶望だけなのよ！<end>"
+english = "Hope? There is no hope! Fate can't be defied! All I have... is despair!<end>"
+
+["890360"]
+japanese = "それじゃ、<value:$28>、<line-break>\u3000<line-break>\u3000<line-break>そろそろ行きましょうか。<end>"
+english = "Well then, <value:$28>, shall we be going?<end>"
+
+["890361"]
+japanese = "父さん！<line-break>ザギヴを放っておいて<line-break>どこへ行くというの？<end>"
+english = "Father! Where do you think you're going, leaving Zagiv here?<end>"
+
+["890362"]
+japanese = "いいところです。<line-break>無論、ザギヴさんを<line-break>放って行きはしません。<line-break><value:$28>、<line-break>ザギヴさんの護衛をお願いしますよ。<end>"
+english = "Somewhere nice. Of course, I won't be leaving Zagiv behind. <value:$28>, please act as Zagiv's escort.<end>"
+
+["890363"]
+japanese = "こんな状態で！？<line-break>危険よ！<end>"
+english = "In her condition?! It's too dangerous!<end>"
+
+["890364"]
+japanese = "ケリュネイア。人は誰でも、<line-break>いつかは自分の中の闇と<line-break>向き合わなくてはいけないのですよ。<line-break>そして、誰にとっても、<line-break>それはとても危険なことなんです。<end>"
+english = "Ceryneia. Sooner or later, everyone must face the darkness within. It is a very dangerous thing for anyone to do.<end>"
+
+["890365"]
+japanese = "ケリュネイア、転送機で<line-break>ワッシャー砦へお願いします。<line-break>船が入り用になるものでね。<end>"
+english = "Ceryneia, Washer Fort by teleporter, please. We'll be needing a ship.<end>"
+
+["890366"]
+japanese = "キャプテン・ヒルダリア、<line-break>頼もしい舵さばきでした。<line-break>感謝しますよ。<end>"
+english = "Captain Hildaria, that was some fine work at the helm. You have my thanks.<end>"
+
+["890367"]
+japanese = "それにしても、荒海の海賊カンダカンの<line-break>忘れ形見が、こんなに美しい<line-break>お嬢さんだとは。ふふふ…。<end>"
+english = "Still, to think the child left behind by Kandakan, pirate of the raging seas, would be such a beautiful young lady. Heh heh...<end>"
+
+["890368"]
+japanese = "なかなか、<value:$28>も<line-break>隅に置けませんねえ。<end>"
+english = "You're quite something yourself, <value:$28>.<end>"
+
+["890369"]
+japanese = "おっと、失礼しました。<end>"
+english = "Oh, forgive me.<end>"
+
+["890370"]
+japanese = "百聞は一見にしかずと言います。<line-break>ついてきてください。<end>"
+english = "They say seeing is believing. Come with me.<end>"
+
+["890371"]
+japanese = "猫と…カワイイ猫としゃべれた…<line-break>ああ、しあわせ…。<end>"
+english = "A cat... I got to talk to a cute cat... Oh, I'm so happy...<end>"
+
+["890372"]
+japanese = "お待ちしていましたよ。<line-break>さあ、ここです。<end>"
+english = "I've been waiting for you. Here we are.<end>"
+
+["890373"]
+japanese = "<if><value:$01><equal>14これは…。<line-break>なんと…美しいのじゃ…。<end><if><value:$01><equal>17………………。<line-break><line-break><line-break>……キ…レイ…。<end><if><value:$01><equal>19わぁああ…！<line-break>きっれ～い…！！<line-break>きれい…だぁ…。<end><if><value:$01><equal>22わぁ……！<line-break>きれいだぁ…。<end>"
+english = "<if><value:$01><equal>14This is... My, how beautiful...<end><if><value:$01><equal>17...B...beautiful...<end><if><value:$01><equal>19Woooow...! It's so pretty!! So pretty...<end><if><value:$01><equal>22Wow...! It's beautiful...<end>"
+
+["890374"]
+japanese = "なんて…美しい…。<line-break>…こんな所が…あったなんて…。<end>"
+english = "It's so... beautiful. I never knew a place like this existed...<end>"
+
+["890375"]
+japanese = "ここへ来るまでに、<line-break>怪物たちがいたはずです。<line-break><line-break>ひょっとしたら、襲われたんでは<line-break>ないですか？\u3000あなたはそれを<line-break>倒したんじゃないですか？<end>"
+english = "You must have encountered monsters on your way here. Did they attack you, perhaps? And you defeated them?<end>"
+
+["890376"]
+japanese = "いえ、それでいいのです。<line-break>抵抗しなければ、あなたが<line-break>やられていたでしょうから。<line-break>しかし、見てください。<end>"
+english = "No, you did the right thing. Had you not fought back, you would have been the one struck down. But look.<end>"
+
+["890377"]
+japanese = "あの怪物たちは、毎日、この美しい<line-break>景色を見、この景色に抱かれて、<line-break>暮らしているんですよ。<end>"
+english = "Every day, those monsters gaze upon this beautiful landscape and live cradled within it.<end>"
+
+["890378"]
+japanese = "ここには否定も、<line-break>拒絶もありません。<end>"
+english = "There is no denial here. No rejection.<end>"
+
+["890379"]
+japanese = "あの怪物たちは、<line-break>この世界、この景色の中で、<line-break>生きることを許されているんです。<line-break>すべてがあるべくしてある。<line-break>それが世界の本当の姿なのです。<end>"
+english = "Those monsters are allowed to live in this world, amid this landscape. Everything exists because it has its place. That is the world's true nature.<end>"
+
+["890380"]
+japanese = "どうして、<line-break>そんなことが言えるのです！？<end>"
+english = "How can you say that!?<end>"
+
+["890381"]
+japanese = "あなたはこの景色を見て、<line-break>美しいと感じたのではないのですか？ <line-break><line-break>世界はあなたに美しい風景を見せる。<line-break>惜しみなく…。世界はあなたを<line-break>拒んだりしてはいませんよ。<end>"
+english = "Did you not look upon this landscape and find it beautiful? The world shows you beautiful sights without reserve. It has not rejected you.<end>"
+
+["890382"]
+japanese = "そして、それを美しいと感じたと<line-break>言うことは、あなたもまた世界を<line-break>受け入れたのだとは言えませんか？<end>"
+english = "And if you found it beautiful, could that not mean that you, too, have accepted the world?<end>"
+
+["890383"]
+japanese = "あ…。<end>"
+english = "Ah...<end>"
+
+["890384"]
+japanese = "しかし…、<line-break>運命には、勝てません。<end>"
+english = "But... fate cannot be overcome.<end>"
+
+["890385"]
+japanese = "そんなことは、<line-break>運命と闘ってみてから<line-break>言うことですよ。<line-break>私の息子ネメアは、<line-break>運命を変えようと<line-break>懸命にあらがっています。<end>"
+english = "You should say that only after you have tried fighting fate. My son Nemea is struggling with all his might to change it.<end>"
+
+["890386"]
+japanese = "決心がついたら来てください。<line-break>私はヒルダリアの所で待ってますから。<end>"
+english = "Come to me once you've made your decision. I'll be waiting at Hildaria's.<end>"
+
+["890387"]
+japanese = "助けて…くれるの…？<end>"
+english = "You'll... help me?<end>"
+
+["890388"]
+japanese = "<value:$28>…。<line-break>ありがとう。<line-break>迷惑かけるわね。<end>"
+english = "<value:$28>... Thank you. I know this will be a burden.<end>"
+
+["890389"]
+japanese = "決心がつきましたか。<end>"
+english = "Have you made up your mind?<end>"
+
+["890390"]
+japanese = "オルファウス様。<line-break>私、運命と…闘ってきます。<end>"
+english = "Lord Orphaus. I'm going to... fight fate.<end>"
+
+["890391"]
+japanese = "<value:$28>…。<line-break>あなたの力を貸してあげてください。<end>"
+english = "<value:$28>... Please lend your strength.<end>"
+
+["890392"]
+japanese = "猫先生から話は聞いてるよ。<line-break>エンシャントに行くのね。<line-break>送るわ。<end>"
+english = "Professor Cat told me. You're going to Ancient, aren't you? I'll send you there.<end>"
+
+["890393"]
+japanese = "待って。<end>"
+english = "Wait.<end>"
+
+["890394"]
+japanese = "…私、あのとき、<line-break>勇気を出してよかったのかしらね？<end>"
+english = "I wonder... was it a good thing that I found the courage back then?<end>"
+
+["890395"]
+japanese = "私を悲しませないでね、<line-break><value:$28>。<end>"
+english = "Don't make me sad, <value:$28>.<end>"
+
+["890396"]
+japanese = "そうですか。あの子と共に、<line-break>この海の向こうを目指しますか。<end>"
+english = "I see. So you're setting out with him, bound for the far side of this sea.<end>"
+
+["890397"]
+japanese = "ふふふ、あの子が、<line-break>自分の旅に他人を誘うなんて、<line-break>本当に珍しい。<end>"
+english = "Heh heh. It's truly rare for him to invite anyone along on his own journey.<end>"
+
+["890398"]
+japanese = "いや、ひょっとしたら、\u3000\u3000\u3000<line-break>あの子が<value:$28>の旅に<line-break>\u3000<line-break>ついていくということなのかも<line-break>しれませんね。<end>"
+english = "Or perhaps he's the one joining <value:$28> on the journey.<end>"
+
+["890399"]
+japanese = "今だから言いますが、あの子は、<line-break>内心いつも悩んでいました。<line-break> <line-break>その、どこか近寄りがたいような<line-break>雰囲気のせいもありますが…<end>"
+english = "I can tell you this now: deep down, he was always troubled. That air of his―the way he can seem so unapproachable―was partly to blame...<end>"
+
+["890400"]
+japanese = "これまで外の人間が彼に対して   <line-break>要求してきたものといえば、<line-break>その名の重みであるとか、<line-break>卓越した強さであるとか…<line-break>何にせよ、ネメアという人間<line-break>そのものではないことが多かった。<end>"
+english = "Until now, what others wanted from him was usually the weight of his name or his extraordinary strength... Whatever it was, more often than not, it was something other than Nemea himself.<end>"
+
+["890401"]
+japanese = "強くあるということは、<line-break>同時に辛いことでもあり、      <line-break> <line-break>強いまま生き続けるというのは、<line-break>とても難しいことなのです。<end>"
+english = "There is pain in being strong, and it is terribly difficult to go on living without ever ceasing to be strong.<end>"
+
+["890402"]
+japanese = "…いや、それは、あなたが一番良く<line-break>知っていることですね、<line-break><value:$28>？<end>"
+english = "But no... You know that better than anyone, don't you, <value:$28>?<end>"
+
+["890403"]
+japanese = "あなたと出会えて、あの子は、<line-break>心のくびきからようやく<line-break>解き放たれようとしているのでしょう。<line-break>この一連の戦いで何かを<line-break>得たというのは、<line-break>あの子も一緒だったというわけです。<end>"
+english = "Meeting you may finally be freeing him from the yoke upon his heart. It seems he, too, gained something from this series of battles.<end>"
+
+["890404"]
+japanese = "<value:$28>、そろそろだ。<end>"
+english = "<value:$28>, it's time.<end>"
+
+["890405"]
+japanese = "…父よ、何と言おうが、<line-break>あの時死なんとしていた私を救い、<line-break>育ててくれたのは、あなただ。<line-break>そのことには感謝している。<end>"
+english = "Father... Whatever else I may say, you saved me when I was about to die, and you raised me. For that, I am grateful.<end>"
+
+["890406"]
+japanese = "しかし、この旅に出れば、<line-break>もうあなたには…<end>"
+english = "But once I set out on this journey, you and I will never...<end>"
+
+["890407"]
+japanese = "ふふ、今度こそ、<line-break>お土産を待っていますよ、ネメア。<end>"
+english = "Heh heh. This time, I shall expect a souvenir, Nemea.<end>"
+
+["890408"]
+japanese = "………………。<line-break> <line-break> <line-break>フッ、あなたらしい別れの言葉だ。<end>"
+english = "... Heh. A farewell so like you.<end>"
+
+["890409"]
+japanese = "では行こうか、<value:$28>。<line-break>行ける限り、地の果てまでも。<end>"
+english = "Then let us go, <value:$28>. As far as we can―even to the ends of the earth.<end>"
+
+["890410"]
+japanese = "しかし、ゼネさんが<line-break>ファーロスの御曹司だったとはねぇ。<line-break>スラムの住人一同びっくりだったよ。<end>"
+english = "Still, who'd have thought Zen was the heir to Pharos? Everyone in the Slums was stunned.<end>"
+
+["890411"]
+japanese = "へへ、悪かった。<line-break>だますつもりはなかったんだが、<line-break>ま、許してくれや。<end>"
+english = "Heh, sorry about that. I didn't mean to fool you. Forgive me, all right?<end>"
+
+["890412"]
+japanese = "そりゃ、もちろんですよ。<line-break>ゼネテスさんのおかげで、<line-break>この国は助かったんだから！<end>"
+english = "Of course! Xenetes saved this country!<end>"
+
+["890413"]
+japanese = "俺の力じゃないさ。<line-break>必死に国を守ろうとした<line-break>みんなのおかげだ。<end>"
+english = "It wasn't my doing. The credit belongs to everyone who fought desperately to protect this country.<end>"
+
+["890414"]
+japanese = "まったくだよ。感謝しなきゃね。<line-break>貴族だって、ゼネさんみたいなのがいるんだ。<line-break>この国は変わるかもしれないよ。<end>"
+english = "That's right. We owe them our thanks. If there are nobles like Zen, maybe this country really can change.<end>"
+
+["890415"]
+japanese = "それにねー、ゼネテスには、<line-break>さいこーの相棒がいるんだもんね。<end>"
+english = "And Xenetes has the best partner ever!<end>"
+
+["890416"]
+japanese = "そう。<line-break>ハンナはよくわかってるな。<end>"
+english = "That's right. Hannah understands.<end>"
+
+["890417"]
+japanese = "ふふふ。<end>"
+english = "Heh heh heh.<end>"
+
+["890418"]
+japanese = "ところで、ゼネさん、<line-break>あんたこんなところにいていいのかい？<end>"
+english = "By the way, Zen, should you really be hanging around here?<end>"
+
+["890419"]
+japanese = "ん？\u3000ああ、まあ、なんだ、<line-break>宮廷は退屈なんでね。<line-break>ちっと相棒と遊びにでも行こうかと。<end>"
+english = "Hm? Oh, well... The court is dull. I thought I'd go have a little fun with my partner.<end>"
+
+["890420"]
+japanese = "おう、<value:$28>。<line-break>ギルドでいい仕事を\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>見つけたんだわ。<line-break>どうだ、ちょっくら<line-break>やってみないか？<line-break>古代王国の秘宝探しなんだけどよ。<end>"
+english = "Hey, <value:$28>. I found a good job at the Guild. Want to give it a try? We'd be hunting for treasure from an ancient kingdom.<end>"
+
+["890421"]
+japanese = "よし、決まりだ！<line-break>行こうぜ、<value:$28>。<end>"
+english = "Good, it's settled! Let's go, <value:$28>!<end>"
+
+["890422"]
+japanese = "ゼネテスも<value:$28>も<line-break>結局、冒険好きなのね。<line-break>子供ねー。<end>"
+english = "In the end, both Xenetes and <value:$28> just love adventures. Such children.<end>"
+
+["890423"]
+japanese = "おう、来たか、<value:$28>。<line-break> <line-break> <line-break>今日は、ちょいとお前さんに<line-break>頼みたいことがあってよ。<end>"
+english = "There you are, <value:$28>. I've got a little favor to ask you today.<end>"
+
+["890424"]
+japanese = "…叔母貴が死んじまってから、<line-break>やっぱり何かしら変わっちまったよな。<end>"
+english = "Ever since my aunt died, things really have changed somehow.<end>"
+
+["890425"]
+japanese = "変わりたくないって言ったとこで、<line-break>変わらずにゃいられない…。<line-break> <line-break>それだけ叔母貴の存在が<line-break>大きかったってことだものな。<end>"
+english = "You can say you don't want to change, but you can't stay the same... I guess that's how much my aunt meant to me.<end>"
+
+["890426"]
+japanese = "ま、改めて一杯、ってのは\u3000\u3000\u3000\u3000<line-break>俺があっちがわへ行くまで<line-break>待っててもらうとして、<line-break>それまで、<line-break>叔母貴のことはできるだけ鮮明に<line-break>記憶に留めておきたいって思ってな。<end>"
+english = "Well, she'll have to wait until I cross over to the other side before we can share another drink. Until then, I want to keep my memories of her as vivid as I can.<end>"
+
+["890427"]
+japanese = "俺も、ひとつ、<line-break>料理でもやってみようと思うんだが…<line-break>どうかな？<end>"
+english = "So I thought I might try my hand at cooking... What do you say?<end>"
+
+["890428"]
+japanese = "な、なんだよ、<value:$28>？<line-break>その、けげんそうな顔は？<line-break>俺の腕が疑わしいってのか？<end>"
+english = "W-What is it, <value:$28>? Why are you looking at me like that? You doubt my skill?<end>"
+
+["890429"]
+japanese = "さ、さすがにはっきり言ってくれるぜ。<line-break>…でも、ま、無理かどうか、<line-break>いっちょ付き合ってみてくれよ。<end>"
+english = "Y-You certainly don't mince words. Still, humor me and let's see whether I can pull it off.<end>"
+
+["890430"]
+japanese = "外に飛び出さねえだけで、\u3000\u3000\u3000\u3000<line-break>これも大冒険ってことにゃ<line-break>違いないだろ。<end>冒険には信頼できる仲間が必要だ。<line-break>そう思い出させてくれたのは、<line-break><value:$28>、お前さんだ。<end>"
+english = "Just because we're not heading outside doesn't mean this isn't a grand adventure.<end>Every adventure needs a companion you can trust. You're the one who reminded me of that, <value:$28>.<end>"
+
+["890431"]
+japanese = "だから、な？<end>"
+english = "So... will you?<end>"
+
+["890432"]
+japanese = "来たか…。<end>"
+english = "So you have come...<end>"
+
+["890433"]
+japanese = "<value:$28>…。<line-break>ぬしの剣は、<line-break>竜すら斬り倒してきた。<line-break>それがこのレーグにも<line-break>通じるかどうか…。<end>"
+english = "<value:$28>... Your blade has felled even dragons. Now let us see whether it can prevail against Reig.<end>"
+
+["890434"]
+japanese = "<value:$28>…。<line-break> <line-break> <line-break>帝国では竜字将軍と呼ばれるぬしだが…<line-break>さて、一騎当千の武将が、<line-break>現代に出現するものか。<end>"
+english = "<value:$28>... In the Empire, you are called the Dragon-Sigil General. Now, shall a warrior worth a thousand soldiers truly appear in this age?<end>"
+
+["890435"]
+japanese = "（母さん？<line-break>\u3000こんな時間に、どこへ…？）<end>"
+english = "(Mom? Where are you going at this hour...?)<end>"
+
+["890436"]
+japanese = "（やっぱり、母さん、<line-break>\u3000いない…。）<end>"
+english = "(I knew it. Mom's not here...)<end>"
+
+["890437"]
+japanese = "（遺跡のほうへ行く…。<line-break>\u3000…追いかけよう）<end>"
+english = "(Heading for the ruins... I'll follow.)<end>"
+
+["890438"]
+japanese = "まだ、大丈夫ね…。<line-break>光は日に日に強くなっているけれど、<line-break>復活する様子はない…。<end>"
+english = "Everything's still all right... The light is growing stronger by the day, but there's no sign of a revival.<end>"
+
+["890439"]
+japanese = "<value:$28>、ここに来ては駄目。<line-break>そう言わなかったかしら。<line-break>…！？<end>"
+english = "<value:$28>, you shouldn't have come here. Didn't I tell you that? ...!?<end>"
+
+["890440"]
+japanese = "まさか、竜王の覚醒！？<line-break>また…繰り返されると言うの！？<end>"
+english = "It can't be―the Dragon King's Awakening?! Is it all going to happen again?!<end>"
+
+["890441"]
+japanese = "…<value:$28>。<end>"
+english = "...<value:$28>.<end>"
+
+["890442"]
+japanese = "お前と暮らすようになってから、<line-break>もう１６年になるのね。<line-break>\u3000<line-break>ずっと、こうしていたかったけれど、<line-break>運命はそれを許しては<line-break>くれないようね。<end>"
+english = "We've lived together for sixteen years now. I wish we could have gone on like this, but it seems fate won't allow it.<end>"
+
+["890443"]
+japanese = "おいで、<value:$28>。<end>"
+english = "Come here, <value:$28>.<end>"
+
+["890444"]
+japanese = "この遺跡の真の名前は、<line-break>ヴァシュタールの柩。<line-break>神代から繰り返される戦いの証。<end>"
+english = "This ruin's true name is Vashtar's Coffin, testament to the struggle repeated since the Age of the Gods.<end>"
+
+["890445"]
+japanese = "竜王の覚醒は、戦乱を告げる神の声…。<end>"
+english = "The Dragon King's Awakening is the voice of a god, heralding war...<end>"
+
+["890446"]
+japanese = "また、戦いの時代が始まるのね…。<end>"
+english = "Another age of war is beginning...<end>"
+
+["890447"]
+japanese = "もう、たくさんよ…。<line-break><line-break><end>"
+english = "I've had enough...<end>"
+
+["890448"]
+japanese = "ええ。<line-break>どうもありがとう。<end>"
+english = "Yes. Thank you very much.<end>"
+
+["890449"]
+japanese = "それでは、失礼いたします。<line-break>\u3000<line-break>\u3000<end>"
+english = "Well then, if you'll excuse me.<end>"
+
+["890450"]
+japanese = "今日は本当に、疲れたわ…。<line-break>文書の最後に署名を書くだけだった<line-break>けれど、少し曲がってしまったし…。<line-break>もっと、がんばらなくては。<end>"
+english = "I'm truly exhausted today... All I had to do was sign my name at the bottom of a document, but even that came out a little crooked... I must try harder.<end>"
+
+["890451"]
+japanese = "あ、<value:$28>様ですか？<line-break>どうぞ、お入りになって。<end>"
+english = "Oh, is that you, <value:$28>? Please, come in.<end>"
+
+["890452"]
+japanese = "ウフフ、<value:$28>様も<line-break>今日は一日、ご苦労様でした。\u3000\u3000\u3000<line-break>\u3000<line-break>そうそう。<value:$28>様を<line-break>お呼びしたのは、これを<line-break>受け取ってもらいたかったからです。<end>"
+english = "Hee hee. You've had a long day too, <value:$28>. Oh, that's right. I called you here, <value:$28>, because I wanted you to have this.<end>"
+
+["890453"]
+japanese = "私が初めて誰の助けも借りずに<line-break>焼いたクッキーです。<line-break>召しあがってください。<end>"
+english = "This is the first time I've baked cookies without anyone's help. Please, try what I made.<end>"
+
+["890454"]
+japanese = "時は満ちた。<line-break>しかし、なぜ時を告げぬ？<line-break> <line-break>告げるものよ…？<end>"
+english = "The time has come. Yet why do you not proclaim it, O herald of the hour...?<end>"
+
+["890455"]
+japanese = "さあ、どうしてかしらね…。<end>"
+english = "Now, why might that be...?<end>"
+
+["890456"]
+japanese = "<if><value:$29><equal>%0あの少年か…。<end>あの少女か…。<end>"
+english = "<if><value:$29><equal>%0That boy...<end>That girl...<end>"
+
+["890457"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["890458"]
+japanese = "わかっておろう、アスティアよ。<line-break> <line-break> <line-break>ヴァシュタールを目覚めさせぬのは、<line-break>我らが主への裏切りだぞ。<end>"
+english = "You know full well, Astia. Refusing to awaken Vashtar is a betrayal of our master.<end>"
+
+["890459"]
+japanese = "フフ…。<line-break> <line-break> <line-break>裏切り者の私を殺しに<line-break>来たんじゃないの？<line-break>円卓騎士、バルザー？<end>"
+english = "Heh... Didn't you come to kill me for my betrayal, Baltzer, Knight of the Round Table?<end>"
+
+["890460"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["890461"]
+japanese = "やさしいのね。<line-break>でも、やさしさはすなわち弱さ…<line-break>あなたも歳をとったわね。<end>"
+english = "How gentle of you. But gentleness is weakness... You have grown old.<end>"
+
+["890462"]
+japanese = "私だけではない。<line-break>お前もだ、アスティア。<end>"
+english = "I am not the only one. So have you, Astia.<end>"
+
+["890463"]
+japanese = "<if><value:$29><equal>%0私があの少年に近づいたとき、<line-break>お前は動く素振りも見せなかった。\u3000<end>私があの少女に近づいたとき、<line-break>お前は動く素振りも見せなかった。\u3000<end>"
+english = "<if><value:$29><equal>%0When I approached that boy, you did not so much as move.<end>When I approached that girl, you did not so much as move.<end>"
+
+["890464"]
+japanese = "私があの子を殺し、<line-break>お前をもとの冷酷な円卓騎士に<line-break>戻そうとするとは考えなかったか？<end>"
+english = "Did it never occur to you that I might kill that child and turn you back into the merciless Knight of the Round Table you once were?<end>"
+
+["890465"]
+japanese = "ええ、考えなかったわ。<line-break> <line-break> <line-break>愛を知ったあなたが、<line-break>失うということの痛みを前に、<line-break>踏みとどまらないわけがないもの。<end>"
+english = "No, it did not. Now that you know love, I knew you would stop rather than face the pain of losing it.<end>"
+
+["890466"]
+japanese = "…運命は変えられぬ。<line-break> <line-break> <line-break>お前のしていることは、<line-break>無駄なことだぞ、アスティア。<end>"
+english = "Fate cannot be changed. What you are doing is futile, Astia.<end>"
+
+["890467"]
+japanese = "私は警告に来ただけだ。<line-break> <line-break> <line-break>己が力を過信するな。<line-break>個の力など、運命の前には無力だ。<end>"
+english = "I came only to warn you. Do not place too much faith in your own power. One person's power is nothing before fate.<end>"
+
+["890468"]
+japanese = "さぁ、それはどうかしら？<end>"
+english = "Are you so certain?<end>"
+
+["890469"]
+japanese = "ヴァシュタールを目覚めさせることが<line-break>できるのは私だけ。<line-break> <line-break>そして、闇の門を開けられるのは<line-break>ヴァシュタールだけ。<end>"
+english = "I alone can awaken Vashtar. And only Vashtar can open the Gate of Darkness.<end>"
+
+["890470"]
+japanese = "闇の門を通らなければ、<line-break>ウルグ様は復活できない。<line-break>…違うかしら？\u3000それでも無駄だと？<end>"
+english = "Lord Urg cannot be resurrected without passing through the Gate of Darkness. Am I wrong? Do you still call it futile?<end>"
+
+["890471"]
+japanese = "…ヴァシュタールの柩に<line-break>近づく者がある。<line-break> <line-break>奴の気は千変万化して<line-break>正体をつかませぬ。<line-break>気をつけることだ。<end>"
+english = "Someone is approaching Vashtar's coffin. The intruder's aura is ever-changing, making the identity behind it impossible to discern. Be on your guard.<end>"
+
+["890472"]
+japanese = "ありがとう…。<line-break>では、隣の間でお待ちください。<line-break>支度をして、すぐに行きます。<end>"
+english = "Thank you... Please wait in the next room. I'll get ready and join you shortly.<end>"
+
+["890473"]
+japanese = "また…<line-break>目覚めてしまったのか…？<end>"
+english = "Have I awakened again...?<end>"
+
+["890474"]
+japanese = "おはよ、破壊神ウルグの円卓騎士<line-break>ヴァシュタール。<end>"
+english = "Morning, Vashtar, Knight of the Round Table in service to Urg, God of Destruction.<end>"
+
+["890475"]
+japanese = "なぜ…私を呼び覚ました。<end>"
+english = "Why have you awakened me?<end>"
+
+["890476"]
+japanese = "破壊神降臨の通路、闇の門を<line-break>開けるのが君の役目でしょ。<line-break>他に芸があるの？<end>"
+english = "Your job is to open the Gate of Darkness, the path by which the God of Destruction descends. What else are you good for?<end>"
+
+["890477"]
+japanese = "…虚無の子か。<line-break>何を考えている？<line-break>\u3000<line-break>神が去ったこの世界で、<line-break>ウルグ様が復活することが<line-break>どういうことかわかっているのか？<end>"
+english = "The Child of the Void... What are you planning? Do you understand what Lord Urg's return would mean in this godless world?<end>"
+
+["890478"]
+japanese = "おもしろいことさ。<end>"
+english = "Something interesting.<end>"
+
+["890479"]
+japanese = "フッ、よかろう。時は満ちている。<line-break>闇の門を開けるのは、<line-break>開け放つものである私の役目だ。<line-break>だが…まだ、力が足りぬ。<end>"
+english = "Hmph. Very well. The time has come. I am the one charged with throwing open the Gate of Darkness. But I still lack the power.<end>"
+
+["890480"]
+japanese = "なーに言ってんの！<line-break>この町を作ったのは、なんのため？<line-break> <line-break>たくさん、人間を飼っておいて<line-break>目覚めたときに、ソウルを刈り取って<line-break>力を吸収するためでしょ？<end>"
+english = "What are you talking about? Why do you think this town was built? You kept all these humans penned up so you could harvest their Souls when you awoke and absorb their power, didn't you?<end>"
+
+["890481"]
+japanese = "さぁ、さくさくソウルを<line-break>吸い取っちゃってよ。<line-break>ヴァシュタール。<end>"
+english = "Come on, Vashtar. Hurry up and drain those Souls.<end>"
+
+["890482"]
+japanese = "おやおや、もうジャマがはいるなんて。<line-break>先が思いやられるよ。<end>"
+english = "My, someone's interfering already. This doesn't bode well.<end>"
+
+["890483"]
+japanese = "お前は！<line-break>虚無の子？<line-break>なんてこと……！<end>"
+english = "You! The Child of the Void? No...!<end>"
+
+["890484"]
+japanese = "破壊神ウルグの円卓騎士<line-break>告げる者アスティアよ。<line-break>お前の背信のもくろみは失敗だ。<end>"
+english = "Astia the Herald, Knight of the Round Table in service to Urg, God of Destruction. Your treacherous scheme has failed.<end>"
+
+["890485"]
+japanese = "そんな…。<end>"
+english = "No...<end>"
+
+["890486"]
+japanese = "どうあがこうと<line-break>運命には逆らえない。<end>"
+english = "Struggle all you like. You cannot defy fate.<end>"
+
+["890487"]
+japanese = "そうだよ。アスティア。<line-break>与えられた仕事があるんだから<line-break>きちんとやらないとね。<line-break>おや？\u3000誰か来るみたいだね。<line-break>ばれたら大変だ。<line-break>じゃあね、アスティア。<end>"
+english = "That's right, Astia. You were given a job, so you ought to do it properly. Oh? Looks like someone's coming. It would be bad if anyone found out. See you, Astia.<end>"
+
+["890488"]
+japanese = "<value:$28>、逃げなさい！<line-break>この町を出るの！<line-break>私もすぐにあとを追うわ！<end>"
+english = "Run, <value:$28>! Get out of this town! I'll be right behind you!<end>"
+
+["890489"]
+japanese = "すぐにあとを追う、だと？<line-break>フッ、笑止な。<line-break>実力を知れ…、背信者アスティアよ。<end>"
+english = "Right behind, you say? Hah. Absurd. Know your limits, Astia the Betrayer.<end>"
+
+["890490"]
+japanese = "お願い！\u3000逃げて！<end>"
+english = "Please! Run!<end>"
+
+["890491"]
+japanese = "フッ、無駄だ。<line-break>無限のソウルの持ち主でも、<line-break>私に勝つことはできん。<line-break>その偉大なソウルを我に奉げるがよい。<end>"
+english = "Hmph. Futile. Even one who possesses an Infinite Soul cannot defeat me. Offer that magnificent Soul unto me.<end>"
+
+["890492"]
+japanese = "今まで黙っていてごめんなさい、<line-break><value:$28>…。<end>"
+english = "I'm sorry I kept this from you all this time, <value:$28>...<end>"
+
+["890493"]
+japanese = "…私は、破壊神に仕える魔人。<line-break>円卓騎士、告げる者アスティア。<line-break> <line-break>何千年という時を、私は、<line-break>戦いながら生きてきた…。<end>"
+english = "I am a demon in service to the God of Destruction: Astia the Herald, Knight of the Round Table. I have lived for thousands of years, fighting all the while...<end>"
+
+["890494"]
+japanese = "だけど、お前と過ごした１６年…<line-break>私は初めて安らぎを知った…。<line-break>\u3000<line-break><value:$28>、<line-break>強く…生きて…。<end>"
+english = "But in the sixteen years I spent with you, I knew peace for the first time. <value:$28>, be strong... and live...<end>"
+
+["890495"]
+japanese = "自分の身を捨ててまで逃がすか…<line-break>アスティアよ、母とは強いものだな。<end>"
+english = "You would sacrifice yourself to let another escape? Astia, a mother's strength is formidable indeed.<end>"
+
+["890496"]
+japanese = "いや～、はやいもんだよねぇ。<line-break>もう、バイアシオン大陸なんて<line-break>ちっちゃくて見えないわ。<line-break>あんな、ちっぽけな陸の上で<line-break>あたしたちは戦ってたんだよね。<line-break>ここからこっちは自分の国だって。<end>"
+english = "Well, that was quick, wasn't it? The Baiashion Continent's already too small to see. And to think we fought on that tiny scrap of land, saying, “This side is our country.”<end>"
+
+["890497"]
+japanese = "王妃様にお会いになるのですね。<line-break>かしこまりました。<line-break>どうぞお通りください。<line-break>しかし、伯爵様、よろしいのですか？<line-break>お兄君のエリエナイ公は…<line-break>い、いえ、出過ぎだ発言でした。<end>"
+english = "You wish to see Her Majesty the Queen. Very well. You may pass. But, my lord, are you certain? Your elder brother, Duke Elienai... N-no, forgive me. I spoke out of turn.<end>"
+
+["890498"]
+japanese = "王妃様にお会いになるのですね。<line-break>かしこまりました。<line-break>どうぞお通りください。<end>"
+english = "You wish to see Her Majesty the Queen. Very well. You may pass.<end>"
+
+["890499"]
+japanese = "王妃様に会うのか。<line-break>よかろう、話は承っている。<line-break>通るとよい。<end>"
+english = "You seek an audience with Her Majesty? Very well. I have been informed. You may pass.<end>"
+
+["890500"]
+japanese = "王妃様にお会いしたいだと？<line-break>無理だな。王妃様はお忙しいのだ。<line-break>さあ、帰った帰った！<line-break>なに、総司令閣下の書状が…。<line-break>あ、それなら、承っております。<line-break>どうぞ、ご案内いたします。<end>"
+english = "You want to see Her Majesty? Not a chance. The Queen is busy. Now off with you! What? A letter from the Commander-in-Chief...? Ah, yes, I was told about it. Please allow me to show you in.<end>"
+
+["890501"]
+japanese = "失礼ですが、王妃様はお忙しく、<line-break>どなたともお会いになれません。<line-break>どうかお引き取りを…。<line-break>は？\u3000ファーロス総司令閣下の書状…。<line-break>あ！\u3000そういえば…。失礼しました！<line-break>それではご案内いたします。<end>"
+english = "My apologies, but Her Majesty is busy and cannot receive anyone. Please leave. What? A letter from Commander-in-Chief Pharos...? Ah! Of course. Forgive me! I will escort you at once.<end>"
+
+["890502"]
+japanese = "王妃様にお会いしたいだと？<line-break>無理だな。王妃様はお忙しいのだ。<line-break>さあ、帰った帰った！<end>"
+english = "You want to see Her Majesty? Not a chance. The Queen is busy. Now off with you!<end>"
+
+["890503"]
+japanese = "失礼ですが、王妃様はお忙しく、<line-break>どなたともお会いになれません。<line-break>どうかお引き取りを…。<end>"
+english = "My apologies, but Her Majesty is busy and cannot receive anyone. Please leave.<end>"
+
+["890504"]
+japanese = "よく来た、フリントの息子<line-break><value:$28>よ。<line-break>今日は何用か？<end>"
+english = "Welcome, <value:$28>, son of Flint. What brings you here today?<end>"
+
+["890505"]
+japanese = "なにごとだ。<line-break>今は、王宮は大変なのだ。<line-break>用なら、あとにしてくれ。<end>"
+english = "What is it? The palace has enough to deal with right now. If you have business here, it will have to wait.<end>"
+
+["890506"]
+japanese = "あ、<value:$28>様、<line-break>ファーロス総司令が貴族を召集しています。<line-break>どうぞ、謁見の間へ。<end>"
+english = "Ah, <value:$28>. Commander-in-Chief Pharos is assembling the nobles. Please proceed to the audience chamber.<end>"
+
+["890507"]
+japanese = "謁見の間へ行く<end>"
+english = "Go to the audience chamber<end>"
+
+["890508"]
+japanese = "謁見の間へ行かない<end>"
+english = "Don't go to the audience chamber<end>"
+
+["890509"]
+japanese = "では、どうぞ。<line-break>お通りください。<end>"
+english = "Very well. You may pass.<end>"
+
+["890510"]
+japanese = "…そうですか。<end>"
+english = "...I see.<end>"
+
+["890511"]
+japanese = "帰れ帰れ。<line-break>ここは、薄汚い冒険者の<line-break>うろついていい場所じゃないぞ。<end>"
+english = "Go on, get out of here. This is no place for filthy adventurers to wander about.<end>"
+
+["890512"]
+japanese = "中へ？\u3000ならんならん。<line-break> <line-break> <line-break>陛下は、貴族方とも<line-break>お会いになっていないのだ。<line-break>お前ごときを通すわけにはいかん。<end>"
+english = "Inside? Absolutely not. The sovereign will not even receive the nobles. Someone like you certainly won't be allowed through.<end>"
+
+["890513"]
+japanese = "これは、<value:$28>様。<line-break>恐れながら、お通しできません。<line-break>陛下のご気分が優れないとかで…。<end>"
+english = "Ah, <value:$28>. I regret that I cannot let you pass. I am told the sovereign is indisposed.<end>"
+
+["890514"]
+japanese = "これは、<value:$28>様。<line-break> <line-break> <line-break>雨が降ろうが槍が降ろうが、<line-break>ここに城がある限り、<line-break>我々はここを守り続ける所存です。<end>"
+english = "Ah, <value:$28>. Come rain or spears, so long as this castle stands, we shall stand guard over it.<end>"
+
+["890515"]
+japanese = "王宮の怪異を調べに？<line-break>しかし…<line-break>陛下からは誰も通すなと…。<end>"
+english = "You mean to investigate the strange occurrences in the palace? But... the sovereign has ordered that no one be allowed through.<end>"
+
+["890516"]
+japanese = "説得を続ける<end>"
+english = "Keep trying to persuade<end>"
+
+["890517"]
+japanese = "あきらめる<end>"
+english = "Give up<end>"
+
+["890518"]
+japanese = "しかし、陛下の命令です。<line-break>逆らうわけには…。<end>"
+english = "But it is the sovereign's order. I cannot disobey...<end>"
+
+["890519"]
+japanese = "で、出た！<line-break>ば、化け物、が！<end>"
+english = "I-it's here! A m-monster!<end>"
+
+["890520"]
+japanese = "そ、そんなバカな！？<line-break>あれは単なる噂ではないのか！<end>"
+english = "Th-that can't be! I thought it was only a rumor!<end>"
+
+["890521"]
+japanese = "う、嘘じゃない。<line-break>な、仲間が中で！<end>"
+english = "I-it's not a lie. M-my comrades are in there!<end>"
+
+["890522"]
+japanese = "わ、わかりました。<line-break>私たちは負傷者の搬出にあたります。<end>"
+english = "U-understood. We will see to the evacuation of the wounded.<end>"
+
+["890523"]
+japanese = "申しわけございません。<line-break>ですが、陛下のご命令ですので。<end>"
+english = "My deepest apologies, but these are the sovereign's orders.<end>"
+
+["890524"]
+japanese = "今、王宮は大騒ぎなのだ。<line-break>さあ、行った行った！<end>"
+english = "The royal palace is in an uproar right now. Go on, get moving!<end>"
+
+["890525"]
+japanese = "これは、<value:$28>様。<line-break>今日はどうなされたのです？<end>"
+english = "Ah, <value:$28>. What brings you here today?<end>"
+
+["890526"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular<end>"
+
+["890527"]
+japanese = "ティアナの部屋<end>"
+english = "Tiana's Room<end>"
+
+["890528"]
+japanese = "アトレイアの部屋<end>"
+english = "Atleia's Room<end>"
+
+["890529"]
+japanese = "エリスの執務室<end>"
+english = "Eris's Office<end>"
+
+["890530"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular<end>"
+
+["890531"]
+japanese = "ティアナの部屋<end>"
+english = "Tiana's Room<end>"
+
+["890532"]
+japanese = "アトレイアの部屋<end>"
+english = "Atleia's Room<end>"
+
+["890533"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular<end>"
+
+["890534"]
+japanese = "ティアナの部屋<end>"
+english = "Tiana's Room<end>"
+
+["890535"]
+japanese = "エリスの執務室<end>"
+english = "Eris's Office<end>"
+
+["890536"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular<end>"
+
+["890537"]
+japanese = "ティアナの部屋<end>"
+english = "Tiana's Room<end>"
+
+["890538"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular<end>"
+
+["890539"]
+japanese = "エリスの執務室<end>"
+english = "Eris's Office<end>"
+
+["890540"]
+japanese = "ディンガルの魔の手が迫ってきて…。<line-break>いったい、これから<line-break>どうなるのでしょう、伯爵様。<end>"
+english = "Dingal's clutches are closing in on us... What will become of us now, my lord Count?<end>"
+
+["890541"]
+japanese = "そうですか。<end>"
+english = "I see.<end>"
+
+["890542"]
+japanese = "ティアナ様の所に<line-break>いらっしゃるのですね。<line-break>どうぞお通りください。<end>"
+english = "You're here to see Tiana, then. Please, go on through.<end>"
+
+["890543"]
+japanese = "アトレイア様の所に<line-break>いらっしゃるのですね。<line-break>どうぞお通りください。<end>"
+english = "You're here to see Atleia, then. Please, go on through.<end>"
+
+["890544"]
+japanese = "失礼ですが、王妃様はお忙しく、<line-break>どなたともお会いになれません。<line-break>どうかお引き取りを…。<end>"
+english = "My apologies, but Her Majesty is busy and cannot receive anyone. Please leave.<end>"
+
+["890545"]
+japanese = "私がエリスだ。<line-break>なんの用か？<end>"
+english = "I am Eris. What do you want?<end>"
+
+["890546"]
+japanese = "リベルダム解放軍への援助要請か。<line-break>あいにくと事態はさほど悠長ではない。<line-break>あまり興味はないな。<end>"
+english = "You've come to ask for aid for the Liberdam Liberation Army? I'm afraid matters are far too urgent for that. It holds little interest for me.<end>"
+
+["890547"]
+japanese = "それよりも、ものは相談だが、<line-break>次の戦に参戦してはくれぬか？<line-break>カルラ進軍のこと、聞いていよう？<line-break>そなたが、こちらの言うことを<line-break>聞いてくれるなら、こちらも<line-break>援助の件、引き受けよう。いかがか？<end>"
+english = "Instead, I have a proposition for you. Will you join us in the next battle? You have heard of Karula's Advance, I presume. If you agree to our request, we will agree to provide the aid you seek. What say you?<end>"
+
+["890548"]
+japanese = "引き受ける<end>"
+english = "Accept<end>"
+
+["890549"]
+japanese = "引き受けない<end>"
+english = "Decline<end>"
+
+["890550"]
+japanese = "そうか、引き受けてくれるか。\u3000<line-break>ありがたい。<line-break>今回の戦、かなり分が悪くてな。<line-break>その上、レムオン坊やが、<line-break>貴族をまとめて、今回の戦には<line-break>参加せぬと申しておる。<end>"
+english = "So you will accept. You have my thanks. The odds are decidedly against us in this battle. To make matters worse, young Lemghon has rallied the nobles and declared that they will take no part in it.<end>"
+
+["890551"]
+japanese = "ゆえに、ファーロス家の軍だけで<line-break>立ち向かう。しかし、将星も乏しい。<line-break>そなたのような人材を欲していた。<line-break>頼むぞ、<value:$28>。<line-break>我が甥、ゼネテスの力になってくれ。<end>"
+english = "Thus, the forces of House Pharos must face the enemy alone. Yet we have precious few capable commanders. We need someone of your caliber. I am counting on you, <value:$28>. Lend your strength to my nephew Xenetes.<end>"
+
+["890552"]
+japanese = "そうか、残念だな。<line-break>それならば、こちらも援助できぬ。<line-break>下がるがよい。<end>"
+english = "I see. A pity. In that case, we cannot grant your request for aid. You may withdraw.<end>"
+
+["890553"]
+japanese = "よお、あの神速の戦術家カルラが<line-break>勇猛なディンガル兵をわんさか連れて<line-break>こっちに向かってるそうだ。<line-break>アンギルダンのとっつぁんとの戦いで<line-break>こっちは兵力をあらかた失ってる上に<line-break>レムオンのダンナがな…。<end>"
+english = "Hey. Word is Karula, that lightning-fast tactician, is heading this way with a whole horde of fierce Dingal soldiers. We lost nearly all our troops fighting old Angeerdan, and now Lord Lemghon has gone and...<end>"
+
+["890554"]
+japanese = "貴族を集めて、兵を出さねえってさ。<line-break>んで、俺はファーロス家の兵だけで<line-break>カルラを迎え撃つことにした。<line-break>状況は最悪だ…つっても、<line-break>もっと悪くなるかもしれねえから<line-break>最悪じゃねえか。<end>"
+english = "He rounded up the nobles and said they wouldn't send any troops. So I've decided to meet Karula with the soldiers of House Pharos alone. Things couldn't be worse... except they could still get worse, so I suppose they could.<end>"
+
+["890555"]
+japanese = "あたし、お腹ぺこぺこ。<line-break>\u3000<line-break>\u3000<line-break>この家からいい匂いがするよぅ。<line-break>おじゃましてみようかなぁ。<end>"
+english = "I'm starving. There's a delicious smell coming from this house. Maybe I'll invite myself in.<end>"
+
+["890556"]
+japanese = "王妃様にお会いになるのですね。\u3000\u3000<line-break>かしこまりました。<line-break>どうぞお通りください。<line-break>しかし、伯爵様、よろしいのですか？<line-break>お兄君のエリエナイ公は…<line-break>い、いえ、出過ぎだ発言でした。<end>"
+english = "You wish to see Her Majesty the Queen. Very well. You may pass. But, my lord Count, are you certain? Your elder brother, Duke Elienai... N-no, forgive me. I spoke out of turn.<end>"
+
+["890557"]
+japanese = "王妃様にお会いになるのですね。<line-break>かしこまりました。<line-break>どうぞお通りください。<end>"
+english = "You wish to see Her Majesty the Queen. Very well. You may pass.<end>"
+
+["890558"]
+japanese = "王妃様に会うのか。<line-break>よかろう、話は承っている。<line-break>通るとよい。<end>"
+english = "You seek an audience with Her Majesty? Very well. I have been informed. You may pass.<end>"
+
+["890559"]
+japanese = "王妃様にお会いしたいだと？<line-break>らちもない。王妃様はお忙しいのだ。<line-break>さあ、帰った帰った！<line-break>なに、総司令閣下の書状が…。<line-break>あ、それなら、承っております。<line-break>どうぞ、ご案内いたします。<end>"
+english = "You want to see Her Majesty? Nonsense. Her Majesty is busy. Off you go! What? A letter from His Excellency the Commander-in-Chief...? Ah, yes. I was told about that. Please allow me to escort you.<end>"
+
+["890560"]
+japanese = "失礼ですが、王妃様には<line-break>お忙しく、どなたともお会いになれません。<line-break>どうかお引き取りを…。<line-break>は？\u3000ファーロス総司令閣下の書状…。<line-break>あ！\u3000そういえば…。失礼しました！<line-break>それではご案内いたします。<end>"
+english = "My apologies, but Her Majesty is busy and cannot receive anyone. I must ask you to leave. What? A letter from His Excellency, Commander-in-Chief Pharos...? Ah! Now that you mention it... Forgive me! I will escort you at once.<end>"
+
+["890561"]
+japanese = "王妃様にお会いしたいだと？<line-break>らちもない。王妃様はお忙しいのだ。<line-break>さあ、帰った帰った！<end>"
+english = "You want to see Her Majesty? Nonsense. Her Majesty is busy. Off you go!<end>"
+
+["890562"]
+japanese = "テストようなのじゃよ。<line-break>今は時代０なんじゃ。<line-break>ひょっほっほっ。<end>"
+english = ""
+
+["890563"]
+japanese = "１から５までの間で、<line-break>行きたい時代を選ぶんじゃ。<end>"
+english = "Choose the era you want to visit, from 1 to 5.<end>"
+
+["890564"]
+japanese = "なにごとだ。<line-break>今は、王宮は大変なのだ。<line-break>用なら、あとにしてくれ。<end>"
+english = "What is it? The palace has enough to deal with right now. If you have business here, it'll have to wait.<end>"
+
+["890565"]
+japanese = "時代１<end>"
+english = "Era 1<end>"
+
+["890566"]
+japanese = "時代２<end>"
+english = "Era 2<end>"
+
+["890567"]
+japanese = "謁見の間へ行かない<end>"
+english = "Don't go to the audience chamber<end>"
+
+["890568"]
+japanese = "時代３<end>"
+english = "Era 3<end>"
+
+["890569"]
+japanese = "時代４<end>"
+english = "Era 4<end>"
+
+["890570"]
+japanese = "ロストール王宮に何か用かね？<line-break>王宮に用事のない者がうろつくのは<line-break>感心しかねるな。<end>"
+english = "Do you have business at Rostorl Palace? I can't say I approve of people loitering around the palace when they have no business here.<end>"
+
+["890571"]
+japanese = "時代５<end>"
+english = "Era 5<end>"
+
+["890572"]
+japanese = "行きたい時代は無い<end>"
+english = "No era I want to visit<end>"
+
+["890573"]
+japanese = "国王様まで崩御されてしまうとは…。<line-break>こうなってしまうと、<line-break>門衛という役目もつらいものです。<end>"
+english = "To think that even His Majesty has passed away... Now that things have come to this, it's hard being a gate guard.<end>"
+
+["890574"]
+japanese = "行きたい時代を６から７の間で<line-break>選んでね<end>"
+english = "Choose which era you'd like to visit: 6 or 7.<end>"
+
+["890575"]
+japanese = "時代６<end>"
+english = "Era 6<end>"
+
+["890576"]
+japanese = "あきらめる<end>"
+english = "Give up<end>"
+
+["890577"]
+japanese = "時代７<end>"
+english = "Era 7<end>"
+
+["890578"]
+japanese = "何処にも行きたくない<end>"
+english = "I don't want to go anywhere<end>"
+
+["890579"]
+japanese = "そ、そんな馬鹿な！？<line-break>あれは単なる噂ではないのか！<end>"
+english = "Th-that's impossible! Wasn't that just a rumor?<end>"
+
+["890580"]
+japanese = "う、嘘じゃない。<line-break>な、仲間が中で！<end>"
+english = "I-it's not a lie. M-my comrades are in there!<end>"
+
+["890581"]
+japanese = "わ、わかりました。<line-break>私達は負傷者の救出にあたります。<end>"
+english = "U-understood. We'll see to rescuing the wounded.<end>"
+
+["890582"]
+japanese = "申し訳ありませんが、<line-break>規則は規則ですので。<end>"
+english = "I'm sorry, but rules are rules.<end>"
+
+["890583"]
+japanese = "今、王宮は大騒ぎなのだ。<line-break>さあ、行った行った！<end>"
+english = "The royal palace is in an uproar right now. Go on, get moving!<end>"
+
+["890584"]
+japanese = "これは、<value:$28>様。<line-break>今日はどうなされたのです？<end>"
+english = "Ah, <value:$28>. What brings you here today?<end>"
+
+["890585"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular.<end>"
+
+["890586"]
+japanese = "ティアナの部屋<end>"
+english = "Tiana's Room<end>"
+
+["890587"]
+japanese = "アトレイアの部屋<end>"
+english = "Atleia's Room<end>"
+
+["890588"]
+japanese = "エリスの執務室<end>"
+english = "Eris's Office<end>"
+
+["890589"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular.<end>"
+
+["890590"]
+japanese = "ティアナの部屋<end>"
+english = "Tiana's Room<end>"
+
+["890591"]
+japanese = "アトレイアの部屋<end>"
+english = "Atleia's Room<end>"
+
+["890592"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular.<end>"
+
+["890593"]
+japanese = "ティアナの部屋<end>"
+english = "Tiana's Room<end>"
+
+["890594"]
+japanese = "エリスの執務室<end>"
+english = "Eris's Office<end>"
+
+["890595"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular.<end>"
+
+["890596"]
+japanese = "ティアナの部屋<end>"
+english = "Tiana's Room<end>"
+
+["890597"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular.<end>"
+
+["890598"]
+japanese = "エリスの執務室<end>"
+english = "Eris's Office<end>"
+
+["890599"]
+japanese = "ディンガルの魔の手が迫ってきて…<line-break>いったい、これから<line-break>どうなるのでしょう、伯爵様。<end>"
+english = "With Dingal's clutches closing in... what will happen now, Count?<end>"
+
+["890600"]
+japanese = "そうですか。<end>"
+english = "I see.<end>"
+
+["890601"]
+japanese = "ティアナ様の所に<line-break>いらっしゃるのですね。<line-break>どうぞお通りください。<end>"
+english = "You're here to see Tiana, then. Please, go on through.<end>"
+
+["890602"]
+japanese = "アトレイア様の所に<line-break>いらっしゃるのですね。<line-break>どうぞお通りください。<end>"
+english = "You're here to see Atleia, then. Please, go on through.<end>"
+
+["890603"]
+japanese = "失礼ですが、王妃様には<line-break>お忙しく、どなたともお会いになれません。<line-break>どうかお引き取りを…。<end>"
+english = "I'm sorry, but Her Majesty the Queen is busy and cannot receive anyone. Please leave.<end>"
+
+["890604"]
+japanese = "私がエリスだ。<line-break>なんの用か？<end>"
+english = "I am Eris. What do you want?<end>"
+
+["890605"]
+japanese = "リベルダム解放軍への援助要請か。<line-break>あいにくと事態はさほど悠長ではない。<line-break>あまり興味はないな。<end>"
+english = "A request for aid for the Liberdam Liberation Army? Unfortunately, events leave no time for such things. I have little interest in it.<end>"
+
+["890606"]
+japanese = "はっ。<value:$28>様で<line-break>ございますね。<line-break>どうぞお通りください！<end>"
+english = "Yes. You must be <value:$28>. Please, go on through!<end>"
+
+["890607"]
+japanese = "<value:$28>様！<line-break>カルラ様がお呼びです。<line-break>謁見の間にお急ぎください。<end>"
+english = "<value:$28>! Karula has sent for you. Please hurry to the audience chamber.<end>"
+
+["890608"]
+japanese = "はっ。<value:$28>様で<line-break>ございますね。<line-break>どうぞお通りください！<end>"
+english = "Ah, you must be <value:$28>. Please, go on through!<end>"
+
+["890609"]
+japanese = "きっ、貴様は、<value:$28>！<line-break>帝国を裏切っておきながら！<line-break>警備隊！\u3000こいつを捕らえよ！<end>"
+english = "Y-you! <value:$28>! You have some nerve showing yourself after betraying the Empire! Guards! Seize this traitor!<end>"
+
+["890610"]
+japanese = "きっ、貴様は解放軍の<line-break><value:$28>！<line-break>警備隊を呼べっ！\u3000早く！<end>"
+english = "Y-you're <value:$28> of the Liberation Army! Call the guards! Hurry!<end>"
+
+["890611"]
+japanese = "はっ。<value:$28>様で<line-break>ございますね。<line-break>どうぞお通りください！<end>"
+english = "You must be <value:$28>. Please, go right in!<end>"
+
+["890612"]
+japanese = "これは<value:$28>様。<line-break>カルラ様がお呼びです。<line-break>謁見の間にお急ぎください。<end>"
+english = "Ah, <value:$28>. Karula has summoned you. Please hurry to the audience chamber.<end>"
+
+["890613"]
+japanese = "これは<value:$28>様。<line-break>どうぞ、お通りください。<end>"
+english = "Ah, <value:$28>. Please, go on through.<end>"
+
+["890614"]
+japanese = "ぬっ、どこかで見たと思えば…貴様は！<line-break>解放軍なぞに寝返りおって。<line-break>警備隊を呼べっ！<end>"
+english = "I knew you looked familiar... It's you! You defected to the likes of the Liberation Army! Call the guards!<end>"
+
+["890615"]
+japanese = "きっ、貴様は解放軍の<line-break><value:$28><line-break>警備隊を呼べっ！\u3000早く！<end>"
+english = "Y-you're <value:$28> of the Liberation Army! Call the guards! Hurry!<end>"
+
+["890616"]
+japanese = "きっ、貴様は解放軍の<line-break><value:$28>！<line-break><line-break>警備隊を呼べっ！\u3000早く！<end>"
+english = "Y-you're <value:$28> of the Liberation Army! Call the guards! Quickly!<end>"
+
+["890617"]
+japanese = "これは<value:$28>様。<line-break>お通りください。<end>"
+english = "Ah, <value:$28>. Please, go right through.<end>"
+
+["890618"]
+japanese = "きっ、貴様は解放軍の<line-break><value:$28><line-break><line-break>警備隊を呼べっ！\u3000早く！<end>"
+english = "Y-you're <value:$28> of the Liberation Army! Call the guards! Quickly!<end>"
+
+["890619"]
+japanese = "<value:$28>様！<line-break>カルラ様がお呼びです。<line-break>謁見の間にお急ぎください。<end>"
+english = "<value:$28>! Karula has sent for you. Please hurry to the audience chamber.<end>"
+
+["890620"]
+japanese = "はっ。<value:$28>様で<line-break>ございますね。<line-break>どうぞお通りください！<end>"
+english = "Yes. You must be <value:$28>. Please go on through!<end>"
+
+["890621"]
+japanese = "きっ、貴様は、<value:$28>！<line-break>帝国を裏切っておきながら！<line-break>警備隊！\u3000こいつを捕らえよ！<end>"
+english = "Y-you're <value:$28>! You betrayed the Empire! Guards! Seize this traitor!<end>"
+
+["890622"]
+japanese = "きっ、貴様は解放軍の<line-break><value:$28>！<line-break>警備隊を呼べっ！\u3000早く！<end>"
+english = "Y-you're <value:$28> of the Liberation Army! Call the guards! Quickly!<end>"
+
+["890623"]
+japanese = "これは<value:$28>様。<line-break>カルラ様がお呼びです。<line-break>謁見の間にお急ぎください。<end>"
+english = "Ah, <value:$28>. Karula has sent for you. Please hurry to the audience chamber.<end>"
+
+["890624"]
+japanese = "これは<value:$28>様。<line-break>どうぞ、お通りください。<end>"
+english = "Ah, <value:$28>. Please, go on through.<end>"
+
+["890625"]
+japanese = "ぬっ、どこかで見たと思えば…貴様は！<line-break>解放軍なぞに寝返りおって。<line-break>警備隊を呼べっ！<end>"
+english = "Hmph. I knew I'd seen you somewhere... You turned coat and joined the Liberation Army! Call the guards!<end>"
+
+["890626"]
+japanese = "きっ、貴様は解放軍の<line-break><value:$28><line-break>警備隊を呼べっ！\u3000早く！<end>"
+english = "Y-you're <value:$28> of the Liberation Army! Call the guards! Quickly!<end>"
+
+["890627"]
+japanese = "はっ。<value:$28>様で<line-break>ございますね。<line-break>どうぞお通りください！<end>"
+english = "Ah, <value:$28>. Please, go right through!<end>"
+
+["890628"]
+japanese = "きっ、貴様は、<value:$28>！<line-break>帝国を裏切っておきながら！<line-break>警備隊！\u3000こいつを捕らえよ！<end>"
+english = "Y-you're <value:$28>! After betraying the Empire, you dare show your face here?! Guards! Seize this traitor!<end>"
+
+["890629"]
+japanese = "きっ、貴様は解放軍の<line-break><value:$28>！<line-break>警備隊を呼べっ！\u3000早く！<end>"
+english = "Y-you're <value:$28> of the Liberation Army! Call the guards! Hurry!<end>"
+
+["890630"]
+japanese = "これは<value:$28>様。<line-break>どうぞお通りください。<end>"
+english = "Ah, <value:$28>. Please, go on through.<end>"
+
+["890631"]
+japanese = "ぬっ、どこかで見たと思えば…貴様は！<line-break>解放軍なぞに寝返りおって。<line-break>警備隊を呼べっ！<end>"
+english = "Wait, I thought you looked familiar... You turned coat for the likes of the Liberation Army! Call the guards!<end>"
+
+["890632"]
+japanese = "きっ、貴様は解放軍の<line-break><value:$28><line-break>警備隊を呼べっ！\u3000早く！<end>"
+english = "Y-you're <value:$28> of the Liberation Army! Call the guards! Hurry!<end>"
+
+["890633"]
+japanese = "はっ。<value:$28>様で<line-break>ありますね。<line-break>どうぞお通りください！<end>"
+english = "Right! You must be <value:$28>. Please, go right through!<end>"
+
+["890634"]
+japanese = "いいって、いいって。<line-break>じゃあ、さっそく行こうか！<end>"
+english = "It's fine, really. Come on, let's get going!<end>"
+
+["890635"]
+japanese = "なるほど。<line-break>猫屋敷ってとこで呼び出すってんだな。<line-break>なら、待ってるぜ。<end>"
+english = "Right. So you'll call for me at a place called Cat Manor. I'll be waiting.<end>"
+
+["890636"]
+japanese = "カフィン、やめて！<line-break><line-break><line-break>あなたまで…あなたまで<line-break>死んでしまったら、わたし…！<end>"
+english = "Coffin, stop! If you die too... if I lose you too, I...!<end>"
+
+["890637"]
+japanese = "ノエル、お聞き。<line-break><line-break><line-break>レイヴンはあんたを守るために、<line-break>その命を差し出したんだ。<end>"
+english = "Listen to me, Noel. Raven gave his life to protect you.<end>"
+
+["890638"]
+japanese = "あんたの魂にそれだけの価値を見、<line-break>あんたに願いを託した…<end>"
+english = "He believed your soul was worth that sacrifice, and entrusted his hopes to you...<end>"
+
+["890639"]
+japanese = "そのレイヴンの願いを<line-break>無駄にしろっていうのかい！？<end>"
+english = "And now you're going to let Raven's hopes go to waste?!<end>"
+
+["890640"]
+japanese = "カ、カフィン！<end>"
+english = "C-Coffin!<end>"
+
+["890641"]
+japanese = "戦う前から負けたような声を<line-break>出すんじゃないよ、ノエル！<line-break><line-break>レイヴンとの冒険で、<line-break>何を学んだんだい！<end>"
+english = "Don't sound beaten before the fight has even begun, Noel! What did your adventures with Raven teach you?!<end>"
+
+["890642"]
+japanese = "………………！<end>"
+english = "...!<end>"
+
+["890643"]
+japanese = "レイヴンは、こいつに<line-break>挑まないわけにはいかなかった。<line-break><line-break>こいつに喰われたシルヴァの人々に、<line-break>償いをするためにね！<end>"
+english = "Raven had no choice but to face this thing. He had to make amends to the people of Silva it devoured!<end>"
+
+["890644"]
+japanese = "…一度動き出した運命の歯車を、<line-break>とめることはできない。<line-break><line-break>とめようと刃向かう者は…<line-break>その外へと弾き…飛ばされる…。<line-break>けど、そう定められていたとしても…。<end>"
+english = "Once the wheel of fate is set in motion, it cannot be stopped. Those who defy it and try to stop it... are cast... outside it. But even if that is what fate has decreed...<end>"
+
+["890645"]
+japanese = "あくまで、どうするか選択する権利は、<line-break>あたしたち人にあるのよ！<end>"
+english = "No matter what, the right to choose what we do belongs to us humans!<end>"
+
+["890646"]
+japanese = "ああ…カ、カフィン…！<end>"
+english = "Oh... C-Coffin...!<end>"
+
+["890647"]
+japanese = "ぐっ…ぐううっ！<end>"
+english = "Ghh... grrrgh!<end>"
+
+["890648"]
+japanese = "があああああっ！<end>"
+english = "Gaaaaaah!<end>"
+
+["890649"]
+japanese = "ああ…カフィンが変わっていく！<line-break>私の知らないカフィンに…。<end>"
+english = "Oh... Coffin is changing! Into someone I don't know...<end>"
+
+["890650"]
+japanese = "ウオオオオッ！<end>"
+english = "Uooooooh!<end>"
+
+["890651"]
+japanese = "うっ……！<end>"
+english = "Ugh...!<end>"
+
+["890652"]
+japanese = "キャアアアア！<end>"
+english = "Aaaaaah!<end>"
+
+["890653"]
+japanese = "カ、カフィン！！<end>"
+english = "C-Coffin!!<end>"
+
+["890654"]
+japanese = "ノエル、無事かっ？<end>"
+english = "Noel, are you all right?!<end>"
+
+["890655"]
+japanese = "ナーシェス、<line-break><value:$28>さん！<line-break>カフィンが…！<end>"
+english = "Narscess! <value:$28>! Coffin...!<end>"
+
+["890656"]
+japanese = "遅かったか…。<end>"
+english = "Too late...?<end>"
+
+["890657"]
+japanese = "この残り香…カフィンは<line-break>新月の香を使ってダルケニスの<line-break>力を解放したのだろう。<line-break>しかし、それでも…<line-break>ソウルイーターに<line-break>とどめは刺せなかった…。<end>"
+english = "This lingering scent... Coffin must have used the Scent of the New Moon to unleash the power of Darkenis. And even then... she could not finish off the Soul Eater...<end>"
+
+["890658"]
+japanese = "もう、我々に退く道は<line-break>残されてはいないということか…。<end>"
+english = "So there is no path of retreat left to us...<end>"
+
+["890659"]
+japanese = "<value:$28>、ノエルは私が守る。<line-break><line-break><line-break>ソウルイーターは手負いだ、<line-break>今なら倒せるだろう。<line-break>頼んだぞ！<end>"
+english = "<value:$28>, I will protect Noel. The Soul Eater is wounded. You should be able to defeat it now. I'm counting on you!<end>"
+
+["890660"]
+japanese = "…<value:$28>さん。<line-break>ありがとうございます。<line-break>ソウルイーターを倒してくれて。<line-break>…でも、ふたりが、<line-break>カフィンも、レイヴンも<line-break>目を開けてくれないんです…。<end>"
+english = "<value:$28>... Thank you for defeating the Soul Eater. But neither of them―Coffin or Raven―will open their eyes...<end>"
+
+["890661"]
+japanese = "…やっと、<line-break>ソウルイーターを倒したのに…。<line-break>こんなはずじゃ、なかったのに…。<line-break>わたし、何をやってるんだろう…<line-break>結局また大切な人たちを失って…。<end>"
+english = "We finally defeated the Soul Eater... This wasn't how it was supposed to end. What am I even doing? In the end, I've lost the people I love all over again...<end>"
+
+["890662"]
+japanese = "ノエル、このふたりを生き返らせる<line-break>手段はないでもない。<end>"
+english = "Noel, there may yet be a way to bring these two back to life.<end>"
+
+["890663"]
+japanese = "今、なんて…？<end>"
+english = "What did you just say...?<end>"
+
+["890664"]
+japanese = "このふたりを生き返らせる手段は<line-break>ないでもない、そう言ったのだ。<end>"
+english = "I said there may yet be a way to bring these two back to life.<end>"
+
+["890665"]
+japanese = "え？\u3000え！？<line-break>…それは、どうすれば…？<end>"
+english = "What? There is?! What do I have to do...?<end>"
+
+["890666"]
+japanese = "ここは、竜王様のおられる地。<line-break>竜王様に願うのだ。ふたりの復活を。<end>"
+english = "This is the land where the Dragon King dwells. Pray to the Dragon King for their resurrection.<end>"
+
+["890667"]
+japanese = "竜王様に…願う…？<end>"
+english = "Pray... to the Dragon King?<end>"
+
+["890668"]
+japanese = "シルヴァは以前より竜王様への<line-break>信仰が厚かった地。お前も幼少より、<line-break>竜王様に祈りを捧げてきたのだろう？<end>"
+english = "Silva has long been a land of deep devotion to the Dragon King. You have offered prayers to the Dragon King since childhood, have you not?<end>"
+
+["890669"]
+japanese = "え？\u3000あ、はい。<line-break>いつも、お祈りには<line-break>参加してましたけど…。<end>"
+english = "Oh? Ah, yes. I always took part in the prayers, but...<end>"
+
+["890670"]
+japanese = "そのお前の願いなら、<line-break>無限のソウルを持つ<line-break>お前の願いであるのなら、<line-break>竜王様がお聞き届けに<line-break>なるやもしれぬ。<line-break>さぁ、願うがいい。<end>"
+english = "Then the Dragon King may heed your plea―yours, who possesses the Infinite Soul. Go. Make your wish.<end>"
+
+["890671"]
+japanese = "竜王様、どうかわたし、<line-break>ノエル・シルヴァの<line-break>願いをお聞き届けください。<line-break>人々のソウルを取り戻すために<line-break>戦った、勇気ある友人たち…<end>"
+english = "Dragon King, please hear the plea of Noel Silva. My brave friends fought to restore the people's Souls...<end>"
+
+["890672"]
+japanese = "カフィン、レイヴン、<line-break>両名の復活を！<end>"
+english = "Restore Coffin and Raven to life!<end>"
+
+["890673"]
+japanese = "こ、この声は…！<end>"
+english = "Th-this voice...!<end>"
+
+["890674"]
+japanese = "…竜王様だ。<end>"
+english = "It is the Dragon King...<end>"
+
+["890675"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000我を崇めし娘、\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000ノエルよ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000汝の願い、しかと聞いた。<end>"
+english = "Noel, maiden who worships me, Bearer of the Infinite Soul. I have heard your plea.<end>"
+
+["890676"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000我が力をもってすれば、\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000汝の願いを聞き届けるのは<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000たやすいこと。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000だが…<end>"
+english = "With my power, granting your wish would be a simple matter. But...<end>"
+
+["890677"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000だが、そのときは\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000汝は我の授けし使命を<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000果たさねばならぬ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000それでも、よいか？<end>"
+english = "But if I do, you must fulfill the mission I bestow upon you. Do you accept, even so?<end>"
+
+["890678"]
+japanese = "竜王様の…使命…？\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>はい、かまいません！<line-break>わたしにできることなら<line-break>何でもします！<end>"
+english = "A mission... from the Dragon King? Yes, I accept! If it's something I can do, I'll do anything!<end>"
+
+["890679"]
+japanese = "わたしの大切な人たちを<line-break>助けるためなら、<line-break>何だって…！<end>"
+english = "If it will save the people I love, I'll do anything...!<end>"
+
+["890680"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000その言葉、\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000偽りはないか？<line-break>\u3000<line-break>\u3000<end>"
+english = "Do you speak those words truly?<end>"
+
+["890681"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よかろう。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000汝の願い、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000しかと聞き届けた。<line-break>\u3000<end>"
+english = "Very well. Your wish is granted.<end>"
+
+["890682"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000ノエルよ…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000我との約束、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000忘れるでないぞ。<line-break>\u3000<end>"
+english = "Noel... Do not forget your promise to me.<end>"
+
+["890683"]
+japanese = "ノエル！<end>"
+english = "Noel!<end>"
+
+["890684"]
+japanese = "…ノエル。<end>"
+english = "Noel...<end>"
+
+["890685"]
+japanese = "…カフィン、<line-break>…レイヴン！<end>"
+english = "Coffin... Raven!<end>"
+
+["890686"]
+japanese = "な、なんてことだ…<line-break>俺が、ここにいるということは…<line-break>立って、息をしているということは…！<end>"
+english = "H-how can this be...? If I'm here... standing and breathing, then...!<end>"
+
+["890687"]
+japanese = "ノエル、あなた…。<end>"
+english = "Noel, you...<end>"
+
+["890688"]
+japanese = "はい。<line-break>わたし、一生懸命、祈ったんです…。<line-break><line-break>みんなの魂が、あるべきところへ<line-break>戻って来るようにって…。<end>"
+english = "Yes. I prayed with all my heart... I prayed for everyone's souls to return to where they belong...<end>"
+
+["890689"]
+japanese = "ノエル…。<end>"
+english = "Noel...<end>"
+
+["890690"]
+japanese = "ノエル。<line-break>そして、カフィン、レイヴン。<line-break>\u3000<line-break>竜王様の与えられた奇跡の力を<line-break>いつまでも忘れないことだ。<end>"
+english = "Noel. Coffin, Raven. Never forget the miraculous power bestowed by the Dragon King.<end>"
+
+["890691"]
+japanese = "はい。決して忘れません。<line-break>\u3000<line-break>\u3000<line-break>竜王様がわたしを必要とされるなら、<line-break>そのときは、必ず今日のお礼に！<end>"
+english = "I won't. I will never forget. If the Dragon King ever has need of me, I promise I'll repay today's kindness!<end>"
+
+["890692"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["890693"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["890694"]
+japanese = "では、行くとするか。<end>"
+english = "Then let us be on our way.<end>"
+
+["890695"]
+japanese = "あ、待ってください！<end>"
+english = "Wait, please!<end>"
+
+["890696"]
+japanese = "<value:$28>さん、<line-break>今日は本当に<line-break>ありがとうございました！<line-break>わたし、<value:$28>さんなら<line-break>きっと、助けに来てくれるって<line-break>信じてたんです！<end>"
+english = "<value:$28>, thank you so much for everything today! I knew <value:$28> would come to help us!<end>"
+
+["890697"]
+japanese = "あ、あの、<line-break><value:$28>さん…。<line-break><line-break>これで…これで、<line-break>本当に良かったんでしょうか…？<end>"
+english = "Um, <value:$28>... Was this... was this really the right thing to do...?<end>"
+
+["890698"]
+japanese = "ソウルイーターが倒れて、<line-break>みんなにソウルが…<line-break>カフィンにも、レイヴンにも、<line-break>シルヴァのみんなにも、<line-break>ソウルが戻ったのだもの…。<end>"
+english = "The Soul Eater is gone, and the Souls have returned to everyone―to Coffin, Raven, and all the people of Silva...<end>"
+
+["890699"]
+japanese = "わたし、正しい判断をしたんですよね？<line-break>そう…ですよねっ？<end>"
+english = "I made the right choice, didn't I? I did... didn't I?<end>"
+
+["890700"]
+japanese = "おりゃあ！<end>"
+english = "Hyaaah!<end>"
+
+["890701"]
+japanese = "ぐああああ！<line-break>俺様不敗伝説がぁ！<end>"
+english = "Gaaaaah! My legend of invincibility!<end>"
+
+["890702"]
+japanese = "けっ！\u3000なにが不敗伝説だ。<line-break>トドメをさしてやるぜ！<end>"
+english = "Hah! Some legend of invincibility. I'll finish you off!<end>"
+
+["890703"]
+japanese = "ヴァンを止める<end>"
+english = "Stop Van<end>"
+
+["890704"]
+japanese = "黙って見ている<end>"
+english = "Watch in silence<end>"
+
+["890705"]
+japanese = "待って、ヴァン！<line-break><value:$28>の言うとおりだよ！<end>"
+english = "Wait, Van! <value:$28> is right!<end>"
+
+["890706"]
+japanese = "ナッジ、<value:$28>！<line-break>てめえら、余計なお世話だぜ！<end>"
+english = "Nadge, <value:$28>! Mind your own damn business!<end>"
+
+["890707"]
+japanese = "待って！<end>"
+english = "Wait!<end>"
+
+["890708"]
+japanese = "どけよ！<line-break>俺がそいつにどんな目に遭わされたか<line-break>知らないワケじゃないだろ！<end>"
+english = "Get out of my way! You know what that bastard put me through!<end>"
+
+["890709"]
+japanese = "それは…そうだけど。<end>"
+english = "I know, but...<end>"
+
+["890710"]
+japanese = "なら…どうして！<line-break>俺達、友達だろ？<line-break>どうして、俺の邪魔をするんだよ！<end>"
+english = "Then why? We're friends, aren't we? Why are you trying to stop me?<end>"
+
+["890711"]
+japanese = "友達だから！<end>"
+english = "Because we're friends!<end>"
+
+["890712"]
+japanese = "なに？<end>"
+english = "What?<end>"
+
+["890713"]
+japanese = "友達だからだよ、ヴァン。<line-break>僕はある人に言われたんだ。<line-break> <line-break>復讐を果たしたときにどうするのか。<line-break>復讐したあとにどうするのか。<line-break>って…。<end>"
+english = "That's why, Van. Because we're friends. Someone once asked me what I would do when I'd taken my revenge―what I would do afterward.<end>"
+
+["890714"]
+japanese = "でもね。いくら考えても何もないんだ。<line-break>何も浮かばなかったんだ。<line-break> <line-break>僕がガルドランを殺しても…。<line-break>ヴァンの怪我が良くなるワケじゃない。<line-break>僕が強くなるワケでもない。<end>"
+english = "But no matter how much I thought about it, there was nothing. I couldn't think of a single thing. Even if I killed Girldlan, it wouldn't heal your wounds. It wouldn't make me any stronger.<end>"
+
+["890715"]
+japanese = "何も…。<line-break>そう、何もないんだ。<line-break> <line-break>ただ、一つの命が奪われて<line-break>それを悲しむ人達がいて。<line-break>それに憤りを覚える人がいて。<end>"
+english = "Nothing... No, there'd be nothing. One life would be taken. People would grieve that loss, and someone would be outraged by it.<end>"
+
+["890716"]
+japanese = "一つの未来が、<line-break>たくさんの可能性が<line-break>失われてしまうんだ。永遠に。<line-break>そして、それが繰り返される。<line-break>ねぇ、ヴァン。<line-break>それが正しいことなのかな。<end>"
+english = "One future, with all its possibilities, would be lost forever. And then it would happen all over again. Tell me, Van... can that really be right?<end>"
+
+["890717"]
+japanese = "僕には…<line-break>僕には分からないんだ。<end>"
+english = "I... I don't know.<end>"
+
+["890718"]
+japanese = "そ、それは…<end>"
+english = "Th-that's...<end>"
+
+["890719"]
+japanese = "チッ！\u3000仕方ねぇなぁ。<end>"
+english = "Tch. Fine, then.<end>"
+
+["890720"]
+japanese = "ガルドランをこのヴァンが、<line-break>テラネのヴァンがヴァーンと倒した。<line-break>これで勘弁してやるぜ。<end>"
+english = "Girldlan was vanquished by Van―Van of Terane! That'll have to be enough.<end>"
+
+["890721"]
+japanese = "ヴァン！<end>"
+english = "Van!<end>"
+
+["890722"]
+japanese = "こ、これは…友情の光！<line-break>友情の光が俺様を癒す。<end>"
+english = "Th-this is... the light of friendship! The light of friendship is healing me!<end>"
+
+["890723"]
+japanese = "俺様、復活！<end>"
+english = "I have returned!<end>"
+
+["890724"]
+japanese = "けっ…もう、暴れんじゃねぇぞ。<end>"
+english = "Tch... Don't go running wild again.<end>"
+
+["890725"]
+japanese = "友情の光を放つ者達が悪のはずはない。<line-break>俺様は間違っていたようだ。<line-break>友情の力は俺様に力を与える！<line-break>正しい魂よ。<line-break>これからも俺様を応援してくれ！<line-break>さらばだ！<end>"
+english = "Those who shine with the light of friendship cannot be evil. It seems I was mistaken. The power of friendship fills me with strength! O righteous souls, continue to cheer me on! Farewell!<end>"
+
+["890726"]
+japanese = "お、おいっ！<line-break> <line-break> <line-break>…行っちまった。<line-break>あいつ、反省してるのか？<line-break>"
+english = "H-hey! He's gone... Did he actually learn anything?"
+
+["890727"]
+japanese = "まあ、終わったからいいか。<end>"
+english = "Well, it's over. That's what matters.<end>"
+
+["890728"]
+japanese = "ところで、<value:$28>…。<line-break>俺も仲間に加えてくれ。<line-break>俺、お前らと一緒に旅がしたいんだ。<end>"
+english = "By the way, <value:$28>... let me join you. I want to travel with you.<end>"
+
+["890729"]
+japanese = "ところで、ナッジ。<line-break>俺の怪我もよくなったし、<line-break>今度こそ俺と旅に出ないか？<end>"
+english = "By the way, Nadge, my injury's better now. Will you come travel with me this time?<end>"
+
+["890730"]
+japanese = "僕はいま、<line-break>この<value:$28>と<line-break>旅をしてるんだ。<end>"
+english = "I'm traveling with <value:$28> now.<end>"
+
+["890731"]
+japanese = "そうか。<line-break><value:$28>か。<line-break><line-break>じゃ、よろしくな、<line-break><value:$28>。<end>"
+english = "Oh. <value:$28>, huh? Well, good to meet you, <value:$28>.<end>"
+
+["890732"]
+japanese = "…<value:$28>！<line-break>ヴァンには宿屋が…。<end>"
+english = "<value:$28>! But Van has the inn...<end>"
+
+["890733"]
+japanese = "お主たちも立つことはできまい？<line-break>もはや、破壊神の復活を<line-break>妨げることはできん。<line-break>お主たちもソウルを<line-break>ウルグ様にささげるがよい。<end>"
+english = "You cannot even stand, can you? It is too late to prevent the resurrection of the God of Destruction. Offer your Souls to Lord Urg as well.<end>"
+
+["890734"]
+japanese = "ひさしいのう、ベルゼーヴァ。<line-break>結界をすでに張っておったとは。<line-break> <line-break>それを見抜けぬとは、<line-break>わしも、もうろくしたものじゃ。<end>"
+english = "It has been a long time, Beelzeva. To think you had already raised a barrier... I must be growing senile not to have seen through it.<end>"
+
+["890735"]
+japanese = "\u3000\u3000聞こえるか、<value:$28>よ。<end>"
+english = "Can you hear me, <value:$28>?<end>"
+
+["890736"]
+japanese = "\u3000\u3000探してもムダだ。余は汝の心に<line-break>\u3000\u3000\u3000\u3000直接、呼びかけておる。<line-break>\u3000\u3000\u3000他の誰にも聞こえはせぬ。<line-break>                                <line-break>\u3000\u3000\u3000  よいか、<value:$28>。<line-break>\u3000\u3000\u3000汝はベルゼーヴァをつれて<line-break>\u3000\u3000\u3000\u3000脱出してはならん。<end>"
+english = "There is no use looking for me. I am speaking directly into your mind. No one else can hear me. Listen well, <value:$28>. You must not escape with Beelzeva.<end>"
+
+["890737"]
+japanese = "\u3000                           <line-break>\u3000\u3000\u3000 \u3000\u3000フフフ。<line-break>\u3000\u3000\u3000\u3000なぜか、だと？<line-break>\u3000                           <line-break>\u3000                           <line-break>\u3000\u3000 ベルゼーヴァと取り引きをし、<line-break>\u3000 余がその肉体を手に入れるためだ。<end>"
+english = "Heh heh heh. You ask why? So that I may strike a bargain with Beelzeva and take possession of his body.<end>"
+
+["890738"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000 汝が余と共に<line-break>\u3000\u3000人類革新の道を歩みたいのならば、<line-break>\u3000\u3000\u3000 \u3000余の指示通りにするのだ。<line-break>\u3000                           <line-break>\u3000<line-break>\u3000\u3000\u3000\u3000決してベルゼーヴァを<line-break>\u3000\u3000脱出させてはならぬ。わかったな。<end>"
+english = "If you wish to walk beside me on the path to humanity's renewal, then follow my instructions. You must never allow Beelzeva to escape. Is that understood?<end>"
+
+["890739"]
+japanese = "<value:$28>よ…。<line-break>多少、時間はかかったが、<line-break>すべては余の計画通りになった。<line-break>いよいよだぞ。<line-break>我らが人類の革新に<line-break>本格的に乗り出すのは…。<end>"
+english = "<value:$28>... It took some time, but everything has unfolded according to my plan. At last, the moment has come for us to begin humanity's transformation in earnest...<end>"
+
+["890740"]
+japanese = "さて、とりあえず余はディンガル軍に<line-break>戻り、宰相ベルゼーヴァとして<line-break>采配を振るとするか。<line-break>まずは全軍を魔道兵に仕立て、<line-break>戦力増強を図らねばならんからな。<line-break>フフフ…。<end>"
+english = "For now, I shall return to the Dingal Army and take command as Chancellor Beelzeva. My first task will be to turn the entire army into sorcerous troops and strengthen our forces. Heh heh heh...<end>"
+
+["890741"]
+japanese = "エステルメッセージVOL4終端<end>"
+english = ""

@@ -1,0 +1,53 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2080000"]
+japanese = "異種族間の２用開始<end>"
+english = ""
+
+["2080001"]
+japanese = "よぉ！\u3000来たか。<line-break><value:$28>！<end>"
+english = "Hey! You made it, <value:$28>!<end>"
+
+["2080002"]
+japanese = "シェーヌの森で助けてもらったお礼に<line-break>一杯おごるって約束してたからな。<line-break>いつ来るかと待ちわびてたぜ。<line-break>えっ！\u3000酒は飲めないのか？<line-break>そいつは残念だな…。それなら、<line-break>せめてお茶でもおごらせてくれよ。<end>"
+english = "I promised to buy you a drink for helping me in Chene Forest. I've been waiting for you to show up. What? You can't drink? That's a shame… Well, at least let me buy you some tea.<end>"
+
+["2080003"]
+japanese = "ヒューズからルーマティーを\u3000<line-break>おごってもらった。<end>"
+english = "Hughes treated you to some luma tea.<end>"
+
+["2080004"]
+japanese = "…そうか。あんたもけっこう、<line-break>いろんな所を旅しているんだな…。<line-break>\u3000<line-break>どうりで魔物と戦った時も<line-break>落ち着いていたわけだ…。<end>"
+english = "You've traveled around quite a bit too, haven't you? No wonder you were so calm when you fought those monsters.<end>"
+
+["2080005"]
+japanese = "そうだ！\u3000すまないが<line-break>ひとつ頼まれてくれないか？<end>"
+english = "Oh, that reminds me! Sorry to ask, but could you do me a favor?<end>"
+
+["2080006"]
+japanese = "これは、シェーヌの森で<line-break>あの娘を助けたときに<line-break>拾ったペンダントだ。<line-break>返しに行くつもりだったが、<line-break>急な仕事が入っちまったんでな。<line-break>\u3000<line-break>できれば、あんたに代わりを<line-break>頼みたいんだ。<line-break>\u3000<line-break>あんたは信用できる上に<line-break>かなり腕も立つ。<line-break>引き受けてくれないか？<end>"
+english = "I found this pendant when I helped that girl in Chene Forest. I meant to return it, but an urgent job came up. If you can, I'd like you to go in my place. I trust you, and you're more than capable. Will you do it?<end>"
+
+["2080007"]
+japanese = "仕方ないな<end>"
+english = "All right, I'll do it.<end>"
+
+["2080008"]
+japanese = "忙しいからダメ<end>"
+english = "I'm too busy.<end>"
+
+["2080009"]
+japanese = "ありがとう！\u3000シェーヌの森に<line-break>届けてくれるんだな。<line-break>これで俺も安心して旅立てる。<end>"
+english = "Thanks! You'll take it to Chene Forest, then. Now I can leave with one less thing to worry about.<end>"
+
+["2080010"]
+japanese = "恩に着るぜ。<line-break>今日のところはここでお別れだ。<line-break>またな、<value:$28>！<end>"
+english = "I owe you one. This is goodbye for now. See you around, <value:$28>!<end>"
+
+["2080011"]
+japanese = "…そうか。まあ仕方ないよな。<line-break>あんたにはあんたの仕事が<line-break>あるんだろうし。<line-break>無理な頼み事をして悪かった。<line-break>他を当たるよ。すまんな。<end>"
+english = "Oh. Well, I can't blame you. You've got your own work to do. Sorry for asking so much of you. I'll find someone else. Sorry about that.<end>"
+
+["2080012"]
+japanese = "異種族間の２用終端<end>"
+english = ""

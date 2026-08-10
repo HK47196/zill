@@ -1,0 +1,33 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2730000"]
+japanese = "ジリオン＆イーシャイベント17用開始<end>"
+english = ""
+
+["2730001"]
+japanese = "世話になったな、<value:$28>。<line-break>ありがとう。<end>"
+english = "I owe you a great deal, <value:$28>. Thank you.<end>"
+
+["2730002"]
+japanese = "どこに行くのかって？<line-break>…わかっているだろ。<line-break>天経院だ…。<line-break>俺がイーシャを復活させて<line-break>クリスタルに入れば、<line-break>\u3000<line-break>今度はイーシャが俺を救うために<line-break>クリスタルに入ってしまう。<line-break>\u3000<line-break>同じことの繰り返しだ。<line-break>まるで止まることのない<line-break>振り子のようにな。<end>"
+english = "Where am I going? You already know. To Tenkeiin. If I bring Iria back and enter the crystal, she'll only enter it herself to save me. We'd just keep repeating the same thing, like a pendulum that never stops swinging.<end>"
+
+["2730003"]
+japanese = "だから、決めたんだ。<line-break>この果てしない輪廻に<line-break>俺の手で終止符を打つと…。<line-break>俺とイーシャは永遠にひとつになる。<line-break>あのクリスタルの中で…。<end>"
+english = "So I've made my decision. I'll put an end to this endless cycle with my own hands. Iria and I will become one forever, inside that crystal.<end>"
+
+["2730004"]
+japanese = "わかっている。俺もできれば最後まで<line-break><value:$28>と一緒に<line-break>冒険を続けたかった…。<line-break>でも、俺はもうイーシャを<line-break>あのままにしておくことはできない。<line-break>さよならだ。旅の幸運を祈っている。<end>"
+english = "I know. If I could, I'd have liked to keep adventuring with you to the very end, <value:$28>. But I can't leave Iria like that any longer. Goodbye. I wish you luck on your journey.<end>"
+
+["2730005"]
+japanese = "ごめんよ。イーシャ…。<line-break>長い間、寂しい想いをさせて。<end>"
+english = "I'm sorry, Iria, for leaving you lonely all this time.<end>"
+
+["2730006"]
+japanese = "もう、お互いに苦しむこともない。<line-break>これからはずっと一緒だ。<end>"
+english = "Neither of us has to suffer anymore. From now on, we'll always be together.<end>"
+
+["2730007"]
+japanese = "ジリオン＆イーシャイベント17用開終端<end>"
+english = ""

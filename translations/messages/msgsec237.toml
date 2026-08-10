@@ -1,0 +1,313 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2370000"]
+japanese = "PSP用フレア新イベント02用<end>"
+english = ""
+
+["2370001"]
+japanese = "<value:$28>様、<line-break>エルファスという方が言っていた<line-break>救いとは何でしょう？<line-break>人はなぜ、救われたいと<line-break>願っているのですか？<end>"
+english = "<value:$28>, what is this salvation Elfas spoke of? Why do people wish to be saved?<end>"
+
+["2370002"]
+japanese = "何故だろう？<end>"
+english = "I wonder why.<end>"
+
+["2370003"]
+japanese = "幸せになりたいからだ<end>"
+english = "Because I want to be happy.<end>"
+
+["2370004"]
+japanese = "そうですか。<line-break><value:$28>様にも<line-break>わからないことがあるのですね。<end>"
+english = "I see. So there are things even you don't know, <value:$28>.<end>"
+
+["2370005"]
+japanese = "救いについて<line-break><value:$28>に訊いても<line-break>無意味だよ。<end>"
+english = "There's no point asking <value:$28> about salvation.<end>"
+
+["2370006"]
+japanese = "………。<end>"
+english = "...<end>"
+
+["2370007"]
+japanese = "<value:$28>は冒険者だ。<line-break>救いについて説くことなんて<line-break>できやしない。<end>"
+english = "<value:$28> is an adventurer, not someone who can preach about salvation.<end>"
+
+["2370008"]
+japanese = "救世主と名乗っているあなたならば<line-break>救いについて語れるのですか？<end>"
+english = "You call yourself the Savior. Can you tell me what salvation is?<end>"
+
+["2370009"]
+japanese = "ひとつだけ教えてあげよう。<line-break>人が救いを求めるのは、神にすがり、<line-break>心の支えを得たいからだ。<end>"
+english = "I'll tell you one thing. People seek salvation because they want to turn to God and find something to sustain them.<end>"
+
+["2370010"]
+japanese = "幸せ…。<line-break>人は幸せを求めるものなのですか？<end>"
+english = "Happiness... Is that what people seek?<end>"
+
+["2370011"]
+japanese = "救いについて<line-break><value:$28>に訊いても<line-break>無意味だよ。<end>"
+english = "There's no point asking <value:$28> about salvation.<end>"
+
+["2370012"]
+japanese = "………。<end>"
+english = "...<end>"
+
+["2370013"]
+japanese = "君にとって大事なものは何だい？<end>"
+english = "What matters most to you?<end>"
+
+["2370014"]
+japanese = "役目を果たすことです。<line-break>そのためだけに私は生きてきました。<end>"
+english = "Fulfilling my duty. That is all I have ever lived for.<end>"
+
+["2370015"]
+japanese = "そうだ。<line-break>それが君の支えであり、<line-break>生きる理由だった。<line-break>同じように、<line-break>人はみな心の支えを求めている。<line-break>\u3000<line-break>だが、何を支えに選ぶかは<line-break>人によって違う。<end>"
+english = "Exactly. That was what sustained you and gave you a reason to live. In the same way, everyone seeks something to sustain them. But what that is differs from one person to another.<end>"
+
+["2370016"]
+japanese = "彼らは幸せになるために、<line-break>心の支えとして救いを選んだ。<line-break>\u3000<line-break>そして、その救いを僕に…。<line-break>いや、僕を通して神に求めたのさ。<end>"
+english = "They chose salvation as something to sustain them, so they could find happiness. And they sought that salvation from me... No, from God, through me.<end>"
+
+["2370017"]
+japanese = "神にすがってでも幸せを願う彼らを<line-break>誰も否定はできない。<line-break>\u3000<line-break>たとえ、救いを求めることが<line-break>人の心の弱さから<line-break>来るものだとしてもね。<line-break>何にも頼らずに生きていけるほど<line-break>人は強くないんだ…。<end>"
+english = "No one can condemn them for wishing for happiness, even if they must cling to God for it. The desire for salvation may spring from weakness of heart, but people aren't strong enough to live without something to rely on...<end>"
+
+["2370018"]
+japanese = "君も僕も同じだよ。<line-break>僕は救世主という道を選び、<line-break>君は役目を果たすという道を選んだ。<end>"
+english = "You and I are no different. I chose the path of the Savior, and you chose the path of fulfilling your duty.<end>"
+
+["2370019"]
+japanese = "そして、今もそれを支えにして<line-break>生きている…。<end>"
+english = "And even now, we still live by it...<end>"
+
+["2370020"]
+japanese = "<value:$28>様、<line-break>エルファスという方が言っていた<line-break>救いとは何でしょう？<line-break>人はなぜ、救われたいと<line-break>願っているのですか？<end>"
+english = "<value:$28>, what is the salvation Elfas spoke of? Why do people long to be saved?<end>"
+
+["2370021"]
+japanese = "何故だろう？<end>"
+english = "I wonder why.<end>"
+
+["2370022"]
+japanese = "幸せになりたいからだ<end>"
+english = "Because I want to be happy.<end>"
+
+["2370023"]
+japanese = "そうですか。<line-break><value:$28>様にも<line-break>わからないことがあるのですね。<end>"
+english = "I see. So there are things even you do not know, <value:$28>.<end>"
+
+["2370024"]
+japanese = "救いについて<line-break><value:$28>に訊いても<line-break>無意味だよ。<end>"
+english = "There is no point asking <value:$28> about salvation.<end>"
+
+["2370025"]
+japanese = "………。<end>"
+english = "...<end>"
+
+["2370026"]
+japanese = "<value:$28>は冒険者だ。<line-break>救いについて説くことなんて<line-break>できやしない。<end>"
+english = "<value:$28> is an adventurer, not someone who can preach about salvation.<end>"
+
+["2370027"]
+japanese = "救世主と名乗っているあなたならば<line-break>救いについて語れるのですか？<end>"
+english = "And since you call yourself the Savior, can you speak of salvation?<end>"
+
+["2370028"]
+japanese = "ひとつだけ教えてあげよう。<line-break>人が救いを求めるのは、神にすがり、<line-break>心の支えを得たいからだ。<end>"
+english = "I will tell you one thing. People seek salvation because they want to cling to God and find something to sustain them.<end>"
+
+["2370029"]
+japanese = "幸せ…。<line-break>人は幸せを求めるものなのですか？<end>"
+english = "Happiness... Is that what people seek?<end>"
+
+["2370030"]
+japanese = "救いについて<line-break><value:$28>に訊いても<line-break>無意味だよ。<end>"
+english = "There is no point asking <value:$28> about salvation.<end>"
+
+["2370031"]
+japanese = "………。<end>"
+english = "...<end>"
+
+["2370032"]
+japanese = "君にとって大事なものは何だい？<end>"
+english = "What matters most to you?<end>"
+
+["2370033"]
+japanese = "役目を果たすことです。<line-break>そのためだけに私は生きてきました。<end>"
+english = "Fulfilling my duty. That alone is what I have lived for.<end>"
+
+["2370034"]
+japanese = "そうだ。<line-break>それが君の支えであり、<line-break>生きる理由だった。<line-break>同じように、<line-break>人はみな心の支えを求めている。<line-break>\u3000<line-break>だが、何を支えに選ぶかは<line-break>人によって違う。<end>"
+english = "Exactly. It sustained you and gave you a reason to live. In the same way, everyone seeks something to sustain them. But what they choose is different for each person.<end>"
+
+["2370035"]
+japanese = "彼らは幸せになるために、<line-break>心の支えとして救いを選んだ。<line-break>\u3000<line-break>そして、その救いを僕に…。<line-break>いや、僕を通して神に求めたのさ。<end>"
+english = "They chose salvation as the thing that would sustain them and bring them happiness. And they sought that salvation from me... No, from God through me.<end>"
+
+["2370036"]
+japanese = "神にすがってでも幸せを願う彼らを<line-break>誰も否定はできない。<line-break>\u3000<line-break>たとえ、救いを求めることが<line-break>人の心の弱さから<line-break>来るものだとしてもね。<line-break>何にも頼らずに生きていけるほど<line-break>人は強くないんだ…。<end>"
+english = "No one can condemn them for longing for happiness, even if they must cling to God to find it―even if the desire for salvation springs from human weakness. People aren't strong enough to live without relying on anything...<end>"
+
+["2370037"]
+japanese = "君も僕も同じだよ。<line-break>僕は救世主という道を選び、<line-break>君は役目を果たすという道を選んだ。<end>"
+english = "You and I are no different. I chose the path of the Savior, and you chose the path of fulfilling your duty.<end>"
+
+["2370038"]
+japanese = "そして、今もそれを支えにして<line-break>生きている…。<end>"
+english = "And even now, those paths are what keep us going.<end>"
+
+["2370039"]
+japanese = "<value:$28>様、<line-break>エルファスという方が言っていた<line-break>救いとは何でしょう？<line-break>人はなぜ、救われたいと<line-break>願っているのですか？<end>"
+english = "Lord <value:$28>, what did Elfas mean by salvation? Why do people long to be saved?<end>"
+
+["2370040"]
+japanese = "何故だろう？<end>"
+english = "I wonder why.<end>"
+
+["2370041"]
+japanese = "幸せになりたいからだ<end>"
+english = "Because they want to be happy.<end>"
+
+["2370042"]
+japanese = "そうですか。<line-break><value:$28>様にも<line-break>わからないことがあるのですね。<end>"
+english = "I see. So there are things even you don't understand, Lord <value:$28>.<end>"
+
+["2370043"]
+japanese = "救いについて<line-break><value:$28>に訊いても<line-break>無意味だよ。<end>"
+english = "There is no point asking <value:$28> about salvation.<end>"
+
+["2370044"]
+japanese = "………。<end>"
+english = "...<end>"
+
+["2370045"]
+japanese = "<value:$28>は冒険者だ。<line-break>救いについて説くことなんて<line-break>できやしない。<end>"
+english = "<value:$28> is an adventurer, hardly someone who can preach about salvation.<end>"
+
+["2370046"]
+japanese = "救世主と名乗っているあなたならば<line-break>救いについて語れるのですか？<end>"
+english = "Then can you speak of salvation, as one who calls himself the Savior?<end>"
+
+["2370047"]
+japanese = "ひとつだけ教えてあげよう。<line-break>人が救いを求めるのは、神にすがり、<line-break>心の支えを得たいからだ。<end>"
+english = "I will tell you one thing. People seek salvation because they want to turn to God and find something to sustain them.<end>"
+
+["2370048"]
+japanese = "幸せ…。<line-break>人は幸せを求めるものなのですか？<end>"
+english = "Happiness... Is that what people seek?<end>"
+
+["2370049"]
+japanese = "救いについて<line-break><value:$28>に訊いても<line-break>無意味だよ。<end>"
+english = "There is no point asking <value:$28> about salvation.<end>"
+
+["2370050"]
+japanese = "………。<end>"
+english = "...<end>"
+
+["2370051"]
+japanese = "君にとって大事なものは何だい？<end>"
+english = "What matters most to you?<end>"
+
+["2370052"]
+japanese = "役目を果たすことです。<line-break>そのためだけに私は生きてきました。<end>"
+english = "Fulfilling my duty. That alone is what I have lived for.<end>"
+
+["2370053"]
+japanese = "そうだ。<line-break>それが君の支えであり、<line-break>生きる理由だった。<line-break>同じように、<line-break>人はみな心の支えを求めている。<line-break>\u3000<line-break>だが、何を支えに選ぶかは<line-break>人によって違う。<end>"
+english = "Exactly. It sustained you and gave you a reason to live. In the same way, everyone seeks something to sustain them. But what they choose differs from one person to the next.<end>"
+
+["2370054"]
+japanese = "彼らは幸せになるために、<line-break>心の支えとして救いを選んだ。<line-break>\u3000<line-break>そして、その救いを僕に…。<line-break>いや、僕を通して神に求めたのさ。<end>"
+english = "They chose salvation as something to sustain them in their search for happiness. And they sought that salvation from me... No, from God through me.<end>"
+
+["2370055"]
+japanese = "神にすがってでも幸せを願う彼らを<line-break>誰も否定はできない。<line-break>\u3000<line-break>たとえ、救いを求めることが<line-break>人の心の弱さから<line-break>来るものだとしてもね。<line-break>何にも頼らずに生きていけるほど<line-break>人は強くないんだ…。<end>"
+english = "No one can condemn them for seeking happiness, even if it means clinging to God. Even if the desire for salvation is born of human weakness. People are not strong enough to live without relying on anything...<end>"
+
+["2370056"]
+japanese = "君も僕も同じだよ。<line-break>僕は救世主という道を選び、<line-break>君は役目を果たすという道を選んだ。<end>"
+english = "You and I are no different. I chose the path of the Savior, and you chose the path of fulfilling your duty.<end>"
+
+["2370057"]
+japanese = "そして、今もそれを支えにして<line-break>生きている…。<end>"
+english = "And even now, we live by holding fast to those paths...<end>"
+
+["2370058"]
+japanese = "<value:$28>様、<line-break>エルファスという方が言っていた<line-break>救いとは何でしょう？<line-break>人はなぜ、救われたいと<line-break>願っているのですか？<end>"
+english = "Lord <value:$28>, what did Elfas mean by salvation? Why do people wish to be saved?<end>"
+
+["2370059"]
+japanese = "何故だろう？<end>"
+english = "I wonder why.<end>"
+
+["2370060"]
+japanese = "幸せになりたいからだ<end>"
+english = "Because people want to be happy.<end>"
+
+["2370061"]
+japanese = "そうですか。<line-break><value:$28>様にも<line-break>わからないことがあるのですね。<end>"
+english = "I see. So there are things even you do not understand, Lord <value:$28>.<end>"
+
+["2370062"]
+japanese = "救いについて<line-break><value:$28>に訊いても<line-break>無意味だよ。<end>"
+english = "There's no point asking <value:$28> about salvation.<end>"
+
+["2370063"]
+japanese = "………。<end>"
+english = "...<end>"
+
+["2370064"]
+japanese = "<value:$28>は冒険者だ。<line-break>救いについて説くことなんて<line-break>できやしない。<end>"
+english = "<value:$28> is an adventurer. An adventurer can hardly preach about salvation.<end>"
+
+["2370065"]
+japanese = "救世主と名乗っているあなたならば<line-break>救いについて語れるのですか？<end>"
+english = "Then can you, who call yourself the Savior, tell me about salvation?<end>"
+
+["2370066"]
+japanese = "ひとつだけ教えてあげよう。<line-break>人が救いを求めるのは、神にすがり、<line-break>心の支えを得たいからだ。<end>"
+english = "I'll tell you one thing. People seek salvation because they want to cling to God and find something to sustain them.<end>"
+
+["2370067"]
+japanese = "幸せ…。<line-break>人は幸せを求めるものなのですか？<end>"
+english = "Happiness... Is that what people seek?<end>"
+
+["2370068"]
+japanese = "救いについて<line-break><value:$28>に訊いても<line-break>無意味だよ。<end>"
+english = "There's no point asking <value:$28> about salvation.<end>"
+
+["2370069"]
+japanese = "………。<end>"
+english = "...<end>"
+
+["2370070"]
+japanese = "君にとって大事なものは何だい？<end>"
+english = "What matters most to you?<end>"
+
+["2370071"]
+japanese = "役目を果たすことです。<line-break>そのためだけに私は生きてきました。<end>"
+english = "Fulfilling my duty. That is the sole purpose for which I have lived.<end>"
+
+["2370072"]
+japanese = "そうだ。<line-break>それが君の支えであり、<line-break>生きる理由だった。<line-break>同じように、<line-break>人はみな心の支えを求めている。<line-break>\u3000<line-break>だが、何を支えに選ぶかは<line-break>人によって違う。<end>"
+english = "Exactly. That was what sustained you and gave you a reason to live. In the same way, everyone seeks something to sustain them. But what they choose differs from person to person.<end>"
+
+["2370073"]
+japanese = "彼らは幸せになるために、<line-break>心の支えとして救いを選んだ。<line-break>\u3000<line-break>そして、その救いを僕に…。<line-break>いや、僕を通して神に求めたのさ。<end>"
+english = "They chose salvation as something to sustain them in their pursuit of happiness. And they sought that salvation from me... No, from God through me.<end>"
+
+["2370074"]
+japanese = "神にすがってでも幸せを願う彼らを<line-break>誰も否定はできない。<line-break>\u3000<line-break>たとえ、救いを求めることが<line-break>人の心の弱さから<line-break>来るものだとしてもね。<line-break>何にも頼らずに生きていけるほど<line-break>人は強くないんだ…。<end>"
+english = "No one can condemn them for seeking happiness, even if it means clinging to God. Even if the desire for salvation springs from weakness in the human heart. People aren't strong enough to live without relying on anything...<end>"
+
+["2370075"]
+japanese = "君も僕も同じだよ。<line-break>僕は救世主という道を選び、<line-break>君は役目を果たすという道を選んだ。<end>"
+english = "You and I are the same. I chose the path of the Savior, and you chose the path of fulfilling your duty.<end>"
+
+["2370076"]
+japanese = "そして、今もそれを支えにして<line-break>生きている…。<end>"
+english = "And even now, that is what sustains us and keeps us alive...<end>"
+
+["2370077"]
+japanese = "PSP用フレア新イベント02用<end>"
+english = ""

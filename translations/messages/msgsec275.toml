@@ -1,0 +1,33 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2750000"]
+japanese = "ジリオン＆イーシャイベント19用開始<end>"
+english = ""
+
+["2750001"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["2750002"]
+japanese = "ううん、星を見ていたんじゃないわ。<line-break>ちょっと寝つけなかったから<line-break>昨日見た夢を思い出していたの。<line-break>そう。ジリオンの夢…。<line-break>せっかく夢で会えたのに<line-break>あいつはただ微笑んでいただけ。<end>"
+english = "No, I wasn't looking at the stars. I couldn't sleep, so I was thinking about the dream I had last night. It was about Zillion... Even though I finally got to see him in a dream, all he did was smile.<end>"
+
+["2750003"]
+japanese = "でも、とてもなつかしいその笑顔が<line-break>どことなく別れを告げているように<line-break>感じられたの。不思議よね。<line-break>それでいて、あいつは夢のなかで<line-break>最後にこう言ったのよ。<line-break>幸せになれって。<end>"
+english = "But that familiar smile somehow felt like a farewell. Strange, isn't it? And yet, at the very end of the dream, he told me to be happy.<end>"
+
+["2750004"]
+japanese = "あれっ？<line-break>急に、涙がこぼれて…。<line-break>どうしたのかしら、あたし。<end>"
+english = "Huh? I'm crying all of a sudden... What's wrong with me?<end>"
+
+["2750005"]
+japanese = "ごめんなさい、<value:$28>。<line-break>変なところ見せちゃって。<line-break>\u3000<line-break>でも、なんだか泣いてすっきりしたわ。<end>"
+english = "I'm sorry, <value:$28>. I didn't mean for you to see me like this. But somehow, I feel better after crying.<end>"
+
+["2750006"]
+japanese = "ありがとう。<value:$28>と会えてよかった。\u3000<line-break>あたしひとりだけなら、きっと<line-break>無力感にさいなまれ、迷子みたいに<line-break>闇のなかで途方に暮れていたと思う。<line-break>もう一度、言わせて<value:$28>。<line-break>ありがとう…。<end>"
+english = "Thank you. I'm so glad I met you, <value:$28>. If I'd been all alone, I think the helplessness would have consumed me, leaving me lost in the dark with no idea where to turn. Let me say it once more, <value:$28>. Thank you...<end>"
+
+["2750007"]
+japanese = "ジリオン＆イーシャイベント19用開終端<end>"
+english = ""

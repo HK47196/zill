@@ -1,0 +1,601 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["570000"]
+japanese = "ルルアンタ・ボリューム１その２開始<end>"
+english = ""
+
+["570001"]
+japanese = "ここは…。<line-break>いや、ここがそうなのか…。<end>"
+english = "This is... No, so this is the place...<end>"
+
+["570002"]
+japanese = "ええ、お察しのとおりです。<line-break>ようこそ、猫屋敷へ。<end>"
+english = "Yes, just as you suspected. Welcome to Cat Manor.<end>"
+
+["570003"]
+japanese = "……？\u3000あなたは…。<line-break>なるほど。どうりでこの屋敷の結界を<line-break>通り抜けられるわけですね。<end>"
+english = "...? You... Ah, of course. That explains how you passed through the barrier around the manor.<end>"
+
+["570004"]
+japanese = "はじめまして。<line-break>私はオルファウス。<line-break>この屋敷の主です。<end>"
+english = "A pleasure to meet you. I am Orphaus, master of this manor.<end>"
+
+["570005"]
+japanese = "俺はゼネテス。<line-break>そしてこっちは<value:$28>。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>いきなりで悪いが<line-break>俺たちは人を探している。<line-break>ルルアンタというリルビーの少女だ。<end>"
+english = "I'm Xenetes, and this is <value:$28>. Sorry to spring this on you, but we're looking for someone―a young Lilbie named Lulluantha.<end>"
+
+["570006"]
+japanese = "ルルアンタさん…ですか？<end>"
+english = "Lulluantha...?<end>"
+
+["570007"]
+japanese = "ああ、盗賊にさらわれちまってな。<line-break>この森にいるらしいんだが<line-break>見なかったかい？<end>"
+english = "Yeah. Bandits carried her off. We heard she was somewhere in this forest. Have you seen her?<end>"
+
+["570008"]
+japanese = "ああ、あの子ですか。<line-break>ええ、お会いしましたよ。\u3000<line-break>ですが、今どこにいるのかは<line-break>私にもわかりません。<end>"
+english = "Ah, that girl. Yes, I met her. But I'm afraid I don't know where she is now.<end>"
+
+["570009"]
+japanese = "そんなにあせらないでください。<line-break>どうです？\u3000ここで立ち話もなんですし<line-break>中でお話ししませんか？<end>"
+english = "Please, don't be so hasty. Rather than stand here talking, why don't we go inside?<end>"
+
+["570010"]
+japanese = "ん、ああ。お前さんの気持ちはわかる。<line-break>だが、今あせることが<line-break>いい結果を生むとは限らない。<line-break>ここが猫屋敷ということは<line-break>あいつは猫屋敷の賢者様だ。<line-break>きっと何か、道を示してくれるさ。<end>"
+english = "Yeah, I know how you feel. But rushing off now won't necessarily help. This is Cat Manor, so that must be the Sage of Cat Manor. I'm sure the sage can point us in the right direction.<end>"
+
+["570011"]
+japanese = "というわけで、盗賊からは助けました。<line-break>ですが、彼女は私に短く礼を言ったあと<line-break>またどこかへと去っていきました。<line-break>とてもさびしそうな顔をしていました。<line-break>……すいません、私が知っているのは<line-break>これくらいのものです。<end>"
+english = "So, I rescued her from the bandits. But after briefly thanking me, she went off somewhere again. She looked terribly lonely. I'm sorry, but that is all I know.<end>"
+
+["570012"]
+japanese = "…そうか。<line-break>いや、無事ならいいんだ。<line-break>助けてくれてありがとう。<end>"
+english = "I see... No, as long as she's safe, that's what matters. Thanks for helping her.<end>"
+
+["570013"]
+japanese = "いえいえ。<end>"
+english = "Think nothing of it.<end>"
+
+["570014"]
+japanese = "そういえばさっき、<line-break>何か話そうとしてたな。<line-break>\u3000<line-break>なんだい？<line-break>俺たちにできる話なら<line-break>相談に乗るぜ。<end>"
+english = "Come to think of it, you were about to say something earlier. What is it? If there's anything we can do, let's hear it.<end>"
+
+["570015"]
+japanese = "ええ。<line-break>実はお願いしたい事があります。<end>"
+english = "Yes. There is something I would like to ask of you.<end>"
+
+["570016"]
+japanese = "例のミイス村が焼き払われたことと<line-break>関係があるのかい。<end>"
+english = "Does it have something to do with Miis Village being burned to the ground?<end>"
+
+["570017"]
+japanese = "さすがは、剣狼のゼネテスですね。<line-break>噂通りの冒険者だ。耳が早い。<line-break>\u3000<line-break>そうです。<line-break>ことはミイスを焼き払った魔人<line-break>アーギルシャイアに関わります。<end>"
+english = "Just what I'd expect from Xenetes the Sword Wolf. You're every bit the adventurer they say you are, and you have a keen ear for news. Yes. This concerns Argyleshire, the demon who burned Miis.<end>"
+
+["570018"]
+japanese = "アーギルシャイア…？<end>"
+english = "Argyleshire...?<end>"
+
+["570019"]
+japanese = "破壊神ウルグの円卓騎士と呼ばれる\u3000<line-break>強力な魔人の１人です。<line-break>\u3000<line-break>妖艶な美女で、残酷で気まぐれです。<line-break>闇の神器をひとつ手に入れるために<line-break>ミイスを焼き払ってしまいました。<end>"
+english = "She is one of the powerful demons known as the Knights of the Round Table of Urg, the God of Destruction. A bewitching beauty, she is cruel and capricious. She burned Miis to the ground merely to obtain one of the Dark Artifacts.<end>"
+
+["570020"]
+japanese = "闇の神器。強大で凶々しい力を持つ<line-break>１２の魔道器だ。かつて破壊神ウルグの<line-break>復活に使われたことがあるという。<end>"
+english = "The Dark Artifacts. Twelve magical relics of immense and baleful power. They are said to have once been used to resurrect Urg, the God of Destruction.<end>"
+
+["570021"]
+japanese = "正解です。よく、ご存じですね。<line-break>ただ、彼女はその本来の使い方<line-break>以外のことをしようとしています。<line-break>彼女は究極の合成怪物を作り<line-break>その力でおもしろ半分に世界を<line-break>破壊しようと考えているのです。<end>"
+english = "Correct. You know a great deal about them. But she intends to use one for something other than its original purpose. She means to create the ultimate chimeric monster, then use its power to destroy the world for her own amusement.<end>"
+
+["570022"]
+japanese = "その合成怪物を作るための知識を<line-break>闇の神器のひとつ、禁断の聖杯から<line-break>得ようとしているのです。<end>"
+english = "She hopes to obtain the knowledge needed to create that monster from the Forbidden Grail, one of the Dark Artifacts.<end>"
+
+["570023"]
+japanese = "なるほど、ね。その禁断の聖杯が<line-break>アーギルシャイアの手に落ちる前に<line-break>俺たちに取ってきてほしいってわけか。<line-break>だが、聖杯って名前の魔道器が<line-break>盗み出される事件がロストールで<line-break>最近あったと思ったがな。<end>"
+english = "I get it. You want us to retrieve the Forbidden Grail before Argyleshire gets hold of it. But wasn't a magical relic called a Grail stolen in Rostorl recently?<end>"
+
+["570024"]
+japanese = "もし、それが禁断の聖杯だったら、<line-break>もう、聖杯はアーギルシャイアの<line-break>手に渡ってるんじゃないか。<end>"
+english = "If that was the Forbidden Grail, wouldn't it already be in Argyleshire's hands?<end>"
+
+["570025"]
+japanese = "さすがに鋭いですね。その通り。<line-break>その聖杯こそ禁断の聖杯です。<line-break>\u3000<line-break>ですが、それを盗み出させたのは<line-break>魔人アーギルシャイアではない<line-break>別の魔人なのです。<end>"
+english = "Very perceptive. That's right: that Grail is the Forbidden Grail. But it wasn't Argyleshire who had it stolen. It was another demon.<end>"
+
+["570026"]
+japanese = "それは？<end>"
+english = "Who?<end>"
+
+["570027"]
+japanese = "こいつですよ。<end>"
+english = "This fellow.<end>"
+
+["570028"]
+japanese = "やめろ、こら！<line-break>俺をつまむんじゃねぇ！<end>"
+english = "Hey, stop that! Don't pick me up!<end>"
+
+["570029"]
+japanese = "なんだ、そいつ？<end>"
+english = "What's that thing?<end>"
+
+["570030"]
+japanese = "なんだとはごあいさつだな。<line-break>俺の名は…<end>"
+english = "“That thing”? That's a fine way to greet someone. My name is...<end>"
+
+["570031"]
+japanese = "破壊神の円卓騎士ネモです。<line-break>勇者ネメアに倒されてからは<line-break>猫の姿に封印されているのです。\u3000\u3000<line-break>もともと聖杯は彼のものなのです。<line-break>アーギルシャイアの企みを知った彼は<line-break>自分の神器を奪われたくないと考え、<end>"
+english = "This is Nemo, a Knight of the Round Table of the God of Destruction. Ever since the Hero Nemea defeated him, he has been sealed in the form of a cat. The Grail originally belonged to him. When he learned of Argyleshire's scheme, he decided he could not allow his Artifact to be taken, so...<end>"
+
+["570032"]
+japanese = "この際、神器の力でもとの姿に戻ろうと<line-break>３匹のゴブリンたちを使って神器を<line-break>ロストールから盗み出させたのです。<end>"
+english = "He had three Goblins steal the Artifact from Rostorl, intending to use its power to restore his true form while he had the chance.<end>"
+
+["570033"]
+japanese = "だが、こいつは猫のままだが？<end>"
+english = "But he's still a cat, isn't he?<end>"
+
+["570034"]
+japanese = "禁断の聖杯は持ち主に英知を与えます。<line-break>知恵を身につけたゴブリンたちは<line-break>ネモを見限ってしまったのです。<end>"
+english = "The Forbidden Grail grants wisdom to its bearer. Once the Goblins gained that wisdom, they abandoned Nemo.<end>"
+
+["570035"]
+japanese = "ま、おかげで、ロストールは<line-break>魔人に焼き払われずにすんだわけだ。<line-break>にしても、間抜けな魔人だな。<end>"
+english = "Well, at least Rostorl was spared being burned down by a demon. Still, what a half-witted demon.<end>"
+
+["570036"]
+japanese = "なんだと、テメー！<line-break>上等だ、勝負して…<end>"
+english = "What did you call me, you bastard? Fine, let's settle this...<end>"
+
+["570037"]
+japanese = "しかし、アーギルシャイアは、<line-break>今も聖杯を手に入れようと<line-break>ねらっているはずです。<line-break>ミイスの時のように<line-break>聖杯を持ってるゴブリンがいる町ごと<line-break>焼き払ってしまうかもしれないのです。<end>"
+english = "But Argyleshire must still be after the Grail. As she did at Miis, she may burn down the entire town where the Goblins carrying it are staying.<end>"
+
+["570038"]
+japanese = "急がないとな。<line-break><value:$28>。<end>"
+english = "We'd better hurry, <value:$28>.<end>"
+
+["570039"]
+japanese = "ゴブリンは聖杯の力で言葉を話し、<line-break>ゴブゴブ団を名乗っています。<line-break>\u3000<line-break>あと、ネモの話だと<line-break>エンシャントにいるという話でしたが<line-break>急がないと、移動してしまうでしょう。<end>"
+english = "The Grail's power has enabled the Goblins to speak, and they call themselves the Gob-Gob Gang. According to Nemo, they're in Ancient, but if you don't hurry, they may move on.<end>"
+
+["570040"]
+japanese = "んじゃ、行くか、<line-break><value:$28>。<end>"
+english = "Then let's go, <value:$28>.<end>"
+
+["570041"]
+japanese = "あ、その前に<line-break>お見せしたいものがあります。<line-break>こちらに来てください。<end>"
+english = "Ah, before you leave, there is something I would like to show you. This way, please.<end>"
+
+["570042"]
+japanese = "これは？<end>"
+english = "What's this?<end>"
+
+["570043"]
+japanese = "これは転送機というんです。<line-break>使ってみましょうか。<end>"
+english = "It is called a teleportation device. Shall we try it?<end>"
+
+["570044"]
+japanese = "何しやがる！<line-break>俺を実験台にするな！<end>"
+english = "What the hell are you doing? Don't use me as a test subject!<end>"
+
+["570045"]
+japanese = "ほう。<line-break>こりゃあ、すげぇな。<end>"
+english = "Now that's impressive.<end>"
+
+["570046"]
+japanese = "ま、こんな感じで、<line-break>これは遠くの人を呼び寄せたり…。<line-break>さて、それでは、もう一度。<end>"
+english = "As you see, it can summon someone from far away... Now, let us try that once more.<end>"
+
+["570047"]
+japanese = "こら！<line-break>だから、俺を実験台に…<end>"
+english = "Hey! I said, stop using me as a test subject...<end>"
+
+["570048"]
+japanese = "こんな感じで、ここにいる人を<line-break>遠くに送り込んだりできます。<end>"
+english = "Like this, it can also send someone from here to somewhere far away.<end>"
+
+["570049"]
+japanese = "なるほどな。<end>"
+english = "Got it.<end>"
+
+["570050"]
+japanese = "あなたが将来、旅で人と出会い<line-break>仲間を増やしたとき、<line-break>\u3000<line-break>一緒に旅する仲間を<line-break>変更をしたいと思ったとき<line-break>ここに来てください。<end>"
+english = "As you meet people on your travels and gain more companions, come here whenever you wish to change who travels with you.<end>"
+
+["570051"]
+japanese = "あ、今後は、パーティーメンバーの<line-break>了解を取ってから呼び出しますから<line-break>そのあたりのことはご心配なく。<end>"
+english = "Oh, and from now on, I will obtain your party members' permission before summoning them, so there is no need to worry about that.<end>"
+
+["570052"]
+japanese = "あんたには<line-break>色々世話になりそうだな。<end>"
+english = "Looks like we'll be relying on you for quite a few things.<end>"
+
+["570053"]
+japanese = "いえいえ。私もあなたたちに一方的に<line-break>お願いしてしまっていますからね。<line-break>これくらいは当然です。<line-break>他に何か、聞きたいことがあれば、<line-break>私にできる範囲でお答えしますよ。<end>"
+english = "Not at all. I have made a rather one-sided request of you, after all. This is the least I can do. If there is anything else you would like to know, I will answer as best I can.<end>"
+
+["570054"]
+japanese = "何か質問ですか？<end>"
+english = "Do you have a question?<end>"
+
+["570055"]
+japanese = "無限のソウルとは<end>"
+english = "What is the Infinite Soul?<end>"
+
+["570056"]
+japanese = "転送機について<end>"
+english = "About the teleportation device<end>"
+
+["570057"]
+japanese = "闇の神器について<end>"
+english = "About the Dark Artifact<end>"
+
+["570058"]
+japanese = "ネモについて<end>"
+english = "About Nemo<end>"
+
+["570059"]
+japanese = "アーギルシャイアについて<end>"
+english = "About Argyleshire<end>"
+
+["570060"]
+japanese = "質問はない<end>"
+english = "I have no questions<end>"
+
+["570061"]
+japanese = "おや、なかなか耳ざといですね。<line-break>フフ、今はまだ秘密です。<line-break>\u3000<line-break>ま、おいおいわかりますよ。<line-break>とりあえずはギルドで<line-break>仕事をしていってください。<end>"
+english = "Oh, you have sharp ears. Heh heh, for now, it remains a secret. You'll understand in time. For the moment, take on some work at the Guild.<end>"
+
+["570062"]
+japanese = "他人のために働くことで、<line-break>魂を成長させていけば<line-break>いずれ、わかってきますよ。<end>"
+english = "As you work for the sake of others and nurture your soul, the answer will come to you.<end>"
+
+["570063"]
+japanese = "将来、旅の途中で出会った仲間を<line-break>呼び出すための装置です。<line-break>\u3000<line-break>一緒に旅する仲間を<line-break>変更したくなったら<line-break>この猫屋敷に来てください。<end>"
+english = "This device will allow you to summon companions you meet during your travels. If you ever want to change who travels with you, come to Cat Manor.<end>"
+
+["570064"]
+japanese = "一緒に旅をしたい仲間を呼び出したり、<line-break>別行動を取ることを決めた仲間を<line-break>送り出したりできますよ。<end>"
+english = "You can summon companions you wish to travel with, or send off those who have decided to go their separate ways.<end>"
+
+["570065"]
+japanese = "破壊神ウルグの復活に<line-break>用いられた強力な魔道器です。<line-break>\u3000<line-break>１２種類あるといいます。<line-break>禁断の聖杯は<line-break>その中のひとつですね。<end>"
+english = "It is a powerful magical artifact that was used to resurrect Urg, the God of Destruction. Such artifacts are said to come in twelve types, one of which is the Forbidden Grail.<end>"
+
+["570066"]
+japanese = "禁断の聖杯については<line-break>今、ゴブゴブ団と名乗る<line-break>３匹のゴブリンが持っています。<line-break>とりあえずは、<line-break>エンシャントを探してみると<line-break>彼らに会えると思いますよ。<end>"
+english = "The Forbidden Grail is currently held by three goblins who call themselves the Gobgob Gang. For now, I think you will meet them if you try looking for Ancient.<end>"
+
+["570067"]
+japanese = "ここにいるブサイクな猫です。\u3000\u3000<line-break>口は悪いですけど、無害ですよ。<line-break>\u3000<line-break>もともとは老人星の精霊で<line-break>天空の賢者とも呼ばれた者でしたが<line-break>地上に堕ちて、魔人になりました。<end>"
+english = "It is the ugly cat here. It may have a foul mouth, but it is harmless. Originally a spirit of Old Man Star and also known as the Sage of the Heavens, it fell to earth and became a demon.<end>"
+
+["570068"]
+japanese = "破壊神の強力な魔人、<line-break>１２人の円卓騎士のひとりで、<line-break>名前を知るもの、の異名を持ちます。<line-break>そのあだ名の通り<line-break>金を出せば名前を付けてくれますが<line-break>ま、あんまりおすすめはしません。<end>"
+english = "This is one of the God of Destruction's powerful demons, one of the twelve Knights of the Round Table, and bears the epithet “the One Who Knows Names.” True to that epithet, a name will be assigned for a price, though I cannot really recommend it.<end>"
+
+["570069"]
+japanese = "円卓騎士には他に<line-break>アーギルシャイアなどがいますね。\u3000\u3000<line-break>\u3000<end>"
+english = "The other Knights of the Round Table include Argyleshire.<end>"
+
+["570070"]
+japanese = "破壊神ウルグの円卓騎士の１人です。<line-break>妖艶な美女の姿をしています。<line-break>\u3000<line-break>きわめて、気まぐれで残酷です。<line-break>すでに神器を手に入れるため<line-break>ミイスの村を焼き払っています。<end>"
+english = "She is one of Urg the God of Destruction's Knights of the Round Table and takes the form of a bewitching beauty. She is extraordinarily capricious and cruel. She has already burned Miis Village to the ground in pursuit of a divine artifact.<end>"
+
+["570071"]
+japanese = "究極生物を作ろうとして、<line-break>その製法を神器、禁断の聖杯から<line-break>得ようと、聖杯をねらっています。<line-break>円卓騎士には他に<line-break>うちのネモなどがいますね。<line-break>\u3000<end>"
+english = "She is after the Forbidden Grail, a divine artifact, hoping to learn from it how to create an Ultimate Life-Form. The other Knights of the Round Table include our own Nemo.<end>"
+
+["570072"]
+japanese = "そうですか。<end>"
+english = "I see.<end>"
+
+["570073"]
+japanese = "ま、こんな感じですかね。<line-break>わかっていただけましたか？<end>"
+english = "Well, that about covers it. Does that make sense?<end>"
+
+["570074"]
+japanese = "俺も冒険者だ。<line-break>それこそ、世界中をまわった。\u3000\u3000\u3000<line-break>\u3000<line-break>賢者の森にも何度も来た。だが、<line-break>ここに入ったことは一度もなかった。<line-break>運命に選ばれていなかったんだな。<end>"
+english = "I'm an adventurer too. I've traveled all over the world. I've been to Sage's Forest many times, but I'd never once set foot in this place. Fate hadn't chosen me, I suppose.<end>"
+
+["570075"]
+japanese = "その俺がここにいる。<line-break>これはどういうことだって思う？\u3000\u3000<end>"
+english = "And yet here I am. What do you think that means?<end>"
+
+["570076"]
+japanese = "お前さんが<line-break>運命に選ばれた人間だってことさ。\u3000\u3000<end>"
+english = "It means fate chose you.<end>"
+
+["570077"]
+japanese = "別に、お前さんが特別な人間で、<line-break>他人より上等だ下等だってんじゃない。<line-break>安心してくれ。<line-break>俺が言いたいのは<line-break>お前さんと旅をしてると面白いことに<line-break>たくさん出会えそうだってことだ。<end>"
+english = "That doesn't mean you're special, or any better or worse than anyone else. Don't worry. All I'm saying is, traveling with you, I have a feeling we'll come across all sorts of interesting things.<end>"
+
+["570078"]
+japanese = "…ルルアンタのこともある。<line-break>これからはそういう出会いを<line-break>大切にしていかないとな。<end>"
+english = "Then there's Lulluantha. From now on, I'd better treasure encounters like that.<end>"
+
+["570079"]
+japanese = "じゃ、行きますか。<end>"
+english = "Well then, shall we get going?<end>"
+
+["570080"]
+japanese = "まったく手間をとらせやがって！<end>"
+english = "Damn you! All the trouble you've caused!<end>"
+
+["570081"]
+japanese = "誘拐の現場を見られちまった以上、<line-break>生かしておくわけにはいかねぇんでな。<line-break>森の方で始末しちまおう。<end>"
+english = "Now that you've seen us kidnapping someone, we can't let you live. We'll take you into the woods and finish you off.<end>"
+
+["570082"]
+japanese = "何者だ、貴様！<end>"
+english = "Who the hell are you?!<end>"
+
+["570083"]
+japanese = "見られちまった以上、<line-break>こいつも始末するしかねぇってか！<end>"
+english = "So now we've got no choice but to finish off another witness?!<end>"
+
+["570084"]
+japanese = "うんん…。<end>"
+english = "Nnngh...<end>"
+
+["570085"]
+japanese = "あ！<end>"
+english = "Ah!<end>"
+
+["570086"]
+japanese = "ルルアンタ、見たんだから！<line-break>みなさ～ん！\u3000この人…<end>"
+english = "Lulluantha saw it! Everybody! This person...<end>"
+
+["570087"]
+japanese = "むが、むが、むがが…。<end>"
+english = "Mmph, mmph, mmmph...<end>"
+
+["570088"]
+japanese = "<if><value:$29><equal>%0それじゃあ、<line-break>お兄ちゃんが助けてくれたの？<end>それじゃあ、<line-break>お姉ちゃんが助けてくれたの？<end>"
+english = "<if><value:$29><equal>%0So you were the one who saved me, mister?<end>So you were the one who saved me, miss?<end>"
+
+["570089"]
+japanese = "そうだったんだ。<line-break>ありがとう。<line-break>それに、ごめんなさい。<end>"
+english = "Oh, that's what happened. Thank you. And... I'm sorry.<end>"
+
+["570090"]
+japanese = "う～ん。<line-break>おうちにかえりなさいって言われても、<line-break>…ルルアンタ、困っちゃうな。<line-break>あのね、ルルアンタ、<line-break>お父さんとお母さんいないの。<line-break>ずっとはやく、死んじゃった。<end>"
+english = "Hmm. Even if you tell Lulluantha to go home... Lulluantha doesn't know what to do. You see, Lulluantha doesn't have a mother or father. They died a long, long time ago.<end>"
+
+["570091"]
+japanese = "お世話になってたフリントさんも、<line-break>旅の途中で盗賊に襲われて…、<line-break>…死んじゃった。<end>"
+english = "Mr. Flint was looking after me, but bandits attacked him on the road... and he died.<end>"
+
+["570092"]
+japanese = "<if><value:$29><equal>%0それで、ルルアンタも<line-break>捕まっちゃってたところを<line-break>お兄ちゃんに助けてもらったの。<end>それで、ルルアンタも<line-break>捕まっちゃってたところを<line-break>お姉ちゃんに助けてもらったの。<end>"
+english = "<if><value:$29><equal>%0Then Lulluantha got captured too, but you saved me, mister.<end>Then Lulluantha got captured too, but you saved me, miss.<end>"
+
+["570093"]
+japanese = "うん、ルルアンタ、元気だよ。\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>あのね、<line-break>フリントさんが言ってくれたんだ。<line-break>\u3000<end>"
+english = "Mm-hm! Lulluantha's doing fine. You know, Mr. Flint once told me something.<end>"
+
+["570094"]
+japanese = "ルルアンタは元気だね、<line-break>ルルアンタが元気だと私も<line-break>うれしくなって元気が出るよって。<line-break>だから、ルルアンタ、<line-break>天国のフリントさんが<line-break>喜んでくれるように元気なんだ。<end>"
+english = "He said, “Lulluantha, you're always so cheerful. When you're cheerful, it makes me happy and cheers me up too.” So Lulluantha stays cheerful to make Mr. Flint happy up in heaven.<end>"
+
+["570095"]
+japanese = "<if><value:$29><equal>%0ねえ、ルルアンタ、<line-break>お兄ちゃんと一緒に行っていい？<end>ねえ、ルルアンタ、<line-break>お姉ちゃんと一緒に行っていい？<end>"
+english = "<if><value:$29><equal>%0Hey, can Lulluantha come with you, mister?<end>Hey, can Lulluantha come with you, miss?<end>"
+
+["570096"]
+japanese = "いいよ<end>"
+english = "Sure.<end>"
+
+["570097"]
+japanese = "それはできない<end>"
+english = "That's not possible.<end>"
+
+["570098"]
+japanese = "<if><value:$29><equal>%0わーい、じゃあ、ルルアンタ、<line-break>これからはお兄ちゃんと一緒だぁ！<line-break>\u3000<line-break>お兄ちゃん、お名前は？<end>わーい、じゃあ、ルルアンタ、<line-break>これからはお姉ちゃんと一緒だぁ！<line-break>\u3000<line-break>お姉ちゃん、お名前は？<end>"
+english = "<if><value:$29><equal>%0Hooray! Then Lulluantha gets to be with you from now on! What's your name, mister?<end>Hooray! Then Lulluantha gets to be with you from now on! What's your name, miss?<end>"
+
+["570099"]
+japanese = "じゃ、あらためてぇ…。\u3000\u3000\u3000\u3000<end>"
+english = "Okay, let's start over properly...<end>"
+
+["570100"]
+japanese = "あたしは、ルルアンタ。<line-break>よろしくね、<value:$28>。<end>"
+english = "I'm Lulluantha. Nice to meet you, <value:$28>.<end>"
+
+["570101"]
+japanese = "じゃあ、町を出るときに！<line-break>またねー。<end>"
+english = "Then I'll see you when you leave town! Bye-bye!<end>"
+
+["570102"]
+japanese = "じゃあ、近いうちに、<line-break>ねこやしきっていう所で<line-break>呼び出してくれるんだ。<line-break>はやく、一緒に旅がしたいな。<line-break>じゃ、またねー。<end>"
+english = "So you'll call for me at a place called Nekoyashiki soon. I can't wait to travel with you. Bye-bye for now!<end>"
+
+["570103"]
+japanese = "そう…。<line-break>ちょっと、がっかり。<end>"
+english = "Oh... That's a little disappointing.<end>"
+
+["570104"]
+japanese = "じゃあ、またねえ！<line-break>助けてくれてありがとう！<end>"
+english = "Well, bye-bye! Thank you for saving me!<end>"
+
+["570105"]
+japanese = "フリントさん、<line-break>ルルアンタ、今日も元気だったよ。\u3000\u3000<line-break>\u3000<line-break>今はね、<value:$28>と一緒に<line-break>旅してるんだ。とっても楽しいよ。<line-break>だからフリントさん、心配しないでね。<end>"
+english = "Flint, Lulluantha's doing fine today, too. Lulluantha's traveling with <value:$28> now. It's so much fun. So don't worry, Flint.<end>"
+
+["570106"]
+japanese = "…あのとき、わたしたち、\u3000\u3000\u3000<line-break>変な盗賊の人たちに襲われて…。<line-break>\u3000<line-break>手紙を出せって言われて<line-break>フリントさんたちは殺されちゃって…。<line-break>ルルアンタ、ひとりぼっちになって…。<end>"
+english = "Back then... we were attacked by some strange bandits. They told us to send a letter, and then you and the others were killed... Lulluantha was left all alone...<end>"
+
+["570107"]
+japanese = "あれから、心は毎日雨降りだったけど、<line-break><value:$28>のおかげで、今は<line-break>ルルアンタにもおひさまが見えるよ。<line-break>ルルアンタ、元気だよ。<line-break>心配しないでね、フリントさん…。<end>"
+english = "After that, it rained in Lulluantha's heart every day. But thanks to <value:$28>, Lulluantha can see the sunshine now, too. Lulluantha's doing fine. Don't worry, Flint...<end>"
+
+["570108"]
+japanese = "<value:$28>か？<end>"
+english = "<value:$28>?<end>"
+
+["570109"]
+japanese = "…なあ、<value:$28>。<line-break>冒険をしてて時々思うんだが、<line-break>強さとか弱さって、何だと思う？\u3000\u3000<line-break>ま、俺も答が見えたわけじゃないが、<line-break>少しづつ、わかってきたことはある。<line-break>人ってのは、みんな弱いって事さ。<end>"
+english = "Hey, <value:$28>. Sometimes, when I'm out adventuring, I find myself wondering: what do you think it means to be strong or weak? Not that I've found the answer myself, but there are a few things I'm starting to understand. We're all weak. Every one of us.<end>"
+
+["570110"]
+japanese = "で、その当たり前に持ってる弱さと\u3000<line-break>共に生きていける奴ってのが<line-break>強い奴なんじゃないかってな。<line-break>弱さに対して、拒まず、甘えず…、<line-break>抱えた弱さを正面から見つめられる。<line-break>自分の弱さも、他人の弱さもだ。<end>"
+english = "And maybe the strong ones are the ones who can live with that weakness we all have. They don't reject it, but they don't lean on it either. They face weakness squarely, both their own and other people's.<end>"
+
+["570111"]
+japanese = "…って、悪りい。妙に語っちまったな。<line-break>よし、もう寝ることにするわ。<line-break>じゃあな、お休み。<end>"
+english = "Sorry. Didn't mean to go on like that. Right, I'm going to sleep. See you. Night.<end>"
+
+["570112"]
+japanese = "…ま、よく考えてな。<line-break>人間ってのは、弱くてもろい<line-break>生き物だって事を。<end>"
+english = "Well, give it some thought. Human beings are weak, fragile creatures.<end>"
+
+["570113"]
+japanese = "お客さん。飲み過ぎだよ。<line-break>店の酒、みーんな、飲んじまって…。<end>"
+english = "You've had too much to drink. You've gone and drunk every drop in the place...<end>"
+
+["570114"]
+japanese = "…どうせ、どうせ、俺なんか、<line-break>世界で一番さ、フヒャヒャヒャヒャ…。<end>"
+english = "...Anyway... anyway, a guy like me is the greatest in the whole world! Fuh-hyah-hyah-hyah...<end>"
+
+["570115"]
+japanese = "ダメだこりゃ。<line-break>何がなんだかわかってないよ。お客さん。<end>"
+english = "This is hopeless. You don't even know what's going on, do you?<end>"
+
+["570116"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["570117"]
+japanese = "お客さん。<end>"
+english = "Sir?<end>"
+
+["570118"]
+japanese = "……勇者…様。<end>"
+english = "...Hero... sir.<end>"
+
+["570119"]
+japanese = "どうした！\u3000酒場のオヤジ！<end>"
+english = "What is it, barkeep?!<end>"
+
+["570120"]
+japanese = "勇者様、魔王がでました。<end>"
+english = "Lord Hero, the Demon King has appeared.<end>"
+
+["570121"]
+japanese = "何！\u3000魔王？<line-break>ぬぅ！\u3000人として許せん！<line-break>勘定はここに置くぞ！\u3000でやっ！<end>"
+english = "What?! The Demon King? Nngh! As a human, I cannot let this stand! Here's the money for my tab! Hyaa!<end>"
+
+["570122"]
+japanese = "オヤジ、今のは、なしだ。<line-break>でやっ！！<end>"
+english = "Barkeep, forget what just happened. Hyaa!!<end>"
+
+["570123"]
+japanese = "あれあれ、忘れ物だ。<line-break>弓なんか置いて行かれても困るなあ。<end>"
+english = "Well, well, something got left behind. What am I supposed to do with a bow?<end>"
+
+["570124"]
+japanese = "あー、<value:$28>だ。<line-break>お酒なんか飲んじゃダメだよお。<line-break>\u3000<line-break>ゼネテスさんみたいな<line-break>飲兵衛になっちゃうから。<end>"
+english = "Oh, it's <value:$28>. You shouldn't drink, you know. You'll end up a drunkard like Xenetes.<end>"
+
+["570125"]
+japanese = "ガルドランが、いたの…？<end>"
+english = "Girldlan was here...?<end>"
+
+["570126"]
+japanese = "いえね、今の変なお客さんが<line-break>弓矢を忘れて行かれたんですよ。<end>"
+english = "Well, that strange customer who was just here left a bow and arrows behind.<end>"
+
+["570127"]
+japanese = "矢…？\u3000ガルドランの…。<end>"
+english = "An arrow...? Girldlan's...<end>"
+
+["570128"]
+japanese = "…やっぱり、<value:$28>、<line-break>まだフリントさんのことで…。<end>"
+english = "...I thought so, <value:$28>. This is still about Flint...<end>"
+
+["570129"]
+japanese = "ホントだ。<line-break>毒が塗ってあった形跡がない。<end>"
+english = "You're right. There's no sign it was ever coated with poison.<end>"
+
+["570130"]
+japanese = "ううん。毒をふき取るも何も、<end>"
+english = "No. It's not even a question of wiping off the poison...<end>"
+
+["570131"]
+japanese = "これ、たぶん買ってから一度も<line-break>手入れしてないよぉ。<end>"
+english = "This probably hasn't been looked after at all since it was bought.<end>"
+
+["570132"]
+japanese = "これじゃ、さびてて使いものに\u3000<line-break>ならないよ。<line-break>\u3000<line-break>それに見て。<line-break>この矢、フリントさんに<line-break>刺さってたのとぜんぜん違う…。<end>"
+english = "It's so rusty it's useless. And look. This arrow is nothing like the one that was lodged in Flint...<end>"
+
+["570133"]
+japanese = "まったく。<line-break>港に来ないと思ったら、案の定これだ。<line-break>何やってんだ、<value:$28>。<end>今は急ごうっていう状況だろ？<line-break>こっからエンシャントなら絶対に船だ。<line-break>さあ、港に急ごうぜ。<end>"
+english = "Honestly. When you didn't show up at the harbor, I knew I'd find you doing something like this. What are you doing, <value:$28>?<end>We're in a hurry, remember? If we're going to Ancient from here, we have to take a ship. Come on, let's get to the harbor.<end>"
+
+["570134"]
+japanese = "よお、そろそろ出港だろ？<line-break>そんじゃ、よろしく頼むぜ。<end>"
+english = "Hey, you're setting sail soon, right? We're counting on you, then.<end>"
+
+["570135"]
+japanese = "そいつが迷子になってた連れか…。<line-break>ち、さっさと乗んな。<end>"
+english = "So that's the companion who got lost... Tch. Hurry up and get aboard.<end>"
+
+["570136"]
+japanese = "あん？<line-break>船賃はいいのかって？<end>いいんだ。<line-break>さっきこの男前と軽く勝負してな。<line-break>タダで乗っけてもらう事になったんだ。<end>"
+english = "Huh? You're asking about the fare?<end>It's taken care of. This handsome fellow and I had a little contest earlier, and now we get to ride for free.<end>"
+
+["570137"]
+japanese = "くっ。<line-break>俺はあんな勝負認ないぞ。<line-break>このイカサマ野郎。<end>"
+english = "Grr. I don't accept the result of that contest, you cheating bastard.<end>"
+
+["570138"]
+japanese = "まあまあ、そう怒りなさんな。<line-break>さあ、エンシャントへ出発だ！<end>"
+english = "Now, now, don't get so worked up. All right, off to Ancient!<end>"
+
+["570139"]
+japanese = "なんだかなあ…。<line-break>ルルアンタを探すつもりが<line-break>変な方向に話がふくらんできたな…。<line-break>まあ、今は話を聞いておこうや。<line-break>さ、行ってみようぜ。<end>"
+english = "This is getting strange... We set out to find Lulluantha, and now the whole thing's gone off in some odd direction. Still, let's hear the story for now. Come on, let's go see.<end>"
+
+["570140"]
+japanese = "そうだな、とりあえずは動くしかない。<line-break>お前さんの言う通りだ。<line-break>\u3000<line-break>んじゃ、行きますか？<end>"
+english = "Yeah. For now, we've just got to get moving. You're right. Shall we go, then?<end>"
+
+["570141"]
+japanese = "予備用メッセージ３<line-break>ルルアンタ・ボリューム１その２<end>"
+english = ""
+
+["570142"]
+japanese = "予備用メッセージ４<line-break>ルルアンタ・ボリューム１その２<end>"
+english = ""
+
+["570143"]
+japanese = "予備用メッセージ５<line-break>ルルアンタ・ボリューム１その２<end>"
+english = ""
+
+["570144"]
+japanese = "予備用メッセージ６<line-break>ルルアンタ・ボリューム１その２<end>"
+english = ""
+
+["570145"]
+japanese = "予備用メッセージ７<line-break>ルルアンタ・ボリューム１その２<end>"
+english = ""
+
+["570146"]
+japanese = "予備用メッセージ８<line-break>ルルアンタ・ボリューム１その２<end>"
+english = ""
+
+["570147"]
+japanese = "予備用メッセージ９<line-break>ルルアンタ・ボリューム１その２<end>"
+english = ""
+
+["570148"]
+japanese = "予備用メッセージ１０<line-break>ルルアンタ・ボリューム１その２<end>"
+english = ""
+
+["570149"]
+japanese = "ルルアンタ・ボリューム１その２終端<end>"
+english = ""

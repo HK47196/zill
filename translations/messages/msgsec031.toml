@@ -1,0 +1,1329 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["310000"]
+japanese = "旅立ち０４メッセージ<end>"
+english = ""
+
+["310001"]
+japanese = "ちっ、相変わらずスキのねえ女だ。<line-break>ボルボラ様がどうしても<line-break>手下にしたがるのも道理だな。<end>"
+english = "Tch. That woman never lets her guard down. No wonder Lord Bolbora is so determined to make her one of his lackeys.<end>"
+
+["310002"]
+japanese = "お前がいつもここから畑に行くんで<line-break>ここで待ち伏せてたのさ。<line-break>ドンピシャだったな、へへ…。<line-break>代官ボルボラ様にたてつく<line-break><value:$28>！<line-break>死んでもらうぜ！<end>"
+english = "You always come through here on your way to the fields, so I lay in wait for you. Perfect timing, heh heh... <value:$28>, you've defied Magistrate Bolbora for the last time! You're going to die!<end>"
+
+["310003"]
+japanese = "あわわ！\u3000ゆ、許してくれ！\u3000\u3000<line-break>あの悪代官ボルボラの命令で<line-break>仕方なく来ただけなんだ！<line-break>そ、そうだ！\u3000俺もお前と一緒に<line-break>悪代官ボルボラと戦うよ！<line-break>あいつは悪い奴だ。そうだろ？<end>"
+english = "Aah! P-please, spare me! I only came because that wicked Magistrate Bolbora made me! I know! I'll fight him with you! Bolbora's a bad man. You know that, right?<end>"
+
+["310004"]
+japanese = "ボルボラは重税をかけて私腹を肥やし、<line-break>ゴロツキや怪物を飼って<line-break>逆らう奴を痛めつける…悪い奴だぜ！<end>"
+english = "Bolbora lines his pockets with crushing taxes and keeps thugs and monsters around to brutalize anyone who defies him... He's a rotten bastard!<end>"
+
+["310005"]
+japanese = "へへ…、俺も心を入れ替えるよ。<line-break>だ、だから許してくれよ！<line-break>な、な、<value:$28>！？<end>"
+english = "Heh heh... I'll turn over a new leaf. S-so please, spare me! R-right, <value:$28>?!<end>"
+
+["310006"]
+japanese = "（へへ…、俺はオトリよ。<line-break>\u3000後ろから仲間がねらっているとは<line-break>\u3000よもや気がつくめえ。へへ…。）<end>"
+english = "(Heh heh... I'm just the decoy. She'll never guess my friends are waiting to attack from behind. Heh heh...)<end>"
+
+["310007"]
+japanese = "こっそり後ろからねらうのは<line-break>あまり感心しませんな。<line-break>代官の配下の方。<end>"
+english = "Sneaking up on someone from behind is hardly admirable, servant of the magistrate.<end>"
+
+["310008"]
+japanese = "ひっ、ひいい！<line-break>お、おぼえてろよ！<end>"
+english = "Eek! Y-you'll pay for this!<end>"
+
+["310009"]
+japanese = "やれやれ、お仲間を置いていくとは\u3000\u3000<line-break>薄情なお方だ。<line-break>そう思われませんか？<end>"
+english = "My, my. Running off and leaving a comrade behind. Rather coldhearted, wouldn't you say?<end>"
+
+["310010"]
+japanese = "ボルボラ様にたてつくお前も<line-break>これで終わりだ！！<line-break>明日っからやりたい放題だぜ！！<end>"
+english = "You defied Lord Bolbora, and now you're finished! Starting tomorrow, we can do whatever we want!<end>"
+
+["310011"]
+japanese = "なんだア！！<line-break>痛い目見たくなきゃ…！<end>"
+english = "What the hell?! If you don't want to get hurt―!<end>"
+
+["310012"]
+japanese = "うっ！！<end>"
+english = "Guh!<end>"
+
+["310013"]
+japanese = "痛い目見たくなきゃ、<line-break>先にあなたを倒せと<line-break>おっしゃりたかったのですかな？<end>"
+english = "Were you about to tell me that if I didn't want to get hurt, I should take you down first?<end>"
+
+["310014"]
+japanese = "残念ながら、<line-break>お答えにはなれないようですな。<line-break>さて…。<end>"
+english = "Unfortunately, it seems there will be no answer. Now then...<end>"
+
+["310015"]
+japanese = "おケガはございませんか？<end>"
+english = "Are you hurt?<end>"
+
+["310016"]
+japanese = "いえいえ、礼にはおよびませんよ。\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "No, no. There's no need to thank me.<end>"
+
+["310017"]
+japanese = "<value:$28>さん…、<line-break>悪代官ボルボラに立ち向かう者を率いる<line-break>勇敢な少女。<end>"
+english = "<value:$28>... The brave young woman leading those who stand against the wicked Magistrate Bolbora.<end>"
+
+["310018"]
+japanese = "誤解を招くセリフでしたかな？<line-break>私はフリント。ただの旅の商人です。<line-break>そう構えていただかなくて結構ですよ。<end>"
+english = "Did I give you the wrong impression? I'm Flint, merely a traveling merchant. There's no need to be so wary.<end>"
+
+["310019"]
+japanese = "少なくとも、<line-break>あなたの目的の味方のつもりです。\u3000<line-break>ご安心なさってください。<end>"
+english = "At the very least, I consider myself an ally to your cause. You may rest easy.<end>"
+
+["310020"]
+japanese = "やれやれ。<line-break>わかっていただけたようですな。<end>"
+english = ""
+
+["310021"]
+japanese = "あなたたちの<line-break>打倒ボルボラの活動が<line-break>実を結ぶことを祈っていますよ。<end>"
+english = "I hope your efforts to overthrow Bolbora bear fruit.<end>"
+
+["310022"]
+japanese = "<value:$28>…。<line-break>いい目をした少女だ…。<line-break>反乱は予定より早く起こりそうですな。<end>"
+english = "<value:$28>... A young woman with a fine look in her eyes. It seems the rebellion will begin sooner than expected.<end>"
+
+["310023"]
+japanese = "＃２<end>"
+english = ""
+
+["310024"]
+japanese = "姉ちゃーん！<end>"
+english = "Siiis!<end>"
+
+["310025"]
+japanese = "…また<line-break>父さんの遺してくれた<line-break>畑を見てたんだね。<line-break>ボルボラなんかに負けるもんか！<line-break>絶対、あいつの横暴から<line-break>町を…父さんの畑を守ってやる！<end>"
+english = "You were looking at the field Dad left behind again, weren't you? Bolbora won't win! I swear I'll protect the town from his tyranny... and Dad's field!<end>"
+
+["310026"]
+japanese = "あ、そうだった！<line-break>仲間にノーブルの森で集まるよう<line-break>伝えてきたよ。<line-break>それから、頼まれてた元気の薬。<line-break>渡しとくぜ、姉ちゃん！<end>"
+english = "Oh, right! I told everyone to meet in Noble Forest. And here's that tonic you asked for, Sis!<end>"
+
+["310027"]
+japanese = "\u3000<end>"
+english = ""
+
+["310028"]
+japanese = "ああ、わしの畑がああ！<line-break>あああ、誰か！\u3000誰かあ！<end>"
+english = "Oh, my field! No! Somebody! Anybody!<end>"
+
+["310029"]
+japanese = "また、ボルボラの手下だ！<end>"
+english = "Bolbora's thugs again!<end>"
+
+["310030"]
+japanese = "うん、姉ちゃん！<line-break>いこう！<end>"
+english = "Yeah, Sis! Let's go!<end>"
+
+["310031"]
+japanese = "＃３<end>"
+english = ""
+
+["310032"]
+japanese = "ああ！\u3000ボルボラが、<line-break>わしの畑をメチャメチャに…！<line-break>助けてくれ、<value:$28>！<end>"
+english = "Ah! Bolbora's wrecking my field! Help me, <value:$28>!<end>"
+
+["310033"]
+japanese = "やめろ！！\u3000ボルボラ！<end>"
+english = "Stop it, Bolbora!<end>"
+
+["310034"]
+japanese = "くっ、また<value:$28>と<line-break>そのかわいくねえ弟か！<line-break>今日こそぶっ殺してやる！<end>"
+english = "Damn, it's <value:$28> and that ugly little brother again! This time I'll kill you both!<end>"
+
+["310035"]
+japanese = "けっ！！<line-break>そのセリフ聞き飽きたぜ！<line-break>いつになったら殺してくれるんだよ！<end>"
+english = "Hah! I'm sick of hearing that! When are you actually going to kill us?<end>"
+
+["310036"]
+japanese = "ゲヘヘ、今日だって言ったのが<line-break>聞こえなかったのかア？<line-break>オラ、来やがれ！<end>"
+english = "Geh-heh-heh! Didn't you hear me say today's the day? Come on, then!<end>"
+
+["310037"]
+japanese = "お前ら姉弟も他の奴らみたく<line-break>おとなしくしてりゃ、<line-break>こいつに食われずにすんだろうにな！<line-break>これが俺に逆らう奴の末路って奴だ！<line-break>今度会うときゃ地獄だな！<line-break>あばよ、<value:$28>！<end>"
+english = "If you two had kept your heads down like everyone else, you wouldn't be about to get eaten! This is what happens to anyone who defies me! Next time we meet, it'll be in hell! See you there, <value:$28>!<end>"
+
+["310038"]
+japanese = "くそっ！\u3000ボルボラめ！<line-break>こんな奴に食われてたまるか！<end>"
+english = "Damn you, Bolbora! I'm not letting this thing eat me!<end>"
+
+["310039"]
+japanese = "おい、女、<line-break>助太刀してやる。<end>"
+english = "You there, woman. I'll lend you a hand.<end>"
+
+["310040"]
+japanese = "やったぜ！<line-break>ボルボラご自慢の戦闘モンスターを<line-break>やっつけたぜ！！<end>"
+english = "We did it! We beat Bolbora's precious battle monster!<end>"
+
+["310041"]
+japanese = "リベルダム製の戦闘モンスターか。<line-break>なぜ、こんな所に…？<end>"
+english = "A battle monster made in Liberdam. What is it doing here...?<end>"
+
+["310042"]
+japanese = "ここの領主は大貴族のリューガ家だ。<line-break>ノーブルなんて小さな田舎町、<line-break>貴族のボンクラ領主は見ちゃいない。<end>"
+english = "These lands belong to the great Ryuga noble house. But Noble's just a little country town, so its useless aristocratic lords don't pay it any attention.<end>"
+
+["310043"]
+japanese = "それをいいことに<line-break>代官のボルボラは<line-break>この町でやりたい放題だ。<line-break>重税をかけて私腹を肥やし、<line-break>そして貯めこんだ金で<line-break>あの戦闘モンスターを買ったんだ。<end>"
+english = "Bolbora, their local magistrate, takes full advantage of that. He does whatever he wants in this town. He levies crushing taxes to line his own pockets, then used the money he'd hoarded to buy that battle monster.<end>"
+
+["310044"]
+japanese = "だから誰も奴に逆らえなかったけど、<line-break>その戦闘モンスターをやっつけた今、<line-break>奴の天下も終わりさ！<end>"
+english = "That's why no one dared stand up to him. But now that we've beaten his battle monster, his reign is over!<end>"
+
+["310045"]
+japanese = "このことを聞いたら、<line-break>みんな、きっと喜ぶぜ！<line-break>ボルボラを倒すのは今だってな！<end>"
+english = "Everyone'll be thrilled when they hear! They'll say now's our chance to take Bolbora down!<end>"
+
+["310046"]
+japanese = "あ！<end>"
+english = "Ah!<end>"
+
+["310047"]
+japanese = "みんな？<end>"
+english = "Everyone?<end>"
+
+["310048"]
+japanese = "な、なあ、姉ちゃん！<line-break>この人は腕も立つし、<line-break>味方になってもらおうよ！<line-break>ノーブルの森での会合に<line-break>この人にも来てもらおうぜ。<end>"
+english = "H-hey, sis! This man can really fight. Let's get him on our side! We should ask him to come to the meeting in Noble Forest.<end>"
+
+["310049"]
+japanese = "…女。<line-break>だいたいの察しはついた。<line-break>この地の代官を倒す相談か？<line-break>お前は反対のようだが、<line-break>その会合、俺も出させてもらう。<line-break>いいな、女？<end>"
+english = "Woman. I believe I understand the situation. You're meeting to discuss overthrowing the magistrate of these lands, are you not? You seem opposed, but I intend to attend. Is that clear, woman?<end>"
+
+["310050"]
+japanese = "女、女って呼ぶな！<line-break>姉ちゃんにはちゃんと<line-break><value:$28>って名がある！<end>"
+english = "Stop calling her “woman”! My sister has a name: <value:$28>!<end>"
+
+["310051"]
+japanese = "それは失礼した、<line-break><value:$28>。<line-break>俺の名はレムオンだ。<line-break>ノーブルの森とは<line-break>町の門を出てすぐの、あの森だな。<line-break>では、門で落ち合おう。<end>"
+english = "My apologies, <value:$28>. My name is Lemghon. Noble Forest is the one just outside the town gate, correct? Then I shall meet you at the gate.<end>"
+
+["310052"]
+japanese = "じゃあ、しっかり用意して集合だ。<line-break>ノーブルの森には<line-break>モンスターも出るしさ。<end>"
+english = "All right, let's get ready and meet up there. There are monsters in Noble Forest, after all.<end>"
+
+["310053"]
+japanese = "＃４<end>"
+english = ""
+
+["310054"]
+japanese = "あの…、ちょっといいかな？<end>"
+english = "Um... may I have a moment?<end>"
+
+["310055"]
+japanese = "僕…兄さんに会うために<line-break>このノーブルに来たんだ。<line-break>金髪で背の高い旅人を知らない？<line-break>一見、<line-break>すごく冷たそうなんだけど…。<end>"
+english = "I came to Noble to meet my older brother. Have you seen a tall, blond traveler? He seems very cold at first glance...<end>"
+
+["310056"]
+japanese = "ホントはとってもやさしい<line-break>頼りになる人なんだ。<line-break>知らない？<end>"
+english = "But he's actually very kind, and you can always rely on him. You haven't seen him?<end>"
+
+["310057"]
+japanese = "そう…、ありがとう。<end>"
+english = "Oh... Thank you anyway.<end>"
+
+["310058"]
+japanese = "あ、僕の名はエスト。<line-break>…よかったら、<line-break>君の名前を聞かせてほしいな。<end>"
+english = "Oh, my name is Est. If you don't mind, may I ask yours?<end>"
+
+["310059"]
+japanese = "<value:$28>…。<line-break>ステキな名前だね。<line-break>それじゃあ。<end>"
+english = "<value:$28>... That's a lovely name. See you.<end>"
+
+["310060"]
+japanese = "あ…、<value:$28>。<line-break>や、やあ！<line-break>\u3000<line-break>さっきはいきなり話しかけて、<line-break>しかも、さっさと行っちゃって<line-break>…ゴメンね。<end>"
+english = "Oh... <value:$28>. H-hi! Sorry about earlier. I started talking to you out of nowhere, then rushed off right away.<end>"
+
+["310061"]
+japanese = "そう言ってくれるとホッとする。<line-break>じゃ、あらためて、<line-break>ちゃんと自己紹介するね。<line-break>僕はエスト。考古学者。<line-break>闇の神器というものについて<line-break>研究しているんだ。<end>"
+english = "That's a relief. Let me introduce myself properly this time. I'm Est, an archaeologist. I study something known as the Artifact of Darkness.<end>"
+
+["310062"]
+japanese = "闇の神器は破壊神ウルグの復活に<line-break>使われた魔道器でね。<line-break>ものすごい力を秘めているんだ。<line-break>それを使えば、僕みたいにひ弱な男でも<line-break>ものすごく強い戦士や怪物を<line-break>ひとひねりにできるんだ。<end>"
+english = "The Artifact of Darkness is a magical device that was used to resurrect Urg, the God of Destruction. It holds tremendous power. With it, even a weak man like me could make short work of immensely powerful warriors and monsters.<end>"
+
+["310063"]
+japanese = "フフ、別に僕は強くなりたくて、<line-break>闇の神器を求めてるわけじゃないよ。<end>"
+english = "Heh. I'm not searching for the Artifact of Darkness because I want to become stronger.<end>"
+
+["310064"]
+japanese = "僕はね、古代の魔法文明の力を<line-break>借りたいんだ。<line-break>\u3000<line-break>闇の神器は<line-break>古代の失われた魔法文明の技で<line-break>造られた物なんだよ。<end>"
+english = "I want to draw on the power of an ancient magical civilization. The Artifact of Darkness was made using techniques from that long-lost civilization.<end>"
+
+["310065"]
+japanese = "その謎を解き明かすことができれば<line-break>人類はものすごい力を<line-break>手に入れることができる。<line-break>そうすれば、<line-break>みんなの生活が便利になる。<line-break>みんなの暮らしが一気に向上するんだ。<end>"
+english = "If we could unravel its mysteries, humanity would gain tremendous power. That would make life easier for everyone. It would improve everyone's standard of living in one great leap.<end>"
+
+["310066"]
+japanese = "そうなるといいね<end>"
+english = "I hope so.<end>"
+
+["310067"]
+japanese = "それは…ただの夢物語だよ<end>"
+english = "That's... just a pipe dream.<end>"
+
+["310068"]
+japanese = "そうだね。<line-break>今は…まだね。<line-break>\u3000<line-break>だけど、夢見ることは<line-break>夢を実現させるための<line-break>大事な第１歩だと思うんだ。<end>"
+english = "That's true. For now... it is. But I think dreaming is an important first step toward making a dream come true.<end>"
+
+["310069"]
+japanese = "…ありがとう。<line-break>君にそう言ってもらえて<line-break>うれしいよ。<line-break>ふふ、君に研究の成果を<line-break>見せてあげられるかもしれない。<line-break>楽しみにしてて！\u3000じゃあ！<end>"
+english = "Thank you. I'm glad to hear you say that. Heh, perhaps I'll be able to show you the results of my research. Look forward to it! See you!<end>"
+
+["310070"]
+japanese = "＃５<end>"
+english = ""
+
+["310071"]
+japanese = "ごめんなさい！<line-break>だいじょうぶですかぁ？<end>"
+english = "I'm sorry! Are you all right?<end>"
+
+["310072"]
+japanese = "フリントさんね、今日出発なの。<line-break>だから、ルルアンタも急いでて…<line-break>ごめんなさい！<end>"
+english = "Flint is leaving today, so Lulluantha was in a hurry too... I'm sorry!<end>"
+
+["310073"]
+japanese = "＃６<end>"
+english = ""
+
+["310074"]
+japanese = "姉ちゃん、<line-break>まだ、何かあるのか？<end>"
+english = "Sis, is there still something you need to do?<end>"
+
+["310075"]
+japanese = "しょうのない奴だな。<line-break>ここで待っていてやる。<line-break>急いで行ってこい。<end>"
+english = "You're hopeless. I'll wait here for you, so hurry up and get it done.<end>"
+
+["310076"]
+japanese = "やっと用意ができたか？<end>"
+english = "Finally ready, are you?<end>"
+
+["310077"]
+japanese = "じゃ、姉ちゃん、行こうぜ。<line-break>みんな森の奥で待ってるよ。<end>"
+english = "All right, Sis, let's go. Everyone's waiting deep in the forest.<end>"
+
+["310078"]
+japanese = "＃７<end>"
+english = ""
+
+["310079"]
+japanese = "みんな、聞いてくれ！！<line-break>姉ちゃんと俺とこのレムオンって人で<line-break>あのボルボラの怪物を倒したんだ！<end>"
+english = "Everyone, listen! Sis, Lemghon here, and I defeated Bolbora's monster!<end>"
+
+["310080"]
+japanese = "何！\u3000本当か！！<line-break>これであのボルボラの力の<line-break>大元がなくなったわけだ！<end>"
+english = "What? Is that true?! Then the source of Bolbora's power is gone!<end>"
+
+["310081"]
+japanese = "今まで、あの怪物がいたから<line-break>うかつに動けなかったが…<line-break>今こそチャンスだ！<end>"
+english = "That monster kept us from making a move before... but now's our chance!<end>"
+
+["310082"]
+japanese = "きっと、あの怪物を恐れて<line-break>ボルボラに立ち向かう勇気が出なかった<line-break>町のみんなも立ち上がってくれるぞ！<end>"
+english = "I'm sure the townspeople who were too afraid of that monster to stand against Bolbora will rise up with us!<end>"
+
+["310083"]
+japanese = "今こそ立ち上がろう！<line-break><value:$28>！<end>"
+english = "Now's the time to rise up! <value:$28>!<end>"
+
+["310084"]
+japanese = "…反乱など起こせば<line-break>町の者全員が<line-break>皆殺しにされるかもしれぬぞ。<end>"
+english = "If you start a revolt, every last person in this town may be slaughtered.<end>"
+
+["310085"]
+japanese = "ロストールは身分の厳しい国だからな、<line-break>反乱が失敗すれば無論のこと、<line-break>成功しても軍隊に鎮圧されて皆殺しだ。<line-break>代官のことはいずれカタがつく。<line-break>町のことを考えるなら、<line-break>反乱などやめておくことだな。<end>"
+english = "Rostorl has a rigid class system. If the revolt fails, of course you will all be slaughtered. Even if it succeeds, the army will put it down and slaughter you anyway. The governor will be dealt with in time. If you care about this town, forget this talk of revolt.<end>"
+
+["310086"]
+japanese = "カタがつくだと！？<line-break>ウソだ！<line-break>貴族が俺らのことなど考えるもんか！<end>"
+english = "Dealt with?! That's a lie! As if nobles would ever give a damn about us!<end>"
+
+["310087"]
+japanese = "それに、グズグズしていたら<line-break>代官はリベルダムから<line-break>もっと強い怪物を買ってくる！<end>"
+english = "And if we sit around much longer, the governor will buy an even stronger monster from Liberdam!<end>"
+
+["310088"]
+japanese = "そうだ！<line-break>次は姉ちゃんでも<line-break>勝てるかどうかわからない！<line-break>そんときゃ長老たちは、<line-break>姉ちゃんを代官にさしだそうとする！<line-break>今立たないと俺たちは破滅なんだ！<end>"
+english = "That's right! Next time, even Sis might not be able to win! Then the elders will try to hand her over to the governor! If we don't rise up now, we're finished!<end>"
+
+["310089"]
+japanese = "姉ちゃん！<line-break>立ち上がろうって言ってくれ！<line-break>そしたら、みんな立ち上がってくれる！<end>"
+english = "Sis! Tell them we should rise up! If you do, everyone will join us!<end>"
+
+["310090"]
+japanese = "立ち上がろう！<end>"
+english = "Let's rise up!<end>"
+
+["310091"]
+japanese = "反乱はできない…<end>"
+english = "We can't rebel...<end>"
+
+["310092"]
+japanese = "<value:$28>！<line-break>よく言ってくれた！<line-break>領主邸にいるボルボラを倒すぞ！<end>"
+english = "<value:$28>! That's what we needed to hear! Let's take down Bolbora at the lord's manor!<end>"
+
+["310093"]
+japanese = "我々は先に行っている！<line-break><value:$28>も<line-break>急いで来てくれ！<end>"
+english = "We'll go on ahead! Hurry after us, <value:$28>!<end>"
+
+["310094"]
+japanese = "…みずから<line-break>陰謀の炎のうずに飛びこんで<line-break>身を焼こうというのか？<end>"
+english = "Would you cast yourself into the swirling flames of intrigue and let them consume you?<end>"
+
+["310095"]
+japanese = "これは仕組まれた反乱なのだ。<line-break>それもわからぬとは…愚かな。<end>"
+english = "This revolt has been orchestrated. To be blind even to that... How foolish.<end>"
+
+["310096"]
+japanese = "ふん！！<line-break>なんだ、あいつ！<end>"
+english = "Hmph! What's his problem?!<end>"
+
+["310097"]
+japanese = "行こう！<line-break>そして領主邸の悪代官ボルボラを<line-break>倒すんだ！！<end>"
+english = "Let's go! We'll take down that wicked governor Bolbora at the lord's manor!<end>"
+
+["310098"]
+japanese = "なんでなんだよ！<line-break>このままじゃ姉ちゃんが！！<line-break>姉ちゃんがボルボラに…！！<end>"
+english = "Why?! If this goes on, Sis will... They'll hand Sis over to Bolbora...!<end>"
+
+["310099"]
+japanese = "みんな、行こう！！<line-break>俺たちだけでもボルボラを<line-break>倒してみせる！！<end>"
+english = "Come on, everyone! Even if it's just us, we'll take Bolbora down!<end>"
+
+["310100"]
+japanese = "バカどもが！<line-break>大人しくしていれば、<line-break>じきに俺が片をつけたものを！<end>"
+english = "You fools! If you'd only kept quiet, I would have settled the matter soon enough!<end>"
+
+["310101"]
+japanese = "<value:$28>、<line-break>あいつらだけでは返り討ちだ。<line-break>急いでとめにいくぞ！！<end>"
+english = "<value:$28>, they don't stand a chance on their own. We have to hurry and stop them!<end>"
+
+["310102"]
+japanese = "＃７<end>"
+english = ""
+
+["310103"]
+japanese = "みんな、お前の声に応じて<line-break>立ち上がってくれとるぞ！<line-break>長老様たちは閉じこもったきりだがな。<line-break>ボルボラは領主邸の方に逃げてった！<line-break>今、大通りでみんなが<line-break>ボルボラの手下どもと戦っている。<end>"
+english = "Everyone heard your call, and they're rising up! The elders are still holed up inside, though. Bolbora fled toward the lord's manor! Everyone's fighting his men on the main street right now.<end>"
+
+["310104"]
+japanese = "さあ！\u3000行こう！<line-break>悪代官ボルボラを倒すんだ！<end>"
+english = "Come on! Let's go! We'll bring down that corrupt magistrate Bolbora!<end>"
+
+["310105"]
+japanese = "＃９<end>"
+english = ""
+
+["310106"]
+japanese = "くっ。<line-break>俺としたことが…<line-break>ケガしちまって先へ進めねえ…。\u3000\u3000<line-break>頼む、<value:$28>！<line-break>絶対にボルボラを倒してくれ。<line-break>奴は町の奥の領主邸の方に行ったぞ！<end>"
+english = "Damn it. I can't believe I let myself get hurt... I can't go any farther. Please, <value:$28>! You have to defeat Bolbora. He went toward the lord's manor at the far end of town!<end>"
+
+["310107"]
+japanese = "ボルボラは<line-break>奥に逃げていったぞ。<line-break>奴は領主邸で立てこもる気だ！<end>"
+english = "Bolbora fled farther into town. He's planning to barricade himself inside the lord's manor!<end>"
+
+["310108"]
+japanese = "<value:$28>。<line-break>ムダさ。<line-break>長老様は反乱に参加しない。<line-break>反乱など起こしたら<line-break>えらいことになるって<line-break>閉じこもったっきりさ！<end>"
+english = "<value:$28>, it's no use. The elder won't join the rebellion. He shut himself away, saying there'd be terrible consequences if we revolted!<end>"
+
+["310109"]
+japanese = "ゲヒッ！<line-break><value:$28>！！<line-break>ここまで来やがったか！<end>"
+english = "Geh! <value:$28>! So you made it this far!<end>"
+
+["310110"]
+japanese = "＃１０<end>"
+english = ""
+
+["310111"]
+japanese = "ゲヘヘ…、バカ姉弟が！<line-break>ノコノコおびき出されやがって。<end>"
+english = "Geh-heh-heh... Stupid brats! You walked right into my trap.<end>"
+
+["310112"]
+japanese = "ボルボラ！！<line-break>お前もこれで終わりだ！<line-break>降参しろ！<end>"
+english = "Bolbora! This is the end for you too! Surrender!<end>"
+
+["310113"]
+japanese = "降参だと？<line-break>せっかくお前らをおびき寄せたのに？<line-break>ゲヘヘヘ…。<line-break>ゲヘ、教えてやろうか？<line-break>俺の怪物がやられたのも罠、反乱も罠。<line-break>すべては王宮の政争の一環なのさ。<end>"
+english = "Give up? After I went to all this trouble to lure you here? Geh-heh-heh... Want to know something? My monster's defeat was a trap. The rebellion was a trap. It's all part of the struggle for power at the royal court.<end>"
+
+["310114"]
+japanese = "なんだと、ボルボラ！？<end>"
+english = "What did you say, Bolbora?!<end>"
+
+["310115"]
+japanese = "黙れ、ボルボラ！！<end>"
+english = "Shut up, Bolbora!!<end>"
+
+["310116"]
+japanese = "王宮で王権強化をねらう王妃エリスと<line-break>貴族筆頭のレムオン・リューガが<line-break>対立してるのは知ってるだろう？<line-break>ここは、そのレムオンの領地だ。<line-break>ここで反乱が起こればレムオンは<line-break>失脚は疑いねえよなあ？<end>"
+english = "You know Queen Eris wants to strengthen the Crown, and she's at odds with Lemghon Ryuga, the foremost of the nobles, don't you? This is Lemghon's domain. If a rebellion breaks out here, he's bound to fall from power, isn't he?<end>"
+
+["310117"]
+japanese = "…なんだと？<line-break>それじゃ、この反乱は…。<line-break>まさか…。<end>"
+english = "What...? Then this rebellion... You don't mean...<end>"
+
+["310118"]
+japanese = "王妃エリスの密使フリントは<line-break>ここで適当な反乱が起こるようにしろと<line-break>レムオンの代官の俺に依頼してきた。<line-break>成功すれば、俺をこのノーブルの<line-break>領主様にお取りたてくださるとよ。<line-break>これで貴族の仲間入りだぜエ！<end>"
+english = "Flint, Queen Eris's secret envoy, came to me, Lemghon's own steward, and asked me to see that some sort of rebellion broke out here. If I succeeded, he said she'd make me lord of Noble. At last, I'll be one of the nobility!<end>"
+
+["310119"]
+japanese = "ついでに、クソうっとうしい<line-break>お前ら姉弟も始末できる。<line-break>今日は俺の大事な記念日だ！<end>"
+english = "And as a bonus, I get to dispose of you two damned annoying brats. Today is a very special day for me!<end>"
+
+["310120"]
+japanese = "お前のそのゴジャゴジャ抜きの<line-break>さっぱりした荒い気性、<line-break>好きだったぜエ…ゲヘヘ…。<line-break>気性だけじゃねえ、<line-break>お前の腕っ節、お前の尻…ゲヘ、<line-break>みんな好きだった。<end>"
+english = "I always liked that rough, no-nonsense temper of yours... Geh-heh-heh. And it wasn't just your temper. Your strength, your arse... Geh. I liked all of it.<end>"
+
+["310121"]
+japanese = "ゲヘヘ…、そんなこんなも<line-break>今日で終わりだと思うと<line-break>さびしいぜ…。ゲヘヘヘ…。<end>"
+english = "Geh-heh-heh... I'll miss it all when it's gone after today. Geh-heh-heh-heh...<end>"
+
+["310122"]
+japanese = "ぼ…ボルボラ…、<line-break>お前…いったい…！？<end>"
+english = "B-Bolbora... What... what are you?!<end>"
+
+["310123"]
+japanese = "ゲヘヘ…リベルダムで<line-break>ちょっくら改造してもらったのよ。<line-break>カッコよく、強くなるためになア。<line-break>俺のかわいい怪物を倒して、<line-break>いい気になってたんだろうが、<line-break>残念だったな！\u3000死ねやア！！<end>"
+english = "Geh-heh-heh... I had a few modifications done in Liberdam. Made me better-looking and stronger. You thought you were something special after beating my precious monster, didn't you? Too bad! Die!<end>"
+
+["310124"]
+japanese = "俺が負けるだなんて…<line-break>んな、バカなア！！<line-break>ゲヒッ！！<end>"
+english = "Me, lose...? That's impossible! Gegh!<end>"
+
+["310125"]
+japanese = "やったね、姉ちゃん！<line-break>ついにボルボラを倒したんだ！<end>"
+english = "You did it, sis! You finally beat Bolbora!<end>"
+
+["310126"]
+japanese = "なあ、姉ちゃん。<line-break>早くみんなの所に行こう！<line-break>みんな、吉報を待ってるよ！<end>"
+english = "Come on, sis. Let's get back to everyone! They're all waiting for the good news!<end>"
+
+["310127"]
+japanese = "\u3000<end>"
+english = ""
+
+["310128"]
+japanese = "ゲヘ！\u3000<value:$28>を倒したぞ！<line-break>おめでとう、俺！<line-break>これで晴れてノーブルの領主だ！！<end>"
+english = "Geh! I defeated <value:$28>! Congratulations to me! Now I'm officially the lord of Noble!<end>"
+
+["310129"]
+japanese = "…そうはいかん。<end>"
+english = "Not so fast.<end>"
+
+["310130"]
+japanese = "ゲヒッ！！<line-break>レ、レムオン様…。<end>"
+english = "Gegh! L-Lord Lemghon...<end>"
+
+["310131"]
+japanese = "俺の領地で<line-break>好き放題やってくれているようだな。<line-break>ボルボラ。<line-break>その上、エリス王妃に通じて<line-break>俺の秘密を探り、<line-break>俺の領地に反乱を起こそうとは…<end>"
+english = "It seems you've been doing as you please in my domain, Bolbora. Worse still, you conspired with Queen Eris to uncover my secrets and incite a rebellion on my lands...<end>"
+
+["310132"]
+japanese = "それなりの覚悟は<line-break>できているのだろうな？<end>"
+english = "I trust you are prepared to face the consequences?<end>"
+
+["310133"]
+japanese = "覚悟？\u3000ゲヘヘ…<line-break>俺様の強さがわからねえらしいな！<line-break>覚悟しろとはこっちのセリフだ！<line-break>死んでもらうぜ！！<line-break>我が主、レムオン・リューガ様よぉ！<end>"
+english = "Consequences? Geh-heh-heh... You don't seem to understand how strong I am! I'm the one who should be warning you! Time to die, my lord Lemghon Ryuga!<end>"
+
+["310134"]
+japanese = "<value:$28>！<line-break>回復してやる！\u3000立て！<line-break>このブタ野郎に殺されたくなければな！<end>"
+english = "<value:$28>! I'll heal you. Get up, unless you want this swine to kill you!<end>"
+
+["310135"]
+japanese = "ゲヘ…！\u3000遅せえよ！<line-break>もう、俺はフリントに密書を渡した！<line-break>あんたの秘密の糸口をな！<end>"
+english = "Geh... Too late! I've already given Flint the Secret Letter―the clue that will lead him to your secret!<end>"
+
+["310136"]
+japanese = "フリントからエリス王妃に<line-break>この手紙が渡れば、お前も終わりだ！<line-break>あばよ！！<end>"
+english = "Once Flint delivers this letter to Queen Eris, you're finished! So long!<end>"
+
+["310137"]
+japanese = "あんた…あんたがここの領主の<line-break>大貴族リューガ家の当主。<line-break>エリエナイ公レムオンだったんだな。<end>"
+english = "You... You're the lord of this land, head of the great House of Ryuga. You're Lemghon, Duke of Elienai.<end>"
+
+["310138"]
+japanese = "そうだ。<line-break>この反乱のカラクリも<line-break>だいたいわかったようだな。<line-break>だから反乱などよせと言ったのだ。<end>"
+english = "I am. And it seems you have more or less grasped the scheme behind this rebellion. That is why I told you to stay out of it.<end>"
+
+["310139"]
+japanese = "何をする気だ！<end>"
+english = "What are you going to do?<end>"
+
+["310140"]
+japanese = "俺がここにいたことになれば、<line-break>俺は反乱を知っていることになる。<line-break>\u3000<line-break>そうなれば、俺はこの町に<line-break>鎮圧軍を差し向けねばならぬ。<line-break>犠牲はふたりではすまなくなる。<end>"
+english = "If it becomes known that I was here, then it follows that I knew of the rebellion. I would then be obliged to send an army to suppress this town. The casualties would not end with the two of you.<end>"
+
+["310141"]
+japanese = "…姉ちゃんと俺を殺す気か！？<end>"
+english = "You're going to kill me and my sister?!<end>"
+
+["310142"]
+japanese = "これは貴族の権力争いだ！<line-break>こんなくだらないことで<line-break>姉ちゃんが死ぬことなんてないよ！<end>"
+english = "This is a power struggle between nobles! My sister doesn't have to die over something so pointless!<end>"
+
+["310143"]
+japanese = "…そのくだらぬことに<line-break>首を突っ込まぬようとめたものを…<line-break>愚か者が…。<end>"
+english = "I warned you not to meddle in that pointless affair... Fool.<end>"
+
+["310144"]
+japanese = "姉ちゃん！！<end>"
+english = "Sis!<end>"
+
+["310145"]
+japanese = "紙一重で斬ったとはいえ<line-break>少しも動じぬとは…。<line-break>いい度胸だな。<end>"
+english = "Even with my blade missing you by a hair, you did not flinch. You have courage.<end>"
+
+["310146"]
+japanese = "…フリントがエリスに密書を渡し、<line-break>反乱の報告をするとなれば、<line-break>こちらも手を打たねばならぬ。<line-break>俺についてこい、<line-break><value:$28>。<line-break>お前の力が必要なのだ。<end>"
+english = "If Flint delivers the Secret Letter to Eris and reports the rebellion, I must make my own move. Come with me, <value:$28>. I need your strength.<end>"
+
+["310147"]
+japanese = "レムオンについていく<end>"
+english = ""
+
+["310148"]
+japanese = "レムオンについていかない<end>"
+english = ""
+
+["310149"]
+japanese = "今回の事件の責任をとって、<line-break>お前たち姉弟には<line-break>処刑されたことになってもらう。<line-break>そうすることで<line-break>今回の騒ぎを鎮め、<line-break>この町の連中の口を封じる。<end>"
+english = "To take responsibility for this incident, the two of you will be declared executed. That will bring this disturbance to an end and ensure the people of this town keep silent.<end>"
+
+["310150"]
+japanese = "そんな…勝手すぎだぜ！！<end>"
+english = "You can't just decide that for us!<end>"
+
+["310151"]
+japanese = "明日の早朝にここを出て<line-break>王都ロストールの王宮へ向かう。<line-break>今日はもう休むことだな。<end>"
+english = "We leave early tomorrow morning for the royal palace in Rostorl, the capital. Get some rest tonight.<end>"
+
+["310152"]
+japanese = "くそっ！！<line-break>こんなことってあっていいもんか！<line-break>なあ、姉ちゃ…。<end>"
+english = "Damn it! How can this be right? Hey, sis...<end>"
+
+["310153"]
+japanese = "うん…。そうだよな…。<line-break>これでボルボラも追放されて、<line-break>きっと、この町も…。<end>"
+english = "Yeah... You're right. Bolbora's been driven out now, so I'm sure this town will...<end>"
+
+["310154"]
+japanese = "姉ちゃん。<line-break>もう、起きた？<line-break>入るぜ。<end>"
+english = "Sis? Are you awake? I'm coming in.<end>"
+
+["310155"]
+japanese = "やっぱ、寝てないんだ…。<end>"
+english = "So you haven't slept after all...<end>"
+
+["310156"]
+japanese = "結局、守れなかったね。<line-break>父さんの遺してくれた<line-break>あの畑…。<end>"
+english = "In the end, we couldn't protect it. The field Dad left us...<end>"
+
+["310157"]
+japanese = "な、な、なんだ！？<end>"
+english = "W-w-what?!<end>"
+
+["310158"]
+japanese = "い、今の地震は…<line-break>いったい…。<end>"
+english = "Th-that earthquake just now... What was it?<end>"
+
+["310159"]
+japanese = "用意はいいか？<end>"
+english = "Are you ready?<end>"
+
+["310160"]
+japanese = "都合よく地震が起こった。<line-break>この混乱に乗じて町を出る。<line-break>急げよ。<end>"
+english = "That earthquake was well timed. We'll use the confusion to leave town. Hurry.<end>"
+
+["310161"]
+japanese = "姉ちゃん…。<end>"
+english = "Sis...<end>"
+
+["310162"]
+japanese = "うん。<line-break>姉ちゃん、行こう！<end>"
+english = "Yeah. Come on, sis. Let's go!<end>"
+
+["310163"]
+japanese = "…残念だな。<end>"
+english = ""
+
+["310164"]
+japanese = "ここから追加セリフ<end>"
+english = ""
+
+["310165"]
+japanese = "気に入らんな。<end>"
+english = "I don't like this.<end>"
+
+["310166"]
+japanese = "女、また助太刀しよう。<line-break>どうにもいけすかんのでな。<end>"
+english = "Woman, I'll come to your aid once more. I simply can't stomach this.<end>"
+
+["310167"]
+japanese = "な、何者だ！！<end>"
+english = "W-Who are you?!<end>"
+
+["310168"]
+japanese = "何者か知れば、<line-break>きっと後悔するぞ。<end>"
+english = "You'd regret it if you knew.<end>"
+
+["310169"]
+japanese = "兄さん！<end>"
+english = "Brother!<end>"
+
+["310170"]
+japanese = "かかってくるがいい。<line-break>俺に勝ったら教えてやる。<end>"
+english = "Come at me, then. Beat me, and I'll tell you.<end>"
+
+["310171"]
+japanese = "待って！<line-break>ねぇ、<value:$28>！<line-break>お願い！<line-break>兄さんは不器用な人なんだ。<line-break>気を悪くしたろうけど<line-break>許してほしい。<end>"
+english = ""
+
+["310172"]
+japanese = "ロストールの王宮では<line-break>エリス王妃と兄さんの間で<line-break>しれつな権力争いがあるんだ。<line-break>兄さんには、<line-break>君みたいな味方が必要なんだ。<end>"
+english = ""
+
+["310173"]
+japanese = "お願い、兄さんを守って！<end>"
+english = ""
+
+["310174"]
+japanese = "＃１１<end>"
+english = ""
+
+["310175"]
+japanese = "<value:$28>、チャカ。<line-break>まさか、お代官様を…！<end>"
+english = "<value:$28>, Chaka... Don't tell me you did something to the magistrate!<end>"
+
+["310176"]
+japanese = "ああ！<line-break>ボルボラは俺たちが倒した！<line-break>ノーブルはこれで平和になるよ！<end>"
+english = "That's right! We defeated Bolbora! Noble will be at peace now!<end>"
+
+["310177"]
+japanese = "なんということじゃ！！<line-break>代官まで追放されてしもうては、<line-break>反乱は明らかじゃ！<line-break>やっと町の騒ぎをしずめたに、<line-break>英雄気どりで愚か者どもが…！<end>"
+english = "What have you done?! With even the magistrate driven out, there can be no mistaking this for anything but rebellion! The unrest in town had only just been brought under control, and now you fools have to play the heroes...!<end>"
+
+["310178"]
+japanese = "皆の衆！！<end>"
+english = "Everyone!!<end>"
+
+["310179"]
+japanese = "な、何するんだよ！<line-break>長老様！！<end>"
+english = "W-What are you doing?! Elder!!<end>"
+
+["310180"]
+japanese = "このままでは領主様の鎮圧軍が来て<line-break>町は大変なことになる。<line-break>最悪、町は皆殺しじゃ。<line-break>その前にお前らを差し出すのじゃ。<line-break>反乱の首謀者として、<line-break>町のためにな。<end>"
+english = "If this continues, our lord will send troops to put down the rebellion, and the town will pay dearly. At worst, everyone will be slaughtered. Before that happens, we will hand you over as the ringleaders―for the sake of the town.<end>"
+
+["310181"]
+japanese = "くそっ！<line-break>町のみんなのために戦ったのに…！<line-break>あいつら…！<end>"
+english = "Damn it! We fought for everyone in this town, and now those bastards...!<end>"
+
+["310182"]
+japanese = "そうだね、姉ちゃん。<line-break>とにかく町の外に逃げよう。<line-break>すべてはそれからだ。<end>"
+english = "Yeah, sis. For now, let's get out of town. Everything else can wait until then.<end>"
+
+["310183"]
+japanese = "＃１２<end>"
+english = ""
+
+["310184"]
+japanese = "<value:$28>！<line-break>逃げて！！<line-break>みんな、君を裏切ったんだ！！<line-break>反乱が知れたら、<line-break>ここに鎮圧軍が攻めてくる。<line-break>それを恐れて責任を君にかぶせて…<end>"
+english = ""
+
+["310185"]
+japanese = "うっ！！<end>"
+english = ""
+
+["310186"]
+japanese = "弓？<line-break>弓を持った奴らに囲まれてる！？<end>"
+english = ""
+
+["310187"]
+japanese = "まずいぞ！\u3000エスト様に矢が当たった！<line-break>ご領主レムオン様の弟君に<line-break>ケガをさせたとなるといよいよ…。<end>"
+english = ""
+
+["310188"]
+japanese = "レムオン？<end>"
+english = ""
+
+["310189"]
+japanese = "レムオンって、<line-break>あの斜にかまえた奴？<line-break>あいつが、ここの領主…？<line-break>そして、あのエストって奴が<line-break>レムオンの弟なのか…？<end>"
+english = ""
+
+["310190"]
+japanese = "爺さん、エスト様もやるしかねえよ！<line-break><value:$28>がやったことにするんだ！<end>"
+english = ""
+
+["310191"]
+japanese = "長老…、お前ら…！！<end>"
+english = ""
+
+["310192"]
+japanese = "…仕方あるまい。<line-break>これも町のためじゃ。<line-break>エスト様、<value:$28>、…すまぬ。<end>"
+english = ""
+
+["310193"]
+japanese = "…<value:$28>、…逃げて。<line-break>早く…。<end>"
+english = ""
+
+["310194"]
+japanese = "んなことできっかよ！<line-break>お前は貴族だけど、俺たちを<line-break>助けてくれようとしたんだ！！<line-break>…それに、<line-break>弓を持った奴らに囲まれてる。<line-break>逃げたくても…逃げられねえよ。<end>"
+english = ""
+
+["310195"]
+japanese = "…逃がして…みせる。<line-break>僕は君を…逃がして…。<end>"
+english = ""
+
+["310196"]
+japanese = "よくねらえ！<line-break>領主の弟だからってビビんじゃねえ！<line-break>やらねえと、こっちがやられるんだ！<end>"
+english = ""
+
+["310197"]
+japanese = "なんじゃ！？<line-break>エスト様が…いったい…？<end>"
+english = ""
+
+["310198"]
+japanese = "闇の神器…、これを使えば、<line-break>心は黒くなるけど、強く…なれる…、<line-break>僕みたいな…弱い…者でも…。<end>"
+english = ""
+
+["310199"]
+japanese = "撃て！！<end>"
+english = ""
+
+["310200"]
+japanese = "僕を…お…怒らせないで…！<line-break>僕の…僕の…黒い心が…ああ…、<line-break>君たちを殺そうと…する…！<line-break>お…抑えきれない…。<line-break>逃げて！！<end>"
+english = ""
+
+["310201"]
+japanese = "ぐわっ！<end>"
+english = ""
+
+["310202"]
+japanese = "み、皆の衆！！<line-break>逃げるんじゃ！！<end>"
+english = ""
+
+["310203"]
+japanese = "ひいいいっ！！<end>"
+english = ""
+
+["310204"]
+japanese = "…<value:$28>？<line-break>僕…君を傷つけてしまったんだね…。<line-break>ごめん…ね…。<line-break>ぼ、僕の心が…<line-break>闇に堕ちきってしまう前に…<line-break>君を転送…して…逃がす…よ…。<end>"
+english = ""
+
+["310205"]
+japanese = "<value:$28>…、<line-break>お願い…、兄さんのこと…<line-break>許して…あげて…。<line-break>そして…どうか…。<line-break>兄さんのこと…たすけ…<end>"
+english = ""
+
+["310206"]
+japanese = "う…ううん…。<line-break>気を…失っていたの…か…。<end>"
+english = ""
+
+["310207"]
+japanese = "ね…姉ちゃん、<line-break>大丈夫？<end>"
+english = ""
+
+["310208"]
+japanese = "どのくらい<line-break>気を失っていたんだろう…。<end>"
+english = ""
+
+["310209"]
+japanese = "東の空が白んでいる…てことは、<line-break>もう、夜明けか。<end>"
+english = ""
+
+["310210"]
+japanese = "え…！？<end>"
+english = ""
+
+["310211"]
+japanese = "今のは、いったい…？<end>"
+english = ""
+
+["310212"]
+japanese = "…そうだね。<line-break>エストは俺たちを助けるために…。<line-break>エストを捜さなきゃ。<end>"
+english = ""
+
+["310213"]
+japanese = "でもさ…。<line-break>まず、ロストールへ行って<line-break>レムオンを訪ねないか？<line-break>薄れていく意識の中で俺、<line-break>エストが兄貴のことを頼むって言ったの<line-break>聞いたような気がするんだ。<end>"
+english = ""
+
+["310214"]
+japanese = "…行こう。<line-break>王都ロストールへ。<end>"
+english = ""
+
+["310215"]
+japanese = "＃１３<end>"
+english = ""
+
+["310216"]
+japanese = "無事脱出できると思ったんだろうが、\u3000<line-break>そうはいかないぜ？<line-break><value:$28>…。<line-break>昔からお前のことがキライだった。<line-break>俺は何かにつけてお前と比べられて<line-break>コソクだ、意気地なしだと言われた。<end>"
+english = "You thought you'd make it out safely, didn't you? Not a chance, <value:$28>. I've always hated you. They compared me to you at every turn, calling me underhanded and spineless.<end>"
+
+["310217"]
+japanese = "だがそれも、今日で終わりさ！！<line-break>ベテランの冒険者たちを雇ってるんだ！<line-break>お前は反乱者としてみじめに死ぬんだ！<end>"
+english = "But that ends today! I've hired veteran adventurers. You're going to die a miserable rebel's death!<end>"
+
+["310218"]
+japanese = "（チャカ…。）<end>"
+english = ""
+
+["310219"]
+japanese = "に、逃げろ！！<end>"
+english = "R-run!!<end>"
+
+["310220"]
+japanese = "くそっ！！<line-break>俺たちはなんのために<line-break>ボルボラを倒したんだ！<end>"
+english = "Damn it! What did we defeat Bolbora for?!<end>"
+
+["310221"]
+japanese = "ファーロスの雌狐と<line-break>呼ばれるほどの謀士、<line-break>王妃エリスの策謀のためだ。<end>"
+english = "To further the schemes of Queen Eris, a strategist so cunning she is known as the Vixen of Pharos.<end>"
+
+["310222"]
+japanese = "そ、それって、<line-break>どういうことだよ！<end>"
+english = "W-What does that mean?!<end>"
+
+["310223"]
+japanese = "エリスはフリントという男を派遣して<line-break>この地の代官ボルボラをそそのかし<line-break>この地に反乱を起こさせだのだ。<line-break>この地の領主は王妃エリスの政敵。<line-break>反乱の責任問題で<line-break>その失脚をねらったのだな。<end>"
+english = "Eris sent a man named Flint to incite Bolbora, the governor of this land, into fomenting a rebellion. The lord of this land is Queen Eris's political rival. She meant to hold him responsible for the revolt and bring about his downfall.<end>"
+
+["310224"]
+japanese = "ボルボラの腹づもりでは<line-break>わざと反乱を起こさせて<line-break>それをねじ伏せる気でいたのだろう。<line-break>もっとも、計算がやや違って<line-break>お前らに倒されてしまったがな。<end>"
+english = "Bolbora likely intended to instigate the rebellion himself, then crush it. His calculations were somewhat off, however. You defeated him instead.<end>"
+
+["310225"]
+japanese = "そんなバカな！！<line-break>俺たちは貴族の権力争いのために<line-break>こんな…！<line-break>ウソだ！！<line-break>だいたい、なんでお前に<line-break>そんなことがわかるんだよ！！<end>"
+english = "That's insane! We did all this for some power struggle between nobles...? You're lying! And how would you know any of that?!<end>"
+
+["310226"]
+japanese = "それは俺こそがこの地の領主、<line-break>王妃エリスの政敵、<line-break>エリエナイ公レムオンだからだ。<end>"
+english = "Because I am the lord of this land, Queen Eris's political rival: Lemghon, Duke of Elienai.<end>"
+
+["310227"]
+japanese = "えっ！？<end>"
+english = "What?!<end>"
+
+["310228"]
+japanese = "フリントはボルボラから<line-break>俺の秘密に関する密書を受け取り、<line-break>それをエリスに報告に向かっている。<line-break>俺は急いで王都へ戻り、<line-break>エリスに会わねばならん。<end>"
+english = "Flint received a Secret Letter from Bolbora concerning my secret, and he is on his way to report it to Eris. I must hurry back to the royal capital and meet with her.<end>"
+
+["310229"]
+japanese = "俺についてこい。<line-break><value:$28>。<line-break>この町にはもうお前に居場所はない。<line-break>だが、俺はお前を必要としている。<line-break>俺と王都に来い。<line-break><value:$28>。<end>"
+english = "Come with me, <value:$28>. There is no longer any place for you in this town. But I have need of you. Come to the royal capital with me, <value:$28>.<end>"
+
+["310230"]
+japanese = "姉ちゃん！<line-break>こんな奴の言うことなんか<line-break>聞くことないよ！<end>"
+english = "Sis! You don't have to listen to a guy like him!<end>"
+
+["310231"]
+japanese = "ならば、すぐに行くぞ。<line-break>奴らが新手を連れてくる前にな。<end>"
+english = "Then we leave at once, before they return with reinforcements.<end>"
+
+["310232"]
+japanese = "ん？<line-break>どうした、<value:$28>？<end>"
+english = "Hm? What's wrong, <value:$28>?<end>"
+
+["310233"]
+japanese = "地震か…？<line-break>反乱に反逆に地震と立て続けとは<line-break>忙しいことだな。<line-break>次はロストールが滅びるか？<line-break>破壊神でも目覚めるか？<end>"
+english = "An earthquake...? Rebellion, treason, and now an earthquake, one after another. These are busy times. Will Rostorl fall next? Or will the God of Destruction awaken?<end>"
+
+["310234"]
+japanese = "…フフ、まさかな。<line-break>さ、行くぞ。<end>"
+english = "Heh... surely not. Come on, let's go.<end>"
+
+["310235"]
+japanese = "それ！\u3000捕まえろ！<end>"
+english = "Now! Grab that one!<end>"
+
+["310236"]
+japanese = "させるかよ！！<end>"
+english = ""
+
+["310237"]
+japanese = "姉ちゃん、今のうちだ！！<line-break>早く逃げて！<end>"
+english = ""
+
+["310238"]
+japanese = "こ…この悪ガキめ！<end>"
+english = ""
+
+["310239"]
+japanese = "早く逃げて！！<line-break>早く！！<end>"
+english = ""
+
+["310240"]
+japanese = "<value:$28>。<end>"
+english = "<value:$28>.<end>"
+
+["310241"]
+japanese = "いよいよ町に入る。<line-break>お前の名前で<line-break>中止を呼びかけるんだ。<end>"
+english = "We're about to enter the town. You'll call for the uprising to stop, in your own name.<end>"
+
+["310242"]
+japanese = "それは困りますね。<line-break>苦労してあおった反乱です。<line-break>ぜひとも起こっていただかないと…。<end>"
+english = "That would be rather inconvenient. I went to a great deal of trouble to foment this rebellion. It simply must go ahead.<end>"
+
+["310243"]
+japanese = "それに、もう遅い。<line-break>すでに、町では騒ぎが起こり、<line-break>代官ボルボラは死にました。<end>"
+english = "Besides, it's already too late. The town is in an uproar, and Magistrate Bolbora is dead.<end>"
+
+["310244"]
+japanese = "貴様が王妃エリスの密使、<line-break>石火のフリントか。<line-break>ボルボラを始末したのは貴様だな？<end>"
+english = "So you're Flint the Flash, Queen Eris's secret envoy. You're the one who disposed of Bolbora, aren't you?<end>"
+
+["310245"]
+japanese = "さぁて？<line-break>まあ、ボルボラは信用できない人物。<line-break>いずれは切り捨てるべきコマでした。\u3000\u3000<line-break>あと戻りできない状況も必要でしたし、<line-break><value:$28>さん、あなた抜きでは<line-break>いささか力不足のようでしたしね。<end>"
+english = "Who can say? Bolbora was hardly trustworthy. He was a pawn to be discarded sooner or later. There also had to be no turning back. And <value:$28>, it seemed things would fall a little short without you.<end>"
+
+["310246"]
+japanese = "私にお腹立ちのようですな。<line-break>でも、あなたを利用していたのは\u3000\u3000\u3000<line-break>私だけではありませんよ？<end>"
+english = "You seem rather angry with me. But I wasn't the only one using you, you know.<end>"
+
+["310247"]
+japanese = "あなたのおとなりにいる男…、<line-break>彼こそ、この地の領主、<line-break>エリエナイ公レムオン・リューガです。<end>"
+english = "The man beside you is none other than the lord of this land: Duke Lemghon Ryuga of Elienai.<end>"
+
+["310248"]
+japanese = "彼はこの地で反乱が起こり、<line-break>その責任問題で失脚するのを恐れ、\u3000\u3000<line-break>あなたを利用しているのですよ？<end>"
+english = "He feared that a rebellion here would cost him his position when the blame fell upon him. That's why he's been using you.<end>"
+
+["310249"]
+japanese = "………………。<end>"
+english = "....................<end>"
+
+["310250"]
+japanese = "レムオン様。<line-break>あなたの秘密についての密書、<line-break>ボルボラより受け取っております。<line-break>あなたは密書を取り戻さねば破滅。<line-break>反乱にかまっているヒマはない。<end>"
+english = "Lord Lemghon. Bolbora gave me the Secret Letter concerning your secret. Unless you recover it, you will be ruined. You have no time to concern yourself with the rebellion.<end>"
+
+["310251"]
+japanese = "それと、<value:$28>さん。<line-break>反乱が表ざたになるのを恐れた<line-break>長老に弟さんが捕まりましたよ。<line-break>急いで助けに行かなければ、<line-break>大変なことになりますよ。<end>"
+english = "And one more thing, <value:$28>. The elder, fearing the rebellion would come to light, has captured your younger brother. If you don't hurry to rescue him, something terrible will happen.<end>"
+
+["310252"]
+japanese = "奴の言うとおり、<line-break>俺はこの地の領主、<line-break>レムオン・リューガだ。<end>"
+english = "He spoke the truth. I am the lord of this land, Lemghon Ryuga.<end>"
+
+["310253"]
+japanese = "王妃エリスの密使フリントが<line-break>この地に反乱を起こそうとしていると<line-break>知ってここに来た。<line-break>弟のエストもここに来ていた。<line-break>弟が反乱騒ぎに<line-break>巻き込まれないようにもしたかった。<end>"
+english = "I came here after learning that Flint, Queen Eris's secret envoy, meant to incite a rebellion in this land. My younger brother Est had come here as well. I also wanted to keep him from being caught up in it.<end>"
+
+["310254"]
+japanese = "フリントが手に入れた密書というのは<line-break>俺にとって致命的な秘密の<line-break>糸口になるものだ。<line-break>雌狐と言われるほどのエリスなら<line-break>有効に使ってくるだろう。<line-break>…これがすべてだ。<end>"
+english = "The Secret Letter Flint obtained contains a clue to a secret that could destroy me. Eris is called a vixen for good reason; she'll know how to put it to use. That's everything.<end>"
+
+["310255"]
+japanese = "どうした？<line-break>チャカとかいう弟を助けに行くぞ。<end>"
+english = "What's wrong? We're going to rescue that brother of yours―Chaka, was it?<end>"
+
+["310256"]
+japanese = "密書はあと回しだ。<line-break>確かに密書は俺にとって<line-break>致命的なものだが…<line-break>お前ごときを利用する気などないと<line-break>証明することが先決だ。<line-break>俺の誇りに関わる。<end>"
+english = "The Secret Letter can wait. True, it could destroy me, but first I must prove that I have no intention of using the likes of you. My pride is at stake.<end>"
+
+["310257"]
+japanese = "…それだけだ。<line-break>行くぞ。<end>"
+english = "That's all. Let's go.<end>"
+
+["310258"]
+japanese = "フフ、お二方の目的が<line-break>食い違ってきたようですな。<line-break>さて、いかがなさいますかな？<line-break>それでは、ごきげんよう。<end>"
+english = "Heh. It seems your aims have begun to diverge. Now, what will you do? Farewell.<end>"
+
+["310259"]
+japanese = "しょうがねえよなあ、<value:$28>。<line-break>お代官様まで死んじまったら、\u3000<line-break>もう、ごまかしがきかない。<line-break>お前ら姉弟を反乱の首謀者として<line-break>ご領主様に差し出すしかない。<line-break>町のためだ。悪く思うなよ。<end>"
+english = "There's no other way, <value:$28>. With the magistrate dead too, we can't cover this up anymore. We'll have to hand you and your brother over to the lord as the ringleaders of the rebellion. It's for the good of the town. No hard feelings.<end>"
+
+["310260"]
+japanese = "そんなのダメだ！<line-break>姉ちゃん！\u3000逃げて！！<end>"
+english = "No! Sis, run!!<end>"
+
+["310261"]
+japanese = "黙ってろよ！<line-break>気に入らないガキだな！<end>"
+english = "Shut up! What an obnoxious brat!<end>"
+
+["310262"]
+japanese = "お前もな、昔から気に入らなかった！<line-break>俺は何かにつけてお前と比べられて<line-break>コソクだ、意気地なしだと言われた。<end>"
+english = "I've never liked you either! For years, people have compared me to you at every turn, calling me sneaky and spineless.<end>"
+
+["310263"]
+japanese = "だがそれも、今日で終わりさ！！<line-break>ベテランの冒険者たちを雇ってるんだ！<line-break>お前は反乱者としてみじめに死ぬんだ！<end>"
+english = "But that ends today! I've hired veteran adventurers! You'll die miserably as a rebel!<end>"
+
+["310264"]
+japanese = "はじめまして、お嬢ちゃん。<line-break>あたしたち、冒険者。<line-break>ここの長老様に雇われたの。\u3000\u3000\u3000\u3000\u3000<line-break>事情はよく知らないけど、<line-break>あなたを捕まえるように言われたの。<line-break>生死は問わないって。<end>"
+english = "A pleasure to meet you, young lady. We're adventurers. The elder here hired us. I don't know all the details, but we've been told to capture you―dead or alive.<end>"
+
+["310265"]
+japanese = "これで今生の別れになるかもだけど、<line-break>一期一会が人生の定めよね。<line-break>ささっとお仕事片付けさせてもらうわ。<end>"
+english = "This may be our first and last meeting, but every encounter comes only once, doesn't it? Let's make quick work of this job.<end>"
+
+["310266"]
+japanese = "ひ、ひいい！！<line-break>お助け！！<end>"
+english = ""
+
+["310267"]
+japanese = "姉ちゃん！！<end>"
+english = "Sis!!<end>"
+
+["310268"]
+japanese = "俺…、俺…。<end>"
+english = "I... I...<end>"
+
+["310269"]
+japanese = "おい、<line-break>奴らが新手を引き連れてくる前に<line-break>とりあえず、ここを離れるぞ。<end>"
+english = "Come on. We need to get out of here before they come back with reinforcements.<end>"
+
+["310270"]
+japanese = "あいつら…、俺を…！<line-break>俺たちはいったいなんのために…<line-break>なんのために戦ってきたんだ！<end>"
+english = "They... Me...! What have we been fighting for? What was it all for?!<end>"
+
+["310271"]
+japanese = "…俺は王都へ行く。<line-break>この地の反乱のことと<line-break>密書の件でエリスと会わねばならん。<line-break>ここでさらばだ。<end>"
+english = "I'm going to the royal capital. I must meet with Eris about the rebellion here and the Secret Letter. This is where we part ways.<end>"
+
+["310272"]
+japanese = "酔狂な女だ。<line-break>ついてくるというのか？<end>"
+english = "You're a strange woman. Are you saying you want to come with me?<end>"
+
+["310273"]
+japanese = "俺も行くぜ！<line-break>あんたには助けられっぱなしだ！<line-break>これじゃ、俺の気がすまねえ！<line-break>それに…、<line-break>もう、ノーブルの町には<line-break>いられないだろうしな。<end>"
+english = "I'm coming too! You've done nothing but help me. I can't leave it at that! Besides... I doubt I can stay in Noble any longer.<end>"
+
+["310274"]
+japanese = "フッ、それもよかろう。<line-break>煮え切らない貴族どもには<line-break>うんざりしていたところだ。<line-break>気概のある奴がほしかった。<line-break>本格的にお前たちを利用させてもらう。<line-break>覚悟するのだな。<end>"
+english = "Hmph. Very well. I was growing tired of those spineless nobles. I needed someone with some backbone. From now on, I intend to make full use of all of you. Be prepared.<end>"
+
+["310275"]
+japanese = "ったく、こいつの場合、<line-break>本気か冗談かわからねえからな。<end>"
+english = "Damn. There's no telling whether that was serious or a joke.<end>"
+
+["310276"]
+japanese = "な、なんだ！？<end>"
+english = "W-what?!<end>"
+
+["310277"]
+japanese = "\u3000<end>"
+english = ""
+
+["310278"]
+japanese = "大通り<end>"
+english = "Main Street<end>"
+
+["310279"]
+japanese = "<select><value:$20>%3お代官様はあんたに業を煮やして、\u3000\u3000<line-break>最近じゃ戦闘用のモンスターを<line-break>買い込んで飼ってなさる。<line-break>まったく、あんたのせいで<line-break>どんどん、状況がひどくなってくるよ。<end>ここの代官ボルボラ様は<line-break>とにかく残虐な人さ。<line-break>逆らった人間の末路と来たら！\u3000<line-break>この前姿を消したあの男、<line-break>ボルボラが買い付けたあの怪物の<line-break>エサにされたって言うよ！<end>お代官様は戦闘用のモンスターを\u3000\u3000\u3000\u3000<line-break>飼ってなさる。<line-break>逆らえるわけがない。<line-break>だけど、あの旅の商人さんの言うとおり、<line-break>このまま黙っていたら、<line-break>うちのかわいい娘だって、いつ…。<end>"
+english = "<select><value:$20>%3The magistrate's lost patience with you. Lately, he's been buying up monsters trained for combat and keeping them here. Honestly, because of you, things just keep getting worse.<end>Bolbora, the magistrate here, is a cruel man. You should see what happens to anyone who defies him! They say that man who disappeared recently was fed to the monster Bolbora bought!<end>The magistrate keeps monsters trained for combat. We can't possibly stand against him. But that traveling merchant was right. If we stay silent, who knows when my darling daughter might be...<end>"
+
+["310280"]
+japanese = "<select><value:$20>%2あのお兄ちゃんは<line-break>やみのじんぎっていうものを\u3000\u3000<line-break>探してるんだって。<line-break>カワイイ顔してるのに、<line-break>なんかヘンなの！<line-break>あんまし、モテそうにないよね！<end>あのお兄ちゃんは、<line-break>お兄ちゃんのお兄ちゃんに<line-break>この町で会うつもりなんだって！<end>"
+english = "<select><value:$20>%2I heard that young man is looking for something called the Artifact of Darkness. He has such a cute face, but he's so weird! I bet he doesn't get many admirers!<end>I heard that young man came to this town to meet his big brother!<end>"
+
+["310281"]
+japanese = "お母さんが、<line-break>お姉ちゃんとお話ししちゃダメだって。<line-break>コワイお代官様ににらまれるんだって。<end>"
+english = "My mother said I'm not allowed to talk to you. She says talking to you would make the scary magistrate angry.<end>"
+
+["310282"]
+japanese = "長老の家<end>"
+english = ""
+
+["310283"]
+japanese = "<select><value:$20>%3ボルボラは恐ろしい…。<line-break>奴が凶暴な戦闘用モンスターを<line-break>飼っているの、知ってるだろ？\u3000<line-break>俺、あんな奴に喰われたくねえ！<line-break>奴がどんなに悪いことしてても<line-break>目をつぶっとくに限るんだ！<end>どうせ俺は意気地なしだよ！<line-break>だけど、しょうがないだろ！<line-break>みんなが、お前みたいに生きられないんだ！<end>ボルボラが重税で私腹を肥やそうと<line-break>ゴロツキを雇って乱暴を働こうと、<line-break>とにかく、見て見ぬふりだ。<line-break>ボルボラが飼ってる<line-break>あの戦闘モンスターの<line-break>エサになりたくなければな。<end>"
+english = "<select><value:$20>%3Bolbora scares the hell out of me. You know he keeps a vicious combat monster, right? I don't want that thing eating me! Whatever terrible things he does, you're better off turning a blind eye!<end>Fine, I'm a coward! But what choice do I have? We can't all live the way you do!<end>Whether Bolbora lines his pockets with heavy taxes or hires thugs to rough people up, just look the other way. Unless you want to end up as food for that combat monster of his.<end>"
+
+["310284"]
+japanese = "\u3000<end>"
+english = ""
+
+["310285"]
+japanese = "ギルド<end>"
+english = "Guild<end>"
+
+["310286"]
+japanese = "<select><value:$20>%3よぉ、<value:$28>。<line-break>まーた、お代官の手下ともめたって？<line-break>血の気の多いこった。<line-break>お前にノーブルは狭すぎるのかもな。<line-break>どうだ？\u3000冒険者になって<line-break>世界を旅してみないか？<end>ボルボラは弟の畑をおどしとった…。<line-break>弟は生きるために冒険者になり、<line-break>ムリな仕事をして…。<line-break>お、おう、<value:$28>。<line-break>いつからそこにいたんだ？<line-break>ヘンなこと…聞いちゃいないよな？<end>…あの旅の商人の言うとおりだ。<line-break>こんな日が続いていいわけがない。<line-break>いつか…。<end>"
+english = "<select><value:$20>%3Hey, <value:$28>. I hear you've been tangling with the magistrate's men again. You certainly are spoiling for a fight. Maybe Noble's just too small for you. What do you say? Why not become an adventurer and see the world?<end>Bolbora was making threats against my brother's farm... My brother became an adventurer just to survive, took on a job that was too much for him, and... O-oh, <value:$28>. How long have you been standing there? You didn't hear anything strange, did you?<end>That traveling merchant was right. Things can't go on like this. Someday...<end>"
+
+["310287"]
+japanese = "<select><value:$20>%3ある街の代官の非道に怒った<line-break>ある若い冒険者が、代官に挑んだの。<line-break>ある朝、彼は無惨な死体になっていたわ。<line-break>バカな男だったわ…。<line-break>ホント…バカな…。<end>また、ボルボラたちとケンカ？<line-break>熱いわね。<line-break>バカみたい。<line-break>…でも、あの商人が言ったように<line-break>熱くなれない私の方が<line-break>バカなのかもしれない…。<end>あら、<value:$28>。<line-break>悪代官ボルボラとのケンカで<line-break>すっかり英雄気どりね。<line-break>ごめんあそばせ。<line-break>お気にさわったかしら？<end>"
+english = "<select><value:$20>%3A young adventurer once challenged a town magistrate, outraged by his cruelty. Then one morning, he was nothing but a mangled corpse. He was a fool... He really was... a fool...<end>Another fight with Bolbora and his men? You do get worked up. It's absurd. But as that merchant said, perhaps I'm the fool for not being able to get worked up...<end>Oh, <value:$28>. After your fight with the wicked magistrate Bolbora, you're quite the hero now. My apologies. Did I offend you?<end>"
+
+["310288"]
+japanese = "<select><value:$20>%3この町はロストール王国の田舎町。<line-break>領主は大貴族のリューガ家で、<line-break>その代官のボルボラが治めています。<end>代官のボルボラが悪い人で、<line-break>住民や旅人に重い税をかけて、<line-break>私腹を肥やしているのですね。<end>この町の門を出たところに<line-break>ノーブルの森と呼ばれる森がありますが、<line-break>冒険者が探検するほどの所じゃないですね。<line-break>それで世界地図には<line-break>書きとめられていないのでしょう。<end>"
+english = "<select><value:$20>%3This is a country town in the Kingdom of Rostorl. It belongs to the great noble house of Ryuga and is governed by their magistrate, Bolbora.<end>Magistrate Bolbora is a wicked man. He levies heavy taxes on residents and travelers alike, all to line his own pockets.<end>Just beyond the town gate lies a wood called Noble Forest, but it hardly warrants an adventurer's expedition. That must be why it isn't marked on the world map.<end>"
+
+["310289"]
+japanese = "闇の神器というのは<line-break>伝説によると破壊神復活に使われた<line-break>強力な１２個の魔道器の総称です。<line-break>しかし、そのようなものが<line-break>現実に存在するのでしょうか？<end>"
+english = "According to legend, the Artifacts of Darkness are twelve powerful magical devices that were used to resurrect the God of Destruction. But could such things truly exist?<end>"
+
+["310290"]
+japanese = "ギルドの主人も<line-break>よくここにいるあのキレイな人も<line-break>反乱に参加してて、いませんよ。<line-break>わ、私は探検家ですから、<line-break>反乱は本分じゃないんで…。<line-break>今回はパスです。<end>"
+english = "The Guildmaster and that good-looking person who's often here are both away taking part in the rebellion. I-I'm an explorer; rebellion isn't really my line of work, so... I'll sit this one out.<end>"
+
+["310291"]
+japanese = "鍛冶屋<end>"
+english = ""
+
+["310292"]
+japanese = "おう、<value:$28>！<line-break>俺も武器を作ったりして<line-break>反乱を応援させてもらってるぜ。<line-break>俺も金持ちじゃあねえから、<line-break>ただで作ってやるわけには<line-break>いかねえんだがよ。<end>"
+english = "Hey, <value:$28>! I'm doing my part for the rebellion, making weapons and all. I'm not made of money myself, though, so I can't exactly do it for free.<end>"
+
+["310293"]
+japanese = "道具屋<end>"
+english = ""
+
+["310294"]
+japanese = "ああ、<value:$28>。<line-break>誰かがケガをなさるといけないので<line-break>私もずっと店を開けているんですよ。<end>"
+english = "Ah, <value:$28>. I wouldn't want anyone getting hurt, so I've been keeping my shop open the whole time as well.<end>"
+
+["310295"]
+japanese = "<select><value:$20>%3フン！\u3000悪代官ボルボラに刃向かって<line-break>英雄気どりのようじゃが、<line-break>わしらにはいい迷惑じゃ。<line-break>お前が刃向かうから<line-break>ボルボラの機嫌が悪くなり、<line-break>とばっちりがわしらにも来るんじゃ。<end>お前のおやじ殿とは長老と一緒に\u3000\u3000<line-break>この町を切り開いた仲じゃ。<line-break>じゃから言わせてもらうぞ。<line-break>いいか。<line-break>つまらぬ正義の味方ごっこはやめろ。<line-break>大変なことになってからでは遅い。<end>まったく、騒ぎばかり起こしおって。<line-break>わしの珍品集めのジャマにならんように<line-break>してほしいもんじゃわい。<end>"
+english = "<select><value:$20>%3Hmph! You may fancy yourself a hero for standing up to that corrupt magistrate Bolbora, but you're only making trouble for the rest of us. When you defy him, Bolbora's temper worsens, and we suffer the consequences too.<end>Your father, the elder, and I opened up this town together. So let me tell you something: stop playing at being some champion of justice. Once something terrible happens, it'll be too late.<end>Always stirring up trouble, aren't you? Just see that it doesn't interfere with my collection of curios.<end>"
+
+["310296"]
+japanese = "宿屋<end>"
+english = ""
+
+["310297"]
+japanese = "<select><value:$20>%3いやいや、礼にはおよびませんよ。\u3000\u3000<line-break><value:$28>さん。<line-break>当然のことをしたまでです。<line-break>それよりも、お気づきになりましたか？<line-break>町の人の雰囲気を…。<line-break>やっと立ち上がる気になられたようだ。<end>いえいえ、礼にはおよびませんよ、\u3000<line-break><value:$28>さん。<line-break>大したことじゃない。<line-break>あなたの方こそ、<line-break>大した仕事をなさったようですね。<line-break>…予定より早く、事が運ぶようだ。<end>ルルアンタにお会いになりましたか。<line-break>あのリルビーの女の子は<line-break>私にとって娘のようなものです。<line-break>ほんとうにやさしい、いい子です。<line-break>またノーブルに来たときには<line-break>お友達になってやってください。<end>"
+english = "<select><value:$20>%3No, no, there's no need to thank me, <value:$28>. I only did what anyone would. More importantly, have you noticed the mood among the townspeople? It seems they've finally found the will to rise up.<end>No, no need to thank me, <value:$28>. It was nothing. You're the one who seems to have accomplished something remarkable. It appears events will unfold sooner than planned.<end>Have you met Lulluantha? That Lilbie girl is like a daughter to me. She's such a kind, good-hearted girl. The next time you come to Noble, please be a friend to her.<end>"
+
+["310298"]
+japanese = "は、は、はは、反乱ですか？<end>"
+english = "R-r-r-rebellion?<end>"
+
+["310299"]
+japanese = "お泊まりじゃ…ない…ですよね。<line-break>ご立派な自分の家が<line-break>大通りにあるんですから。<end>"
+english = "You won't be staying the night... will you? Not when you have such a fine house of your own on the main street.<end>"
+
+["310300"]
+japanese = "は、反乱？<line-break>ああ、フリントさんの<line-break>言ったとおりになった。<end>"
+english = "R-rebellion? Ah. It's just as Flint said.<end>"
+
+["310301"]
+japanese = "あなたをねらっている<line-break>お代官の手下と騒動があって、<line-break>お客様に迷惑がかかると…その…。<end>"
+english = "If there's trouble with the magistrate's men who are after you, and my guests are inconvenienced... well...<end>"
+
+["310302"]
+japanese = "で、できれば、<line-break>お客様を騒ぎに巻き込まないで\u3000\u3000<line-break>いただきたいのですが…。<end>"
+english = "I-if possible, I'd rather you didn't get the guests caught up in any trouble...<end>"
+
+["310303"]
+japanese = "広場<end>"
+english = ""
+
+["310304"]
+japanese = "<select><value:$20>%2代官ボルボラは、残酷で執念深い。<line-break>逆らうと、ひどい仕返しをくう。<line-break>だからボルボラの悪行を見て見ぬふりだ。<line-break>だけど、みんな、心の底では<line-break>ボルボラに立ち向かうお前のことを<line-break>応援してるんだよ。<end>ボルボラは恐ろしい…。<line-break>だが、このまま重税のために働いて<line-break>奴に殺されるのを待つのか？<line-break>イヤだ！<line-break>あの旅の商人の言うとおりだ…！<line-break>せめてボルボラの怪物が死ねば…！<end>"
+english = "<select><value:$20>%2Magistrate Bolbora is cruel and vindictive. Defy him, and he'll take terrible revenge. That's why we turn a blind eye to his crimes. But deep down, everyone is rooting for you to stand against him.<end>Bolbora is terrifying... But are we supposed to keep working just to pay his crushing taxes and wait for him to kill us? No! That traveling merchant was right... If only Bolbora's monster would die...<end>"
+
+["310305"]
+japanese = "<select><value:$20>%3ごめんなさいね。<line-break>あなたたちの助けになれなくて。<line-break>私たちは、ボルボラ様が恐くて…。<end>…代官のボルボラが<line-break>こんなに悪事を働いているのに<line-break>領主様は何してるのかしら？<end>ここのご領主は<line-break>名門リューガ家のご当主様である\u3000<line-break>エリエナイ公爵様なの…。<line-break>王都での政争でお忙しくって<line-break>星の数ほどある領地のひとつなんて<line-break>まったく忘れてらっしゃるんだわ。<end>"
+english = "<select><value:$20>%3I'm sorry we can't help you. We're all so afraid of Lord Bolbora...<end>Magistrate Bolbora is committing all these terrible crimes... What in the world is our ruler doing?<end>This land is ruled by Elienai, head of the distinguished ducal House Ryuga... Political struggles in the royal capital keep Elienai so busy that one domain among countless others has been forgotten entirely.<end>"
+
+["310306"]
+japanese = "<select><value:$20>%2ボルボラ様の手下の俺の前に<line-break>ノコノコ現れるとは<line-break>大した度胸だな、コラ！<end>ちょっと、腕が立つからって\u3000<line-break>うぬぼれてっと、<line-break>足下すくわれっぞ、コラ！<end>"
+english = "<select><value:$20>%2You've got some nerve, strolling right up to one of Lord Bolbora's underlings!<end>You may be pretty good in a fight, but get too full of yourself and someone'll knock you off your feet!<end>"
+
+["310307"]
+japanese = "ひいっ！\u3000ご、ごめんなさい！<line-break>ウ、ウソですウソです！<line-break>お、俺を殴らないで！<end>"
+english = ""
+
+["310308"]
+japanese = "<select><value:$20>%3<value:$28>は<line-break>つよくって、カッコよくて<line-break>だーいすき！！<end>ぼくも大きくなったら、<line-break><value:$28>みたいに<line-break>つよーくなるんだ！<end><value:$28>、<line-break>これからもイジワルな<line-break>ボルボラ様をこらしめてね！<end>"
+english = "<select><value:$20>%3I love <value:$28>! So strong and so cool!<end>When I grow up, I'm gonna be strong like <value:$28>!<end><value:$28>, keep teaching that mean Lord Bolbora a lesson!<end>"
+
+["310309"]
+japanese = "領主邸前<end>"
+english = ""
+
+["310310"]
+japanese = "ここはノーブルの領主邸だ。<line-break>代官ボルボラ様はここで<line-break>政務を執り行われるのだ。<end>"
+english = "This is the manor of the lord who governs Noble. Magistrate Bolbora conducts official business here.<end>"
+
+["310311"]
+japanese = "あ、<value:$28>さん。<line-break>困りますよ。<line-break>あの…、その…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Oh, <value:$28>. You're putting me in a difficult position. Er... well...<end>"
+
+["310312"]
+japanese = "空<end>"
+english = ""
+
+["310313"]
+japanese = "空<end>"
+english = ""
+
+["310314"]
+japanese = "空<end>"
+english = ""
+
+["310315"]
+japanese = "空<end>"
+english = ""
+
+["310316"]
+japanese = "空<end>"
+english = ""
+
+["310317"]
+japanese = "空<end>"
+english = ""
+
+["310318"]
+japanese = "空<end>"
+english = ""
+
+["310319"]
+japanese = "空<end>"
+english = ""
+
+["310320"]
+japanese = "空<end>"
+english = ""
+
+["310321"]
+japanese = "空<end>"
+english = ""
+
+["310322"]
+japanese = "空<end>"
+english = ""
+
+["310323"]
+japanese = "空<end>"
+english = ""
+
+["310324"]
+japanese = "空<end>"
+english = ""
+
+["310325"]
+japanese = "空<end>"
+english = ""
+
+["310326"]
+japanese = "空<end>"
+english = ""
+
+["310327"]
+japanese = "空<end>"
+english = ""
+
+["310328"]
+japanese = "空<end>"
+english = ""
+
+["310329"]
+japanese = "空<end>"
+english = ""
+
+["310330"]
+japanese = "空<end>"
+english = ""
+
+["310331"]
+japanese = "旅立ち０４メッセージ終端<end>"
+english = ""

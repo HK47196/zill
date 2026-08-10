@@ -1,0 +1,449 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["760000"]
+japanese = "アトレイア\u3000ボリューム３～開始<end>"
+english = ""
+
+["760001"]
+japanese = "<value:$28>…。<line-break>無限のソウルの持ち主…。<line-break>\u3000<line-break>君が生きていてくれて<line-break>僕は嬉しいよ。<line-break>フフッ、ホントさ。<end>"
+english = "<value:$28>... Bearer of the Infinite Soul... I'm glad you're alive. Heh. I truly am.<end>"
+
+["760002"]
+japanese = "そう肩肘はらないでよ。<line-break>ただ、かわいそうな女の子のために<line-break>一肌脱ごうってだけなんだからさ。<end>"
+english = "No need to be so tense. I'm only asking you to help a poor girl, that's all.<end>"
+
+["760003"]
+japanese = "こんにちは。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>…だっけ？<line-break>\u3000<line-break>僕はこの大陸から東にある<line-break>遠い遠い所から来た魔道学士、<line-break>東方の博士シャリ。<end>"
+english = "Hello. You're <value:$28>, was it? I'm Shalli, a scholar of magic known as the Doctor of the East. I come from a far, faraway land east of this continent.<end>"
+
+["760004"]
+japanese = "人によっては僕のことを<line-break>道化と呼んでいるようだけどね。<line-break>まあ、そんなことは置いといて…。<end>"
+english = "Some people apparently call me a jester. But never mind that...<end>"
+
+["760005"]
+japanese = "君は、ロストールの王女様を\u3000\u3000<line-break>知ってるかい？\u3000っていっても<line-break>ティアナ王女じゃないよ。<line-break>もうひとりの…そう、<line-break>とてもかわいそうな、<line-break>孤独で忘れられた王女のことを。<end>"
+english = "Do you know the princess of Rostorl? Not Princess Tiana. I mean the other one... the poor, lonely princess everyone has forgotten.<end>"
+
+["760006"]
+japanese = "未使用：王家の分家であるリューガ家の<line-break>若く、才気溢れる、野心的な当主\u3000\u3000\u3000<line-break>レムオン・リューガをね。<line-break>だけど、実は、順番的には<line-break>ティアナ王女とエリエナイ公レムオンの<line-break>間に、ひとりの少女が入るんだ。<end>"
+english = ""
+
+["760007"]
+japanese = "その王女の名前はアトレイア・リュー。<line-break>先代王の遺子で、ティアナ王女にとって<line-break>従姉にあたるお姫様さ。<line-break>かわいそうに、赤ん坊の時に<line-break>大人の醜い争いに巻き込まれて、<line-break>視力を、光を失ったんだ。<end>"
+english = "Her name is Atreia Ryu. She's the previous king's daughter, and Princess Tiana's cousin. Poor thing. When she was just a baby, she was caught up in an ugly struggle between adults and lost her sight―her light.<end>"
+
+["760008"]
+japanese = "それから今日までの彼女は、無力で<line-break>害のない王族として、王城の暗く<line-break>静かな一室で孤独な人生を送ってきた。<line-break>ティアナ王女の、華やかで、<line-break>周りのみんなに慕われる生活とは<line-break>正反対の、暗く孤独な生活をね。<end>"
+english = "Ever since, she's lived alone as a powerless, harmless member of the royal family, shut away in a dark, quiet room of the castle. A bleak, lonely life―the very opposite of Princess Tiana's glittering life, surrounded by people who adore her.<end>"
+
+["760009"]
+japanese = "ね、そろそろ、彼女が幸せになっても<line-break>いいころだと思わない？<line-break>君に協力して欲しいんだ。<line-break>色惑の瞳という魔法の宝石がある。<line-break>この色惑の瞳の力を使えば、<line-break>彼女に光を与えられる。<end>"
+english = "Don't you think it's about time she found some happiness? I want your help. There's a magical jewel called the Eye of Enchantment. Its power can give her back the light.<end>"
+
+["760010"]
+japanese = "彼女のために、取ってきてほしいんだ。<line-break>もっちろん、報酬は用意するよ。<end>"
+english = "I want you to go and get it for her. Of course there'll be a reward.<end>"
+
+["760011"]
+japanese = "引き受ける<end>"
+english = "Accept<end>"
+
+["760012"]
+japanese = "引き受けない<end>"
+english = "Decline<end>"
+
+["760013"]
+japanese = "ホント？\u3000ありがとう。<line-break>色惑の瞳はロストール北西の\u3000<line-break>邪眼の迷宮にあるんだ。<line-break>期待してるよ、<value:$28>。<line-break>僕と王女はロストールの王城で<line-break>待ってるからねえ。フフフッ。<end>"
+english = "Really? Thank you. The Eye of Enchantment lies in the Evil Eye Labyrinth, northwest of Rostorl. I'm counting on you, <value:$28>. The princess and I will be waiting at Rostorl Castle. Heh heh heh.<end>"
+
+["760014"]
+japanese = "そうそう、これを渡さなきゃね。<line-break>これは、銀竜の首飾りっていって…、<line-break>ま、早い話が通行手形さ。<line-break>ロストールのお城の正門の右側に<line-break>秘密通路があるんだけど、<line-break>これがあれば通れるようになるから。<end>"
+english = "Oh, yes, I need to give you this. It's called the Silver Dragon Necklace... but to put it simply, it's a pass. There's a secret passage to the right of Rostorl Castle's main gate, and this will let you through.<end>"
+
+["760015"]
+japanese = "じゃ、よろしくね、<line-break><value:$28>。<end>"
+english = "I'll leave it to you, then, <value:$28>.<end>"
+
+["760016"]
+japanese = "冷たいんだねぇ、君って。<line-break>いいよ。別口を当たるから。<line-break>じゃあねえ。フフフッ。<end>"
+english = "You're a cold one, aren't you? Fine. I'll ask someone else. See you. Heh heh heh.<end>"
+
+["760017"]
+japanese = "あ、<value:$28>さん！<line-break>同じ宿に泊まっていたんですね。<end>"
+english = "Oh, <value:$28>! I didn't realize you were staying at this inn too.<end>"
+
+["760018"]
+japanese = "<if><value:$29><equal>%0あら、ボウヤ。<line-break>ちょうど、今あなたの話を<line-break>していたところなのよ。<line-break>ちょっと聞いてもいいかしら？<end>あら、子猫ちゃん。<line-break>ちょうど、今あなたの話を<line-break>していたところなのよ。<line-break>ちょっと聞いてもいいかしら？<end>"
+english = "<if><value:$29><equal>%0Well, hello, young man. We were just talking about you. Mind if I ask you something?<end>Well, hello, kitten. We were just talking about you. Mind if I ask you something?<end>"
+
+["760019"]
+japanese = "あなた、アトレイア王女から<line-break>色惑の瞳を探してくるように<line-break>頼まれていたわよね？<line-break>あなたなら、その依頼をこなすことが<line-break>できたはずだわ。それなのに、<line-break>どうして引き受けなかったの？<end>"
+english = "Princess Atleia asked you to find the Eye of Enchantment, didn't she? You could have completed that job. So why did you turn it down?<end>"
+
+["760020"]
+japanese = "なぜ、その話を知ってるのかって<line-break>顔してるわね。王女の使いの人から<line-break>話を聞いたのよ。<line-break>あなたがこの依頼を拒否したってね。<line-break>だから、かわりにあたしたちが、<line-break>その依頼を受けておいたわ。<end>"
+english = "You're wondering how I know, aren't you? I heard from the princess's messenger that you'd turned down the job. So we took it in your place.<end>"
+
+["760021"]
+japanese = "色惑の瞳の力で、<line-break>目が見えるようになった王女は<line-break>とても喜んでおられたわ。<line-break>ねぇ、<value:$28>、<line-break>どうしてこの仕事を受けなかったの？<line-break>王女がかわいそうだと思わなかったの？<end>"
+english = "The princess was overjoyed when the Eye of Enchantment restored her sight. Tell me, <value:$28>, why didn't you take the job? Didn't you feel sorry for her?<end>"
+
+["760022"]
+japanese = "シャリの依頼は受けられない<end>"
+english = "I couldn't accept Shalli's request.<end>"
+
+["760023"]
+japanese = "…返す言葉もない<end>"
+english = "…I have no answer.<end>"
+
+["760024"]
+japanese = "シャリ、ですって？<line-break>いいえ、あたしたちに仕事を依頼<line-break>してきたのは王女の侍女だったわ。<end>"
+english = "Shalli? No. It was the princess's lady-in-waiting who hired us.<end>"
+
+["760025"]
+japanese = "どうやら、私たちは<line-break>一杯食わされたようだな。<end>"
+english = "It seems we've been duped.<end>"
+
+["760026"]
+japanese = "なんですって？<end>"
+english = "What did you say?<end>"
+
+["760027"]
+japanese = "例の侍女は、あの空中都市を<line-break>復活させた強大な力を持つ<line-break>少年が化けた者だったようだ。<end>"
+english = "It appears that lady-in-waiting was actually the boy with the immense power that revived the Floating City, in disguise.<end>"
+
+["760028"]
+japanese = "そんな…、<line-break>でも…………。<end>"
+english = "No... But...<end>"
+
+["760029"]
+japanese = "…ノエル、<line-break>ひとつ、聞いておく。<line-break>\u3000<line-break>お前はアトレイア王女のそばに、<line-break>シャリという奴がいるのを知っていたら<line-break>王女を助けるのを断ったか？<end>"
+english = "Noel, I want to ask you one thing. If you'd known that someone called Shalli was at Princess Atleia's side, would you have refused to help the princess?<end>"
+
+["760030"]
+japanese = "いいえ。<end>"
+english = "No.<end>"
+
+["760031"]
+japanese = "では、王女を助けたことを<line-break>後悔してはいないな？<end>"
+english = "So you don't regret helping the princess. Is that right?<end>"
+
+["760032"]
+japanese = "はい。<end>"
+english = "Yes.<end>"
+
+["760033"]
+japanese = "それなら、いい。<end>"
+english = "That's all that matters.<end>"
+
+["760034"]
+japanese = "あたしもノエルと同じよ。<line-break>結果的には、そのシャリって奴の<line-break>思惑に乗ってしまったけど、<line-break>後悔はしていないわ。<line-break>かわいそうな王女を放っておくなんて<line-break>できないもの。<end>"
+english = "I feel the same way Noel does. We may have ended up playing right into Shalli's hands, but I don't regret it. I couldn't have just abandoned the poor princess.<end>"
+
+["760035"]
+japanese = "<if><value:$29><equal>%0呼び止めてしまって悪かったわね。<line-break>あたしたち、そろそろ行くわ。<line-break>またね、ボウヤ。<end>呼び止めてしまって悪かったわね。<line-break>あたしたち、そろそろ行くわ。<line-break>またね、子猫ちゃん。<end>"
+english = "<if><value:$29><equal>%0Sorry for stopping you. We should be going. See you around, young man.<end>Sorry for stopping you. We should be going. See you around, kitten.<end>"
+
+["760036"]
+japanese = "あ、あの、<value:$28>さん。<line-break>今回は違った行動を<line-break>とってしまいましたね。<line-break>でも、わたし、<line-break><value:$28>さんなら、<line-break>わかってくださると信じてますから。<end>"
+english = "Um, <value:$28>... We ended up making different choices this time. But I trust that <value:$28> will understand.<end>"
+
+["760037"]
+japanese = "それでは、失礼します。<end>"
+english = "Please excuse me.<end>"
+
+["760038"]
+japanese = "…何も言うことはないの？<line-break>まぁ、ぐだぐだと言いわけするよりは<line-break>カッコいいかもしれないけど…<line-break>ちょっと、残念ね。<line-break>あなたなら、王女を放っておくなんて<line-break>しないと思っていたのに。<end>"
+english = "You have nothing to say? Well, I suppose keeping quiet is more impressive than making a lot of tedious excuses... but I'm still disappointed. I never thought you'd leave the princess to her fate.<end>"
+
+["760039"]
+japanese = "<if><value:$29><equal>%0呼び止めてしまって悪かったわね。<line-break>あたしたち、そろそろ行くわ。<line-break>またね、ボウヤ。<end>呼び止めてしまって悪かったわね。<line-break>あたしたち、そろそろ行くわ。<line-break>またね、子猫ちゃん。<end>"
+english = "<if><value:$29><equal>%0Sorry for stopping you. We should be going. See you around, young man.<end>Sorry for stopping you. We should be going. See you around, kitten.<end>"
+
+["760040"]
+japanese = "あ、あの、<value:$28>さんには<line-break><value:$28>さんの事情が<line-break>あったんですよね。<line-break><value:$28>さんが、<line-break>何の理由もなしに、かわいそうな王女を<line-break>放っておくはずありませんから。<end>"
+english = ""
+
+["760041"]
+japanese = "それでは、失礼します。<end>"
+english = "Please excuse me.<end>"
+
+["760042"]
+japanese = "依頼主が悪い奴だったから<end>"
+english = "Because the client was a bad person.<end>"
+
+["760043"]
+japanese = "…返す言葉もない<end>"
+english = "…I have no answer.<end>"
+
+["760044"]
+japanese = "シャリ、ですって？<line-break>子供の格好をして悪いことを<line-break>たくらんでいる…？<end>"
+english = "Shalli? You mean he's dressed as a child and plotting something evil...?<end>"
+
+["760045"]
+japanese = "いいえ、あたしたちに仕事を依頼<line-break>してきたのは王女の侍女だったわ。<end>"
+english = "No. It was the princess's lady-in-waiting who hired us.<end>"
+
+["760046"]
+japanese = "例の侍女は、そのシャリとか言うを<line-break>少年が化けた者だったようだ。<end>"
+english = "It appears that lady-in-waiting was actually a boy called Shalli in disguise.<end>"
+
+["760047"]
+japanese = "空<end>"
+english = ""
+
+["760048"]
+japanese = "空<end>"
+english = ""
+
+["760049"]
+japanese = "空<end>"
+english = ""
+
+["760050"]
+japanese = "空<end>"
+english = ""
+
+["760051"]
+japanese = "空<end>"
+english = ""
+
+["760052"]
+japanese = "空<end>"
+english = ""
+
+["760053"]
+japanese = "空<end>"
+english = ""
+
+["760054"]
+japanese = "空<end>"
+english = ""
+
+["760055"]
+japanese = "空<end>"
+english = ""
+
+["760056"]
+japanese = "空<end>"
+english = ""
+
+["760057"]
+japanese = "空<end>"
+english = ""
+
+["760058"]
+japanese = "空<end>"
+english = ""
+
+["760059"]
+japanese = "空<end>"
+english = ""
+
+["760060"]
+japanese = "やぁ。色惑の瞳、遅いよん。<line-break>まさか、猫ばばしようと<line-break>してたんじゃないよね。<end>"
+english = "Hey, Eyes of Temptation. You're late! You weren't thinking of keeping it for yourself, were you?<end>"
+
+["760061"]
+japanese = "毎度あり～。<line-break>これは謝礼だよ、じゃあね。<end>"
+english = "Much obliged! Here's your reward. See you around.<end>"
+
+["760062"]
+japanese = "３０００ギア手に入れた。<end>"
+english = "Obtained 3,000 Gea.<end>"
+
+["760063"]
+japanese = "だめだよ。そんなこと考えちゃ。<line-break>かわいそうなお姫様のために、<line-break>それはもらっちゃうからね。<end>"
+english = "Oh, no. Don't even think about it. I'll be taking that for the poor princess.<end>"
+
+["760064"]
+japanese = "やぁ。色惑の瞳、遅いよん。<line-break>まさか、猫ばばしようと<line-break>してたんじゃないよね。<end>"
+english = ""
+
+["760065"]
+japanese = "毎度あり～。<line-break>これは謝礼だよ、じゃあね。<end>"
+english = ""
+
+["760066"]
+japanese = "３０００ギア手に入れた。<end>"
+english = ""
+
+["760067"]
+japanese = "未：無礼な！<end>"
+english = ""
+
+["760068"]
+japanese = "未：くそ！よくも！<end>"
+english = ""
+
+["760069"]
+japanese = "未：けっ。実力もねぇのに<line-break>カッコ付けやがって！<end>"
+english = ""
+
+["760070"]
+japanese = "未：アトレイア…姫様。<end>"
+english = ""
+
+["760071"]
+japanese = "未：放っておいて！！<end>"
+english = ""
+
+["760072"]
+japanese = "未：目なんて見えなければよかった。<line-break>ずっと闇の中にいれば、<line-break>自分の姿に気が付かなかったのに。<end>"
+english = ""
+
+["760073"]
+japanese = "未：ごめんなさい。あなたに恥をかかせて。<line-break>私みたいに醜いものが付いていって、<line-break>ごめんなさい。<end>"
+english = ""
+
+["760074"]
+japanese = "未：おっと、うらみっこなしだぜ？<line-break>お互い仕事次第で敵味方だ。<end>"
+english = ""
+
+["760075"]
+japanese = "未：よう、久しぶりだな。<end>"
+english = ""
+
+["760076"]
+japanese = "未：あんなにほめられたのは、<line-break>生まれて初めてだったものですから…。<end>"
+english = ""
+
+["760077"]
+japanese = "未：歌なら歌えます！<end>"
+english = ""
+
+["760078"]
+japanese = "未：おいおい、この娘、<line-break>一滴も飲んでないよなぁ。<end>"
+english = ""
+
+["760079"]
+japanese = "未：ハハハ。<line-break>おおかた雰囲気に酔ったんだろう。<end>"
+english = ""
+
+["760080"]
+japanese = "未：ちぇ、せっかく僕の綺麗な<line-break>歌の出番だったのになぁ。\u3000\u3000\u3000<line-break>\u3000<line-break>ま、いいや。<value:$28>の<line-break>ためにいい曲弾いちゃうよ！<end>"
+english = ""
+
+["760081"]
+japanese = "未：ハハハ、あなたの歌のおかげで<line-break>客も盛り上がって、こっちも大繁盛さ。<line-break>少ないけどとっときな。<end>"
+english = ""
+
+["760082"]
+japanese = "未：お金は結構ですから、あの…。<end>"
+english = ""
+
+["760083"]
+japanese = "未：…ん？なんだい。<end>"
+english = ""
+
+["760084"]
+japanese = "未：この…メニューを<line-break>いただけませんでしょうか…。<end>"
+english = ""
+
+["760085"]
+japanese = "未：フフ、妙なものが気に入っちまったんだなぁ。<line-break>よし、特別だ。お嬢ちゃんに差し上げよう。<end>"
+english = ""
+
+["760086"]
+japanese = "未：私、今日、世界中に人がたくさんいて<line-break>よかったって思います。<end>"
+english = ""
+
+["760087"]
+japanese = "未：（これは…人形だ。）<end>"
+english = ""
+
+["760088"]
+japanese = "未：困るよ、調教の邪魔されちゃ…。<line-break>…さて、自己紹介も終わったことだし<line-break>…死んでくれる？<end>"
+english = ""
+
+["760089"]
+japanese = "未：うふ…ふふ…ふ…。<end>"
+english = ""
+
+["760090"]
+japanese = "あーもう、また来たの？<line-break>意外と<value:$28>って<line-break>せっかちなんだね。<end>"
+english = "Oh, honestly. Back again? You're surprisingly impatient, <value:$28>.<end>"
+
+["760091"]
+japanese = "ここに来る前にまず、\u3000\u3000\u3000\u3000\u3000<line-break>冒険してきたらどうかな？<line-break>ほら、君って冒険者なんだし。<line-break>この町にもギルドはあるんだし、<line-break>まずはそこに行って、<line-break>色々と経験をつんできてよ。<end>"
+english = "Why don't you do some adventuring before coming here? You are an adventurer, after all. There's a Guild in this town, so go there first and get some experience.<end>"
+
+["760092"]
+japanese = "暗くて何も見えないかい？<line-break>じゃ、今明かりをつけよう。<end>"
+english = "Too dark to see anything? Then let me turn on the light.<end>"
+
+["760093"]
+japanese = "やあ、<value:$28>。<line-break>またあえると思ってたよ。<end>"
+english = "Hello, <value:$28>. I thought I'd see you again.<end>"
+
+["760094"]
+japanese = "はじめまして。<line-break>僕はシャリ。人は東方の博士なんて<line-break>呼んでくれたりもするんだ。<line-break>よろしくね。<line-break><value:$28>。<end>"
+english = "I'm Shalli. Some people even call me the Scholar of the East. Nice to meet you, <value:$28>.<end>"
+
+["760095"]
+japanese = "ここは、君のまだ知らない<line-break>王女様の部屋だよ。<line-break>君には、ぜひ彼女に会ってもらいたい。<line-break>でも、その前に、もっとこの国のこと<line-break>知ってもらいたいな。<line-break>例えば、町のこと、貴族のこと…。<end>"
+english = "This room belongs to a princess you haven't met yet. I'd really like you to meet her. But first, I'd like you to learn more about this country―the town, the nobility...<end>"
+
+["760096"]
+japanese = "そして、もうひとりの\u3000\u3000\u3000\u3000\u3000\u3000<line-break>お姫様のこと。<line-break>\u3000<line-break>だから、今日はまだおあずけ。<line-break>もっと経験をつんできたら<line-break>きっと、彼女に会わせてあげるよ。<end>"
+english = "And about another princess. So you'll have to wait for now. Once you've gained more experience, I'll be sure to introduce you to her.<end>"
+
+["760097"]
+japanese = "じゃ、頼んだからね。<line-break>色惑の瞳、よろしく～。<end>"
+english = "All right, I'm counting on you. Bring me the Eye of Allure, okay?<end>"
+
+["760098"]
+japanese = "あれ？\u3000<value:$28>じゃない。<line-break>タイミング悪いねえ。お姫様は今\u3000<line-break>侍女と一緒に湯浴みをしてるよ。<line-break>それよりも、ここに来たってことは<line-break>あれ、持って来てくれたの？<line-break>さっすがー！<end>"
+english = "Oh, if it isn't <value:$28>. Bad timing―the princess is bathing with her lady-in-waiting right now. Never mind that. Since you're here, does that mean you brought it? I knew you'd come through!<end>"
+
+["760099"]
+japanese = "え？\u3000あ、まだなの？<line-break>じゃ、今日は何しに来たの？<line-break>まさか、お姫様に会うためだけ？\u3000<line-break>ちょっと～、そんなヒマあったら<line-break>早く色惑の瞳持って来てよ～。<line-break>それがお姫様のためなんだからさ。<end>"
+english = "What? Oh, you haven't brought it yet? Then what are you doing here today? Don't tell me you came just to see the princess. Come on, if you've got time for that, hurry up and bring the Eye of Allure. It's for the princess's sake.<end>"
+
+["760100"]
+japanese = "じゃ、頼むからね、ホントに。<end>"
+english = "All right, I'm counting on you. I mean it.<end>"
+
+["760101"]
+japanese = "あ、そうそう、<line-break>言い忘れてたけど念のためね。<line-break>君、銀竜の首飾り、持ってるよね？<line-break>それ使ってお城の地下通路に入って<line-break>奥のガレキを登ってきてよ。<line-break>僕たち、そこで待ってるからさ。<end>"
+english = "Oh, right. I forgot to mention this, but just to be safe: you have the Silver Dragon Necklace, don't you? Use it to enter the castle's underground passage, then climb up the rubble farther in. We'll be waiting there.<end>"
+
+["760102"]
+japanese = "色惑の瞳を奪われた。<end>"
+english = "The Eye of Enchantment was taken.<end>"
+
+["760103"]
+japanese = "…これは、予備メッセージ３…。<line-break>アトレイア、Ｖ３です。<end>"
+english = ""
+
+["760104"]
+japanese = "…これは、予備メッセージ４…。<line-break>アトレイア、Ｖ３です。<end>"
+english = ""
+
+["760105"]
+japanese = "…これは、予備メッセージ５…。<line-break>アトレイア、Ｖ３です。<end>"
+english = ""
+
+["760106"]
+japanese = "…これは、予備メッセージ６…。<line-break>アトレイア、Ｖ３です。<end>"
+english = ""
+
+["760107"]
+japanese = "…これは、予備メッセージ７…。<line-break>アトレイア、Ｖ３です。<end>"
+english = ""
+
+["760108"]
+japanese = "…これは、予備メッセージ８…。<line-break>アトレイア、Ｖ３です。<end>"
+english = ""
+
+["760109"]
+japanese = "…これは、予備メッセージ９…。<line-break>アトレイア、Ｖ３です。<end>"
+english = ""
+
+["760110"]
+japanese = "…これは、予備メッセージ１０…。<line-break>アトレイア、Ｖ３です。<end>"
+english = ""
+
+["760111"]
+japanese = "アトレイア\u3000ボリューム３～終了<end>"
+english = ""

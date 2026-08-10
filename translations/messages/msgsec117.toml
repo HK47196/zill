@@ -1,0 +1,325 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1170000"]
+japanese = "ノエル２用メッセージＶ２開始<end>"
+english = ""
+
+["1170001"]
+japanese = "あ、<value:$28>さん！<end>"
+english = "Oh, <value:$28>!<end>"
+
+["1170002"]
+japanese = "わたしです。ノエルです！<line-break>シルヴァの村でお世話になりました。<end>"
+english = "It's me―Noel! You helped me back in Silva Village.<end>"
+
+["1170003"]
+japanese = "わたし、冒険者になったんです。<line-break>ソウルを抜かれた村のみんなを<line-break>もとに戻すために…。<line-break>それから、<value:$28>さん<line-break>みたいに強くなって…、<line-break>たくさんの人を助けるために。<end>"
+english = "I've become an adventurer. I'm going to restore everyone in the village who had their Souls taken... And I want to grow strong like you, <value:$28>, so I can help lots of people.<end>"
+
+["1170004"]
+japanese = "ノエルもがんばっているんだね<end>"
+english = "You're working hard too, Noel.<end>"
+
+["1170005"]
+japanese = "人を助けるためじゃないよ<end>"
+english = "I'm not doing it to help people.<end>"
+
+["1170006"]
+japanese = "はい！\u3000わたし、もっともっと<line-break>がんばって、いつか必ず<line-break>村のみんなをもとに戻してみせます！<end>"
+english = "Yes! I'll keep working harder and harder, and one day, I promise I'll restore everyone in the village!<end>"
+
+["1170007"]
+japanese = "え？\u3000あの、その、でも…<line-break>わたし、<value:$28>さんは<line-break>いろんな人を助けてると思います…。<line-break>私も、<value:$28>さんに<line-break>助けられましたから…。<end>"
+english = "What? Um, well, but... I think you do help a lot of people, <value:$28>. You helped me too, <value:$28>...<end>"
+
+["1170008"]
+japanese = "あっ、そうだ、<line-break>わたしの仲間を紹介します！<end>"
+english = "Oh, that's right! Let me introduce my companions!<end>"
+
+["1170009"]
+japanese = "<if><value:$29><equal>%0初めまして、ボウヤ。<end>初めまして、子猫ちゃん。<end>"
+english = "<if><value:$29><equal>%0A pleasure to meet you, young man.<end>A pleasure to meet you, kitten.<end>"
+
+["1170010"]
+japanese = "あ、この人は、カフィンです。<line-break>えと、で、こちらが…<end>"
+english = "Oh, this is Coffin. Um, and this is...<end>"
+
+["1170011"]
+japanese = "俺はレイヴン。<line-break> <line-break> <line-break>…よろしく。<end>"
+english = "I'm Raven... Good to meet you.<end>"
+
+["1170012"]
+japanese = "あ、えと、その…<end>"
+english = "Oh, um, well...<end>"
+
+["1170013"]
+japanese = "そう、それから、<line-break>こっちにいるのがナーシェスです。<end>"
+english = "Right, and over here is Narscess.<end>"
+
+["1170014"]
+japanese = "フフ。<line-break>…よろしく。<end>"
+english = "Heh. A pleasure.<end>"
+
+["1170015"]
+japanese = "さぁ、ノエル。もう用は済んだ。<line-break>そろそろ、行くとしよう。<end>"
+english = "Come, Noel. Our business here is done. It's time we were going.<end>"
+
+["1170016"]
+japanese = "それでは、失礼する。<line-break>…無限のソウルを持つ者、<line-break><value:$28>。<end>"
+english = "Then we shall take our leave... <value:$28>, Bearer of the Infinite Soul.<end>"
+
+["1170017"]
+japanese = "まったく、無愛想な男よね。<end>"
+english = "Honestly, what an unsociable man.<end>"
+
+["1170018"]
+japanese = "えと、カフィンも、<line-break>レイヴンも、ナーシェスも、<line-break>とても腕が立つんですよ。<line-break>だから、わたし、<line-break>みんなが一緒に旅をしてくれて、<line-break>すごく心強いんです。<end>"
+english = "Um, Coffin, Raven, and Narscess are all very skilled. Having them travel with me is such a comfort.<end>"
+
+["1170019"]
+japanese = "ノエル、そろそろ行こう。<end>"
+english = "Noel, it's time to go.<end>"
+
+["1170020"]
+japanese = "あ、そうですね。<end>"
+english = "Oh, right.<end>"
+
+["1170021"]
+japanese = "それじゃあ、<line-break><value:$28>さん。<line-break>わたしたち、もう行きます。<line-break>あの、<value:$28>さんも<line-break>がんばってくださいね。<end>"
+english = "Well, <value:$28>, we should be going now. And please keep doing your best, <value:$28>.<end>"
+
+["1170022"]
+japanese = "えと、わたしもがんばりますから、<line-break>それじゃあ、失礼します！<end>"
+english = "Um, I'll do my best too. Goodbye!<end>"
+
+["1170023"]
+japanese = "あ、ノエル。<line-break>…フフ、しょうがない子ね。<end>"
+english = "Oh, Noel. Heh, what are we going to do with you?<end>"
+
+["1170024"]
+japanese = "<if><value:$29><equal>%0それじゃあ、ボウヤ。<line-break>またどこかで会いましょ。<end>それじゃあ、子猫ちゃん。<line-break>またどこかで会いましょ。<end>"
+english = "<if><value:$29><equal>%0Well then, young man. I hope we meet again somewhere.<end>Well then, kitten. I hope we meet again somewhere.<end>"
+
+["1170025"]
+japanese = "失礼するよ、<line-break><value:$28>。<end>"
+english = "Farewell, <value:$28>.<end>"
+
+["1170026"]
+japanese = "…お、お前たち…。<end>"
+english = "Y-you...<end>"
+
+["1170027"]
+japanese = "何かしら？<line-break>あたしたちにご用？<end>"
+english = "What is it? Did you want something from us?<end>"
+
+["1170028"]
+japanese = "あいさつもなしに刃物を向ける<line-break>なんて感心しないわ。<line-break>もてないわよ、そういうの。<end>"
+english = "Pointing a blade at someone without so much as a hello? That's hardly charming. You'll never be popular that way.<end>"
+
+["1170029"]
+japanese = "聞く耳もたぬって感じね。<line-break>…強引な男って嫌いじゃないけど<line-break>こういうのはいい気がしないわね。<line-break>ちょっと、痛い目に<line-break>あってもらうしかないかしら？<end>"
+english = "I don't think they're in the mood to listen. I don't mind a forceful man, but this is a bit much. Perhaps they need to be taught a painful little lesson?<end>"
+
+["1170030"]
+japanese = "<value:$28>さん！<end>"
+english = "<value:$28>!<end>"
+
+["1170031"]
+japanese = "あ、あ、<value:$28>さん！<end>"
+english = "Oh! <value:$28>!<end>"
+
+["1170032"]
+japanese = "あ、えと、また助けていただきました。<line-break>あの…本当にありがとうございます！<end>"
+english = "Oh, um... You've saved me again. Thank you so much!<end>"
+
+["1170033"]
+japanese = "無事か？<end>"
+english = "Are you all right?<end>"
+
+["1170034"]
+japanese = "ん？<line-break>ほう…これは…。<end>"
+english = "Hm? Well now... This is...<end>"
+
+["1170035"]
+japanese = "ちょっと、ナーシェス！<line-break>あんた、どこに行ってたのよ！？<end>"
+english = "Narscess! Where have you been!?<end>"
+
+["1170036"]
+japanese = "すまなかったな。<line-break>…それで、襲ってきた連中の<line-break>目星はついたのか？<end>"
+english = "Sorry about that. So, do you have any idea who these attackers are?<end>"
+
+["1170037"]
+japanese = "これを見て。<line-break>みんなそろって刺青をしてるわ。<line-break>イヤねぇ…。<end>"
+english = "Look at this. Every one of them has a tattoo. I don't like this...<end>"
+
+["1170038"]
+japanese = "ふむ、どうやら<line-break>この一件は施文院が<line-break>絡んでいるようだな。<end>"
+english = "Hmm. It seems the Inscription Order is involved in this affair.<end>"
+
+["1170039"]
+japanese = "施文院ですって？<line-break>…あたしたち、<line-break>厄介なのに狙われてるわね。<end>"
+english = "The Inscription Order? We've caught the attention of a troublesome lot.<end>"
+
+["1170040"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1170041"]
+japanese = "えと、…せもんいん？<end>"
+english = "Um... the Inscription Order?<end>"
+
+["1170042"]
+japanese = "施文院とは、天空神ノトゥーンに\u3000<line-break>仕える宗派のひとつだ。<line-break>\u3000<line-break>もともとは、<line-break>各地を巡って邪悪なものを<line-break>封印していたのだ。<end>"
+english = "The Inscription Order is one of the sects devoted to Notun, the Sky God. Originally, its members traveled the lands sealing away evil.<end>"
+
+["1170043"]
+japanese = "中世には神聖王サラミスによって<line-break>異端とされ、<line-break>ほとんどの宗徒が処刑された…。<line-break>だが、その生き残りは地下へ潜って<line-break>暗殺集団・告死天使を組織し、<line-break>歴史の裏舞台で暗躍を続けた。<end>"
+english = "In the Middle Ages, the Holy King Salamis branded them heretics, and nearly all their followers were executed. But the survivors went underground and formed an order of assassins known as the Angels of Death. They have continued to work from the shadows of history ever since.<end>"
+
+["1170044"]
+japanese = "そして、現在もな…。<end>"
+english = "And they remain active to this day...<end>"
+
+["1170045"]
+japanese = "それじゃ、この人たちは…。<end>"
+english = "Then these people are...<end>"
+
+["1170046"]
+japanese = "間違いない。<line-break>施文院の暗殺者、告死天使だ。<end>"
+english = "There is no doubt. They are the Inscription Order's assassins: the Angels of Death.<end>"
+
+["1170047"]
+japanese = "<if><value:$29><equal>%0こんな、物騒な連中に<line-break>ねらわれるようなこと…<line-break>したかしら？<line-break>でも、ボウヤと再会できたのは<line-break>幸運だったわ…。<line-break>フフフッ。<end>こんな、物騒な連中に<line-break>ねらわれるようなこと…<line-break>したかしら？<line-break>でも、子猫ちゃんと再会できたのは<line-break>幸運だったわ…。<line-break>フフフッ。<end>"
+english = "<if><value:$29><equal>%0What could we have done to make such a dangerous lot come after us? Still, I was lucky to see you again, young man... Hee hee.<end>What could we have done to make such a dangerous lot come after us? Still, I was lucky to see you again, kitten... Hee hee.<end>"
+
+["1170048"]
+japanese = "…とにかく、この場を離れよう。<line-break>奴らの連れがまだ<line-break>近くにいるかもしれない。<end>"
+english = "Whatever the case, we should leave. More of them may still be nearby.<end>"
+
+["1170049"]
+japanese = "フフ、その通りだな。<line-break>では、退散するとしようか。<end>"
+english = "Heh, quite right. Let us make our retreat.<end>"
+
+["1170050"]
+japanese = "今日は助けてくれて、ありがと。<line-break>戦っているときの真剣な顔…<line-break>フフフ…、かわいかったわよ。<end>"
+english = "Thanks for saving us today. That serious look on your face while you were fighting... Hee hee. It was adorable.<end>"
+
+["1170051"]
+japanese = "あ、あの、それじゃ、<line-break>わたしはこれで失礼します！<end>"
+english = "U-um, I'll be going, then!<end>"
+
+["1170052"]
+japanese = "物騒な世の中になったものね。\u3000<line-break>こんなところで、<line-break>白昼堂々襲ってくるなんて。<line-break>いったい、誰がお目当てか<line-break>知らないけど、<line-break>いいかげんにしてもらいたいわね。<end>"
+english = "What a dangerous world it's become. Attacking us here in broad daylight... I don't know who they're after, but I've had quite enough of this.<end>"
+
+["1170053"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1170054"]
+japanese = "ちょっと、レイヴン。<line-break>あんた、何びびってんのよ？<end>"
+english = "Hey, Raven. What are you so scared of?<end>"
+
+["1170055"]
+japanese = "い、いや、<line-break>そんなことは…ない。<end>"
+english = "I-I'm not scared.<end>"
+
+["1170056"]
+japanese = "あ！<line-break><value:$28>さん！<end>"
+english = "Oh! <value:$28>!<end>"
+
+["1170057"]
+japanese = "あ、<value:$28>さん、<line-break>ありがとうございます！<line-break>また助けてもらっちゃいました。<line-break>わたしも、一日も早く<line-break><value:$28>さんみたいな<line-break>一人前の冒険者になりたいな…。<end>"
+english = "Oh, <value:$28>, thank you! You've rescued me again. I hope I can become a full-fledged adventurer like <value:$28> as soon as possible.<end>"
+
+["1170058"]
+japanese = "ふむ…また施文院の連中か？<end>"
+english = "Hmm... The Institute again?<end>"
+
+["1170059"]
+japanese = "ええ、間違いないわ。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>…で、ナーシェス。あんた<line-break>どうして、こういうときに限って、<line-break>いつもいないのよ？<end>"
+english = "Yes, no question about it. And Narscess, why are you never around when something like this happens?<end>"
+
+["1170060"]
+japanese = "言いがかりはよしてもらおう。<line-break>お前たちが、いつまでたっても<line-break>来ないから、見に来たまでだ。<end>"
+english = "Enough of these accusations. You were taking so long that I merely came to see what was keeping you.<end>"
+
+["1170061"]
+japanese = "あ、あの、でも、どうして、<line-break>わたしたちを、ねらうのかな…。<end>"
+english = "Um, but... why would anyone be after us?<end>"
+
+["1170062"]
+japanese = "あたしは、告死天使の親玉を<line-break>たぶらかした覚えはないわよ。<end>"
+english = "I don't remember seducing the leader of the Death Angels.<end>"
+
+["1170063"]
+japanese = "ああ、お前の色気に<line-break>ひっかかる程度の相手なら、<line-break>ありがたいのだがな。<end>"
+english = "If this foe were susceptible to your charms, we would be fortunate indeed.<end>"
+
+["1170064"]
+japanese = "…どういう意味？<end>"
+english = "What's that supposed to mean?<end>"
+
+["1170065"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1170066"]
+japanese = "まぁ、ノエルが望むなら、<line-break>今度はあたしの美貌で、\u3000\u3000\u3000\u3000<line-break>問いただしてあげるわ。<line-break>さぁ、こんな物騒なところからは<line-break>早く離れましょ。<end>"
+english = "Well, if Noel wants to know, next time I'll use my beauty to make them talk. For now, let's get out of this dangerous place.<end>"
+
+["1170067"]
+japanese = "そ、そうだな…。<end>"
+english = "Y-Yes, let's.<end>"
+
+["1170068"]
+japanese = "<if><value:$29><equal>%0ボウヤ、今回もありがと。<line-break>お礼はそのうち、させてもらうから<line-break>期待しててね？<end>子猫ちゃん、今回もありがと。<line-break>お礼はそのうち、させてもらうから<line-break>期待しててね？<end>"
+english = "<if><value:$29><equal>%0Thanks again, young man. I'll find a way to reward you one of these days, so you have that to look forward to.<end>Thanks again, kitten. I'll find a way to reward you one of these days, so you have that to look forward to.<end>"
+
+["1170069"]
+japanese = "えと…、<value:$28>さん、\u3000\u3000\u3000<line-break>ありがとうございました！<line-break>\u3000<line-break>わたしも<value:$28>さんに<line-break>負けないくらい、強くなりますから！<end>"
+english = "Um... thank you, <value:$28>! I'll become every bit as strong as <value:$28>!<end>"
+
+["1170070"]
+japanese = "予備メッセージだ。<line-break>ノエル２／Ｖ２の１番目。<end>"
+english = ""
+
+["1170071"]
+japanese = "予備メッセージだ。<line-break>ノエル２／Ｖ２の２番目。<end>"
+english = ""
+
+["1170072"]
+japanese = "予備メッセージだ。<line-break>ノエル２／Ｖ２の３番目。<end>"
+english = ""
+
+["1170073"]
+japanese = "予備メッセージだ。<line-break>ノエル２／Ｖ２の４番目。<end>"
+english = ""
+
+["1170074"]
+japanese = "予備メッセージだ。<line-break>ノエル２／Ｖ２の５番目。<end>"
+english = ""
+
+["1170075"]
+japanese = "予備メッセージだ。<line-break>ノエル２／Ｖ２の６番目。<end>"
+english = ""
+
+["1170076"]
+japanese = "予備メッセージだ。<line-break>ノエル２／Ｖ２の７番目。<end>"
+english = ""
+
+["1170077"]
+japanese = "予備メッセージだ。<line-break>ノエル２／Ｖ２の８番目。<end>"
+english = ""
+
+["1170078"]
+japanese = "予備メッセージだ。<line-break>ノエル２／Ｖ２の９番目。<end>"
+english = ""
+
+["1170079"]
+japanese = "予備メッセージだ。<line-break>ノエル２／Ｖ２の１０番目。<end>"
+english = ""
+
+["1170080"]
+japanese = "ノエル用メッセージＶ２終端<end>"
+english = ""

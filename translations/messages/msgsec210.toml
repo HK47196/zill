@@ -1,0 +1,93 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2100000"]
+japanese = "異種族間の４用開始<end>"
+english = ""
+
+["2100001"]
+japanese = "恩に着るぜ、<value:$28>。<line-break>あんたのことだ。<line-break>ペンダントは渡してきてくれたんだろ？<line-break>さあ、一杯おごらせてくれ。<end>"
+english = "I owe you one, <value:$28>. Knowing you, you've already delivered the pendant, right? Come on, let me buy you a drink.<end>"
+
+["2100002"]
+japanese = "えっ、あのエルフが俺を呼んでいる？<end>"
+english = "What? That Elf wants to see me?<end>"
+
+["2100003"]
+japanese = "ふーん、あの娘、<line-break>フィアっていうのか…。<end>"
+english = "Huh. So her name's Fia...<end>"
+
+["2100004"]
+japanese = "わ、わかった、行くよ。<line-break>ちょうど仕事が片づいたとこだし。<line-break>でも、なあ…。<end>"
+english = "A-all right, I'll go. I just finished up my work anyway. It's just...<end>"
+
+["2100005"]
+japanese = "いやいや、違うよ。<line-break>会いたくないわけじゃないんだ。<end>"
+english = "No, no, that's not it. It's not that I don't want to see her.<end>"
+
+["2100006"]
+japanese = "ただ、その…なんて言うか…。<line-break>あまり慣れていないんだよ…。<line-break>女の子と話すのは…。<line-break>それもエルフの女性となると<line-break>なおさら、な。<end>"
+english = "It's just... how do I put this? I'm not used to talking to girls. And an Elf woman makes it even worse.<end>"
+
+["2100007"]
+japanese = "なあ、頼む。<line-break>できれば<value:$28>も<line-break>一緒に来てくれないか？<end>"
+english = "Come on, do me a favor. Could you come with me, <value:$28>?<end>"
+
+["2100008"]
+japanese = "一緒に行く<end>"
+english = "I'll come with you.<end>"
+
+["2100009"]
+japanese = "悪いけど…<end>"
+english = "Sorry, but…<end>"
+
+["2100010"]
+japanese = "ありがとよ。助かるぜ。<line-break>じゃあ、さっそく行こうか。<end>"
+english = "Thanks. You're a lifesaver. Well, let's get going.<end>"
+
+["2100011"]
+japanese = "よかった…。<line-break>来てくださったんですね。<line-break><line-break>ありがとうございます。<line-break>ペンダントも拾っていただいて。<end>"
+english = "I'm so glad... You came. Thank you―and thank you for finding my pendant, too.<end>"
+
+["2100012"]
+japanese = "礼を言われるほどのことじゃない。<line-break>\u3000<line-break>\u3000<line-break>しかし、ちょっと意外だな…。<end>"
+english = "It was nothing. Still, I have to say, I'm a little surprised...<end>"
+
+["2100013"]
+japanese = "えっ？<end>"
+english = "What?<end>"
+
+["2100014"]
+japanese = "長いこと冒険者稼業をしているが<line-break>エルフにお礼を言われたのは<line-break>これが初めてだよ。<end>"
+english = "I've been an adventurer a long time, but this is the first time an Elf has ever thanked me.<end>"
+
+["2100015"]
+japanese = "…助けていただいて<line-break>お礼を申し上げるのは当然です。<line-break>それに私のほうこそ驚いています。<end>"
+english = "It's only natural that I should thank you for helping me. Besides, I'm surprised myself.<end>"
+
+["2100016"]
+japanese = "小さい頃からずっと、森の外には<line-break>礼儀知らずで野蛮な人間たちが<line-break>住んでいると教えられてきましたから。<end>"
+english = "Ever since I was little, I was taught that the humans beyond the forest were rude and barbaric.<end>"
+
+["2100017"]
+japanese = "それじゃあ、お互いさまだな。<line-break>\u3000<line-break>\u3000<line-break>俺はエルフなんていつも<line-break>お高くとまった、いけ好かない<line-break>連中だと思っていたよ。<line-break>でも、今日のあんたを見て、<line-break>認識を改めたけど…。<end>"
+english = "Then I guess we're even. I always thought Elves were a stuck-up, unpleasant lot. But after meeting you today, I've changed my mind...<end>"
+
+["2100018"]
+japanese = "どういうふうにですか？<end>"
+english = "How so?<end>"
+
+["2100019"]
+japanese = "なんて言うか、あんたみたいに<line-break>気さくで、優しいエルフも<line-break>中には、いるんだなって…。<line-break>おまけに、エラい美人だし…。<end>"
+english = "Well, I guess there are Elves who are friendly and kind, like you... And very beautiful, too.<end>"
+
+["2100020"]
+japanese = "まあ…。<end>"
+english = "Oh my...<end>"
+
+["2100021"]
+japanese = "そうか、残念だな。<line-break>別の人に頼んでみるよ。<line-break>\u3000<line-break>じゃあな。<end>"
+english = "That's a shame. I'll ask someone else, then. See you around.<end>"
+
+["2100022"]
+japanese = "異種族間の４用終端<end>"
+english = ""

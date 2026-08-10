@@ -1,0 +1,29 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2050000"]
+japanese = "初めての海用開始<end>"
+english = ""
+
+["2050001"]
+japanese = "これが海…なのですか…。<line-break>見渡すかぎり碧い水だけ…。<end>"
+english = "So this is... the sea? Nothing but blue water, as far as I can see...<end>"
+
+["2050002"]
+japanese = "こんなにも広く、どこまでも<line-break>水が続いている…。<line-break>私には不思議な感じがします。<end>"
+english = "It's so vast, with water stretching on and on without end... It feels strange to me.<end>"
+
+["2050003"]
+japanese = "海よりも、もっと深い驚きが<line-break>他にもあるのですか…？<end>"
+english = "Could there be other wonders deeper even than the sea...?<end>"
+
+["2050004"]
+japanese = "あのまま神殿で朽ち果てても<line-break>悔いはないつもりでしたが、<line-break>\u3000<line-break>今こうして<value:$28>様と<line-break>いろいろなものを見ていると<line-break>これでよかったと思います…。<end>"
+english = "I thought I would have no regrets even if I withered away in the temple. But now, seeing so many things with you, <value:$28>, I'm glad things turned out this way...<end>"
+
+["2050005"]
+japanese = "ありがとう…。<end>"
+english = "Thank you...<end>"
+
+["2050006"]
+japanese = "初めての海用終端<end>"
+english = ""

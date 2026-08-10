@@ -1,0 +1,3009 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1370000"]
+japanese = "オッシ開始<end>"
+english = ""
+
+["1370001"]
+japanese = "あぁ、俺がこの道場の師範<line-break>オッシだが、なんか用かい？<end>"
+english = "Yeah, I'm Osshi, master of this dojo. What can I do for you?<end>"
+
+["1370002"]
+japanese = "なんだ。アイリーンを知ってるのか。<line-break>アイリーンは女だが、このあたりじゃ<line-break>かなう者がない剣の使い手だ。<line-break>アイリーンの父親は騎士でな。<line-break>アイリーンが男じゃなかったことを<line-break>くやしがってたよ。<end>"
+english = "Oh? You know Irene? She may be a woman, but no one around here can match her with a sword. Her father is a knight, you see. He always regretted that she wasn't born a boy.<end>"
+
+["1370003"]
+japanese = "ロストールの法、竜綱では<line-break>女性は騎士になれないからな。\u3000\u3000\u3000<line-break>\u3000<line-break>それで、あいつは騎士になるため、<line-break>この国を出たわけだが…<line-break>あいつは元気だったかい？<end>"
+english = "Under Rostorl law―the Dragon Code―a woman cannot become a knight. That's why she left the country to become one. So... was she doing well?<end>"
+
+["1370004"]
+japanese = "そいつぁよかった。アイリーンに会ったら<line-break>よろしく言っておいてくれ。<line-break>成長を楽しみにしてるってな。<end>"
+english = "That's good to hear. If you see Irene, give her my regards. Tell her I'm looking forward to seeing how she develops.<end>"
+
+["1370005"]
+japanese = "そうかい。ま、用がなくてもいいやな。<line-break>ゆっくりしてくといいさ。<end>"
+english = "I see. Well, you don't need a reason to be here. Stay and rest awhile.<end>"
+
+["1370006"]
+japanese = "おう、<value:$28>じゃないか。<line-break>今日はアイリーンは一緒じゃないんだな。<end>"
+english = "Well, if it isn't <value:$28>. Irene's not with you today, eh?<end>"
+
+["1370007"]
+japanese = "あん？<line-break>聖杯を取り返せないうちは<line-break>俺に合わす顔がないって言ってた？\u3000\u3000\u3000<line-break>相変わらず妙なところでお堅い奴だな。<line-break>ここはただでさえ女っ気がねぇんだから、<line-break>紅一点の存在は貴重なんだがなぁ。<end>"
+english = "Huh? She said she couldn't face me until she'd got the Grail back? She's as stubbornly proper as ever about the oddest things. There's little enough female company around here as it is. We can hardly do without our only woman.<end>"
+
+["1370008"]
+japanese = "今度はちゃんと連れて来いよ。\u3000\u3000\u3000\u3000\u3000<line-break>お前さんもあまり<line-break>根をつめすぎねぇようにな。<end>"
+english = "Make sure you bring her next time. And don't work yourself too hard, either.<end>"
+
+["1370009"]
+japanese = "おう、<value:$28>じゃないか。<line-break>今日はアイリーンは一緒じゃないんだな。<line-break>また、ケンカでもやらかしたか？<end>"
+english = "Well, if it isn't <value:$28>. Irene's not with you today, eh? You two have another fight?<end>"
+
+["1370010"]
+japanese = "なぁんだ、またその手の話かい？\u3000\u3000\u3000<line-break>お前さんも苦労が絶えないねぇ。<line-break>\u3000<line-break>生き物の半分は女なんだからよ、<line-break>色目のひとつやふたつぐらい…。<end>"
+english = "What, that again? You never do get a moment's peace, do you? Half the creatures in this world are female. A wandering eye now and then is only...<end>"
+
+["1370011"]
+japanese = "アイリーンの一方的な思いこみ？<line-break>言いわけか？\u3000男らしくねぇ奴だな。\u3000<line-break>\u3000<line-break>いいじゃねえか。<line-break>いい女に目がいくのは男の性なんだよ。<line-break>弁解なんかするもんじゃねぇぜ。<end>"
+english = "It was all in Irene's head? Is that your excuse? Not very manly of you. What's the harm? A man can't help noticing a beautiful woman. No point making excuses for it.<end>"
+
+["1370012"]
+japanese = "おう、<value:$28>じゃないか。<line-break>今日はアイリーンは一緒じゃないんだな。<line-break>また、ケンカでもやらかしたか？<end>"
+english = "Well, if it isn't <value:$28>. Irene's not with you today, eh? You two have another fight?<end>"
+
+["1370013"]
+japanese = "たまには私抜きで行動してみなさい\u3000\u3000\u3000\u3000\u3000<line-break>って言われた？<line-break>わっはっは。こりゃおもしれぇ。<line-break>お前さんがどこに行くにつけても、<line-break>べったりくっついてってんのは<line-break>アイリーンの方なのにな。<end>"
+english = "She told you to try doing things without her for once? Hah! That's a good one. Irene's the one who sticks to you like glue wherever you go.<end>"
+
+["1370014"]
+japanese = "まぁ、でも、お前さんも早く<line-break>一人前になってやんねぇと<line-break>アイリーンの方も気苦労が絶えねぇわな。\u3000\u3000<line-break>別に一人前ってのは剣の腕に限らないんだぜ。<line-break>剣でアイリーンに勝てなくても、それ以外の<line-break>何かで安心させてやればいいんだよ。<end>"
+english = "Still, you'd better learn to stand on your own soon, or Irene will never have a moment's peace. And that doesn't just mean getting better with a sword. You don't have to beat Irene at swordplay. Just find some other way to put her mind at ease.<end>"
+
+["1370015"]
+japanese = "ん、<value:$28>か？<line-break>ま、ゆっくりしていけや。<end>"
+english = "Hm? <value:$28>? Well, stay a while and make yourself comfortable.<end>"
+
+["1370016"]
+japanese = "アイリーンのことは気にすることないさ。<line-break>あいつならひとりでも大丈夫だろうよ。<line-break>\u3000<line-break>それよりも、せっかくのいい機会だ。<line-break>お前さんもアイリーン抜きでやってみな。<line-break>\u3000<end>"
+english = "No need to worry about Irene. She can take care of herself. More importantly, this is a fine opportunity. Try managing without her for a while.<end>"
+
+["1370017"]
+japanese = "ま、それによ、<line-break>離れてみて、お互いの価値が<line-break>もっとよくわかることだってあるんだ。\u3000<line-break>これでお別れってんじゃないんだからよ。<line-break>今度、アイリーンに会うときに<line-break>笑われないようにしとくこったな。<end>"
+english = "Besides, sometimes a little time apart helps you appreciate each other more. It's not as if you're parting for good. Just make sure Irene has no reason to laugh at you the next time you meet.<end>"
+
+["1370018"]
+japanese = "アイリーンは剣の筋はいいし、<line-break>しっかりした娘だ。ただ、まだ若いしな。<line-break>ま、これからってところだ。<line-break>お前さんもそうだぜ。今のうちに<line-break>いろんな物を目に焼き付けて、そして、<line-break>いろんなことを、自分で考えてみな。<end>"
+english = "Irene has a real gift for the sword, and she's a sensible girl. But she's still young. She's only getting started. The same goes for you. While you can, take in as much of the world as possible, then think it all through for yourself.<end>"
+
+["1370019"]
+japanese = "若いからこそできる見方、<line-break>若いからこそできる考え方ってのが\u3000\u3000\u3000\u3000\u3000<line-break>世の中にはあるからよ。<line-break>まぁ、この手の話ってのは、<line-break>自分も年とってみないと<line-break>わかんねぇことなんだけどな。<end>"
+english = "There are ways of seeing and thinking about the world that are only possible while you're young. Though I suppose that's the sort of thing you don't understand until you've grown older yourself.<end>"
+
+["1370020"]
+japanese = "なんだ。<line-break>ここの貴族さんたちのことかい？\u3000\u3000<line-break>\u3000<end>"
+english = "What? You mean the nobles around here?<end>"
+
+["1370021"]
+japanese = "…まぁ、貴族制に縛られているのは\u3000<line-break>俺たちだけじゃあ、ないからな。<line-break>\u3000<line-break>やつらには、今の俺みたいな<line-break>好き勝手な暮らしなんて<line-break>できないからねぇ。<end>"
+english = "Well, we're not the only ones bound by the aristocratic system. They can't just live however they please, the way I do now.<end>"
+
+["1370022"]
+japanese = "生まれたときからかけさせられた\u3000\u3000<line-break>色眼鏡をとって、世の中を<line-break>見るってことだけでも、<line-break>奴らには大きな努力が必要なんだよ。<line-break>ましてや、俺たちと同じ世界に<line-break>立つってことはな。<end>"
+english = "Even taking off the tinted spectacles they were made to wear from birth and seeing the world as it is takes a tremendous effort for them. Let alone standing in the same world as us.<end>"
+
+["1370023"]
+japanese = "出世、ねえ。<line-break>あまり興味がないな。<line-break>俺にはここの道場主ってのが一番さ。<line-break>俺なんかにゃ<line-break>組織の中で名をあげるなんてのは<line-break>ただ、もう、うんざりさ。<end>"
+english = "Getting ahead, huh? Can't say I'm much interested. Being the master of this training hall suits me best. I've had more than enough of trying to make a name for myself in some organization.<end>"
+
+["1370024"]
+japanese = "アイリーンは自分で考えて<line-break>騎士になりたいって言うから、\u3000\u3000\u3000<line-break>俺も喜んで送り出すけどよ。<line-break>ま、なんにしたって\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>俺はここの暮らしが<line-break>気に入っちまっててね。<end>"
+english = "Irene thought it through for herself and says she wants to become a knight, so I'm happy to send her off. Anyway, I've grown pretty fond of life here.<end>"
+
+["1370025"]
+japanese = "ここは俺がやっと見つけた<line-break>自分の居場所だからな。<line-break>ちょっと、離れられねぇや。\u3000\u3000\u3000\u3000<end>"
+english = "This is where I finally found a place for myself. I can't exactly leave now.<end>"
+
+["1370026"]
+japanese = "お、剣の話かい？<line-break>ところでお前さんは、<line-break>剣に何を求めているんだい？<end>"
+english = "Oh, you want to talk about swords? Tell me, what are you looking for in the sword?<end>"
+
+["1370027"]
+japanese = "強さ<end>"
+english = "Strength<end>"
+
+["1370028"]
+japanese = "美しさ<end>"
+english = "Beauty<end>"
+
+["1370029"]
+japanese = "よくわからない<end>"
+english = "Not sure<end>"
+
+["1370030"]
+japanese = "剣はしょせん敵を倒すための道具さ。<line-break>お前さんがどういうつもりで<line-break>強さを求めているのか知らねぇが、<line-break>このことを知らないでいる、<line-break>いや、知ろうとしないでいる<line-break>ってのはホントに危ねぇんだ。<end>"
+english = "In the end, a sword is a tool for defeating an enemy. I don't know why you're seeking strength, but staying ignorant of that―no, refusing even to understand it―is really dangerous.<end>"
+
+["1370031"]
+japanese = "でもよ、最初はただ強さを求めていただけな\u3000\u3000<line-break>はずなのに、その過程で何か違うものが<line-break>見えてくるってこともあるんだぜ。<end>"
+english = "Still, sometimes you start out seeking nothing but strength, only to discover something else along the way.<end>"
+
+["1370032"]
+japanese = "い？\u3000それが何かだって？\u3000\u3000\u3000\u3000<line-break>そんなものは人に聞くもんじゃないんだよ。<line-break>若いんだから、怠けてねぇで自分で見つけなよ。<end>"
+english = "Hm? You want to know what that is? That's not something you ask someone else. You're young―don't be lazy. Find it for yourself.<end>"
+
+["1370033"]
+japanese = "…美しさ、ねぇ。<line-break>まぁ、いいさ。<line-break>剣に何を見るかは人それぞれだしな。\u3000\u3000\u3000\u3000<line-break>お前さん、これからも冒険を続けるんだろう？<line-break>物事にはいろんな面があるってことを<line-break>剣が教えてくれるかもしれねぇやな。<end>"
+english = "Beauty, huh? Well, fair enough. Everyone sees something different in the sword. You're going to keep adventuring, aren't you? Maybe the sword will teach you that there's more than one side to everything.<end>"
+
+["1370034"]
+japanese = "ま、そうだな。こんな時代じゃ、<line-break>いちいちそんなこと考えてられねぇか。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>だがな、物事には必ず何かひとつは<line-break>学べるものがあるはずだ。そして、<line-break>誰もがそこに同じものを見出すわけじゃあない。<end>"
+english = "Well, I suppose so. In times like these, maybe you can't stop to think about every little thing. But there's always something to be learned, no matter what it is―and not everyone will find the same lesson in it.<end>"
+
+["1370035"]
+japanese = "お前さんの剣もいずれは<line-break>お前さんに何かを教えてくれるさ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>お前さんだけの何かをな。<line-break>…って、そんなことずっと考えて<line-break>生きてたら、気が滅入っちまうか？<line-break>ハハハ！<end>"
+english = "Someday, your sword will teach you something too. Something that's yours alone. Though I suppose you'd get awfully gloomy if you spent your whole life thinking like that. Ha ha ha!<end>"
+
+["1370036"]
+japanese = "ん、<value:$28>か？<line-break>ま、ゆっくりしていけや。<end>"
+english = "Hm? <value:$28>, is that you? Well, make yourself at home.<end>"
+
+["1370037"]
+japanese = "アイリーンは剣の筋はいいし、<line-break>しっかりした娘だ。でも、なにせまだ<line-break>若いからなぁ。ま、これからってとこだ。<line-break>お前さんも今のうちにいろんな<line-break>物を目に焼き付けておくんだ。<line-break>そして、いろんなことを考えてみな。<end>"
+english = "Irene has a real gift for the sword, and she's a levelheaded girl. But she's still young. She's got plenty of growing left to do. While you're young yourself, take a good look at all sorts of things. Give them plenty of thought, too.<end>"
+
+["1370038"]
+japanese = "若いからこそできる見方、<line-break>若いからこそできる考え方ってのが\u3000\u3000\u3000\u3000\u3000<line-break>世の中にはあるからよ。<line-break>まぁ、この手の話ってのは<line-break>自分も年とってみないと<line-break>わかんねぇことなんだけどな。<end>"
+english = "There are ways of seeing and thinking about the world that are only possible while you're young. Though this is the sort of thing you don't understand until you get older yourself.<end>"
+
+["1370039"]
+japanese = "弟子にアイリ－ンっていう娘がいてな。<line-break>騎士になるんだってこのロストールを<line-break>出ていっちまったよ。<line-break>剣の腕は立つんだが、<line-break>この街じゃ女は騎士になれないんでな。<line-break>\u3000<end>"
+english = "I've got an apprentice named Irene. She left Rostorl to become a knight. She's good with a sword, but women can't become knights in this city.<end>"
+
+["1370040"]
+japanese = "気になるかい、<line-break>アイリーンのことが？\u3000<end>"
+english = "Interested in Irene, are you?<end>"
+
+["1370041"]
+japanese = "気になる<end>"
+english = "I'm interested.<end>"
+
+["1370042"]
+japanese = "気にならない<end>"
+english = "I'm not interested.<end>"
+
+["1370043"]
+japanese = "うっしっし、ま、男は女のことが<line-break>気にならなくなったら終わりだからな。\u3000<line-break>\u3000<line-break>ま、俺に言わせりゃだな。<line-break>アイリーンはいい女になると思うけどよ、<line-break>まだまだ発展途上ってところだな。<end>"
+english = "Heh heh heh. Well, a man's finished once he stops taking an interest in women. If you ask me, Irene will grow into a fine woman, but she's still got a long way to go.<end>"
+
+["1370044"]
+japanese = "い？<line-break>そういう話じゃないのかい？\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Eh? That's not what you meant?<end>"
+
+["1370045"]
+japanese = "同じ女のアイリーンが気になるわけだ？<line-break>んー、見たとこ、あんたもいい感じだぜ。<line-break>\u3000<line-break>でも、まぁ、俺に言わせると<line-break>まだまだ、ふたりとも<line-break>発展途上ってとこだな。<end>"
+english = "So Irene interests you even though you're both women? Hmm. From what I can see, you're looking pretty good yourself. Still, if you ask me, both of you have a long way to go.<end>"
+
+["1370046"]
+japanese = "あせらずじっくりと女を磨いていくんだ。<line-break>ふたりとも素材はよさそうだからよ。<line-break>あとは本人の努力次第…。<end>"
+english = "Don't rush it. Take your time becoming fine women. You've both got plenty to work with. The rest is up to each of you...<end>"
+
+["1370047"]
+japanese = "おっと、そういう話じゃ\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>なかったっけか？<end>"
+english = "Whoops. That wasn't what you meant, was it?<end>"
+
+["1370048"]
+japanese = "そういうのはいかんなあ。<line-break>無関心は向上につながらねえぜ？<end>"
+english = "That's no good. Indifference won't help you improve, you know?<end>"
+
+["1370049"]
+japanese = "ま、アイリーンに会ったら<line-break>よろしく言っておいてくれや。<end>"
+english = "Well, if you see Irene, give her my regards.<end>"
+
+["1370050"]
+japanese = "なんだ。<line-break>ここの貴族さんたちのことかい？<end>"
+english = "What, you mean the nobles around here?<end>"
+
+["1370051"]
+japanese = "…まぁ、貴族制に縛られているのは\u3000<line-break>俺たちだけじゃあ、ないからな。<line-break>\u3000<line-break>奴らには、今の俺みたいな<line-break>好き勝手な暮らしなんて<line-break>できないからねぇ。<end>"
+english = "Well... we're not the only ones bound by the aristocratic system. They don't have the freedom to live however they please, the way I do now.<end>"
+
+["1370052"]
+japanese = "生まれたときからかけさせられた\u3000\u3000<line-break>色眼鏡をとって、世の中を<line-break>見るってことだけでも、<line-break>奴らには大きな努力が必要なんだよ。<line-break>ましてや、俺たちと同じ世界に<line-break>立つってことはね。<end>"
+english = "Even taking off the tinted spectacles they were made to wear from birth and seeing the world without them takes a tremendous effort. Let alone standing in the same world as us.<end>"
+
+["1370053"]
+japanese = "出世ねえ。あまり興味がないな。<line-break>俺にはここの道場主ってのが一番さ。<line-break>\u3000<line-break>俺なんかにゃ<line-break>組織の中で名をあげるってなんてのは<line-break>ただ、もう、うんざりさ。<end>"
+english = "Getting ahead, huh? Can't say it interests me much. Being master of this dojo suits me best. I've had more than enough of trying to make a name for myself in some organization.<end>"
+
+["1370054"]
+japanese = "アイリーンは自分で考えて<line-break>騎士になりたいって言うから、\u3000\u3000\u3000<line-break>俺も喜んで送り出してんだけどよ。\u3000<end>"
+english = "Irene decided for herself that she wanted to become a knight, so I was glad to send her on her way.<end>"
+
+["1370055"]
+japanese = "ま、なんにしたって\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>俺はここの暮らしが<line-break>気に入っちまっててね。<line-break>ここは俺がやっと見つけた<line-break>自分の居場所だからな。<line-break>ちょっと、離れられねぇや。<end>"
+english = "Anyway, I've grown pretty fond of life here. It took me a long time to find a place where I belong. I can't bring myself to leave it now.<end>"
+
+["1370056"]
+japanese = "お、剣の話かい？<line-break>ところでお前さんは、<line-break>剣に何を求めているんだい？<end>"
+english = "Oh, you want to talk about swords? So tell me, what do you want from the sword?<end>"
+
+["1370057"]
+japanese = "強さ<end>"
+english = "Strength<end>"
+
+["1370058"]
+japanese = "美しさ<end>"
+english = "Beauty<end>"
+
+["1370059"]
+japanese = "よくわからない<end>"
+english = "I'm not sure<end>"
+
+["1370060"]
+japanese = "そうだな。剣はしょせん敵を倒すための道具さ。<line-break>お前さんがどういうつもりで<line-break>強さを求めているのか知らねぇが、<line-break>このことを知らないでいる、<line-break>いや、知ろうとしないでいる<line-break>…ってのはホントに危ねぇんだ。<end>"
+english = "Yeah. A sword is only a tool for defeating enemies. I don't know why you're seeking strength, but not knowing that―no, not even trying to understand it―is really dangerous.<end>"
+
+["1370061"]
+japanese = "でもよ、最初はただ強さを求めていただけな\u3000\u3000<line-break>はずなのに、その過程で何か違うものが<line-break>見えてくるってこともあるんだぜ。<end>"
+english = "Still, sometimes you start out seeking nothing but strength, only to discover something else along the way.<end>"
+
+["1370062"]
+japanese = "い？\u3000それが何かだって？<line-break>そんなものは人に聞くもんじゃないんだよ。<line-break>若いんだから、怠けてねぇで自分で見つけなよ。<end>"
+english = "Hm? You want to know what that is? That's not something you ask someone else. You're young―don't be lazy. Find it for yourself.<end>"
+
+["1370063"]
+japanese = "…美しさねぇ。<line-break>まぁ、いいさ。<line-break>剣に何を見るかは人それぞれだしな。\u3000\u3000\u3000\u3000<line-break>お前さん、これからも冒険を続けるんだろう？<line-break>物事にはいろんな面があるってことを<line-break>剣が教えてくれるかもしれねぇやな。<end>"
+english = "Beauty, huh? Well, that's fine. Everyone sees something different in a sword. You're going to keep adventuring, aren't you? Maybe your sword will teach you that there's more than one side to everything.<end>"
+
+["1370064"]
+japanese = "ま、そうだな。こんな時代じゃ、<line-break>いちいちそんなこと考えてられねぇか。\u3000\u3000\u3000<line-break>\u3000<line-break>だがな、物事には必ず何かひとつは学べる\u3000\u3000<line-break>ものがあるはずだ。そして、誰もがそこに<line-break>同じものを見出すわけじゃあない。<end>"
+english = "Well, I suppose in times like these, you can't stop to think about every little thing. But there ought to be something to learn from everything, and not everyone will find the same thing in it.<end>"
+
+["1370065"]
+japanese = "お前さんの剣もいずれは<line-break>お前さんに何かを教えてくれるさ。\u3000\u3000\u3000\u3000\u3000<line-break>お前さんだけの何かをな。<end>"
+english = "Someday, your sword will teach you something too. Something that's yours alone.<end>"
+
+["1370066"]
+japanese = "…って、そんなことずっと考えて<line-break>生きてたら、気が滅入っちまうか？\u3000\u3000<line-break>ハハハ！<end>"
+english = "Then again, dwelling on things like that your whole life might get a bit depressing, eh? Ha ha ha!<end>"
+
+["1370067"]
+japanese = "ま、人生急ぐことはねえ。<line-break>お前さんもゆっくりしていきなよ。<end>"
+english = "Well, there's no need to rush through life. Stay and take it easy for a while.<end>"
+
+["1370068"]
+japanese = "よう、<value:$28>。<line-break>カルラがいよいよ攻めてくるってな。<line-break>お前さんはどうするんだい？<end>"
+english = "Hey, <value:$28>. I hear Karula's finally about to attack. What will you do?<end>"
+
+["1370069"]
+japanese = "俺は、ロストールが負けて、カルラが<line-break>この平民街に危害を加えようとしたとき、<line-break>ここを守るために戦う。命を懸けてもな。\u3000\u3000<end>"
+english = "If Rostorl falls and Karula moves against this commoners' quarter, I'll fight to defend it, even if it costs me my life.<end>"
+
+["1370070"]
+japanese = "俺にはな、ジジイになるまで長生きして、<line-break>お前やアイリーンから金をせびって<line-break>悠々自適に暮らすっていう野望がある。<line-break>その野望を達成するためにも、<line-break>今、この街を廃墟にしちまうわけには<line-break>いかないってわけだ。<end>"
+english = "You see, I have this grand ambition: to live to a ripe old age, wheedle money out of you and Irene, and spend my days in comfort. And if I'm going to achieve it, I can't very well let this town be reduced to ruins now, can I?<end>"
+
+["1370071"]
+japanese = "はっはっは。ま、いつまでたっても、<line-break>お前もアイリーンも<line-break>俺の弟子なわけよ。<line-break>だからこそ、俺の弟子たちが<line-break>どのように育っているかを見定めるのも、<line-break>まぁ、師匠の務めってところかな。<end>"
+english = "Ha ha ha! No matter how much time passes, you and Irene will always be my pupils. So I suppose seeing how you've both grown is part of a master's duty.<end>"
+
+["1370072"]
+japanese = "アイリーンという若葉に、<line-break>俺はどのような光を与えてやれたのか。<line-break>そこに咲く花の色に、俺は責任があるんだ。<line-break>たとえそれが、どんな色であろうとな。<line-break>そして、<value:$28>。<line-break>それは、お前って花の色にも同じなんだ。<end>"
+english = "Irene is a tender shoot. What kind of light was I able to give her? I am responsible for the color of the flower she blooms into, whatever that color may be. And <value:$28>, the same is true of the flower that is you.<end>"
+
+["1370073"]
+japanese = "俺にはな、ジジイになるまで長生きして、<line-break>弟子のアイリーンたちから金をせびって<line-break>悠々自適に暮らすっていう野望がある。<line-break>その野望を達成するためにも、<line-break>今、この街を廃墟にしちまうわけには<line-break>いかないってわけだ。<end>"
+english = "You see, I have this grand ambition: to live to a ripe old age, wheedle money out of Irene and the rest of my pupils, and spend my days in comfort. And if I'm going to achieve it, I can't very well let this town be reduced to ruins now, can I?<end>"
+
+["1370074"]
+japanese = "ま、そう言うなよ。ディンガル軍の<line-break>騎士になろうが、アイリーンが<line-break>俺の弟子だって事実は変わらない。<line-break>だからこそ、俺の弟子が<line-break>どのように育っているかを見定めるのも、<line-break>まぁ、師匠の務めってものなのさ。<end>"
+english = "Oh, don't say that. Even if Irene becomes a knight in the Dingal Army, that doesn't change the fact that she's my pupil. So I suppose seeing how she's grown is part of a master's duty.<end>"
+
+["1370075"]
+japanese = "アイリーンという若葉に、<line-break>俺はどのような光を与えてやれたのか。<line-break>そこに咲く花の色に、俺は責任がある。\u3000\u3000<line-break>たとえそれが、<line-break>どんな色であろうとな。<line-break>\u3000<end>"
+english = "Irene is a tender shoot. What kind of light was I able to give her? I am responsible for the color of the flower she blooms into, whatever that color may be.<end>"
+
+["1370076"]
+japanese = "アイリーンは剣士としても、<line-break>そしてひとりの人間としても、<line-break>死なせるに惜しい奴だったよ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>道場からいなくなってかなり経つが、<line-break>今になってバカに寂しくなった気がする。<line-break>光ってた奴だっただけに、なおさらな。<end>"
+english = "Irene was too good a swordswoman, and too fine a person, to let die. She'd been away from the dojo for a long time, but it's only now that I'm starting to feel so damned lonely. She had such a spark about her. That only makes it worse.<end>"
+
+["1370077"]
+japanese = "アイリーンのことを一番悲しんでるのは<line-break>彼女の母親だよ。旦那さんに続いて、<line-break>ひとり娘まで戦争にさらわれちまった。<line-break>エルメスさんの姿を見ると、<line-break>アイリーンが街を出るときにとめりゃ…<line-break>なんて考えちまってな。<end>"
+english = "The one grieving most for Irene is her mother. First her husband, and now her only daughter―the war took them both. Whenever I see Hermes, I can't help wondering if I should've stopped Irene from leaving town.<end>"
+
+["1370078"]
+japanese = "お前さんは、どう思う？\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "What do you think?<end>"
+
+["1370079"]
+japanese = "すまねぇ。<line-break>お前さんに聞くことじゃなかったな。<end>"
+english = "Sorry. I shouldn't have asked you that.<end>"
+
+["1370080"]
+japanese = "すまねぇ。<line-break>今はお前さんに話してやれることはない。<end>"
+english = "Sorry. There's nothing I can tell you right now.<end>"
+
+["1370081"]
+japanese = "最悪の事態は避けられたな。<line-break>お前さんにも感謝してるよ。<line-break>これで俺の老後も保証つきってもんだ。<line-break>…冗談はさておき、ほっとしたよ。<line-break>俺の弟子が、俺たちの街を壊しちまった<line-break>ってのは勘弁してほしかったからな。<end>"
+english = "We avoided the worst, and I've got you to thank for that too. Looks like my old age is secure now. Joking aside, I'm relieved. I couldn't have borne it if my own pupil had destroyed our town.<end>"
+
+["1370082"]
+japanese = "まだ、安心しきれる状態じゃないが、<line-break>俺としては、これからはアイリーンが<line-break>カルラをとめてくれると信じたいね。\u3000<end>"
+english = "We're not out of danger yet, but I'd like to believe Irene will keep Karula in check from now on.<end>"
+
+["1370083"]
+japanese = "今回の戦いのあと、道場に人が殺到だ。<line-break>自警団を強化しようとか言ってな。<line-break>逃げようってよりはいいんだろうがな。<line-break>だが、そんなことをしても、<line-break>ディンガル軍を刺激するだけだ。<line-break>今はおとなしくした方がいい。<end>"
+english = "People have been flooding into the dojo since the battle, talking about strengthening the town watch. I suppose that's better than running away. But it'll only provoke the Dingal Army. For now, we'd be wiser to lie low.<end>"
+
+["1370084"]
+japanese = "よう、<value:$28>。<line-break>俺に何か用かい？\u3000…つっても俺にゃ、\u3000<line-break>もう、お前さんに教えることはないな。<line-break>でも、最後にひとつ言わしてもらうか。<line-break>お前さんは、歴史を知っているだろう？<line-break>歴史をただの知識にはしないでくれ。<end>"
+english = ""
+
+["1370085"]
+japanese = "俺はお前さんに、困りもんの学者や<line-break>為政者には、なってほしくはないからな。<line-break>ま、そんなところかな。<end>"
+english = ""
+
+["1370086"]
+japanese = "よう、<value:$28>。<line-break>この前は世話になったな。<line-break>アイリーンの様子はどうだい？<end>"
+english = "Hey, <value:$28>. Thanks for your help the other day. How's Irene doing?<end>"
+
+["1370087"]
+japanese = "あん？\u3000相変わらずうるさいって？\u3000\u3000<line-break>いっひっひ。まだまだ青いねぇ。<line-break>相変わらずなのはお前の方だよ。<line-break>普通、ああいう展開があれば、<line-break>そのあとふたりの仲は急速に発展する<line-break>ってのがお約束なんだが…ま、いいか。<end>"
+english = "Hm? Still as loud as ever, you say? Heh heh heh. You've got a lot to learn. You're the one who hasn't changed. Usually, after something like that, the two of you are supposed to grow much closer in no time. Ah, well.<end>"
+
+["1370088"]
+japanese = "最悪の事態は避けられたな。<line-break>お前さんにも感謝してるよ。<line-break>これで俺の老後も保証つきってもんだ。<line-break>ま、お前さんとアイリーンっていう<line-break>立派な弟子にせいぜい世話になるさ。<line-break>…てな冗談はさておき、ほっとしたよ。<end>"
+english = "We avoided the worst, and I've got you to thank for that too. Looks like my old age is secure now. With fine pupils like you and Irene, I'm sure you'll both take excellent care of me. Joking aside, I'm relieved.<end>"
+
+["1370089"]
+japanese = "俺の弟子はやっぱり正しかった…つまり<line-break>俺の目も、俺がここでしてきたことも<line-break>正しかったってことだからな。<end>"
+english = ""
+
+["1370090"]
+japanese = "お前さんたち、うまくいくと思うぜ。\u3000<line-break>いいパートナーになってくれ。<end>"
+english = "I think you'll work well together. I hope you'll make good partners.<end>"
+
+["1370091"]
+japanese = "アイリーンのことは残念だが、<line-break>俺にそれ以上とやかく言う資格はないな。<line-break>戦争に出ていれば、死とは常にとなり合わせだ。<line-break>アイリーンを斬ったのは誰かなんてのは<line-break>問題じゃない。アイリーンはこの戦乱の時代を<line-break>生き抜く力がなかったというだけだ。<end>"
+english = ""
+
+["1370092"]
+japanese = "よう、<value:$28>。<line-break>この前は世話になったな。<line-break>お前さんがいてくれて助かった。<end>"
+english = ""
+
+["1370093"]
+japanese = "アイリーンなら大丈夫だろう。<line-break>あいつの目から迷いがなくなっていたからな。<line-break>いい騎士になってくれると思うぜ。<line-break>あれからディンガル軍が動く気配はないしな。<line-break>俺としては、カルラの襲撃計画を<line-break>アイリーンがとめてくれたと思いたいね。<end>"
+english = ""
+
+["1370094"]
+japanese = "今のところディンガル軍に動きはない。<line-break>この街もどことなく不安が漂ってはいるが、<line-break>住民の生活の息づかいは元に戻りつつある。<line-break>もともとこの平民街は、ロストール王家から<line-break>援助を受けていたわけではないからな。<line-break>昔も今も、自分たちの力で生きているんだ。<end>"
+english = ""
+
+["1370095"]
+japanese = "その力はたくましいものだが、武力に対抗する<line-break>種類の力ではない。<line-break>だから、俺がここにいるんだ。<line-break>これからも、ディンガルがこの街を<line-break>つぶしに来ない限り、<line-break>俺の方から動くつもりはない。<end>"
+english = ""
+
+["1370096"]
+japanese = "よう、<value:$28>。<line-break>この前は世話になったな。<line-break>アイリーンの様子はどうだい？<end>"
+english = "Hey, <value:$28>. Thanks for your help the other day. How's Irene doing?<end>"
+
+["1370097"]
+japanese = "あん？\u3000相変わらずうるさいって？\u3000\u3000\u3000\u3000<line-break>いっひっひ。まだまだ青いねぇ。<line-break>相変わらずなのはお前の方だよ。<line-break>普通、ああいう展開があれば、<line-break>そのあとふたりの仲は急速に発展する<line-break>ってのが、お約束なんだが…ま、いいか。<end>"
+english = ""
+
+["1370098"]
+japanese = "おや、見かけない顔だね。<line-break>何か用かい？<end>"
+english = "Well, you're a new face. What can I do for you?<end>"
+
+["1370099"]
+japanese = "<if><value:$29><equal>%0ふーん、<value:$28>っていうのかい？<line-break>いい名前じゃないか。<line-break>顔形も男前だし。<end>ふーん、<value:$28>っていうのかい？<line-break>いい名前じゃないか。<line-break>顔もべっぴんさんだし。<end>"
+english = "<if><value:$29><equal>%0Hmm, so your name's <value:$28>? That's a fine name―and a handsome face to match.<end>Hmm, so your name's <value:$28>? That's a lovely name―and a pretty face to match.<end>"
+
+["1370100"]
+japanese = "あ、そうだ、もし急いでなかったら<line-break>うちのダンナにも会っていっておくれよ。<line-break>きっと、おんなじような反応すると思うけどね。<line-break>この町の裏山で<line-break>ひとりで木を切ってるんだ。<line-break>行きゃあわかるよ。<end>"
+english = "Oh, that's right. If you're not in a hurry, go meet my husband while you're here. I expect he'll react much the same way. He's up in the hills behind town, cutting wood by himself. You'll find him easily enough.<end>"
+
+["1370101"]
+japanese = "なんだい？\u3000<line-break><value:$28>じゃないか。<line-break>いつ帰ってきたんだい？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>おや、今日はナッジは一緒じゃないんだね。<line-break>ま、せっかく来たんならうちのダンナにも<line-break>会ってってやっておくれよ。<end>"
+english = "Well, if it isn't <value:$28>. When did you get back? Oh, Nadge isn't with you today. Since you've come all this way, go and see my husband too, won't you?<end>"
+
+["1370102"]
+japanese = "うちのダンナはいつも通り、裏の山で<line-break>木を切ってるはずだよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "My husband should be up in the hills out back, cutting wood as usual.<end>"
+
+["1370103"]
+japanese = "おや、<value:$28>かい。<end>"
+english = "Oh, <value:$28>, is that you?<end>"
+
+["1370104"]
+japanese = "うちのダンナは、今日も、山で仕事さ。<line-break>ま、それが今のうちの人の生きがいだからね。<line-break>\u3000<line-break>木を伐るのが生きがいだなんて<line-break>若いあんたには<line-break>ちょっとわかんないだろう？<end>"
+english = "My husband's up in the hills working again today. Well, that's what he lives for now. I don't suppose someone as young as you can quite understand living for nothing but cutting wood, can you?<end>"
+
+["1370105"]
+japanese = "わかります<end>"
+english = "I understand.<end>"
+
+["1370106"]
+japanese = "ちょっと、わからない<end>"
+english = "I don't really understand.<end>"
+
+["1370107"]
+japanese = "へぇ、そうかい？<line-break>善し悪しの問題じゃないけど<line-break>ちょっと感心だね。<end>"
+english = "Oh, you do? It's not a matter of right or wrong, but I'm rather impressed.<end>"
+
+["1370108"]
+japanese = "そうだろうねぇ。<line-break>でもね、男が何かに打ち込んでる姿<line-break>ってのはいいもんだよ。<end>"
+english = "I suppose not. But there's something wonderful about seeing a man devote himself to something.<end>"
+
+["1370109"]
+japanese = "木こりかどうかなんて問題じゃないんだけどね。<line-break>私は働く男の背中ってのに弱くてね。<line-break>\u3000<line-break>うちの人には昔からそれがあったから、<line-break>つい、くらっときちまって、<line-break>駆け落ち同然で一緒になっちまったんだよ。<end>"
+english = "It doesn't matter that he's a woodcutter. I've always had a weakness for the sight of a man hard at work. My husband had that about him even back then, and I couldn't resist. I fell for him, and we ran off together―or near enough.<end>"
+
+["1370110"]
+japanese = "え？\u3000うちの人のことかい？\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>なんだい、藪から棒に。<line-break>\u3000<line-break>そうだねぇ、もちろん頼りにしてるよ。<line-break>いざっていうときには、やっぱり<line-break>男手が必要だからね。<end>"
+english = "What? My husband? Where did that come from? Well, of course I rely on him. When it comes down to it, you do need a man's help.<end>"
+
+["1370111"]
+japanese = "でも、だからって男を甘やかしちゃ\u3000\u3000\u3000\u3000<line-break>いけないよ。頼りにしてても、<line-break>それをあまり見せすぎない。<line-break>でも、まったくそれを見せない<line-break>ってのもダメさ。そのさじ加減ってのが<line-break>家を守る秘訣だからね。<end>"
+english = "But that doesn't mean you should spoil a man. You can rely on him, but don't show it too much. Mind you, never showing it at all is no good either. Striking the right balance is the secret to keeping a household together.<end>"
+
+["1370112"]
+japanese = "<if><value:$29><equal>%0おっと、男のあんたにしてみれば<line-break>こんな話はつまらないかもしれないね。\u3000\u3000<line-break>\u3000<line-break>でも、あんたも、いずれ、<line-break>私の言ってたことの意味が<line-break>わかるだろうよ。<end>よく覚えておきなよ。<line-break>家庭を持つ女の先輩として忠告さ。<line-break>いずれ、あんたも所帯を持ったらわかるよ。<end>"
+english = "<if><value:$29><equal>%0Oh, I suppose a man like you might find all this rather dull. Still, one day you'll understand what I meant.<end>Remember that. Take it as advice from a woman with more experience of married life. You'll understand once you have a household of your own.<end>"
+
+["1370113"]
+japanese = "今度はアイリーンにも<line-break>顔出せって言っといてくれ。<line-break>よろしくな、<value:$28>。<end>"
+english = "Tell Irene to stop by next time too, will you? I'm counting on you, <value:$28>.<end>"
+
+["1370114"]
+japanese = "まあ、お前さんはお前さんの道を<line-break>頑張って進みぬくこった。<line-break>そこに、見えてくるものもあるからな。<end>"
+english = "Well, you just keep to your own path and see it through. You may find something along the way.<end>"
+
+["1370115"]
+japanese = "ま、ここにはなんにもないけどよ、<line-break>好きなだけゆっくりしていくといい。<end>"
+english = "Well, there's not much here, but stay and rest as long as you like.<end>"
+
+["1370116"]
+japanese = "おう、Ｅｖオッシ全編だ。<line-break>予備メッセージの４だぁな。<end>"
+english = ""
+
+["1370117"]
+japanese = "<value:$28>、<line-break>…がんばれよ。<end>"
+english = "<value:$28>... stay strong.<end>"
+
+["1370118"]
+japanese = "<value:$28>、今はこんな<line-break>つらい世の中だが、お前さんは<line-break>自分の行くべき道を見失うなよ。<end>"
+english = "<value:$28>, these are hard times, but don't lose sight of the path you ought to follow.<end>"
+
+["1370119"]
+japanese = "小言臭くなって悪かったな。<line-break>まぁ、街は守れてるんだ。<line-break>今はそれで、よしとしようや。<end>"
+english = "Sorry for sounding like a nag. Still, we managed to protect the town. For now, let's be content with that.<end>"
+
+["1370120"]
+japanese = "おう、Ｅｖオッシ全編だ。<line-break>予備メッセージの８だぁな。<end>"
+english = ""
+
+["1370121"]
+japanese = "おう、Ｅｖオッシ全編だ。<line-break>予備メッセージの９だぁな。<end>"
+english = ""
+
+["1370122"]
+japanese = "おう、Ｅｖオッシ全編だ。<line-break>予備メッセージの１０だぁな。<end>"
+english = ""
+
+["1370123"]
+japanese = "<if><value:$29><equal>%0おう、小僧、なんか用か？<end>おう、お嬢ちゃん、なんか用かい？<end>"
+english = "<if><value:$29><equal>%0Hey there, lad. Need something?<end>Hey there, young lady. Need something?<end>"
+
+["1370124"]
+japanese = "するってえと、なんだ。こんな田舎の<line-break>こんな山奥まで来て、こんな木こりに\u3000<line-break>話しかけて、何も用はねえか！？<line-break>はっはっは！\u3000こりゃいいや。\u3000<line-break>おヒマな冒険者様じゃなきゃ、\u3000<line-break>こうはいかねえな！<end>"
+english = "So let me get this straight. You came all the way out to the mountains in the middle of nowhere, struck up a conversation with a woodcutter like me―and you don't even want anything!? Hah hah hah! That's a good one. Only an adventurer with time to kill could pull that off!<end>"
+
+["1370125"]
+japanese = "おう、お前<line-break>名前はなんていうんだい？<end>"
+english = "Say, what's your name?<end>"
+
+["1370126"]
+japanese = "<if><value:$29><equal>%0<value:$28>か。<line-break>いい名前だな。なんていうか、こう、\u3000<line-break>広がりがあるっていうのか…。<end><if><value:$29><equal>%1<value:$28>か。<line-break>いい名前だな。なんていうか、こう、\u3000<line-break>安らぎがあるっていうのか…。<end>"
+english = "<if><value:$29><equal>%0<value:$28>, eh? That's a good name. It's got a sort of... openness to it.<end><if><value:$29><equal>%1<value:$28>, eh? That's a good name. It's got a sort of... peaceful sound to it.<end>"
+
+["1370127"]
+japanese = "俺にもお前さんと同い年くらいの<line-break>仲間がいてよ。そいつも旅に出たんだ。<line-break>今ごろ、どこで何をしているか…。<end>何かを探して旅してるんだろうが、\u3000\u3000<line-break>早くその何かが見つかるといいな。<end>"
+english = "A companion of mine, about your age, set off on a journey too. Wonder where that one is now... and doing what.<end>Must be traveling in search of something. I hope it turns up soon.<end>"
+
+["1370128"]
+japanese = "おう、<value:$28>か。<end>"
+english = ""
+
+["1370129"]
+japanese = "まあ、人生っていうのは\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>あと戻りできないからな。<line-break>お前は前に進むしかないんだ。<line-break>ただ、どう前に進むか。<line-break>過去が過ちなら未来をどう正すべきか。<line-break>それをいつも考えて生きてくれ。<end>"
+english = "Well, there's no going back in life. All you can do is keep moving forward. But you have to think about how you'll do that. If the past was a mistake, how will you set things right in the future? Never stop asking yourself that as you go through life.<end>"
+
+["1370130"]
+japanese = "まあ、お前はお前なりに<line-break>答えを見つけてきたみたいだしな。<line-break>俺も、その答え、いい答えだと思うぜ。<line-break>力ってなんなのか？\u3000<line-break>正しさってなんなのか？<line-break>自分はどうありたいと願うのか？<end>"
+english = "Well, looks like you've found your own answer. I think it's a good one too. What is strength? What is right? What kind of person do you want to be?<end>"
+
+["1370131"]
+japanese = "お前なら、これからもそうやって<line-break>自分の道に答を出していけるんだろうな。<end>"
+english = "Knowing you, I reckon you'll keep finding your own answers as you make your way through life.<end>"
+
+["1370132"]
+japanese = "で、どうなんだ？<line-break>旅の中で何か決着はついたのか？<end>"
+english = "So, how did it go? Did you settle anything on your journey?<end>"
+
+["1370133"]
+japanese = "そうか…。<line-break>そういう道を選んじまったか…。\u3000 \u3000     <line-break>\u3000<line-break>で、結局、ヴァンはそれで喜んでくれたか？<end>"
+english = "I see... So that's the path you chose. And in the end, was Van happy with your choice?<end>"
+
+["1370134"]
+japanese = "ま、そういう顔をするってことは          <line-break>自分が選んだ道がどういうものだったか<line-break>わかってるってこったな。<line-break>だったら、これからどう生きるかだ。<line-break>歩いてきた道よりいい道はどこにあるのか、<line-break>お前にはわかり始めてるんだろう？<end>"
+english = "Well, that look on your face tells me you understand what kind of path you chose. What matters now is how you live from here on. You're starting to see where you might find a better path than the one you've walked so far, aren't you?<end>"
+
+["1370135"]
+japanese = "そうか。                            \u3000\u3000\u3000<line-break>決着はついたんだな。<line-break>お前もナッジも、がんばったな。\u3000<line-break>お前たちが出した答え、<line-break>お前たちがたどり着いた強さや正しさの意味、<line-break>そのどれもが、すばらしいと俺は思うぞ。<end>"
+english = "I see. So you did settle it. You and Nadge both worked hard. The answer you two found, and what you came to understand about strength and what is right―I think all of it is wonderful.<end>"
+
+["1370136"]
+japanese = "しかし、男子３日あわざれば…とは<line-break>よく言ったものだな。今俺の前にいるお前は<line-break>ここを旅立った時とはまるで別人だな。<end>"
+english = "The old saying is right: a man can change in three days. You're nothing like the person who set out from here.<end>"
+
+["1370137"]
+japanese = "そうか……。<line-break>まだ、お前の中の決着はつかないままか…。<line-break>\u3000<line-break>それなら、もう少し頑張ってみるこった。<line-break>簡単に答の出るものなんか世の中にそうそう<line-break>あるもんじゃないからな。<end>"
+english = "I see... So you still haven't settled it within yourself. In that case, keep at it a little longer. There aren't many questions in this world that come with easy answers.<end>"
+
+["1370138"]
+japanese = "<value:$28>、\u3000<line-break>…がんばれよ。<end>"
+english = "<value:$28>... keep at it.<end>"
+
+["1370139"]
+japanese = "また、お前か。<line-break>ヒマな奴だな、まったく。<end>"
+english = "You again? You've got too much time on your hands, you know that?<end>"
+
+["1370140"]
+japanese = "どうだ？<line-break>元気にやってっか？<end>"
+english = "So, how've you been? Keeping well?<end>"
+
+["1370141"]
+japanese = "あん？\u3000なんで木こりなんて<line-break>やってんのかって？<line-break>そりゃ、やっぱりこれだな。<end>"
+english = ""
+
+["1370142"]
+japanese = "おら、いい音だろ。小鳥のさえずり、          <line-break>小川のせせらぎ、そして、木こりが木を伐る音。<line-break>何もかもが、心に話しかけてくるじゃねぇか。<line-break>若いから、こんな山の中の暮らしより都会の方が<line-break>いいんだろうが、忘れちゃならねぇものが<line-break>こんなにすぐそばにあるんだな。<end>"
+english = ""
+
+["1370143"]
+japanese = "あん？\u3000カミさんとはどこで知り合ったかって？<line-break>変なこと聞くやつだな。もう、昔のことだから<line-break>忘れちまったよ。<line-break>いいじゃねぇか、別に。今がちゃんとあれば<line-break>昔のことなんてよ。<end>"
+english = "Huh? Where did I meet my wife? That's an odd thing to ask. It was so long ago, I've forgotten. What does it matter? As long as things are good now, who cares about the past?<end>"
+
+["1370144"]
+japanese = "お前もカミさんもらうんだったら、\u3000\u3000<line-break>メシのうまい娘にするんだぜ。<line-break>\u3000<line-break>冒険者やってて、<line-break>宿屋に泊まったら、何か暖かみのある<line-break>食事がしてぇとか思うだろ？<line-break>"
+english = "If you're going to take a wife, make sure she's a good cook. When you're off adventuring and staying at inns, don't you ever wish you could sit down to a nice, home-cooked meal?"
+
+["1370145"]
+japanese = "そういう食事がいつも待ってるってのが<line-break>どんなもんか、わかるだろ？<end>"
+english = "Well, imagine having a meal like that waiting for you every day. You know what I mean, don't you?<end>"
+
+["1370146"]
+japanese = "ところで、だいたいお前<line-break>料理の腕の方はどうなんだ？\u3000\u3000<line-break>\u3000<line-break>いい男を捕まえるなら<line-break>剣ばっかり振りまわしてねぇで、<line-break>料理の腕も振るった方がいいぜ。<end>"
+english = "Come to think of it, how good are you in the kitchen? If you want to catch yourself a good man, don't just swing that sword around―try your hand at cooking too.<end>"
+
+["1370147"]
+japanese = "おう、おめえのエモノ<line-break>見せてみな。<end>"
+english = "All right, let's have a look at that weapon of yours.<end>"
+
+["1370148"]
+japanese = "ほぉ、感心だな。手入れしてある\u3000\u3000<line-break>じゃねぇか。俺もよ、エモノの<line-break>手入れはばっちりなんだぜ。<end>"
+english = "Well, I'm impressed. You've been taking good care of it. I keep my own weapon in fine shape too, you know.<end>"
+
+["1370149"]
+japanese = "お前はそいつに命を懸けてんだから、<line-break>大事にしなきゃな。<line-break>\u3000<line-break>…ま、木こりの俺には、<line-break>命のやりとりなんかは<line-break>ちょっと遠い世界だがな。<end>"
+english = "You stake your life on that thing, so you'd better treat it well. Though for a lumberjack like me, fighting for your life is a world away.<end>"
+
+["1370150"]
+japanese = "さ～て、仕事だ、仕事。<line-break>じゃあな、<value:$28>。<line-break>\u3000<line-break>暇があんなら、<line-break>カミさんのとこにも<line-break>顔を出していってくれ。<end>"
+english = "Right, time to get back to work. See you, <value:$28>. If you've got time to spare, stop by and see my wife too.<end>"
+
+["1370151"]
+japanese = "じゃあな、<value:$28>。<line-break>お前も冒険、がんばれよ。<end>"
+english = "See you around, <value:$28>. Good luck on your adventures.<end>"
+
+["1370152"]
+japanese = "魔物に襲われたケガ人なら心配ない。<line-break>今、父上が神殿まで運んでゆかれた。<end>"
+english = "There's no need to worry about the person injured by the monsters. Father has taken the victim to the temple.<end>"
+
+["1370153"]
+japanese = "…よし、<value:$28>。<line-break>今日の稽古は、<line-break>この辺にしておこうか。<end>"
+english = "All right, <value:$28>. Let's call it a day.<end>"
+
+["1370154"]
+japanese = "正直言って、まだまだだな、<line-break><value:$28>。<line-break> <line-break>太刀筋に迷いがある。そのせいで、<line-break>速さ強さともに本来のものが<line-break>出せなくなっているようだ。<end>"
+english = "To be honest, you still have a long way to go, <value:$28>. There's hesitation in your swordplay, and it's keeping you from bringing your true speed and strength to bear.<end>"
+
+["1370155"]
+japanese = "落胆することはない。<line-break>実戦ではなく、私との訓練だけで<line-break>ここまで来たのだ。<line-break>お前の素質はたいしたものだと<line-break>思っているよ。<end>"
+english = "Don't be discouraged. You've come this far through training with me alone, without any real combat experience. You have remarkable potential.<end>"
+
+["1370156"]
+japanese = "フフフ、そうだな。<line-break>確かに、素質さえあれば<line-break>魔物に勝てるというわけではないな。<line-break>…いいだろう。<line-break>兄である私が教えられることならば、<line-break>何でも教えよう。<end>"
+english = "Heh. True enough. Potential alone won't let you defeat monsters. Very well. As your brother, I'll teach you anything I can.<end>"
+
+["1370157"]
+japanese = "上手な戦い方は？<end>"
+english = "How can I fight more effectively?<end>"
+
+["1370158"]
+japanese = "力を伸ばす方法は？<end>"
+english = "How can I become stronger?<end>"
+
+["1370159"]
+japanese = "何も聞くことはない<end>"
+english = "I don't have any questions.<end>"
+
+["1370160"]
+japanese = "わかっているとは思うが、<line-break>万能な戦法なんてものは存在しない。<line-break>相手が魔物であれば、なおさらだ…。<line-break>その勝敗をわけるものは、<line-break>他でもない、おまえ自身の目だ。<end>"
+english = "You probably know this already, but there is no strategy that works against every opponent, least of all monsters. What decides victory or defeat is your own judgment.<end>"
+
+["1370161"]
+japanese = "どの敵にも必ず弱点がある。<line-break>それを見逃さず、的確に見破れれば、<line-break>戦いをうまく運べるだろう。<end>"
+english = "Every enemy has a weakness. If you keep your eyes open and identify it correctly, you can turn the battle to your advantage.<end>"
+
+["1370162"]
+japanese = "剣で攻撃すればいいのか、\u3000\u3000<line-break>魔法が有効なのか？<line-break><line-break>火、水、土、風の、<line-break>どの属性を苦手とする敵なのか？<end>"
+english = "Should you attack with a sword, or would magic be more effective? Is the enemy weak against fire, water, earth, or wind?<end>"
+
+["1370163"]
+japanese = "仲間たちとも協力してそこを攻めれば、<line-break>必ずや突破口は開けるはずだ。<end>"
+english = "Work with your companions to exploit that weakness, and you'll find a way through.<end>"
+
+["1370164"]
+japanese = "他には何かあるか？<end>"
+english = "Is there anything else?<end>"
+
+["1370165"]
+japanese = "それはつまり、どのように<line-break>成長していきたいかということだな？<end>"
+english = "In other words, you're asking what path you should take as you grow?<end>"
+
+["1370166"]
+japanese = "戦いと人生はよく似ている。<line-break> <line-break> <line-break>いや、人生こそ戦いである…<line-break>名うての冒険者などは、<line-break>誰しもそう思っているはずだ。<end>"
+english = "Battle and life are much alike. No, life itself is a battle... Any renowned adventurer must feel the same.<end>"
+
+["1370167"]
+japanese = "しかし逆に、戦士は戦士でしかなく、<line-break>魔道士は魔道士でしかないのは<line-break>どうしてだと思う？<end>"
+english = "But then why do you think a warrior remains only a warrior, and a mage only a mage?<end>"
+
+["1370168"]
+japanese = "それが彼らの生き方<end>"
+english = "That's their way of life.<end>"
+
+["1370169"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370170"]
+japanese = "よくわかっているな。<line-break>そう、それも、<line-break>彼らが自ら決めた生き方なのだ。\u3000<line-break>世界は広い。<line-break>もちろん、魔法が得意な戦士も、<line-break>前列で戦える魔道士もいるだろう。<end>"
+english = "You understand. Yes, that too is a way of life they chose for themselves. The world is vast. Of course there are warriors skilled in magic, and mages who can fight on the front line.<end>"
+
+["1370171"]
+japanese = "しかし彼らは、多くの場合、<line-break>第一級の戦士や魔道士ではない\u3000\u3000\u3000<line-break>ことが多い。<line-break>万能であろうとすればするほど、<line-break>人よりも多い苦労を強いられるからだ。<end>"
+english = "But more often than not, they never become first-rate warriors or mages. The more they strive to master everything, the harder they must work compared with others.<end>"
+
+["1370172"]
+japanese = "それゆえに価値が大きいというのは<line-break>もちろんあると思うぞ。<line-break>弱点のない仲間は、貴重だからな。<line-break>つまるところ、どうあるべきなのかは、<line-break>お前自身が決めることなのだ。<line-break>自由がある…だからこそ難しい。<end>"
+english = "Of course, that also makes such people all the more valuable. A companion with no weaknesses is a rare asset. In the end, you must decide for yourself what you wish to become. You are free to choose. That is precisely what makes it so difficult.<end>"
+
+["1370173"]
+japanese = "フフッ、面白い答えだな。<line-break><value:$28>のそういう独創性は<line-break>大事にした方がいいと私も思うよ。<end>"
+english = ""
+
+["1370174"]
+japanese = "確かに、パーティとして一緒に<line-break>旅をする身としては、<line-break>煮え切らない便利屋がいるよりも、<line-break>これだけは誰にも負けないという<line-break>メンバーがいた方が頼りになる。<line-break>実際に旅に出れば嫌でもわかることだ。<end>"
+english = ""
+
+["1370175"]
+japanese = "その言葉、信用して大丈夫だな？<end>"
+english = "I can take you at your word, then?<end>"
+
+["1370176"]
+japanese = "ちょっと待って<end>"
+english = "Actually, wait.<end>"
+
+["1370177"]
+japanese = "大丈夫<end>"
+english = "You can trust me.<end>"
+
+["1370178"]
+japanese = "あわてることはない。<line-break>わからないことがあったら聞くんだぞ。<end>"
+english = "There's no need to rush. If there's anything you don't understand, just ask.<end>"
+
+["1370179"]
+japanese = "そうか。ではまた、<line-break>機会があれば教えよう。<end>"
+english = "I see. Then I'll teach you another time, if the opportunity arises.<end>"
+
+["1370180"]
+japanese = "それにしても…<line-break>村の近くにまで<line-break>魔物がうろつき始めるとはな…。<end>"
+english = "Still... to think monsters have begun roaming this close to the village.<end>"
+
+["1370181"]
+japanese = "元気の薬が<line-break>足りなくなるかもしれない。<line-break>少し集めて帰ろう。<end>"
+english = "We may run short of vitality medicine. Let's gather some before we go back.<end>"
+
+["1370182"]
+japanese = "ハハ、頼りにしているぞ<line-break><value:$28>。<end>"
+english = "Ha! I'm counting on you, <value:$28>.<end>"
+
+["1370183"]
+japanese = "集め終わったか？<end>"
+english = "Finished gathering them?<end>"
+
+["1370184"]
+japanese = "どうした。<line-break>集め終わったのか？<end>"
+english = "What is it? Have you finished gathering them?<end>"
+
+["1370185"]
+japanese = "結界か…。<line-break>モンスターを全滅させるまで<line-break>逃げられないようだな。<end>"
+english = "A barrier... It seems we can't escape until we've killed all the monsters.<end>"
+
+["1370186"]
+japanese = "結界か…。<line-break>モンスターを全滅させるまで<line-break>逃げられないようだな。<end>"
+english = "A barrier... It seems we can't escape until we've killed all the monsters.<end>"
+
+["1370187"]
+japanese = "…これほどの実力がありながら、<line-break>あの女はなぜ直接私たちを殺さない？<line-break>こんな…まるでもてあそぶような…。<line-break>…<value:$28>、<line-break>とにかくモンスターを全滅させよう。<line-break>胸騒ぎがする。<end>"
+english = "With power like that, why doesn't that woman kill us herself? This is almost as if she's toying with us... <value:$28>, for now, let's kill all the monsters. I have a bad feeling about this.<end>"
+
+["1370188"]
+japanese = "…罠か。<end>"
+english = "A trap...<end>"
+
+["1370189"]
+japanese = "私たちがここに戻ってくることを<line-break>あの女は予想していたようだ。<line-break>\u3000<line-break>実力で突破する。<end>"
+english = "It seems that woman expected us to come back here. We'll force our way through.<end>"
+
+["1370190"]
+japanese = "<value:$28>、村のほうだ！<end>"
+english = "<value:$28>, the village!<end>"
+
+["1370191"]
+japanese = "戻るぞ！<end>"
+english = "Let's go back!<end>"
+
+["1370192"]
+japanese = "ちょっと待って<end>"
+english = "Wait a moment.<end>"
+
+["1370193"]
+japanese = "はい<end>"
+english = "Yes.<end>"
+
+["1370194"]
+japanese = "<select><value:$20>%3そうか。<line-break>集め終わったら言ってくれ。<end>そうか。<line-break>あまりムリはしないようにな。<end>そうか。<line-break>少し急ごう。<line-break>父上も神殿でお待ちかねだろうからな。<end>"
+english = "<select><value:$20>%3All right. Tell me when you've finished gathering them.<end>All right. Just don't push yourself too hard.<end>All right. We'd better hurry a little. Father is probably waiting for us at the temple.<end>"
+
+["1370195"]
+japanese = "そうだな。<line-break>このぐらいで足りるだろう。<line-break>\u3000<line-break>父上も神殿で<line-break>お前のことを心配しておられよう。<end>"
+english = "Yes, this should be enough. Father is probably worried about you at the temple.<end>"
+
+["1370196"]
+japanese = "待て、<value:$28>。<line-break>魔物の気配がする。<end>"
+english = "Wait, <value:$28>. I sense a monster nearby.<end>"
+
+["1370197"]
+japanese = "準備はいいか、<line-break><value:$28>。<end>"
+english = "Are you ready, <value:$28>?<end>"
+
+["1370198"]
+japanese = "心配するな。訓練と同じでいい。<line-break>兄がついている。<line-break>…ゆくぞ。<end>"
+english = "Don't worry. Treat it just like training. Your brother is here with you. Let's go.<end>"
+
+["1370199"]
+japanese = "大丈夫か、<value:$28>？<end>"
+english = "Are you all right, <value:$28>?<end>"
+
+["1370200"]
+japanese = "破壊神の復活の時が来たら<line-break>魔人どもが神器をねらってくる。<line-break>\u3000<line-break>そのときはお前も、<line-break>神器を守る一族のひとりとして<line-break>魔人や魔物と戦わねばならない。<end>"
+english = "When the time comes for the God of Destruction to return, the fiends will come for the sacred artifact. When that happens, you too must fight the fiends and monsters as a member of the clan that guards it.<end>"
+
+["1370201"]
+japanese = "…そうだな。もう、お前も<line-break>魔人と戦う力をつけるために<line-break>修行の旅に出てもよい年頃だな…。<end>"
+english = "Yes... You're old enough now to set out on a journey of training and gain the strength to fight the fiends.<end>"
+
+["1370202"]
+japanese = "セラ？<end>"
+english = "Sera?<end>"
+
+["1370203"]
+japanese = "ごめんなさい。<line-break>少しいいかしら？<end>"
+english = "Excuse me. May I have a moment?<end>"
+
+["1370204"]
+japanese = "（…いや、違う。女だ。）<end>"
+english = "(No... I was wrong. It's a woman.)<end>"
+
+["1370205"]
+japanese = "あら…。くすっ、<line-break>素敵なお兄さんとかわいいコね。<end>"
+english = "Oh... Hee-hee. What a handsome young man and an adorable little one.<end>"
+
+["1370206"]
+japanese = "…どうなされたのですか？<line-break>女の方にこの森は危険ですよ。<end>"
+english = "Is something wrong? This forest is dangerous for a woman.<end>"
+
+["1370207"]
+japanese = "セラ？<end>"
+english = "Sera?<end>"
+
+["1370208"]
+japanese = "くす、危ないところでしたのね。<line-break>少しいいかしら？<end>"
+english = "Hee-hee. That was a close call, wasn't it? May I have a moment?<end>"
+
+["1370209"]
+japanese = "（…いや、違う。女だ。）<end>"
+english = "(No... I was wrong. It's a woman.)<end>"
+
+["1370210"]
+japanese = "実は、探し物をしているの。<line-break>とても大事なものなのよ。<end>"
+english = "You see, I'm looking for something. Something very precious.<end>"
+
+["1370211"]
+japanese = "何を探しておられるのです？<end>"
+english = "What are you looking for?<end>"
+
+["1370212"]
+japanese = "……よ。<end>"
+english = "...<end>"
+
+["1370213"]
+japanese = "…知りませんね。<end>"
+english = "I'm afraid I don't know.<end>"
+
+["1370214"]
+japanese = "くすっ、そう…。それは残念。<line-break>この女の記憶を手繰っていくと、<line-break>確かにこの近くにあるはずなのに…。<end>"
+english = "Hee-hee. I see... What a pity. When I trace this woman's memories, they tell me it should be somewhere nearby...<end>"
+
+["1370215"]
+japanese = "記憶を手繰る…？<end>"
+english = "Trace her memories...?<end>"
+
+["1370216"]
+japanese = "そちらもお気をつけて。<line-break>この辺りは危険ですから…。<line-break>くすくす…。<end>"
+english = "You should be careful as well. This area is dangerous... Hee-hee...<end>"
+
+["1370217"]
+japanese = "（似ている……。）<end>"
+english = "(The resemblance...)<end>"
+
+["1370218"]
+japanese = "…なんでもない。<line-break>父上も心配しておられよう。<line-break>朝のうちに神器の神殿に戻るぞ。<end>"
+english = "It's nothing. Father is probably worried. We'll return to the Temple of the Sacred Artifact before the morning is over.<end>"
+
+["1370219"]
+japanese = "あ、ロイさまと<line-break><value:$28>さまだ！<line-break><value:$28>さまー！<end>"
+english = "Oh, it's Roy and <value:$28>! <value:$28>!<end>"
+
+["1370220"]
+japanese = "<value:$28>さまー。<line-break>おかえりなさい。<line-break>お疲れさまでしたー。<end>"
+english = "<value:$28>! Welcome home! Good work out there!<end>"
+
+["1370221"]
+japanese = "<value:$28>、<line-break>無事だったんだ…。<line-break>よかった…。<end>"
+english = "<value:$28>, you're safe... Thank goodness.<end>"
+
+["1370222"]
+japanese = "魔物に襲われた人なら<line-break>ダディアス様が治療してくださったわ。<line-break>さすがノトゥーン神に仕える神官ね。<end>"
+english = "Dadius treated anyone who was attacked by monsters. That's what you'd expect from a priest of Notun.<end>"
+
+["1370223"]
+japanese = "なあなあ、<value:$28>。<line-break>魔物、どうだったんだ？<end>"
+english = "Hey, <value:$28>. How did it go with the monsters?<end>"
+
+["1370224"]
+japanese = "ハハハ。<line-break><value:$28>、<line-break>大した人気だな。<end>"
+english = "Ha ha ha! You're quite popular, <value:$28>.<end>"
+
+["1370225"]
+japanese = "神器の守護者として、<line-break>修行の旅に出てらっしゃる間に<line-break>ロイ様は人気が下がったのよ。<end>"
+english = "Roy's popularity waned while he was away training as the Guardian of the sacred artifact.<end>"
+
+["1370226"]
+japanese = "その間、<value:$28>が<line-break>この村を守ってたからな。<end>"
+english = "That's because <value:$28> was protecting the village while you were gone.<end>"
+
+["1370227"]
+japanese = "やれやれ。<line-break><value:$28>、<line-break>人気者はつらいな。<end>"
+english = "Good grief. It's hard being so popular, isn't it, <value:$28>?<end>"
+
+["1370228"]
+japanese = "１０００ギア手に入れた。<end>"
+english = "Obtained 1,000 Gea.<end>"
+
+["1370229"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370230"]
+japanese = "これからは、今日のように、<line-break>戦いに出る機会が増えるだろう。<line-break> <line-break>自身の鍛練もそうだが、<line-break>装備も強くしておかねばならない。<end>"
+english = "From now on, you'll probably find yourself in battle more often, as you did today. You need to keep training, but your equipment will need strengthening too.<end>"
+
+["1370231"]
+japanese = "鍛冶屋の経験がある男が、<line-break>村のどこかにいたはずだ。<line-break> <line-break>今は仕事を断っているらしいが<line-break>その錬剛石とギアを持っていって頼めば<line-break>鍛冶をしてくれるかもしれない。<end>"
+english = "There should be a man somewhere in the village with experience as a blacksmith. I hear he is refusing work at present, but if you take him that tempering stone and the Gea and ask him, he may agree to do some smithing for you.<end>"
+
+["1370232"]
+japanese = "私は一足先に神殿に戻っている。<line-break>なるべく早く戻ってこい。<line-break>それに朝も早い。静かにな。<end>"
+english = "I'll head back to the temple ahead of you. Come back as soon as you can. It's early, so keep quiet.<end>"
+
+["1370233"]
+japanese = "ねえ、いったい最近どうなってるの？<line-break><line-break><line-break>ここは神器を守る村。<line-break>結界に守られていて、<line-break>魔物なんて近寄れないはずよ。<end>"
+english = "What in the world has been going on lately? This village guards the sacred artifact. The barrier is supposed to keep monsters from even coming near us.<end>"
+
+["1370234"]
+japanese = "なあなあ、魔物と戦ったのか？<line-break>ケガはなかったか？<end>"
+english = "Hey, did you fight the monsters? You weren't hurt, were you?<end>"
+
+["1370235"]
+japanese = "あー！！\u3000もう！！\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "Aah! Enough already!<end>"
+
+["1370236"]
+japanese = "<value:$28>さまが<line-break>おこまりでしょ！！<end>"
+english = "You're bothering <value:$28>!<end>"
+
+["1370237"]
+japanese = "ちぇ。<end>"
+english = "Tch.<end>"
+
+["1370238"]
+japanese = "さ、<value:$28>さま、<line-break>しんでんで<line-break>お父上さまがお待ちですよ。<end>"
+english = "Come along, <value:$28>. Your father is waiting for you at the temple.<end>"
+
+["1370239"]
+japanese = "あとで、魔物のおはなし<line-break>きかせてくださいねー。<line-break><value:$28>さまー。<end>"
+english = "Tell me all about the monsters later, <value:$28>!<end>"
+
+["1370240"]
+japanese = "くすくす…。<line-break>よく燃えるわね。<end>"
+english = "Hee hee... It burns so well.<end>"
+
+["1370241"]
+japanese = "これは…！<end>"
+english = "This is...!<end>"
+
+["1370242"]
+japanese = "あら。<line-break>あなたたちはさっきの…。<line-break>フフフフ…。<end>"
+english = "Oh. You're the ones from before... Heh heh heh...<end>"
+
+["1370243"]
+japanese = "神殿のほうだ。<line-break>父上と母上が危ない！<end>"
+english = "That's the direction of the temple. Father and Mother are in danger!<end>"
+
+["1370244"]
+japanese = "あっ、<value:$28>様じゃ。<end>"
+english = "Oh, it's <value:$28>.<end>"
+
+["1370245"]
+japanese = "魔物が入り口をふさいでいて<line-break>逃げられないのです！<line-break>お助けください！<end>"
+english = "The monsters are blocking the entrance, and we can't escape! Please, help us!<end>"
+
+["1370246"]
+japanese = "<value:$28>さま、ありがと！<line-break>これ、あたしのたからものだけど、<line-break><value:$28>さまにあげる。<end>"
+english = "Thank you, <value:$28>! This is my treasure, but I want <value:$28> to have it.<end>"
+
+["1370247"]
+japanese = "<if><value:$29><equal>%0さすがに<line-break>俺が認めた男の<line-break>弟だけのことはある。<line-break>いい手並みだった。<line-break>兄を救いに行くつもりか？<end>さすがに<line-break>俺が認めた男の<line-break>妹だけのことはある。<line-break>いい手並みだった。<line-break>兄を救いに行くつもりか？<end>"
+english = "<if><value:$29><equal>%0I should have expected no less from the younger brother of a man I respect. You handled yourself well. Are you going to save your brother?<end>I should have expected no less from the younger sister of a man I respect. You handled yourself well. Are you going to save your brother?<end>"
+
+["1370248"]
+japanese = "…ロイはお前を逃がすために、<line-break>村人を逃がすよう言ったのだぞ。<end>"
+english = "Roy told you to evacuate the villagers so that you would escape as well.<end>"
+
+["1370249"]
+japanese = "ロイは死を覚悟している。<line-break>…奴のことなら、わかる。<end>"
+english = "Roy is prepared to die... I know him.<end>"
+
+["1370250"]
+japanese = "俺はセラ。<line-break>ロイは俺が認めた<line-break>唯一の男だ。<end>"
+english = "I'm Sera. Roy is the only man I respect.<end>"
+
+["1370251"]
+japanese = "…来い。<end>"
+english = "Come.<end>"
+
+["1370252"]
+japanese = "<if><value:$29><equal>%0ロイの弟…<line-break><value:$28>といったな。<end>ロイの妹…<line-break><value:$28>といったな。<end>"
+english = "<if><value:$29><equal>%0Roy's younger brother... Your name was <value:$28>, wasn't it?<end>Roy's younger sister... Your name was <value:$28>, wasn't it?<end>"
+
+["1370253"]
+japanese = "なかなかの手並みだったが、<line-break>兄を置いて逃げるのか？<end>"
+english = "You handled yourself well, but are you going to run away and leave your brother behind?<end>"
+
+["1370254"]
+japanese = "…確かにロイは<line-break>お前を逃がすため、<line-break>村人の避難を任せた。<end>"
+english = "It is true that Roy put you in charge of evacuating the villagers so that you would escape.<end>"
+
+["1370255"]
+japanese = "…それで、<line-break>お前は逃げるのか？<end>"
+english = "So... are you going to run away?<end>"
+
+["1370256"]
+japanese = "ロイは、<line-break>死を覚悟している…。<end>"
+english = "Roy is prepared to die...<end>"
+
+["1370257"]
+japanese = "どうした、<line-break>来ないのか。<line-break>\u3000<line-break>後悔したいのなら、<line-break>止めはせん。<line-break>そこにいろ。<end>"
+english = "What's wrong? Aren't you coming? If you want to regret this later, I won't stop you. Stay here.<end>"
+
+["1370258"]
+japanese = "俺はセラ。<line-break>ロイは俺が認めた<line-break>唯一の男だ。<line-break>お前を守る気はない。<line-break>足手まといにはなるな。<end>"
+english = "I'm Sera. Roy is the only man I respect. I have no intention of protecting you. Don't slow me down.<end>"
+
+["1370259"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370260"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370261"]
+japanese = "私は、<line-break>私が管理するはずの<line-break>大切なものをもらいに来たの。<line-break>神殿でたずねてみたけど、<line-break>誰も何も教えてくれないの。<line-break>くすくす…。ひどい話よね。<end>"
+english = "I've come to collect something precious that was supposed to be in my care. I asked around at the temple, but no one would tell me anything. Hee hee... Isn't that awful?<end>"
+
+["1370262"]
+japanese = "だから、みんな殺しちゃった。<end>"
+english = "So I killed them all.<end>"
+
+["1370263"]
+japanese = "！<end>"
+english = "!<end>"
+
+["1370264"]
+japanese = "そうそう、あなた、<line-break>ウソをついていたでしょう？<line-break>知りませんだなんて。<line-break>くすくす、あれ、<line-break>あなたのおうちにあるんじゃない。<line-break>\u3000<end>"
+english = "Oh, yes. You lied to me, didn't you? You said you didn't know. Hee hee. But it's at your house, isn't it?<end>"
+
+["1370265"]
+japanese = "あなたのお父様の死体から、<line-break>記憶をじかに探らせてもらったわ。<line-break>\u3000<end>"
+english = "I probed your father's memories directly from his corpse.<end>"
+
+["1370266"]
+japanese = "誰に殺されるのかもわからずに<line-break>死んでいくのはかわいそうだから<line-break>教えてあげる。<line-break>私は破壊神ウルグの円卓騎士、<line-break>心をなくすものアーギルシャイア。<line-break>じゃあね。<end>"
+english = "It would be a shame for you to die without even knowing who killed you, so I'll tell you. I am Argyleshire, She Who Has Lost Her Heart, a Knight of the Round Table serving Urg, God of Destruction. Bye.<end>"
+
+["1370267"]
+japanese = "<value:$28>、<line-break>ここを離れるんだ。<line-break>村人を避難させてくれ。<end>"
+english = "<value:$28>, get out of here. Evacuate the villagers.<end>"
+
+["1370268"]
+japanese = "魔物は、必ず私が倒す。<line-break>お前は村人を頼む。<end>"
+english = "I'll kill the monster. See to the villagers.<end>"
+
+["1370269"]
+japanese = "デスギガースに立ち向かう<end>"
+english = "Face Death Gigas<end>"
+
+["1370270"]
+japanese = "兄の言うとおり村人を避難させる<end>"
+english = "Do as my older brother says and evacuate the villagers<end>"
+
+["1370271"]
+japanese = "<value:$28>、よせ！<end>"
+english = "<value:$28>, don't!<end>"
+
+["1370272"]
+japanese = "<value:$28>ー！<end>"
+english = "<value:$28>!<end>"
+
+["1370273"]
+japanese = "…生きていたか。<end>"
+english = "So you're alive.<end>"
+
+["1370274"]
+japanese = "武器を収めろ。<line-break>俺はここに<line-break>旧友を訪ねてきただけだ。<line-break>殺すつもりなら<line-break>お前が目を覚ます前に<line-break>やっている。<end>"
+english = "Sheathe your weapon. I only came to visit an old friend. If I meant to kill you, I would have done it before you woke.<end>"
+
+["1370275"]
+japanese = "生き残りはお前だけだ。<line-break>たずねるが、<line-break>ここがミイスの村か？<end>"
+english = "You're the only survivor. Tell me, is this Miis Village?<end>"
+
+["1370276"]
+japanese = "お前の名は？<end>"
+english = "What is your name?<end>"
+
+["1370277"]
+japanese = "<if><value:$29><equal>%0…フ、なるほどな。<line-break>お前がロイの弟か。<line-break>ロイから名前は聞いている。<line-break>俺はセラ。<line-break>ロイの友だ。<end>…フ、なるほどな。<line-break>お前がロイの妹か。<line-break>ロイから名前は聞いている。<line-break>俺はセラ。<line-break>ロイの友だ。<end>"
+english = "<if><value:$29><equal>%0Hmph. So you're Roy's brother. He told me your name. I'm Sera, a friend of Roy's.<end>Hmph. So you're Roy's sister. He told me your name. I'm Sera, a friend of Roy's.<end>"
+
+["1370278"]
+japanese = "大丈夫だ。<line-break>私がウソをついたことがあったか？<end>"
+english = "It'll be all right. Have I ever lied to you?<end>"
+
+["1370279"]
+japanese = "（酔っ払いだ。<line-break>\u3000目を開けて寝ている…）<line-break> <line-break>（もしかして…？）<end>"
+english = "(A drunk. Sleeping with his eyes open...) (Could it be...?)<end>"
+
+["1370280"]
+japanese = "う…なぁんだよ、<line-break>人が気持ちよく寝てるってのに。<end>"
+english = "Ugh... What d'you want? I was having such a nice sleep.<end>"
+
+["1370281"]
+japanese = "うん…俺があ？<line-break>鍛冶屋だったんじゃないかって？<line-break>冗談言っちゃいけねえ。<line-break>何を見てそんな…<end>"
+english = "Hmm...? Me? You think I used to be a blacksmith? Don't be ridiculous. What makes you think―<end>"
+
+["1370282"]
+japanese = "へっ、この指かよ。<line-break>やれやれ、<line-break>これを見られちゃしょうがねえな。\u3000<line-break>いかにもこいつは、<line-break>長年ハンマーを振るい続けた、<line-break>鍛冶屋の手指だ。<end>"
+english = "Hah, these fingers gave me away? Well, now that you've seen them, there's no use denying it. These are a blacksmith's fingers, all right, shaped by years of swinging a hammer.<end>"
+
+["1370283"]
+japanese = "だが、俺は今、<line-break>ごらんの通りの飲んだくれだ。<line-break>何か用かい？<end>"
+english = "But now, as you can see, I'm just a drunk. What do you want?<end>"
+
+["1370284"]
+japanese = "仕事を頼みたい<end>"
+english = "I have a job for you<end>"
+
+["1370285"]
+japanese = "鍛冶屋について教えてほしい<end>"
+english = "Tell me about blacksmithing<end>"
+
+["1370286"]
+japanese = "何も用はない<end>"
+english = "No, nothing<end>"
+
+["1370287"]
+japanese = "あんたと話をしてて、<line-break>久々にハンマーが握りたくなってきた。<line-break>俺も…やり直せるのかもな…。<line-break>ありがとよ。<end>"
+english = "Talking to you has made me want to pick up a hammer again. Maybe... maybe I can start over. Thanks.<end>"
+
+["1370288"]
+japanese = "せっかくだが、そいつは無理だ…。<line-break>今の俺には自信も道具もねえ。<line-break>だが、そういってくれるのは嬉しいよ。<line-break>お前さん、見たとこそんなに<line-break>鍛冶屋のことを知らないんだろ？<line-break>俺の話を聞いて勉強していくといい。<end>"
+english = "I appreciate the offer, but I can't do it. Not now. I've got neither the confidence nor the tools. Still, I'm glad you asked. From the look of you, you don't know much about smithing, do you? Listen to what I've got to say and learn a thing or two.<end>"
+
+["1370289"]
+japanese = "じゃ、どの話に<line-break>付き合ってくれるんだい？<end>"
+english = "So, what do you want to hear about?<end>"
+
+["1370290"]
+japanese = "ちょうどひとりで飲むのも<line-break>飽きたんで、話し相手が<line-break>欲しかったとこだ。<end>"
+english = "I was just getting tired of drinking alone and could use someone to talk to.<end>"
+
+["1370291"]
+japanese = "それにお前さん、<line-break>見るからに駆け出しだよな。<line-break> <line-break>よし。<line-break>俺の話を聞いて<line-break>鍛冶屋のことを勉強しなよ。<end>"
+english = "Besides, anyone can see you're a beginner. All right. Listen closely, and I'll teach you about smithing.<end>"
+
+["1370292"]
+japanese = "じゃ、どの話に<line-break>付き合ってくれるんだい？<end>"
+english = "So, what do you want to hear about?<end>"
+
+["1370293"]
+japanese = "装備の強度って？<end>"
+english = "What about equipment strength?<end>"
+
+["1370294"]
+japanese = "装備の形状って？<end>"
+english = "What about equipment shape?<end>"
+
+["1370295"]
+japanese = "装備の効果って？<end>"
+english = "What about equipment effects?<end>"
+
+["1370296"]
+japanese = "精霊属性の変更って？<end>"
+english = "What about changing Spirit Attributes?<end>"
+
+["1370297"]
+japanese = "全部知っている<end>"
+english = "I know all of that<end>"
+
+["1370298"]
+japanese = "そのまんまのことだ。<line-break>武器や防具の頑丈さのことだわな。<line-break> <line-break>金属って奴は、俺ら鍛冶屋が<line-break>ぶっ叩けば叩くほど、<line-break>ねばりが出て頑丈になりやがる。<end>"
+english = "Exactly what it sounds like: how sturdy a weapon or piece of armor is. Metal gets tougher and stronger the more we blacksmiths pound on it.<end>"
+
+["1370299"]
+japanese = "強度が高いほうが、<line-break>攻撃力や防御力が増すってのは<line-break>言うまでもねえ。<line-break>で、そこに、錬剛石って特別な鉱石を<line-break>あわせて叩き直す…言うなれば<line-break>ドワーフ流が今の主流だ。<end>"
+english = "It goes without saying that greater strength means greater Attack Power or defense. These days, the usual method is to reforge the piece with a special ore called tempering stone―the Dwarf method, you might say.<end>"
+
+["1370300"]
+japanese = "ただし、鍛えれば鍛えるほど、<line-break>武器の重量が重くなって扱いが<line-break>難しくなることは覚悟しとけよ。<end>"
+english = "But be warned: the more you strengthen a weapon, the heavier it gets and the harder it becomes to handle.<end>"
+
+["1370301"]
+japanese = "ま、買ったままの武器でも<line-break>そこそこ戦えるようには鍛えてある。<line-break>だが、さらに鍛えたかったら、<line-break>錬剛石とギアがなけりゃ、<line-break>話にならねえ。<end>"
+english = "A weapon straight from the shop has already been forged well enough to hold its own. But if you want to strengthen it further, you'll need tempering stone and Gea. Without both, forget it.<end>"
+
+["1370302"]
+japanese = "ズバリ、エモノの形のことだな。<line-break>使ってる武器がいまいち好みじゃねえ<line-break>…そんな時は、鍛冶屋の出番だ。<line-break>代金さえもらえりゃ、ある程度、<line-break>お前さんの好みに従って形を<line-break>仕立て直すことが可能だ。<end>"
+english = "Put simply, it means the shape of your weapon. If the weapon you're using isn't quite to your taste, that's where a blacksmith comes in. Pay the price, and we can reshape it to suit your preferences, within reason.<end>"
+
+["1370303"]
+japanese = "同じ剣にしても、もっと細身がいいとか<line-break>まっすぐなのがいいとか、あるだろ？<line-break>そういうことだよ。<line-break>もちろん、<line-break>昔の形に戻すことだってできるぜ。<line-break>便利だろ？<end>"
+english = "Even with swords, you might want a slimmer blade or a straighter one, right? That's what I mean. And of course, we can restore its old shape too. Handy, isn't it?<end>"
+
+["1370304"]
+japanese = "おう、効果のことな。<line-break>お前さん、<line-break>ハチに刺されたことがあるかい？<end>"
+english = "Ah, effects. Ever been stung by a bee?<end>"
+
+["1370305"]
+japanese = "かゆくなったり痛くなったり…<line-break>そうなるのは、<line-break>ハチの針に毒があるからだな。<line-break>武器に効果をつけるってのは、<line-break>例えるなら、お前さんの剣が<line-break>ハチの針みてえになるってことよ。<end>"
+english = "It itches or hurts because there's venom in the bee's stinger. Giving a weapon an effect is like turning your sword into a bee's stinger.<end>"
+
+["1370306"]
+japanese = "刺したと同時に敵を眠らせちまう槍や、<line-break>斬ることで相手を麻痺させる剣、<line-break>なんてのも作れる。<line-break>防具はその逆だ。<line-break>石化や呪いからお前さんを<line-break>守ってくれる防具も作れる。<end>"
+english = "We can make a spear that puts an enemy to sleep the moment it strikes, or a sword that inflicts Paralysis when it cuts. Armor works the other way around: we can make armor that protects you from petrification or curses.<end>"
+
+["1370307"]
+japanese = "こいつは難しい仕事だから、<line-break>それなりのギアをいただくが、<line-break>重宝するぜ。<line-break>強度や形状を変えてもまだ…<line-break>って時には、<line-break>ぜひ試してみてくれよ。<end>"
+english = "It's difficult work, so it'll cost you a fair bit of Gea, but it comes in mighty useful. If changing strength and shape still isn't enough, give it a try.<end>"
+
+["1370308"]
+japanese = "俺たちにとっても、<line-break>いい稼ぎになるしな。<end>"
+english = "Makes us a tidy profit, too.<end>"
+
+["1370309"]
+japanese = "ははは！<end>"
+english = "Ha ha ha!<end>"
+
+["1370310"]
+japanese = "精霊属性のことか。<line-break>こいつだけは本来、<line-break>鍛冶屋の領分じゃねえ。<line-break>神殿に言って頼むことだ。<line-break>ま、俺でも、<line-break>説明くらいはできるが…。<end>"
+english = "Spirit Attributes, eh? Strictly speaking, those aren't a blacksmith's business. You'll have to ask at a temple. Still, I can at least explain them.<end>"
+
+["1370311"]
+japanese = "精霊属性ってのはだな、<line-break>火や水といった精霊の力を<line-break>武器や防具に宿すことさ。<line-break>精霊の属性については<line-break>もう知ってるのかい？<end>"
+english = "A Spirit Attribute imbues a weapon or piece of armor with the power of a spirit, such as Fire or Water. Do you already know how Spirit Attributes work?<end>"
+
+["1370312"]
+japanese = "知らない<end>"
+english = "No, I don't<end>"
+
+["1370313"]
+japanese = "知っている<end>"
+english = "Yes, I do<end>"
+
+["1370314"]
+japanese = "火、水、土、風…<line-break>この四種類が精霊の属性だ。<line-break> <line-break>聖母神がお作りになったこの四属性が<line-break>互いに干渉しあい、循環することで<line-break>世界は成り立ってるのさ。<end>"
+english = "The four Spirit Attributes are Fire, Water, Earth, and Wind. The world exists because these four attributes, created by the Mother Goddess, interact with one another in an endless cycle.<end>"
+
+["1370315"]
+japanese = "火は水に強く、水は土に強く、<line-break>土は風に、風は火に強い。<line-break> <line-break>わかるだろ、ぐるぐる回ってんだ。<line-break>どれが圧倒的に優位ということはなく、<line-break>うまくバランスをとってるんだな。<end>"
+english = "Fire is strong against Water, Water against Earth, Earth against Wind, and Wind against Fire. See? It goes round and round. None has an overwhelming advantage; they keep each other in balance.<end>"
+
+["1370316"]
+japanese = "まあ、魔法なんかもすべて<line-break>火、水、土、風の四属性を<line-break>元にしているからな。<line-break>お前さんにそういう知識があるなら<line-break>まず問題はねえだろ。<end>"
+english = "All magic is based on those same four elements―Fire, Water, Earth, and Wind. If you know how those work, you shouldn't have much trouble.<end>"
+
+["1370317"]
+japanese = "装備の精霊属性を変更するってことは、<line-break>この四属性の性質をそのまま装備に<line-break>盛り込むってことだ。<line-break>例えば、お前さんが火属性の剣を持ち、<line-break>火属性の鎧を身につけたとする。<end>"
+english = "Changing equipment's Spirit Attribute means giving it the properties of one of those four elements. Say you carry a Fire-element sword and wear Fire-element armor.<end>"
+
+["1370318"]
+japanese = "お前さんは水属性の相手に対して<line-break>圧倒的に有利に戦うことができ…<line-break> <line-break>逆に、火属性のダメージを<line-break>大幅に軽減することも可能だ。<line-break>なっ、こりゃすげえことだろ？<end>"
+english = "You'd have an overwhelming advantage against a Water-element foe, while also taking far less Fire-element damage. Impressive, eh?<end>"
+
+["1370319"]
+japanese = "さらにこの精霊属性ってのには、<line-break>装備品ごと、最初から決まった強弱…<line-break>いわゆるレベルってもんがある。<line-break>同じ火属性を宿したとしても、<line-break>片手剣なら４、槍なら２、<line-break>ナックルだと６、って具合になる。<end>"
+english = "What's more, every piece of equipment has a fixed strength for its Spirit Attribute―a level, in other words. Even with the same Fire element, it might be 4 for a one-handed sword, 2 for a spear, and 6 for knuckles.<end>"
+
+["1370320"]
+japanese = "だが、単に属性のレベルの数値が<line-break>高けりゃいいのかっていうと、<line-break>そんな底の浅い話でもない。<line-break>忘れないでくれよ。<line-break>精霊ＬＶが高いということは、<line-break>それだけ純粋に近いという証だ。<end>"
+english = "But don't think a higher attribute level is always better. It's not that simple. Remember this: a high Spirit ＬＶ means the element is that much closer to purity.<end>"
+
+["1370321"]
+japanese = "火属性の剣では、同じ火属性の敵を<line-break>傷つけることは難しく、火属性の鎧は、<line-break>風属性の攻撃を、倍ににも受けちまう。<line-break>その効果が、さらに、<line-break>属性のレベルによって変動する。<line-break>…ま、臨機応変に、ってことだな。<end>"
+english = "A Fire-element sword has trouble harming a Fire-element enemy, while Fire-element armor makes you take twice as much damage from Wind-element attacks. The attribute level changes the extent of those effects too. So adapt to the situation.<end>"
+
+["1370322"]
+japanese = "どうでえ、酔っ払ってるとは思えねえ<line-break>さわやかな弁舌だろ？<line-break>鍛冶のことなら任せとけってんだ。<end>"
+english = "Well? Pretty lucid for a drunk, wasn't I? When it comes to smithing, you can count on me.<end>"
+
+["1370323"]
+japanese = "本当に大丈夫だな？<end>"
+english = "You're sure you'll be all right?<end>"
+
+["1370324"]
+japanese = "ちょっと待って<end>"
+english = "Wait a minute<end>"
+
+["1370325"]
+japanese = "大丈夫<end>"
+english = "I'm ready<end>"
+
+["1370326"]
+japanese = "よしきた。<line-break>じゃ、何を話そうか？<end>"
+english = "All right, then. What shall we talk about?<end>"
+
+["1370327"]
+japanese = "ほっほう、そいつはたいしたもんだ。<line-break>改めて俺に仕事を頼むときも、<line-break>迷わずに済むな。<end>"
+english = "Well, well. That's impressive. Next time you come to hire me, you won't have any trouble deciding what to ask for.<end>"
+
+["1370328"]
+japanese = "あんたと話をしてて、<line-break>久々にハンマーが握りたくなってきた。<line-break>俺も…やり直せるのかもな…。<end>"
+english = "Talking to you has made me want to pick up a hammer again. Maybe... maybe I can start over.<end>"
+
+["1370329"]
+japanese = "けっ、酔っ払いを<line-break>からかいたかっただけかよ。<line-break> <line-break>ひとりにしといてくれってんだ。<line-break>あばよ。<end>"
+english = "Bah. So you only wanted to make fun of a drunk. Leave me alone. See ya.<end>"
+
+["1370330"]
+japanese = "<value:$28>様、<line-break>お帰りなさいませ。\u3000\u3000\u3000\u3000<line-break>おケガは？<end>"
+english = "Welcome home, <value:$28>. Are you hurt?<end>"
+
+["1370331"]
+japanese = "ご無事で何よりです。<line-break>お父上のダディアス大神官が<line-break>神殿内でお待ちです。<end>"
+english = "I'm relieved to see you safe. Your father, High Priest Dadias, is waiting for you inside the temple.<end>"
+
+["1370332"]
+japanese = "<select><value:$20>%3ロイ様ですか？<line-break>もう、広場か森に行かれたのでは？<end><value:$28>様もロイ様も<line-break>このミイスの村の大神官ダディアス様も、<line-break>神器の守護者と呼ばれるご一族。<line-break>闇の神器という危険な宝物を<line-break>破壊神の騎士と呼ばれる魔人どもから<line-break>守るのがお役目なのです。<end>今の地震といい、<line-break>最近うろつきだした魔物どもといい、<line-break>魔人が神器をねらっているのでしょうか？\u3000<line-break>しかし心配はご無用ですぞ。<line-break>きっと天空神ノトゥーンの加護があります。<line-break>このじいもついておりますしな。<end>"
+english = "<select><value:$20>%3Master Roy? Hasn't he already gone to the square or the forest?<end>You, <value:$28>, Master Roy, and Lord Dadias, High Priest of Miis Village, belong to the family known as the Guardians of the Divine Artifact. Your duty is to protect the dangerous treasure called the Dark Divine Artifact from the demons known as the Knights of the God of Destruction.<end>With that earthquake just now, and the monsters that have begun prowling about of late, could the demons be after the Divine Artifact? But you need not worry. The Sky God Notun will surely protect us―and this old soldier is with you as well.<end>"
+
+["1370333"]
+japanese = "<select><value:$20>%3神器とはどのようなものかは、<line-break>その時期が来れば、<line-break>お父上が教えてくださいますよ。\u3000\u3000<line-break>こればかりは神器を守る神官家にのみ<line-break>伝わる秘伝ですからな。<line-break>じいも存じませんのです。<end><value:$28>様もロイ様も<line-break>大神官ダディアス様も、<line-break>このミイスの村の神官家の方々はみな<line-break>闇の神器という危険な宝物を、<line-break>破壊神の騎士と呼ばれる魔人どもから<line-break>守る宿命を負っておられるのです。<end>今の地震といい、<line-break>最近うろつきだした魔物どもといい…、<line-break>魔人が神器をねらっているのでしょうか？\u3000<line-break>しかし心配はご無用ですぞ。<line-break>きっと天空神ノトゥーンの加護があります。<line-break>このじいもついておりますしな。<end>"
+english = "<select><value:$20>%3When the time comes, your father will tell you what the Divine Artifact is. That knowledge is a secret handed down only within the priestly family charged with guarding it. Even I do not know.<end>You, <value:$28>, Master Roy, High Priest Dadias, and all the members of Miis Village's priestly family are fated to protect the dangerous treasure called the Dark Divine Artifact from the demons known as the Knights of the God of Destruction.<end>With that earthquake just now, and the monsters that have begun prowling about of late... could the demons be after the Divine Artifact? But you need not worry. The Sky God Notun will surely protect us―and this old soldier is with you as well.<end>"
+
+["1370334"]
+japanese = "父なる天空神ノトゥーンと<line-break>愛の神ライラネートのご加護あらんことを。<line-break><value:$28>様、よくぞご無事で。<line-break>さ、早く神殿へ。<line-break>お父上のダディアス様が<line-break>心配なさっておられますよ。<end>"
+english = "May Father Notun, the Sky God, and Lailanate, God of Love, watch over you. <value:$28>, I'm so glad you're safe. Quickly, to the temple. Your father, Lord Dadias, is worried about you.<end>"
+
+["1370335"]
+japanese = "<select><value:$20>%3<value:$28>様に<line-break>愛の神ライラネートのご加護を…。<line-break>\u3000<line-break>そして、<value:$28>様の敵に<line-break>天空神ノトゥーンの<line-break>裁きのいかづちを…。<end>このミイスの村は<line-break>闇の神器を闇のしもべから<line-break>守るための隠れ里…。<line-break>闇の神器は破壊神の復活に使われるもの。<line-break>だから、破壊神のしもべがねらうのです。<end>私もこの神殿の神器が<line-break>どのようなものかは存じません。<line-break>\u3000<line-break>隠れて伝わる伝承では<line-break>記憶を失うかわりに<line-break>すさまじい力を手に入れられるとか…。<end>"
+english = "<select><value:$20>%3May Lailanate, God of Love, watch over you, <value:$28>... and may Notun, God of the Sky, strike <value:$28>'s enemies with the thunderbolt of judgment.<end>Miis Village is a hidden settlement meant to protect the Dark Divine Artifact from the servants of darkness. The artifact can be used to revive the God of Destruction. That is why the god's servants seek it.<end>Even I do not know what form the Divine Artifact in this temple takes. According to a secret legend, it grants tremendous power in exchange for one's memories...<end>"
+
+["1370336"]
+japanese = "…アンティノ商会が極秘開発中の<line-break>戦闘用モンスター…デスギガース。<line-break>…やはり、そういうことか。<end>"
+english = "Death Gigas... the combat monster being developed in utmost secrecy by the Antino Trading Company. So that is what happened.<end>"
+
+["1370337"]
+japanese = "…心配はいらん。<line-break>こいつはすでに機能停止…<line-break>つまり、死んでいる。<end>"
+english = "Don't worry. It has already ceased functioning. In other words, it's dead.<end>"
+
+["1370338"]
+japanese = "ロイほどの手練れでも倒すのは難しい。<line-break>だが、俺がただひとり認めた<line-break>あの男以上に腕の立つ男は存在しない。<line-break>ロイがこれを倒したのだな。<end>"
+english = "Even someone as skilled as Roy would have struggled to defeat it. But no man is more skilled than that man, the only one I have ever acknowledged. Roy must have defeated it.<end>"
+
+["1370339"]
+japanese = "月光に反応はない。<line-break>ロイはここにはいないようだな。<end>"
+english = "Moonlight shows no response. It seems Roy isn't here.<end>"
+
+["1370340"]
+japanese = "これは妖刀・月光。<line-break>ロイはこれと対をなす剣を<line-break>持っている。<end>"
+english = "This is the Demon Blade “Moonlight.” Roy carries its twin.<end>"
+
+["1370341"]
+japanese = "だが、デスギガースを倒したあと、<line-break>あの男はなぜ姿を消した…？<end>"
+english = "But why did he disappear after defeating Death Gigas...?<end>"
+
+["1370342"]
+japanese = "セラという男についていく<end>"
+english = "Follow the man named Sera<end>"
+
+["1370343"]
+japanese = "セラという男は信用できない<end>"
+english = "The man named Sera can't be trusted<end>"
+
+["1370344"]
+japanese = "ついてくるなら、<line-break>それもいいだろう。<line-break>面倒は見んがな。<end>"
+english = "If you want to follow me, so be it. But don't expect me to look after you.<end>"
+
+["1370345"]
+japanese = "ロイのあとを<line-break>追いかける気はないのか？<end>"
+english = "Don't you intend to go after Roy?<end>"
+
+["1370346"]
+japanese = "俺に不信があるなら<line-break>いずれ答えてやる。<line-break>ただし、それは今ではない。<line-break>今、俺は急ぐ。<end>"
+english = "If you have doubts about me, I'll answer them in time. But not now. I'm in a hurry.<end>"
+
+["1370347"]
+japanese = "<if><value:$29><equal>%0来い。<line-break>ロイの弟よ。<end>来い<line-break>ロイの妹よ。<end>"
+english = "<if><value:$29><equal>%0Come with me, Roy's brother.<end>Come with me, Roy's sister.<end>"
+
+["1370348"]
+japanese = "アーギルシャイアは<line-break>俺の大事なものを奪った…。\u3000\u3000<line-break>\u3000<line-break>俺は強くなる、<line-break>…どんな手段を使ってもな。<line-break>そして、俺のすべてを取り戻す。<end>"
+english = "Argyleshire took something precious from me. I will become stronger, whatever it takes. And I will take back everything that is mine.<end>"
+
+["1370349"]
+japanese = "ここがディンガル帝国の首都<line-break>エンシャントだ。<line-break>\u3000<line-break>町の中でまで群れては歩かん。<line-break>町を出るまでは別行動が冒険者同士の<line-break>暗黙のルールだ。憶えておけ。<end>"
+english = "This is Ancient, capital of the Dingal Empire. Adventurers don't travel in packs inside the city. Until we leave town, we go our separate ways. It's an unwritten rule. Remember that.<end>"
+
+["1370350"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370351"]
+japanese = "（村の人たちを助けに行かなきゃ…。）<line-break>\u3000<line-break>\u3000<line-break>（…そう。<line-break>\u3000兄さんと約束したんだから…。）<end>"
+english = "(I have to go help the villagers.) (That's right. I promised my brother.)<end>"
+
+["1370352"]
+japanese = "遅くなってすまない。<line-break>神殿で取ってくるものが<line-break>あったのでな。<end>"
+english = "Sorry I'm late. There was something I had to fetch from the temple.<end>"
+
+["1370353"]
+japanese = "ん？<line-break>父上が、私に…？<line-break>護符か。ありがたい。<end>"
+english = "Hm? Father sent this for me? An amulet... I'm grateful.<end>"
+
+["1370354"]
+japanese = "<value:$28>も、<line-break>ご苦労だったな。\u3000\u3000\u3000\u3000\u3000\u3000<line-break> <line-break><value:$28>のおかげで、<line-break>父上の気遣いの心が<line-break>よく伝わってきたよ。<end>"
+english = "You did well too, <value:$28>. Thanks to you, <value:$28>, Father's concern came through clearly.<end>"
+
+["1370355"]
+japanese = "…どうした？<end>"
+english = "What's wrong?<end>"
+
+["1370356"]
+japanese = "そうか、そんな感覚をおぼえたか。<line-break> <line-break> <line-break>つまり、この護符を私に届けるという<line-break>仕事を成し遂げたことで、お前の中に<line-break>ソウルポイントが蓄積されたのだ。<end>"
+english = "I see. So you felt it. By completing the task of delivering this amulet to me, you've accumulated Soul Points within yourself.<end>"
+
+["1370357"]
+japanese = "助けを求める声に応じ、<line-break>窮する人々に救いの手を差し伸べる。  <line-break> <line-break>そうすることにより<line-break>ソウルポイントが得られ、<line-break>さらに優れたソウルを導き寄せる。<end>"
+english = "Answer the cries of those in need and extend a helping hand to people in distress. By doing so, you earn Soul Points and attract even greater Souls.<end>"
+
+["1370358"]
+japanese = "よし、では行こうか。<end>"
+english = "Good. Shall we go, then?<end>"
+
+["1370359"]
+japanese = "どうした？<line-break>調査の前に<line-break>やり残したことがあるのか？<end>"
+english = "What's wrong? Is there something you still need to do before the investigation?<end>"
+
+["1370360"]
+japanese = "ならば行ってくるといい。<line-break>私はここで待っている。<end>"
+english = "Then go and see to it. I'll wait here.<end>"
+
+["1370361"]
+japanese = "もう大丈夫か？<end>"
+english = "Are you ready now?<end>"
+
+["1370362"]
+japanese = "ではミイスの森を<line-break>調査しに行くぞ。<end>"
+english = "Then let's go investigate Miis Forest.<end>"
+
+["1370363"]
+japanese = "<if><value:$29><equal>%0よう、<value:$28>。<line-break>朝も早いってのに、<line-break>魔物騒ぎで大変だったな。<end><value:$28>。<line-break>無事でよかった…。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>魔物騒ぎで森に行ったってっから<line-break>俺…、寝てらんなくって…。<line-break>でも、無事でホントよかったよ。<end>"
+english = "<if><value:$29><equal>%0Hey, <value:$28>. Quite a morning you've had, dealing with those monsters at the crack of dawn.<end><value:$28>. I'm so glad you're safe... When I heard you'd gone into the forest because of the monsters, I... I couldn't sleep. I'm just really glad you're all right.<end>"
+
+["1370364"]
+japanese = "<select><value:$20>%3魔物の出現に続いて地震かよ。<line-break>いよいよ、お前たち神器を守る一族の<line-break>出番ってわけだ。<line-break>ホント大変な家に生まれちまったな。<line-break>ま、がんばれよ。<line-break>お前なら神器を守り通せるさ。<end>お前たち神官家ってさ、<line-break>このミイスにある神器を<line-break>守ってるんだよな。<line-break>…ところで神器って<line-break>なんなんだ？<line-break>どんなもんなんだ？<end>ロイ様の持ってらっしゃる剣、<line-break>カッコいいよなあ。<line-break>聖剣・日光って言うんだってな。<end>"
+english = "<select><value:$20>%3First monsters, and now an earthquake. Looks like it's finally time for your family of sacred-artifact guardians to step in. You really were born into one demanding family. Well, do your best. I know you can keep the sacred artifact safe.<end>Your priestly family protects the sacred artifact here in Miis, right? So... what is a sacred artifact, anyway? What's it like?<end>That sword Lord Roy carries is so impressive. I hear it's called the Holy Sword Sunlight.<end>"
+
+["1370365"]
+japanese = "<if><value:$29><equal>%0知らない！！<line-break>知らないんだ、俺たちゃ！<line-break>面ってなんなんだよ！？\u3000おい！！<end>みんな…みんな…<line-break>あの女に燃やされて…！！<line-break>ああ…、ど、どうなってるんだよ！？<end>"
+english = "<if><value:$29><equal>%0We don't know! None of us know! What mask are you talking about?! Hey!<end>Everyone... everyone was burned by that woman...! Ah... w-what's happening?!<end>"
+
+["1370366"]
+japanese = "お…おっきなじしんだったね！<line-break>わ…わたし、びっくりしちゃった。<end>"
+english = "Th-that was a really big earthquake! I-it scared me.<end>"
+
+["1370367"]
+japanese = "<select><value:$20>%2こわいよぉ！<line-break>こわいよぉ！<end><value:$28>さまぁ！<line-break>たすけて！！<line-break>みんな…みんな…もえちゃうよお！<end>"
+english = "<select><value:$20>%2I'm scared! I'm scared!<end><value:$28>! Help! Everyone... everyone's going to burn!<end>"
+
+["1370368"]
+japanese = "<if><value:$29><equal>%0<value:$28>。<line-break>無事でよかった…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>魔物騒ぎがあって、<line-break>キミが退治に行ったっていうから、<line-break>心配で朝も早いのにここに来たんだよ。<end>魔物がこんな村近くの森にまで…。<line-break>心配でゆっくり寝てられないわ。<end>"
+english = "<if><value:$29><equal>%0<value:$28>. I'm so glad you're safe... When I heard about the monsters and that you'd gone to fight them, I was so worried I came here at the crack of dawn.<end>Monsters, even in the forest this close to the village... I'm too worried to sleep soundly.<end>"
+
+["1370369"]
+japanese = "<if><value:$29><equal>%0<value:$28>。<line-break>怪物のうろついてるミイスの森に行くの？<line-break>お姉さん、心配だな。<line-break>ロイ様もついているし、<line-break>キミも神器の守護者のご一族だもんね。<line-break>大丈夫なのはわかってるけどね。<end>魔物に続いて地震…。<line-break>いったいどうなってるのかしら。<end>"
+english = "<if><value:$29><equal>%0<value:$28>. You're going into Miis Forest with all those monsters roaming around? That worries me. I know Lord Roy will be with you, and you come from a family of sacred-artifact guardians. I know you'll be all right, but still.<end>First monsters, and now an earthquake... What in the world is happening?<end>"
+
+["1370370"]
+japanese = "<if><value:$29><equal>%0…<value:$28>…な…の？<line-break>に…逃げ…て…、は…早…く…\u3000\u3000<line-break>\u3000<line-break>…わ…私…もう…ダメ…だから…<line-break>キ…キミ…だけでも…<end>イ…イヤ…死にたく…ない…<line-break>か、かめ…ん…なんて…<line-break>ホント…知らな…い…<end>"
+english = "<if><value:$29><equal>%0Is... is that you, <value:$28>? R-run... hurry... I... I'm done for... so at least you...<end>N-no... I don't want to die... A m-mask...? I really... don't know anything...<end>"
+
+["1370371"]
+japanese = "<select><value:$20>%3今の地震といい魔物騒ぎといい…、<line-break>天空神ノトゥーンさまが<line-break>お怒りなのかのう…。<line-break>ロセンでは悪い王が<line-break>民をいじめておるからのう。<end>今の地震といい魔物騒ぎといい…、<line-break>天空神ノトゥーンさまが<line-break>お怒りなのかのう…。\u3000<line-break>ディンガルでは皇帝が<line-break>世界を救った勇者ネメア様を<line-break>いじめておるというからのう…。<end>今の地震といい魔物騒ぎといい…、<line-break><value:$28>様、<line-break>世界は滅ぶのではないですかのう。\u3000\u3000\u3000\u3000<line-break>リベルダムでは魔物を改造して<line-break>戦争のための道具にしておるそうですじゃ。<line-break>これでは神様もお怒りでしょうのう。<end>"
+english = "<select><value:$20>%3With that earthquake and all this trouble with monsters... perhaps the Sky God Notun is angry. A wicked king in Rocen is tormenting the people, after all.<end>With that earthquake and all this trouble with monsters... perhaps the Sky God Notun is angry. Word is, the emperor in Dingal is persecuting Lord Nemea, the Hero who saved the world...<end>After that earthquake and all this trouble with monsters... do you think the world is coming to an end, <value:$28>? I hear monsters are being altered in Liberdam and turned into weapons of war. No wonder the gods are angry.<end>"
+
+["1370372"]
+japanese = "<select><value:$20>%3ロイ様は修行の旅から戻られて<line-break>いっそうたくましくなられましたな。<line-break>\u3000<line-break>少々魔物がうろついたところで、<line-break>ロイ様と<value:$28>様が<line-break>おられれば安心ですな。<end><value:$28>様もロイ様のように、<line-break>神器の守護者としての実力をつけるため<line-break>いずれは旅に出られるのでしょうなあ。<end>ロイ様の持っておられる短剣は<line-break>日光という聖剣らしいですな。<line-break>修行の旅の途中見つけられたとか。<end>"
+english = "<select><value:$20>%3Lord Roy has grown even stronger since returning from his training journey. A few monsters wandering about are nothing to fear with Lord Roy and <value:$28> here.<end>I suppose that one day you too will set out on a journey, <value:$28>, to hone your skills as a sacred-artifact guardian, just as Lord Roy did.<end>The dagger Lord Roy carries is apparently a holy sword called Sunlight. It seems he found it during his training journey.<end>"
+
+["1370373"]
+japanese = "<select><value:$20>%2ヘンな女が空から降りてきて…<line-break>村が…村が…炎に包まれて…。<end>火だ…火だ…火だアア！<line-break>だ、誰か、助けてくれえ！<end>"
+english = "<select><value:$20>%2A strange woman came down from the sky... and the village... the whole village went up in flames...<end>Fire... fire... FIIIRE! S-somebody, help me!<end>"
+
+["1370374"]
+japanese = "自身で自身を育てる…。<line-break>そのことを忘れないようにな。<end>"
+english = "You must grow through your own efforts. Don't forget that.<end>"
+
+["1370375"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370376"]
+japanese = "あとはギルドのおやじが<line-break>受け付けてくれる。<line-break>早く登録を済ませろ。<end>"
+english = "The old fellow at the Guild will handle the rest. Get yourself registered, and be quick about it.<end>"
+
+["1370377"]
+japanese = "冒険者登録かい？<line-break>あんたみたいに若い人は大歓迎だ。<line-break>\u3000<line-break>ちょっと調べさせてもらうよ。<line-break>信用できる人物かどうか<line-break>確かめなくちゃならないんでな。<end>"
+english = "Here to register as an adventurer? Young people like you are always welcome. Let me run a quick check on you first. I need to make sure you're someone we can trust.<end>"
+
+["1370378"]
+japanese = "幻術計振れておらず<line-break>犯罪登録当てはまらず。<line-break>\u3000<line-break>おめでとう。<line-break>あんたも冒険者として<line-break>登録されたよ。<end>"
+english = "The illusion gauge didn't react, and there's no match in the criminal registry. Congratulations. You're now registered as an adventurer.<end>"
+
+["1370379"]
+japanese = "これからは、バリバリ仕事して<line-break>名をあげていってくれよ。<line-break>がんばりな！<end>"
+english = "Now get out there, take on plenty of work, and make a name for yourself. Good luck!<end>"
+
+["1370380"]
+japanese = "仕事をこなしながら、<line-break>強くなることだ。<line-break>弱いやつは邪魔なだけだからな。<line-break>仕事の選択は、お前に任せる。<line-break>では、町を出るときに合流しよう。<end>"
+english = "Take on jobs and grow stronger. Weaklings only get in the way. What work you choose is up to you. We'll meet up when you leave town.<end>"
+
+["1370381"]
+japanese = "来たか。<line-break>ギルドのおやじが受け付けてくれる。<line-break>早く登録を済ませろ。<end>"
+english = "There you are. The old fellow at the Guild will handle your registration. Get it done, and be quick about it.<end>"
+
+["1370382"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370383"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370384"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370385"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370386"]
+japanese = "おお、<value:$28>。<line-break>戻ったか。<line-break>ご苦労だった。<end>"
+english = "Ah, <value:$28>. You're back. Well done.<end>"
+
+["1370387"]
+japanese = "な、何事だ？<end>"
+english = "W-What was that?<end>"
+
+["1370388"]
+japanese = "…父上、<line-break>今のが竜王の覚醒…<line-break>その第一声でしょうか？<end>"
+english = "Father... Was what we just heard the first cry of the Dragon King's Awakening?<end>"
+
+["1370389"]
+japanese = "うむ…。<line-break>この世が乱れるとき<line-break>竜王が覚醒すると言われておる。<line-break>つまり、<line-break>乱世の原因を除くべく<line-break>目覚めるというのだが…。<end>"
+english = "Hmm... It is said that the Dragon King awakens when the world falls into turmoil. In other words, it awakens to eliminate the cause of the upheaval, but...<end>"
+
+["1370390"]
+japanese = "この地は神器を守るための結界があり、<line-break>魔物は近寄れぬはず…。<line-break>それが先ほども森で遭遇いたしました。<line-break>このことも関係あるのでしょうか。<line-break>破壊神ウルグの復活の時だとしたら…。<end>"
+english = "A barrier protects the sacred artifact here. Monsters should not be able to approach... Yet we encountered one in the forest earlier. Could that be connected as well? If the time has come for Urg, God of Destruction, to return...<end>"
+
+["1370391"]
+japanese = "もしそうならば、ゆゆしき事態だ。<line-break>ロイ、あの森を調査するのだ。<end>"
+english = "If so, this is dire indeed. Roy, investigate that forest.<end>"
+
+["1370392"]
+japanese = "わかりました、父上。<line-break><value:$28>も、<line-break>連れていってよろしいでしょうか。<end>"
+english = "Understood, Father. May I take <value:$28> with me?<end>"
+
+["1370393"]
+japanese = "ならぬ。<line-break><value:$28>は未熟だ。<line-break>危険すぎる。<end>"
+english = "No. <value:$28> is still inexperienced. It is too dangerous.<end>"
+
+["1370394"]
+japanese = "父上。もう、<value:$28>も<line-break>修行に出してもよい年頃。<line-break>私も一緒に参るのです。ご安心を。<end>"
+english = "Father, <value:$28> is old enough to set out for training. I'll be going too, so you needn't worry.<end>"
+
+["1370395"]
+japanese = "…ロイがそこまで言うならばよかろう。<line-break><value:$28>も行くがよい。<end>"
+english = "If you feel that strongly, Roy, very well. <value:$28>, you may go too.<end>"
+
+["1370396"]
+japanese = "お前も、兄、ロイのように、<line-break>神器を守れるだけの力が必要だ。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>いずれお前も修行に出ることになろう。<line-break>これはその予行と思うがよい。<line-break>ロイとともに調査に行くのだ。<end>"
+english = "Like your brother Roy, you must become strong enough to protect the sacred artifact. In time, you too will set out to train. Consider this a trial run. Go investigate with Roy.<end>"
+
+["1370397"]
+japanese = "冒険者は万事に備えることが肝心だ。<line-break>復活の真珠を持っていくとよい。<end>"
+english = "An adventurer must be prepared for anything. Take the Pearl of Revival with you.<end>"
+
+["1370398"]
+japanese = "では、私は村の広場で待っている。<line-break>用意ができたら来てくれ。<end>"
+english = "I'll wait in the village square. Come find me when you're ready.<end>"
+
+["1370399"]
+japanese = "<value:$28>…。<line-break>ソウルについてはロイから<line-break>教わったのか？<end>"
+english = "<value:$28>... Has Roy taught you about Souls?<end>"
+
+["1370400"]
+japanese = "教わっていない<end>"
+english = "I haven't.<end>"
+
+["1370401"]
+japanese = "教わった<end>"
+english = "I have.<end>"
+
+["1370402"]
+japanese = "よろしい、では、<line-break>私がソウルについて語っておこう。<end>"
+english = "Very well. Then allow me to explain Souls.<end>"
+
+["1370403"]
+japanese = "ソウルは、戦いのみならず、<line-break>人生においても、人の人たる証にして<line-break>最も重視すべきもの…。<end>"
+english = "A Soul is the mark of one's humanity, something to be valued above all else in battle and in life...<end>"
+
+["1370404"]
+japanese = "何から聞きたい？<end>"
+english = "What would you like to hear about?<end>"
+
+["1370405"]
+japanese = "ソウルとは<end>"
+english = "What Souls Are<end>"
+
+["1370406"]
+japanese = "ソウルとソウルポイント<end>"
+english = "Souls and Soul Points<end>"
+
+["1370407"]
+japanese = "ソウルと成長<end>"
+english = "Souls and Growth<end>"
+
+["1370408"]
+japanese = "ソウルとスキル<end>"
+english = "Souls and Skills<end>"
+
+["1370409"]
+japanese = "魔法と精霊力<end>"
+english = "Magic and Elemental Power<end>"
+
+["1370410"]
+japanese = "すべて理解している<end>"
+english = "I understand everything.<end>"
+
+["1370411"]
+japanese = "ソウルとは…<line-break>人の人たる証にして、<line-break>最も重視すべきもの。            <line-break>戦いにおいても、人生においても、<line-break>それは変わりない。<line-break>いわば、魂の色や形のようなものだ。<end>"
+english = "A Soul is the mark of one's humanity and the thing one should value above all else. This is as true in battle as it is in life. You might call it the color and shape of one's spirit.<end>"
+
+["1370412"]
+japanese = "ソウルは、経験を積むことで<line-break>変化する性質を持つ。<line-break>ソウルの変化こそが人を形作るのだ。<end>"
+english = "A Soul changes as one gains experience. It is this transformation of the Soul that shapes a person.<end>"
+
+["1370413"]
+japanese = "ソウルを磨き上げるための<line-break>経験の蓄積を、<line-break>ソウルポイントと呼ぶ。<line-break>さまざまな経験をし、ソウルポイントを<line-break>ためることで、さらに優れたソウルを<line-break>宿せるのだ。<end>"
+english = "The experience you accumulate as you refine a Soul is measured in Soul Points. By gaining all kinds of experience and building up Soul Points, you can embody even better Souls.<end>"
+
+["1370414"]
+japanese = "お前のソウルも今はブルーフレアでしか<line-break>ないが、そのうちウォーロックに、<line-break>そしてニルヴァーナになろう。<line-break>人々に施す心を忘れるな。<line-break>さすれば、ソウルポイントは<line-break>着実にたまっていくはずだ。<end>"
+english = "For now, your Soul is only Blue Flare, but in time it may become Warlock, and then Nirvana. Never forget to be generous to others. Do so, and your Soul Points should steadily accumulate.<end>"
+
+["1370415"]
+japanese = "ソウルはおのれの魂の色や形…。<line-break>といえども、新たに得たソウルは<line-break>自らに宿さねば意味がないのだ。<line-break>新たなソウルを得、それに魅力を<line-break>感じたならば、まず宿す。<end>"
+english = "A Soul is the color and shape of one's own spirit... Even so, a newly acquired Soul is meaningless unless you embody it. When you gain a new Soul that appeals to you, embody it first.<end>"
+
+["1370416"]
+japanese = "ソウルを宿せば、ソウルがお前を導き、<line-break>お前を育ててくれるだろう。<line-break><line-break>例えば、ウォーロックを宿していれば、<line-break>魔道士として重要な<line-break>ＩＮＴやＭＩＮを伸ばしてくれる。<end>"
+english = "Once embodied, a Soul will guide you and foster your growth. For example, embodying Warlock will improve ＩＮＴ and ＭＩＮ, both vital to a mage.<end>"
+
+["1370417"]
+japanese = "逆に、戦士系のグロウファイターなら<line-break>これがＳＴＲやＶＩＴとなる。<line-break>そういうことだ。<end>"
+english = "With a warrior Soul such as Grow Fighter, on the other hand, it will improve ＳＴＲ and ＶＩＴ. That is how it works.<end>"
+
+["1370418"]
+japanese = "スキルは、ソウルごとにある<line-break>特技や秘技のようなものだ。<line-break> <line-break>普通、スキルはソウルを宿すことにより<line-break>使えるようになる。<line-break>しかし、宿せるソウルはひとつのみ。<end>"
+english = "Skills are special techniques and secret arts associated with each Soul. Ordinarily, embodying a Soul allows you to use its Skills. However, you may embody only one Soul at a time.<end>"
+
+["1370419"]
+japanese = "うむ、そう言うであろうと思った。<line-break>宿していないソウルのスキルは<line-break>使うことができないのか…？<line-break>…できる。ソウルにソウルポイントが<line-break>あるように、スキルには<line-break>スキルポイントが存在する。<end>"
+english = "Yes, I thought you might ask: can you use the Skills of a Soul you are not embodying? You can. Just as Souls have Soul Points, Skills have Skill Points.<end>"
+
+["1370420"]
+japanese = "そのスキルポイントを消費して、<line-break>スキルだけを<line-break>身に付けられるのだ。<line-break>スキルポイントを使えば、<line-break>戦士が魔法を使うこともできるのだ。<end>"
+english = "By spending those Skill Points, you can learn the Skill itself. This even allows a warrior to use magic.<end>"
+
+["1370421"]
+japanese = "そうだな、魔法のことについても<line-break>語っておいたほうがよいだろう。<end>"
+english = "Yes, I should explain magic as well.<end>"
+
+["1370422"]
+japanese = "魔法には、種類ごとに<line-break>それぞれ固有のレベルがある。<line-break> <line-break>そしてそのレベルは、<line-break>精霊力と密接な関係を持っている。<end>"
+english = "Each type of magic has its own level. That level is closely tied to elemental power.<end>"
+
+["1370423"]
+japanese = "例えば、<value:$28>、<line-break>お前が水属性のスライムを<line-break>倒したとしよう。<line-break>すると、お前は水属性の精霊力を<line-break>得られるのだ。<end>"
+english = "Suppose, for example, that you defeated a Water-element Slime, <value:$28>. You would then gain Water elemental power.<end>"
+
+["1370424"]
+japanese = "精霊力が一定だけたまれば<line-break>精霊力レベルが上昇し、<line-break>それにつれて使える魔法も増える。<end>"
+english = "Once you accumulate enough elemental power, its level will rise, increasing the number of spells available to you.<end>"
+
+["1370425"]
+japanese = "水属性ならば、最初は１レベルの<line-break>アクアしか使えないが、<line-break>３レベルではポイズン、<line-break>４レベルではインビジブルを<line-break>覚えられるのだ。<end>"
+english = "For the Water element, you can initially use only the level-one spell Aqua. At level three you can learn Poison, and at level four, Invisible.<end>"
+
+["1370426"]
+japanese = "伸ばしたい属性の敵と<line-break>集中的に戦うのも、有効だろう。<end>"
+english = "Concentrating on enemies of the element you wish to develop may also prove effective.<end>"
+
+["1370427"]
+japanese = "本当にすべて理解しているのだな？<end>"
+english = "Are you certain you understand all of this?<end>"
+
+["1370428"]
+japanese = "説明してほしい<end>"
+english = "I'd like an explanation.<end>"
+
+["1370429"]
+japanese = "理解した<end>"
+english = "I understand.<end>"
+
+["1370430"]
+japanese = "そうか…。<line-break>お前自身にかかわることだ。<line-break>お前の言葉を信じよう。<line-break>ロイの元へ急ぐがよい…。<end>"
+english = "I see... This concerns you directly, so I'll take you at your word. Now hurry to Roy...<end>"
+
+["1370431"]
+japanese = "よろしい、わからぬことを尋ねるのは<line-break>恥ではないぞ。<line-break>わかるまで聞くといい。<end>"
+english = "Good. There is no shame in asking about what you do not understand. Ask until everything is clear.<end>"
+
+["1370432"]
+japanese = "本当にすべて理解しているのだな？<end>"
+english = "Are you certain you understand all of this?<end>"
+
+["1370433"]
+japanese = "理解した<end>"
+english = "I understand.<end>"
+
+["1370434"]
+japanese = "説明してほしい<end>"
+english = "I'd like an explanation.<end>"
+
+["1370435"]
+japanese = "お前自身にかかわることだ。<line-break>お前の言葉を信じよう。<line-break>ロイの元へ急ぐがよい…。<end>"
+english = "This concerns you personally. I will take you at your word. Make haste to Roy...<end>"
+
+["1370436"]
+japanese = "よろしい、わからぬことを尋ねるのは<line-break>恥ではないぞ。<line-break>わかるまで聞くといい。<end>"
+english = "Good. There is no shame in asking about what you do not understand. Keep asking until you do.<end>"
+
+["1370437"]
+japanese = "…<value:$28>。<end>"
+english = "<value:$28>...<end>"
+
+["1370438"]
+japanese = "これを、ロイに渡してほしい。<line-break>ロイには苦労をかけているからな。<end>"
+english = "Please give this to Roy. I've placed a heavy burden on him.<end>"
+
+["1370439"]
+japanese = "<value:$28>…。<line-break> <line-break> <line-break>お前もロイと同じように、<line-break>神器の守護者となるべく<line-break>修行の旅に出る年になったのだな…。<end>"
+english = "<value:$28>... You've reached the age when you, too, must set out on a journey of training to become a Guardian of the sacred artifact, as Roy did...<end>"
+
+["1370440"]
+japanese = "フフ、私らしくもない。<line-break>こんなことを言うようではいかんな。<line-break>\u3000<end>"
+english = "Heh. This isn't like me. I shouldn't speak this way.<end>"
+
+["1370441"]
+japanese = "…強くなるのだぞ。<end>"
+english = "Grow strong.<end>"
+
+["1370442"]
+japanese = "<select><value:$20>%3どうしたのだ。<line-break>ロイとともに村の外の森を<line-break>調べてくるがよい。<end>心配はいらぬ。<line-break>ロイがついているのだからな。<line-break>フフ…、私も親バカなことだ。<end>私はよい子供たちに恵まれたものだ。<line-break>万一、今ここで私が死んでも<line-break>神器のことは安心して任せられる。<line-break>万一の話だ。<line-break>そのような顔をするでない。<line-break>我が子よ。<end>"
+english = "<select><value:$20>%3What is it? Go with Roy and investigate the forest outside the village.<end>There's no need to worry. Roy will be with you. Heh... What a doting parent I am.<end>I have been blessed with fine children. Even if I were to die here and now, I could entrust the sacred artifact to you without fear. I said if. Don't look at me like that, my child.<end>"
+
+["1370443"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370444"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370445"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370446"]
+japanese = "<value:$28>か。<end>"
+english = "<value:$28>?<end>"
+
+["1370447"]
+japanese = "まあ、いわば冒険者たちの<line-break>事務所みてえなもんだよな。<line-break><line-break>ここで受けた依頼をこなして、<line-break>冒険者は日々のかてを<line-break>得るってわけだ。<end>"
+english = "Well, you could say it's like an office for adventurers. They make their living by taking on jobs here and seeing them through.<end>"
+
+["1370448"]
+japanese = "お、根本的な質問だな。<end>"
+english = "Oh, going straight to the heart of it, are you?<end>"
+
+["1370449"]
+japanese = "張り紙がしてありますね。<end>"
+english = ""
+
+["1370450"]
+japanese = "さて、何について説明しようか？<end>"
+english = ""
+
+["1370451"]
+japanese = "おう、昨日のケガは大丈夫か？<line-break>\u3000<line-break>\u3000<end>"
+english = "Hey. That wound from yesterday giving you any trouble?<end>"
+
+["1370452"]
+japanese = "…にしても、あの怪物、いったい<line-break>どっから入り込んで来やがったのか。<line-break>\u3000<line-break>平民地区が怪物に襲われてても<line-break>騎士団の連中、また出てこなかったな。<line-break>平民地区は俺らで守っていかないとな。<end>"
+english = "Still, where the hell did that monster get in from? The knights didn't show up again, even with the commoners' quarter under attack. Looks like we'll have to defend it ourselves.<end>"
+
+["1370453"]
+japanese = "ところでお前、この街で保管されていた\u3000\u3000<line-break>聖杯が盗まれたって話は知ってっか？<line-break>\u3000<end>"
+english = "By the way, did you hear the Grail kept here in town was stolen?<end>"
+
+["1370454"]
+japanese = "おっと、お前には話してなかったか。<line-break>実はな、昨日のモンスター騒ぎの間に、\u3000\u3000<line-break>何者かに聖杯が盗まれちまったんだ。<line-break>で、調べたところ、ちょうどそのころ<line-break>人の言葉をしゃべるゴブリンの３匹組が<line-break>うろついていたことがわかってな。<end>"
+english = "Oh, didn't I tell you? Someone stole the Grail during all that trouble with the monster yesterday. Turns out a group of three goblins who could speak the human tongue had been prowling around at about the same time.<end>"
+
+["1370455"]
+japanese = "言葉をしゃべるゴブリンなんて<line-break>今まで聞いたことがない。<line-break>な、怪しいと思うだろ？<end>"
+english = "I've never heard of goblins that could talk. Sounds suspicious, doesn't it?<end>"
+
+["1370456"]
+japanese = "モンスター騒ぎも落ち着いたし、<line-break>そろそろ、街の連中も聖杯がないことに<line-break>気づくだろう。となると大騒ぎだ。<end>"
+english = "Now that the monster trouble's died down, it won't be long before the townsfolk notice the Grail is missing. Then all hell will break loose.<end>"
+
+["1370457"]
+japanese = "そこで、ゴブリンどもの<line-break>居場所を探っちゃいるんだが、<line-break>まだ突き止められてねえ。<line-break>それがわかったら、<line-break>お前の力も借りると思うが、<line-break>やってくれるか？<end>"
+english = "So I've been trying to find out where those goblins are holed up, but no luck yet. Once I track them down, I'll probably need your help. Will you do it?<end>"
+
+["1370458"]
+japanese = "よし、じゃ、ゴブリンどもの<line-break>居場所がわかり次第頼む。<line-break>\u3000<line-break>それまで…そうだな、ひとつ、<line-break>頼みたいことがあるんだが、<line-break>聞いてくれねえか？<end>"
+english = "Good. I'll call on you as soon as I find out where those goblins are. Until then... let's see. There's one other thing I'd like you to do. Will you hear me out?<end>"
+
+["1370459"]
+japanese = "ま、まさか師匠、<line-break>あの恐ろしい仕事を…。<end>"
+english = "M-Master, you can't mean... that terrible job...<end>"
+
+["1370460"]
+japanese = "うるせえ！<line-break>お前らが行きたくねえって<line-break>言うのが悪いんじゃねえか。<end>"
+english = "Shut up! It's your own fault for refusing to go!<end>"
+
+["1370461"]
+japanese = "だ、だって…。<end>"
+english = "B-But...<end>"
+
+["1370462"]
+japanese = "いやあ、実は、<line-break>酒場にツケがたまっていてな。<line-break>\u3000<line-break>俺よりたくさんツケがたまってる<line-break>鍛冶屋の親父とワリカンして<line-break>払うって約束になってんだ。<end>"
+english = "Well, the truth is, I've run up quite a tab at the tavern. I promised to split the payment with the old blacksmith, who's run up an even bigger one than mine.<end>"
+
+["1370463"]
+japanese = "俺って太っ腹だろ？<line-break>\u3000<line-break>\u3000<line-break>で、すまねえが、こいつと<line-break>鍛冶屋の親父の分をあわせて、<line-break>酒場のフェルムに払ってきてくれ。<end>"
+english = "Generous of me, eh? Anyway, sorry to ask, but combine this with the old blacksmith's share and use it to pay Ferme at the tavern.<end>"
+
+["1370464"]
+japanese = "駄賃は先に渡しとく。<line-break>お前も、冒険者の卵なら、<line-break>小銭よりこっちのが入用だろ？<end>"
+english = "I'll give you your payment up front. As a budding adventurer, you'll get more use out of this than a few coins, right?<end>"
+
+["1370465"]
+japanese = "<value:$28>、頼んだぜ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "I'm counting on you, <value:$28>.<end>"
+
+["1370466"]
+japanese = "おう、昨日のケガは大丈夫か？<end>"
+english = "Hey. That wound from yesterday giving you any trouble?<end>"
+
+["1370467"]
+japanese = "…にしても、あの怪物、いったい<line-break>どっから入り込んで来やがったのか。\u3000\u3000\u3000<line-break>\u3000<line-break>平民地区が怪物に襲われてても<line-break>騎士団の連中、また出てこなかったな。<line-break>平民地区は俺らで守っていかないとな。<end>"
+english = "Still, where the hell did that monster get in from? The knights didn't show up again, even with the commoners' quarter under attack. Looks like we'll have to defend it ourselves.<end>"
+
+["1370468"]
+japanese = "ところでお前、この街で保管されていた\u3000\u3000<line-break>聖杯が盗まれたって話は知ってっか？<line-break>\u3000<end>"
+english = "By the way, did you hear the Grail kept here in town was stolen?<end>"
+
+["1370469"]
+japanese = "おっと、お前には話してなかったか。<line-break>実はな、昨日のモンスター騒ぎの間に、\u3000\u3000<line-break>何者かに聖杯が盗まれちまったんだ。<line-break>で、調べたところ、ちょうどそのころ<line-break>人の言葉をしゃべるゴブリンの３匹組が<line-break>うろついていたことがわかってな。<end>"
+english = "Oh, didn't I tell you? Someone stole the Grail during all that trouble with the monster yesterday. Turns out a group of three goblins who could speak the human tongue had been prowling around at about the same time.<end>"
+
+["1370470"]
+japanese = "言葉をしゃべるゴブリンなんて\u3000\u3000\u3000\u3000\u3000\u3000<line-break>今まで聞いたことがない。<line-break>な、怪しいと思うだろ？<end>"
+english = "I've never heard of goblins that could talk. Sounds suspicious, doesn't it?<end>"
+
+["1370471"]
+japanese = "モンスター騒ぎも落ち着いたし、<line-break>そろそろ、街の連中も聖杯がないことに<line-break>気づくだろう。となると大騒ぎだ。<line-break>そうなる前に調査をしておきたくてな。<line-break>俺の読みじゃ、ゴブリンはゼグナ鉱山に<line-break>潜んでる。どうだ、行ってくれるか？<end>"
+english = "Now that the monster trouble's died down, it won't be long before the townsfolk notice the Grail is missing. Then all hell will break loose. I want to investigate before that happens. My guess is the goblins are hiding in Zegna Mine. What do you say? Will you go?<end>"
+
+["1370472"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370473"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370474"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370475"]
+japanese = "よし。んじゃ、頼んだ。<line-break>ま、お前ひとりで十分だろうが…、\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>念のため、お前の幼なじみも<line-break>あとから行かせる。<line-break>仲よくやるんだぞ。<end>"
+english = "Good. Then I'm counting on you. You can probably handle it alone, but just in case, I'll send your childhood friend after you. Try to get along.<end>"
+
+["1370476"]
+japanese = "昨日、アイリーンに助けられたこと、<line-break>まーだ、気にしてんのか？<line-break>だったら、ちょうどいいじゃねえか。<line-break>今日はお前がアイリーンを<line-break>助けてやんな。<line-break>それで貸し借りはなしだ。<end>"
+english = "Still bothered that Irene saved you yesterday? Then this works out perfectly. Today, you can save Irene. That'll make you even.<end>"
+
+["1370477"]
+japanese = "…いつも言ってるはずだぞ。<line-break>一番大切なのは仲間だってな。<line-break>\u3000<end>"
+english = "I've told you often enough: nothing matters more than your comrades.<end>"
+
+["1370478"]
+japanese = "ほら、わかったら行ってこい。<line-break>念のため、薬を渡しておこう。<line-break>ケガをしたら、すぐに使うんだ。<end>"
+english = "Now that you understand, get going. Here, take some medicine just in case. If you get hurt, use it right away.<end>"
+
+["1370479"]
+japanese = "…ああ。ついでだ。<line-break>悪いが、途中で酒場に寄って、<line-break>こいつをフェルムに渡してきてくれ。<end>"
+english = "Oh, one more thing. Sorry, but stop by the tavern on your way and give this to Ferme.<end>"
+
+["1370480"]
+japanese = "<value:$28>、頼んだぜ。<end>"
+english = "I'm counting on you, <value:$28>.<end>"
+
+["1370481"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370482"]
+japanese = "おう、<value:$28>か。<line-break><line-break><line-break>最近、あちこちで物騒な話が増えて<line-break>きているみたいなんだ。<end>"
+english = "Oh, <value:$28>. Sounds like there's been more and more trouble all over the place lately.<end>"
+
+["1370483"]
+japanese = "偉い人があてにならないんだから<line-break>俺たちで街を守らないとな。<end>"
+english = "We can't count on the bigwigs, so we'll have to protect the town ourselves.<end>"
+
+["1370484"]
+japanese = "お前たちふたりなら<line-break>任せても問題ないだろう。<line-break>聖杯とゴブリンのこと頼んだぞ。<line-break>それと酒代のほうもな。<line-break>酒場なら街から出るときに前を通るし、<line-break>ついでだろ？\u3000悪いな。<end>"
+english = "I can trust the two of you to handle it. Take care of the Grail and Goblin business, and my bar tab too. You'll pass the tavern on your way out of town anyway, right? Sorry to put you out.<end>"
+
+["1370485"]
+japanese = "ん？\u3000どうしたんだ？<line-break>さっき、お前の幼なじみが来たから、<line-break>聖杯とゴブリンの話はしておいたぞ。<line-break>今ごろ、門の辺りで待ってるだろう。<line-break>早く行ってやんな。<line-break>\u3000<end>"
+english = "Hm? What's wrong? Your childhood friend came by earlier, so I explained the Grail and Goblin business. Should be waiting near the gate by now. Better get going.<end>"
+
+["1370486"]
+japanese = "おう、来たか、<value:$28>。<line-break>例のしゃべるゴブリンどもの<line-break>居場所の見当がついたぞ。<line-break>思ったとおりだ。<line-break>ゼグナ鉱山にいるらしい。<end>"
+english = "There you are, <value:$28>. I've got a lead on where those talking Goblins are hiding. Just as I thought. Seems they're in Zegna Mine.<end>"
+
+["1370487"]
+japanese = "あそこは、とりあえず身を隠すのに<line-break>もってこいの場所だからな。<line-break>行ってくれるな？<end>"
+english = "It's the perfect place to lie low for a while. You'll go, won't you?<end>"
+
+["1370488"]
+japanese = "よし。んじゃ、頼んだ。<line-break>ま、お前ひとりで十分だろうが…、<line-break>\u3000<line-break>念のため、お前の幼なじみも<line-break>あとから行かせる。<line-break>仲よくやるんだぞ。<end>"
+english = "Good. I'm counting on you. You should be more than enough on your own, but just to be safe, I'll send your childhood friend along later. Try to get along.<end>"
+
+["1370489"]
+japanese = "昨日、アイリーンに助けられたこと、<line-break>まーだ気にしてんのか？<line-break>だったら、ちょうどいいじゃねえか。<line-break>今日はお前がアイリーンを<line-break>助けてやんな。<line-break>それで、貸し借りはなしだ。<end>"
+english = "You're still bothered that Irene saved you yesterday? Then this works out perfectly. Today, you can save Irene. That'll make you even.<end>"
+
+["1370490"]
+japanese = "…いつも言ってるはずだぞ。<line-break>一番大切なのは仲間だってな。<line-break>\u3000<end>"
+english = "I've told you often enough: your companions matter more than anything.<end>"
+
+["1370491"]
+japanese = "おっと、待ちな、<value:$28>。<line-break> <line-break> <line-break>…気をつけろよ。<end>"
+english = "Hold on, <value:$28>. ...Be careful.<end>"
+
+["1370492"]
+japanese = "気合入ってんのは認めるがよ、<line-break>今のお前のウデじゃ、<line-break>無茶になりがちだ。<line-break>ま、逆に言や、気合の面では文句ナシ、<line-break>いいソウルを持ってやがるってこった。<end>"
+english = "I'll grant you've got plenty of spirit, but with your skills as they are, you're liable to push yourself too far. Put another way, though, no one can fault your drive. You've got a good Soul in you.<end>"
+
+["1370493"]
+japanese = "頭でっかちになりがちな、<line-break>どっかのフヌケどもとは違ってな。<end>"
+english = "Unlike certain spineless fools who spend too much time in their own heads.<end>"
+
+["1370494"]
+japanese = "もしよけりゃ、<line-break>俺が少し知恵を授けてやろうと<line-break>思うんだが…。いらねえか？<end>"
+english = "If you'd like, I could teach you a thing or two. Not interested?<end>"
+
+["1370495"]
+japanese = "お願いする<end>"
+english = "I'd appreciate that.<end>"
+
+["1370496"]
+japanese = "今はそれどころじゃない<end>"
+english = "I don't have time for that right now.<end>"
+
+["1370497"]
+japanese = "よし来た！<line-break>んじゃ、どっから教えてやろうか？<line-break>オッシ道場じゃ、遠慮はタブーだぜ。<end>"
+english = "That's what I like to hear! So, where should we start? At the Osshi School, holding back is strictly taboo.<end>"
+
+["1370498"]
+japanese = "ソウルとは？<end>"
+english = "What is a Soul?<end>"
+
+["1370499"]
+japanese = "ソウルとソウルポイント<end>"
+english = "Souls and Soul Points<end>"
+
+["1370500"]
+japanese = "ソウルと成長<end>"
+english = "Souls and Growth<end>"
+
+["1370501"]
+japanese = "ソウルとスキル<end>"
+english = "Souls and Skills<end>"
+
+["1370502"]
+japanese = "魔法と精霊力<end>"
+english = "Magic and Elemental Power<end>"
+
+["1370503"]
+japanese = "すべて理解している<end>"
+english = "I understand everything.<end>"
+
+["1370504"]
+japanese = "ソウル…そうだな、<line-break>とらえ方によっていろいろ言えるが、<line-break>魂の色や形のようなもんだな。<line-break>ソウルは冒険で経験を<line-break>積むことによって<line-break>磨きあげることができる。<end>"
+english = "A Soul... Well, there are plenty of ways to look at it, but you might call it the color and shape of your spirit. You can hone your Soul by gaining experience on your adventures.<end>"
+
+["1370505"]
+japanese = "磨き上げるというよりも、形を変える、<line-break>と言ったほうがいいとこもあるけどな。<end>"
+english = "Though sometimes it's more accurate to say you're reshaping it than honing it.<end>"
+
+["1370506"]
+japanese = "ソウルを磨きあげるための経験を、<line-break>冒険者たちは、ソウルポイントと<line-break>呼んでる。覚えておけよ。<line-break>ソウルポイントが一定までたまると、<line-break>さらに優れたソウルを<line-break>宿せるんだ。<end>"
+english = "Adventurers call the experience that hones a Soul “Soul Points.” Remember that. Once you've accumulated enough Soul Points, you can host an even better Soul.<end>"
+
+["1370507"]
+japanese = "例えば、グロウファイターだった者が、<line-break>ソウルポイントをためることで、<line-break>マイティブロウとなることができる。<end>"
+english = "For instance, someone with the Grow Fighter Soul can accumulate Soul Points and become a Mighty Blow.<end>"
+
+["1370508"]
+japanese = "そしてそのソウルポイントは、<line-break>依頼をこなしたりして、<line-break>人に尽くすことで得られるもんさ。<line-break>ひょっとするとお前も、<line-break>今回のお使いで少しばかりは<line-break>身についたんじゃねえか？<end>"
+english = "You earn those Soul Points by completing requests and helping people. You might have picked up a few from this last errand yourself.<end>"
+
+["1370509"]
+japanese = "じゃ、あとでさっそく試してみるといい。<line-break>グロウファイターくらいは<line-break>宿せるかもしれないぜ。<end>"
+english = "Give it a try later. You might already be able to host a Grow Fighter Soul.<end>"
+
+["1370510"]
+japanese = "聞いたことがあるであります！<line-break>\u3000<line-break>\u3000<line-break>ソウルポイントで得た新しいソウルは、<line-break>ただ心の中に留めているだけでは<line-break>意味がねえってことであります！<end>"
+english = "I've heard about this, sir! A new Soul gained through Soul Points is useless if it merely remains within your heart, sir!<end>"
+
+["1370511"]
+japanese = "そう、重要なとこだ。<line-break>ソウルは、<line-break>宿してこそ初めて意味がある。<line-break>そうしないことにゃ、<line-break>剣を買ってサヤから抜かずに<line-break>敵と戦おうとするようなもんだぜ。<end>"
+english = "Right. That's the important part. A Soul only means something once you host it. Otherwise, it's like buying a sword and trying to fight without ever drawing it from the scabbard.<end>"
+
+["1370512"]
+japanese = "きちんとソウルを宿しゃ、<line-break>剣を振ることでウデのいい剣士が<line-break>育っていくように、<line-break>それぞれのソウルが<line-break>お前を成長させてくれる。<end>"
+english = "Host a Soul properly and each one will help you grow, just as wielding a sword develops you into a better swordsman.<end>"
+
+["1370513"]
+japanese = "例えば、グロウファイターのソウルを<line-break>宿しておけば、<line-break><line-break>レベルアップによって、<line-break>戦士として重要な<line-break>ＳＴＲとＶＩＴを伸ばしてくれるし、<end>"
+english = "For example, if you host a Grow Fighter Soul, leveling up will increase ＳＴＲ and ＶＩＴ, which are important for a warrior.<end>"
+
+["1370514"]
+japanese = "ウォーロックを宿せば、<line-break>魔術師に重要なＩＮＴとＭＩＮを<line-break>伸ばしてくれるってわけだ。<end>"
+english = "Host a Warlock, and it'll increase ＩＮＴ and ＭＩＮ, the attributes that matter to a mage.<end>"
+
+["1370515"]
+japanese = "ためになるであります！<end>"
+english = "Most instructive, sir!<end>"
+
+["1370516"]
+japanese = "スキルのことだな。<end>"
+english = "You want to know about Skills.<end>"
+
+["1370517"]
+japanese = "スキルってのはだな、<line-break>そのソウル独自の特技や<line-break>必殺技みてえなもんだと思ってくれ。<line-break>基本的に、スキルはソウルを<line-break>宿すことによって使えるようになる。<end>"
+english = "Think of Skills as special techniques and finishing moves unique to a particular Soul. As a rule, you gain access to Skills by hosting the Soul they belong to.<end>"
+
+["1370518"]
+japanese = "例えば攻撃魔法を使いたいと思ったら、<line-break>まずはウォーロックを宿す他にはねえ。<line-break>ファイアやアクアなんかの魔法は、<line-break>ウォーロックを宿すことによって<line-break>身につくスキル、ロースペルに<line-break>含まれるからだ。<end>"
+english = "Say you want to use attack magic. First, you'll have to host a Warlock. Spells such as Fire and Aqua are part of the Low Spell Skill you learn by hosting one.<end>"
+
+["1370519"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370520"]
+japanese = "オッシ先生の教えは、<line-break>新米の自分にも、<line-break>とてもためになるであります！<end>"
+english = "Master Osshi's teachings are most instructive, even for a novice such as myself, sir!<end>"
+
+["1370521"]
+japanese = "先生、質問があるであります！<end>"
+english = "Master, I have a question, sir!<end>"
+
+["1370522"]
+japanese = "おう、なんだ。<end>"
+english = "All right. What is it?<end>"
+
+["1370523"]
+japanese = "魔道士系のウォーロックを宿していては<line-break>剣での攻撃力は<line-break>あまり伸びないはずであります。<line-break>しかし、<line-break>剣では倒すのが難しい敵もおります。<end>"
+english = "If one hosts a mage-type Warlock, one's Attack Power with a sword should hardly increase, sir. Yet some enemies are difficult to defeat with a sword.<end>"
+
+["1370524"]
+japanese = "戦士として成長しながら<line-break>魔法も使えるようになるには、<line-break>どうすればいいんでありますか？<end>"
+english = "How can one grow as a warrior while also learning to use magic, sir?<end>"
+
+["1370525"]
+japanese = "いい質問だな。<end>"
+english = "Good question.<end>"
+
+["1370526"]
+japanese = "腕きき冒険者なら、たいてい<line-break>ウォーロックを宿していなくても、<line-break>ロースペルくらいは使える。<line-break>こういう芸当ができるのは、<line-break>ソウルを宿さなくても、<line-break>スキルだけを獲得できるからだ。<end>"
+english = "Most seasoned adventurers can use something like Low Spell without hosting a Warlock. They can pull that off because it's possible to acquire the Skill itself without hosting the Soul.<end>"
+
+["1370527"]
+japanese = "ソウルにソウルポイントがあるように、<line-break>スキルにはスキルポイントがある。<line-break>ま、言うなれば、実戦経験だな。<end>"
+english = "Just as Souls have Soul Points, Skills have Skill Points. You could call them practical combat experience.<end>"
+
+["1370528"]
+japanese = "スキルポイントを使って<line-break>スキルを獲得したら、<line-break>そいつはずっとお前のもんだ。<line-break>ギアを払って飯を食うのと一緒だな。<line-break>別のソウルに宿し替えても<line-break>そのスキルは続けて使えるんだ。<end>"
+english = "Once you spend Skill Points to acquire a Skill, it's yours for good. It's like paying Gea for a meal. Even if you switch to another Soul, you can keep using that Skill.<end>"
+
+["1370529"]
+japanese = "スキルポイントは戦闘に勝つとたまる。<line-break>強くなりゃ、何十ものスキルを<line-break>使いこなすことになるだろうよ。<end>"
+english = "You accumulate Skill Points by winning battles. Once you're strong enough, you'll be making use of dozens of Skills.<end>"
+
+["1370530"]
+japanese = "オッシ先生も得意としていた<line-break>タワーブレイブでもって、俺も、<line-break>隊の父親的存在になるであります！<end>"
+english = "With Tower Brave, Master Osshi's own specialty, I too shall become a father figure to the unit, sir!<end>"
+
+["1370531"]
+japanese = "いつも言ってるが、まだお前は、<line-break>何もスキルのない<line-break>ブルーフレアのままだがな。<end>"
+english = "As I keep telling you, you're still a Blue Flare without a single Skill.<end>"
+
+["1370532"]
+japanese = "ま、まいったであります…。<end>"
+english = "Y-you have me there, sir...<end>"
+
+["1370533"]
+japanese = "俺もロースペルくらいは使えるが、<line-break>魔法は奥が深いぜ。<line-break><line-break>エンシャントにゃ、<line-break>魔道アカデミーがあるくらいだ。<end>"
+english = "I can use Low Spell myself, but there's a lot more to magic. Ancient even has an entire Magic Academy devoted to it.<end>"
+
+["1370534"]
+japanese = "同じロースペルでも<line-break>覚えやすいのとそうじゃねえのがある。<line-break>ま、レベルがあるってことだな。<line-break>順序を追って話すとだな…<line-break>世の中には精霊力ってのがあって、<line-break>火、水、土、風の４属性がある。<end>"
+english = "Even among Low Spells, some are easier to learn than others. In other words, they have levels. To start at the beginning, there's a force in the world called elemental power, divided into four elements: fire, water, earth, and wind.<end>"
+
+["1370535"]
+japanese = "各精霊力は、<line-break>倒した敵の属性によって<line-break>たまっていく。<line-break>例えば、<line-break>風属性のタイガーワスプを倒せば、<line-break>風属性の精霊力ポイントがたまる。<end>"
+english = "Your elemental power builds according to the element of the enemies you defeat. For example, defeating a Wind-element Tiger Wasp earns you Wind elemental power points.<end>"
+
+["1370536"]
+japanese = "精霊力ポイントをためていくと、<line-break>精霊力レベルが上がる。<line-break>すると、使える魔法が増えていくんだ。<end>"
+english = "As you accumulate elemental power points, your elemental power level rises. That gives you access to more spells.<end>"
+
+["1370537"]
+japanese = "風属性の魔法で話をするぜ？<line-break>最初はゲイルしか使えない。<line-break>だが、精霊力レベルをあげるとだな…<line-break>風の精霊力レベル３でサイレント、<line-break>風の精霊力レベル４ではエスケープを<line-break>使えるようになる。<end>"
+english = "Let's use Wind magic as an example. At first, you can only use Gale. Raise your elemental power level, though, and you'll unlock Silent at Wind elemental power level 3, then Escape at level 4.<end>"
+
+["1370538"]
+japanese = "伸ばしたい属性の敵と<line-break>集中的に戦うのも<line-break>いい方法かもしれないな。<end>"
+english = "Focusing on enemies of the element you want to strengthen might be a good approach.<end>"
+
+["1370539"]
+japanese = "そうか。<line-break>もう、いいんだな？<end>"
+english = "I see. You're sure you're all set?<end>"
+
+["1370540"]
+japanese = "自信がないのでもういちど最初から聞きたい<end>"
+english = "I'm not sure I've got it, so I'd like to hear it again from the beginning.<end>"
+
+["1370541"]
+japanese = "大丈夫<end>"
+english = "I'm good.<end>"
+
+["1370542"]
+japanese = "よし。とにかく場数を踏むこった。<line-break>実戦に勝る訓練はない。<line-break>忘れんなよ。<end>"
+english = "All right. The main thing is to get plenty of experience. There's no better training than real combat. Don't forget that.<end>"
+
+["1370543"]
+japanese = "じゃあ、行ってきな。<line-break>応援してるぜ、<value:$28>。<end>"
+english = "Off you go, then. I'm rooting for you, <value:$28>.<end>"
+
+["1370544"]
+japanese = "大丈夫<end>"
+english = "Okay.<end>"
+
+["1370545"]
+japanese = "ただいま帰りました。<end>"
+english = "I'm back.<end>"
+
+["1370546"]
+japanese = "あ、ギルドのご主人さん。<line-break>いらっしゃいませ、こんにちは。<end>"
+english = "Oh, Guildmaster! Welcome. Good afternoon.<end>"
+
+["1370547"]
+japanese = "こんちは、フェルムちゃん。<line-break>今日もよく働いてて偉いな。<end>"
+english = "Afternoon, Ferme. Hard at work again today, I see. Good for you.<end>"
+
+["1370548"]
+japanese = "それに、お前さんは、<line-break><value:$28>じゃないか。<end>"
+english = "And if it isn't <value:$28>.<end>"
+
+["1370549"]
+japanese = "オッシさんから聞いたぜ、<line-break>ゴブリン退治に協力するらしいな。<line-break> <line-break>お前もようやく冒険者として <line-break>出発ってわけだ。<end>"
+english = "Osshi told me you're helping with the goblin hunt. So you're finally setting out as an adventurer.<end>"
+
+["1370550"]
+japanese = "…となると、当然ギルドも<line-break>無関係じゃなくなってくるって<line-break>ことだな。<end>"
+english = "In that case, the Guild naturally has a part to play as well.<end>"
+
+["1370551"]
+japanese = "どうだい、冒険者ギルドについて、<line-break>何か聞いておきたいことはあるかい？<end>"
+english = "Anything you'd like to know about the Adventurers' Guild?<end>"
+
+["1370552"]
+japanese = "や、やめてください！<end>"
+english = "P-please stop!<end>"
+
+["1370553"]
+japanese = "やめることなどできん！\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>未来の勇者の俺様の熱く昂ぶる愛は！<line-break>誰にも…、そう、<line-break>この俺様にすらとめることはできん！<end>"
+english = "Stop? Impossible! The hot, surging love of the future Hero cannot be restrained by anyone... No, not even by me!<end>"
+
+["1370554"]
+japanese = "困ります、お客さん。<line-break>い、いや…！\u3000触らないで。<end>"
+english = "Please, don't do this. N-no! Don't touch me!<end>"
+
+["1370555"]
+japanese = "俺様とふたりで愛の冒険に旅立つ。<line-break>それが君の運命なんだ！<end>"
+english = "You and I shall embark together on an adventure of love. It is your destiny!<end>"
+
+["1370556"]
+japanese = "あっ、<value:$28>さん！<line-break>助けてください！<end>"
+english = "Oh, <value:$28>! Please help me!<end>"
+
+["1370557"]
+japanese = "このお客さん、酔っぱらってて…。<end>"
+english = "This customer is drunk, and...<end>"
+
+["1370558"]
+japanese = "なんだ貴様ぁ！<line-break>ちょうどいい。<line-break>俺様の愛の伝説のわき役にしてやる！<end>"
+english = "Who the hell are you?! Perfect timing. I'll make you a supporting player in my legend of love!<end>"
+
+["1370559"]
+japanese = "こ、こんなはずは…。<line-break>ええい、まだだ！<line-break>俺様の無敵伝説はこれから始まるんだ！<end>"
+english = "Th-this wasn't supposed to happen... Bah, I'm not finished yet! The legend of my invincibility has only just begun!<end>"
+
+["1370560"]
+japanese = "ありがとうございますっ！<line-break><value:$28>さん、<line-break>ケガはありませんか？<end>"
+english = "Thank you so much! <value:$28>, are you hurt?<end>"
+
+["1370561"]
+japanese = "さすが道場で鍛えているだけあって、<line-break><value:$28>さんは強いですね。<end>"
+english = "All that training at the dojo has certainly paid off. You're very strong, <value:$28>.<end>"
+
+["1370562"]
+japanese = "見ていてくれたか？<line-break>これが俺様の愛の…<line-break>あふれんばかりにほとばしる愛の力！！<end>"
+english = "Did you see that? This is the power of my love... the overflowing, unstoppable power of my love!!<end>"
+
+["1370563"]
+japanese = "恐れずに飛び込んでくるがいい。<line-break>俺様の愛の翼は、<line-break>いつでも君を包み込むぜ！<end>"
+english = "Come to me without fear. The wings of my love will always enfold you!<end>"
+
+["1370564"]
+japanese = "だ、大丈夫ですかっ？<line-break><value:$28>さん。<end>"
+english = "A-are you all right, <value:$28>?<end>"
+
+["1370565"]
+japanese = "ごめんなさい…私なんかのために。<line-break>…ケガまでさせてしまって…。<end>"
+english = "I'm sorry... You even got hurt for someone like me.<end>"
+
+["1370566"]
+japanese = "はい？<line-break>あ、オッシさんのお酒のお代ですね。<line-break>毎度、ありがとうございましたー。<end>"
+english = "Yes? Oh, you're paying for Osshi's drinks. Thank you, and come again!<end>"
+
+["1370567"]
+japanese = "あっ、<value:$28>さん！<end>"
+english = "Oh, <value:$28>!<end>"
+
+["1370568"]
+japanese = "あ、あの…。<line-break>先ほどはありがとうございました。<line-break>…あの、このあと…お暇ですか？<end>"
+english = "Um... Thank you for what you did earlier. I was wondering... are you free after this?<end>"
+
+["1370569"]
+japanese = "ご、ごめんなさい。そうですよね。<line-break>…アイリーンさんがいますもんね。<end>"
+english = "S-sorry. Of course. There's Irene, after all.<end>"
+
+["1370570"]
+japanese = "それじゃあ、<value:$28>さん。<line-break>私は仕事に戻ります。<line-break>たまには酒場に遊びにきてくださいね。<end>"
+english = "Well then, <value:$28>, I'd better get back to work. Do come by the tavern once in a while.<end>"
+
+["1370571"]
+japanese = "冒険者ギルドとは？<end>"
+english = "What is the Adventurers' Guild?<end>"
+
+["1370572"]
+japanese = "依頼の種類は？<end>"
+english = "What kinds of requests are available?<end>"
+
+["1370573"]
+japanese = "依頼をこなすコツは？<end>"
+english = "Any tips for completing requests?<end>"
+
+["1370574"]
+japanese = "十分わかっているので大丈夫<end>"
+english = "No, I understand it well enough.<end>"
+
+["1370575"]
+japanese = "冒険者として登録してくれれば<line-break>お前も明日から自由な冒険者さ。<line-break>胸躍らせる冒険がお前を待ってるぞ。<line-break>そうしたら、仕事も面倒見させてもらうぜ。<line-break>だが、まずは引き受けてる用事を<line-break>片付けちまいな。<end>"
+english = "Register as an adventurer, and starting tomorrow you'll be free to pursue whatever adventures you like. Thrilling adventures will be waiting for you, and I'll help you find work. But first, finish the business you've already taken on.<end>"
+
+["1370576"]
+japanese = "そうだな、ピンからキリまで<line-break>いろいろある。<line-break><line-break>届け物みたいな簡単なものから、<line-break>恐ろしいバケモンを退治してくれって<line-break>いうような、命がけのものまでな。<end>"
+english = "There's all sorts, from one end of the scale to the other. Some are as simple as making a delivery. Others have you risking your life to slay some fearsome monster.<end>"
+
+["1370577"]
+japanese = "一応、ギルドのほうでも、<line-break>冒険者に適当な仕事かどうか<line-break>アドバイスをしてやってる。<line-break>依頼を引き受けるようになったら、<line-break>あんまり無茶はするんじゃねえぜ。<end>"
+english = "The Guild will advise you on whether a job is suitable for you. Once you start taking requests, don't go doing anything too reckless.<end>"
+
+["1370578"]
+japanese = "おっと、冒険者になる気に<line-break>なったのかい。<end>"
+english = "Oh? Decided to become an adventurer, have you?<end>"
+
+["1370579"]
+japanese = "…そうだな、自分が確実にこなせる<line-break>仕事を引き受けることと、あとは、<line-break>日数をちゃんと考えることかな。<line-break>それさえうまくできれば、<line-break>冒険者として通用するだろう。<end>"
+english = "Let's see... Only take jobs you know you can finish, and pay close attention to how many days you have. If you can manage that, you should do well enough as an adventurer.<end>"
+
+["1370580"]
+japanese = "もういいのかい？<end>"
+english = "Is that all?<end>"
+
+["1370581"]
+japanese = "もう一度説明が聞きたい<end>"
+english = "I'd like to hear the explanation again.<end>"
+
+["1370582"]
+japanese = "大丈夫<end>"
+english = "I'm all set.<end>"
+
+["1370583"]
+japanese = "そうか。<line-break>なんにせよ、お前は素質がありそうだ。<line-break>ギルドで待ってるぜ。<end>"
+english = "I see. In any case, you look like you've got talent. I'll be waiting for you at the Guild.<end>"
+
+["1370584"]
+japanese = "よろしくな、<value:$28>。<end>"
+english = "I'm counting on you, <value:$28>.<end>"
+
+["1370585"]
+japanese = "はっ…！<end>"
+english = "Hah...!<end>"
+
+["1370586"]
+japanese = "えっ、ええっ！？<end>"
+english = "Wh-what?!<end>"
+
+["1370587"]
+japanese = "くわっ！<end>"
+english = "Hah!<end>"
+
+["1370588"]
+japanese = "や、やめてください！<end>"
+english = "P-please stop!<end>"
+
+["1370589"]
+japanese = "やめることなどできん！\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>未来の勇者の俺様の熱くたかぶる愛は！<line-break>誰にも…、そう、<line-break>この俺様にすら止めることはできん！<end>"
+english = "Stop? Impossible! The hot, surging love of the future Hero cannot be restrained by anyone... No, not even by me!<end>"
+
+["1370590"]
+japanese = "困ります、お客さん。<line-break>い、いや…！\u3000触らないで。<end>"
+english = "Please, don't do this. N-no! Don't touch me!<end>"
+
+["1370591"]
+japanese = "俺様とふたりで愛の冒険に旅立つ。<line-break>それが君の運命なんだ！<end>"
+english = "You and I shall embark together on an adventure of love. It is your destiny!<end>"
+
+["1370592"]
+japanese = "あっ、<value:$28>さん！<line-break>助けてください！<end>"
+english = "Oh, <value:$28>! Please help me!<end>"
+
+["1370593"]
+japanese = "なんだ貴様ぁ！<line-break>ちょうどいい。<line-break>俺様の愛の伝説のわき役にしてやる！<end>"
+english = "Who the hell are you?! Perfect timing. I'll make you a supporting player in my legend of love!<end>"
+
+["1370594"]
+japanese = "な、何と…何と美しい！<line-break>その瞳の輝き、頬のなめらかさ…<line-break>まさに未来の勇者の妻にふさわしい！<line-break>いや、そのためだけに生まれてきた<line-break>逸材といって過言ではない！<end>"
+english = "H-how... how beautiful! The sparkle in your eyes, the smoothness of your cheeks... You are truly worthy to be the future Hero's wife! No, it would be no exaggeration to call you an exceptional woman born for that very purpose!<end>"
+
+["1370595"]
+japanese = "<value:$28>、探したっすぅ。<line-break>実は、たった今、聖杯を盗んだ<line-break>ゴブリンたちの居場所が判明したっす！<line-break>道場で待つっす！<line-break>すぐ来てほしいっす！<end>"
+english = "<value:$28>, I've been looking for you! We just found out where the goblins who stole the Grail are hiding! I'll wait for you at the dojo, so come right away!<end>"
+
+["1370596"]
+japanese = "あっ、酒代ですね。<line-break>確かに受け取りました。<end>"
+english = "Oh, the money for the drinks. I've received it, thank you.<end>"
+
+["1370597"]
+japanese = "あっ、<value:$28>さん！<end>"
+english = "Oh, <value:$28>!<end>"
+
+["1370598"]
+japanese = "あ、あの…。<line-break>先ほどはありがとうございました。<line-break>わ、私…。<end>"
+english = "Um... Thank you for what you did earlier. I-I...<end>"
+
+["1370599"]
+japanese = "いえ、やっぱりなんでもないです。<line-break>\u3000<line-break>\u3000<line-break>………<end>"
+english = "No, never mind. It's nothing...<end>"
+
+["1370600"]
+japanese = "…あの、このあと…お暇ですか？<end>"
+english = "Um... are you free after this?<end>"
+
+["1370601"]
+japanese = "それじゃあ、<value:$28>さん。<line-break>私は仕事に戻ります。<line-break>たまには酒場に遊びにきてくださいね。<end>"
+english = "Well then, <value:$28>, I'd better get back to work. Do come by the tavern once in a while.<end>"
+
+["1370602"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370603"]
+japanese = "こんにちは。<line-break>頼まれたお酒を持って来ました。<end>"
+english = "Hello. I've brought the liquor you asked for.<end>"
+
+["1370604"]
+japanese = "おっ、すまねえな、フェルムちゃん！<line-break>これでうるさい客も<line-break>黙らせることができるってもんだ。<end>"
+english = "Ah, thanks, Ferme! This ought to keep the rowdy customers quiet.<end>"
+
+["1370605"]
+japanese = "はい。<end>"
+english = "Yes.<end>"
+
+["1370606"]
+japanese = "おっ、そりゃ、見たことねえ酒だな。<line-break>どれ、俺にもひとくち…。<end>"
+english = "Oh, I've never seen that kind of liquor before. Here, let me have a sip...<end>"
+
+["1370607"]
+japanese = "おっと、ゼネさん、<line-break>日があるうちはやめときな。<line-break>あんたまだ若いんだからよ。<end>"
+english = "Hold it, Xenetes. Best wait until sundown. You're still young, you know.<end>"
+
+["1370608"]
+japanese = "ちぇっ。<end>"
+english = "Tch.<end>"
+
+["1370609"]
+japanese = "ともかく、どうもな、<line-break>フェルムちゃん。<line-break>必ず借りは返すぜ。<end>"
+english = "Anyway, thanks, Ferme. I'll make it up to you, I promise.<end>"
+
+["1370610"]
+japanese = "いいえ。お礼なら彼に。<line-break>彼が一緒に来てくれたおかげで、<line-break>変な人に襲われずにすんだんです。<end>"
+english = "No, you should thank him. He came with me, so I wasn't attacked by some creep.<end>"
+
+["1370611"]
+japanese = "ほう、そりゃよかったな。<line-break>見たとこ、冒険者のようだが…。<end>"
+english = "Oh? Glad to hear it. You look like an adventurer...<end>"
+
+["1370612"]
+japanese = "<value:$28>か…、いい名だ。<line-break>オッシのとこで教わってるのか。<line-break>ふうん…、あいつんとこで…<line-break>おっと悪い、俺はゼネテスだ。<end>"
+english = "<value:$28>, huh? Good name. Are you training under Ossi? Hmm... under him... Oh, sorry. I'm Xenetes.<end>"
+
+["1370613"]
+japanese = "気楽な冒険者…<line-break>ま、あんたにとっちゃ、<line-break>反面教師ってとこかな。<end>"
+english = "A carefree adventurer... Well, for you, I suppose I'm more of a cautionary example.<end>"
+
+["1370614"]
+japanese = "ははははっ！\u3000<line-break>言うねえ、ゼネさん。<line-break>なあ、<value:$28>とやら。<line-break>わからないことがあったら、<line-break>このゼネさんに何でも聞くといいぜ。<line-break>こう見えてもゼネさんは…<end>"
+english = "Hah hah hah! That's a good one, Xenetes. Listen, <value:$28>, was it? If there's anything you don't understand, just ask Xenetes here. He may not look it, but...<end>"
+
+["1370615"]
+japanese = "お、おいっ。<end>"
+english = "H-hey!<end>"
+
+["1370616"]
+japanese = "いいじゃないか。<line-break>この酒、味見させてやるからさ！<end>"
+english = "What's the harm? I'll let you taste this liquor!<end>"
+
+["1370617"]
+japanese = "な、なにっ…。<line-break>ちぇっ、しゃあねえな。<line-break>何かあるかい？<end>"
+english = "W-what...? Tch, fine. What do you want to ask?<end>"
+
+["1370618"]
+japanese = "力を伸ばす方法を教えてほしい<end>"
+english = "Tell me how to develop my abilities.<end>"
+
+["1370619"]
+japanese = "戦い方を教えてほしい<end>"
+english = "Tell me how to fight.<end>"
+
+["1370620"]
+japanese = "何も聞くことはない<end>"
+english = "I don't have any questions.<end>"
+
+["1370621"]
+japanese = "うむ、一口には言えないがな、<line-break>どういう人間になりたいか、<line-break>あんたの意思が何より大事だな。<end>"
+english = "Hmm. There's no simple answer, but what matters most is what kind of person you want to become.<end>"
+
+["1370622"]
+japanese = "剣から魔法、ひととおり何でも<line-break>できるようになりたいのか？<line-break><line-break>逆に、ひとつの能力を<line-break>比類なきまでに高めたいのか？<end>"
+english = "Do you want to learn a bit of everything, from swordplay to magic? Or would you rather hone one ability until none can rival you?<end>"
+
+["1370623"]
+japanese = "どちらにせよ、<line-break>それはお前さんの自由なのさ。<line-break><line-break>あんただったら、<line-break>どっちを目指すつもりだい？<end>"
+english = "Either way, the choice is yours. Which path would you take?<end>"
+
+["1370624"]
+japanese = "弱点のない成長<end>"
+english = "Well-rounded growth<end>"
+
+["1370625"]
+japanese = "一芸に秀でた成長<end>"
+english = "Specialized growth<end>"
+
+["1370626"]
+japanese = "なるほどな。スキがなけりゃ、<line-break>敵にあわせて戦い方を変えることが<line-break>できるってわけだ。<line-break>時には戦士に、時には魔道士に…<line-break>確かに、パーティにとって、<line-break>便利な人材になるだろう。<end>"
+english = "I see. If you have no gaps in your skills, you can change how you fight to suit the enemy. A warrior one moment, a mage the next... You'd certainly be useful to any party.<end>"
+
+["1370627"]
+japanese = "だが、<line-break>その何でもできるところが、<line-break>お前さんの弱点にもなるぜ。<line-break>万能でいようとするためには、<line-break>すべての能力を<line-break>平等に伸ばさにゃならない。<end>"
+english = "But being able to do everything can also be your weakness. If you want to remain well-rounded, you'll have to develop every ability equally.<end>"
+
+["1370628"]
+japanese = "それだけ人より多くの努力を<line-break>しなきゃならないってことだからな。<line-break>\u3000<line-break>…ま、何を強いとするのか、<line-break>それを決めるのもお前さん自身だ。<end>"
+english = "That means putting in more effort than other people. Still, you're the one who decides what it means to be strong.<end>"
+
+["1370629"]
+japanese = "お前さんの主は、他でもない<line-break>お前さん自身だということ…<line-break>それが一番大事なんじゃないかね。<end>"
+english = "You answer to no one but yourself. Perhaps that's the most important thing of all.<end>"
+
+["1370630"]
+japanese = "かたよってもいいから、<line-break>その道では一番になって<line-break>やろうってんだな。<line-break>巨人も驚く堅牢な戦士か、<line-break>悪魔も道をあける大魔法使いか…。<end>"
+english = "So you'd rather specialize and aim to be the best on your chosen path. A stalwart warrior who could astonish even a giant, or a great mage before whom even demons give way...<end>"
+
+["1370631"]
+japanese = "しかし、そうなるには多くの誘惑に<line-break>勝てなくちゃな。<line-break>\u3000<line-break>進むべき道に迷ったり、<line-break>引き返してる暇はねえぜ。<end>"
+english = "But to reach that height, you'll have to resist plenty of temptations. There's no time to lose your way or turn back.<end>"
+
+["1370632"]
+japanese = "…ま、何を強いとするのか、<line-break>それを決めるのもお前さん自身だ。<line-break>\u3000<line-break>お前さんの主は、他でもない<line-break>お前さん自身だということ…<line-break>それが一番大事なんじゃないかね。<end>"
+english = "Still, you're the one who decides what it means to be strong. You answer to no one but yourself. Perhaps that's the most important thing of all.<end>"
+
+["1370633"]
+japanese = "うまい戦い方？\u3000簡単なこった。<line-break>敵に弱点をつかれないようにして、<line-break>逆に敵の弱点をつけばいい。<line-break>必ず敵には弱点がある。<line-break>武器での攻撃か、魔法か？<line-break>火か水か、土か風か？<end>"
+english = "How do you fight well? Simple. Don't let the enemy exploit your weaknesses; exploit the enemy's instead. Every enemy has one. Is it vulnerable to weapons or magic? Fire or water? Earth or wind?<end>"
+
+["1370634"]
+japanese = "それを見極めるのと同時に、<line-break>自分が何をすべきかを<line-break>考える必要があるだろうな。<line-break>ひ弱な魔道士に前に出られたって<line-break>盾にもならねえし、逆に、戦士が<line-break>引っ込むのもナンセンスだ。<end>"
+english = "While you're working that out, you also need to think about what your own role should be. A frail mage won't make much of a shield on the front line, and a warrior hanging back makes no sense either.<end>"
+
+["1370635"]
+japanese = "仲間と協力して、<line-break>最大限に自分の能力をいかす。<line-break>これだな。<line-break>仲間？\u3000ははは、ま、<line-break>そのうちできるだろうよ。<end>"
+english = ""
+
+["1370636"]
+japanese = "んじゃ、ま<line-break>これで質問は終わりってことで<line-break>いいかい、<value:$28>？<end>"
+english = "Well then, are we done with the questions, <value:$28>?<end>"
+
+["1370637"]
+japanese = "自信がないのでもういちど最初から聞きたい<end>"
+english = "I'm not sure, so I'd like to hear it again from the beginning.<end>"
+
+["1370638"]
+japanese = "大丈夫<end>"
+english = "I'm all set.<end>"
+
+["1370639"]
+japanese = "はっはっは、こりゃ頼もしいな。<end>"
+english = "Hah hah hah! That's reassuring.<end>"
+
+["1370640"]
+japanese = "そうだな、<line-break>鍛冶屋やギルドをのぞいてみるのも<line-break>ついでにお勧めしておくぜ。<line-break>どこでも歓迎してくれるだろうし、<line-break>お前さんも得るものが多いだろう。<line-break>ま、そんなとこだ。<end>"
+english = "One more thing: I'd recommend stopping by the smithy and the Guild. You should be welcome at either, and you'll learn plenty. Well, that's about it.<end>"
+
+["1370641"]
+japanese = "いけない、私、戻らなくちゃ。<end>"
+english = "Oh, I need to get back.<end>"
+
+["1370642"]
+japanese = "おう、がんばってな。<line-break>\u3000<line-break>\u3000<line-break>男くせえこことは違って、<line-break>みんな、フェルムちゃんの笑顔を見に、<line-break>向こうの酒場に通ってんだからさ。<end>"
+english = "Yeah, keep at it. This place reeks of men, but everyone goes to the other tavern just to see Ferme smile.<end>"
+
+["1370643"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370644"]
+japanese = "お前も冒険者の卵なら、<line-break>フェルムをしっかり守ってやるんだぜ。<end>"
+english = "If you're an adventurer in the making, make sure you keep Ferme safe.<end>"
+
+["1370645"]
+japanese = "最近は、物騒だからな。<line-break> <line-break> <line-break>俺が見たわけじゃねえが、<line-break>やたら全開な変質者が<line-break>横行してるって言うしよ。<end>"
+english = "It's dangerous out there these days. I haven't seen anything myself, but they say some exhibitionist has been roaming around with everything on display.<end>"
+
+["1370646"]
+japanese = "それじゃあ、<line-break>戻りましょう、<value:$28>さん。<end>"
+english = "Well then, shall we head back, <value:$28>?<end>"
+
+["1370647"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370648"]
+japanese = "（早く師匠のところに<line-break>\u3000向かわなければ…。）<end>"
+english = "(I have to hurry to my master's...)<end>"
+
+["1370649"]
+japanese = "あっ、<line-break><value:$28>さん…。<end>"
+english = "Oh, <value:$28>...<end>"
+
+["1370650"]
+japanese = "そうだ、<line-break><value:$28>さんが<line-break>いたじゃない。<end>"
+english = "Oh, right! You're here, <value:$28>.<end>"
+
+["1370651"]
+japanese = "あの、実は私、これから<line-break>酒場の用事でお使いに<line-break>行かなければならないんです。<line-break>この先のスラムにある<line-break>酒場なのですが…。<end>"
+english = "Well, I actually have to run an errand for the tavern. I need to go to a tavern in the Slums up ahead...<end>"
+
+["1370652"]
+japanese = "ふふふ、そうですね。<line-break>お酒を飲まれない<line-break><value:$28>さんには<line-break>あんまり馴染みが<line-break>ないかもしれませんね。<end>"
+english = "Hee hee, that's true. Since you don't drink, <value:$28>, you may not know the place.<end>"
+
+["1370653"]
+japanese = "スラムには、私が働いている<line-break>この酒場とは別にもう一軒、<line-break>酒場があるんです。<line-break>今日はそこへ届けものを<line-break>しなくちゃならないんですが…<line-break>スラムだけあって、ちょっと怖くて。<end>"
+english = "There's another tavern in the Slums besides the one where I work. I have to deliver something there today, but... well, the Slums frighten me a little.<end>"
+
+["1370654"]
+japanese = "最近、このロストールでも、<line-break>女の人を狙って付きまとってくる<line-break>変質者が出るらしいんです。<line-break><value:$28>さんは、<line-break>冒険者志望でしたよね？<end>"
+english = "They say there's been a pervert stalking women here in Rostorl lately. You were hoping to become an adventurer, weren't you, <value:$28>?<end>"
+
+["1370655"]
+japanese = "お願いです、<line-break>スラムの酒場まで、<line-break>一緒に行ってください。<end>"
+english = "Please, come with me as far as the tavern in the Slums.<end>"
+
+["1370656"]
+japanese = "よかった！<line-break>じゃ、よろしくお願いします！<end>"
+english = "What a relief! Thank you―I'm counting on you!<end>"
+
+["1370657"]
+japanese = "ああ、そうだったんですか。<line-break>オッシ先生と鍛冶屋さんで<line-break>酒代をワリカンに…。<line-break>ふふふ、確かに鍛冶屋さんも、<line-break>オッシ先生に負けないくらい<line-break>よくお飲みになりますからね。<end>"
+english = "Oh, so Master Ossi and the blacksmith are splitting the drinks bill... Hee hee. The blacksmith certainly drinks every bit as much as Master Ossi.<end>"
+
+["1370658"]
+japanese = "それじゃまず、<line-break>鍛冶屋さんに寄りましょう。<line-break>\u3000<line-break>ご存知かもしれませんが、<line-break>この街の鍛冶屋さんは、<line-break>道具屋さんの地下にありますよ。<end>"
+english = "Then let's stop by the blacksmith's first. You may already know this, but the town smithy is beneath the item shop.<end>"
+
+["1370659"]
+japanese = "おやじ、剣が古くなってきたから\u3000\u3000<line-break>新しいのを買いたいんだ。<line-break>いい剣はないか？<end>"
+english = "Old man, my sword's getting worn out, so I want to buy a new one. Got any good swords?<end>"
+
+["1370660"]
+japanese = "あんた、新米冒険者だね？\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "You're a novice adventurer, aren't you?<end>"
+
+["1370661"]
+japanese = "え？<line-break>なんで新米だってわかったんだ？\u3000\u3000<line-break>\u3000<end>"
+english = "What? How did you know I was a novice?<end>"
+
+["1370662"]
+japanese = "武器はな、新しく買うよりも、<line-break>強化していった方が強くなるのさ。\u3000<line-break>だから、そう思ったわけだ。<end>"
+english = "A weapon will grow stronger if you keep improving it instead of replacing it. That's what gave you away.<end>"
+
+["1370663"]
+japanese = "な、なるほど。<line-break>それなら、強化してくれないか。\u3000\u3000<line-break>\u3000<end>"
+english = "R-right, I see. In that case, could you improve mine?<end>"
+
+["1370664"]
+japanese = "武器の強化には、錬剛石が必要だが、<line-break>持ってるかい？<line-break>\u3000<end>"
+english = "You'll need Rengoseki to improve a weapon. Do you have any?<end>"
+
+["1370665"]
+japanese = "錬剛石？\u3000いや、持ってないな。\u3000\u3000<line-break>その錬剛石って、どうすれば<line-break>手に入るんだ？<end>"
+english = "Rengoseki? No, I don't have any. How do I get it?<end>"
+
+["1370666"]
+japanese = "鉱山なんかへ行くと、ときどき<line-break>地面が光っていることがある。<line-break>そこを調べたら見つかるはずだ。\u3000\u3000<line-break>だが、錬剛石はきちんと<line-break>結晶化するまで時間がかかるし、<line-break>他の冒険者もねらってるからな。<end>"
+english = "In mines and the like, you'll sometimes see the ground shining. Search that spot and you should find some. But Rengoseki takes time to crystallize properly, and other adventurers are after it too.<end>"
+
+["1370667"]
+japanese = "だから、錬剛石がとれる山を\u3000\u3000\u3000\u3000<line-break>見つけたら、何度か足を<line-break>運んでみるのがいいだろうな。<end>"
+english = "So if you find a mountain where Rengoseki can be gathered, you'd do well to go back a few times.<end>"
+
+["1370668"]
+japanese = "なるほど。<line-break>冒険者は何ごとも冒険から\u3000\u3000\u3000\u3000\u3000<line-break>ってことだな。<line-break>それじゃあ、おやじ。<line-break>錬剛石を手に入れたら、また来るよ。<end>"
+english = "I see. For an adventurer, everything starts with an adventure. All right, old man. I'll come back once I've found some Rengoseki.<end>"
+
+["1370669"]
+japanese = "おう！<line-break>ギアもいるから、貯めとけよ。\u3000\u3000\u3000<line-break>\u3000<end>"
+english = "Right! You'll need Gea too, so save some up.<end>"
+
+["1370670"]
+japanese = "誰だって最初は新米だからな。<line-break>知ってる奴が、教えてやらんとな。<line-break>\u3000<line-break>ま、高いとこから低いとこへ水が<line-break>流れてくのと同じ道理だわな。<line-break>はっはっは。<end>"
+english = "Everyone starts out a novice. Those who know ought to teach those who don't. It's only natural―like water flowing downhill. Ha ha ha!<end>"
+
+["1370671"]
+japanese = "こんにちは。<end>"
+english = "Hello.<end>"
+
+["1370672"]
+japanese = "おっ、フェルムちゃんじゃないか。<line-break>\u3000<line-break>\u3000<line-break>それに、お前さんは<line-break>オッシんとこの若いのだったな。<end>"
+english = "Well, if it isn't little Ferme. And you're Ossi's young apprentice, aren't you?<end>"
+
+["1370673"]
+japanese = "…で、<line-break>何の用だい？<line-break>鍛冶の仕事か？<end>"
+english = "So, what brings you here? Need some smithing done?<end>"
+
+["1370674"]
+japanese = "んじゃ、お前さんも、<line-break>鍛冶屋の仕事について<line-break>聞きにきたのかい？<end>"
+english = "So you've come to learn about a blacksmith's work too?<end>"
+
+["1370675"]
+japanese = "がはは、遠慮すんなって！<line-break>俺がその気じゃない時に来られても、<line-break>教えてやらねえぜ。<line-break>それに、覚えといてくれた方が、<line-break>仕事を頼まれる側としても<line-break>話が早いってもんだ。<end>"
+english = "Gahaha! Don't be shy! If you came when I wasn't in the mood, I wouldn't teach you a thing. Besides, if you know how it works, it'll make things easier for me when you ask me to do a job.<end>"
+
+["1370676"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000留守中。すぐに戻ります。\u3000\u3000\u3000<end>"
+english = "Out. Be right back.<end>"
+
+["1370677"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000留守中。すぐに戻ります。\u3000\u3000\u3000<end>"
+english = "Out. Be right back.<end>"
+
+["1370678"]
+japanese = "今は居ないみたいですね。<line-break>行きましょう、<value:$28>さん。<end>"
+english = "It looks like no one's here right now. Let's go, <value:$28>.<end>"
+
+["1370679"]
+japanese = "あんまり寄り道しないほうが<line-break>いいと思うんです。<line-break>行きましょう、<value:$28>さん。<end>"
+english = "I don't think we should make too many detours. Let's go, <value:$28>.<end>"
+
+["1370680"]
+japanese = "<value:$28>さん、<line-break>どうして宿屋さんに？<line-break>まだ用事は済んでいませんよ。<end>"
+english = "Why are you going to the inn, <value:$28>? We haven't finished our errand yet.<end>"
+
+["1370681"]
+japanese = "ん？\u3000フェルムちゃんと<line-break>オッシさんのお弟子さんじゃないか。<line-break>\u3000<line-break>どうかしたかい？<line-break>泊まっていくのかい？<end>"
+english = "Hm? Why, if it isn't little Ferme and Ossi's apprentice. Is something wrong? Are you staying the night?<end>"
+
+["1370682"]
+japanese = "す、すみません！<line-break>ちょっと間違えたようで…。<end>"
+english = "S-sorry! It seems I made a mistake...<end>"
+
+["1370683"]
+japanese = "はは。2人で散歩でもしてたのかい？<end>"
+english = "Ha! Were you two out for a stroll?<end>"
+
+["1370684"]
+japanese = "疲れたときはいつでも来るといい。<line-break>王宮気分…とはいかないが、<line-break> <line-break>うまい家庭料理と<line-break>ふかふかのベッドで歓迎するよ。<end>"
+english = "Come by whenever you're tired. It may not feel like a royal palace, but you'll be welcomed with good home cooking and a soft bed.<end>"
+
+["1370685"]
+japanese = "あ、ありがとう。<end>"
+english = "Oh, thank you.<end>"
+
+["1370686"]
+japanese = "行きましょ、<value:$28>さん。<end>"
+english = "Let's go, <value:$28>.<end>"
+
+["1370687"]
+japanese = "あっ、<value:$28>さん、<line-break>スラムはそっちじゃないですよ。<line-break>\u3000<line-break>まっすぐ行った先の広場を、<line-break>左に曲がるんです。<line-break>行きましょう。<end>"
+english = "Oh, <value:$28>, the Slums aren't that way. Go straight to the square up ahead, then turn left. Come on.<end>"
+
+["1370688"]
+japanese = "あんまり寄り道しないほうが<line-break>いいと思うんです。<line-break>行きましょう、<value:$28>さん。<end>"
+english = "I don't think we should make too many detours. Let's go, <value:$28>.<end>"
+
+["1370689"]
+japanese = "一緒に付いてきてくれて<line-break>ありがとうございます。<end>"
+english = "Thank you for coming with me.<end>"
+
+["1370690"]
+japanese = "<value:$28>さんと一緒だったから<line-break><end>すごく安心できました。<line-break><end>"
+english = "Because I was with you, <value:$28>,<end>I felt completely at ease.<end>"
+
+["1370691"]
+japanese = "あの…、あたし…"
+english = "Um... I..."
+
+["1370692"]
+japanese = "……いえ、なんでもないです。<line-break>それじゃ、中にはいりましょうか。<line-break><value:$28>。<end>"
+english = "...No, it's nothing. Shall we go inside, <value:$28>?<end>"
+
+["1370693"]
+japanese = "ここは私が働いている酒場です。<line-break>スラムの酒場で事を済ませないと、<line-break>戻れません。<line-break>行きましょう。<end>"
+english = "This is the tavern where I work. We can't come back until we've finished our business at the tavern in the Slums. Let's go.<end>"
+
+["1370694"]
+japanese = "私の杖の修理代、<line-break>安くしてくれるなら、<line-break>考えてもいいですよ。<end>"
+english = "I might consider it if you'll give me a discount on repairing my staff.<end>"
+
+["1370695"]
+japanese = "うおっ、神様のしもべが俺の足元を！<line-break><end>天空神様へのお布施ってやつですかい？<line-break><end>"
+english = "Whoa! A servant of God at my feet!<end>Is this what you call an offering to the Sky God?<end>"
+
+["1370696"]
+japanese = "ふふ、冗談ですよ、冗談。<line-break>で、精霊レベルのことですね？<line-break>\u3000<line-break>装備品の精霊レベルを変更する仕事は、<line-break>本来、鍛冶屋ではなく、<line-break>神と人とをつなぐ神殿の領分なのです。<end>"
+english = "Heh, I'm only joking. Now, you were asking about Spirit Levels, yes? Changing the Spirit Level of equipment is properly the province of the temple, which serves as a bridge between gods and mortals, rather than the blacksmith.<end>"
+
+["1370697"]
+japanese = "ロストールには神殿がないからな。<line-break>ちなみにこの方はたまたま用事があって<line-break>エンシャントからいらっしゃってんだ。<end>"
+english = "There isn't a temple in Rostorl. This priest just happens to be visiting from Ancient on other business.<end>"
+
+["1370698"]
+japanese = "精霊レベルとは、すなわち、<line-break>火や水といった精霊の力を<line-break>武器や防具に宿すことを意味します。<line-break>\u3000<line-break>精霊の属性については<line-break>もうご存知ですか？<end>"
+english = "Spirit Level means imbuing weapons and armor with the power of spirits such as fire and water. Are you already familiar with Spirit Attributes?<end>"
+
+["1370699"]
+japanese = "俺たちにとっても、<line-break>いいかせぎになるしな。<end>"
+english = "And it's good business for us, too.<end>"
+
+["1370700"]
+japanese = "ははは！<end>"
+english = "Ha ha ha!<end>"
+
+["1370701"]
+japanese = "精霊レベルのことか。<line-break>確かにそれも装備品まわりの<line-break>ことではあるが、ちょいと…<line-break>それは鍛冶屋じゃなくて、<line-break>教会の仕事なんでな。<end>"
+english = "Spirit Levels, eh? True, that does have to do with equipment, but... it's church work, not a blacksmith's.<end>"
+
+["1370702"]
+japanese = "火、水、土、風…<line-break>この四種類が精霊の属性です。<line-break>\u3000<line-break>聖母神がお作りになったこの四属性が<line-break>互いに干渉しあい、循環することで<line-break>世界は成り立っています。<end>"
+english = "Fire, water, earth, and wind: these are the four Spirit Attributes. The world exists through the interplay and circulation of these four attributes, created by the Mother Goddess.<end>"
+
+["1370703"]
+japanese = "火は水に強く、水は土に強く、<line-break>土は風に、風は火に強い。<line-break>\u3000<line-break>おわかりでしょう？<line-break>どれが圧倒的に優位ということはなく、<line-break>うまくバランスをとっているのです。<end>"
+english = "Fire is strong against water, water against earth, earth against wind, and wind against fire. You see? None holds an overwhelming advantage; together, they maintain a careful balance.<end>"
+
+["1370704"]
+japanese = "装備の精霊レベルをあげるということは<line-break>そのまま、この四属性の性質を<line-break>盛り込むことになるのです。<line-break>例えば、あなたが火属性の剣を持ち、<line-break>火属性の鎧を身につけたとしましょう。<end>"
+english = "Raising a piece of equipment's Spirit Level imbues it with the nature of one of those four attributes. Suppose, for example, that you wield a Fire-element sword and wear Fire-element armor.<end>"
+
+["1370705"]
+japanese = "あなたは水属性の相手に対して<line-break>圧倒的に有利に戦うことができ、<line-break>\u3000<line-break>火属性のダメージを<line-break>大幅に軽減することができます。<line-break>これは大変有益なことです。<end>"
+english = "You would have an overwhelming advantage against a Water-element opponent, while greatly reducing the Fire-element damage you suffer. This can be extremely useful.<end>"
+
+["1370706"]
+japanese = "さらに、この精霊の力は、<line-break>装備品ごとに上限が定まってはいますが、<line-break>レベルとして向上させることができます。<line-break>同じ火の属性の剣でも、<line-break>１レベルと３レベルでは<line-break>大きくその威力が変わってくる。<end>"
+english = "This spiritual power can also be raised in levels, though every piece of equipment has its own limit. Even between two Fire-element swords, the difference in power between level one and level three is considerable.<end>"
+
+["1370707"]
+japanese = "ですが、同時に、忘れないでください。<line-break>精霊レベルが高いということは、<line-break>それだけ純粋に近いという証。<line-break>火属性の剣の攻撃では、<line-break>同じ火属性の敵を<line-break>傷つけることは難しく…<end>"
+english = "But there is something else you must remember. A higher Spirit Level is a sign of greater elemental purity. A Fire-element sword will have difficulty harming a Fire-element enemy...<end>"
+
+["1370708"]
+japanese = "火属性の鎧は、風属性の攻撃を、<line-break>時に倍にもして受けてしまうことが<line-break>あるということを…。<end>"
+english = "...and Fire-element armor may sometimes cause you to take as much as twice the damage from a Wind-element attack.<end>"
+
+["1370709"]
+japanese = "ふうむ、さすが神官様は説明がうまい。<line-break>口下手な俺なんかが<line-break>でしゃばらなくて良かったぜ。<end>"
+english = "Hmm. A priest certainly knows how to explain things. Good thing a poor talker like me didn't butt in.<end>"
+
+["1370710"]
+japanese = "装備に精霊の力を宿したくなったら、<line-break>神殿へいらっしゃい。<line-break>お待ちしてますよ。<end>"
+english = "If you ever wish to imbue your equipment with the power of spirits, come to the temple. I'll be waiting.<end>"
+
+["1370711"]
+japanese = "ほっほう、そいつはたいしたもんだ。<line-break>改めて俺に仕事を頼むときも、<line-break>迷わずに済むな。<line-break>じゃ、説明はこの辺で<line-break>終わりにしちまって大丈夫かい？<end>"
+english = "Well, that's impressive. Now you won't get mixed up next time you come to me for work. So, can we wrap up the explanation here?<end>"
+
+["1370712"]
+japanese = "はい<end>"
+english = "Yes<end>"
+
+["1370713"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370714"]
+japanese = "ん？\u3000オッシの奴が？<line-break>酒場のツケを、<line-break>俺のと奴のとでワリカンに？<line-break>そうかー！\u3000思い出したぞ。<end>"
+english = "Hm? Ossi said that? Split the tavern tab between the two of us? Oh! Now I remember!<end>"
+
+["1370715"]
+japanese = "この前、あいつと飲んでて、<line-break>何か約束したような気になってたのは、<line-break>そのことだったか！<line-break>くっ、あいつのが飲んでるってのに<line-break>ワリカンとは…。オッシの野郎、<line-break>こっちがあぜんとするほど飲むんだぜ。<end>"
+english = "So that's what I had a vague feeling Ossi and I had agreed to when we were drinking the other day! Damn it, Ossi drank more than I did, and we're still splitting it down the middle? That bastard can drink enough to leave you speechless.<end>"
+
+["1370716"]
+japanese = "おまけにその酒癖ときちゃあ…。<line-break>ま、約束したなら仕方がねえな。<line-break>頼むよ。<end>"
+english = "And don't get me started on what Ossi's like when drunk... Well, a promise is a promise. Take care of it for me.<end>"
+
+["1370717"]
+japanese = "悪いな。<line-break>よし、じゃ、あんたには、<line-break>駄賃といったらなんだが…<end>"
+english = "Sorry about that. Here, let me give you something for your trouble...<end>"
+
+["1370718"]
+japanese = "こいつを持ってきな。<end>"
+english = "Take this with you.<end>"
+
+["1370719"]
+japanese = "何って、錬剛石だよ、錬剛石！<line-break>そいつがありゃ、お前さんの装備も<line-break>少しはマシになるだろ。<line-break>頑張れよ、ヒヨッコ。<line-break>お前さんが装備を鍛えに来るのを<line-break>楽しみに待ってるぜ。<end>"
+english = "What is it? It's a tempering stone. A tempering stone! With it, you should be able to make your equipment a little better. Keep at it, rookie. I'll look forward to seeing you when you come by to get your equipment strengthened.<end>"
+
+["1370720"]
+japanese = "それじゃ、あたしたち行きますね。<line-break>\u3000<line-break>\u3000<line-break>またお店で待ってますので<line-break>よろしくおねがいしますね。<end>"
+english = "Well, we'll be going now. We'll be waiting for you back at the shop, so please stop by.<end>"
+
+["1370721"]
+japanese = "<value:$28>さん、<line-break>スラムの酒場まで<line-break>連れて行ってくださいね。<line-break>よろしくお願いします。<end>"
+english = "<value:$28>, please take us to the tavern in the Slums. We're counting on you.<end>"
+
+["1370722"]
+japanese = "酒代はその後で<line-break>マスターに渡してあげて<line-break>くださいね。<end>"
+english = "After that, please give the tavern keeper the money for the drinks.<end>"
+
+["1370723"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370724"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370725"]
+japanese = "<value:$28>、<line-break>さっき宿屋でフェルムと<line-break>一緒だったの見たんだけど…。<end>"
+english = "<value:$28>, I saw you with Ferme at the inn earlier...<end>"
+
+["1370726"]
+japanese = "そっか…。<line-break>宿屋で話を聞いてたのね。<line-break><line-break>別に気にしてたわけじゃないからね。<end>"
+english = "Oh... So you were listening at the inn. Not that I cared or anything.<end>"
+
+["1370727"]
+japanese = "ところで、<line-break>さっきオッシ先生が呼んでたわよ。<line-break>\u3000<line-break>例のゴブリンの居場所が<line-break>わかったんですって。<end>"
+english = "Anyway, Master Osshi was asking for you earlier. Apparently, that goblin's location is known now.<end>"
+
+["1370728"]
+japanese = "とにかく先生の道場に<line-break>早く向かってあげて。<end>"
+english = "Just hurry over to Master Osshi's dojo.<end>"
+
+["1370729"]
+japanese = "あ、アイリーンさん<line-break>こんにちは。<end>"
+english = "Oh, hello, Irene.<end>"
+
+["1370730"]
+japanese = "二人でどうしたの？<line-break>\u3000<line-break>\u3000<line-break>もしかしてデート？<end>"
+english = "What are you two up to? Don't tell me you're on a date?<end>"
+
+["1370731"]
+japanese = "冗談よ。<line-break>ムキになるなんて子供ねぇ。<end>"
+english = "I'm joking. How childish, getting so worked up.<end>"
+
+["1370732"]
+japanese = "あの…、私たちまだ用事が<line-break>ありますからこれで失礼しますね。<end>"
+english = "Um... we still have something to take care of, so if you'll excuse us.<end>"
+
+["1370733"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370734"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370735"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370736"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370737"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370738"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370739"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370740"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370741"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370742"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370743"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370744"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370745"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370746"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370747"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370748"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370749"]
+japanese = "追加メッセージここから<end>"
+english = ""
+
+["1370750"]
+japanese = "こう言うと難しそうだが、<line-break>要はウォーロックを宿しさえすりゃ、<line-break><line-break>ロースペルが使えるってこった。<end>"
+english = "That may sound complicated, but the point is simple: host a Warlock, and you can use Low Spell.<end>"
+
+["1370751"]
+japanese = "オッシ終端<end>"
+english = ""

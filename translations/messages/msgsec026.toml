@@ -1,0 +1,897 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["260000"]
+japanese = "（ロストールの西にある城塞都市跡で<line-break>\u3000怪現象が起きるという噂がある。<line-break>\u3000その調査を依頼された）<line-break>（怪現象の正体がわかったら、<line-break>\u3000冒険者ギルドに報告へ行かないと<line-break>\u3000いけないな…）<end>"
+english = "(There are rumors of a strange phenomenon at the Fortress City Ruins west of Rostorl. I was asked to investigate.) (Once I find out what is behind it, I'll have to report back to the Adventurers' Guild...)<end>"
+
+["260001"]
+japanese = "城塞都市跡で目撃されてる<line-break>怪現象のことよね。<line-break><line-break>怪現象の正体を調べたら<line-break>冒険者ギルドに報告するのも<line-break>忘れないようにしないとね。<end>"
+english = "You mean the strange phenomenon seen at the Fortress City Ruins, right? Once we find out what it really is, we must remember to report back to the Adventurers' Guild.<end>"
+
+["260002"]
+japanese = "城塞都市跡のモンスターは手強いぞ。<line-break>準備をしっかりして調査にいくべきで<line-break>あろうな。<line-break>怪現象の正体がわかったら、<line-break>冒険者ギルドに報告するよう<line-break>頼まれておることも忘れてはならぬぞ。<end>"
+english = "The monsters at the Fortress City Ruins are formidable. You should prepare thoroughly before investigating. And once you uncover the truth behind the strange phenomenon, do not forget that you were asked to report back to the Adventurers' Guild.<end>"
+
+["260003"]
+japanese = "生きているような黒い闇が<line-break>現れるっていう噂なんですよ。<line-break>やっぱり、調べに行きます？<end>"
+english = "They say a black darkness that seems alive appears there. Are you going to investigate after all?<end>"
+
+["260004"]
+japanese = "城塞都市跡に現れる黒い闇みたいのの<line-break>正体を調べて、冒険者ギルドに<line-break>報告すればいいだけだろ。<line-break>簡単じゃねえか！<line-break>さっそく出かけようぜ。<line-break>この仕事は楽勝だな。<end>"
+english = "All we have to do is find out what that thing resembling black darkness at the Fortress City Ruins really is and report it to the Adventurers' Guild. Sounds easy! Let's get going. This job'll be a breeze.<end>"
+
+["260005"]
+japanese = "城塞都市跡に黒い闇みたいな生き物が<line-break>現れるって噂だよね。<line-break>うん、ボクも聞いたことがある。<line-break>ボク、そいつの正体に興味あるな。<line-break>ねえ、調べに行こうよ。<line-break>キミもそいつの正体、知りたいでしょ。<end>"
+english = "There's a rumor that some creature like black darkness appears at the Fortress City Ruins, right? Yeah, I've heard it too. I'm curious what it really is. Hey, let's go investigate. You want to know too, don't you?<end>"
+
+["260006"]
+japanese = "城塞都市跡で発生しているという<line-break>怪現象の真相を見極めればいいのね。<line-break>簡単な仕事よ。<end>"
+english = "So all we have to do is uncover the truth behind the strange phenomenon at the Fortress City Ruins. An easy job.<end>"
+
+["260007"]
+japanese = "城塞都市跡で起こる怪現象の<line-break>真相を見極めて報告せよという<line-break>お仕事でしたね。<line-break>あそこは古代王国の遺跡ですから、<line-break>確かに、尋常でないものが<line-break>ありそうな場所ではあります。<line-break>お気をつけて、<value:$28>。<end>"
+english = "Our task was to uncover and report the truth behind the strange phenomenon at the Fortress City Ruins. Those are the ruins of an ancient kingdom, so they certainly seem like the sort of place where something extraordinary might be found. Take care, <value:$28>.<end>"
+
+["260008"]
+japanese = "城塞都市跡？<line-break>そんな活気もないようなとこへ<line-break>わざわざ行くとは、<line-break><value:$28>サンも、<line-break>全くご苦労なこって。<line-break>おまけに、怪現象が起こるんだって？<line-break>おまけ、じゃないか。その正体を<line-break>ギルドに報告する仕事だったね。<end>"
+english = "The Fortress City Ruins? Going out of your way to visit such a lifeless place? You sure go to a lot of trouble, <value:$28>. And there's a strange phenomenon on top of that? No, wait, that's the whole point. Your job was to find out what it is and report it to the Guild.<end>"
+
+["260009"]
+japanese = "姉ちゃんも聞いたのか？<line-break>黒い闇みたいな生き物が現れるって話。<line-break>やっぱり気になるよな。<line-break>正体を調べてきてくれたら、<line-break>報酬を出すって冒険者ギルドの主人も<line-break>言ってたし、調べにいってみようか。<end>"
+english = "You heard about it too, sis? The story about a creature like black darkness appearing? Hard not to be curious. The master of the Adventurers' Guild said there'd be a reward if we found out what it was, so shall we investigate?<end>"
+
+["260010"]
+japanese = "城塞都市跡で起こる怪現象を調べる？<line-break><line-break><line-break>…いかにも、命知らずな冒険者の<line-break>やりそうなことね。<end>"
+english = "Investigate the strange phenomenon at the Fortress City Ruins? ...Yes, that does sound exactly like something a foolhardy adventurer would do.<end>"
+
+["260011"]
+japanese = "城塞都市跡に、黒い闇みたいな<line-break>生き物が現れるって話のことだな。<line-break>けっこう話題になってるぜ。<line-break>俺もギルドの主人に、そいつの正体を<line-break>調べてくれって頼まれちまったよ。<line-break>どうする？\u3000行ってみるかい？<end>"
+english = "You mean the story about a creature like black darkness appearing at the Fortress City Ruins. It's become quite the topic. The Guild master asked me to find out what it is too. Well? Shall we go?<end>"
+
+["260012"]
+japanese = "城塞都市跡に、黒い闇のような生き物が<line-break>現れるという噂のことだな。<line-break>俺も気になっていた。<line-break>調べてみる価値はあるかもしれん。<line-break>行ってみるか…。<end>"
+english = "You mean the rumor that a creature like black darkness appears at the Fortress City Ruins. I was curious about it too. It may be worth investigating. Shall we go...?<end>"
+
+["260013"]
+japanese = "城塞都市跡に、黒い闇のような生き物が<line-break>現れるという話のことじゃろう。<line-break>お主も耳にしておったか。<line-break>正体をつきとめれば報酬も払うと<line-break>冒険者ギルドは言っておるようじゃ。<line-break>どれ、わしらも調べに行くとするかの。<end>"
+english = "You mean the story of a creature like black darkness appearing at the Fortress City Ruins. So you had heard it too. Apparently the Adventurers' Guild has offered a reward if we discover its true nature. Well then, let us go investigate it ourselves.<end>"
+
+["260014"]
+japanese = "うん。<line-break>城塞都市跡に黒い闇のような生き物が<line-break>現れるって噂のことだね。<line-break><value:$28>も調べに行くつもり？<line-break>正体がわかったら冒険者ギルドに<line-break>報告するのを忘れないでよ。<end>"
+english = "Right. It's the rumor about a creature like black darkness appearing at the Fortress City Ruins. Are you planning to investigate too, <value:$28>? If you discover what it is, don't forget to report back to the Adventurers' Guild.<end>"
+
+["260015"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260016"]
+japanese = "も、もちろん知っているわよ。<line-break>城塞都市跡に、あんたたち人間の<line-break>大好きな宝がたくさんあるのよ。<line-break>それを求めて低能な冒険者が<line-break>ぞろぞろ集まってるわけ。<line-break>わかった！？\u3000もう聞かないでよね！<end>"
+english = "O-of course I know! The Fortress City Ruins are full of the treasure you humans love so much. That's why dim-witted adventurers flock there in droves. Understand?! Now stop asking me!<end>"
+
+["260017"]
+japanese = "城塞都市はロストール城の西、<line-break>つまり城西にあるでござる。<line-break>城塞と城西…。<line-break>今日の拙者、いつになく冴えて<line-break>ござるな。<line-break>兄弟子、いかがでござろう。<end>"
+english = "The Fortress City lies west of Rostorl Castle―in the castle's west, as it were. Fortress city, castle's west... I am unusually sharp today. What say you, senior disciple?<end>"
+
+["260018"]
+japanese = "城塞都市跡に黒い闇のような生き物が<line-break>現れるんだってぇ。<line-break><value:$28>も調べに行くの？<line-break>正体がわかったら教えてねって<line-break>冒険者ギルドのおじさんが言ってたよ。<line-break>忘れずに教えてあげてよ。<end>"
+english = "They say a creature like black darkness appears at the Fortress City Ruins. Are you going to investigate too, <value:$28>? The man at the Adventurers' Guild said to tell him if you find out what it is. Don't forget, okay?<end>"
+
+["260019"]
+japanese = "……………。<line-break><line-break><line-break>黒い闇に似た生物が現れるという。<end>"
+english = "……………. They say a creature resembling black darkness appears there.<end>"
+
+["260020"]
+japanese = "城塞都市跡に闇のように黒い何かが<line-break>うごめいているという噂話は<line-break>俺も耳にした。<line-break>しかし、報酬が出るからと言って<line-break>自分から首を突っ込む奴がいようとは、<line-break>そしてそれがお前とは予想しなかった。<end>"
+english = "I too have heard the rumor that something as black as darkness writhes in the Fortress City Ruins. Yet even with a reward offered, I never expected anyone to go meddling of their own accord―least of all you.<end>"
+
+["260021"]
+japanese = "話題になってるから、知ってるよ。<line-break>城塞都市跡に黒い闇のような生き物が<line-break>現れるって話だよねぇ。<line-break>ぼくも興味あったんだぁ。<line-break><value:$28>、調べに行くの？<line-break>ぼくも連れていってよ。<end>"
+english = "Of course I know; everyone's talking about it. It's the story about a creature like black darkness appearing at the Fortress City Ruins, right? I was curious too. Are you going to investigate, <value:$28>? Take me with you.<end>"
+
+["260022"]
+japanese = "城塞都市跡にうごめく、<line-break>闇のように黒い何か、か。<line-break><line-break>浅学な連中はそれを<line-break>生き物だとか言っているようだが…<line-break><line-break>フッ、まあ、真相究明は<line-break>命知らずな<value:$28>、<line-break>君にゆだねるとしよう。<end>"
+english = "Something as black as darkness, writhing in the Fortress City Ruins... The ignorant masses seem to be calling it a creature, but... Hmph. I shall leave the search for truth to you, the foolhardy <value:$28>.<end>"
+
+["260023"]
+japanese = "城塞都市跡の噂は私も聞きました。<line-break>黒い闇のような何かがいると…。<line-break>私も、お供いたします。<end>"
+english = "I have heard the rumors about the Fortress City Ruins too. They say something like black darkness is there... I shall accompany you.<end>"
+
+["260024"]
+japanese = "私も、城塞都市跡は聞いたの。<line-break>闇のような不吉な何かがいるんだって？<line-break>私も行くよ。お兄ちゃん。<end>"
+english = "I've heard about the Fortress City Ruins too. There's something ominous there, like darkness itself? I'll come too, big brother.<end>"
+
+["260025"]
+japanese = "城塞都市跡で怪現象が起こる、とな。<line-break>うごめく闇のような何か…。<line-break>ふうむ、どうも嫌な予感がするわい。<end>"
+english = "A strange phenomenon at the Fortress City Ruins, you say? Something like writhing darkness... Hmm. I have a bad feeling about this.<end>"
+
+["260026"]
+japanese = "城塞都市跡で起こる怪現象のことは、<line-break>私もついこの間耳にしたばかりだ。<line-break>冒険者の間では噂らしいな。<line-break>しかし、場所が不気味な古代王国の<line-break>遺跡だというのもあって、<line-break>なかなか腰をあげる者がいない、とも。<line-break>…私か？\u3000まあ、<line-break><value:$28>が行くというなら、<line-break>付き合わんでもないが…。<end>"
+english = "I only recently heard about the strange phenomenon at the Fortress City Ruins myself. It seems to be a rumor among adventurers. But since the place is the eerie ruin of an ancient kingdom, they say few are willing to make the trip. ...Me? Well, if <value:$28> is going, I suppose I might come along...<end>"
+
+["260027"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260028"]
+japanese = "城塞都市跡の噂？<line-break>黒い闇みたいな生き物がいるとか、<line-break>怪現象が起きるっていう話ね。<line-break>ギルドから報酬も出るし、<line-break>行ってみる？<end>"
+english = "The rumor about the Fortress City Ruins? The one about a creature like black darkness and strange phenomena occurring there. The Guild is offering a reward, so shall we go?<end>"
+
+["260029"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260030"]
+japanese = "私もお客さんから<line-break>聞いたことがあります。<line-break>\u3000<line-break>なんでも城塞都市跡に<line-break>黒い闇のようなお化けが出るとか…。<line-break>し、調べにいっちゃうんですか？<end>"
+english = "I've heard about it from customers too. Apparently a ghost like black darkness appears at the Fortress City Ruins... A-are you really going to investigate?<end>"
+
+["260031"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260032"]
+japanese = "（次元のはざまに落ちたネメアを<line-break>\u3000助けるために、大陸の南西にある島へ<line-break>\u3000行かなくてはならない）<end>"
+english = "(To rescue Nemea from the Interdimensional Rift, I must go to the island southwest of the continent.)<end>"
+
+["260033"]
+japanese = "大陸の南西にある島に行けば、<line-break>ネメア様を助けることができるのね？<line-break>行きましょう、<value:$28>！<end>"
+english = "We can save Nemea if we go to the island southwest of the continent, right? Let's go, <value:$28>!<end>"
+
+["260034"]
+japanese = "大陸の南西にある島といえば、<line-break>闇の門の島と呼ばれておる場所じゃ。<line-break>行こうぞ、<value:$28>よ！<end>"
+english = "The island southwest of the continent is the place called the Island of the Dark Gate. Let us go, <value:$28>!<end>"
+
+["260035"]
+japanese = "大陸の西側の海は、民間船はもちろん、<line-break>海賊だって寄りつかない場所ですよ。<line-break>そんな所に行くんですか？<end>"
+english = "Not even pirates venture into the seas west of the continent, let alone civilian ships. Are you really going to such a place?<end>"
+
+["260036"]
+japanese = "勇者様を俺たちが助けるなんて、<line-break>くぅううううう、燃えるぜぇ！<line-break>行くぜぇ、<value:$28>！<end>"
+english = "Us, rescuing the Hero? Ooooh, I'm fired up! Let's go, <value:$28>!<end>"
+
+["260037"]
+japanese = "ネメアを助けることができるのは、<line-break>ボクたちだけなんだ。<line-break>行こうよ、<value:$28>。<line-break>次元のはざまにつながっている<line-break>大陸の南西にある島、<line-break>闇の門の島に！<end>"
+english = "We're the only ones who can save Nemea. Let's go, <value:$28>―to the Island of the Dark Gate, southwest of the continent, which connects to the Interdimensional Rift!<end>"
+
+["260038"]
+japanese = "私はなんとしても、<line-break>ネメア様を救いたいの！<line-break>力を貸して、<value:$28>！<line-break>オルファウスの言っていた<line-break>大陸の南西にある島、<line-break>闇の門の島へ行くのよ！<end>"
+english = "I want to save Nemea, no matter what! Lend me your strength, <value:$28>! We're going to the island southwest of the continent that Orphaus mentioned: the Island of the Dark Gate!<end>"
+
+["260039"]
+japanese = "大陸の南西、闇の門の島です。<line-break>困難が待ち受けているでしょうが、<line-break>あなたの力を信じていますよ。<end>"
+english = "Our destination is the Island of the Dark Gate, southwest of the continent. Hardship doubtless awaits, but I believe in your strength.<end>"
+
+["260040"]
+japanese = "やっぱ、ネメア様がいないと<line-break>ディンガル帝国ってダメなのよ。<line-break>くやしいけど、あたしじゃ力不足なの。<line-break>だから、ネメア様を助けに行くわよ。<line-break>大陸の南西にある島、闇の門の島へね。<line-break><end>"
+english = "The Dingal Empire really is hopeless without Nemea. I hate to admit it, but I'm not strong enough. So we're going to rescue Nemea on the island southwest of the continent: the Island of the Dark Gate.<end>"
+
+["260041"]
+japanese = "大切な事だから確認しとくけど、<line-break>姉ちゃん、オルファウスの話<line-break>忘れてないよな？<line-break>俺たちの目的はネメア救出だぜ。<line-break>そして目的地は大陸の南西にある島だ。<line-break>姉ちゃん、がんばろうな。<end>"
+english = "This is important, so let's make sure: you haven't forgotten what Orphaus said, have you, sis? Our objective is to rescue Nemea, and our destination is the island southwest of the continent. Let's give it our best.<end>"
+
+["260042"]
+japanese = "ネメア様が…まだ、助かる…？<line-break><line-break><line-break>私からもお願いします、<line-break><value:$28>。<end>"
+english = "Nemea can... still be saved...? Please, <value:$28>. I beg you.<end>"
+
+["260043"]
+japanese = "破壊神の復活を阻止するためにも、<line-break>ネメアを次元のはざまから<line-break>救出しなきゃならんな。<line-break>そのためにゃ、大陸の南西にある島へ<line-break>行けばいいんだろ。<line-break>何が待っているか楽しみじゃないか。<end>"
+english = "We must rescue Nemea from the Interdimensional Rift, if only to prevent the God of Destruction's return. For that, we go to the island southwest of the continent, right? I can't wait to see what awaits us.<end>"
+
+["260044"]
+japanese = "大陸の南西にある島へ行くぞ。<line-break>そこで次元のはざまに落ちた<line-break>ネメアを救うのだ。<end>"
+english = "We're going to the island southwest of the continent. There we will rescue Nemea, who fell into the Interdimensional Rift.<end>"
+
+["260045"]
+japanese = "大陸の南西にある島とは、<line-break>闇の門の島のことかのう。<line-break>ま、行ってみればわかる事じゃな。<line-break>ネメア殿を破壊神ウルグに<line-break>するわけにはいかぬからのう。<line-break>何としても助けるのじゃ。<end>"
+english = "Could the island southwest of the continent be the Island of the Dark Gate? Well, we shall know once we go. We cannot allow Nemea to become Urg, the God of Destruction. We must save him at any cost.<end>"
+
+["260046"]
+japanese = "ネメアさんを破壊神なんかに<line-break>させちゃいけないよ！<line-break>僕は絶対に助けてみせる。<line-break><value:$28>も<line-break>力を貸してくれるよね。<line-break>行こうよ、闇の門の島へ！<end>"
+english = "We can't let Nemea become the God of Destruction! I swear I'll save him. You'll lend me your strength too, won't you, <value:$28>? Come on, let's go to the Island of the Dark Gate!<end>"
+
+["260047"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260048"]
+japanese = "ネメアなんて興味ないけど、<line-break>破壊神に復活されたりしたら<line-break>アタクシたちエルフは大迷惑よ！<line-break>大陸の南西にある島に行って、<line-break>破壊神の復活を止めさせるわよ！<end>"
+english = "I have no interest in Nemea, but if the God of Destruction returns, we Elves will be terribly inconvenienced! We're going to the island southwest of the continent to stop that resurrection!<end>"
+
+["260049"]
+japanese = "ネメア救出ボゲー<line-break>a<end>"
+english = "Rescue Nemea Bogee a<end>"
+
+["260050"]
+japanese = "ネメアさんを助けないと<line-break>破壊神になっちゃうんでしょ？<line-break>それって絶対にダメだよぉ！<line-break>大陸の南西にある島に行けば<line-break>ネメアさんを助けられるんだよ。<line-break><value:$28>、助けに行くよね？<end>"
+english = "If we don't save Nemea, he'll become the God of Destruction, right? We absolutely can't let that happen! We can save him by going to the island southwest of the continent. You're going to help, aren't you, <value:$28>?<end>"
+
+["260051"]
+japanese = "……………。<line-break><line-break><line-break>闇の門の島へ行くぞ。<end>"
+english = "……………. We're going to the Island of the Dark Gate.<end>"
+
+["260052"]
+japanese = "次元のはざまに落とされてなお<line-break>生を保つとは、さすがは勇者ネメアだ。<line-break>しかし、それが限界か。<line-break>大陸南西の島とやらに向かうぞ、<line-break><value:$28>。<line-break>破壊神など、降臨させてはならん。<end>"
+english = "Still alive after being cast into the Interdimensional Rift―worthy indeed of Nemea the Hero. But perhaps this is the limit. We leave for that island southwest of the continent, <value:$28>. The God of Destruction must not be allowed to descend.<end>"
+
+["260053"]
+japanese = "勇者ネメアが破壊神になったら、<line-break>世界中の吟遊詩人が大騒ぎだよ。<line-break>それは、ぼくとしても困るなぁ。<line-break>大陸南西にある闇の門の島に行って、<line-break>破壊神の復活を阻止しようよ。<line-break>ネメアの救出もできてお得だしね。<end>"
+english = "If Nemea the Hero becomes the God of Destruction, bards all over the world will make an enormous fuss. That would be a problem for me too. Let's go to the Island of the Dark Gate southwest of the continent and prevent the God of Destruction's return. We get to rescue Nemea too, so it's quite a bargain.<end>"
+
+["260054"]
+japanese = "ネメア様が生きておられる！<line-break>闇の門の島で、まだ…まだ、<line-break>お救いできる！<line-break><value:$28>、頼む！<line-break>何としてもネメア様を<line-break>お救いしてくれ！<end>"
+english = "Nemea is alive! There is still... still a chance to save him on the Island of the Dark Gate! Please, <value:$28>! Save Nemea, no matter what it takes!<end>"
+
+["260055"]
+japanese = "大陸の南西、闇の門の島で、<line-break>ネメアを救出することは、<line-break>破壊神復活を阻止することと一体です。<line-break>迷わず向かいましょう、<line-break><value:$28>様。<end>"
+english = "Rescuing Nemea on the Island of the Dark Gate, southwest of the continent, is one and the same as preventing the God of Destruction's return. Let us go without hesitation, <value:$28>.<end>"
+
+["260056"]
+japanese = "ネメアを救出することが、<line-break>破壊神の復活を阻止することに<line-break>なるのね？<line-break>場所は大陸南西にある闇の門の島。<line-break>行こう、お兄ちゃん。<end>"
+english = "Rescuing Nemea will prevent the God of Destruction's return, right? The place is the Island of the Dark Gate, southwest of the continent. Let's go, big brother.<end>"
+
+["260057"]
+japanese = "次元のはざまに落とされてなお<line-break>生を保っておるとは…<line-break>やはりネメア、ただものではないわい。<line-break>闇の門の島へ急ぐのじゃ！<end>"
+english = "Still alive after being cast into the Interdimensional Rift... Nemea truly is extraordinary. Hurry to the Island of the Dark Gate!<end>"
+
+["260058"]
+japanese = "勇者ネメアを救うことが<line-break>破壊神の再臨を阻止することに<line-break>なるとは…。<line-break>この先待っている困難が今までに<line-break>ないものになるだろうことは、<line-break>想像に難くないな…。<end>"
+english = "To think that saving Nemea the Hero will prevent the God of Destruction's return... It is easy to imagine that the hardships ahead will be unlike any we have faced before...<end>"
+
+["260059"]
+japanese = "早くネメアを助けて<line-break>破壊神の復活を阻止するんだ。<line-break>\u3000<line-break>大陸南西の島に急ぐぞ。<line-break><value:$28>。<end>"
+english = "We must hurry, save Nemea, and prevent the God of Destruction's return. Let's get to the island southwest of the continent, <value:$28>.<end>"
+
+["260060"]
+japanese = "ネメアを助けるために<line-break>闇の門の島に行かなくちゃ…。<line-break>バイアシオン南西のあの島よ…。<line-break>破壊神にさせない為にも<line-break>急がないと。<line-break>行きましょ、<value:$28>！<end>"
+english = "We have to go to the Island of the Dark Gate to save Nemea... That island southwest of Baiashion... We must hurry to keep him from becoming the God of Destruction. Let's go, <value:$28>!<end>"
+
+["260061"]
+japanese = "大陸の南西にある島に行けば、<line-break>ネメアを助けることができると<line-break>オルファウスが言っていました。<end>"
+english = "Orphaus said we could save Nemea by going to the island southwest of the continent.<end>"
+
+["260062"]
+japanese = "大変です！<line-break>ネメアさんが破壊神になっちゃう<line-break>なんて…！<line-break><value:$28>さん！<line-break>急いでオルファウスさんが言っていた、<line-break>大陸の南西にある島へ行きましょう！<end>"
+english = "This is terrible! Nemea is going to become the God of Destruction...! <value:$28>! Hurry, let's go to the island southwest of the continent that Orphaus mentioned!<end>"
+
+["260063"]
+japanese = "僕は気が進まない。<line-break>ネメアなんて<line-break>一生次元のはざまにいればいいんだ。<end>"
+english = "I don't want to go. Nemea can stay in the Interdimensional Rift forever, for all I care.<end>"
+
+["260064"]
+japanese = "（アキュリュースの船着き場にいる<line-break>\u3000女性に、帝国はあの陽より輝く、と<line-break>\u3000合い言葉を言うんだ）<line-break>（そうすればアンギルダンの所へ<line-break>\u3000案内してくれるはず）<end>"
+english = "(Tell the woman at Aqyurius Wharf the password: “The Empire shines brighter than that sun.”) (Then she should take me to Angeerdan.)<end>"
+
+["260065"]
+japanese = "合い言葉を忘れた、ですって？<line-break><value:$28>、世の中にはね、<line-break>取り返しのつかないこともあるのよ。<line-break>………………。<line-break>…もう、今回だけよ。<line-break>帝国はあの陽より輝く、よ。<end>"
+english = "You forgot the password? <value:$28>, some mistakes in this world cannot be undone. ………………. Fine, but just this once. It's “The Empire shines brighter than that sun.”<end>"
+
+["260066"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260067"]
+japanese = "アキュリュースにいる女の人に<line-break>合い言葉を言えばバッチリです！<line-break>でも、合い言葉は忘れちゃいました。<end>"
+english = "Just tell the woman in Aqyurius the password and everything will be perfect! Except I've forgotten the password.<end>"
+
+["260068"]
+japanese = "ああ、アキュリュースの船着き場に<line-break>いる女に言う、合い言葉だな。<line-break>もちろんおぼえてるぜ！<line-break>君の瞳はあの陽より輝く、だな。<line-break>昔から言うだろ。<line-break>合い言葉は愛言葉ってな、ぷぷっ。<end>"
+english = "Oh, the password for the woman at Aqyurius Wharf. Of course I remember! “Your eyes shine brighter than that sun.” You know what they say: the best passphrase is a phrase of passion. Heh heh.<end>"
+
+["260069"]
+japanese = "アキュリュースの港にいる<line-break>女性に言う合い言葉だね。<line-break>もちろんボクだって知ってるよ。<line-break>帝国はあの陽より輝く、<line-break>…ま、間違ってないよね？<end>"
+english = "The password for the woman at the harbor in Aqyurius, right? Of course I know it too. “The Empire shines brighter than that sun”... Th-that's right, isn't it?<end>"
+
+["260070"]
+japanese = "情けない…。<line-break>合い言葉を忘れるような人間に、<line-break>任務を受ける資格はないわ！<end>"
+english = "Pathetic... Anyone who forgets the password has no right to accept the mission!<end>"
+
+["260071"]
+japanese = "おやおや、合い言葉をお忘れですか？<line-break>いかに私と言えども、それは…。<line-break><line-break>…帝国はあの陽より輝く。<line-break>ですよ。<line-break>思い出しましたか？<end>"
+english = "Oh dear, have you forgotten the password? Even I cannot possibly... “The Empire shines brighter than that sun.” There. Do you remember now?<end>"
+
+["260072"]
+japanese = "合い言葉を忘れちゃったの？<line-break>これから志願しようってんなら、<line-break>か～なり致命的だよ、ソレ。<line-break>帝国は…あの陽より輝く。<line-break>思い出した？<end>"
+english = "You forgot the password? If you're about to volunteer, that's a re-eally serious problem. “The Empire... shines brighter than that sun.” Remember now?<end>"
+
+["260073"]
+japanese = "もしかして姉ちゃん、<line-break>合い言葉を忘れちゃったのか？<line-break>ほんと、だらしないよな。<line-break>帝国はあの陽より輝く、だぜ。<line-break>アキュリュースの港にいる<line-break>女性に言えばいいのさ。<end>"
+english = "Don't tell me you forgot the password, sis. You're hopeless. It's “The Empire shines brighter than that sun.” Just say it to the woman at the harbor in Aqyurius.<end>"
+
+["260074"]
+japanese = "合言葉を忘れてしまったの？<line-break>…帝国はあの陽より輝く、よ。<line-break>帝国軍は厳しいから、しっかりね。<end>"
+english = "You forgot the password? It's “The Empire shines brighter than that sun.” The Imperial Army is strict, so stay sharp.<end>"
+
+["260075"]
+japanese = "アンギルダンのとっつぁんへの<line-break>合い言葉を忘れた、だぁ？<line-break>はははははっ！<line-break>おい、お前も人が悪いぜ、<line-break>どうして俺が、<line-break>それを知ってるってんだよ。<end>"
+english = "You forgot the password for old man Angeerdan? Hahahahaha! Oh, you're a cruel one. What makes you think I'd know it?<end>"
+
+["260076"]
+japanese = "帝国はあの陽より輝く、だ。<line-break>アキュリュースの港にいる女性に<line-break>言えば案内してくれるのだろう。<line-break>それにしても、落ちぶれた<line-break>アンギルダンの手助けをするとは、<line-break>お前はつくづく物好きだな。<end>"
+english = "“The Empire shines brighter than that sun.” Tell it to the woman at the harbor in Aqyurius, and she will guide you. Still, helping Angeerdan after his fall from grace... You truly do have peculiar tastes.<end>"
+
+["260077"]
+japanese = "アキュリュースの港にいる<line-break>女性に言う合い言葉のことじゃな。<line-break>もちろん知っておるぞ。<line-break>帝国はあの陽より輝く、じゃ。<line-break>見た目は年寄りかもしれんが、<line-break>記憶力は若造に負けぬぞ。<end>"
+english = "You mean the password for the woman at the harbor in Aqyurius. Of course I know it. “The Empire shines brighter than that sun.” I may look old, but my memory is a match for any youngster's.<end>"
+
+["260078"]
+japanese = "<value:$28>がアンギルダンさんに<line-break>教えてもらった合い言葉は、<line-break>帝国はあの陽より輝く、だったよね？<line-break>これをアキュリュースの船着き場にいる<line-break>女性に言えば、アンギルダンさんの所に<line-break>案内してくれるはずだよ。<end>"
+english = "The password Angeerdan taught you was “The Empire shines brighter than that sun,” wasn't it, <value:$28>? Tell it to the woman at Aqyurius Wharf, and she should take you to Angeerdan.<end>"
+
+["260079"]
+japanese = "帝国はあの陽より輝く。<line-break>私が教えたということは、<line-break>アンギルダンには内緒だぞ。<end>"
+english = "“The Empire shines brighter than that sun.” Do not tell Angeerdan that I taught you.<end>"
+
+["260080"]
+japanese = "なによ！\u3000なによ！<line-break>合い言葉がなんだっていうのよ！<line-break>言えなきゃ死ぬわけじゃないでしょ！<line-break>アタクシのような高貴なエルフは、<line-break>無意味なことを記憶しないように<line-break>しているのよ！\u3000わかったわね！<end>"
+english = "What?! What?! Who cares about some password?! It's not as if I'll die if I can't say it! A noble Elf like me makes a point of never remembering anything meaningless! Understand?<end>"
+
+["260081"]
+japanese = "アンギルダンの合い言葉ボゲー<end>"
+english = "Angeerdan's password Bogee<end>"
+
+["260082"]
+japanese = "アンギルダンのお爺ちゃんに<line-break>会いに行く時には合い言葉がいるよぉ。<line-break><value:$28>はおぼえてる？<line-break>帝国はあの陽より輝く、だからね。<line-break>アキュリュースの船着き場で、<line-break>女の人に会ったら言うんだよぉ。<end>"
+english = "You need a password when you go to see Grandpa Angeerdan. Do you remember it, <value:$28>? It's “The Empire shines brighter than that sun.” Say it when you meet the woman at Aqyurius Wharf.<end>"
+
+["260083"]
+japanese = "……………。<line-break><line-break><line-break>帝国はあの陽より輝く、だ。<end>"
+english = "……………. “The Empire shines brighter than that sun.”<end>"
+
+["260084"]
+japanese = "帝国に通じる合い言葉、だと？<line-break>そんなものを、どうして私が<line-break>知っていると思ったのだ。<line-break>見損なったぞ、<value:$28>。<end>"
+english = "A password connected to the Empire? Why would you think I knew such a thing? I am disappointed in you, <value:$28>.<end>"
+
+["260085"]
+japanese = "アキュリュースの港にいる女の人って<line-break>ディンガル諜報部の人だよね？<line-break>合い言葉なんて諜報部って感じだもの。<line-break>ぼくも合い言葉を言ってみたいなぁ。<line-break>帝国はあの陽より輝く、なんて<line-break>普通は言わないもんね。<end>"
+english = "The woman at the harbor in Aqyurius is with Dingal Intelligence, right? Passwords feel very... intelligence agency. I'd like to say one too. People don't normally say things like “The Empire shines brighter than that sun.”<end>"
+
+["260086"]
+japanese = "やれやれ、アンギルダンも、<line-break>物好きな奴だ。<line-break>だが、私は彼とは違うぞ。<line-break>どんなに素質があろうとも、<line-break>合い言葉を忘れるような人間に、<line-break>未来はありはしない。<end>"
+english = "Good grief. Angeerdan has peculiar tastes. But I am not like him. No matter how much promise someone may show, anyone who forgets a password has no future.<end>"
+
+["260087"]
+japanese = "ディンガル帝国の合い言葉…。<line-break>………………<line-break>あっ、いえ…<line-break><value:$28>様の<line-break>邪魔になるようなことは<line-break>いたしません。<end>"
+english = "The Dingal Empire's password... ……………… Ah, no... I would never do anything that might hinder you, <value:$28>.<end>"
+
+["260088"]
+japanese = "ディンガル帝国の合い言葉かぁ。<line-break>欲しい国一杯ありそう。<line-break>あっ…ごめんなさい。<line-break>お兄ちゃん…<line-break>ヴィアはそんなことしないよ。<end>"
+english = "The Dingal Empire's password... I bet lots of countries would want it. Oh... sorry, big brother. Via would never do that.<end>"
+
+["260089"]
+japanese = "アンギルダンに教えられた合言葉？<line-break>たしか、アキュリュースの港にいる<line-break>女に言えと告げられたアレじゃろう？<line-break>しかし、うーむ、何だったか。<line-break>何せこの歳、すぐ忘れてしまってな。<line-break>ま、思い出したら、その時教えるわい。<end>"
+english = "The password Angeerdan taught you? That would be the one he told you to say to the woman at the harbor in Aqyurius, yes? But hmm, what was it? At my age, things slip my mind so quickly. Well, I shall tell you when I remember.<end>"
+
+["260090"]
+japanese = "アンギルダンに教えられた合い言葉を<line-break>忘れてしまったのか？<line-break><line-break>…帝国はあの陽より輝く。<line-break>アキュリュースの港にいる女性に、<line-break>そう伝えるんだったな。<end>"
+english = "Have you forgotten the password Angeerdan taught you? ...“The Empire shines brighter than that sun.” That was what you were to tell the woman at the harbor in Aqyurius.<end>"
+
+["260091"]
+japanese = "アキュリュースの港にいる女に<line-break>言う合言葉か？ <line-break>帝国はあの陽より輝く、だ。<end>"
+english = "The password for the woman at the harbor in Aqyurius? “The Empire shines brighter than that sun.”<end>"
+
+["260092"]
+japanese = "アキュリュースの港にいる女性に<line-break>合い言葉を言えばいいのよ。<line-break><line-break>合い言葉は確か…、<line-break>帝国はあの陽より輝く、だったかしら。<end>"
+english = "You just need to tell the woman at the harbor in Aqyurius the password. I believe it was... “The Empire shines brighter than that sun.”<end>"
+
+["260093"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260094"]
+japanese = "え、合言葉ですか？<line-break>覚えてますよ。<line-break>\u3000<line-break>帝国はあの陽より輝く、です。<line-break>これをアキュリュースの港にいる<line-break>女性に言えばいいんですよ。<end>"
+english = "What, the password? I remember it. “The Empire shines brighter than that sun.” Just say that to the woman at the harbor in Aqyurius.<end>"
+
+["260095"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260096"]
+japanese = "（言葉をしゃべるゴブリン。<line-break>\u3000奴ら、いや彼らかな…の持ち去った<line-break>\u3000禁断の聖杯を取り戻さないと）<line-break>（ゴブリンたちは賢者の森へ行くつもり<line-break>\u3000みたいだから追いかけなくちゃ）<end>"
+english = "(Talking Goblins. I have to recover the Forbidden Grail those Goblins―no, perhaps I should say those fellows―carried off.) (They seem to be heading for Sage's Forest, so I have to follow.)<end>"
+
+["260097"]
+japanese = "あのゴブリン３匹、理由はわからない<line-break>けど賢者の森を目指してるのよね。<line-break><line-break>私たちもぐずぐずせずに賢者の森へ<line-break>急ぎましょ！\u3000絶対に禁断の聖杯を<line-break>取り戻すんだから。<end>"
+english = "Those three Goblins are heading for Sage's Forest, though we don't know why. We can't dawdle either. Let's hurry to Sage's Forest! We are getting the Forbidden Grail back, no matter what.<end>"
+
+["260098"]
+japanese = "話のできるゴブリンのゆくえのう…。<line-break>すまぬが、わしも知らないんじゃ。<line-break><line-break>じゃが、そのゴブリン共はかなり<line-break>目立つはずじゃから、いずれ見つかる<line-break>に違いないわい。<end>"
+english = "The whereabouts of the talking Goblins...? Forgive me, but I do not know either. Still, those Goblins must stand out considerably, so they are bound to be found eventually.<end>"
+
+["260099"]
+japanese = "あっ、そのしゃべるゴブリンなら～、<line-break>あっちへ行きましたよ？<end>"
+english = "Oh, those talking Goblins? They went that way.<end>"
+
+["260100"]
+japanese = "なに、しゃべるゴブリンだって？<line-break>俺だって知らねえぜ。<line-break>お前と五分ゴブ、ってわけだ。<end>"
+english = "What, talking Goblins? I don't know either. So we're on equal Goblin footing.<end>"
+
+["260101"]
+japanese = "しゃべるゴブリンが禁断の聖杯を<line-break>持って逃げてるんだって？<line-break>早く探さなくっちゃ！<line-break>い、行った先は、ボクにも<line-break>わかんないケドさっ！<end>"
+english = "Talking Goblins are running off with the Forbidden Grail? We have to find them quickly! I-I don't know where they went either, though!<end>"
+
+["260102"]
+japanese = "もう忘れたの？<line-break>奴らは賢者の森を目指しているわ。<line-break><line-break>ゴブリンのすることだから、<line-break>理由までは知らないわ。<end>"
+english = "Have you forgotten already? They're heading for Sage's Forest. They're Goblins, so I have no idea why.<end>"
+
+["260103"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260104"]
+japanese = "へえ、しゃべるゴブリンが、<line-break>禁断の聖杯を持って？<line-break><line-break>カモがネギしょってるというか、<line-break>何だかとってもすごい珍獣ぶり。<line-break>カルラさんも探そっかな～。<end>"
+english = "Oh? Talking Goblins carrying the Forbidden Grail? It's like prey walking around with its own garnish―or simply an exceptionally bizarre rare beast. Maybe Karula should look for them too.<end>"
+
+["260105"]
+japanese = "姉ちゃん、そんなことまで<line-break>俺に聞かないとダメか？<line-break>しょうがねえな…。<line-break>禁断の聖杯持ったゴブリンは、<line-break>賢者の森を目指してんだ。<line-break>頼れる弟がいてよかったな。<end>"
+english = "Sis, do you really have to ask me even that? Fine... The Goblins with the Forbidden Grail are heading for Sage's Forest. Aren't you glad you have such a dependable little brother?<end>"
+
+["260106"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260107"]
+japanese = "ほほう、しゃべるゴブリンがねえ。<line-break>俺が聞いたとこでは、賢者の森へ<line-break>行ったとか何とか…。<end>"
+english = "Well, well, talking Goblins. From what I heard, they went to Sage's Forest, or something like that...<end>"
+
+["260108"]
+japanese = "禁断の聖杯を持っているとはいえ、<line-break>ゴブリンごときに煙に巻かれるとは。<line-break>フッ、面白い奴だな。<end>"
+english = "The Goblins may have the Forbidden Grail, but to let mere Goblins give you the slip... Hmph. You are amusing.<end>"
+
+["260109"]
+japanese = "禁断の聖杯を持ち逃げしとる<line-break>ゴブリンどもの行方じゃろう？<line-break>賢者の森とかワシは聞いたが…。<end>"
+english = "You want to know where the Goblins who stole the Forbidden Grail went, yes? I heard something about Sage's Forest...<end>"
+
+["260110"]
+japanese = "ああ、そのゴブリンたちなら、<line-break>賢者の森を目指しているらしいよ。<line-break>どうしてかは知らないけど…。<end>"
+english = "Oh, apparently those Goblins are heading for Sage's Forest. I don't know why, though...<end>"
+
+["260111"]
+japanese = "ゴブリンたちは賢者の森を目指して<line-break>いるらしい。禁断の聖杯は<line-break>取り戻さねばならん。<end>"
+english = "The Goblins seem to be heading for Sage's Forest. We must recover the Forbidden Grail.<end>"
+
+["260112"]
+japanese = "低能なゴブリンがしゃべるなんて<line-break>生意気よ！\u3000許せないわ！<line-break>高貴なエルフのアタクシが聖杯を<line-break>取り返して、元の低能なゴブリンに<line-break>戻してあげる。<end>"
+english = "How insolent of those dim-witted Goblins to talk! I will not allow it! I, a noble Elf, shall reclaim the Grail and turn them back into the dim-witted Goblins they were before.<end>"
+
+["260113"]
+japanese = "ゴブリン３匹はどこへ？ボゲー<end>"
+english = "Where did the three Goblins go? Bogee<end>"
+
+["260114"]
+japanese = "あははっ、あのおもしろい<line-break>ゴブリン３人組のことでしょぉ？<line-break><line-break>えぇとね、ルルアンタ、<line-break>賢者の森へ行ったって聞いたよぉ。<line-break>ふふっ、また会えたらいいなぁ。<end>"
+english = "Ahaha, you mean that funny trio of Goblins? Let's see... Lulluantha heard they went to Sage's Forest. Hee hee, I hope we meet again.<end>"
+
+["260115"]
+japanese = "…ゴブリンごとき雑魚に興味はない。<end>"
+english = "...I have no interest in weaklings like mere Goblins.<end>"
+
+["260116"]
+japanese = "いかに暇な冒険者と言えど、<line-break>ゴブリンの後を追いかけるなど<line-break>愚かしいとは思わないのか？<end>"
+english = "Even for an adventurer with time to spare, do you not consider chasing after Goblins foolish?<end>"
+
+["260117"]
+japanese = "あっ、そのヘンテコなゴブリン！<line-break>さっきそこですれ違ってね、<line-break>惜しいことをしたって思ってたんだ！<line-break>賢者の森が何とかって言ってたけど、<line-break>たどりつけるのかな？<end>"
+english = "Oh, those strange Goblins! I passed them just over there and thought I'd missed a wonderful opportunity! They said something about Sage's Forest, but I wonder whether they'll make it there.<end>"
+
+["260118"]
+japanese = "しゃべるゴブリンたちの<line-break>行った先、だと？<line-break>どいてくれ、私は忙しいのだ。<end>"
+english = "You ask where the talking Goblins went? Stand aside. I am busy.<end>"
+
+["260119"]
+japanese = "さ、さあ…さすがにゴブリンの<line-break>考えていることまでは…。<end>"
+english = "I-I don't know... Even I cannot say what Goblins are thinking...<end>"
+
+["260120"]
+japanese = "しゃべるゴブリンって珍しいね。<line-break>ヴィアも見てみたいな。<end>"
+english = "Talking Goblins are rare. Via would like to see them too.<end>"
+
+["260121"]
+japanese = "三匹のゴブリン？\u3000<line-break>ほぉ、なかなか面白いではないか。<line-break><line-break>しゃべるゴブリンとやらも、<line-break>それを必死で追いかけているおぬしもな。<line-break>どれ、わしも手伝ってやろうかのう！<end>"
+english = "Three Goblins? Oh, how interesting. Both these talking Goblins and your desperate pursuit of them amuse me. Perhaps I shall help you!<end>"
+
+["260122"]
+japanese = "禁断の聖杯によって知恵をつけた<line-break>ゴブリンたちが、賢者の森を<line-break>目指しているんだったな。<line-break>ゴブリンのすることだから、<line-break>意図まではわからないのだが、<line-break>聖杯は取り戻さないとな。<end>"
+english = "The Goblins who gained wisdom from the Forbidden Grail were heading for Sage's Forest, weren't they? Since they are Goblins, I cannot fathom their intentions, but we must recover the Grail.<end>"
+
+["260123"]
+japanese = "奴らなら禁断の聖杯を持って<line-break>賢者の森に向かったらしい。<end>"
+english = "Apparently they took the Forbidden Grail and headed for Sage's Forest.<end>"
+
+["260124"]
+japanese = "しゃべるゴブリンなら<line-break>禁断の聖杯を持って<line-break>賢者の森へ向かったらしいわ。<end>"
+english = "Apparently the talking Goblins took the Forbidden Grail and headed for Sage's Forest.<end>"
+
+["260125"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260126"]
+japanese = "言葉をしゃべるゴブリンの行方ですか？<line-break>賢者の森を目指してるらしいですよ。<end>"
+english = "You want to know where the talking Goblins went? Apparently they're heading for Sage's Forest.<end>"
+
+["260127"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260128"]
+japanese = "（ゴブゴブ団を名乗る３匹のゴブリンに<line-break>\u3000奪われた聖杯を取り戻すために<line-break>\u3000アイリーンと旅に出たんだ）<line-break>（冒険者をやってれば、どこかの洞窟で<line-break>\u3000バッタリ出くわすかもしれない。<line-break>\u3000その時のために強くならなきゃ）<end>"
+english = "(I set out with Irene to recover the Grail stolen by the three Goblins calling themselves the Gob-Gob Gang.) (If I keep working as an adventurer, I may run into them unexpectedly in some cave. I need to grow stronger for that moment.)<end>"
+
+["260129"]
+japanese = "３匹のゴブリンに奪われた聖杯ね。<line-break>あいつら聖杯のおかげで話ができる<line-break>ようになったって喜んでたけど…。<line-break>私たちだって聖杯を取り戻すまで<line-break>ロストールには帰れないんだからね。<end>"
+english = "The Grail stolen by those three Goblins. They were delighted that it had given them the ability to talk, but... We cannot return to Rostorl until we recover it.<end>"
+
+["260130"]
+japanese = "禁断の聖杯を持っておるのが、<line-break>ゴブゴブ団なのじゃな。<line-break>話をするゴブリンとはおもしろい。<line-break>妙な必殺技を使うということじゃが、<line-break>な～に、わしがおる以上安心するが<line-break>よいぞ。早く戦いたいものよのう。<end>"
+english = "So the Gob-Gob Gang has the Forbidden Grail. Talking Goblins―how interesting. I hear they use some peculiar special attacks, but fear not while I am here. I can hardly wait to fight them.<end>"
+
+["260131"]
+japanese = "ゴブゴブ団って名乗るゴブリンたちが<line-break>持ってるんですよね。それで魔人も<line-break>聖杯をねらっている…。<line-break>私ってけっこう記憶力っていいんです。<line-break>でも、どうしますか？\u3000魔人ってたぶん<line-break>強いですよ。私、逃げちゃうかも…。<end>"
+english = "The Goblins calling themselves the Gob-Gob Gang have it, right? And a fiend is after the Grail too... I have quite a good memory, you know. But what should we do? The fiend is probably strong. I might run away...<end>"
+
+["260132"]
+japanese = "ゴブリンのくせにゴブゴブ団なんて<line-break>かっこいい名前をつけやがって。<line-break>ちょっとくやしいじゃねえか。<line-break>ダジャレを知らない不届き者なら<line-break>聖杯を取り返すついでに<line-break>成敗してしてやるぜ！<end>"
+english = "They're Goblins, yet they had the nerve to give themselves a cool name like the Gob-Gob Gang. I'm a little jealous. If those insolent fools don't appreciate puns, I'll punish them while we're taking back the Grail!<end>"
+
+["260133"]
+japanese = "オルファウスさんの話だと魔人のひとり<line-break>アーギルシャイアもねらっているんだ。<line-break>彼女の方が先に手にいれたりしたら…。<line-break>ゴメン…弱気になっちゃダメだよね。<line-break>彼女より先にゴブリンたちを<line-break>捜し出して、聖杯を取り戻そうよ。<end>"
+english = "According to Orphaus, one of the fiends, Argyleshire, is after it too. If she gets it first... Sorry. I shouldn't lose heart, should I? Let's find the Goblins before she does and recover the Grail.<end>"
+
+["260134"]
+japanese = "持ち主に英知を与える禁断の聖杯。<line-break>その力によって話すことのできるように<line-break>なった３匹のゴブリンを捜すのね？<line-break>お前が魔人アーギルシャイアより先に<line-break>禁断の聖杯を手に入れられるかどうか<line-break>見届けさせてもらうわ。<end>"
+english = "The Forbidden Grail grants wisdom to its bearer, and its power enabled three Goblins to speak. You are going to find them, yes? I shall watch and see whether you can obtain the Forbidden Grail before the fiend Argyleshire.<end>"
+
+["260135"]
+japanese = "禁断の聖杯は、ゴブゴブ団を名乗る<line-break>３匹のゴブリンが持っています。<line-break><line-break>破壊神ウルグの円卓の騎士のひとり<line-break>アーギルシャイアも聖杯を狙って<line-break>いますから早めに手に入れてください。<end>"
+english = "The Forbidden Grail is in the hands of three Goblins calling themselves the Gob-Gob Gang. Argyleshire, one of the Knights of the Round Table serving Urg, the God of Destruction, is also after the Grail, so please recover it quickly.<end>"
+
+["260136"]
+japanese = "ゴブゴブ団なんてゴブリンの浅知恵<line-break>にしてはいいネーミングセンスよね。<line-break><line-break>だ・け・ど、世界の平和を守るために<line-break>禁断の聖杯を返してもらわないとね。<line-break>魔人なんかには負けないわよ。<end>"
+english = "For Goblins of such limited wit, “Gob-Gob Gang” shows surprisingly good naming sense. But we still need them to return the Forbidden Grail so we can protect world peace. I won't lose to some fiend.<end>"
+
+["260137"]
+japanese = "姉ちゃんどうすんだよ。賢者様の頼みを<line-break>聞いてやるのか…いや、聞くんだろな。<line-break>昔っから色男に弱いからな姉ちゃんは。<line-break>それなら早くゴブリンどもを見つけて<line-break>禁断の聖杯とやらを手に入れようぜ。<line-break>魔人が見つけるより先にさ。<end>"
+english = "What are you going to do, sis? Take the sage up on his request...? No, of course you will. You've always had a weakness for handsome men. In that case, let's hurry and find those Goblins, then get this Forbidden Grail before the fiend finds it.<end>"
+
+["260138"]
+japanese = "禁断の聖杯は破壊神を蘇らせるために<line-break>造られた闇の神器のひとつよ。<line-break><line-break>禁断の聖杯には、持ち主に英知を与える<line-break>力があるのよ。ゴブリンが賢くなった<line-break>のも、その力が原因でしょうね。<end>"
+english = "The Forbidden Grail is one of the dark artifacts created to resurrect the God of Destruction. It has the power to grant wisdom to its bearer. That power must be what made the Goblins intelligent.<end>"
+
+["260139"]
+japanese = "ゴブリンどももやっかいな物を奪って<line-break>くれたもんだぜ。<line-break>ま、闇の神器だからなぁ。<line-break>しゃーねーな。魔人に奪われると<line-break>やっかいだからゴブリンどもを見つけて<line-break>聖杯を取り戻すとすっか。<end>"
+english = "Those Goblins just had to steal something troublesome, didn't they? Well, it is a dark artifact. Can't be helped. It'll be even more trouble if a fiend takes it, so let's find those Goblins and get the Grail back.<end>"
+
+["260140"]
+japanese = "魔人アーギルシャイア…。<line-break>奴に聖杯を渡すわけにはいかない。<line-break><line-break>なんとしても奴より先に禁断の聖杯を<line-break>手に入れるぞ。これ以上、犠牲者を…<line-break>罪を犯させるわけにはいかないのだ！<end>"
+english = "The fiend Argyleshire... We cannot let the Grail fall into her hands. Whatever it takes, we will secure the Forbidden Grail first. I cannot let her claim any more victims... commit any more sins!<end>"
+
+["260141"]
+japanese = "オルファウス殿の話では３匹のゴブリン<line-break>…ゴブゴブ団とか名乗っとる<line-break>奴らが持っておるというのじゃな。<line-break>しかも魔人がねらっておるらしいとな。<line-break>ならば、なんとしても魔人より先に<line-break>聖杯を取り戻さんといかんのう。<end>"
+english = "According to Lord Orphaus, three Goblins have it... fellows calling themselves the Gob-Gob Gang, or some such. And it seems a fiend is after it as well. Then we must recover the Grail before that fiend does, no matter what.<end>"
+
+["260142"]
+japanese = "オルファウスさんにゴブリンたちから<line-break>禁断の聖杯を取り戻してくれるよう<line-break>頼まれたんだよね。<line-break>魔人アーギルシャイアもねらっている<line-break>みたいだし、早くゴブリンたちを見つけ<line-break>ないといけないね。<end>"
+english = "Orphaus asked us to recover the Forbidden Grail from the Goblins, right? The fiend Argyleshire seems to be after it too, so we need to find the Goblins quickly.<end>"
+
+["260143"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260144"]
+japanese = "禁断の聖杯？\u3000闇の神器？<line-break>高貴なエルフのアタクシが知らない単語<line-break>を並べて困らせようっていうのね。<line-break>残念だったわね。優雅で気品あふれる<line-break>エルフには、人間の粗野で下品な知識は<line-break>不必要なの。わかったかしら？<end>"
+english = "The Forbidden Grail? A dark artifact? You're trying to fluster noble moi with a string of words I don't know. Too bad. A graceful, refined Elf has no need for the crude, vulgar knowledge of humans. Is that clear?<end>"
+
+["260145"]
+japanese = "聖杯を狙う魔人など拙者が<line-break>成敗してくれる…。<line-break><line-break>聖杯と成敗がダジャレになって<line-break>いるのですが、どうですかな？<line-break>やっぱり、ダメですか…。<end>"
+english = "I shall give any fiend after the Grail a grave reckoning... You see, “Grail” and “grave” make a pun. What do you think? No good after all...?<end>"
+
+["260146"]
+japanese = "聖杯を持っているゴブリン３匹は<line-break>ゴブゴブ団って名乗ってるんだよね。<line-break>それでね、お話できるんでしょ。<line-break>なんとかお願いして、聖杯を渡して<line-break>もらえないかなぁ。<end>"
+english = "The three Goblins with the Grail call themselves the Gob-Gob Gang, right? And they can talk, can't they? Maybe we could ask nicely and persuade them to give us the Grail.<end>"
+
+["260147"]
+japanese = "………………。<line-break><line-break><line-break>闇の神器のひとつらしいな。<line-break>魔人アーギルシャイアもねらっている。<line-break>ゴブリンどもを捜すのだ。<end>"
+english = "………………. It appears to be one of the dark artifacts. The fiend Argyleshire is after it as well. Find those Goblins.<end>"
+
+["260148"]
+japanese = "破壊神ウルグを復活させるために<line-break>造られた１２の闇の神器のひとつ…<line-break>ゴブリンもやっかいな物を盗んだな。<line-break>魔人アーギルシャイアに渡すわけにも<line-break>いかない以上、俺たちがゴブリンから<line-break>奪い返すしかないな。<end>"
+english = "One of the twelve dark artifacts created to resurrect Urg, the God of Destruction... Those Goblins stole something truly troublesome. Since we can't let it fall into Argyleshire's hands, we'll have to take it back from them ourselves.<end>"
+
+["260149"]
+japanese = "ゴブゴブ団に奪われし禁断の聖杯。<line-break>闇の神器と呼ばれる聖杯を求め旅を<line-break>する吟遊詩人と勇者…。<line-break>その行く手を阻む魔人アーギルシャイア<line-break>との激しい死闘…うん！\u3000いいよこれ！<line-break>ぼくたち伝説になれるかもしれないね。<end>"
+english = "The Forbidden Grail, stolen by the Gob-Gob Gang. A bard and a hero journey in search of the Grail known as a dark artifact... A fierce battle to the death against the fiend Argyleshire, who bars the way... Yes! This is good! We might become legends!<end>"
+
+["260150"]
+japanese = "禁断の聖杯のありかだと？<line-break><line-break><line-break>まあ、ディンガル諜報部を使えば<line-break>造作もなく調べがつくだろうが…<end>"
+english = "You want to know where the Forbidden Grail is? Well, Dingal Intelligence could discover that easily enough, but...<end>"
+
+["260151"]
+japanese = "その…ゴブゴブ団？\u3000という方々が、<line-break>禁断の聖杯を持ち逃げしていると。<line-break>やっかいですね…。<end>"
+english = "These people called the... Gob-Gob Gang? They have absconded with the Forbidden Grail. How troublesome...<end>"
+
+["260152"]
+japanese = "禁断の聖杯って…<line-break>魔人が狙ってるんでしょ？<line-break>そんなの持って動いてるなんて…<line-break>ゴブリンは危険を感じないのかな？<end>"
+english = "The Forbidden Grail... A fiend is after it, right? Carrying something like that around... Don't the Goblins sense the danger?<end>"
+
+["260153"]
+japanese = "かのゴブリンめら、<line-break>さすがに禁断の聖杯の<line-break>恐ろしさまでは知らぬのだろう。<line-break>このままではきゃつらの身を、<line-break>どんな災厄が襲うか知れぬ。<line-break>急ぎ、ゴブリンたちを探し出すのじゃ！<end>"
+english = "Those Goblins surely do not understand how terrifying the Forbidden Grail truly is. There is no telling what calamity may befall them if this continues. Hurry and find the Goblins!<end>"
+
+["260154"]
+japanese = "聖杯の力か、あのゴブリンたちは<line-break>行動力も高い。どこで出くわすか、<line-break>わかったものじゃない。<line-break>そのチャンスを逃さないためにも、<line-break>腕を鍛えておかないとな、<line-break><value:$28>。<end>"
+english = "Maybe it's the Grail's power, but those Goblins certainly get around. There's no telling where we might run into them. We need to keep our skills sharp so we don't miss our chance, <value:$28>.<end>"
+
+["260155"]
+japanese = "放っておくわけにもいかないだろう。<line-break>魔人アーギルシャイアより先に <line-break>ゴブリンたちを見つけるんだ。<end>"
+english = "We can't just leave this alone. Find the Goblins before the fiend Argyleshire does.<end>"
+
+["260156"]
+japanese = "聖杯を持つゴブリンたちを<line-break>魔人アーギルシャイアより先に<line-break>見つけ出さないと。<line-break>闇の神器を魔人の手に、<line-break>渡すわけにはいかないわ。<end>"
+english = "We have to find the Goblins carrying the Grail before the fiend Argyleshire does. We can't let a dark artifact fall into a fiend's hands.<end>"
+
+["260157"]
+japanese = "闇の神器が魔人アーギルシャイア<line-break>の手に渡ると危険です。 <line-break>\u3000<line-break>探索を急いだ方がいいでしょう。<end>"
+english = "It would be dangerous for the dark artifact to fall into the fiend Argyleshire's hands. We should hurry our search.<end>"
+
+["260158"]
+japanese = "オルファウスさんのお話だと<line-break>聖杯を持ったゴブリンたちを<line-break>魔人がねらっているらしいです。<line-break>魔人に聖杯を取られちゃう前に<line-break>ゴブリンたちを見つけないとですね！<line-break>でも…どこにいるんでしょう？<end>"
+english = "According to Orphaus, a fiend is apparently after the Goblins carrying the Grail. We need to find the Goblins before the fiend takes it! But... where could they be?<end>"
+
+["260159"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260160"]
+japanese = "（猫屋敷のオルファウスと自称魔人の<line-break>\u3000猫ネモの話だと、３匹のゴブリンは<line-break>\u3000エンシャントへ向かったらしい）<line-break>（魔人アーギルシャイアより先に手に<line-break>\u3000入れるためにも、エンシャントへ早く<line-break>\u3000行って町中を捜さなきゃいけない）<end>"
+english = "(According to Orphaus of Cat Manor and Nemo, the cat who calls himself a fiend, the three Goblins apparently headed for Ancient.) (To get the Grail before the fiend Argyleshire does, I need to hurry to Ancient and search the whole city.)<end>"
+
+["260161"]
+japanese = "オルファウスさんの話だと、あいつら<line-break>エンシャントへ向かったんでしょ。<line-break>宿屋とか酒場とか捜してみましょう。<line-break>町中をうろつくゴブリンなんて<line-break>珍しいもの。絶対に目撃者が<line-break>いるはずよ！<end>"
+english = "Orphaus said those three headed for Ancient, right? Let's check the inns and taverns. Goblins wandering around the city would be unusual. Someone must have seen them!<end>"
+
+["260162"]
+japanese = "猫屋敷の賢者殿の話では、<line-break>ゴブゴブ団を名乗る３匹のしゃべる<line-break>ゴブリンはエンシャントにおるのだな。<line-break>そこまでわかっとるんだ、<line-break>迷うことなくエンシャントを<line-break>捜してみようではないか。<end>"
+english = "According to the sage of Cat Manor, the three talking Goblins who call themselves the Gob-Gob Gang are in Ancient. Since we know that much, let us waste no time searching Ancient.<end>"
+
+["260163"]
+japanese = "オルファウスさんの話だと、<line-break>エンシャントにいるんですよね？<line-break>行ってみましょうよ！<line-break>アーギルシャイアより先に見つけないと<line-break>大変なことになっちゃいますよ。<end>"
+english = "Orphaus said they're in Ancient, right? Let's go! If we don't find them before Argyleshire, something terrible could happen.<end>"
+
+["260164"]
+japanese = "エンシャントへ行ったって話なんだろ。<line-break>だったら行けばいいじゃねえか。<line-break>何を迷う必要があるんだよ。<line-break>もしゴブリンどもがいなかったら<line-break>猫屋敷に帰って、俺らをだました<line-break>エセ賢者をぶん殴ってやる。<end>"
+english = "We heard they went to Ancient, right? Then let's just go. What's there to hesitate about? If the Goblins aren't there, we'll go back to Cat Manor and beat up that sham sage for tricking us.<end>"
+
+["260165"]
+japanese = "オルファウスさんからエンシャントに<line-break>いるって聞いたんだよね。<line-break>それなら迷う事なんてないよ。<line-break>ボク、賢者様の事は信用してもいいと<line-break>思うよ。べ、別に確信があるわけじゃ<line-break>ないけど…。<end>"
+english = "Orphaus told us they're in Ancient, right? Then there's nothing to hesitate over. I think we can trust the sage. N-not that I'm completely sure or anything...<end>"
+
+["260166"]
+japanese = "オルファウスの言うことには、<line-break>三匹のしゃべるゴブリンは、<line-break>エンシャントにいるらしいわ。<line-break>寄り道していると追い抜くわよ、<line-break><value:$28>。<end>"
+english = "According to Orphaus, the three talking Goblins are apparently in Ancient. If we keep making detours, we'll be beaten to them, <value:$28>.<end>"
+
+["260167"]
+japanese = "おやまあ、まだ出会ってなかったの<line-break>ですか。やれやれ、私の話を聞いて<line-break>なかったのか忘れちゃったのか…。<line-break>まだいるかどうかはわかりませんが<line-break>エンシャントの酒場に<line-break>行ってみましょう。<end>"
+english = "Oh my, you still haven't found them? Good grief. Either you weren't listening to me, or you've forgotten... I don't know whether they're still there, but let's try the tavern in Ancient.<end>"
+
+["260168"]
+japanese = "うっそー、せっかく猫屋敷の賢者様に<line-break>教えていただいたのにお忘れに<line-break>なったのですか？<line-break>ああ、なんともったいないことを…。<line-break>しょうがないのでエンシャントの酒場に<line-break>でも行ってみましょう…な～んてね。<end>"
+english = "No way! You forgot after the sage of Cat Manor was kind enough to tell you? Oh, what a terrible waste... I suppose we'll just have to try the tavern in Ancient or something... Just kidding.<end>"
+
+["260169"]
+japanese = "姉ちゃん、もう忘れたのかよ。<line-break>まだ若いのにかわいそうになぁ。<line-break>もしかして賢者様に見とれてたのか？<line-break>あっ、ゴメン！\u3000冗談だよ姉ちゃん。<line-break>エンシャントだよ、賢者様の話だと。<line-break>教えたんだからその手を下ろしてよ。<end>"
+english = "Sis, have you forgotten already? How sad, when you're still so young. Were you too busy admiring the sage? Oh, sorry! I'm joking, Sis. The sage said Ancient. I've told you now, so put that hand down.<end>"
+
+["260170"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260171"]
+japanese = "ゴブゴブ団を名乗る３匹のゴブリンは<line-break>エンシャントにいるってオルファウスは<line-break>言っていたよな…違ったかな。<line-break>まあ、エンシャントへ行ってみようや。<line-break>酒場とか宿屋とか奴らの行きそうな所を<line-break>中心に捜してみるとしようや。<end>"
+english = "Orphaus said the three Goblins calling themselves the Gob-Gob Gang were in Ancient... didn't he? Well, let's go to Ancient. We can focus our search on places they're likely to visit, like taverns and inns.<end>"
+
+["260172"]
+japanese = "エンシャントだ！<line-break>奴らはエンシャントにいると<line-break>オルファウスに聞いたのだろう！<line-break>アーギルシャイアより先にヤツらを<line-break>見つけて禁断の聖杯を手に入れる。<line-break>これ以上、犠牲者は出さない。<end>"
+english = "Ancient! Orphaus told you they're in Ancient! We'll find them before Argyleshire and secure the Forbidden Grail. There will be no more victims.<end>"
+
+["260173"]
+japanese = "うむ、オルファウス殿はエンシャントを<line-break>捜してみるようおっしゃっておった<line-break>そうじゃが、どうするかの？<line-break>ゴブリンどもも腹も減るし眠くもなる<line-break>であろう。宿屋か酒場あたりがねらい目<line-break>じゃと思うのじゃがどうじゃ？<end>"
+english = "Hmm. I hear Orphaus advised us to search Ancient. What shall we do? Goblins grow hungry and sleepy too. I think an inn or tavern would be our best bet. What say you?<end>"
+
+["260174"]
+japanese = "オルファウスさんは、エンシャントを<line-break>捜すように言っていたんだよね？<line-break>助言に従ってエンシャントに行こうよ。<line-break>エンシャントは都会だけど、話のできる<line-break>ゴブリンなんて珍しいから、<line-break>すぐに見つかるんじゃないのかな。<end>"
+english = "Orphaus said to search Ancient, right? Let's follow that advice and go there. Ancient is a big city, but talking Goblins are so unusual that we might find them right away.<end>"
+
+["260175"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260176"]
+japanese = "高貴なエルフのアタクシが低能で<line-break>不細工極まりないゴブリンどもの<line-break>ことなんて知るわけないでしょ！<line-break>ゴブリンのゴの字を聞いただけで<line-break>優雅なアタクシの耳が汚れてしまうわ！<line-break>二度と口にしないでちょうだい！<end>"
+english = "Why would a noble Elf such as moi know anything about those witless, hideously ugly Goblins?! Merely hearing the first sound of “Goblin” sullies my elegant ears! Never mention them again!<end>"
+
+["260177"]
+japanese = "兄弟子！<line-break>話すゴブリンなぞ<line-break>見・放しましょうぞ！<line-break>………………。<line-break>修行しなおす所存。<line-break>ごめん！<end>"
+english = "Senior disciple! Let us aban-don those talking Goblins! ………………. I intend to begin my training anew. Sorry!<end>"
+
+["260178"]
+japanese = "オルファウスさんがゴブリンたちは<line-break>エンシャントにいるって<line-break>教えてくれたんでしょ？<line-break>エンシャントは大きな町だから捜すの<line-break>大変かもしれないけど安心していいよ。<line-break>だってルルアンタがついてるもん。<end>"
+english = "Orphaus told you the Goblins are in Ancient, right? Ancient is a big city, so finding them might be hard, but don't worry. You've got Lulluantha with you!<end>"
+
+["260179"]
+japanese = "………………。<line-break><line-break><line-break>エンシャントだ。<line-break>あとは知らん。<end>"
+english = "………………. Ancient. That's all I know.<end>"
+
+["260180"]
+japanese = "猫屋敷の賢者とやらに教えてもらった<line-break>のだろう。忘れてしまったのか？<line-break>確か、エンシャントではなかったか。<line-break>俺もそれ以上のことは知らん。<line-break>あとは自分の力で捜すのだな。<end>"
+english = "That so-called sage at Cat Manor told you, did he not? Have you forgotten? If I recall correctly, it was Ancient. I know nothing beyond that. You'll have to search on your own.<end>"
+
+["260181"]
+japanese = "ゴブゴブ団を名乗る話すことの<line-break>できるゴブリンたちのことでしょ。<line-break>話ができるゴブリンってすごいよねぇ。<line-break>えっ！\u3000どこにいるのかって？<line-break>オルファウスさんにエンシャントを<line-break>捜せって教えてもらったんでしょ。<end>"
+english = "You mean the talking Goblins who call themselves the Gob-Gob Gang, right? Goblins that can talk are amazing, aren't they? What? You want to know where they are? Orphaus told you to search Ancient, didn't he?<end>"
+
+["260182"]
+japanese = "君は、ゴブリンの行き先まで私に<line-break>聞こうというのかね？<line-break>私はそこまで暇な人間ではない。<end>"
+english = "You mean to ask me where the Goblins went as well? I am not so idle as that.<end>"
+
+["260183"]
+japanese = "ゴブゴブ団？<line-break>申し訳ございません。ゴブリンの考える<line-break>ことまでは、ちょっと…。<end>"
+english = "The Gob-Gob Gang? My apologies. I couldn't begin to guess what a Goblin might be thinking...<end>"
+
+["260184"]
+japanese = "ゴブゴブ団なら<line-break>エンシャントへ行ったんだって。<line-break>…目立つよね、あの三匹。<end>"
+english = "I heard the Gob-Gob Gang went to Ancient. Those three really stand out, don't they...<end>"
+
+["260185"]
+japanese = "オルファウス殿の言によるならば、<line-break>ゴブリンめらはエンシャントへ向かった<line-break>そうじゃな。<line-break>エンシャントのような人の多い町中では<line-break>おそらく目立つじゃろうから、<line-break>それだけにわしらも遅れはとれぬぞ。<end>"
+english = "According to Orphaus, the wretched Goblins headed for Ancient. They will probably stand out in a crowded city like that, which is all the more reason we cannot afford to fall behind.<end>"
+
+["260186"]
+japanese = "猫屋敷の賢者様の言うことには、<line-break>ゴブゴブ団はエンシャントへ<line-break>向かったらしいじゃないか。<line-break>人間と同じ思考をするかは<line-break>わからないが、<line-break>酒場や宿屋をあたってみよう。<end>"
+english = "The sage of Cat Manor apparently said the Gob-Gob Gang headed for Ancient. I don't know whether they think like humans, but let's check the taverns and inns.<end>"
+
+["260187"]
+japanese = "エンシャントに向かったと <line-break>あの猫が言っていたな。<line-break><line-break>酒場やギルドで聞き込みをすれば<line-break>何かわかるかもしれないな。<end>"
+english = "That cat said they headed for Ancient. If we ask around at the taverns and the Guild, we might learn something.<end>"
+
+["260188"]
+japanese = "たしか、エンシャントに<line-break>向かったって言ってたわね。<line-break><line-break>しゃべるゴブリンなんて珍しいから、<line-break>街の人が目撃してるはずだわ。<end>"
+english = "If I remember correctly, we were told they headed for Ancient. Talking Goblins are so unusual that someone in the city must have seen them.<end>"
+
+["260189"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260190"]
+japanese = "猫さんの話だと、ゴブゴブ団は<line-break>エンシャントに向かったそうです。<line-break>\u3000<line-break>きっと街の人がしゃべるゴブリンたちを<line-break>見かけているはずです。<line-break>色んな人に話を聞いてみましょう！<end>"
+english = "According to the cat, the Gob-Gob Gang headed for Ancient. Someone in the city must have seen those talking Goblins. Let's ask around!<end>"
+
+["260191"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260192"]
+japanese = "（オルファウスにゴブゴブ団を名乗る<line-break>\u3000３匹のゴブリンたちから取り戻す<line-break>\u3000よう頼まれた。闇の神器のひとつ）<line-break>（魔人アーギルシャイアも聖杯を狙って<line-break>\u3000いるので、一刻も早く手に入れないと<line-break>\u3000いけない）<end>"
+english = "(Orphaus asked me to recover one of the dark artifacts from the three Goblins calling themselves the Gob-Gob Gang.) (The fiend Argyleshire is also after the Grail, so I must obtain it as quickly as possible.)<end>"
+
+["260193"]
+japanese = "あの聖杯は闇の神器なんて呼ばれる<line-break>古代の魔道器だったのね…。<line-break>ぐずぐずしていられないわ。<line-break>一刻も早く３匹のゴブリンを見つけて<line-break>聖杯を奪い返すのよ。アーギルシャイア<line-break>なんて魔人より先にね。<end>"
+english = "So that Grail was an ancient magical device known as a dark artifact... We can't waste time. We have to find the three Goblins at once and take the Grail back before that fiend Argyleshire does.<end>"
+
+["260194"]
+japanese = "禁断の聖杯を持っておるのが、<line-break>ゴブゴブ団なのじゃな。<line-break>話をするゴブリンとはおもしろい。<line-break>妙な必殺技を使うということじゃが、<line-break>な～に、わしがおる以上安心するが<line-break>よいぞ。早く戦いたいものよのう。<end>"
+english = "So the Gob-Gob Gang has the Forbidden Grail. Talking Goblins―how interesting. I hear they use some peculiar finishing moves, but fear not while I am here. I can hardly wait to fight them.<end>"
+
+["260195"]
+japanese = "ゴブゴブ団って名乗るゴブリンたちが<line-break>持ってるんですよね。それで魔人も<line-break>聖杯をねらっている…。<line-break>私ってけっこう記憶力っていいんです。<line-break>でも、どうしますか？\u3000魔人ってたぶん<line-break>強いですよ。私、逃げちゃうかも…。<end>"
+english = "The Goblins calling themselves the Gob-Gob Gang have it, right? And a fiend is after the Grail too... I have quite a good memory, you know. But what should we do? The fiend is probably strong. I might run away...<end>"
+
+["260196"]
+japanese = "ゴブリンのくせにゴブゴブ団なんて<line-break>かっこいい名前をつけやがって。<line-break>ちょっとくやしいじゃねえか。<line-break>ダジャレを知らない不届き者なら<line-break>聖杯を取り返すついでに<line-break>成敗してしてやるぜ！<end>"
+english = "They're Goblins, yet they had the nerve to give themselves a cool name like the Gob-Gob Gang. Makes me a little jealous. If those insolent fools don't appreciate puns, I'll punish them while we're taking back the Grail!<end>"
+
+["260197"]
+japanese = "オルファウスさんの話だと魔人のひとり<line-break>アーギルシャイアもねらっているんだ。<line-break>彼女の方が先に手にいれたりしたら…。<line-break>ゴメン…弱気になっちゃダメだよね。<line-break>彼女より先にゴブリンたちを<line-break>捜し出して、聖杯を取り戻そうよ。<end>"
+english = "According to Orphaus, one of the fiends, Argyleshire, is after it too. If she gets it first... Sorry. I shouldn't lose heart, should I? Let's find the Goblins before she does and recover the Grail.<end>"
+
+["260198"]
+japanese = "持ち主に英知を与える禁断の聖杯。<line-break>その力によって話すことのできるように<line-break>なった３匹のゴブリンを捜すのね？<line-break>お前が魔人アーギルシャイアより先に<line-break>禁断の聖杯を手に入れられるかどうか<line-break>見届けさせてもらうわ。<end>"
+english = "The Forbidden Grail grants wisdom to its bearer. You're searching for the three Goblins who gained the power of speech from it, yes? I shall watch and see whether you can obtain the Forbidden Grail before the fiend Argyleshire.<end>"
+
+["260199"]
+japanese = "禁断の聖杯は、ゴブゴブ団を名乗る<line-break>３匹のゴブリンが持っています。<line-break><line-break>破壊神ウルグの円卓の騎士のひとり<line-break>アーギルシャイアも聖杯を狙って<line-break>いますから早めに手に入れてください。<end>"
+english = "The Forbidden Grail is in the hands of three Goblins calling themselves the Gob-Gob Gang. Argyleshire, one of the Knights of the Round Table serving Urg, the God of Destruction, is also after the Grail, so please obtain it quickly.<end>"
+
+["260200"]
+japanese = "ゴブゴブ団なんてゴブリンの浅知恵<line-break>にしてはいいネーミングセンスよね。<line-break><line-break>だ・け・ど、世界の平和を守るために<line-break>禁断の聖杯を返してもらわないとね。<line-break>魔人なんかには負けないわよ。<end>"
+english = "For Goblins of such limited wit, “Gob-Gob Gang” is a surprisingly good name. But―we need them to return the Forbidden Grail so we can protect world peace. I won't lose to some fiend!<end>"
+
+["260201"]
+japanese = "姉ちゃんどうすんだよ。賢者様の頼みを<line-break>聞いてやるのか…いや、聞くんだろな。<line-break>昔っから色男に弱いからな姉ちゃんは。<line-break>それなら早くゴブリンどもを見つけて<line-break>禁断の聖杯とやらを手に入れようぜ。<line-break>魔人が見つけるより先にさ。<end>"
+english = "What're you going to do, Sis? Are you going to do what the sage asked? Well... yeah, of course you are. You've always had a weakness for handsome men. In that case, let's hurry up, find those Goblins, and get this so-called Forbidden Grail before the fiend does.<end>"
+
+["260202"]
+japanese = "禁断の聖杯は破壊神を蘇らせるために<line-break>造られた闇の神器のひとつよ。<line-break><line-break>禁断の聖杯には、持ち主に英知を与える<line-break>力があるのよ。ゴブリンが賢くなった<line-break>のも、その力が原因でしょうね。<end>"
+english = "The Forbidden Grail is one of the dark artifacts created to resurrect the God of Destruction. It has the power to grant wisdom to its bearer. That power is probably what made the Goblins intelligent.<end>"
+
+["260203"]
+japanese = "ゴブリンどももやっかいな物を奪って<line-break>くれたもんだぜ。<line-break>ま、闇の神器だからなぁ。<line-break>しゃーねーな。魔人に奪われると<line-break>やっかいだからゴブリンどもを見つけて<line-break>聖杯を取り戻すとすっか。<end>"
+english = "Those Goblins just had to steal something troublesome, didn't they? Well, it is a dark artifact. Can't be helped. It'll be even more trouble if a fiend takes it, so let's find those Goblins and get the Grail back.<end>"
+
+["260204"]
+japanese = "魔人アーギルシャイア…。<line-break>奴に聖杯を渡すわけにはいかない。<line-break><line-break>なんとしても奴より先に禁断の聖杯を<line-break>手に入れるぞ。これ以上、犠牲者を…<line-break>罪を犯させるわけにはいかないのだ！<end>"
+english = "The fiend Argyleshire... We cannot let her have the Grail. Whatever it takes, we will secure the Forbidden Grail before she does. I cannot let her claim any more victims... commit any more sins!<end>"
+
+["260205"]
+japanese = "オルファウス殿の話では３匹のゴブリン<line-break>…ゴブゴブ団とか名乗っとる<line-break>奴らが持っておるというのじゃな。<line-break>しかも魔人がねらっておるらしいとな。<line-break>ならば、なんとしても魔人より先に<line-break>聖杯を取り戻さんといかんのう。<end>"
+english = "According to Orphaus, three Goblins have it... fellows calling themselves the Gob-Gob Gang, or some such. And it seems a fiend is after it as well. Then we must recover the Grail before that fiend does, no matter what.<end>"
+
+["260206"]
+japanese = "オルファウスさんにゴブリンたちから<line-break>禁断の聖杯を取り戻してくれるよう<line-break>頼まれたんだよね。<line-break>魔人アーギルシャイアもねらっている<line-break>みたいだし、早くゴブリンたちを見つけ<line-break>ないといけないね。<end>"
+english = "Orphaus asked us to recover the Forbidden Grail from the Goblins, right? It looks like the fiend Argyleshire is after it too, so we need to find the Goblins quickly.<end>"
+
+["260207"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["260208"]
+japanese = "禁断の聖杯？\u3000闇の神器？<line-break>高貴なエルフのアタクシが知らない単語<line-break>を並べて困らせようっていうのね。<line-break>残念だったわね。優雅で気品あふれる<line-break>エルフには、人間の粗野で下品な知識は<line-break>不必要なの。わかったかしら？<end>"
+english = "The Forbidden Grail? A dark artifact? You're trying to trouble noble moi by rattling off words I don't know. Too bad. A graceful, refined Elf has no need for the crude and vulgar knowledge of humans. Is that clear?<end>"
+
+["260209"]
+japanese = "聖杯を狙う魔人など拙者が<line-break>成敗してくれる…。<line-break><line-break>聖杯と成敗がダジャレになって<line-break>いるのですが、どうですかな？<line-break>やっぱり、ダメですか…。<end>"
+english = "Any fiend who seeks the Grail shall be assailed by me... You see, “Grail” and “assail” are supposed to make a pun. What do you think? It still doesn't work, does it...<end>"
+
+["260210"]
+japanese = "聖杯を持っているゴブリン３匹は<line-break>ゴブゴブ団って名乗ってるんだよね。<line-break>それでね、お話できるんでしょ。<line-break>なんとかお願いして、聖杯を渡して<line-break>もらえないかなぁ。<end>"
+english = "The three Goblins with the Grail call themselves the Gob-Gob Gang, right? And they can talk, can't they? Maybe we could ask nicely and somehow persuade them to hand over the Grail.<end>"
+
+["260211"]
+japanese = "………………。<line-break><line-break><line-break>闇の神器のひとつらしいな。<line-break>魔人アーギルシャイアもねらっている。<line-break>ゴブリンどもを捜すのだ。<end>"
+english = "………………. Apparently, it's one of the dark artifacts. The fiend Argyleshire is after it too. Find those Goblins.<end>"
+
+["260212"]
+japanese = "破壊神ウルグを復活させるために<line-break>造られた１２の闇の神器のひとつ…<line-break>ゴブリンもやっかいな物を盗んだな。<line-break>魔人アーギルシャイアに渡すわけにも<line-break>いかない以上、俺たちがゴブリンから<line-break>奪い返すしかないな。<end>"
+english = "One of the twelve dark artifacts created to resurrect Urg, the God of Destruction... Those Goblins stole something truly troublesome. Since we can't let it fall into the fiend Argyleshire's hands, we'll have to take it back from the Goblins ourselves.<end>"
+
+["260213"]
+japanese = "ゴブゴブ団に奪われし禁断の聖杯。<line-break>闇の神器と呼ばれる聖杯を求め旅を<line-break>する吟遊詩人と勇者…。<line-break>その行く手を阻む魔人アーギルシャイア<line-break>との激しい死闘…うん！\u3000いいよこれ！<line-break>ぼくたち伝説になれるかもしれないね。<end>"
+english = "The Forbidden Grail, stolen by the Gob-Gob Gang. A bard and a hero journey in search of the Grail known as a dark artifact... A fierce battle to the death with the fiend Argyleshire, who bars the way... Yes! This is good! We might become legends!<end>"
+
+["260214"]
+japanese = "魔人アーギルシャイアが<line-break>動き出したか…。<line-break><line-break>禁断の聖杯、闇の神器が、<line-break>それほど価値のあるものだと<line-break>証明していることに他ならない。<line-break>我々も、遅れはとれんな。<end>"
+english = "So the fiend Argyleshire has made a move... That alone proves just how valuable the Forbidden Grail, a dark artifact, must be. We cannot afford to fall behind.<end>"
+
+["260215"]
+japanese = "禁断の聖杯を持ち逃げしている<line-break>ゴブリンたち、ゴブゴブ団を、<line-break>魔人アーギルシャイアが狙っている…。<line-break>賢者様の言うことに間違いは<line-break>ないでしょう。とすれば、<line-break>かわいそうですが、今頃はきっと…。<end>"
+english = "The fiend Argyleshire is hunting the Goblins who made off with the Forbidden Grail―the Gob-Gob Gang... The sage is surely not mistaken. If that's true, then regrettably, by now they must surely have...<end>"
+
+["260216"]
+japanese = "猫屋敷の賢者様のお言葉には<line-break>万に一つの間違いもないんだって。<line-break><line-break>魔人アーギルシャイアが<line-break>禁断の聖杯を狙っているとすると、<line-break>そのゴブリンたち、今頃はきっと…。<end>"
+english = "They say there isn't even a one-in-ten-thousand chance that the sage of Cat Manor could be wrong. If the fiend Argyleshire is after the Forbidden Grail, then by now those Goblins must surely have...<end>"
+
+["260217"]
+japanese = "むむう、魔人アーギルシャイアまでが<line-break>禁断の聖杯奪取に乗り出したか…。<line-break>ますます三匹の身が案じられるわい。<line-break>どころか、わしらがアーギルシャイアと<line-break>ぶつかる恐れもあるのじゃな。<line-break>気は抜けんぞ、<value:$28>。<end>"
+english = "Hmm, so even the fiend Argyleshire has set out to seize the Forbidden Grail... That makes me all the more concerned for those three. Worse, there is a chance we may clash with Argyleshire ourselves. Stay alert, <value:$28>.<end>"
+
+["260218"]
+japanese = "ゴブゴブ団から聖杯を取り返す…。<line-break>猫屋敷のオルファウス様からの<line-break>頼みとあれば、最優先すべきだろう。<line-break>魔人アーギルシャイアも私たちと<line-break>目標としているとすれば、<line-break>気を抜くわけにはいかないな。<end>"
+english = "Recover the Grail from the Gob-Gob Gang... Since the request comes from Lord Orphaus of Cat Manor, it should be our highest priority. If the fiend Argyleshire shares our objective, we cannot let our guard down.<end>"
+
+["260219"]
+japanese = "放っておくわけにもいかないだろう。<line-break>魔人アーギルシャイアより先に <line-break>ゴブリンたちを見つけるんだ。<end>"
+english = "We can't just leave this alone. Find the Goblins before the fiend Argyleshire does.<end>"
+
+["260220"]
+japanese = "魔人アーギルシャイアの手に<line-break>聖杯が渡ったら大変なことになるわ。<line-break><line-break>とにかく、先にゴブリンたちを<line-break>見つけ出さないと。<end>"
+english = "It'll be a disaster if the Grail falls into the fiend Argyleshire's hands. In any case, we have to find the Goblins first.<end>"
+
+["260221"]
+japanese = "闇の神器が魔人アーギルシャイア<line-break>の手に渡ると危険です。 <line-break>\u3000<line-break>探索を急いだ方がいいでしょう。<end>"
+english = "It would be dangerous for the dark artifact to fall into the fiend Argyleshire's hands. We should hurry our search.<end>"
+
+["260222"]
+japanese = "オルファウスさんのお話だと<line-break>聖杯を持ったゴブリンたちを<line-break>魔人がねらっているらしいです。<line-break>魔人に聖杯を取られちゃう前に<line-break>ゴブリンたちを見つけないとですね！<line-break>でも…どこにいるんでしょう？<end>"
+english = "According to Orphaus, a fiend is apparently after the Goblins carrying the Grail. We need to find the Goblins before the fiend takes it! But... where could they be?<end>"
+
+["260223"]
+japanese = "………………。<end>"
+english = "……………….<end>"

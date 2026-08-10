@@ -1,0 +1,601 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1160000"]
+japanese = "フレアメッセージ開始<end>"
+english = ""
+
+["1160001"]
+japanese = "誰だ？<end>"
+english = "Who are you?<end>"
+
+["1160002"]
+japanese = "冒険者…か。<line-break>何をお探しかな、人の家で？<end>"
+english = "An adventurer, are you? What are you looking for in someone else's home?<end>"
+
+["1160003"]
+japanese = "探求、真理の追究、経験、体験…。<line-break>君たちは軽々しくそう口にする。<line-break>その言葉の本当の意味も知らずにな。<end>"
+english = "Exploration, the pursuit of truth, experience, firsthand experience... You people speak of such things so lightly, without knowing what those words truly mean.<end>"
+
+["1160004"]
+japanese = "君の冒険の理由は問わないが<line-break>人の領域を土足で侵すようなことは<line-break>やめてほしいものだな。<end>"
+english = "I won't ask why you go adventuring, but I'd rather you stopped barging into other people's territory.<end>"
+
+["1160005"]
+japanese = "まあ、君ひとりに言っても<line-break>仕方のないことだがね。<end>"
+english = "Still, there is little point in telling you alone.<end>"
+
+["1160006"]
+japanese = "おおかた、アキュリュースを見て、<line-break>同じくラドラス４人の巫女と縁がある<line-break>この地にも何かあると思うのだろう？<end>"
+english = "I suppose you saw Aqyurius and assumed there must be something here as well, since this place, too, has ties to one of the four priestesses of Ladras. Am I right?<end>"
+
+["1160007"]
+japanese = "あのような聖なる座所があるのは<line-break>風の巫女が作った街エルズと、<line-break>水の巫女の街アキュリュースだけだよ。<end>"
+english = "Sacred seats like that exist only in Elz, the city founded by the Priestess of Wind, and Aqyurius, the city of the Priestess of Water.<end>"
+
+["1160008"]
+japanese = "同じくラドラスの火の巫女ウルと<line-break>縁があるとはいっても、この地には\u3000<line-break>火の精霊神の聖なる座所はない。<line-break>巫女の縁のある地に精霊神の座所が<line-break>あるなら、地の精霊神の座所は<line-break>いったい、どこにあるんだね？<end>"
+english = "This place may likewise have ties to Priestess Uru, Ladras's Priestess of Fire, but there is no sacred seat of the elemental god of fire here. If every land connected to a priestess held the seat of an elemental god, then where, exactly, would the seat of the elemental god of earth be?<end>"
+
+["1160009"]
+japanese = "伝説では、地の巫女ズゥは\u3000\u3000\u3000\u3000<line-break>ラドラスの街を砂漠の中へと<line-break>沈めたという。<line-break>ならば地の精霊神の座所は、砂漠の<line-break>地下深くにあるとでもいうのかね？<end>"
+english = "Legend says that Zuu, the Priestess of Earth, sank the city of Ladras into the desert. Are we to believe, then, that the seat of the elemental god of earth lies deep beneath the sands?<end>"
+
+["1160010"]
+japanese = "ハハハハ、バカな！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>いや失礼、冒険者の想像力には<line-break>驚かされるばかりだよ。<end>"
+english = "Hahahaha! What nonsense! Forgive me. An adventurer's imagination never ceases to amaze me.<end>"
+
+["1160011"]
+japanese = "しかし、君には君の冒険があるように<line-break>こちらにはこちらの生活がある。<line-break>あまり、住人に迷惑はかけないでくれ。<end>"
+english = "But just as you have your adventure, we have our own lives here. Please don't cause the townspeople too much trouble.<end>"
+
+["1160012"]
+japanese = "すまない。言葉が厳しかった。<line-break>ただ、わかってほしかったのだよ。<line-break>私もこの街の長老なのでな。<line-break>この町ウルカーンは、別に、<line-break>旅人をうとんでいるわけではない。<line-break>また、来たまえ。<end>"
+english = "I'm sorry. My words were harsh. I only wanted you to understand. I am an elder of this town, after all. Urkaan does not shun travelers. Do come again.<end>"
+
+["1160013"]
+japanese = "どうしたの？<line-break>キミ、元気ないよ？<end>"
+english = "What's wrong? You seem kind of down.<end>"
+
+["1160014"]
+japanese = "ふぅん、ウルカーンの長老に<line-break>そんなこと言われたんだ。<end>"
+english = "Oh. So that's what the elder of Urukahn told you.<end>"
+
+["1160015"]
+japanese = "でも、長老の言うこと、ウソだよ。<line-break>ボク、巫女だからわかっちゃうんだ。<end>"
+english = "But what the elder said isn't true. I can tell because I'm a priestess.<end>"
+
+["1160016"]
+japanese = "うん。ボク、感じるよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>火の巫女はここにいる。<line-break>彼女の名前は…フレア…。<line-break>この町のどこかに、きっとボクたちが<line-break>見つけていない道があるんだよ。<line-break>調べてみようよ、<value:$28>。<end>"
+english = "Yes. I can feel it. The Fire Priestess is here. Her name is... Flare... There must be a path somewhere in this town that we haven't found yet. Let's look for it, <value:$28>.<end>"
+
+["1160017"]
+japanese = "でも、ボクは、<line-break>ここに火の巫女もいるし<line-break>火の精霊神殿もあると思うけど？\u3000\u3000<line-break>だってさ、ラドラスにも地の精霊神の<line-break>座所への道が隠されてあったんだよ。<line-break>ここだってそうに違いないよ。<end>"
+english = "But I think the Fire Priestess is here, and so is the temple of the Fire Spirit God. There was a hidden path to the seat of the Earth Spirit God in Ladras, remember? There has to be one here too.<end>"
+
+["1160018"]
+japanese = "ね、<value:$28>、<line-break>この町を、よーく、探してみようよ。<line-break>ボク、火の巫女に会ってみたいんだ。<end>"
+english = "Come on, <value:$28>. Let's take a really good look around this town. I want to meet the Fire Priestess.<end>"
+
+["1160019"]
+japanese = "でもボクは、火の精霊神の神殿は<line-break>この町にあるんじゃないかと思うけど？<line-break>きっと、火の巫女もそこにいるよ。<line-break>ね、<value:$28>、<line-break>明日起きたら、もういっぺん<line-break>この町を、よーく探してみようよ。<end>"
+english = "But I think the temple of the Fire Spirit God might be somewhere in this town. I'm sure the Fire Priestess is there too. Hey, <value:$28>, when we wake up tomorrow, let's give the town another really thorough search.<end>"
+
+["1160020"]
+japanese = "よし！<line-break>じゃ、今日はもう休もう。<line-break>明日からまた、がんばらなきゃね。<line-break>それじゃ、おやすみ。<line-break><value:$28>。<end>"
+english = "All right! Let's call it a day. We'll have to get back to it tomorrow. Good night, <value:$28>.<end>"
+
+["1160021"]
+japanese = "火の巫女フレア様は、<line-break>人を避けておられる。<line-break>集中の邪魔になるからな。<end>"
+english = "Lady Flare avoids other people. Their presence interferes with her concentration.<end>"
+
+["1160022"]
+japanese = "君も二度と精霊神殿には<line-break>近づかないことだ。<end>"
+english = "You are not to go near the Spirit Temple again, either.<end>"
+
+["1160023"]
+japanese = "フレア様は、<line-break>火の精霊神ウルカーンに仕える\u3000\u3000\u3000<line-break>火の巫女なのだ。<line-break>同時に魔道王国ラドラスの<line-break>最後の４人の巫女のひとり、<line-break>火の巫女ウルの血を引く者でもある。<end>"
+english = "Lady Flare is the Priestess of Fire who serves Urkhan, the Fire Spirit God. She is also descended from Priestess Uru of Fire, one of the last four priestesses of Magic Kingdom Ladras.<end>"
+
+["1160024"]
+japanese = "そして、同時にこの地にある\u3000\u3000\u3000<line-break>封印を見守り続ける者でも<line-break>あるわけだ。<line-break>君らには、火の精霊神殿に近づいて<line-break>フレア様の妨げになるようなことを<line-break>しないで欲しいものだ。<end>"
+english = "She also keeps watch over the seal here. I would ask that none of you approach the Temple of the Fire Spirit or do anything that might disturb Lady Flare.<end>"
+
+["1160025"]
+japanese = "ウルカーンには魔道士が多い。\u3000\u3000\u3000<line-break>マグマゴーレムの技術を学ぼうという<line-break>魔道士たちがこの地に集うからだ。<line-break>ゆえに、この町は魔道士による自治が<line-break>行われている。その代表者として<line-break>私が長老をやっているというわけだ。<end>"
+english = "Urkhan has many mages, drawn here to study the art of the Magma Golem. That is why the town is self-governed by its mages, and I serve as elder as their representative.<end>"
+
+["1160026"]
+japanese = "この町、ウルカーンを立てたのは<line-break>魔道王国４人の巫女のひとりウルだ。\u3000<line-break>\u3000<line-break>ウルは魔道王国の高度な魔道技術を<line-break>すべて封印し、この町を守るために<line-break>マグマゴーレムの技のみを遺したのだ。<end>"
+english = "Uru, one of the Magic Kingdom's four priestesses, founded this town of Urkhan. Uru sealed away all of the kingdom's advanced magical arts, leaving behind only the art of the Magma Golem to protect the town.<end>"
+
+["1160027"]
+japanese = "このウルカーンや周りの土地は、\u3000\u3000\u3000<line-break>昔は海の底だったそうだ。<line-break>\u3000<line-break>しかし、火の巫女ウルがこの近辺の<line-break>火山を爆発させ、大地を作ったという。<line-break>ウルカーン誕生の伝説だよ。<end>"
+english = "They say Urkhan and the surrounding lands once lay beneath the sea. But Priestess Uru of Fire caused the volcanoes here to erupt and created the land. That is the legend of Urkhan's birth.<end>"
+
+["1160028"]
+japanese = "誰…？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>…長老以外の…人…。<end>"
+english = "Who...? Someone... other than the elder...<end>"
+
+["1160029"]
+japanese = "…ここは、<line-break>火の精霊神殿。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>私はフレア。<line-break>この神殿と、それに連なる<line-break>封印を守る…火の巫女。<end>"
+english = "…This is the Temple of the Fire Spirit. I am Flare… the Fire Priestess who guards this temple and the seal linked to it.<end>"
+
+["1160030"]
+japanese = "その道を進むことは\u3000\u3000\u3000\u3000\u3000<line-break>なりません。<line-break>\u3000<line-break>この神殿の奥にある封印…、<line-break>それを守るのが私の役目。<line-break>どうか、お引き取りください。<end>"
+english = "You must not go any farther. My duty is to guard the seal deep within this temple. Please, turn back.<end>"
+
+["1160031"]
+japanese = "誰…？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>…長老以外の…人…。<end>"
+english = ""
+
+["1160032"]
+japanese = "…ここは、<line-break>火の精霊神殿。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>私はフレア。<line-break>この神殿と、それに連なる<line-break>封印を守る…火の巫女。<end>"
+english = ""
+
+["1160033"]
+japanese = "何をしているんだね、君は！？<end>"
+english = "What do you think you're doing?!<end>"
+
+["1160034"]
+japanese = "私は、火の巫女…。<line-break>この火の神殿で<line-break>封印を守るための存在…。<end>"
+english = "I am the Fire Priestess… I exist to guard the seal in this fire temple…<end>"
+
+["1160035"]
+japanese = "はい、長老。<end>"
+english = ""
+
+["1160036"]
+japanese = "こんな所にまで足を踏み入れるとは<line-break>君たち冒険者は本当に<line-break>社会の理をわきまえないのだな。<line-break>早々に立ち去ってくれ。<line-break>観光地などと混同して、むやみに<line-break>足を踏み入れられては困るのだよ。<end>"
+english = "To think you'd set foot in a place like this. You adventurers really don't understand the rules of society, do you? Please leave at once. This isn't a tourist attraction, and I can't have you wandering in as you please.<end>"
+
+["1160037"]
+japanese = "ここから先は通すわけにはいかん。<line-break>そもそも、君がここにいること自体<line-break>認めるわけにはいかないのだ。<line-break>さあ、早々に<line-break>ここから立ち去ってくれ。<end>"
+english = "I cannot allow you to go any farther. In fact, I cannot allow you to be here at all. Now leave this place, at once.<end>"
+
+["1160038"]
+japanese = "その道を進むことは\u3000\u3000\u3000\u3000\u3000<line-break>なりません。<line-break>\u3000<line-break>この神殿の奥にある封印…、<line-break>それを守るのが私の役目。<line-break>どうか、お引き取りください。<end>"
+english = ""
+
+["1160039"]
+japanese = "私の役目は<line-break>ここにいて、神殿と<line-break>それに連なる封印を守ること。\u3000\u3000<line-break>それが私がここにいる理由です。<line-break>ですが、あなたはなんのために<line-break>こうしてここに足を運ぶのですか？<end>"
+english = "My purpose is to remain here and guard the temple and the seals connected to it. That is why I am here. But what purpose brings you here?<end>"
+
+["1160040"]
+japanese = "ここには私の他に誰もいません。<line-break>またここに長老以外の人が\u3000<line-break>来ることもありません。<end>"
+english = "There is no one here but me. And no one besides the Elder ever comes here.<end>"
+
+["1160041"]
+japanese = "…さびしくないか？\u3000…ですか？<line-break>それは必要としている人間に<line-break>事欠くことですね。<line-break>私は誰も必要としません。<line-break>だから必要としている人間に<line-break>事欠くことはありません。<end>"
+english = "You ask if I am lonely? Loneliness is the lack of someone one needs. I need no one. Therefore, I lack no one I need.<end>"
+
+["1160042"]
+japanese = "…役目のためだけに生きることは<line-break>つらくはないか？\u3000…ですか？<end>"
+english = "You ask if it is painful to live for nothing but my purpose?<end>"
+
+["1160043"]
+japanese = "針と糸は縫い物をするとき、\u3000\u3000<line-break>幸せではないでしょうか？<line-break>\u3000<line-break>その役目を果たせるということは<line-break>幸せではないでしょうか？<line-break>私は道具に生まれて幸せです。<end>"
+english = "Wouldn't a needle and thread be happy when used for sewing? Isn't being able to fulfill one's role a kind of happiness? I am happy to have been born a tool.<end>"
+
+["1160044"]
+japanese = "あなたには私は必要でない。<line-break>私の存在はあなたの存在に<line-break>意味をなさない。<line-break>…それなのに、ここに来る。<end>"
+english = "You have no need of me. My existence means nothing to yours. And yet you come here.<end>"
+
+["1160045"]
+japanese = "あなたの行動は<line-break>長老の行動と同じです。<line-break>そして、同様に不可解です。<end>"
+english = "Your behavior is the same as the Elder's. And equally incomprehensible.<end>"
+
+["1160046"]
+japanese = "あなたは、<line-break>私を必要としているようには\u3000\u3000<line-break>感じられません。<line-break>それなのに、なぜ、何度もここに<line-break>来られるのですか？<line-break>私にはわかりません。<end>"
+english = "I do not sense that you need me. So why do you keep coming here? I do not understand.<end>"
+
+["1160047"]
+japanese = "その道を進むことは\u3000\u3000\u3000\u3000\u3000<line-break>なりません。<line-break>\u3000<line-break>この神殿の奥にある封印…、<line-break>それを守るのが私の役目。<line-break>どうか、お引き取りください。<end>"
+english = ""
+
+["1160048"]
+japanese = "まだ何か、話があるのですか？<line-break>ですが、おそらく私には、あなたが<line-break>満足するような対応はできません。<line-break>あなたがなぜここに来るのか、<line-break>それが、私には<line-break>まったく理解できないので。<end>"
+english = "Is there something else you wish to discuss? I doubt I can respond in a way that will satisfy you. I simply cannot understand why you come here.<end>"
+
+["1160049"]
+japanese = "…あなたはなぜ<line-break>ここに来るのですか？\u3000\u3000\u3000\u3000<line-break>私には理解できません。<line-break>その上、不安を感じます。<line-break>長老に対してよりも、ずっと。<end>"
+english = "Why do you come here? I don't understand. And you make me uneasy―far more so than the Elder does.<end>"
+
+["1160050"]
+japanese = "あなたがここに現れると<line-break>言いようのない不安を感じます。\u3000\u3000<line-break>\u3000<line-break>ぐらつくような、燃え落ちるような、<line-break>不思議な感覚です。<line-break>あなたは、なぜここに来るのですか？<end>"
+english = "Whenever you appear here, I feel an unease I cannot put into words. It is a strange sensation, as though I were wavering, burning away. Why do you come here?<end>"
+
+["1160051"]
+japanese = "何度ここに来られても、<line-break>ここには私と、私が守る封印以外\u3000\u3000\u3000<line-break>何もありません。<line-break>そして、封印には<line-break>近づけさせるわけにいきません。<line-break>あなたは、ここに用はないはずですが？<end>"
+english = "No matter how often you come, there is nothing here but me and the seal under my protection. I cannot allow you near it. Surely you have no business here?<end>"
+
+["1160052"]
+japanese = "そうですか。あなたが<line-break>長老を殺したのですか。<end>"
+english = "I see. So it was you who killed the Elder?<end>"
+
+["1160053"]
+japanese = "私に対して、<line-break>気を使う必要はありません。<end>"
+english = "You need not spare my feelings.<end>"
+
+["1160054"]
+japanese = "そうですか…。長老が<line-break>亡くなられましたか。<end>"
+english = "I see... The Elder has passed away.<end>"
+
+["1160055"]
+japanese = "それで、長老の束縛の腕輪は<line-break>どうなりました。<end>"
+english = "Then what became of the Elder's Bracelet of Binding?<end>"
+
+["1160056"]
+japanese = "…そうですか。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>いえ、あなたには<line-break>別に関係のない話です。<line-break>すみませんでした。<end>"
+english = "I see. No, it is nothing that concerns you. Forgive me.<end>"
+
+["1160057"]
+japanese = "そこから先へは<line-break>通すことはできません。\u3000\u3000\u3000<line-break>\u3000<line-break>それが私の役目です。<line-break>どうか、お引き取りください。<end>"
+english = ""
+
+["1160058"]
+japanese = "<if><value:$01><equal>2<value:$28>、<line-break>こんなところで、何をしてるの？ <end><if><value:$01><equal>4あ、また勝手によそさまの家にあがって<line-break>いろいろ物色してるの？<line-break>泥棒同然かも！\u3000きゃっ！<line-break>で、どう、<value:$28>？<line-break>何か、めぼしいものは見つかった？ <end><if><value:$01><equal>5<value:$28>、<line-break>ここにいたのか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>……お前って<line-break>結構、根性座ってるよな。<line-break>平気で人の家にあがりこむもんな。 <end><if><value:$01><equal>6<value:$28>、<line-break>何してるの、こんな所で？ <end><if><value:$01><equal>12よぉ、<value:$28>。<line-break>この家の主に何か用なのか？\u3000\u3000\u3000<line-break>\u3000<line-break>それとも、お前さんが用があるのは<line-break>そこにある、意味ありげな本かい？ <end><if><value:$01><equal>13…ここに、お前に必要な<line-break>何かがあるとでもいうのか？ <end><if><value:$01><equal>10姉ちゃん、こんなとこにいたのか。<line-break>ここって、あのシェムハザとかいう<line-break>じいさんの家だろ？<line-break>ここに何かあるのか？<line-break>わけわからない本が<line-break>びっしり並んでるだけじゃないか。 <end><if><value:$01><equal>14<value:$28>、<line-break>こんな所におったか。 <end><if><value:$01><equal>15<value:$28>…。<line-break>君ってホントに、他人の家に<line-break>あがりこむの好きだよね…。<line-break>どうしたの？<line-break>この家に何かあったの？ <end><if><value:$01><equal>17<value:$28>。あなたって本当に<line-break>下等でわけのわからない生き物ね。<line-break>\u3000<line-break>カビ臭い家に入りたがるのかしら？<line-break>まーったく理解できなくてよー！ <end><if><value:$01><equal>7<value:$28>、ここにいたのね。<line-break>何かあったの？ <end><if><value:$01><equal>19<value:$28>、みーつけた。<line-break>もう、また勝手に人の家に入ってぇ。 <end><if><value:$01><equal>8おや、<value:$28>、<line-break>奇遇ですね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ここは、この町の長老の家でした。<line-break>フフフ、少しお行儀が悪いですが<line-break>何かないか、探ってみましょうか。 <end><if><value:$01><equal>21このような所で<line-break>何をしている？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ここはかつて<line-break>この町の長老だった者の家だろう。<line-break>何かあるとでもいうのか？ <end><if><value:$01><equal>9あ、<value:$28>。<line-break>へぇ～、結構いい趣味してんじゃん。<line-break>留守の家で調べものなんてさ。<line-break>…アハハ、冗談よん。<line-break>なになに？\u3000ここに何かあるの？ <end><if><value:$01><equal>20何をしている？ <end><if><value:$01><equal>3<value:$28>、<line-break>こんなところで、何をしておる？ <end><if><value:$01><equal>11<value:$28>、<line-break>こんなところで、何をしてるの？ <end><if><value:$01><equal>27何をしている？ <end><if><value:$01><equal>26こんなところで、何をしておる？<line-break>勝手に人の家に入っては<line-break>いかんぞ？<end><if><value:$01><equal>193あ、<value:$28>さん。<line-break>こんな所でなにを？<line-break>ここになにかあるんですか？<end><if><value:$01><equal>191<value:$28>。<line-break>ここでなにしてるの？<line-break><end><if><value:$01><equal>190なにをしているんだ？<line-break>ここになにか用なのか？<end><value:$28>、<line-break>まぁたこんな所にいて…<line-break>\u3000<line-break>何してるの？<line-break>ここでお宝を発見しても、<line-break>それ取っちゃったら泥棒だよ？ <end>"
+english = "<if><value:$01><equal>2<value:$28>, what are you doing here?<end><if><value:$01><equal>4Oh, are you letting yourself into someone else's house and rummaging through everything again? That practically makes you a burglar! Eek! So, <value:$28>, find anything promising?<end><if><value:$01><equal>5<value:$28>, so this is where you were. You've got some nerve, you know that? You stroll into other people's houses without a care.<end><if><value:$01><equal>6<value:$28>, what are you doing in a place like this?<end><if><value:$01><equal>12Hey, <value:$28>. Got some business with the owner of this house? Or is it that rather intriguing book over there you're interested in?<end><if><value:$01><equal>13Do you think there's something here that you need?<end><if><value:$01><equal>10Sis, so this is where you were. This is the house of that old man Shemhaza, right? Is there something here? All I see are shelves packed with books that don't make any sense.<end><if><value:$01><equal>14<value:$28>, so this is where you were.<end><if><value:$01><equal>15<value:$28>... You really do love walking into other people's houses, don't you? What's going on? Is there something in this house?<end><if><value:$01><equal>17<value:$28>. You truly are a lowly, incomprehensible creature. What could possibly make you want to enter this musty old house? I simply cannot understand you at all!<end><if><value:$01><equal>7<value:$28>, there you are. Did something happen?<end><if><value:$01><equal>19Found you, <value:$28>! Honestly, letting yourself into someone else's house again...<end><if><value:$01><equal>8Why, <value:$28>, what a coincidence. This used to be the town elder's house. Heh heh. It may be a little improper, but shall we see if there's anything of interest?<end><if><value:$01><equal>21What are you doing in a place like this? This was once the home of the town elder, was it not? Do you expect to find something here?<end><if><value:$01><equal>9Oh, <value:$28>. Well, well. Some taste you've got, poking around an empty house. Ahaha, I'm kidding! So, what is it? Is there something here?<end><if><value:$01><equal>20What are you doing?<end><if><value:$01><equal>3<value:$28>, what are you doing in a place like this?<end><if><value:$01><equal>11<value:$28>, what are you doing here?<end><if><value:$01><equal>27What are you doing?<end><if><value:$01><equal>26What are you doing in a place like this? You mustn't enter other people's homes without permission.<end><if><value:$01><equal>193Oh, <value:$28>. What are you doing here? Is there something here?<end><if><value:$01><equal>191<value:$28>. What are you doing here?<end><if><value:$01><equal>190What are you doing? Do you have some business here?<end><value:$28>, here you are in a place like this again... What are you doing? Even if you find treasure here, taking it would make you a thief, you know?<end>"
+
+["1160059"]
+japanese = "<if><value:$01><equal>2あら、これ…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>日記かしら。<line-break>\u3000<line-break>んー、読みたいような<line-break>読んじゃいけないような…。<line-break>…んっ、んー、どれどれ…。 <end><if><value:$01><equal>4何それ、汚い字ね。<line-break>…日記？\u3000それならぜひ\u3000\u3000\u3000<line-break>読まなきゃかも！！<line-break><value:$28>、読まないの？<line-break>読まないんなら<line-break>私が読んであげるわ。 <end><if><value:$01><equal>5お！\u3000日記かよ！！<line-break>どれどれ、俺に読ませろよ。 <end><if><value:$01><equal>6あーっ！\u3000<line-break>これ、日記じゃないか。<line-break>ダメだよ、人の日記読んじゃ。<line-break>…でも、ちょっとだけ、<line-break>ちょっとだけなら、いいかな。<line-break>どれどれ…。 <end><if><value:$01><equal>12この本…日記か。<line-break>故人の日記を読むってのは<line-break>かなり気が引けるんだがな…。\u3000\u3000<line-break>…なんて言いつつ、手に取る俺も<line-break>あまり感心した人間じゃあないか。<line-break>さーて、どらどら…。 <end><if><value:$01><equal>13日記か。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>…構わん、貸してみろ。<line-break>故人の残した情報だ。<line-break>読まねば価値などない。 <end><if><value:$01><equal>10姉ちゃん、これ、日記かな？\u3000\u3000<line-break>…やっぱり日記だよ。<line-break>\u3000<line-break>どうする、姉ちゃん？<line-break>読んじゃおっか？\u3000俺読もうか？<line-break>よし、じゃ、読んじゃうぜ。 <end><if><value:$01><equal>14これは、日記かの？\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>わしらドワーフには、このような<line-break>律儀な習慣はなくてのう。<line-break>どれ、ちと見せてくれんか。 <end><if><value:$01><equal>15<value:$28>、これ、日記？<line-break>ずいぶんと分厚いね…。\u3000\u3000\u3000<line-break>\u3000<line-break>…ねえ、読んでみようか？<line-break>ちょっと、気が引けるけど…。<line-break>何かの役に立つかもしれないし。 <end><if><value:$01><equal>17なぁにぃ？\u3000この汚い本は。<line-break>日記？\u3000フン、常に後ろを<line-break>振り返るなんて、くだらないわね。<line-break>どれどれ<line-break>どんなくだらないことが<line-break>書いてあるのかしら…？ <end><if><value:$01><equal>7これ、日記ね。<line-break>あの怪物になった長老の…。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>あまりいいことではないけれど、<line-break>ちょっと、読んでみる？ <end><if><value:$01><equal>19このご本、日記だね。<line-break>こういうのって、あんまり読んじゃ\u3000\u3000<line-break>いけないんだよー。<line-break><value:$28>、読みたいの？<line-break>うーん…少しだけなら…いいかな。<line-break>じゃあ、ルルアンタが読んであげるね。 <end><if><value:$01><equal>8おや？\u3000これは日記ですね。\u3000<line-break>これはこれは、ある意味<line-break>どんな財宝より貴重ですね。<line-break>せっかく机の上にあるんだし、<line-break>読んじゃいましょうか？ <end><if><value:$01><equal>21これは…日記か。<line-break>この家にあるということは<line-break>死んだ長老の日記ということか。<line-break>読むぞ。<value:$28>。<line-break>何か有用なことが<line-break>書いてあるかもしれん。 <end><if><value:$01><equal>9うっわ、これ日記ね？<line-break>いいもんめっけたじゃん。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>こうやって机の上に出してるってことは<line-break>読んでくださいってことよね。<line-break>じゃ、遠慮なく読ませてもらいますか。 <end><if><value:$01><equal>20これは…なんだ？<line-break>少々、読みづらい字だが……。 <end><if><value:$01><equal>3これは…日記か。<line-break>どれどれ…<end><if><value:$01><equal>11これは…日記ね。<line-break>この家にあるということは<line-break>長老の日記…<line-break>あまりいいことではないけれど、<line-break>ちょっと、読んでみる？ <end><if><value:$01><equal>27この家にあるということは<line-break>死んだ長老の日記ということか。<line-break>読むぞ。<value:$28>。<line-break>何か有用なことが<line-break>書いてあるかもしれない。 <end><if><value:$01><equal>26故人の日記を読むなど<line-break>もってのほか…<line-break> <line-break>だが、机の上に出しっぱなしに<line-break>しているということは、読んでも<line-break>よいということじゃな。どれどれ…<end><if><value:$01><equal>193これは日記ですか？<line-break>ここにあるということは<line-break>長老さんのものですね。<line-break>読んじゃってもいいんでしょうか…？<line-break>…う～～～～～ん。<line-break>ええい！\u3000読んじゃいましょう！<end><if><value:$01><equal>191これは日記ね。<line-break><value:$28>、<line-break>まさか盗み読もうとしてるんじゃ…<line-break>実は私もちょっと中身見たいし、<line-break>いいわよね、読んじゃっても。<end><if><value:$01><equal>190これは日記か。<line-break>あの長老のもののようだな。<line-break>\u3000<line-break>何か大事なことが<line-break>書いているかもしれない。<line-break>読むぞ。<end>あ、これ日記だよ！<line-break>ねえ、読む？\u3000読もっか？<line-break>うーん、でもちょっと気が引けるな…。<line-break>………………。<line-break>まあいいや、読んじゃおう！ <end>"
+english = "<if><value:$01><equal>2Oh, is this... a diary? Hmm. I want to read it, but I feel as though I shouldn't... Well, let's see...<end><if><value:$01><equal>4What's that? The handwriting's awful. A diary? Then we simply have to read it! Aren't you going to, <value:$28>? If not, I'll read it for you.<end><if><value:$01><equal>5Oh! A diary! Here, let me read it.<end><if><value:$01><equal>6Ah! This is a diary! You shouldn't read someone else's diary. But maybe just a little... Just a little wouldn't hurt. Let's see...<end><if><value:$01><equal>12This book... It's a diary. Reading the diary of someone who's died doesn't sit well with me... Though I suppose picking it up anyway doesn't say much for my character. Well, let's have a look...<end><if><value:$01><equal>13A diary. Fine, hand it over. It contains information left by the deceased. It has no value if it goes unread.<end><if><value:$01><equal>10Sis, do you think this is a diary? It is! What should we do? Want to read it? Should I? All right, I'll read it!<end><if><value:$01><equal>14Is this a diary? We Dwarves don't have this habit of dutifully keeping diaries. Come, let me have a look.<end><if><value:$01><equal>15<value:$28>, is this a diary? It's awfully thick... Hey, should we read it? I feel a little guilty, but it might prove useful.<end><if><value:$01><equal>17What is this filthy book? A diary? Hmph. What nonsense, always looking back on the past. Now, let's see what sort of nonsense is written in it...<end><if><value:$01><equal>7This is a diary. It belonged to the elder who became that monster... It isn't exactly right, but shall we read a little?<end><if><value:$01><equal>19This book is a diary. You're not really supposed to read things like this. Do you want to, <value:$28>? Hmm... Maybe just a little would be all right. Then Lulluantha will read it for you.<end><if><value:$01><equal>8Oh? This is a diary. Well, well. In a sense, this may be more precious than any treasure. Since it was left here on the desk, shall we read it?<end><if><value:$01><equal>21This is... a diary. If it was kept in this house, it must have belonged to the dead elder. I'll read it, <value:$28>. It may contain something useful.<end><if><value:$01><equal>9Whoa, is this a diary? Nice find! If it's been left out on the desk like this, that must mean we're supposed to read it, right? Then let's oblige.<end><if><value:$01><equal>20What is this? The handwriting is rather difficult to read...<end><if><value:$01><equal>3Is this... a diary? Let's see...<end><if><value:$01><equal>11This is... a diary. If it's here in this house, it must be the elder's... It isn't exactly right, but shall we read a little?<end><if><value:$01><equal>27If it was kept in this house, it must have belonged to the dead elder. I'll read it, <value:$28>. It may contain something useful.<end><if><value:$01><equal>26Reading the diary of the deceased is unthinkable... Then again, leaving it lying out on the desk must mean it is meant to be read. Let us see...<end><if><value:$01><equal>193Is this a diary? If it's here, it must belong to the elder. Do you think it's all right for us to read it? Hmmmm... Oh, never mind! Let's read it!<end><if><value:$01><equal>191This is a diary. <value:$28>, surely you weren't planning to sneak a look... Though I admit I'd like to see what's inside too, so it's all right if we read it, isn't it?<end><if><value:$01><equal>190This is a diary. It appears to have belonged to that elder. Something important may be written in it. I'll read it.<end>Oh, this is a diary! Hey, should we read it? Want to? Hmm, but I feel a little guilty... All right, never mind. Let's read it!<end>"
+
+["1160060"]
+japanese = "（これは……日記か？）<end>"
+english = "(Is this... a diary?)<end>"
+
+["1160061"]
+japanese = "…今日もフレアは安定している。<line-break>彼女はあのころの姿のまま、<line-break>こうして神殿で月日を重ねている…。\u3000\u3000<line-break>\u3000<line-break>あの日、遠き若き日の私は、<line-break>深く愛し、固く拒まれたがゆえに<line-break>火の巫女フレアを殺してしまった。<line-break>それが、この悔恨の日々の始まりだった。<end>"
+english = "…Flare is stable again today. She remains as she was back then, passing the years here in the temple… On that day, long ago in my youth, I killed Flare, the Fire Priestess, because I loved her deeply and she rejected me so firmly. That was the beginning of these days of remorse.<end>"
+
+["1160062"]
+japanese = "巫女が失われれば、精霊神の力の封印が<line-break>解放され、世界に災厄が起きる。<line-break>いつかことは公になり、私の行いも<line-break>明るみに出るだろう…。<line-break>私は、それを恐れた。<line-break>そして、闇の神器、束縛の腕輪の力で<line-break>彼女の肉体を再現することに成功した。<line-break>精神は、再現できなかったが……。<end>"
+english = "If the priestess were lost, the seal on the Spirit God's power would be broken, bringing calamity upon the world. Someday, all of this would become known, and what I had done would come to light… I was afraid of that. And so, with the power of the Bracelet of Binding, a dark divine artifact, I succeeded in recreating her body. But I could not recreate her mind…<end>"
+
+["1160063"]
+japanese = "火の精霊神は、私が作ったフレアを<line-break>フレア本人として認識した。<line-break>あとは、神殿から人を遠ざければ<line-break>特に問題が起きることはないだろう。<line-break>そうして、今日までの日々、<line-break>作りもののフレアは<line-break>歳を取ることなくそこにあり続け、<line-break>私はこうして老いてきた。<end>"
+english = "The Fire Spirit God recognized the Flare I had created as Flare herself. All that remained was to keep people away from the temple, and then no particular trouble should arise. And so the years have passed until today: the fabricated Flare has remained there, never aging, while I have grown old.<end>"
+
+["1160064"]
+japanese = "やがて私は、彼女をひとり遺し<line-break>逝くことになるのだろう。<line-break>心配なのは、束縛の腕輪だ。<line-break>あれがないと、彼女は体を保てない。<line-break>誰でもいい。<line-break>私亡きあと、彼女と束縛の腕輪を<line-break>守ってくれる者はいないだろうか…。<end>"
+english = "Before long, I will pass from this world, leaving her all alone. What concerns me is the Bracelet of Binding. Without it, she cannot maintain her body. Anyone will do. Is there no one who will protect her and the Bracelet of Binding after I am gone…?<end>"
+
+["1160065"]
+japanese = "私が生涯でただひとり愛した女性よ。<line-break>私の永遠の恋人フレアよ…。<line-break>どうか、彼女がとこしえに<line-break>この世界にあり続けますように…。<end>"
+english = "You were the only woman I ever loved. Flare, my eternal lover… May she remain in this world forever…<end>"
+
+["1160066"]
+japanese = "<if><value:$01><equal>2………………。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>なんて…ことなの…。<line-break>人を殺して代わりを勝手に作るなんて、<line-break>狂気だわ…。 <end><if><value:$01><equal>4………………。<line-break>読まないほうがよかったかも…。 <end><if><value:$01><equal>5…なんだか、<line-break>かなりイヤな気持ちになったな…。<line-break>\u3000<line-break>ん！？<line-break>じゃあ、今、火の神殿にいる<line-break>フレアは、その作りものの方か？ <end><if><value:$01><equal>6そんな…。<line-break>人の命を物みたいに…。\u3000\u3000\u3000<line-break>\u3000<line-break>ごめん、<value:$28>。<line-break>ボク、なんだか気分が悪いや。<line-break>また、あとでね。 <end><if><value:$01><equal>12はぁ…、これはまた<line-break>ずいぶん屈折した愛の手記だな。<line-break>\u3000<line-break>今いるフレアは作りもの…ね…。<line-break>まあ、お前さんはお前さんらしく<line-break>彼女に接することだ。 <end><if><value:$01><equal>13…みにくいな。<line-break>そして…不快だ。<line-break>\u3000<line-break>無駄な調べものだったな。 <end><if><value:$01><equal>10姉ちゃん！<line-break>これって結構<line-break>すごいこと書いてないか！？\u3000\u3000<line-break>好きな人を殺して、作って……。<line-break>あー、なんでそんな<line-break>わけわかんないことするんだ！！ <end><if><value:$01><equal>14…悲しいのう。<line-break>フレアという娘も、この男も。<line-break>\u3000<line-break>じゃが、どんなに悲しく、<line-break>間違っておっても、それもまた<line-break>愛の姿なんじゃろうのう…。 <end><if><value:$01><equal>15そんな！！<line-break>そんなことって、許されるの！？<line-break>\u3000<line-break>…僕には納得いかないよ。<line-break>フレアが…どっちのフレアも<line-break>かわいそうすぎるよ…。 <end><if><value:$01><equal>17はぁーあ、バカバカしい。<line-break>なんなのかしらね、この男は？\u3000\u3000\u3000<line-break>ホントにバカね。バカ過ぎ。<line-break>こんなカビ臭い所で<line-break>こんな辛気臭い話読んでどうするの？<line-break>はぁーあ、無駄な時間を過ごしたわ。 <end><if><value:$01><equal>7…そう。<line-break>そんな事情があったのね…。\u3000\u3000\u3000<line-break>\u3000<line-break>でも、ネメア様も闇の神器を<line-break>必要としていた…。すまないわね。<line-break>あなたの願いを踏みにじって。 <end><if><value:$01><equal>19３人とも…かわいそう。<line-break>フレアも、作られたフレアも\u3000<line-break>この男の人も…。<line-break><value:$28>、<line-break>せめて今神殿にいるフレアには<line-break>やさしくしてあげようね。 <end><if><value:$01><equal>8…これはなんとも<line-break>気の毒な日記でしたね…。<line-break>\u3000<line-break>まあ、愛っていうのも<line-break>強さとかと同じで<line-break>さまざまですからね。 <end><if><value:$01><equal>21…くだらんな。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>このような弱い男の<line-break>後悔につきあう暇などないな。 <end><if><value:$01><equal>9うぅわ、しめっぽい。<line-break>こういうの、ちょ～っと<line-break>苦手なんだよね～。<line-break>そんなわけで、アタシは<line-break>退散させてもらうわ。<line-break>じゃあね。<value:$28>。 <end><if><value:$01><equal>20………………。<line-break>無益な。 <end><if><value:$01><equal>3…悲しいのう。<line-break>フレアという娘も、この男も。<line-break>\u3000<line-break>じゃが、どんなに悲しく、<line-break>間違っておっても、それもまた<line-break>愛の姿なんじゃろうのう…。 <end><if><value:$01><equal>11………………。<line-break>\u3000<line-break>\u3000<line-break>こんな愛し方って…<line-break>悲しすぎる…<end><if><value:$01><equal>27………………。<end><if><value:$01><equal>26な…なんということじゃ。<line-break> <line-break> <line-break>愛には姿はない…<line-break>じゃが、これでは何も救われん…フレアという娘も、この男も。<end><if><value:$01><equal>193これダメ！<line-break>これダメです！<line-break>こんなのってダメです！<line-break>だって、これじゃ…！<line-break>こんなんじゃ…！<line-break>ひどすぎます…。かわいそうです…。<end><if><value:$01><equal>191………………。<line-break><line-break><line-break>愛って、時に人を狂わせる…。<line-break>悲しいわね。<end><if><value:$01><equal>190間違ってる！<line-break>そんなものが愛のはずがない！<line-break><line-break>愛は壊すことじゃない！<line-break>壊してしまって<line-break>それを嘘で隠すことじゃない！<end>ちょ、ちょっとこれ、<line-break>ものすごいこと書いてるよ。<line-break>\u3000<line-break>…ん～、でも、きれいじゃないよね。<line-break>歌にできるような内容じゃないや。 <end>"
+english = "<if><value:$01><equal>2... How... how could anyone do such a thing? Killing someone and just making a replacement... It's madness...<end><if><value:$01><equal>4... Maybe we shouldn't have read that...<end><if><value:$01><equal>5That left a really bad taste in my mouth... Wait! Then the Flare at the Temple of Fire now is the artificial one?<end><if><value:$01><equal>6No... Treating a human life like some mere object... Sorry, <value:$28>. I don't feel very well. I'll see you later.<end><if><value:$01><equal>12Well... That was quite a record of twisted love. So the Flare here now is the one he made... Just treat her in your own way.<end><if><value:$01><equal>13Ugly... and repulsive. This investigation was a waste of time.<end><if><value:$01><equal>10Sis! That's some pretty shocking stuff, isn't it!? He killed the woman he loved, then made another one... Why would anyone do something so senseless?!<end><if><value:$01><equal>14How sad... Both the girl called Flare and this man. Yet however tragic and misguided it may be, perhaps this too is a form that love can take...<end><if><value:$01><equal>15No! How could something like that be allowed?! I can't accept it. Flare... Both Flares... I feel so sorry for both of them...<end><if><value:$01><equal>17Oh, how ridiculous. What is wrong with this man? He's a fool. A complete fool. What was the point of coming to this musty place to read such a dreary story? What a waste of time.<end><if><value:$01><equal>7I see. So that was what happened... But Lord Nemea needed the divine artifact of darkness as well. I'm sorry. We trampled on your wish.<end><if><value:$01><equal>19I feel sorry for all three of them... Flare, the Flare he created, and that man too... <value:$28>, let's at least be kind to the Flare who's in the temple now.<end><if><value:$01><equal>8That was a truly tragic diary... Well, love comes in many forms, just as strength does.<end><if><value:$01><equal>21Pathetic. I have no time to indulge the regrets of such a weak man.<end><if><value:$01><equal>9Ugh, how depressing. I'm not very good with this sort of thing. So I'm getting out of here. Bye, <value:$28>.<end><if><value:$01><equal>20Pointless.<end><if><value:$01><equal>3How sad... Both the girl called Flare and this man. Yet however tragic and misguided it may be, perhaps this too is a form that love can take...<end><if><value:$01><equal>11... To love someone this way... It's too sad...<end><if><value:$01><equal>27...<end><if><value:$01><equal>26Wh-what a terrible thing... Love has no shape... but this saves no one. Not the girl called Flare, and not this man...<end><if><value:$01><equal>193No! This is wrong! It's all wrong! Because this... This is just... It's too horrible. I feel so sorry for them...<end><if><value:$01><equal>191... Love can sometimes drive people mad... How sad.<end><if><value:$01><equal>190It's wrong! That could never be love! Love isn't about destroying someone! It isn't destroying someone and then hiding it with a lie!<end>W-wait, this says some pretty shocking things. Hmm... But it isn't beautiful, is it? It's not the sort of story you could turn into a song.<end>"
+
+["1160067"]
+japanese = "そうですか。あなたが<line-break>シェムハザ様を殺したのですか。<end>"
+english = "So you are the one who killed Lord Shemhaza?<end>"
+
+["1160068"]
+japanese = "私に対して、<line-break>気を使う必要はありません。<end>"
+english = "You need not spare my feelings.<end>"
+
+["1160069"]
+japanese = "そうですか…。長老シェムハザ様が<line-break>亡くなられましたか。<end>"
+english = "I see... Elder Shemhaza has passed away.<end>"
+
+["1160070"]
+japanese = "それで、長老の束縛の腕輪は<line-break>どうなりました。<end>"
+english = "Then what became of the Elder's Bracelet of Binding?<end>"
+
+["1160071"]
+japanese = "…そうですか。<end>"
+english = "...I see.<end>"
+
+["1160072"]
+japanese = "すみ…ません。<end>"
+english = "I am... sorry.<end>"
+
+["1160073"]
+japanese = "使えなくなる道具は<line-break>役に立ちません。<line-break>それで謝ったのです。<end>"
+english = "A tool that can no longer be used is of no use. That is why I apologized.<end>"
+
+["1160074"]
+japanese = "そうですか…。<line-break>長老の日記にそんなことが…。\u3000\u3000\u3000<line-break>\u3000<line-break>確かに、私は長老に作られました。<line-break>そして、神器が奪われた以上、<line-break>私の体は、じきに崩れゆくでしょう。<end>"
+english = "I see... So that's what the elder's diary says... It is true that the elder created me. And now that the divine artifact has been taken, my body will soon begin to crumble.<end>"
+
+["1160075"]
+japanese = "私が死ぬと、<line-break>もはや火のウルの血を引く者もなく、\u3000<line-break>右腕の封印を守ることができません。<line-break>役目を果たせなくなるというのは<line-break>とても申しわけないことだと思います。<line-break>ですが、存在の消滅には逆らえません。<end>"
+english = "When I die, no one with the blood of the Ur of Fire will remain, and the seal on the right arm can no longer be guarded. I am deeply sorry that I will be unable to fulfill my purpose. But there is no resisting the end of my existence.<end>"
+
+["1160076"]
+japanese = "私の体は、じきに崩れ落ちるでしょう。<line-break>\u3000<line-break>\u3000<line-break>この神殿と封印を守る役目、<line-break>それを果たせなくなることは<line-break>非常に申しわけないことだと思います。<end>"
+english = "My body will soon crumble away. I am deeply sorry that I will no longer be able to fulfill my duty of guarding this temple and the seal.<end>"
+
+["1160077"]
+japanese = "そこから先へは<line-break>通すことはできません。\u3000\u3000\u3000<line-break>\u3000<line-break>それが私の役目です。<line-break>どうか、お引き取りください。<end>"
+english = ""
+
+["1160078"]
+japanese = "僕は君を必要としている。<line-break>フフ、なんて甘美な響きなんだろう。<line-break>\u3000<line-break>空中都市を浮上させるためには、<line-break>魔道王国ラドラスの４人の巫女の<line-break>血を引く者が必要だ。<end>"
+english = "I need you. Heh... What sweet words those are. To raise the Floating City, I need descendants of the four priestesses of the Magic Kingdom Ladras.<end>"
+
+["1160079"]
+japanese = "そして、そのひとり火の巫女ウルの<line-break>血を引くのは、フレア、君だけなんだ。<line-break>僕についてきてくれないかなぁ？<end>"
+english = "And you, Flare, are the only descendant of one of them: Priestess Uru of Fire. Won't you come with me?<end>"
+
+["1160080"]
+japanese = "私はこの神殿…聖なる座所を<line-break>守らなくてはなりません。<line-break>私はそのために存在するのです。<end>"
+english = "I must protect this temple... this sacred seat. That is why I exist.<end>"
+
+["1160081"]
+japanese = "まだそんなこと言ってんの？<line-break>闇の神器が奪われた以上、<line-break>君は死ぬしかないんだよ？<end>"
+english = "You're still going on about that? Now that the Divine Artifact of Darkness has been stolen, you've got no choice but to die, you know?<end>"
+
+["1160082"]
+japanese = "…そうです。<end>"
+english = "...Yes.<end>"
+
+["1160083"]
+japanese = "つまり、封印を守り通すなんて、<line-break>もうできないんだよ。<end>"
+english = "In other words, you can't protect the seal anymore.<end>"
+
+["1160084"]
+japanese = "つまり、君は役立たずなんだ。<line-break>君には存在価値がないんだよ。<end>"
+english = "Which makes you useless. There's no longer any reason for you to exist.<end>"
+
+["1160085"]
+japanese = "…そうです。<line-break>私には存在価値がありません。<end>"
+english = "...Yes. There is no longer any reason for me to exist.<end>"
+
+["1160086"]
+japanese = "僕は君に、<line-break>かわりの存在価値を<line-break>持ってきてあげた。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>君は魔道王国の遺産を復活させる<line-break>大事な鍵だ。そして、<line-break>この役は君でなくてはならないんだ。<end>"
+english = "So I've brought you a new reason to exist. You're the vital key to reviving the legacy of the Magic Kingdom. And no one else can fill this role.<end>"
+
+["1160087"]
+japanese = "君は空中都市で動力源になる。<line-break>大事な部品として永遠に必要とされる。<line-break>…魅惑的だろ？<end>"
+english = "You'll become the Floating City's power source. You'll be needed forever as an important component. Tempting, isn't it?<end>"
+
+["1160088"]
+japanese = "おいで…。君は何百年も前から<line-break>必要とされてきたんだ…。<end>"
+english = "Come along... You've been needed for hundreds of years...<end>"
+
+["1160089"]
+japanese = "<value:$28>様…。<end>"
+english = "<value:$28>...<end>"
+
+["1160090"]
+japanese = "私はここでは必要ではありません。<line-break>ですが、この人は私を<line-break>必要としています。<line-break>私はこの人についていきます。<end>"
+english = "I am not needed here. But this person needs me. I will follow the one who does.<end>"
+
+["1160091"]
+japanese = "って言ってるよ？<line-break>フフ、どうする？<end>"
+english = "You heard her. Heh... What will you do?<end>"
+
+["1160092"]
+japanese = "おーこわ！\u3000フフフ…、<line-break>じゃさ、君がこいつに勝てたら<line-break>今日は引き下がるよ！<end>"
+english = "Ooh, how frightening! Heh heh... All right, if you can defeat this one, I'll leave for today!<end>"
+
+["1160093"]
+japanese = "お見事！<line-break>まさに無敵だね！\u3000\u3000\u3000<line-break>\u3000<line-break>僕も君の強さに敬服して<line-break>たまには約束を守るよ。<line-break>じゃあね～。<end>"
+english = "Splendid! You really are invincible! I'm so impressed by your strength that, for once, I'll keep my word. Bye now!<end>"
+
+["1160094"]
+japanese = "…あの人は、少なくとも、<line-break>道具としての私を必要としていました。<end>"
+english = "...That person, at least, needed me as a tool.<end>"
+
+["1160095"]
+japanese = "…あなたが私を必要としている<line-break>という意味が、私にはわかりません。<line-break>\u3000<line-break>私は、たぶん、あなたを<line-break>満足させられないでしょう。<end>"
+english = "...I do not understand what you mean when you say you need me. I doubt I will be able to satisfy you.<end>"
+
+["1160096"]
+japanese = "それは悲しいことです。<line-break>私にとっても、<line-break>あなたにとっても。<end>"
+english = "That is sad. For me, and for you as well.<end>"
+
+["1160097"]
+japanese = "私の役割…、<line-break>私のこれからの存在の意味…。<line-break>\u3000<line-break>あなたは私に<line-break>どのような意味を<line-break>感じているのですか？<end>"
+english = "My role... what my existence will mean from now on... What meaning do you see in me?<end>"
+
+["1160098"]
+japanese = "あ…。<end>"
+english = "Ah...<end>"
+
+["1160099"]
+japanese = "<value:$28>～。<line-break>無粋だなあ、君って奴は。\u3000<line-break>\u3000<line-break>これから、ふたりっきりで<line-break>出かけようっていう時に<line-break>顔出さないでくれるかなあ？<end>"
+english = "Oh, <value:$28>. You really have no sense of romance, do you? Must you show up just as the two of us are about to go out alone?<end>"
+
+["1160100"]
+japanese = "剣は人を斬ることを拒みません。<line-break>ペンは言葉を記すことを拒みません。<line-break>\u3000<line-break>私もまた、役目があるのであれば<line-break>それを拒むことはありません。<end>"
+english = "A sword does not refuse to cut a person. A pen does not refuse to set down words. And if I have a duty to fulfill, I will not refuse it either.<end>"
+
+["1160101"]
+japanese = "ほら、フレアもこう言ってることだし、<line-break>僕たちのことは、そっとしておいて<line-break>くれないかなあ。<line-break>それじゃ、<value:$28>。<line-break>僕たちは行くよ。<line-break>じゃあね。<end>"
+english = "You heard Flare. So won't you leave the two of us in peace? Well then, <value:$28>. We're off. See you.<end>"
+
+["1160102"]
+japanese = "…<value:$28>…。<line-break>このようなときに来られるとは…。<line-break>\u3000<line-break>…私は、これから、死にます。<end>"
+english = "...<value:$28>... To think you would come at a time like this... I am about to die.<end>"
+
+["1160103"]
+japanese = "束縛の腕輪の力が完全に尽き、<line-break>私の体は土くれとなって<line-break>失われようとしています。<line-break>もはや、腕輪があろうとも<line-break>私の体が崩れ落ちることは<line-break>止めることができないでしょう。<end>"
+english = "The Bracelet of Binding has lost the last of its power, and my body is crumbling into earth. Even with the bracelet, nothing can stop it now.<end>"
+
+["1160104"]
+japanese = "あなたには、<line-break>私がみにくく死ぬさまを\u3000\u3000\u3000<line-break>見られたくありません。<line-break>さようなら。<line-break>私の死を苦いものにした人よ。<end>"
+english = "I do not want you to see me die so wretchedly. Farewell, you who have made my death a bitter one.<end>"
+
+["1160105"]
+japanese = "ですが私は、<line-break>崩れ落ちるその瞬間まで<line-break>自分の役割を果たしましょう。<line-break>この神殿の先へと<line-break>進ませるわけにはいきません。<line-break>立ち去ってください。<end>"
+english = "But until the moment I crumble away, I will fulfill my duty. I cannot allow you to proceed beyond this temple. Please leave.<end>"
+
+["1160106"]
+japanese = "そこから先へは<line-break>通すわけにはいきません。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>私は、この命が終わる最期の時まで<line-break>私の果たすべき役目を果たしましょう。<line-break>さあ、立ち去ってください。<end>"
+english = "I cannot let you pass beyond this point. I will carry out my duty until the last moment of my life. Now, please leave.<end>"
+
+["1160107"]
+japanese = "じきに、私の体は<line-break>土くれのように<line-break>崩れ落ちるでしょう。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>それによって<line-break>役目を全うすることができないのは<line-break>本当に申しわけないことだと思います。<end>"
+english = "Before long, my body will crumble away like dry earth. I am truly sorry that this will prevent me from fulfilling my duty.<end>"
+
+["1160108"]
+japanese = "<value:$28>様、ですか？<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>体を維持するための魔力が<line-break>弱まっているのでしょう。<line-break>最近は、目もよく見えません。<end>"
+english = "Is that you, <value:$28>? The magic sustaining my body must be growing weaker. Lately, I can hardly see.<end>"
+
+["1160109"]
+japanese = "心配などいりません。<line-break>また、心配する意味もありません。<line-break>私がこうなるのは、必然なのです。<end>"
+english = "There is no need to worry. Nor would worrying serve any purpose. This was inevitable.<end>"
+
+["1160110"]
+japanese = "<value:$28>様…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>あなたが<line-break>ここにいらっしゃることは<line-break>相変わらず、意味がありません。<end>"
+english = "<value:$28>... Your being here remains as pointless as ever.<end>"
+
+["1160111"]
+japanese = "ですが、なぜでしょう。<line-break>あなたが来ると、不思議と<line-break>何かが満たされるような感じです…。<end>"
+english = "And yet, I wonder why. Whenever you come, I feel as though something within me has been filled...<end>"
+
+["1160112"]
+japanese = "そこから先へは<line-break>通すことはできません。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>たとえ、残る命が短くても、<line-break>それが私の果たすべき役目です。<line-break>どうか、お引き取りください。<end>"
+english = "I cannot allow you to go any farther. Even if I have little time left, this is the duty I must fulfill. Please, turn back.<end>"
+
+["1160113"]
+japanese = "ここには、私に残された<line-break>ただひとつの役目があります。<line-break>\u3000<line-break>それを果たすためだけに<line-break>私はここにいるのです。<line-break>この命が尽きる瞬間まで。<end>"
+english = "There is only one duty left to me here. It is the sole reason I remain, and I shall do so until the moment this life ends.<end>"
+
+["1160114"]
+japanese = "ここに来た所で<line-break>何を得られるわけでもないはずです。<line-break>\u3000<line-break>それなのに、なぜあなたは<line-break>ここを訪れるのですか？<line-break>私には、理解できません。<end>"
+english = "There should be nothing for you to gain by coming here. Why, then, do you keep visiting? I do not understand.<end>"
+
+["1160115"]
+japanese = "あなたにとって、この地には<line-break>どのような意味があるのですか？\u3000\u3000\u3000<line-break>\u3000<line-break>ここには私と、私が守る封印、<line-break>それしかありません。<line-break>あなたが来るべき所ではないはずです。<end>"
+english = "What meaning does this place hold for you? There is nothing here but me and the seal I guard. Surely this is not a place you should come to.<end>"
+
+["1160116"]
+japanese = "そこから先へは<line-break>通すことはできません。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>たとえ、残る命が短くても、<line-break>それが私の果たすべき役目です。<line-break>どうか、お引き取りください。<end>"
+english = "I cannot allow you to go any farther. Even if I have little time left, this is the duty I must fulfill. Please, turn back.<end>"
+
+["1160117"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よくぞ、来た。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ。<line-break>\u3000\u3000\u3000\u3000我は火の精霊神ウルカーン。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我が願いをかなえよ。<end>"
+english = "Welcome, Bearer of the Infinite Soul. I am Ulkaan, the spirit god of fire. Grant my wish.<end>"
+
+["1160118"]
+japanese = "\u3000\u3000汝、この先の地にて、あのお方を封じる\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000憎き巨人を倒すのだ…。<line-break>\u3000\u3000さすれば我、汝に至高の炎を与えん…。<end>"
+english = "In the land ahead, slay the hated giant who holds the revered one sealed away... Do so, and I shall grant you the supreme flame...<end>"
+
+["1160119"]
+japanese = "わかった<end>"
+english = "Understood.<end>"
+
+["1160120"]
+japanese = "関係ない<end>"
+english = "Not my concern.<end>"
+
+["1160121"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000よし。なれば我、\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000汝を封印の扉へとみちびかん。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000汝、猛き炎の光に身を投じ、<line-break>\u3000\u3000\u3000封印の巨人プネウマに挑むがよい。<end>"
+english = "Very well. Then I shall guide you to the sealed door. Cast yourself into the fierce glow of the flames and challenge Pneuma, the sealed giant.<end>"
+
+["1160122"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000そうか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000ならば去るがよい。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000しかし、我は待っているぞ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000汝のごとき強き魂が<line-break>\u3000\u3000\u3000あの憎き巨人を倒しに現れることを。<end>"
+english = "I see. Then go. But I shall be waiting for a mighty soul such as yours to appear and defeat that hateful giant.<end>"
+
+["1160123"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000…どうした？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000怖じ気づいたか？<end>"
+english = "…What is it? Have you lost your nerve?<end>"
+
+["1160124"]
+japanese = "そんなことはない<end>"
+english = "Not at all.<end>"
+
+["1160125"]
+japanese = "やめておこうかな<end>"
+english = "Maybe I should back out.<end>"
+
+["1160126"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000ならば、行け。<line-break>\u3000\u3000\u3000\u3000彼の憎き巨人を打ち倒すのだ。<end>"
+english = "Then go. Strike down that accursed giant.<end>"
+
+["1160127"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000腰抜けめが。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000…まぁ、よいわ。<line-break>\u3000\u3000\u3000\u3000プネウマに挑まんとするなら<line-break>\u3000\u3000\u3000\u3000\u3000またいつでも来るがよい。<end>"
+english = "You coward. …Well, no matter. If you intend to challenge Pneuma, you may return whenever you wish.<end>"
+
+["1160128"]
+japanese = "小賢しきかな、ウルカーンめ。<line-break>恥も知らずに<line-break>かような人の子を遣わしおって…。\u3000<line-break>汝もまた、愚かしくも哀れなる者よ。<line-break>奴の思惑も知らずに<line-break>のこのこと来るとはな。<end>"
+english = "What a petty schemer you are, Urkaan. Shamelessly sending a child of man to do your bidding... And you, too, are a foolish, pitiable creature, coming here without the faintest notion of Urkaan's designs.<end>"
+
+["1160129"]
+japanese = "胎の封印を破らんとする者の命を<line-break>吹き消すことこそ我が使命。<line-break>己の無知と無力とを知るがよい！<end>"
+english = "My charge is to snuff out the life of any who would break the seal of the womb. Know now your own ignorance and impotence!<end>"
+
+["1160130"]
+japanese = "ば、バカな…。<line-break>バイアス様よりいただきし我が力を<line-break>しりぞける人の子がいようとは…。<line-break>無知なる人の子よ…。<line-break>己が所業の意味に気づきしとき、<line-break>汝は罪の重さに耐えられぬぞ。<end>"
+english = "I-impossible... That a child of man could repel the power Bias bestowed upon me... Ignorant child of man... When you learn the meaning of what you have done, the weight of your sin will be more than you can bear.<end>"
+
+["1160131"]
+japanese = "愚かなり…愚かなり……。<end>"
+english = "Foolish... so foolish...<end>"
+
+["1160132"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よくやった…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ……。<end>"
+english = "You have done well... Bearer of the Infinite Soul....<end>"
+
+["1160133"]
+japanese = "\u3000\u3000\u3000\u3000\u3000よくぞ、プネウマを倒した。\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000約束通り、汝に至高の炎を授けよう。\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000汝の魔道の資質満たされ、\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000内なる炎燃え盛るならば<line-break>\u3000\u3000\u3000この至高の炎、必ずや汝を助けん。\u3000\u3000\u3000<end>"
+english = "Well done defeating Pneuma. As promised, I shall grant you the Supreme Flame. Should your gift for the magical arts reach its fullness and the flame within you blaze, this Supreme Flame will surely aid you.<end>"
+
+["1160134"]
+japanese = "火の最高位の魔法が解放された。<end>"
+english = "The highest-level fire magic has been unlocked.<end>"
+
+["1160135"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000では、さらばだ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000<value:$28>、<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ。<end>"
+english = "Then farewell, <value:$28>, Bearer of the Infinite Soul.<end>"
+
+["1160136"]
+japanese = "\u3000\u3000\u3000\u3000\u3000\u3000再び来たか。<value:$28>、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ。\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000プネウマを退治する気に<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000なったのだな？<end>"
+english = "You have returned, <value:$28>, Bearer of the Infinite Soul. So, you have decided to defeat Pneuma?<end>"
+
+["1160137"]
+japanese = "しょうがないな<end>"
+english = "Fine, if I have to.<end>"
+
+["1160138"]
+japanese = "関係ないってば<end>"
+english = "It's got nothing to do with me!<end>"
+
+["1160139"]
+japanese = "…予備メッセージ。<line-break>フレアの…その１です。<end>"
+english = ""
+
+["1160140"]
+japanese = "…予備メッセージ。<line-break>フレアの…その２です。<end>"
+english = ""
+
+["1160141"]
+japanese = "…予備メッセージ。<line-break>フレアの…その３です。<end>"
+english = ""
+
+["1160142"]
+japanese = "…予備メッセージ。<line-break>フレアの…その４です。<end>"
+english = ""
+
+["1160143"]
+japanese = "…予備メッセージ。<line-break>フレアの…その５です。<end>"
+english = ""
+
+["1160144"]
+japanese = "…予備メッセージ。<line-break>フレアの…その６です。<end>"
+english = ""
+
+["1160145"]
+japanese = "…予備メッセージ。<line-break>フレアの…その７です。<end>"
+english = ""
+
+["1160146"]
+japanese = "…予備メッセージ。<line-break>フレアの…その８です。<end>"
+english = ""
+
+["1160147"]
+japanese = "…予備メッセージ。<line-break>フレアの…その９です。<end>"
+english = ""
+
+["1160148"]
+japanese = "…予備メッセージ。<line-break>フレアの…その１０です。<end>"
+english = ""
+
+["1160149"]
+japanese = "フレアメッセージ終端<end>"
+english = ""

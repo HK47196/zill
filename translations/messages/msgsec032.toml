@@ -1,0 +1,609 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["320000"]
+japanese = "旅立ち０５メッセージ<end>"
+english = ""
+
+["320001"]
+japanese = "<value:$28>か。<end>"
+english = "<value:$28>?<end>"
+
+["320002"]
+japanese = "魔物に襲われたケガ人なら心配ない。<line-break>今、父上が神殿まで運んでゆかれた。<end>"
+english = "Don't worry about the person injured by the monsters. Father has taken the victim to the temple.<end>"
+
+["320003"]
+japanese = "しかし、村のすぐ近くまで<line-break>魔物がうろつくようになるとは…。<end>"
+english = "Still, I never thought monsters would start roaming this close to the village...<end>"
+
+["320004"]
+japanese = "元気の薬が<line-break>足りなくなるかもしれない。<line-break>少し集めて帰ろう。<end>"
+english = "We may run short of vitality medicine. Let's gather some before we head back.<end>"
+
+["320005"]
+japanese = "ハハ、頼りにしているぞ<line-break><value:$28>。<end>"
+english = "Ha! I'm counting on you, <value:$28>.<end>"
+
+["320006"]
+japanese = "どうした。<line-break>集め終わったのか？<end>"
+english = "What is it? Finished gathering everything?<end>"
+
+["320007"]
+japanese = "集め終わったか？<end>"
+english = "Finished gathering everything?<end>"
+
+["320008"]
+japanese = "はい<end>"
+english = "Yes<end>"
+
+["320009"]
+japanese = "いいえ<end>"
+english = "No<end>"
+
+["320010"]
+japanese = "<select><value:$20>%3そうか。<line-break>集め終わったら言ってくれ。<end>そうか。<line-break>あまりムリはしないようにな。<end>そうか。<line-break>すこし急ごう。<line-break>父上も神殿でお待ちかねだろうからな。<end>"
+english = "<select><value:$20>%3All right. Let me know when you've finished gathering them.<end>All right. Just don't push yourself too hard.<end>All right. We'd better hurry a little. Father must be waiting for us at the temple.<end>"
+
+["320011"]
+japanese = "そうだな。<line-break>このぐらいで足りるだろう。<line-break>\u3000<line-break>父上も神殿で<line-break>お前のことを心配しておられよう。<line-break>戻ろうか。<end>"
+english = "That should be enough. Father must be worried about you too. Shall we go back?<end>"
+
+["320012"]
+japanese = "待て、<value:$28>。<line-break>魔物の気配がする。<end>"
+english = "Wait, <value:$28>. I sense a monster nearby.<end>"
+
+["320013"]
+japanese = "<value:$28>、初めてか？<line-break>魔物と戦うのは。<end>"
+english = "Is this your first time fighting a monster, <value:$28>?<end>"
+
+["320014"]
+japanese = "心配するな。訓練と同じでいい。<line-break>兄がついている。<line-break>…ゆくぞ。<end>"
+english = "Don't worry. Treat it just like training. Your brother is here with you. Let's go.<end>"
+
+["320015"]
+japanese = "大丈夫か、<value:$28>？<end>"
+english = "Are you all right, <value:$28>?<end>"
+
+["320016"]
+japanese = "破壊神の復活の時が来たら<line-break>魔人どもが神器をねらってくる。<line-break>\u3000<line-break>そのときはお前も、<line-break>神器を守る一族のひとりとして<line-break>魔人や魔物と戦わねばならない。<end>"
+english = "When the time comes for the God of Destruction to return, the fiends will come for the sacred artifact. When that happens, you too must fight the fiends and monsters as a member of the clan that guards it.<end>"
+
+["320017"]
+japanese = "…そうだな。もう、お前も<line-break>魔人と戦う力をつけるために<line-break>修行の旅に出てもよい年頃だな…。<end>"
+english = "Yes... You're old enough now to set out on a journey of training and gain the strength to fight the fiends.<end>"
+
+["320018"]
+japanese = "セラ？<end>"
+english = "Sera?<end>"
+
+["320019"]
+japanese = "ごめんなさい。<line-break>少しいいかしら？<end>"
+english = "Excuse me. May I have a moment?<end>"
+
+["320020"]
+japanese = "（…いや、違う。女性だ。）<end>"
+english = "(No... I was wrong. It's a woman.)<end>"
+
+["320021"]
+japanese = "あら…。くすっ、<line-break>素敵なお兄さんとかわいいコね。<end>"
+english = "Oh... Hee-hee. What a handsome young man and an adorable little one.<end>"
+
+["320022"]
+japanese = "…どうなされたのですか？<line-break>女の方にこの森は危険ですよ。<end>"
+english = "Is something wrong? This forest is dangerous for a woman.<end>"
+
+["320023"]
+japanese = "くす、危ないところでしたのね。<line-break>少しいいかしら？<end>"
+english = "Hee-hee. That was a close call, wasn't it? May I have a moment?<end>"
+
+["320024"]
+japanese = "実は、探し物をしているの。<line-break>とても大事なものなのよ。<end>"
+english = "I'm looking for something, you see. Something very precious.<end>"
+
+["320025"]
+japanese = "何を探しておられるのです？<end>"
+english = "What are you looking for?<end>"
+
+["320026"]
+japanese = "……よ。<end>"
+english = "...<end>"
+
+["320027"]
+japanese = "…知りませんね。<end>"
+english = "I'm afraid I don't know.<end>"
+
+["320028"]
+japanese = "くすっ、そう…。それは残念。<line-break>この女の記憶を手繰っていくと、<line-break>確かにこの近くにあるはずなのに…。<end>"
+english = "Hee-hee. I see... What a pity. When I trace this woman's memories, they tell me it should be somewhere nearby...<end>"
+
+["320029"]
+japanese = "記憶を手繰る…？<end>"
+english = "Trace her memories...?<end>"
+
+["320030"]
+japanese = "そちらもお気をつけて。<line-break>この辺りは危険ですから…。<line-break>くすくす…。<end>"
+english = "You should be careful as well. This area is dangerous... Hee-hee...<end>"
+
+["320031"]
+japanese = "（似ている……。）<end>"
+english = "(The resemblance...)<end>"
+
+["320032"]
+japanese = "…なんでもない。<line-break>父上も心配しておられよう。<line-break>夜明けまでに神器の神殿に戻るぞ。<end>"
+english = "It's nothing. Father must be worried. We'll return to the temple of the sacred artifact before dawn.<end>"
+
+["320033"]
+japanese = "あ、ロイさまと<line-break><value:$28>さまだ！<line-break><value:$28>さまー！<end>"
+english = "Oh, it's Lord Roy and <value:$28>! <value:$28>!<end>"
+
+["320034"]
+japanese = "<if><value:$29><equal>%0魔物に襲われた人のケガは<line-break>ダディアス様がなおしてくれたよ。<line-break>さすがはノトゥーン神に仕える神官様だ。<end><value:$28>、<line-break>無事だったんだ…。<line-break>よかった…。<end>"
+english = "<if><value:$29><equal>%0Lord Dadias healed the person who was hurt by the monster. That's a priest of Notun for you.<end><value:$28>, you're safe... Thank goodness...<end>"
+
+["320035"]
+japanese = "<if><value:$29><equal>%0<value:$28>クン…。<line-break>無事だったんだ…。<line-break>心配してたのよ…。<end>魔物に襲われた人なら<line-break>ダディアス様がケガをなおしてくださったわ。<line-break>さすがノトゥーン神に仕える神官ね。<end>"
+english = "<if><value:$29><equal>%0<value:$28>... You're safe. I was worried about you...<end>Lord Dadias healed the person who was hurt by the monster. That's a priest of Notun for you.<end>"
+
+["320036"]
+japanese = "なあなあ、<value:$28>。<line-break>魔物、どうだったんだ？<end>"
+english = "Hey, <value:$28>. What was the monster like?<end>"
+
+["320037"]
+japanese = "ハハハ。<line-break><value:$28>、<line-break>大した人気だな。<end>"
+english = "Ha ha ha! You're quite popular, <value:$28>.<end>"
+
+["320038"]
+japanese = "神器の守護者として、<line-break>修行の旅に出てらっしゃる間に<line-break>ロイ様は人気が下がったのよ。<end>"
+english = "Your popularity slipped while you were away training as a Guardian of the sacred artifact, Lord Roy.<end>"
+
+["320039"]
+japanese = "その間、<value:$28>が<line-break>この村を守ってたからな。<end>"
+english = "That's because <value:$28> was protecting the village while you were gone.<end>"
+
+["320040"]
+japanese = "やれやれ。<line-break><value:$28>、<line-break>人気者はつらいな。<line-break>私は一足先に神殿に戻っている。<line-break>なるべく早く戻ってこい。<line-break>それにまだ朝早い。静かにな。<end>"
+english = "Good grief. Popularity has its price, <value:$28>. I'll go on ahead to the temple. Come back as soon as you can―and keep your voice down. It's still early.<end>"
+
+["320041"]
+japanese = "<if><value:$29><equal>%0なあなあ、魔物と戦ったのか？<line-break>でもここは神器を守るための隠れ里。<line-break>魔物なんて結界にはばまれて近寄れないはず…。<end>なあなあ、魔物と戦ったのか？<line-break>ケガはなかったか？<end>"
+english = "<if><value:$29><equal>%0Hey, did you fight a monster? But this is a hidden village built to protect the sacred artifact. The barrier should keep monsters from coming anywhere near us...<end>Hey, did you fight a monster? You weren't hurt, were you?<end>"
+
+["320042"]
+japanese = "<if><value:$29><equal>%0心配してたのよ。<line-break>…ううん、<value:$28>クンも<line-break>神器の守護者のご一族だもん。でもね…。<end>ねえ、いったい最近どうなってるの？<line-break>ここは神器を守る村。<line-break>結界に守られて魔物なんて近寄れないはずよ。<end>"
+english = "<if><value:$29><equal>%0I was worried. I know, I know―you're from the family of the sacred artifact's Guardians too, <value:$28>. But still...<end>What in the world has been happening lately? This village protects the sacred artifact. The barrier should keep monsters from coming anywhere near it.<end>"
+
+["320043"]
+japanese = "あー！！\u3000もう！！\u3000\u3000<line-break>\u3000<line-break>\u3000<end>"
+english = "Aah! Enough already!<end>"
+
+["320044"]
+japanese = "<value:$28>さまが<line-break>おこまりでしょ！！<line-break>ちるの！\u3000ちるのお！<end>"
+english = "You're bothering <value:$28>! Shoo! Shoo!<end>"
+
+["320045"]
+japanese = "ちぇ。<end>"
+english = "Tch.<end>"
+
+["320046"]
+japanese = "さ、<value:$28>さま、<line-break>しんでんで<line-break>おちちうえさまがおまちですよ。<end>"
+english = "Come along, <value:$28>. Your father is waiting at the temple.<end>"
+
+["320047"]
+japanese = "あとで、まもののおはなし<line-break>きかせてくださいねー。<line-break><value:$28>さまー。<end>"
+english = "Tell me all about the monster later, <value:$28>!<end>"
+
+["320048"]
+japanese = "おお、<value:$28>。<line-break>戻ったか。<line-break>ご苦労だった。<end>"
+english = "Ah, <value:$28>. You're back. Well done.<end>"
+
+["320049"]
+japanese = "な、何事だ？<end>"
+english = "W-What was that?<end>"
+
+["320050"]
+japanese = "…父上、<line-break>今のが竜王の覚醒…<line-break>その第一声でしょうか？<end>"
+english = "Father... Was that the first cry of the Dragon King's Awakening?<end>"
+
+["320051"]
+japanese = "うむ…。<line-break>この世が乱れるとき<line-break>竜王が覚醒すると言われておる。<line-break>つまり、<line-break>乱世の原因を除くべく<line-break>目覚めるというのだが…。<end>"
+english = "Hmm... It is said that the Dragon King awakens when the world falls into turmoil―to destroy the cause of that turmoil. And yet...<end>"
+
+["320052"]
+japanese = "この地は神器を守るための結界があり、<line-break>魔物は近寄れぬはず…。<line-break>それが先ほども森で遭遇いたしました。<line-break>このことも関係あるのでしょうか。<line-break>破壊神ウルグの復活の時だとしたら…。<end>"
+english = "A barrier protects the sacred artifact here. Monsters should not be able to approach... Yet we encountered one in the forest earlier. Could that be connected as well? If the time has come for Urg, God of Destruction, to return...<end>"
+
+["320053"]
+japanese = "もしそうならば、ゆゆしき事態だ。<line-break>ロイ、あの森を調査するのだ。<end>"
+english = "If so, this is dire indeed. Roy, investigate that forest.<end>"
+
+["320054"]
+japanese = "わかりました、父上。<line-break><value:$28>も、<line-break>連れていってよろしいでしょうか。<end>"
+english = "Understood, Father. May I take <value:$28> with me?<end>"
+
+["320055"]
+japanese = "ならぬ。<line-break><value:$28>は未熟だ。<line-break>危険すぎる。<end>"
+english = "No. <value:$28> is still inexperienced. It is too dangerous.<end>"
+
+["320056"]
+japanese = "父上。もう、<value:$28>も<line-break>修行に出してもよい年頃。<line-break>私も一緒に参るのです。ご安心を。<end>"
+english = "Father, <value:$28> is old enough to set out for training. I'll be there too, so you needn't worry.<end>"
+
+["320057"]
+japanese = "…ロイがそこまで言うならばよかろう。<line-break><value:$28>も行くがよい。<end>"
+english = "If you feel that strongly, Roy, very well. <value:$28>, you may go too.<end>"
+
+["320058"]
+japanese = "お前も、兄、ロイのように、<line-break>神器を守れるだけの力が必要だ。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>いずれお前も修行に出ることになろう。<line-break>これはその予行と思うがよい。<line-break>ロイとともに調査に行くのだ。<end>"
+english = "Like your brother Roy, you must become strong enough to protect the sacred artifact. In time, you too will set out to train. Consider this a trial run. Go investigate with Roy.<end>"
+
+["320059"]
+japanese = "冒険者は万事に備えることが肝心だ。<line-break>復活の真珠を持っていくとよい。<end>"
+english = "An adventurer must be prepared for anything. Take the Pearl of Revival with you.<end>"
+
+["320060"]
+japanese = "では、私は村の広場で待っている。<line-break>用意ができたら来てくれ。<end>"
+english = "I'll wait in the village square. Come find me when you're ready.<end>"
+
+["320061"]
+japanese = "…<value:$28>。<end>"
+english = "<value:$28>...<end>"
+
+["320062"]
+japanese = "…いや、なんでもない。<line-break>\u3000<line-break>\u3000<line-break>お前もロイと同じように、<line-break>神器の守護者となるべく<line-break>修行の旅に出る年になったのだな…。<end>"
+english = "No, it's nothing. So you've reached the age when you must set out to train as a Guardian of the sacred artifact, just as Roy did...<end>"
+
+["320063"]
+japanese = "フフ、私らしくもない。<line-break>こんなことを言うようではいかんな。<line-break>\u3000<end>"
+english = "Heh. This isn't like me. I shouldn't speak this way.<end>"
+
+["320064"]
+japanese = "…強くなるのだぞ。<end>"
+english = "Grow strong.<end>"
+
+["320065"]
+japanese = "遅くなってすまない。<line-break>神殿で取ってくるものが<line-break>あったのでな。<line-break>ゆくぞ。<end>"
+english = "Sorry I'm late. There was something I needed to collect from the temple. Let's go.<end>"
+
+["320066"]
+japanese = "どうした？<line-break>調査の前に<line-break>やり残したことがあるのか？<end>"
+english = "What's wrong? Is there something you still need to do before the investigation?<end>"
+
+["320067"]
+japanese = "ならば行ってくるといい。<line-break>私はここで待っている。<end>"
+english = "Then go and see to it. I'll wait here.<end>"
+
+["320068"]
+japanese = "もう大丈夫か？<end>"
+english = "Are you ready now?<end>"
+
+["320069"]
+japanese = "ではミイスの森を<line-break>調査しに行くぞ。<end>"
+english = "Then let's go investigate Miis Forest.<end>"
+
+["320070"]
+japanese = "…罠か。<end>"
+english = "A trap...<end>"
+
+["320071"]
+japanese = "私たちがここに戻ってくることを<line-break>あの女性は予想していたようだ。<line-break>\u3000<line-break>実力で突破する。<end>"
+english = "That woman must have expected us to return here. We'll break through by force.<end>"
+
+["320072"]
+japanese = "<value:$28>、村の方だ！<end>"
+english = "<value:$28>, the village!<end>"
+
+["320073"]
+japanese = "戻るぞ！<end>"
+english = "We're going back!<end>"
+
+["320074"]
+japanese = "くすくす…。<line-break>よく燃えるわね。<end>"
+english = "Hee-hee... It burns so well.<end>"
+
+["320075"]
+japanese = "これは…！<end>"
+english = "This is...!<end>"
+
+["320076"]
+japanese = "あら。<line-break>あなたたちはこの間の…。<line-break>フフフフ…。<end>"
+english = "Oh. It's the two of you from before... Hee-hee-hee...<end>"
+
+["320077"]
+japanese = "神殿の方だ。<line-break>父上と母上が危ない！<end>"
+english = "The temple! Father and Mother are in danger!<end>"
+
+["320078"]
+japanese = "私は、<line-break>私が管理するはずの<line-break>大切なものをもらいに来たの。<line-break>神殿でたずねてみたけど、<line-break>誰も何も教えてくれないの。<line-break>くすくす…。ひどい話よね。<end>"
+english = "I've come to collect something precious that was supposed to be in my care. I asked at the temple, but no one would tell me anything. Hee-hee... Isn't that awful?<end>"
+
+["320079"]
+japanese = "だから、みんな殺しちゃった。<end>"
+english = "So I killed them all.<end>"
+
+["320080"]
+japanese = "！<end>"
+english = "!<end>"
+
+["320081"]
+japanese = "そうそう、あなた、<line-break>ウソをついていたでしょう？<line-break>知りませんだなんて。<line-break>くすくす、あれ、<line-break>あなたのおうちにあるんじゃない。<line-break>\u3000<end>"
+english = "Oh, yes. You lied to me, didn't you? You said you didn't know. Hee-hee. But it's at your house, isn't it?<end>"
+
+["320082"]
+japanese = "あなたのお父様の死体から、<line-break>記憶をじかに探らせてもらったわ。<line-break>\u3000<end>"
+english = "I probed your father's memories directly from his corpse.<end>"
+
+["320083"]
+japanese = "誰に殺されるのかもわからずに<line-break>死んでいくのはかわいそうだから<line-break>教えてあげる。<line-break>私は破壊神ウルグの円卓騎士<line-break>心をなくすものアーギルシャイア。<line-break>じゃあね。<end>"
+english = "It would be a pity for you to die without knowing who killed you, so I'll tell you. I am Argyleshire, the Heartless, a Knight of the Round Table of Urg, God of Destruction. Bye.<end>"
+
+["320084"]
+japanese = "<value:$28>、<line-break>ここを離れるんだ。<line-break>村人を避難させてくれ。<end>"
+english = "<value:$28>, get out of here. Evacuate the villagers.<end>"
+
+["320085"]
+japanese = "魔物は、必ず私が倒す。<line-break>お前は村人を頼む。<end>"
+english = "I will defeat the monster. See to the villagers.<end>"
+
+["320086"]
+japanese = "<value:$28>、よせ！<end>"
+english = "<value:$28>, don't!<end>"
+
+["320087"]
+japanese = "<value:$28>ー！<end>"
+english = "<value:$28>!<end>"
+
+["320088"]
+japanese = "…生きていたか。<end>"
+english = "So you're alive.<end>"
+
+["320089"]
+japanese = "武器を収めろ。<line-break>俺はここに<line-break>旧友を訪ねてきただけだ。<line-break>殺すつもりなら<line-break>お前が目を覚ます前に<line-break>やっている。<end>"
+english = "Sheathe your weapon. I only came to visit an old friend. If I meant to kill you, I would have done it before you woke.<end>"
+
+["320090"]
+japanese = "生き残りはお前だけだ。<line-break>たずねるが、<line-break>ここがミイスの村か？<end>"
+english = "You're the only survivor. Tell me, is this Miis Village?<end>"
+
+["320091"]
+japanese = "お前の名は？<end>"
+english = "What is your name?<end>"
+
+["320092"]
+japanese = "<if><value:$29><equal>%0…フ、なるほどな。<line-break>お前がロイの弟か。<line-break>ロイから名前は聞いている。<line-break>俺はセラ。<line-break>ロイの友だ。<end>…フ、なるほどな。<line-break>お前がロイの妹か。<line-break>ロイから名前は聞いている。<line-break>俺はセラ。<line-break>ロイの友だ。<end>"
+english = "<if><value:$29><equal>%0Hmph. So you're Roy's brother. He told me your name. I'm Sera, a friend of Roy's.<end>Hmph. So you're Roy's sister. He told me your name. I'm Sera, a friend of Roy's.<end>"
+
+["320093"]
+japanese = "大丈夫だ。<line-break>私がウソをついたことがあったか？<end>"
+english = "It'll be all right. Have I ever lied to you?<end>"
+
+["320094"]
+japanese = "あっ、<value:$28>様じゃ。<end>"
+english = "Oh, it's <value:$28>.<end>"
+
+["320095"]
+japanese = "魔物が入り口をふさいでいて<line-break>逃げられないのです！<line-break>お助けください！<end>"
+english = "The monsters are blocking the entrance, and we can't escape! Please help us!<end>"
+
+["320096"]
+japanese = "<value:$28>さま、ありがと！<line-break>これ、あたしのたからものだけど、<line-break><value:$28>さまにあげる。<end>"
+english = "Thank you, <value:$28>! This is my treasure, but I want <value:$28> to have it.<end>"
+
+["320097"]
+japanese = "<if><value:$29><equal>%0ロイの弟…<line-break><value:$28>と言ったな。<end>ロイの妹…<line-break><value:$28>と言ったな。<end>"
+english = "<if><value:$29><equal>%0Roy's brother... You said your name was <value:$28>.<end>Roy's sister... You said your name was <value:$28>.<end>"
+
+["320098"]
+japanese = "なかなかの手並みだったが、<line-break>兄を置いて逃げるのか？<end>"
+english = "You handled yourself well, but are you going to run away and leave your brother behind?<end>"
+
+["320099"]
+japanese = "…確かにロイは<line-break>お前を逃がすため、<line-break>村人を避難を任せた。<end>"
+english = "True, Roy put you in charge of evacuating the villagers so that you would escape.<end>"
+
+["320100"]
+japanese = "…それで、<line-break>お前は逃げるのか？<end>"
+english = "So... are you going to run away?<end>"
+
+["320101"]
+japanese = "ロイは、<line-break>死を覚悟している…。<end>"
+english = "Roy is prepared to die...<end>"
+
+["320102"]
+japanese = "どうした、<line-break>来ないのか。<line-break>\u3000<line-break>後悔したいのなら、<line-break>とめはせん。<line-break>そこにいろ。<end>"
+english = "What's wrong? Aren't you coming? If you want to live with regret, I won't stop you. Stay here.<end>"
+
+["320103"]
+japanese = "俺はセラ。<line-break>ロイは俺が認めた<line-break>唯一の男だ。<line-break>お前を守る気はない。<line-break>足手まといにはなるな。<end>"
+english = "I'm Sera. Roy is the only man I acknowledge. I have no intention of protecting you. Don't slow me down.<end>"
+
+["320104"]
+japanese = "<if><value:$29><equal>%0さすがに<line-break>俺が認めた男の<line-break>弟だけのことはある。<line-break>いい手並みだった。<line-break>兄を救いに行くつもりか？<end>さすがに<line-break>俺が認めた男の<line-break>妹だけのことはある。<line-break>いい手並みだった。<line-break>兄を救いに行くつもりか？<end>"
+english = "<if><value:$29><equal>%0You are the brother of the one man I acknowledge, after all. You handled yourself well. Do you intend to save your brother?<end>You are the sister of the one man I acknowledge, after all. You handled yourself well. Do you intend to save your brother?<end>"
+
+["320105"]
+japanese = "…ロイはお前を逃がすために、<line-break>村人を逃がすよう言ったのだぞ。<end>"
+english = "Roy told you to evacuate the villagers so that you would escape as well.<end>"
+
+["320106"]
+japanese = "ロイは死を覚悟している。<line-break>…奴のことなら、わかる。<end>"
+english = "Roy is prepared to die. I know him.<end>"
+
+["320107"]
+japanese = "俺はセラ。<line-break>ロイは俺が認めた<line-break>唯一の男だ。<end>"
+english = "I'm Sera. Roy is the only man I acknowledge.<end>"
+
+["320108"]
+japanese = "…来い。<end>"
+english = "Come.<end>"
+
+["320109"]
+japanese = "…アンティノ商会が極秘開発中の<line-break>戦闘用モンスター…デス・ギガース。<line-break>…やはり、そういうことか。<end>"
+english = "A combat monster being developed in absolute secrecy by the Antino Trading Company... Death Gigas. So that is what happened.<end>"
+
+["320110"]
+japanese = "ロイほどの手練れでも倒すのは難しい。<line-break>だが、俺がただひとり認めた<line-break>あの男以上に腕の立つ男は存在しない。<line-break>ロイがこれを倒したのだな。<end>"
+english = "Even someone as skilled as Roy would have struggled to defeat it. But no man is more skilled than the one man I acknowledge. Roy must have defeated it.<end>"
+
+["320111"]
+japanese = "月光に反応はない。<line-break>ロイはここにはいないようだな。<end>"
+english = "Moonlight isn't responding. Roy doesn't seem to be here.<end>"
+
+["320112"]
+japanese = "これは妖刀・月光。<line-break>ロイはこれと対をなす剣を<line-break>持っている。<end>"
+english = "This is the Demon Blade “Moonlight.” Roy carries its twin.<end>"
+
+["320113"]
+japanese = "…ロイは生きている。<end>"
+english = "Roy is alive.<end>"
+
+["320114"]
+japanese = "だが、デス・ギガースを倒したあと、<line-break>あの男はなぜ姿を消した…？<end>"
+english = "But why did he disappear after defeating Death Gigas...?<end>"
+
+["320115"]
+japanese = "ついてくるなら、<line-break>それもいいだろう。<line-break>面倒は見んがな。<end>"
+english = "If you want to follow me, so be it. But don't expect me to look after you.<end>"
+
+["320116"]
+japanese = "ロイのあとを<line-break>追いかける気はないのか？<end>"
+english = "Don't you intend to go after Roy?<end>"
+
+["320117"]
+japanese = "俺に不信があるなら<line-break>いずれ答えてやる。<line-break>ただし、それは今ではない。<line-break>今、俺は急ぐ。<end>"
+english = "If you have doubts about me, I'll answer them in time. But not now. I'm in a hurry.<end>"
+
+["320118"]
+japanese = "<if><value:$29><equal>%0来い。<line-break>ロイの弟よ。<end>来い<line-break>ロイの妹よ。<end>"
+english = "<if><value:$29><equal>%0Come, Roy's brother.<end>Come, Roy's sister.<end>"
+
+["320119"]
+japanese = "アーギルシャイアは<line-break>俺の大事なものを奪った…。\u3000\u3000<line-break>\u3000<line-break>俺は強くなる、<line-break>…どんな手段を使ってもな。<line-break>そして、俺のすべてを取り戻す。<end>"
+english = "Argyleshire took something precious from me. I will become stronger, whatever it takes. Then I will take back everything that is mine.<end>"
+
+["320120"]
+japanese = "<select><value:$20>%3どうしたのだ。<line-break>ロイとともに村の外の森を<line-break>調べてくるがよい。<end>心配はいらぬ。<line-break>ロイがついているのだからな。<line-break>フフ…、私も親バカなことだ。<end>私はよい子供たちに恵まれたものだ。<line-break>万一、今ここで私が死んでも<line-break>神器のことは安心して任せられる。<line-break>万一の話だ。<line-break>そのような顔をするでない。<line-break>我が子よ。<end>"
+english = "<select><value:$20>%3What is it? Go with Roy and investigate the forest outside the village.<end>There's no need to worry. Roy will be with you. Heh... What a doting parent I am.<end>I have been blessed with fine children. Even if I were to die here and now, I could entrust the sacred artifact to you without fear. I said if. Don't look at me like that, my child.<end>"
+
+["320121"]
+japanese = "<value:$28>様、<line-break>お帰りなさいませ。\u3000\u3000\u3000\u3000<line-break>おケガは？<end>"
+english = "Welcome home, <value:$28>. Are you hurt?<end>"
+
+["320122"]
+japanese = "ご無事で何よりです。<line-break>お父上のダディアス大神官が<line-break>神殿内でお待ちです。<end>"
+english = "I'm relieved to see you safe. Your father, High Priest Dadias, is waiting inside the temple.<end>"
+
+["320123"]
+japanese = "父なる天空神ノトゥーンと<line-break>愛の神ライラネートのご加護あらんことを。<line-break><value:$28>様、よくぞご無事で。<line-break>さ、早く神殿へ。<line-break>お父上のダディアス様が<line-break>心配なさっておられますよ。<end>"
+english = "May Father Notun, the Sky God, and Lailanate, God of Love, watch over you. <value:$28>, thank goodness you're safe. Quickly, to the temple. Your father, Lord Dadias, is worried about you.<end>"
+
+["320124"]
+japanese = "<value:$28>様も<line-break>神器の守護者のご一族。<line-break>大丈夫ですと申し上げておりますのに。\u3000\u3000<end>"
+english = "I keep telling him there's no need to worry. <value:$28> is from the family that guards the sacred artifact, after all.<end>"
+
+["320125"]
+japanese = "<select><value:$20>%3ロイ様ですか？<line-break>もう、広場か森に行かれたのでは？<end><value:$28>様もロイ様も<line-break>このミイスの村の大神官ダディアス様も、<line-break>神器の守護者と呼ばれるご一族。<line-break>闇の神器という危険な宝物を<line-break>破壊神の騎士と呼ばれる魔人どもから<line-break>守るのがお役目なのです。<end>今朝の地震といい、<line-break>最近うろつきだした魔物どもといい、<line-break>魔人が神器をねらっているのでしょうか？\u3000<line-break>しかし心配はご無用ですぞ。<line-break>きっと天空神ノトゥーンの加護があります。<line-break>このじいもついておりますしな。<end>"
+english = "<select><value:$20>%3Lord Roy? Hasn't he gone to the square or the forest already?<end><value:$28>, Lord Roy, and High Priest Dadias of Miis Village all belong to the family known as the Guardians of the sacred artifact. Their duty is to protect the dangerous treasure called the Dark Artifact from the fiends known as the Knights of the God of Destruction.<end>First this morning's earthquake, and now monsters prowling about... Could the fiends be after the sacred artifact? But you needn't worry. The Sky God Notun will surely protect us―and this old man is here as well.<end>"
+
+["320126"]
+japanese = "<select><value:$20>%3<value:$28>様に<line-break>愛の神ライラネートのご加護を…。<line-break>\u3000<line-break>そして、<value:$28>様の敵に<line-break>天空神ノトゥーンの<line-break>裁きのいかづちを…。<end>このミイスの村は<line-break>闇の神器を闇のしもべから\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>守るための隠れ里…。<line-break>闇の神器は破壊神の復活に使われるもの。<line-break>だから、破壊神のしもべがねらうのです。<end>私もこの神殿の神器が<line-break>どのようなものかは存じません。\u3000\u3000\u3000<line-break>\u3000<line-break>隠れて伝わる伝承では<line-break>記憶を失うかわりに<line-break>すさまじい力を手に入れられるとか…。<end>"
+english = "<select><value:$20>%3May Lailanate, God of Love, bless <value:$28>... and may the Sky God Notun strike down the enemies of <value:$28> with the thunderbolt of judgment.<end>Miis Village is a hidden settlement built to protect the Dark Artifact from the servants of darkness. The Dark Artifact can be used to revive the God of Destruction. That is why the god's servants seek it.<end>Even I do not know the nature of the sacred artifact housed in this temple. A secret legend says it grants tremendous power in exchange for one's memories...<end>"
+
+["320127"]
+japanese = "<select><value:$20>%3神器とはどのようなものかは、<line-break>その時期が来れば、<line-break>お父上が教えてくださいますよ。\u3000\u3000<line-break>こればかりは神器を守る神官家にのみ<line-break>伝わる秘伝ですからな。<line-break>じいも存じませんのです。<end><value:$28>様もロイ様も<line-break>大神官ダディアス様も、<line-break>このミイスの村の神官家の方々はみな<line-break>闇の神器という危険な宝物を、<line-break>破壊神の騎士と呼ばれる魔人どもから<line-break>守る宿命を負っておられるのです。<end>今朝の地震といい、<line-break>最近うろつきだした魔物どもといい…、<line-break>魔人が神器をねらっているのでしょうか？\u3000<line-break>しかし心配はご無用ですぞ。<line-break>きっと天空神ノトゥーンの加護があります。<line-break>このじいもついておりますしな。<end>"
+english = "<select><value:$20>%3When the time comes, your father will tell you what the sacred artifact is. That secret is passed down only within the priestly family that guards it. Even this old man does not know.<end><value:$28>, Lord Roy, High Priest Dadias―all members of Miis Village's priestly family are fated to protect the dangerous treasure called the Dark Artifact from the fiends known as the Knights of the God of Destruction.<end>First this morning's earthquake, and now monsters prowling about... Could the fiends be after the sacred artifact? But you needn't worry. The Sky God Notun will surely protect us―and this old man is here as well.<end>"
+
+["320128"]
+japanese = "<if><value:$29><equal>%0よう、<value:$28>。<line-break>朝早いってのに、<line-break>魔物騒ぎで大変だったな。<end><value:$28>。<line-break>無事でよかった…。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>魔物騒ぎで森に行ったってっから<line-break>俺…、寝てらんなくって…。<line-break>でも、無事でホントよかったよ。<end>"
+english = "<if><value:$29><equal>%0Morning, <value:$28>. Quite a commotion over those monsters, especially this early.<end><value:$28>... I'm so glad you're safe. When I heard you'd gone into the forest because of the monsters, I couldn't sleep... I'm just so glad you're all right.<end>"
+
+["320129"]
+japanese = "<if><value:$29><equal>%0<value:$28>。<line-break>無事でよかった…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>魔物騒ぎがあって、<line-break>キミが退治に行ったっていうから、<line-break>心配で朝早いのにここに来たんだよ。<end>魔物がこんな村近くの森にまで…。<line-break>心配でゆっくり寝てられないわ。<end>"
+english = "<if><value:$29><equal>%0<value:$28>... I'm so glad you're safe. When I heard about the monsters and that you'd gone to deal with them, I was so worried I came here even though it was still early.<end>Monsters, even in the forest this close to the village... I'm too worried to sleep.<end>"
+
+["320130"]
+japanese = "お…おっきなじしんだったね！<line-break>わ…わたし、びっくりしちゃった。<end>"
+english = "Th-that was a really big earthquake! I-it scared me.<end>"
+
+["320131"]
+japanese = "<select><value:$20>%3今の地震といい魔物騒ぎといい…、<line-break>天空神ノトゥーンさまが<line-break>お怒りなのかのう…。<line-break>ロセンでは悪い王が<line-break>民をいじめておるからのう。<end>今の地震といい魔物騒ぎといい…、<line-break>天空神ノトゥーンさまが<line-break>お怒りなのかのう…。\u3000<line-break>ディンガルでは皇帝が<line-break>世界を救った勇者ネメア様を<line-break>いじめておるというからのう…。<end>今の地震といい魔物騒ぎといい…、<line-break><value:$28>様、<line-break>世界は滅ぶのではないですかのう。\u3000\u3000\u3000\u3000<line-break>リベルダムでは魔物を改造して<line-break>戦争のための道具にしておるそうですじゃ。<line-break>これでは神様もお怒りでしょうのう。<end>"
+english = "<select><value:$20>%3With that earthquake and all this trouble with monsters... perhaps the Sky God Notun is angry. A wicked king in Rocen is tormenting the people, after all.<end>With that earthquake and all this trouble with monsters... perhaps the Sky God Notun is angry. Word is, the emperor in Dingal is persecuting Lord Nemea, the Hero who saved the world...<end>After that earthquake and all this trouble with monsters... do you think the world is coming to an end, <value:$28>? I hear monsters are being altered in Liberdam and turned into weapons of war. No wonder the gods are angry.<end>"
+
+["320132"]
+japanese = "<select><value:$20>%3ロイ様は修行の旅から戻られて<line-break>いっそうたくましくなられましたな。<line-break>\u3000<line-break>少々魔物がうろついたところで、<line-break>ロイ様と<value:$28>様が<line-break>おられれば安心ですな。<end><value:$28>様もロイ様のように、<line-break>神器の守護者としての実力をつけるため<line-break>いずれは旅に出られるのでしょうなあ。<end>ロイ様の持っておられる短剣は<line-break>日光という聖剣らしいですな。<line-break>修行の旅の途中見つけられたとか。<end>"
+english = "<select><value:$20>%3Lord Roy has grown even stronger since returning from his training journey. A few monsters wandering about are nothing to fear with Lord Roy and <value:$28> here.<end>I suppose that one day you too will set out on a journey, <value:$28>, to hone your skills as a Guardian of the sacred artifact, just as Lord Roy did.<end>The dagger Lord Roy carries is apparently a holy sword called Sunlight. It seems he found it during his training journey.<end>"
+
+["320133"]
+japanese = "<select><value:$20>%3魔物の出現に続いて地震かよ。<line-break>いよいよ、お前たち神器を守る一族の<line-break>出番ってわけだ。<line-break>ホント大変な家に生まれちまったな。<line-break>ま、がんばれよ。<line-break>お前なら神器を守り通せるさ。<end>お前たち神官家ってさ、<line-break>このミイスにある神器を<line-break>守ってるんだよな。<line-break>…ところで神器って<line-break>なんなんだ？<line-break>どんなもんなんだ？<end>ロイ様の持ってらっしゃる剣、<line-break>カッコいいよなあ。<line-break>聖剣・日光って言うんだってな。<end>"
+english = "<select><value:$20>%3First monsters, and now an earthquake. Looks like it's finally time for your family of sacred-artifact guardians to step in. You really were born into one demanding family. Well, do your best. I know you can keep the sacred artifact safe.<end>Your priestly family protects the sacred artifact here in Miis, right? So... what is a sacred artifact, anyway? What's it like?<end>That sword Lord Roy carries looks incredible. I hear it's called the Holy Sword Sunlight.<end>"
+
+["320134"]
+japanese = "<if><value:$29><equal>%0<value:$28>クン。<line-break>怪物のうろついてるミイスの森に行くの？<line-break>お姉さん、心配だな。<line-break>ロイ様もついているし、<line-break>キミも神器の守護者のご一族だもんね。<line-break>大丈夫なのはわかってるけどね。<end>魔物に続いて地震…。<line-break>いったいどうなってるのかしら。<end>"
+english = "<if><value:$29><equal>%0<value:$28>, are you going into Miis Forest with all those monsters prowling around? I'm worried about you. I know Lord Roy will be there, and you're from the family of the sacred artifact's Guardians too. I know you'll be all right, but still.<end>First monsters, and now an earthquake... What in the world is happening?<end>"
+
+["320135"]
+japanese = "<select><value:$20>%2こわいよぉ！<line-break>こわいよぉ！<end><value:$28>さまぁ！<line-break>たすけて！！<line-break>みんな…みんな…もえちゃうよお！<end>"
+english = "<select><value:$20>%2I'm scared! I'm scared!<end><value:$28>! Help! Everyone... everyone's going to burn!<end>"
+
+["320136"]
+japanese = "<select><value:$20>%2ヘンな女が空から降りてきて…<line-break>村が…村が…炎に包まれて…。<end>火だ…火だ…火だアア！<line-break>だ、誰か、助けてくれえ！<end>"
+english = "<select><value:$20>%2A strange woman came down from the sky... and the village... the whole village was engulfed in flames...<end>Fire... fire... FIIIRE! S-somebody, help me!<end>"
+
+["320137"]
+japanese = "<if><value:$29><equal>%0知らない！！<line-break>知らないんだ、俺たちゃ！<line-break>面ってなんなんだよ！？\u3000おい！！<end>みんな…みんな…<line-break>あの女に燃やされて…！！<line-break>ああ…、ど、どうなってるんだよ！？<end>"
+english = "<if><value:$29><equal>%0We don't know! None of us know! What mask are you talking about?! Hey!<end>Everyone... everyone was burned by that woman...! Ah... w-what's happening?!<end>"
+
+["320138"]
+japanese = "<if><value:$29><equal>%0…<value:$28>クン…な…の？<line-break>に…逃げ…て…、は…早…く…\u3000\u3000<line-break>\u3000<line-break>…わ…私…もう…ダメ…だから…<line-break>キ…キミ…だけでも…<end>イ…イヤ…死にたく…ない…<line-break>か、かめ…ん…なんて…<line-break>ホント…知らな…い…<end>"
+english = "<if><value:$29><equal>%0Is... is that you, <value:$28>...? R-run... hurry... I'm... I'm finished... but you... you can still...<end>N-no... I don't want to die... I really don't know anything... about a m-mask...<end>"
+
+["320139"]
+japanese = "<value:$28>さまー。<line-break>おかえりなさい。<line-break>お疲れさまでしたー。<end>"
+english = "<value:$28>! Welcome home! Good work out there!<end>"
+
+["320140"]
+japanese = "デスギガースに立ち向かう<end>"
+english = "Face Death Gigas<end>"
+
+["320141"]
+japanese = "兄の言うとおり村人を避難させる<end>"
+english = "Do as my older brother says and evacuate the villagers<end>"
+
+["320142"]
+japanese = "…心配はいらん。<line-break>こいつはすでに機能停止…<line-break>つまり、死んでいる。<end>"
+english = "No need to worry. This one's already stopped functioning... In other words, it's dead.<end>"
+
+["320143"]
+japanese = "セラという男についていく<end>"
+english = "Follow the man named Sera<end>"
+
+["320144"]
+japanese = "セラという男は信用できない<end>"
+english = "The man named Sera can't be trusted<end>"
+
+["320145"]
+japanese = "（村の人たちを助けに行かなきゃ…。）<line-break>\u3000<line-break>\u3000<line-break>（…そう。<line-break>\u3000兄さんと約束したんだから…。）<end>"
+english = "(I have to go help the villagers...) (That's right. I promised my brother...)<end>"
+
+["320146"]
+japanese = "結界か…。<line-break>モンスターを全滅させるまで<line-break>逃げられないようだな。<end>"
+english = "A barrier... It looks like we can't escape until we've killed every last monster.<end>"
+
+["320147"]
+japanese = "…これほどの実力がありながら、<line-break>あの女性はなぜ直接私たちを殺さない？<line-break>こんな…まるでもてあそぶような…。<line-break>…<value:$28>、<line-break>とにかくモンスターを全滅させよう。<line-break>胸騒ぎがする。<end>"
+english = "With power like that, why doesn't that woman simply kill us herself? This feels like... she's toying with us. <value:$28>, let's focus on wiping out the monsters. I have a bad feeling about this.<end>"
+
+["320148"]
+japanese = "…フ。<line-break>ロストメモリー予備４だ<end>"
+english = ""
+
+["320149"]
+japanese = "…フ。<line-break>ロストメモリー予備５だ<end>"
+english = ""
+
+["320150"]
+japanese = "…フ。<line-break>ロストメモリー予備６だ<end>"
+english = ""
+
+["320151"]
+japanese = "旅立ち０５メッセージ終端<end>"
+english = ""

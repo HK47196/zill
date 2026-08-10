@@ -1,0 +1,437 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1640000"]
+japanese = "ネメア・ボリューム１その２開始<end>"
+english = ""
+
+["1640001"]
+japanese = "お、<value:$28>か。<line-break>いくつか仕事もこなして、<line-break>冒険者らしくなってきたな。\u3000\u3000<line-break>リベルダムには、行ったか？<line-break>あそこは冒険者ギルドの本部だ。<end>"
+english = "Oh, <value:$28>. You've handled a few jobs now. You're starting to look like a real adventurer. Have you been to Liberdam? That's where the Adventurers' Guild headquarters is.<end>"
+
+["1640002"]
+japanese = "そろそろ一度行って、\u3000\u3000\u3000\u3000\u3000<line-break>顔を売っておけ。<line-break>あいさつがてらにな。<line-break>あ、そん時は気をつけろよ。<line-break>なんでも、冒険者を狙ってる<line-break>エルフがいるって話だからな。<end>"
+english = "You should head over there soon, introduce yourself, and start making a name for yourself. Just be careful when you do. I hear there's an Elf targeting adventurers.<end>"
+
+["1640003"]
+japanese = "変わったことですか？<line-break>それも魔族とか魔物とか<line-break>そんなたぐいの奴ねえ…。<end>"
+english = "Anything unusual? Demons, monsters, that sort of thing...?<end>"
+
+["1640004"]
+japanese = "そうだ。<line-break>ささいなことでもかまわない。<line-break>\u3000<line-break>闇の気配を感じるような話を<line-break>聞いていたら、教えてほしい。<end>"
+english = "Yes. No matter how trivial it may seem. If you've heard anything that suggests the presence of darkness, tell me.<end>"
+
+["1640005"]
+japanese = "…そういえば、<line-break>ここんとこ街を騒がせている<line-break>エルフがいますよ。<line-break>ダークエルフなんですが、<line-break>冒険者を狩ってましてね。<end>"
+english = "Come to think of it, there's an Elf who's been causing trouble around town lately. A Dark Elf. She's been hunting adventurers.<end>"
+
+["1640006"]
+japanese = "ダークエルフ…。<end>"
+english = "A Dark Elf...<end>"
+
+["1640007"]
+japanese = "けっこうな手練ですよ。<line-break>名をあげようと挑んだ冒険者は<line-break>全員やられちまってます。<end>"
+english = "She's quite skilled. Every adventurer who's challenged her hoping to make a name has been beaten.<end>"
+
+["1640008"]
+japanese = "よう、<value:$28>。<line-break>こんなところに出くわすとは<line-break>運がいいな。<end>"
+english = "Hey, <value:$28>. What luck, running into you here.<end>"
+
+["1640009"]
+japanese = "彼があのネメアだ。<line-break>冒険者にとっちゃ神様のような人だ。<line-break>知ってるだろ？<end>"
+english = "That's Nemea. He's practically a god to adventurers. You've heard of him, haven't you?<end>"
+
+["1640010"]
+japanese = "<value:$28>というのか。<line-break>かけ出しの冒険者のようだな。<end>"
+english = "So your name is <value:$28>. You seem new to adventuring.<end>"
+
+["1640011"]
+japanese = "だが、<line-break>…いい目をしている。<end>"
+english = "But... there's a good look in your eyes.<end>"
+
+["1640012"]
+japanese = "ダークエルフだ！<line-break>ダークエルフが出たぞ！<end>"
+english = "The Dark Elf! The Dark Elf's here!<end>"
+
+["1640013"]
+japanese = "捕まえろ！\u3000殺せ！<end>"
+english = "Catch her! Kill her!<end>"
+
+["1640014"]
+japanese = "また、出やがったか！<end>"
+english = "Damn it, she's back!<end>"
+
+["1640015"]
+japanese = "かなり近いな。<line-break>行ってみるとしよう。<end>"
+english = "That was close by. Let us see what's happening.<end>"
+
+["1640016"]
+japanese = "この事件も一件落着だな。<line-break>噂のダークエルフも<line-break>あの人にゃ、かなうまい。<end>"
+english = "That settles this whole affair. Even the Dark Elf we've heard so much about would be no match for that person.<end>"
+
+["1640017"]
+japanese = "騒ぎが収まるまで<line-break>ここでじっとしておった方が<line-break>いいぞ。<end>"
+english = "You'd best stay put here until the commotion dies down.<end>"
+
+["1640018"]
+japanese = "あっと言う間でした。<line-break>どこから撃ってきたのかさえ<line-break>わかりませんでしたよ。<end>"
+english = "It was over in an instant. I couldn't even tell where the shot came from.<end>"
+
+["1640019"]
+japanese = "なんちゅうスゴ腕だ。<line-break>ダークエルフは恐いのう。<end>"
+english = "Now that's some skill. Dark Elves are a frightening lot.<end>"
+
+["1640020"]
+japanese = "間に合わなかった。<line-break>…矢で急所を一撃だ。<end>"
+english = "Too late. A single arrow to a vital spot.<end>"
+
+["1640021"]
+japanese = "いたぞ！\u3000スラムだ！<line-break>スラムへ逃げ込んだぞ！<end>"
+english = "There! The Slums! Our quarry fled into the Slums!<end>"
+
+["1640022"]
+japanese = "ゆくぞ。<end>"
+english = "Time to go.<end>"
+
+["1640023"]
+japanese = "…殺してやる！<line-break>\u3000<line-break>\u3000<line-break>お前たちが妹を殺した！<line-break>絶対に、許さない！<end>"
+english = "I'll kill you! You killed my sister! I'll never forgive you!<end>"
+
+["1640024"]
+japanese = "待て！<line-break>こいつは俺たちの獲物だ！<end>"
+english = "Wait! She's our prey!<end>"
+
+["1640025"]
+japanese = "ま、まさか…ネメア…！<end>"
+english = "It... it can't be. Nemea...!<end>"
+
+["1640026"]
+japanese = "こ、この人が！？<end>"
+english = "Th-this is him!?<end>"
+
+["1640027"]
+japanese = "…魔王バロルを倒した英雄。<line-break>こんなところで出会えるとは…。<end>"
+english = "The hero who defeated Balor, the Demon King... To think we'd meet him here...<end>"
+
+["1640028"]
+japanese = "下がっていろ。<end>"
+english = "Stay back.<end>"
+
+["1640029"]
+japanese = "貴様もこいつらの仲間か！<line-break>私の妹を殺した冒険者の仲間か！！<end>"
+english = "Are you with them too? Are you an ally of the adventurers who killed my sister!?<end>"
+
+["1640030"]
+japanese = "そうか……。<line-break>\u3000<line-break>\u3000<line-break>冒険者に妹を殺され、<line-break>その怒りと憎しみで<line-break>闇にむしばまれたか。<end>"
+english = "I see... Adventurers killed your sister, and rage and hatred have left you consumed by darkness.<end>"
+
+["1640031"]
+japanese = "貴様らの仲間に…<line-break>冒険者に殺された。<line-break>\u3000<line-break>さんざん痛めつけられて…<line-break>いたぶられて…<line-break>妹は…死んだ…。<end>"
+english = "Your comrades... the adventurers killed her. They beat her mercilessly... tormented her... and my sister... died...<end>"
+
+["1640032"]
+japanese = "…許さない！<line-break>貴様らを許さない！<end>"
+english = "I won't forgive you! I will never forgive any of you!<end>"
+
+["1640033"]
+japanese = "構えろ、<value:$28>。<line-break>彼女は今、周りが見えていない。<line-break>見境なく攻撃してくるぞ。<end>"
+english = "Ready yourself, <value:$28>. She can't see what's around her right now. She'll attack indiscriminately.<end>"
+
+["1640034"]
+japanese = "死ね！<end>"
+english = "Die!<end>"
+
+["1640035"]
+japanese = "やった！<end>"
+english = "We did it!<end>"
+
+["1640036"]
+japanese = "このダークエルフ、<line-break>どうするつもりです？<end>"
+english = "What are you going to do with this Dark Elf?<end>"
+
+["1640037"]
+japanese = "殺す気はない。<line-break>私に任せてほしい。<end>"
+english = "I have no intention of killing her. Leave her to me.<end>"
+
+["1640038"]
+japanese = "…わ、わかりました。<end>"
+english = "V-very well.<end>"
+
+["1640039"]
+japanese = "おい、帰るぞ。<end>"
+english = "Come on. We're leaving.<end>"
+
+["1640040"]
+japanese = "え、けどよ。<end>"
+english = "What? But―<end>"
+
+["1640041"]
+japanese = "バカ野郎！\u3000さっきの戦いを見ただろ。<line-break>このダークエルフと俺たちが戦っていたら、<line-break>俺たちは死んでいた。<line-break>俺たちはネメアさんに命を救われたんだ。<line-break>ここはネメアさんに任せて、退くんだ。<end>"
+english = "You fool! You saw that fight. If we'd fought this Dark Elf ourselves, we'd be dead. Nemea saved our lives. We're leaving her to him and getting out of here.<end>"
+
+["1640042"]
+japanese = "わ、わかったよ。<end>"
+english = "A-all right.<end>"
+
+["1640043"]
+japanese = "情けをかけるつもりか！？<line-break>\u3000<line-break>\u3000<line-break>…殺せ！<end>"
+english = "Do you mean to show me mercy!? Then... kill me!<end>"
+
+["1640044"]
+japanese = "逃げるのか。<end>"
+english = "So you would flee.<end>"
+
+["1640045"]
+japanese = "なに！？<end>"
+english = "What!?<end>"
+
+["1640046"]
+japanese = "闇におびえ、生を捨てるのか？<end>"
+english = "Will you cast your life aside because you fear the darkness?<end>"
+
+["1640047"]
+japanese = "お前に何がわかる！<line-break>憎しみで闇に染まったエルフに<line-break>生きる場所などあるものか！<end>"
+english = "What could you possibly know? There is no place in this world for an Elf stained by the darkness of hatred!<end>"
+
+["1640048"]
+japanese = "心まで闇に負けたわけではあるまい。<line-break>…急ぐことはない。<line-break>死ぬのは簡単だ。<line-break>その前に考えろ。<line-break>生きているお前が<line-break>死んだ妹のためにできることを。<end>"
+english = "The darkness has not conquered your heart. There is no need to hurry. Dying is easy. Before you choose it, consider what you can do for your dead sister while you still live.<end>"
+
+["1640049"]
+japanese = "妹のために？<end>"
+english = "For my sister?<end>"
+
+["1640050"]
+japanese = "…仇を討つ。<line-break>それ以外、何ができる！<end>"
+english = "I'll avenge her. What else can I do!?<end>"
+
+["1640051"]
+japanese = "答えは自分で探せ。<line-break>人に求めて得られるものではない。<line-break>\u3000<line-break>生きて、そして、<line-break>自分で見つけるのだ。<end>"
+english = "You must seek the answer yourself. No one else can give it to you. Live, and find it for yourself.<end>"
+
+["1640052"]
+japanese = "…また会うこともあろう。<end>"
+english = "Perhaps we shall meet again.<end>"
+
+["1640053"]
+japanese = "逃げるな！\u3000殺せ！<end>"
+english = "Don't run! Kill me!<end>"
+
+["1640054"]
+japanese = "…何ができる。<line-break>これ以上…、何が…。<line-break>くっ！<end>"
+english = "What can I do? What more... is there...? Damn it!<end>"
+
+["1640055"]
+japanese = "あの男の仲間か？<end>"
+english = "Are you with that man?<end>"
+
+["1640056"]
+japanese = "言え！<line-break>何ができる？<line-break>闇に染まった私に何が！？<end>"
+english = "Tell me! What can I do? What can I, stained by darkness, possibly do!?<end>"
+
+["1640057"]
+japanese = "言え！<line-break>言って！\u3000お願い…。<end>"
+english = "Tell me! Please, tell me...<end>"
+
+["1640058"]
+japanese = "生きていれば答えは見つかる<end>"
+english = "If you stay alive, you'll find the answer.<end>"
+
+["1640059"]
+japanese = "自分にはわからない<end>"
+english = "I don't know.<end>"
+
+["1640060"]
+japanese = "なら殺せ！<end>"
+english = "Then kill me!<end>"
+
+["1640061"]
+japanese = "人間は…残酷だ…。<end>"
+english = "Humans... are cruel...<end>"
+
+["1640062"]
+japanese = "妹をあんな目にあわせて、<line-break>私の体を憎しみに染めて、<line-break>それでも生きろだなんて…。<end>"
+english = "After what was done to my sister, after my body was stained with hatred... and still I'm told to live...<end>"
+
+["1640063"]
+japanese = "よう、<value:$28>。<line-break>冒険者に腕試しを挑んでくる\u3000<line-break>ボルダンには会ったかい？<line-break>あちこちの街道に出没して、<line-break>強そうな冒険者に<line-break>勝負を挑んでくるらしいんだ。<end>"
+english = "Hey, <value:$28>. Have you run into Boldan, the one who challenges adventurers to tests of skill? Apparently, Boldan shows up on roads all over the place, challenging any adventurer who looks strong.<end>"
+
+["1640064"]
+japanese = "お前もそろそろ危ないぞ。<line-break>いっぱしの冒険者に<line-break>見えるようになってきたからな。\u3000<line-break>まあ、殺されないし、<line-break>何か盗られるわけでもない。\u3000\u3000<end>"
+english = "You'd better watch out yourself. You're starting to look like a proper adventurer. Still, you won't be killed, and nothing will be stolen from you.<end>"
+
+["1640065"]
+japanese = "出会っちまったら<line-break>力試しだと思って、戦ってみな。<line-break>しかし、まったく迷惑な奴だよ。<end>"
+english = "If you run into Boldan, treat it as a chance to test your strength and take up the challenge. Still, what a nuisance.<end>"
+
+["1640066"]
+japanese = "そこの冒険者、待て。<end>"
+english = "You there, adventurer. Halt.<end>"
+
+["1640067"]
+japanese = "我が名は、ゼリグ。<line-break>ボルダンの拳士。<line-break>我との勝負、受けてもらう！！<end>"
+english = "My name is Zelig, a fistfighter of the Boldan. You will face me in combat!<end>"
+
+["1640068"]
+japanese = "くっ…！<line-break>よもや、負けるとは。<end>"
+english = "Gah...! I never thought I would lose.<end>"
+
+["1640069"]
+japanese = "お前の名は？<end>"
+english = "What is your name?<end>"
+
+["1640070"]
+japanese = "<value:$28>か。<line-break>覚えておく。<line-break>この敗北を胸に、自らを鍛え直す。<line-break>心して待つがいい。<line-break>次は、負けぬ。<end>"
+english = "<value:$28>, is it? I will remember that name. I shall take this defeat to heart and train myself anew. Wait, and be ready. Next time, I will not lose.<end>"
+
+["1640071"]
+japanese = "私が出るまでも、<line-break>なかったようだな。<end>"
+english = "It seems there was no need for me to intervene.<end>"
+
+["1640072"]
+japanese = "他愛もない。<line-break>お前では、我にさらなる強さを<line-break>見せてはくれぬようだ。<end>"
+english = "Child's play. It seems you cannot show me any greater strength than this.<end>"
+
+["1640073"]
+japanese = "ん…！？<end>"
+english = "Hm...!?<end>"
+
+["1640074"]
+japanese = "む…！<line-break>お、お前は！！<end>"
+english = "What...! Y-you are...!<end>"
+
+["1640075"]
+japanese = "ネメア！！<end>"
+english = "Nemea!<end>"
+
+["1640076"]
+japanese = "各地の街道で<line-break>冒険者を襲っているボルダンとは、<line-break>お前か？<end>"
+english = "Are you the Boldan who has been attacking adventurers on roads across the land?<end>"
+
+["1640077"]
+japanese = "いかにも。<line-break>フフフ、運がいい。<line-break>このような大物と出会えるとは！<line-break>さあ、ネメア！<line-break>我と勝負しろ！！<end>"
+english = "Indeed I am. Ha ha... What fortune, to encounter so mighty a foe! Come, Nemea! Fight me!<end>"
+
+["1640078"]
+japanese = "闇にとりつかれているわけでは、<line-break>ないようだな。<end>"
+english = "It seems you are not possessed by darkness.<end>"
+
+["1640079"]
+japanese = "無論だ！<line-break>我は、我が意志で、<line-break>強さを求めている！<line-break>さあ、勝負！！<end>"
+english = "Of course not! I seek strength of my own free will! Now, fight me!<end>"
+
+["1640080"]
+japanese = "うっ…！<end>"
+english = "Ugh...!<end>"
+
+["1640081"]
+japanese = "やめておけ。<line-break>勝負になるまい。<end>"
+english = "Enough. You are no match for me.<end>"
+
+["1640082"]
+japanese = "ば、バカな…。<line-break>まったく、<line-break>動けないとは…。<end>"
+english = "I-impossible... I cannot move at all...<end>"
+
+["1640083"]
+japanese = "フフフ…。<line-break>おもしろい。<line-break>これほど強い奴がいるとは…。<end>"
+english = "Ha ha... Fascinating. To think someone this strong exists...<end>"
+
+["1640084"]
+japanese = "我らボルダンの中でも<line-break>最強の戦士レーグは、<line-break>お前と引き分けたと聞く。<line-break>ならば我は、<line-break>いずれお前を倒し、<line-break>レーグをも超えて見せよう。<end>"
+english = "I hear Reig, the mightiest warrior among us Boldan, fought you to a draw. Then one day I shall defeat you and surpass Reig as well.<end>"
+
+["1640085"]
+japanese = "今のお前では、<line-break>レーグは超えられまい。<line-break>\u3000<line-break>いずれその若者にも、<line-break>追い抜かれよう。<end>"
+english = "As you are now, you cannot surpass Reig. In time, even that youngster will overtake you.<end>"
+
+["1640086"]
+japanese = "なんだと？<end>"
+english = "What did you say?<end>"
+
+["1640087"]
+japanese = "我が、この若者にも…？<line-break>\u3000<line-break>\u3000<line-break>まあ、いい。<line-break>今は、退こう。<end>"
+english = "Even this youngster will surpass me...? Very well. I shall withdraw for now.<end>"
+
+["1640088"]
+japanese = "いずれ、また…<line-break>挑む…。<end>"
+english = "One day... I will challenge you again...<end>"
+
+["1640089"]
+japanese = "また会ったな。<line-break>大丈夫か？<end>"
+english = "We meet again. Are you all right?<end>"
+
+["1640090"]
+japanese = "そうか。<line-break>前に会ったときより、<line-break>たくましくなったな。<end>"
+english = "Good. You have grown stronger since last we met.<end>"
+
+["1640091"]
+japanese = "あのボルダンを追っていたのだ。<line-break>\u3000<line-break>\u3000<line-break>手当たりしだいに冒険者を襲う<line-break>ボルダンと聞いて、<line-break>闇の手の者かと思ってな。<end>"
+english = "I was pursuing that Boldan. I heard of a Boldan attacking adventurers indiscriminately and thought he might be an agent of darkness.<end>"
+
+["1640092"]
+japanese = "竜王の覚醒は聞いたか？<end>"
+english = "Have you heard of the Dragon King's Awakening?<end>"
+
+["1640093"]
+japanese = "激動の時代を告げる神の声だ。<line-break>あれ以来、闇の気配を追っている。<end>"
+english = "It was the voice of a god, heralding an age of upheaval. Ever since, I have been tracking signs of darkness.<end>"
+
+["1640094"]
+japanese = "わかるのだ、私には。<end>"
+english = "I can sense it.<end>"
+
+["1640095"]
+japanese = "闇が、動き始めている。<line-break>私に流れる血が<line-break>それを教えている。<line-break>実体をつかむまでは、<line-break>追い続けるつもりだ。<end>"
+english = "The darkness has begun to stir. The blood in my veins tells me so. I intend to keep pursuing it until I learn what it truly is.<end>"
+
+["1640096"]
+japanese = "では、またな。<end>"
+english = "Until next time.<end>"
+
+["1640097"]
+japanese = "お前は強くなる。<line-break>その魂を、鍛え続けるがいい。<end>"
+english = "You will grow strong. Keep tempering that soul of yours.<end>"
+
+["1640098"]
+japanese = "ネメアＶ１の２<line-break>予備メッセージ１だ。<end>"
+english = ""
+
+["1640099"]
+japanese = "ネメアＶ１の２<line-break>予備メッセージ２だ。<end>"
+english = ""
+
+["1640100"]
+japanese = "ネメアＶ１の２<line-break>予備メッセージ３だ。<end>"
+english = ""
+
+["1640101"]
+japanese = "ネメアＶ１の２<line-break>予備メッセージ４だ。<end>"
+english = ""
+
+["1640102"]
+japanese = "ネメアＶ１の２<line-break>予備メッセージ５だ。<end>"
+english = ""
+
+["1640103"]
+japanese = "ネメアＶ１の２<line-break>予備メッセージ６だ。<end>"
+english = ""
+
+["1640104"]
+japanese = "ネメアＶ１の２<line-break>予備メッセージ７だ。<end>"
+english = ""
+
+["1640105"]
+japanese = "ネメアＶ１の２<line-break>予備メッセージ８だ。<end>"
+english = ""
+
+["1640106"]
+japanese = "ネメアＶ１の２<line-break>予備メッセージ９だ。<end>"
+english = ""
+
+["1640107"]
+japanese = "ネメアＶ１の２<line-break>予備メッセージ１０だ。<end>"
+english = ""
+
+["1640108"]
+japanese = "ネメア・ボリューム１その２終端<end>"
+english = ""

@@ -1,0 +1,985 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["330000"]
+japanese = "旅立ち０６メッセージ<end>"
+english = ""
+
+["330001"]
+japanese = "ええ。<line-break>ここでの商売も終わりましたので、<line-break>ロストールへ向かうつもりです。<end>"
+english = "Yes. My business here is finished, so I intend to head for Rostorl.<end>"
+
+["330002"]
+japanese = "フリントさん。<line-break>今日、ノーブルをご出発ですか。<line-break>\u3000<end>"
+english = "Flint, are you leaving Noble today?<end>"
+
+["330003"]
+japanese = "ありがとう、ルルアンタ。<line-break>そうか、買い忘れていたのか。<end>"
+english = "Thank you, Lulluantha. Oh, so you forgot to buy it.<end>"
+
+["330004"]
+japanese = "あれぇー？\u3000フリントさん、<line-break><value:$28>はぁ？<end>"
+english = "Huh? Flint, where's <value:$28>?<end>"
+
+["330005"]
+japanese = "ああ、ルルアンタ。<line-break>あの子なら剣の稽古だと言って<line-break>町の外にある森に行ってるよ。<end>"
+english = "Ah, Lulluantha. Said it was time for sword practice and went to the forest outside town.<end>"
+
+["330006"]
+japanese = "またぁ？<line-break>しょうがないんだからぁ！<end>"
+english = "Again? Honestly!<end>"
+
+["330007"]
+japanese = "この前みたいに、<line-break>強ーいモンスターに襲われたら<line-break>どうするつもりなのかしら。<end>"
+english = "What if another really strong monster attacks, like last time?<end>"
+
+["330008"]
+japanese = "まあまあ、あのときも<line-break>幸い無事ですんだことだし…。<end>"
+english = "Now, now. Everything turned out all right that time.<end>"
+
+["330009"]
+japanese = "でも、<value:$28>には<line-break>商売を継がせるんでしょお？<line-break>だったら剣の稽古なんて…。<end>"
+english = "But <value:$28> is supposed to take over the business, right? So why practice swordsmanship?<end>"
+
+["330010"]
+japanese = "ルルアンタ、私は、あの子はあの子で<line-break>好きな道を進んでくれればいいと思うよ。<end>"
+english = "Lulluantha, I want my child to be free to choose a path in life.<end>"
+
+["330011"]
+japanese = "そんな風に甘い父親だから<line-break><value:$28>は<line-break>いつまでもあんな風なの！<line-break>あのときはフリントさんが<line-break>駆けつけたからよかったけど、<line-break>いつも間に合うとは限らないよぉ？<end>"
+english = "You're such a soft father! That's why <value:$28> never changes. It worked out last time because you came running, but you won't always get there in time, you know!<end>"
+
+["330012"]
+japanese = "けど…、あのときのフリントさん、<line-break>すごかったね。<line-break>ほんとうは強いんだ。<end>"
+english = "Still, you were amazing that time, Flint. You're actually really strong.<end>"
+
+["330013"]
+japanese = "あのときは、<value:$28>を<line-break>守るので必死だったからね。<line-break>親というものはそんなものだよ。<end>"
+english = "I was desperate to protect <value:$28>. That's what being a parent means.<end>"
+
+["330014"]
+japanese = "ふぅーん。<end>"
+english = "Hmm.<end>"
+
+["330015"]
+japanese = "…そうなんだ。<line-break>…ルルアンタ、お父さんもお母さんも<line-break>いないから、よくわかんないや。<end>"
+english = "Oh. Lulluantha doesn't have a mother or father, so I don't really understand.<end>"
+
+["330016"]
+japanese = "ああ、そういうものなんだよ。\u3000\u3000\u3000<line-break><line-break><line-break>例えば、ルルアンタが大変なときは<line-break>私は、命がけでルルアンタを<line-break>助けにいくよ。<end>"
+english = "Yes, that's how it is. If you were ever in trouble, for instance, I'd risk my life to save you, Lulluantha.<end>"
+
+["330017"]
+japanese = "だって、今は、<line-break>私がルルアンタのお父さん、\u3000\u3000\u3000\u3000<line-break>なんだからね。<end>"
+english = "Because now I'm your father, Lulluantha.<end>"
+
+["330018"]
+japanese = "…うれしいな、フリントさん。<end>"
+english = "That makes me happy, Flint.<end>"
+
+["330019"]
+japanese = "こぉらぁ、<value:$28>！<line-break>フラフラ遊んでないで<line-break>少しは、商売の手伝いもしなさい。<end>"
+english = "Hey, <value:$28>! Stop wandering around and playing. You could at least help with the business!<end>"
+
+["330020"]
+japanese = "おいおい、ルルアンタ…。<end>"
+english = "Hey now, Lulluantha...<end>"
+
+["330021"]
+japanese = "フリントさんは黙ってて！<end>"
+english = "Stay out of this, Flint!<end>"
+
+["330022"]
+japanese = "復活の真珠がもうないの。<line-break>さ、一緒に買いにいくのよ。<line-break><value:$28>！<end>"
+english = "We're out of Pearls of Revival. Come on, <value:$28>. You're coming with me to buy some!<end>"
+
+["330023"]
+japanese = "そうだな、<value:$28>。<line-break>すまんが、買ってきれくれないか。<end>"
+english = "Yes, <value:$28>. Sorry, but would you go and buy some?<end>"
+
+["330024"]
+japanese = "もう！\u3000フリントさん！<line-break>父親なんだから<line-break>したてに出ないの！<end>"
+english = "Oh, Flint! You're the father. Stop being so meek!<end>"
+
+["330025"]
+japanese = "さ、行こ、<value:$28>。<line-break>復活の真珠は道具屋だよぉ。<end>"
+english = "Come on, <value:$28>. The item shop sells Pearls of Revival.<end>"
+
+["330026"]
+japanese = "<value:$28>～、<line-break>こっち、こっちだよぉ！<end>"
+english = "<value:$28>! Over here!<end>"
+
+["330027"]
+japanese = "復活の真珠ですね。<line-break>はい、どうぞ。<end>"
+english = "A Pearl of Revival, was it? Here you are.<end>"
+
+["330028"]
+japanese = "次はロストールですってね？<end>"
+english = "I hear you're off to Rostorl next?<end>"
+
+["330029"]
+japanese = "そうだよ。<end>"
+english = "That's right.<end>"
+
+["330030"]
+japanese = "そうですね、フリントさんには<line-break>いつもひいきにしてますし、<line-break>これはサービスです。<end>"
+english = "Flint has always been a good customer, so this one's on the house.<end>"
+
+["330031"]
+japanese = "得したね、<value:$28>。<line-break><line-break><line-break>さ、フリントさんの所に<line-break>帰ろ。<end>"
+english = "Lucky us, <value:$28>. Come on, let's get back to Flint.<end>"
+
+["330032"]
+japanese = "ちょいと待ちな、悪の影！！<end>"
+english = "Not so fast, shadow of evil!<end>"
+
+["330033"]
+japanese = "<if><value:$29><equal>%0お前がフリントの息子、<line-break><value:$28>だな？<end>お前がフリントの娘、<line-break><value:$28>だな？<end>"
+english = "<if><value:$29><equal>%0You're Flint's son, <value:$28>, aren't you?<end>You're Flint's daughter, <value:$28>, aren't you?<end>"
+
+["330034"]
+japanese = "やはりそうか！ <end>"
+english = "I knew it!<end>"
+
+["330035"]
+japanese = "あいかわらず、俺様の目に狂いなし！<line-break>出でよ！\u3000勇者のお付きのみなさん！<end>"
+english = "Once again, my keen eye proves infallible! Come forth, attendants of the Hero!<end>"
+
+["330036"]
+japanese = "へっへっ、<line-break>こいつをさらって<line-break>フリントを脅迫するんだな。<end>"
+english = "Heh heh. So we snatch this kid and use that to threaten Flint.<end>"
+
+["330037"]
+japanese = "あー、うぜえ。<line-break>とっととガキどもをさらって<line-break>ずらかろうぜ。あー、めんどくせえ。<end>"
+english = "Ugh, what a pain. Let's grab the brats and get out of here. Damn, this is such a bother.<end>"
+
+["330038"]
+japanese = "くっ。<line-break>熱き正義の魂のない言い方はやめろ！<line-break>勇者のお付きにそぐわないぞ！<end>"
+english = "Enough! Speak with the fiery soul of justice! That attitude is unworthy of the Hero's attendants!<end>"
+
+["330039"]
+japanese = "なんなのよぉ！\u3000あんた。<end>"
+english = "Who are you supposed to be?<end>"
+
+["330040"]
+japanese = "ふっ。<line-break>なんなのよぉ、だと？<line-break>察しの悪い悪人め。<line-break>悪の影ある所、必ず俺様あり！<line-break>…と言えば俺様が何者か<line-break>すぐにわかるだろうが！！<end>"
+english = "Hmph. “Who are you supposed to be?” You witless villain! Wherever the shadow of evil falls, there I shall always be! Surely that tells you at once who I am!<end>"
+
+["330041"]
+japanese = "あー、わかったぁ！<end>"
+english = "Oh, I know!<end>"
+
+["330042"]
+japanese = "おじさんは<line-break>しょあくのこんげん、でしょ！<end>"
+english = "You're the root of all evil, mister!<end>"
+
+["330043"]
+japanese = "違う！\u3000その逆だ！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "Wrong! The exact opposite!<end>"
+
+["330044"]
+japanese = "違う！\u3000その逆だ！<line-break>しかも、おじさんじゃない！<line-break>２２歳！\u3000青春真っ盛り！！<end>"
+english = "Wrong! The exact opposite! And I'm not an old man! I'm twenty-two, in the prime of my youth!<end>"
+
+["330045"]
+japanese = "俺様は正義の味方！<line-break>悪を倒すため、悪ある所、<line-break>必ず俺様は現れるのだ！！<end>"
+english = "I am a champion of justice! Wherever evil lurks, I shall appear to vanquish it!<end>"
+
+["330046"]
+japanese = "正義のためとはいえ、<line-break>勇者が誘拐など…と思っていたが、<line-break>正義と悪の区別もつかんとは貴様ああ！<line-break>貴様らには、教育的指導が必要だ！<line-break>よかろう！！\u3000今日は特別だ！<line-break>俺様が熱い愛のおしおきをしてやる！<end>"
+english = "I had my doubts about a Hero committing kidnapping, even in the name of justice. But you cannot even tell good from evil! You villains require corrective instruction! Very well! Today, and today alone, I shall give you a red-hot punishment of love!<end>"
+
+["330047"]
+japanese = "わぁ～、<line-break>変なおじさん、<line-break>目がコワイよ～。<end>"
+english = "Eek! The weird old man has scary eyes!<end>"
+
+["330048"]
+japanese = "ぶひゃっ！！<end>"
+english = "Bwah!<end>"
+
+["330049"]
+japanese = "…んだ、こいつ！？<line-break>ぶっ殺すぞ！！<end>"
+english = "What the hell is with this guy?! I'll kill him!<end>"
+
+["330050"]
+japanese = "やーべやべ、<line-break>結構、加減が難しいもんだな。<end>"
+english = "Whoops. Holding back is harder than it looks.<end>"
+
+["330051"]
+japanese = "もう一度かかってくるかい？<line-break>今度はもうちょっと加減してやるぜ？<end>"
+english = "Want another go? I'll hold back a little more next time.<end>"
+
+["330052"]
+japanese = "う…。<line-break><line-break><line-break>い…いずれ貴様もやっつけてやる！<line-break>それまで命は預けておいてやろう！<line-break>さらばだ！<end>"
+english = "Urgh... One day I'll defeat you too! Until then, I'll let you keep your life! Farewell!<end>"
+
+["330053"]
+japanese = "さて、と。<line-break>お友達とも思えないが？<end>"
+english = "Well, then. I take it that wasn't a friend?<end>"
+
+["330054"]
+japanese = "私も知らないよぉー、<line-break>あんなおじさん。<line-break><line-break>お前がフリントの子かって<line-break><value:$28>に<line-break>近づいてきただけだもん。<end>"
+english = "I don't know that weird old man either. He just walked up to <value:$28> and asked, “Are you Flint's child?”<end>"
+
+["330055"]
+japanese = "…フリント？<end>"
+english = "Flint?<end>"
+
+["330056"]
+japanese = "<value:$28>のお父さんだよ。<line-break>ね、<value:$28>。<end>"
+english = "That's <value:$28>'s father. Right, <value:$28>?<end>"
+
+["330057"]
+japanese = "なるほど、ね。<end>"
+english = "Ah. Got it.<end>"
+
+["330058"]
+japanese = "送ってくぜ。<line-break>あれであきらめたとは思えんからな。<end>"
+english = "I'll see you home. I doubt that was enough to make him give up.<end>"
+
+["330059"]
+japanese = "おや、おかえり、<line-break><value:$28>。<line-break>ご苦労様だったね。<end>"
+english = "Welcome back, <value:$28>. Thank you for going.<end>"
+
+["330060"]
+japanese = "あれ？\u3000<value:$28>。<line-break>あの人はぁ？<line-break>一緒じゃなかったのぉ？<end>"
+english = "Huh? <value:$28>, where's that man? Didn't he come with you?<end>"
+
+["330061"]
+japanese = "…あの人？<end>"
+english = "That man?<end>"
+
+["330062"]
+japanese = "ふーん、<line-break>こちらが、おやじさん？<end>"
+english = "Hmm. So this is your old man?<end>"
+
+["330063"]
+japanese = "俺はゼネテス。<line-break>冒険者だ。<end>"
+english = "I'm Xenetes. An adventurer.<end>"
+
+["330064"]
+japanese = "ゼネテス…さん。<end>"
+english = "Xenetes... sir.<end>"
+
+["330065"]
+japanese = "うんっとね。<line-break>変なおじさんが襲ってきてね。<line-break>\u3000<line-break>でもね、でもね、<line-break>かっこいいお兄さんが出てきて<line-break>やっつけてくれたんだよぉ。<end>"
+english = "Well, this weird old man attacked us, and then, and then, this really cool man showed up and beat him!<end>"
+
+["330066"]
+japanese = "これは、どうも。<line-break>子供たちを助けていただいたそうで。<line-break>本当にありがとうございました。<end>"
+english = "I understand you saved the children. You have my deepest thanks.<end>"
+
+["330067"]
+japanese = "礼にはおよばんさ。<end>"
+english = "No need to thank me.<end>"
+
+["330068"]
+japanese = "礼にはおよばんさ。<line-break>もっとも、２人を襲ったあの男、<line-break>本当はあんたに用があったみたいだが？<end>"
+english = "No need to thank me. Though it seemed that the man who attacked those two really had business with you.<end>"
+
+["330069"]
+japanese = "…さぁ。<line-break>金目当ての強盗ですかな？<end>"
+english = "I couldn't say. Perhaps he was a robber after money?<end>"
+
+["330070"]
+japanese = "へえ。<end>"
+english = "Oh?<end>"
+
+["330071"]
+japanese = "ところで、<line-break>次の行き先はどこだい？<end>"
+english = "By the way, where are you headed next?<end>"
+
+["330072"]
+japanese = "…ロストールですが。<end>"
+english = "Rostorl.<end>"
+
+["330073"]
+japanese = "俺も乗せてってくれないか？\u3000\u3000<end>"
+english = "Could I hitch a ride?<end>"
+
+["330074"]
+japanese = "俺も乗せてってくれないか？<line-break>この子たちを助けた<line-break>見返りってわけじゃないが、さ。<end>"
+english = "Could I hitch a ride? Not that I mean it as repayment for saving the children.<end>"
+
+["330075"]
+japanese = "…ええ、どうぞ。<end>"
+english = "Yes, of course.<end>"
+
+["330076"]
+japanese = "さあ、出発だ。<line-break>王都ロストールへ向かうぞ。<end>"
+english = "Time to leave. We're bound for Rostorl, the royal capital.<end>"
+
+["330077"]
+japanese = "はぁーい！<end>"
+english = "All right!<end>"
+
+["330078"]
+japanese = "…この密書をお前に預けておく<line-break>私が持っているより、<line-break>おそらく安全だろう。<end>"
+english = "I'm entrusting this Secret Letter to you. It will probably be safer than if I carry it.<end>"
+
+["330079"]
+japanese = "フリントさーん！<line-break>早く早くぅ！<end>"
+english = "Flint! Hurry up!<end>"
+
+["330080"]
+japanese = "…いきなりで驚いたろうが、<line-break>子細はいずれ、ゆっくりと話す。<line-break><line-break>とにかく、密書のこと、<line-break>頼んだぞ、<value:$28>。<end>"
+english = "I know this is sudden, but I'll explain everything properly when I can. For now, I'm counting on you to keep the Secret Letter safe, <value:$28>.<end>"
+
+["330081"]
+japanese = "うまい、うまい。<line-break>さすが旅慣れたもんだ。\u3000\u3000\u3000\u3000<line-break>何気なく手を動かしてたようだが<line-break>一番少ない薪で、一番いい火が<line-break>得られるようにしてる。<end>"
+english = "Nicely done. You really know your way around a camp. You made it look effortless, but you've arranged everything to get the best fire from the least wood.<end>"
+
+["330082"]
+japanese = "ただの商人にしちゃ、<line-break>ちょっと器用すぎるくらいだ。\u3000<line-break><end>"
+english = "You're almost too skilled for an ordinary merchant.<end>"
+
+["330083"]
+japanese = "いえ、旅の途中で会った方の<line-break>見よう見まねです。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>そんな意味があったのですか。<line-break>ハハ、まったく存じませんでした。<end>"
+english = "No, I merely copied someone I once met on the road. So that was the reason for it? Ha ha, I had no idea.<end>"
+
+["330084"]
+japanese = "ふぅん。<end>"
+english = "Hmm.<end>"
+
+["330085"]
+japanese = "そのたき火、一瞬で火を消せるように<line-break>作ってあるのも知らなかったのかい？<end>"
+english = "You didn't know the fire was built so it could be put out in an instant, either?<end>"
+
+["330086"]
+japanese = "………………。<end>"
+english = "...............<end>"
+
+["330087"]
+japanese = "あんたが出会ったその人、<line-break>相当、ヤバい仕事してたんだろうな。<end>"
+english = "Whoever you copied must've been in a very dangerous line of work.<end>"
+
+["330088"]
+japanese = "…そのようですな。<line-break>さぁ、火がついたよ。<end>"
+english = "So it would seem. There, the fire is lit.<end>"
+
+["330089"]
+japanese = "旅をしている理由、ねえ…？<line-break>さあな、どうしてだろうな<end>"
+english = "Why do I travel? Who knows? I wonder that myself.<end>"
+
+["330090"]
+japanese = "決まってるじゃない。<line-break>\u3000<line-break>\u3000<line-break>ゼネテスって、ちゃんと<line-break>世間でやっていけそうにないもん。<line-break>だからよね？<end>"
+english = "It's obvious! Xenetes doesn't look like he could manage an ordinary life. That's why, right?<end>"
+
+["330091"]
+japanese = "ハハハ、かもな。<end>"
+english = "Ha ha ha. Maybe so.<end>"
+
+["330092"]
+japanese = "でも、ゼネテス、<line-break>いじけちゃダメだよ。\u3000<line-break>\u3000<line-break>困ったら、ルルアンタが<line-break>養ってあげるからね。<end>"
+english = "But don't sulk, Xenetes. If you ever get into trouble, Lulluantha will support you.<end>"
+
+["330093"]
+japanese = "…<value:$28>、<line-break>今朝方、久しぶりに<line-break>母さんの夢を見たよ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>母さんが死んでから、<line-break>お前はよくがんばってくれたな。<line-break>礼を言うよ、本当にありがとう…。<end>"
+english = "<value:$28>, I dreamed about your mother this morning, for the first time in ages. You've worked so hard since she died. I want to thank you. Truly.<end>"
+
+["330094"]
+japanese = "ははは、私はどうしてこんなことを<line-break>急に言い出したのだろうな。<line-break>今日は、少しどうかしている…。<end>"
+english = "Ha ha. Why am I saying all this so suddenly? I haven't quite been myself today.<end>"
+
+["330095"]
+japanese = "<select><value:$20>%3ゼネテスって、<line-break>なんか、<line-break>だらしないのよねえ…。<line-break>きっと、あれがカッコいいと<line-break>思ってるんだわ。<line-break>子供ねぇー。<end>フリントさんって、<line-break>ほんとうに、<line-break>いいお父さんだよね。<end>フリントさんって、<line-break>ほんとうは強いんだよね。<line-break>いつもは、かくしてるけど。<line-break>でも、なんで<line-break>かくしてるのかな？<end>"
+english = "<select><value:$20>%3Xenetes is kind of a slob, isn't he? I bet he thinks it makes him look dashing. What a child.<end>Flint really is a wonderful father, isn't he?<end>Flint is actually really strong. He usually hides it, though. I wonder why?<end>"
+
+["330096"]
+japanese = "えっ…？\u3000なに、なに？<end>"
+english = "Huh? What is it?<end>"
+
+["330097"]
+japanese = "フリントさん、お客さんだ。<end>"
+english = "Flint, we've got visitors.<end>"
+
+["330098"]
+japanese = "…しかも、団体さんだ。<line-break>剣を取れ。俺から離れるな。<end>"
+english = "A whole group of them. Draw your sword. Stay close to me.<end>"
+
+["330099"]
+japanese = "フリントさん、火を…。<end>"
+english = "Flint, the fire.<end>"
+
+["330100"]
+japanese = "消す必要はありません。<line-break>相手は素人です。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>むしろ火を消して、相手の混乱を招き、<line-break>突飛な行動に出られる方が危険です。<end>"
+english = "There's no need to put it out. They're amateurs. Extinguishing it would only confuse them, and that might provoke some rash, unpredictable move. That would be more dangerous.<end>"
+
+["330101"]
+japanese = "なるほど、ね。<line-break>冷静な判断だ。<end>"
+english = "Good point. A cool-headed assessment.<end>"
+
+["330102"]
+japanese = "くそっ。<line-break>この俺様の気配を察したか…。\u3000\u3000<line-break>\u3000<line-break>やはりこの大人物としての存在感は<line-break>どうしても消せんか…。<line-break>フッ、偉大すぎるのも考え物だな。<end>"
+english = "Damn! They sensed my presence. I simply cannot conceal the imposing aura of a man of my stature. Hmph. Being too great is a burden.<end>"
+
+["330103"]
+japanese = "あぁーっ！<line-break>昼間の変なおじさぁん！<end>"
+english = "Ah! It's that weird old man from this afternoon!<end>"
+
+["330104"]
+japanese = "変なおじさん言うなー！<line-break>俺様の名はガルドラン。<end>"
+english = "Stop calling me a weird old man! My name is Girldlan!<end>"
+
+["330105"]
+japanese = "新しい伝説をつくるために生まれた<line-break>真の英雄。そう、俺様は未来の勇者だ！<end>"
+english = "A true hero, born to forge a new legend! Yes, I am the Hero of the future!<end>"
+
+["330106"]
+japanese = "未来の勇者…。やれやれ、<line-break>ずいぶんとカッコいいポーズだな…。<end>"
+english = "The Hero of the future? Good grief. That's quite a dramatic pose.<end>"
+
+["330107"]
+japanese = "やはり！！<line-break>貴様もそう思うか！！<line-break>何回も練習したからな！！<end>"
+english = "I knew it! You think so too! I practiced it over and over!<end>"
+
+["330108"]
+japanese = "フリントというのはお前だな？<end>"
+english = "You're the one called Flint, aren't you?<end>"
+
+["330109"]
+japanese = "…いかなるご用件でしょう？<end>"
+english = "What business do you have with me?<end>"
+
+["330110"]
+japanese = "ノーブルの代官、ボルボラから<line-break>手紙を預かってるはずだ。<end>"
+english = "You should be carrying a letter from Bolbora, the magistrate of Noble.<end>"
+
+["330111"]
+japanese = "そのような物は存じ上げません。<end>"
+english = "I know of no such thing.<end>"
+
+["330112"]
+japanese = "いや、お前が持っているはずだ！<line-break>未来の勇者であるこの俺様にはわかる！<end>"
+english = "No, you must have it! As the Hero of the future, I can tell!<end>"
+
+["330113"]
+japanese = "変なおじさん、しつっこーい。<line-break>そんなものないって言ってるでしょぉ！<end>"
+english = "Weird old man, you're so annoying. We keep telling you, there is no such thing!<end>"
+
+["330114"]
+japanese = "ある！\u3000絶対ある！<line-break>俺様があると信じているからある！<line-break>\u3000<line-break>どうした？\u3000素直に出さないのか？<line-break>それじゃあ親子まとめて<line-break>正義の鉄拳を食らうがいい！<end>"
+english = "He does! He absolutely does! It exists because I believe it exists! Well? You refuse to hand it over peacefully? Then father and child shall both taste the fist of justice!<end>"
+
+["330115"]
+japanese = "いずれ、お前たちも倒し、<line-break>密書はいただく！\u3000覚悟しておけ！<line-break>だーひゃひゃひゃ！<end>"
+english = "One day I shall defeat you all and claim the Secret Letter! Prepare yourselves! Dah-hyah-hyah-hyah!<end>"
+
+["330116"]
+japanese = "フリントさ～ん！<end>"
+english = "Flint!<end>"
+
+["330117"]
+japanese = "…矢だ。<line-break>おやじさんは矢にやられている。<line-break><line-break>急所は外れているが、<line-break>矢に毒が仕込んである。…危険だ。<end>"
+english = "An arrow. Your old man was shot. It missed the vitals, but the arrow was poisoned. This is bad.<end>"
+
+["330118"]
+japanese = "フリントさん、大丈夫だよね！<line-break>ゼネテス！<end>"
+english = "Flint's going to be all right, isn't he, Xenetes?<end>"
+
+["330119"]
+japanese = "あっ！<line-break><value:$28>！<end>"
+english = "Ah! <value:$28>!<end>"
+
+["330120"]
+japanese = "待て。危険だ。<end>"
+english = "Wait. It's dangerous.<end>"
+
+["330121"]
+japanese = "待てと言っている！<end>"
+english = "I said wait!<end>"
+
+["330122"]
+japanese = "おやじさんは、<line-break>命に代えてもお前を守ろうとした。<line-break>…そこんとこを汲んでやれ。<end>"
+english = "Your old man was willing to die to protect you. Respect that.<end>"
+
+["330123"]
+japanese = "いい子だ。<line-break><line-break><line-break>それよりも、急いでおやじさんを、<line-break>町へ運ばなきゃならん。<line-break>ここから一番近い町は…。<end>"
+english = "Good. More importantly, we have to get your old man to a town, fast. The nearest one is...<end>"
+
+["330124"]
+japanese = "…ルへ。王都へ…。<line-break>…ロストールへ…。<end>"
+english = "...torl. To the royal capital... to Rostorl...<end>"
+
+["330125"]
+japanese = "バカ野郎！<end>"
+english = "You damned fool!<end>"
+
+["330126"]
+japanese = "バカ野郎！<line-break>自分の身体より、そんなに<line-break>あんな奴らの小競り合いが大事か？<end>"
+english = "You damned fool! Is that petty squabble of theirs really more important than your own life?<end>"
+
+["330127"]
+japanese = "お願い…です。ゼネテスさ…ま…。<line-break>これは…お家…の大事なの…です。<line-break><line-break><value:$28>、頼む…。<line-break>王都…ロス…ト…ルへ行ってくれ。<line-break>早く…。<end>"
+english = "Please... Sir Xenetes. This is... a vital matter for the house. <value:$28>, please... Go to the royal capital... Ros... torl. Hurry...<end>"
+
+["330128"]
+japanese = "…わかった。<end>"
+english = "All right.<end>"
+
+["330129"]
+japanese = "お前さんがそこまで言うなら<line-break>ロストールへ急ごう。<end>"
+english = "If it means that much to you, we'll hurry to Rostorl.<end>"
+
+["330130"]
+japanese = "…<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["330131"]
+japanese = "<value:$28>、<line-break>…頼みが…ある。\u3000\u3000\u3000\u3000\u3000<line-break>例の密書を…<line-break>…あの密書を、<line-break>王妃…エリス様に…<line-break>…届けてくれ。<end>"
+english = "<value:$28>, I have... a favor to ask. The Secret Letter... that letter... deliver it to Queen Eris.<end>"
+
+["330132"]
+japanese = "フ、フリントの子と言えば…<line-break>エリス様に…お目通り<line-break>…かなう…はず。<end>"
+english = "As Flint's child... you should be granted an audience with Queen Eris.<end>"
+
+["330133"]
+japanese = "やれやれ、<line-break>お前のおやじさんは、<line-break>どうしようもない頑固者だな。<line-break>…しょうがない。<line-break>行ってやれ。<line-break>ここは俺が見ている。<end>"
+english = "Good grief. Your old man is impossibly stubborn. Fine. Go. I'll look after him.<end>"
+
+["330134"]
+japanese = "…はっきり言って<line-break>おやじさんは危険な状態だ…。<line-break><line-break>王妃エリスは、<line-break>雌狐と呼ばれるほどの謀略家。<line-break>毒にも詳しい。<end>"
+english = "To be blunt, your old man is in grave danger. Queen Eris is such a schemer that they call her the Vixen. She knows a great deal about poisons, too.<end>"
+
+["330135"]
+japanese = "シロウラギリの毒に<line-break>フリントがやられたと言って、<line-break>生命のかけらをもらってこい。<end>"
+english = "Tell her Flint was poisoned with Shirouragiri and ask for a Fragment of Life.<end>"
+
+["330136"]
+japanese = "急いで戻れ。<line-break>…思ったより、衰弱が激しい。<end>"
+english = "Hurry back. He's weakening faster than I expected.<end>"
+
+["330137"]
+japanese = "急いでね、<line-break><value:$28>…。<end>"
+english = "Please hurry, <value:$28>.<end>"
+
+["330138"]
+japanese = "なんだ、お前は！<end>"
+english = "Who are you?<end>"
+
+["330139"]
+japanese = "<if><value:$29><equal>%0フリントの息子、だと？<end>フリントの娘、だと？<end>"
+english = "<if><value:$29><equal>%0Flint's son, you say?<end>Flint's daughter, you say?<end>"
+
+["330140"]
+japanese = "王妃様がお会いになるそうだ。<line-break>ついてこい。<end>"
+english = "Her Majesty will see you. Follow me.<end>"
+
+["330141"]
+japanese = "…密書は確かに受け取った。<line-break>ご苦労だった。<line-break>これは報酬だ。<end>"
+english = "I have received the Secret Letter. You have done well. This is your reward.<end>"
+
+["330142"]
+japanese = "して、フリントはどうした。<end>"
+english = "Now, what has become of Flint?<end>"
+
+["330143"]
+japanese = "しかし、ガルドランか…。<line-break>フフ、また、ガルドランとはな。<line-break>\u3000<line-break>奴は三流で無能だが、<line-break>並外れて執念深く、<line-break>妙に運がいい。<end>"
+english = "Girldlan, of all people. Heh. Girldlan again. He's an incompetent third-rater, but extraordinarily persistent and strangely lucky.<end>"
+
+["330144"]
+japanese = "レムオン坊やも<line-break>思いきった人選をするものだ。<line-break>もっとも、今回は失敗だったようだな。<end>"
+english = "Young Lemghon certainly makes daring choices. Though this one appears to have ended in failure.<end>"
+
+["330145"]
+japanese = "<if><value:$29><equal>%0シロウラギリの毒、だと？<line-break>フリントがか？<line-break>しかし…<line-break>フリントの息子、<line-break><value:$28>といったな。<line-break>ずいぶんと毒に詳しいではないか。<end>シロウラギリの毒、だと？<line-break>フリントがか？<line-break>しかし…<line-break>フリントの娘、<line-break><value:$28>といったな。<line-break>ずいぶんと毒に詳しいではないか。<end>"
+english = "<if><value:$29><equal>%0Shirouragiri poison, you say? Flint was poisoned? Yet you seem remarkably knowledgeable about poison, <value:$28>, son of Flint.<end>Shirouragiri poison, you say? Flint was poisoned? Yet you seem remarkably knowledgeable about poison, <value:$28>, daughter of Flint.<end>"
+
+["330146"]
+japanese = "ほう、<line-break>ゼネテスという冒険者がな…。<line-break>なるほど？<line-break>よかろう。<line-break>生命のかけらを与える。<line-break>これでフリントも回復しよう。<end>"
+english = "Oh? An adventurer named Xenetes told you? I see. Very well. I shall give you a Fragment of Life. This should restore Flint.<end>"
+
+["330147"]
+japanese = "下がるがよい。<end>"
+english = "You may withdraw.<end>"
+
+["330148"]
+japanese = "<if><value:$29><equal>%0…やっぱりここを通ったな小僧…。<line-break>待っていたぞ、貴様が来るのを…。<end>…やっぱりここを通ったな小娘…。<line-break>待っていたぞ、貴様が来るのを…。<end>"
+english = "<if><value:$29><equal>%0I knew you'd come this way, boy. I've been waiting for you.<end>I knew you'd come this way, girl. I've been waiting for you.<end>"
+
+["330149"]
+japanese = "昨日、先回りして、<line-break>それからずっと貴様を待っていた。<line-break>ずっと、ず～～～～～っとだ。<line-break>来ないかもって、不安だったんだぞ！<line-break>さびしくて、泣きそうだったんだぞ！<line-break>腹が減って、情けなかったんだぞっ！<end>"
+english = "I got ahead of you yesterday, and I've been waiting ever since. All this time. All this long, loooooong time! I was worried you might not come! I was so lonely I nearly cried! I was hungry and miserable!<end>"
+
+["330150"]
+japanese = "この屈辱…。<line-break>未来の勇者である俺様に<line-break>こんな思いをさせやがって…。<line-break>許さないぞ貴様ぁっ！<line-break>正義と涙の俺の槍を食らええ！！<end>"
+english = "The humiliation! How dare you make me, the Hero of the future, suffer so! I will never forgive you! Taste my spear of justice and tears!<end>"
+
+["330151"]
+japanese = "くっ！<line-break>次こそは俺様の真の力を見せてやる！<end>"
+english = "Grr! Next time, I shall show you my true power!<end>"
+
+["330152"]
+japanese = "<if><value:$29><equal>%0ねぇ、そこの坊や。<line-break>遊んでいかない？<end>ねぇ、そこのお嬢ちゃん。<line-break>遊んでいかない？<end>"
+english = "<if><value:$29><equal>%0Hello there, young man. Care to have some fun?<end>Hello there, young lady. Care to have some fun?<end>"
+
+["330153"]
+japanese = "そう、残念ね。<end>"
+english = "Oh. What a shame.<end>"
+
+["330154"]
+japanese = "ひっく、ひっく。何してたのよぉ！<line-break><value:$28>！<end>"
+english = "Sob... Where have you been, <value:$28>?!<end>"
+
+["330155"]
+japanese = "…遅せぇ、よ。<end>"
+english = "You're... late.<end>"
+
+["330156"]
+japanese = "…<value:$28>、<line-break>もう…何時間もそうしてるよ？<end>"
+english = "<value:$28>, you've been like this for hours.<end>"
+
+["330157"]
+japanese = "…ねぇ。<end>"
+english = "Hey.<end>"
+
+["330158"]
+japanese = "…ルルアンタ<line-break>…行くね。<end>"
+english = "Lulluantha's... going now.<end>"
+
+["330159"]
+japanese = "…今のお前さんには<line-break>なに言っても無駄、か。<end>"
+english = "Nothing I say will get through to you right now, will it?<end>"
+
+["330160"]
+japanese = "夜明けまでに、<line-break>おやじさんを弔う。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>おやじさんは、<line-break>この国の政争に関わる<line-break>極秘の仕事をしてた。<end>"
+english = "We'll lay your old man to rest before dawn. He was doing highly secret work tied to this country's political struggle.<end>"
+
+["330161"]
+japanese = "夜明けまでには、<line-break>おやじさんの死を知った奴らが、<line-break>秘密を守るために死体を処分しにくる。<line-break>その前に俺たちで弔ってやるんだ。<line-break>旅に生きたおやじさんを、<line-break>旅路に、な。<end>"
+english = "By dawn, the people who learn of his death will come to dispose of the body and protect the secret. We'll lay him to rest before they do. Your old man lived on the road. We'll send him on his final journey.<end>"
+
+["330162"]
+japanese = "<value:$28>～。<line-break>ぐすっ。フリントさんが大変なの…。<end>"
+english = "<value:$28>... Flint's in a bad way.<end>"
+
+["330163"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["330164"]
+japanese = "…エリス様は？<end>"
+english = "And Lady Eris?<end>"
+
+["330165"]
+japanese = "今まで、お前に…隠し事をしていた…。<line-break>すまなかった…。<line-break>あ、あとは、あとは…。<line-break>…………………………<line-break>ゼ…ゼネテス…様…。<end>"
+english = "I've kept secrets from you all this time. Forgive me. And... and one more thing... Sir... Xenetes.<end>"
+
+["330166"]
+japanese = "わかった。<line-break>息を無駄にするな。<end>"
+english = "I understand. Don't waste your breath.<end>"
+
+["330167"]
+japanese = "ゼネテス様に…ついていくのだ。<line-break>あの方なら…お前を…。<end>"
+english = "Go with Sir Xenetes. With him... you...<end>"
+
+["330168"]
+japanese = "…<value:$28>、<line-break>もう…何時間もそうしてるよ？<end>"
+english = "<value:$28>, you've been like this for hours.<end>"
+
+["330169"]
+japanese = "…ねぇ。<end>"
+english = "Hey.<end>"
+
+["330170"]
+japanese = "…ルルアンタ<line-break>…行くね。<end>"
+english = "Lulluantha's... going now.<end>"
+
+["330171"]
+japanese = "…今のお前さんには<line-break>なに言っても無駄、か。<end>"
+english = "Nothing I say will get through to you right now, will it?<end>"
+
+["330172"]
+japanese = "…気持ちもわからないじゃないが、<line-break>生きている人間には<line-break>やらないといけないことがある。<line-break>まず、夜明けまでに、<line-break>おやじさんを弔う。<line-break>行くぞ、<value:$28>。<end>"
+english = "I understand how you feel, but the living still have things to do. First, we'll lay your old man to rest before dawn. Come on, <value:$28>.<end>"
+
+["330173"]
+japanese = "夜明けまでには、<line-break>おやじさんの死を知った奴らが、<line-break>秘密を守るために死体を処分しにくる。<line-break>その前に俺たちで弔ってやるんだ。<line-break>旅に生きたおやじさんを、<line-break>旅路に、な。<end>"
+english = "By dawn, the people who learn of his death will come to dispose of the body and protect the secret. We'll lay him to rest before they do. Your old man lived on the road. We'll send him on his final journey.<end>"
+
+["330174"]
+japanese = "自分さえ、もう少し強ければ…、<line-break>そう思ってるんだろ？<line-break>\u3000<line-break>だが、ただ、お前さんが強けりゃ、<line-break>おやじさんは<line-break>本当に死なずにすんだのかい？<end>"
+english = "You're thinking that if only you'd been a little stronger... But would your old man really have survived just because you were stronger?<end>"
+
+["330175"]
+japanese = "これは…竜王の覚醒…？<line-break>…激動の時代を告げる吼え声か…。<line-break>\u3000<line-break>フフ、まさか、こんなものが、<line-break>生きているうちに聞けるとは<line-break>思わなかったぜ…。<end>"
+english = "Is this... the Dragon King's Awakening? A roar heralding an age of upheaval? Heh. I never thought I'd live to hear such a thing.<end>"
+
+["330176"]
+japanese = "<value:$28>、<line-break>俺についてくるか？<line-break>お前に新しい地平を見せてやるぜ。<end>"
+english = "<value:$28>, want to come with me? I'll show you a whole new horizon.<end>"
+
+["330177"]
+japanese = "<if><value:$29><equal>%0（こっちだと街の外に出てしまう…。<line-break>\u3000王宮は確か逆方向だったな。）<end>（こっちだと街の外に出ちゃう…。<line-break>\u3000王宮は確か逆方向だよね。）<end>"
+english = "<if><value:$29><equal>%0(This way leads out of town. If I remember right, the palace is in the opposite direction.)<end>(This way leads out of town. The palace is in the opposite direction, if I remember right.)<end>"
+
+["330178"]
+japanese = "（父さんが心配だ…。<line-break>\u3000早く帰らなきゃ。）<end>"
+english = "(I'm worried about Father. I have to hurry back.)<end>"
+
+["330179"]
+japanese = "お前がノーブルにいる間中行っていた<line-break>町の外の森に行ったはずだ。<line-break>頼んだよ、<value:$28>。<end>"
+english = "Go to the forest outside town, the one you kept visiting while you were in Noble. I'm counting on you, <value:$28>.<end>"
+
+["330180"]
+japanese = "おやおや、フリントさんは<line-break>今日ご出発でしょう？<line-break>ここでおしゃべりしてていいんですか？<end>"
+english = "My, my. Aren't you leaving today, Mr. Flint? Should you really be standing here chatting?<end>"
+
+["330181"]
+japanese = "<select><value:$20>%3エリス王妃に会って<line-break>生命のかけらをもらってこい。<line-break>王妃はロストール王宮だ。<end>王妃のいる王宮へは、<line-break>とにかく奥へ奥へと行けばいい。<line-break>頼んだぜ、<value:$28>。<end>急いで戻れ。<line-break>…思ったより、衰弱が激しい。<end>"
+english = "<select><value:$20>%3Go see Queen Eris and bring back a fragment of life. The Queen is at the royal palace in Rostorl.<end>To reach the palace where the Queen is, just keep heading farther in. I'm counting on you, <value:$28>.<end>Hurry back. He's weaker than I thought.<end>"
+
+["330182"]
+japanese = "<value:$28>……、急いでね。<line-break>早く帰ってきてね。早く帰ってきて<line-break><line-break><end>フリントさんを笑顔にしてあげてね。<end>"
+english = "<value:$28>... please hurry. Come back soon. Please, come back soon.<end>Bring a smile to Flint's face, all right?<end>"
+
+["330183"]
+japanese = "さぁて、と。<line-break>これからどうするか、だが…。<line-break>ま、とりあえず、ついてきてくれ。<end>"
+english = "Now then... what to do next? Well, just come with me for now.<end>"
+
+["330184"]
+japanese = "ここはロストール王宮だ。<line-break>用なき者は立ち去るのだな。<end>"
+english = "This is the royal palace of Rostorl. If you have no business here, leave.<end>"
+
+["330185"]
+japanese = "急いでいる様子だな？<line-break>用が済んだのであれば、<line-break>早々に帰るがよい。<end>"
+english = "You seem to be in a hurry. If your business is finished, be on your way at once.<end>"
+
+["330186"]
+japanese = "空<end>"
+english = "Empty<end>"
+
+["330187"]
+japanese = "ん？\u3000ああ、これからの予定かい？<line-break>ロストールで大事な用がある…って<line-break>フリントさんが言ってたよ。<end>"
+english = "Hm? Oh, what happens next? Flint said there's important business to take care of in Rostorl.<end>"
+
+["330188"]
+japanese = "焚き火っていいよなあ…。なんかこう…<line-break>実感ってのかな？\u3000旅してるってのとか<line-break><line-break><end>生きてるってのとか…、いいよなあ…。<end>"
+english = "There's something about a campfire... It makes it all feel real, you know? Being on the road...<end>Being alive... It's good.<end>"
+
+["330189"]
+japanese = "ここまで護衛をしてきたけど、結局<line-break>俺の出番はなかったな。もっとも、<line-break>それがなによりなことだけどな。<end>"
+english = "I came all this way as an escort, but in the end I never had to do a thing. That's the best outcome, of course.<end>"
+
+["330190"]
+japanese = "ケガをされたお客様の<line-break>具合はいかがですか？<end>"
+english = "How is the injured guest doing?<end>"
+
+["330191"]
+japanese = "お父様はお亡くなりに…<line-break>そうですか…。<end>"
+english = "Your father has passed away... I see.<end>"
+
+["330192"]
+japanese = "ルルアンタを捜してきてくれないか？<line-break>お前がノーブルにいる間中行っていた<line-break>町の外の森に行ったはずだ。<line-break>頼んだよ、<value:$28>。<end>"
+english = "Could you go find Lulluantha? She should have gone to that forest outside town, the one you visited all the time while you were in Noble. I'm counting on you, <value:$28>.<end>"
+
+["330193"]
+japanese = "予備メッセージ１７<end>"
+english = "Reserve Message 17<end>"
+
+["330194"]
+japanese = "予備メッセージ１８<end>"
+english = "Reserve Message 18<end>"
+
+["330195"]
+japanese = "予備メッセージ１９<end>"
+english = "Reserve Message 19<end>"
+
+["330196"]
+japanese = "予備メッセー２０<end>"
+english = "Reserve Messa 20<end>"
+
+["330197"]
+japanese = "これこれ、道具屋は逆方向だよ。<line-break>ルルアンタも待っているんだ。<line-break>あまり意地悪しないでやってくれ。<end>"
+english = "Now, now, the item shop is the other way. Lulluantha is waiting too, so try not to be too mean, will you?<end>"
+
+["330198"]
+japanese = "<select><value:$20>%3フリントさんも、今日、出発か。<line-break>気をつけてな。<end>ここだけの話だが、この町に<line-break>王妃エリスの隠密が<line-break>入りこんだとのことだ。<line-break>ここのご領主レムオン様と<line-break>エリス王妃は仲がお悪いからな。<line-break>気をつけねばならん。<end>しかし、フリントさんのような<line-break>善人でお金を持っている人が<line-break>よく無事だったな。<line-break>この町の代官ボルボラは強欲で<line-break>手段を選ばない悪い奴…<line-break>おっと、これはここだけの話だ。<end>"
+english = "<select><value:$20>%3So Flint is leaving today too. Take care.<end>Just between us, I hear a covert agent of Queen Eris has slipped into town. Our lord, Lemghon, and Queen Eris are on bad terms, you see. We'd best be careful.<end>Still, it's a wonder someone as good and wealthy as Flint made it through unscathed. Bolbora, the magistrate of this town, is a greedy scoundrel who'll stop at nothing... Ah, but that's just between us.<end>"
+
+["330199"]
+japanese = "<value:$28>～<line-break>道具屋はこっちだよぉ～！<line-break>早く、早くぅ～！<end>"
+english = "<value:$28>! The item shop's over here! Hurry, hurry!<end>"
+
+["330200"]
+japanese = "あーっ、<value:$28>！<line-break>もう、どこ行ってたのよぉ！<line-break>捜したんだよぉ～。<end>"
+english = "Ah, <value:$28>! Where have you been? I've been looking for you!<end>"
+
+["330201"]
+japanese = "くっ。<line-break>に、逃げろ！<end>"
+english = "Gah... R-run!<end>"
+
+["330202"]
+japanese = "用意はできた<end>"
+english = "Ready.<end>"
+
+["330203"]
+japanese = "もう少し…<end>"
+english = "Just a little more…<end>"
+
+["330204"]
+japanese = "そうか。<line-break>それでは、ロストールに向けて<line-break>出発するぞ。<end>"
+english = "All right. Then we're leaving for Rostorl.<end>"
+
+["330205"]
+japanese = "そうか。<line-break>それでは、しっかり用意してきなさい。<end>"
+english = "All right. Then make sure you're fully prepared.<end>"
+
+["330206"]
+japanese = "じゃあ、この辺で<line-break>少し休むことにしよう。<end>"
+english = "Let's rest here for a while.<end>"
+
+["330207"]
+japanese = "<select><value:$20>%3エリス王妃に会って<line-break>生命のかけらをもらってこい。<line-break>王妃はロストール王宮だ。<end>王妃のいる王宮へは、<line-break>とにかく奥へ奥へと行けばいい。<line-break>頼んだぜ、<value:$28>。<end>急いで戻れ。<line-break>…思ったより、衰弱が激しい。<end>"
+english = "<select><value:$20>%3Go see Queen Eris and get a fragment of life from her. You'll find her at the royal palace in Rostorl.<end>To reach the palace where the queen is, just keep heading farther and farther in. I'm counting on you, <value:$28>.<end>Hurry back. ...Much weaker than I thought.<end>"
+
+["330208"]
+japanese = "この奥にみごとな千年樹が\u3000\u3000\u3000<line-break>見えますじゃろう？<line-break>あすこが広場ですじゃ。<line-break>その広場を右手に行くと貴族街。<line-break>その貴族街のずっとずっと奥が<line-break>王妃様のおられる王宮ですじゃ。<end>"
+english = "Can you see that magnificent thousand-year-old tree farther in? That's the square. Turn right there and you'll come to the nobles' quarter. Far, far beyond it is the royal palace, where Her Majesty the Queen resides.<end>"
+
+["330209"]
+japanese = "ロストール王宮を知ってるかーい？<line-break>青い紋章の入った柱の間を行けば、\u3000<line-break>貴族街に出るのさー。<line-break>その貴族街のさらに奥に行けば<line-break>王宮に出るのさー。<line-break>遠いから、ボクは行かないけどねー。<end>"
+english = "Know where Rostorl Palace is? Go between the pillars with the blue crests and you'll come out in the noble quarter. Keep going past the noble quarter and you'll reach the palace. It's too far for me, though, so I'm not going.<end>"
+
+["330210"]
+japanese = "王宮か？<line-break>この道をずっとまっすぐ行けば<line-break>王宮の門に出るよ。<end>"
+english = "The palace? Follow this road straight ahead and you'll come to the palace gates.<end>"
+
+["330211"]
+japanese = "まあ、待て。<line-break>何か急ぎの用がありそうだ。<line-break>どうしたのだ？<end>"
+english = "Wait a moment. You seem to be in a hurry. What's happened?<end>"
+
+["330212"]
+japanese = "とう！<end>"
+english = "Hah!<end>"
+
+["330213"]
+japanese = "♪俺が正義だ！\u3000ガルドラ～ン！<line-break>♪正義が俺だ！\u3000ガルドラ～ン！<line-break>♪愛のパンチを\u3000貴様に～！<end>"
+english = "♪ I am justice! Girldlan! ♪ Justice is me! Girldlan! ♪ Take my punch of love!<end>"
+
+["330214"]
+japanese = "…<value:$28>、<line-break>おやじさんは…亡くなられた。<end>"
+english = "<value:$28>... your father has passed away.<end>"
+
+["330215"]
+japanese = "あ…。えっと、えっと！<line-break>じゃ、じゃあ、ルルアンタ、<line-break><value:$28>を探してくるね！<end>"
+english = "Oh... um, um! Th-then Lulluantha will go find <value:$28>!<end>"
+
+["330216"]
+japanese = "ルルアンタが、私たちと<line-break>一緒に行動するようになって１０年か。<line-break>…あっという間だったな。<line-break>あの子のほほえみは<line-break>母親を亡くした幼い<value:$28>を<line-break>ずいぶん元気づけてくれたよ。<end>"
+english = "It's been ten years since Lulluantha joined us. It went by in no time. Her smile did so much to cheer up little <value:$28> after the child's mother died.<end>"
+
+["330217"]
+japanese = "…そして、私もな。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><line-break><end>"
+english = "And me as well.<end>"
+
+["330218"]
+japanese = "おや、<value:$28>。<line-break>戻ったか。<line-break>ルルアンタは一緒じゃないのか？<end>"
+english = "Ah, <value:$28>. You're back. Isn't Lulluantha with you?<end>"
+
+["330219"]
+japanese = "そうか。<line-break>いや、今、お前を捜しに行ったのだ。<line-break>すれ違ってしまったようだな。<line-break>そろそろ、ロストールへ出発だ。<line-break>悪いが、<value:$28>、<line-break>ルルアンタを捜してきてくれないか？<end>"
+english = "I see. She just went out looking for you. You must have missed each other. It's nearly time to leave for Rostorl. Sorry to ask, <value:$28>, but would you go find Lulluantha?<end>"
+
+["330220"]
+japanese = "お前なら大丈夫だろうが、<line-break>十分、注意するんだよ。<line-break>これを持っていきなさい。<end>"
+english = "I'm sure you'll be all right, but be very careful. Take this with you.<end>"
+
+["330221"]
+japanese = "おお、フリントさんとこの<line-break><value:$28>か。<line-break>今日出発かな。<end>"
+english = "Oh, you're <value:$28>, from Flint's place. Leaving today, are you?<end>"
+
+["330222"]
+japanese = "いつも一緒のおチビちゃんが<line-break>お前を捜しとった。<line-break>町の外の森の方に行ったぞ。<end>"
+english = "That little one who's always with you was looking for you. Headed toward the woods outside town.<end>"
+
+["330223"]
+japanese = "<if><value:$29><equal>%0あいかわらず、俺様の目に狂いなし！<line-break>あれがフリントの息子、<line-break><value:$28>だな？<line-break>奴を捕らえ、<line-break>悪の使者フリントから密書を奪う！<line-break>俺様の正義伝説の幕開けだ！<end>あいかわらず、俺様の目に狂いなし！<line-break>あれがフリントの娘、<line-break><value:$28>だな？<line-break>奴を捕らえ、<line-break>悪の使者フリントから密書を奪う！<line-break>俺様の正義伝説の幕開けだ！<end>"
+english = "<if><value:$29><equal>%0My keen eye is as infallible as ever! That's Flint's son, <value:$28>, isn't it? Seize him and take the Secret Letter from Flint, that agent of evil! Now begins my legend of justice!<end>My keen eye is as infallible as ever! That's Flint's daughter, <value:$28>, isn't it? Seize her and take the Secret Letter from Flint, that agent of evil! Now begins my legend of justice!<end>"
+
+["330224"]
+japanese = "歴史よ！\u3000しばし待つがいい！<line-break>ここに究極の勇者ガルドラン様が<line-break>誕生するのだ！\u3000ふひゃひゃひゃひゃ！<end>"
+english = "History, wait but a moment! For here is born the ultimate Hero, the great Girldlan! Fuhyahyahyahya!<end>"
+
+["330225"]
+japanese = "えっ！？\u3000すれちがっちゃったの？<line-break>それで、<value:$28>は<line-break>わざわざ、捜しにきてくれたんだ…。<end>"
+english = "What!? We missed each other? And <value:$28> came all this way just to look for me...<end>"
+
+["330226"]
+japanese = "…ゴメンね。<line-break><value:$28>。<end>"
+english = "I'm sorry, <value:$28>.<end>"
+
+["330227"]
+japanese = "…ありがと。<line-break>やさしいね。<line-break><value:$28>って。<line-break>じゃ、行こ！<line-break>早く戻らないとフリントさん、<line-break>心配してるよぉ！<end>"
+english = "Thanks. You're so kind, <value:$28>. Come on, let's go! If we don't hurry back, Flint will be worried!<end>"
+
+["330228"]
+japanese = "ね、<value:$28>。<line-break>宿屋のフリントさんのとこに<line-break>早くもどろうよぉ。<end>"
+english = "Come on, <value:$28>. Let's hurry back to Flint at the inn.<end>"
+
+["330229"]
+japanese = "ま、ここまで来れば、<line-break>一応は安全だろう。<end>"
+english = "Well, we should be safe enough now that we've made it this far.<end>"
+
+["330230"]
+japanese = "ありがと！<line-break>ルルアンタたち、宿屋にいるの。<line-break>お礼もしたいから、来てね！<end>"
+english = "Thank you! Lulluantha and the others are at the inn. I want to thank you properly, so come by!<end>"
+
+["330231"]
+japanese = "<value:$28>もお礼！<end>"
+english = "<value:$28> wants to thank you too!<end>"
+
+["330232"]
+japanese = "ハハハ、わかった。<line-break>気が向いたら行くよ。<end>"
+english = "Ha ha, all right. I'll come if the mood takes me.<end>"
+
+["330233"]
+japanese = "きっとだよ！<line-break>ルルアンタ、先に行って<line-break>待ってるから！<end>"
+english = "You'd better! Lulluantha will go on ahead and wait for you!<end>"
+
+["330234"]
+japanese = "世話焼きで、<line-break>多少、うるさいくらいだが、<line-break>明るい、いい子だな。<end>"
+english = "A bit of a busybody, and even a nuisance at times, but cheerful and a good kid.<end>"
+
+["330235"]
+japanese = "宿屋でおやじさんが<line-break>待ってるんだろう？<line-break>早く行ってやるといい。<line-break>俺もあとから<line-break>ちょっと、おやじさんに<line-break>あいさつさせてもらうから。<end>"
+english = "Your father is waiting at the inn, isn't he? You'd better get back to him. I'll stop by later and pay my respects.<end>"
+
+["330236"]
+japanese = "<value:$28>、<line-break>あの人、連れてきてくれたら<line-break>よかったのに。<end>"
+english = "<value:$28>, I wish you'd brought that person with you.<end>"
+
+["330237"]
+japanese = "よ、ジャマするぜ。<end>"
+english = "Hey. Mind if I barge in?<end>"
+
+["330238"]
+japanese = "あーっ、あの人！<line-break>あの人だよ、フリントさん！<end>"
+english = "Ah, there! That's the one, Flint!<end>"
+
+["330239"]
+japanese = "<value:$28>たちに<line-break>指一本触れさせん！<end>"
+english = "I won't let you lay a finger on <value:$28> or the others!<end>"
+
+["330240"]
+japanese = "フリント！<end>"
+english = "Flint!<end>"
+
+["330241"]
+japanese = "貴様らザコどもなど、<line-break>俺様じきじきに相手するまでもない！<line-break>いでよ！\u3000勇者のおつきのみなさん！<end>"
+english = "I need not trouble myself with worthless rabble like you! Come forth, all you attendants of the Hero!<end>"
+
+["330242"]
+japanese = "わき役はわき役らしく<line-break>俺様伝説の片隅で<line-break>適当にやられているがいい！<end>"
+english = "Know your place as minor characters and get yourselves beaten somewhere in the margins of my legend!<end>"
+
+["330243"]
+japanese = "う…うう…頭が痛い…。<line-break>何が起こった…のだ。<end>"
+english = "Ugh... my head hurts... What happened?<end>"
+
+["330244"]
+japanese = "む！\u3000さすがは俺様！<line-break>いつの間にか悪漢フリントを<line-break>倒していたとは！！<line-break>やはり、愛と正義は勝つ！<line-break>俺様は、たとえ気を失っていても、<line-break>悪に敗れる男ではないのだ！<end>"
+english = "Aha! I never cease to amaze myself! To think I defeated that villain Flint without even realizing it! Love and justice always prevail! Even unconscious, I am not a man who can be vanquished by evil!<end>"
+
+["330245"]
+japanese = "旅立ち０６メッセージ終端<end>"
+english = "Departure 06 message end<end>"

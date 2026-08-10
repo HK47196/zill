@@ -1,0 +1,1025 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1660000"]
+japanese = "味方１人のＨＰを最大値の３０％回復<end>"
+english = "Restores one ally's ＨＰ by 30% of maximum ＨＰ.<end>"
+
+["1660001"]
+japanese = "味方１人のＨＰを最大値の５０％回復<end>"
+english = "Restores one ally's ＨＰ by 50% of max ＨＰ.<end>"
+
+["1660002"]
+japanese = "味方１人のＨＰを最大値まで回復<end>"
+english = "Restores one ally's ＨＰ to its maximum value.<end>"
+
+["1660003"]
+japanese = "味方１人のＭＰを最大値の３０％回復<end>"
+english = "Restores 30% of one ally's maximum ＭＰ.<end>"
+
+["1660004"]
+japanese = "味方１人のＭＰを最大値の５０％回復<end>"
+english = "Restores 50% of one ally's maximum ＭＰ.<end>"
+
+["1660005"]
+japanese = "味方１人のＭＰを最大値まで回復<end>"
+english = "Restores one ally's ＭＰ to maximum.<end>"
+
+["1660006"]
+japanese = "味方１人のＨＰとＭＰを最大値の５０％回復<end>"
+english = "Restores 50% of maximum ＨＰ and ＭＰ to one ally.<end>"
+
+["1660007"]
+japanese = "味方１人のＨＰとＭＰを最大値まで回復<end>"
+english = "Fully restores one ally's ＨＰ and ＭＰ.<end>"
+
+["1660008"]
+japanese = "呪い以外の異常状態を回復<end>"
+english = "Cures all status ailments except curse.<end>"
+
+["1660009"]
+japanese = "呪い状態を回復<end>"
+english = "Cures the curse status.<end>"
+
+["1660010"]
+japanese = "味方１人を戦闘不能から回復<end>"
+english = "Revives one incapacitated ally.<end>"
+
+["1660011"]
+japanese = "味方１人を戦闘不能から完全回復<end>"
+english = "Fully revives one incapacitated ally.<end>"
+
+["1660012"]
+japanese = "味方全員のＨＰを最大値の５０％回復<end>"
+english = "Restores all allies' ＨＰ by 50% of their maximum ＨＰ.<end>"
+
+["1660013"]
+japanese = "味方全員のＭＰを最大値の５０％回復<end>"
+english = "Restores 50% of maximum ＭＰ to all allies.<end>"
+
+["1660014"]
+japanese = "味方全員のＨＰとＭＰを完全回復<end>"
+english = "Fully restores ＨＰ and ＭＰ for all allies.<end>"
+
+["1660015"]
+japanese = "味方１人のＳＴＲを１～５ポイント上昇<end>"
+english = "Raises one ally's ＳＴＲ by 1-5 points.<end>"
+
+["1660016"]
+japanese = "味方１人のＶＩＴを１～５ポイント上昇<end>"
+english = "Raises one ally's ＶＩＴ by 1-5 points.<end>"
+
+["1660017"]
+japanese = "味方１人のＩＮＴを１～５ポイント上昇<end>"
+english = "Raises one ally's ＩＮＴ by 1-5 points.<end>"
+
+["1660018"]
+japanese = "味方１人のＭＩＮを１～５ポイント上昇<end>"
+english = "Raises one ally's ＭＩＮ by 1-5 points.<end>"
+
+["1660019"]
+japanese = "味方１人のＡＧＩを１～５ポイント上昇<end>"
+english = "Raises one ally's ＡＧＩ by 1 to 5 points.<end>"
+
+["1660020"]
+japanese = "味方１人のＤＥＸを１～５ポイント上昇<end>"
+english = "Raises one ally's ＤＥＸ by 1-5 points.<end>"
+
+["1660021"]
+japanese = "味方１人のＨＰの最大値が上昇<end>"
+english = "Raises one ally's maximum ＨＰ.<end>"
+
+["1660022"]
+japanese = "味方１人のＭＰの最大値が上昇<end>"
+english = "Raises one ally's maximum ＭＰ.<end>"
+
+["1660023"]
+japanese = "味方１人の火の精霊力を上昇<end>"
+english = "Increases one ally's fire spirit power.<end>"
+
+["1660024"]
+japanese = "敵１体に火属性攻撃<end>"
+english = "Deals Fire-element damage to one enemy.<end>"
+
+["1660025"]
+japanese = "敵全体に火属性攻撃<end>"
+english = "Deals Fire-element damage to all enemies.<end>"
+
+["1660026"]
+japanese = "味方１人の水の精霊力を上昇<end>"
+english = "Increases one ally's water spirit power.<end>"
+
+["1660027"]
+japanese = "敵１体に水属性攻撃<end>"
+english = "Deals Water-element damage to one enemy.<end>"
+
+["1660028"]
+japanese = "敵全体に水属性攻撃<end>"
+english = "A Water-element attack against all enemies.<end>"
+
+["1660029"]
+japanese = "味方１人の土の精霊力を上昇<end>"
+english = "Increases one ally's earth spirit power.<end>"
+
+["1660030"]
+japanese = "敵１体に土属性攻撃<end>"
+english = "Deals Earth-element damage to one enemy.<end>"
+
+["1660031"]
+japanese = "敵全体に土属性攻撃<end>"
+english = "Deals Earth-element damage to all enemies.<end>"
+
+["1660032"]
+japanese = "味方１人の風の精霊力を上昇<end>"
+english = "Increases one ally's Wind Spirit Power.<end>"
+
+["1660033"]
+japanese = "敵１体に風属性攻撃<end>"
+english = "Deals Wind-element damage to one enemy.<end>"
+
+["1660034"]
+japanese = "敵全体に風属性攻撃<end>"
+english = "Wind-element attack against all enemies<end>"
+
+["1660035"]
+japanese = "敵１体を毒状態にする<end>"
+english = "Inflicts Poison on one enemy<end>"
+
+["1660036"]
+japanese = "敵１体を石化状態にする<end>"
+english = "Inflicts Petrification on one enemy<end>"
+
+["1660037"]
+japanese = "味方１人のＳＴＲを戦闘の間２倍<end>"
+english = "Doubles one ally's ＳＴＲ for the duration of battle<end>"
+
+["1660038"]
+japanese = "味方１人のＩＮＴを戦闘の間２倍<end>"
+english = "Doubles one ally's ＩＮＴ for the duration of battle<end>"
+
+["1660039"]
+japanese = "敵１体に聖属性攻撃<end>"
+english = "Holy-element attack against one enemy<end>"
+
+["1660040"]
+japanese = "味方１人のＡＧＩを戦闘の間２倍<end>"
+english = "Doubles one ally's ＡＧＩ for the duration of battle<end>"
+
+["1660041"]
+japanese = "敵１体のＡＧＩを半分にする<end>"
+english = "Halves one enemy's ＡＧＩ<end>"
+
+["1660042"]
+japanese = "戦闘終了後の獲得経験値が２倍になる<end>"
+english = "Doubles the experience points earned after battle<end>"
+
+["1660043"]
+japanese = "戦闘終了後の獲得ギアが２倍になる<end>"
+english = "Doubles the Gea earned after battle<end>"
+
+["1660044"]
+japanese = "味方１人にバリアをはる<end>"
+english = "Creates a Barrier around one ally<end>"
+
+["1660045"]
+japanese = "味方１人に魔法バリアをはる<end>"
+english = "Creates a Magic Barrier around one ally<end>"
+
+["1660046"]
+japanese = "味方１人にバリア＆魔法バリアをはる<end>"
+english = "Creates a Barrier and a Magic Barrier around one ally<end>"
+
+["1660047"]
+japanese = "味方全員にバリア＆魔法バリアをはる<end>"
+english = "Creates a Barrier and a Magic Barrier around all allies<end>"
+
+["1660048"]
+japanese = "敵全体を眠り状態にする<end>"
+english = "Inflicts Sleep on all enemies<end>"
+
+["1660049"]
+japanese = "敵１体を眠り状態にする<end>"
+english = "Inflicts Sleep on one enemy<end>"
+
+["1660050"]
+japanese = "敵１体を沈黙状態にする<end>"
+english = "Inflicts Silence on one enemy<end>"
+
+["1660051"]
+japanese = "敵１体をマヒ状態にする<end>"
+english = "Inflicts Paralysis on one enemy<end>"
+
+["1660052"]
+japanese = "敵１体を石化状態にする<end>"
+english = "Inflicts Petrification on one enemy<end>"
+
+["1660053"]
+japanese = "敵全体を沈黙状態にする<end>"
+english = "Inflicts Silence on all enemies<end>"
+
+["1660054"]
+japanese = "敵全体を幻覚状態にする<end>"
+english = "Inflicts Hallucination on all enemies<end>"
+
+["1660055"]
+japanese = "敵全体を暗闇状態にする<end>"
+english = "Inflicts Blindness on all enemies<end>"
+
+["1660056"]
+japanese = "敵から一定時間見えなくなる<end>"
+english = "Become invisible to enemies for a limited time<end>"
+
+["1660057"]
+japanese = "武器に火属性を付加<end>"
+english = "Imbues a weapon with the Fire element<end>"
+
+["1660058"]
+japanese = "武器に水属性を付加<end>"
+english = "Imbues a weapon with the Water element<end>"
+
+["1660059"]
+japanese = "武器に土属性を付加<end>"
+english = "Imbues a weapon with the Earth element<end>"
+
+["1660060"]
+japanese = "武器に風属性を付加<end>"
+english = "Imbues a weapon with the Wind element<end>"
+
+["1660061"]
+japanese = "盾に火属性を付加<end>"
+english = "Imbues a shield with the Fire element<end>"
+
+["1660062"]
+japanese = "盾に水属性を付加<end>"
+english = "Imbues a shield with the Water element<end>"
+
+["1660063"]
+japanese = "盾に土属性を付加<end>"
+english = "Imbues a shield with the Earth element<end>"
+
+["1660064"]
+japanese = "盾に風属性を付加<end>"
+english = "Imbues a shield with the Wind element<end>"
+
+["1660065"]
+japanese = "鎧に火属性を付加<end>"
+english = "Imbues armor with the Fire element<end>"
+
+["1660066"]
+japanese = "鎧に水属性を付加<end>"
+english = "Imbues armor with the Water element<end>"
+
+["1660067"]
+japanese = "鎧に土属性を付加<end>"
+english = "Imbues armor with the Earth element<end>"
+
+["1660068"]
+japanese = "鎧に風属性を付加<end>"
+english = "Imbues armor with the Wind element<end>"
+
+["1660069"]
+japanese = "装備品を鍛えるために必要な材料<end>"
+english = "Material required to enhance equipment<end>"
+
+["1660070"]
+japanese = "味方全員のＳＴＲが１になる呪いの腕輪<end>"
+english = "A cursed bracelet that sets all allies' ＳＴＲ to 1<end>"
+
+["1660071"]
+japanese = "味方全員のＶＩＴが１になる毒草の根<end>"
+english = "A poisonous root that sets all allies' ＶＩＴ to 1<end>"
+
+["1660072"]
+japanese = "味方全員のＡＧＩが１になる重い枝<end>"
+english = "A heavy branch that sets all allies' ＡＧＩ to 1<end>"
+
+["1660073"]
+japanese = "味方全員のＡＧＩが１になる重い鉱石<end>"
+english = "A heavy ore that sets all allies' ＡＧＩ to 1<end>"
+
+["1660074"]
+japanese = "味方全員のＤＥＸが１になるくもの巣<end>"
+english = "A spiderweb that sets all allies' ＤＥＸ to 1<end>"
+
+["1660075"]
+japanese = "味方全員のＤＥＸが１になる重い砂鉄<end>"
+english = "Heavy iron sand that sets all allies' ＤＥＸ to 1<end>"
+
+["1660076"]
+japanese = "味方全員のＩＮＴが１になる迷惑な葉<end>"
+english = "A troublesome leaf that sets all allies' ＩＮＴ to 1<end>"
+
+["1660077"]
+japanese = "味方全員のＩＮＴが１になる不思議な香草<end>"
+english = "A mysterious herb that sets all allies' ＩＮＴ to 1<end>"
+
+["1660078"]
+japanese = "味方全員のＭＩＮが１になる古代の石<end>"
+english = "An ancient stone that sets all allies' ＭＩＮ to 1<end>"
+
+["1660079"]
+japanese = "戦闘中に、味方全員が幻覚状態になる草<end>"
+english = "Grass that inflicts Hallucination on all allies during battle<end>"
+
+["1660080"]
+japanese = "戦闘中に、味方全員が沈黙状態になる臭い果実<end>"
+english = "A foul-smelling fruit that inflicts Silence on all allies during battle<end>"
+
+["1660081"]
+japanese = "戦闘中に、味方全員が暗闇状態になる粉<end>"
+english = "Powder that inflicts Blindness on all allies during battle<end>"
+
+["1660082"]
+japanese = "戦闘中に、味方全員が幻覚状態になる壺<end>"
+english = "A pot that inflicts Hallucination on all allies during battle<end>"
+
+["1660083"]
+japanese = "味方全員が呪われる邪教の墨<end>"
+english = "Heretical ink that curses all allies<end>"
+
+["1660084"]
+japanese = "味方全員が呪われる亀の甲羅<end>"
+english = "A Turtle Shell that curses all allies<end>"
+
+["1660085"]
+japanese = "味方全員が呪われるイヤな杖<end>"
+english = "An unpleasant staff that curses all allies<end>"
+
+["1660086"]
+japanese = "味方全員が呪われる呪いの骨<end>"
+english = "A cursed bone that curses all allies<end>"
+
+["1660087"]
+japanese = "味方全員が呪われる恨みの目玉<end>"
+english = "A resentful eyeball that curses all allies<end>"
+
+["1660088"]
+japanese = "<end>"
+english = ""
+
+["1660089"]
+japanese = "<end>"
+english = ""
+
+["1660090"]
+japanese = "竜眼石を加工した首飾りで魔道王国時代の品<end>"
+english = "A Dragon-Eye Stone necklace dating from the age of the Sorcerous Kingdom.<end>"
+
+["1660091"]
+japanese = "魔法の砂のこぼれる音が優しい曲を奏でる<end>"
+english = "The sound of spilling magical sand plays a gentle melody.<end>"
+
+["1660092"]
+japanese = "背中に憤怒の顔が彫ってある巨大なスカラベ<end>"
+english = "A giant scarab with a furious face carved into its back.<end>"
+
+["1660093"]
+japanese = "神聖王ラムゼーが造らせたと伝えられる品<end>"
+english = "Said to have been commissioned by Sacred King Ramsay.<end>"
+
+["1660094"]
+japanese = "画聖ムッチーが七竜士の激しく戦う姿を描いた品<end>"
+english = "A work by Mucchi, the Painter Saint, depicting the Seven Dragon Warriors locked in fierce battle.<end>"
+
+["1660095"]
+japanese = "８世紀に天才彫刻家として活躍したケスコの作品<end>"
+english = "A work by Kesco, renowned as a brilliant sculptor in the eighth century.<end>"
+
+["1660096"]
+japanese = "詩聖レルラの愛用していたハープ<end>"
+english = "A harp once cherished by Relra, the Poet Saint.<end>"
+
+["1660097"]
+japanese = "ドワーフの大洞窟建造に使われたつるはし<end>"
+english = "A pickaxe used to build the great Dwarf cavern.<end>"
+
+["1660098"]
+japanese = "人を優しい気持ちにさせる不思議な香をだす香水<end>"
+english = "Perfume with a mysterious fragrance that puts people in a gentle frame of mind.<end>"
+
+["1660099"]
+japanese = "ドワーフの名工ガリが最初に造った１ギアコイン<end>"
+english = "The first one-Gea coin made by Gari, a master Dwarf craftsman.<end>"
+
+["1660100"]
+japanese = "初代神聖王ナザールの即位の言葉が記された石板<end>"
+english = "A stone tablet inscribed with the inaugural words of Nazar, the first Sacred King.<end>"
+
+["1660101"]
+japanese = "大魔道士レオニックの恥ずかしい日記<end>"
+english = "Archmage Leonic's embarrassing diary.<end>"
+
+["1660102"]
+japanese = "軍隊を維持するために必要な資金<end>"
+english = "Funds needed to maintain an army.<end>"
+
+["1660103"]
+japanese = "ギルドの運営に使用されるはずのお金<end>"
+english = "Money that was supposed to fund the Guild's operations.<end>"
+
+["1660104"]
+japanese = "ギルドマスターがお互いに交わす手紙<end>"
+english = "Correspondence exchanged between Guild Masters.<end>"
+
+["1660105"]
+japanese = "幸せな音色を出す魔法のリュート<end>"
+english = "A magical lute that produces joyful notes.<end>"
+
+["1660106"]
+japanese = "女神像が彫られた豪華な縦笛<end>"
+english = "An ornate end-blown flute carved with the figure of a goddess.<end>"
+
+["1660107"]
+japanese = "他人に知られたくない秘密が書かれている<end>"
+english = "It contains a secret not meant for anyone else to know.<end>"
+
+["1660108"]
+japanese = "硬くて美しい上に、産出量の少ない鉱石<end>"
+english = "A hard, beautiful ore found only in small quantities.<end>"
+
+["1660109"]
+japanese = "商品などを売った金<end>"
+english = "Money earned from selling goods and other items.<end>"
+
+["1660110"]
+japanese = "風の精霊力の吹きだまりにできる結晶<end>"
+english = "A crystal formed where the power of wind spirits gathers.<end>"
+
+["1660111"]
+japanese = "高くて風通しのよい地形にすむ風旅鳥の羽<end>"
+english = "A Windfarer Feather from a bird that inhabits high, windswept terrain.<end>"
+
+["1660112"]
+japanese = "海に近い岩場の間からでる水<end>"
+english = "Water that flows from between rocks near the sea.<end>"
+
+["1660113"]
+japanese = "日の当たらない森の木陰に生えるキノコ<end>"
+english = "A mushroom that grows in the sunless shade of a forest.<end>"
+
+["1660114"]
+japanese = "光の加減で様々な色をうつす宝石<end>"
+english = "A gem that displays different colors as the light changes.<end>"
+
+["1660115"]
+japanese = "土の精霊力の吹きだまりにできる結晶<end>"
+english = "A crystal formed where the power of earth spirits gathers.<end>"
+
+["1660116"]
+japanese = "熱冷ましの効能があるコケ<end>"
+english = "Moss with fever-reducing properties.<end>"
+
+["1660117"]
+japanese = "断面が鏡のように景色を反射する岩<end>"
+english = "A rock whose cut surface reflects the scenery like a mirror.<end>"
+
+["1660118"]
+japanese = "精霊力の大きい地に見られる七色に輝く砂<end>"
+english = "Sand that gleams in seven colors, found in places rich in spirit power.<end>"
+
+["1660119"]
+japanese = "緑が多い山中の岩の間から湧き出る水<end>"
+english = "Water that springs from between rocks in verdant mountains.<end>"
+
+["1660120"]
+japanese = "蒼い花が美しい花<end>"
+english = "A flower with beautiful blue blossoms.<end>"
+
+["1660121"]
+japanese = "火山に生える多年草の種<end>"
+english = "Seeds from a perennial that grows on volcanoes.<end>"
+
+["1660122"]
+japanese = "聖光石の鉱脈に落ちているかけら<end>"
+english = "A fragment found in a vein of Holy Light Stone.<end>"
+
+["1660123"]
+japanese = "炎竜山にある炎属性の岩石<end>"
+english = "A Fire-element rock from Flame Dragon Mountain.<end>"
+
+["1660124"]
+japanese = "強い風の吹く崖に生える風桜の実<end>"
+english = "Windcherry Fruit from a cliff battered by strong winds.<end>"
+
+["1660125"]
+japanese = "高い丘の上にある穴だらけで風を通す岩<end>"
+english = "A porous rock found atop high hills, with wind passing through its many holes.<end>"
+
+["1660126"]
+japanese = "闇のように真っ黒な花<end>"
+english = "A flower as black as darkness.<end>"
+
+["1660127"]
+japanese = "他人に送る通信文<end>"
+english = "A written message sent to another person.<end>"
+
+["1660128"]
+japanese = "首領から部下への指令書<end>"
+english = "Orders from a leader to a subordinate.<end>"
+
+["1660129"]
+japanese = "金の塊<end>"
+english = "A lump of gold.<end>"
+
+["1660130"]
+japanese = "貴金属や宝石で装飾された剣<end>"
+english = "A sword adorned with precious metals and gemstones.<end>"
+
+["1660131"]
+japanese = "古美術として珍重される品物<end>"
+english = "An item prized as an antique work of art.<end>"
+
+["1660132"]
+japanese = "名画伯ムッチーの描いた絵<end>"
+english = "A painting by the celebrated artist Mucchi.<end>"
+
+["1660133"]
+japanese = "神の教えを書いた本<end>"
+english = "A book containing the teachings of a god.<end>"
+
+["1660134"]
+japanese = "神々の姿を模した彫像<end>"
+english = "A statue made in the likeness of the gods.<end>"
+
+["1660135"]
+japanese = "水の精霊神アキュリュースの像<end>"
+english = "A statue of Aqyurius, the spirit god of water.<end>"
+
+["1660136"]
+japanese = "風の精霊神プレシオーネの像<end>"
+english = "A statue of Pressione, the spirit god of wind.<end>"
+
+["1660137"]
+japanese = "火の精霊神ウルカーンの像<end>"
+english = "A statue of Urkaan, the spirit god of fire.<end>"
+
+["1660138"]
+japanese = "魔道について研究した結果の記された書<end>"
+english = "A book recording the findings of research into sorcery.<end>"
+
+["1660139"]
+japanese = "市長の書いた嘆願書<end>"
+english = "A petition written by the mayor.<end>"
+
+["1660140"]
+japanese = "与えられた任務の結果を述べた書<end>"
+english = "A written report on the outcome of an assigned mission.<end>"
+
+["1660141"]
+japanese = "お祝いに送る品<end>"
+english = "A gift sent in celebration.<end>"
+
+["1660142"]
+japanese = "鍛冶の名人ゲンジーの鍛えた金槌<end>"
+english = "A hammer forged by Genji, a master blacksmith.<end>"
+
+["1660143"]
+japanese = "香りも豊かな５０年物のワイン<end>"
+english = "A richly aromatic wine aged for fifty years.<end>"
+
+["1660144"]
+japanese = "毒に反応する銀で造られたグラス<end>"
+english = "A silver goblet that reacts to poison.<end>"
+
+["1660145"]
+japanese = "お客様に頼まれた大事な荷物<end>"
+english = "Important cargo entrusted by a customer.<end>"
+
+["1660146"]
+japanese = "今度行われる集会の案内状<end>"
+english = "An Invitation to an upcoming gathering.<end>"
+
+["1660147"]
+japanese = "リベルダムの大商人フゴーへ宛てた手紙<end>"
+english = "A letter addressed to Hugo, a wealthy merchant of Liberdam.<end>"
+
+["1660148"]
+japanese = "村の唯一の特産物<end>"
+english = "The village's only specialty product.<end>"
+
+["1660149"]
+japanese = "怪しい薬を調合するのに使う試験管<end>"
+english = "A test tube used to concoct suspicious medicines.<end>"
+
+["1660150"]
+japanese = "七色に輝く貝殻で中身はまずい<end>"
+english = "A shell that gleams in seven colors, though its contents taste awful.<end>"
+
+["1660151"]
+japanese = "薬を入れておく瓶<end>"
+english = "A bottle for storing medicine.<end>"
+
+["1660152"]
+japanese = "混じりっけなしの鉱石<end>"
+english = "Ore free of impurities.<end>"
+
+["1660153"]
+japanese = "各地の特産品をまとめたお得な品<end>"
+english = "A bargain assortment of Regional Specialties.<end>"
+
+["1660154"]
+japanese = "楽曲を一定の記号で書き表したもの<end>"
+english = "Music written in a standardized system of notation.<end>"
+
+["1660155"]
+japanese = "村長が書いた手紙<end>"
+english = "A letter written by the village chief.<end>"
+
+["1660156"]
+japanese = "プレゼント<end>"
+english = "A present.<end>"
+
+["1660157"]
+japanese = "儀礼用に豪華な装飾がされた盾<end>"
+english = "An opulently decorated ceremonial shield.<end>"
+
+["1660158"]
+japanese = "マノンの腕輪の模造品<end>"
+english = "An imitation of Manon's Bracelet.<end>"
+
+["1660159"]
+japanese = "特殊な保存方法でないと気化する魔法の宝石<end>"
+english = "A magical gem that vaporizes unless stored under special conditions.<end>"
+
+["1660160"]
+japanese = "盗賊砦の門を開ける鍵<end>"
+english = "A key that opens the gate of the bandits' fortress.<end>"
+
+["1660161"]
+japanese = "ボンガへの愛がこもった弁当<end>"
+english = "A boxed lunch made with love for Bonga.<end>"
+
+["1660162"]
+japanese = "ボンガが全部食べてしまった<end>"
+english = "Bonga ate every last bite.<end>"
+
+["1660163"]
+japanese = "タダでもらった薬草<end>"
+english = "A Medicinal Herb received for free.<end>"
+
+["1660164"]
+japanese = "何が書かれているかは秘密<end>"
+english = "What it says is a secret.<end>"
+
+["1660165"]
+japanese = "ラスラルの花<end>"
+english = "A Lasral Flower.<end>"
+
+["1660166"]
+japanese = "賢者ノクサの赤い宝石<end>"
+english = "The red gem of the sage Noxa.<end>"
+
+["1660167"]
+japanese = "賢者ノクサの青い宝石<end>"
+english = "The blue gem of the sage Noxa.<end>"
+
+["1660168"]
+japanese = "賢者ノクサの黄色い宝石<end>"
+english = "The yellow gem of the sage Noxa.<end>"
+
+["1660169"]
+japanese = "賢者ノクサの緑の宝石<end>"
+english = "The Green Gem of the sage Noxa.<end>"
+
+["1660170"]
+japanese = "賢者ノクサの黒い宝石<end>"
+english = "The black gem of the sage Noxa.<end>"
+
+["1660171"]
+japanese = "賢者ノクサの白い宝石<end>"
+english = "The white gem of the sage Noxa.<end>"
+
+["1660172"]
+japanese = "闇の神器\u3000心を闇に落とす代わりに力を与える<end>"
+english = "A Dark Divine Artifact that grants power at the cost of plunging the heart into darkness.<end>"
+
+["1660173"]
+japanese = "闇の神器\u3000古代の強力な魔道器<end>"
+english = "A Dark Divine Artifact: a powerful sorcerous device from ancient times.<end>"
+
+["1660174"]
+japanese = "名工カッツが遺した緋炎の宝剣の元となる剣<end>"
+english = "A sword left by the master craftsman Katz that serves as the basis for the Crimson Flame Sword.<end>"
+
+["1660175"]
+japanese = "ハンナのおばあちゃんの形見<end>"
+english = "A keepsake from Hannah's grandmother.<end>"
+
+["1660176"]
+japanese = "エステルの首飾りと引き合う不思議な水晶<end>"
+english = "A mysterious crystal drawn to Esther's necklace.<end>"
+
+["1660177"]
+japanese = "装飾品としての短剣\u3000戦闘には使えない<end>"
+english = "An ornamental dagger that cannot be used in combat.<end>"
+
+["1660178"]
+japanese = "言葉を話せるゴブリンの１人で一番弱い<end>"
+english = "The weakest of the Goblins capable of speech.<end>"
+
+["1660179"]
+japanese = "厳重にロウで密封された羊皮紙<end>"
+english = "A sheet of parchment sealed securely with wax.<end>"
+
+["1660180"]
+japanese = "エステルが身につけている首飾り<end>"
+english = "The necklace Esther is wearing.<end>"
+
+["1660181"]
+japanese = "孤児を収容してくれるようカルラに頼んだ手紙<end>"
+english = "A letter asking Karula to provide shelter for orphaned children.<end>"
+
+["1660182"]
+japanese = "たまりにたまったオッシの酒代<end>"
+english = "Ossi's Bar Tab, accumulated over far too long.<end>"
+
+["1660183"]
+japanese = "鍵の部分が十字になっている赤い鍵<end>"
+english = "A red key with a cross-shaped bit.<end>"
+
+["1660184"]
+japanese = "銀で装飾を施した円盤<end>"
+english = "A disc decorated with silver.<end>"
+
+["1660185"]
+japanese = "ロッシマの愛用した盗人七つ道具<end>"
+english = "Rossima's cherished set of seven thieves' tools.<end>"
+
+["1660186"]
+japanese = "人魚のうろこで造ったイヤリング<end>"
+english = "Earrings made from mermaid scales.<end>"
+
+["1660187"]
+japanese = "古代に造られたという魔法の宝石<end>"
+english = "A magical gem said to have been made in ancient times.<end>"
+
+["1660188"]
+japanese = "エルアザルの洞窟で手に入れた妖しい像<end>"
+english = "An eerie statue found in Elazar's Cave.<end>"
+
+["1660189"]
+japanese = "ロストール王家の紋章をかたどった首飾り<end>"
+english = "A necklace shaped like the crest of the Rostorl Royal House.<end>"
+
+["1660190"]
+japanese = "豪商ロティ・クロイス宛ての届けもの<end>"
+english = "A delivery addressed to the wealthy merchant Roti Crois.<end>"
+
+["1660191"]
+japanese = "闇の神器\u3000持つ者に無限の知恵を与える<end>"
+english = "A Dark Divine Artifact that grants its bearer infinite wisdom.<end>"
+
+["1660192"]
+japanese = "闇の神器\u3000持つ者に無限の魔力を与える<end>"
+english = "A Dark Divine Artifact that grants its bearer infinite magical power.<end>"
+
+["1660193"]
+japanese = "闇の神器\u3000持つ者を怒りと狂気へとみちびく<end>"
+english = "A Dark Divine Artifact that leads its bearer into rage and madness.<end>"
+
+["1660194"]
+japanese = "闇の神器\u3000持つ者の魂を食らい欲望をかなえる<end>"
+english = "A Dark Divine Artifact that devours its bearer's soul and fulfills the bearer's desires.<end>"
+
+["1660195"]
+japanese = "闇の神器\u3000記憶と引き換えに能力を高める<end>"
+english = "A Dark Divine Artifact that enhances its bearer's abilities in exchange for memories.<end>"
+
+["1660196"]
+japanese = "クリュセイスから託された手紙\u3000内容は不明<end>"
+english = "A letter entrusted by Khryuseis. Its contents are unknown.<end>"
+
+["1660197"]
+japanese = "眠りから覚めると強制的に転移する呪いの羽<end>"
+english = "A cursed feather that triggers a forced teleport upon awakening from Sleep.<end>"
+
+["1660198"]
+japanese = "処刑寸前のゼネテスが書いた手紙<end>"
+english = "A letter written by Xenetes moments before his execution.<end>"
+
+["1660199"]
+japanese = "闇の神器\u3000標的と使用者を消し去ってしまう<end>"
+english = "A Dark Divine Artifact that erases both its target and its user.<end>"
+
+["1660200"]
+japanese = "闇の神器\u3000持つ者の欲望をかなえる<end>"
+english = "A Dark Divine Artifact that fulfills its bearer's desires.<end>"
+
+["1660201"]
+japanese = "離れた場所にいても会話できる太古の遺物<end>"
+english = "An ancient relic that allows conversation from separate locations.<end>"
+
+["1660202"]
+japanese = "城塞都市跡の噂<end>"
+english = "Rumors of the Fortress City Ruins<end>"
+
+["1660203"]
+japanese = "ネメア救出<end>"
+english = "Rescue Nemea<end>"
+
+["1660204"]
+japanese = "アンギルダンの合い言葉<end>"
+english = "Angeerdan's Password<end>"
+
+["1660205"]
+japanese = "ゴブリン３匹はどこへ？<end>"
+english = "Where Did the Three Goblins Go?<end>"
+
+["1660206"]
+japanese = "禁断の聖杯<end>"
+english = "Forbidden Grail<end>"
+
+["1660207"]
+japanese = "ゴブリン３匹はどこへ？<end>"
+english = "Where Did the Three Goblins Go?<end>"
+
+["1660208"]
+japanese = "禁断の聖杯<end>"
+english = "Forbidden Grail<end>"
+
+["1660209"]
+japanese = "猫屋敷<end>"
+english = "Cat Manor<end>"
+
+["1660210"]
+japanese = "猫屋敷<end>"
+english = "Cat Manor<end>"
+
+["1660211"]
+japanese = "意見を聞くって何？<end>"
+english = "What Does “Get Advice” Mean?<end>"
+
+["1660212"]
+japanese = "オズワルドの調査<end>"
+english = "Oswald Investigation<end>"
+
+["1660213"]
+japanese = "オズワルドの調査<end>"
+english = "Oswald Investigation<end>"
+
+["1660214"]
+japanese = "どこの傭兵だったかな？<end>"
+english = "Where Was That Mercenary From?<end>"
+
+["1660215"]
+japanese = "どこの傭兵だったかな？<end>"
+english = "Where Was That Mercenary From?<end>"
+
+["1660216"]
+japanese = "アキュリュースの傭兵？<end>"
+english = "Mercenary Affiliation: Aculius?<end>"
+
+["1660217"]
+japanese = "色惑の瞳<end>"
+english = "Eyes of Seduction<end>"
+
+["1660218"]
+japanese = "死竜の洞窟探索<end>"
+english = "Explore the Dead Dragon Cave<end>"
+
+["1660219"]
+japanese = "ガルドランの居場所<end>"
+english = "Girldlan's Whereabouts<end>"
+
+["1660220"]
+japanese = "名指しの依頼<end>"
+english = "A Request by Name<end>"
+
+["1660221"]
+japanese = "どうしようか？<end>"
+english = "What to Do?<end>"
+
+["1660222"]
+japanese = "実力をつけるには？<end>"
+english = "How to Get Stronger?<end>"
+
+["1660223"]
+japanese = "アンギルダンの手紙<end>"
+english = "Angeerdan's Letter<end>"
+
+["1660224"]
+japanese = "ガルドランはどこへ？<end>"
+english = "Where Did Girldlan Go?<end>"
+
+["1660225"]
+japanese = "どこの傭兵だったかな？<end>"
+english = "Where Was That Mercenary From?<end>"
+
+["1660226"]
+japanese = "怪物退治の依頼<end>"
+english = "Monster-Slaying Request<end>"
+
+["1660227"]
+japanese = "女魔道士のお願い<end>"
+english = "A Sorceress's Request<end>"
+
+["1660228"]
+japanese = "ものすごい獣退治の依頼<end>"
+english = "Request to Slay a Formidable Beast<end>"
+
+["1660229"]
+japanese = "火山岩地帯の魔物退治<end>"
+english = "Monster Hunt: Volcanic Rock Zone<end>"
+
+["1660230"]
+japanese = "仇討ちの依頼<end>"
+english = "A Request for Vengeance<end>"
+
+["1660231"]
+japanese = "紺碧の洞窟の怪物退治<end>"
+english = "Monster Hunt in Azure Cave<end>"
+
+["1660232"]
+japanese = "鳳凰探索依頼<end>"
+english = "Request to Find the Phoenix<end>"
+
+["1660233"]
+japanese = "首飾り探し<end>"
+english = "Find the Necklace<end>"
+
+["1660234"]
+japanese = "クロイス邸へのお届け物<end>"
+english = "A Delivery to the Krois Residence<end>"
+
+["1660235"]
+japanese = "ハンナの人形<end>"
+english = "Hannah's Doll<end>"
+
+["1660236"]
+japanese = "１個目の闇の神器<end>"
+english = "The First Dark Artifact<end>"
+
+["1660237"]
+japanese = "２個目の闇の神器<end>"
+english = "The Second Dark Artifact<end>"
+
+["1660238"]
+japanese = "３個目の闇の神器<end>"
+english = "The Third Dark Artifact<end>"
+
+["1660239"]
+japanese = "密書の配達<end>"
+english = "Deliver the Secret Letter<end>"
+
+["1660240"]
+japanese = "密書の配達<end>"
+english = "Deliver the Secret Letter<end>"
+
+["1660241"]
+japanese = "密書の配達<end>"
+english = "Deliver the Secret Letter<end>"
+
+["1660242"]
+japanese = "邪竜の断層へ<end>"
+english = "To the Evil Dragon Rift<end>"
+
+["1660243"]
+japanese = "古の樹海へ<end>"
+english = "To the Ancient Forest<end>"
+
+["1660244"]
+japanese = "ザギヴの手紙<end>"
+english = "Zagiv's Letter<end>"
+
+["1660245"]
+japanese = "ゼネテス救出に向かう<end>"
+english = "Set Out to Rescue Xenetes<end>"
+
+["1660246"]
+japanese = "ゾフォルを倒しにいく<end>"
+english = "Go Defeat Zophor<end>"
+
+["1660247"]
+japanese = "ベルゼーヴァ襲撃<end>"
+english = "Attack on Beelzeva<end>"
+
+["1660248"]
+japanese = "コーンスの反乱<end>"
+english = "Corns Rebellion<end>"
+
+["1660249"]
+japanese = "コーンスの反乱<end>"
+english = "Corns Rebellion<end>"
+
+["1660250"]
+japanese = "コーンスの反乱<end>"
+english = "Corns Rebellion<end>"
+
+["1660251"]
+japanese = "ベルゼーヴァの居場所<end>"
+english = "Beelzeva's Whereabouts<end>"
+
+["1660252"]
+japanese = "ベルゼーヴァの居場所<end>"
+english = "Beelzeva's Whereabouts<end>"
+
+["1660253"]
+japanese = "聖座の夢<end>"
+english = "The Holy See's Dream<end>"
+
+["1660254"]
+japanese = "エルファス神になる<end>"
+english = "Become God Elfas<end>"
+
+["1660255"]
+japanese = "ほほに傷のある男<end>"
+english = "The Man with a Scar on His Cheek<end>"

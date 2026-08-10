@@ -1,0 +1,113 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1290000"]
+japanese = "おかげ様で無事着くことができました。<line-break>これが報酬です。ありがとう。<end>"
+english = "Thanks to you, I arrived safely. Here's your reward. Thank you.<end>"
+
+["1290001"]
+japanese = "おかげ様で命拾いしました。<line-break>これが報酬です。ありがとう。<end>"
+english = "You saved my life. Here's your reward. Thank you.<end>"
+
+["1290002"]
+japanese = "ご苦労様。<line-break>これが報酬だよ。<end>"
+english = "Good work. Here's your reward.<end>"
+
+["1290003"]
+japanese = "それでは、さようなら。<line-break>お元気で。<end>"
+english = "Well then, goodbye. Take care.<end>"
+
+["1290004"]
+japanese = "配達ご苦労様。<line-break>これが報酬だよ。<end>"
+english = "Good work on the delivery. Here's your reward.<end>"
+
+["1290005"]
+japanese = "よく無事に戻ってこられたな。\u3000\u3000<line-break>本当にご苦労様。<line-break><line-break>さあ、これが怪物退治の報酬だ。<line-break>受け取ってくれ。<end>"
+english = "I'm glad you made it back safely. You did well. Now, here's your reward for defeating the monster. Take it.<end>"
+
+["1290006"]
+japanese = "おっ！\u3000お帰り。<line-break>その表情からすると首尾は上々のようだな。<line-break>どれどれ………。<line-break>うん、確かに依頼の品だ。<line-break>じゃあ、この品物と引き換えに、<line-break>報酬を受け取ってくれ。<end>"
+english = "Oh! Welcome back. Judging by that look on your face, it seems things went well. Let's see... Yes, this is definitely the item we requested. In exchange for it, take your reward.<end>"
+
+["1290007"]
+japanese = "次は期限を守ってくれよ。<end>"
+english = "Next time, make sure you meet the deadline.<end>"
+
+["1290008"]
+japanese = "やっとついた………。<line-break>期限がすぎてしまったので<line-break>報酬は半分です。<end>"
+english = "Made it at last... But the deadline has passed, so the reward is only half.<end>"
+
+["1290009"]
+japanese = "それでは…、さようなら。<end>"
+english = "Well then... Goodbye.<end>"
+
+["1290010"]
+japanese = "あんたに護衛してもらいたいのは<line-break>こちらの方だ。<end>"
+english = "This is the person we'd like you to escort.<end>"
+
+["1290011"]
+japanese = "長い道のりですが、<line-break>よろしくお願いします。<end>"
+english = "It's a long journey, but I hope I can count on you.<end>"
+
+["1290012"]
+japanese = "あなたがたは…、<line-break>助けに来てくれたのですね。<line-break><line-break>わたしを近くの街まで<line-break>連れて帰ってください。<end>"
+english = "You... you've come to help me, haven't you? Please take me back to a nearby town.<end>"
+
+["1290013"]
+japanese = "道中、危険なモンスターや賊どもに<line-break>遭遇することもある、十分に気をつけてくれ。<line-break><line-break>お客さんを戦闘にまきこまないよう、<line-break>くれぐれも慎重に行動してくれよ。<end>"
+english = "You may encounter dangerous monsters or bandits along the way, so keep your wits about you. Above all, be careful not to let the client get caught up in any fighting.<end>"
+
+["1290014"]
+japanese = "よお、<value:$28>。<line-break>ちょうどいいところに来てくれた。<line-break><line-break>実はな、お前さんを見込んで<line-break>ひとつ頼みがあるんだ。<end>"
+english = "Hey, <value:$28>. You've come at just the right time. There's something I'd like to ask of you. I think you're just the person for the job.<end>"
+
+["1290015"]
+japanese = "<if><value:$3C><equal>1やあ、あんた。<line-break>仕事を探してるんだろ。\u3000<line-break><line-break>実はな、お前さんを<line-break>腕のいい冒険者と見込んで<line-break>ひとつ頼みがあるんだ。<end>やあ、あんたたち。<line-break>仕事を探してるんだろ。\u3000<line-break><line-break>実はな、お前さんたちを<line-break>腕のいい冒険者と見込んで<line-break>ひとつ頼みがあるんだ。<end>"
+english = "<if><value:$3C><equal>1Hello there. You're looking for work, aren't you? As it happens, I have a favor to ask. You strike me as a capable adventurer.<end>Hello there. You're looking for work, aren't you? As it happens, I have a favor to ask. You strike me as capable adventurers.<end>"
+
+["1290016"]
+japanese = "数日前から<value:$15>が<line-break><value:$17>の辺りで行方知れずになっていて<line-break>捜索願いが出ているんだ。<line-break>依頼主は<value:$16>。<line-break>成功報酬は<value:$1A>ギア。<line-break>タイムリミットは今日から<value:$1B>日間だ。<end>"
+english = "<value:$15> went missing near <value:$17> several days ago, and a search request has been filed. Client: <value:$16>. Reward upon success: <value:$1A> Gea. Deadline: <value:$1B> days from today.<end>"
+
+["1290017"]
+japanese = "どうだ、やってくれるかい？<end>"
+english = "So, will you do it?<end>"
+
+["1290018"]
+japanese = "そうこなくっちゃ！<line-break>人の命がかかってるんだ。<line-break>期日厳守で頼んだよ。<end>"
+english = "That's what I wanted to hear! Human life is at stake, so make sure you meet the deadline.<end>"
+
+["1290019"]
+japanese = "そうか…、残念だが仕方ない。<line-break>また今度、別の機会があったら<line-break>その時は頼むよ。<end>"
+english = "I see... That's a shame, but so be it. If another opportunity comes up, I'll ask you again.<end>"
+
+["1290020"]
+japanese = "<value:$1A>ギアを手に入れた。<end>"
+english = "<value:$1A> Gea obtained.<end>"
+
+["1290021"]
+japanese = "経験値を<value:$1A>獲得した。<end>"
+english = ""
+
+["1290022"]
+japanese = "スキルポイントを<value:$1A>獲得した。<end>"
+english = ""
+
+["1290023"]
+japanese = "<if><value:$1A><equal>%0<value:$15>を手に入れた。<end><value:$15>を<value:$1A>個手に入れた。<end>"
+english = "<if><value:$1A><equal>%0<value:$15> obtained.<end><value:$15> ×<value:$1A> obtained.<end>"
+
+["1290024"]
+japanese = "<value:$15>は<value:$16>のスキルを<line-break>習得した。<end>"
+english = "<value:$15> learned the <value:$16> skill.<end>"
+
+["1290025"]
+japanese = "あんた、冒険者登録がまだだね。<line-break>登録が済んでから、また来ておくれ。<end>"
+english = "You haven't registered as an adventurer yet. Come back once you've done that.<end>"
+
+["1290026"]
+japanese = "襲撃だーっ！<line-break>あんた、冒険者だったよな。<line-break>やつらを退治してくれ、頼んだぞ！<end>"
+english = "We're under attack! You're an adventurer, aren't you? Take them out―I'm counting on you!<end>"
+
+["1290027"]
+japanese = "クエスト・汎用メッセージファイル終端<end>"
+english = ""

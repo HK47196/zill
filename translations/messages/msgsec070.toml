@@ -1,0 +1,1169 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["700000"]
+japanese = "アーギルシャイアメッセージVOL1-2開始<end>"
+english = ""
+
+["700001"]
+japanese = "よ。もしかして\u3000\u3000\u3000\u3000<line-break>ご同業？<line-break>闇の怪物を退治しに来たのかい？<end>"
+english = "Hey. You in the same line of work? Come to take down the dark monster?<end>"
+
+["700002"]
+japanese = "やっぱ、そうか。<line-break>だが、奴の相手は、少しばかし<line-break>きついかもしんないぜ？<end>"
+english = "Thought so. But that thing might be a little tough to handle.<end>"
+
+["700003"]
+japanese = "で、どうだい？<line-break>俺でよければ<line-break>手伝わしてくれないか？<end>"
+english = "So, what do you say? If you'll have me, mind letting me help?<end>"
+
+["700004"]
+japanese = "別に報酬はいらない。俺は好きで<line-break>こうしてうろついてるだけだからな。<line-break>ま、悪い話じゃないと思うぜ？<end>"
+english = "I don't need paying. I roam around like this because I enjoy it. Not a bad offer, is it?<end>"
+
+["700005"]
+japanese = "手伝ってもらう<end>"
+english = "Accept the help<end>"
+
+["700006"]
+japanese = "手伝ってもらわない<end>"
+english = "Decline the help<end>"
+
+["700007"]
+japanese = "素直だねえ。<line-break>素直なのはいいことだ。<line-break>\u3000<line-break>んじゃ、自己紹介だ。<line-break>俺はゼネテス。<line-break>お前さんは？<end>"
+english = "Straightforward, aren't you? That's a good quality. Well, introductions, then. I'm Xenetes. And you are?<end>"
+
+["700008"]
+japanese = "<value:$28>、ね。<line-break>よろしく、<value:$28>。<end>"
+english = "<value:$28>, huh? Good to meet you, <value:$28>.<end>"
+
+["700009"]
+japanese = "他人の手は借りないってわけだ。<line-break>勇敢だねえ。<end>"
+english = "So you won't accept anyone's help. Very brave.<end>"
+
+["700010"]
+japanese = "その勇敢なる勇者様の<line-break>お名前が聞きたいんだが？<end>"
+english = "And what might the name of our brave hero be?<end>"
+
+["700011"]
+japanese = "<value:$28>、ね。<line-break>カッコいいじゃない。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>俺はゼネテスっていうんだ。<line-break>それじゃ、ま、がんばってな。<end>"
+english = "<value:$28>, huh? Nice name. I'm Xenetes. Well, good luck out there.<end>"
+
+["700012"]
+japanese = "おう、<value:$28>。<line-break>久しぶり。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>しっかし、あのときはまいったぜ。<line-break>いきなり金持って姿消すんだからな。\u3000<line-break>俺は酒場で待ちぼうけだ。<end>"
+english = ""
+
+["700013"]
+japanese = "んで、ま、さよならさせてもらった。\u3000<line-break>お前さんとは一緒に冒険できない<line-break>感じがしたんでな。悪いな。<line-break>今日はこの奥にいる闇の怪物退治かい？<line-break>余計なお節介かもしれないが<line-break>強いぜ、あの怪物は。<end>"
+english = ""
+
+["700014"]
+japanese = "なんだ、あんたか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>また会ったな。<line-break>\u3000<line-break>今日はこの奥の怪物退治かい？<line-break>余計なお節介かもしれないが<line-break>強いぜ、あの怪物は。<end>"
+english = "Oh, it's you again. Are you here to take down the monster farther in today? Maybe it's none of my business, but that thing's strong.<end>"
+
+["700015"]
+japanese = "俺でよければ、<line-break>お手伝いさせてもらうが、<line-break>どうだい、<value:$28>？<end>"
+english = "If you'll have me, I'd be glad to help. What do you say, <value:$28>?<end>"
+
+["700016"]
+japanese = "手伝ってもらう<end>"
+english = "Accept the help<end>"
+
+["700017"]
+japanese = "お前の手は借りない<end>"
+english = "I won't accept your help<end>"
+
+["700018"]
+japanese = "んじゃ、一緒に行こうか。<line-break><value:$28>。<end>"
+english = "Then let's go together, <value:$28>.<end>"
+
+["700019"]
+japanese = "そうかい。<line-break>お節介なことを言って悪かったな。<end>"
+english = "All right. Sorry for meddling.<end>"
+
+["700020"]
+japanese = "おう、<value:$28>。<line-break>奇遇だな。こんな所で。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>俺も暇だったから、ちょっと<line-break>冒険をしていたのさ。<line-break>この奥にいる怪物が仕事か？<end>"
+english = "Hey, <value:$28>. Fancy meeting you in a place like this. I was bored, so I've been doing a little adventuring myself. Is the monster farther in your job?<end>"
+
+["700021"]
+japanese = "そうか、だったら俺もお手伝い<line-break>させてもらおうかな？<line-break>どうだい、<value:$28>？<end>"
+english = "In that case, maybe I'll lend a hand. What do you say, <value:$28>?<end>"
+
+["700022"]
+japanese = "よしきた。<line-break>それじゃ、しばらく一緒に頼むぜ。<end>"
+english = "That's what I wanted to hear. Looks like we'll be partners for a while.<end>"
+
+["700023"]
+japanese = "よう、<value:$28>。<line-break>この奥にいる怪物が仕事か？<end>"
+english = "Hey, <value:$28>. Is the monster farther in your job?<end>"
+
+["700024"]
+japanese = "やっぱそうか。だったら俺も<line-break>手伝いに入らせてもらおうかな？<line-break>どうだい、<value:$28>？<end>"
+english = "Thought so. In that case, maybe I'll join in and lend a hand. What do you say, <value:$28>?<end>"
+
+["700025"]
+japanese = "手伝ってもらう<end>"
+english = "Accept the help<end>"
+
+["700026"]
+japanese = "手伝ってもらわない<end>"
+english = "Decline the help<end>"
+
+["700027"]
+japanese = "よしきた。<line-break>それじゃ、しばらく一緒に頼むぜ。<end>"
+english = "That's what I wanted to hear. Looks like we'll be partners for a while.<end>"
+
+["700028"]
+japanese = "そうかい。<line-break>んじゃ、がんばれよ。<end>"
+english = "All right. Good luck, then.<end>"
+
+["700029"]
+japanese = "確かに世界は広い。じゃが、<line-break>この広い世界にお前の居場所はない。<line-break>\u3000<line-break>人間どもにとって<line-break>お前は恐怖以外の何ものでもない。<line-break>\u3000<end>"
+english = ""
+
+["700030"]
+japanese = "お前が、住むべきわずかな場所と、\u3000<line-break>生きていくのに必要なだけの<line-break>肉を求めたとしても、<line-break>奴らの頭の中では、<line-break>お前は凶悪な侵略者でしかない。<line-break>\u3000<end>"
+english = ""
+
+["700031"]
+japanese = "奴らはお前の力に嫉妬し、恐怖し、\u3000<line-break>憎悪し、そしてお前を殺しに来る。<line-break>\u3000<end>"
+english = ""
+
+["700032"]
+japanese = "お前が身を守れば、お前は奴らの<line-break>敵だったことが証明される。<line-break>\u3000<line-break>かくて、正義の名の下に<line-break>奴らの刃がお前を襲う。<line-break>…つぎつぎとな。<end>"
+english = ""
+
+["700033"]
+japanese = "そうじゃ。なれば、<line-break>地上から奴らを消せばいい。\u3000\u3000\u3000<line-break>\u3000<line-break>奴らがお前にすることを<line-break>ただ、やり返してやればいい。<line-break>\u3000<end>"
+english = ""
+
+["700034"]
+japanese = "奴らが正しいならば、<line-break>お前にはそれ以上の正当性がある。<line-break>\u3000<end>"
+english = ""
+
+["700035"]
+japanese = "そら、お前を殺そうとして<line-break>凶悪な冒険者がやってきおった。<line-break>\u3000<line-break>まず、奴らを血祭りに上げよ。<line-break>よいな。<end>"
+english = ""
+
+["700036"]
+japanese = "ま、こいつも、実は<line-break>かわいそうな奴なのかもな。<line-break>\u3000<line-break>んじゃな。<line-break><value:$28>。<line-break>また、会おうぜ。<end>"
+english = ""
+
+["700037"]
+japanese = "確かに世界は広い。じゃが、<line-break>この広い世界にお前の居場所はない。<line-break>\u3000<line-break>人間どもにとって<line-break>お前は恐怖以外の何者でもない。<line-break>\u3000<end>"
+english = ""
+
+["700038"]
+japanese = "お前が、住むべきわずかな場所と、\u3000<line-break>生きていくのに必要なだけの<line-break>肉を求めたとしても、<line-break>奴らの頭の中では、<line-break>お前は凶悪な侵略者でしかない。<line-break>\u3000<end>"
+english = ""
+
+["700039"]
+japanese = "奴らはお前の力に嫉妬し、恐怖し、\u3000<line-break>憎悪し、そしてお前を殺しに来る。<line-break>\u3000<end>"
+english = ""
+
+["700040"]
+japanese = "お前が身を守れば、お前は奴らの<line-break>敵だったことが証明される。<line-break>\u3000<line-break>かくて、正義の名の下に<line-break>奴らの刃がお前を襲う。<line-break>…つぎつぎとな。<end>"
+english = ""
+
+["700041"]
+japanese = "そうじゃ。なれば、<line-break>地上から奴らを消せばいい。\u3000\u3000\u3000<line-break>\u3000<line-break>奴らがお前にすることを<line-break>ただ、やり返してやればいい。<line-break>\u3000<end>"
+english = ""
+
+["700042"]
+japanese = "奴らが正しいならば、<line-break>お前にはそれ以上の正当性がある。<line-break>\u3000<end>"
+english = ""
+
+["700043"]
+japanese = "そら、お前を殺そうとして<line-break>凶悪な冒険者がやってきおった。<line-break>\u3000<line-break>まず、奴らを血祭りに上げよ。<line-break>よいな。<end>"
+english = ""
+
+["700044"]
+japanese = "<if><value:$29><equal>%0あら、かわいい坊やね。<line-break>くすくす…。<end>あら、かわいいコね。<line-break>くすくす…。<end>"
+english = "<if><value:$29><equal>%0Oh, what a sweet little boy. Hee hee...<end>Oh, aren't you a sweet little thing. Hee hee...<end>"
+
+["700045"]
+japanese = "くすっ、おびえなくていいのよ。<line-break>ねぇ、ちょっと探してるものが<line-break>あるんだけど…。<end>"
+english = "Hee hee, there's no need to be afraid. You see, there's something I'm looking for...<end>"
+
+["700046"]
+japanese = "友達の宝物で<line-break>禁断の聖杯というの。<line-break>聞いたことないかしら？<end>"
+english = "It's a friend's treasure, called the Forbidden Grail. Have you ever heard of it?<end>"
+
+["700047"]
+japanese = "ウフフ、ご存じのようね。<line-break>じゃあ、しゃべるゴブリンは？<line-break>\u3000<end>"
+english = "Hee hee, so you do know. What about a talking Goblin?<end>"
+
+["700048"]
+japanese = "くすっ、なんでも知ってるのね。<line-break>頼もしいわ…。<line-break>じゃあ、私のことも知ってるのかしら？<end>"
+english = "Hee hee, you know everything, don't you? How reassuring... Then I wonder if you know who I am, too.<end>"
+
+["700049"]
+japanese = "私がミイスの村を焼き払い<line-break>忘却の仮面を持ち去った<line-break>アーギルシャイアだってことも…。<end>"
+english = "That I'm Argyleshire―the one who burned Miis Village to the ground and stole the Mask of Oblivion...<end>"
+
+["700050"]
+japanese = "くすっ。<line-break>おとぎ話なんかでもよくあるでしょ？<line-break>知りすぎているのはよくないことよ。<line-break>でも、せっかくだから<line-break>聖杯のこと、聞かせてもらおうかしら。<line-break>あなたの記憶から、直接…。ウフフフ。<end>"
+english = "Hee hee. You know how it goes in fairy tales: knowing too much can be dangerous. But since we're here, perhaps you can tell me about the Grail. I'll pluck it straight from your memories... Hee hee hee.<end>"
+
+["700051"]
+japanese = "ねえ、動けないでしょ？<line-break>さあ、今私がゆっくり<line-break>なぶり殺してあげるわ。<end>"
+english = "You can't move, can you? Now I can take my time tormenting you to death.<end>"
+
+["700052"]
+japanese = "こういう時の人間の恐怖心って<line-break>とってもイイの。記憶をたぐる時に<line-break>ビンビンきて…。フフ、たまらないわ。<end>"
+english = "Human fear at a moment like this feels so good. I get such a thrill from it when I sift through your memories... Hee hee, I can't get enough.<end>"
+
+["700053"]
+japanese = "じゃあ、いくわよ…。<end>"
+english = "Here we go, then...<end>"
+
+["700054"]
+japanese = "誰か来る…。<line-break>無粋ね、こんな時に。<end>"
+english = "Someone's coming... How inconsiderate, at a time like this.<end>"
+
+["700055"]
+japanese = "まぁ、いいわ。<line-break>あせって、殺しちゃっても<line-break>物足りないもの。<end>"
+english = "Oh, well. It wouldn't be satisfying if I rushed and killed you now.<end>"
+
+["700056"]
+japanese = "今度、邪魔が入らない所で<line-break>ゆっくり殺してあげるわ。<line-break>楽しみにしてて…、ウフフ。<end>"
+english = "Next time, I'll kill you nice and slowly somewhere no one can interrupt us. You can look forward to it... Hee hee.<end>"
+
+["700057"]
+japanese = "じゃあね、<value:$28>。<line-break>その名前、覚えておくわ…。<line-break>\u3000<end>"
+english = "See you, <value:$28>. I'll remember that name...<end>"
+
+["700058"]
+japanese = "おやおやおやおや、<line-break>どうしたんだい？\u3000あんた。<line-break>こんな所で突っ伏しちゃって。<end>"
+english = "Oh dear, oh dear, oh dear. What happened to you? Lying facedown in a place like this.<end>"
+
+["700059"]
+japanese = "予備選択肢１<end>"
+english = ""
+
+["700060"]
+japanese = "予備選択肢２<end>"
+english = ""
+
+["700061"]
+japanese = "予備選択肢３<end>"
+english = ""
+
+["700062"]
+japanese = "ほら、大丈夫かい？\u3000\u3000\u3000\u3000\u3000<line-break>立てるかい？<line-break>\u3000<end>"
+english = "Come on, are you all right? Can you stand?<end>"
+
+["700063"]
+japanese = "大丈夫みたいだね。<line-break>物騒だからあんまりこんな所で<line-break>倒れてるんじゃないよ。<end>"
+english = "Looks like you're all right. It's dangerous around here, so try not to collapse in a place like this.<end>"
+
+["700064"]
+japanese = "予備メッセージ１１<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700065"]
+japanese = "予備メッセージ１２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700066"]
+japanese = "予備メッセージ１３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700067"]
+japanese = "予備メッセージ１４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700068"]
+japanese = "予備メッセージ１５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700069"]
+japanese = "予備メッセージ１６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700070"]
+japanese = "予備メッセージ１７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700071"]
+japanese = "予備メッセージ１８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700072"]
+japanese = "予備メッセージ１９<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700073"]
+japanese = "予備メッセージ２０<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700074"]
+japanese = "予備メッセージ２１<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700075"]
+japanese = "予備メッセージ２２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700076"]
+japanese = "予備メッセージ２３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700077"]
+japanese = "予備メッセージ２４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700078"]
+japanese = "予備メッセージ２５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700079"]
+japanese = "予備メッセージ２６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700080"]
+japanese = "予備メッセージ２７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700081"]
+japanese = "予備メッセージ２８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700082"]
+japanese = "予備メッセージ２９<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700083"]
+japanese = "予備メッセージ３０<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700084"]
+japanese = "予備メッセージ３１<line-break>アーギルシャイア、ボリューム１、その２<end>…危険だ。<end>"
+english = ""
+
+["700085"]
+japanese = "予備メッセージ３２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700086"]
+japanese = "予備メッセージ３３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700087"]
+japanese = "予備メッセージ３４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700088"]
+japanese = "予備メッセージ３５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700089"]
+japanese = "予備メッセージ３６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700090"]
+japanese = "予備メッセージ３７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700091"]
+japanese = "予備メッセージ３８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700092"]
+japanese = "予備メッセージ３９<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700093"]
+japanese = "予備メッセージ４０<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700094"]
+japanese = "予備メッセージ４１<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700095"]
+japanese = "予備選択肢４<end>"
+english = ""
+
+["700096"]
+japanese = "予備選択肢５<end>"
+english = ""
+
+["700097"]
+japanese = "予備メッセージ４２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700098"]
+japanese = "予備メッセージ４３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700099"]
+japanese = "予備メッセージ４４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700100"]
+japanese = "予備メッセージ４５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700101"]
+japanese = "予備メッセージ４６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700102"]
+japanese = "予備メッセージ４７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700103"]
+japanese = "予備メッセージ４８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700104"]
+japanese = "予備メッセージ４９<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700105"]
+japanese = "予備メッセージ５０<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700106"]
+japanese = "予備メッセージ５１<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700107"]
+japanese = "予備メッセージ５２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700108"]
+japanese = "予備メッセージ５３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700109"]
+japanese = "予備メッセージ５４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700110"]
+japanese = "予備メッセージ５５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700111"]
+japanese = "予備選択肢６<end>"
+english = ""
+
+["700112"]
+japanese = "予備選択肢７<end>"
+english = ""
+
+["700113"]
+japanese = "予備メッセージ５６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700114"]
+japanese = "予備メッセージ５７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700115"]
+japanese = "予備メッセージ５８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700116"]
+japanese = "予備メッセージ５９<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700117"]
+japanese = "予備メッセージ６０<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700118"]
+japanese = "予備メッセージ６１<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700119"]
+japanese = "予備メッセージ６２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700120"]
+japanese = "予備選択肢８<end>"
+english = ""
+
+["700121"]
+japanese = "予備選択肢９<end>"
+english = ""
+
+["700122"]
+japanese = "予備選択肢１０<end>"
+english = ""
+
+["700123"]
+japanese = "予備メッセージ６３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700124"]
+japanese = "予備メッセージ６４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700125"]
+japanese = "予備メッセージ６５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700126"]
+japanese = "予備メッセージ６６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700127"]
+japanese = "予備メッセージ６７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700128"]
+japanese = "予備メッセージ６８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700129"]
+japanese = "予備メッセージ６９<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700130"]
+japanese = "予備メッセージ７０<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700131"]
+japanese = "予備メッセージ７１<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700132"]
+japanese = "予備メッセージ７２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700133"]
+japanese = "予備メッセージ７３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700134"]
+japanese = "予備メッセージ７４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700135"]
+japanese = "予備メッセージ７５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700136"]
+japanese = "予備選択肢１１<end>"
+english = ""
+
+["700137"]
+japanese = "予備選択肢１２<end>"
+english = ""
+
+["700138"]
+japanese = "予備メッセージ７６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700139"]
+japanese = "予備メッセージ７７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700140"]
+japanese = "予備メッセージ７８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700141"]
+japanese = "予備メッセージ７９<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700142"]
+japanese = "予備メッセージ８０<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700143"]
+japanese = "予備メッセージ８１<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700144"]
+japanese = "予備メッセージ８２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700145"]
+japanese = "予備メッセージ８３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700146"]
+japanese = "予備メッセージ８４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700147"]
+japanese = "予備メッセージ８５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700148"]
+japanese = "予備メッセージ８６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700149"]
+japanese = "予備メッセージ８７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700150"]
+japanese = "予備メッセージ８８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700151"]
+japanese = "予備メッセージ８９<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700152"]
+japanese = "予備メッセージ９０<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700153"]
+japanese = "予備メッセージ９１<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700154"]
+japanese = "予備メッセージ９２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700155"]
+japanese = "予備メッセージ９３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700156"]
+japanese = "予備選択肢１３<end>"
+english = ""
+
+["700157"]
+japanese = "予備選択肢１４<end>"
+english = ""
+
+["700158"]
+japanese = "予備メッセージ９４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700159"]
+japanese = "予備メッセージ９５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700160"]
+japanese = "予備メッセージ９６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700161"]
+japanese = "予備メッセージ９７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700162"]
+japanese = "予備メッセージ９８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700163"]
+japanese = "予備メッセージ９９<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700164"]
+japanese = "予備メッセージ１００<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700165"]
+japanese = "予備メッセージ１０１<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700166"]
+japanese = "予備メッセージ１０２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700167"]
+japanese = "予備メッセージ１０３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700168"]
+japanese = "予備メッセージ１０４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700169"]
+japanese = "予備メッセージ１０５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700170"]
+japanese = "予備メッセージ１０６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700171"]
+japanese = "予備メッセージ１０７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700172"]
+japanese = "予備メッセージ１０８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700173"]
+japanese = "予備メッセージ１０９<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700174"]
+japanese = "予備選択肢１５<end>"
+english = ""
+
+["700175"]
+japanese = "予備選択肢１６<end>"
+english = ""
+
+["700176"]
+japanese = "予備メッセージ１１０<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700177"]
+japanese = "予備メッセージ１１１<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700178"]
+japanese = "予備メッセージ１１２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700179"]
+japanese = "予備メッセージ１１３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700180"]
+japanese = "予備メッセージ１１４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700181"]
+japanese = "予備メッセージ１１５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700182"]
+japanese = "予備選択肢１７<end>"
+english = ""
+
+["700183"]
+japanese = "予備選択肢１８<end>"
+english = ""
+
+["700184"]
+japanese = "予備メッセージ１１６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700185"]
+japanese = "予備メッセージ１１７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700186"]
+japanese = "予備メッセージ１１８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700187"]
+japanese = "予備選択肢１９<end>"
+english = ""
+
+["700188"]
+japanese = "予備選択肢２０<end>"
+english = ""
+
+["700189"]
+japanese = "予備メッセージ１１９<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700190"]
+japanese = "予備メッセージ１２０<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700191"]
+japanese = "予備メッセージ１２１<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700192"]
+japanese = "予備メッセージ１２２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700193"]
+japanese = "予備メッセージ１２３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700194"]
+japanese = "予備メッセージ１２４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700195"]
+japanese = "予備メッセージ１２５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700196"]
+japanese = "予備メッセージ１２６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700197"]
+japanese = "予備メッセージ１２７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700198"]
+japanese = "予備メッセージ１２８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700199"]
+japanese = "よぉ、<value:$28><line-break>邪魔していいか？<end>"
+english = "Hey, <value:$28>. Mind if I interrupt?<end>"
+
+["700200"]
+japanese = "セラ見てるとホント<line-break>リディオンを思い出すよ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>アミラルで最強の剣士。<line-break>アミラルの銀狼騒ぎのとき、銀狼を<line-break>退治して、旅に出たことになってる。<end>"
+english = "Seeing Sera always reminds me of Lidion. Lidion was the finest swordsman in Amiral. During the Silver Wolf incident there, Lidion killed the Silver Wolf, then supposedly set off on a journey.<end>"
+
+["700201"]
+japanese = "あいつ…、<line-break>ずっと、昔の心の傷を負って、\u3000\u3000\u3000\u3000<line-break>心を閉ざして、荒れてた。\u3000<line-break>あいつ、ガキのころ、<line-break>ロベルトさんとこの娘さんを<line-break>町の外へデート気分で連れ出したんだ。<end>"
+english = "Lidion had carried an old emotional wound for years. Shut everyone out and went off the rails. When Lidion was a kid, Lidion took Roberto's daughter outside town as if the two of them were going on a date.<end>"
+
+["700202"]
+japanese = "そのとき、モンスターに襲われて\u3000\u3000\u3000<line-break>リディオンは助かったんだが<line-break>…娘さんの方は…ダメだった。<line-break>彼女を守れなかった…<line-break>そのことでリディオンは<line-break>変わっちまった…。<end>"
+english = "The two of them were attacked by monsters. Lidion survived, but Roberto's daughter... didn't. Lidion couldn't protect her. That was what changed Lidion.<end>"
+
+["700203"]
+japanese = "もともと意固地な奴だったけど<line-break>それからは、周囲の誰にも心を閉ざし、<line-break>ひたすら、怪物退治と剣に没頭した。<line-break>あいつ…、<line-break>俺によく突っかかってきたよな。<line-break>剣の勝負だとか、なんだとか言ってさ。<end>"
+english = "Lidion had always been stubborn, but after that, Lidion shut everyone out and devoted everything to hunting monsters and mastering the sword. Lidion was always coming after me, challenging me to sword matches and whatever else.<end>"
+
+["700204"]
+japanese = "あれをみんなは、ケンカだとか<line-break>槍もでき、人の受けもいい俺のことを<line-break>嫉妬してだとか言ってたけど、違う。\u3000<line-break>その証拠に俺は奴に１回も<line-break>勝てたことがない。<line-break>それでも、奴は俺に何度も挑み続けた。<end>"
+english = "Everyone called it fighting. Some said Lidion was jealous because I was good with a spear and people liked me. But they were wrong. I never beat Lidion. Not once. And still, the challenges kept coming.<end>"
+
+["700205"]
+japanese = "奴が、最後にすがろうとした\u3000\u3000\u3000\u3000\u3000<line-break>人とのつながりが<line-break>俺…だったんじゃないかな。<line-break>あいつはあいつの心の中の様々な気持ち<line-break>…それは口にすればいいわけになる…<line-break>それを剣に託して伝えたかったんだ。<end>"
+english = "Maybe I was the last human connection Lidion tried to cling to. Lidion had all kinds of feelings inside, but putting them into words would only have turned them into excuses. So Lidion tried to convey them through the sword instead.<end>"
+
+["700206"]
+japanese = "…だけど俺の槍は未熟で、<line-break>結局、奴の剣に応えられなかった。<end>"
+english = "But I wasn't skilled enough with my spear. In the end, I couldn't answer that sword.<end>"
+
+["700207"]
+japanese = "…あいつさ。旅に出たことに<line-break>なってるけどさ。…実は、<line-break>銀狼との死闘での傷で死んだんだ。\u3000\u3000<line-break>奴は、町の連中に奴らのために死んだと<line-break>思われるのがイヤで、旅に出たことに<line-break>してくれって、死に際に頼んだんだ。<end>"
+english = "The story is that Lidion went off traveling. But the truth is, Lidion died from wounds suffered in that fight with the Silver Wolf. Lidion didn't want the people in town thinking Lidion had died for them, so before dying, Lidion asked for everyone to be told that Lidion had gone traveling.<end>"
+
+["700208"]
+japanese = "俺と奴のおやじさんに、さ…。\u3000\u3000\u3000\u3000<line-break>あとは、一言もない。<line-break>奴らしい片意地な最期だった…。<end>"
+english = "Asked me and Lidion's father, that is. Not another word after that. Stubborn to the bitter end. Just like Lidion.<end>"
+
+["700209"]
+japanese = "セラって奴さ。見てると<line-break>リディオンのこと、思い出すんだ。\u3000<line-break>\u3000<line-break>あいつも、不器用で片意地で<line-break>心の中の言葉を、<line-break>うまく、口にできない。<end>"
+english = "Looking at Sera reminds me of Lidion. He's awkward and stubborn too, and he can't seem to put what's inside him into words.<end>"
+
+["700210"]
+japanese = "奴もリディオンみたいな重いものを\u3000<line-break>心に持ってるんだ…って思う。<line-break>\u3000<line-break>例えば、<line-break>奴とアーギルシャイアとが<line-break>不自然なほど似てることとか、さ。<end>"
+english = "I think he's carrying something heavy inside, just like Lidion was. Like how unnaturally alike he and Argyleshire are.<end>"
+
+["700211"]
+japanese = "俺、お前に<line-break>奴を見放さないようにしてほしい。<line-break>そうじゃなきゃ、あとで後悔する…。<end>"
+english = "I'm asking you not to give up on him. Otherwise, you'll regret it later.<end>"
+
+["700212"]
+japanese = "さすがに夜は冷え込むよな…<line-break><value:$28>、中に入ろうぜ。<end>"
+english = "It really does get cold at night. Come on, <value:$28>. Let's go inside.<end>"
+
+["700213"]
+japanese = "いやー、きれいだわ。<line-break>セラちゃんは、もう。\u3000<line-break>\u3000<line-break>きゃー、セラ様ー！<line-break>って感じかな。<line-break>いやー、かっこいいわ。<end>"
+english = "Oh, Sera is just gorgeous. It's like, “Eee! Lord Sera!” Oh, he's so cool.<end>"
+
+["700214"]
+japanese = "おんやー？\u3000あたしが彼ばっかり<line-break>ほめるから、すねちった？<end>"
+english = "Oh? Are you sulking because I keep praising him?<end>"
+
+["700215"]
+japanese = "アハハハ、剣闘士<value:$28>も<line-break>めちゃ、かっこいいってばさ。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>なんつーかなー、あんたは正統派の<line-break>かっこいい男なんだけどさ。<line-break>彼は陰のかっこよさなのよ。<end>"
+english = "Ahahaha! Gladiator <value:$28> is incredibly handsome too, I'm telling you. How do I put it? You're the classic, straight-up kind of handsome man. He's got a darker kind of appeal.<end>"
+
+["700216"]
+japanese = "クールでさ。どことなく影とか<line-break>あってさ…。マイナスの美学ってやつ？<line-break>ま、ガキには受け悪いかもしれないね。<line-break>女にしてもいいくらいきれいってのも<line-break>そそるよね～。しかもさ、女にしても<line-break>小動物的かわいい系にはならないとこ。<end>"
+english = "He's cool, with a hint of darkness about him. The beauty of the negative, I guess? Maybe kids wouldn't go for it. And he's so beautiful he could pass for a woman. That's a turn-on too. Especially since even as a woman, he wouldn't be the cute little-animal type.<end>"
+
+["700217"]
+japanese = "悪女、妖女系だよね。しかも特上の。\u3000<line-break>円卓騎士アーギルシャイアとか、<line-break>ああいう感じになるんじゃないかな。<end>"
+english = "He'd be a wicked, bewitching woman―and a first-rate one at that. Maybe something like Argyleshire, Knight of the Round Table.<end>"
+
+["700218"]
+japanese = "イックショイ！！\u3000ちくしょ！<line-break>うー、夜はさぶいやね～。<line-break>中、入んね？\u3000<value:$28>。<end>"
+english = "Achoo! Damn it! Ooh, it gets cold at night. Wanna go inside, <value:$28>?<end>"
+
+["700219"]
+japanese = "あー、<value:$28>だぁ！<line-break>ねぇ、ねぇ、すごい大発見！<line-break>聞いて！\u3000聞いて！<end>"
+english = "Oh, <value:$28>! Hey, hey, I made an amazing discovery! Listen, listen!<end>"
+
+["700220"]
+japanese = "あのね、あのね、<line-break>セラとアーギルシャイアって<line-break>似てるでしょ？<end>"
+english = "You know what? You know what? Sera and Argyleshire are kind of alike, aren't they?<end>"
+
+["700221"]
+japanese = "うふふー、それだけ。<line-break>そんなところでいつまでも<line-break>難しいこと考えてたら、風邪ひくよぉ。<end>"
+english = "Hee-hee, that's all. If you stay there thinking so hard for too long, you'll catch cold.<end>"
+
+["700222"]
+japanese = "もうイヤ、もうイヤ！\u3000もぉうイヤ！！<end>"
+english = "I can't stand it! I can't stand it! I can't stand it anymore!<end>"
+
+["700223"]
+japanese = "そ、そうね。優雅で高貴なエルフの<line-break>アタクシともあろうものがはしたない…<line-break>\u3000<line-break>って、そのセキニンの一端はあなたに<line-break>あるんじゃない、<value:$28>！<line-break>信じられないわ！\u3000信じられないわ！！<end>"
+english = "Y-yes, you're right. Such unseemly behavior is beneath a graceful, noble Elf like me... But you bear some of the responsibility for this, <value:$28>! I simply cannot believe it! I cannot believe it!<end>"
+
+["700224"]
+japanese = "セ・ラ！\u3000セラよ。セラのことよ！<line-break>あの生意気なド下等生物のことよー！\u3000<line-break>\u3000<line-break>あのすかした態度がイヤなのよ！<line-break>自分は強いのだ、自分は美形なのだ、<line-break>って自信ありありなのがイヤなの！<end>"
+english = "Se-ra! Sera! I'm talking about Sera! That insolent, utterly inferior creature! I can't stand that smug attitude of his! He thinks he's so strong, so handsome―and he's so insufferably sure of it!<end>"
+
+["700225"]
+japanese = "そーよ、美形美形って、顔だって<line-break>あの性格悪い魔人アーギルシャイアに\u3000<line-break>そっくりなんじゃないのー！<line-break>そーんなの、自慢にもならなくてよー！<line-break>それなのに、あのすかした態度は何？<line-break>もうイヤ、もうイヤ！\u3000もぉうイヤ！！<end>"
+english = "Handsome this, handsome that―why, even his face looks just like that nasty demon Argyleshire! That's hardly something to boast about! So what's with that smug attitude? I can't stand it! I can't stand it! I can't stand it anymore!<end>"
+
+["700226"]
+japanese = "こら。高貴なエルフであるアタクシの<line-break>言うことをちゃんと聞きなさいよー！<line-break>\u3000<line-break>信じられない！\u3000信じられないわ！！<line-break>お待ちなさい！\u3000<value:$28>！<end>"
+english = "You there! Listen when a noble Elf like me is speaking to you! I cannot believe this! I simply cannot believe it! Wait right there, <value:$28>!<end>"
+
+["700227"]
+japanese = "あ、<value:$28>。<end>"
+english = ""
+
+["700228"]
+japanese = "セラってさ、それにしても<line-break>きれいな顔してるよね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ボクって長い髪が似合わないし、<line-break>ああいうのって…<line-break>少し、あこがれるかな。<end>"
+english = ""
+
+["700229"]
+japanese = "なんかさ、たとえが悪いんだけど\u3000\u3000\u3000<line-break>彼、ア－ギルシャイアに似てない？<line-break>\u3000<line-break>妖艶で…、きれいだけど冷酷で…、<line-break>どことなく影があって…。セラが<line-break>女の子だったらああいう感じだろうな。<end>"
+english = ""
+
+["700230"]
+japanese = "やっぱ、夜は冷えるよね。<line-break><value:$28>、中に入らない？<end>"
+english = ""
+
+["700231"]
+japanese = "やあ、<value:$28>…<line-break>ボク、そっち行っても、いい？<end>"
+english = ""
+
+["700232"]
+japanese = "セラやシャリの言葉…<line-break>ボクは役立たずだって言うアレ…<line-break>結構、くるものあるね。<end>"
+english = ""
+
+["700233"]
+japanese = "でも、事実だよ。<line-break>ボク、セラほど強くない。\u3000\u3000<line-break>\u3000<line-break>セラは強いし、美しいよ。<line-break>ボクもセラみたいに強くて<line-break>きれいだったらなって思う…。<end>"
+english = ""
+
+["700234"]
+japanese = "なんかさ、たとえが悪いんだけど<line-break>彼、ア－ギルシャイアに似てるよね。\u3000<line-break>\u3000<line-break>妖艶で…、きれいだけど冷酷で…、<line-break>どことなく影があって…。<line-break>セラが女だったら、あんな感じかな。<end>"
+english = ""
+
+["700235"]
+japanese = "…アーギルシャイアも<line-break>強くてきれいだよね。<line-break>\u3000<line-break>ボク、弱くて、役に立てないくらいなら<line-break>闇に堕ちても、強くなって、<line-break>キミを…守りたい。<end>"
+english = ""
+
+["700236"]
+japanese = "ボク、フレアが道具として<line-break>役に立てないことをあせる気持ち、\u3000\u3000<line-break>よくわかる気がするんだ。<end>"
+english = ""
+
+["700237"]
+japanese = "<value:$28>…<line-break>そっち行って…いい？<end>"
+english = ""
+
+["700238"]
+japanese = "お星様がきれいだね。<line-break>いつかはお別れする風景。<line-break>だからこそ、いっそういとおしい。<line-break>…しっかりと<line-break>目に焼きつけておかなくちゃ。<line-break>お星様も…、キミの姿もね…。<end>"
+english = ""
+
+["700239"]
+japanese = "あのさ、セラと<line-break>アーギルシャイアって似てるよね。<end>"
+english = ""
+
+["700240"]
+japanese = "何もごまかしてるわけじゃないよ。<line-break>本当に似てるなって思ったんだ。<line-break>\u3000<line-break>じゃね、<value:$28>。<line-break>ボクは中に入ってるよ。<end>"
+english = ""
+
+["700241"]
+japanese = "あ、<value:$28><line-break>こんな所にいたんだ。<end>"
+english = "Oh, <value:$28>. So this is where you were.<end>"
+
+["700242"]
+japanese = "ねえ、ぼく、セラが苦手だよ。<line-break>そう、確かにきれいなんだけど\u3000\u3000<line-break>冷たいんだよ、彼。<line-break>あ、そういう点では<line-break>アーギルシャイアと似てるよね。<line-break>きれいだけど、冷たいところ。<end>"
+english = "You know, I have a hard time with Sera. Sure, he's beautiful, but he's cold. Oh, he's like Argyleshire in that way, isn't he? Beautiful, but cold.<end>"
+
+["700243"]
+japanese = "うーん、そういえば、ほんとに<line-break>セラとアーギルシャイアは似てる。<line-break>セラが女だったらあんな感じだね。<end>"
+english = "Hmm. Come to think of it, Sera and Argyleshire really are alike. If Sera were a woman, he'd be just like her.<end>"
+
+["700244"]
+japanese = "さすがに夜になると冷えるね。<line-break><value:$28>、中に入ろ？<end>"
+english = "It's getting cold now that it's night. Want to go inside, <value:$28>?<end>"
+
+["700245"]
+japanese = "やぁ、<value:$28><end>"
+english = "Hey, <value:$28>.<end>"
+
+["700246"]
+japanese = "気づいてた？<line-break>セラとアーギルシャイアって<line-break>似てるよね。<line-break>ねぇ、<value:$28>、<line-break>何かセラから聞いてないの？<end>"
+english = "Have you noticed? Sera and Argyleshire are a lot alike. Say, <value:$28>, has Sera told you anything?<end>"
+
+["700247"]
+japanese = "そっか、まだ、そこまでの信頼は<line-break>得てはいないんだね。<line-break>\u3000<line-break>最近、セラが<value:$28>に<line-break>ちょっと、心を許したかなって<line-break>思ったんだけどな…。<end>"
+english = "Oh. I guess you haven't earned that level of trust yet, <value:$28>. I thought Sera might have started opening up to you a little lately...<end>"
+
+["700248"]
+japanese = "セラって、はたから見てて<line-break>感情的に危なっかしいんだ。<line-break>セラの力になってあげてよ。ね？<end>"
+english = "From where I stand, Sera's in a pretty precarious place emotionally. Be there for him, okay?<end>"
+
+["700249"]
+japanese = "むかつくんだよな。<line-break>あのセラって奴！<line-break>自分は何様のつもりなんだよ！\u3000\u3000\u3000\u3000<line-break>ちっ、ちょっと強くて<line-break>きれいな顔してるからってよ。<line-break>顔がいい奴なんてろくなのがいないぜ。<end>"
+english = ""
+
+["700250"]
+japanese = "例えば、アーギルシャイアとかさ。<line-break>そう、アーギルシャイアとセラって<line-break>そっくりだぜ。性格の悪いところもな。<line-break>あー、強くなりてえ！<line-break>あんな奴にバカにされないように\u3000\u3000<line-break>強くなりてよな！<end>"
+english = ""
+
+["700251"]
+japanese = "…<value:$28>、<line-break>最近、セラと仲がいいみたいだな。<end>"
+english = ""
+
+["700252"]
+japanese = "あのさ、俺、セラについて<line-break>ちょっと気になることがあるんだ。<line-break>\u3000<line-break>セラってさ<line-break>アーギルシャイアに似てないか？<end>"
+english = ""
+
+["700253"]
+japanese = "あいつ、絶対、あの魔人と<line-break>何か関わりがある…。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>最悪、奴があの魔人のしもべで<line-break>俺たちをねらってるってことも…。<end>"
+english = ""
+
+["700254"]
+japanese = "無論、最悪の話さ。<line-break>俺もそんな風には思っちゃいない。\u3000\u3000<line-break>\u3000<line-break>だけど、間違いなく、魔人と奴とは<line-break>関わりがある。奴と行動をともにすると<line-break>絶対、魔人と対決することになる。<end>"
+english = ""
+
+["700255"]
+japanese = "<value:$28>…<line-break>お前は月からの使者としての\u3000\u3000\u3000\u3000\u3000<line-break>使命があるだろ？<line-break>魔人なんかと関わって、<line-break>使命を達成しないうちに<line-break>命を落とすわけにはいかないだろ？<end>"
+english = ""
+
+["700256"]
+japanese = "<value:$28>…、俺だって\u3000\u3000\u3000\u3000<line-break>お前に命を落とさせたくない。<line-break>俺はお前を守りたいんだ。<line-break>セラと一緒に行動するのをやめてくれ。<line-break>奴と関わっていてもロクなことはない。<line-break>奴を仲間から追い出してくれ。<end>"
+english = ""
+
+["700257"]
+japanese = "…すまない。<line-break>…お前、アミラルを出てから<line-break>どんどん、変わっていくんだな。<end>"
+english = ""
+
+["700258"]
+japanese = "…ただ、これだけは覚えていてくれ。<line-break>俺は純粋にお前のことが守りたいんだ。<line-break>…お前のことが好きだから、な。<end>"
+english = ""
+
+["700259"]
+japanese = "姉ちゃーん。<end>"
+english = "Hey, Sis!<end>"
+
+["700260"]
+japanese = "星のきれいな夜だよね…。<end>"
+english = "The stars are beautiful tonight, aren't they...?<end>"
+
+["700261"]
+japanese = "姉ちゃんの瞳の中にも<line-break>星が降ってるよ。<end>"
+english = "There are stars falling in your eyes, too.<end>"
+
+["700262"]
+japanese = "いったあ！\u3000もう！<line-break>単に姉弟の親睦を深めようと<line-break>会話しに来ただけじゃんかよ！\u3000\u3000\u3000<line-break>どうして、すぐ手が出るかなー！<line-break>バカになったら姉ちゃんのせいだぜ！<end>"
+english = "Ow! Come on! I just came over to talk and strengthen our brother-sister bond! Why are you so quick to hit me? If I end up stupid, it'll be your fault!<end>"
+
+["700263"]
+japanese = "チャカは少し頭が悪くなった。<line-break>チャカのＩＮＴが１下がった。<end>"
+english = "Chaka got a little stupider. Chaka's ＩＮＴ dropped by 1.<end>"
+
+["700264"]
+japanese = "…わかったよ。別の話題にするよ。<line-break>ええ、と…。せ、セラってさ<line-break>魔人アーギルシャイアに似てない？<end>"
+english = "All right. I'll change the subject. Um... D-doesn't Sera remind you of Argyleshire, the demon?<end>"
+
+["700265"]
+japanese = "ええ、と、ああ、…はうう、<line-break>話題がつながらないよぉ…。<end>"
+english = "Um, ah... ohhh, I can't make one topic lead into the next...<end>"
+
+["700266"]
+japanese = "お星様はきれい？<line-break><value:$28>。<end>"
+english = ""
+
+["700267"]
+japanese = "お星様もきれいだけど、<line-break>セラの顔もきれいよねぇ。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>男のくせに、女の子よりも<line-break>きれいなんだもん。<line-break>ちょっと、ムッとしちゃうかもね。<end>"
+english = ""
+
+["700268"]
+japanese = "ホントよ。絶対に、彼なら<line-break>あのまま女の子になっても美人よ。\u3000<line-break>\u3000<line-break>ほら、魔人アーギルシャイア！<line-break>あんな感じの妖艶な美女になるわ。<line-break>そう、そういえば彼、そっくりよね。<end>"
+english = ""
+
+["700269"]
+japanese = "寒いわ…、さすがに夜は冷えるわね。<line-break>中に入らない？<end>"
+english = ""
+
+["700270"]
+japanese = "よう、星空でも見てるのか？<line-break><value:$28>。<end>"
+english = ""
+
+["700271"]
+japanese = "星空もきれいだけど<line-break>セラの奴もきれいだよな。<end>"
+english = ""
+
+["700272"]
+japanese = "ホントだって。あいつが女だったら<line-break>お前だってかなわないほどの美人だぜ。<line-break>\u3000<line-break>そう、魔人アーギルシャイア！<line-break>あんな感じの妖艶な美女になるぜ！<line-break>そういや、奴、そっくりだよな。<end>"
+english = ""
+
+["700273"]
+japanese = "い、いや、そういうんじゃなくてだな。<line-break>おーい！\u3000待ってくれよ！<end>"
+english = ""
+
+["700274"]
+japanese = "ねえ、セラとアーギルシャイアの<line-break>関係って、なんだと思う？<end>"
+english = "Hey, what do you think the connection is between Sera and Argyleshire?<end>"
+
+["700275"]
+japanese = "あなた、なんとも思わないの？<line-break>あんなに似てるじゃない。<line-break>\u3000<line-break>ほんっとに<line-break>人間が大きいっていうか…<line-break>のんびりしてるっていうか。<end>"
+english = "Doesn't it make you wonder? They're so much alike. I can't tell whether you're incredibly broad-minded or just laid-back.<end>"
+
+["700276"]
+japanese = "ま、そこがいいところかも<line-break>しれないんだけどね。<end>"
+english = "Though maybe that's one of your better qualities.<end>"
+
+["700277"]
+japanese = "ガハハハ！\u3000そうじゃ！<line-break>セラとアーギルシャイアはよく似とる！<end>"
+english = "Gahahaha! That's right! Sera and Argyleshire are very much alike!<end>"
+
+["700278"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["700279"]
+japanese = "よ、酔うてなぞ、おらんわい！<line-break>あれしきの酒で誰が酔うか！\u3000\u3000\u3000<line-break>\u3000<line-break>ガハハハ！\u3000セラと…、セラと…<line-break>セラと…誰が似とると言うたかの？<line-break>ガハハハ！\u3000ヒック！<end>"
+english = "I-I'm not drunk! Who could get drunk on that little bit of liquor? Gahahaha! Sera and... Sera and... Sera and... who did I say was alike again? Gahahaha! Hic!<end>"
+
+["700280"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["700281"]
+japanese = "予備メッセージ１<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700282"]
+japanese = "予備メッセージ２<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700283"]
+japanese = "予備メッセージ３<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700284"]
+japanese = "予備メッセージ４<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700285"]
+japanese = "予備メッセージ５<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700286"]
+japanese = "予備メッセージ６<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700287"]
+japanese = "予備メッセージ７<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700288"]
+japanese = "予備メッセージ８<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700289"]
+japanese = "予備メッセージ９<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700290"]
+japanese = "予備メッセージ１０<line-break>アーギルシャイア、ボリューム１、その２<end>"
+english = ""
+
+["700291"]
+japanese = "アーギルシャイアメッセージVOL1-2終端<end>"
+english = ""

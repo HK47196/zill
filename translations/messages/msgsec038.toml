@@ -1,0 +1,553 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["380000"]
+japanese = "旅立ち１１メッセージ<end>"
+english = ""
+
+["380001"]
+japanese = "さーて、んなことはおいといて<line-break>このネモ様のおしゃべりに<line-break>つきあってくれる気はあるかい？<end>"
+english = "Well, enough of that. Feel like indulging the great Nemo in a little conversation?<end>"
+
+["380002"]
+japanese = "まだ、ネモにきくことがある<end>"
+english = "I still have something to ask Nemo.<end>"
+
+["380003"]
+japanese = "もういい<end>"
+english = "That's enough.<end>"
+
+["380004"]
+japanese = "じゃ、また、来てくれや。<line-break>世界がどうなろうと<line-break>俺はヒマしてっからさ。<end>"
+english = "Come back anytime. No matter what happens to the world, I'll still have time to kill.<end>"
+
+["380005"]
+japanese = "俺は、名前を知るものネモ、<line-break>破壊神の円卓騎士…。<line-break>…って、んなことは知ってるよな。<line-break>じゃあ、この闇の賢者様が<line-break>お前の知らない運命の書に記された<line-break>名前について教えてやろう。<end>"
+english = "I am Nemo, Knower of Names, a Knight of the Round Table in service to the God of Destruction... But you already know all that, don't you? So let the great Sage of Darkness tell you about the names unknown to you that are written in the Book of Fate.<end>"
+
+["380006"]
+japanese = "聞くのをやめる<end>"
+english = "Stop asking questions<end>"
+
+["380007"]
+japanese = "<color:h>アイリーン<color:o><end>"
+english = "<color:h>Irene<color:o><end>"
+
+["380008"]
+japanese = "<color:h>アトレイア<color:o><end>"
+english = "<color:h>Atleia<color:o><end>"
+
+["380009"]
+japanese = "<color:h>アンギルダン<color:o><end>"
+english = "<color:h>Angeerdan<color:o><end>"
+
+["380010"]
+japanese = "<color:h>イークレムン<color:o><end>"
+english = "<color:h>Iiklmn<color:o><end>"
+
+["380011"]
+japanese = "<color:h>イーシャ<color:o><end>"
+english = "<color:h>Iria<color:o><end>"
+
+["380012"]
+japanese = "<color:h>イオンズ<color:o><end>"
+english = "<color:h>Ionz<color:o><end>"
+
+["380013"]
+japanese = "<color:h>ヴァイライラ<color:o><end>"
+english = "<color:h>Vailaila<color:o><end>"
+
+["380014"]
+japanese = "<color:h>ヴァン<color:o><end>"
+english = "<color:h>Van<color:o><end>"
+
+["380015"]
+japanese = "<color:h>ヴィアリアリ<color:o><end>"
+english = "<color:h>Vialiali<color:o><end>"
+
+["380016"]
+japanese = "<color:h>エア<color:o><end>"
+english = "<color:h>Er<color:o><end>"
+
+["380017"]
+japanese = "<color:h>エステル<color:o><end>"
+english = "<color:h>Esther<color:o><end>"
+
+["380018"]
+japanese = "<color:h>エスト<color:o><end>"
+english = "<color:h>Est<color:o><end>"
+
+["380019"]
+japanese = "<color:h>エルファス<color:o><end>"
+english = "<color:h>Elfas<color:o><end>"
+
+["380020"]
+japanese = "<color:h>オイフェ<color:o><end>"
+english = "<color:h>Aoife<color:o><end>"
+
+["380021"]
+japanese = "<color:h>カルラ<color:o><end>"
+english = "<color:h>Karula<color:o><end>"
+
+["380022"]
+japanese = "<color:h>クリュセイス<color:o><end>"
+english = "<color:h>Khryuseis<color:o><end>"
+
+["380023"]
+japanese = "<color:h>ザギヴ<color:o><end>"
+english = "<color:h>Zagiv<color:o><end>"
+
+["380024"]
+japanese = "<color:h>ジリオン<color:o><end>"
+english = "<color:h>Zillion<color:o><end>"
+
+["380025"]
+japanese = "<color:h>ゼネテス<color:o><end>"
+english = "<color:h>Xenetes<color:o><end>"
+
+["380026"]
+japanese = "<color:h>セラ<color:o><end>"
+english = "<color:h>Sera<color:o><end>"
+
+["380027"]
+japanese = "<color:h>チャカ<color:o><end>"
+english = "<color:h>Chaka<color:o><end>"
+
+["380028"]
+japanese = "<color:h>ティアナ<color:o><end>"
+english = "<color:h>Tiana<color:o><end>"
+
+["380029"]
+japanese = "<color:h>デルガド<color:o><end>"
+english = "<color:h>Dergado<color:o><end>"
+
+["380030"]
+japanese = "<color:h>ナッジ<color:o><end>"
+english = "<color:h>Nadge<color:o><end>"
+
+["380031"]
+japanese = "<color:h>ノエル<color:o><end>"
+english = "<color:h>Noel<color:o><end>"
+
+["380032"]
+japanese = "<color:h>ヒルダリア<color:o><end>"
+english = "<color:h>Hildaria<color:o><end>"
+
+["380033"]
+japanese = "<color:h>フェティ<color:o><end>"
+english = "<color:h>Fety<color:o><end>"
+
+["380034"]
+japanese = "<color:h>フェルム<color:o><end>"
+english = "<color:h>Ferme<color:o><end>"
+
+["380035"]
+japanese = "<color:h>フレア<color:o><end>"
+english = "<color:h>Flare<color:o><end>"
+
+["380036"]
+japanese = "<color:h>ベルゼーヴァ<color:o><end>"
+english = "<color:h>Beelzeva<color:o><end>"
+
+["380037"]
+japanese = "<color:h>ユーリス<color:o><end>"
+english = "<color:h>Julls<color:o><end>"
+
+["380038"]
+japanese = "<color:h>ルルアンタ<color:o><end>"
+english = "<color:h>Lulluantha<color:o><end>"
+
+["380039"]
+japanese = "<color:h>レーグ<color:o><end>"
+english = "<color:h>Reig<color:o><end>"
+
+["380040"]
+japanese = "<color:h>レムオン<color:o><end>"
+english = "<color:h>Lemghon<color:o><end>"
+
+["380041"]
+japanese = "<color:h>レルラ＝ロントン<color:o><end>"
+english = "<color:h>Relra-Lonton<color:o><end>"
+
+["380042"]
+japanese = "<color:h>ロイ<color:o><end>"
+english = "<color:h>Roy<color:o><end>"
+
+["380043"]
+japanese = "アイリーン、ねえ…。<end>"
+english = "Irene, huh...<end>"
+
+["380044"]
+japanese = "アトレイア、ねえ…。<end>"
+english = "Atleia, huh...<end>"
+
+["380045"]
+japanese = "アンギルダン、ねえ…。<end>"
+english = "Angeerdan, huh...<end>"
+
+["380046"]
+japanese = "イークレムン、ねえ…。<end>"
+english = "Iiklmn, huh...<end>"
+
+["380047"]
+japanese = "イーシャ、ねえ…。<end>"
+english = "Iria, huh...<end>"
+
+["380048"]
+japanese = "イオンズ、ねえ…。<end>"
+english = "Ions, huh...<end>"
+
+["380049"]
+japanese = "ヴァイライラ、ねえ…。<end>"
+english = "Vailaila, huh...<end>"
+
+["380050"]
+japanese = "ヴァン、ねえ…。<end>"
+english = "Van, huh...<end>"
+
+["380051"]
+japanese = "ヴィアリアリ、ねえ…。<end>"
+english = "Vialiali, huh...<end>"
+
+["380052"]
+japanese = "エア、ねえ…。<end>"
+english = "Er, huh...<end>"
+
+["380053"]
+japanese = "エステル、ねえ…。<end>"
+english = "Esther, huh...<end>"
+
+["380054"]
+japanese = "エスト、ねえ…。<end>"
+english = "Est, huh...<end>"
+
+["380055"]
+japanese = "エルファス、ねえ…。<end>"
+english = "Elfas, huh...<end>"
+
+["380056"]
+japanese = "オイフェ、ねえ…。<end>"
+english = "Aoife, huh...<end>"
+
+["380057"]
+japanese = "カルラ、ねえ…。<end>"
+english = "Karula, huh...<end>"
+
+["380058"]
+japanese = "クリュセイス、ねえ…。<end>"
+english = "Khryuseis, huh...<end>"
+
+["380059"]
+japanese = "ザギヴ、ねえ…。<end>"
+english = "Zagiv, huh...<end>"
+
+["380060"]
+japanese = "ジリオン、ねえ…。<end>"
+english = "Zillion, huh...<end>"
+
+["380061"]
+japanese = "ゼネテス、ねえ…。<end>"
+english = "Xenetes, huh...<end>"
+
+["380062"]
+japanese = "セラ、ねえ…。<end>"
+english = "Sera, huh...<end>"
+
+["380063"]
+japanese = "あんたの弟、ねえ…。<end>"
+english = "Your younger brother, huh...<end>"
+
+["380064"]
+japanese = "ティアナ、ねえ…。<end>"
+english = "Tiana, huh...<end>"
+
+["380065"]
+japanese = "デルガド、ねえ…。<end>"
+english = "Dergado, huh...<end>"
+
+["380066"]
+japanese = "ナッジ、ねえ…。<line-break>いい奴なんだけどなあ…。<end>"
+english = "Nadge, huh... He's a good guy, but...<end>"
+
+["380067"]
+japanese = "ノエル、ねえ…。<end>"
+english = "Noel, huh...<end>"
+
+["380068"]
+japanese = "ヒルダリア、ねえ…。<end>"
+english = "Hildaria, huh...<end>"
+
+["380069"]
+japanese = "フェティ、ねえ…。<end>"
+english = "Fety, huh...<end>"
+
+["380070"]
+japanese = "フェルム、ねえ…。<end>"
+english = "Ferme, huh...<end>"
+
+["380071"]
+japanese = "フレア、ねえ…。<end>"
+english = "Flare, huh...<end>"
+
+["380072"]
+japanese = "ベルゼーヴァ、ねえ…。<end>"
+english = "Beelzeva, huh...<end>"
+
+["380073"]
+japanese = "ユーリス…あのバカ女か…。<end>"
+english = "Julls... That stupid woman, huh...<end>"
+
+["380074"]
+japanese = "ルルアンタ、ねえ…。<end>"
+english = "Lulluantha, huh...<end>"
+
+["380075"]
+japanese = "レーグ、ねえ…。<end>"
+english = "Reig, huh...<end>"
+
+["380076"]
+japanese = "レムオン、ねえ…。<end>"
+english = "Lemghon, huh...<end>"
+
+["380077"]
+japanese = "レルラ＝ロントン、ねえ…。<end>"
+english = "Relra-Lonton, huh...<end>"
+
+["380078"]
+japanese = "ロイ、ねえ…。<end>"
+english = "Roy, huh...<end>"
+
+["380079"]
+japanese = "おっと、こいつは<line-break>お前の知らない名前だったな。<line-break>悪いが教えられないぜ。<end>"
+english = "Oops. That's a name you don't know yet. Sorry, but I can't tell you anything.<end>"
+
+["380080"]
+japanese = "ま、こんな感じだ。<line-break>参考になったかい？<line-break>ならないようしゃべってるんだが。<line-break>まだ、俺のおしゃべりに<line-break>つきあってくれる気はあるかい？<line-break>ヒマつぶしに何か教えてやれるかもな。<end>"
+english = "Well, that's about the size of it. Any of that useful? I've been trying to make sure it isn't. Still feel like listening to me ramble? I might teach you something to pass the time.<end>"
+
+["380081"]
+japanese = "奴とお前とは敵同士だ。<line-break>そこには憎しみしかない。<line-break>まったくいい関係だぜ。<end>"
+english = "The two of you are enemies. There's nothing but hatred between you. What a wonderful relationship.<end>"
+
+["380082"]
+japanese = "奴との関係は<line-break>冷え切ってるぜ。<line-break>お前は奴に軽蔑されてるな。<end>"
+english = "Things between you are ice-cold. You're held in contempt.<end>"
+
+["380083"]
+japanese = "ズバリただの知り合いだ。<line-break>お互いに顔を知ってる、それだけだ。<line-break>ったく、つまんねーな。<end>"
+english = "You're just acquaintances, plain and simple. You recognize each other, and that's all. Boring as hell.<end>"
+
+["380084"]
+japanese = "チョット好意的になりつつある。<line-break>だが、あくまでもチョット！<line-break>つまりオトモダチ未満な関係だぜ。<end>"
+english = "You're starting to warm to each other a little. But only a little! In other words, you're not even friends yet.<end>"
+
+["380085"]
+japanese = "オトモダチ…偽善的なひびきだぜ。<line-break>ま、せいぜい友情ごっこを<line-break>楽しんでくれや。<end>"
+english = "Friends... What a hypocritical little word. Well, have fun playing at friendship.<end>"
+
+["380086"]
+japanese = "おいおい、マジか？<line-break>信頼しきってる関係？<line-break>なんかベタついてきてるよなー。<end>"
+english = "Whoa, seriously? Complete and utter trust? Things are starting to get awfully clingy.<end>"
+
+["380087"]
+japanese = "…熱いねー。<line-break>俺、そういうのキライなんだよ。<line-break>それって愛って奴？\u3000けっ。<end>"
+english = "Oh, how passionate. I hate this sort of thing. Is that what they call love? Hah.<end>"
+
+["380088"]
+japanese = "…なんかヤバいくらい最強に<line-break>盛り上がってるな、お前ら。<line-break>激烈すぎてヤな感じだぜ。<end>"
+english = "You two are getting insanely fired up. It's so intense, it's downright unpleasant.<end>"
+
+["380089"]
+japanese = "そいつなら、死んじまったよ…。<line-break>俺たち魔人と違って、<line-break>お前らって、はかないんだ。<line-break>お前に、もしも今度があるんなら<line-break>今度は奴が死なないですむように<line-break>してやるこった。<end>"
+english = "That one's dead... Unlike us demons, you people are short-lived. If you ever get another chance, make sure that one survives next time.<end>"
+
+["380090"]
+japanese = "こいつはなあ…<line-break>知らないほうがいいこともあるぜ？<line-break>\u3000<line-break>ま、結果を先送りしてる<line-break>だけなんだがな。<end>"
+english = "This one, huh... Some things are better left unknown, don't you think? Though really, I'm only postponing the outcome.<end>"
+
+["380091"]
+japanese = "もういい<end>"
+english = "That's enough.<end>"
+
+["380092"]
+japanese = "アイリーン、ねえ…。<end>"
+english = "Irene, huh...<end>"
+
+["380093"]
+japanese = "アトレイア、ねえ…。<end>"
+english = "Atleia, huh...<end>"
+
+["380094"]
+japanese = "アンギルダン、ねえ…。<end>"
+english = "Angeerdan, huh...<end>"
+
+["380095"]
+japanese = "イークレムン、ねえ…。<end>"
+english = "Iiklmn, huh...<end>"
+
+["380096"]
+japanese = "イオンズ、ねえ…。<end>"
+english = "Ions, huh...<end>"
+
+["380097"]
+japanese = "ヴァイライラ、ねえ…。<end>"
+english = "Vailaila, huh...<end>"
+
+["380098"]
+japanese = "ヴァン、ねえ…。<end>"
+english = "Van, huh...<end>"
+
+["380099"]
+japanese = "ヴィアリアリ、ねえ…。<end>"
+english = "Vialiali, huh...<end>"
+
+["380100"]
+japanese = "エア、ねえ…。<end>"
+english = "Er, huh...<end>"
+
+["380101"]
+japanese = "エステル、ねえ…。<end>"
+english = "Esther, huh...<end>"
+
+["380102"]
+japanese = "エスト、ねえ…。<end>"
+english = "Est, huh...<end>"
+
+["380103"]
+japanese = "オイフェ、ねえ…。<end>"
+english = "Aoife, huh...<end>"
+
+["380104"]
+japanese = "カルラ、ねえ…。<end>"
+english = "Karula, huh...<end>"
+
+["380105"]
+japanese = "クリュセイス、ねえ…。<end>"
+english = "Khryuseis, huh...<end>"
+
+["380106"]
+japanese = "ザギヴ、ねえ…。<end>"
+english = "Zagiv, huh...<end>"
+
+["380107"]
+japanese = "ゼネテス、ねえ…。<end>"
+english = "Xenetes, huh...<end>"
+
+["380108"]
+japanese = "セラ、ねえ…。<end>"
+english = "Sera, huh...<end>"
+
+["380109"]
+japanese = "あんたの弟、ねえ…。<end>"
+english = "Your younger brother, huh...<end>"
+
+["380110"]
+japanese = "ティアナ、ねえ…。<end>"
+english = "Tiana, huh...<end>"
+
+["380111"]
+japanese = "デルガド、ねえ…。<end>"
+english = "Dergado, huh...<end>"
+
+["380112"]
+japanese = "ナッジ、ねえ…。<line-break>いい奴なんだけどなあ…。<end>"
+english = "Nadge, huh... He's a good man, but...<end>"
+
+["380113"]
+japanese = "ノエル、ねえ…。<end>"
+english = "Noel, huh...<end>"
+
+["380114"]
+japanese = "ヒルダリア、ねえ…。<end>"
+english = "Hildaria, huh...<end>"
+
+["380115"]
+japanese = "フェティ、ねえ…。<end>"
+english = "Fety, huh...<end>"
+
+["380116"]
+japanese = "フレア、ねえ…。<end>"
+english = "Flare, huh...<end>"
+
+["380117"]
+japanese = "ベルゼーヴァ、ねえ…。<end>"
+english = "Beelzeva, huh...<end>"
+
+["380118"]
+japanese = "ユーリス…あのバカ女か…。<end>"
+english = "Julls... Oh, that stupid woman.<end>"
+
+["380119"]
+japanese = "ルルアンタ、ねえ…。<end>"
+english = "Lulluantha, huh...<end>"
+
+["380120"]
+japanese = "レーグ、ねえ…。<end>"
+english = "Reig, huh...<end>"
+
+["380121"]
+japanese = "レムオン、ねえ…。<end>"
+english = "Lemghon, huh...<end>"
+
+["380122"]
+japanese = "レルラ＝ロントン、ねえ…。<end>"
+english = "Relra-Lonton, huh...<end>"
+
+["380123"]
+japanese = "ロイ、ねえ…。<end>"
+english = "Roy, huh...<end>"
+
+["380124"]
+japanese = "フェティ、ねえ…。<end>"
+english = "Fety, huh...<end>"
+
+["380125"]
+japanese = "エルファス、ねえ…。<end>"
+english = "Elfas, huh...<end>"
+
+["380126"]
+japanese = "ジリオン、ねえ…。<end>"
+english = "Zillion, huh...<end>"
+
+["380127"]
+japanese = "イーシャ、ねえ…。<end>"
+english = "Iria, huh...<end>"
+
+["380128"]
+japanese = "ま、こんな感じだ。<line-break>参考になったかい？<line-break>ならないようしゃべってるんだが。<line-break>まだ、俺のおしゃべりに<line-break>つきあってくれる気はあるかい？<line-break>ヒマつぶしに何か教えてやれるかもな。<end>"
+english = "Well, that's about the size of it. Was any of that useful? I've been trying to make sure it wasn't. Still willing to sit through more of my rambling? I might teach you something to pass the time.<end>"
+
+["380129"]
+japanese = "レムオン<end>"
+english = "Lemghon<end>"
+
+["380130"]
+japanese = "レムオン、ねえ…。<end>"
+english = "Lemghon...<end>"
+
+["380131"]
+japanese = "イオンズ<end>"
+english = "Ionz<end>"
+
+["380132"]
+japanese = "イオンズ、ねえ…。<end>"
+english = "Ions, huh...<end>"
+
+["380133"]
+japanese = "ロイ<end>"
+english = "Roy<end>"
+
+["380134"]
+japanese = "ロイ、ねえ…。<end>"
+english = "Roy...<end>"
+
+["380135"]
+japanese = "チャカ、ねえ…。<end>"
+english = "Chaka, huh...<end>"
+
+["380136"]
+japanese = "こいつはなあ…<line-break>知らないほうがいいこともあるぜ？<line-break>\u3000<line-break>ま、結果を先送りしてる<line-break>だけなんだがな<end>"
+english = "The thing is... some things are better left unknown, you know? Though that only delays the consequences.<end>"
+
+["380137"]
+japanese = "旅立ち１１メッセージ終端<end>"
+english = ""

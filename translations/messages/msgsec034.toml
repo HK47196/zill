@@ -1,0 +1,293 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["340000"]
+japanese = "旅立ち０７メッセージ<end>"
+english = ""
+
+["340001"]
+japanese = "よし、見せてみろ。<end>"
+english = "All right, let me see it.<end>"
+
+["340002"]
+japanese = "そこそこ、形になっているな。<line-break>しかし…<end>"
+english = "Not bad. It's taking shape. But...<end>"
+
+["340003"]
+japanese = "どうもっ！\u3000お疲れっす、カッツさん！<line-break>ウルカーン神殿の者ですっ！<end>"
+english = "Hello! Hard at work, Katz? I'm from the Temple of Ulkarn!<end>"
+
+["340004"]
+japanese = "…ああ。<end>"
+english = "...Yeah.<end>"
+
+["340005"]
+japanese = "先日お願いした儀礼用メイス６本っ、<line-break>できていますでしょうかっ！？<end>"
+english = "Are the six ceremonial maces I ordered the other day ready!?<end>"
+
+["340006"]
+japanese = "あっ！！\u3000あれですねっ！！<end>"
+english = "Oh! Those!<end>"
+
+["340007"]
+japanese = "す、すごいっ！\u3000さすがカッツさんっ！<line-break>すばらしいできですっ！\u3000感動ですっ！<end>"
+english = "A-amazing! I knew you could do it, Katz! They're beautifully made! I'm so impressed!<end>"
+
+["340008"]
+japanese = "そう言えばっ！\u3000夜明け前の地震は<line-break>すごかったですねっ！<end>"
+english = "Oh, that reminds me! That earthquake before dawn was incredible, wasn't it?<end>"
+
+["340009"]
+japanese = "…ん…<end>"
+english = "...Mm.<end>"
+
+["340010"]
+japanese = "私は炎竜山の炎が<line-break>復活したのかと思いましたっ！！<end>"
+english = "I thought the fires of Flame Dragon Mountain had come back to life!<end>"
+
+["340011"]
+japanese = "うーむ…。<end>"
+english = "Hmm...<end>"
+
+["340012"]
+japanese = "あっ、今回のお代ですっ！！<line-break>お受け取りくださいっ！<end>"
+english = "Oh, here's the payment! Please, take it!<end>"
+
+["340013"]
+japanese = "あ、あのっ！<line-break>カッツさんっ！<end>"
+english = "Um, Katz!<end>"
+
+["340014"]
+japanese = "<value:$28>、<line-break>受け取っておけ。<end>"
+english = "<value:$28>, take it.<end>"
+
+["340015"]
+japanese = "初めてにしては悪くないが…。<end>"
+english = "Not bad for a first attempt, but...<end>"
+
+["340016"]
+japanese = "カッツさんっ！<line-break>その剣はなんですかっ！<line-break>カッツさんの新作ですかっ！？<end>"
+english = "Katz! What's that sword? Is it your latest work!?<end>"
+
+["340017"]
+japanese = "<if><value:$29><equal>%0いや、これは<line-break>せがれが初めて打った剣だ。<end>いや、これは<line-break>娘が初めて打った剣だ。<end>"
+english = "<if><value:$29><equal>%0No. This is my son's First-Forged Sword.<end>No. This is my daughter's First-Forged Sword.<end>"
+
+["340018"]
+japanese = "そっ、そうなんですかっ！？<line-break>ついに<value:$28>さんも<line-break>一人前にっ！<end>"
+english = "R-really!? So <value:$28> is finally a full-fledged smith too!<end>"
+
+["340019"]
+japanese = "…まだまだ、だな。<end>"
+english = "...Not even close.<end>"
+
+["340020"]
+japanese = "いいか、<value:$28>、<line-break>まず切先だが…<end>"
+english = "Listen, <value:$28>. First, the point...<end>"
+
+["340021"]
+japanese = "これだけで見違えるようになる。<line-break>他には…<end>"
+english = "Fix that alone and it'll look like a different sword. Then there's...<end>"
+
+["340022"]
+japanese = "…こんなところか。<line-break>このくらいは、できんと話にならん。<end>"
+english = "...That should do it. If you can't manage at least this much, you're not ready.<end>"
+
+["340023"]
+japanese = "まさか…。いや、今度こそ！<end>"
+english = "Could it be...? No. This time, it has to be!<end>"
+
+["340024"]
+japanese = "煙が…。<line-break>炎竜山が噴火している…。<end>"
+english = "Smoke... Flame Dragon Mountain is erupting...<end>"
+
+["340025"]
+japanese = "とっ、ということはっ！<line-break>炎竜山の宝剣伝説が<line-break>よみがえるんですかっ！？<end>"
+english = "Th-then does that mean the legend of Flame Dragon Mountain's treasured sword will come to life!?<end>"
+
+["340026"]
+japanese = "炎竜山の炎で鍛えた剣は緋色に燃え、<line-break>神をも斬り裂く宝剣となる…。<line-break>\u3000<line-break>待ちかねたぞ、この日を。<line-break>俺たちの夢…緋炎の宝剣を打つ日を。<end>"
+english = "A sword forged in the fires of Flame Dragon Mountain will blaze crimson and become a treasured blade capable of cleaving even a god... I've waited so long for this day: the day we fulfill our dream of forging the Crimson Flame Sword.<end>"
+
+["340027"]
+japanese = "よし、すぐに支度しろ。<line-break>俺は作業場で準備する。<end>"
+english = "All right, get ready at once. I'll make preparations in the workshop.<end>"
+
+["340028"]
+japanese = "でっ、では私はこれで失礼しますっ！<line-break>ありがとうございましたっ！<end>"
+english = "Th-then I'll be on my way! Thank you very much!<end>"
+
+["340029"]
+japanese = "よし、準備はいいな。<line-break>行くぞ。山の獣には気をつけろよ。<end>"
+english = "All right, ready? Let's go. Watch out for the beasts on the mountain.<end>"
+
+["340030"]
+japanese = "よし、母さんに<line-break>あいさつしていこう。<end>"
+english = "Let's go say hello to your mother first.<end>"
+
+["340031"]
+japanese = "ロッチナ…。炎竜山がついに復活した。<line-break>これで宝剣が打てる。<line-break>俺たちの夢がかなうぞ…。<end>"
+english = "Rotchina... Flame Dragon Mountain has finally awakened. Now the treasured sword can be forged. Our dream is going to come true...<end>"
+
+["340032"]
+japanese = "それと、今日<line-break><value:$28>が剣を打った。<line-break>見てやってくれ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "And <value:$28> forged a sword today. Have a look.<end>"
+
+["340033"]
+japanese = "初めてにしてはスジがいい。\u3000\u3000<line-break><value:$28>には才能がある。<line-break>\u3000<line-break>いつか俺たちをも越える、<line-break>大陸一の鍛冶職人になるだろう。<line-break>お前も見守ってやってくれ…。<end>"
+english = "Not bad for a first attempt. <value:$28> has talent. Someday, our child will surpass even us and become the finest blacksmith on the continent. Watch over our child too...<end>"
+
+["340034"]
+japanese = "ロッチナは…、<line-break>お前の母さんは、強い人だった…。\u3000\u3000<line-break>\u3000<line-break>お前を産んですぐに死んだが…、<line-break>…鍛冶職人としても、<line-break>女性としても、尊敬できる人だった…。<end>"
+english = "Rotchina... your mother was a strong woman. She died soon after giving birth to you, but... I respected her both as a blacksmith and as a woman...<end>"
+
+["340035"]
+japanese = "いつか宝剣を打つことを夢見て<line-break>母さんと俺は、ここに来たんだ…。\u3000\u3000<line-break>\u3000<end>"
+english = "Your mother and I came here dreaming that one day we'd forge the treasured sword...<end>"
+
+["340036"]
+japanese = "く…っ、何だ？<end>"
+english = "Urgh... What is it?<end>"
+
+["340037"]
+japanese = "この丘にこんな猛獣が…、<line-break>何があったんだ？<end>"
+english = "A beast like that, here on this hill...? What's happened?<end>"
+
+["340038"]
+japanese = "ロッチナ、俺たちは行くぞ。<line-break>あとで、宝剣を持ってくる。<end>"
+english = "Rotchina, we're going now. We'll bring the treasured sword back to you.<end>"
+
+["340039"]
+japanese = "よし、炎の泉が<line-break>炎竜の炎で満ちている。<end>"
+english = "Good. The Pool of Fire is brimming with the Flame Dragon's flames.<end>"
+
+["340040"]
+japanese = "さっそく準備だ。<line-break><value:$28>、<line-break>一番赤い炎竜岩を持ってこい。<end>"
+english = "Let's get to work. <value:$28>, bring me the reddest Flame Dragon Rock.<end>"
+
+["340041"]
+japanese = "早く炎竜岩を<line-break>持ってこい。<end>"
+english = "Hurry up and bring me the Flame Dragon Rock.<end>"
+
+["340042"]
+japanese = "炎竜岩をカッツに手渡した。<end>"
+english = "The Flame Dragon Rock was handed to Katz.<end>"
+
+["340043"]
+japanese = "よし、始めるぞ。<end>"
+english = "All right, let's begin.<end>"
+
+["340044"]
+japanese = "…よし！<end>"
+english = "...There!<end>"
+
+["340045"]
+japanese = "<value:$28>、大丈夫か！？<end>"
+english = "<value:$28>, are you all right!?<end>"
+
+["340046"]
+japanese = "くっ、こんなときに。<end>"
+english = "Damn it, not now.<end>"
+
+["340047"]
+japanese = "伝説の剣、緋炎の宝剣よ！<line-break>お前の力を見せてくれ！<end>"
+english = "Crimson Flame Sword, blade of legend! Show me your power!<end>"
+
+["340048"]
+japanese = "なに！？\u3000緋炎の宝剣がっ！？<end>"
+english = "What!? The Crimson Flame Sword!?<end>"
+
+["340049"]
+japanese = "が…っ！！<end>"
+english = "Gah...!<end>"
+
+["340050"]
+japanese = "<value:$28>…、大丈夫か？<line-break>怪物は……かはっ！<end>"
+english = "<value:$28>... are you all right? The monster... Khah!<end>"
+
+["340051"]
+japanese = "そうか…お前が倒したのか…。<end>"
+english = "So... you defeated it...<end>"
+
+["340052"]
+japanese = "伝説の緋炎の宝剣…、俺が打った剣では<line-break>何か…何かが足りなかった…。<line-break>\u3000<line-break>…だが…お前ならいつか、<line-break>真の緋炎の宝剣を打てるはずだ。<end>"
+english = "The legendary Crimson Flame Sword... There was something... something missing from the sword I forged. But someday... you should be able to forge the true Crimson Flame Sword.<end>"
+
+["340053"]
+japanese = "これを…。<end>"
+english = "Take this...<end>"
+
+["340054"]
+japanese = "…分断の山脈の地下にある<line-break>地下王国の刀工デルガドを訪ねろ。<line-break>\u3000<line-break>…きっ…と、<line-break>…力になってくれる、はずだ。<end>"
+english = "Seek out Dergado, the swordsmith of the Underground Kingdom beneath the Dividing Mountains. He'll... surely be able to help you.<end>"
+
+["340055"]
+japanese = "…行け。ここはもうダメだ。<line-break>…俺も…。<end>"
+english = "Go. This place is finished... and so am I...<end>"
+
+["340056"]
+japanese = "頼んだぞ…。俺とロッチナの夢を、<line-break>お前が果たしてくれ。<end>"
+english = "I'm counting on you... Fulfill the dream Rotchina and I shared.<end>"
+
+["340057"]
+japanese = "…よし…、<value:$28>…、<line-break>任せたぞ。<end>"
+english = "...All right, <value:$28>... It's in your hands now.<end>"
+
+["340058"]
+japanese = "…ロッチナ…これからはずっと…。<end>"
+english = "...Rotchina... from now on, forever...<end>"
+
+["340059"]
+japanese = "父の首飾りを母の墓にかける<end>"
+english = "Place Father's necklace on Mother's grave.<end>"
+
+["340060"]
+japanese = "父の首飾りは形見として取っておく<end>"
+english = "Keep Father's necklace as a memento.<end>"
+
+["340061"]
+japanese = "父の首飾りを母の墓にかけた。<end>"
+english = "Placed Father's necklace on Mother's grave.<end>"
+
+["340062"]
+japanese = "予備メッセージ１<line-break>０７バーニン親子鷹<end>"
+english = ""
+
+["340063"]
+japanese = "予備メッセージ２<line-break>０７バーニン親子鷹<end>"
+english = ""
+
+["340064"]
+japanese = "予備メッセージ３<line-break>０７バーニン親子鷹<end>"
+english = ""
+
+["340065"]
+japanese = "予備メッセージ４<line-break>０７バーニン親子鷹<end>"
+english = ""
+
+["340066"]
+japanese = "予備メッセージ５<line-break>０７バーニン親子鷹<end>"
+english = ""
+
+["340067"]
+japanese = "予備メッセージ６<line-break>０７バーニン親子鷹<end>"
+english = ""
+
+["340068"]
+japanese = "予備メッセージ７<line-break>０７バーニン親子鷹<end>"
+english = ""
+
+["340069"]
+japanese = "予備メッセージ８<line-break>０７バーニン親子鷹<end>"
+english = ""
+
+["340070"]
+japanese = "予備メッセージ９<line-break>０７バーニン親子鷹<end>"
+english = ""
+
+["340071"]
+japanese = "予備メッセージ１０<line-break>０７バーニン親子鷹<end>"
+english = ""
+
+["340072"]
+japanese = "旅立ち０７メッセージ終端<end>"
+english = ""

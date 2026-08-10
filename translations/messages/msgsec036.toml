@@ -1,0 +1,401 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["360000"]
+japanese = "旅立ち０９メッセージ<end>"
+english = ""
+
+["360001"]
+japanese = "（…ドアの音。また、母さんか？<line-break>\u3000…まだ夜明け前なのに…<line-break>\u3000いったいどこへ？\u3000\u3000\u3000）\u3000\u3000\u3000<end>"
+english = "(The door... Was that Mother again? It's not even dawn yet. Where could she be going?)<end>"
+
+["360002"]
+japanese = "（まさか、\u3000モンスターに<line-break>\u3000操られているんじゃ…。\u3000）\u3000\u3000<end>"
+english = "(Could a monster be controlling her...?)<end>"
+
+["360003"]
+japanese = "（やっぱり、母さん、<line-break>\u3000いない…。）<end>"
+english = "(I knew it. Mother's gone...)<end>"
+
+["360004"]
+japanese = "（遺跡の方へ行く…。<line-break>\u3000…追いかけよう）<end>"
+english = "(She's heading toward the ruins... I'll follow her.)<end>"
+
+["360005"]
+japanese = "まだ、大丈夫ね…。<line-break>光は日に日に強くなるけど、<line-break>復活の兆しはない…。<end>"
+english = "It's still all right... The light grows stronger by the day, but there's no sign of the resurrection yet...<end>"
+
+["360006"]
+japanese = "<value:$28>…。<line-break>ここはお前の来るところではないわ。<line-break>いい？\u3000二度と来ないの。<end>"
+english = "<value:$28>... You shouldn't be here. Do you understand? Never come back.<end>"
+
+["360007"]
+japanese = "…竜王の覚醒？\u3000…そんな！？ <line-break>運命は…<line-break>変えられない？\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
+english = "The Dragon King's Awakening...? No! Can destiny really not be changed?<end>"
+
+["360008"]
+japanese = "…<value:$28>。<end>"
+english = "<value:$28>...<end>"
+
+["360009"]
+japanese = "お前に出会って<line-break>もう１７年になるのね。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ずっと、こうしていたかったけれど、<line-break>運命はそれを許しては<line-break>くれないようね。<end>"
+english = "It's been seventeen years since I met you. I wanted us to stay this way forever, but destiny doesn't seem willing to allow it.<end>"
+
+["360010"]
+japanese = "おいで、<value:$28>。<end>"
+english = "Come here, <value:$28>.<end>"
+
+["360011"]
+japanese = "ごらん、<value:$28>。<line-break>きれいでしょう？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ここがヴァシュタールの柩と呼ばれ、<line-break>この町が、捧げられる町と呼ばれる、<line-break>そのゆえんが、この光る石なの。<end>"
+english = "Look, <value:$28>. Beautiful, isn't it? This glowing stone is why this place is called Vashtar's Coffin, and why this town is known as the Town Offered in Sacrifice.<end>"
+
+["360012"]
+japanese = "<value:$28>、<line-break>夜が明けるわ…。<end>"
+english = "<value:$28>, dawn is breaking...<end>"
+
+["360013"]
+japanese = "また、戦いの時代が始まる。<line-break>…もう、たくさん。<end>"
+english = "Another age of war is beginning. I've had enough...<end>"
+
+["360014"]
+japanese = "…バルザー。<end>"
+english = "...Baltzer.<end>"
+
+["360015"]
+japanese = "<if><value:$29><equal>%0少年よ。この金で<line-break>元気の薬を買ってきてくれぬか。<line-break>慣れぬ地で勝手がわからないのだ。<end>少女よ。この金で<line-break>元気の薬を買ってきてくれぬか。<line-break>慣れぬ地で勝手がわからないのだ。<end>"
+english = "<if><value:$29><equal>%0Boy, would you buy me some medicine to restore my strength with this money? I am unfamiliar with this land and do not know my way around.<end>Girl, would you buy me some medicine to restore my strength with this money? I am unfamiliar with this land and do not know my way around.<end>"
+
+["360016"]
+japanese = "時は来た。<line-break>…それなのに、なぜ時を告げぬ？<line-break>告げるものよ。<end>"
+english = "The time has come. Why, then, have you not proclaimed it, Proclaimer?<end>"
+
+["360017"]
+japanese = "どうしてかしらね。<end>"
+english = "I wonder why.<end>"
+
+["360018"]
+japanese = "<if><value:$29><equal>%0あの少年か…。<end>あの少女か…。<end>"
+english = "<if><value:$29><equal>%0That boy...<end>That girl...<end>"
+
+["360019"]
+japanese = "そうね。<end>"
+english = "Yes.<end>"
+
+["360020"]
+japanese = "ヴァシュタールを目覚めさせぬのは、<line-break>我らが主への裏切りだぞ。<end>"
+english = "Refusing to awaken Vashtar is a betrayal of our lord.<end>"
+
+["360021"]
+japanese = "フフ、裏切り者の私を殺しに来たの？<line-break>円卓騎士バルザー。<end>"
+english = "Heh. Have you come to kill me for my betrayal, Baltzer, Knight of the Round Table?<end>"
+
+["360022"]
+japanese = "………………。<end>"
+english = "....................<end>"
+
+["360023"]
+japanese = "優しいのね。<line-break>でも優しさは弱さよ。<line-break>老いぼれたわね、バルザー。<end>"
+english = "How kind of you. But kindness is weakness. You've grown old, Baltzer.<end>"
+
+["360024"]
+japanese = "<if><value:$29><equal>%0お前もな、アスティア。<line-break>私があの少年に近づいたとき、<line-break>お前は動く素振りも見せなかった。\u3000<line-break>あの少年を殺し、お前を<line-break>もとの冷酷な円卓騎士に戻そうとする<line-break>とは思わなかったのか？<end>お前もな、アスティア。<line-break>私があの少女に近づいたとき、<line-break>お前は動く素振りも見せなかった。\u3000<line-break>あの少女を殺し、お前を<line-break>もとの冷酷な円卓騎士に戻そうとする<line-break>とは思わなかったのか？<end>"
+english = "<if><value:$29><equal>%0As have you, Astia. When I approached that boy, you made no move at all. Did it never occur to you that I might kill him and turn you back into the ruthless Knight of the Round Table you once were?<end>As have you, Astia. When I approached that girl, you made no move at all. Did it never occur to you that I might kill her and turn you back into the ruthless Knight of the Round Table you once were?<end>"
+
+["360025"]
+japanese = "ええ。<line-break>だって、あなたは<line-break>愛を知ってしまったもの。<line-break>失う、ということも…。<end>"
+english = "Yes. Because you've come to know love―and what it means to lose it...<end>"
+
+["360026"]
+japanese = "………………。<end>"
+english = "....................<end>"
+
+["360027"]
+japanese = "今日、ここへ来たのも、<line-break>竜王が吼えたからでしょう。<end>"
+english = "You came here today because the Dragon King roared, didn't you?<end>"
+
+["360028"]
+japanese = "…運命は変えられぬ。<line-break>お前のしていることは無駄になる。<end>"
+english = "Destiny cannot be changed. Everything you're doing will come to nothing.<end>"
+
+["360029"]
+japanese = "ヴァシュタールを目覚めさせることが<line-break>できるのは私だけ。そして、闇の門を<line-break>開けられるのはヴァシュタールだけ。<line-break>闇の門を通らなければ、<line-break>ウルグ様は復活できない。<line-break>…違うかしら？\u3000それでも無駄だと？<end>"
+english = "I alone can awaken Vashtar, and only Vashtar can open the Gate of Darkness. Without passing through it, Lord Urg cannot be resurrected. Am I wrong? Do you still say it's all futile?<end>"
+
+["360030"]
+japanese = "…アスティア、<line-break>私は警告に来ただけだ。<end>"
+english = "Astia, I came only to warn you.<end>"
+
+["360031"]
+japanese = "己が力を過信するな。<line-break>個の力など運命の前には無力だ。<end>"
+english = "Do not overestimate your strength. The power of any one person is nothing before destiny.<end>"
+
+["360032"]
+japanese = "さぁ、どうかしら？<end>"
+english = "Who can say?<end>"
+
+["360033"]
+japanese = "…ヴァシュタールの柩に<line-break>向かう者がある。<line-break>\u3000<line-break>奴の気は変幻万化して<line-break>正体をつかませぬ。<line-break>気をつけることだ。<end>"
+english = "Someone is heading for Vashtar's Coffin. The aura shifts endlessly, making its source impossible to identify. Be on your guard.<end>"
+
+["360034"]
+japanese = "（母さんがいない。<line-break>\u3000まさか…、また遺跡へ？）<end>"
+english = "(Mother's gone. She couldn't have gone back to the ruins... could she?)<end>"
+
+["360035"]
+japanese = "…きれいだね。<end>"
+english = "Beautiful, isn't it?<end>"
+
+["360036"]
+japanese = "…知りたがってるね？<end>"
+english = "You want to know, don't you?<end>"
+
+["360037"]
+japanese = "今まで信じてきたもの<line-break>ずべてが疑わしくなった。\u3000\u3000<line-break>フフ…そんな顔をしているよ、君。<end>"
+english = "Everything you've believed until now has become suspect. Heh... It's written all over your face.<end>"
+
+["360038"]
+japanese = "ああ、自己紹介するね。\u3000\u3000\u3000<line-break>僕は東方の博士シャリ。<line-break>\u3000<line-break>そして君は<value:$28>。<line-break>アスティアが１６年前に<line-break>拾った赤ん坊。ウフフアハハ！<end>"
+english = "Oh, I should introduce myself. I'm Shalli, a scholar from the East. And you're <value:$28>, the infant Astia found sixteen years ago. Ooh-hoo-hoo, ah-ha-ha!<end>"
+
+["360039"]
+japanese = "そーれ。<end>"
+english = "Here we go!<end>"
+
+["360040"]
+japanese = "お母さんのこと、光る石のこと、<line-break>…卵の中身が気になるんだろ？<end>"
+english = "You want to know about your mother, the glowing stone... and what's inside the egg, don't you?<end>"
+
+["360041"]
+japanese = "ねぇ、僕が卵を割ってあげるよ。<line-break>卵の中身を見せたげる。<end>"
+english = "I'll crack the egg for you. Then you can see what's inside.<end>"
+
+["360042"]
+japanese = "ね、手伝って？<line-break>君の力が必要なんだ。<line-break>石に、手をかざして。<end>"
+english = "Will you help me? I need your power. Hold your hand over the stone.<end>"
+
+["360043"]
+japanese = "<value:$28>、<line-break>無限のソウルを持つ者よ。<end>"
+english = "<value:$28>, Bearer of the Infinite Soul.<end>"
+
+["360044"]
+japanese = "僕は君に会えてうれしいよ。<end>"
+english = "I'm so glad to meet you.<end>"
+
+["360045"]
+japanese = "また…、<line-break>目覚めて…しまったのか…？<end>"
+english = "Have I... awakened again...?<end>"
+
+["360046"]
+japanese = "おはよ、破壊神ウルグの円卓騎士<line-break>ヴァシュタール。<end>"
+english = "Morning, Vashtar―Knight of the Round Table who serves Urg, God of Destruction.<end>"
+
+["360047"]
+japanese = "アスティアでは…ない…？<line-break>人間にこのようなことが可能なのか？<end>"
+english = "You're not... Astia? Is such a thing possible for a human?<end>"
+
+["360048"]
+japanese = "なるほど、<line-break>無限のソウルの持ち主か…。<end>"
+english = "So... the Bearer of the Infinite Soul.<end>"
+
+["360049"]
+japanese = "なぜ、私を呼び覚ました。<end>"
+english = "Why did you awaken me?<end>"
+
+["360050"]
+japanese = "破壊神降臨の通路、闇の門を<line-break>開けるのが君の役目でしょ。<line-break>他に芸があるの？<end>"
+english = "Your job is to open the Gate of Darkness, the path by which the God of Destruction descends. What else are you good for?<end>"
+
+["360051"]
+japanese = "人間は<line-break>つくづく度し難いものだ…。\u3000\u3000\u3000<line-break>\u3000<line-break>神去ったこの世界で、<line-break>ウルグ様が復活することが<line-break>どういうことかわかっているのか？<end>"
+english = "Humans truly are beyond reason... Do you understand what Lord Urg's resurrection would mean in this world abandoned by the gods?<end>"
+
+["360052"]
+japanese = "おもしろいことさ。<end>"
+english = "It would be interesting.<end>"
+
+["360053"]
+japanese = "フッ。よかろう。時は満ちている。<line-break>闇の門を開けるのは、<line-break>開け放つものである私の役目だ。<line-break>だが、まだ、力が足りぬ。<end>"
+english = "Hmph. Very well. The time is ripe. As the one who opens the way, it is my duty to open the Gate of Darkness. But I still lack the strength.<end>"
+
+["360054"]
+japanese = "なーに言ってんの！<line-break>この町を作ったのは、なんのため？\u3000<line-break>たくさん、人間を飼っておいて<line-break>目覚めたときに、ソウルを刈り取って<line-break>力を吸収するためでしょ？<end>"
+english = "What are you talking about? Why do you think this town was built? It was made to keep all these humans like livestock, so you could reap their Souls when you awoke and absorb their power!<end>"
+
+["360055"]
+japanese = "さぁ、さくさく住民の魂を\u3000\u3000\u3000\u3000\u3000<line-break>吸い取っちゃってよ。<line-break>ヴァシュタール。<end>"
+english = "Go on, Vashtar. Hurry up and drain the townspeople's souls.<end>"
+
+["360056"]
+japanese = "ダメだよ、<value:$28>。\u3000\u3000<line-break>せっかく卵を割って、<line-break>中身を見せてあげてるのに…。<line-break>それにね、フフフ、<line-break>割れた卵はもとには戻らないんだ。<end>"
+english = "No, <value:$28>. I went to all this trouble to crack the egg and show you what's inside... Besides, heh-heh-heh, a broken egg can never be made whole again.<end>"
+
+["360057"]
+japanese = "<value:$28>、無事？<end>"
+english = "<value:$28>, are you all right?<end>"
+
+["360058"]
+japanese = "あー、ズルいー！<line-break>子供のケンカに親が出てきたー！<end>"
+english = "Hey, no fair! Parents aren't supposed to butt into kids' fights!<end>"
+
+["360059"]
+japanese = "復活の時に無限のソウルの持ち主が<line-break>生まれあわせているなんて…。<line-break>\u3000<line-break>しかもそれが、<value:$28>、<line-break>お前だなんて…。<end>"
+english = "To think the Bearer of the Infinite Soul would be born in time for the resurrection... And of all people, it had to be you, <value:$28>...<end>"
+
+["360060"]
+japanese = "破壊神ウルグの円卓騎士<line-break>告げるものアスティアよ。\u3000\u3000\u3000<line-break>お前の背信のもくろみは失敗だ。<line-break>どうあがこうと<line-break>運命には逆らえないということだな。<end>"
+english = "Astia the Proclaimer, Knight of the Round Table who serves Urg, God of Destruction. Your treacherous scheme has failed. Struggle as you will, destiny cannot be defied.<end>"
+
+["360061"]
+japanese = "<value:$28>、逃げなさい！<line-break>この町を出るの！<line-break>私もすぐにあとを追うわ！<end>"
+english = "Run, <value:$28>! Get out of this town! I'll be right behind you!<end>"
+
+["360062"]
+japanese = "すぐにあとを追う、だと？<line-break>フッ、笑止な。<line-break>実力を知れ…、背信者アスティアよ。<end>"
+english = "“Right behind,” you say? Hah. Absurd. Know your limits, Astia the Betrayer.<end>"
+
+["360063"]
+japanese = "お願い！\u3000逃げて！<end>"
+english = "Please! Run!<end>"
+
+["360064"]
+japanese = "お母さんの言うことを<line-break>聞いといた方がいいよ。\u3000\u3000<line-break>\u3000<line-break>もうすぐここの住民は<line-break>ヴァシュタールに魂を<line-break>吸い取られちゃう。<end>"
+english = "You'd better listen to your mother. Vashtar is about to drain the souls of everyone in this town.<end>"
+
+["360065"]
+japanese = "君のお母さんなら大丈夫さ。<line-break>破壊神ウルグに仕える<line-break>円卓騎士のひとりだもん。<line-break>ものすごく強いんだから！<line-break>やられはしないよ。<end>"
+english = "Your mother will be fine. She's one of the Knights of the Round Table who serve Urg, God of Destruction. She's incredibly strong! She won't be beaten.<end>"
+
+["360066"]
+japanese = "アスティア、君の願い、<line-break>半分だけ、かなえてあげる。<line-break>\u3000<line-break>屋上まで<line-break>この子を運んだげるよ。<line-break>あとは、この子次第さ。<end>"
+english = "Astia, I'll grant half your wish. I'll carry this child to the roof. What happens after that is up to the child.<end>"
+
+["360067"]
+japanese = "じゃあねぇ！<line-break>がんばってねぇ！<end>"
+english = "Bye now! Good luck!<end>"
+
+["360068"]
+japanese = "<if><value:$29><equal>%0少年よ、見せてもらおう。<line-break>貴様が生き延びるに値する者なのかを。<end>少女よ、見せてもらおう。<line-break>貴様が生き延びるに値する者なのかを。<end>"
+english = "<if><value:$29><equal>%0Boy, let me see whether you deserve to survive.<end>Girl, let me see whether you deserve to survive.<end>"
+
+["360069"]
+japanese = "無なる黒は光無き闇、<line-break>無の壁は無の黒にして世界を絶つ<line-break>…虚無の壁！<end>"
+english = "Blackness born of nothing is darkness without light. The wall of nothing is the black of nothing, severing the world... Wall of the Void!<end>"
+
+["360070"]
+japanese = "システィーナの涙よ、星のかけらよ。<line-break>愚者の胸より疾く来たりて、<line-break>我が力となれ…ソウルリープ！<end>"
+english = "O tears of Sistina, O shards of stars. Fly swiftly from the fool's breast and become my power... Soul Leap!<end>"
+
+["360071"]
+japanese = "<value:$28>ー！<end>"
+english = "<value:$28>!<end>"
+
+["360072"]
+japanese = "無なる黒は光無き闇、<line-break>無の壁は無の黒にして世界を絶つ<line-break>…虚無の壁！<end>"
+english = "Blackness born of nothing is darkness without light. The wall of nothing is the black of nothing, severing the world... Wall of the Void!<end>"
+
+["360073"]
+japanese = "<value:$28>…。<end>"
+english = "<value:$28>...<end>"
+
+["360074"]
+japanese = "…そうよ、私は破壊神に仕える魔人。\u3000<line-break>何千年という時を<line-break>戦いながら生きてきたわ…。<line-break>だけど、お前と過ごした１７年…<line-break>私は初めて安らぎを知った…。<line-break>\u3000<end>"
+english = "Yes. I am a demon who serves the God of Destruction. I have lived and fought for thousands of years... But in the seventeen years I spent with you, I learned peace for the first time...<end>"
+
+["360075"]
+japanese = "お前の無垢な笑顔、安らかな寝顔、<line-break>お前といた一瞬一瞬が私の宝物だった。<end>"
+english = "Your innocent smile, the peaceful look on your face as you slept... Every moment I spent with you was a treasure to me.<end>"
+
+["360076"]
+japanese = "システィーナの涙よ、星のかけらよ。<line-break>愚者の胸より疾く来たりて、<line-break>我が力となれ…ソウルリープ！！<end>"
+english = "O tears of Sistina, O shards of stars. Fly swiftly from the fool's breast and become my power... Soul Leap!!<end>"
+
+["360077"]
+japanese = "<value:$28>、<line-break>強く…生きて…。<end>"
+english = "<value:$28>... Be strong. Live...<end>"
+
+["360078"]
+japanese = "<if><value:$29><equal>%0逃げ延びたのか？\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>フッ、あの少年なら、<line-break>私に永遠の眠りをもたらすことが<line-break>できるのかもしれぬな…。<end>逃げ延びたのか？\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>フッ、あの少女こそ、<line-break>私に永遠の眠りをもたらすことが<line-break>できるのかもしれぬな…。<end>"
+english = "<if><value:$29><equal>%0Did he escape? Hah. Perhaps that boy might grant me eternal Sleep...<end>Did she escape? Hah. Perhaps that girl is the one who might grant me eternal Sleep...<end>"
+
+["360079"]
+japanese = "んしょ、んしょ。<line-break>僕も、いいかげん、面倒見がいいよね。<end>"
+english = "Heave-ho, heave-ho. I really do go out of my way to look after people, don't I?<end>"
+
+["360080"]
+japanese = "いい人に拾われるんだよ。<line-break>じゃね。<end>"
+english = "Make sure someone nice takes you in. Bye.<end>"
+
+["360081"]
+japanese = "<if><value:$29><equal>%0お兄ちゃん、お兄ちゃん、起きて。<line-break>こんなとこで寝てると<line-break>風邪ひいちゃうよぉ。<end>お姉ちゃん、お姉ちゃん、起きて。<line-break>こんなとこで寝てると<line-break>風邪ひいちゃうよぉ。<end>"
+english = "<if><value:$29><equal>%0Mister, mister, wake up. You'll catch cold if you sleep out here.<end>Miss, miss, wake up. You'll catch cold if you sleep out here.<end>"
+
+["360082"]
+japanese = "<if><value:$29><equal>%0ここ？\u3000ロストール。王国の都だよ。<line-break>お兄ちゃん、どうしたの？<end>ここ？\u3000ロストール。王国の都だよ。<line-break>お姉ちゃん、どうしたの？<end>"
+english = "<if><value:$29><equal>%0Here? This is Rostorl, the capital of the kingdom. What happened to you, mister?<end>Here? This is Rostorl, the capital of the kingdom. What happened to you, miss?<end>"
+
+["360083"]
+japanese = "<if><value:$29><equal>%0ふぅん。じゃ、お兄ちゃんもあたしと<line-break>おんなじだ。ルルアンタもね、<line-break>お父さんとお母さんいないよ。<line-break>お世話になってたフリントさんも、<line-break>ガルドランって人に襲われて、<line-break>昨日、死んじゃった。<end>ふぅん。じゃ、お姉ちゃんもあたしと<line-break>おんなじだ。ルルアンタもね、<line-break>お父さんとお母さんいないよ。<line-break>お世話になってたフリントさんも、<line-break>ガルドランって人に襲われて、<line-break>昨日、死んじゃった。<end>"
+english = "<if><value:$29><equal>%0Oh. Then you're just like Lulluantha, mister. Lulluantha doesn't have a mother or father either. And Mr. Flint, who was looking after me, was attacked by someone called Girldlan. He died yesterday.<end>Oh. Then you're just like Lulluantha, miss. Lulluantha doesn't have a mother or father either. And Mr. Flint, who was looking after me, was attacked by someone called Girldlan. He died yesterday.<end>"
+
+["360084"]
+japanese = "うん、ルルアンタ、元気だよ。\u3000\u3000\u3000<line-break>あのね、フリントさんが<line-break>言ってくれたんだ。<line-break>ルルアンタは元気だね、<line-break>ルルアンタが元気だと私も<line-break>うれしくなって元気が出るって。<end>"
+english = "Yep, Lulluantha's cheerful! You know, Mr. Flint told me, “Lulluantha, you're so cheerful. When you're cheerful, it makes me happy and gives me strength too.”<end>"
+
+["360085"]
+japanese = "だから、ルルアンタ、<line-break>天国のフリントさんが<line-break>喜んでくれるように元気なんだ。\u3000\u3000<end>"
+english = "So Lulluantha stays cheerful to make Mr. Flint happy up in heaven.<end>"
+
+["360086"]
+japanese = "<if><value:$29><equal>%0お兄ちゃんも、<line-break>ルルアンタが元気だとうれしいの？<end>お姉ちゃんも、<line-break>ルルアンタが元気だとうれしいの？<end>"
+english = "<if><value:$29><equal>%0Does seeing Lulluantha cheerful make you happy too, mister?<end>Does seeing Lulluantha cheerful make you happy too, miss?<end>"
+
+["360087"]
+japanese = "<if><value:$29><equal>%0うふふ、じゃあ、ルルアンタ、<line-break>お兄ちゃんと一緒にいてあげるね。<line-break>お兄ちゃん、お名前は？<end>うふふ、じゃあ、ルルアンタ、<line-break>お姉ちゃんと一緒にいてあげるね。<line-break>お姉ちゃん、お名前は？<end>"
+english = "<if><value:$29><equal>%0Hee-hee! Then Lulluantha will stay with you, mister. What's your name?<end>Hee-hee! Then Lulluantha will stay with you, miss. What's your name?<end>"
+
+["360088"]
+japanese = "じゃ、あらためてぇ…。<line-break>あたしは、ルルアンタ。<line-break>よろしくね、<value:$28>。<end>"
+english = "Then let's start over. I'm Lulluantha. Nice to meet you, <value:$28>.<end>"
+
+["360089"]
+japanese = "予備メッセージ１<line-break>０９始まりの地<end>"
+english = ""
+
+["360090"]
+japanese = "予備メッセージ２<line-break>０９始まりの地<end>"
+english = ""
+
+["360091"]
+japanese = "予備メッセージ３<line-break>０９始まりの地<end>"
+english = ""
+
+["360092"]
+japanese = "予備メッセージ４<line-break>０９始まりの地<end>"
+english = ""
+
+["360093"]
+japanese = "予備メッセージ５<line-break>０９始まりの地<end>"
+english = ""
+
+["360094"]
+japanese = "予備メッセージ６<line-break>０９始まりの地<end>"
+english = ""
+
+["360095"]
+japanese = "予備メッセージ７<line-break>０９始まりの地<end>"
+english = ""
+
+["360096"]
+japanese = "予備メッセージ８<line-break>０９始まりの地<end>"
+english = ""
+
+["360097"]
+japanese = "予備メッセージ９<line-break>０９始まりの地<end>"
+english = ""
+
+["360098"]
+japanese = "予備メッセージ１０<line-break>０９始まりの地<end>"
+english = ""
+
+["360099"]
+japanese = "旅立ち０９メッセージ終端<end>"
+english = ""

@@ -1,0 +1,109 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["940000"]
+japanese = "ダミーメッセージここから<end>"
+english = ""
+
+["940001"]
+japanese = "<if><value:$01><equal>2…ふう、なんだか緊張するわね、これ。<line-break>さあ、行きましょう<value:$28>。<line-break>今、なすべきことをなすために！ <end><if><value:$01><equal>3うむ、よく呼び出してくれた。<line-break>ちょうど退屈しておったところじゃ。<line-break>では、さっそく行こうぞ。 <end><if><value:$01><equal>4呼び出されちゃった。<line-break><value:$28>様って気まぐれかも！<line-break>ま、いっか。出発ね。 <end><if><value:$01><equal>5よう、<value:$28>！<line-break>俺ならいつでも出発できるぜ！<line-break>準備ヴァンたん、ってな。ププ。 <end><if><value:$01><equal>6へっへー。やっと呼んでくれたね。<line-break>待ってたよ、<value:$28>。<line-break>さ、張り切って行こうか！ <end><if><value:$01><equal>7行くのね。<line-break>私の力、あなたに預けるわ。<line-break>よろしく、<value:$28>。 <end><if><value:$01><equal>8おや、私の力が必要ですか。<line-break>わかりました。力の限り<line-break>お手伝いさせてもらいますよ。 <end><if><value:$01><equal>9やっほー！\u3000<value:$28><line-break>私の活躍見たくなったんでしょ？<line-break>かっこいいとこみせてあげるかんね。 <end><if><value:$01><equal>12よう、<value:$28>。<line-break>やっぱ、お前さんとの冒険が<line-break>一番面白そうだな。じゃ、行こうか。 <end><if><value:$01><equal>13俺の力が必要か。<line-break>いいだろう。行くぞ。 <end><if><value:$01><equal>10姉ちゃん、俺の出番だな！？<line-break>よーし、がんばるぜ！！ <end><if><value:$01><equal>14ようやっと呼んでくれたか。<line-break>まったく、待ちくたびれておったぞい。<line-break>さあ、行こうかの。 <end><if><value:$01><equal>15やぁ、<value:$28>。<line-break>僕、がんばるよ。 <end><if><value:$01><equal>17アタクシの力が借りたいの？<line-break>しょうがないわねぇ、<line-break>足手まといにはならないでよ。 <end><if><value:$01><equal>19ただいまー、<value:$28>。<line-break>ルルアンタ、がんばるからね。<line-break><value:$28>も一緒に頑張ろうね！ <end><if><value:$01><equal>20行くか。 <end><if><value:$01><equal>11じゃあ、行きましょうか。<end><if><value:$01><equal>21私を待たせるのは<line-break><value:$28>くらいだな。<line-break>さあ、行くぞ<end><if><value:$01><equal>23行こう。<end><if><value:$01><equal>27じゃあ、行こうか。<end><if><value:$01><equal>26うむ、よく呼び出してくれた。<line-break>では、さっそく行こう。 <end><if><value:$01><equal>24お待ちしておりました。<line-break><value:$28>様。<line-break>では、参りましょう。<end><if><value:$01><equal>25呼んでくれるの待ってたの。<line-break>じゃあ、さっそく行きましょう。<end><if><value:$01><equal>192連れていってくれるのですね。<end><if><value:$01><equal>193呼んでくださって<line-break>ありがとうございます！<line-break>また…一緒にいられるんですね。<end><if><value:$01><equal>194君は光。<line-break>僕は光を守る盾。<line-break>さあ、行こう、<value:$28>。<end><if><value:$01><equal>191私の力が必要なのね。<line-break>じゃあ、行きましょ。<end><if><value:$01><equal>190待たせたな。<line-break>さあ、行くぞ。<end>お待たせー！！<line-break>また<value:$28>と冒険だね。<line-break>よーし、しゅっぱーつ！ <end>"
+english = "<if><value:$01><equal>2Whew... This is making me a little nervous. Come on, <value:$28>. Let's do what must be done!<end><if><value:$01><equal>3Ah, good of you to summon me. I was just beginning to grow bored. Let us be off at once.<end><if><value:$01><equal>4I got summoned! <value:$28>, you can be so fickle! Oh well. Time to go.<end><if><value:$01><equal>5Hey, <value:$28>! I'm ready to leave whenever you are! Ready, steady, Van! Heh heh.<end><if><value:$01><equal>6Heh-heh! You finally called me. I've been waiting, <value:$28>. Come on, let's give it our all!<end><if><value:$01><equal>7So we're going. My strength is yours. I'm counting on you, <value:$28>.<end><if><value:$01><equal>8Oh? You need my strength? Very well. I'll do everything in my power to help.<end><if><value:$01><equal>9Hey there, <value:$28>! You wanted to see me in action, didn't you? Just wait till I show you how cool I can be!<end><if><value:$01><equal>12Hey, <value:$28>. Adventuring with you really does sound like the most fun. Well, shall we go?<end><if><value:$01><equal>13You need my strength? All right. Let's go.<end><if><value:$01><equal>10Sis, it's my turn, right?! All right, I'll give it everything I've got!!<end><if><value:$01><equal>14So you've finally called me. Honestly, I was growing weary of waiting. Well then, shall we go?<end><if><value:$01><equal>15Hi, <value:$28>. I'll do my best.<end><if><value:$01><equal>17You want to borrow my power? Oh, very well. Just don't slow me down.<end><if><value:$01><equal>19I'm back, <value:$28>! Lulluantha's going to do her best. Let's both give it our all, <value:$28>!<end><if><value:$01><equal>20Let's go.<end><if><value:$01><equal>11Shall we go, then?<end><if><value:$01><equal>21Only you could keep me waiting, <value:$28>. Come, let us go.<end><if><value:$01><equal>23Let's go.<end><if><value:$01><equal>27Well, shall we go?<end><if><value:$01><equal>26Ah, good of you to summon me. Let us be off at once.<end><if><value:$01><equal>24I've been waiting for you, <value:$28>. Shall we be on our way?<end><if><value:$01><equal>25I've been waiting for you to call me. Let's get going right away.<end><if><value:$01><equal>192You're taking me with you, then.<end><if><value:$01><equal>193Thank you for calling me! We can... be together again.<end><if><value:$01><equal>194You are the light. I am the shield that guards it. Come, <value:$28>. Let us go.<end><if><value:$01><equal>191So you need my strength. All right, let's go.<end><if><value:$01><equal>190I've kept you waiting. Come, let's go.<end>Sorry to keep you waiting!! Another adventure with <value:$28>! All right, let's gooo!<end>"
+
+["940002"]
+japanese = "<if><value:$01><equal>2じゃ、また会いましょ。<line-break>がんばってね、<value:$28>。 <end><if><value:$01><equal>3うむ。ではわしは<line-break>酒場にでも行くことにしよう。<line-break>しばしさらばだ、<value:$28>。 <end><if><value:$01><equal>4いらなくなったら放り出すなんて<line-break>この機械って、けっこうひどいかも！<line-break><value:$28>様…さようなら！ <end><if><value:$01><equal>5じゃあな、<value:$28>。<line-break>またいつでも呼んでくれよ。<line-break>俺たちは仲間なんだからな！ <end><if><value:$01><equal>6<value:$28>…<line-break>また、一緒に冒険しようね。<line-break>絶対、絶対だからね！ <end><if><value:$01><equal>7じゃあ、私は私で冒険を続けるわ。<line-break>何かあったらすぐに呼ぶのよ。 <end><if><value:$01><equal>8では、私はみなさんの成功を<line-break>祈っていることにしましょう。<line-break>何か困ったら、また呼んでください。 <end><if><value:$01><equal>9う～ん、ここでいっぺんお別れですか。<line-break>ま、それはそれでしょうがないやね。<line-break>ほんじゃ、またね、<value:$28>。 <end><if><value:$01><equal>12ま、お前さんのことだ。<line-break>これも何か考えがあってのことだろう。<line-break>じゃあな、また呼んでくれ。 <end><if><value:$01><equal>13さらばだ。<line-break>お前だけでどこまでできるか<line-break>試してみるのもいいだろう。 <end><if><value:$01><equal>10じゃあな、姉ちゃん。<line-break>あんまり無理するなよ。<line-break>危なくなったら、いつでも呼ぶんだぜ。 <end><if><value:$01><equal>14さて、これからどうしたものか。<line-break>工房に戻るのもなんだしのう……。<line-break>うむ、大陸中の酒を飲んでまわるか。 <end><if><value:$01><equal>15さよなら、<value:$28>。<line-break>僕も、強くなるためにガンバるよ。<line-break>じゃ、また呼んでね。 <end><if><value:$01><equal>17あら？\u3000アタクシ抜きで大丈夫なわけ？<line-break>アタクシの存在の偉大さに気付いたら<line-break>いつでも呼んでくれてよくってよ。 <end><if><value:$01><equal>19お別れって、さびしいな。<line-break>でも、絶対また呼んでくれるよね？<line-break>だから、またね、<value:$28>。 <end><if><value:$01><equal>20しばしさらばだ。 <end><if><value:$01><equal>11また会いましょう。<end><if><value:$01><equal>21いつでも呼ぶがよい。<line-break>待っているぞ、<value:$28>。<end><if><value:$01><equal>23さらばだ、<value:$28>。 <end><if><value:$01><equal>27何かあったら、すぐ呼んでくれ。<end><if><value:$01><equal>26しばしさらばだ、<value:$28>。 <end><if><value:$01><equal>24いつでも呼んでください。<line-break>それでは失礼します。<end><if><value:$01><equal>25…また呼んでね。<line-break>絶対だよ！<end><if><value:$01><equal>192貴方と離れるのですね。<line-break>…了解、しました。<end><if><value:$01><equal>193お別れですね…。<line-break>また必ず呼んでくださいね！<end><if><value:$01><equal>194また、ひとりになるのか…。<line-break>これが、一番いやな瞬間だな…。<end><if><value:$01><equal>191またいつでも呼んでね。<line-break>じゃあね。<end><if><value:$01><equal>190今度会うまでに力をつけておく。<line-break>また呼んでくれ。<end>ひどいなあ。<line-break>君の歌はまだ完成していないのに。<line-break>仕方ない。今度また一緒に旅させてね。 <end>"
+english = "<if><value:$01><equal>2Well, until we meet again. Good luck, <value:$28>.<end><if><value:$01><equal>3Very well. I think I'll pay a visit to the tavern. Farewell for now, <value:$28>.<end><if><value:$01><equal>4This machine just tosses you aside when it doesn't need you anymore. That's kind of awful! Farewell, <value:$28>...<end><if><value:$01><equal>5See you, <value:$28>. Call me again whenever you like. We're comrades, after all!<end><if><value:$01><equal>6<value:$28>... Let's go adventuring together again. You have to promise. Promise!<end><if><value:$01><equal>7I'll carry on with my own adventures, then. Call me at once if anything happens.<end><if><value:$01><equal>8Then I shall pray for everyone's success. If you run into any trouble, please call upon me again.<end><if><value:$01><equal>9Hmm, so this is where we part ways for a while. Well, I suppose that's how it goes. See you around, <value:$28>.<end><if><value:$01><equal>12Well, knowing you, there must be some reason for this. See you. Call me again sometime.<end><if><value:$01><equal>13Farewell. It may be worthwhile to see how far you can get on your own.<end><if><value:$01><equal>10See you, Sis. Don't push yourself too hard. If things get dangerous, call me anytime.<end><if><value:$01><equal>14Now, what shall I do? I don't much fancy returning to the workshop... Ah, I know. I'll drink my way around the whole continent.<end><if><value:$01><equal>15Goodbye, <value:$28>. I'll work hard so I can get stronger too. Call me again, okay?<end><if><value:$01><equal>17Oh? Are you sure you can manage without me? Once you realize just how magnificent my presence is, you may call upon me whenever you please.<end><if><value:$01><equal>19It's sad to say goodbye. But you'll definitely call me again, won't you? So... see you, <value:$28>.<end><if><value:$01><equal>20Farewell for now.<end><if><value:$01><equal>11Until we meet again.<end><if><value:$01><equal>21You may call upon me whenever you wish. I shall be waiting, <value:$28>.<end><if><value:$01><equal>23Farewell, <value:$28>.<end><if><value:$01><equal>27If anything happens, call me at once.<end><if><value:$01><equal>26Farewell for now, <value:$28>.<end><if><value:$01><equal>24Please call upon me whenever you need me. Now, if you'll excuse me.<end><if><value:$01><equal>25Call me again... You have to promise!<end><if><value:$01><equal>192So we're parting, then. ...Understood.<end><if><value:$01><equal>193So this is goodbye... Please, be sure to call me again!<end><if><value:$01><equal>194Alone again... This is the moment I hate most...<end><if><value:$01><equal>191Call me again anytime. Bye for now.<end><if><value:$01><equal>190I'll be stronger by the next time we meet. Call me again.<end>That's mean. Your song isn't even finished yet. Oh well. Let me travel with you again sometime, all right?<end>"
+
+["940003"]
+japanese = "おっと、それから<line-break>手に入れたソウルはちゃんと宿すこと。<line-break>これを忘れちゃ、意味がねえからな。<line-break>最後に、こいつも<line-break>言っておかなきゃならんな。<end>"
+english = "Oh, and make sure you actually take any Souls you acquire into yourself. Forget that, and acquiring them was pointless. There's one last thing I need to tell you.<end>"
+
+["940004"]
+japanese = "－<end>"
+english = ""
+
+["940005"]
+japanese = "－<end>"
+english = ""
+
+["940006"]
+japanese = "－<end>"
+english = ""
+
+["940007"]
+japanese = "－<end>"
+english = ""
+
+["940008"]
+japanese = "－<end>"
+english = ""
+
+["940009"]
+japanese = "－<end>"
+english = ""
+
+["940010"]
+japanese = "－<end>"
+english = ""
+
+["940011"]
+japanese = "－<end>"
+english = ""
+
+["940012"]
+japanese = "<if><value:$01><equal>2<value:$28>。<line-break>準備はいい？<line-break>最後まで一緒にがんばりましょ！<end><if><value:$01><equal>3では、<value:$28>。<line-break>いざ、参ろうぞ！<end><if><value:$01><equal>4この戦いに勝ったら<line-break>私は、世界を守った勇者様！<line-break>みんながちやほやしてくれるのね！<line-break>うふふ。<line-break>バラ色の未来のためだもん！<line-break>灰色の戦いにだって行っちゃうわ！<end><if><value:$01><equal>5だろ！？\u3000そうだろ？<line-break>ここはやっぱ俺しかいないよな！<line-break>よーし、行くぜ！！<end><if><value:$01><equal>6ボク、とってもうれしいよ。<line-break>今、キミと一緒に戦いに行くことが、<line-break>ここにいることが…。<line-break>さぁ、行こう！<line-break><value:$28>！<end><if><value:$01><equal>7…最後まで、<line-break>決着をつけるわ。<line-break>それが私の仲間への手向け。<line-break>…ゼリグ、ドルドラム。<line-break>私たちを見守ってて…。<end><if><value:$01><equal>8さあ、行きましょう。<line-break>未来への扉を開き、<line-break>新しい地平へと進むために。<end><if><value:$01><equal>9やっほー！\u3000<value:$28>！<line-break>こういう見せ場はカルラちゃんが<line-break>ビシッとシメてあげるかんねー！<end><if><value:$01><equal>11今度は私があなたの力になる番ね。<line-break>行きましょう。<line-break>\u3000<line-break>この先に何が待っていても、<line-break>あなたさえいれば<line-break>私には何も恐れるものはないわ。<end><if><value:$01><equal>12よ、<value:$28>。<line-break>バクチも勝負もビビった方が負け。<line-break>ま、気楽にいこうぜ。<end><if><value:$01><equal>13俺を呼びだしたのは<line-break>いい選択だ。<line-break>あとの奴らは能なしばかりだからな。<line-break>…行くぞ。<end><if><value:$01><equal>10姉ちゃん…。<line-break>俺、姉ちゃんと一緒なら、<line-break>どこまでだって行ってやるぜ！<end><if><value:$01><equal>14こんなどえらい戦いで<line-break>わしの力を振るえるとはのう…。<line-break>燃えるわい！<end><if><value:$01><equal>15ねえ、<value:$28>。<line-break>これが最後の戦いになるのかな…？<line-break>\u3000<line-break>いや、これで最後にしよう！<line-break>僕たちでこの戦いを終わらせるんだ！<line-break>頑張ろう、<value:$28>。<end><if><value:$01><equal>17高貴なエルフであるこのアタクシを<line-break>呼び出さないとカタが付かないなんて<line-break>なっていなくてよぉー！！<line-break>とにかく、アタクシが来たからには、<line-break>こんなくだらないこと、<line-break>さっさと片づけるのよぉー！<end><if><value:$01><equal>19…ルルアンタたちが負けちゃったら<line-break>みんなのほほえみが<line-break>なくなっちゃうんだよね。<line-break>でも、でもぉ。<line-break><value:$28>は負けないよね。<line-break>ぜったい、がんばろうね。<end><if><value:$01><equal>20…行くぞ。<end><if><value:$01><equal>22やっぱり、この戦いにも、<line-break>きみの歌を作る<line-break>ぼくがいなくっちゃ！<line-break>じゃあ、<line-break><value:$28>の歌のヤマ場へ<line-break>しゅっぱーつ！！<end>よし、一緒に戦おう。<end>"
+english = ""
+
+["940013"]
+japanese = "<if><value:$01><equal>2そうね。<line-break>じゃあ、あとは頼んだわよ。<line-break><value:$28>。<end><if><value:$01><equal>3<value:$28>。<line-break>けっして油断はするな。<line-break>それが長生きのコツじゃ。<line-break>わしの力が必要なら<line-break>いつでも手を貸すぞ。<end><if><value:$01><equal>4私がいないときに<line-break>世界が救われてもぉ、<line-break>私は世界を救った勇者のひとりよね。<line-break>うふふ。<line-break>働かないですむなんて<line-break>とーってもおトクかも！<end><if><value:$01><equal>5俺をおいてくのか？\u3000チクショー！<line-break>でも、お前ならきっとラクショー！<line-break>ププ、こんな時でも俺ってさえてるぜ！<line-break><value:$28>、頑張ってこいよ！<line-break>俺はとっておきのダジャレ用意して<line-break>待ってるからな！<end><if><value:$01><equal>6ガンバってね、<value:$28>。<line-break>ボク、キミを信じてる。<line-break>ボク、キミを待ってる。<end><if><value:$01><equal>7<value:$28>。必ず最後まで決着をつけて…。<line-break>ゼリグやドルドラムのためにも…。<end><if><value:$01><equal>8そうですか。<line-break>では、ネメア…息子のこと<line-break>よろしくお願いしますね。<end><if><value:$01><equal>9うーん。<line-break>こういう見せ場はカルラちゃんが<line-break>いた方がいいと思うんだけどなー。<line-break>強いし、明るいし、頭いいし、<line-break>オマケにメチャかわいいし！<line-break>呼び出し、待ってるかんねー！<end><if><value:$01><equal>11…そう。<line-break>私の魔の力が必要になったら<line-break>また、呼び出してね。<end><if><value:$01><equal>12<value:$28>。<line-break>お前ならやれるさ。<line-break>とにかく、ムリはすんなよ。<end><if><value:$01><equal>13…俺なしで<line-break>やれるのか？<line-break><line-break>…まあいい。<line-break>お手並み拝見といこう。<end><if><value:$01><equal>10姉ちゃん。<line-break>ムチャはすんなよ。<line-break>俺の力がいるときはすぐ呼べよ。<line-break>俺、姉ちゃんの勝利を<line-break>信じて待ってるよ。<end><if><value:$01><equal>14わしゃ、まだまだ若いモンには<line-break>負けんとらんわい！<line-break>\u3000<line-break>わしの力がいるときは<line-break>すぐに呼びにくるのじゃ！<line-break>よいな、<value:$28>。<end><if><value:$01><equal>15ねえ、<value:$28>。<line-break>回復はこまめにね。<line-break>どんな敵が待ってるかわからないもの。<line-break>僕、<value:$28>が<line-break>また、呼び出してくれるの<line-break>待ってるよ。<end><if><value:$01><equal>17高貴で優雅なこのアタクシなしで<line-break>やっていけると思ってるなんて<line-break>思い違いもはなはだしくてよぉー！！<line-break>そんなの１０００年早くてよぉー！<line-break>とにかく、またアタクシを、<line-break>さっさと呼び出すのよぉー！！<end><if><value:$01><equal>19うん、ルルアンタ、<line-break>ちょっとつかれちゃった。<line-break>ちょっとだけ、さよならだね。<line-break>でも、でもぉ。<line-break>まだまだガンバれるからぁ。<line-break>たすけてほしいときはよびだしてね！<end><if><value:$01><equal>20………………。<end><if><value:$01><equal>22うーん。、<line-break>ぼくがついていかないで<line-break>誰がきみの歌を作るんだよぉ！<line-break>また、呼び出してね！<line-break>この戦い、<line-break>ぜーったい、見ておきたいんだー。<end>また呼んでね。<end>"
+english = ""
+
+["940014"]
+japanese = "冒険者は、町の中ではひとりで行動し、<line-break>町の外に出て冒険するときだけ<line-break>パーティーと一緒になるのが基本だ。<line-break>だから、町の中を歩いてるときは、<line-break>何かあっても仲間が助けに来る<line-break>とは限らない。油断しないようにな。<end>"
+english = "As a rule, adventurers go about town alone and only join their party when venturing outside town. So if something happens while you're in town, don't assume your companions will come to your aid. Keep your guard up.<end>"
+
+["940015"]
+japanese = "まぁ、町の中にある塔や廃城なんかを\u3000<line-break>調べるときなんかは、一緒に行動する<line-break>こともあるだろうがな。<end>"
+english = "Well, I suppose we may work together when you're investigating places in town, like the towers or the Ruined Castle.<end>"
+
+["940016"]
+japanese = "まぁ、町の中にある塔や廃城なんかを\u3000<line-break>調べるときなんかは、一緒に行動する<line-break>こともあるだろうがな。<line-break>説明はこんなところだな。<line-break>これからは、バリバリ仕事して<line-break>名をあげていってくれよ。<end>"
+english = "That said, you may sometimes travel together when investigating a tower or a Ruined Castle in town. That about covers it. Now get out there, work hard, and make a name for yourself.<end>"
+
+["940017"]
+japanese = "－<end>"
+english = ""
+
+["940018"]
+japanese = "－<end>"
+english = ""
+
+["940019"]
+japanese = "－<end>"
+english = ""
+
+["940020"]
+japanese = "－<end>"
+english = ""
+
+["940021"]
+japanese = "－<end>"
+english = ""
+
+["940022"]
+japanese = "－<end>"
+english = ""
+
+["940023"]
+japanese = "－<end>"
+english = ""
+
+["940024"]
+japanese = "－<end>"
+english = ""
+
+["940025"]
+japanese = "－<end>"
+english = ""
+
+["940026"]
+japanese = "ダミーメッセージここまで<end>"
+english = ""

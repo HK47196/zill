@@ -1,0 +1,85 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2150000"]
+japanese = "異種族間の８用開始<end>"
+english = ""
+
+["2150001"]
+japanese = "よぉ！\u3000待ってたぜ。<end>"
+english = "Hey! I've been waiting for you.<end>"
+
+["2150002"]
+japanese = "…で、その…どうだったんだ？<line-break>\u3000<line-break>\u3000<line-break>彼女には、会えたのか？<end>"
+english = "So, um... how did it go? Did you get to see her?<end>"
+
+["2150003"]
+japanese = "そうか、とにかく無事なんだな？<line-break>よかった…。<line-break>\u3000<line-break>…でも、じゃあなぜ俺は<line-break>彼女と会えなかったんだ？<end>"
+english = "So she's safe, at least? Thank goodness... But then why couldn't I see her?<end>"
+
+["2150004"]
+japanese = "なんてこった。まさか…。<line-break>彼女がそこまで苦しんでいたなんて。<end>"
+english = "Damn... I can't believe she was suffering that much.<end>"
+
+["2150005"]
+japanese = "まいったな…。<line-break>俺、頭悪いから、そんなこと<line-break>考えもしなかった…。<end>"
+english = "Damn... I'm not too bright, so it never even crossed my mind.<end>"
+
+["2150006"]
+japanese = "…でも、彼女が言っていることも<line-break>当然だよな。<line-break>\u3000<line-break>確かに彼女と俺とじゃ、<line-break>住む世界だけじゃなく<line-break>寿命も違う…。<line-break>まったく別の種族なんだもんな…。<end>"
+english = "Still, it's only natural she'd say that. She and I don't just live in different worlds; our lifespans are different, too... We're completely different races...<end>"
+
+["2150007"]
+japanese = "やれやれ。わしとしたことが<line-break>とんだ見こみ違いじゃったかな。<line-break>お主、もうあきらめるのか？<end>"
+english = "Good grief. Perhaps I misjudged you after all. Are you giving up already?<end>"
+
+["2150008"]
+japanese = "バカを言うな。俺は冒険者だぜ。<line-break>冒険者ってのは困難に立ち向かってこそ<line-break>真価を発揮できるってもんだろ？<line-break>フィアは俺にとって<line-break>この世で最も大切で<line-break>かけがえのない宝物だ。<line-break>どんな逆境や困難があろうと<line-break>絶対に手放したりはしない。<end>"
+english = "Don't be ridiculous. I'm an adventurer. It's when we face hardships head-on that we prove our worth, right? Fia is the most precious, irreplaceable treasure in the world to me. No matter what hardship or adversity stands in my way, I'll never let her go.<end>"
+
+["2150009"]
+japanese = "ありがとうよ、<value:$28>。<line-break>それにイオンズさん。<line-break>おかげで踏ん切りがついたぜ。<line-break>…シェーヌの森へ行ってくる。<end>"
+english = "Thanks, <value:$28>. And you too, Mr. Ionz. You've helped me make up my mind. I'm going to Chene Forest.<end>"
+
+["2150010"]
+japanese = "手を貸してはならんぞ。<line-break>今があのふたりにとって肝心な時じゃ。<line-break>\u3000<line-break>魔物でさえ人間と共存できるんじゃ。<line-break>人とエルフにできぬ道理がなかろう。<end>"
+english = "You must not lend a hand. This is a crucial moment for those two. If even monsters can coexist with humans, there is no reason humans and elves cannot do the same.<end>"
+
+["2150011"]
+japanese = "よぉ！\u3000待ってたぜ。<end>"
+english = "Hey! I've been waiting for you.<end>"
+
+["2150012"]
+japanese = "…で、その…どうだったんだ？<line-break>\u3000<line-break>\u3000<line-break>彼女には、会えたのか？<end>"
+english = "So, um... how did it go? Did you get to see her?<end>"
+
+["2150013"]
+japanese = "そうか、とにかく無事なんだな？<line-break>よかった…。<line-break>\u3000<line-break>…でも、じゃあなぜ俺は<line-break>彼女と会えなかったんだ？<end>"
+english = "So she's safe, at least? Thank goodness... But then why couldn't I see her?<end>"
+
+["2150014"]
+japanese = "なんてこった。まさか…。<line-break>彼女がそこまで苦しんでいたなんて…。<end>"
+english = "Damn... I can't believe she was suffering that much...<end>"
+
+["2150015"]
+japanese = "まいったな…。<line-break>俺、頭悪いから、そんなこと<line-break>考えもしなかったぜ…。<end>"
+english = "Damn... I'm not too bright, so it never even crossed my mind...<end>"
+
+["2150016"]
+japanese = "…でも、彼女が言っていることも<line-break>当然だよな。<line-break>確かに彼女と俺とじゃ、<line-break>住む世界だけじゃなく<line-break>寿命も違う…。<line-break>まったく別の種族なんだもんな…。<end>"
+english = "Still, it's only natural she'd say that. She and I don't just live in different worlds; our lifespans are different, too... We're completely different races...<end>"
+
+["2150017"]
+japanese = "もう彼女のことはあきらめるのか、<line-break>だって？<line-break>見損なってもらっちゃ困るぜ。<line-break>種族が違おうと、寿命に差があろうと<line-break>それが何だってんだ。<line-break>彼女を想う気持ちに変わりはねえ。<end>"
+english = "You think I'm giving up on her? You should know me better than that. So what if we're different races, or our lifespans aren't the same? It doesn't change how I feel about her.<end>"
+
+["2150018"]
+japanese = "だいたい、あんたも知ってるだろ？<line-break>冒険者なんてのは、飛びっ切り<line-break>あきらめの悪い人種なんだよ。<line-break>言っちゃあなんだが、その中でも<line-break>俺は最上級の部類だぜ。<end>"
+english = "Besides, you know what adventurers are like. We're the most stubborn breed there is. And if I do say so myself, I'm among the very worst.<end>"
+
+["2150019"]
+japanese = "…ちょっくら森に行ってくる。<line-break>どうなるか自分でもわかんねえが、<line-break>帰ったら一杯やろうぜ。<end>"
+english = "I'm off to the forest for a bit. I don't know how this'll turn out, but when I get back, let's have a drink.<end>"
+
+["2150020"]
+japanese = "異種族間の８用終端<end>"
+english = ""

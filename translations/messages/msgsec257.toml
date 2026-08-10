@@ -1,0 +1,89 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2570000"]
+japanese = "新月のレムオン用開始<end>"
+english = ""
+
+["2570001"]
+japanese = "ぐあっ…。くっ、むうっ…。<end>"
+english = "Gah... Ngh, rrrgh...<end>"
+
+["2570002"]
+japanese = "うおっ！<end>"
+english = "Whoa!<end>"
+
+["2570003"]
+japanese = "<value:$28>か…。<line-break>大丈夫だ。案ずることはない。<line-break>軽い…発作のようなものだ。<end>"
+english = "<value:$28>...? I'm all right. There's no cause for concern. It's just... a minor attack of some kind.<end>"
+
+["2570004"]
+japanese = "…しばらく。<line-break>ひとりに…しておいてくれ。<line-break>…じきに治まる。<end>"
+english = "Leave me... alone for a while. It will pass soon.<end>"
+
+["2570005"]
+japanese = "むっ、おおっ、くうっ！<end>"
+english = "Ngh, aaagh, grrrgh!<end>"
+
+["2570006"]
+japanese = "はあっ、はあっ、はあっ…。<line-break>…………。<line-break>\u3000<line-break>…聞こえなかったのか！？<line-break>ひとりにしろと言ったはずだぞ！<end>"
+english = "Hah... hah... hah... Didn't you hear me!? I told you to leave me alone!<end>"
+
+["2570007"]
+japanese = "ちぇっ、バレてたか。<end>"
+english = "Damn, you knew I was here.<end>"
+
+["2570008"]
+japanese = "何の…用だ！？<line-break>見ての通り…取り込み中だ…！<end>"
+english = "What do you... want!? As you can see... I'm rather occupied...!<end>"
+
+["2570009"]
+japanese = "…こいつが昔話なんかに出てくる<line-break>ダルケニスの吸血衝動ってやつか。<line-break>キツそうだな…。<line-break>今までずっと、ひとりでその苦しみを<line-break>抱えてきたんだな、お前は…。<end>"
+english = "So this is that Dalkenis urge to drink blood from the old tales. Looks rough... You've been carrying this torment alone all this time, haven't you?<end>"
+
+["2570010"]
+japanese = "無理することはない。<line-break>限界が来たら俺を襲いな。<line-break>貸しにしといてやる。<end>"
+english = "No need to push yourself. If you reach your limit, attack me. You can owe me one.<end>"
+
+["2570011"]
+japanese = "…去れ。手助けなど無用…！<line-break>要らぬ世話だ…！<end>"
+english = "Go. I need no help...! Spare me your meddling...!<end>"
+
+["2570012"]
+japanese = "…だとさ。<line-break>どうするよ、<value:$28>？<end>"
+english = "Well, that's the answer. What will you do, <value:$28>?<end>"
+
+["2570013"]
+japanese = "<value:$28>…！ずっとそこで…見ていたのか！？<end>"
+english = "<value:$28>...! Have you been watching from there... all this time!?<end>"
+
+["2570014"]
+japanese = "フッ…。要らぬ世話焼きが<line-break>２人もいるとなると…さすがに<line-break>不様な姿は…見せられぬか…。<line-break>ぐあっ！<end>"
+english = "Heh... With two meddlesome busybodies here, I can hardly let myself be seen in such a sorry state... Gah!<end>"
+
+["2570015"]
+japanese = "じきに夜が明ける。<line-break>もう少しの辛抱だぜ。<end>"
+english = "Dawn will be here soon. Just hold on a little longer.<end>"
+
+["2570016"]
+japanese = "たいした根性だ。<line-break>本能の衝動を、理性と意志の力で<line-break>抑えこみやがった。<end>"
+english = "Now that's grit: beating back an instinctive urge with reason and sheer force of will.<end>"
+
+["2570017"]
+japanese = "次もこういくとは限らん。<line-break>\u3000<line-break>\u3000<line-break>おかしな奴らだ。<line-break>なぜ、こんな危険な状態の<line-break>ダルケニスを見守る？<end>"
+english = "It may not go so well next time. You are strange. Why would you stay and watch over a Dalkenis in such a dangerous state?<end>"
+
+["2570018"]
+japanese = "仲間を見守るのに<line-break>理由なんて要るのかい？<line-break>おかしいのはお前さんのほうだ。<end>"
+english = "Do we need a reason to watch over a companion? You're the strange one here.<end>"
+
+["2570019"]
+japanese = "いいのか？\u3000ダルケニスの俺を<line-break>仲間と呼んで？<line-break>\u3000<line-break>いつか後悔することになるかも<line-break>しれんぞ？<end>"
+english = "Are you sure you want to call me, a Dalkenis, your companion? You may come to regret it someday.<end>"
+
+["2570020"]
+japanese = "残念だったな。<line-break>反省はするが後悔はしない主義でね。<line-break>たぶん<value:$28>も同じだぜ。<line-break>なあ？<end>"
+english = "Too bad. I believe in learning from my mistakes, not regretting them. I bet <value:$28> feels the same. Right?<end>"
+
+["2570021"]
+japanese = "新月のレムオン用終端<end>"
+english = ""

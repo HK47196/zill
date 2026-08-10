@@ -1,0 +1,573 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1650000"]
+japanese = "敵１体に火属性攻撃<end>"
+english = "Fire-element attack against one enemy<end>"
+
+["1650001"]
+japanese = "敵１体を混乱状態にする<end>"
+english = "Inflicts Confusion on one enemy<end>"
+
+["1650002"]
+japanese = "ルーム内のすべての敵を一定時間停止<end>"
+english = "Stops all enemies in the room for a limited time<end>"
+
+["1650003"]
+japanese = "敵１体に水属性攻撃<end>"
+english = "Water-element attack against one enemy<end>"
+
+["1650004"]
+japanese = "敵１体を毒状態にする<end>"
+english = "Inflicts Poison on one enemy<end>"
+
+["1650005"]
+japanese = "敵から一定時間見えなくなる<end>"
+english = "Become invisible to enemies for a limited time<end>"
+
+["1650006"]
+japanese = "敵１体に土属性攻撃<end>"
+english = "Earth-element attack against one enemy<end>"
+
+["1650007"]
+japanese = "敵１体を暗闇状態にする<end>"
+english = "Inflicts Blindness on one enemy<end>"
+
+["1650008"]
+japanese = "前方に瞬間移動する<end>"
+english = "Teleport forward<end>"
+
+["1650009"]
+japanese = "敵１体に風属性攻撃<end>"
+english = "Wind-element attack against one enemy<end>"
+
+["1650010"]
+japanese = "敵１体を沈黙状態にする<end>"
+english = "Inflicts Silence on one enemy<end>"
+
+["1650011"]
+japanese = "ダンジョンの入口に戻る<end>"
+english = "Return to the dungeon entrance<end>"
+
+["1650012"]
+japanese = "武器に火属性を付加<end>"
+english = "Imbues a weapon with the Fire element<end>"
+
+["1650013"]
+japanese = "盾に火属性を付加する<end>"
+english = "Imbues a shield with the Fire element<end>"
+
+["1650014"]
+japanese = "鎧に火属性を付加<end>"
+english = "Imbues armor with the Fire element<end>"
+
+["1650015"]
+japanese = "敵全体に火属性攻撃<end>"
+english = "Fire-element attack against all enemies<end>"
+
+["1650016"]
+japanese = "味方１人をバーサーカーにする<end>"
+english = "Turns one ally into a berserker<end>"
+
+["1650017"]
+japanese = "敵全体に火属性攻撃<end>"
+english = "Fire-element attack against all enemies<end>"
+
+["1650018"]
+japanese = "武器に水属性を付加<end>"
+english = "Imbues a weapon with the Water element<end>"
+
+["1650019"]
+japanese = "盾に水属性を付加<end>"
+english = "Imbues a shield with the Water element<end>"
+
+["1650020"]
+japanese = "鎧に水属性を付加<end>"
+english = "Imbues armor with the Water element<end>"
+
+["1650021"]
+japanese = "敵全体に水属性攻撃<end>"
+english = "Water-element attack against all enemies<end>"
+
+["1650022"]
+japanese = "敵１体を即死<end>"
+english = "Inflicts Instant Death on one enemy<end>"
+
+["1650023"]
+japanese = "敵全体に水属性攻撃<end>"
+english = "Water-element attack against all enemies<end>"
+
+["1650024"]
+japanese = "武器に土属性を付加<end>"
+english = "Imbues a weapon with the Earth element<end>"
+
+["1650025"]
+japanese = "盾に土属性を付加<end>"
+english = "Imbues a shield with the Earth element<end>"
+
+["1650026"]
+japanese = "鎧に土属性を付加<end>"
+english = "Imbues armor with the Earth element<end>"
+
+["1650027"]
+japanese = "敵全体に土属性攻撃<end>"
+english = "Earth-element attack against all enemies<end>"
+
+["1650028"]
+japanese = "敵１体を石化状態にする<end>"
+english = "Inflicts Petrification on one enemy<end>"
+
+["1650029"]
+japanese = "敵全体に土属性攻撃<end>"
+english = "Earth-element attack against all enemies<end>"
+
+["1650030"]
+japanese = "武器に風属性を付加<end>"
+english = "Imbues a weapon with the Wind element<end>"
+
+["1650031"]
+japanese = "盾に風属性を付加<end>"
+english = "Imbues a shield with the Wind element<end>"
+
+["1650032"]
+japanese = "鎧に風属性を付加<end>"
+english = "Imbues armor with the Wind element<end>"
+
+["1650033"]
+japanese = "敵全体に風属性攻撃<end>"
+english = "Wind-element attack against all enemies<end>"
+
+["1650034"]
+japanese = "味方１人のＡＧＩを戦闘の間２倍<end>"
+english = "Doubles one ally's ＡＧＩ for the duration of battle<end>"
+
+["1650035"]
+japanese = "敵全体に風属性攻撃<end>"
+english = "Wind-element attack against all enemies<end>"
+
+["1650036"]
+japanese = "味方１人にバリアをはる<end>"
+english = "Creates a Barrier around one ally<end>"
+
+["1650037"]
+japanese = "敵全体に巨大な火の玉で攻撃<end>"
+english = "Attacks all enemies with a massive fireball<end>"
+
+["1650038"]
+japanese = "敵１体のＡＧＩを半分にする<end>"
+english = "Halves one enemy's ＡＧＩ<end>"
+
+["1650039"]
+japanese = "敵１体に強力な毒素で攻撃<end>"
+english = "Attacks one enemy with a powerful toxin<end>"
+
+["1650040"]
+japanese = "敵１体に落雷で攻撃<end>"
+english = "Attacks one enemy with a lightning strike<end>"
+
+["1650041"]
+japanese = "敵全体に雷嵐で攻撃<end>"
+english = "Attacks all enemies with a lightning storm<end>"
+
+["1650042"]
+japanese = "味方１人に魔法バリアをはる<end>"
+english = "Creates a Magic Barrier around one ally<end>"
+
+["1650043"]
+japanese = "敵１体に光線で攻撃<end>"
+english = "Attacks one enemy with a beam<end>"
+
+["1650044"]
+japanese = "敵１体に激しい爆発で攻撃<end>"
+english = "Attacks one enemy with a violent explosion<end>"
+
+["1650045"]
+japanese = "敵全体を大爆発で攻撃<end>"
+english = "Attacks all enemies with a massive explosion<end>"
+
+["1650046"]
+japanese = "味方１人のＨＰを回復<end>"
+english = "Restores one ally's ＨＰ<end>"
+
+["1650047"]
+japanese = "味方１人のＨＰを大幅に回復<end>"
+english = "Restores a large amount of one ally's ＨＰ<end>"
+
+["1650048"]
+japanese = "味方全員のＨＰを回復<end>"
+english = "Restores all allies' ＨＰ<end>"
+
+["1650049"]
+japanese = "味方１人のＨＰを完全回復<end>"
+english = "Fully restores one ally's ＨＰ<end>"
+
+["1650050"]
+japanese = "味方全員のＨＰを完全回復<end>"
+english = "Fully restores all allies' ＨＰ<end>"
+
+["1650051"]
+japanese = "敵１体を眠り状態にする<end>"
+english = "Inflicts Sleep on one enemy<end>"
+
+["1650052"]
+japanese = "味方１人に消費ＭＰの９割を付与<end>"
+english = "Grants one ally 90% of the ＭＰ consumed<end>"
+
+["1650053"]
+japanese = "敵全体を幻覚状態にする<end>"
+english = "Inflicts Hallucination on all enemies<end>"
+
+["1650054"]
+japanese = "敵１体のＭＰを吸収<end>"
+english = "Absorbs one enemy's ＭＰ<end>"
+
+["1650055"]
+japanese = "敵１体を即死<end>"
+english = "Inflicts Instant Death on one enemy<end>"
+
+["1650056"]
+japanese = "味方１人の呪い以外の異常を回復<end>"
+english = "Cures one ally of all status ailments except Curse<end>"
+
+["1650057"]
+japanese = "敵１体に聖属性攻撃<end>"
+english = "Holy-element attack against one enemy<end>"
+
+["1650058"]
+japanese = "味方全員の呪い以外の異常を回復<end>"
+english = "Cures all allies of all status ailments except Curse<end>"
+
+["1650059"]
+japanese = "味方１人のＭＰ以外を完全に復活<end>"
+english = "Revives one ally with everything except ＭＰ fully restored<end>"
+
+["1650060"]
+japanese = "敵全体に聖属性攻撃<end>"
+english = "Holy-element attack against all enemies<end>"
+
+["1650061"]
+japanese = "敵１体に闇属性攻撃<end>"
+english = "Dark-element attack against one enemy<end>"
+
+["1650062"]
+japanese = "敵全体に闇属性攻撃<end>"
+english = "Dark-element attack against all enemies<end>"
+
+["1650063"]
+japanese = "敵１体を死の呪い状態にする<end>"
+english = "Inflicts Death Curse on one enemy<end>"
+
+["1650064"]
+japanese = "敵１体を呪い状態にする<end>"
+english = "Inflicts Curse on one enemy<end>"
+
+["1650065"]
+japanese = "味方１人の呪いを回復<end>"
+english = "Cures one ally of Curse<end>"
+
+["1650066"]
+japanese = "味方全員の呪いを回復<end>"
+english = "Cures all allies of Curse<end>"
+
+["1650067"]
+japanese = "味方全員にバリアをはる<end>"
+english = "Creates a Barrier around all allies<end>"
+
+["1650068"]
+japanese = "味方全員に魔法バリアをはる<end>"
+english = "Creates a Magic Barrier around all allies<end>"
+
+["1650069"]
+japanese = "味方１人を戦闘不能時に自動回復<end>"
+english = "Automatically revives one ally upon incapacitation<end>"
+
+["1650070"]
+japanese = "敵全体に闇属性攻撃<end>"
+english = "Dark-element attack against all enemies<end>"
+
+["1650071"]
+japanese = "下位の精霊魔法<end>"
+english = "Lower-tier spirit magic<end>"
+
+["1650072"]
+japanese = "上位の精霊魔法<end>"
+english = "Higher-tier spirit magic<end>"
+
+["1650073"]
+japanese = "複合精霊魔法<end>"
+english = "Combined spirit magic<end>"
+
+["1650074"]
+japanese = "ＨＰ回復系の魔法<end>"
+english = "Magic that restores ＨＰ<end>"
+
+["1650075"]
+japanese = "精神、ＭＰに影響を与える魔法<end>"
+english = "Magic that affects the mind and ＭＰ<end>"
+
+["1650076"]
+japanese = "神の力による、浄化と攻撃の魔法<end>"
+english = "Purification and attack magic powered by divine power<end>"
+
+["1650077"]
+japanese = "邪悪な力による攻撃魔法<end>"
+english = "Attack magic powered by evil forces<end>"
+
+["1650078"]
+japanese = "１チャージで、３連続攻撃<end>"
+english = "Three consecutive attacks with 1 charge<end>"
+
+["1650079"]
+japanese = "２チャージで、５連続攻撃<end>"
+english = "Five consecutive attacks with 2 charges<end>"
+
+["1650080"]
+japanese = "３チャージで、７連続攻撃<end>"
+english = "Seven consecutive attacks with 3 charges<end>"
+
+["1650081"]
+japanese = "１チャージで、攻撃力を高めて攻撃<end>"
+english = "Attack with increased Attack Power using 1 charge<end>"
+
+["1650082"]
+japanese = "２チャージで、強力な攻撃<end>"
+english = "Powerful attack using 2 charges<end>"
+
+["1650083"]
+japanese = "３チャージで、渾身の攻撃<end>"
+english = "All-out attack using 3 charges<end>"
+
+["1650084"]
+japanese = "１チャージで、２倍の魔法を発揮<end>"
+english = "Cast magic at double strength using 1 charge<end>"
+
+["1650085"]
+japanese = "２チャージで、３倍の魔法を発揮<end>"
+english = "Cast magic at triple strength using 2 charges<end>"
+
+["1650086"]
+japanese = "１チャージで、命中率１００％<end>"
+english = "100% accuracy with 1 charge<end>"
+
+["1650087"]
+japanese = "敵１体を２連続攻撃<end>"
+english = "Attack one enemy twice in succession<end>"
+
+["1650088"]
+japanese = "一時的に武器に聖属性をつけて攻撃<end>"
+english = "Temporarily imbue a weapon with the Holy element and attack<end>"
+
+["1650089"]
+japanese = "クリティカル率１００％で攻撃<end>"
+english = "Attack with a 100% critical hit rate<end>"
+
+["1650090"]
+japanese = "敵一体を即死<end>"
+english = "Inflicts Instant Death on one enemy<end>"
+
+["1650091"]
+japanese = "ＨＰ消費で聖エネルギー攻撃<end>"
+english = "Consume ＨＰ to launch a holy-energy attack<end>"
+
+["1650092"]
+japanese = "ＨＰ消費で闇エネルギー攻撃<end>"
+english = "Consume ＨＰ to launch a dark-energy attack<end>"
+
+["1650093"]
+japanese = "前衛に衝撃波を放ち、目標を直接攻撃<end>"
+english = "Unleash a shock wave at the front line and attack the target directly<end>"
+
+["1650094"]
+japanese = "ＨＰ消費で敵１体を連続攻撃<end>"
+english = "Consume ＨＰ to attack one enemy repeatedly<end>"
+
+["1650095"]
+japanese = "通常攻撃のあと、飛び出し位置にとどまる<end>"
+english = "Remain at the forward position after a normal attack<end>"
+
+["1650096"]
+japanese = "衝撃波で敵全体を攻撃<end>"
+english = "Attack all enemies with a shock wave<end>"
+
+["1650097"]
+japanese = "武器の精霊力を解放して攻撃<end>"
+english = "Release a weapon's spirit power to attack<end>"
+
+["1650098"]
+japanese = "敵１体にダメージと、マヒの追加効果<end>"
+english = "Damages one enemy, with Paralysis as an additional effect<end>"
+
+["1650099"]
+japanese = "一度に２つの魔法を使用<end>"
+english = "Cast two spells at once<end>"
+
+["1650100"]
+japanese = "ロースペルを３回分の効果にして使用<end>"
+english = "Cast a Low Spell with the effect of three castings<end>"
+
+["1650101"]
+japanese = "相手の攻撃魔法を相殺<end>"
+english = "Neutralizes an opponent's attack magic<end>"
+
+["1650102"]
+japanese = "装備品に属性を付加する魔法<end>"
+english = "Magic that imbues equipment with an element<end>"
+
+["1650103"]
+japanese = "一度に２つのアイテムを使用<end>"
+english = "Use two items at once<end>"
+
+["1650104"]
+japanese = "一時的に速度が上昇し、回避しやすくなる<end>"
+english = "Temporarily increases speed, making attacks easier to evade<end>"
+
+["1650105"]
+japanese = "悪魔系の敵１体を消滅させる<end>"
+english = "Eradicates one demon-type enemy<end>"
+
+["1650106"]
+japanese = "霊体、アンデッド系の敵全体を消滅<end>"
+english = "Eradicates all spirit-type and undead-type enemies<end>"
+
+["1650107"]
+japanese = "敵全体を幻覚状態にする<end>"
+english = "Inflicts Hallucination on all enemies<end>"
+
+["1650108"]
+japanese = "ＨＰ消費でマインドスペルを使用<end>"
+english = "Consume ＨＰ to cast a Mind Spell<end>"
+
+["1650109"]
+japanese = "ＨＰ消費でヒーラースペルを使用<end>"
+english = "Consume ＨＰ to cast a Healer Spell<end>"
+
+["1650110"]
+japanese = "ＨＰを少量のＭＰに変換<end>"
+english = "Convert ＨＰ into a small amount of ＭＰ<end>"
+
+["1650111"]
+japanese = "飛び出し位置に出て、一時的に速度が上昇<end>"
+english = "Move to the forward position and temporarily increase speed<end>"
+
+["1650112"]
+japanese = "回避時にカウンター攻撃<end>"
+english = "Counterattack after evading<end>"
+
+["1650113"]
+japanese = "ダメージ時にカウンター攻撃<end>"
+english = "Counterattack after taking damage<end>"
+
+["1650114"]
+japanese = "前衛時、空中の敵にも通常どおりに攻撃可能<end>"
+english = "While in the front line, attack airborne enemies normally<end>"
+
+["1650115"]
+japanese = "距離に関係なく攻撃<end>"
+english = "Attack regardless of distance<end>"
+
+["1650116"]
+japanese = "両手に武器を装備できるようになる<end>"
+english = "Enables a weapon to be equipped in each hand<end>"
+
+["1650117"]
+japanese = "宝箱を開けることができるようになる<end>"
+english = "Enables treasure chests to be opened<end>"
+
+["1650118"]
+japanese = "メッセージを追加してください<end>"
+english = "Please add a message.<end>"
+
+["1650119"]
+japanese = "宝箱の罠を解除しやすくなる<end>"
+english = "Makes it easier to disarm traps on treasure chests.<end>"
+
+["1650120"]
+japanese = "メッセージを追加してください<end>"
+english = "Please add a message.<end>"
+
+["1650121"]
+japanese = "メッセージを追加してください<end>"
+english = "Please add a message.<end>"
+
+["1650122"]
+japanese = "メッセージを追加してください<end>"
+english = "Please add a message.<end>"
+
+["1650123"]
+japanese = "メッセージを追加してください<end>"
+english = "Please add a message.<end>"
+
+["1650124"]
+japanese = "メッセージを追加してください<end>"
+english = "Please add a message.<end>"
+
+["1650125"]
+japanese = "メッセージを追加してください<end>"
+english = "Please add a message.<end>"
+
+["1650126"]
+japanese = "メッセージを追加してください<end>"
+english = "Please add a message.<end>"
+
+["1650127"]
+japanese = "ＨＰ、ＭＰを消費し、敵全体を光の柱に包む<end>"
+english = "Consumes ＨＰ and ＭＰ to engulf all enemies in pillars of light.<end>"
+
+["1650128"]
+japanese = "ＨＰ、ＭＰを消費し、敵全体を壊滅<end>"
+english = "Consumes ＨＰ and ＭＰ to annihilate all enemies.<end>"
+
+["1650129"]
+japanese = "盾を装備できるようになる<end>"
+english = "Allows shields to be equipped.<end>"
+
+["1650130"]
+japanese = "森羅万象の力を結集した最高魔法<end>"
+english = "The ultimate spell, drawing together the power of all creation.<end>"
+
+["1650131"]
+japanese = "防御成功時にカウンター攻撃<end>"
+english = "Counterattacks after a successful defense.<end>"
+
+["1650132"]
+japanese = "防御中はあらゆるステータス異常を防ぐ<end>"
+english = "Prevents all status ailments while defending.<end>"
+
+["1650133"]
+japanese = "複雑な罠の解除にも挑戦できる<end>"
+english = "Allows attempts to disarm even complex traps.<end>"
+
+["1650134"]
+japanese = "敵のＨＰ／ＭＰを見抜ける<end>"
+english = "Reveals an enemy's ＨＰ and ＭＰ.<end>"
+
+["1650135"]
+japanese = "戦闘中、敵やフィールドの属性がわかる<end>"
+english = "Reveals the elements of enemies and the field during battle.<end>"
+
+["1650136"]
+japanese = "敵のハイトを見抜ける<end>"
+english = "Reveals an enemy's height.<end>"
+
+["1650137"]
+japanese = "不意打ちを確実に回避<end>"
+english = "Always evades surprise attacks.<end>"
+
+["1650138"]
+japanese = "敵一体にダメージと、毒の追加効果<end>"
+english = "Damages one enemy, with poison as an additional effect.<end>"
+
+["1650139"]
+japanese = "一時的に武器に闇属性をつけて攻撃<end>"
+english = "Attacks after temporarily imbuing the weapon with the Dark element.<end>"
+
+["1650140"]
+japanese = "後衛～飛び出し間を一気に移動<end>"
+english = "Moves swiftly between the rear guard and the forward position.<end>"
+
+["1650141"]
+japanese = "１アクションにつき１カウント分の力を蓄える<end>"
+english = "Builds 1 count of power per action.<end>"
+
+["1650142"]
+japanese = "攻撃したあと、前衛に戻る<end>"
+english = "Returns to the front line after attacking.<end>"

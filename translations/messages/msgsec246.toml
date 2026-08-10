@@ -1,0 +1,65 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2460000"]
+japanese = "PSP用新スタートイベント11用開始<end>"
+english = ""
+
+["2460001"]
+japanese = "<value:$28>か…。<line-break>よく来たな。<end>"
+english = "<value:$28>... You have done well to come.<end>"
+
+["2460002"]
+japanese = "ふっ、自分が何者なのか知りたいのか？<end>"
+english = "Heh. You wish to know who you are?<end>"
+
+["2460003"]
+japanese = "ふむ。まあよかろう。<line-break>ここまでたどり着けたのであれば、<line-break>ことさら隠す必要もあるまい。<line-break>心して聞くがよい。<line-break><value:$28>よ…。<line-break>\u3000<line-break>汝は余によって造られた人間だ。<line-break>\u3000<line-break>\u3000<line-break>果たして人間と呼んでいいかは<line-break>わからぬがな。<end>"
+english = "Very well. Having made it this far, there is little reason to keep it from you. Steel yourself and listen, <value:$28>. You are a human being of my creation―though whether you can truly be called human is another matter.<end>"
+
+["2460004"]
+japanese = "かつて余は幽閉される前に<line-break>先人類の魔道技術を使って<line-break>不死の研究を続けていた。<line-break>その結果、偶発的ではあったが<line-break>無限のソウルを宿せる肉体が<line-break>完成した…。<line-break>ただし、余の望んだ不死の能力は<line-break>備わっていなかったがな…。<line-break>\u3000<line-break>それが汝だ。<value:$28>よ。<line-break>汝は、研究の副産物として誕生し、<line-break>余ととともに封印されていたのだ。<line-break>よもや汝がこの時代に目覚めるとは<line-break>余にとっても想定外だったがな…。<end>"
+english = "Before I was imprisoned, I used the magical technology of earlier mankind to pursue my research into immortality. By chance, that research produced a body capable of containing an Infinite Soul. It did not, however, possess the immortality I sought. That body was you, <value:$28>. You were born as a by-product of my research and sealed away with me. Even I did not foresee that you would awaken in this age.<end>"
+
+["2460005"]
+japanese = "クックック。愚かな…。<line-break>教えてほしいと望んだのは汝自身だぞ。<line-break>\u3000<line-break>たかだか出生の秘密を知ったところで、<line-break>動揺して何になる？<line-break>\u3000<line-break>父母から命をもらおうと、<line-break>研究によって誕生しようと<line-break>瑣末な問題だ。取るに足らぬ。<end>"
+english = "Heh heh heh. What foolishness. You were the one who asked to know. Why let a mere secret of your birth disturb you so? Whether life is given by parents or bestowed through research is a trivial distinction, of no consequence whatsoever.<end>"
+
+["2460006"]
+japanese = "ほう。自分が造られた存在で<line-break>あることに激昂したか。<line-break>人間並みの感情はできているようだな。<line-break>だが、封印された余の肉体に<line-break>汝の剣では傷ひとつつけられぬ。<line-break>\u3000<line-break>それに余は汝の敵ではない。<line-break>汝にとって創造者であり、<line-break>唯一の理解者なのだぞ。<end>"
+english = "Oh? Enraged to learn that you were created? It seems you have developed emotions worthy of a human. But your sword cannot leave so much as a scratch upon my sealed body. Besides, I am not your enemy. I am your creator―and the only one who truly understands you.<end>"
+
+["2460007"]
+japanese = "フフフ。そうだ…。<line-break>おとなしく余の話を聞くがよい。<end>"
+english = "Heh heh. Yes... Be still and hear me out.<end>"
+
+["2460008"]
+japanese = "<value:$28>よ。<line-break>余は汝の力を必要としている。<line-break>\u3000<line-break>余が完全に復活するためには、<line-break>その器となる肉体が必要なのだ。<line-break>\u3000<line-break>特に余の息子、ベルゼーヴァの<line-break>身体であれば申し分ない。<line-break>\u3000<line-break>余は復活し、人類の革新に邪魔な<line-break>竜どもを完全に滅ぼさねばならぬ。<line-break>特に余を封じた竜王は、な。<end>"
+english = "<value:$28>, I have need of your power. To restore myself completely, I require a body to serve as my vessel. The body of my son Beelzeva would be ideal. Once restored, I must utterly destroy the dragons that obstruct humanity's transformation―especially the Dragon King who sealed me away.<end>"
+
+["2460009"]
+japanese = "わかるか、<value:$28>よ。<line-break>汝は生みの親である余に<line-break>協力するのだ。<line-break>そうすれば、余は汝に、<line-break>人類の革新という生きる目的と<line-break>価値ある意義を授けよう。<end>"
+english = "Do you understand, <value:$28>? You will aid me, the one who gave you life. In return, I shall grant you a purpose for living, a worthy cause: the transformation of humanity.<end>"
+
+["2460010"]
+japanese = "フフフ。まさかベルゼーヴァの言動や<line-break>ネメアごときを信じているのか？<line-break>\u3000<line-break>それこそ夢想というものだ。<line-break>所詮、あのふたりでは<line-break>人類の革新は成し得まい。<end>"
+english = "Heh heh. Surely you do not place your faith in Beelzeva's words and deeds, or in a man like Nemea? That is the true fantasy. Those two could never bring about humanity's transformation.<end>"
+
+["2460011"]
+japanese = "よく考えてみるがよい。<line-break>人間だけの力で本当に<line-break>人類の革新が可能かどうかを…。<line-break>もし可能であれば、とうの昔に<line-break>人類は完成し、すべてを超越した<line-break>至高の存在となっているだろう。<line-break>竜王ごときもこの世におるまい。<line-break>それが現実はどうだ？<line-break>\u3000<line-break>竜王は依然として世界を裏から操り、<line-break>人類の進化を停滞せしめている。<line-break>\u3000<line-break>あくことなき愚かな争いが続く、<line-break>暗黒に満ちた不安定な混沌の世界…<line-break>それこそまさに竜王の望むもの。<end>"
+english = "Consider it carefully. Can humanity truly transform itself by its own power? If it could, mankind would have achieved perfection long ago and become the supreme existence, transcending all things. There would be no Dragon King in this world. Yet what is the reality? The Dragon King still manipulates the world from the shadows, keeping humanity's evolution at a standstill. A dark and precarious world of chaos, riven by ceaseless, senseless conflict... That is precisely what the Dragon King desires.<end>"
+
+["2460012"]
+japanese = "<value:$28>よ。汝は余とともに<line-break>神々や竜王の支配を断ち切り、<line-break>新しき人類の未来を築くのだ。<line-break>汝のように優れた資質を持った者と、<line-break>余の魔道技術が合わさってこそ、<line-break>人類の革新は果たせよう。<end>"
+english = "<value:$28>, together we shall break the dominion of the gods and the Dragon King and build a new future for humanity. Only by combining your exceptional gifts with my magical technology can humanity's transformation be achieved.<end>"
+
+["2460013"]
+japanese = "まだ時間はある。<line-break>じっくりと思案してみることだな。<line-break>\u3000<line-break>余とベルゼーヴァ、<line-break>どちらが人類の革新を…<line-break>そして真の平和をもたらすかを。<line-break>余に力を貸す決心がついたら<line-break>またここに来るがよい。<end>"
+english = "There is still time. Consider the matter at your leisure: which of us, Beelzeva or I, can bring about humanity's transformation... and true peace. Once you have resolved to lend me your power, return here.<end>"
+
+["2460014"]
+japanese = "まだ時間はある。<line-break>じっくりと思案してみることだな。<line-break>\u3000<line-break>余とベルゼーヴァ…。<line-break>どちらが人類の革新を…。<line-break>そして真の平和をもたらすかを。<line-break>余に力を貸す決心がついたら<line-break>またここに来るがいい。<end>"
+english = "There is still time. Think it over carefully. Beelzeva or I―which of us will bring renewal to humanity... and true peace? Once you have decided to lend me your strength, return here.<end>"
+
+["2460015"]
+japanese = "PSP用新スタートイベント11用終端<end>"
+english = ""

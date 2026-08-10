@@ -1,0 +1,209 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["500000"]
+japanese = "ファーロス・ボリューム１用開始<end>"
+english = ""
+
+["500001"]
+japanese = "よう、<value:$28>。<end>"
+english = "Hey, <value:$28>.<end>"
+
+["500002"]
+japanese = "俺の自由なところがうらやましい？<line-break>変なことを言うもんだな。<line-break>\u3000<line-break>お前さんだって、<line-break>自由気ままな冒険者だぜ？<line-break>違うかい？<end>"
+english = "You're jealous of how free I am? That's a strange thing to say. You're a freewheeling adventurer yourself, aren't you?<end>"
+
+["500003"]
+japanese = "フフ、自由な雰囲気ね。<line-break>ま、お前さんの言いたいことは\u3000\u3000<line-break>見当がつくけどな。<line-break>ひとつだけ教えてやるよ。<line-break>自由ってのは、当然にあるものでも<line-break>人から与えられるものでもない。<end>"
+english = "Heh. So it's my air of freedom, is that it? Well, I think I know what you mean. But let me tell you one thing: freedom isn't something you can take for granted, or something anyone else can give you.<end>"
+
+["500004"]
+japanese = "自由は自分の力で<line-break>つかみ取るものなんだよ。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>それが、わからないうちは、<line-break>自由なんて<line-break>手に入らないんじゃねぇのかな。<end>"
+english = "You have to seize freedom with your own two hands. Until you understand that, I don't think you'll ever have it.<end>"
+
+["500005"]
+japanese = "いい冒険者になるコツだって？<line-break>フフ、お前さん、冒険者になって<line-break>そんなに経ってないんだろ？<line-break>いきなり模範解答ってのも<line-break>おもしろくないと思うぜ。<line-break>ま、そんなにあせりなさんなって。<end>"
+english = "You want to know the secret to becoming a good adventurer? Heh. You haven't been at this long, have you? It'd be no fun if I handed you the perfect answer right away. Don't be in such a hurry.<end>"
+
+["500006"]
+japanese = "ま、お前さんがなれそうなもんに<line-break>なればいいんだよ。<line-break>いい冒険者なんて肩肘はることないさ。<end>"
+english = "Just become the kind of adventurer you think you can be. No need to get all worked up about being a “good adventurer.”<end>"
+
+["500007"]
+japanese = "どうすれば、俺みたいに強くなれるか？<line-break>謙遜するわけじゃないが、世界には<line-break>俺より強い奴なんていくらでもいるぜ？<line-break>それに、仮に俺が世界最強の戦士<line-break>だとしても、俺の戦法を身につけたって<line-break>お前さんが強くなる保証はない。<end>"
+english = "How can you get as strong as me? I'm not being modest, but there are plenty of people in the world stronger than I am. And even if I were the greatest warrior alive, learning to fight the way I do wouldn't guarantee you'd become strong.<end>"
+
+["500008"]
+japanese = "お前さんと俺とじゃ、<line-break>体格も筋力も俊敏さも違う。<line-break>お前さんが俺のまねをすることはない。<line-break>俺には俺に適した戦い方があるし、<line-break>お前さんにもお前さんに適した<line-break>戦い方があるってことだな。<end>"
+english = "You and I are built differently. Our strength and speed aren't the same. There's no need for you to imitate me. I have a way of fighting that suits me, and there's a way that suits you.<end>"
+
+["500009"]
+japanese = "ま、何にしたって、<line-break>生き残った者が勝ち<line-break>ってのが世の常道だからな。\u3000\u3000\u3000\u3000\u3000<line-break>お前さんは、今こうして<line-break>生きているんだから、とりあえずは<line-break>そのまま努力すればいい。<end>"
+english = "Whatever the case, the one who survives is the one who wins. That's the way of the world. You're still alive, so for now, just keep at it.<end>"
+
+["500010"]
+japanese = "痛テテテテテテテ！<end>"
+english = "Ow-ow-ow-ow-ow!<end>"
+
+["500011"]
+japanese = "がらにもないご託を並べたもんだから<line-break>舌がツっちまったよ。<line-break>分を越えることはするもんじゃねえな。<end>"
+english = "All that out-of-character preaching made my tongue cramp up. I should know better than to overreach.<end>"
+
+["500012"]
+japanese = "…てなわけで、ま<line-break>テキトーにな、テキトーに。<end>"
+english = "So there you have it. Just take it easy. Nice and easy.<end>"
+
+["500013"]
+japanese = "これは<value:$28>様。<line-break>今日はどちらへおいでですか？<end>"
+english = "Ah, <value:$28>. Where are you headed today?<end>"
+
+["500014"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular<end>"
+
+["500015"]
+japanese = "ティアナ王女の部屋<end>"
+english = "Princess Tiana's Room<end>"
+
+["500016"]
+japanese = "エリス王妃の執務室<end>"
+english = "Queen Eris's Office<end>"
+
+["500017"]
+japanese = "アトレイア王女の部屋<end>"
+english = "Princess Atreia's Room<end>"
+
+["500018"]
+japanese = "そうですか。<end>"
+english = "I see.<end>"
+
+["500019"]
+japanese = "では、ご案内いたします。<end>"
+english = "Then allow me to show you the way.<end>"
+
+["500020"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular.<end>"
+
+["500021"]
+japanese = "ティアナ王女の部屋<end>"
+english = "Princess Tiana's Room<end>"
+
+["500022"]
+japanese = "アトレイア王女の部屋<end>"
+english = "Princess Atleia's Room<end>"
+
+["500023"]
+japanese = "別に用はない<end>"
+english = "Nothing in particular.<end>"
+
+["500024"]
+japanese = "エリス王妃の執務室<end>"
+english = "Queen Eris's Office<end>"
+
+["500025"]
+japanese = "フリントの子、<line-break><value:$28>…ですね。<end>"
+english = "You're Flint's child, <value:$28>, aren't you?<end>"
+
+["500026"]
+japanese = "エリス様がお呼びだわ。<line-break>一緒に来て。<end>"
+english = "Lady Eris has sent for you. Come along.<end>"
+
+["500027"]
+japanese = "おとなしく彼女らについていく<end>"
+english = "Go with them without resisting<end>"
+
+["500028"]
+japanese = "武器を構えて抵抗する<end>"
+english = "Ready a weapon and resist<end>"
+
+["500029"]
+japanese = "おとなしく従ってくれて助かります。<end>"
+english = "Thank you for cooperating.<end>"
+
+["500030"]
+japanese = "仲間の子を傷つけたくないもの。<line-break>来て、<value:$28>。<end>"
+english = "I don't want to hurt your companion. Come with me, <value:$28>.<end>"
+
+["500031"]
+japanese = "…ムダですね。<line-break>動けないはずです。<end>"
+english = "There's no use struggling. You shouldn't be able to move.<end>"
+
+["500032"]
+japanese = "酒場の中で暴れるつもり？<line-break>しばらく、マヒしてもらってるわ。<end>"
+english = "Were you planning to cause a scene in the tavern? I've paralyzed you for the time being.<end>"
+
+["500033"]
+japanese = "仲間の子を傷つけたくはないのです。<line-break>一緒に来ていただきます。<end>"
+english = "I have no wish to hurt your companion. You will come with me.<end>"
+
+["500034"]
+japanese = "よく来た、フリントの息子、<line-break><value:$28>よ。<line-break>もはや、知っていようが…<line-break>そなたの父フリントは<line-break>ただの旅の商人ではない。<line-break>我が配下の諜報員だった。<end>"
+english = "Welcome, <value:$28>, son of Flint. You may know this already, but your father was no mere traveling merchant. He was a spy in my service.<end>"
+
+["500035"]
+japanese = "今回は、ノーブルの代官ボルボラから<line-break>エリエナイ公レムオンの出生の秘密に<line-break>関わる手紙を運んでくる途中だった。<end>"
+english = "This time, he was on his way here carrying a letter from Bolbora, the governor of Noble, concerning the secret surrounding the birth of Duke Lemghon of Elienai.<end>"
+
+["500036"]
+japanese = "…そうだ。<line-break>ガルドランは手紙を奪還するため<line-break>レムオンが差し向けた冒険者だ。<end>"
+english = "Yes. Girldlan is the adventurer Lemghon sent to recover the letter.<end>"
+
+["500037"]
+japanese = "ティアナが生まれるころ、<line-break>私をテジャワの変で救ってくれて以来<line-break>フリントは私によく仕えてくれた。<line-break>フリントのことは<line-break>心から残念に思っている。<line-break>そなたには気を落とすなとも言えぬ。<end>"
+english = "Flint saved me during the Tejava Incident, around the time Tiana was born, and served me faithfully from that day on. What happened to Flint grieves me deeply. I cannot even ask you not to lose heart.<end>"
+
+["500038"]
+japanese = "そなたは目の輝きが他人とは違う。<line-break>目の輝きは魂の輝きを示す。<line-break>そなたにはよい魂があるのだ。<line-break>それを、今回のことで<line-break>曇らせぬようにしてほしい。<line-break>ただ、それを願うばかりだ。<end>"
+english = "Your eyes shine as no other's do. The light in them reveals the light of your soul, and yours is a good soul. I hope what has happened does not dim it. That is my only wish.<end>"
+
+["500039"]
+japanese = "さがってよい。<line-break>フリントの子<value:$28>よ。<end>"
+english = "You may go, <value:$28>, child of Flint.<end>"
+
+["500040"]
+japanese = "フリントの子<value:$28>よ。<line-break>父のように私に仕えろ、とは言わぬ。<line-break>が、たまに私の所に来るとよい。<line-break>門衛には、そなたのことは<line-break>申し伝えておく。<line-break>門衛に話をすれば通れるはずだ。<end>"
+english = "<value:$28>, child of Flint. I will not ask you to serve me as your father did. But come and see me from time to time. I will leave word at the gate. Speak to whoever is on guard, and you should be allowed through.<end>"
+
+["500041"]
+japanese = "予備用メッセージ１<line-break>ファーロス・ボリューム１<end>"
+english = ""
+
+["500042"]
+japanese = "予備用メッセージ２<line-break>ファーロス・ボリューム１<end>"
+english = ""
+
+["500043"]
+japanese = "予備用メッセージ３<line-break>ファーロス・ボリューム１<end>"
+english = ""
+
+["500044"]
+japanese = "予備用メッセージ４<line-break>ファーロス・ボリューム１<end>"
+english = ""
+
+["500045"]
+japanese = "予備用メッセージ５<line-break>ファーロス・ボリューム１<end>"
+english = ""
+
+["500046"]
+japanese = "予備用メッセージ６<line-break>ファーロス・ボリューム１<end>"
+english = ""
+
+["500047"]
+japanese = "予備用メッセージ７<line-break>ファーロス・ボリューム１<end>"
+english = ""
+
+["500048"]
+japanese = "予備用メッセージ８<line-break>ファーロス・ボリューム１<end>"
+english = ""
+
+["500049"]
+japanese = "予備用メッセージ９<line-break>ファーロス・ボリューム１<end>"
+english = ""
+
+["500050"]
+japanese = "予備用メッセージ１０<line-break>ファーロス・ボリューム１<end>"
+english = ""
+
+["500051"]
+japanese = "ファーロス・ボリューム１終端<end>"
+english = ""

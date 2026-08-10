@@ -1,0 +1,65 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1000000"]
+japanese = "アイリーンメッセージVOL3用開始<end>"
+english = ""
+
+["1000001"]
+japanese = "久しぶりね、<value:$28>。<end>"
+english = "It's been a while, <value:$28>.<end>"
+
+["1000002"]
+japanese = "私、カルラ様の配下になったの。\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>今の私はディンガル帝国黒鎧騎士、<line-break>東方攻略軍所属、青竜軍副将<line-break>アイリーン・エルメスよ。<end>"
+english = "I've entered Lady Karula's service. Now I'm Irene Hermes, a Black-Armored Knight of the Dingal Empire, serving with the Eastern Campaign Army as deputy commander of the Azure Dragon Army.<end>"
+
+["1000003"]
+japanese = "やっと、夢がかなったの。<line-break>どうしても、あなたに伝えたくて…。<end>"
+english = "My dream has finally come true. I just had to tell you...<end>"
+
+["1000004"]
+japanese = "やっと、夢がかなったの。<line-break>それじゃ。<end>"
+english = "My dream has finally come true. Well, goodbye.<end>"
+
+["1000005"]
+japanese = "予備メッセージ１<line-break>アイリーン、ボリューム３<end>"
+english = ""
+
+["1000006"]
+japanese = "予備メッセージ２<line-break>アイリーン、ボリューム３<end>"
+english = ""
+
+["1000007"]
+japanese = "予備メッセージ３<line-break>アイリーン、ボリューム３<end>"
+english = ""
+
+["1000008"]
+japanese = "予備メッセージ４<line-break>アイリーン、ボリューム３<end>"
+english = ""
+
+["1000009"]
+japanese = "予備メッセージ５<line-break>アイリーン、ボリューム３<end>"
+english = ""
+
+["1000010"]
+japanese = "予備メッセージ６<line-break>アイリーン、ボリューム３<end>"
+english = ""
+
+["1000011"]
+japanese = "予備メッセージ７<line-break>アイリーン、ボリューム３<end>"
+english = ""
+
+["1000012"]
+japanese = "予備メッセージ８<line-break>アイリーン、ボリューム３<end>"
+english = ""
+
+["1000013"]
+japanese = "予備メッセージ９<line-break>アイリーン、ボリューム３<end>"
+english = ""
+
+["1000014"]
+japanese = "予備メッセージ１０<line-break>アイリーン、ボリューム３<end>"
+english = ""
+
+["1000015"]
+japanese = "アイリーンメッセージvol3終端<end>"
+english = ""

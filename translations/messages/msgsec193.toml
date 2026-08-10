@@ -1,0 +1,593 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1930000"]
+japanese = "ＺｉｌｌＯ’ｌｌ\u3000エンディング２メッセージ開始<end>"
+english = ""
+
+["1930001"]
+japanese = "そうですか。あの子と共に、<line-break>この海の向こうを目指しますか。<end>"
+english = "I see. So you and that one are bound for the far side of this sea.<end>"
+
+["1930002"]
+japanese = "ふふふ、あの子が、<line-break>自分の旅に他人を誘うなんて、<line-break>本当に珍しい。<end>"
+english = "Heh heh. It's very rare for that one to invite anyone along on a journey.<end>"
+
+["1930003"]
+japanese = "いや、ひょっとしたら、\u3000\u3000\u3000<line-break>あの子が<value:$28>の旅に<line-break>\u3000<line-break>ついていくということなのかも<line-break>しれませんね。<end>"
+english = "Then again, perhaps it's the other way around, and that one is joining <value:$28> on the journey.<end>"
+
+["1930004"]
+japanese = "行こうか、<value:$28>。<end>"
+english = "Shall we go, <value:$28>?<end>"
+
+["1930005"]
+japanese = "しかし、ゼネさんが<line-break>ファーロスの御曹司だったとはねぇ。<line-break>スラムの住人一同びっくりだったよ。<end>"
+english = "Still, who'd have thought Zen was the heir to Pharos? Everyone in the Slums was stunned.<end>"
+
+["1930006"]
+japanese = "へへ、悪かった。<line-break>だますつもりはなかったんだが、<line-break>ま、許してくれや。<end>"
+english = "Heh, sorry about that. I didn't mean to fool you. Forgive me, all right?<end>"
+
+["1930007"]
+japanese = "そりゃ、もちろんですよ。<line-break>ゼネテスさんのおかげで、<line-break>この国は助かったんだから！<end>"
+english = "Of course! This country was saved thanks to Xenetes!<end>"
+
+["1930008"]
+japanese = "俺の力じゃないさ。<line-break>必死に国を守ろうとした<line-break>みんなのおかげだ。<end>"
+english = "It wasn't my doing. The credit goes to everyone who did all they could to protect this country.<end>"
+
+["1930009"]
+japanese = "まったくだよ。感謝しなきゃね。<line-break>貴族だって、ゼネさんみたいなのがいるんだ。<line-break>この国は変わるかもしれないよ。<end>"
+english = "You're right. We owe them our thanks. If there are nobles like Zen, maybe this country really can change.<end>"
+
+["1930010"]
+japanese = "それにねー、ゼネテスには、<line-break>さいこーの相棒がいるんだもんね。<end>"
+english = "And Xenetes has the best partner ever!<end>"
+
+["1930011"]
+japanese = "そう。<line-break>ハンナはよくわかってるな。<end>"
+english = "Exactly. Hannah understands.<end>"
+
+["1930012"]
+japanese = "ふふふ。<end>"
+english = "Heh heh.<end>"
+
+["1930013"]
+japanese = "ところで、ゼネさん、<line-break>あんたこんなところにいていいのかい？<end>"
+english = "By the way, Zen, should you really be hanging around here?<end>"
+
+["1930014"]
+japanese = "ん？\u3000ああ、まあ、なんだ、<line-break>宮廷は退屈なんでね。<line-break>ちっと相棒と遊びにでも行こうかと。<end>"
+english = "Hm? Oh, well... Life at court is dull, so I thought I'd go have a little fun with my partner.<end>"
+
+["1930015"]
+japanese = "おう、<value:$28>。<line-break>ギルドでいい仕事を\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>見つけたんだわ。<line-break>どうだ、ちょっくら<line-break>やってみないか？<line-break>古代王国の秘宝探しなんだけどよ。<end>"
+english = "Hey, <value:$28>. I found a good job at the Guild. How about giving it a shot? It's a hunt for an Ancient Kingdom treasure.<end>"
+
+["1930016"]
+japanese = "よし、決まりだ！<line-break>行こうぜ、<value:$28>。<end>"
+english = "Good, it's settled! Let's go, <value:$28>.<end>"
+
+["1930017"]
+japanese = "ゼネテスも<value:$28>も<line-break>結局、冒険好きなのね。<line-break>子供ねー。<end>"
+english = "So Xenetes and <value:$28> both love a good adventure after all. You're such children.<end>"
+
+["1930018"]
+japanese = "…俺を捜しにきたのか、\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>？<end>"
+english = "…Did you come looking for me, <value:$28>?<end>"
+
+["1930019"]
+japanese = "いつまでも姉離れできない<line-break>お前の弟と一緒にするな。<end>"
+english = "Don't compare me to that younger brother of yours who still can't let go of his sister.<end>"
+
+["1930020"]
+japanese = "俺は姉よりも<line-break>もっともっと大きなものを\u3000<line-break>探し求める。<line-break>それが何かはわからない。<line-break>だが、お前が一緒なら<line-break>必ず、そこにたどりつける。<end>"
+english = "I'll seek something far, far greater than my sister. I don't know what that might be. But with you beside me, I know I'll find my way to it.<end>"
+
+["1930021"]
+japanese = "…そう、お前さえ、<line-break>一緒にいれば…。<end>"
+english = "…Yes. As long as you're with me…<end>"
+
+["1930022"]
+japanese = "…それとも、お前こそ、<line-break>ロイがいなければ<line-break>まだ何もできないのか？<line-break>ロイに会いたいなら、<line-break>俺が会わせてやるぞ。<end>"
+english = "…Or are you the one who still can't do anything without Roy? If you want to see him, I'll take you to him.<end>"
+
+["1930023"]
+japanese = "ならば、行くぞ。<end>"
+english = "Then let's go.<end>"
+
+["1930024"]
+japanese = "忘却の仮面はここにおいていけ。\u3000<line-break>\u3000<line-break>\u3000<line-break>いわば、ささやかな祝いの品だ。<line-break>…それに、このくらいの面倒は<line-break>かけてもかまうまい。<end>"
+english = "Leave the Mask of Oblivion here. Consider it a modest gift to mark the occasion. Besides, I think I can allow myself to put you to this much trouble.<end>"
+
+["1930025"]
+japanese = "…さらばだ。<end>"
+english = "…Farewell.<end>"
+
+["1930026"]
+japanese = "…お前も<line-break>さようならを言っておけ。<end>"
+english = "…You should say goodbye too.<end>"
+
+["1930027"]
+japanese = "行ってしまいましたね。<end>"
+english = "He's gone, then.<end>"
+
+["1930028"]
+japanese = "月光を持つセラなら、<line-break>私たちがここにいることは<line-break>知っていただろうにな。<end>"
+english = "As the bearer of moonlight, Sera must have known we were here.<end>"
+
+["1930029"]
+japanese = "セラ…、<line-break>あなたの祝福は<line-break>確かに受け取ったわ。<end>"
+english = "Sera… I have received your blessing.<end>"
+
+["1930030"]
+japanese = "私たちはふたりで<line-break>このミイスを復興させ\u3000\u3000\u3000<line-break>神器を守ろう。<line-break>お前たちは自由に旅をし、<line-break>お前たちの探し求めるものを<line-break>手に入れるがいい。<end>"
+english = "The two of us will rebuild Miis and guard the sacred artifact. You are free to travel as you please and obtain whatever it is you seek.<end>"
+
+["1930031"]
+japanese = "お前たちなら、<line-break>きっと手に入れられる。<line-break>セラ、<value:$28>…。<end>"
+english = "I'm certain you can find it. Sera, <value:$28>…<end>"
+
+["1930032"]
+japanese = "なんですか、お父さま？<end>"
+english = "What is it, Father?<end>"
+
+["1930033"]
+japanese = "いや、話しておきたいことがあってな。<end>"
+english = "There's something I want to tell you.<end>"
+
+["1930034"]
+japanese = "冒険に行かせろという<line-break>お話でしたらダメですよ。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>アキュリュース自衛隊長なんですし、<line-break>それに、もうお年なんですから。<end>"
+english = "If you're going to ask me to let you go adventuring, the answer is no. You're the commander of the Aqyurius Self-Defense Force, and you're not getting any younger.<end>"
+
+["1930035"]
+japanese = "わかっておる。<line-break>まあ、わしの話を聞いてくれ。<end>"
+english = "I know. Just hear me out.<end>"
+
+["1930036"]
+japanese = "<if><value:$29><equal>%0お前も年頃じゃ。<line-break>信頼できる若者を<line-break>そばに置いておきたくてな。<end>お前も水の巫女となり、<line-break>これからいろいろと<line-break>気苦労もあるじゃろう。<line-break>じゃから、お前が、<line-break>一生つきあえる友人が、<line-break>そばにいればと思ってな。<end>"
+english = "<if><value:$29><equal>%0You're of age now. I wanted you to have a trustworthy young person at your side.<end>Now that you've become the Water Priestess, you'll have many burdens to bear. I thought it would be good for you to have a lifelong friend at your side.<end>"
+
+["1930037"]
+japanese = "<value:$28>、<line-break>娘を頼んだぞ。<end>"
+english = "<value:$28>, take care of my daughter.<end>"
+
+["1930038"]
+japanese = "<if><value:$29><equal>%0お、お父さま…！<line-break>と、突然、<line-break>何を言い出すんですか！<end>お父さま……。<line-break>突然、どうしたのですか？<end>"
+english = ""
+
+["1930039"]
+japanese = "この俺が、姉を捜すため、<line-break>何も言わずにお前のそばを<line-break>去るとでも？\u3000フッ、バカな。<end>"
+english = "You think I'd leave your side without a word just to search for my sister? Hmph. Don't be absurd.<end>"
+
+["1930040"]
+japanese = "<value:$28>、<line-break>娘を頼んだぞ。<end>"
+english = ""
+
+["1930041"]
+japanese = "お父さま……。<line-break>突然、どうしたのですか？<end>"
+english = "Father... Why are you saying this all of a sudden?<end>"
+
+["1930042"]
+japanese = "わしも、もう長くなかろう。<line-break>ずいぶんと生きてきた。<line-break>いつ死が訪れてもおかしくない。\u3000<line-break>我が人生には満足しておる。<line-break>だが、イークレムンよ、お前には、<line-break>何か残しておいておきたくての。<end>"
+english = "I doubt I have much time left. I've lived a long life, and death could come for me at any moment. I am content with the life I've led. But Iiklmn, I want to leave you something before I go.<end>"
+
+["1930043"]
+japanese = "お父さま…、そんな…。<line-break>私は、何もいりませぬ。<line-break>お父さまさえいてくだされば。<end>"
+english = "Father... don't say that. I don't need anything. All I want is for you to be here.<end>"
+
+["1930044"]
+japanese = "我が娘よ。悲しむでない。<line-break>死とは、誰にでも訪れるのものじゃ。<line-break>これは定めなのじゃ。<end>"
+english = "My daughter, do not grieve. Death comes for us all. Such is our fate.<end>"
+
+["1930045"]
+japanese = "お、お父さま…、そんな…。<end>"
+english = "F-Father... no...<end>"
+
+["1930046"]
+japanese = "というわけで、わしは旅に出る。<line-break>死ぬ前に、お世話になったみんなに<line-break>あいさつしておかねばの。<line-break>では、<value:$28>。<line-break>娘はよろしく頼んだぞ。<end>"
+english = "And so, I am setting out on a journey. Before I die, I must bid farewell to everyone who has helped me over the years. Well then, <value:$28>. Take good care of my daughter.<end>"
+
+["1930047"]
+japanese = "あ…、え？\u3000え？<end>"
+english = "Ah... what? What?<end>"
+
+["1930048"]
+japanese = "あー！\u3000あんなこと言って、\u3000<line-break>冒険にでるつもりです！<line-break>\u3000<line-break>きっとあいさつする相手には、<line-break>モンスターとか宝物とかも<line-break>入ってるんだわ！<end>"
+english = "Aha! He said all that just so he could go adventuring! I bet the ones he plans to bid farewell to include monsters and treasure!<end>"
+
+["1930049"]
+japanese = "もう！\u3000なんて父親なのかしら！<end>"
+english = "Honestly! What kind of father does that?<end>"
+
+["1930050"]
+japanese = "<value:$28>さん、<line-break>心配なのでついていって<line-break>あげてください。<end>"
+english = "<value:$28>, I'm worried about him. Please go with him.<end>"
+
+["1930051"]
+japanese = "帰ってきたね…。<line-break>父さんの畑に…。<end>"
+english = "You came back... to Dad's field.<end>"
+
+["1930052"]
+japanese = "姉ちゃん…。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>姉ちゃんは<line-break>冒険を続けるんだろ。<end>"
+english = "Sis... You're going to carry on with your adventures, aren't you?<end>"
+
+["1930053"]
+japanese = "…やっぱり、そうだよな。<line-break>姉ちゃんには<line-break>このノーブルはせますぎるもんな。<end>"
+english = "Yeah... I thought so. Noble's too small for you, Sis.<end>"
+
+["1930054"]
+japanese = "いいかげん、姉ちゃんも\u3000\u3000\u3000\u3000\u3000\u3000<line-break>俺離れしないとな。<line-break>\u3000<line-break>俺みたいないい男がすぐそばにいるから<line-break>姉ちゃん、えり好みしちゃって<line-break>まーだ、恋人もいねえんだよ。<end>"
+english = "It's about time you stopped being so attached to me, Sis. Having a catch like me around all the time has made you too picky. That's why you still haven't found anyone.<end>"
+
+["1930055"]
+japanese = "いってーなー。<line-break>すぐ手が出るんだから！<line-break>もう！<end>"
+english = "Ow! You're always so quick to hit me! Come on!<end>"
+
+["1930056"]
+japanese = "…いってこいよ。<line-break>俺は、ここに残る。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ノーブルと父さんの畑と<line-break>そして、姉ちゃんが帰ってくる場所を<line-break>守ってる。<end>"
+english = "Go on, then. I'll stay here. I'll watch over Noble, Dad's field, and the place you'll come home to.<end>"
+
+["1930057"]
+japanese = "なあ…。<end>"
+english = "Hey...<end>"
+
+["1930058"]
+japanese = "ん？<line-break>どうしたの、ヴァン？<end>"
+english = "Hm? What's wrong, Van?<end>"
+
+["1930059"]
+japanese = "いや…、<line-break>けっこう、いいもんだよな。\u3000\u3000<line-break>テラネの町って…。<line-break>ちょっと…かなり地味だけどよ、<line-break>なんていうか、こう、みんな<line-break>生きてるな、って感じがしてさ。<end>"
+english = "Nah... I was just thinking Terane's a pretty nice town, really. It's a little... well, actually, it's pretty plain, but I don't know. You get the sense that people are really living their lives here.<end>"
+
+["1930060"]
+japanese = "そうだね……。<end>"
+english = "Yeah...<end>"
+
+["1930061"]
+japanese = "でも！<end>"
+english = "But still!<end>"
+
+["1930062"]
+japanese = "俺やっぱ、もっともっと\u3000\u3000\u3000<line-break>お前らと旅がしたいぜ。<line-break>\u3000<line-break>もっといろんなもの見て<line-break>いろんなもの食って<line-break>いろんな奴と会ってみたいぜ！<end>"
+english = "I really want to keep traveling with you two. A whole lot more. I want to see all kinds of things, eat all kinds of food, and meet all kinds of people!<end>"
+
+["1930063"]
+japanese = "僕も、そう思うよ。<end>"
+english = "So do I.<end>"
+
+["1930064"]
+japanese = "うーん…。この大陸はなんか<line-break>だいたい歩き回った気がするから<line-break>次は別の大陸だな！！<end>"
+english = "Hmm... Feels like we've been just about everywhere on this continent, so another continent's next!<end>"
+
+["1930065"]
+japanese = "ヴァン、別の大陸って？<end>"
+english = "Van, what do you mean, another continent?<end>"
+
+["1930066"]
+japanese = "ん？\u3000<line-break>だから、どっか別の大陸さ。<line-break>あるだろ？\u3000そういうの。<end>"
+english = "Hm? You know, some other continent. There's got to be one, right?<end>"
+
+["1930067"]
+japanese = "ヴァン…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>相変わらずだね…。<line-break>\u3000<line-break>あ、でも、そういえば昔<line-break>お爺ちゃんが、西の方にすごく大きな<line-break>大陸があるって言ってたような…。<end>"
+english = "Van... You never change. Oh, but now that I think about it, my grandfather once said something about a huge continent to the west...<end>"
+
+["1930068"]
+japanese = "よーし、じゃあそこ！！<line-break><value:$28>、<line-break>それでいいよな？<end>"
+english = "All right, that's where we're going! Sounds good, right, <value:$28>?<end>"
+
+["1930069"]
+japanese = "よーし、じゃあ行くか！！<end>"
+english = "All right, let's go!<end>"
+
+["1930070"]
+japanese = "え？\u3000ええ！！<line-break>今すぐなの？<end>"
+english = "What? Wait! You mean right now?<end>"
+
+["1930071"]
+japanese = "あたりまえだろ。<line-break>ほら、<value:$28>も。<end>"
+english = "Of course. Come on, you too, <value:$28>.<end>"
+
+["1930072"]
+japanese = "さあ、行くぜ！<line-break>熱い魂を燃やしにな！！<end>"
+english = "Come on, let's go! Time to set the soul ablaze!<end>"
+
+["1930073"]
+japanese = "ヴァン、熱い魂を燃やすって？<end>"
+english = "Van, what do you mean, “set the soul ablaze”?<end>"
+
+["1930074"]
+japanese = "なんでもねぇよ！<line-break>ほら、ふたりとも置いてくぞ。<end>"
+english = "Nothing! Come on, you two, or I'm leaving you behind.<end>"
+
+["1930075"]
+japanese = "師匠、よく復帰してくれました。<line-break>でも、売り物も作ってくださいよ。<end>"
+english = "Master, it's good to have you back. But please make something we can sell, too.<end>"
+
+["1930076"]
+japanese = "武器はな、強く正しき魂に使われて、<line-break>初めてその真価を発揮する。<line-break>\u3000<line-break>わしは、先の長い旅で、<line-break>その使い手を見つけたのじゃ。<line-break>わしはそいつのためにしかつくらん。<end>"
+english = "A weapon only shows its true worth in the hands of a strong and righteous soul. On my long journey, I found such a wielder. I forge for no one else.<end>"
+
+["1930077"]
+japanese = "師匠、お客なんですが、\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>どうしますか？<line-break>断ってきましょうか？<line-break><value:$28>という人なんですが…。<end>"
+english = "Master, we have a customer. What should I do? Shall I turn the visitor away? The name is <value:$28>...<end>"
+
+["1930078"]
+japanese = "<value:$28>…！<end>"
+english = "<value:$28>...!<end>"
+
+["1930079"]
+japanese = "師匠？<end>"
+english = "Master?<end>"
+
+["1930080"]
+japanese = "わかった。<line-break>最高の武器を打ってみせよう。<line-break>ふふふ、腕が鳴るわい。<end>"
+english = "All right. I'll forge the finest weapon there is. Heh heh. I'm itching to put my skills to work.<end>"
+
+["1930081"]
+japanese = "おお！\u3000師匠がやる気に！<end>"
+english = "Oh! Master's fired up!<end>"
+
+["1930082"]
+japanese = "さあ、ぼさっとするな！<line-break>大仕事だぞ！<line-break>気を引き締めるんじゃぞ！<end>"
+english = "Come on, don't just stand there! This is a big job! Look sharp!<end>"
+
+["1930083"]
+japanese = "すばらしい！<line-break>これがレルラ＝ロントンが作った<line-break><value:$28>の詩か。<end>"
+english = "Wonderful! So this is the poem Relra-Lonton wrote about <value:$28>.<end>"
+
+["1930084"]
+japanese = "アンコール！<line-break>アンコール！<end>"
+english = "Encore! Encore!<end>"
+
+["1930085"]
+japanese = "みんなー。<line-break>ぼくの歌を聴いてくれてありがとう！<line-break>じゃあねー。<end>"
+english = "Thank you all for listening to my song! Bye now!<end>"
+
+["1930086"]
+japanese = "お疲れさまでした。<end>"
+english = "Well done.<end>"
+
+["1930087"]
+japanese = "きみ、もう、<line-break>この歌、おぼえてくれたよね。<end>"
+english = "You've learned the song by now, haven't you?<end>"
+
+["1930088"]
+japanese = "明日からはきみが<line-break>この歌をみんなに聴かせるんだ。<line-break>ぼくは、また旅に出るよ。<end>"
+english = "Starting tomorrow, you'll be the one singing it for everyone. I'm going back on the road.<end>"
+
+["1930089"]
+japanese = "こんなすばらしい歌を作られたのに…。<line-break>また、旅なんかに出るんですか？<line-break>この町に落ち着かれては…。<end>"
+english = "After writing such a wonderful song... must you really go traveling again? Couldn't you settle down in this town...?<end>"
+
+["1930090"]
+japanese = "えーっ！\u3000きみはぼくに<line-break>この歌だけで満足しろって言うのー？<line-break>それはムリだよぉー。<line-break>ぼくは、ずーっと<line-break>キレイのかけらを探してさまよう<line-break>さすらいの吟遊詩人なんだ。<end>"
+english = "What? You expect me to be satisfied with just this one song? No way! I'm a wandering minstrel, forever roaming in search of fragments of beauty.<end>"
+
+["1930091"]
+japanese = "ぼくは<line-break><value:$28>との旅で<line-break>たっくさんのキレイに出会った。<end>"
+english = "Traveling with <value:$28>, I found so much beauty.<end>"
+
+["1930092"]
+japanese = "ぼくはね、エルファスも<line-break>ゾフォルもシャリも、その生き方は<line-break>みーんな、キレイだったと思う。<end>"
+english = "Elfas, Zofor, and Shalli―I think there was beauty in the way each of them lived.<end>"
+
+["1930093"]
+japanese = "いずれ、みんな歌にするつもりだよ。<line-break>みんなの憎しみが、<line-break>時にいやされたころにね。<line-break>それまで、<line-break>キレイのかけらを求めて<line-break>旅をするつもり。<end>"
+english = "Someday, once time has softened people's hatred, I'll turn each of them into a song. Until then, I'll keep traveling in search of fragments of beauty.<end>"
+
+["1930094"]
+japanese = "ぼくに一番キレイを見せてくれる<line-break><value:$28>と<line-break>一緒にね。<end>"
+english = "Together with <value:$28>, who shows me more beauty than anyone.<end>"
+
+["1930095"]
+japanese = "来たか……。<end>"
+english = ""
+
+["1930096"]
+japanese = "決着をつけよう。<end>"
+english = ""
+
+["1930097"]
+japanese = "そうですか、<line-break>この大陸を出ていくのですか。<end>"
+english = "I see. So you're leaving the continent.<end>"
+
+["1930098"]
+japanese = "まぁ、それがいいかもしれませんね。<line-break>今のあなたの存在は、<line-break>あまりに巨大ですから。<line-break>ロストールとディンガルが<line-break>手を取り合って、バイアシオンは<line-break>ひとつになろうとしています。<end>"
+english = "Well, perhaps that is for the best. You have become far too great a presence. Rostorl and Dingal are joining hands, and Baiashion is on the verge of becoming one.<end>"
+
+["1930099"]
+japanese = "あなたの存在は、<line-break>その流れをゆるがしかねない。<line-break>あなたの意志に関係なく、ね。<end>"
+english = "Your presence could upset that course, whether you intend it or not.<end>"
+
+["1930100"]
+japanese = "人間は簡単に<line-break>他人を祭りあげたりするからな。<line-break>\u3000<line-break>これからの変革によって、<line-break>今まで持っていた力を<line-break>脅かされた連中が、<end>"
+english = "Humans are quick to put others on a pedestal. The changes ahead will threaten the power some have long held.<end>"
+
+["1930101"]
+japanese = "<value:$28>の<line-break>名前を利用して反対勢力を作る<line-break>…あり得る話だ。<end>"
+english = "Those people might use <value:$28>'s name to build an opposition movement.<end>"
+
+["1930102"]
+japanese = "そこまでいかないにしても、\u3000\u3000\u3000\u3000<line-break><value:$28>を冒険に出る前の<line-break><value:$28>として接してくれる<line-break>人は、もういないかもしれませんね。<line-break>ある意味、それが無限のソウルを<line-break>持ったことの代償かもしれません。<end>"
+english = "Even if things never go that far, there may be no one left who can treat <value:$28> as <value:$28>, the person you were before setting out on your journey. In a sense, that may be the price of gaining the Infinite Soul.<end>"
+
+["1930103"]
+japanese = "それにしても、私たちの他にも\u3000<line-break>冒険で知り合った人たちが<line-break>いるでしょうに。<line-break>その人たちには何も告げずに<line-break>ひとりで行くなんて、<line-break>兄さんといい、あなたといい…。<end>"
+english = "Still, you must have met others on your travels besides us. Leaving alone without a word to any of them... First my brother, and now you.<end>"
+
+["1930104"]
+japanese = "ケリュネイア、人はいろいろです。<line-break>それが、<value:$28>や<line-break>あの子なりの気の使い方なのですよ。<end>"
+english = "Ceryneia, everyone is different. This is simply how <value:$28> and that child choose to show consideration.<end>"
+
+["1930105"]
+japanese = "わかってるわ、そんなこと。\u3000\u3000\u3000<line-break>でも、残される方にも、<line-break>それぞれの思いがある。<line-break><value:$28>なら、<line-break>わかってくれると思ったんだけど。<end>"
+english = "I know that. But those left behind have feelings of their own. I thought <value:$28>, at least, would understand.<end>"
+
+["1930106"]
+japanese = "その辺にしておきなさい。<line-break><value:$28>だって<line-break>考えた上での選択でしょう。<end>"
+english = "That will do. I'm sure <value:$28> thought carefully before making this choice.<end>"
+
+["1930107"]
+japanese = "それでは、そろそろ<line-break>あなたの望むところへ<line-break>お連れしましょう。<end>"
+english = "Then it is time I took you where you wish to go.<end>"
+
+["1930108"]
+japanese = "さあ、どうぞ。<end>"
+english = "Go on.<end>"
+
+["1930109"]
+japanese = "気をつけて、<value:$28>。<line-break>また、会える日まで。<end>"
+english = "Take care, <value:$28>. Until we meet again.<end>"
+
+["1930110"]
+japanese = "<value:$28>！<end>"
+english = "<value:$28>!<end>"
+
+["1930111"]
+japanese = "おや、もうひとりの連れの方が<line-break>来たみたいですね。<end>"
+english = "Oh, it looks like your other companion is here.<end>"
+
+["1930112"]
+japanese = "久しぶりね、<value:$28>。<line-break>どう？\u3000しばらく会ってなかったけど<line-break>腕は上がった？<end>"
+english = "It's been a while, <value:$28>. So, have you gotten any better since I last saw you?<end>"
+
+["1930113"]
+japanese = "フフ、期待してるわ。<line-break>これからはまた同じパーティーの<line-break>一員だもの。よろしくね。<end>"
+english = "Heh, I'm counting on you. We're in the same party again, after all. It'll be good working with you.<end>"
+
+["1930114"]
+japanese = "まぁ、あなたがネメア様の足を<line-break>引っ張るなんてことは<line-break>ないでしょうけどね。<line-break>正直言って、私がふたりの邪魔に<line-break>ならないようにする方が<line-break>大変かもしれないし。<end>"
+english = "Not that I expect you to hold Lord Nemea back. Honestly, I may have enough trouble just keeping out of the way of the two of you.<end>"
+
+["1930115"]
+japanese = "<value:$28>が守ってくれるの？<line-break>…それは仲間として？<line-break><line-break>それとも…<end>"
+english = "You'll protect me, <value:$28>? As a comrade? Or...?<end>"
+
+["1930116"]
+japanese = "なんてね。冗談よ。<line-break>おくれをとらないように、<line-break>精一杯ついていくわ。<end>"
+english = "I'm only teasing. I'll do my best to keep up.<end>"
+
+["1930117"]
+japanese = "<value:$28>が守ってくれるの？<line-break><line-break><line-break>…フフ、期待してるわ。<line-break>私もこの弓で、精一杯<line-break>バックアップさせてもらうから。<end>"
+english = "You'll protect me, <value:$28>? Heh, I'm counting on you. I'll do everything I can to support you with this bow.<end>"
+
+["1930118"]
+japanese = "待たせたな、ふたりとも。<end>"
+english = "Sorry to keep you both waiting.<end>"
+
+["1930119"]
+japanese = "行こうか、オイフェ、<line-break>そして、<value:$28>。<end>"
+english = "Shall we go, Aoife―and <value:$28>?<end>"
+
+["1930120"]
+japanese = "３人とも、気をつけて。<line-break>よい旅を。<end>"
+english = "Take care, all three of you. Safe travels.<end>"
+
+["1930121"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その２５<end>"
+english = ""
+
+["1930122"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その２６<end>"
+english = ""
+
+["1930123"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その２７<end>"
+english = ""
+
+["1930124"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その２８<end>"
+english = ""
+
+["1930125"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その２９<end>"
+english = ""
+
+["1930126"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その３０<end>"
+english = ""
+
+["1930127"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その３１<end>"
+english = ""
+
+["1930128"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その３２<end>"
+english = ""
+
+["1930129"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その３３<end>"
+english = ""
+
+["1930130"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その３４<end>"
+english = ""
+
+["1930131"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その３５<end>"
+english = ""
+
+["1930132"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その３６<end>"
+english = ""
+
+["1930133"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その３７<end>"
+english = ""
+
+["1930134"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その３８<end>"
+english = ""
+
+["1930135"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その３９<end>"
+english = ""
+
+["1930136"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その４０<end>"
+english = ""
+
+["1930137"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その４１<end>"
+english = ""
+
+["1930138"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その４２<end>"
+english = ""
+
+["1930139"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その４３<end>"
+english = ""
+
+["1930140"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その４４<end>"
+english = ""
+
+["1930141"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その４５<end>"
+english = ""
+
+["1930142"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その４６<end>"
+english = ""
+
+["1930143"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その４７<end>"
+english = ""
+
+["1930144"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その４８<end>"
+english = ""
+
+["1930145"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その４９<end>"
+english = ""
+
+["1930146"]
+japanese = "予備メッセージ<line-break>ＥＮＤ２の、その５０<end>"
+english = ""
+
+["1930147"]
+japanese = "ＺｉｌｌＯ’ｌｌ\u3000エンディング２メッセージ終端<end>追加メッセージここから<end>"
+english = ""

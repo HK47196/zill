@@ -1,0 +1,897 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1240000"]
+japanese = "（ケリュネイアの情報では、<line-break>\u3000闇の神器のひとつがロセンの北にある<line-break>\u3000罪深き者の迷宮にあるそうだ）<line-break>（いつでも手に入るわけではないけど<line-break>\u3000手に入れることができたら、<line-break>\u3000ギルドに持っていこう）<end>"
+english = "According to Ceryneia's information, one of the dark artifacts is in the Labyrinth of Sinners north of Rocen. It isn't always available, but if we manage to obtain it, let's take it to the Guild.<end>"
+
+["1240001"]
+japanese = "ケリュネイアの情報だと<line-break>罪深き者の迷宮にも闇の神器が<line-break>隠されているのね。<line-break>あそこはテレポートだらけで<line-break>迷いやすいし、いつでも神器が見つかる<line-break>わけじゃないみたいだけど、どうする？<end>"
+english = "According to Ceryneia, a dark artifact is hidden in the Labyrinth of Sinners too. That place is full of teleporters, so it's easy to get lost, and apparently the artifact isn't always there. What should we do?<end>"
+
+["1240002"]
+japanese = "罪深き者の迷宮はロセンの北じゃ。<line-break>ケリュネイアの話だと、そこにも<line-break>闇の神器が隠されておるのじゃな。<line-break>じゃが、その闇の神器はいつでも<line-break>見つかるわけではないそうじゃな。<line-break>まったく厄介な話よのう。<end>"
+english = "The Labyrinth of Sinners lies north of Rocen. According to Ceryneia, a dark artifact is hidden there as well. But it seems the artifact cannot always be found. What a troublesome business.<end>"
+
+["1240003"]
+japanese = "ロセンの北にある罪深き者の迷宮にも<line-break>闇の神器が隠されているそうですよ。<line-break><value:$28>様はご存知ですよね。<line-break>闇の神器を見つけてギルドに<line-break>持っていけばいいなんて、<line-break>探索の仕事みたいですね。<end>"
+english = "Apparently, a dark artifact is also hidden in the Labyrinth of Sinners north of Rocen. You know that, don't you, <value:$28>? Finding the artifact and taking it to the Guild sounds just like an exploration job.<end>"
+
+["1240004"]
+japanese = "ロセンの北にある罪深き者の迷宮にも<line-break>闇の神器があるんだな。<line-break>じゃ、行こうぜ<value:$28>！<line-break>ギルドの主人は、いつも見つかるとは<line-break>限らない、なんて言ってたが無視しろ。<line-break>見つかるまで何度でも行けばいいのさ！<end>"
+english = "So there's a dark artifact in the Labyrinth of Sinners north of Rocen too. Then let's go, <value:$28>! The Guild master said it might not always be there, but ignore that. We can keep going back until we find it!<end>"
+
+["1240005"]
+japanese = "ケリュネイアの情報だと、<line-break>罪深き者の迷宮にも<line-break>闇の神器があるんだね。<line-break>だけど、いつでも見つかるわけじゃ<line-break>ないみたいだよ。ケリュネイアは、<line-break>どこでその情報を手に入れたのかな？<end>"
+english = "According to Ceryneia, there's a dark artifact in the Labyrinth of Sinners too. But apparently it can't always be found. I wonder where Ceryneia got that information?<end>"
+
+["1240006"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240007"]
+japanese = "ケリュネイアは闇の神器の<line-break>２個目として、罪深き者の迷宮のものを<line-break>指定したようですねぇ。<line-break>ですが、気をつけてください。<line-break>ここの神器はいつでも手に入るわけでは<line-break>ないようですよ。<end>"
+english = "It seems Ceryneia has designated the one in the Labyrinth of Sinners as the second dark artifact. But do be careful. Apparently, the artifact there isn't always available.<end>"
+
+["1240008"]
+japanese = "ケリュネイアによれば、２個目の<line-break>闇の神器は、罪深き者の迷宮に<line-break>あるらしいわね。<line-break>どうやらいつでも必ず手に入る、<line-break>ってわけじゃないらしいけど、<line-break>とりあえず行っとこっか。<end>"
+english = "According to Ceryneia, the second dark artifact is in the Labyrinth of Sinners. Apparently, though, there is no guarantee we'll be able to get it whenever we go. Let's head there for now.<end>"
+
+["1240009"]
+japanese = "姉ちゃん、ケリュネイアの話だと<line-break>闇の神器は罪深き者の迷宮にも<line-break>あるみたいだよ。<line-break>いつでも見つかるってわけじゃない<line-break>みたいだけど、どうするんだ？<end>"
+english = "Sis, Ceryneia says there's a dark artifact in the Labyrinth of Sinners too. Apparently it isn't always there, though. What are you going to do?<end>"
+
+["1240010"]
+japanese = "ケリュネイアによれば、<line-break>２個目の闇の神器は、<line-break>罪深き者の迷宮にあるらしいわ。<line-break>いつでも必ず手に入るというわけでは<line-break>ないそうよ。<end>"
+english = "According to Ceryneia, the second dark artifact is in the Labyrinth of Sinners. But apparently there is no guarantee it will be available whenever we go.<end>"
+
+["1240011"]
+japanese = "ケリュネイアの話だと<line-break>罪深き者の迷宮にも<line-break>闇の神器があるんだな。<line-break>あそこはテレポートが多くて<line-break>迷いやすい所だぜ。<line-break>迷わないようにしないとな。<end>"
+english = "Ceryneia says there's a dark artifact in the Labyrinth of Sinners too. That place has a lot of teleporters, so it's easy to get lost. We'd better make sure we don't.<end>"
+
+["1240012"]
+japanese = "罪深き者の迷宮にも<line-break>闇の神器があるというのか…。<line-break>お前は、その情報を信じるのか？<line-break>まあ、いい。<line-break>そこへ行ってみれば、<line-break>嘘か真かハッキリするだろう。<end>"
+english = "There is a dark artifact in the Labyrinth of Sinners too...? Do you believe that information? Very well. Once we go there, we'll know whether it is true or false.<end>"
+
+["1240013"]
+japanese = "なんと！\u3000闇の神器のひとつが<line-break>罪深き者の迷宮にあるというのか！<line-break>う～む、それは知らんかったわい。<line-break>若いころ、何度も探検したのじゃが…。<line-break>いつも見つかるとは限らないという話は<line-break>本当のことじゃな。<end>"
+english = "What! One of the dark artifacts is in the Labyrinth of Sinners? Hmm, I never knew that. I explored it many times in my youth... So it is true that the artifact cannot always be found.<end>"
+
+["1240014"]
+japanese = "<value:$28>も知っていると<line-break>思うけど、罪深き者の迷宮にも<line-break>闇の神器があるんだね。<line-break>闇の神器は破壊神ウルグを<line-break>復活させるための道具らしいから、<line-break>扱いには注意しないとね。<end>"
+english = "I'm sure <value:$28> already knows, but there's a dark artifact in the Labyrinth of Sinners too. Apparently the dark artifacts are tools for reviving Urg, the God of Destruction, so we need to handle them carefully.<end>"
+
+["1240015"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240016"]
+japanese = "何度も言うけど、<line-break>アタクシは高貴で知性あふれる<line-break>美しいエルフなわけ。<line-break>そのアタクシが、どーーーして<line-break>罪深き者の迷宮なんかで<line-break>闇の神器探しをしなきゃいけないのよ！<end>"
+english = "How many times must I tell you? I am a noble, intelligent, beautiful Elf. So whyyyyy should someone like me have to search the Labyrinth of Sinners for a dark artifact?!<end>"
+
+["1240017"]
+japanese = "２個目の闇の神器ボゲー<line-break>２個目の闇の神器ボゲー<line-break>２個目の闇の神器ボゲー<line-break>２個目の闇の神器ボゲー<line-break>２個目の闇の神器ボゲー<line-break>２個目の闇の神器ボゲー<end>"
+english = "Second dark artifact, Bogee! Second dark artifact, Bogee! Second dark artifact, Bogee! Second dark artifact, Bogee! Second dark artifact, Bogee! Second dark artifact, Bogee!<end>"
+
+["1240018"]
+japanese = "罪深き者の迷宮に、<line-break>闇の神器があるんだってぇ。<line-break><value:$28>は知ってたぁ？<line-break>闇の神器を見つけたら、<line-break>ギルドに持っていくんだよ。<line-break>忘れたらダメだからねぇ。<end>"
+english = "They say there's a dark artifact in the Labyrinth of Sinners. Did you know that, <value:$28>? When you find it, take it to the Guild. Don't forget, okay?<end>"
+
+["1240019"]
+japanese = "………………。<line-break><line-break><line-break>罪深き者の迷宮だ…。<end>"
+english = "………………. The Labyrinth of Sinners...<end>"
+
+["1240020"]
+japanese = "ケリュネイアによれば、<line-break>闇の神器の２個は罪深き者の迷宮に<line-break>眠っているらしい。<line-break>回収した後は、各地のギルドで<line-break>照合するらしいぞ。<end>"
+english = "According to Ceryneia, two dark artifacts lie dormant in the Labyrinth of Sinners. Once recovered, they are apparently to be checked at Guilds across the land.<end>"
+
+["1240021"]
+japanese = "闇の神器が罪深き者の迷宮にも<line-break>あるそうだけど、いつもあるとは<line-break>限らないってのが謎だよねぇ。<line-break>それにしても闇の神器を集めている<line-break>ぼくたちって、破壊神ウルグ復活を企む<line-break>秘密結社みたいだね。<end>"
+english = "They say there's a dark artifact in the Labyrinth of Sinners too, but it's strange that it isn't always there. Still, collecting dark artifacts makes us look like a secret society plotting to revive Urg, the God of Destruction.<end>"
+
+["1240022"]
+japanese = "２個目は罪深き者の迷宮にある。<line-break>しかし、行けば必ず手に入るとも<line-break>限らないとは…どういうことだ？<end>"
+english = "The second one is in the Labyrinth of Sinners. But what does it mean that going there doesn't guarantee we'll obtain it...?<end>"
+
+["1240023"]
+japanese = "２個目の闇の神器は、罪深き者の迷宮に<line-break>あるそうです。ただし、いつでも必ず<line-break>手に入るとは、限らないそうです。<line-break>１個目より、だいぶ手強そうです。<end>"
+english = "The second dark artifact is said to be in the Labyrinth of Sinners. However, there is apparently no guarantee that it will always be available. This one sounds much harder than the first.<end>"
+
+["1240024"]
+japanese = "２個目の闇の神器のありかは、<line-break>罪深き者の迷宮だって聞いたよ。<line-break><line-break>テレポート装置が多くて、<line-break>迷いやすいんだって。<line-break>大丈夫かな？<end>"
+english = "I heard the second dark artifact is in the Labyrinth of Sinners. Apparently, the labyrinth has lots of teleportation devices, so it's easy to get lost there. Will we be all right?<end>"
+
+["1240025"]
+japanese = "２個目の闇の神器があるという<line-break>罪深き者の迷宮は、転送装置によって<line-break>来る者を惑わす迷宮だという。<line-break>わしはどうもアレが苦手でな。<line-break>どこへ飛ばされるか<line-break>わかったもんじゃないだろうが。<end>"
+english = "They say the Labyrinth of Sinners, where the second dark artifact lies, confounds anyone who enters with its teleportation devices. I've never been good with those things. You never know where they'll send you.<end>"
+
+["1240026"]
+japanese = "２個目の闇の神器は、<line-break>罪深き者の迷宮にあるらしい。<line-break>信用していい情報だと思う。<line-break>…が、いつでも手に入るわけではない<line-break>とは、いったいどういうことだ？<line-break>何か、仕掛けでもあるのだろうか？<end>"
+english = "The second dark artifact is apparently in the Labyrinth of Sinners. I think the information is reliable. But what does it mean that it isn't always available? Could there be some sort of mechanism involved?<end>"
+
+["1240027"]
+japanese = "２個目の闇の神器は、<line-break>罪深き者の迷宮にあるらしい。<line-break>ただ必ず手に入るわけではないそうだ。<line-break>あそこは迷いやすくて厄介だ。 <line-break>準備は怠るなよ。<end>"
+english = "The second dark artifact is apparently in the Labyrinth of Sinners. But there is no guarantee we'll obtain it. That place is troublesome and easy to get lost in. Make sure you're prepared.<end>"
+
+["1240028"]
+japanese = "２個目の闇の神器は、<line-break>罪深き者の迷宮にあるらしいけど、<line-break>ちょっとやっかいね。<line-break>転送装置が多くて迷いやすいし、<line-break>必ず手に入るわけじゃないそうよ。<end>"
+english = "The second dark artifact is apparently in the Labyrinth of Sinners, but this could be troublesome. It has lots of teleportation devices, so it's easy to get lost, and apparently there is no guarantee we'll obtain it.<end>"
+
+["1240029"]
+japanese = "２個目の闇の神器は、<line-break>罪深き者の迷宮にあると<line-break>聞いています。<line-break>でも、常に手に入るとは<line-break>限らないそうです。<end>"
+english = "I hear the second dark artifact is in the Labyrinth of Sinners. But apparently it isn't always available.<end>"
+
+["1240030"]
+japanese = "２個目の闇の神器は<line-break>罪深き者の迷宮にあるらしいですけど、<line-break>必ず手に入るわけじゃないそうです。<line-break>どういうことでしょう？？<line-break><value:$28>さん、わかりますか？<end>"
+english = "The second dark artifact is apparently in the Labyrinth of Sinners, but they say there is no guarantee we'll obtain it. What could that mean?? Do you know, <value:$28>?<end>"
+
+["1240031"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240032"]
+japanese = "（考古学者のエストが<line-break>\u3000闇の神器を持っているらしい。<line-break>\u3000彼に会ってみようか…）<line-break>（考古学者だから<line-break>\u3000どこかの遺跡を探検して<line-break>\u3000いるのかな）<end>"
+english = "Apparently, an archaeologist named Est has a dark artifact. Perhaps we should try to meet him... Since he's an archaeologist, maybe he's exploring some ruins.<end>"
+
+["1240033"]
+japanese = "考古学者のエストが、<line-break>闇の神器を持っているのね。<line-break>それなら彼を捜しましょ。<line-break>考古学者が興味を持ちそうな所か…<line-break>乙女の鏡の柱が５本並んでる所<line-break>なんて怪しくない？<end>"
+english = "So the archaeologist Est has a dark artifact. Then let's find him. Somewhere an archaeologist might find interesting... Doesn't the place with five pillars at Maiden's Mirror sound suspicious?<end>"
+
+["1240034"]
+japanese = "考古学者のエストが闇の神器を<line-break>持っておるのじゃな。<line-break>では、彼に会いに行かねばな。<line-break>ロストールの南西にある<line-break>飢えた者の迷宮などは<line-break>考古学者の好みそうな場所じゃな。<end>"
+english = "So the archaeologist Est has a dark artifact. Then we must go and meet him. The Labyrinth of the Hungry southwest of Rostorl sounds like the sort of place an archaeologist would favor.<end>"
+
+["1240035"]
+japanese = "考古学者のエストさんが<line-break>闇の神器を研究している<line-break>らしいですよ。<line-break><value:$28>様が頼めば、<line-break>闇の神器をプレゼントしてくれる<line-break>ことは確実だと思います！<end>"
+english = "Apparently, the archaeologist Est is researching a dark artifact. I'm certain he'd give it to you as a present if you asked, <value:$28>!<end>"
+
+["1240036"]
+japanese = "そうか、エストって考古学者が<line-break>闇の神器を持っているんだな。<line-break>なら、話は簡単だぜ。<line-break>そいつに会って、<line-break>闇の神器をもらってこようぜ。<line-break>俺が頼めばイヤとは言わないだろ。<end>"
+english = "I see. So an archaeologist named Est has the dark artifact. Then this is simple. Let's find him and get him to give it to us. He won't refuse if I ask.<end>"
+
+["1240037"]
+japanese = "考古学者のエストが闇の神器を<line-break>持っているんだって。<line-break>エステルじゃなくてエストだからね。<line-break>名前が似てるけど、<line-break>ボクは闇の神器なんて持ってないから。<line-break>エ・ス・トを探すんだよ。<end>"
+english = "They say the archaeologist Est has the dark artifact. Est, not Esther, okay? Our names may sound alike, but I don't have any dark artifact. Look for E-S-T.<end>"
+
+["1240038"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240039"]
+japanese = "３個目の闇の神器は、<line-break>あの考古学者のエスト・リューガが<line-break>所持しているのですか。<line-break>確証は持てませんが、彼なら古代遺跡を<line-break>調査に行っているはずです。<line-break>運がよければ、そこで会えるでしょう。<end>"
+english = "That archaeologist Est Ryuga has the third dark artifact? I cannot be certain, but he should be out investigating ancient ruins. With luck, we may find him there.<end>"
+
+["1240040"]
+japanese = "エストって、ああ、あの、<line-break>見た目によらず行動派な<line-break>考古学者サンのことね。<line-break>考古学者といえば、古代の遺跡だけど…<line-break>この大陸、遺跡だらけじゃない！<end>"
+english = "Est? Oh, you mean that archaeologist who's surprisingly adventurous for someone who looks like that. Archaeologists mean ancient ruins, but... this continent is covered in ruins!<end>"
+
+["1240041"]
+japanese = "姉ちゃん、エストのやつに<line-break>頼んで闇の神器をもらってくれよ。<line-break>あいつ姉ちゃんの頼みなら断れないよ。<line-break>だけど、あいつの居場所を探すのが<line-break>大変なんだよな。<end>"
+english = "Sis, ask Est to give us the dark artifact. He could never refuse you. Finding out where he is will be the hard part, though.<end>"
+
+["1240042"]
+japanese = "３個目の闇の神器は、考古学者の<line-break>エストが所持しているらしいわ。<line-break>…厄介ね。<end>"
+english = "Apparently, the archaeologist Est has the third dark artifact. How troublesome...<end>"
+
+["1240043"]
+japanese = "なるほど、エストのやつがねえ。<line-break>確かにあいつは、闇の神器の研究を<line-break>していたな。<line-break>しっかし、あのさすらいの考古学者を<line-break>見つけるのはホネだぜぇ。<end>"
+english = "I see, so Est has it. He was researching the dark artifacts, come to think of it. But finding that wandering archaeologist is going to be a real pain.<end>"
+
+["1240044"]
+japanese = "そのエストとかいう考古学者が<line-break>闇の神器を持っているのだな。<line-break>考古学者か…<line-break>ノーブルの南にある夢幻の湖には<line-break>謎の水中遺跡がある。<line-break>そこにいるかもしれないな。<end>"
+english = "So that archaeologist called Est has the dark artifact. An archaeologist... There are mysterious underwater ruins in the Lake of Illusions south of Noble. He may be there.<end>"
+
+["1240045"]
+japanese = "考古学者のエストが持っておるのか。<line-break>はて、どこを探せばよいのかな。<line-break>遺跡などがある場所じゃろうか。<line-break>ロセンの北東にある地下墓地などは、<line-break>考古学者の行きそうなところじゃな。<end>"
+english = "So the archaeologist Est has it. Now, where should we look? Perhaps somewhere with ruins. The Underground Cemetery northeast of Rocen sounds like somewhere an archaeologist might visit.<end>"
+
+["1240046"]
+japanese = "テラネの東にそびえる霊峰トールには<line-break>ノトゥーン神殿があってね、巡礼者は<line-break>そこを目指して登っていくんだ。<line-break>ノトゥーン神殿は古代に建てられた<line-break>ものだから、考古学者のエストも<line-break>興味を持つんじゃないのかな。<end>"
+english = "Notun Temple stands on Sacred Mount Thor, which rises east of Terane, and pilgrims climb the mountain to reach it. The temple was built in ancient times, so perhaps the archaeologist Est would be interested in it too.<end>"
+
+["1240047"]
+japanese = "……………。<end>"
+english = "…………….<end>"
+
+["1240048"]
+japanese = "もーーーーー、がまんできないっ！<line-break>アタクシにとって闇の神器なんて<line-break>どーでもいい物なの！<line-break>だいたいどこにいるかもわからない<line-break>人間をどうやって捜すつもりなのよ！<line-break>ほーーんと、人間ってバカばかりね。<end>"
+english = "I can't take this anymooooore! I couldn't care less about some dark artifact! How do you intend to find a human when you don't even know where he is?! Humans really are all idiots.<end>"
+
+["1240049"]
+japanese = "３個目の闇の神器ボゲー<line-break>３個目の闇の神器ボゲー<line-break>３個目の闇の神器ボゲー<line-break>３個目の闇の神器ボゲー<line-break>３個目の闇の神器ボゲー<line-break>３個目の闇の神器ボゲー<end>"
+english = "Third dark artifact, Bogee! Third dark artifact, Bogee! Third dark artifact, Bogee! Third dark artifact, Bogee! Third dark artifact, Bogee! Third dark artifact, Bogee!<end>"
+
+["1240050"]
+japanese = "ねーねー<value:$28>、<line-break>考古学者のエストに頼んで<line-break>闇の神器を譲ってもらうの？<line-break>ルルアンタも一緒に頼んであげるから、<line-break>無理に奪おうとかしちゃダメだからね。<line-break>約束だよぉ、<value:$28>。<end>"
+english = "Hey, <value:$28>, are you going to ask the archaeologist Est to give you the dark artifact? Lulluantha will ask with you, so don't try to take it by force. Promise me, <value:$28>.<end>"
+
+["1240051"]
+japanese = "………………。<line-break><line-break><line-break>エストを捜せ…。<end>"
+english = "………………. Find Est...<end>"
+
+["1240052"]
+japanese = "エストが３個目の闇の神器を<line-break>持っているだと？<line-break>くっ、居場所は俺も知らん！<line-break>もしかすると、今頃、魔人や<line-break>他の勢力に襲われているかもしれん。<line-break>急ぐぞ、<value:$28>！<end>"
+english = "Est has the third dark artifact? Damn, I don't know where he is either! He may already be under attack by fiends or some other faction. We must hurry, <value:$28>!<end>"
+
+["1240053"]
+japanese = "闇の神器を持っているエストは<line-break>考古学者なんだね？<line-break>それなら心当たりがあるよ。<line-break>夢幻の湖、乙女の鏡、霊峰トール、<line-break>地下墓地、飢えた者の迷宮。<line-break>ぜーんぶ遺跡があるところだよ。<end>"
+english = "Est, the one with the dark artifact, is an archaeologist, right? Then I have some ideas: the Lake of Illusions, Maiden's Mirror, Sacred Mount Thor, the Underground Cemetery, and the Labyrinth of the Hungry. Every one of those places has ruins.<end>"
+
+["1240054"]
+japanese = "３個目は個人が所持しているのか！<line-break>道理で見つからないわけだ。<line-break><line-break>相手は考古学者だ。<line-break>各地の古代遺跡をしらみつぶしに<line-break>当たるぞ！<end>"
+english = "So the third artifact is in someone's possession! No wonder we couldn't find it. Our target is an archaeologist. We'll search every ancient ruin in the land!<end>"
+
+["1240055"]
+japanese = "３個目の神器は考古学者のエストが<line-break>持っているそうです。どこにいるか、<line-break>限定は極めて難しいですが、<line-break>彼の熱意を考えれば、遺跡を探すのが<line-break>近道でしょう。夢幻の湖、地下墓地、<line-break>霊峰トールなどはどうでしょう。<end>"
+english = "The archaeologist Est apparently has the third artifact. Narrowing down his location will be extremely difficult, but given his enthusiasm, searching the ruins would be the quickest approach. How about the Lake of Illusions, the Underground Cemetery, or Sacred Mount Thor?<end>"
+
+["1240056"]
+japanese = "３個目の闇の神器は、考古学者の<line-break>エストが持ってるんだって。<line-break>でも、どこを探せばいいのかな？<end>"
+english = "They say the archaeologist Est has the third dark artifact. But where should we look for him?<end>"
+
+["1240057"]
+japanese = "いかに常人より古代のことに<line-break>詳しいからと言って、<line-break>闇の神器を持ち歩いていては、<line-break>エスト殿本人の身にも危険が及ぶ。<line-break>一日も早くエスト殿を<line-break>探しあてねばなるまい。<end>"
+english = "Est may know more about ancient times than most, but carrying a dark artifact puts him in danger too. We must find him as soon as possible.<end>"
+
+["1240058"]
+japanese = "３個目の闇の神器は、<line-break>エストが持っていたのか。<line-break><line-break>今までと同じように、各地の古代遺跡で<line-break>会えると思うが、問題は、彼に<line-break>神器を渡す意志があるかどうかだな。<end>"
+english = "So Est had the third dark artifact. As before, I expect we can find him at ancient ruins around the land. The question is whether he is willing to hand over the artifact.<end>"
+
+["1240059"]
+japanese = "３個目の闇の神器は、<line-break>リューガ家のエストが持っているらしい。<line-break>だが、肝心の居場所がつかめないか…。<line-break>あいつは考古学者だし<line-break>どこかの遺跡を捜せば<line-break>見つかるかもしれんな。<end>"
+english = "Apparently, Est of the Ryuga family has the third dark artifact. But we have no idea where he is... He's an archaeologist, so we may find him if we search some ruins.<end>"
+
+["1240060"]
+japanese = "リューガ家のエストが<line-break>闇の神器を持ってるそうよ。<line-break>おそらく遺跡にいると思うけど…。<line-break>夢幻の湖に水中遺跡があるって<line-break>聞いたことがあるわ。<line-break>そこかも知れないわね。<end>"
+english = "They say Est of the Ryuga family has a dark artifact. He's probably at some ruins... I've heard there are underwater ruins in the Lake of Illusions. Perhaps he's there.<end>"
+
+["1240061"]
+japanese = "３個目の闇の神器の場所は、<line-break>私にはわかりません。<end>"
+english = "I do not know where the third dark artifact is.<end>"
+
+["1240062"]
+japanese = "３個目の闇の神器は、<line-break>エストさんがお持ちだそうです。<line-break>わけを話せば譲ってくれそうですね。<line-break>エストさんってどこにいるんでしょう？<line-break>考古学者さんですし、<line-break>どこかの遺跡だと思うんですけど…。<end>"
+english = "Apparently, Est has the third dark artifact. He may give it to us if we explain the situation. But where could he be? He's an archaeologist, so I imagine he's at some ruins...<end>"
+
+["1240063"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240064"]
+japanese = "（密書を解放軍本部に届けるよう<line-break>\u3000クリュセイスに命令された。<line-break>\u3000期限が短いので急がないと…）<end>"
+english = "Khryuseis ordered me to deliver the Secret Letter to Liberation Army Headquarters. The deadline is tight, so I'd better hurry...<end>"
+
+["1240065"]
+japanese = "この密書を解放軍の本部に<line-break>届ければいいのよ。<line-break>忘れたわけじゃないよね。<end>"
+english = "All you have to do is deliver this Secret Letter to the Liberation Army headquarters. You haven't forgotten, have you?<end>"
+
+["1240066"]
+japanese = "ディンガルの元朱雀将軍が、<line-break>解放軍の密書を運ぶことになるとは。<line-break>人生とはおもしろいものじゃな。<end>"
+english = "To think that a former Vermilion Bird General of Dingal would end up carrying a Secret Letter for the Liberation Army. Life is an interesting thing.<end>"
+
+["1240067"]
+japanese = "密書の配達に<value:$28>様を<line-break>つかうなんて許せません！<line-break>そんな仕事、無視しちゃいましょう。<end>"
+english = "How dare they use you to deliver a Secret Letter, <value:$28>! Let's ignore a job like that.<end>"
+
+["1240068"]
+japanese = "クリュセイスから預かってる密書を<line-break>解放軍の本部に届けるだけだ。<line-break>さっさと片付けちまおうぜ。<end>"
+english = "All we have to do is deliver the Secret Letter Khryuseis entrusted to us to the Liberation Army headquarters. Let's get it over with.<end>"
+
+["1240069"]
+japanese = "この密書を解放軍の本部に<line-break>届けるのがキミの仕事だよ。<line-break>さっさと終わらせちゃおうよね。<end>"
+english = "Your job is to deliver this Secret Letter to the Liberation Army headquarters. Let's hurry up and get it over with.<end>"
+
+["1240070"]
+japanese = "密書を解放軍本部に届けるのよ。<line-break>おあつらえ向きに期限が短いから、<line-break>急いだ方がいいわ。<end>"
+english = "Deliver the Secret Letter to Liberation Army Headquarters. The deadline is conveniently short, so you'd better hurry.<end>"
+
+["1240071"]
+japanese = "解放軍本部に密書を届けるのでしたね。<line-break>私とこうしてしゃべっている間にも、<line-break>ほら、期限は迫っていますよ？<end>"
+english = "We were to deliver the Secret Letter to Liberation Army Headquarters, weren't we? Even as you stand here talking to me, the deadline is drawing closer, you know.<end>"
+
+["1240072"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240073"]
+japanese = "姉ちゃんの役目は、この密書を<line-break>解放軍の本部に届けることだろ。<line-break>うっかりして忘れないでくれよ。<end>"
+english = "Sis, your job is to deliver this Secret Letter to the Liberation Army headquarters, right? Don't get careless and forget.<end>"
+
+["1240074"]
+japanese = "クリュセイスから命じられたのは、<line-break>解放軍本部に密書を届けることよね。<line-break>さあ、行きましょう。<end>"
+english = "Khryuseis ordered us to deliver the Secret Letter to Liberation Army Headquarters, right? Come on, let's go.<end>"
+
+["1240075"]
+japanese = "確認しとくとお前さんの仕事は、<line-break>クリュセイスから預かった密書を<line-break>解放軍の本部へ届けることだぜ。<end>"
+english = "Just to be clear, your job is to deliver the Secret Letter from Khryuseis to the Liberation Army headquarters.<end>"
+
+["1240076"]
+japanese = "解放軍の本部に密書を届けるだと？<line-break>また、くだらない仕事をやる羽目に<line-break>なったようだな。<end>"
+english = "Deliver a Secret Letter to the Liberation Army headquarters? It seems we've been saddled with another worthless job.<end>"
+
+["1240077"]
+japanese = "クリュセイスから預かっておる密書を<line-break>解放軍の本部へ届ければよいのじゃな。<line-break>では、さっそく出かけようではないか。<end>"
+english = "We need only deliver the Secret Letter Khryuseis entrusted to us to the Liberation Army headquarters. Then let us set out at once.<end>"
+
+["1240078"]
+japanese = "この密書を解放軍の本部へ<line-break>届ければいいんだよ。<line-break><value:$28>なら簡単だよね。<end>"
+english = "All you have to do is deliver this Secret Letter to the Liberation Army headquarters. That should be easy for <value:$28>, right?<end>"
+
+["1240079"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240080"]
+japanese = "高貴で優雅なエルフのアタクシが、<line-break>うさんくさい解放軍の本部なんて<line-break>知るわけないでしょ！<end>"
+english = "How could a noble and graceful Elf like me possibly know where the headquarters of that shady Liberation Army is?!<end>"
+
+["1240081"]
+japanese = "密書の配達ボゲー<line-break>密書の配達ボゲー<line-break>密書の配達ボゲー<line-break>密書の配達ボゲー<line-break>密書の配達ボゲー<line-break>密書の配達ボゲー<end>"
+english = "Secret Letter delivery, Bogee! Secret Letter delivery, Bogee! Secret Letter delivery, Bogee! Secret Letter delivery, Bogee! Secret Letter delivery, Bogee! Secret Letter delivery, Bogee!<end>"
+
+["1240082"]
+japanese = "<value:$28>の最初の任務は、<line-break>この密書を解放軍の本部に<line-break>届けることだよぉ。<end>"
+english = "<value:$28>'s first mission is to deliver this Secret Letter to the Liberation Army headquarters.<end>"
+
+["1240083"]
+japanese = "………………。<line-break><line-break><line-break>解放軍の本部に届けろ。<end>"
+english = "………………. Deliver it to the Liberation Army headquarters.<end>"
+
+["1240084"]
+japanese = "クリュセイスから依頼されたのは、<line-break>解放軍本部へ密書を届けることだ。<line-break>そつなくこなせ。<end>"
+english = "Khryuseis asked you to deliver the Secret Letter to Liberation Army Headquarters. See it done without incident.<end>"
+
+["1240085"]
+japanese = "はっ！\u3000<value:$28>殿の<line-break>使命は、解放軍本部に密書を<line-break>届けることであります！<line-break>わたくしレルラ＝ロントンも<line-break><value:$28>殿を手助けするため<line-break>同行させていただきます…な～んてね。<end>"
+english = "Aye! <value:$28>'s mission is to deliver the Secret Letter to Liberation Army Headquarters! I, Relra-Lonton, shall accompany <value:$28> and provide assistance... Just kidding.<end>"
+
+["1240086"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240087"]
+japanese = "解放軍本部に密書を運ぶのが<line-break>クリュセイスの依頼です。<line-break>速やかに終わらせてしまいましょう。<line-break><end>"
+english = "Khryuseis has asked us to carry the Secret Letter to Liberation Army Headquarters. Let us finish the task promptly.<end>"
+
+["1240088"]
+japanese = "解放軍本部に密書を運ぶのが<line-break>クリュセイスの頼みだよ。<line-break>期限が短いから、急がないとね。<end>"
+english = "Khryuseis wants us to carry the Secret Letter to Liberation Army Headquarters. The deadline is tight, so we'd better hurry.<end>"
+
+["1240089"]
+japanese = "解放軍本部に密書を運ぶのじゃ。<line-break>わしも、おぬしほどの頃には、<line-break>こう、危ない仕事をいろいろとな…<line-break>聞いておるか、<value:$28>？<end>"
+english = "We must carry the Secret Letter to Liberation Army Headquarters. When I was your age, I had all manner of dangerous jobs myself... Are you listening, <value:$28>?<end>"
+
+["1240090"]
+japanese = "解放軍本部に密書を運ぶのだ。<line-break>クリュセイスが指定した期限は<line-break>短い。急ぎ、出発しよう。<end>"
+english = "We must carry the Secret Letter to Liberation Army Headquarters. Khryuseis has set a tight deadline. Let us depart at once.<end>"
+
+["1240091"]
+japanese = "手紙を解放軍本部に届けるのが<line-break>今回の仕事だ。<line-break>さっさと届けてしまおう。<end>"
+english = "Our job this time is to deliver the letter to Liberation Army Headquarters. Let's get it there and be done with it.<end>"
+
+["1240092"]
+japanese = "クリュセイスって信用できないわ。<line-break>何か私たちに隠してる気がするのよね。<line-break>女のカンってやつ？<line-break>とりあえず、この手紙は<line-break>解放軍本部に届けましょ。<end>"
+english = "I don't trust Khryuseis. I feel as though she's hiding something from us. Call it woman's intuition. For now, let's deliver this letter to Liberation Army Headquarters.<end>"
+
+["1240093"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240094"]
+japanese = "クリュセイスさんの手紙を<line-break>解放軍本部に運ぶのが今回の仕事です。<line-break>期限も短いですし急ぎましょう。<end>"
+english = "Our job this time is to carry Khryuseis's letter to Liberation Army Headquarters. The deadline is tight, so let's hurry.<end>"
+
+["1240095"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240096"]
+japanese = "（今度は、この密書をロセンにある<line-break>\u3000解放軍の支部に届けないといけない。<line-break>\u3000寄り道している暇はないな）<end>"
+english = "This time, we have to deliver the Secret Letter to the Liberation Army branch in Rocen. There's no time for detours.<end>"
+
+["1240097"]
+japanese = "今度は、この密書を解放軍の<line-break>ロセン支部に届けるのね。<line-break>船で行った方が早いけど船賃あるの？<end>"
+english = "This time, we're delivering the Secret Letter to the Liberation Army's Rocen branch. Going by ship would be faster, but do we have the fare?<end>"
+
+["1240098"]
+japanese = "お次はロセンの解放軍支部じゃぞ。<line-break>わしが解放軍にいることを知れば、<line-break>カルラもおどろくじゃろうな。<end>"
+english = "Next is the Liberation Army branch in Rocen. Karula would be surprised to learn that I am with the Liberation Army.<end>"
+
+["1240099"]
+japanese = "一度ならず二度までも密書の配達を<line-break><value:$28>様に命令するなんて！<line-break>そんな密書、海に捨てちゃいましょう。<end>"
+english = "How dare they order you to deliver a Secret Letter not once, but twice, <value:$28>! Let's throw it into the sea.<end>"
+
+["1240100"]
+japanese = "本部の次はロセン支部かよ。<line-break>そのうち大陸中をたらいまわしに<line-break>されるんじゃないか？<end>"
+english = "After headquarters, it's the Rocen branch? At this rate, they'll send us running all over the continent.<end>"
+
+["1240101"]
+japanese = "次は解放軍ロセン支部に届けるんだよ。<line-break>キミは頼りにされてるんだから、<line-break>文句言わずにがんばらないとね。<end>"
+english = "Next, you have to deliver it to the Rocen Branch of the Liberation Army. People are counting on you, so quit complaining and do your best.<end>"
+
+["1240102"]
+japanese = "次の目的地はロセン。<line-break>そこに解放軍の支部があるらしいわ。<line-break>早いところ、片付けるわよ。<end>"
+english = "Our next destination is Rocen. Apparently, the Liberation Army has a branch there. Let's get this over with.<end>"
+
+["1240103"]
+japanese = "次なる目的地はロセンにある<line-break>解放軍の支部ですね。<line-break>寄り道している暇はなさそうです。<end>"
+english = "Our next destination is the Liberation Army branch in Rocen. It seems we have no time for detours.<end>"
+
+["1240104"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240105"]
+japanese = "姉ちゃん、次は解放軍ロセン支部だぜ。<line-break>船で行くのがいいと思うけど、<line-break>船賃あったかな？<end>"
+english = "Sis, the Rocen Branch of the Liberation Army is next. I think we should go by ship, but do we have enough for the fare?<end>"
+
+["1240106"]
+japanese = "次はロセンの支部が目的地ね。<line-break>私たちの知らない水面下で、<line-break>彼らは活動を続けていたのね…。<end>"
+english = "Our next destination is the Rocen branch. So they have continued operating behind the scenes without our knowledge...<end>"
+
+["1240107"]
+japanese = "お前さんの次の任務は、<line-break>この密書を解放軍のロセン支部に<line-break>届けることだぜ。<end>"
+english = "Your next mission is to deliver this Secret Letter to the Liberation Army's Rocen branch.<end>"
+
+["1240108"]
+japanese = "次は解放軍のロセン支部だ。<line-break>密書など、さっさと運んでしまえ。<line-break>無駄な時間を過ごす余裕はないのだぞ。<end>"
+english = "Next is the Liberation Army's Rocen branch. Deliver that Secret Letter and be done with it. We cannot afford to waste time.<end>"
+
+["1240109"]
+japanese = "今度は解放軍のロセン支部とは…。<line-break>解放軍もそうとうな人手不足と見える。<line-break>まったくもって人使いがあらいのう。<end>"
+english = "Now they want us to go to the Liberation Army's Rocen branch... The Liberation Army must be badly short-handed. They truly work people to the bone.<end>"
+
+["1240110"]
+japanese = "次は解放軍ロセン支部だね。<line-break>大事な密書だから、素早く確実に<line-break>届けなくちゃいけないよ。<end>"
+english = "The Rocen Branch of the Liberation Army is next. This is an important Secret Letter, so we need to deliver it quickly and safely.<end>"
+
+["1240111"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240112"]
+japanese = "何度も何度も言わせないでよ！<line-break>高貴なエルフのアタクシは、解放軍の<line-break>ロセン支部なんて知らないわよ！<end>"
+english = "Don't make me say it again and again! A noble Elf like me knows nothing about the Liberation Army's Rocen branch!<end>"
+
+["1240113"]
+japanese = "密書の配達ボゲー<line-break>密書の配達ボゲー<line-break>密書の配達ボゲー<line-break>密書の配達ボゲー<line-break>密書の配達ボゲー<line-break>密書の配達ボゲー<end>"
+english = "Secret Letter delivery, Bogee! Secret Letter delivery, Bogee! Secret Letter delivery, Bogee! Secret Letter delivery, Bogee! Secret Letter delivery, Bogee! Secret Letter delivery, Bogee!<end>"
+
+["1240114"]
+japanese = "<value:$28>の次の任務は、<line-break>ロセンにある解放軍支部に<line-break>密書を届けることだよぉ。<end>"
+english = "<value:$28>'s next mission is to deliver the Secret Letter to the Liberation Army branch in Rocen.<end>"
+
+["1240115"]
+japanese = "………………。<line-break><line-break><line-break>ロセンの解放軍支部に届けろ。<end>"
+english = "………………. Deliver it to the Liberation Army branch in Rocen.<end>"
+
+["1240116"]
+japanese = "次はロセンの解放軍支部か。<line-break>こんなつまらん仕事は<line-break>早く片付けるに限るな。<end>"
+english = "The Liberation Army branch in Rocen is next? A dull job like this is best finished quickly.<end>"
+
+["1240117"]
+japanese = "解放軍って人使いあらいんだねぇ。<line-break>今度は解放軍ロセン支部に届けろ<line-break>だなんてひどいよね。<line-break>このあとも雑用をやらせる気なんだよ。<line-break>ねーねー<value:$28>、<line-break>早く幹部に出世してよ、ね。<end>"
+english = "The Liberation Army really works people hard. Telling us to deliver it to the Rocen Branch of the Liberation Army now is just cruel. They'll keep giving us odd jobs after this too. Hey, <value:$28>, hurry up and get promoted to an officer, okay?<end>"
+
+["1240118"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240119"]
+japanese = "次はロセンの解放軍支部です。<line-break>世間への流出を防ぐために<line-break>回覧するというわけですね。<end>"
+english = "Next is the Liberation Army branch in Rocen. So the letter is being circulated internally to keep it from leaking to the public.<end>"
+
+["1240120"]
+japanese = "ロセンに行かなくちゃね。<line-break>解放軍の支部があるんだって。<line-break>寄り道してる場合じゃないよ。<end>"
+english = "We have to go to Rocen. Apparently, there's a Liberation Army branch there. This is no time for detours.<end>"
+
+["1240121"]
+japanese = "次の目的地はロセンの解放軍支部だった<line-break>はずじゃ。支部まで作っておるとは、<line-break>なかなか組織力があるのかもしれんな。<end>"
+english = "Our next destination should be the Liberation Army branch in Rocen. Having branches of its own suggests the organization may be quite capable.<end>"
+
+["1240122"]
+japanese = "ロセンの解放軍支部が次の目的地だ。<line-break>クリュセイスも、若いのに<line-break>人使いが荒いな。<end>"
+english = "Our next destination is the Liberation Army branch in Rocen. Khryuseis may be young, but she certainly works people hard.<end>"
+
+["1240123"]
+japanese = "今度は解放軍ロセン支部か。<line-break>船で行ったほうが早いかな。<end>"
+english = "The Rocen Branch of the Liberation Army is next? I wonder if going by ship would be faster.<end>"
+
+["1240124"]
+japanese = "今度は解放軍ロセン支部ね。<line-break>船を使えば陸路より速いはずよ。<line-break>こんな雑用さっさと終わらせましょ。<end>"
+english = "The Rocen Branch of the Liberation Army is next. A ship should be faster than going overland. Let's get this menial task over with.<end>"
+
+["1240125"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240126"]
+japanese = "次はロセンにある解放軍の支部です。<line-break>時間もあまりないみたいですし、<line-break>急いで届けちゃいましょう。<end>"
+english = "Next is the Liberation Army branch in Rocen. It seems we don't have much time, so let's hurry and deliver it.<end>"
+
+["1240127"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240128"]
+japanese = "（この密書をクリュセイスに届ければ<line-break>\u3000今回の任務は達成かな？<line-break>\u3000急いでクロイス邸へ行かないと…）<end>"
+english = "Will this mission be complete once I deliver the Secret Letter to Khryuseis? I'd better hurry to the Krois residence...<end>"
+
+["1240129"]
+japanese = "この密書をクリュセイスに返せば、<line-break>今回の任務は完了ね。<line-break>あと、一息よ。<end>"
+english = "This mission will be complete once we return the Secret Letter to Khryuseis. We're almost there.<end>"
+
+["1240130"]
+japanese = "さて、最後はクリュセイスに、<line-break>密書を返せば任務達成じゃな。<line-break>さっさと終わらせてしまおうぞ。<end>"
+english = "Now, all that remains is to return the Secret Letter to Khryuseis, and the mission will be complete. Let us get it over with.<end>"
+
+["1240131"]
+japanese = "なんですって！<line-break>結局クリュセイスに返すんですか！<line-break>やっぱりこれ、捨てちゃいましょう。<end>"
+english = "What?! We're returning it to Khryuseis in the end?! We really should just throw it away.<end>"
+
+["1240132"]
+japanese = "あとはクリュセイスんとこに、<line-break>密書を返しに行けばいいんだな。<line-break>よし！\u3000がんばろうぜ。<end>"
+english = "All that's left is to go to Khryuseis and return the Secret Letter. All right! Let's do this.<end>"
+
+["1240133"]
+japanese = "クリュセイスに密書を返せば、<line-break>キミの今回の任務は終了だね。<line-break>さあ、クロイス邸へ急ごう！<end>"
+english = "Your mission will be over once we return the Secret Letter to Khryuseis. Come on, let's hurry to the Krois residence!<end>"
+
+["1240134"]
+japanese = "これで最後ね。<line-break>クリュセイスの元まで密書を<line-break>持って帰るのよ。<end>"
+english = "This is the last step. Take the Secret Letter back to Khryuseis.<end>"
+
+["1240135"]
+japanese = "若いのに用心深いですね、<line-break>クリュセイスも。<line-break>リベルダムへ戻りましょう。<end>"
+english = "Khryuseis is cautious despite her youth. Let us return to Liberdam.<end>"
+
+["1240136"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240137"]
+japanese = "姉ちゃん、最後はクロイス邸に<line-break>届けろって命令らしいな。<line-break>船を使ってさっさと行こうぜ。<end>"
+english = "Sis, apparently our last order is to deliver it to the Krois residence. Let's take a ship and get there quickly.<end>"
+
+["1240138"]
+japanese = "最後はクロイス邸に持ち帰るのね。<line-break>骨は折れるけれど、念入りでなければ、<line-break>密書とは呼べないわ。<end>"
+english = "Finally, we take it back to the Krois residence. It may be a lot of trouble, but a Secret Letter calls for thorough precautions.<end>"
+
+["1240139"]
+japanese = "さ～て、最後の届け先はクロイス邸だ。<line-break>ここまでやっといて期限切れなんて<line-break>ことにならないように急がないとな。<end>"
+english = "Well, our final destination is the Krois residence. We'd better hurry so the deadline doesn't expire after we've come this far.<end>"
+
+["1240140"]
+japanese = "最後は、クロイス邸だ。<line-break>さっさと終わらせて<line-break>冒険に戻るぞ。<end>"
+english = "The Krois residence is the final destination. Let's finish this and get back to adventuring.<end>"
+
+["1240141"]
+japanese = "なるほど、最後はクリュセイスに<line-break>返すことで情報伝達の確認と<line-break>密書の確実な処分を行うわけじゃな。<end>"
+english = "I see. Returning it to Khryuseis at the end both confirms that the information was conveyed and ensures that the Secret Letter is disposed of properly.<end>"
+
+["1240142"]
+japanese = "いよいよこれで最後だね。<line-break>この密書をクロイス邸に<line-break>持って帰れば任務完了なんだ。<end>"
+english = "This is finally the last step. The mission will be complete once we take this Secret Letter back to the Krois residence.<end>"
+
+["1240143"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240144"]
+japanese = "もう知らない知らない！<line-break>クロイス邸だろうが好きに行ったらぁ、<line-break>アタクシにはぜ～んぜん関係ないわっ！<end>"
+english = "I don't care anymore! Go to the Krois residence or wherever you like. It has absolutely nothing to do with me!<end>"
+
+["1240145"]
+japanese = "密書の配達ボゲー<line-break>密書の配達ボゲー<line-break>密書の配達ボゲー<line-break>密書の配達ボゲー<line-break>密書の配達ボゲー<line-break>密書の配達ボゲー<end>"
+english = "Secret Letter delivery, Bogee! Secret Letter delivery, Bogee! Secret Letter delivery, Bogee! Secret Letter delivery, Bogee! Secret Letter delivery, Bogee! Secret Letter delivery, Bogee!<end>"
+
+["1240146"]
+japanese = "<value:$28>の最終任務は、<line-break>リベルダムにあるクロイス邸に<line-break>密書を届けることだよぉ。<end>"
+english = "<value:$28>'s final mission is to deliver the Secret Letter to the Krois residence in Liberdam.<end>"
+
+["1240147"]
+japanese = "………………。<line-break><line-break><line-break>クリュセイスに届けろ。<end>"
+english = "………………. Deliver it to Khryuseis.<end>"
+
+["1240148"]
+japanese = "クリュセイスは、お前がちゃんと<line-break>支部へ行ったか確認するつもりだ。<line-break>さっさと終わらせるぞ。<end>"
+english = "Khryuseis intends to confirm that you actually visited the branch. Let's get this over with.<end>"
+
+["1240149"]
+japanese = "最後のお届け先はクロイス邸かぁ。<line-break>ねえ<value:$28>、ここまできて<line-break>期限切れになるようなヘマしないでよ。<end>"
+english = "So the final delivery is to the Krois residence. Listen, <value:$28>, don't make some stupid blunder and miss the deadline after coming this far.<end>"
+
+["1240150"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240151"]
+japanese = "最後の目的地はクロイス邸です。<line-break>クリュセイス自ら、最終確認を<line-break>行うつもりなのでしょう。<end>"
+english = "Our final destination is the Krois residence. Khryuseis presumably intends to perform the final check herself.<end>"
+
+["1240152"]
+japanese = "これで最後だよ。お屋敷で<line-break>クリュセイスのチェックしてもらえば<line-break>依頼はおしまいだよ。<end>"
+english = "This is the last step. Once Khryuseis checks it at the residence, the job will be over.<end>"
+
+["1240153"]
+japanese = "たらい回しじゃ…と思ったら、<line-break>クロイス邸へと帰るのか。<line-break>やっと肩の荷が下りるわい。<end>"
+english = "I thought we were just being sent from place to place... but now we're returning to the Krois residence. At last, we'll have this burden off our shoulders.<end>"
+
+["1240154"]
+japanese = "最後はクロイス邸へ戻れと言うのだな。<line-break>ここで期限切れになれば、<line-break>全てが水の泡だ。急いで行こう。<end>"
+english = "So our last instruction is to return to the Krois residence. If the deadline expires now, all our work will have been for nothing. Let us hurry.<end>"
+
+["1240155"]
+japanese = "最後はクリュセイスに返す…。 <line-break>情報の流出を防ぐべく<line-break>よくよく考えての回覧か。<line-break>なかなかの切れ者だな、 <line-break>クリュセイスは…。<end>"
+english = "So it goes back to Khryuseis in the end... The whole circulation route was carefully planned to prevent the information from leaking. Khryuseis is quite shrewd...<end>"
+
+["1240156"]
+japanese = "これでやっとおしまいね。<line-break>期限が切れないうちに急いで<line-break>クリュセイスに密書を渡さないとね。<end>"
+english = "At last, this is the end. We need to hurry and give the Secret Letter to Khryuseis before the deadline expires.<end>"
+
+["1240157"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240158"]
+japanese = "あとはクリュセイスさんに手紙を返せば<line-break>おしまいです。<line-break><line-break>なんだかいろんなところに届けて<line-break>疲れちゃいましたね。<end>"
+english = "All that remains is to return the letter to Khryuseis. Delivering it to so many different places has been rather tiring, hasn't it?<end>"
+
+["1240159"]
+japanese = "………………。<end>"
+english = "……………….<end>"
+
+["1240160"]
+japanese = "（邪竜アズラゴーザが封じられている<line-break>\u3000邪竜の断層から、強い妖気が<line-break>\u3000放たれているらしい）<line-break>（調査のためオルファウスを<line-break>\u3000連れていくことになった。<line-break>\u3000嫌な予感がする。急ごう…）<end>"
+english = "A powerful evil aura is apparently emanating from the Evil Dragon Rift, where the Evil Dragon Azuragoza is sealed. I'll be taking Orphaus there to investigate. I have a bad feeling about this. I should hurry...<end>"
+
+["1240161"]
+japanese = "オルファウスを連れて<line-break>邪竜の断層へ行けばいいのね。<line-break>急ぎましょ、嫌な予感がするの。<end>"
+english = "We need to take Orphaus to the Evil Dragon Rift. Let's hurry. I have a bad feeling about this.<end>"
+
+["1240162"]
+japanese = "オルファウス殿が邪竜の断層から<line-break>強い妖気を感じるというのじゃな。<line-break>では、急がねばいかんな。<line-break>もしや、邪竜アズラゴーザの封印が<line-break>弱まっているのかもしれん。<end>"
+english = "Orphaus senses a powerful evil aura coming from the Evil Dragon Rift, does he? Then we must hurry. Perhaps the seal on the Evil Dragon Azuragoza is weakening.<end>"
+
+["1240163"]
+japanese = "<value:$28>様、<line-break>オルファウス様が邪竜の断層へ<line-break>連れていって欲しいそうですよ。<line-break>断層から強い妖気を感じるらしいです。<line-break>もちろん私は、ぜんぜんまったく<line-break>感じませんけど。<end>"
+english = "<value:$28>, it seems Orphaus wants you to take him to the Evil Dragon Rift. Apparently, he senses a powerful evil aura coming from the rift. I, of course, feel absolutely nothing at all.<end>"
+
+["1240164"]
+japanese = "オルファウスの話は嘘っぽいのに<line-break>限って本当のことだからな。<line-break>今回のは本当くさいぜ。<line-break>邪竜アズラゴーザなんて知らないが、<line-break>そいつが復活しちまうと<line-break>ヤバイ事になるくらいはわかるぜ。<end>"
+english = "Whenever Orphaus says something that sounds like a lie, it turns out to be true. This time, it sounds true. I don't know anything about an Evil Dragon called Azuragoza, but even I understand that its revival would be bad news.<end>"
+
+["1240165"]
+japanese = "ボクもオルファウスさんの言う<line-break>妖気みたいなものは感じるよ。<line-break>急いだほうがいいかもしれない…。<line-break>邪竜の断層で何かが起こりつつ<line-break>あるのは間違いないと思う。<end>"
+english = "I can feel something like the evil aura Orphaus mentioned too. We may need to hurry... I'm certain something is beginning to happen at the Evil Dragon Rift.<end>"
+
+["1240166"]
+japanese = "アズラゴーザが封じられている<line-break>邪竜の断層から、強い妖気が<line-break>放たれているわ。<line-break>オルファウスに同行して<line-break>その真相を確かめるのよ。<end>"
+english = "A powerful evil aura is emanating from the Evil Dragon Rift, where Azuragoza is sealed. Accompany Orphaus and uncover the truth.<end>"
+
+["1240167"]
+japanese = "邪竜の断層へ急いでください！<line-break>お願いします<value:$28>。<line-break>時間がないんです。<end>"
+english = "Hurry to the Evil Dragon Rift! Please, <value:$28>. There is no time.<end>"
+
+["1240168"]
+japanese = "あたしには邪竜アズラゴーザだの<line-break>妖気だのってサッパリわかんないけど<line-break>とりあえず行ってみれば？<line-break>邪竜が復活したりすると、<line-break>世界中大騒ぎになって困るじゃない。<end>"
+english = "I don't understand any of this talk about an Evil Dragon called Azuragoza or an evil aura, but why not go and see? If the Evil Dragon comes back, the whole world will be in an uproar, and that would be a nuisance.<end>"
+
+["1240169"]
+japanese = "俺、妖気とか全然わかんないけど<line-break>オルファウスの話、信じるぜ。<line-break>姉ちゃんだってそうだろ？<line-break>邪竜の断層でとんでもない事が<line-break>起こっているかもしれないんだ。<line-break>急ごうぜ、姉ちゃん！<end>"
+english = "I don't understand evil auras at all, but I believe Orphaus. You do too, don't you, Sis? Something terrible may be happening at the Evil Dragon Rift. Let's hurry, Sis!<end>"
+
+["1240170"]
+japanese = "私もオルファウス同様、<line-break>邪竜の断層から強い妖気を感じます。<line-break>調べてみる必要はあると思うわ。<line-break>もし、邪竜アズラゴーザの封印が<line-break>弱まっているのだとしたら、<line-break>なんとしても封印し直さないと…。<end>"
+english = "Like Orphaus, I sense a powerful evil aura coming from the Evil Dragon Rift. I think we need to investigate. If the seal on the Evil Dragon Azuragoza is weakening, we must reseal it at any cost...<end>"
+
+["1240171"]
+japanese = "お前さんも俺と同じで<line-break>オルファウスの話を信じてるんだろ？<line-break>なら、さっそく行こうじゃないか。<line-break>あんまりぐずぐずしてっと、<line-break>邪竜が目覚めるかもしれんぞ。<end>"
+english = "You believe Orphaus just as I do, don't you? Then let's leave at once. If we dawdle too long, the Evil Dragon may awaken.<end>"
+
+["1240172"]
+japanese = "邪竜の断層から強い妖気か…<line-break>そうだな、オルファウスを連れて<line-break>調査に行ってみるべきだ。<line-break>あの男は、ただ者ではない。<line-break>俺たちの知らない何かを<line-break>つかんでいるのかもしれん。<end>"
+english = "A powerful evil aura from the Evil Dragon Rift... Yes, we should take Orphaus there and investigate. He is no ordinary man. Perhaps he has learned something we do not know.<end>"
+
+["1240173"]
+japanese = "オルファウス殿を連れて<line-break>邪竜の断層へ調査に行くのじゃな。<line-break>それなら、わしも連れていけい。<line-break>邪竜アズラゴーザとやらを<line-break>見ることができるかもしれんからな。<end>"
+english = "So we are taking Orphaus to investigate the Evil Dragon Rift. Then take me along as well. I may get to see this Evil Dragon called Azuragoza.<end>"
+
+["1240174"]
+japanese = "オルファウスさんが、邪竜の断層から<line-break>強い妖気を感じるらしいんだ。<line-break><value:$28>も聞いたんでしょ？<line-break>今のオルファウスさんだと、<line-break>邪竜の断層まで行けないからね。<line-break>僕らが連れていってあげないと。<end>"
+english = "Apparently, Orphaus senses a powerful evil aura coming from the Evil Dragon Rift. You heard about it too, didn't you, <value:$28>? Orphaus can't reach the rift in his present condition. We'll have to take him there.<end>"
+
+["1240175"]
+japanese = "邪竜の断層から強い妖気が…。<line-break>封じられたアズラゴーザが<line-break>覚醒したのでなければ良いが…。<end>"
+english = "A powerful evil aura is coming from the Evil Dragon Rift... Let us hope the sealed Azuragoza has not awakened...<end>"
+
+["1240176"]
+japanese = "邪竜の断層ってアズラゴーザが<line-break>封印されている場所でしょ。<line-break>もちろん、知っているわ。<line-break>アタクシは高貴で知性あふれる<line-break>エルフなんですから。<end>"
+english = "The Evil Dragon Rift is where Azuragoza is sealed, isn't it? Of course I knew that. I am a noble and intelligent Elf, after all.<end>"
+
+["1240177"]
+japanese = "邪竜の断層へボゲー<line-break>邪竜の断層へボゲー<line-break>邪竜の断層へボゲー<line-break>邪竜の断層へボゲー<line-break>邪竜の断層へボゲー<line-break>邪竜の断層へボゲー<end>"
+english = "To the Evil Dragon Rift, Bogee! To the Evil Dragon Rift, Bogee! To the Evil Dragon Rift, Bogee! To the Evil Dragon Rift, Bogee! To the Evil Dragon Rift, Bogee! To the Evil Dragon Rift, Bogee!<end>"
+
+["1240178"]
+japanese = "オルファウスさんがね、<line-break>邪竜の断層に連れていって<line-break>欲しいみたいだよぉ。<line-break>お願い、<value:$28>。<line-break>オルファウスさんを<line-break>連れていってあげてよぉ。<end>"
+english = "It seems Orphaus wants to be taken to the Evil Dragon Rift. Please, <value:$28>. Take Orphaus there.<end>"
+
+["1240179"]
+japanese = "………………。<line-break><line-break><line-break>邪竜の断層へ行け。<line-break>何かが起ころうとしている。<end>"
+english = "………………. Go to the Evil Dragon Rift. Something is about to happen.<end>"
+
+["1240180"]
+japanese = "オルファウスの頼みだ、聞いてやれ。<line-break>邪竜の断層で何が起きているのか、<line-break>調べておくのも悪くないだろう。<line-break>ここで何もしないで、<line-break>問題が起きてから後悔するのは<line-break>つまらんからな。<end>"
+english = "Orphaus has asked for your help. Do as he asks. It would be wise to investigate what is happening at the Evil Dragon Rift. Doing nothing now and regretting it once trouble starts would be pointless.<end>"
+
+["1240181"]
+japanese = "邪竜の断層にはねぇ、<line-break>アズラゴーザが眠っているんだ。<line-break>もし、邪竜が復活したら大騒ぎだよ。<line-break>そうなるとボクも困るから、<line-break><value:$28>、がんばってよね。<line-break>世界の平和を守るんだ！<end>"
+english = "Azuragoza is sleeping in the Evil Dragon Rift. If the Evil Dragon revives, it will cause an enormous uproar. That would be a problem for me too, so do your best, <value:$28>. Protect world peace!<end>"
+
+["1240182"]
+japanese = "オルファウス殿の言葉に間違いは<line-break>ないと私は思うが、邪竜の復活だけは<line-break>信じたくはないものだ。<line-break>早急にこの目で確かめなくては。<end>"
+english = "I believe Orphaus is correct, but I do not want to believe that the Evil Dragon is reviving. We must see the truth for ourselves at once.<end>"
+
+["1240183"]
+japanese = "賢者様のおっしゃることに<line-break>従いましょう。断層に封じられし<line-break>邪竜が目覚めたのだとすれば…<line-break>到底、私たちだけの手に負える<line-break>ものではありません。<end>"
+english = "Let us follow the sage's counsel. If the Evil Dragon sealed in the rift has awakened... it is far beyond our ability to handle alone.<end>"
+
+["1240184"]
+japanese = "賢者オルファウス様と<line-break>ご一緒できるなんてすごいよ！<line-break>もう邪竜だってこわくないよね！<end>"
+english = "It's amazing that we get to travel with the sage Orphaus! We don't have to be afraid of the Evil Dragon anymore, right?<end>"
+
+["1240185"]
+japanese = "邪竜の断層から強い妖気とな…。<line-break>気のせいと思いたいが、<line-break>このイオンズにも嫌な予感がしよる。<line-break>邪竜の復活だけは阻止せねば！<line-break>ゆくぞ、<value:$28>。<end>"
+english = "A powerful evil aura from the Evil Dragon Rift... I wish it were only imagination, but even Ionz has a bad feeling about this. We must prevent the Evil Dragon's revival! Let us go, <value:$28>.<end>"
+
+["1240186"]
+japanese = "邪竜の断層には、その名の通り<line-break>アズラゴーザという邪竜が封じられて<line-break>いると聞く。<line-break>それが妖気の根源とは考えたくないが<line-break>賢者様の急ぎようはただ事では<line-break>なさそうだな…。<end>"
+english = "True to its name, the Evil Dragon Rift is said to hold an Evil Dragon called Azuragoza. I do not want to believe it is the source of the evil aura, but the sage's urgency suggests this is no ordinary matter...<end>"
+
+["1240187"]
+japanese = "強い妖気が邪竜の断層から…。<line-break>オルファウスのあの様子からして<line-break>一分一秒を争う事態らしい。<line-break>邪竜の復活は阻止しなければ。<line-break>オルファウスを連れて、急ぐぞ！<end>"
+english = "A powerful evil aura is coming from the Evil Dragon Rift... Judging by Orphaus's manner, every second counts. We must prevent the Evil Dragon's revival. Take Orphaus and hurry!<end>"
+
+["1240188"]
+japanese = "この妖気は、邪竜の断層からね。<line-break>もし邪竜が復活したら<line-break>大変なことになるわ。<line-break>急いでオルファウスを連れて<line-break>調査に向かったほうがいいわね。<end>"
+english = "This evil aura is coming from the Evil Dragon Rift. If the Evil Dragon revives, we'll be in terrible trouble. We'd better take Orphaus and hurry there to investigate.<end>"
+
+["1240189"]
+japanese = "邪竜の断層から、<line-break>強い妖気を感じます。<line-break><line-break>封印されたアズラゴーザが<line-break>覚醒したのかもしれません。<end>"
+english = "I sense a powerful evil aura coming from the Evil Dragon Rift. The sealed Azuragoza may have awakened.<end>"
+
+["1240190"]
+japanese = "私は何も感じませんけど、<line-break>オルファウスさんがそう言うなら<line-break>急がないといけないですね。<line-break>邪竜アズラゴーザが目覚めないうちに<line-break>オルファウスさんを邪竜の断層に<line-break>連れていきましょう。<end>"
+english = "I don't sense anything, but if Orphaus says so, we must hurry. Let's take Orphaus to the Evil Dragon Rift before the Evil Dragon Azuragoza awakens.<end>"
+
+["1240191"]
+japanese = "この気配は<line-break>邪竜の断層に封印されている<line-break>アズラゴーザのものだ。<line-break>覚醒は時間の問題だ。<line-break>復活したら手に負えなくなる。<line-break>止めるなら今しかない。<end>"
+english = "This is Azuragoza's presence, coming from where it is sealed in the Evil Dragon Rift. Its awakening is only a matter of time. Once it revives, it will be beyond our control. If we are to stop it, now is our only chance.<end>"
+
+["1240192"]
+japanese = "（オルファウスが、古の樹海で<line-break>\u3000世界の成り立ちを話してくれる。<line-break>\u3000古の樹海へ急ごう）<end>"
+english = "Orphaus will tell us how the world came to be in the Ancient Forest. Let's hurry there.<end>"
+
+["1240193"]
+japanese = "古の樹海へ行きましょう。<line-break>オルファウスが世界の成り立ちを<line-break>教えてくれるらしいわ。<end>"
+english = "Let's go to the Ancient Forest. Apparently, Orphaus will explain how the world came to be.<end>"
+
+["1240194"]
+japanese = "オルファウス殿が世界の成り立ちを<line-break>教えてくれるそうじゃ。<line-break>古の樹海へ急ぐとしよう。<end>"
+english = "Orphaus is going to explain how the world came to be. Let us hurry to the Ancient Forest.<end>"
+
+["1240195"]
+japanese = "オルファウス様が、古の樹海で<line-break>世界の成り立ちを教えてくれる<line-break>そうです！\u3000楽しみかも！<end>"
+english = "Orphaus is going to explain how the world came to be in the Ancient Forest! I might actually be looking forward to this!<end>"
+
+["1240196"]
+japanese = "古の樹海で、オルファウスが<line-break>世界の成り立ちを教えてくれる<line-break>らしい。行こうぜ！<end>"
+english = "Apparently, Orphaus will explain how the world came to be in the Ancient Forest. Let's go!<end>"
+
+["1240197"]
+japanese = "古の樹海で、オルファウス様が<line-break>世界の成り立ちについて教えて<line-break>くれるんだ！\u3000行こう！<end>"
+english = "Orphaus is going to explain how the world came to be in the Ancient Forest! Let's go!<end>"
+
+["1240198"]
+japanese = "オルファウスは、古の樹海で<line-break>世界の成り立ちについて教えて<line-break>くれるそうよ。行くわよ！<end>"
+english = "Orphaus is going to explain how the world came to be in the Ancient Forest. Let's go!<end>"
+
+["1240199"]
+japanese = "古の樹海へ急いでください。<line-break>そこで世界の成り立ちについて<line-break>お話しましょう。<end>"
+english = "Please hurry to the Ancient Forest. There, I shall tell you how the world came to be.<end>"
+
+["1240200"]
+japanese = "オルファウスは古の樹海で<line-break>世界の成り立ちについて話して<line-break>くれるらしいわよ。<end>"
+english = "Apparently, Orphaus will tell us how the world came to be in the Ancient Forest.<end>"
+
+["1240201"]
+japanese = "姉ちゃん、オルファウスさんは、<line-break>古の樹海で、世界の成り立ちを<line-break>話してくれるって言ったんだぜ！<end>"
+english = "Sis, Orphaus said he'd tell us how the world came to be in the Ancient Forest!<end>"
+
+["1240202"]
+japanese = "古の樹海へ行くのよ。<line-break>オルファウス様がそこで世界の<line-break>成り立ちについてお話してくださるわ。<end>"
+english = "We're going to the Ancient Forest. Orphaus will tell us there how the world came to be.<end>"
+
+["1240203"]
+japanese = "古の樹海へ急ぐとしようぜ。<line-break>オルファウスはそこで世界の成り立ちに<line-break>ついて話してくれるらしい。<end>"
+english = "Let's hurry to the Ancient Forest. Apparently, Orphaus will tell us how the world came to be once we're there.<end>"
+
+["1240204"]
+japanese = "古の樹海へ行け。世界の成り立ちに関わる<line-break>という、オルファウスの話には<line-break>俺も興味がある。<end>"
+english = "Go to the Ancient Forest. I too am interested in what Orphaus has to say about how the world came to be.<end>"
+
+["1240205"]
+japanese = "オルファウス殿は、古の樹海で、<line-break>世界の成り立ちについて語って<line-break>くださるそうじゃな。<end>"
+english = "Orphaus is going to tell us how the world came to be in the Ancient Forest.<end>"
+
+["1240206"]
+japanese = "古の樹海へ急ごう。オルファウスさんは<line-break>そこで世界の成り立ちについて話して<line-break>くれるって言ったよね！<end>"
+english = "Let's hurry to the Ancient Forest. Orphaus said he'd tell us how the world came to be once we're there, remember?<end>"
+
+["1240207"]
+japanese = "オルファウスは、古の樹海で<line-break>世界の成り立ちについて語るつもり<line-break>らしいな。…急ぐのだ。<end>"
+english = "It seems Orphaus intends to speak about the origins of the world in the Ancient Forest. We must hurry.<end>"
+
+["1240208"]
+japanese = "世界の成り立ちよ！\u3000賢者様は、<line-break>古の樹海でそれをお話しくださるのよ！<line-break>やっと、ちょっと面白くなってきたわ！<end>"
+english = "The origins of the world! The Sage is going to tell us all about it in the Ancient Forest! Finally, things are getting a little interesting!<end>"
+
+["1240209"]
+japanese = "古の樹海へボゲー<line-break>古の樹海へボゲー<line-break>古の樹海へボゲー<line-break>古の樹海へボゲー<line-break>古の樹海へボゲー<line-break>古の樹海へボゲー<end>"
+english = "To the Ancient Forest, Bogee! To the Ancient Forest, Bogee! To the Ancient Forest, Bogee! To the Ancient Forest, Bogee! To the Ancient Forest, Bogee! To the Ancient Forest, Bogee!<end>"
+
+["1240210"]
+japanese = "古の樹海へ行くんだよぉ。賢者様が、<line-break>そこで世界の成り立ちについて<line-break>おはなししてくれるんだってぇ。<end>"
+english = "We're going to the Ancient Forest. I heard the Sage is going to tell us about the origins of the world there.<end>"
+
+["1240211"]
+japanese = "…古の樹海へ行け。<line-break>オルファウスが世界の成り立ちを<line-break>話すそうだ。<end>"
+english = "Go to the Ancient Forest. I hear Orphaus is going to speak about the origins of the world.<end>"
+
+["1240212"]
+japanese = "オルファウスは古の樹海へ行けと<line-break>言ったな。そこで、世界の成り立ちに<line-break>ついて話すつもりらしい。<end>"
+english = "Orphaus told us to go to the Ancient Forest. It seems he intends to speak about the origins of the world there.<end>"
+
+["1240213"]
+japanese = "古の樹海へ急ごう！\u3000賢者様が<line-break>世界の成り立ちを語ってくれるんだ。<line-break>壮大だね！\u3000ワクワクするよ！<end>"
+english = "Let's hurry to the Ancient Forest! The Sage is going to tell us about the origins of the world. What a grand subject! I can't wait!<end>"
+
+["1240214"]
+japanese = "古の樹海へ行くぞ。オルファウス殿は<line-break>そこで世界の成り立ちについて<line-break>話すつもりらしいな。<end>"
+english = "We're going to the Ancient Forest. It seems Sir Orphaus intends to speak about the origins of the world there.<end>"
+
+["1240215"]
+japanese = "古の樹海へ向かいましょう。<line-break>オルファウス様が、世界の成り立ちに<line-break>ついてお話してくださるそうです。<end>"
+english = "Let us make our way to the Ancient Forest. I am told Master Orphaus will speak about the origins of the world.<end>"
+
+["1240216"]
+japanese = "古の樹海へ急いで行こう！<line-break>オルファウス様が、世界の成り立ちを<line-break>お話してくれるんだって！<end>"
+english = "Let's hurry to the Ancient Forest! I heard Master Orphaus is going to tell us about the origins of the world!<end>"
+
+["1240217"]
+japanese = "オルファウス殿は、古の樹海へ向かう<line-break>ようじゃ。そこで世界の成り立ちを<line-break>話してくださるそうじゃぞ。<end>"
+english = "It seems Sir Orphaus is heading for the Ancient Forest. I hear he will speak about the origins of the world there.<end>"
+
+["1240218"]
+japanese = "オルファウス様が古の樹海で<line-break>世界の成り立ちをお話してくださる。<line-break>急ぎ、古の樹海へ向かおう。<end>"
+english = "Master Orphaus will speak about the origins of the world in the Ancient Forest. Let us hurry there.<end>"
+
+["1240219"]
+japanese = "世界の成り立ちをオルファウスが<line-break>古の樹海で語ってくれるらしい。<line-break>急ぐぞ。<end>"
+english = "It seems Orphaus will speak about the origins of the world in the Ancient Forest. Let's hurry.<end>"
+
+["1240220"]
+japanese = "古の樹海でオルファウスが<line-break>世界の成り立ちについて<line-break>語ってくれるらしいわ。<line-break>急いでオルファウスを連れて<line-break>向かったほうがいいわね。<end>"
+english = "It seems Orphaus will speak about the origins of the world in the Ancient Forest. We should hurry there and take Orphaus with us.<end>"
+
+["1240221"]
+japanese = "古の樹海で、オルファウスが<line-break>世界の成り立ちを<line-break>教えてくれるそうです。<end>"
+english = "I hear Orphaus will teach us about the origins of the world in the Ancient Forest.<end>"
+
+["1240222"]
+japanese = "オルファウスさんが世界の成り立ちを<line-break>古の樹海で教えてくれるそうですよ。<line-break>すごいですね、世界の成り立ちなんて。<end>"
+english = "I hear Mr. Orphaus will teach us about the origins of the world in the Ancient Forest. The origins of the world―that's incredible, isn't it?<end>"
+
+["1240223"]
+japanese = "オルファウスが世界の成り立ちを<line-break>古の樹海で語るつもりらしい。<line-break><line-break><value:$28>はこの話を、<line-break>聞いておいたほうがいいね。<end>"
+english = "It seems Orphaus intends to speak about the origins of the world in the Ancient Forest. <value:$28>, you should hear what he has to say.<end>"

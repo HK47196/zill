@@ -1,0 +1,57 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2400000"]
+japanese = "PSP用新スタートイベント03用開始<end>"
+english = ""
+
+["2400001"]
+japanese = "いらっしゃい。冒険者登録かね？<line-break>だったら、ここに名前を書いておくれ。<end>"
+english = "Welcome. Here to register as an adventurer? Then write your name here.<end>"
+
+["2400002"]
+japanese = "ふむ。名前は<value:$28>と。<line-break>幻術計振れておらず、<line-break>犯罪登録にも当てはまらず…。<line-break>よし、これで登録は終了だ。<line-break>お前さんは今日から冒険者だよ。<line-break>\u3000<line-break>ああ、そうそう。あんたは<line-break>初心者だから最初に教えておこう。<line-break>手に入れたソウルはちゃんと宿すこと。<line-break>最近これを忘れる冒険者が多くてね。<line-break>ああそれと、こいつも注意して<line-break>おかなきゃならんな。<line-break>冒険者は、町の中ではひとりで行動し、<line-break>町の外に出て冒険するときだけ<line-break>パーティーと一緒になるのが基本だ。<line-break>だから町の中を歩いているときは、<line-break>何かあっても仲間が助けに来る<line-break>とは限らない。油断しないようにな。<end>"
+english = "Hmm. Name: <value:$28>. No response on the illusion gauge, and no match in the criminal registry... Good. That completes your registration. As of today, you're an adventurer. Oh, one more thing. Since you're new, let me give you a little advice. Make sure you take in any Souls you acquire. A lot of adventurers have been forgetting that lately. And there's something else you should bear in mind. As a rule, adventurers act alone in town and only join a party when venturing outside. So if something happens while you're walking around town, don't count on your companions coming to your aid. Keep your guard up.<end>"
+
+["2400003"]
+japanese = "まぁ、町の中にある塔や廃城とかを<line-break>調べるときなんかは、一緒に行動する<line-break>こともあるんだろうがな。<line-break>説明はこんなところだ。<line-break>さあ、<value:$28>。\u3000<line-break>これからは、バリバリ仕事して<line-break>名を上げていってくれよ。<end>"
+english = "Though I suppose you might work together when investigating a tower in town, or the Ruined Castle. That's about all there is to explain. Now then, <value:$28>. Get out there, work hard, and make a name for yourself.<end>"
+
+["2400004"]
+japanese = "この感覚……無限のソウル…。<end>"
+english = "This sensation... the Infinite Soul...<end>"
+
+["2400005"]
+japanese = "あっ、ごめんなさい。<line-break>あなたがわたしの知り合いに<line-break>似てたから…。<line-break>その人のことを<line-break>ちょっと思い出しちゃって…。<end>"
+english = "Oh, I'm sorry. You look like someone I know... It brought back a few memories.<end>"
+
+["2400006"]
+japanese = "ふーん、あなた<line-break><value:$28>っていうんだ。<end>"
+english = "So your name is <value:$28>, huh?<end>"
+
+["2400007"]
+japanese = "ちょうどいいわ。私ひとりなの。<line-break>一緒に組まない？<line-break>\u3000<line-break>自分で言うのも何だけど、<line-break>そこいらの冒険者より<line-break>よっぽど役に立つと思うわ。<end>"
+english = "Perfect timing. I'm on my own right now. Want to team up? I know it sounds boastful, but I think I'd be a lot more useful than most adventurers around here.<end>"
+
+["2400008"]
+japanese = "悩む必要なんてないでしょ。<line-break><value:$28>は初心者で、<line-break>あたしは経験者なんだから。<end>"
+english = "What's there to think about? You're a beginner, <value:$28>, and I'm the experienced one.<end>"
+
+["2400009"]
+japanese = "ありがとう。<line-break>あたしはイーシャ。よろしくね。<line-break>\u3000<line-break>そうと決まれば、さっそく仕事の<line-break>依頼を見てみましょ。<end>"
+english = "Thanks. I'm Iria. It's nice to meet you. Now that that's settled, let's take a look at the available jobs.<end>"
+
+["2400010"]
+japanese = "今ある依頼はこんなところだな。<end>"
+english = "These are all the requests we have at the moment.<end>"
+
+["2400011"]
+japanese = "そうね。これが手頃かしら。<line-break>賢者の森でナジラネの果実を採取。<line-break>\u3000<line-break>賢者の森ならここから近いし、<line-break>ナジラネの果実はけっこう臭いけど<line-break>我慢できないほどじゃないわ。<end>"
+english = "Let's see... This one should be manageable. Gather Najirane Fruit in Sage's Forest. Sage's Forest is close by, and while Najirane Fruit smells pretty bad, it's not unbearable.<end>"
+
+["2400012"]
+japanese = "これがいいわ。決定ね。<line-break>ほら、さっさと行きましょ。<end>"
+english = "This one, then. It's settled. Come on, let's get going.<end>"
+
+["2400013"]
+japanese = "PSP用新スタートイベント03用終端<end>"
+english = ""

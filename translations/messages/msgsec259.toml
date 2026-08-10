@@ -1,0 +1,37 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2590000"]
+japanese = "通信機イベント用開始<end>"
+english = ""
+
+["2590001"]
+japanese = "いらっしゃい、<value:$28>。<line-break>今日は仲間を変更しにきたのですか？<line-break> <line-break>仲間を変更するたびに、<line-break>ここまで来るのは大変でしょうから、<line-break>これを渡しておきましょう。<end>"
+english = "Welcome, <value:$28>. Have you come to change your companions today? It must be a nuisance coming all this way whenever you want to change your party, so I'll give you this.<end>"
+
+["2590002"]
+japanese = "通信機といいます。<line-break>離れた場所にいても<line-break>会話できる便利な物ですよ。<line-break>太古の文明の遺物なんですが、<line-break>ネモが隠し持っていたんで<line-break>取りあげたんです。<end>"
+english = "It's called a communicator. A handy device that lets you speak with someone even at a distance. It's a relic of an ancient civilization, but Nemo had it hidden away, so I confiscated it.<end>"
+
+["2590003"]
+japanese = "ネモのおもちゃにするよりは<line-break>あなたに使ってもらうほうが<line-break>有意義でしょう。<end>"
+english = "It will serve a better purpose in your hands than as one of Nemo's toys.<end>"
+
+["2590004"]
+japanese = "使い方は簡単です。<line-break>仲間の入れ替えをしたいときには<line-break>これで私に話しかけてください。<line-break>そうすれば、私は仲間の方を<line-break>そちらに送ったり、あるいは<line-break>別れさせたりできます。<end>"
+english = "It's simple to use. Whenever you want to change your companions, contact me with it. I can then send companions to you or have them leave your party.<end>"
+
+["2590005"]
+japanese = "大丈夫です。見た目より頑丈ですから、<line-break>壊れる心配はまずありません。<line-break>\u3000<line-break>他の道具と同じように<line-break>何度でも使えます。<end>"
+english = "Don't worry. It's sturdier than it looks, so there's little chance of it breaking. Like your other items, you can use it as many times as you like.<end>"
+
+["2590006"]
+japanese = "ただし、ひとつだけ問題があります。<line-break>この通信機でも、<line-break>つながらない場所がありましてね。<line-break>結界の張られている部屋や、<line-break>特殊な力が作用している場所では<line-break>使えないんですよ。<line-break>まあ、それを差し引いても<line-break>便利な道具ですから<line-break>持っていて損はないでしょう。<end>"
+english = "There is just one problem. Even this communicator cannot reach me from certain places. It won't work in rooms protected by barriers or in places affected by unusual forces. Still, despite that limitation, it's a useful device and well worth keeping.<end>"
+
+["2590007"]
+japanese = "きっと<value:$28>の<line-break>役に立つと思いますよ。<end>"
+english = "I'm sure it will prove useful to you, <value:$28>.<end>"
+
+["2590008"]
+japanese = "通信機イベント用終端<end>"
+english = ""

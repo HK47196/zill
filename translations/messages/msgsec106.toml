@@ -1,0 +1,529 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1060000"]
+japanese = "ロティ・ボリューム２用メッセージ開始<end>"
+english = ""
+
+["1060001"]
+japanese = "よく来た、<value:$28>よ。\u3000\u3000<line-break>話はすでに聞いている。<line-break>手紙を渡してくれ。<end>"
+english = "Welcome, <value:$28>. I've already heard the report. Give me the letter.<end>"
+
+["1060002"]
+japanese = "君のような勇敢な同志が<line-break>我ら解放軍にいることを<line-break>感謝している。<line-break>我らの活動は、君が命がけで<line-break>救ってくれたクリュセイス様の<line-break>存在あってこそのものだ。<end>"
+english = "We are grateful to have a brave comrade like you in the Liberation Army. Our cause could not endure without Lady Khryuseis, whom you risked your life to save.<end>"
+
+["1060003"]
+japanese = "これからも苦しい状況が続こうが、<line-break>ロセンの血統が存続する限り、<line-break>我らも戦っていくことができる。<line-break>君の今後の活躍に期待している。<line-break>これからも、よろしく頼む。<end>"
+english = "Hard times may lie ahead, but as long as Rocen's royal line survives, we can continue the fight. I expect great things from you. We will continue to rely on your help.<end>"
+
+["1060004"]
+japanese = "君のような勇敢な同志が<line-break>我ら解放軍にいることを感謝している。<line-break>\u3000<line-break>君の勇気ある行動が、<line-break>我ら解放軍の士気と結束を<line-break>ますます高めてくれるに違いない。<end>"
+english = "We are grateful to have a brave comrade like you in the Liberation Army. Your courage will surely raise our morale and bind us more closely together.<end>"
+
+["1060005"]
+japanese = "そういう意味でも<line-break>君のような英雄的存在は、\u3000\u3000\u3000\u3000\u3000\u3000<line-break>必要不可欠なものなのだ。<line-break>これからも、いくたの苦難に<line-break>立ち向かわねばならぬ<line-break>我らロセンの愛国者にとってはな。<end>"
+english = "That is another reason why a heroic figure like you is indispensable to us patriots of Rocen, who must face so many hardships yet to come.<end>"
+
+["1060006"]
+japanese = "君の今後の活躍に期待している。\u3000\u3000\u3000<line-break>これからも、よろしく頼む。<line-break>我らが同志、ロセンの鐘の英雄よ。<end>"
+english = "I expect great things from you. We will continue to rely on your help, our comrade and hero of the Bell of Rocen.<end>"
+
+["1060007"]
+japanese = "君のような勇敢な同志が<line-break>我ら解放軍にいることを感謝している。<line-break>\u3000<line-break>我らも君の闘志にあやかり<line-break>１日も早いロセンの復興を<line-break>成し遂げるつもりだ。<end>"
+english = "We are grateful to have a brave comrade like you in the Liberation Army. Inspired by your fighting spirit, we intend to restore Rocen as soon as possible.<end>"
+
+["1060008"]
+japanese = "ロセンの復興がなったあかつきには\u3000\u3000<line-break>君は伝説となり、ロセン国民の<line-break>子々孫々に語り継がれるだろう。<line-break>ロセン王国中興の女王<line-break>クリュセイスを救った<line-break>輝ける英雄<value:$28>、とね。<end>"
+english = "When Rocen is restored, you will become a legend, remembered by the people of Rocen for generations to come: the radiant hero <value:$28>, savior of Khryuseis, the queen who restored the Kingdom of Rocen.<end>"
+
+["1060009"]
+japanese = "君の今後の活躍に期待している。<line-break>これからも、よろしく頼む。<line-break>我らが同志、ロセンの鐘の英雄よ。\u3000\u3000<end>"
+english = "I expect great things from you. We will continue to rely on your help, our comrade and hero of the Bell of Rocen.<end>"
+
+["1060010"]
+japanese = "最近、ロティの決意が<line-break>揺らいでいるようだ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>娘の命を思う親の気持ちというのも、<line-break>わからないでもないが、これしきの<line-break>苦難でへこたれていたのでは…。<end>"
+english = "Lottie's resolve seems to be wavering of late. I can understand a parent's concern for his daughter's life, but if a hardship of this degree is enough to break him...<end>"
+
+["1060011"]
+japanese = "しょせん、彼は武器商人にすぎない、<line-break>ということか…。<line-break>いや、すまん、こちらの話だ。<line-break>ロティ殿には今回のことに負けず、<line-break>よりいっそうの協力を願いたいと<line-break>お伝えしてもらいたい。<end>"
+english = "Perhaps he is nothing more than an arms merchant after all. No, forgive me. I was speaking to myself. Please tell Master Lottie that I hope he will not be defeated by this setback, and that we ask for even greater cooperation from him.<end>"
+
+["1060012"]
+japanese = "それにしても、<line-break>ロティの弱腰には困ったものだ。\u3000\u3000\u3000<line-break>\u3000<line-break>彼は順境には人格者として<line-break>ふるまえるが、逆境に対処できる器では<line-break>ないかもしれんな。<end>"
+english = "Still, Lottie's timidity is troubling. He can conduct himself as a man of character in prosperous times, but he may not have the mettle to face adversity.<end>"
+
+["1060013"]
+japanese = "おそらく、彼がおそれているのは\u3000\u3000\u3000<line-break>娘の命ではなく、<line-break>自身の危険なのだろうな。<line-break>いずれにしても、我らにとって<line-break>彼の協力は必要だ。<line-break>これからも、よろしく頼む。<end>"
+english = "I suspect it is not his daughter's life he fears for, but his own safety. Whatever the truth, we need his cooperation. We will continue to rely on your help.<end>"
+
+["1060014"]
+japanese = "残虐なるディンガルの将軍カルラにより<line-break>ロセンの王族はすべて処刑された。<line-break>\u3000<line-break>現在、ロセン王家の血を引くのは<line-break>ペウダ王の叔母君の娘に当たられる<line-break>クロイス家のクリュセイス様のみだ。<end>"
+english = "Karula, the ruthless general of Dingal, had every member of Rocen's royal family executed. The only person of Rocen's royal blood who remains is Lady Khryuseis of House Krois, the daughter of King Peuda's aunt.<end>"
+
+["1060015"]
+japanese = "我らロセンの存続は彼女に\u3000\u3000\u3000\u3000\u3000\u3000<line-break>かかっているのだ！<line-break><end>"
+english = "Rocen's very survival depends upon her!<end>"
+
+["1060016"]
+japanese = "ブゾリのやつめ、意外なところに<line-break>落とし穴を作ってくれたものだ。\u3000<line-break>\u3000<line-break>見た目通りの強欲ぶりを<line-break>発揮するかと思えば、こんなに早く<line-break>ロセンを復興させてしまった。<end>"
+english = "That wretch Buzori has thwarted us in a most unexpected way. I thought he would prove every bit as greedy as he looks, yet he has rebuilt Rocen with remarkable speed.<end>"
+
+["1060017"]
+japanese = "皮肉なことに<line-break>ロセン臣民にもブゾリの支配を\u3000\u3000<line-break>受けいれる動きもあるらしい。<line-break>こんなことで反ディンガルの気運が<line-break>下がってしまっては、それこそ、<line-break>ディンガルの思うつぼではないか！<end>"
+english = "Ironically, it seems that even some of Rocen's subjects are beginning to accept Buzori's rule. If this weakens the will to resist Dingal, we will have played straight into Dingal's hands!<end>"
+
+["1060018"]
+japanese = "青竜将軍カルラ…、青い死神め。<line-break>奴はいったい何者なのだ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>たった数週間で我らロセンをはじめ<line-break>東方国家６カ国を<line-break>滅ぼしてしまうとは…。<end>"
+english = "Karula, the Azure Dragon General... that blue reaper. Who in the world is she? In a matter of weeks, she destroyed six eastern nations, Rocen among them.<end>"
+
+["1060019"]
+japanese = "信じられぬスピードだ。<line-break>ディンガルでは、あの青い死神のことを<line-break>神速の用兵家と呼んでいるようだ。<line-break>我らロセンの人材の窮乏と比べて<line-break>なぜ、ディンガルにはこうも<line-break>すぐれた人材が登場してくるのだ。<end>"
+english = "The speed is beyond belief. In Dingal, they apparently call that blue reaper a lightning-swift strategist. Why does Dingal produce one gifted leader after another while Rocen suffers such a dearth of talent?<end>"
+
+["1060020"]
+japanese = "よく来た、<value:$28>よ。<line-break>話は、すでに聞いている。<line-break>手紙を。<end>"
+english = "Welcome, <value:$28>. I've already heard the report. The letter.<end>"
+
+["1060021"]
+japanese = "君のような勇敢な同志が<line-break>我ら解放軍にいることを感謝している。<line-break>\u3000<line-break>我らの活動は、君が命がけで<line-break>救ってくれたクリュセイス様の<line-break>存在あってこそのもの。<end>"
+english = "We are grateful to have a brave comrade like you in the Liberation Army. Our cause could not endure without Lady Khryuseis, whom you risked your life to save.<end>"
+
+["1060022"]
+japanese = "これからも苦しい状況が続こうが、\u3000\u3000<line-break>ロセンの血統が存続する限り、<line-break>我らも戦っていくことができる。<line-break>君の今後の活躍に期待している。<line-break>これからも、よろしく頼む。<line-break>我らが同志、ロセンの鐘の英雄よ。<end>"
+english = "Hard times may lie ahead, but as long as Rocen's royal line survives, we can continue the fight. I expect great things from you. We will continue to rely on your help, our comrade and hero of the Bell of Rocen.<end>"
+
+["1060023"]
+japanese = "君のような勇者が解放軍にいることは<line-break>心強い限りだ。<line-break>\u3000<line-break>君の勇気ある行動が、<line-break>我ら解放軍の士気と結束を<line-break>ますます高めてくれるに違いない。<end>"
+english = "It is deeply reassuring to have a hero like you in the Liberation Army. Your courage will surely raise our morale and bind us more closely together.<end>"
+
+["1060024"]
+japanese = "そういう意味でも<line-break>君のような英雄的存在は、\u3000\u3000\u3000\u3000<line-break>必要不可欠なものなのだ。<line-break>これからも、いくたの苦難に<line-break>立ち向かわねばならぬ<line-break>我ら解放軍にとってはな。<end>"
+english = "That is another reason why a heroic figure like you is indispensable to the Liberation Army, for we must face so many hardships yet to come.<end>"
+
+["1060025"]
+japanese = "君の今後の活躍に期待している。\u3000<line-break>これからも、よろしく頼む。<line-break>我らがロセンの鐘の英雄よ。<end>"
+english = "I expect great things from you. We will continue to rely on your help, our hero of the Bell of Rocen.<end>"
+
+["1060026"]
+japanese = "君のような勇者が<line-break>解放軍にいることは心強い限りだ。\u3000<line-break>\u3000<line-break>我らの理想が大きければ大きいほど<line-break>ふりかかる困難は厳しくなるだろう。<line-break>\u3000<end>"
+english = "It is deeply reassuring to have a hero like you in the Liberation Army. The greater our ideals, the harsher the trials that will befall us.<end>"
+
+["1060027"]
+japanese = "君の今後の活躍に期待している。\u3000\u3000<line-break>これからも、よろしく頼む。<line-break>ロセンの鐘の英雄よ。<end>"
+english = "I expect great things from you. We will continue to rely on your help, hero of the Bell of Rocen.<end>"
+
+["1060028"]
+japanese = "最近、雇い主であるロティ殿の決意が\u3000\u3000\u3000\u3000<line-break>揺らいでいるようだ。<line-break>\u3000<line-break>しょせん、彼は武器商人にすぎないからな…。<line-break>我らもどうなるか…。<line-break>いや、すまん、こちらの話だ。<end>"
+english = "Our employer, Master Lottie, seems to be losing his resolve of late. He is only an arms merchant, after all. What will become of us now...? No, forgive me. I was speaking to myself.<end>"
+
+["1060029"]
+japanese = "それにしても、<line-break>ロティ殿の弱腰には困ったものだ。\u3000\u3000<line-break>\u3000<line-break>彼は順境には人格者として<line-break>ふるまえるが、逆境に対処できる器では<line-break>ないかもしれんな。<end>"
+english = "Still, Master Lottie's timidity is troubling. He can conduct himself as a man of character in prosperous times, but he may not have the mettle to face adversity.<end>"
+
+["1060030"]
+japanese = "今回のことは、彼が初めて知った\u3000\u3000\u3000<line-break>我が身に及ぶ恐怖だったのだろう。<line-break>\u3000<line-break>おそらく、彼がおそれているのは<line-break>娘の命ではなく、<line-break>自身の危険なのだろうな。<end>"
+english = "This must have been the first time he truly felt danger closing in on him. I suspect it is not his daughter's life he fears for, but his own safety.<end>"
+
+["1060031"]
+japanese = "いずれにしても、我らは彼に\u3000\u3000\u3000\u3000\u3000<line-break>雇われた身だ。<line-break>これからも、よろしく頼む。<end>"
+english = "Whatever the truth, we are in his employ. We will continue to rely on your help.<end>"
+
+["1060032"]
+japanese = "残虐なるディンガルの将軍カルラにより\u3000<line-break>ロセンの王族はすべて処刑された。<line-break>\u3000<line-break>現在、ロセン王家の血を引くのは<line-break>ペウダ王の叔母君の娘に当たられる<line-break>クロイス家のクリュセイス様のみだ。<end>"
+english = "Karula, the ruthless general of Dingal, had every member of Rocen's royal family executed. The only person of Rocen's royal blood who remains is Lady Khryuseis of House Krois, the daughter of King Peuda's aunt.<end>"
+
+["1060033"]
+japanese = "ロセンの存続は彼女にかかっているのだ！<end>"
+english = "Rocen's survival depends upon her!<end>"
+
+["1060034"]
+japanese = "ブゾリのやつめ、意外なところに<line-break>落とし穴を作ってくれたものだ。\u3000<line-break>\u3000<line-break>見た目通りの強欲ぶりを<line-break>発揮するかと思えば、こんなに早く<line-break>ロセンを復興させてしまった。<end>"
+english = "That wretch Buzori has thwarted us in a most unexpected way. I thought he would prove every bit as greedy as he looks, yet he has rebuilt Rocen with remarkable speed.<end>"
+
+["1060035"]
+japanese = "皮肉なことに<line-break>ロセン臣民にもブゾリの支配を\u3000\u3000<line-break>受けいれる動きもあるらしい。<line-break>こんなことで反ディンガルの気運が<line-break>下がってしまっては、それこそ、<line-break>ディンガルの思うつぼではないか！<end>"
+english = "Ironically, it seems that even some of Rocen's subjects are beginning to accept Buzori's rule. If this weakens the will to resist Dingal, we will have played straight into Dingal's hands!<end>"
+
+["1060036"]
+japanese = "青竜将軍カルラ…、青い死神め。<line-break>奴はいったい何者なのだ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>たった数週間で我らロセンをはじめ<line-break>東方国家６カ国を<line-break>滅ぼしてしまうとは…。<end>"
+english = "Karula, the Azure Dragon General... that blue reaper. Who in the world is she? In a matter of weeks, she destroyed six eastern nations, Rocen among them.<end>"
+
+["1060037"]
+japanese = "信じられぬスピードだ。<line-break>ディンガルでは、あの青い死神のことを<line-break>神速の用兵家と呼んでいるようだ。<line-break>我らロセンの人材の窮乏と比べて<line-break>なぜ、ディンガルにはこうも<line-break>すぐれた人材が登場してくるのだ。<end>"
+english = "The speed is beyond belief. In Dingal, they apparently call that blue reaper a lightning-swift strategist. Why does Dingal produce one gifted leader after another while Rocen suffers such a dearth of talent?<end>"
+
+["1060038"]
+japanese = "な、のぞいてみないか？\u3000手紙。<end>"
+english = "Hey, want to take a look at the letter?<end>"
+
+["1060039"]
+japanese = "だ、ダメだよ、ヴァン。<end>"
+english = "W-we can't, Van.<end>"
+
+["1060040"]
+japanese = "うっさいんだよ、ナッジ。<line-break>ナッジえ、とめる？<end>"
+english = "Shut up, Nadge. What'd you have to nudge in and stop me for?<end>"
+
+["1060041"]
+japanese = "（うっ！\u3000寒い！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>その上、イヤすぎる…！）<line-break>\u3000<line-break>（ナッジと、なぜ、をかけてるのは<line-break>\u3000かろうじてわかるけれど、<line-break>\u3000く、苦しくてつまらない…！\u3000\u3000\u3000）<end>"
+english = "(Ugh! That was cold! And just plain awful!) (I can barely tell he's trying to make a pun on “Nadge” and “nudge,” but it's so strained and boring...!)<end>"
+
+["1060042"]
+japanese = "（その上、このできの悪いギャグに<line-break>\u3000僕の名前が使われているなんて…<line-break>\u3000むごいよ、むごすぎるよ、ヴァン。）<line-break>（僕たち、友達じゃなかったのかい？<line-break>\u3000僕、君になんかひどいことした？<line-break>\u3000理不尽だよ、ひどいよ、ヴァン…！）<end>"
+english = "(And he used my name for such a terrible joke... That's cruel, Van. Too cruel.) (Aren't we friends? Did I do something awful to you? It's so unfair. This is horrible, Van...!)<end>"
+
+["1060043"]
+japanese = "さーて、<line-break>みんな凍ってるすきにっと…。<end>"
+english = "Right, while everyone's frozen stiff...<end>"
+
+["1060044"]
+japanese = "もう、遅いぜ。<line-break>手紙は開けちまったもんねー！<end>"
+english = "Too late! I've already opened it, so there!<end>"
+
+["1060045"]
+japanese = "…自分のギャグが寒いこと、<line-break>自覚してたんだね、ヴァン。<end>"
+english = "So you knew how cold your own joke was, Van.<end>"
+
+["1060046"]
+japanese = "すっげえ！\u3000ディンガルの玄武将軍<line-break>ザギヴがロセン巡察に来る日程と行程が<line-break>めちゃ詳しく書いてある！<end>"
+english = "Whoa! This gives the exact schedule and route for Zagiv, Dingal's Black Tortoise General, to inspect Rocen!<end>"
+
+["1060047"]
+japanese = "へへっ、こんだけのものがあれば、<line-break>ロセンの奴らがヘボでも、<line-break>ザギヴは絶対にとれるな！<end>"
+english = "Heh! With information this good, even if those Rocen fools are useless, they'll be sure to get Zagiv!<end>"
+
+["1060048"]
+japanese = "な、こうやって手紙の中身を見るのって<line-break>悪いことかな？<end>"
+english = "Hey, is it really wrong to look inside a letter like this?<end>"
+
+["1060049"]
+japanese = "大丈夫だ。封なら簡単に元に戻る。<line-break>今までだってバレなかったんだ。<end>"
+english = "It's fine. The seal is easy to put back. No one's ever noticed before.<end>"
+
+["1060050"]
+japanese = "まあ、そう怒るなって。<line-break>用心に越したことはないと思ってな。<line-break>少しチェックさせてもらってただけだ。<line-break>それよりも、この中身だ。<line-break>今までのチンケな情報とは精度が違う。<end>"
+english = "Come on, don't get so angry. I thought it was better to be cautious, so I took a quick look. More importantly, look what's inside. This is far more precise than the paltry scraps we've had until now.<end>"
+
+["1060051"]
+japanese = "ディンガルの内政統括、玄武将軍<line-break>ザギヴのロセン巡察日程及び行程だ。<line-break>\u3000<line-break>ここまでの情報、ディンガルでも<line-break>四天王クラスじゃないと<line-break>手に入らないぜ？<end>"
+english = "It's the schedule and route for Zagiv's inspection of Rocen―the Black Tortoise General who oversees Dingal's domestic affairs. Even in Dingal, only someone on the level of the Four Heavenly Kings could get information like this.<end>"
+
+["1060052"]
+japanese = "…お前さんには、教えといた方が\u3000<line-break>よさそうだと思ってな。<line-break>\u3000<line-break>…お前さんのディンガルのお友達、<line-break>結構、敵が多いらしいな。<end>"
+english = "I thought you ought to know. It seems your friend in Dingal has quite a few enemies.<end>"
+
+["1060053"]
+japanese = "ねぇ、<value:$28>。<line-break>ボク、ピーンときちゃった。\u3000<line-break>\u3000<line-break>ほら、ロセン支部に届けろって<line-break>言われたあの手紙だよ。<line-break>ね、ね。絶対なんかあるよ。<end>"
+english = "Hey, <value:$28>. I've got a hunch. Remember that letter we were told to deliver to the Rocen branch? Come on. There's definitely something in it.<end>"
+
+["1060054"]
+japanese = "いや、でもダメだよ。<line-break>人の手紙を勝手にのぞいちゃ。<end>"
+english = "No, wait. We can't. We can't just peek at someone else's letter.<end>"
+
+["1060055"]
+japanese = "ダメダメ、やっぱり<line-break>そんなことしちゃダメだよ。<end>"
+english = "No, no. We really shouldn't do that.<end>"
+
+["1060056"]
+japanese = "ああん、もぅ！<line-break>本当にダメなんだったら！<end>"
+english = "Oh, come on! If this really isn't allowed...!<end>"
+
+["1060057"]
+japanese = "…って、<value:$28>。<line-break>ちゃんと、とめてよ。<line-break>ボク、手紙を開けちゃったじゃないか。<line-break>でも、開けちゃったものは<line-break>仕方がないよね。<line-break>…何が書いてあるのかな？<end>"
+english = "Wait, <value:$28>! You were supposed to stop me. Now I've opened the letter. Well, what's done is done, right? I wonder what it says...<end>"
+
+["1060058"]
+japanese = "見てよ！<line-break>ザギヴって、ディンガルの<line-break>玄武将軍のことだよね。<end>"
+english = "Look! Zagiv is Dingal's Black Tortoise General, right?<end>"
+
+["1060059"]
+japanese = "そのザギヴ将軍がロセンを巡察する<line-break>日程とかがすごい詳しく書いてある。<end>"
+english = "It gives a really detailed schedule and route for General Zagiv's inspection of Rocen.<end>"
+
+["1060060"]
+japanese = "…でも、普通、こういうのって<line-break>機密事項だよね？\u3000ザギヴ将軍って<line-break>味方の中にも敵が多い人なのかな…？<end>"
+english = "But information like this would normally be secret, wouldn't it? Does General Zagiv have a lot of enemies even among her own allies?<end>"
+
+["1060061"]
+japanese = "…ザギヴ将軍のところに\u3000<line-break>行ってきてあげなよ。<line-break>\u3000<line-break>…ボク、知ってるよ。<line-break>ザギヴ将軍とは…その…<line-break>いい、お友達…なんだろ？<end>"
+english = "You should go see General Zagiv. I know about you two. She's... well... a good friend of yours, isn't she?<end>"
+
+["1060062"]
+japanese = "ねえねえ、<value:$28>。<line-break>この手紙ちょっとだけ見てみようよぉ。<end>"
+english = "Hey, <value:$28>, let's take just a tiny peek at this letter.<end>"
+
+["1060063"]
+japanese = "そんなに固いこと言わなくてもいいと\u3000<line-break>思うけどなぁ。ぼくは<value:$28><line-break>のことを心配してるんだよ？<end>"
+english = "You don't have to be so strict about it. I'm only worried about you, <value:$28>.<end>"
+
+["1060064"]
+japanese = "はぁ…。<line-break>ぼくって<line-break>どうして理解されないんだろ…。\u3000<line-break>さびしいなぁ。<value:$28>も<line-break>わかってくれないなんて…。<end>"
+english = "Sigh... Why does nobody understand me? It's so lonely. Even you don't understand, <value:$28>...<end>"
+
+["1060065"]
+japanese = "え～、ぼくにその手紙をのぞけって\u3000\u3000<line-break>言うの？\u3000ぼく、そういう<line-break>きれいじゃないことはイヤだなぁ。<line-break>でも、<value:$28>が<line-break>ど～してもって言うなら仕方ないよね。<line-break>\u3000<end>"
+english = "What? You want me to peek at the letter? I don't like doing anything so underhanded. But if you absolutely insist, <value:$28>, I suppose I have no choice.<end>"
+
+["1060066"]
+japanese = "なぁ～んだ。<line-break>別にきれいなことなんて書いてないや。<line-break>\u3000<line-break>ディンガルのザギヴってえらい人が<line-break>ロセンを視察するときに使う行程が<line-break>書いてあるだけだよ。<end>"
+english = "Oh, that's all? There's nothing decent in it. It only gives the route some important person from Dingal named Zagiv will take while inspecting Rocen.<end>"
+
+["1060067"]
+japanese = "なんだ。貴様。<line-break>ブゾリ様に何か密告することがあるのか？<end>"
+english = "What do you want? Have you come to report something to Lord Buzori?<end>"
+
+["1060068"]
+japanese = "解放軍本部の場所を密告する<end>"
+english = "Give away the location of Liberation Army Headquarters<end>"
+
+["1060069"]
+japanese = "解放軍本部の場所を密告しない<end>"
+english = "Don't give away the location of Liberation Army Headquarters<end>"
+
+["1060070"]
+japanese = "何だと、テロリストどもの本拠を…！？<line-break>すぐブゾリ様にお知らせせねば…！<end>"
+english = "What? The terrorists' headquarters...!? I must inform Lord Buzori at once!<end>"
+
+["1060071"]
+japanese = "あーらいらっしゃい。どうしたのお、<line-break><value:$28>ちゃーん？\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>テロリストどもの親玉<line-break>ロティの命を救っといて、<line-break>今度はその子分どもを売りに来たの？<end>"
+english = "Well, hello there. What brings you here, <value:$28>, darling? You saved Lottie, the terrorists' ringleader, and now you've come to sell out his underlings?<end>"
+
+["1060072"]
+japanese = "それとも、おバカさんにも、<line-break>アタシの命を奪うために、うそついて<line-break>ここまで入ってきたのかしら？<end>"
+english = "Or did you lie to the idiot too, just to get in here and kill me?<end>"
+
+["1060073"]
+japanese = "ロティたちを売りに来た<end>"
+english = "Here to sell Lottie and the others.<end>"
+
+["1060074"]
+japanese = "ブゾリを殺しに来た<end>"
+english = "Here to kill Buzori.<end>"
+
+["1060075"]
+japanese = "うふふ、賢いやり方ねえ？<line-break>全然美しくないけど。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ま、いいわ。<line-break>世の中のほとんどが<line-break>ゲスで成り立ってるんですもの。<end>"
+english = "Oho, clever, isn't it? Not the least bit elegant, though. Well, never mind. Most of the world is made up of scum anyway.<end>"
+
+["1060076"]
+japanese = "ありがと。参考になったわ。<line-break>ところで、アタシの配下になるって<line-break>いうのは考えてくれてるのかしら？<end>"
+english = "Thanks. That was helpful. By the way, have you given any thought to serving under me?<end>"
+
+["1060077"]
+japanese = "ブゾリの配下になる<end>"
+english = "Serve under Buzori<end>"
+
+["1060078"]
+japanese = "ブゾリの配下にならない<end>"
+english = "Do not serve under Buzori<end>"
+
+["1060079"]
+japanese = "そ、わかったわ。<line-break>とにかく芯ってものがないのね。<end>"
+english = "I-I understand. You really don't stand for anything, do you?<end>"
+
+["1060080"]
+japanese = "そう。何か一定した立場も<line-break>ないようだし、単なる金目当てかしら？<line-break>いいわ、これがお礼よ。<end>"
+english = "Yes, you don't seem to have any firm allegiance. Are you only in it for the money? Fine. Here's your reward.<end>"
+
+["1060081"]
+japanese = "自由を愛する冒険者って<line-break>そんなものかもしれないけれど、\u3000\u3000\u3000<line-break>\u3000<line-break>あんたが今売り飛ばした<line-break>テロリストどもにも、<line-break>今まで生きてきただけの人生があるの。<end>"
+english = "Maybe that's what it means to be a freedom-loving adventurer. But even those terrorists you just sold off have lived whole lives of their own.<end>"
+
+["1060082"]
+japanese = "その中でいろんな人と出会ってきたの。<line-break>そして、父親と母親がいたはずなの。<line-break>\u3000<line-break>もう少し、思いやりがあっても<line-break>いいんじゃない？<line-break>たとえ、あんなクズどもに対してでも。<end>"
+english = "They met all sorts of people along the way. They must have had mothers and fathers, too. Couldn't you show a little more compassion? Even to scum like that?<end>"
+
+["1060083"]
+japanese = "行ってちょうだい。<line-break>優しいと生きにくいだろうけど、<line-break>優しくなければ生きてる価値もないわ。<end>"
+english = "Go on. Kindness may make life harder, but without it, life isn't worth living.<end>"
+
+["1060084"]
+japanese = "うふふ、おバカちゃんねえ。<line-break>ちょっとかわいいけど。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>うわあー、心が痛むわあ…。<line-break>こーんなおバカでかわいいコを<line-break>ぶち殺さないといけないなんて！<end>"
+english = "Hee hee, aren't you a silly little thing? A little cute, though. Oh, how my heart aches... To think I have to slaughter such an adorable little fool!<end>"
+
+["1060085"]
+japanese = "やるじゃなーい？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>でも、テロリストに対して、<line-break>アタシが公正である必要なんて<line-break>何もないってこと、気づいてたァ？<end>"
+english = "Not bad at all. But did you realize I have no reason whatsoever to play fair with terrorists?<end>"
+
+["1060086"]
+japanese = "カルラ様からあなたのこと聞いてるわ。<line-break>バカ王ペウダを懲らしめたんですって。<line-break>\u3000<line-break>でも、マヌケよね。<line-break>同じ罠に２度引っかかるなんて。<end>"
+english = "Lady Karula told me about you. I hear you taught that idiot King Peuda a lesson. But you're quite the fool yourself, falling for the same trap twice.<end>"
+
+["1060087"]
+japanese = "これってねえ、ペウダってバカな王様が<line-break>国民を怪物に食わせるために<line-break>作った仕掛けなの。<end>"
+english = "You see, this contraption was built by that fool King Peuda so he could feed his own people to monsters.<end>"
+
+["1060088"]
+japanese = "度胸だけは買ったげる。<line-break>命を助けてあげるわ。<line-break>また、会いましょ。じゃあね。<end>"
+english = "I'll give you credit for courage, at least. I'll spare your life. Until we meet again. Bye-bye.<end>"
+
+["1060089"]
+japanese = "あーら、おかえりなさい。<line-break>どう？\u3000テロリストどものこと、\u3000\u3000\u3000<line-break>何かわかったのかしら？<line-break>うふふ、そう。<line-break>アジト、そんなところにあったのねー。<line-break>\u3000<end>"
+english = "Well, look who's back. So? Did you learn anything about those terrorists? Hee hee, I see. So that's where their hideout was.<end>"
+
+["1060090"]
+japanese = "ま、あなたの立場もあることだし、\u3000\u3000<line-break>今はそっちはほっときましょ？<line-break>これは報酬。また、情報お願いね？<end>"
+english = "Well, you have your own position to consider, so let's leave that alone for now, shall we? Here's your reward. Do bring me more information sometime.<end>"
+
+["1060091"]
+japanese = "そう、入り口でそんなことがあったの。<line-break>…新兵ね。<line-break>\u3000<line-break>…しつけがなってないんだから。<line-break>あとで、たっぷり締め上げてあげるわ。<line-break>あなたに無礼を働いたんですもの。<end>"
+english = "So that's what happened at the entrance. A new recruit, I suppose. No discipline at all. I'll give that one a thorough dressing-down later for being so rude to you.<end>"
+
+["1060092"]
+japanese = "コウモリさんコウモリさん、<line-break>あなたはどっちの味方なの？<line-break>本当にどっちつかずの裏切り者さん？<end>"
+english = "Little bat, little bat, whose side are you on? Are you really a treacherous little fence-sitter?<end>"
+
+["1060093"]
+japanese = "カルラ様の誘いには屈しなかったのに、<line-break>アタシの所には来てくれたのね？<line-break>\u3000<line-break>うふふ、アタシの<line-break>大人の魅力のなせる技ってとこかしら？<line-break>それともオトコの色気？<end>"
+english = "You resisted Lady Karula's invitation, yet you came to me? Hee hee. Perhaps you couldn't resist my mature charms. Or was it my masculine allure?<end>"
+
+["1060094"]
+japanese = "あーら、いらっしゃーい。<line-break>どうしたのかしら？\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ロティ暗殺できなかったのを<line-break>挽回できるほどのものを<line-break>もってきてくれたのかしらあ？<end>"
+english = "Well, welcome. What brings you here? Have you brought me something good enough to make up for failing to assassinate Lottie?<end>"
+
+["1060095"]
+japanese = "あーら、いらっしゃーい。<line-break>どうしたの？\u3000アタシの配下には<line-break>ならないって、出ていったのに。<end>"
+english = "Well, welcome back. What brings you here? You walked out after saying you wouldn't serve under me.<end>"
+
+["1060096"]
+japanese = "なんか、リベルダムの武器商人に<line-break>恨みでもあるわけ？<end>"
+english = "Do you have some sort of grudge against the arms dealers of Liberdam?<end>"
+
+["1060097"]
+japanese = "ま、自由な冒険者って、こんな風に<line-break>金次第で自由に動くものなのかもね。<line-break>\u3000<line-break>アタシ、テロリストみたいな狂信者は<line-break>醜いと思うけど、虚無的な無神論者も<line-break>あまり美しいと思わないの。<end>"
+english = "Well, perhaps this is what free adventurers do: go wherever the money leads. I find fanatics like those terrorists ugly, but I don't find nihilistic atheists especially beautiful, either.<end>"
+
+["1060098"]
+japanese = "ロティを守れなかったじゃない。<line-break>情けないわね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>その上、今度はその娘を裏切るの？<line-break>いい根性してるわね？<end>"
+english = "You couldn't even protect Lottie. How pathetic. And now you're going to betray the girl as well? You've got some nerve.<end>"
+
+["1060099"]
+japanese = "暗殺を止めもしない。<line-break>次はその娘を売って金にしよう…。\u3000<line-break>\u3000<line-break>ま、自由な冒険者って、こんな風に<line-break>金次第で自由に動くものなのかもね。<line-break><end>"
+english = "You didn't even try to stop the assassination, and now you mean to sell the girl for money... Well, perhaps this is what free adventurers do: go wherever the money leads.<end>"
+
+["1060100"]
+japanese = "アタシ、テロリストみたいな狂信者は<line-break>醜いと思うけど、虚無的な無神論者も<line-break>あまり美しいと思わないの。<end>"
+english = "I find fanatics like those terrorists ugly, but I don't find nihilistic atheists especially beautiful, either.<end>"
+
+["1060101"]
+japanese = "あーら、いらっしゃい。<line-break>情報を持ってきてくれたんですって？<end>"
+english = "Well, welcome. I hear you've brought me some information?<end>"
+
+["1060102"]
+japanese = "何でもないだと？\u3000こっちは仕事しているんだ！<line-break>お前のような暇人の相手をしている暇はない。<line-break>とっとと行け！<end>"
+english = "Nothing, you say? I'm trying to work! I have no time to entertain an idler like you. Now get out!<end>"
+
+["1060103"]
+japanese = "…解放軍の本部が破壊されたわ。\u3000<line-break>ブゾリの仕業よ。<line-break>\u3000<line-break>ところで、わたくしに<line-break>何か言うことがあるんじゃなくて？<line-break><end>"
+english = "The Liberation Army headquarters has been destroyed. Buzori was behind it. Now, isn't there something you ought to tell me?<end>"
+
+["1060104"]
+japanese = "ロセン総督府を見張っていた同志から、<line-break>あなたがブゾリと接触するのを<line-break>見たという報告が入ってるわ。<end>"
+english = "A comrade keeping watch on the Rocen Governor-General's Office reported seeing you make contact with Buzori.<end>"
+
+["1060105"]
+japanese = "裏切り者！<line-break>よくも、ぬけぬけと<line-break>わたくしの前に出られたものね！<end>"
+english = "Traitor! How dare you brazenly show yourself before me!<end>"
+
+["1060106"]
+japanese = "くやしいけど、逃がすしかないわ…。<line-break>あいつにかなう者がいないのだから…。<end>"
+english = "It galls me, but we have no choice but to let that one escape... No one can prevail against such an opponent.<end>"
+
+["1060107"]
+japanese = "解放軍本部が破壊されたよ。<end>"
+english = "Liberation Army Headquarters has been destroyed.<end>"
+
+["1060108"]
+japanese = "ロセン提督、ブゾリの手の者の<line-break>仕業だろう<end>"
+english = "Admiral of Rocen, this was likely the work of Buzori's agents.<end>"
+
+["1060109"]
+japanese = "<value:$28>。<line-break>釈明できるなら、してくれたまえ。\u3000\u3000<line-break>\u3000<line-break>ロセン総督府を見張っていた同志から、<line-break>君がブゾリと接触していたという報告が<line-break>入っているのだがな。<end>"
+english = "<value:$28>. If you can explain yourself, then please do. A comrade keeping watch on the Rocen Governor-General's Office reports that you made contact with Buzori.<end>"
+
+["1060110"]
+japanese = "ゲスな裏切り者め！<line-break>よくも、私の前に出られたものだな！<end>"
+english = "You vile traitor! How dare you show yourself before me!<end>"
+
+["1060111"]
+japanese = "そ、そんな…。<line-break><value:$28>様が…、そんな…。<end>"
+english = "N-no... <value:$28>... It can't be...<end>"
+
+["1060112"]
+japanese = "クリュセイス、ショックだったろう。<end>"
+english = "Khryuseis, this must have come as a terrible shock.<end>"
+
+["1060113"]
+japanese = "あの者があんなに卑劣な人物だと<line-break>見抜けなかった私が悪かったのだ。<line-break>つらい思いをさせたな。クリュセイス。<line-break><value:$28>め…。<end>"
+english = "The fault is mine for failing to see how despicable that person was. I'm sorry you've had to suffer, Khryuseis. Curse you, <value:$28>...<end>"
+
+["1060114"]
+japanese = "ひとりの生存者もいなかった。<line-break>悲しむべき事態だが…。<line-break>ん、どうしたのかね？<end>"
+english = "There wasn't a single survivor. A tragic state of affairs, but... Hm? What is it?<end>"
+
+["1060115"]
+japanese = "…まさか、<value:$28>様？<end>"
+english = "Surely not... <value:$28>?<end>"
+
+["1060116"]
+japanese = "君が裏切り者だったのか。<line-break>悲しいよ、なぜそんなことを…！<end>"
+english = "So you were the traitor. This grieves me. Why would you do such a thing...?<end>"
+
+["1060117"]
+japanese = "<value:$28>様、<line-break>どうして…！<end>"
+english = "<value:$28>, why...?<end>"
+
+["1060118"]
+japanese = "そ、そんな…。<line-break><value:$28>様が…、<line-break>そんな…。<end>"
+english = "N-no... <value:$28>... It can't be...<end>"
+
+["1060119"]
+japanese = "クリュセイス、ショックだったろう。<end>"
+english = "Khryuseis, this must have come as a terrible shock.<end>"
+
+["1060120"]
+japanese = "あの者があんなに卑劣な人物だと<line-break>見抜けなかった私が悪かったのだ。<line-break>つらい思いをさせたな。クリュセイス。<line-break><value:$28>め…。<end>"
+english = "The fault is mine for failing to see how despicable that person was. I'm sorry you've had to suffer, Khryuseis. Curse you, <value:$28>...<end>"
+
+["1060121"]
+japanese = "予備メッセージ１<line-break>ロティ、ボリューム２<end>"
+english = ""
+
+["1060122"]
+japanese = "予備メッセージ２<line-break>ロティ、ボリューム２<end>"
+english = ""
+
+["1060123"]
+japanese = "予備メッセージ３<line-break>ロティ、ボリューム２<end>"
+english = ""
+
+["1060124"]
+japanese = "予備メッセージ４<line-break>ロティ、ボリューム２<end>"
+english = ""
+
+["1060125"]
+japanese = "予備メッセージ５<line-break>ロティ、ボリューム２<end>"
+english = ""
+
+["1060126"]
+japanese = "予備メッセージ６<line-break>ロティ、ボリューム２<end>"
+english = ""
+
+["1060127"]
+japanese = "予備メッセージ７<line-break>ロティ、ボリューム２<end>"
+english = ""
+
+["1060128"]
+japanese = "予備メッセージ８<line-break>ロティ、ボリューム２<end>"
+english = ""
+
+["1060129"]
+japanese = "予備メッセージ９<line-break>ロティ、ボリューム２<end>"
+english = ""
+
+["1060130"]
+japanese = "予備メッセージ１０<line-break>ロティ、ボリューム２<end>"
+english = ""
+
+["1060131"]
+japanese = "ロティ・ボリューム２用メッセージ終端<end>"
+english = ""

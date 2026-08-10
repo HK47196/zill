@@ -1,0 +1,281 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1550000"]
+japanese = "（木の幹になにかほってある……。）<end>"
+english = "(Something is carved into the tree trunk...)<end>"
+
+["1550001"]
+japanese = "（岩になにかほってある……。）<end>"
+english = "(Something is carved into the rock...)<end>"
+
+["1550002"]
+japanese = "（石になにか書いてある……。）<end>"
+english = "(Something is written on the stone...)<end>"
+
+["1550003"]
+japanese = "（壁になにかほってある……。）<end>"
+english = "(Something is carved into the wall...)<end>"
+
+["1550004"]
+japanese = "（巨大なクモの巣だ。<line-break>\u3000なにかが引っかかっている……。）<end>"
+english = "(It's a huge spiderweb. Something is caught in it...)<end>"
+
+["1550005"]
+japanese = "（小石が並んで文字を<line-break>\u3000形作っている……。）<end>"
+english = "(Pebbles have been arranged to form words...)<end>"
+
+["1550006"]
+japanese = "セヅネの根を採りますか？<end>"
+english = "Take the Sezune Root?<end>"
+
+["1550007"]
+japanese = "トヅカネの枝を採りますか？<end>"
+english = "Take the Tozukane Branch?<end>"
+
+["1550008"]
+japanese = "ヒャンデ鉱を採りますか？<end>"
+english = "Take the Hyande Ore?<end>"
+
+["1550009"]
+japanese = "きれぐもの巣を採りますか？<end>"
+english = "Take the Kiregumo Nest?<end>"
+
+["1550010"]
+japanese = "ハヤスの葉を採りますか？<end>"
+english = "Take the Hayasu Leaf?<end>"
+
+["1550011"]
+japanese = "キッカネの香草を採りますか？<end>"
+english = "Take the Kikkane Herb?<end>"
+
+["1550012"]
+japanese = "千年石を採りますか？<end>"
+english = "Take the Millennium Stone?<end>"
+
+["1550013"]
+japanese = "ヤンバイ草を採りますか？<end>"
+english = "Take the Yanbai Herb?<end>"
+
+["1550014"]
+japanese = "ナジラネの果実を採りますか？<end>"
+english = "Take the Najirane Fruit?<end>"
+
+["1550015"]
+japanese = "ノロガメを採りますか？<end>"
+english = "Take the Norogame?<end>"
+
+["1550016"]
+japanese = "セヅネの根を捨てますか？<end>"
+english = "Discard the Sezune Root?<end>"
+
+["1550017"]
+japanese = "トヅカネの枝を捨てますか？<end>"
+english = "Discard the Tozukane Branch?<end>"
+
+["1550018"]
+japanese = "ヒャンデ鉱を捨てますか？<end>"
+english = "Discard the Hyande Ore?<end>"
+
+["1550019"]
+japanese = "きれぐもの巣を捨てますか？<end>"
+english = "Discard the Kiregumo Nest?<end>"
+
+["1550020"]
+japanese = "ハヤスの葉を捨てますか？<end>"
+english = "Discard the Hayasu Leaf?<end>"
+
+["1550021"]
+japanese = "キッカネの香草を捨てますか？<end>"
+english = "Discard the Kikkane Herb?<end>"
+
+["1550022"]
+japanese = "千年石を捨てますか？<end>"
+english = "Discard the Millennium Stone?<end>"
+
+["1550023"]
+japanese = "ヤンバイ草を捨てますか？<end>"
+english = "Discard the Yanbai Herb?<end>"
+
+["1550024"]
+japanese = "ナジラネの果実を捨てますか？<end>"
+english = "Discard the Najirane Fruit?<end>"
+
+["1550025"]
+japanese = "ノロガメを捨てますか？<end>"
+english = "Discard the Norogame?<end>"
+
+["1550026"]
+japanese = "これはセヅネの根というものです。<line-break>これを持つと、ＶＩＴが下がるので<line-break>注意してください。<line-break><line-break>また、これはかなり危険なものなので、<line-break>捨てるなら元のところへ返してください。<line-break>それが冒険者の心得というものです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冒険者ギルド<end>"
+english = "This is Sezune Root. Be careful: carrying it lowers ＶＩＴ. It is also quite dangerous, so if you discard it, return it to where you found it. That is the adventurer's code. ―Adventurers' Guild<end>"
+
+["1550027"]
+japanese = "これはトヅカネの枝というものです。<line-break>これを持つと、ＡＧＩが下がるので<line-break>注意してください。<line-break><line-break>また、これはかなり危険なものなので、<line-break>捨てるなら元のところへ返してください。<line-break>それが冒険者の心得というものです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冒険者ギルド<end>"
+english = "This is a Tozukane Branch. Be careful: carrying it lowers ＡＧＩ. It is also quite dangerous, so if you discard it, return it to where you found it. That is the adventurer's code. ―Adventurers' Guild<end>"
+
+["1550028"]
+japanese = "これはヒャンデ鉱というものです。<line-break>これを持つと、ＡＧＩが下がるので<line-break>注意してください。<line-break><line-break>また、これはかなり危険なものなので、<line-break>捨てるなら元のところへ返してください。<line-break>それが冒険者の心得というものです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冒険者ギルド<end>"
+english = "This is Hyande Ore. Be careful: carrying it lowers ＡＧＩ. It is also quite dangerous, so if you discard it, return it to where you found it. That is the adventurer's code. ―Adventurers' Guild<end>"
+
+["1550029"]
+japanese = "これはきれぐもの巣というものです。<line-break>これを持つと、ＤＥＸが下がるので<line-break>注意してください。<line-break><line-break>また、これはかなり危険なものなので、<line-break>捨てるなら元のところへ返してください。<line-break>それが冒険者の心得というものです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冒険者ギルド<end>"
+english = "This is a Kiregumo Web. Be careful: carrying it lowers ＤＥＸ. It is also quite dangerous, so if you discard it, return it to where you found it. That is the adventurer's code. ―Adventurers' Guild<end>"
+
+["1550030"]
+japanese = "これはハヤスの葉というものです。<line-break>これを持つと、ＩＮＴが下がるので<line-break>注意してください。<line-break><line-break>また、これはかなり危険なものなので、<line-break>捨てるなら元のところへ返してください。<line-break>それが冒険者の心得というものです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冒険者ギルド<end>"
+english = "This is a Hayasu Leaf. Be careful: carrying it lowers ＩＮＴ. It is also quite dangerous, so if you discard it, return it to where you found it. That is the adventurer's code. ―Adventurers' Guild<end>"
+
+["1550031"]
+japanese = "これはキッカネの香草というものです。<line-break>これを持つと、ＩＮＴが下がるので<line-break>注意してください。<line-break><line-break>また、これはかなり危険なものなので、<line-break>捨てるなら元のところへ返してください。<line-break>それが冒険者の心得というものです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冒険者ギルド<end>"
+english = "This is Kikkane Herb. Be careful: carrying it lowers ＩＮＴ. It is also quite dangerous, so if you discard it, return it to where you found it. That is the adventurer's code. ―Adventurers' Guild<end>"
+
+["1550032"]
+japanese = "これは千年石というものです。<line-break>これを持つと、ＭＩＮが下がるので<line-break>注意してください。<line-break><line-break>また、これはかなり危険なものなので、<line-break>捨てるなら元のところへ返してください。<line-break>それが冒険者の心得というものです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冒険者ギルド<end>"
+english = "This is a Millennium Stone. Be careful: carrying it lowers ＭＩＮ. It is also quite dangerous, so if you discard it, return it to where you found it. That is the adventurer's code. ―Adventurers' Guild<end>"
+
+["1550033"]
+japanese = "これはヤンバイ草というものです。<line-break>これを持つと、幻覚状態になるので<line-break>注意してください。<line-break><line-break>また、これはかなり危険なものなので、<line-break>捨てるなら元のところへ返してください。<line-break>それが冒険者の心得というものです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冒険者ギルド<end>"
+english = "This is Yanbai Herb. Be careful: carrying it inflicts Hallucination. It is also quite dangerous, so if you discard it, return it to where you found it. That is the adventurer's code. ―Adventurers' Guild<end>"
+
+["1550034"]
+japanese = "これはナジラネの果実というものです。<line-break>これを持つと、沈黙状態になるので<line-break>注意してください。<line-break><line-break>また、これはかなり危険なものなので、<line-break>捨てるなら元のところへ返してください。<line-break>それが冒険者の心得というものです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冒険者ギルド<end>"
+english = "This is Najirane Fruit. Be careful: carrying it inflicts Silence. It is also quite dangerous, so if you discard it, return it to where you found it. That is the adventurer's code. ―Adventurers' Guild<end>"
+
+["1550035"]
+japanese = "これはノロガメというものです。<line-break>これを持つと、呪い状態になるので<line-break>注意してください。<line-break><line-break>また、これはかなり危険なものなので、<line-break>捨てるなら元のところへ返してください。<line-break>それが冒険者の心得というものです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冒険者ギルド<end>"
+english = "This is Norogame. Be careful: carrying it inflicts Curse. It is also quite dangerous, so if you discard it, return it to where you found it. That is the adventurer's code. ―Adventurers' Guild<end>"
+
+["1550036"]
+japanese = "風精の結晶を採りますか？<end>"
+english = "Take the Wind Spirit Crystal?<end>"
+
+["1550037"]
+japanese = "風旅鳥の羽を採りますか？<end>"
+english = "Take the Windfarer Feather?<end>"
+
+["1550038"]
+japanese = "タレモルゲの汽水を採りますか？<end>"
+english = "Take the Taremorge Brackish Water?<end>"
+
+["1550039"]
+japanese = "コカゲキノコを採りますか？<end>"
+english = "Take the Shade Mushroom?<end>"
+
+["1550040"]
+japanese = "コロル石を採りますか？<end>"
+english = "Take the Korol Stone?<end>"
+
+["1550041"]
+japanese = "土精の結晶を採りますか？<end>"
+english = "Take the Earth Spirit Crystal?<end>"
+
+["1550042"]
+japanese = "サマシごけを採りますか？<end>"
+english = "Take the Samashi Moss?<end>"
+
+["1550043"]
+japanese = "オッポスの岩を採りますか？<end>"
+english = "Take the Oppos Rock?<end>"
+
+["1550044"]
+japanese = "七色の砂を採りますか？<end>"
+english = "Take the Seven-Colored Sand?<end>"
+
+["1550045"]
+japanese = "ハッケエの滴を採りますか？<end>"
+english = "Take the Hakkee Droplet?<end>"
+
+["1550046"]
+japanese = "蒼風花を採りますか？<end>"
+english = "Take the Azure Windflower?<end>"
+
+["1550047"]
+japanese = "火草の種を採りますか？<end>"
+english = "Take the Firegrass Seed?<end>"
+
+["1550048"]
+japanese = "聖光石のかけらを採りますか？<end>"
+english = "Take the Holy Light Stone fragment?<end>"
+
+["1550049"]
+japanese = "炎竜岩を採りますか？<end>"
+english = "Take the Flame Dragon Rock?<end>"
+
+["1550050"]
+japanese = "風桜の実を採りますか？<end>"
+english = "Take the Windcherry Fruit?<end>"
+
+["1550051"]
+japanese = "風気岩を採りますか？<end>"
+english = "Take the Windstone?<end>"
+
+["1550052"]
+japanese = "闇中花を採りますか？<end>"
+english = "Take the Darkbloom?<end>"
+
+["1550053"]
+japanese = "風精の結晶を捨てますか？<end>"
+english = "Discard the Wind Spirit Crystal?<end>"
+
+["1550054"]
+japanese = "風旅鳥の羽を捨てますか？<end>"
+english = "Discard the Windfarer Feather?<end>"
+
+["1550055"]
+japanese = "タレモルゲの汽水を捨てますか？<end>"
+english = "Discard the Taremorge Brackish Water?<end>"
+
+["1550056"]
+japanese = "コカゲキノコを捨てますか？<end>"
+english = "Discard the Shade Mushroom?<end>"
+
+["1550057"]
+japanese = "コロル石を捨てますか？<end>"
+english = "Discard the Korol Stone?<end>"
+
+["1550058"]
+japanese = "土精の結晶を捨てますか？<end>"
+english = "Discard the Earth Spirit Crystal?<end>"
+
+["1550059"]
+japanese = "サマシごけを捨てますか？<end>"
+english = "Discard the Samashi Moss?<end>"
+
+["1550060"]
+japanese = "オッポスの岩を捨てますか？<end>"
+english = "Discard the Oppos Rock?<end>"
+
+["1550061"]
+japanese = "七色の砂を捨てますか？<end>"
+english = "Discard the Seven-Colored Sand?<end>"
+
+["1550062"]
+japanese = "ハッケエの滴を捨てますか？<end>"
+english = "Discard the Hakkee Droplet?<end>"
+
+["1550063"]
+japanese = "蒼風花を捨てますか？<end>"
+english = "Discard the Azure Windflower?<end>"
+
+["1550064"]
+japanese = "火草の種を捨てますか？<end>"
+english = "Discard the Firegrass Seed?<end>"
+
+["1550065"]
+japanese = "聖光石のかけらを捨てますか？<end>"
+english = "Discard the Holy Light Stone fragment?<end>"
+
+["1550066"]
+japanese = "炎竜岩を捨てますか？<end>"
+english = "Discard the Flame Dragon Rock?<end>"
+
+["1550067"]
+japanese = "風桜の実を捨てますか？<end>"
+english = "Discard the Windcherry Fruit?<end>"
+
+["1550068"]
+japanese = "風気岩を捨てますか？<end>"
+english = "Discard the Windstone?<end>"
+
+["1550069"]
+japanese = "闇中花を捨てますか？<end>"
+english = "Discard the Darkbloom?<end>"

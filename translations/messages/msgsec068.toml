@@ -1,0 +1,65 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["680000"]
+japanese = "<select><value:$20>%5わしが若いころは、キャプテン・カンダカンと<line-break>暴れ回ったものよ。じゃが、カンダカンが<line-break>死んで、昔の勢いはなくなってしもうた。<end>カンダカンは海洋冒険者共同体として<line-break>ワッシャー海賊を結成したんじゃよ。<line-break>じゃから、わしらの本業は宝探しなんじゃ<end>冒険で得た金で船を買ったカンダカンは、<line-break>自分を慕う冒険者やアウトローを引き連れ<line-break>この地に砦を築いたのじゃ。<end>最初は１４人しかいなかった住人も\u3000<line-break>カンダカンがスカウトしてきたり、<line-break>あんたみたいに未開の森をこえてきた<line-break>強者が住み着いたりして、<line-break>今じゃ３００人をこえちまった。<end>わしは、ある隠れ里の出身でな、<line-break>カンダカンに会うまではバロルに仕え<line-break>スパイをしておったのじゃ。<end>"
+english = "<select><value:$20>%5In my younger days, Captain Kandakan and I raised hell together. But since Kandakan died, we've lost our old fire.<end>Kandakan founded the Washer Pirates as a fellowship of seafaring adventurers. Treasure hunting is our true trade.<end>Kandakan bought a ship with the money from those adventures, gathered adventurers and outlaws who looked up to Kandakan, and built this fort.<end>There were only fourteen people here at first. Then Kandakan began recruiting, and hardy souls like you crossed the Uncharted Forest and settled here. Now there are more than three hundred of us.<end>I come from a hidden village. Before I met Kandakan, I served Balor as a spy.<end>"
+
+["680001"]
+japanese = "こっから先は進入禁止なんだよ。<line-break>部外者は、あんまりうろちょろしないで<line-break>欲しいんだけどね。<end>"
+english = "You're not allowed past here. I'd rather outsiders didn't wander around too much.<end>"
+
+["680002"]
+japanese = "<select><value:$20>%4キャプテンが亡くなって、一番つらいのは<line-break>ヒルダリアだよ。だけど、あの娘は<line-break>私らの生活を守るために一生懸命さ。<line-break>泣きたいくらいつらいこともあるだろうに、<line-break>キャプテンの葬式以来、涙を流すことも<line-break>なくなってしまってね。<end>カンダカンはワンマンでねえ。<line-break>何でもかんでも自分でやるもんだから、<line-break>他の人間は命令を聞くだけでよかったのさ。<line-break>おかげでヒルダリアを補佐できるような<line-break>人がいないってわけさ。<end>この砦には貧富の差はないよ。<line-break>なんせ辺境の地だから、みんなで助け合わないと<line-break>生きていけないからね。<end>わしゃあワッシャーを、自由で差別ものうて<line-break>人が人らしゅう暮らせる国にしたいんよ。<line-break>じゃけえ、あんたもがんばりんさいよ。<line-break>カンダカンの真似だよ。<line-break>変な話し方だよねえ。<end>"
+english = "<select><value:$20>%4No one has suffered more from the Captain's death than Hildaria. Even so, she's doing everything she can to protect our way of life. There must be times when it hurts enough to make her cry, but she hasn't shed a tear since the Captain's funeral.<end>Kandakan ran everything alone, handling every last thing while everyone else simply followed orders. That's left us with no one capable of supporting Hildaria.<end>There are no rich or poor in this fort. We're out on the frontier; if we don't help one another, we won't survive.<end>I want Washer to be a free country without discrimination, where people can live with dignity. So you do your best too, you hear? That was my Kandakan impression. Strange way of talking, isn't it?<end>"
+
+["680003"]
+japanese = "あんた、まだ俺たちの仲間じゃないよな。<line-break>ここから先は、よそ者に行かせるわけには<line-break>いかねえんだ。どっかよそに行ってくれ。<end>"
+english = "You're not one of us yet, are you? We can't let outsiders go any farther. Go somewhere else.<end>"
+
+["680004"]
+japanese = "<select><value:$20>%3すべての人に食を与えよ！<line-break>それが師匠の遺言だった。<line-break>ゆえに私は、すべての人に食を与えるのだ！！<end>食べたい料理があれば遠慮なく言ってくれ。<line-break>食べたいときに食べたいものを！<line-break>それがカンダカンとの約束だ。<end>そろそろ調味料がなくなるな。<line-break>ヒルダリアに調達するよう頼んで<line-break>おかなくては…。<end>"
+english = "<select><value:$20>%3“Feed every person!” Those were my master's dying words. And so I shall feed every person!<end>If there's any dish you'd like, don't hesitate to ask. Whatever you want, whenever you want it! That was my promise to Kandakan.<end>We're nearly out of seasonings. I must ask Hildaria to procure more...<end>"
+
+["680005"]
+japanese = "<select><value:$20>%2サラドの料理はうまい。<line-break>腹一杯食べて力いっぱい働く所存。<end>ここはみんなが使う場所。<line-break>壊れたところはすぐに直す。<line-break>これが俺の仕事。<end>"
+english = "<select><value:$20>%2Sarado's cooking is good. I intend to eat my fill and work with all my strength.<end>Everyone uses this place. If something breaks, I fix it at once. That's my job.<end>"
+
+["680006"]
+japanese = "<select><value:$20>%3め～し！\u3000め～し！\u3000め～し！<end>みんなが来ないと飯にならないよ～。<line-break>早く来いよ～。<end>サラドの料理はうますぎるよ～。<line-break>あんなに食べたのに、<line-break>すぐ食べたくなっちゃう～。<end>"
+english = "<select><value:$20>%3Fooood! Fooood! Fooood!<end>We can't eat until everyone gets here! Hurry uuuup!<end>Sarado's cooking is too gooood! I ate all that, and I already want more!<end>"
+
+["680007"]
+japanese = "<select><value:$20>%3サラドをスカウトしてきた先代の舌に<line-break>間違いはなかった～よ～。<line-break>先代は偉大ね～。<end>ヒルダリアの姉御はおっかね～の～。<line-break>お仕置きされるのイヤな～の～。<end>海賊するのは恐い～の～。<line-break>昔みたいに宝探しをしたい～の～。<end>"
+english = "<select><value:$20>%3The old Captain knew good food when it came along. Recruiting Sarado proved it! What a great Captain!<end>Boss Hildaria is scaaary! I don't want her to punish meee!<end>Being a pirate is scaaary! I want to hunt for treasure like we used tooo!<end>"
+
+["680008"]
+japanese = "<select><value:$20>%4普通の船乗りは危険を恐れるが、<line-break>俺たちは海の冒険者だ。<line-break>冒険に危険はつきもの、恐れはしない。<end>フゴーは先代に珍品を売ってもらえなかった<line-break>腹いせに、我々の船が各地の港に<line-break>入港できないようにした。<line-break>だから、必要な物資はフゴーの交易船から<line-break>いただくことにしているのだ。<end>ヒルダリアもがんばっているが、<line-break>先代には到底およばない。<line-break>やはり冒険の素人にキャプテンは無理だろう。<end>先代と一緒に西の海を冒険していたころは、<line-break>毎日が充実していたものだ。<line-break>あんたなら、俺の気持ちもわかるだろ？<end>"
+english = "<select><value:$20>%4Ordinary sailors fear danger, but we are adventurers of the sea. Danger is part of any adventure. We do not fear it.<end>Hugo retaliated when the old Captain wouldn't sell him any rare goods, arranging for our ships to be barred from ports everywhere. That is why we take the supplies we need from Hugo's merchant vessels.<end>Hildaria is doing her best, but she cannot begin to compare with the old Captain. A novice adventurer simply cannot serve as Captain.<end>When I was exploring the western seas with the old Captain, every day felt worthwhile. You know what I mean, don't you?<end>"
+
+["680009"]
+japanese = "<select><value:$20>%4わしは泳げぬから、船に乗るのは無理じゃ。<line-break>だからこうして船大工をしておるのじゃ。<end>わしが船の整備を怠けると、<line-break>仲間の命に関わるからのう。<line-break>いつも真剣勝負なのじゃ。<end>あのような巨大な物が海に浮く…。<line-break>船とは本当に不思議な物じゃ。<end>グレイシール号も傷みが激しくなってきた。<line-break>そろそろ新しい船を造ったほうが<line-break>いいかもしれぬな。<end>"
+english = "<select><value:$20>%4I cannot swim, so going to sea aboard a ship is out of the question. That is why I work as a shipwright.<end>If I neglect the ships, my comrades' lives are at stake. I must give the work my full attention every time.<end>To think something so enormous can float upon the sea... Ships truly are wondrous things.<end>The Gray Seal is showing a great deal of wear. It may be time to build a new ship.<end>"
+
+["680010"]
+japanese = "おう！\u3000あんたよそ者だろ。<line-break>ここから先はオイラたちの領域だ！<line-break>悪いが通すわけにはいかないね。<end>"
+english = "Hey! You're an outsider, aren't you? From here on, you're in our territory! Sorry, but I can't let you through.<end>"
+
+["680011"]
+japanese = "<select><value:$20>%3ヒルダリアには悪いが、<line-break>彼女は冒険者の心を理解してない。<line-break>俺たちは海賊じゃない！\u3000冒険者なんだ！<end>生きるためにフゴーの船を襲うのは納得できる。<line-break>だが海賊を中心に活動して、冒険をしないのは<line-break>絶対に納得できぬのだ！<end>キャプテンは偉大な人だった。<line-break>冒険者としても、指導者としても<line-break>尊敬しているよ。<end>"
+english = "<select><value:$20>%3No offense to Hildaria, but she doesn't understand how adventurers feel. We're not pirates! We're adventurers!<end>I can accept raiding Hugo's ships to survive. But I will never accept making piracy our main pursuit and abandoning adventure altogether!<end>The Captain was a great person and earned my respect as both an adventurer and a leader.<end>"
+
+["680012"]
+japanese = "なんじゃい、もう出てってしまうんかい。<line-break>もうちょい、ゆっくりしていけばええのにのう。<line-break>ほんじゃあ、船を出す準備をするかいのう。<end>"
+english = "What, leaving already? You could stay and take it easy a while longer. Well, I suppose I'd better get the boat ready.<end>"
+
+["680013"]
+japanese = "砦から出る<end>"
+english = "Leave the fort<end>"
+
+["680014"]
+japanese = "砦から出ない<end>"
+english = "Stay at the fort<end>"
+
+["680015"]
+japanese = "ワッシャーメッセージここまで<end>"
+english = ""

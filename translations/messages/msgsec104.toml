@@ -1,0 +1,985 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1040000"]
+japanese = "クリュセイスメッセージＶ３－１用開始<end>"
+english = ""
+
+["1040001"]
+japanese = "<value:$28>様ですね。<line-break>どうぞ、お通りください。<end>"
+english = "<value:$28>, I presume. Please, go on in.<end>"
+
+["1040002"]
+japanese = "（…な、何だ…？<line-break>\u3000なんだか、体が浮いてるような…。）<end>"
+english = ""
+
+["1040003"]
+japanese = "剣闘士<value:$28>、<line-break>もう試合の時間ですよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>さっきから観客は興奮しっぱなしです。<line-break>さあ、早く天武陣の方へ！<end>"
+english = ""
+
+["1040004"]
+japanese = "お、ちょうどよかった。<line-break>ちょっと頼まれてくれないかな？<line-break>\u3000<end>"
+english = "Oh, perfect timing. Could I ask you to do me a small favor?<end>"
+
+["1040005"]
+japanese = "これなんだけどな。<line-break>ロティ・クロイスさんの屋敷に\u3000<line-break>届けてほしいんだ。<line-break>町の中で片付く届けものを<line-break>頼まれるなんて珍しいんだが…。<line-break>どうだ、引き受けてくれないか？<end>"
+english = "I'd like you to deliver this to Roti Krois's estate. I don't often get asked to handle a delivery that stays within town... What do you say? Will you take it?<end>"
+
+["1040006"]
+japanese = "お安いご用<end>"
+english = "No problem.<end>"
+
+["1040007"]
+japanese = "かったるいな<end>"
+english = "Sounds like a pain.<end>"
+
+["1040008"]
+japanese = "こんな話は普通受けないんだが、<line-break>この町の有力な武器商人の依頼でな。\u3000<line-break>断るに断れなかったんだよ。<line-break>クロイス邸のある居住区は<line-break>ここから広場を突っ切ってすぐの所だ。<line-break>散歩がてら、よろしく頼むよ。<end>"
+english = "I don't usually accept jobs like this, but the request came from a prominent arms merchant in town. I couldn't very well turn it down. The Krois estate is in the residential district, just across the square from here. Think of it as a stroll. I'm counting on you.<end>"
+
+["1040009"]
+japanese = "そりゃあ、そうだよな。<line-break>普通こんな話は受けないんだがな。\u3000\u3000<line-break>いや、悪かったな。他を当たるよ。<end>"
+english = "Fair enough. I don't normally accept jobs like this either. Sorry to bother you. I'll ask someone else.<end>"
+
+["1040010"]
+japanese = "何かご用ですか？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>ロティ様に届けもの？<line-break>そうですか、それはわざわざ<line-break>ご苦労さまでした。<end>"
+english = "Can I help you? You have a delivery for Master Lottie? I see. Thank you for coming all this way.<end>"
+
+["1040011"]
+japanese = "確かに受け取りました。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>ところで…、なんですかこれは？<line-break>重さからすると水のようですが…。<line-break>きっと、お酒か何かですね。<end>"
+english = "I've received it. By the way... what is this? Judging by the weight, it seems to be water. Probably liquor or something.<end>"
+
+["1040012"]
+japanese = "おや？\u3000差出人の名前がない…。\u3000<line-break>まあたぶん、中にカードでも<line-break>入っているのでしょうね。<end>"
+english = "Oh? There's no sender's name... Well, I expect there's a card inside.<end>"
+
+["1040013"]
+japanese = "残念だよ、<value:$28>君。<line-break>これほど仕事が遅いとは…。<line-break>手紙は別の者に届けてもらった。<line-break>もっとできる冒険者だと<line-break>思っていたのだが…。<end>"
+english = "I'm disappointed, <value:$28>. I never thought you'd take this long. I had someone else deliver the letter. I thought you were a more capable adventurer.<end>"
+
+["1040014"]
+japanese = "クリュセイス様の手紙を\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>届けてくれたようだな。<line-break>\u3000<line-break>助かるよ。ああいう仕事に<line-break>慣れている人材が、解放軍には少ない。<line-break>これからも協力よろしく頼むよ。<end>"
+english = "It seems you delivered Lady Khryuseis's letter. Thank you. The Liberation Army has few people experienced in that sort of work. I hope we can continue to count on your help.<end>"
+
+["1040015"]
+japanese = "早く届けてくれ。<line-break>重要な手紙なんだ。\u3000\u3000\u3000\u3000<end>"
+english = "Deliver it quickly. It's an important letter.<end>"
+
+["1040016"]
+japanese = "クリュセイス様からの手紙か。<line-break>ご苦労だった。少し待ってもらえるか。<line-break>我々が読んだあと、他に運んでほしいのだ。<end>"
+english = "A letter from Lady Khryuseis? Well done. Could you wait a moment? Once we've read it, we'd like you to take it elsewhere.<end>"
+
+["1040017"]
+japanese = "待たせたな。次はロセン支部に<line-break>クリュセイス様の手紙を持っていってくれ。<line-break>支部はロセンの南に２日行った所にある。<end>"
+english = "Sorry to keep you waiting. Now take Lady Khryuseis's letter to the Rocen branch. It's two days south of Rocen.<end>"
+
+["1040018"]
+japanese = "残念だよ、<value:$28>君。<line-break>これほど仕事が遅いとは…。<line-break>手紙は別の者に届けてもらった。<line-break>もっとできる冒険者だと<line-break>思っていたのだが…。<end>"
+english = "I'm disappointed, <value:$28>. I never thought you'd take this long. I had someone else deliver the letter. I thought you were a more capable adventurer.<end>"
+
+["1040019"]
+japanese = "クリュセイス様の手紙を\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>届けてくれたようだな。<line-break>\u3000<line-break>助かるよ。ああいう仕事に<line-break>慣れている人材が、解放軍には少ない。<line-break>これからも協力よろしく頼むよ。<end>"
+english = "It seems you delivered Lady Khryuseis's letter. Thank you. The Liberation Army has few people experienced in that sort of work. I hope we can continue to count on your help.<end>"
+
+["1040020"]
+japanese = "早く届けてくれ。<line-break>重要な手紙なんだ。\u3000\u3000\u3000\u3000<end>"
+english = "Deliver it quickly. It's an important letter.<end>"
+
+["1040021"]
+japanese = "クリュセイス様からの手紙か。<line-break>ご苦労だった。少し待ってもらえるか。<line-break>我々が読んだあと、他に運んでほしいのだ。<end>"
+english = "A letter from Lady Khryuseis? Well done. Could you wait a moment? Once we've read it, we'd like you to take it elsewhere.<end>"
+
+["1040022"]
+japanese = "待たせたな。では、この手紙を<line-break>クリュセイス様のもとに返してくれ。<line-break>それで、任務完了だ。<end>"
+english = "Sorry to keep you waiting. Now return this letter to Lady Khryuseis. That will complete the mission.<end>"
+
+["1040023"]
+japanese = "まったくどういうつもりなんだ！<line-break>だいたい、あの手紙の内容を<line-break>私は知らんぞ。<end>"
+english = "What in the world are you thinking? I don't even know what that letter says!<end>"
+
+["1040024"]
+japanese = "ロセンのカルラ軍の動向を<line-break>記した文章です。<end>"
+english = "It's a report on the movements of Karula's Army in Rocen.<end>"
+
+["1040025"]
+japanese = "重要な文書ではないか！\u3000\u3000\u3000\u3000\u3000<line-break>それを<value:$28>に任せるなど。<line-break>\u3000<line-break>クリュセイス、何を考えている？<line-break>あいつはお前の父の仇なのだぞ！<end>"
+english = "Then it's an important document! And you entrusted it to <value:$28>? Khryuseis, what are you thinking? That's the one who killed your father!<end>"
+
+["1040026"]
+japanese = "…わかっています。<line-break>ですが…。<end>"
+english = "I know. But...<end>"
+
+["1040027"]
+japanese = "まさか、他に犯人がいるなどとは<line-break>考えていないだろうな？<end>"
+english = "Surely you don't think someone else did it?<end>"
+
+["1040028"]
+japanese = "空メッセージ<end>"
+english = ""
+
+["1040029"]
+japanese = "…<value:$28>のこと、<line-break>少し調べさせました。<end>"
+english = "I had someone look into <value:$28>.<end>"
+
+["1040030"]
+japanese = "なんだと？<end>"
+english = "What did you say?<end>"
+
+["1040031"]
+japanese = "冒険者としての評判は、\u3000\u3000\u3000\u3000<line-break>悪くありませんでした。<line-break>\u3000<line-break>それに、闘技場での戦い…。<line-break>あの場所であれだけ戦える人が、<line-break>毒などという方法で…<end>"
+english = "The adventurer's reputation wasn't bad. And then there was that fight in the arena... Someone who could fight that well, resorting to poison...<end>"
+
+["1040032"]
+japanese = "落ち着け、クリュセイス！<line-break>そんな理由で、<line-break>奴の容疑が晴れるものか！<end>"
+english = "Get hold of yourself, Khryuseis! That's hardly enough to clear that scoundrel of suspicion!<end>"
+
+["1040033"]
+japanese = "<value:$28>様が、お見えです。<end>"
+english = "<value:$28> is here to see you.<end>"
+
+["1040034"]
+japanese = "わかりました。通しなさい。<end>"
+english = "Very well. Show the visitor in.<end>"
+
+["1040035"]
+japanese = "…ちっ！<end>"
+english = "Tch!<end>"
+
+["1040036"]
+japanese = "仕方あるまい…。<end>"
+english = "No choice, then...<end>"
+
+["1040037"]
+japanese = "どこで何をしていたのか\u3000\u3000\u3000\u3000<line-break>知らないけど…。<line-break>二流以下の仕事だわ。<line-break>手紙はもう１通書いて、<line-break>他の者に運んでもらいました。<line-break>その手紙は、返してもらうわね。<end>"
+english = "I don't know where you went or what you were doing, but this was second-rate work at best. I wrote another letter and had someone else deliver it. I'll have the first letter back now.<end>"
+
+["1040038"]
+japanese = "さて、解放軍は、しばらくの間<line-break>カルラ軍の出方を見守りつつ、<line-break>戦力の充実をはかります。<line-break>カルラ軍は<line-break>まだ動く気配がないようだから、<line-break>我々もうかつには動けないわ。<end>"
+english = "For the time being, the Liberation Army will watch Karula's Army and strengthen our forces. They show no sign of moving yet, so we cannot afford to act rashly either.<end>"
+
+["1040039"]
+japanese = "そうよ、運んでもらった手紙には、<line-break>今話した内容が書かれていたの。<line-break>\u3000<line-break>人手不足は相変わらずだから、<line-break>また、こういう伝令を<line-break>頼むかもしれないわ。<end>"
+english = "Yes, the letter I had delivered contained what I just told you. We're still short-handed, so I may ask you to carry another message like this.<end>"
+
+["1040040"]
+japanese = "今度は一流の仕事を見せてほしいわね。<line-break>近い内に、<line-break>またここに来てちょうだい。<end>"
+english = "Next time, I hope you'll show me first-rate work. Come back here again soon.<end>"
+
+["1040041"]
+japanese = "さすがね、<value:$28>。<line-break>でも、このくらい当然のことだわ。<end>"
+english = "Just what I'd expect from you, <value:$28>. Though this much should be a matter of course.<end>"
+
+["1040042"]
+japanese = "そうよ、運んでもらった手紙には、<line-break>今話した内容が書かれていたの。<line-break>\u3000<line-break>また、こういう伝令を<line-break>頼むかもしれないわ。<end>"
+english = "Yes, the letter I had delivered contained what I just told you. I may ask you to carry another message like this.<end>"
+
+["1040043"]
+japanese = "近い内に、<line-break>またここに来てちょうだい。<end>"
+english = "Come back here again soon.<end>"
+
+["1040044"]
+japanese = "手紙は届けたのかしら？\u3000\u3000\u3000\u3000\u3000<line-break>本部のあとは、ロセン支部にも<line-break>行ってもらうことになるはずよ。<line-break>こんなところに顔を出すより、<line-break>手紙を運ぶのが優先ではなくて？<line-break>怠慢な仕事ぶりは、許さないわよ。<end>"
+english = "Have you delivered the letter? After headquarters, you'll likely have to go to the Rocen branch as well. Shouldn't delivering it take priority over showing your face here? I will not tolerate such negligence.<end>"
+
+["1040045"]
+japanese = "さあ、早く行きなさい！<end>"
+english = "Now hurry up and go!<end>"
+
+["1040046"]
+japanese = "ちょっと待ちな！\u3000\u3000\u3000<line-break>あんたが持ってる手紙、<line-break>いただくぜ！<end>"
+english = "Hold it right there! I'll be taking that letter you've got!<end>"
+
+["1040047"]
+japanese = "<if><value:$01><equal>2なぜ手紙を持っていると<line-break>知っているの？<line-break> <line-break>…とにかく、<line-break>先を急ぎましょう。 <end><if><value:$01><equal>3こやつら、なぜわしらが<line-break>手紙を持っていると<line-break>知っておるのだ？<line-break>…いずれしろ、<line-break>先を急ぐとしよう。 <end><if><value:$01><equal>4んー、なんで手紙持ってるって<line-break>知ってるんだろう？<line-break>\u3000<line-break>ま、そんなことどうでもいいかな。<line-break>先を急いだ方がいいみたい。 <end><if><value:$01><equal>5こいつら、なんで俺たちが<line-break>手紙を運んでること<line-break>知ってたんだよ。\u3000<line-break>ま、今はそれどころじゃないか。<line-break>先を急ごうぜ。 <end><if><value:$01><equal>6この人たち、<line-break>手紙を運んでることを<line-break>なんで知ってるんだろう？<line-break>あ、今はそれどころじゃないよね。<line-break>先を急ごう。 <end><if><value:$01><equal>13…妙だな、こいつら。<line-break>なぜ手紙のことを<line-break>知っている…？<line-break>…何かにおうが、<line-break>今は先を急ぐとするか。 <end><if><value:$01><equal>10おっかしいなぁ。<line-break>なんで俺たちが<line-break>手紙を運んでること知ってんだ？<line-break>ま、いっか。<line-break>先を急ごうぜ。 <end><if><value:$01><equal>14こやつら、なぜわしらが<line-break>手紙を持っていると<line-break>知っておるのだ？<line-break>…まぁ、よいか。<line-break>先を急ぐとしよう。 <end><if><value:$01><equal>15僕たちが手紙を運んでいることを<line-break>知っていた…。<line-break>なんでだろう…？<line-break>あ、今は手紙を届けることが<line-break>優先だったね。<line-break>先を急ごう。 <end><if><value:$01><equal>17なんなのよー、こいつらは！<line-break>どうして、アタクシたちが<line-break>手紙を持っているって知ってるのよー！<line-break>まぁ、よくてよ。あの下等な連中が<line-break>どういう根拠で襲ってこようが<line-break>今は手紙を届ければそれで十分だわ！ <end><if><value:$01><equal>19この人たち、<line-break>なんで手紙のこと<line-break>知ってるんだろう…？<line-break>あ、でも今は<line-break>急いで手紙を届けないとダメだよね。<line-break>急ごう、<value:$28>。 <end><if><value:$01><equal>20手紙のことを<line-break>知っている…。<line-break>妙だな。<line-break>…まぁ、いい。<line-break>先を、急げ。 <end><if><value:$01><equal>11おかしい…<line-break>なぜ手紙のことを<line-break>知っているの？<line-break>とにかく先を急ぎましょう。<end><if><value:$01><equal>26なぜわしらが手紙を持っていると<line-break>知っているのじゃ？<line-break>\u3000<line-break>…先を急ぐとしよう。 <end><if><value:$01><equal>193どうしてこの人たち<line-break>私たちが手紙を持っているのを<line-break>知っていたんでしょう？<line-break>ちょっと怪しいですけど…<line-break>とりあえず先に手紙を届けましょう。<end><if><value:$01><equal>191<value:$28>。<line-break>なぜ手紙のことを知ってたんだと思う？<line-break>気にならない？<line-break>でも、考えていても始まらないか。<line-break>とりあえず手紙を届けましょ。<end>僕たちが手紙を運んでいることを<line-break>知っていた…。<line-break>変だね。<line-break>…どっちにしても、<line-break>今は早く手紙を届けないと。<line-break>急ごう、<value:$28>。 <end>"
+english = "<if><value:$01><equal>2How did they know about the letter? At any rate, we should keep moving.<end><if><value:$01><equal>3How did these scoundrels know we had the letter? No matter. Let us press on.<end><if><value:$01><equal>4Hmm. How did they know about the letter? Oh well, I suppose it doesn't matter. We'd better keep moving.<end><if><value:$01><equal>5How the hell did they know we were carrying the letter? Well, we've got more important things to worry about right now. Let's get moving.<end><if><value:$01><equal>6How did these people know about the letter? Oh, right. This isn't the time to worry about that. Let's keep moving.<end><if><value:$01><equal>13There's something strange about them. How did they know about the letter? Something about this stinks, but for now, we'd better press on.<end><if><value:$01><equal>10That's odd. How'd they know we were carrying the letter? Ah, who cares? Let's get moving.<end><if><value:$01><equal>14How did these scoundrels know we had the letter? Well, never mind. Let us press on.<end><if><value:$01><equal>15They knew we were carrying the letter. I wonder how. Oh, right. Delivering it comes first now. Let's hurry.<end><if><value:$01><equal>17What is with these wretches?! How did they know we had the letter?! Very well. Whatever reason that inferior rabble had for attacking us, all that matters now is delivering the letter!<end><if><value:$01><equal>19I wonder how these people knew about the letter... Oh, but we need to hurry and deliver it now, don't we? Let's hurry, <value:$28>.<end><if><value:$01><equal>20They knew about the letter. Strange. Never mind. Press on.<end><if><value:$01><equal>11Something's wrong. How did they know about the letter? In any case, we should hurry.<end><if><value:$01><equal>26How did they know we had the letter? Let us press on.<end><if><value:$01><equal>193How did those people know we had the letter? It seems a little suspicious, but let's deliver it first.<end><if><value:$01><equal>191<value:$28>, how do you think they knew about the letter? Aren't you curious? Still, there's no use dwelling on it. Let's deliver the letter first.<end>They knew we were carrying the letter. That's strange. Either way, we need to deliver it quickly. Come on, <value:$28>.<end>"
+
+["1040048"]
+japanese = "キャーッ！<end>"
+english = "Aah!<end>"
+
+["1040049"]
+japanese = "あ、<value:$28>！！<end>"
+english = "Oh, <value:$28>!<end>"
+
+["1040050"]
+japanese = "ちっ！<end>"
+english = "Damn!<end>"
+
+["1040051"]
+japanese = "た、助かったわ…。<end>"
+english = "Y-you saved me...<end>"
+
+["1040052"]
+japanese = "クリュセイス様！<line-break>どうしました？<end>"
+english = "Lady Khryuseis! What happened?<end>"
+
+["1040053"]
+japanese = "し、侵入者です。<line-break>おそらく私の命をねらったのでしょう。<line-break>今、出ていった男です。<end>"
+english = "A-an intruder. He was likely after my life. It was the man who just left.<end>"
+
+["1040054"]
+japanese = "え、本当ですか！？<line-break>も、申しわけありません！<line-break>しかし…、あの男は…。<end>"
+english = "What? Truly?! I-I'm terribly sorry! But... that man...<end>"
+
+["1040055"]
+japanese = "なんですか？<end>"
+english = "What about him?<end>"
+
+["1040056"]
+japanese = "いえ、あの男、アンティノ様のお屋敷で<line-break>見たことのある男でして、それで、<line-break>なんの警戒もしなかったのです。<end>"
+english = "Well, I had seen that man at Lord Antino's estate before, so I had no reason to be wary of him.<end>"
+
+["1040057"]
+japanese = "おじさまのお屋敷で見た？<line-break>何を言っているのです。<line-break>そんなはずは…<end>"
+english = "You saw him at Uncle's estate? What are you talking about? That can't be...<end>"
+
+["1040058"]
+japanese = "おじさまを疑えと言うの！？<line-break>言葉を慎みなさい！<line-break>おじさまの手の者のわけがないわ！<line-break>おじさまはお父様の親友です。<line-break>お父様が亡くなる前にもあとにも<line-break>わたくしたちを助けてくれたわ。<end>"
+english = "Are you saying I should suspect Uncle?! Mind what you say! That man couldn't possibly be one of Uncle's men! Uncle was my father's closest friend. He helped us before my father's death, and afterward as well.<end>"
+
+["1040059"]
+japanese = "そのおじさまが解放軍を裏切る…<line-break>いえ、わたくしを襲うようなマネを<line-break>するはずがありません。<line-break>解放軍の士気に関わります。<line-break>軽はずみな言動はつつしんで<line-break>いただきたいわ。おわかり？<end>"
+english = "Uncle, betray the Liberation Army...? No. He would never do anything like have me attacked. Such talk could damage the Liberation Army's morale. I must ask you to refrain from making careless remarks. Is that understood?<end>"
+
+["1040060"]
+japanese = "わ、わたくしはあなたのことを<line-break>責めているつもりではなくて、<line-break>ただ…<end>"
+english = "I-I didn't mean to blame you. I only...<end>"
+
+["1040061"]
+japanese = "では、我々も<line-break>屋敷周辺の警戒を強化いたします。<end>"
+english = "Then we will strengthen security around the estate as well.<end>"
+
+["1040062"]
+japanese = "…助けてもらったお礼も言わないで<line-break>あんな事を言うなんて…。<end>"
+english = "I said all that without even thanking you for saving me...<end>"
+
+["1040063"]
+japanese = "…でも、ありえないわ。<line-break>おじさまが、わたくしを襲うなど…。<end>"
+english = "But it can't be true. Uncle would never attack me...<end>"
+
+["1040064"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040065"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040066"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040067"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040068"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040069"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040070"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040071"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040072"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040073"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040074"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040075"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040076"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040077"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040078"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040079"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040080"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040081"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040082"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040083"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040084"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040085"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040086"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040087"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040088"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040089"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040090"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040091"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040092"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040093"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040094"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040095"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040096"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040097"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040098"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040099"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040100"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040101"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040102"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040103"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040104"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040105"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040106"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040107"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040108"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040109"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040110"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040111"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040112"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040113"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040114"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040115"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040116"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040117"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040118"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040119"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040120"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040121"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040122"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040123"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040124"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040125"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040126"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040127"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040128"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040129"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040130"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040131"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040132"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040133"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040134"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040135"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040136"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040137"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040138"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040139"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040140"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040141"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040142"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040143"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040144"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040145"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040146"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040147"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040148"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040149"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040150"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040151"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040152"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040153"]
+japanese = "ナイトメアの雫を奪われた。<end>"
+english = "The Nightmare Droplet was stolen.<end>"
+
+["1040154"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040155"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040156"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040157"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040158"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040159"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040160"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040161"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040162"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040163"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040164"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040165"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040166"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040167"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040168"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040169"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040170"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040171"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040172"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040173"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040174"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040175"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040176"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040177"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040178"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040179"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040180"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040181"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040182"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040183"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040184"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040185"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040186"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040187"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040188"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040189"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040190"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040191"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040192"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040193"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040194"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040195"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040196"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040197"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040198"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040199"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040200"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040201"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040202"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040203"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040204"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040205"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040206"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040207"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040208"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040209"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040210"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040211"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040212"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040213"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040214"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040215"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040216"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040217"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040218"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040219"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040220"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040221"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040222"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040223"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040224"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040225"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040226"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040227"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040228"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040229"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040230"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040231"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040232"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040233"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040234"]
+japanese = "空メッセージ・クリュセイスＶ３－１<end>"
+english = ""
+
+["1040235"]
+japanese = "ナイトメアの雫を奪われた。<end>"
+english = "The Nightmare Droplet was stolen.<end>"
+
+["1040236"]
+japanese = "クリュセイスに手紙を返した。<end>"
+english = "Returned the letter to Khryuseis.<end>"
+
+["1040237"]
+japanese = "予備メッセージ２<line-break>クリュセイス、ボリューム３その１<end>"
+english = ""
+
+["1040238"]
+japanese = "予備メッセージ３<line-break>クリュセイス、ボリューム３その１<end>"
+english = ""
+
+["1040239"]
+japanese = "予備メッセージ４<line-break>クリュセイス、ボリューム３その１<end>"
+english = ""
+
+["1040240"]
+japanese = "予備メッセージ５<line-break>クリュセイス、ボリューム３その１<end>"
+english = ""
+
+["1040241"]
+japanese = "予備メッセージ６<line-break>クリュセイス、ボリューム３その１<end>"
+english = ""
+
+["1040242"]
+japanese = "予備メッセージ７<line-break>クリュセイス、ボリューム３その１<end>"
+english = ""
+
+["1040243"]
+japanese = "予備メッセージ８<line-break>クリュセイス、ボリューム３その１<end>"
+english = ""
+
+["1040244"]
+japanese = "予備メッセージ９<line-break>クリュセイス、ボリューム３その１<end>"
+english = ""
+
+["1040245"]
+japanese = "クリュセイスメッセージ終端<end>"
+english = ""

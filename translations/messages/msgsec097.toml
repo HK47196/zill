@@ -1,0 +1,321 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["970000"]
+japanese = "ノエル２用メッセージＶ１開始<end>"
+english = ""
+
+["970001"]
+japanese = "おい、親父。オズワルドの町と<line-break>連絡が取れないって本当かよ？<end>"
+english = "Hey, old man. Is it true no one can get through to Oswald?<end>"
+
+["970002"]
+japanese = "ああ、本当だ。<line-break>ずいぶん前から音信不通なんだ。\u3000\u3000\u3000<line-break>\u3000<line-break>たしか、あんたオズワルドの<line-break>出身だったな。ちょうどいいから<line-break>あんたに…<end>"
+english = "Yeah, it's true. No one's heard from Oswald in quite a while. If I remember right, you're from there. That's convenient. I was going to ask you to...<end>"
+
+["970003"]
+japanese = "なんてこった。<line-break>こうしちゃいられないぜ！\u3000\u3000<line-break>\u3000<end>"
+english = "Damn it! I can't just stand around here!<end>"
+
+["970004"]
+japanese = "やれやれ、行っちまったか。<line-break>オズワルドのことを知ってるはずだから<line-break>調査を頼もうと思ってたんだが…。<end>"
+english = "Well, gone already, huh? I was going to ask someone from Oswald to investigate, since a local ought to know the town...<end>"
+
+["970005"]
+japanese = "ん？\u3000あんた、この前、\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>冒険者の登録をしてた<line-break><value:$28>だな？<line-break>今の話、聞いてただろう？<line-break>ノーブルの西にあるオズワルドの町と<line-break>連絡が取れないんだ。<end>"
+english = "Hm? You're <value:$28>, the one who was registering as an adventurer the other day, right? You heard all that, didn't you? There's been no contact with Oswald, the town west of Noble.<end>"
+
+["970006"]
+japanese = "それで、町のことを調査してくれって\u3000<line-break>いう依頼があるんだが、あんた<line-break>この仕事、やってみないか？<line-break>報酬は２０００ギアだ。<end>"
+english = "There's a request to investigate the town. Would you care to take the job? The reward is 2,000 Gea.<end>"
+
+["970007"]
+japanese = "やってみよう<end>"
+english = "Let's give it a try.<end>"
+
+["970008"]
+japanese = "今は忙しい<end>"
+english = "I'm busy right now.<end>"
+
+["970009"]
+japanese = "そうかい、それはありがたい。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>オズワルドの町は、ノーブルから<line-break>西に４日ほど行った所にある、<line-break>偽りの森の先にあるんだ。<end>"
+english = "Is that so? Much appreciated. Oswald lies beyond the Forest of Deceit, about four days west of Noble.<end>"
+
+["970010"]
+japanese = "森を抜けないと町には入れない。\u3000\u3000\u3000<line-break>気をつけて行ってくれよ。<line-break>\u3000<end>"
+english = "The only way into town is through the forest. Be careful out there.<end>"
+
+["970011"]
+japanese = "そう言わずに頼むよ。<line-break>この仕事で、この額だったら<line-break>他の冒険者は黙ってないぞ？\u3000\u3000\u3000\u3000\u3000<line-break>初心者のあんたには<line-break>ちょうどいい仕事なんじゃないか？<end>"
+english = "Come on, don't turn me down. At this price, plenty of other adventurers would jump at the job. Isn't it just right for a beginner like you?<end>"
+
+["970012"]
+japanese = "オズワルドの町は、<line-break>ノーブルの西にある偽りの森の先だ。<line-break>ちゃんと調べてきてくれよ？<end>"
+english = "Oswald lies beyond the Forest of Deceit, west of Noble. Make sure you investigate it thoroughly, all right?<end>"
+
+["970013"]
+japanese = "さぁ、ノエル。<line-break>そろそろ行くわよ。<line-break>いつまでもここにいたって仕方ないわ。<end>早くソウルイーターを見つけて<line-break>倒しちゃいましょ。そうすれば、<line-break>町のみんなが戻ってくるわ。<end>"
+english = "Come on, Noel. It's time we left. There's no point staying here forever.<end>Let's hurry up, find the Soul Eater, and kill it. Then everyone in town will come back.<end>"
+
+["970014"]
+japanese = "…でも、わたしにはそんな力が…。<end>"
+english = "But I don't have that kind of strength...<end>"
+
+["970015"]
+japanese = "あなた、誰？<line-break>…見かけない顔だわ。<line-break>この町の住民じゃないわね。<end>"
+english = "Who are you? I haven't seen you around before. You're not a resident of this town, are you?<end>"
+
+["970016"]
+japanese = "<value:$28>？<line-break>連絡が途絶えた町の調査に来た？<line-break>\u3000<line-break>…そう。<line-break>外にもこの町の異変が<line-break>伝わっていたのね。<end>"
+english = "<value:$28>? You came to investigate after contact with the town was lost? I see. So word of what happened here reached the outside.<end>"
+
+["970017"]
+japanese = "…もう、だいぶ前になるけど<line-break>この町の遺跡に封印されていた<line-break>ソウルイーターが復活したのよ。<line-break>ソウルイーター…。文字通り、<line-break>人の魂、ソウルを食べる魔物よ。<line-break>その封印が解かれてしまったの。<end>"
+english = "It was quite some time ago. The Soul Eater sealed in the ruins here returned. The Soul Eater... The name is literal: it's a monster that devours human souls. Its seal was broken.<end>"
+
+["970018"]
+japanese = "瞬く間に、町の住民は<line-break>ソウルを吸われて消えてしまったわ。<line-break>あたしたちの目の前で…。<line-break>無事だったのは<line-break>あたしたちふたりだけ。<line-break>旅の冒険者に助けられてね。<end>"
+english = "In moments, the Soul Eater drained the townspeople's souls, and they vanished before our eyes... We were the only two left unharmed. A traveling adventurer saved us.<end>"
+
+["970019"]
+japanese = "…わたしがいけないんです。<line-break>わたしがもっと<line-break>しっかりしていれば…。<end>"
+english = "It's my fault. If only I'd been more capable...<end>"
+
+["970020"]
+japanese = "ノエル！<end>"
+english = "Noel!<end>"
+
+["970021"]
+japanese = "わたし、少しくらい剣が使えるからって<line-break>いい気になってたんです！<line-break>この町は私がいれば大丈夫だって！<line-break>でも、全然ダメでした…。<line-break>何もできなかったんです。町のみんなが<line-break>目の前で消えていくのに、何も…！<end>"
+english = "I let it go to my head just because I knew how to use a sword! I thought the town would be safe as long as I was here! But I was useless... I couldn't do anything. Everyone was vanishing right before my eyes, and I couldn't do a thing!<end>"
+
+["970022"]
+japanese = "みんな、わたしのこと、<line-break>頼りにしてくれてたんです。\u3000\u3000\u3000<line-break>だからわたし…、<line-break>だからわたし、<line-break>みんなのために<line-break>戦わなければならなかったのに…！<end>"
+english = "Everyone was counting on me. That's why... that's why I was supposed to fight for them...!<end>"
+
+["970023"]
+japanese = "ノエル、やめなさい。<line-break>あなたは精一杯やったわ。<line-break>あなたにできる限りのことをね。<end>"
+english = "That's enough, Noel. You did your best. You did everything you could.<end>"
+
+["970024"]
+japanese = "この子の言うとおりよ。<line-break>一度失敗したからって<line-break>ただ泣いてるだけの方が問題だわ。\u3000<line-break>これから努力して、もっと強くなって、<line-break>そのあとでソウルイーターを倒せば<line-break>それでいいの。<end>"
+english = "That's right. Failing once isn't the problem. Sitting around crying about it would be. Work hard, grow stronger, and then defeat the Soul Eater. That's all you have to do.<end>"
+
+["970025"]
+japanese = "ソウルイーターを倒せば、<line-break>村のみんなの魂を取り戻せるって、<line-break>ナーシェスも言っていたじゃない。<end>"
+english = "Narscess said we'd get back the souls of everyone in the village if we defeated the Soul Eater, remember?<end>"
+
+["970026"]
+japanese = "でも…。<end>"
+english = "But...<end>"
+
+["970027"]
+japanese = "…そ、そうですよね。<line-break>くよくよしてちゃ<line-break>ダメなんですよね。<end>"
+english = "Y-you're right. I can't keep moping like this.<end>"
+
+["970028"]
+japanese = "これからいっぱい努力して<line-break>もっともっと剣を使えるようになって<line-break>みんなを助けてあげなくっちゃ。<end>"
+english = "I'll work hard and get much, much better with a sword. I have to save everyone.<end>"
+
+["970029"]
+japanese = "そうよ、ノエル。<line-break>ようやく、いつものあなたらしく\u3000\u3000<line-break>なってきたじゃない。<line-break>あなたのこと放っておけないからね、<line-break>あたしも一緒に行ってあげるわ。<line-break>さぁ、元気を出していきましょ。<end>"
+english = "That's right, Noel. Now you're finally starting to sound like yourself again. I can't just leave you on your own, so I'll come with you. Come on, cheer up. Let's go.<end>"
+
+["970030"]
+japanese = "ありがと。<line-break>あなたのおかげで、<line-break>ノエルも元気になってくれたわ。<line-break>あ、そういえば、<line-break>まだ名乗ってなかったわね。<line-break>私はカフィン。こっちはノエルよ。<end>"
+english = "Thanks. You helped Noel feel better. Oh, that's right, we haven't introduced ourselves yet. I'm Coffin, and this is Noel.<end>"
+
+["970031"]
+japanese = "<if><value:$29><equal>%0またどこかで会うかもしれないわね。<line-break>あなたのこと、覚えておくわ。<line-break>それじゃあね、ボウヤ。<end>またどこかで会うかもしれないわね。<line-break>あなたのこと、覚えておくわ。<line-break>それじゃあね、子猫ちゃん。<end>"
+english = "<if><value:$29><equal>%0Maybe we'll meet again somewhere. I'll remember you. See you around, boy.<end>Maybe we'll meet again somewhere. I'll remember you. See you around, kitten.<end>"
+
+["970032"]
+japanese = "さぁ、ノエル。<line-break>ナーシェスとレイヴンが<line-break>待ってるわ。行くわよ。<end>"
+english = "Come on, Noel. Narscess and Raven are waiting. Let's go.<end>"
+
+["970033"]
+japanese = "あ、あの…<value:$28>さん<line-break>…でしたっけ？<line-break>その…ありがとうございました。<line-break>あの、<value:$28>さんは<line-break>冒険者をされてるんですか？<end>"
+english = "Um... it was <value:$28>, wasn't it? Thank you. Um, are you an adventurer, <value:$28>?<end>"
+
+["970034"]
+japanese = "そうなんですか。<line-break><value:$28>さんも<line-break>がんばっているんですよね…。<end>"
+english = "Oh, I see. You're working hard too, aren't you, <value:$28>?<end>"
+
+["970035"]
+japanese = "ノエル、何をしているの？<line-break>ナーシェスたちを捜しに行くわよ。<end>"
+english = "Noel, what are you doing? We're going to find Narscess and the others.<end>"
+
+["970036"]
+japanese = "あ、カフィンが呼んでます。\u3000\u3000\u3000<line-break>わたし、行かなくちゃ。<line-break>\u3000<line-break>あの、わたしもがんばりますから、<line-break>それじゃあ。<end>"
+english = "Oh, Coffin's calling me. I have to go. Um... I'll do my best too. See you.<end>"
+
+["970037"]
+japanese = "フフフ。この町の住民は<line-break>もともと、あのお方への信仰が<line-break>あつかった。<line-break>それが、こうしてあのお方の<line-break>お役に立つことができたのだ。<line-break>本望というものだろう。<end>"
+english = "Heh heh heh. The people of this town were always deeply devoted to that person. And now they have been of service in this way. Surely they could have wished for no better end.<end>"
+
+["970038"]
+japanese = "…しかし、<line-break>彼女は傷ついている。<end>"
+english = "And yet... she is wounded.<end>"
+
+["970039"]
+japanese = "あの娘の目を開かせるためだ。\u3000<line-break>多少のショックを与えるのは<line-break>仕方のないこと。<line-break>無限のソウルを持つ者とはいえ、<line-break>眠ったままでは、宝の持ち腐れだ。<line-break>\u3000<end>"
+english = "It was necessary to open the girl's eyes. A measure of shock could not be avoided. Even the Bearer of the Infinite Soul is of no use while that power lies dormant.<end>"
+
+["970040"]
+japanese = "あの娘には強くなってもらわねば<line-break>ならない。そのためにも、<line-break>まずは舞台にあげてやらねばな。<line-break>すべてはこの世界の秩序を<line-break>守らんがためだ。<line-break>フフフ。<end>"
+english = "The girl must grow stronger. To that end, we must first put her upon the stage. All is done to preserve the order of this world. Heh heh heh.<end>"
+
+["970041"]
+japanese = "ん？\u3000この気配は…。<line-break>この町にも客がいたか。<end>"
+english = "Hm? This presence... So there was a visitor in this town as well.<end>"
+
+["970042"]
+japanese = "ほう…。これは…<line-break>フフ、そういうことか。<end>"
+english = "Oh...? This is... Heh. So that's it.<end>"
+
+["970043"]
+japanese = "…失礼するよ。<end>"
+english = "If you'll excuse me.<end>"
+
+["970044"]
+japanese = "<if><value:$01><equal>2ちょっと、<value:$28>。<line-break>どこに行くのよ。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>もう、調査は終わったの？<line-break>ちゃんと、町の全部を<line-break>見て回ったんでしょうね？ <end><if><value:$01><equal>4あれれ、<value:$28>、<line-break>もう、全部調べちゃったの？<line-break>さすが、<value:$28>だわ！ <end><if><value:$01><equal>5おい、<value:$28>。<line-break>どこ行くんだよ。<line-break>もう、全部見て回ったのか？ <end><if><value:$01><equal>6ちょっと、<value:$28>。<line-break>どこに行くの？<line-break>もう、全部見て回ったの？ <end><if><value:$01><equal>13<value:$28>。<line-break>もう、全部<line-break>回ったのか？ <end><if><value:$01><equal>10あれ、姉ちゃん、<line-break>もう終わったのか？ <end><if><value:$01><equal>14おい、<value:$28>。<line-break>もう調査は終わったのか？ <end><if><value:$01><equal>15あれ、<value:$28>、<line-break>もう町を全部見て回ったの？ <end><if><value:$01><equal>17ちょーーーーっと、<value:$28>！<line-break>このアタクシにこんなさびれた町を<line-break>調べさせておいてどこにいくつもり！？<line-break>もちろん、ぜんぶ、すべて、くまなく、<line-break>とことん、調べつくしたんでしょうね？<line-break>ま・さ・か、まだとは言わなくてよね？ <end><if><value:$01><equal>19あれれ、<value:$28>、<line-break>もう、町の中を全部回ったのぉ？ <end>あれれ、<value:$28>、<line-break>もう、町の中を全部回ったの？ <end>"
+english = "<if><value:$01><equal>2Wait, <value:$28>. Where are you going? Have you finished investigating already? You did look over the entire town, didn't you?<end><if><value:$01><equal>4Oh? <value:$28>, you've already investigated everything? That's <value:$28> for you!<end><if><value:$01><equal>5Hey, <value:$28>. Where are you going? Have you looked everywhere already?<end><if><value:$01><equal>6Wait, <value:$28>. Where are you going? Have you looked everywhere already?<end><if><value:$01><equal>13<value:$28>. Have you covered the whole town already?<end><if><value:$01><equal>10Huh, sis? Finished already?<end><if><value:$01><equal>14Hey, <value:$28>. Finished investigating already?<end><if><value:$01><equal>15Oh, <value:$28>. Have you looked all around town already?<end><if><value:$01><equal>17Juuust a moment, <value:$28>! After making me investigate this dreary little town, where do you think you're going!? Naturally, you've inspected absolutely every last inch of it, thoroughly and exhaustively. Surely you aren't about to tell me you haven't?<end><if><value:$01><equal>19Oh? <value:$28>, have you been all around town already?<end>Oh? <value:$28>, have you been all around town already?<end>"
+
+["970045"]
+japanese = "あらら、それじゃあ私と同じで<line-break>全然調べてないんだわ。ふたりとも<line-break>おさぼりさんなのね。きゃっ！<line-break>でも、それじゃあ<line-break>いつまでたっても帰れないかも！<line-break>どうしよっかな…<end>"
+english = "Oh dear, then you haven't investigated anything either! We've both been slacking off. Eek! But at this rate, we may never get to leave! What should I do...?<end>"
+
+["970046"]
+japanese = "やっぱり、<value:$28>が<line-break>調べ終わるまで、お散歩してよっと！<end>"
+english = "I've decided! I'll take a stroll until <value:$28> finishes investigating!<end>"
+
+["970047"]
+japanese = "<if><value:$01><equal>2ダメじゃない、ちゃんと見ないと。<line-break>ほら、もう一度行ってない所がないか、<line-break>確認してきなさい。<line-break>もう、ほんっとに<line-break>しょうがないんだから。 <end><if><value:$01><equal>5なんだよ、それじゃあ<line-break>まだ全部回ってないじゃないかよ。<line-break>\u3000<line-break>ちゃんと全部見てからじゃないと<line-break>仕事が終わらないぜ。<line-break>さぁ、早く戻れよ。 <end><if><value:$01><equal>6えぇ！？\u3000ちゃんと仕事しなくちゃ<line-break>ダメじゃない。\u3000ほら、もう少し<line-break>調べてみようよ。ボクも行くからさ。 <end><if><value:$01><equal>13帰るのは<line-break>全部調べてからだ。<line-break>早く戻って続けろ。 <end><if><value:$01><equal>10なんだよ、それじゃあ<line-break>全部回ってないじゃないか。<line-break>しっかりしてくれよ、姉ちゃん。<line-break>さぁ、さっさと戻って<line-break>一通り見てこようぜ。 <end><if><value:$01><equal>14なんじゃ、それではまだ<line-break>全部回ったわけじゃないんじゃな？\u3000<line-break>\u3000<line-break>それならまだ帰るわけにはいかんぞ。<line-break>さぁ、早く町に戻るんじゃ。 <end><if><value:$01><equal>15え？\u3000それじゃ、まだ全部<line-break>回ってないんじゃない。<line-break>\u3000<line-break>全部調べてからじゃないと<line-break>帰れないよ。さぁ、町に戻って<line-break>調査を続けないと。 <end><if><value:$01><equal>17なんてことかしら！\u3000このアタクシの<line-break>１億分の１も働いていなくてよ！<line-break>そんなこと、絶対に許さないわ！<line-break>さぁ、さっさと、直ちに、今すぐ<line-break>戻って、この町を調べてくるのよー！<line-break>アタクシはそれまで待っているわ！ <end><if><value:$01><equal>19えぇ！？\u3000それじゃ、まだ全部<line-break>行ってないんだ？\u3000ダメだよぉ、\u3000<line-break>ちゃんと見て回らないとぉ。<line-break>ルルアンタもちゃんと調べるからぁ、<line-break><value:$28>も、全部の場所に<line-break>行ってね。 <end>えぇ！？\u3000それじゃ、まだ全部<line-break>行ってないんじゃない。ダメだよ、\u3000<line-break>ちゃんと見て回らないと。<line-break>帰るのは全部回ってからにしようよ。<line-break>さぁ、早く戻って調査を続けよう！ <end>"
+english = "<if><value:$01><equal>2That's no good. You have to look properly. Go back and make sure there isn't anywhere you missed. Honestly, what am I going to do with you?<end><if><value:$01><equal>5What? Then you haven't been everywhere yet. The job isn't done until you've checked the whole town. Come on, get back there.<end><if><value:$01><equal>6What!? You have to do the job properly. Come on, let's investigate a little more. I'll come too.<end><if><value:$01><equal>13We're not leaving until we've investigated everything. Get back there and continue.<end><if><value:$01><equal>10What? Then you haven't been everywhere, sis. Get it together. Come on, let's hurry back and give the whole place a proper look.<end><if><value:$01><equal>14What? Then you have yet to cover the whole town. We cannot leave yet. Come, hurry back to town.<end><if><value:$01><equal>15What? Then you haven't been everywhere yet. We can't leave until we've investigated the whole town. Come on, we have to go back and keep looking.<end><if><value:$01><equal>17How appalling! You haven't done even one hundred-millionth as much work as I have! I absolutely will not allow it! Now march straight back this instant and investigate the town! I shall wait here until you're done!<end><if><value:$01><equal>19What!? Then you haven't been everywhere yet? That's no good. You have to look around properly. Lulluantha will investigate too, so make sure you visit every part of town, <value:$28>.<end>What!? Then you haven't been everywhere yet. That's no good. You have to look around properly. Let's not leave until we've covered the whole town. Come on, let's go back and keep investigating!<end>"
+
+["970048"]
+japanese = "…なぜだ？\u3000なんで、みんな<line-break>いなくなっちまったんだ？<line-break>…町の中は何も変わってないのに…。<end>"
+english = "Why...? Why has everyone disappeared? Nothing in town has changed...<end>"
+
+["970049"]
+japanese = "<if><value:$01><equal>2あ、<value:$28>。<line-break>誰かいるわよ。<line-break>行ってみましょう。 <end><if><value:$01><equal>4あ、<value:$28>。<line-break>誰かが何かして遊んでいる<line-break>みたいだわ。 <end><if><value:$01><equal>5おい、<value:$28>。<line-break>誰かいるぜ。 <end><if><value:$01><equal>6あ、<value:$28>。<line-break>見て、誰かいるよ。 <end><if><value:$01><equal>13…誰かいるぞ。 <end><if><value:$01><equal>10あ、姉ちゃん。<line-break>誰かいるぞ。 <end><if><value:$01><equal>14おい、<value:$28>。<line-break>誰かおるぞ。 <end><if><value:$01><equal>15あ、<value:$28>。<line-break>誰かいるよ。<line-break>行ってみようよ。 <end><if><value:$01><equal>17見なさい、<value:$28>。<line-break>いかにも低能そうな人間が<line-break>倒れていてよ。 <end><if><value:$01><equal>19あー！\u3000<value:$28>。<line-break>誰かいるよぉ。<line-break>行ってみよう。 <end>あ、<value:$28>。<line-break>誰かいるよ。<line-break>話を聞いてみようよ。 <end>"
+english = "<if><value:$01><equal>2Oh, <value:$28>. Someone's over there. Let's take a look.<end><if><value:$01><equal>4Oh, <value:$28>. It looks like someone's playing with something over there.<end><if><value:$01><equal>5Hey, <value:$28>. Someone's there.<end><if><value:$01><equal>6Oh, <value:$28>. Look, someone's there.<end><if><value:$01><equal>13Someone's there.<end><if><value:$01><equal>10Hey, sis. Someone's there.<end><if><value:$01><equal>14Hey, <value:$28>. Someone's there.<end><if><value:$01><equal>15Oh, <value:$28>. Someone's there. Let's go have a look.<end><if><value:$01><equal>17Look, <value:$28>. Some obvious imbecile has collapsed over there.<end><if><value:$01><equal>19Ah! <value:$28>, someone's there. Let's go over.<end>Oh, <value:$28>. Someone's there. Let's see what this person has to say.<end>"
+
+["970050"]
+japanese = "…なんだ、お前たちは？<line-break>みんながどこに行ったのか\u3000\u3000\u3000\u3000\u3000\u3000<line-break>知っているのか？<line-break>そうじゃないなら、放っておいてくれ。<line-break>今は人と話せる気分じゃないんだ。<end>"
+english = "Who are you people? Do you know where everyone went? If not, leave me alone. I don't feel like talking to anyone right now.<end>"
+
+["970051"]
+japanese = "<if><value:$01><equal>2そう、この人が<line-break>ギルドで会ったっていう<line-break>オズワルド出身の冒険者なのね？<line-break>ということは、この静かな町が<line-break>オズワルドに間違いないわね。<line-break>しかも、事態は深刻みたい。 <end><if><value:$01><equal>4あの人がギルドで会ったっていう<line-break>生まれも育ちもオズワルド出身の冒険者？<line-break>\u3000<line-break>っていうことは、あの人に<line-break>町の様子を聞いて、仕事は終わりかも<line-break>…とはいかないんだわ、きっと！ <end><if><value:$01><equal>5そうか、こいつが<line-break>ギルドで会ったとかいう<line-break>オズワルド出の冒険者なのか。<line-break>それじゃ、この人っけのない町が<line-break>オズワルドだな。 <end><if><value:$01><equal>6ふぅん、この人が<line-break>ギルドで会ったっていう、<line-break>オズワルド出身の冒険者なんだ。<line-break>っていうことは、この静かな町が<line-break>オズワルドで間違いないね。<line-break>でも、事態は深刻みたい。 <end><if><value:$01><equal>13…そうか。<line-break>こいつがお前の言っていた<line-break>オズワルド生まれの冒険者か。<line-break>ここが、<line-break>オズワルドということは<line-break>間違いないな。 <end><if><value:$01><equal>10そうか、姉ちゃんが言ってた<line-break>オズワルド生まれの冒険者って<line-break>この人のことなんだな？<line-break>それじゃあ、この静かなのが<line-break>そのオズワルドの町ってことは<line-break>間違いないみたいだな。 <end><if><value:$01><equal>14そうか、ギルドで会ったとかいう<line-break>オズワルド生まれの冒険者が<line-break>この男じゃったか。<line-break>どうやら、この静かな町が<line-break>オズワルドで間違いないんじゃろうが、<line-break>事態は深刻なようじゃな。 <end><if><value:$01><equal>15ふぅん、この人が、<line-break><value:$28>がギルドで会った<line-break>オズワルド出身の冒険者なんだ。<line-break>それじゃあ、この物静かな町が<line-break>オズワルドの町だってことは<line-break>間違いなさそうだね。 <end><if><value:$01><equal>17この男がギルドで会ったとかいう<line-break>オズワルド出身の冒険者ですって？<line-break>そんなのアタクシには関係なくてよー！<line-break>いずれにしても、ここがオズワルドね。<line-break>言っておきますけど、この男がいようが<line-break>いまいが、アタクシは知っていたわ。 <end><if><value:$01><equal>19そう、この人が、<line-break><value:$28>がギルドで会った<line-break>オズワルド出身の冒険者なんだぁ。<line-break>それならぁ、やっぱりこの静かな町が<line-break>探してたオズワルドの町みたいだね。 <end>そう、この人が<line-break><value:$28>がギルドで会った<line-break>オズワルド出身の冒険者なんだ？\u3000<line-break>それなら、やっぱりこの静かな町が<line-break>探してたオズワルドの町だね。 <end>"
+english = "<if><value:$01><equal>2So this is the adventurer from Oswald you met at the Guild? Then this silent town must be Oswald. And it looks like the situation is serious.<end><if><value:$01><equal>4Is that the adventurer you met at the Guild, the one born and raised in Oswald? Then maybe all we need to do is ask about the town, and the job will be finished... No, I'm sure it won't be that easy!<end><if><value:$01><equal>5So this is that adventurer from Oswald you met at the Guild. Then this deserted town must be Oswald.<end><if><value:$01><equal>6Hmm. So this is the adventurer from Oswald you met at the Guild. Then this quiet town must be Oswald. But it looks like the situation is serious.<end><if><value:$01><equal>13I see. So this is the adventurer from Oswald you mentioned. Then there is no doubt that this is Oswald.<end><if><value:$01><equal>10So this is the adventurer from Oswald you were talking about, sis? Then this quiet place really must be Oswald.<end><if><value:$01><equal>14So this man is the Oswald-born adventurer you met at the Guild. It seems this silent town is indeed Oswald, though the situation looks grave.<end><if><value:$01><equal>15Hmm. So this is the adventurer from Oswald you met at the Guild, <value:$28>. Then it looks like this quiet town really is Oswald.<end><if><value:$01><equal>17This is the adventurer from Oswald you supposedly met at the Guild? What does that have to do with me? In any event, this is Oswald. And for the record, I knew that perfectly well, with or without this man.<end><if><value:$01><equal>19Oh, so this is the adventurer from Oswald you met at the Guild, <value:$28>. Then this quiet town really does seem to be the Oswald we've been looking for.<end>Oh, so this is the adventurer from Oswald you met at the Guild, <value:$28>? Then this quiet town really does seem to be the Oswald we've been looking for.<end>"
+
+["970052"]
+japanese = "あぅぅぅ、やっぱり町の中を<line-break>歩き回らなければならないんだわ。\u3000<line-break>\u3000<line-break>でも、<value:$28>はきっと<line-break>町の中を全部見てくれるから、<line-break>私は遊んでてもいいかも！\u3000きゃっ！<end>"
+english = "Ugh, so I really do have to walk all over town. But <value:$28> will surely inspect the whole place, so perhaps I can just play instead! Eek!<end>"
+
+["970053"]
+japanese = "<if><value:$01><equal>2それじゃ、<line-break>手分けして町を探ってみましょう。<line-break>\u3000<line-break>ちゃんと、町をすみからすみまで<line-break>見て回るのよ、<value:$28>。 <end><if><value:$01><equal>5よし、それじゃ、さっさと<line-break>町の中を見て回ろうぜ。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break><value:$28>も<line-break>ちゃんと、あちこち見て回れよ。<line-break>じゃ、行くぜ！ <end><if><value:$01><equal>6それじゃ、<line-break>手分けして町を回ってみようよ。<line-break>ボク行ってくるね。 <end><if><value:$01><equal>13…さっさと町を回るぞ。<line-break>お前も、くまなく見て回れ。 <end><if><value:$01><equal>10それじゃ、さっさと<line-break>町の中を見てみようぜ。\u3000\u3000<line-break>\u3000<line-break>ちゃんと、すみからすみまで<line-break>手抜きなしで回るんだぞ、<line-break>姉ちゃん。 <end><if><value:$01><equal>14では、さっそく<line-break>手分けして町を見て回るとするか。<line-break>\u3000<line-break><value:$28>も、<line-break>しっかりと見て回るんじゃぞ？ <end><if><value:$01><equal>15それなら、さっそく<line-break>手分けして町を回ってみようよ。<line-break>\u3000<line-break><value:$28>も、<line-break>いろんな所を見て回ってね。 <end><if><value:$01><equal>17それなら、<value:$28>。<line-break>アタクシも特別に手を貸してあげるから<line-break>さっさとこのさびれた町を調べるのよ！ <end><if><value:$01><equal>19それじゃあ、<value:$28>。<line-break>手分けして、この町の中を調べて<line-break>みようよぉ。<line-break>この人は誰もいないって<line-break>言ってるけど、もしかしたら<line-break>誰かいるかもしれないよぉ。 <end>それじゃあ、<value:$28>。<line-break>手分けして、この町の中を調べて<line-break>みようよ。<line-break>この人は誰もいないって<line-break>言ってるけど、もしかしたら<line-break>誰かいるかもしれないしね。 <end>"
+english = "<if><value:$01><equal>2Then let's split up and investigate the town. Make sure you look over every last corner, <value:$28>.<end><if><value:$01><equal>5All right, let's hurry up and look around town. Make sure you check all over too, <value:$28>. Let's go!<end><if><value:$01><equal>6Then let's split up and look around town. I'll get going.<end><if><value:$01><equal>13Let's get on with searching the town. You look over every inch of it too.<end><if><value:$01><equal>10Then let's hurry up and look around town. No cutting corners, sis. Check the place from one end to the other.<end><if><value:$01><equal>14Then let us split up and search the town at once. Make sure you look around thoroughly too, <value:$28>.<end><if><value:$01><equal>15Then let's split up and look around town. Make sure you check plenty of places too, <value:$28>.<end><if><value:$01><equal>17Very well, <value:$28>. I'll make a special exception and lend a hand, so hurry up and investigate this dreary town!<end><if><value:$01><equal>19All right, <value:$28>. Let's split up and investigate the town. This person says no one else is here, but there still might be someone around.<end>All right, <value:$28>. Let's split up and investigate the town. This person says no one else is here, but there still might be someone around.<end>"
+
+["970054"]
+japanese = "…みんな、どこに行っちまったんだ？<line-break>母さんは…？\u3000父さんは…？<line-break>…ちくしょう…。<end>"
+english = "Where did everyone go? Mom...? Dad...? Damn it...<end>"
+
+["970055"]
+japanese = "<if><value:$01><equal>2あ、<value:$28>。<line-break>どう、なにかわかった？ <end><if><value:$01><equal>4あ、<value:$28>。<line-break>もう、お散歩は終わったの？ <end><if><value:$01><equal>5<value:$28>。<line-break>何か、わかったか？ <end><if><value:$01><equal>6あ、<value:$28>。<line-break>どう、何かわかった？ <end><if><value:$01><equal>13どうだ、<line-break>何かわかったか？ <end><if><value:$01><equal>10あ、姉ちゃん、<line-break>どう、何かわかった？ <end><if><value:$01><equal>14おう、<value:$28>。<line-break>どうじゃ、何かわかったか？ <end><if><value:$01><equal>15あ、<value:$28>。<line-break>どう、何かわかった？ <end><if><value:$01><equal>17ちょっと、<value:$28>。<line-break>アタクシ、もうこんなさびれた町に<line-break>いるのは、がまんできなくてよ！<line-break>これだけ、時間をかけたのですもの。<line-break>もちろん、何かわかったんでしょうね？ <end><if><value:$01><equal>19あ、<value:$28>。<line-break>どう？\u3000何かわかったぁ？ <end>あ、<value:$28>。<line-break>どう？\u3000何かわかった？ <end>"
+english = "<if><value:$01><equal>2Oh, <value:$28>. Well? Did you find anything?<end><if><value:$01><equal>4Oh, <value:$28>. Finished with your little stroll already?<end><if><value:$01><equal>5<value:$28>. Did you find anything?<end><if><value:$01><equal>6Oh, <value:$28>. Well? Did you find anything?<end><if><value:$01><equal>13Well? Did you find anything?<end><if><value:$01><equal>10Hey, sis. Well? Did you find anything?<end><if><value:$01><equal>14Ah, <value:$28>. Well, did you find anything?<end><if><value:$01><equal>15Oh, <value:$28>. Well? Did you find anything?<end><if><value:$01><equal>17Listen, <value:$28>. I simply cannot bear to remain in this wretched little town any longer! You've certainly taken long enough. You did find something, I trust?<end><if><value:$01><equal>19Oh, <value:$28>. Well? Find anything?<end>Oh, <value:$28>. Well? Did you find anything?<end>"
+
+["970056"]
+japanese = "<if><value:$01><equal>2え？<line-break>町の人に会えたの？<line-break>それじゃあ… <end><if><value:$01><equal>4町の人に会うことができたの？<line-break>…もしかして、私を待たせて<line-break>その人たちと遊んでたのかも！ <end><if><value:$01><equal>5なんだって？<line-break>町の人がまだいたのか？<line-break>てことは… <end><if><value:$01><equal>6え、本当？<line-break>町の人に会えたんだ？<line-break>それじゃあ… <end><if><value:$01><equal>13町に人が残っていた？<line-break>ということは… <end><if><value:$01><equal>10え？<line-break>町の人に会えたのか？<line-break>てことは… <end><if><value:$01><equal>14なんと？<line-break>町の者に会えたのか？<line-break>ということは… <end><if><value:$01><equal>15え？<line-break>町の人に会うことができたの？<line-break>それじゃあ… <end><if><value:$01><equal>17なんですって！？<line-break>この寂れた町にまだ住んでる人間が<line-break>いたと言うの？\u3000ということは… <end><if><value:$01><equal>19え？<line-break>町の人に会えたのぉ？<line-break>それなら… <end>え？<line-break>町の人に会えたの？<line-break>それなら… <end>"
+english = "<if><value:$01><equal>2What? You met someone from the town? Then...<end><if><value:$01><equal>4You managed to meet some people from the town? Maybe you kept me waiting while you went off and had fun with them!<end><if><value:$01><equal>5What did you say? There were still people in the town? Then...<end><if><value:$01><equal>6What, really? You met someone from the town? Then...<end><if><value:$01><equal>13There were people left in the town? That means...<end><if><value:$01><equal>10What? You met someone from the town? Then...<end><if><value:$01><equal>14What's that? You met someone from the town? Then that means...<end><if><value:$01><equal>15What? You managed to meet someone from the town? Then...<end><if><value:$01><equal>17What did you say!? You mean there were still people living in this forsaken town? Then that means...<end><if><value:$01><equal>19What? You met someone from the town? Then...<end>What? You met someone from the town? In that case...<end>"
+
+["970057"]
+japanese = "ふぅん、そんなことがあったんだ。<line-break>…でも、たましいを吸われるって<line-break>どんなかんじなのかな？<line-break>ふわふわっとするのかな？<line-break>すーすーするのかな？<line-break>ちょっと、興味があるかも！<end>"
+english = "Hmm. So that's what happened. But I wonder what it feels like to have your soul sucked out. Does it make you feel all floaty? Or all light and breezy? I might be a little curious!<end>"
+
+["970058"]
+japanese = "もう、戻るの？\u3000ウフフフ。<line-break>今回は、ずっとお散歩してるから<line-break>楽なお仕事だったみたい！<end>"
+english = "Going back already? Hee hee hee. Looks like this job was easy: nothing but strolling around the whole time!<end>"
+
+["970059"]
+japanese = "そ、そういえば、オズワルドの町には<line-break>そうるいーたーという魔物が封印して<line-break>あるんだったわ。今思い出してよ。<line-break>このアタクシとしたことが、あなたの<line-break>頭のレベルにあわせていたから、<line-break>ド忘れしてしまっていたわ！<end>"
+english = "N-now that I think of it, a monster called the Soul Eater was sealed away in the town of Oswald. I've only just remembered. Imagine me forgetting such a thing! It must have slipped my mind because I lowered myself to the level of your intellect!<end>"
+
+["970060"]
+japanese = "さぁ、<value:$28>。<line-break>このアタクシの記憶が呼び戻された\u3000<line-break>ことによって、今回は一件落着よ！<line-break>アタクシ、こんなわびしい町には<line-break>もう、百分の一刻もいたくなくてよ！<line-break>さっさとギルドへ向けて出発よ！<end>"
+english = "Come, <value:$28>. Now that my memory has returned, the matter is as good as settled! I refuse to spend even one hundredth of a moment longer in this dreary town! We leave for the Guild at once!<end>"
+
+["970061"]
+japanese = "<if><value:$01><equal>2…そう、そんなことがあったの。<line-break>その子、ノエルって言ったっけ？<line-break>元気になってくれるといいわね。\u3000<line-break>さぁ、それじゃ私たちも<line-break>戻ることにしましょう。<line-break>このことをギルドに報告しないと。 <end><if><value:$01><equal>5そんなことがあったのかよ。<line-break>…そいつ、ノエルって言ったっけ？<line-break>立ち直れるといいけどな。<line-break>さぁ、それじゃ俺たちも<line-break>戻ることにしようぜ。ギルドに<line-break>報告に行かなきゃならないだろ？ <end><if><value:$01><equal>6…そう、そんなことがあったんだ。<line-break>その子、ノエルって言ったっけ？<line-break>元気になってくれるといいね…。<line-break>さぁ、それじゃボクたちも<line-break>戻ることにしようか。<line-break>このことをギルドに報告しないと。 <end><if><value:$01><equal>13…そうか。<line-break>そういうことだったか。<line-break>\u3000<line-break>依頼は達成したな。<line-break>ギルドに戻って<line-break>報告だ。 <end><if><value:$01><equal>10…そんなことがあったのかよ。<line-break>その子、ノエルって言ったっけ？<line-break>立ち直れるといいけどな…。<line-break>さ、それじゃ俺たちも<line-break>戻ることにしようぜ。ギルドに<line-break>報告に行かなきゃならないだろ？ <end><if><value:$01><equal>14…そうか、そんなことがのう。\u3000<line-break>その娘、ノエルと言ったか、<line-break>元気になるといいがのう。<line-break>さて、わしらもそろそろ<line-break>戻るとするか。<line-break>ギルドに報告しなけらばならん。 <end><if><value:$01><equal>15…そう、そんなことがあったんだ。<line-break>その子、ノエルって言ったっけ？<line-break>元気になってくれればいいけどね…。<line-break>さぁ、それじゃ僕たちも<line-break>戻ることにしようか。<line-break>このことをギルドに報告しないと。 <end><if><value:$01><equal>19…そう、そんなことがあったんだぁ。<line-break>そのノエルって女の子、元気になって<line-break>くれるといいけどね…。<line-break>さぁ、それじゃルルアンタたちも<line-break>このことをギルドに報告しないと。<line-break>行こう、<value:$28>。 <end>…そう、そんなことがあったんだ。<line-break>悲しいことだね。そのノエルって子、<line-break>元気になってくれるといいけどね…。<line-break>さぁ、それじゃ僕たちも<line-break>このことをギルドに報告しないと。<line-break>行こう、<value:$28>。 <end>"
+english = "<if><value:$01><equal>2So that's what happened. The girl was called Noel, wasn't she? I hope she recovers. Well, we should be getting back too. We have to report this to the Guild.<end><if><value:$01><equal>5So that's what happened. That girl was called Noel, right? Hope she manages to pull herself together. Come on, we'd better head back too. We've got to report to the Guild, don't we?<end><if><value:$01><equal>6So that's what happened. The girl was called Noel, wasn't she? I hope she feels better... Well, we should be getting back too. We need to report this to the Guild.<end><if><value:$01><equal>13So that's what happened. The job's done. Back to the Guild to report.<end><if><value:$01><equal>10So that's what happened. That girl was called Noel, right? Hope she manages to pull herself together... Come on, we'd better head back too. We've got to report to the Guild, don't we?<end><if><value:$01><equal>14Ah. So that's what happened. The girl was called Noel, wasn't she? I hope she recovers. Well, we'd best be getting back. We must report to the Guild.<end><if><value:$01><equal>15So that's what happened. The girl was called Noel, wasn't she? I hope she recovers... Well, we should be getting back too. We need to report this to the Guild.<end><if><value:$01><equal>19So that's what happened. I hope that girl Noel gets better... Well, Lulluantha and the others have to report this to the Guild now. Let's go, <value:$28>.<end>So that's what happened. How sad. I hope that girl Noel gets better... Well, we have to report this to the Guild now. Let's go, <value:$28>.<end>"
+
+["970062"]
+japanese = "俺は信じない…信じないぞ…。<end>"
+english = "I don't believe it... I won't believe it...<end>"
+
+["970063"]
+japanese = "やぁ、<value:$28>。<line-break>どうだい、オズワルドの調査の方は\u3000\u3000<line-break>終わったのかい？<end>"
+english = "Hello, <value:$28>. Have you finished investigating Oswald?<end>"
+
+["970064"]
+japanese = "そうか。それじゃあ、<line-break>さっそく報告してくれ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><end>"
+english = "I see. Then give me your report at once.<end>"
+
+["970065"]
+japanese = "え？\u3000遺跡に封印されていた<line-break>ソウルイーターっていう魔物が復活して<line-break>住民は魂を吸われてしまっただって？<end>"
+english = "What? You're saying the monster called Soul Eater, sealed away in the ruins, came back and sucked out the residents' souls?<end>"
+
+["970066"]
+japanese = "…そりゃ、えらいことだな。<line-break>で、その話は、確かなんだろうな？\u3000\u3000<line-break>\u3000<end>"
+english = "That's serious. Are you sure the story is true?<end>"
+
+["970067"]
+japanese = "…なるほど。冒険者に助けられた\u3000\u3000\u3000<line-break>村の住民の生き残りから<line-break>話を聞いたってわけか。<line-break>…わかった。<line-break>ご苦労だったな、<value:$28>。<line-break>これが報酬の２０００ギアだ。<end>"
+english = "I see. So you heard it from a surviving villager rescued by an adventurer. All right. Good work, <value:$28>. Here's your reward: 2,000 Gea.<end>"
+
+["970068"]
+japanese = "それじゃ、仕事が必要なら<line-break>また、来てくれよ。<end>"
+english = "If you need more work, come back anytime.<end>"
+
+["970069"]
+japanese = "あの、予備メッセージです。<line-break>ノエル２／Ｖ１のその１です。<end>"
+english = ""
+
+["970070"]
+japanese = "あの、予備メッセージです。<line-break>ノエル２／Ｖ１のその２です。<end>"
+english = ""
+
+["970071"]
+japanese = "あの、予備メッセージです。<line-break>ノエル２／Ｖ１のその３です。<end>"
+english = ""
+
+["970072"]
+japanese = "あの、予備メッセージです。<line-break>ノエル２／Ｖ１のその４です。<end>"
+english = ""
+
+["970073"]
+japanese = "あの、予備メッセージです。<line-break>ノエル２／Ｖ１のその５です。<end>"
+english = ""
+
+["970074"]
+japanese = "あの、予備メッセージです。<line-break>ノエル２／Ｖ１のその６です。<end>"
+english = ""
+
+["970075"]
+japanese = "あの、予備メッセージです。<line-break>ノエル２／Ｖ１のその７です。<end>"
+english = ""
+
+["970076"]
+japanese = "あの、予備メッセージです。<line-break>ノエル２／Ｖ１のその８です。<end>"
+english = ""
+
+["970077"]
+japanese = "あの、予備メッセージです。<line-break>ノエル２／Ｖ１のその９です。<end>"
+english = ""
+
+["970078"]
+japanese = "あの、予備メッセージです。<line-break>ノエル２／Ｖ１のその１０です。<end>"
+english = ""
+
+["970079"]
+japanese = "ノエル用メッセージＶ１終端<end>"
+english = ""

@@ -1,0 +1,457 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["580000"]
+japanese = "アンギルダン・ボリューム１用開始<end>"
+english = ""
+
+["580001"]
+japanese = "おお、<value:$28>か！<line-break>よく来た。まあ、飲もうぞ！<end>"
+english = "Ah, <value:$28>! Good of you to come. Now, have a drink!<end>"
+
+["580002"]
+japanese = "あちゃー、さっそくアンギルダンに<line-break>捕まってるよ。しょうがないねえ。<end>"
+english = "Oh, dear. Angeerdan's got hold of you already. Well, what can you do?<end>"
+
+["580003"]
+japanese = "どうした、初めて会うような顔をして。<line-break>わしじゃ、アンギルダンじゃ。<end>"
+english = "What's wrong? You look as though we've never met. It's me, Angeerdan!<end>"
+
+["580004"]
+japanese = "おお、フィーユ！\u3000なんじゃ！<line-break><value:$28>と知り合いか！<end>"
+english = "Oh, Fille! What's this? You know <value:$28>?<end>"
+
+["580005"]
+japanese = "んー、アハ…アハハ…<line-break><value:$28>自体のことは<line-break>そんなに詳しくはないんだけどさ。\u3000<line-break>ま、いちおう、今はパーティー組んで<line-break>一緒に冒険してるよ。うん。<line-break>ハハ…ハハハ…。<end>"
+english = "Uh... Ah... Ahaha... I don't really know all that much about <value:$28>, actually. But, well, we're in a party now, adventuring together. Yeah. Haha... Hahaha...<end>"
+
+["580006"]
+japanese = "<value:$28>の感じが<line-break>どうも、変なんじゃ。<line-break>どうしたのじゃ、フィーユ？<end>"
+english = "There's something decidedly odd about <value:$28>. What is it, Fille?<end>"
+
+["580007"]
+japanese = "…ちっ、カンのいい爺さんだね。<line-break>いや、その、記憶喪失なんだ。うん！<end>"
+english = "Tch... Sharp old man, aren't you? No, um, it's amnesia. Yes!<end>"
+
+["580008"]
+japanese = "記憶喪失？\u3000ハハハハ！<line-break>そりゃ、いいわい！\u3000ハハハ！\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>じゃが、わしには、<value:$28>が<line-break>記憶喪失なぞではなく、<line-break>別人になったように見える。<end>"
+english = "Amnesia? Hahahaha! That's a good one! Hahaha! To me, though, <value:$28> seems not to have amnesia, but to have become a different person.<end>"
+
+["580009"]
+japanese = "…ハハ…ハハ！\u3000おかしいねえ！<line-break>そんなバカなこと！\u3000ハハ！<end>"
+english = "Ha... Haha! That's absurd! What a ridiculous idea! Haha!<end>"
+
+["580010"]
+japanese = "傭兵として世界を渡り歩いた<line-break>わしのカンがそう言うておる。\u3000\u3000\u3000<line-break>\u3000<line-break>そうバカにしたもんでもないと<line-break>自分では思うておるがな。往々にして<line-break>常識よりカンが正しいものじゃ。<end>"
+english = "I roamed the world as a mercenary, and that's what my instincts tell me. I happen to think they're not to be scoffed at. Often enough, instinct is sounder than common sense.<end>"
+
+["580011"]
+japanese = "ハ…ハハ…ハハハ！<line-break>じ、冗談だよ。<line-break>記憶喪失ってのは、さ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>は○○○○○○○○。<line-break>それ以上でも以下でもない。<line-break>それだけさ。そう、それだけのことさ。<end>"
+english = "Ha... Haha... Hahaha! I-it was a joke. The amnesia, I mean. <value:$28> is ○○○○○○○○. Nothing more and nothing less. That's all. Yes, that's all there is to it.<end>"
+
+["580012"]
+japanese = "別に詮索はせんさ。<line-break>それも、冒険者のおきてじゃからな。<line-break>\u3000<line-break>さてと、今日もよう飲んだ。<line-break>ちと、外へ出て、よい空気でも\u3000\u3000\u3000<line-break>吸うとしようか。<end>"
+english = "I won't pry. That's part of the adventurer's code, after all. Well, I've had plenty to drink today. I think I'll step outside for a breath of fresh air.<end>"
+
+["580013"]
+japanese = "ハハハ！\u3000そうすれば、ただでさえ、<line-break>最近は物忘れが激しいんじゃ。<line-break>今のことも忘れてしまうじゃろうて。<end>"
+english = "Hahaha! That should do it. My memory has been getting rather poor of late. No doubt I'll forget all about this as well.<end>"
+
+["580014"]
+japanese = "今のはアンギルダンのとっつぁんさ。<line-break>見ての通り、年だけど、強いのなんの！<line-break>\u3000<line-break>力だけじゃなくて頭も切れる。<line-break>さっき、あんたも、もう少しで<line-break>正体ばれるとこだったろ。<end>"
+english = "That was old Angeerdan. He's old, as you can see, but is he ever strong! And he has the wits to match. He almost saw through you just now, didn't he?<end>"
+
+["580015"]
+japanese = "物忘れがひどい？\u3000ウソウソ！<line-break>ただ、ああ言ったからには、もう、<line-break>あんたのこと、詮索はしないだろうね。<line-break>誠実で、義に篤い、気のいい爺さんさ。<line-break>酒好きで、おしゃべり好き。<line-break>ちょっと元気すぎて、変な感じだけど。<end>"
+english = "His memory's bad? He made that up! But once he's said he won't pry, you can be sure he won't. He's sincere, honorable, and a good old man. He loves a drink and a chat. He's a little too lively, almost strangely so.<end>"
+
+["580016"]
+japanese = "悪い人じゃないから、<line-break>この世界のことを聞くといいよ。<line-break>傭兵として世界を巡った男だからね。\u3000<end>"
+english = "He's not a bad man, so you should ask him about this world. He traveled all over it as a mercenary.<end>"
+
+["580017"]
+japanese = "じゃね。<line-break><value:$28>。<end>"
+english = "See you, <value:$28>.<end>"
+
+["580018"]
+japanese = "かつて、バロルという男がいた。<line-break>バロル・ランガスター・ディンガル。<line-break>ディンガル統一を成し遂げた男じゃ。<end>"
+english = "There was once a man named Balor: Balor Langaster Dingal, the man who united Dingal.<end>"
+
+["580019"]
+japanese = "奴は天才じゃった…。が、それゆえに<line-break>あまりに革新的で理想的な改革を<line-break>押し進めようとしたのじゃ。<end>"
+english = "He was a genius. Yet that was precisely why he tried to press ahead with reforms that were far too radical and idealistic.<end>"
+
+["580020"]
+japanese = "しかし、人々は変化を嫌ったため<line-break>改革は一向に進まなかった。<line-break>奴は人々を理解できず、苦しんだ…。<line-break>業を煮やした奴は、自分の政策を<line-break>強硬に実行するための力を闇に求めた。<line-break>…奴は闇におち、魔王となった。<end>"
+english = "But the people resisted change, and his reforms went nowhere. He could not understand them, and it tormented him. At last, his patience exhausted, he turned to darkness for the power to impose his policies by force. He fell into darkness and became the Demon King.<end>"
+
+["580021"]
+japanese = "やがて、奴の中で理想は消え失せ、<line-break>闇の力、恐怖の力によって世界を<line-break>支配しようと考えるようになった。<end>"
+english = "Before long, his ideals had vanished, and he began to think of ruling the world through the power of darkness―the power of fear.<end>"
+
+["580022"]
+japanese = "そして奴は人間らしい愛すらも失った。<line-break>自分の娘の子が自分を倒すであろうと<line-break>妖術宰相ゾフォルが予言すると…<line-break>奴は身ごもった愛娘を殺して、<line-break>森に捨てたのじゃ。奴はもはや<line-break>あせりと敵意の怪物と化しておった…。<end>"
+english = "Then he lost even the capacity for human love. When Zophor, the Sorcerous Chancellor, foretold that his daughter's child would defeat him, Balor killed his beloved daughter, though she was with child, and cast her body into the forest. By then, he had become a monster driven by desperation and hostility.<end>"
+
+["580023"]
+japanese = "そのバロルを討ったのが、<line-break>殺された娘の胎から奇跡的に\u3000\u3000\u3000\u3000<line-break>生まれた子…勇者ネメアよ。<end>"
+english = "And the one who slew Balor was the child miraculously born from his murdered daughter's womb: Nemea the Hero.<end>"
+
+["580024"]
+japanese = "すまんな、年寄りの昔語りに<line-break>長々とつきあわせてしもうた…。\u3000\u3000<line-break>\u3000<line-break>…ちと、外の空気が吸いとうなった。<end>"
+english = "Forgive me for keeping you so long with an old man's tales. I think I'd like a little fresh air.<end>"
+
+["580025"]
+japanese = "おお、<value:$28>か。<line-break>よく来たの。まあ、飲め！\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>…と、お主は酒は飲まんのじゃったな。<line-break>よい！\u3000牛乳でも茶でもジュースでも<line-break>好きなものをなんでも飲めばいい！<end>"
+english = "Ah, <value:$28>! Good of you to come. Here, have a drink! Oh, that's right―you don't drink alcohol. No matter! Have milk, tea, juice―whatever you like!<end>"
+
+["580026"]
+japanese = "身体に入るものに悪いものはない。\u3000<line-break>悪いものは身体から出るものの方だと<line-break>昔から言うでな。ハハハ！<end>"
+english = "There's no harm in what goes into the body. As the old saying goes, it's what comes out that's bad! Hahaha!<end>"
+
+["580027"]
+japanese = "のう、こういう噂があるのじゃ。<line-break>エンシャント南東の賢者の森の奥には<line-break>猫屋敷という屋敷があるという。<line-break>これは運命に選ばれたものだけが、<line-break>見つけることのできる屋敷だという。<line-break>一度、行ってみるといい。<end>"
+english = "Here, have you heard this rumor? Deep in Sage's Forest, southeast of Ancient, there stands a mansion called Cat Manor. They say only those chosen by fate can find it. You should try going there sometime.<end>"
+
+["580028"]
+japanese = "よいか、<value:$28>、<line-break>冒険者は世界を広く旅して、<line-break>見聞を広めることが大事じゃ。\u3000\u3000\u3000\u3000<line-break>このリベルダムの西には<line-break>ロストール王国の都ロストールがある。<line-break>行ってみるといい。<end>"
+english = "Listen, <value:$28>. An adventurer must travel far and wide and learn about the world. West of Liberdam lies Rostorl, capital of the Kingdom of Rostorl. You should pay it a visit.<end>"
+
+["580029"]
+japanese = "よいか、<value:$28>、<line-break>冒険者と言うからには\u3000\u3000\u3000\u3000<line-break>冒険をせねばならぬ。<line-break>ギルドで仕事を得たり、<line-break>自分で修行のため洞窟や迷宮に<line-break>挑んでみるといいぞ。<end>"
+english = "Listen, <value:$28>. If you call yourself an adventurer, you must have adventures! Take work from the Guild, or test yourself against caves and labyrinths as part of your training.<end>"
+
+["580030"]
+japanese = "バロルは妖術宰相ゾフォルを使って<line-break>破壊神の円卓騎士と呼ばれる魔人を<line-break>次々に復活させおった。<line-break>円卓騎士ネモ、円卓騎士マゴス、<line-break>そして円卓騎士バルザー。<line-break>…いずれも強力な魔人どもじゃ。<end>"
+english = "Balor used the Sorcerous Chancellor Zophor to revive one demon after another, all known as Knights of the Round Table of the God of Destruction: Nemo, Knight of the Round Table; Magos, Knight of the Round Table; and Baltzer, Knight of the Round Table. Every one of them was a powerful demon.<end>"
+
+["580031"]
+japanese = "そのうち、ネモとマゴスは<line-break>勇者ネメアに倒されたが<line-break>バルザーはいまだ行方が知れぬ。<line-break>バルザーは魔王バロルに…恋人を殺され<line-break>魔王バロルとたもとを分かって<line-break>姿を消したのでな。<end>"
+english = "Of those three, Nemo and Magos were slain by the Hero Nemea, but Baltzer's whereabouts remain unknown. Balor, Demon King, had killed Baltzer's lover... so Baltzer broke with Balor and disappeared.<end>"
+
+["580032"]
+japanese = "勇者ネメアがついに<line-break>皇帝エリュマルクから<line-break>ディンガルを追われおったか…。<line-break>皇帝エリュマルクは、ネメアの叔父よ。<line-break>かつて、ネメアがバロルを倒すときには<line-break>ネメアのよき友であったが…<end>"
+english = "So the Hero Nemea has finally been driven out of Dingal by Emperor Eryumark... Eryumark is Nemea's uncle. Once, when Nemea defeated Balor, he was a good friend to Nemea, but...<end>"
+
+["580033"]
+japanese = "バロルのあとを継いで皇帝になってから<line-break>何かにつけ、ネメアと比べられ、<line-break>嫉妬からネメアをうとむようになった。<line-break>それからのエリュマルクはひどかった。<line-break>ネメアをねたみ、殺すことだけを考え、<line-break>死ねと言わんばかりの難行を命じた。<end>"
+english = "After succeeding Balor as emperor, Eryumark was forever being compared to Nemea. His jealousy made him resent Nemea. From then on, Eryumark was terrible. He envied Nemea and thought only of killing him, assigning ordeals that might as well have been orders to die.<end>"
+
+["580034"]
+japanese = "そして、今回のネメア追討令か…。<line-break>が、世界にネメアにかなう者はおらぬ。<line-break>事実上の追放じゃな。<end>"
+english = "And now this order to hunt Nemea down... Yet no one in the world can match him. In truth, it's an exile.<end>"
+
+["580035"]
+japanese = "いっそ、エリュマルクではなく<line-break>ネメアがバロルの死後、<line-break>帝位につくべきだったんじゃ。<line-break>ネメアの下でならば、<line-break>わしはたとえ、<line-break>一兵卒としてでも働いたろう。<end>"
+english = "Nemea should have taken the throne after Balor's death, not Eryumark. Under Nemea, I would gladly have served even as a common soldier.<end>"
+
+["580036"]
+japanese = "勇者ネメアは<line-break>ディンガル皇帝エリュマルクに\u3000\u3000\u3000<line-break>その才能をうとまれておった。<line-break>エリュマルクはネメアを除こうと<line-break>それは、さまざまな<line-break>実行不可能で決死のことを命じた。<end>"
+english = "Emperor Eryumark of Dingal resented the Hero Nemea for his gifts. Wanting Nemea out of the way, Eryumark ordered him to undertake all manner of impossible, deadly tasks.<end>"
+
+["580037"]
+japanese = "そのうちのひとつが、ロセン迎撃じゃ。<line-break>ロセンの愚王ペウダは、バロルが死んで<line-break>ディンガルが弱体化したのを好機と…<line-break>残虐なロセンの将軍ランバガンに<line-break>５０００の兵をつけ、<line-break>ディンガルの東部を略奪させたのじゃ。<end>"
+english = "One of those was repelling the Rocen invasion. Peuda, the fool king of Rocen, saw his chance when Balor's death left Dingal weakened. He gave the brutal Rocen general Rambagan five thousand troops and sent him to pillage eastern Dingal.<end>"
+
+["580038"]
+japanese = "対して、皇帝エリュマルクは<line-break>ネメアにそれを追討せよと命じた。\u3000\u3000<line-break>ただの２８騎でじゃ。<end>"
+english = "Emperor Eryumark ordered Nemea to drive them back―with just twenty-eight mounted warriors.<end>"
+
+["580039"]
+japanese = "結果はネメアの名声を<line-break>さらに高めることになった。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ネメアはわずか２８騎で中央突破し<line-break>将軍ランバガンを生け捕りにして<line-break>１００倍を越える敵を壊滅させたのだ。<end>"
+english = "The result only brought Nemea greater fame. With a mere twenty-eight mounted warriors, he smashed through the enemy center, captured General Rambagan alive, and annihilated a force more than a hundred times the size of his own.<end>"
+
+["580040"]
+japanese = "それ以来、ロセンの愚王ペウダは<line-break>ディンガルを恐れ、ロセンを鎖国し<line-break>城にこもって、毎日震えておるという。<line-break>しかし、この勝利は、ますます<line-break>皇帝エリュマルクの不興と嫉妬を<line-break>買う結果になってしもうた。<end>"
+english = "They say that ever since, Peuda, the fool king of Rocen, has feared Dingal so greatly that he closed Rocen to the outside world and now spends every day cowering in his castle. But that victory only earned Nemea still more of Emperor Eryumark's displeasure and jealousy.<end>"
+
+["580041"]
+japanese = "ま、わしも、数えきれぬほど\u3000\u3000\u3000<line-break>戦いに臨んできたが…<line-break>\u3000<line-break>あの戦いに、ネメアの２８騎の<line-break>ひとりとして参加できたことは<line-break>まこと、晴れがましい思い出じゃ。<end>"
+english = "Well, I've fought in more battles than I can count... but taking part in that one as one of Nemea's twenty-eight is a truly proud memory.<end>"
+
+["580042"]
+japanese = "勇者ネメアは皇帝エリュマルクに\u3000\u3000\u3000<line-break>その才能をうとまれておった。<line-break>\u3000<line-break>エリュマルクはネメアを除こうと、<line-break>実行不可能なさまざまな難事を<line-break>ふりかけた。<end>"
+english = "Emperor Eryumark resented the Hero Nemea for his gifts. Wanting Nemea out of the way, Eryumark burdened him with all manner of impossible tasks.<end>"
+
+["580043"]
+japanese = "そのひとつが、施文院から、<line-break>絶世の美女と呼ばれていた<line-break>大神官イズをさらってくることじゃ。\u3000<line-break>施文院とは、暗殺集団の告死天使を<line-break>操る地下宗教組織でな。その大神官を<line-break>さらうなど、まさに死を意味していた。<end>"
+english = "One was to abduct the high priestess Iz, famed as a beauty beyond compare, from the Scripture Institute. The Scripture Institute is an underground religious organization that commands an order of assassins called the Angels of Death. Abducting its high priestess meant certain death.<end>"
+
+["580044"]
+japanese = "しかも、なんの正当の理由もなく<line-break>女をさらうというのは、犯罪じゃ。\u3000\u3000<line-break>非常に不名誉なことじゃ。<line-break>皇帝エリュマルクは、それでネメアが<line-break>命令を断れば、それを理由に処刑する<line-break>つもりだったのじゃ。<end>"
+english = "Besides, abducting a woman without any just cause is a crime―a deeply dishonorable act. Emperor Eryumark expected Nemea to refuse, giving him grounds to have Nemea executed.<end>"
+
+["580045"]
+japanese = "しかし、ネメアはその命令を実行し、<line-break>成功させた。施文院から絶世の美女、<line-break>死の天使たちの主、イズを連れ帰った。<line-break>イズの美に心うたれたエリュマルクは<line-break>イズを皇后に立てた。しかし、イズは<line-break>エリュマルクに心を開かなかった。<end>"
+english = "But Nemea carried out the order and succeeded. He returned from the Scripture Institute with Iz, the incomparable beauty and mistress of the Angels of Death. Captivated by Iz's beauty, Eryumark made her his empress. But Iz never opened her heart to him.<end>"
+
+["580046"]
+japanese = "エリュマルクは、イズがネメアに<line-break>心惹かれておるのではないかと疑った。<line-break>ハッ、バカな話じゃ。<line-break>ついにはエリュマルクは、イズを処刑し<line-break>ネメアを、皇后イズと通じていた罪で<line-break>逮捕、処刑するよう命を発した。<end>"
+english = "Eryumark suspected that Iz had feelings for Nemea. Hah! What foolishness. At last, Eryumark ordered Iz executed, and commanded that Nemea be arrested and put to death for having an affair with Empress Iz.<end>"
+
+["580047"]
+japanese = "…そして、ネメアは、<line-break>大地震のあと、こつぜんと姿を消した。<line-break>\u3000<line-break>わしには、この一件での、<line-break>ネメアの行動が、まるでわからぬ。<line-break>自由気ままなわしとは違うのじゃろう。<end>"
+english = "And then, after the great earthquake, Nemea suddenly vanished. I cannot make the least sense of his actions in this affair. I suppose he is not a free spirit like me.<end>"
+
+["580048"]
+japanese = "秩序を守ろうとしたのかもしれぬ。\u3000\u3000<line-break>何かの運命を予兆し、そのために<line-break>行動をとったのかもしれぬ。<line-break>なんにせよ、ひとりの女性に<line-break>決して幸せでない最期をとげさせた。<line-break>…それは許されるべきことではない。<end>"
+english = "Perhaps he was trying to preserve order. Perhaps he foresaw some turn of fate and acted because of it. Whatever the reason, his actions brought one woman to an unhappy end. That must not be forgiven.<end>"
+
+["580049"]
+japanese = "勇者ネメアは皇帝エリュマルクに\u3000\u3000\u3000<line-break>その才能をうとまれておった。<line-break>\u3000<line-break>エリュマルクはネメアを除こうと、<line-break>実行不可能なさまざまな難事を<line-break>ふりかけた。<end>"
+english = "Emperor Eryumark resented the Hero Nemea for his gifts. Wanting Nemea out of the way, Eryumark burdened him with all manner of impossible tasks.<end>"
+
+["580050"]
+japanese = "１２回、数えれば１２回もじゃ。<line-break>そして、ネメアはそのすべてを成し遂げ<line-break>その名声はますます、高くなった。<line-break>わしもネメアのそんな姿に英雄を見た。<line-break>わしはネメアを心底尊敬しておる。<line-break>…１２番目の冒険だけは、別としてな。<end>"
+english = "Twelve times―twelve, if you count them. And Nemea accomplished every one, bringing him ever greater fame. In watching him, I saw a true hero. I respect Nemea from the bottom of my heart... except when it comes to the twelfth adventure.<end>"
+
+["580051"]
+japanese = "バロルの死後、ロセン軍が攻めてきて、<line-break>ネメアに惨敗したことがあった。<line-break>\u3000<line-break>そのロセンの侵攻は、リベルダムの<line-break>武器商人どもが影で糸を引いていた<line-break>という噂がある。<end>"
+english = "After Balor's death, the army of Rocen invaded and suffered a crushing defeat at Nemea's hands. Rumor has it that Liberdam's arms merchants were pulling the strings behind that invasion.<end>"
+
+["580052"]
+japanese = "その後ろには、あの稀代の謀略家<line-break>ファーロスの雌狐とも異名をとる<line-break>ロストール王妃エリスもいたらしい。<line-break>周辺諸国はディンガル帝国を<line-break>よく思っていない。そんなときに<line-break>嫉妬でネメアを追放するとは…。<end>"
+english = "It seems Queen Eris of Rostorl, that peerless schemer known as the Vixen of Pharos, was behind it as well. The neighboring nations bear the Dingal Empire no goodwill. And to think Nemea would be exiled out of jealousy at a time like this...<end>"
+
+["580053"]
+japanese = "わざわざ、諸国にスキを見せて\u3000\u3000\u3000<line-break>襲ってくださいと<line-break>言わんばかりではないか！<end>"
+english = "Going out of the way to leave an opening for the other nations is practically inviting them to attack!<end>"
+
+["580054"]
+japanese = "実は、わしも<line-break>ネメア同様、お尋ね者なのじゃ。<line-break>\u3000<line-break>わしには<line-break>ズバズバものを言うクセがある。<line-break>それが、皇帝にうとまれてな。<end>"
+english = "The truth is, I'm wanted too, just like Nemea. I have a habit of speaking my mind without restraint. The emperor took offense at that.<end>"
+
+["580055"]
+japanese = "ああ、言ってなかったやもしれんな。<line-break>わしは、エリュマルク帝に将軍として<line-break>仕えておったこともあったのじゃ。<line-break>直言がうとまれ、処刑されかけたが<line-break>死ぬのはゴメンじゃと脱走して<line-break>また、冒険者に戻ったのよ。<end>"
+english = "Ah, perhaps I never told you. I once served Emperor Eryumark as a general. My plain speaking nearly got me executed, but I had no intention of dying, so I escaped and became an adventurer again.<end>"
+
+["580056"]
+japanese = "ハハハ！\u3000命あっての人生よ！<line-break>わしの人生の教訓を教えてやろう。\u3000<line-break>生きていれば、絶対になんとかなる、<line-break>…と言うほど、人生は甘くはないが<line-break>生きていれば、いいことがある。<end>"
+english = "Hahaha! Life isn't life unless you're alive to live it! Let me teach you the lesson I've learned: I'd like to say that as long as you're alive, everything will always work out... but life isn't so kind. Still, if you live, good things will come.<end>"
+
+["580057"]
+japanese = "例えば、今、こうやって酒が飲める。<line-break>これには、何ものもかえられぬ。<line-break>そうじゃろう、<value:$28>？<end>"
+english = "For instance, here I am, having a drink. Nothing in the world could take the place of that. Wouldn't you agree, <value:$28>?<end>"
+
+["580058"]
+japanese = "人生は酒。<line-break>そして、酒よりも冒険じゃ。\u3000\u3000<line-break>ちと、行ってくるわ。<end>"
+english = "Life is drink, and adventure is better than drink. I'm off for a bit.<end>"
+
+["580059"]
+japanese = "実はな、やたらと条件のいい仕事があるんだ。<line-break>報酬３００００ギア、期限はなし。<line-break>\u3000<line-break>エンシャントの南東にある死竜の洞窟から<line-break>黄泉の乙女像を持ち帰るだけっていう、<line-break>簡単な依頼だ。<end>"
+english = "Truth is, I've got a job with almost suspiciously good terms. The reward is 30,000 Gea, and there's no deadline. All you have to do is retrieve the Statue of the Underworld Maiden from Dead Dragon Cave, southeast of Ancient. Simple enough.<end>"
+
+["580060"]
+japanese = "引き受ける<end>"
+english = "Accept<end>"
+
+["580061"]
+japanese = "引き受けない<end>"
+english = "Decline<end>"
+
+["580062"]
+japanese = "けどな、この手のおいしい話には、\u3000<line-break>たいてい裏があるからな。<line-break>なるべくなら関わらない方がいい。<line-break>とは言っても、放っておくのも<line-break>もったいない話だ。<end>"
+english = "But offers this good usually come with a catch. You'd be better off staying out of it if you can. Then again, it'd be a shame to let an opportunity like this go to waste.<end>"
+
+["580063"]
+japanese = "ま、気が向いたら行ってみな。<line-break>死竜の洞窟の一番奥にあるらしいぜ。<end>"
+english = "Well, if you feel like it, go take a look. It's supposed to be at the very back of Dead Dragon Cave.<end>"
+
+["580064"]
+japanese = "お、これは黄泉の乙女像！<line-break>ごくろうさん。<line-break>ほらよ、こいつが報酬だ。<end>"
+english = "Oh, that's the Statue of the Underworld Maiden! Good work. Here, this is your reward.<end>"
+
+["580065"]
+japanese = "誰も持ってきてくれないんで、<line-break>こりゃあ、ダメかなと思ってた。<line-break>助かったよ。<line-break>なんかあったら、<line-break>またよろしく頼む。<end>"
+english = "No one had brought one in, so I was starting to think it was hopeless. You really helped me out. If anything else comes up, I hope I can count on you again.<end>"
+
+["580066"]
+japanese = "<value:$28>は<line-break>竜殺しの称号を得た。<end>"
+english = "<value:$28> earned the title of Dragonslayer.<end>"
+
+["580067"]
+japanese = "待て。<end>"
+english = "Wait.<end>"
+
+["580068"]
+japanese = "竜の死骸か…。<end>"
+english = "A dragon's corpse...<end>"
+
+["580069"]
+japanese = "この世界にいる竜は７匹。<line-break>世界を統べる竜王と<line-break>その両翼、翔王、海王の３聖竜。\u3000<line-break>…そして、<line-break>アズラゴーザ、イシュバアル、<line-break>エルアザル、シャンマの４邪竜…。<end>"
+english = "There are seven dragons in this world. The Three Sacred Dragons are the Dragon King, who rules the world, and the Dragon King's two wings: the Soaring King and the Sea King. Then there are the Four Evil Dragons: Azragoza, Ishbaal, Elazar, and Shamma.<end>"
+
+["580070"]
+japanese = "これまで竜に打ち勝ったものはふたり。<line-break>初代ドワーフ王のボルキスと<line-break>賢王アルキュオネの忘れられた剣士…。<line-break>ボルキスはシャンマを屈服させたのみ。<line-break>こいつは、忘れられた剣士に殺された<line-break>邪竜エルアザルのむくろじゃな…。<end>"
+english = "Only two have ever bested a dragon: Borkis, the first Dwarf King, and the Forgotten Swordsman of Wise King Alcyone. Borkis merely brought Shamma to heel. This is the corpse of Elazar, the Evil Dragon slain by the Forgotten Swordsman.<end>"
+
+["580071"]
+japanese = "…まだ、怨念が残っておる。<end>"
+english = "Its hatred still lingers.<end>"
+
+["580072"]
+japanese = "同じ冒険者としての助言じゃ。<line-break>この仕事はあきらめて、<line-break>静かに出ていった方がよいぞ。<end>"
+english = "Take some advice from a fellow adventurer: give up this job and leave quietly.<end>"
+
+["580073"]
+japanese = "悪いことは言わん。<line-break>こいつには手を出さぬ方がよい。<end>"
+english = "Take my word for it. You're better off leaving this thing alone.<end>"
+
+["580074"]
+japanese = "こいつはまだ、<line-break>完全には死んでおらぬ。\u3000\u3000<line-break>\u3000<line-break>うかつに近づけば、<line-break>目覚めさせることになろう。<end>"
+english = "This thing isn't completely dead yet. Get too close without due care, and you'll wake it.<end>"
+
+["580075"]
+japanese = "アンデッド化しておるが、<line-break>邪竜には変わりない。<line-break>その力は、計り知れぬぞ。\u3000\u3000\u3000\u3000\u3000<line-break>もし挑みたいのなら、<line-break>止めはせんが、もっと<line-break>力をつけてからでも遅くはあるまい。<end>"
+english = "It has become undead, but it's still an Evil Dragon. Its power is beyond measure. If you want to challenge it, I won't stop you, but you can always wait until you're stronger.<end>"
+
+["580076"]
+japanese = "冒険者をやっているとな、<line-break>時々とんでもない代物に<line-break>ぶち当たることがある。<line-break>まったく、退屈せんわな。<line-break>これだからやめられん。<end>"
+english = "When you're an adventurer, every so often you run into something truly outrageous. It certainly keeps life interesting. That's why I can never give it up.<end>"
+
+["580077"]
+japanese = "急いで、しかし動作はゆっくりと<line-break>ここを出るのじゃ。<line-break><value:$28>。<end>"
+english = "Hurry out of here, but move slowly, <value:$28>.<end>"
+
+["580078"]
+japanese = "なんじゃ、初対面みたいな顔をして。<line-break>静かに来い、<value:$28>！<line-break>急いで、しかし動作はゆっくりと<line-break>ここを出るのじゃ。間違っても<line-break>ダッシュで走ってはならぬ。<end>"
+english = "What's with that look? You'd think we'd never met. Come quietly, <value:$28>! Hurry out of here, but move slowly. Whatever you do, don't sprint.<end>"
+
+["580079"]
+japanese = "ここで会うたも何かの縁じゃ。<line-break>ひとつ名を教えてくれんか。<end>"
+english = "Our meeting here must count for something. Would you tell me your name?<end>"
+
+["580080"]
+japanese = "そうか、<line-break><value:$28>というのか。<line-break>よろしくな。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>わしはアンギルダン。最近は<line-break>リベルダムの酒場にいりびたりじゃ。<line-break>リベルダムに来たら、会いにきてくれ。<end>"
+english = "So you're called <value:$28>. A pleasure. I'm Angeerdan. These days, I spend most of my time at the tavern in Liberdam. Come and see me if you're ever there.<end>"
+
+["580081"]
+japanese = "それではな、<value:$28>。<line-break>また会おうぞ。<end>"
+english = "Farewell for now, <value:$28>. We shall meet again.<end>"
+
+["580082"]
+japanese = "待て。<end>"
+english = "Wait.<end>"
+
+["580083"]
+japanese = "竜の死骸か…。<end>"
+english = "A dragon's carcass...<end>"
+
+["580084"]
+japanese = "死んだ竜っていや、<line-break>昔、賢王アルキュオネたちに<line-break>倒された邪竜エルアザルだけだ。<line-break>つまり、<line-break>こいつはエルアザルの死体ってわけだ。<end>"
+english = "The only dead dragon I know of is Elazar, the Evil Dragon slain long ago by Wise King Alcyone and the others. Which means this must be Elazar's corpse.<end>"
+
+["580085"]
+japanese = "おーこわ、こいつ…。<line-break>…まだ、怨念が残ってら。<end>"
+english = "Whoa, this thing's scary... Its hatred is still lingering.<end>"
+
+["580086"]
+japanese = "やっぱり、<line-break>アンデッド化してやがる…。<line-break>こいつは、まだ死んじゃいないぜ。<end>"
+english = "Just as I thought―it's turned undead... This thing isn't quite dead yet.<end>"
+
+["580087"]
+japanese = "なんつっても邪竜だ。<line-break>うかつに近づいて起こしちまったら、<line-break>シャレになんないぜ。<line-break>おとなしく寝かしとくのが<line-break>一番だな。<end>"
+english = "After all, it's an Evil Dragon. If you go blundering too close and wake it up, this'll be no laughing matter. Best to leave it sleeping.<end>"
+
+["580088"]
+japanese = "しっかしまた、<line-break>暇つぶしに冒険してたら、<line-break>えらいもんを見つけちまったな。<line-break>ま、ここに長居は無用ってことだ。<line-break>じゃあな。<end>"
+english = "Still, I sure stumbled across one hell of a thing while I was out adventuring to kill time. Anyway, there's no point staying here any longer. See you.<end>"
+
+["580089"]
+japanese = "とにかく、ここを出るんだ。<line-break>急いで、しかし動作はゆっくりとな。<end>"
+english = "Anyway, get out of here. Hurry―but move slowly.<end>"
+
+["580090"]
+japanese = "しっかしまた、<line-break>暇つぶしに冒険してたら、<line-break>えらいもんを見つけちまったな。<line-break>一度は戦ってみたい気もするが…。<line-break>ま、お前がその気になったら<line-break>誘ってくれよ。じゃ、またな。<end>"
+english = "Still, I sure stumbled across one hell of a thing while I was out adventuring to kill time. Part of me would like to try fighting it... Well, if you decide to take it on, invite me along. See you around.<end>"
+
+["580091"]
+japanese = "いいか、<value:$28>。<line-break>いちおう、冒険者として\u3000\u3000\u3000\u3000<line-break>忠告だけさせてもらう。<line-break>ここで、ウロチョロしすぎると<line-break>邪竜の餌食になる。<line-break>気をつけるんだな。<end>"
+english = "Listen, <value:$28>. As an adventurer, I should at least give you a warning. Poke around here too much and you'll end up as food for the Evil Dragon. Watch yourself.<end>"
+
+["580092"]
+japanese = "よ。<line-break>ここで会ったも何かの縁だ。<line-break>ひとつ自己紹介と行こうぜ。<line-break>俺はゼネテス。冒険者だ。<line-break>世界中を旅してる。<line-break>お前さんは？<end>"
+english = "Hey. Since fate's brought us together out here, we might as well introduce ourselves. I'm Xenetes, an adventurer. I travel all over the world. And you are?<end>"
+
+["580093"]
+japanese = "<value:$28>…ね。<line-break>なるほど。フフ…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>つまり、ロストールの貴族<line-break><value:$28>・リューガ様って<line-break>わけだ。<end>"
+english = "<value:$28>... I see. Heh... So you're the Rostorl noble, <value:$28> Ryuga.<end>"
+
+["580094"]
+japanese = "フフ、それが、こんな所で冒険三昧か。<line-break>エストもそうだが、リューガ家には<line-break>結構、貴族の異端者が多いんだな。<line-break>俺は、結構、変わり者って好きだぜ。<line-break>じゃあな、<value:$28>。<line-break>また会える気がするぜ！<end>"
+english = "Heh. And here you are, adventuring to your heart's content in a place like this. Between you and Est, the Ryuga family seems to produce its fair share of noble misfits. I've always had a soft spot for oddballs. See you around, <value:$28>. Somehow, I think we'll meet again!<end>"
+
+["580095"]
+japanese = "<value:$28>ね…。<line-break>なるほど？\u3000フフ…。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>今、話題の<value:$2B>の<line-break><value:$28>様で<line-break>いらっしゃるわけだ。<end>"
+english = "<value:$28>, huh...? Interesting. Heh... So you're <value:$28>, the <value:$2B> everyone's talking about.<end>"
+
+["580096"]
+japanese = "フフ、会えてうれしいぜ。\u3000\u3000<line-break>じゃあな、<value:$28><line-break>縁があったらまた会おうや。<end>"
+english = "Heh, glad I got to meet you. See you around, <value:$28>. If we get the chance, let's meet again.<end>"
+
+["580097"]
+japanese = "<value:$28>ね。<line-break>あんた、いい目をしてるよ。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>俺の叔母貴がよく言ってる。<line-break>目の輝きは魂の輝きを表すってね。<line-break>あんたの目には無限の可能性を感じる。<end>"
+english = "<value:$28>, eh? You've got good eyes. My aunt always says the light in a person's eyes reflects the light of the soul. I see limitless potential in yours.<end>"
+
+["580098"]
+japanese = "おお、<value:$28>か。<line-break>ちょうどいい。<line-break>\u3000<line-break>この前の、邪竜の死体の件じゃが、<line-break>エンシャントのギルドに、死竜の洞窟を<line-break>探索する仕事の依頼が出とってだな…<end>"
+english = "Ah, <value:$28>. Good timing. About that business with the Evil Dragon's corpse the other day: a job has been posted at the Guild in Ancient to explore Dead Dragon Cave...<end>"
+
+["580099"]
+japanese = "これの依頼人名が、うさん臭いんじゃ。<line-break>見ろ。システィーナとある。神話の<line-break>黄泉の乙女システィーナと同名じゃ。<line-break>その後、調べていったら、依頼主の<line-break>使者がシャリとかチャリとかいう<line-break>子供だったという。<end>"
+english = "The client's name is suspicious. Look. It says Sistina―the same name as the maiden of the underworld in myth. I looked into it, and apparently the client's messenger was a child called Shalli or Challi or something.<end>"
+
+["580100"]
+japanese = "いたずらかと思えばそうでもない。<line-break>ギルドに多額の預託金と保証金は<line-break>納められている。のう、どう見る？<end>"
+english = "I thought it might be a prank, but apparently not. Considerable sums have been lodged with the Guild as a deposit and security bond. What do you make of it?<end>"
+
+["580101"]
+japanese = "わしが思うに、闇の者が邪竜の復活を<line-break>もくろんで、冒険者の精気を<line-break>吸わせておったのじゃろう。<line-break>闇がまた、動き出したか…。<line-break><value:$28>、お主も<line-break>くれぐれも気をつけてな。<end>"
+english = "I reckon the forces of darkness were plotting to resurrect the Evil Dragon and had it feeding on adventurers' life force. Could darkness be stirring again...? <value:$28>, you be very careful too.<end>"
+
+["580102"]
+japanese = "指名手配、<line-break>反逆者アンギルダン・ゼイエン<line-break>罪状：皇帝に対する不服従<end>"
+english = "Wanted: Rebel Angildan Zeien. Charge: Disobedience to the Emperor.<end>"
+
+["580103"]
+japanese = "おお、<value:$28>か。<line-break>お前も飲みにきたのか。<end>"
+english = "Oh, <value:$28>. Here for a drink too?<end>"
+
+["580104"]
+japanese = "おお、<value:$28>か。<line-break>今日は昔のことが思い出されてな。<line-break>わしの戦友の話、聞いてくれぬか？<end>"
+english = "Ah, <value:$28>. I've found myself thinking of the old days today. Would you hear a story about an old comrade-in-arms of mine?<end>"
+
+["580105"]
+japanese = "予備メッセージ３<line-break>アンギルダン、ボリューム１<end>"
+english = ""
+
+["580106"]
+japanese = "予備メッセージ４<line-break>アンギルダン、ボリューム１<end>"
+english = ""
+
+["580107"]
+japanese = "予備メッセージ５<line-break>アンギルダン、ボリューム１<end>"
+english = ""
+
+["580108"]
+japanese = "予備メッセージ６<line-break>アンギルダン、ボリューム１<end>"
+english = ""
+
+["580109"]
+japanese = "予備メッセージ７<line-break>アンギルダン、ボリューム１<end>"
+english = ""
+
+["580110"]
+japanese = "予備メッセージ８<line-break>アンギルダン、ボリューム１<end>"
+english = ""
+
+["580111"]
+japanese = "予備メッセージ９<line-break>アンギルダン、ボリューム１<end>"
+english = ""
+
+["580112"]
+japanese = "予備メッセージ１０<line-break>アンギルダン、ボリューム１<end>"
+english = ""
+
+["580113"]
+japanese = "アンギルダン・ボリューム１終端<end>"
+english = ""

@@ -1,0 +1,357 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1010000"]
+japanese = "アイリーンメッセージVOL4用開始<end>"
+english = ""
+
+["1010001"]
+japanese = "<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>帝国に弓ひく身でありながら<line-break>私の前に出てくるなんていい度胸ね。<line-break>\u3000<end>"
+english = "<value:$28>... You have some nerve showing your face to me when you've taken up arms against the Empire.<end>"
+
+["1010002"]
+japanese = "いつまでも解放軍に味方してても<line-break>なんにもならないわよ。<line-break>私たちの方についたらどう？<end>"
+english = "You'll get nowhere if you keep siding with the Liberation Army. Why not join us instead?<end>"
+
+["1010003"]
+japanese = "そう言うと思った。<line-break>相変わらず、バカね。\u3000<line-break>\u3000<line-break>今度、私と目があったら<line-break>すぐに逃げることね。<line-break>…首が飛ぶわよ。<end>"
+english = "I knew you'd say that. You're as foolish as ever. Next time our eyes meet, you'd better run at once... or you'll lose your head.<end>"
+
+["1010004"]
+japanese = "早く、行きなさい。<end>"
+english = "Go. Quickly.<end>"
+
+["1010005"]
+japanese = "…ほんっとに<line-break>しょうがない…奴。<end>"
+english = "Honestly... what am I going to do with you?<end>"
+
+["1010006"]
+japanese = "…<value:$28>、<line-break>まだ、解放軍に味方してるの？<end>"
+english = "<value:$28>... Are you still siding with the Liberation Army?<end>"
+
+["1010007"]
+japanese = "…<value:$28>。<line-break>時勢を見る目は持つべきね。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>いつまでも昔のまま、なんてことは<line-break>ないのよ。時の流れの速さを嘆いても<line-break>なんにもならないわ。<end>"
+english = "<value:$28>... You need to learn to read the times. Nothing stays as it was forever. Lamenting how quickly the world changes won't do you any good.<end>"
+
+["1010008"]
+japanese = "…私たちがなんらかの形で<line-break>決着をつけるときが必ず来るわ。<line-break>それまで、せいぜい死なないでね。<end>"
+english = "One way or another, the day will come when we have to settle this. Until then, do try not to die.<end>"
+
+["1010009"]
+japanese = "…皮肉なものね、<line-break>運命なんて。<end>"
+english = "Fate is ironic, isn't it?<end>"
+
+["1010010"]
+japanese = "<value:$28>！<line-break>こんな所で何をしている！\u3000<line-break>\u3000<line-break>…早く出ていきなさい！<line-break>今回だけは見逃してあげる。<line-break>もう、私の前に顔を出さないで！<end>"
+english = "<value:$28>! What are you doing here? Get out, now! I'll let you go this once. Don't ever show your face to me again!<end>"
+
+["1010011"]
+japanese = "<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>どういうつもりでここに来ているの？<line-break>次の私たちの目標は<line-break>わかっているはずよ。<end>"
+english = "<value:$28>... What were you thinking, coming here? You know what our next target is.<end>"
+
+["1010012"]
+japanese = "ロストールはもう目と鼻の先。<line-break>無駄な抵抗などせずに、<line-break>さっさと降伏することね。<line-break>その方が、犠牲者も少なくなるわ。<line-break>あなたも、命を失わなくて<line-break>すむでしょうし。<end>"
+english = "Rostorl is almost within our reach. Don't put up a pointless resistance. Surrender now. That will mean fewer casualties, and it may save your life as well.<end>"
+
+["1010013"]
+japanese = "…<value:$28>。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>時の流れはあなたが考えているより<line-break>もっと早いものよ。<line-break>よく考えてみることね。<end>"
+english = "<value:$28>... The times move far more quickly than you realize. Think carefully about that.<end>"
+
+["1010014"]
+japanese = "…ほんっとに<line-break>しょうがない、奴…。<end>"
+english = "Honestly... what am I going to do with you?<end>"
+
+["1010015"]
+japanese = "<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>あなたも懲りない人ね、ノーブル伯？<line-break>いつまでも昔のよしみが通用すると<line-break>思わないでもらいたいわ。<end>"
+english = "<value:$28>... You never learn, do you, Count of Noble? Don't think you can rely on our old friendship forever.<end>"
+
+["1010016"]
+japanese = "私たちが同じ道を歩くことは<line-break>もうあり得ない。<line-break>あなたが、今の道を捨てない限り…。<line-break>降伏する気なら、<line-break>私がカルラ将軍との間を<line-break>取り持ってあげてもいいけど…？<end>"
+english = "We can never walk the same path again, not unless you abandon the path you're on. If you're willing to surrender, I could speak to General Karula on your behalf...?<end>"
+
+["1010017"]
+japanese = "…早く行きなさい。<line-break>戦場で運命の女神が教えてくれるわ。<line-break>どちらの道が正しかったのか。<end>"
+english = "Go, quickly. On the battlefield, the Goddess of Fate will reveal which path was right.<end>"
+
+["1010018"]
+japanese = "ノーブル伯<value:$28>！<line-break>こんな所で何をしている！\u3000<line-break>\u3000<line-break>早く出ていきなさい！<line-break>こんな所に来ていい身分だと<line-break>思っているの？<end>"
+english = "Count <value:$28> of Noble! What are you doing here? Get out, now! Do you think someone in your position has any right to come here?<end>"
+
+["1010019"]
+japanese = "ほんっとに<line-break>いつまでたっても子供なんだから！<end>"
+english = "Honestly, you'll always be a child!<end>"
+
+["1010020"]
+japanese = "<value:$28>…。<line-break><line-break><line-break>…どういうつもり？<line-break>あなた、ゼネテスの配下なのよ。<line-break>次の私たちの目標がわからないの？<end>"
+english = "<value:$28>... What are you thinking? You serve under Xenetes. Don't you know what our next target is?<end>"
+
+["1010021"]
+japanese = "ロストールはもう目と鼻の先。\u3000\u3000<line-break>無駄な抵抗などせずに、<line-break>さっさと降伏することね。<line-break>その方が、犠牲者も少なくなるわ。<line-break>あなたも命を失わなくて<line-break>すむでしょうし。<end>"
+english = "Rostorl is almost within our reach. Don't put up a pointless resistance. Surrender now. That will mean fewer casualties, and it may save your life as well.<end>"
+
+["1010022"]
+japanese = "…早く行きなさい。<line-break>戦場で運命の女神が教えてくれるわ。<line-break>どちらの道が正しかったのか。<end>"
+english = "Go, quickly. On the battlefield, the Goddess of Fate will reveal which path was right.<end>"
+
+["1010023"]
+japanese = "ほんっとに<line-break>しょうがない奴…。<end>"
+english = "Honestly... what am I going to do with you?<end>"
+
+["1010024"]
+japanese = "<value:$28>…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>あなたも懲りない人ね。<line-break>いつまでも昔のよしみが通用すると<line-break>思わないでもらいたいわ。<end>"
+english = "<value:$28>... You never learn, do you? Don't think you can rely on our old friendship forever.<end>"
+
+["1010025"]
+japanese = "私たちが同じ道を歩くことは<line-break>もう、あり得ない。<line-break>あなたが今の道を捨てない限り…。<line-break>降伏するというのなら、<line-break>私がカルラ将軍との間を<line-break>取り持ってあげてもいいけど…。<end>"
+english = "We can never walk the same path again, not unless you abandon the path you're on. If you're willing to surrender, I could speak to General Karula on your behalf...<end>"
+
+["1010026"]
+japanese = "…<value:$28>。<line-break>救いようのない頑固者ね。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>時の流れはあなたが考えているよりも<line-break>もっと早いものよ。<line-break>よく考えてみることね。<end>"
+english = "<value:$28>... You're hopelessly stubborn. The times move far more quickly than you realize. Think carefully about that.<end>"
+
+["1010027"]
+japanese = "…どうして、<line-break>ゼネテスの配下なんかに…。<end>"
+english = "Why did you have to end up serving Xenetes...?<end>"
+
+["1010028"]
+japanese = "ロストールの<value:$28>！<line-break>こんな所で何をしている！\u3000<line-break>\u3000<line-break>早く出ていきなさい！<line-break>こんな所に来ていい身分だと<line-break>思っているの？<end>"
+english = "<value:$28> of Rostorl! What are you doing here? Get out, now! Do you think someone in your position has any right to come here?<end>"
+
+["1010029"]
+japanese = "ほんっとに<line-break>いつまでたっても子供なんだから！<end>"
+english = "Honestly, you'll always be a child!<end>"
+
+["1010030"]
+japanese = "<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>お互いに目指しているものが違うの。<line-break>だから、あなたは早く私から卒業して<line-break>あなたの目指しているものを…<end>"
+english = "<value:$28>... We seek different things. It's time you moved on from me and pursued what you want...<end>"
+
+["1010031"]
+japanese = "…早く行きなさい。<end>"
+english = "Go, quickly.<end>"
+
+["1010032"]
+japanese = "…がんばってね、<line-break><value:$28>。<end>"
+english = "Good luck, <value:$28>.<end>"
+
+["1010033"]
+japanese = "もう、私はあなたを守れないの。<line-break>もう、私は…。<end>"
+english = "I can't protect you anymore. I...<end>"
+
+["1010034"]
+japanese = "…もういいわ。<line-break>早く行きなさい。<end>"
+english = "Enough. Go, quickly.<end>"
+
+["1010035"]
+japanese = "…気をつけるのよ、<line-break><value:$28>。<end>"
+english = "Take care, <value:$28>.<end>"
+
+["1010036"]
+japanese = "<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>…せっかくだけど、今は忙しいの。<line-break>時間があれば、手合わせぐらいなら<line-break>かまわないけれど…。<end>"
+english = "<value:$28>... Sorry, but I'm busy right now. If I had time, I wouldn't mind sparring with you...<end>"
+
+["1010037"]
+japanese = "…もう、あなたは私抜きで<line-break>行かなければならないの。<end>"
+english = "From now on, you'll have to go on without me.<end>"
+
+["1010038"]
+japanese = "立派な冒険者になってね、<line-break><value:$28>。<end>"
+english = "Become a fine adventurer, <value:$28>.<end>"
+
+["1010039"]
+japanese = "…私、軍務で忙しいの。<line-break>あなたも早く私から卒業して。<line-break>それじゃ、<value:$28>。<end>"
+english = "I'm busy with my military duties. It's time you moved on from me. See you, <value:$28>.<end>"
+
+["1010040"]
+japanese = "<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>帝国に弓ひく身でありながら<line-break>私の前に出てくるなんて<line-break>いい度胸ね。<end>"
+english = ""
+
+["1010041"]
+japanese = "いつまでも解放軍に味方してても<line-break>なんにもならないわよ。<line-break>私たちの方についたらどう？<end>"
+english = ""
+
+["1010042"]
+japanese = "そう言うと思った。<line-break>相変わらず、バカね。\u3000<line-break>\u3000<line-break>今度、私と目があったら<line-break>すぐに逃げることね。<line-break>…首が飛ぶわよ。<end>"
+english = ""
+
+["1010043"]
+japanese = "早く、行きなさい。<end>"
+english = ""
+
+["1010044"]
+japanese = "…<value:$28>、<line-break>まだ、解放軍に味方してるの？<end>"
+english = ""
+
+["1010045"]
+japanese = "…<value:$28>。<line-break>時勢を見る目くらいは持つべきね。<line-break>\u3000<line-break>いつまでも昔のまま、なんてことは<line-break>ないのよ。時の流れの速さを嘆いても<line-break>なんにもならないわ。<end>"
+english = ""
+
+["1010046"]
+japanese = "…私たちがなんらかの形で<line-break>決着をつけるときが必ず来るわ。<line-break>それまで、せいぜい死なないでね。<end>"
+english = ""
+
+["1010047"]
+japanese = "…<value:$28>、あなたと私は<line-break>目指しているものが違うの！<end>"
+english = "<value:$28>, you and I are striving for different things!<end>"
+
+["1010048"]
+japanese = "………………。<end>"
+english = "...<end>"
+
+["1010049"]
+japanese = "…あなたとの決着をつけるのに<line-break>この場所はふさわしくないわ。\u3000<line-break>\u3000<line-break>その力があるなら、<line-break>私たちに挑んできなさい。<line-break>いつでも、踏みつぶしてあげる。<end>"
+english = "This isn't the place to settle things between us. If you're truly that strong, come challenge us. We'll crush you anytime.<end>"
+
+["1010050"]
+japanese = "<value:$28>！<line-break>こんな所で何をしている！\u3000<line-break>\u3000<line-break>早く出ていきなさい！<line-break>今回だけは見逃すけど<line-break>もう私の前に顔を出すないで！<end>"
+english = "<value:$28>! What are you doing here? Get out, now! I'll let you go this once, but don't ever show your face to me again!<end>"
+
+["1010051"]
+japanese = "…次は…ないわ。<end>"
+english = "There won't be a next time.<end>"
+
+["1010052"]
+japanese = "<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>どういうつもりでここに来ているの？<line-break>次の私たちの目標は<line-break>わかっているはず…。<end>"
+english = "<value:$28>... What were you thinking, coming here? You know what our next target is...<end>"
+
+["1010053"]
+japanese = "ロストールはもう私たちの目と鼻の先。<line-break>無駄な抵抗などせずに、<line-break>さっさと降伏することね。<line-break>その方が、犠牲者も少なくなるわ。<line-break>あなたも、命を失わなくて<line-break>すむでしょうし。<end>"
+english = "Rostorl is almost within our reach. Don't put up a pointless resistance. Surrender now. That will mean fewer casualties, and it may save your life as well.<end>"
+
+["1010054"]
+japanese = "フフ、それって<line-break>貴族の誇り…かしら？<end>"
+english = "Heh. Is that what you call a noble's pride?<end>"
+
+["1010055"]
+japanese = "…決着をつける日を<line-break>楽しみにしているわ。<end>"
+english = "I'm looking forward to the day we settle this.<end>"
+
+["1010056"]
+japanese = "<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>あなたも懲りない人ね、ノーブル伯？<line-break>いつまでも昔のよしみが通用すると<line-break>思わないでもらいたいわ。<end>"
+english = "<value:$28>... You never learn, do you, Count of Noble? Don't think you can rely on our old friendship forever.<end>"
+
+["1010057"]
+japanese = "私たちが同じ道を歩くことは<line-break>もうあり得ない。<line-break>あなたが、今の道を捨てない限り…。<line-break>降伏するというのなら、<line-break>私がカルラ将軍との間を<line-break>取り持ってあげてもいいけど…？<end>"
+english = "We can never walk the same path again, not unless you abandon the path you're on. If you're willing to surrender, I could speak to General Karula on your behalf...?<end>"
+
+["1010058"]
+japanese = "埋めようがない溝があるのかしら？<line-break>私たちの間には…。<line-break>\u3000<line-break>時の流れはあなたが考えているより<line-break>もっと早いものよ。<line-break>よく考えてみることね。<end>"
+english = "Is there a gulf between us that can never be bridged? The times move far more quickly than you realize. Think carefully about that.<end>"
+
+["1010059"]
+japanese = "ノーブル伯<value:$28>！<line-break>こんな所で何をしている！\u3000<line-break>\u3000<line-break>早く出ていきなさい！<line-break>こんな所に来ていい身分だと<line-break>思っているの？<end>"
+english = "Count <value:$28> of Noble! What are you doing here? Get out, now! Do you think someone in your position has any right to come here?<end>"
+
+["1010060"]
+japanese = "今度会うときは<line-break>戦場ね。<end>"
+english = "The next time we meet, it will be on the battlefield.<end>"
+
+["1010061"]
+japanese = "<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>…あなたはゼネテスの配下よ。<line-break>どういうつもりでここに来たの？<line-break>次の私たちの目標がわからないの？<end>"
+english = "<value:$28>... You serve under Xenetes. What were you thinking, coming here? Don't you know what our next target is?<end>"
+
+["1010062"]
+japanese = "ロストールはもう目と鼻の先。\u3000\u3000<line-break>無駄な抵抗などせずに、<line-break>さっさと降伏することね。<line-break>その方が、犠牲者も少なくなるわ。<line-break>あなたも命を失わなくて<line-break>すむでしょうし。<end>"
+english = "Rostorl is almost within our reach. Don't put up a pointless resistance. Surrender now. That will mean fewer casualties, and it may save your life as well.<end>"
+
+["1010063"]
+japanese = "…今度会うときは<line-break>戦場…というわけね。<end>"
+english = "So the next time we meet... it will be on the battlefield.<end>"
+
+["1010064"]
+japanese = "<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>あなたも懲りない人ね。<line-break>いつまでも昔のよしみが通用すると<line-break>思わないでもらいたいわ。<end>"
+english = "<value:$28>... You never learn, do you? Don't think you can rely on our old friendship forever.<end>"
+
+["1010065"]
+japanese = "私たちが同じ道を歩くことは<line-break>もう、あり得ない。<line-break>あなた、今の道を捨てない限り…。<line-break>降伏するというのなら、<line-break>私がカルラ将軍との間を<line-break>取り持ってあげてもいいけど…。<end>"
+english = "We can never walk the same path again, not unless you abandon the path you're on. If you're willing to surrender, I could speak to General Karula on your behalf...<end>"
+
+["1010066"]
+japanese = "あなたと戦場で決着がつけられそうね。<line-break>…武人としてはうれしい答えだわ。<line-break>\u3000<line-break>でも、一度よく考えてみるといいわ。<line-break>時の流れはあなたが考えているよりも<line-break>もっと早いものなのよ。<end>"
+english = "It seems we'll be able to settle this on the battlefield. As a warrior, I'm glad to hear that answer. But you should think it over carefully. The times move far more quickly than you realize.<end>"
+
+["1010067"]
+japanese = "ロストールの<value:$28>！<line-break>こんな所で何をしている！\u3000<line-break>早く出ていきなさい！<line-break>こんな所に来ていい身分だと<line-break>思っているの？<end>"
+english = "<value:$28> of Rostorl! What are you doing here? Get out, now! Do you think someone in your position has any right to come here?<end>"
+
+["1010068"]
+japanese = "戦場で会いましょ。<line-break><value:$28>。<end>"
+english = "I'll see you on the battlefield, <value:$28>.<end>"
+
+["1010069"]
+japanese = "<value:$28>、何の用かしら？<line-break>あなたも、青竜軍に加わりたいの？\u3000<line-break>\u3000<line-break>それなら、私がカルラ様との間を<line-break>取り持ってあげるわ。<line-break>味方はひとりでも欲しいところなの。<end>"
+english = "What can I do for you, <value:$28>? Do you want to join the Azure Dragon Army too? If so, I'll speak to Lady Karula on your behalf. We need every ally we can get.<end>"
+
+["1010070"]
+japanese = "そう、残念ね。あなたと私がいれば、<line-break>青竜軍もますます強くなれるのに。<line-break>\u3000<line-break>あなたも、早く、落ち着ける場所が<line-break>見つかるといいわね。<line-break>それじゃあね、<value:$28>。<end>"
+english = "Oh, that's a shame. With both of us, the Azure Dragon Army could grow stronger still. I hope you find somewhere you can settle down soon. See you, <value:$28>.<end>"
+
+["1010071"]
+japanese = "<value:$28>、どうしたの？<line-break>私に用？\u3000それともカルラ様？<end>"
+english = "What's the matter, <value:$28>? Did you need me, or Lady Karula?<end>"
+
+["1010072"]
+japanese = "何も用がないのなら、どうして\u3000\u3000\u3000\u3000<line-break>こんな所に来てるのかしら。<line-break>\u3000<line-break>あいにく、私はこの前の戦いの処理で<line-break>忙しいの。今度、また冒険の話でも<line-break>聞かせて。<end>"
+english = "If you don't need anything, why are you here? I'm afraid I'm busy dealing with the aftermath of the last battle. Tell me about your adventures another time.<end>"
+
+["1010073"]
+japanese = "でも、用もないのに来てはダメよ。<line-break>ここは軍隊なんだから。公私の混同は<line-break>軍人の最もさけるべきことだもの。<line-break>それじゃあね、<value:$28>。<end>"
+english = "But don't come here when you have no business here. This is an army. A soldier must never mix personal and official matters. See you, <value:$28>.<end>"
+
+["1010074"]
+japanese = "<value:$28>、冒険の方はどう？<line-break>何かおもしろいことでもあった？<end>"
+english = "How are your adventures going, <value:$28>? Has anything interesting happened?<end>"
+
+["1010075"]
+japanese = "へぇ、そんなことがあったの。\u3000\u3000\u3000<line-break>やるわね、<value:$28>。<line-break>\u3000<line-break>私の方もようやく軍隊が<line-break>どういうものか、わかってきたわ。<line-break>でも、まだダメなところもあるわね。<end>"
+english = "Oh, really? Not bad, <value:$28>. I'm finally starting to understand how an army works too, though I've still got a ways to go.<end>"
+
+["1010076"]
+japanese = "問題にぶつかるたびに、カルラ様の<line-break>すごさに感心しちゃうわね。私より<line-break>年下なのに立派にこなしているもの。<line-break>私も負けてられないわ。<line-break>それじゃあね、<value:$28>。<end>"
+english = "Every time I run into a problem, I'm impressed all over again by Lady Karula. She's younger than I am, but she handles everything so capably. I can't afford to fall behind. See you, <value:$28>.<end>"
+
+["1010077"]
+japanese = "…私、軍務で忙しいの。<line-break><value:$28>、それじゃ。<end>"
+english = "I'm busy with my military duties. See you, <value:$28>.<end>"
+
+["1010078"]
+japanese = "予備メッセージ１<line-break>アイリーン、ボリューム４<end>"
+english = ""
+
+["1010079"]
+japanese = "予備メッセージ２<line-break>アイリーン、ボリューム４<end>"
+english = ""
+
+["1010080"]
+japanese = "予備メッセージ３<line-break>アイリーン、ボリューム４<end>"
+english = ""
+
+["1010081"]
+japanese = "予備メッセージ４<line-break>アイリーン、ボリューム４<end>"
+english = ""
+
+["1010082"]
+japanese = "予備メッセージ５<line-break>アイリーン、ボリューム４<end>"
+english = ""
+
+["1010083"]
+japanese = "予備メッセージ６<line-break>アイリーン、ボリューム４<end>"
+english = ""
+
+["1010084"]
+japanese = "予備メッセージ７<line-break>アイリーン、ボリューム４<end>"
+english = ""
+
+["1010085"]
+japanese = "予備メッセージ８<line-break>アイリーン、ボリューム４<end>"
+english = ""
+
+["1010086"]
+japanese = "予備メッセージ９<line-break>アイリーン、ボリューム４<end>"
+english = ""
+
+["1010087"]
+japanese = "予備メッセージ１０<line-break>アイリーン、ボリューム４<end>"
+english = ""
+
+["1010088"]
+japanese = "アイリーンメッセージ終端<end>"
+english = ""

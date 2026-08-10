@@ -1,0 +1,10634 @@
+format = "zill-message-categories"
+version = 1
+
+[[range]]
+first = 0
+last = 9999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 10000
+last = 10012
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10013
+last = 10014
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10015
+last = 10015
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10016
+last = 10017
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10018
+last = 10018
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10019
+last = 10020
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10021
+last = 10021
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10022
+last = 10023
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10024
+last = 10024
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10025
+last = 10026
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10027
+last = 10027
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10028
+last = 10029
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10030
+last = 10030
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10031
+last = 10032
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10033
+last = 10033
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10034
+last = 10035
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10036
+last = 10036
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10037
+last = 10038
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10039
+last = 10039
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10040
+last = 10041
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10042
+last = 10042
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10043
+last = 10044
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10045
+last = 10045
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10046
+last = 10047
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10048
+last = 10048
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10049
+last = 10050
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10051
+last = 10051
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10052
+last = 10053
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10054
+last = 10054
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10055
+last = 10056
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10057
+last = 10057
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10058
+last = 10059
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10060
+last = 10060
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10061
+last = 10062
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10063
+last = 10063
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10064
+last = 10065
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10066
+last = 10066
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10067
+last = 10068
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10069
+last = 10069
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10070
+last = 10071
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10072
+last = 10072
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10073
+last = 10074
+category = "character-creation-choice"
+basis = "verified"
+
+[[range]]
+first = 10075
+last = 10075
+category = "character-creation-prompt"
+basis = "verified"
+
+[[range]]
+first = 10076
+last = 10175
+category = "player-name-option"
+basis = "verified"
+
+[[range]]
+first = 10176
+last = 10199
+category = "origin-scenario"
+basis = "verified"
+
+[[range]]
+first = 10200
+last = 19999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 20000
+last = 20009
+category = "controller-label"
+basis = "verified"
+
+[[range]]
+first = 20010
+last = 20018
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 20019
+last = 20024
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 20025
+last = 20075
+category = "ability-command-name"
+basis = "verified"
+
+[[range]]
+first = 20076
+last = 20104
+category = "battle-notification"
+basis = "verified"
+
+[[range]]
+first = 20105
+last = 20112
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 20113
+last = 20116
+category = "battle-notification"
+basis = "verified"
+
+[[range]]
+first = 20117
+last = 20124
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 20125
+last = 20365
+category = "combat-action-name"
+basis = "verified"
+
+[[range]]
+first = 20366
+last = 20366
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 20367
+last = 20394
+category = "combat-action-name"
+basis = "verified"
+
+[[range]]
+first = 20395
+last = 29999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 30000
+last = 30020
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 30022
+last = 30032
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 30034
+last = 30034
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 30037
+last = 30037
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 40000
+last = 40019
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 40020
+last = 40020
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 50000
+last = 50013
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 50014
+last = 50014
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 60000
+last = 60005
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 60007
+last = 60047
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 60051
+last = 60051
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 70000
+last = 70018
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 70019
+last = 70020
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 70024
+last = 70026
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 70027
+last = 70028
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 70029
+last = 70029
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 80000
+last = 80015
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 80016
+last = 80016
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 90000
+last = 90010
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 90011
+last = 90011
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 100000
+last = 100011
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 100018
+last = 100018
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 110000
+last = 110029
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 110033
+last = 110033
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 120000
+last = 120000
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 120001
+last = 120004
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 120005
+last = 120005
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 130000
+last = 130009
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 130024
+last = 130024
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 140000
+last = 140020
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 140021
+last = 140021
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 150000
+last = 150017
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 150021
+last = 150021
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 160011
+last = 160014
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 160035
+last = 160035
+category = "guild-ui-voiced-copy"
+basis = "verified"
+
+[[range]]
+first = 160043
+last = 160043
+category = "guild-ui-voiced-copy"
+basis = "verified"
+
+[[range]]
+first = 160048
+last = 160131
+category = "guild-ui-voiced-copy"
+basis = "verified"
+
+[[range]]
+first = 170000
+last = 170005
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 170006
+last = 170009
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 170010
+last = 170025
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 170026
+last = 170026
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 170027
+last = 170028
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 170029
+last = 170030
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 170031
+last = 170031
+category = "in-world-guidance"
+basis = "verified"
+
+[[range]]
+first = 170032
+last = 170038
+category = "in-world-guidance"
+basis = "verified"
+
+[[range]]
+first = 170039
+last = 170039
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 170040
+last = 170043
+category = "in-world-guidance"
+basis = "verified"
+
+[[range]]
+first = 170044
+last = 170047
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 170048
+last = 170048
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 170049
+last = 170168
+category = "equipment-name"
+basis = "verified"
+
+[[range]]
+first = 170169
+last = 170211
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 170212
+last = 170220
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 170221
+last = 170294
+category = "audio-cue-label"
+basis = "verified"
+
+[[range]]
+first = 180000
+last = 180085
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 180086
+last = 180150
+category = "epithet-component"
+basis = "verified"
+
+[[range]]
+first = 180151
+last = 189999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 190000
+last = 190389
+category = "character-profile"
+basis = "verified"
+
+[[range]]
+first = 200000
+last = 200023
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 200024
+last = 200025
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 200026
+last = 200040
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 200041
+last = 200050
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 200051
+last = 200071
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 200072
+last = 200073
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 200074
+last = 200075
+category = "controller-label"
+basis = "verified"
+
+[[range]]
+first = 200076
+last = 200076
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 200077
+last = 200078
+category = "controller-label"
+basis = "verified"
+
+[[range]]
+first = 200079
+last = 200079
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 200080
+last = 200089
+category = "controller-label"
+basis = "verified"
+
+[[range]]
+first = 200090
+last = 200091
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 200092
+last = 200092
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 200093
+last = 200108
+category = "item-effect-description"
+basis = "verified"
+
+[[range]]
+first = 200109
+last = 200120
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 200121
+last = 200128
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 200129
+last = 200141
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 200142
+last = 200142
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 200143
+last = 200161
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 200162
+last = 200246
+category = "equipment-description"
+basis = "verified"
+
+[[range]]
+first = 200247
+last = 200394
+category = "equipment-feedback"
+basis = "verified"
+
+[[range]]
+first = 200395
+last = 200441
+category = "equipment-description"
+basis = "verified"
+
+[[range]]
+first = 200442
+last = 200463
+category = "inventory-and-status-help"
+basis = "verified"
+
+[[range]]
+first = 200464
+last = 200528
+category = "inventory-and-status-help"
+basis = "verified"
+
+[[range]]
+first = 200529
+last = 200600
+category = "equipment-description"
+basis = "verified"
+
+[[range]]
+first = 200601
+last = 200607
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 200608
+last = 200608
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 200609
+last = 200674
+category = "ability-requirement"
+basis = "verified"
+
+[[range]]
+first = 200675
+last = 209999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210000
+last = 210000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210001
+last = 210002
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210003
+last = 210003
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210004
+last = 210005
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210006
+last = 210006
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210007
+last = 210011
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210012
+last = 210012
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210013
+last = 210017
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210018
+last = 210018
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210019
+last = 210023
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210024
+last = 210024
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210025
+last = 210027
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210028
+last = 210028
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210029
+last = 210029
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210030
+last = 210030
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210031
+last = 210034
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210035
+last = 210060
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 210061
+last = 219999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 260000
+last = 260223
+category = "quest-guidance"
+basis = "verified"
+
+[[range]]
+first = 270000
+last = 270005
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270006
+last = 270006
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 270007
+last = 270013
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270014
+last = 270014
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 270015
+last = 270025
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270026
+last = 270028
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 270029
+last = 270033
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270034
+last = 270036
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 270037
+last = 270037
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270038
+last = 270040
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 270041
+last = 270046
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 270047
+last = 270051
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270052
+last = 270052
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 270053
+last = 270060
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270061
+last = 270061
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 270062
+last = 270065
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270066
+last = 270066
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 270067
+last = 270071
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270072
+last = 270073
+category = "in-world-guidance"
+basis = "verified"
+
+[[range]]
+first = 270074
+last = 270074
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270075
+last = 270075
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 270076
+last = 270077
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270078
+last = 270078
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 270079
+last = 270080
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270081
+last = 270081
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 270082
+last = 270082
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270083
+last = 270083
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 270084
+last = 270085
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 270086
+last = 270089
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270090
+last = 270094
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 270095
+last = 270100
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270101
+last = 270101
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 270102
+last = 270126
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 270127
+last = 270127
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 270128
+last = 279999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 280000
+last = 280000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 280012
+last = 280012
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 280056
+last = 280057
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 280097
+last = 280097
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 280130
+last = 280130
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 280138
+last = 280138
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 280195
+last = 280195
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 280196
+last = 280196
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 290000
+last = 290015
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 300000
+last = 300000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 300015
+last = 300015
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 300020
+last = 300047
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 300054
+last = 300054
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 300109
+last = 300110
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 300115
+last = 300116
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 300120
+last = 300120
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 300129
+last = 300130
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 300131
+last = 300134
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 310000
+last = 310168
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 310169
+last = 310169
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 310170
+last = 310275
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 310276
+last = 310276
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 310277
+last = 310277
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 310278
+last = 310278
+category = "location-route-label"
+basis = "verified"
+
+[[range]]
+first = 310279
+last = 310284
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 310285
+last = 310285
+category = "location-route-label"
+basis = "verified"
+
+[[range]]
+first = 310286
+last = 310311
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 310312
+last = 310330
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 310331
+last = 319999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 320000
+last = 320000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 320001
+last = 320002
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320003
+last = 320003
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320004
+last = 320007
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320008
+last = 320009
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 320010
+last = 320011
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320012
+last = 320012
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320013
+last = 320013
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320014
+last = 320019
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320020
+last = 320020
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320021
+last = 320031
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320032
+last = 320032
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320033
+last = 320033
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320034
+last = 320035
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320036
+last = 320039
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320040
+last = 320042
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320043
+last = 320043
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320044
+last = 320044
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320045
+last = 320045
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320046
+last = 320047
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320048
+last = 320061
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320062
+last = 320062
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320063
+last = 320064
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320065
+last = 320065
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320066
+last = 320070
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320071
+last = 320072
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320073
+last = 320075
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320076
+last = 320077
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320078
+last = 320082
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320083
+last = 320083
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320084
+last = 320096
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320097
+last = 320097
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320098
+last = 320098
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320099
+last = 320099
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320100
+last = 320101
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320102
+last = 320102
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320103
+last = 320108
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320109
+last = 320109
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320110
+last = 320112
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320113
+last = 320114
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320115
+last = 320123
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320124
+last = 320129
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320130
+last = 320133
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320134
+last = 320134
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320135
+last = 320137
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320138
+last = 320138
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320139
+last = 320139
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320140
+last = 320141
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 320142
+last = 320142
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320143
+last = 320144
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 320145
+last = 320146
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320147
+last = 320147
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 320148
+last = 320150
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 320151
+last = 329999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 330000
+last = 330000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 330001
+last = 330179
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 330181
+last = 330201
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 330202
+last = 330203
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 330204
+last = 330207
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 330209
+last = 330245
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 340000
+last = 340000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 340001
+last = 340058
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 340059
+last = 340060
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 340061
+last = 340061
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 340062
+last = 340072
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 350000
+last = 350910
+category = "location-route-label"
+basis = "verified"
+
+[[range]]
+first = 350911
+last = 359999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 360000
+last = 360000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 360001
+last = 360088
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 360089
+last = 360099
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 370000
+last = 370000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 370001
+last = 370286
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 370287
+last = 370307
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 380000
+last = 380000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 380091
+last = 380091
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 380092
+last = 380128
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 380129
+last = 380129
+category = "entity-and-role-label"
+basis = "verified"
+
+[[range]]
+first = 380130
+last = 380130
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 380131
+last = 380131
+category = "entity-and-role-label"
+basis = "verified"
+
+[[range]]
+first = 380132
+last = 380132
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 380133
+last = 380133
+category = "entity-and-role-label"
+basis = "verified"
+
+[[range]]
+first = 380134
+last = 380136
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 380137
+last = 380137
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 390000
+last = 390015
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 400000
+last = 400043
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 400044
+last = 400044
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 400045
+last = 400132
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 400133
+last = 400134
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 400135
+last = 400163
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 400164
+last = 400165
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 400166
+last = 400167
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 400168
+last = 400169
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 400170
+last = 400171
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 400172
+last = 400179
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 400180
+last = 400244
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 400245
+last = 400282
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 400283
+last = 400296
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 400297
+last = 400303
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 400304
+last = 409999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 410000
+last = 410000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 410001
+last = 410017
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 410018
+last = 410018
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 410028
+last = 410149
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 410153
+last = 410163
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 420000
+last = 420000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 420063
+last = 420100
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 420103
+last = 420121
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 420125
+last = 420132
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 420139
+last = 420155
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 420163
+last = 420169
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 420247
+last = 420247
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 420249
+last = 420258
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 420260
+last = 420289
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 420291
+last = 420294
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 420296
+last = 420303
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 420307
+last = 420307
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 430000
+last = 439999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 440000
+last = 440000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 440033
+last = 440037
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 440038
+last = 440041
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 440045
+last = 440045
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 440098
+last = 440098
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 440105
+last = 440115
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 450000
+last = 450124
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 450125
+last = 450125
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 450126
+last = 450297
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 450298
+last = 450307
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 450308
+last = 459999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 460000
+last = 460000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 460001
+last = 460084
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 460085
+last = 460086
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 460087
+last = 460108
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 460109
+last = 460109
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 460110
+last = 460170
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 460171
+last = 460176
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 460177
+last = 460202
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 460203
+last = 460205
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 460206
+last = 460206
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 460207
+last = 460211
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 460212
+last = 460212
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 460213
+last = 460214
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 460215
+last = 460216
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 460217
+last = 460229
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 460230
+last = 460231
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 460232
+last = 460243
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 460244
+last = 460259
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 460260
+last = 469999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 470000
+last = 470000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 470001
+last = 470004
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 470005
+last = 470006
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 470007
+last = 470007
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 470008
+last = 470009
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 470010
+last = 470011
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 470012
+last = 470012
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 470013
+last = 470013
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 470014
+last = 470014
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 470015
+last = 470015
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 470016
+last = 470022
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 470023
+last = 470023
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 470024
+last = 470031
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 470032
+last = 470033
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 470034
+last = 470034
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 470035
+last = 470035
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 470036
+last = 470036
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 470037
+last = 470039
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 470040
+last = 470043
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 470044
+last = 470052
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 470053
+last = 479999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 480000
+last = 480000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 480001
+last = 480002
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480003
+last = 480003
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480004
+last = 480004
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480005
+last = 480006
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 480007
+last = 480007
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480008
+last = 480009
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480010
+last = 480011
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480012
+last = 480012
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480013
+last = 480013
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480014
+last = 480015
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480016
+last = 480016
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480017
+last = 480017
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480018
+last = 480019
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480020
+last = 480024
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 480025
+last = 480025
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480026
+last = 480027
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 480028
+last = 480029
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 480030
+last = 480032
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480033
+last = 480036
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 480037
+last = 480038
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480039
+last = 480039
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 480040
+last = 480040
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480041
+last = 480041
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 480042
+last = 480043
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 480044
+last = 480045
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 480046
+last = 480055
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 480056
+last = 489999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 490000
+last = 490000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 490001
+last = 490035
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 490036
+last = 490037
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 490038
+last = 490075
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 490076
+last = 490089
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 490090
+last = 490110
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 490111
+last = 490112
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 490113
+last = 490131
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 490132
+last = 490138
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 490139
+last = 490269
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 490270
+last = 490275
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 490276
+last = 490277
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 490278
+last = 490286
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 490287
+last = 490298
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 490299
+last = 490320
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 490321
+last = 490326
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 490327
+last = 499999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 500000
+last = 500000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 500013
+last = 500013
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 500014
+last = 500017
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 500018
+last = 500019
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 500020
+last = 500024
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 500025
+last = 500026
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 500027
+last = 500028
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 500029
+last = 500040
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 500041
+last = 500051
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 510000
+last = 510000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 510058
+last = 510111
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 510112
+last = 510112
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 510113
+last = 510157
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 510158
+last = 510159
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 510160
+last = 510160
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 510161
+last = 510168
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 520000
+last = 520000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 520001
+last = 520172
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 520173
+last = 520183
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 530000
+last = 530000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 530026
+last = 530033
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 530036
+last = 530037
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 530038
+last = 530038
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 540000
+last = 540027
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 550000
+last = 550000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 550001
+last = 550199
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 550200
+last = 550200
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 550201
+last = 550377
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 550378
+last = 550388
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 560000
+last = 560000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 560001
+last = 560341
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560342
+last = 560342
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560343
+last = 560352
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 560383
+last = 560383
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 560384
+last = 560392
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560424
+last = 560433
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560444
+last = 560444
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 560445
+last = 560448
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560449
+last = 560449
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 560536
+last = 560539
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560596
+last = 560596
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560630
+last = 560636
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560651
+last = 560658
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560661
+last = 560664
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560759
+last = 560759
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560806
+last = 560806
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560887
+last = 560887
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 560896
+last = 560896
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 560897
+last = 560902
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 560903
+last = 560903
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 560910
+last = 560911
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 560918
+last = 560918
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 560940
+last = 560940
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 560952
+last = 560952
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 570000
+last = 570000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 570001
+last = 570054
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 570055
+last = 570060
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 570063
+last = 570071
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 570072
+last = 570079
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 570113
+last = 570140
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 570141
+last = 570149
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 580000
+last = 580000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 580077
+last = 580078
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 580089
+last = 580089
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 580102
+last = 580102
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 580105
+last = 580113
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 590000
+last = 590000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 590008
+last = 590009
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 590035
+last = 590087
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 590089
+last = 590089
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 590090
+last = 590091
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 590092
+last = 590118
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 590119
+last = 590120
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 590121
+last = 590129
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 600000
+last = 600000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 600001
+last = 600010
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 600011
+last = 600021
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 600022
+last = 609999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 610000
+last = 610000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 610001
+last = 610007
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 610008
+last = 610008
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 610009
+last = 610016
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 610017
+last = 610027
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 610028
+last = 619999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 620000
+last = 640000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 640001
+last = 640073
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 640074
+last = 640074
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 640075
+last = 640215
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 640216
+last = 640221
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 640222
+last = 640277
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 640278
+last = 640279
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 640280
+last = 640298
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 640299
+last = 640312
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 640313
+last = 640331
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 640332
+last = 640335
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 640336
+last = 640337
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 640338
+last = 640346
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 640347
+last = 649999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 650000
+last = 650107
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 650108
+last = 650109
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 650110
+last = 650117
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 650118
+last = 650123
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 650124
+last = 659999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 660000
+last = 660000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 660001
+last = 660089
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 660090
+last = 660090
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 660091
+last = 660174
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 660175
+last = 660185
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 660186
+last = 669999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 670000
+last = 670000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 670001
+last = 670053
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 670054
+last = 670083
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 670084
+last = 670085
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 670086
+last = 670101
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 670102
+last = 670109
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 670110
+last = 679999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 680000
+last = 680011
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 680012
+last = 680014
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 680015
+last = 680015
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 680016
+last = 689999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690000
+last = 690000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690001
+last = 690001
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690002
+last = 690077
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690078
+last = 690078
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690079
+last = 690112
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690113
+last = 690113
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690114
+last = 690126
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690127
+last = 690184
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690185
+last = 690186
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 690187
+last = 690192
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690193
+last = 690194
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 690195
+last = 690196
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690197
+last = 690197
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 690198
+last = 690208
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690209
+last = 690210
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 690211
+last = 690224
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690225
+last = 690228
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690229
+last = 690229
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690230
+last = 690231
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690232
+last = 690247
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690248
+last = 690251
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690252
+last = 690265
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690266
+last = 690266
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690267
+last = 690268
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690269
+last = 690269
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690270
+last = 690270
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690271
+last = 690274
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690275
+last = 690275
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 690276
+last = 690278
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690279
+last = 690279
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 690280
+last = 699999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700000
+last = 700004
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700005
+last = 700006
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 700007
+last = 700015
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700016
+last = 700017
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 700018
+last = 700024
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700025
+last = 700026
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 700027
+last = 700094
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700095
+last = 700096
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700097
+last = 700110
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700111
+last = 700112
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700113
+last = 700119
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700120
+last = 700122
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700123
+last = 700135
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700136
+last = 700137
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700138
+last = 700155
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700156
+last = 700157
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700158
+last = 700173
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700174
+last = 700175
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700176
+last = 700181
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700182
+last = 700183
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700184
+last = 700186
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700187
+last = 700188
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700189
+last = 700198
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 700199
+last = 700218
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 700219
+last = 709999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 710000
+last = 710000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 710001
+last = 710028
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 710029
+last = 710035
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 710036
+last = 710041
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 710042
+last = 710048
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 710049
+last = 710050
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 710051
+last = 710055
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 710056
+last = 710056
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 710057
+last = 710064
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 710065
+last = 710065
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 710066
+last = 710084
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 710085
+last = 710085
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 710086
+last = 710136
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 710137
+last = 710139
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 710140
+last = 710140
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 710141
+last = 710145
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 710146
+last = 710149
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 710150
+last = 719999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 720000
+last = 720000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 720001
+last = 720027
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 720028
+last = 720028
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 720029
+last = 720046
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 720047
+last = 720047
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 720048
+last = 720049
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 720050
+last = 720053
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 720054
+last = 720089
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 720090
+last = 720090
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 720091
+last = 720099
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 720100
+last = 720104
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 720105
+last = 720112
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 720113
+last = 720123
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 720124
+last = 729999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 730000
+last = 730000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 730001
+last = 730008
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 730009
+last = 730031
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 730032
+last = 730032
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 730033
+last = 730090
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 730091
+last = 730091
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 730092
+last = 730093
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 730094
+last = 730094
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 730095
+last = 730101
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 730102
+last = 730122
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 730123
+last = 730133
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 730134
+last = 739999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 740000
+last = 740000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 740001
+last = 740044
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 740045
+last = 740055
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 740056
+last = 749999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 750000
+last = 759999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 760000
+last = 760000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 760001
+last = 760001
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 760002
+last = 760111
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 760112
+last = 769999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 770000
+last = 770000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 770001
+last = 770011
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 770012
+last = 770017
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 770018
+last = 770023
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 770024
+last = 770026
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 770027
+last = 770044
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 770045
+last = 770070
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 770071
+last = 770089
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 770090
+last = 770090
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 770091
+last = 770093
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 770094
+last = 770095
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 770096
+last = 770150
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 770151
+last = 770161
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 770162
+last = 779999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 780000
+last = 780000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 780001
+last = 780011
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 780012
+last = 780021
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 780022
+last = 780022
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 780023
+last = 780025
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 780026
+last = 780026
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 780027
+last = 780031
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 780032
+last = 780033
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 780034
+last = 780035
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 780036
+last = 780038
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 780039
+last = 780040
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 780041
+last = 780085
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 780086
+last = 780096
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 780097
+last = 789999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 790000
+last = 790000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 790001
+last = 790040
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 790041
+last = 790041
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 790042
+last = 790050
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 790051
+last = 790051
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 790052
+last = 790053
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 790054
+last = 790058
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 790059
+last = 790059
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 790060
+last = 790063
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 790064
+last = 790066
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 790067
+last = 790067
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 790068
+last = 790068
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 790069
+last = 790073
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 790074
+last = 790131
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 790132
+last = 790140
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 790141
+last = 799999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 800000
+last = 800000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 800001
+last = 800007
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 800008
+last = 800030
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 800031
+last = 800031
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 800032
+last = 800033
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 800034
+last = 800061
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 800062
+last = 800062
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 800063
+last = 800073
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 800074
+last = 800074
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 800075
+last = 800076
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 800077
+last = 800077
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 800078
+last = 800085
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 800086
+last = 800096
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 800097
+last = 809999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 810000
+last = 810000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 810001
+last = 810001
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 810002
+last = 810012
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 810013
+last = 819999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 820000
+last = 820000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 820001
+last = 820003
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 820004
+last = 820014
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 820015
+last = 829999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 830000
+last = 830000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 830001
+last = 830022
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 830023
+last = 830024
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 830025
+last = 830027
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 830028
+last = 830038
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 830039
+last = 839999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 840000
+last = 840163
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 840164
+last = 840172
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 840173
+last = 840225
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 840226
+last = 849999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 850000
+last = 850000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 850001
+last = 850001
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 850002
+last = 850003
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 850004
+last = 850028
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 850029
+last = 850030
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 850031
+last = 850039
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 850040
+last = 850041
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 850042
+last = 850046
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 850047
+last = 850048
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 850049
+last = 850170
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 850171
+last = 850181
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 850182
+last = 859999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 860000
+last = 860000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 860001
+last = 860001
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 860002
+last = 860017
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 860018
+last = 860028
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 860029
+last = 869999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 870000
+last = 870000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 870001
+last = 870034
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 870035
+last = 870042
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 870043
+last = 870043
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 870044
+last = 870045
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 870046
+last = 879999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 880000
+last = 880033
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 880034
+last = 880034
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 880035
+last = 880080
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 880081
+last = 880082
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 880083
+last = 880088
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 880089
+last = 880091
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 880092
+last = 880097
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 880098
+last = 880126
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 880127
+last = 880298
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 880299
+last = 880302
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 880303
+last = 880303
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 880304
+last = 889999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890000
+last = 890000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890001
+last = 890028
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890029
+last = 890030
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890031
+last = 890032
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890033
+last = 890051
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890052
+last = 890052
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890053
+last = 890126
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890127
+last = 890135
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890136
+last = 890148
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890149
+last = 890150
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890151
+last = 890194
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890195
+last = 890196
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890197
+last = 890198
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890199
+last = 890199
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890200
+last = 890201
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890202
+last = 890204
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890205
+last = 890287
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890288
+last = 890288
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890289
+last = 890300
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890301
+last = 890301
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890302
+last = 890314
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890315
+last = 890315
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890316
+last = 890339
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890340
+last = 890340
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890341
+last = 890351
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890352
+last = 890354
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890355
+last = 890395
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890396
+last = 890434
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890435
+last = 890447
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890448
+last = 890453
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890454
+last = 890471
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890472
+last = 890472
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890473
+last = 890495
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890496
+last = 890496
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890497
+last = 890554
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890555
+last = 890561
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890562
+last = 890562
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890563
+last = 890563
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 890564
+last = 890564
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890565
+last = 890572
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 890573
+last = 890573
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890574
+last = 890578
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 890579
+last = 890584
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890585
+last = 890598
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 890599
+last = 890607
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890608
+last = 890610
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890611
+last = 890612
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890613
+last = 890615
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890616
+last = 890618
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890619
+last = 890632
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890633
+last = 890635
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890636
+last = 890699
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890700
+last = 890702
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890703
+last = 890704
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 890705
+last = 890732
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 890733
+last = 890740
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890741
+last = 890741
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 890742
+last = 899999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 900000
+last = 900000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 900001
+last = 900005
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 900006
+last = 900021
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 900022
+last = 900032
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 900033
+last = 909999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 910000
+last = 910000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 910001
+last = 910005
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 910006
+last = 919999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 920000
+last = 920000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 920001
+last = 920002
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 920003
+last = 920011
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 920012
+last = 920012
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 920013
+last = 920025
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 920026
+last = 920027
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 920028
+last = 929999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 930000
+last = 940016
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 940017
+last = 940025
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 940026
+last = 949999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 950000
+last = 950063
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 950064
+last = 950064
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 950065
+last = 959999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 960000
+last = 969999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 970000
+last = 970000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 970001
+last = 970006
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 970007
+last = 970008
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 970009
+last = 970068
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 970069
+last = 979999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 980000
+last = 980000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 980001
+last = 980020
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 980021
+last = 980022
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 980023
+last = 980024
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 980025
+last = 989999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 990000
+last = 990000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 990001
+last = 990022
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 990023
+last = 990041
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 990042
+last = 990141
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 990142
+last = 999999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1000000
+last = 1000000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1000001
+last = 1000004
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1000005
+last = 1009999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1010000
+last = 1019999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1020000
+last = 1020001
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1020002
+last = 1020089
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1020090
+last = 1029999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1030000
+last = 1030102
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1030103
+last = 1030103
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1030104
+last = 1039999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1040000
+last = 1040047
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1040048
+last = 1040063
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1040064
+last = 1040152
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1040153
+last = 1040153
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1040154
+last = 1049999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1050000
+last = 1050000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1050001
+last = 1050021
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1050022
+last = 1050023
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1050024
+last = 1050062
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1050063
+last = 1050067
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1050068
+last = 1050075
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1050076
+last = 1050077
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1050078
+last = 1050101
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1050102
+last = 1059999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1060000
+last = 1060000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1060001
+last = 1060067
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1060068
+last = 1060069
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1060070
+last = 1060072
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1060073
+last = 1060074
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1060075
+last = 1060076
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1060077
+last = 1060078
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1060079
+last = 1060120
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1060121
+last = 1069999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1070000
+last = 1070000
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1070001
+last = 1070001
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1070002
+last = 1070014
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 1070015
+last = 1070017
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1070018
+last = 1070018
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1070019
+last = 1070021
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1070022
+last = 1070023
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 1070024
+last = 1070027
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1070028
+last = 1070029
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1070030
+last = 1070032
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 1070033
+last = 1070041
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1070042
+last = 1070043
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1070044
+last = 1070045
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1070046
+last = 1070046
+category = "ability-requirement"
+basis = "verified"
+
+[[range]]
+first = 1070047
+last = 1070078
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1070079
+last = 1070079
+category = "ability-requirement"
+basis = "verified"
+
+[[range]]
+first = 1070080
+last = 1070080
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 1070081
+last = 1070083
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1070084
+last = 1070085
+category = "controller-label"
+basis = "verified"
+
+[[range]]
+first = 1070086
+last = 1079999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1080000
+last = 1089999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1090000
+last = 1090079
+category = "chronicle-entry"
+basis = "verified"
+
+[[range]]
+first = 1090080
+last = 1099999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1100000
+last = 1109999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1110000
+last = 1110000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1110001
+last = 1110007
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1110008
+last = 1110009
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1110010
+last = 1120171
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1120172
+last = 1120172
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1120173
+last = 1129999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1130000
+last = 1149999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1150000
+last = 1159999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1160000
+last = 1169999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1170000
+last = 1179999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1180000
+last = 1190042
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1190043
+last = 1190043
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1190044
+last = 1200038
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1200039
+last = 1200048
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1200049
+last = 1209999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1210000
+last = 1259999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1260000
+last = 1260314
+category = "character-profile"
+basis = "verified"
+
+[[range]]
+first = 1260315
+last = 1269999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1270000
+last = 1270100
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1270101
+last = 1279999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1280000
+last = 1280053
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1280054
+last = 1289999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1290000
+last = 1290001
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1290002
+last = 1290002
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1290003
+last = 1290003
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1290004
+last = 1290004
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1290005
+last = 1290013
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1290014
+last = 1290015
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1290016
+last = 1290017
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1290018
+last = 1290019
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1290020
+last = 1290024
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1290025
+last = 1290025
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1290026
+last = 1299999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1300000
+last = 1300005
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1300006
+last = 1300013
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1300014
+last = 1300014
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1300015
+last = 1309999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1310000
+last = 1319999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1320000
+last = 1329999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1330000
+last = 1330342
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1330343
+last = 1330343
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1330344
+last = 1330705
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1330706
+last = 1330712
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1330713
+last = 1330713
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1330714
+last = 1339999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1340000
+last = 1340427
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1340428
+last = 1340429
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1340430
+last = 1340518
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1340519
+last = 1340519
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1340520
+last = 1350342
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1350343
+last = 1350345
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1350346
+last = 1350346
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1350347
+last = 1350347
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1350348
+last = 1350349
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1350350
+last = 1350362
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1350363
+last = 1350363
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1350364
+last = 1350529
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1350530
+last = 1350530
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1350531
+last = 1350597
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1350598
+last = 1350599
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1350600
+last = 1360127
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360128
+last = 1360129
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1360130
+last = 1360398
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360399
+last = 1360407
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360408
+last = 1360461
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360462
+last = 1360471
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360472
+last = 1360472
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360473
+last = 1360478
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360479
+last = 1360479
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360480
+last = 1360487
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360488
+last = 1360489
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360490
+last = 1360490
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360491
+last = 1360496
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360497
+last = 1360497
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360498
+last = 1360498
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360499
+last = 1360563
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360564
+last = 1360564
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360565
+last = 1360587
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360588
+last = 1360588
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360589
+last = 1360600
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360601
+last = 1360608
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360609
+last = 1360609
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360610
+last = 1360618
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360619
+last = 1360622
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360623
+last = 1360630
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360631
+last = 1360631
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360632
+last = 1360637
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360638
+last = 1360640
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360641
+last = 1360643
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360644
+last = 1360644
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360645
+last = 1360659
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360660
+last = 1360663
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360664
+last = 1360678
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360679
+last = 1360680
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360681
+last = 1360681
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1360682
+last = 1360686
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360687
+last = 1360687
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1360688
+last = 1360688
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1360689
+last = 1360689
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1360690
+last = 1369999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370000
+last = 1370025
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370026
+last = 1370026
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370027
+last = 1370029
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370030
+last = 1370030
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370031
+last = 1370031
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370032
+last = 1370040
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370041
+last = 1370042
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370043
+last = 1370049
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370050
+last = 1370055
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370056
+last = 1370056
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370057
+last = 1370059
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370060
+last = 1370060
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370061
+last = 1370061
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370062
+last = 1370067
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370068
+last = 1370085
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370086
+last = 1370086
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370087
+last = 1370095
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370096
+last = 1370096
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370097
+last = 1370104
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370105
+last = 1370106
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370107
+last = 1370116
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370117
+last = 1370117
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370118
+last = 1370151
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370152
+last = 1370152
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370153
+last = 1370156
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370157
+last = 1370159
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370160
+last = 1370167
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370168
+last = 1370168
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370169
+last = 1370175
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370176
+last = 1370177
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370178
+last = 1370180
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370181
+last = 1370186
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370187
+last = 1370187
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370188
+last = 1370188
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370189
+last = 1370190
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370191
+last = 1370191
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370192
+last = 1370193
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370194
+last = 1370195
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370196
+last = 1370196
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370197
+last = 1370197
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370198
+last = 1370203
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370204
+last = 1370204
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370205
+last = 1370208
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370209
+last = 1370209
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370210
+last = 1370217
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370218
+last = 1370218
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370219
+last = 1370220
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370221
+last = 1370222
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370223
+last = 1370226
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370227
+last = 1370227
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370228
+last = 1370228
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1370229
+last = 1370234
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370235
+last = 1370235
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370236
+last = 1370236
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370237
+last = 1370237
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370238
+last = 1370239
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370240
+last = 1370241
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370242
+last = 1370243
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370244
+last = 1370251
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370252
+last = 1370252
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370253
+last = 1370253
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370254
+last = 1370254
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370255
+last = 1370256
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370257
+last = 1370257
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370258
+last = 1370258
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370259
+last = 1370260
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370261
+last = 1370265
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370266
+last = 1370266
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370267
+last = 1370268
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370269
+last = 1370270
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370271
+last = 1370278
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370279
+last = 1370283
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370284
+last = 1370286
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370287
+last = 1370292
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370293
+last = 1370297
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370298
+last = 1370308
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370309
+last = 1370309
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370310
+last = 1370311
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370312
+last = 1370313
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370314
+last = 1370323
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370324
+last = 1370325
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370326
+last = 1370329
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370330
+last = 1370331
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370332
+last = 1370333
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370334
+last = 1370334
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370335
+last = 1370336
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370337
+last = 1370340
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370341
+last = 1370341
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370342
+last = 1370343
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370344
+last = 1370349
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370350
+last = 1370350
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370351
+last = 1370351
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370352
+last = 1370358
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370359
+last = 1370362
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370363
+last = 1370363
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370364
+last = 1370367
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370368
+last = 1370370
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370371
+last = 1370373
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370374
+last = 1370375
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370376
+last = 1370378
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370379
+last = 1370379
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370380
+last = 1370381
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370382
+last = 1370385
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370386
+last = 1370398
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370399
+last = 1370399
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370400
+last = 1370401
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370402
+last = 1370404
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370405
+last = 1370410
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370411
+last = 1370426
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370427
+last = 1370427
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370428
+last = 1370429
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370430
+last = 1370430
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370431
+last = 1370431
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370432
+last = 1370432
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370433
+last = 1370434
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370435
+last = 1370436
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370437
+last = 1370437
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370438
+last = 1370439
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370440
+last = 1370442
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370443
+last = 1370445
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370446
+last = 1370446
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370447
+last = 1370452
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370453
+last = 1370454
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370455
+last = 1370466
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370467
+last = 1370470
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370471
+last = 1370484
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370485
+last = 1370485
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370486
+last = 1370494
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370495
+last = 1370496
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370497
+last = 1370497
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370498
+last = 1370503
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370504
+last = 1370539
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370540
+last = 1370541
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370542
+last = 1370543
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370544
+last = 1370544
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370545
+last = 1370551
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370552
+last = 1370561
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370562
+last = 1370562
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370563
+last = 1370570
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370571
+last = 1370574
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370575
+last = 1370580
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370581
+last = 1370582
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370583
+last = 1370587
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370588
+last = 1370588
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370589
+last = 1370589
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370590
+last = 1370593
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370594
+last = 1370596
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370597
+last = 1370597
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370598
+last = 1370600
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370601
+last = 1370601
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370602
+last = 1370604
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370605
+last = 1370605
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370606
+last = 1370617
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370618
+last = 1370620
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370621
+last = 1370623
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370624
+last = 1370625
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370626
+last = 1370636
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370637
+last = 1370638
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370639
+last = 1370647
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370648
+last = 1370670
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370671
+last = 1370671
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370672
+last = 1370675
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370676
+last = 1370677
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1370678
+last = 1370699
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370700
+last = 1370700
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370701
+last = 1370711
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370712
+last = 1370712
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1370713
+last = 1370713
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1370714
+last = 1370722
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1370723
+last = 1379999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1380000
+last = 1389999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1390000
+last = 1390000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1390001
+last = 1390002
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1390003
+last = 1390003
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1390004
+last = 1390039
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1390040
+last = 1390041
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1390042
+last = 1390152
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1390153
+last = 1390600
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1390601
+last = 1399999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1400000
+last = 1400000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1400001
+last = 1400001
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 1400002
+last = 1400005
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1400006
+last = 1400009
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1400010
+last = 1400012
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1400013
+last = 1400015
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1400016
+last = 1400018
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1400019
+last = 1400019
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1400020
+last = 1400020
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1400021
+last = 1400021
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1400022
+last = 1400023
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1400024
+last = 1400025
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1400026
+last = 1400027
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1400028
+last = 1400030
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1400031
+last = 1400054
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1400055
+last = 1400055
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1400056
+last = 1400243
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1400244
+last = 1400244
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1400245
+last = 1409999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410000
+last = 1410000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410001
+last = 1410008
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410009
+last = 1410009
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410010
+last = 1410019
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410020
+last = 1410021
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1410022
+last = 1410030
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410031
+last = 1410031
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410032
+last = 1410036
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410037
+last = 1410037
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410038
+last = 1410041
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410042
+last = 1410052
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410053
+last = 1410054
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410055
+last = 1410058
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410059
+last = 1410060
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410061
+last = 1410062
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410063
+last = 1410065
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410066
+last = 1410066
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410067
+last = 1410069
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410070
+last = 1410070
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410071
+last = 1410073
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410074
+last = 1410074
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410075
+last = 1410081
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410082
+last = 1410082
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410083
+last = 1410084
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410085
+last = 1410086
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410087
+last = 1410088
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410089
+last = 1410095
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410096
+last = 1410096
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410097
+last = 1410104
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410105
+last = 1410105
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410106
+last = 1410110
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410111
+last = 1410116
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410117
+last = 1410123
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410124
+last = 1410124
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410125
+last = 1410134
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410135
+last = 1410135
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410136
+last = 1410160
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410161
+last = 1410161
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410162
+last = 1410195
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410196
+last = 1410196
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410197
+last = 1410207
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410208
+last = 1410212
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1410213
+last = 1410287
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410288
+last = 1410288
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410289
+last = 1410306
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410307
+last = 1410307
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410308
+last = 1410326
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410327
+last = 1410327
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410328
+last = 1410391
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410392
+last = 1410392
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1410393
+last = 1410394
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410395
+last = 1410395
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1410396
+last = 1410456
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410457
+last = 1410457
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410458
+last = 1410466
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410467
+last = 1410468
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410469
+last = 1410469
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410470
+last = 1410471
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410472
+last = 1410474
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410475
+last = 1410475
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1410476
+last = 1410502
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410503
+last = 1410503
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410504
+last = 1410505
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410506
+last = 1410506
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410507
+last = 1410509
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410510
+last = 1410510
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410511
+last = 1410514
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410515
+last = 1410515
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410516
+last = 1410518
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410519
+last = 1410519
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410520
+last = 1410522
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410523
+last = 1410523
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410524
+last = 1410525
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410526
+last = 1410526
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410527
+last = 1410531
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1410532
+last = 1410533
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1410534
+last = 1419999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420000
+last = 1420002
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420003
+last = 1420003
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420004
+last = 1420006
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420007
+last = 1420007
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420008
+last = 1420008
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420009
+last = 1420009
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420010
+last = 1420012
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420013
+last = 1420014
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1420015
+last = 1420039
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420040
+last = 1420040
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420041
+last = 1420105
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420106
+last = 1420106
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420107
+last = 1420107
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420108
+last = 1420108
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420109
+last = 1420109
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420110
+last = 1420120
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1420121
+last = 1420121
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420122
+last = 1420124
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420125
+last = 1420134
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420135
+last = 1420135
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420136
+last = 1420170
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420171
+last = 1420171
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420172
+last = 1420172
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420173
+last = 1420173
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420174
+last = 1420185
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420186
+last = 1420186
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420187
+last = 1420187
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420188
+last = 1420189
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420190
+last = 1420200
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420201
+last = 1420204
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420205
+last = 1420205
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420206
+last = 1420207
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420208
+last = 1420208
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420209
+last = 1420210
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420211
+last = 1420211
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420212
+last = 1420215
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420216
+last = 1420217
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420218
+last = 1420218
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420219
+last = 1420219
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420220
+last = 1420220
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420221
+last = 1420222
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420223
+last = 1420223
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420224
+last = 1420224
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420225
+last = 1420226
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420227
+last = 1420227
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420228
+last = 1420238
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420239
+last = 1420240
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420241
+last = 1420241
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420242
+last = 1420242
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420243
+last = 1420243
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420244
+last = 1420261
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420262
+last = 1420263
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420264
+last = 1420275
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420276
+last = 1420278
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420279
+last = 1420289
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420290
+last = 1420296
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420297
+last = 1420297
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420298
+last = 1420319
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420320
+last = 1420329
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420330
+last = 1420330
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420331
+last = 1420331
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420332
+last = 1420332
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420333
+last = 1420333
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420334
+last = 1420335
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420336
+last = 1420336
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420337
+last = 1420337
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420338
+last = 1420339
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420340
+last = 1420341
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420342
+last = 1420343
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420344
+last = 1420345
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420346
+last = 1420346
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420347
+last = 1420348
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420349
+last = 1420357
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420358
+last = 1420358
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420359
+last = 1420362
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420363
+last = 1420368
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420369
+last = 1420370
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420371
+last = 1420374
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420375
+last = 1420381
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420382
+last = 1420382
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420383
+last = 1420383
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420384
+last = 1420385
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420386
+last = 1420386
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420387
+last = 1420393
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420394
+last = 1420404
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420405
+last = 1420405
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1420406
+last = 1420422
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420423
+last = 1420423
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420424
+last = 1420429
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420430
+last = 1420430
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420431
+last = 1420485
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420486
+last = 1420486
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420487
+last = 1420490
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420491
+last = 1420491
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420492
+last = 1420505
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420506
+last = 1420519
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420520
+last = 1420523
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1420524
+last = 1420528
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420529
+last = 1420534
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420535
+last = 1420535
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420536
+last = 1420536
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1420537
+last = 1420537
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420538
+last = 1420538
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420539
+last = 1420545
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1420546
+last = 1420546
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1420547
+last = 1420547
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420548
+last = 1420552
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420553
+last = 1420553
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420554
+last = 1420554
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420555
+last = 1420556
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420557
+last = 1420558
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420559
+last = 1420559
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420560
+last = 1420563
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420564
+last = 1420567
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420568
+last = 1420568
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420569
+last = 1420572
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420573
+last = 1420574
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420575
+last = 1420575
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420576
+last = 1420579
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420580
+last = 1420580
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420581
+last = 1420582
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420583
+last = 1420583
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420584
+last = 1420586
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420587
+last = 1420593
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420594
+last = 1420594
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420595
+last = 1420595
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420596
+last = 1420602
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420603
+last = 1420604
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420605
+last = 1420605
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420606
+last = 1420606
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420607
+last = 1420607
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420608
+last = 1420609
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420610
+last = 1420610
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420611
+last = 1420615
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420616
+last = 1420617
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420618
+last = 1420619
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420620
+last = 1420620
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420621
+last = 1420622
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420623
+last = 1420628
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420629
+last = 1420634
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420635
+last = 1420636
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420637
+last = 1420669
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1420670
+last = 1429999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1430000
+last = 1439999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1440000
+last = 1440000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1440001
+last = 1440007
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1440008
+last = 1449999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1450000
+last = 1450021
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1450022
+last = 1450022
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1450023
+last = 1450036
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1450037
+last = 1450037
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1450038
+last = 1459999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1460000
+last = 1460043
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1460044
+last = 1460060
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1460061
+last = 1469999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1470000
+last = 1490072
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1490073
+last = 1490073
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1490074
+last = 1490162
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1490163
+last = 1490163
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1490164
+last = 1499999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1500000
+last = 1509999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1510000
+last = 1519999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1520000
+last = 1520013
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1520014
+last = 1520014
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1520015
+last = 1520017
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1520018
+last = 1520021
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1520022
+last = 1520022
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1520023
+last = 1529999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1530000
+last = 1530000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1530001
+last = 1530060
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1530061
+last = 1539999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1540000
+last = 1540093
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1540094
+last = 1540094
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1540095
+last = 1540098
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1540099
+last = 1549999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1550000
+last = 1559999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1560000
+last = 1560155
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1560156
+last = 1569999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1570000
+last = 1570155
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1570156
+last = 1579999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1580000
+last = 1580011
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1580012
+last = 1589999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1590000
+last = 1590000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1590001
+last = 1590123
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1590124
+last = 1590131
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1590132
+last = 1590197
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1590198
+last = 1590208
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1590209
+last = 1599999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1600000
+last = 1600009
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1600010
+last = 1609999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1610000
+last = 1619999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1620000
+last = 1620150
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1620151
+last = 1620153
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1620154
+last = 1630000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1630001
+last = 1630001
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1630002
+last = 1630011
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1630012
+last = 1630012
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1630013
+last = 1630013
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1630014
+last = 1630086
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1630087
+last = 1630087
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1630088
+last = 1639999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1640000
+last = 1649999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1650000
+last = 1650117
+category = "ability-description"
+basis = "verified"
+
+[[range]]
+first = 1650118
+last = 1650118
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 1650119
+last = 1650119
+category = "ability-description"
+basis = "verified"
+
+[[range]]
+first = 1650120
+last = 1650126
+category = "system-help"
+basis = "verified"
+
+[[range]]
+first = 1650127
+last = 1650142
+category = "ability-description"
+basis = "verified"
+
+[[range]]
+first = 1650143
+last = 1659999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1660000
+last = 1660087
+category = "item-effect-description"
+basis = "verified"
+
+[[range]]
+first = 1660088
+last = 1660089
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1660090
+last = 1660201
+category = "quest-item-description"
+basis = "verified"
+
+[[range]]
+first = 1660202
+last = 1660255
+category = "quest-topic-label"
+basis = "verified"
+
+[[range]]
+first = 1660256
+last = 1679999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1680000
+last = 1689999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1690000
+last = 1719999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1720000
+last = 1720085
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1720086
+last = 1720087
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1720088
+last = 1720099
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1720100
+last = 1720102
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1720103
+last = 1720103
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1720104
+last = 1720108
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1720109
+last = 1720110
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1720111
+last = 1729999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1730000
+last = 1739999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1740000
+last = 1740095
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1740096
+last = 1740096
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1740097
+last = 1749999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1750000
+last = 1750000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1750001
+last = 1750009
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1750010
+last = 1750011
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1750012
+last = 1750015
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1750016
+last = 1750017
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1750018
+last = 1750025
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1750026
+last = 1750027
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1750028
+last = 1750041
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1750042
+last = 1750042
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1750043
+last = 1750045
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1750046
+last = 1750046
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1750047
+last = 1750047
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1750048
+last = 1750049
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1750050
+last = 1750050
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1750051
+last = 1750051
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1750052
+last = 1750053
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1750054
+last = 1750054
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1750055
+last = 1750056
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1750057
+last = 1750057
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1750058
+last = 1750058
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1750059
+last = 1750060
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1750061
+last = 1750062
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1750063
+last = 1750063
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1750064
+last = 1750065
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1750066
+last = 1750066
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1750067
+last = 1750073
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1750074
+last = 1760000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1760001
+last = 1760001
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760002
+last = 1760003
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1760004
+last = 1760015
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760016
+last = 1760016
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1760017
+last = 1760018
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1760019
+last = 1760019
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1760020
+last = 1760023
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760024
+last = 1760024
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1760025
+last = 1760026
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760027
+last = 1760027
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1760028
+last = 1760029
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1760030
+last = 1760030
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760031
+last = 1760031
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1760032
+last = 1760033
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1760034
+last = 1760034
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1760035
+last = 1760045
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760046
+last = 1760047
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1760048
+last = 1760059
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760060
+last = 1760061
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1760062
+last = 1760073
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760074
+last = 1760074
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1760075
+last = 1760077
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1760078
+last = 1760081
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1760082
+last = 1760083
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1760084
+last = 1760090
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760091
+last = 1760091
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1760092
+last = 1760092
+category = "general-ui-menu"
+basis = "verified"
+
+[[range]]
+first = 1760093
+last = 1760093
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760094
+last = 1760094
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1760095
+last = 1760095
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1760096
+last = 1760101
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760102
+last = 1760102
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1760103
+last = 1760116
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760117
+last = 1760118
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1760119
+last = 1760127
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1760128
+last = 1770000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1770001
+last = 1770001
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1770002
+last = 1770004
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1770005
+last = 1770005
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1770006
+last = 1770006
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1770007
+last = 1770008
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1770009
+last = 1770009
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1770010
+last = 1770011
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1770012
+last = 1770012
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1770013
+last = 1770014
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1770015
+last = 1770015
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1770016
+last = 1770017
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1770018
+last = 1770027
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1770028
+last = 1770029
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1770030
+last = 1770030
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1770031
+last = 1770032
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1770033
+last = 1770033
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1770034
+last = 1770035
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1770036
+last = 1770036
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1770037
+last = 1770038
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1770039
+last = 1770039
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1770040
+last = 1770041
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1770042
+last = 1770042
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1770043
+last = 1770044
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1770045
+last = 1770045
+category = "confirmation-prompt"
+basis = "verified"
+
+[[range]]
+first = 1770046
+last = 1770047
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1770048
+last = 1770051
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1770052
+last = 1770052
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1770053
+last = 1770063
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1770064
+last = 1779999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1780000
+last = 1780063
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1780064
+last = 1780072
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1780073
+last = 1780073
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1780074
+last = 1780087
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1780088
+last = 1780090
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1780091
+last = 1780093
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1780094
+last = 1789999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1790000
+last = 1799999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1800000
+last = 1809999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1810000
+last = 1810067
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1810068
+last = 1810068
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1810069
+last = 1810078
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1810079
+last = 1820000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1820001
+last = 1820008
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1820009
+last = 1839999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1840000
+last = 1840069
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1840070
+last = 1840070
+category = "notification"
+basis = "verified"
+
+[[range]]
+first = 1840071
+last = 1840072
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1840073
+last = 1840073
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1840074
+last = 1840074
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1840075
+last = 1840075
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1840076
+last = 1840077
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1840078
+last = 1840087
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1840088
+last = 1840089
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1840090
+last = 1840098
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1840099
+last = 1840099
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1840100
+last = 1840101
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1840102
+last = 1840102
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1840103
+last = 1840103
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1840104
+last = 1840135
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1840136
+last = 1840136
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1840137
+last = 1859999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1860000
+last = 1869999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1870000
+last = 1870060
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1870061
+last = 1870061
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1870062
+last = 1879999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1880000
+last = 1889999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1890000
+last = 1890000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1890001
+last = 1890051
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1890052
+last = 1890055
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1890056
+last = 1890084
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1890085
+last = 1890085
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1890086
+last = 1890087
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1890088
+last = 1890089
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1890090
+last = 1890132
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1890133
+last = 1890134
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1890135
+last = 1890171
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1890172
+last = 1890173
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1890174
+last = 1890195
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1890196
+last = 1900000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1900001
+last = 1900143
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1900144
+last = 1900145
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1900146
+last = 1900153
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1900154
+last = 1900155
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1900156
+last = 1900163
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1900164
+last = 1900165
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1900166
+last = 1900172
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1900173
+last = 1900174
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1900175
+last = 1900181
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1900182
+last = 1900183
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1900184
+last = 1900195
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1900196
+last = 1909999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1910000
+last = 1910000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1910001
+last = 1910005
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1910006
+last = 1910007
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1910008
+last = 1910013
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1910014
+last = 1910015
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1910016
+last = 1910021
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1910022
+last = 1910023
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1910024
+last = 1910031
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1910032
+last = 1910033
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1910034
+last = 1910040
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1910041
+last = 1910042
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1910043
+last = 1910048
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1910049
+last = 1910050
+category = "choice"
+basis = "verified"
+
+[[range]]
+first = 1910051
+last = 1910083
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1910084
+last = 1910085
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1910086
+last = 1910086
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1910087
+last = 1910087
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1910088
+last = 1910119
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1910120
+last = 1910120
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1910121
+last = 1910121
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1910122
+last = 1910126
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1910127
+last = 1910150
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1910151
+last = 1910154
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1910155
+last = 1910163
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1910164
+last = 1910164
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1910165
+last = 1919999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1920000
+last = 1920040
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1920041
+last = 1920041
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1920042
+last = 1920044
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1920045
+last = 1920047
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1920048
+last = 1920232
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1920233
+last = 1920234
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1920235
+last = 1920235
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1920236
+last = 1920238
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1920239
+last = 1920239
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1920240
+last = 1920240
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1920241
+last = 1920241
+category = "cinematic-text"
+basis = "verified"
+
+[[range]]
+first = 1920242
+last = 1920259
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1920260
+last = 1929999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1930000
+last = 1930000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1930001
+last = 1930003
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1930004
+last = 1930004
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1930005
+last = 1930017
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1930018
+last = 1930109
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1930110
+last = 1930120
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1930121
+last = 1939999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1940000
+last = 1972017
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1972018
+last = 1979999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1980000
+last = 1980131
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1980132
+last = 1980132
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 1980133
+last = 1989999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1990000
+last = 2309999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2310000
+last = 2310020
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2310021
+last = 2310021
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 2310022
+last = 2310022
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 2310023
+last = 2310025
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 2310026
+last = 2319999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2320000
+last = 2359999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2360000
+last = 2360016
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2360017
+last = 2360018
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 2360019
+last = 2369999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2370000
+last = 2389999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2390000
+last = 2390012
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2390013
+last = 2390014
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 2390015
+last = 2399999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2400000
+last = 2459999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2460000
+last = 2460013
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2460014
+last = 2460014
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 2460015
+last = 2469999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2470000
+last = 2489999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2490000
+last = 2490000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2490001
+last = 2490002
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 2490003
+last = 2500011
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2500012
+last = 2500012
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 2500013
+last = 2500013
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 2500014
+last = 2509999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2510000
+last = 2529999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2530000
+last = 2530007
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2530008
+last = 2530009
+category = "dialogue"
+basis = "verified"
+
+[[range]]
+first = 2530010
+last = 2539999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2540000
+last = 2719999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2720000
+last = 2729999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 2730000
+last = 2789999
+category = "unknown"
+basis = "unknown"

@@ -1,0 +1,1581 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["20000"]
+japanese = "消費<end>"
+english = "Cost<end>"
+
+["20001"]
+japanese = "倍<end>"
+english = "×<end>"
+
+["20002"]
+japanese = "▼<end>"
+english = "▼<end>"
+
+["20003"]
+japanese = "敵 すべて<end>"
+english = "All Enemies<end>"
+
+["20004"]
+japanese = "味方 すべて<end>"
+english = "All Allies<end>"
+
+["20005"]
+japanese = "デュアル:<end>"
+english = "Dual:<end>"
+
+["20006"]
+japanese = "%sの%sの属性は、%s<end>"
+english = "%s's %s attribute is %s<end>"
+
+["20007"]
+japanese = "右手<end>"
+english = "Right Hand<end>"
+
+["20008"]
+japanese = "左手<end>"
+english = "Left Hand<end>"
+
+["20009"]
+japanese = " 方向キー下でスキル<end>"
+english = "Skill: D-pad Down<end>"
+
+["20010"]
+japanese = "で攻撃<end>"
+english = " Attack<end>"
+
+["20011"]
+japanese = "スキルを使用<end>"
+english = "Use a skill<end>"
+
+["20012"]
+japanese = "魔法を使用<end>"
+english = "Cast magic<end>"
+
+["20013"]
+japanese = "アイテムを使用<end>"
+english = "Use an item<end>"
+
+["20014"]
+japanese = "チャージスキルを使用<end>"
+english = "Use a charge skill<end>"
+
+["20015"]
+japanese = "防御、または味方をかばう<end>"
+english = "Defend or protect an ally<end>"
+
+["20016"]
+japanese = "ポジションの移動<end>"
+english = "Change position<end>"
+
+["20017"]
+japanese = "ＨＰ、ＭＰを消費し、敵全体を光の柱に包む<end>"
+english = "Consumes ＨＰ and ＭＰ to engulf all enemies in pillars of light.<end>"
+
+["20018"]
+japanese = "ＨＰ、ＭＰを消費し、敵全体を壊滅させる<end>"
+english = "Consumes ＨＰ and ＭＰ to annihilate all enemies.<end>"
+
+["20019"]
+japanese = "戦闘から逃げる<end>"
+english = "Flee the Battle<end>"
+
+["20020"]
+japanese = "パス<end>"
+english = "Pass<end>"
+
+["20021"]
+japanese = "いどう<end>"
+english = "Move<end>"
+
+["20022"]
+japanese = "飛び出しに移動<end>"
+english = "Move Out Front<end>"
+
+["20023"]
+japanese = "前衛に移動<end>"
+english = "Move to the Front Row<end>"
+
+["20024"]
+japanese = "後衛に移動<end>"
+english = "Move to the Back Row<end>"
+
+["20025"]
+japanese = "Lv1 ディード<end>"
+english = "Lv1 Deed<end>"
+
+["20026"]
+japanese = "Lv2 ディード<end>"
+english = "Lv2 Deed<end>"
+
+["20027"]
+japanese = "Lv3 ディード<end>"
+english = "Lv3 Deed<end>"
+
+["20028"]
+japanese = "ポー<end>"
+english = "Poe<end>"
+
+["20029"]
+japanese = "アルフレイア<end>"
+english = "Alfreya<end>"
+
+["20030"]
+japanese = "エキュース<end>"
+english = "Equus<end>"
+
+["20031"]
+japanese = "ダヴァ<end>"
+english = "Dava<end>"
+
+["20032"]
+japanese = "ウィドエラ<end>"
+english = "Widoera<end>"
+
+["20033"]
+japanese = "ナフキンス<end>"
+english = "Nafkins<end>"
+
+["20034"]
+japanese = "ダンダルシナ<end>"
+english = "Dandalsina<end>"
+
+["20035"]
+japanese = "ウルミドーン<end>"
+english = "Ulmidon<end>"
+
+["20036"]
+japanese = "キサンドラ<end>"
+english = "Kisandra<end>"
+
+["20037"]
+japanese = "ヴァーグレイ<end>"
+english = "Vargray<end>"
+
+["20038"]
+japanese = "ファキュリオス<end>"
+english = "Facurios<end>"
+
+["20039"]
+japanese = "トロジャーク<end>"
+english = "Trojark<end>"
+
+["20040"]
+japanese = "ソルクリス<end>"
+english = "Solcris<end>"
+
+["20041"]
+japanese = "フェイクフェイス<end>"
+english = "Fake Face<end>"
+
+["20042"]
+japanese = "トゥイッキー<end>"
+english = "Twicky<end>"
+
+["20043"]
+japanese = "ティエンロン<end>"
+english = "Tianlong<end>"
+
+["20044"]
+japanese = "プレーンパンチ<end>"
+english = "Plain Punch<end>"
+
+["20045"]
+japanese = "ノービスビーム<end>"
+english = "Novice Beam<end>"
+
+["20046"]
+japanese = "フレアムーン<end>"
+english = "Flare Moon<end>"
+
+["20047"]
+japanese = "レイジフレイム<end>"
+english = "Rage Flame<end>"
+
+["20048"]
+japanese = "バルゴクラブ<end>"
+english = "Balgo Club<end>"
+
+["20049"]
+japanese = "アクアバブル<end>"
+english = "Aqua Bubble<end>"
+
+["20050"]
+japanese = "ガイアナックル<end>"
+english = "Gaia Knuckle<end>"
+
+["20051"]
+japanese = "アースクラック<end>"
+english = "Earth Crack<end>"
+
+["20052"]
+japanese = "ゲイルセイバー<end>"
+english = "Gale Saber<end>"
+
+["20053"]
+japanese = "コールブリーズ<end>"
+english = "Call Breeze<end>"
+
+["20054"]
+japanese = "ララバイ<end>"
+english = "Lullaby<end>"
+
+["20055"]
+japanese = "ラプソディ<end>"
+english = "Rhapsody<end>"
+
+["20056"]
+japanese = "インナーフレア<end>"
+english = "Inner Flare<end>"
+
+["20057"]
+japanese = "エクスプロード<end>"
+english = "Explode<end>"
+
+["20058"]
+japanese = "アイズスター<end>"
+english = "Eyes Star<end>"
+
+["20059"]
+japanese = "スピンシャイン<end>"
+english = "Spin Shine<end>"
+
+["20060"]
+japanese = "ショックバイト<end>"
+english = "Shock Bite<end>"
+
+["20061"]
+japanese = "エレクトライ<end>"
+english = "Electry<end>"
+
+["20062"]
+japanese = "ウディピッキー<end>"
+english = "Woody Picky<end>"
+
+["20063"]
+japanese = "サンタナリーフ<end>"
+english = "Santana Leaf<end>"
+
+["20064"]
+japanese = "ソウルピック<end>"
+english = "Soul Pick<end>"
+
+["20065"]
+japanese = "ピックラッシュ<end>"
+english = "Pick Rush<end>"
+
+["20066"]
+japanese = "ニートロフィー<end>"
+english = "Neat Trophy<end>"
+
+["20067"]
+japanese = "アッドギア<end>"
+english = "Add Gea<end>"
+
+["20068"]
+japanese = "オプバースト<end>"
+english = "Op Burst<end>"
+
+["20069"]
+japanese = "スペクトルレイ<end>"
+english = "Spectral Ray<end>"
+
+["20070"]
+japanese = "アビスゲイジ<end>"
+english = "Abyss Gaze<end>"
+
+["20071"]
+japanese = "ケイオスルート<end>"
+english = "Chaos Route<end>"
+
+["20072"]
+japanese = "ウェイトラップ<end>"
+english = "Weight Trap<end>"
+
+["20073"]
+japanese = "スティンソード<end>"
+english = "Stin Sword<end>"
+
+["20074"]
+japanese = "レイヴウイング<end>"
+english = "Rave Wing<end>"
+
+["20075"]
+japanese = "ブレスユニオン<end>"
+english = "Bless Union<end>"
+
+["20076"]
+japanese = "眠っている<end>"
+english = "Asleep<end>"
+
+["20077"]
+japanese = "麻痺している<end>"
+english = "Paralyzed<end>"
+
+["20078"]
+japanese = "石化している<end>"
+english = "Petrified<end>"
+
+["20079"]
+japanese = "様子を見ている<end>"
+english = "Waiting to see what happens<end>"
+
+["20080"]
+japanese = "混乱している<end>"
+english = "Confused<end>"
+
+["20081"]
+japanese = "は選べない<end>"
+english = "cannot be selected<end>"
+
+["20082"]
+japanese = "攻撃ができない？<end>"
+english = "Can't attack?<end>"
+
+["20083"]
+japanese = "魔法を覚えていない<end>"
+english = "No magic learned<end>"
+
+["20084"]
+japanese = "使えるアイテムがない<end>"
+english = "No usable items<end>"
+
+["20085"]
+japanese = "チャージ技能がない<end>"
+english = "No Charge skills<end>"
+
+["20086"]
+japanese = "逃げられない！<end>"
+english = "Can't escape!<end>"
+
+["20087"]
+japanese = "がない<end>"
+english = "is unavailable<end>"
+
+["20088"]
+japanese = "習得していない<end>"
+english = "Not learned<end>"
+
+["20089"]
+japanese = "飛び出し位置に移動できない<end>"
+english = "Cannot move to the jump-out position<end>"
+
+["20090"]
+japanese = "エンチャントできる武器を持っていない<end>"
+english = "No weapon available to enchant<end>"
+
+["20091"]
+japanese = "エンチャントできる盾を持っていない<end>"
+english = "No shield available to enchant<end>"
+
+["20092"]
+japanese = "エンチャントできる鎧を持っていない<end>"
+english = "No armor available to enchant<end>"
+
+["20093"]
+japanese = "MPが足りない<end>"
+english = "Not enough MP<end>"
+
+["20094"]
+japanese = "HPが足りない<end>"
+english = "Not enough HP<end>"
+
+["20095"]
+japanese = "沈黙になっている<end>"
+english = "Silenced<end>"
+
+["20096"]
+japanese = "武器にエンチャントしていない<end>"
+english = "The weapon has not been enchanted<end>"
+
+["20097"]
+japanese = "使う必要がない<end>"
+english = "No need to use it<end>"
+
+["20098"]
+japanese = "この武器では攻撃できない<end>"
+english = "Cannot attack with this weapon<end>"
+
+["20099"]
+japanese = "エンチャントできない<end>"
+english = "Cannot enchant<end>"
+
+["20100"]
+japanese = "マインドスペルを習得していない<end>"
+english = "No Mind Spells learned<end>"
+
+["20101"]
+japanese = "ヒーラースペルを習得していない<end>"
+english = "No Healer Spells learned<end>"
+
+["20102"]
+japanese = "精霊力レベルが足りない<end>"
+english = "Spirit Power level is too low<end>"
+
+["20103"]
+japanese = "ＨＰ、ＭＰがフル状態でなければ使用できない<end>"
+english = "Can only be used when ＨＰ and ＭＰ are full<end>"
+
+["20104"]
+japanese = "敵が邪魔で攻撃できない<end>"
+english = "An enemy is blocking the attack<end>"
+
+["20105"]
+japanese = "攻撃<end>"
+english = "Attack<end>"
+
+["20106"]
+japanese = "スキル<end>"
+english = "Skills<end>"
+
+["20107"]
+japanese = "魔法<end>"
+english = "Magic<end>"
+
+["20108"]
+japanese = "アイテム<end>"
+english = "Items<end>"
+
+["20109"]
+japanese = "チャージ<end>"
+english = "Charge<end>"
+
+["20110"]
+japanese = "かばう<end>"
+english = "Cover<end>"
+
+["20111"]
+japanese = "移動<end>"
+english = "Move<end>"
+
+["20112"]
+japanese = "逃げる<end>"
+english = "Flee<end>"
+
+["20113"]
+japanese = "は戦闘不能から復活した<end>"
+english = " recovered from incapacitation.<end>"
+
+["20114"]
+japanese = "は気絶から復活した<end>"
+english = " regained consciousness.<end>"
+
+["20115"]
+japanese = "のバリアを使用した<end>"
+english = "'s Barrier was used.<end>"
+
+["20116"]
+japanese = "の魔法バリアを使用した<end>"
+english = "'s Magic Barrier was used.<end>"
+
+["20117"]
+japanese = "チャージスキル<end>"
+english = "Charge Skill<end>"
+
+["20118"]
+japanese = "アタックスキル<end>"
+english = "Attack Skill<end>"
+
+["20119"]
+japanese = "サポートスキル<end>"
+english = "Support Skill<end>"
+
+["20120"]
+japanese = "コマンドスキル<end>"
+english = "Command Skill<end>"
+
+["20121"]
+japanese = "回復アイテム<end>"
+english = "Healing Item<end>"
+
+["20122"]
+japanese = "攻撃アイテム<end>"
+english = "Attack Item<end>"
+
+["20123"]
+japanese = "状態変化アイテム<end>"
+english = "Status Effect Item<end>"
+
+["20124"]
+japanese = "能力変化アイテム<end>"
+english = "Stat-Altering Item<end>"
+
+["20125"]
+japanese = "アクア<end>"
+english = "Aqua<end>"
+
+["20126"]
+japanese = "悪への誘惑<end>"
+english = "Temptation to Evil<end>"
+
+["20127"]
+japanese = "デビルスラッシュ<end>"
+english = "Devil Slash<end>"
+
+["20128"]
+japanese = "カッターハンド<end>"
+english = "Cutter Hand<end>"
+
+["20129"]
+japanese = "暴れる<end>"
+english = "Rampage<end>"
+
+["20130"]
+japanese = "甘い香り<end>"
+english = "Sweet Scent<end>"
+
+["20131"]
+japanese = "破壊の炎<end>"
+english = "Flames of Destruction<end>"
+
+["20132"]
+japanese = "泡<end>"
+english = "Bubbles<end>"
+
+["20133"]
+japanese = "イクスキュア<end>"
+english = "Excure<end>"
+
+["20134"]
+japanese = "石斧<end>"
+english = "Stone Axe<end>"
+
+["20135"]
+japanese = "いたずら<end>"
+english = "Mischief<end>"
+
+["20136"]
+japanese = "雄たけび<end>"
+english = "War Cry<end>"
+
+["20137"]
+japanese = "カース<end>"
+english = "Curse<end>"
+
+["20138"]
+japanese = "火炎嵐<end>"
+english = "Firestorm<end>"
+
+["20139"]
+japanese = "火炎掌<end>"
+english = "Flame Palm<end>"
+
+["20140"]
+japanese = "かぎ爪<end>"
+english = "Claw<end>"
+
+["20141"]
+japanese = "裁きの雷<end>"
+english = "Judgment Bolt<end>"
+
+["20142"]
+japanese = "かまいたち<end>"
+english = "Sickle Wind<end>"
+
+["20143"]
+japanese = "かみつき<end>"
+english = "Bite<end>"
+
+["20144"]
+japanese = "髪の毛<end>"
+english = "Hair<end>"
+
+["20145"]
+japanese = "岩石落し<end>"
+english = "Rockfall<end>"
+
+["20146"]
+japanese = "岩盤返し<end>"
+english = "Bedrock Flip<end>"
+
+["20147"]
+japanese = "キック<end>"
+english = "Kick<end>"
+
+["20148"]
+japanese = "キュア<end>"
+english = "Cure<end>"
+
+["20149"]
+japanese = "キュアス<end>"
+english = "Cures<end>"
+
+["20150"]
+japanese = "吸血<end>"
+english = "Bloodsuck<end>"
+
+["20151"]
+japanese = "突き<end>"
+english = "Thrust<end>"
+
+["20152"]
+japanese = "くいつき<end>"
+english = "Latch On<end>"
+
+["20153"]
+japanese = "虚無の剣<end>"
+english = "Sword of the Void<end>"
+
+["20154"]
+japanese = "くちばし<end>"
+english = "Beak<end>"
+
+["20155"]
+japanese = "スマートエッジ<end>"
+english = "Smart Edge<end>"
+
+["20156"]
+japanese = "熊アッパー<end>"
+english = "Bear Uppercut<end>"
+
+["20157"]
+japanese = "くもの糸<end>"
+english = "Spider Silk<end>"
+
+["20158"]
+japanese = "クライオス<end>"
+english = "Cryos<end>"
+
+["20159"]
+japanese = "暗闇の雲<end>"
+english = "Cloud of Blindness<end>"
+
+["20160"]
+japanese = "グリードソード<end>"
+english = "Greed Sword<end>"
+
+["20161"]
+japanese = "ゲイル<end>"
+english = "Gale<end>"
+
+["20162"]
+japanese = "幻覚<end>"
+english = "Hallucination<end>"
+
+["20163"]
+japanese = "幻覚の歌<end>"
+english = "Song of Hallucination<end>"
+
+["20164"]
+japanese = "幻覚の霧<end>"
+english = "Hallucinatory Mist<end>"
+
+["20165"]
+japanese = "拳骨<end>"
+english = "Knuckle<end>"
+
+["20166"]
+japanese = "光線<end>"
+english = "Beam<end>"
+
+["20167"]
+japanese = "氷の微笑<end>"
+english = "Icy Smile<end>"
+
+["20168"]
+japanese = "子蜂<end>"
+english = "Young Bee<end>"
+
+["20169"]
+japanese = "催眠ガス<end>"
+english = "Sleep Gas<end>"
+
+["20170"]
+japanese = "サイレント<end>"
+english = "Silent<end>"
+
+["20171"]
+japanese = "サソリの尾<end>"
+english = "Scorpion Tail<end>"
+
+["20172"]
+japanese = "サプキュア<end>"
+english = "Supcure<end>"
+
+["20173"]
+japanese = "サンダーボルト<end>"
+english = "Thunderbolt<end>"
+
+["20174"]
+japanese = "サンドバッグ<end>"
+english = "Punching Bag<end>"
+
+["20175"]
+japanese = "酸の海<end>"
+english = "Sea of Acid<end>"
+
+["20176"]
+japanese = "シーッ<end>"
+english = "Shh!<end>"
+
+["20177"]
+japanese = "地震<end>"
+english = "Earthquake<end>"
+
+["20178"]
+japanese = "実体化<end>"
+english = "Materialize<end>"
+
+["20179"]
+japanese = "しっぽ攻撃<end>"
+english = "Tail Attack<end>"
+
+["20180"]
+japanese = "しっぽ薙ぎ<end>"
+english = "Tail Sweep<end>"
+
+["20181"]
+japanese = "死の血しぶき<end>"
+english = "Blood Spray of Death<end>"
+
+["20182"]
+japanese = "死の大鎌<end>"
+english = "Death Scythe<end>"
+
+["20183"]
+japanese = "自爆<end>"
+english = "Self-Destruct<end>"
+
+["20184"]
+japanese = "地爆波<end>"
+english = "Groundburst Wave<end>"
+
+["20185"]
+japanese = "月光<end>"
+english = "Moonlight<end>"
+
+["20186"]
+japanese = "剛刃<end>"
+english = "Mighty Blade<end>"
+
+["20187"]
+japanese = "ショートソード<end>"
+english = "Short Sword<end>"
+
+["20188"]
+japanese = "触手<end>"
+english = "Tentacle<end>"
+
+["20189"]
+japanese = "スキップ<end>"
+english = "Skip<end>"
+
+["20190"]
+japanese = "呪いの霧<end>"
+english = "Cursed Mist<end>"
+
+["20191"]
+japanese = "スタラグ<end>"
+english = "Stalag<end>"
+
+["20192"]
+japanese = "ストーム<end>"
+english = "Storm<end>"
+
+["20193"]
+japanese = "ストーン<end>"
+english = "Stone<end>"
+
+["20194"]
+japanese = "砂煙<end>"
+english = "Dust Cloud<end>"
+
+["20195"]
+japanese = "スネイクフィンガ<end>"
+english = "Snake Finger<end>"
+
+["20196"]
+japanese = "スネイクレッグ<end>"
+english = "Snake Leg<end>"
+
+["20197"]
+japanese = "スパーク<end>"
+english = "Spark<end>"
+
+["20198"]
+japanese = "スマッシュ<end>"
+english = "Smash<end>"
+
+["20199"]
+japanese = "スリープ<end>"
+english = "Sleep<end>"
+
+["20200"]
+japanese = "石化のにらみ<end>"
+english = "Petrifying Glare<end>"
+
+["20201"]
+japanese = "ソーンアロー<end>"
+english = "Thorn Arrow<end>"
+
+["20202"]
+japanese = "ダーク<end>"
+english = "Dark<end>"
+
+["20203"]
+japanese = "体当たり<end>"
+english = "Body Slam<end>"
+
+["20204"]
+japanese = "ダガー<end>"
+english = "Dagger<end>"
+
+["20205"]
+japanese = "ヘッドアタック<end>"
+english = "Head Strike<end>"
+
+["20206"]
+japanese = "たこなぐり<end>"
+english = "Pummeling<end>"
+
+["20207"]
+japanese = "ダスト<end>"
+english = "Dust<end>"
+
+["20208"]
+japanese = "ダッシュ<end>"
+english = "Dash<end>"
+
+["20209"]
+japanese = "血染めの舞<end>"
+english = "Bloodstained Dance<end>"
+
+["20210"]
+japanese = "着地<end>"
+english = "Landing<end>"
+
+["20211"]
+japanese = "超音波<end>"
+english = "Ultrasonic Wave<end>"
+
+["20212"]
+japanese = "浄化の月杖<end>"
+english = "Moon Staff of Purification<end>"
+
+["20213"]
+japanese = "スピア<end>"
+english = "Spear<end>"
+
+["20214"]
+japanese = "頭突き<end>"
+english = "Headbutt<end>"
+
+["20215"]
+japanese = "つばめ返し<end>"
+english = "Swallow Reversal<end>"
+
+["20216"]
+japanese = "閃刃<end>"
+english = "Flash Blade<end>"
+
+["20217"]
+japanese = "冷たい踊り<end>"
+english = "Cold Dance<end>"
+
+["20218"]
+japanese = "つらぬき<end>"
+english = "Pierce<end>"
+
+["20219"]
+japanese = "デス<end>"
+english = "Death<end>"
+
+["20220"]
+japanese = "鉄ブーツ<end>"
+english = "Iron Boots<end>"
+
+["20221"]
+japanese = "デルージョン<end>"
+english = "Delusion<end>"
+
+["20222"]
+japanese = "逃亡<end>"
+english = "Flee<end>"
+
+["20223"]
+japanese = "遠吠え<end>"
+english = "Howl<end>"
+
+["20224"]
+japanese = "毒牙<end>"
+english = "Venomous Fang<end>"
+
+["20225"]
+japanese = "毒牙吸血<end>"
+english = "Vampiric Venom Fang<end>"
+
+["20226"]
+japanese = "毒ガス<end>"
+english = "Poison Gas<end>"
+
+["20227"]
+japanese = "毒の息<end>"
+english = "Poison Breath<end>"
+
+["20228"]
+japanese = "毒針<end>"
+english = "Poison Needle<end>"
+
+["20229"]
+japanese = "刺<end>"
+english = "Sting<end>"
+
+["20230"]
+japanese = "トゲトゲアタック<end>"
+english = "Spiky Attack<end>"
+
+["20231"]
+japanese = "とつげき<end>"
+english = "Charge<end>"
+
+["20232"]
+japanese = "突進<end>"
+english = "Rush<end>"
+
+["20233"]
+japanese = "飛び出し<end>"
+english = "Lunge<end>"
+
+["20234"]
+japanese = "糸車<end>"
+english = "Spinning Wheel<end>"
+
+["20235"]
+japanese = "なぐる<end>"
+english = "Strike<end>"
+
+["20236"]
+japanese = "吹雪<end>"
+english = "Blizzard<end>"
+
+["20237"]
+japanese = "ダブルスラッシュ<end>"
+english = "Double Slash<end>"
+
+["20238"]
+japanese = "にらみ<end>"
+english = "Glare<end>"
+
+["20239"]
+japanese = "眠りの歌<end>"
+english = "Sleep Song<end>"
+
+["20240"]
+japanese = "眠りの踊り<end>"
+english = "Sleep Dance<end>"
+
+["20241"]
+japanese = "眠りの香り<end>"
+english = "Sleep Scent<end>"
+
+["20242"]
+japanese = "眠りの砂<end>"
+english = "Sleep Sand<end>"
+
+["20243"]
+japanese = "天動地鳴<end>"
+english = "Heaven Moves, Earth Roars<end>"
+
+["20244"]
+japanese = "粘液<end>"
+english = "Slime<end>"
+
+["20245"]
+japanese = "呪い<end>"
+english = "Curse<end>"
+
+["20246"]
+japanese = "呪いの視線<end>"
+english = "Cursing Gaze<end>"
+
+["20247"]
+japanese = "バクテリオ<end>"
+english = "Bacterio<end>"
+
+["20248"]
+japanese = "爆裂波<end>"
+english = "Explosive Wave<end>"
+
+["20249"]
+japanese = "はさみ<end>"
+english = "Pincers<end>"
+
+["20250"]
+japanese = "バックファイア<end>"
+english = "Backfire<end>"
+
+["20251"]
+japanese = "パンチ<end>"
+english = "Punch<end>"
+
+["20252"]
+japanese = "飛翔<end>"
+english = "Soar<end>"
+
+["20253"]
+japanese = "ひっかき<end>"
+english = "Scratch<end>"
+
+["20254"]
+japanese = "火の息<end>"
+english = "Fire Breath<end>"
+
+["20255"]
+japanese = "火の石<end>"
+english = "Fire Stone<end>"
+
+["20256"]
+japanese = "火の壁<end>"
+english = "Wall of Fire<end>"
+
+["20257"]
+japanese = "ハンマー<end>"
+english = "Hammer<end>"
+
+["20258"]
+japanese = "ファイア<end>"
+english = "Fire<end>"
+
+["20259"]
+japanese = "レイジドファイア<end>"
+english = "Raging Fire<end>"
+
+["20260"]
+japanese = "ファイアボール<end>"
+english = "Fireball<end>"
+
+["20261"]
+japanese = "ファドル<end>"
+english = "Fuddle<end>"
+
+["20262"]
+japanese = "踏みつぶし<end>"
+english = "Stomp<end>"
+
+["20263"]
+japanese = "ブラックレーザー<end>"
+english = "Black Laser<end>"
+
+["20264"]
+japanese = "フリーズ<end>"
+english = "Freeze<end>"
+
+["20265"]
+japanese = "ブレイズ<end>"
+english = "Blaze<end>"
+
+["20266"]
+japanese = "フレイム<end>"
+english = "Flame<end>"
+
+["20267"]
+japanese = "ブレス<end>"
+english = "Breath<end>"
+
+["20268"]
+japanese = "分身の術<end>"
+english = "Clone Technique<end>"
+
+["20269"]
+japanese = "ペトリファイ<end>"
+english = "Petrify<end>"
+
+["20270"]
+japanese = "ポイズン<end>"
+english = "Poison<end>"
+
+["20271"]
+japanese = "炎のアゴ<end>"
+english = "Flaming Jaw<end>"
+
+["20272"]
+japanese = "ハリセン<end>"
+english = "Paper Fan<end>"
+
+["20273"]
+japanese = "炎の翼<end>"
+english = "Flaming Wings<end>"
+
+["20274"]
+japanese = "マグマンサンド<end>"
+english = "Magman Sand<end>"
+
+["20275"]
+japanese = "麻痺ガス<end>"
+english = "Paralysis Gas<end>"
+
+["20276"]
+japanese = "麻痺の視線<end>"
+english = "Paralysis Gaze<end>"
+
+["20277"]
+japanese = "麻痺の爪<end>"
+english = "Paralysis Claw<end>"
+
+["20278"]
+japanese = "麻痺の呪い<end>"
+english = "Paralysis Curse<end>"
+
+["20279"]
+japanese = "魔法弾<end>"
+english = "Magic Bullet<end>"
+
+["20280"]
+japanese = "魔法の剣<end>"
+english = "Magic Sword<end>"
+
+["20281"]
+japanese = "ファルシオン<end>"
+english = "Falchion<end>"
+
+["20282"]
+japanese = "乱れ打ち<end>"
+english = "Barrage<end>"
+
+["20283"]
+japanese = "目つぶし<end>"
+english = "Blind<end>"
+
+["20284"]
+japanese = "幽体化<end>"
+english = "Ethereal Form<end>"
+
+["20285"]
+japanese = "誘惑<end>"
+english = "Seduction<end>"
+
+["20286"]
+japanese = "誘惑の歌<end>"
+english = "Song of Seduction<end>"
+
+["20287"]
+japanese = "ライトアロー<end>"
+english = "Light Arrow<end>"
+
+["20288"]
+japanese = "ライトニング<end>"
+english = "Lightning<end>"
+
+["20289"]
+japanese = "ラッシュ<end>"
+english = "Rush<end>"
+
+["20290"]
+japanese = "乱撃<end>"
+english = "Flurry<end>"
+
+["20291"]
+japanese = "両刃の斧<end>"
+english = "Double-Bladed Axe<end>"
+
+["20292"]
+japanese = "離陸<end>"
+english = "Takeoff<end>"
+
+["20293"]
+japanese = "レーザー<end>"
+english = "Laser<end>"
+
+["20294"]
+japanese = "連続斬り<end>"
+english = "Consecutive Slashes<end>"
+
+["20295"]
+japanese = "連打<end>"
+english = "Pummel<end>"
+
+["20296"]
+japanese = "ローズスタッブ<end>"
+english = "Rose Stab<end>"
+
+["20297"]
+japanese = "ロックスリング<end>"
+english = "Rock Sling<end>"
+
+["20298"]
+japanese = "ロックンロール<end>"
+english = "Rock and Roll<end>"
+
+["20299"]
+japanese = "ロングソード<end>"
+english = "Longsword<end>"
+
+["20300"]
+japanese = "輪投げ<end>"
+english = "Ring Toss<end>"
+
+["20301"]
+japanese = "大波<end>"
+english = "Big Wave<end>"
+
+["20302"]
+japanese = "ダブルパンチ<end>"
+english = "Double Punch<end>"
+
+["20303"]
+japanese = "連続突き<end>"
+english = "Consecutive Thrusts<end>"
+
+["20304"]
+japanese = "デモリッシュ<end>"
+english = "Demolish<end>"
+
+["20305"]
+japanese = "魔法の杖<end>"
+english = "Magic Staff<end>"
+
+["20306"]
+japanese = "水面斬り<end>"
+english = "Waterline Slash<end>"
+
+["20307"]
+japanese = "メイス<end>"
+english = "Mace<end>"
+
+["20308"]
+japanese = "ホーリー<end>"
+english = "Holy<end>"
+
+["20309"]
+japanese = "スロウヘッジ<end>"
+english = "Slow Hedge<end>"
+
+["20310"]
+japanese = "闇の腕<end>"
+english = "Dark Arm<end>"
+
+["20311"]
+japanese = "闇の体<end>"
+english = "Dark Body<end>"
+
+["20312"]
+japanese = "闇の霧<end>"
+english = "Dark Mist<end>"
+
+["20313"]
+japanese = "水圧砲<end>"
+english = "Water Cannon<end>"
+
+["20314"]
+japanese = "咆哮<end>"
+english = "Roar<end>"
+
+["20315"]
+japanese = "フリジッド<end>"
+english = "Frigid<end>"
+
+["20316"]
+japanese = "冷凍<end>"
+english = "Freezing<end>"
+
+["20317"]
+japanese = "ソニックストーム<end>"
+english = "Sonic Storm<end>"
+
+["20318"]
+japanese = "サイクロン<end>"
+english = "Cyclone<end>"
+
+["20319"]
+japanese = "アタック<end>"
+english = "Attack<end>"
+
+["20320"]
+japanese = "エナジーボルト<end>"
+english = "Energy Bolt<end>"
+
+["20321"]
+japanese = "ダークスパーク<end>"
+english = "Dark Spark<end>"
+
+["20322"]
+japanese = "エネルギー<end>"
+english = "Energy<end>"
+
+["20323"]
+japanese = "左手<end>"
+english = "Left Hand<end>"
+
+["20324"]
+japanese = "闇の潮<end>"
+english = "Dark Tide<end>"
+
+["20325"]
+japanese = "右手<end>"
+english = "Right Hand<end>"
+
+["20326"]
+japanese = "闇<end>"
+english = "Dark<end>"
+
+["20327"]
+japanese = "斬撃<end>"
+english = "Slash<end>"
+
+["20328"]
+japanese = "尻尾アタック<end>"
+english = "Tail Attack<end>"
+
+["20329"]
+japanese = "邪念砲<end>"
+english = "Malice Cannon<end>"
+
+["20330"]
+japanese = "視線<end>"
+english = "Gaze<end>"
+
+["20331"]
+japanese = "必殺技！<end>"
+english = "Finishing Move!<end>"
+
+["20332"]
+japanese = "髪のムチ<end>"
+english = "Hair Whip<end>"
+
+["20333"]
+japanese = "憤怒の鎚<end>"
+english = "Hammer of Wrath<end>"
+
+["20334"]
+japanese = "影<end>"
+english = "Shadow<end>"
+
+["20335"]
+japanese = "虚無<end>"
+english = "Void<end>"
+
+["20336"]
+japanese = "さびたスピア<end>"
+english = "Rusty Spear<end>"
+
+["20337"]
+japanese = "トドメの一撃<end>"
+english = "Finishing Blow<end>"
+
+["20338"]
+japanese = "シャドウオーラ<end>"
+english = "Shadow Aura<end>"
+
+["20339"]
+japanese = "乱打<end>"
+english = "Barrage<end>"
+
+["20340"]
+japanese = "ナイフ<end>"
+english = "Knife<end>"
+
+["20341"]
+japanese = "破滅の槍<end>"
+english = "Spear of Ruin<end>"
+
+["20342"]
+japanese = "エメルの弓<end>"
+english = "Emel's Bow<end>"
+
+["20343"]
+japanese = "一撃必殺<end>"
+english = "One-Hit Kill<end>"
+
+["20344"]
+japanese = "正義タックル！<end>"
+english = "Justice Tackle!<end>"
+
+["20345"]
+japanese = "正義タックル<end>"
+english = "Justice Tackle<end>"
+
+["20346"]
+japanese = "デスサイズ<end>"
+english = "Death Scythe<end>"
+
+["20347"]
+japanese = "疾風迅雷<end>"
+english = "Lightning Gale<end>"
+
+["20348"]
+japanese = "死の呪い<end>"
+english = "Curse of Death<end>"
+
+["20349"]
+japanese = "ビンタ<end>"
+english = "Slap<end>"
+
+["20350"]
+japanese = "往復ビンタ<end>"
+english = "Double Slap<end>"
+
+["20351"]
+japanese = "暗闇の影<end>"
+english = "Shadow of Blindness<end>"
+
+["20352"]
+japanese = "虚撃波<end>"
+english = "Void Strike Wave<end>"
+
+["20353"]
+japanese = "虚無穴<end>"
+english = "Void Hole<end>"
+
+["20354"]
+japanese = "間隙波<end>"
+english = "Gap Wave<end>"
+
+["20355"]
+japanese = "アサシンダガー<end>"
+english = "Assassin Dagger<end>"
+
+["20356"]
+japanese = "ズゴン<end>"
+english = "Thud<end>"
+
+["20357"]
+japanese = "ドカン<end>"
+english = "Boom<end>"
+
+["20358"]
+japanese = "ボガン<end>"
+english = "Bang<end>"
+
+["20359"]
+japanese = "トドメ斬り<end>"
+english = "Finishing Slash<end>"
+
+["20360"]
+japanese = "轟天剛武攻<end>"
+english = "Heaven-Shaking Martial Strike<end>"
+
+["20361"]
+japanese = "オーラパーム<end>"
+english = "Aura Palm<end>"
+
+["20362"]
+japanese = "ハリケーンボマー<end>"
+english = "Hurricane Bomber<end>"
+
+["20363"]
+japanese = "説得<end>"
+english = "Persuasion<end>"
+
+["20364"]
+japanese = "ダイダロコンボ<end>"
+english = "Daidalo Combo<end>"
+
+["20365"]
+japanese = "即死<end>"
+english = "Instant Death<end>"
+
+["20366"]
+japanese = "うっ、体が…<end>"
+english = ""
+
+["20367"]
+japanese = "叩き<end>"
+english = "Smash<end>"
+
+["20368"]
+japanese = "トドメ叩き<end>"
+english = "Finishing Smash<end>"
+
+["20369"]
+japanese = "トドメ突き<end>"
+english = "Finishing Thrust<end>"
+
+["20370"]
+japanese = "獅子咆哮撃<end>"
+english = "Lion's Roar Strike<end>"
+
+["20371"]
+japanese = "一刀両断<end>"
+english = "Cleave in Two<end>"
+
+["20372"]
+japanese = "なぎ<end>"
+english = "Sweep<end>"
+
+["20373"]
+japanese = "連続攻撃<end>"
+english = "Combo Attack<end>"
+
+["20374"]
+japanese = "応援<end>"
+english = "Cheer<end>"
+
+["20375"]
+japanese = "回復<end>"
+english = "Recovery<end>"
+
+["20376"]
+japanese = "攻撃<end>"
+english = "Attack<end>"
+
+["20377"]
+japanese = "一撃<end>"
+english = "Strike<end>"
+
+["20378"]
+japanese = "抱きしめ<end>"
+english = "Hug<end>"
+
+["20379"]
+japanese = "ブゾリキッス<end>"
+english = "Buzori Kiss<end>"
+
+["20380"]
+japanese = "腹突進<end>"
+english = "Belly Charge<end>"
+
+["20381"]
+japanese = "虚無斬り<end>"
+english = "Void Slash<end>"
+
+["20382"]
+japanese = "メッタ打ち<end>"
+english = "Relentless Pummeling<end>"
+
+["20383"]
+japanese = "タナトスエッジ<end>"
+english = "Thanatos Edge<end>"
+
+["20384"]
+japanese = "バーニンレイヴ<end>"
+english = "Burnin' Rave<end>"
+
+["20385"]
+japanese = "オールアタック<end>"
+english = "All Attack<end>"
+
+["20386"]
+japanese = "ソウルアビス<end>"
+english = "Soul Abyss<end>"
+
+["20387"]
+japanese = "ソード<end>"
+english = "Sword<end>"
+
+["20388"]
+japanese = "シャドウノック<end>"
+english = "Shadow Knock<end>"
+
+["20389"]
+japanese = "ソニックブロウ<end>"
+english = "Sonic Blow<end>"
+
+["20390"]
+japanese = "ＭＰ回復<end>"
+english = "ＭＰ Recovery<end>"
+
+["20391"]
+japanese = "インフィニット<end>"
+english = "Infinite<end>"
+
+["20392"]
+japanese = "ハイバースト<end>"
+english = "High Burst<end>"
+
+["20393"]
+japanese = "カオスキャノン<end>"
+english = "Chaos Cannon<end>"
+
+["20394"]
+japanese = "様子を見ている<end>"
+english = "Waiting to see what happens<end>"

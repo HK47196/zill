@@ -1,0 +1,625 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["1560000"]
+japanese = "いやー、あんたに頼んで正解だったぜ。\u3000\u3000<line-break>まったく戦闘しないで済んだからな。<line-break>\u3000<line-break>約束の報酬より多いが、受け取ってくれ。<line-break>完璧に護衛をこなしてくれたことのお礼だ。<end>"
+english = "Well, hiring you was the right choice. There wasn't a single fight. Here's a little more than we agreed on. Take it―it's my thanks for a flawless escort job.<end>"
+
+["1560001"]
+japanese = "なんとかたどり着くことができたか。<line-break>あんたも冒険者としてはまだまだだな。<line-break>約束の報酬だ、ご苦労さん。<end>"
+english = "Well, we made it somehow. You've still got a long way to go as an adventurer. Here's the agreed reward. Thanks for your work.<end>"
+
+["1560002"]
+japanese = "あんたなんかに頼むんじゃなかった。<line-break>護衛の意味がないじゃないか。<line-break>\u3000<line-break>まっとうな仕事をしてないんだ、<line-break>報酬は払わないからな。<end>"
+english = "I never should've hired you. Some escort you were. You didn't do your job, so I'm not paying you.<end>"
+
+["1560003"]
+japanese = "到着期限が過ぎてしまったな。<line-break>悪いが、報酬は半額だ。<end>"
+english = "We've missed the arrival deadline. Sorry, but you only get half the reward.<end>"
+
+["1560004"]
+japanese = "お役目ご苦労さん。<line-break>あんたなら、いい冒険者になれそうだな。\u3000<line-break>\u3000<line-break>約束の報酬より多いが、受け取ってくれ。<line-break>完璧に護衛をこなしてくれたことのお礼だ。<end>"
+english = "Good work. You could make a fine adventurer. This is more than we agreed on, but take it. It's a little extra for doing a perfect job.<end>"
+
+["1560005"]
+japanese = "お役目ご苦労さん。<line-break>あんたなら、いい傭兵になれそうだな。<line-break>約束の報酬だ、ご苦労さん。<end>"
+english = "Good work. You could make a fine mercenary. Here's the agreed reward. Thanks for your work.<end>"
+
+["1560006"]
+japanese = "あんた、俺よりも弱いくらいなんじゃないか？<line-break>そんなんで護衛なんかやるんじゃねえよ。<line-break>\u3000<line-break>まっとうな仕事をしてないんだ、<line-break>報酬は払わないぞ。<end>"
+english = "Are you actually weaker than I am? If that's the best you can do, don't take escort work. You didn't do your job, so I'm not paying you.<end>"
+
+["1560007"]
+japanese = "なんとかたどり着いたが、約束の期限には<line-break>間に合わなかったな。<line-break>悪いが報酬は半額だ。<end>"
+english = "We made it somehow, but not by the promised deadline. Sorry, but you only get half the reward.<end>"
+
+["1560008"]
+japanese = "どうもありがとうございました。<line-break>おかげさまで、無事に着くことができました。<line-break>\u3000<line-break>お約束の報酬です。少し多めですが、<line-break>お納めください。<end>"
+english = "Thank you very much. Thanks to you, I arrived safe and sound. Here is the promised reward. It's a little extra, but please accept it.<end>"
+
+["1560009"]
+japanese = "ありがとうございました。<line-break>なんとか、たどり着くことができました。<line-break>お約束の報酬です。お納めください。<end>"
+english = "Thank you. I managed to make it here somehow. Here is the promised reward. Please accept it.<end>"
+
+["1560010"]
+japanese = "ふう…。<line-break>ああ…やっと、たどり着けたのですね。\u3000<line-break>\u3000<line-break>あ…あれ？<line-break>皮袋を落としてしまったようです。<line-break>残念ながら、報酬はお支払いできません。<end>"
+english = "Whew... Ah, I've finally made it. Wait... Where is it? It seems I've dropped my leather pouch. Unfortunately, I can't pay you.<end>"
+
+["1560011"]
+japanese = "なんとか、たどり着くことができましたが、<line-break>期限を過ぎてしまいました。<line-break>申しわけありませんが、報酬は半額です。<end>"
+english = "I managed to make it here, but we've missed the deadline. I'm sorry, but you will receive only half the reward.<end>"
+
+["1560012"]
+japanese = "やった、もう着いたんだね、どうもありがとう。<line-break>おかげで楽しい旅ができたよ。<line-break>\u3000<line-break>はい、約束のお金。<line-break>ちょっと多めだけど、僕の気持ちだから<line-break>とっといてね。<end>"
+english = "We made it already! Thanks a lot. You made this such a fun journey. Here, the money I promised. It's a little extra, but that's because I want you to have it.<end>"
+
+["1560013"]
+japanese = "やっと、着いたね。どうもありがとう。\u3000\u3000\u3000\u3000<line-break>はい、約束のお金。<line-break>\u3000<line-break>…前に護衛してくれた人よりもヘタだったな…。<line-break>い、いや…なんでもないよ。<end>"
+english = "We finally made it. Thanks a lot. Here, the money I promised. ...You weren't as good as the last escort... N-no, it's nothing.<end>"
+
+["1560014"]
+japanese = "イタタ…。あっちこっち傷だらけだよ。\u3000\u3000<line-break>もう、君に護衛は頼まないからね。<line-break>\u3000<line-break>こんなんじゃ、お金なんて払わないからね。<line-break>こっちがお金をもらいたいくらいだよ。<end>"
+english = "Ow... I'm covered in wounds. I'm never hiring you as an escort again. I'm not paying for this. If anything, you ought to be paying me.<end>"
+
+["1560015"]
+japanese = "やっと、着いたね。でも期限切れだね。<line-break>この場合、約束のお金は半額でいいんだよね。<end>"
+english = "We finally made it, but the deadline's passed. That means I only owe you half the money, right?<end>"
+
+["1560016"]
+japanese = "どうもありがとうございました。<line-break>これで無事に巡礼を続けられます。\u3000<line-break>\u3000<line-break>約束のお礼です。すこし多めですが、<line-break>私の気持ちです、お納めください。<end>"
+english = "Thank you very much. Now I can continue my pilgrimage safely. Here is the promised payment. It's a little extra, as a token of my gratitude. Please accept it.<end>"
+
+["1560017"]
+japanese = "どうもありがとうございました。<line-break>これでなんとか巡礼を続けられます。<line-break>約束のお礼です、お納めください。<end>"
+english = "Thank you very much. Now I can at least continue my pilgrimage. Here is the promised payment. Please accept it.<end>"
+
+["1560018"]
+japanese = "神さまはさまざまな試練を私に課すのですね。<line-break>…あなたに支払うお金は、風の彼方におられる<line-break>我らが神に献上させていただきます。<line-break>ついでにあなたの今後の運命も<line-break>お祈りして差し上げましょう。<end>"
+english = "God does see fit to visit many trials upon me. The money intended for you shall instead be offered to our God, who dwells beyond the wind. While I am at it, I shall pray for the fate that awaits you as well.<end>"
+
+["1560019"]
+japanese = "なんとかたどり着きましたが、約束の日には<line-break>間に合いませんでした。<line-break>お礼は半額だけお支払いします。<end>"
+english = "I managed to arrive, but not by the promised day. I will pay only half the agreed sum.<end>"
+
+["1560020"]
+japanese = "やっぱり護衛を頼んでよかったです。<line-break>約束の報酬金と心ばかりのお礼です。<line-break>どうもありがとうございました。<end>"
+english = "I'm certainly glad I hired an escort. Here is the promised reward, along with a small token of my gratitude. Thank you very much.<end>"
+
+["1560021"]
+japanese = "護衛を頼まなければ、大変なめにあっていたかも<line-break>しれません。約束の報酬金です。<line-break>ありがとうございました。<end>"
+english = "I might have been in terrible trouble without an escort. Here is the promised reward. Thank you.<end>"
+
+["1560022"]
+japanese = "これじゃ護衛の意味がないじゃないですか。\u3000<line-break>もう、二度と護衛なんか頼みません。<line-break>\u3000<line-break>あなたへの報酬金は、私のケガの治療代として<line-break>使わせていただきますので、あしからず。<end>"
+english = "What was the point of hiring an escort if this is the result? I will never hire one again. I shall use your reward to pay for the treatment of my injuries. I trust you understand.<end>"
+
+["1560023"]
+japanese = "なんとか到着しましたが、約束の期限には<line-break>間に合いませんでしたね。<line-break>約束の報酬金は半額しか払いません。<end>"
+english = "I managed to arrive, but not by the promised deadline. I will pay only half the agreed reward.<end>"
+
+["1560024"]
+japanese = "……何事もなく無事に旅を終えられましたな。<line-break>神のご加護に感謝しなさい。<line-break>\u3000<line-break>これは神があなたに与えられる報酬です。<line-break>少し多めなのは神のご慈悲です。<line-break>神に失礼なきよう、有意義に使われよ。<end>"
+english = "...The journey has ended safely and without incident. Give thanks for God's protection. This is the reward God bestows upon you. That it is a little more than promised is an act of divine mercy. Use it wisely, lest you give offense to God.<end>"
+
+["1560025"]
+japanese = "なんとか、旅を終えられましたな。多少の戦いは<line-break>神の試練です。神に感謝しなさい。<line-break>\u3000<line-break>これは神があなたに与えられる報酬です。<line-break>神に失礼なきよう、有意義に使われよ。<end>"
+english = "The journey has ended somehow. Those few battles were trials sent by God. Give thanks. This is the reward God bestows upon you. Use it wisely, lest you give offense to God.<end>"
+
+["1560026"]
+japanese = "我を危地に落とそうとする汝は、闇の手の者か？<line-break>神のいかづちが落ちる前に改心するがよい。<line-break>\u3000<line-break>報酬金だと！なんたる不届きものか！<line-break>神よ！この邪なるものに天罰を落とし給え！<end>"
+english = "Are you, who would cast me into peril, an agent of the dark hand? Repent before God's thunderbolt strikes you down. A reward, you say? What brazen impudence! O God, visit divine punishment upon this wicked creature!<end>"
+
+["1560027"]
+japanese = "なんとか、旅を終えられましたな。<line-break>しかし、約束の期日に遅れるとは…。\u3000<line-break>汝への報酬は半額だ。<line-break>人は、神のような永遠の命を持たぬ。<line-break>時間を大切に生きてゆかねばならぬぞ。<line-break>よいな、冒険者よ。<end>"
+english = "The journey has ended somehow. Yet to arrive after the appointed day... Your reward shall be halved. Mortals do not possess eternal life as God does. You must cherish the time allotted to you. Heed me, adventurer.<end>"
+
+["1560028"]
+japanese = "おかげで、無事にたどり着けた。\u3000\u3000\u3000\u3000<line-break>礼を言うぞ。冒険者よ。<line-break>\u3000<line-break>約束の報酬と、これは私からの心付けだ。<line-break>遠慮なく受け取り給え。<end>"
+english = "Thanks to you, I arrived safely. You have my gratitude, adventurer. Here is the promised reward, along with a gratuity from me. Accept it without reservation.<end>"
+
+["1560029"]
+japanese = "なんとか、たどり着けたな。\u3000<line-break>役目ご苦労だった。<line-break>約束の報酬だ。受け取り給え。<end>"
+english = "We made it somehow. You have discharged your duty well. Here is the promised reward. Accept it.<end>"
+
+["1560030"]
+japanese = "貴様、本官を陥れようとしたな。<line-break>今度出会ったら、その首ないものと思え。<line-break>\u3000<line-break>誰が報酬など払うか！<line-break>三流冒険者め。<end>"
+english = "You dared plot against an officer! Cross my path again and consider your head forfeit. Pay you a reward? Not a chance, you third-rate adventurer!<end>"
+
+["1560031"]
+japanese = "契約の期日から何日遅れたと思ってるんだ！？<line-break>無事にたどりつけても、遅れては意味がないぞ。<line-break>当然、報酬は半額にさせてもらうぞ。<end>"
+english = "Do you have any idea how many days late we are under the contract?! Arriving safely means nothing if we're late. Naturally, I will pay only half the reward.<end>"
+
+["1560032"]
+japanese = "おかげで、無事にたどり着けた。\u3000\u3000\u3000\u3000<line-break>礼を言うぞ。冒険者よ。<line-break>\u3000<line-break>約束の報酬と、これは私からの心付けだ。<line-break>遠慮なく受け取り給え。<end>"
+english = "Thanks to you, I arrived safely. You have my gratitude, adventurer. Here is the promised reward, along with a gratuity from me. Accept it without reservation.<end>"
+
+["1560033"]
+japanese = "なんとか、たどり着けたな。<line-break>役目ご苦労だった。<line-break>約束の報酬だ。受け取り給え。<end>"
+english = "We made it somehow. You have discharged your duty well. Here is the promised reward. Accept it.<end>"
+
+["1560034"]
+japanese = "貴様、本官を陥れようとしたな。<line-break>今度出会ったら、その首ないものと思え。<line-break>\u3000<line-break>誰が報酬など払うか！<line-break>三流冒険者め。<end>"
+english = "You dared plot against an officer! Cross my path again and consider your head forfeit. Pay you a reward? Not a chance, you third-rate adventurer!<end>"
+
+["1560035"]
+japanese = "契約の期日から何日遅れたと思ってるんだ！？<line-break>無事にたどりつけても、遅れては意味がないぞ。<line-break>当然、報酬は半額にさせてもらうぞ。<end>"
+english = "Do you have any idea how many days late we are under the contract?! Arriving safely means nothing if we're late. Naturally, I will pay only half the reward.<end>"
+
+["1560036"]
+japanese = "おかげで、無事にたどり着けた。\u3000\u3000\u3000\u3000<line-break>礼を言うぞ。冒険者よ。<line-break>\u3000<line-break>約束の報酬と、これは私からの心付けだ。<line-break>遠慮なく受け取り給え。<end>"
+english = "Thanks to you, I arrived safely. You have my gratitude, adventurer. Here is the promised reward, along with a gratuity from me. Accept it without reservation.<end>"
+
+["1560037"]
+japanese = "なんとか、たどり着けたな。<line-break>役目ご苦労だった。<line-break>約束の報酬だ。受け取り給え。<end>"
+english = "We made it somehow. You have discharged your duty well. Here is the promised reward. Accept it.<end>"
+
+["1560038"]
+japanese = "貴様、本官を陥れようとしたな。<line-break>今度出会ったら、監獄にぶち込んでやるわ。<line-break>\u3000<line-break>誰が報酬など払うか！<line-break>三流冒険者め。<end>"
+english = "You dared plot against an officer! Cross my path again and I'll throw you in prison. Pay you a reward? Not a chance, you third-rate adventurer!<end>"
+
+["1560039"]
+japanese = "契約の期日から何日遅れたと思ってるんだ！？<line-break>無事にたどりつけても、遅れては意味がないぞ。<line-break>当然、報酬は半額にさせてもらうぞ。<end>"
+english = "Do you have any idea how many days late we are under the contract?! Arriving safely means nothing if we're late. Naturally, I will pay only half the reward.<end>"
+
+["1560040"]
+japanese = "ほう、人間の護衛は久しぶりじゃが、<line-break>なかなかやるもんじゃのお。いや、ご苦労さん。<line-break>\u3000<line-break>ほい、報酬金とこれはチップじゃ。<line-break>またそのうち、お前さんに頼みたいのお。<end>"
+english = "Well now, it's been a long time since I had a human escort, but you did a fine job. Good work. Here, your reward and a tip. I'd like to hire you again sometime.<end>"
+
+["1560041"]
+japanese = "やれやれ、やっとついたかの。<line-break>ドワーフの護衛なら、もちっとましじゃがのお。<line-break>\u3000<line-break>ほい、報酬金じゃ。<line-break>…今度はドワーフの護衛に頼もうかのお。<end>"
+english = "Good grief, we've finally arrived. A Dwarf escort would've done a better job. Here, your reward. ...Perhaps I'll hire a Dwarf next time.<end>"
+
+["1560042"]
+japanese = "やれやれ、ひどいめにあわされてしまったの。<line-break>報酬金なんかやらんぞい。<line-break>人間に護衛なんぞ頼むもんじゃないわい。<end>"
+english = "Good grief, what an ordeal you put me through. You're not getting any reward. I should've known better than to hire a human escort.<end>"
+
+["1560043"]
+japanese = "やれやれ、やっと到着か。<line-break>しかし、約束の期限には間に合わなんだの。<line-break>悪いが、報酬は半額じゃ。<end>"
+english = "Good grief, we've finally arrived. But we've missed the promised deadline. Sorry, but you only get half the reward.<end>"
+
+["1560044"]
+japanese = "おかげさまで、無事に着くことができました。<line-break>約束の報酬金と心ばかりのお礼です。<line-break>どうもありがとうございました。<end>"
+english = "Thanks to you, I arrived safe and sound. Here is the promised reward, along with a small token of my gratitude. Thank you very much.<end>"
+
+["1560045"]
+japanese = "なんとか、たどり着くことができました。<line-break>約束の報酬金です。<line-break>ありがとうございました。<end>"
+english = "I managed to make it here somehow. Here is the promised reward. Thank you.<end>"
+
+["1560046"]
+japanese = "ふう…。<line-break>ああ…やっと、たどり着けたのですね。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>こんな目に会わせて、さらにお金を巻き上げよう<line-break>なんて思っていませんよね。<line-break>報酬金はケガの治療代にさせていただきます。<end>"
+english = "Whew... Ah, I've finally made it. You don't expect to put me through all that and then wring money out of me too, do you? I'll be using your reward to pay for the treatment of my injuries.<end>"
+
+["1560047"]
+japanese = "ふう…。<line-break>ああ…やっと、たどり着けたのですね。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>約束の期日には間に合いませんでした。<line-break>残念ながら、報酬は半額にさせていただきます。<end>"
+english = "Whew... Ah, I've finally made it. We missed the promised deadline. Unfortunately, I will pay only half your reward.<end>"
+
+["1560048"]
+japanese = "無事到着ですな。大変お世話になりました。<line-break>お礼金とおチップはこちらでございます。<line-break>では、失礼いたします。<end>"
+english = "We have arrived safely. I am greatly obliged to you. Here are your payment and tip. Now, if you will excuse me.<end>"
+
+["1560049"]
+japanese = "ようやく到着ですな。お世話になりました。<line-break>お礼はこちらでございます。<line-break>では、失礼いたします。<end>"
+english = "We have arrived at last. I am obliged to you. Here is your payment. Now, if you will excuse me.<end>"
+
+["1560050"]
+japanese = "私をこんなめにあわせて……。<line-break>ご主人さまのお耳に入れますぞ。<line-break>せいぜい覚悟してらっしゃい！<end>"
+english = "After putting me through such an ordeal... My master shall hear of this. You had better prepare yourself!<end>"
+
+["1560051"]
+japanese = "ようやく到着ですな。<line-break>しかし、期日は過ぎてしまいました。<line-break>報酬は半額にさせていただきます。<end>"
+english = "We have arrived at last, but the deadline has passed. I will therefore pay only half the reward.<end>"
+
+["1560052"]
+japanese = "どうもありがとうございました。<line-break>おかげで無事にたどりつけました。\u3000\u3000\u3000<line-break>\u3000<line-break>お礼金とおチップはこちらでございます。<line-break>では、失礼いたします。<end>"
+english = "Thank you very much. Thanks to you, I arrived safely. Here are your payment and tip. Now, if you will excuse me.<end>"
+
+["1560053"]
+japanese = "どうもありがとうございました。<line-break>おかげでなんとかたどりつけました。<line-break>\u3000<line-break>お礼はこちらでございます。<line-break>では、失礼いたします。<end>"
+english = "Thank you very much. Thanks to you, I managed to arrive somehow. Here is your payment. Now, if you will excuse me.<end>"
+
+["1560054"]
+japanese = "ずいぶんひどいめにあわされました。<line-break>あなたには、もう二度と護衛を頼みません。\u3000<line-break>\u3000<line-break>あなたへの報酬金は、私のケガの治療代として<line-break>使わせていただきますので、あしからず。<end>"
+english = "You put me through a terrible ordeal. I will never hire you as an escort again. I shall use your reward to pay for the treatment of my injuries. I trust you understand.<end>"
+
+["1560055"]
+japanese = "なんとかたどり着けました。<line-break>約束の期日には、間に合いませんでしたが…。<line-break>残念ながら、報酬は半額にさせていただきます。<end>"
+english = "I managed to make it here, though not by the promised date. Regrettably, I will pay only half your reward.<end>"
+
+["1560056"]
+japanese = "いやっはっは、もう到着かの、ご苦労さん。<line-break>お礼はこれでよろしいか？<line-break>\u3000<line-break>それと、ボーナスじゃな、ほれ。<line-break>いずれまた、頼むからの。<end>"
+english = "Ha ha! Here already, are we? Good work. Will this do for your payment? And here's a bonus. I'll be hiring you again someday.<end>"
+
+["1560057"]
+japanese = "ふう、やっと着いたか。もうちっとしっかりと<line-break>働いてくれたら、お礼もはずんだのにのお。<end>"
+english = "Whew, we finally made it. If you'd worked a little harder, I'd have paid you more.<end>"
+
+["1560058"]
+japanese = "はぁ、はぁ、なんでわしがこんなめに会わないと<line-break>いけないんじゃ？\u3000お前はクビじゃ、クビ。<line-break>\u3000<line-break>報酬なんぞやらん。ギルドの親父め…、<line-break>まったく、ひどい護衛をつけおってからに…。<end>"
+english = "Pant... pant... Why did I have to suffer through all that? You're fired, you hear me? Fired! You're not getting a reward. That old fool at the Guild... Saddling me with such a dreadful escort...<end>"
+
+["1560059"]
+japanese = "まったく、なんて護衛じゃ、期日に遅れるとは！<line-break>おかげで、市場に間に合わなくなるとはのぉ。<line-break>\u3000<line-break>本来、報酬なんて払えたもんじゃないが、<line-break>ほれ、約束の半分の金額じゃ、受け取れ。<end>"
+english = "What a worthless escort, making us late! Now I'll miss the market because of you. I shouldn't pay you anything at all, but here―take half the sum we agreed on.<end>"
+
+["1560060"]
+japanese = "ありがとうよ。<line-break>おかげさんで、無事にたどりつけたぜ。\u3000\u3000<line-break>\u3000<line-break>約束の報酬とボーナスだ、受け取ってくれ。<line-break>また、そのうち頼むぜ。<end>"
+english = "Thanks. You got me here safe and sound. Take the promised reward and a bonus. I'll hire you again sometime.<end>"
+
+["1560061"]
+japanese = "やっとついたかい。<line-break>約束の報酬だ、受け取ってくれ。<line-break>ま、暇があったら酒場でも覗いていってくれや。<end>"
+english = "Finally here, eh? Take the reward I promised you. And if you've got time, stop by the tavern.<end>"
+
+["1560062"]
+japanese = "てめえ、こんなていたらくで金稼ごうなんて<line-break>思っちゃいねぇだろうな。あばよ。<end>"
+english = "You'd better not think you can earn money after a sorry showing like that. So long.<end>"
+
+["1560063"]
+japanese = "やっとついたかい。<line-break>しかし、約束の期限には間に合わなかったな。<line-break>約束の報酬の半分だ、受け取ってくれ。<end>"
+english = "Finally here, eh? But we missed the promised deadline. Here's half the reward we agreed on. Take it.<end>"
+
+["1560064"]
+japanese = "ありがとうございました。\u3000\u3000\u3000\u3000\u3000<line-break>無事に到着できました。<line-break>\u3000<line-break>約束のお礼です。すこし多めですが、<line-break>私の気持ちです、お納めください。<end>"
+english = "Thank you very much. I arrived safely. Here is the promised payment. It's a little extra, as a token of my gratitude. Please accept it.<end>"
+
+["1560065"]
+japanese = "ありがとうございました。<line-break>約束のお礼です、お納めください。<end>"
+english = "Thank you. Here is the promised payment. Please accept it.<end>"
+
+["1560066"]
+japanese = "ずいぶんひどいめにあわされました。<line-break>ぜんぜん護衛になっていないじゃないですか。<line-break>お礼金は支払いません。失礼します！<end>"
+english = "You put me through a terrible ordeal. That was no escort at all. I will not pay you. Good day!<end>"
+
+["1560067"]
+japanese = "ありがとうございました。<line-break>しかし、約束の期日には遅れてしまいましたね。<line-break>残念ながら、約束のお礼は半分です。<end>"
+english = "Thank you. However, we were late for the promised date. Regrettably, you will receive only half the agreed payment.<end>"
+
+["1560068"]
+japanese = "ほう、人間の護衛は久しぶりじゃが、<line-break>なかなかやるもんじゃのお。いや、ご苦労さん。<line-break>\u3000<line-break>ほい、報酬金とこれはチップじゃ。<line-break>またそのうち、お前さんに頼みたいのお。<end>"
+english = "Well now, it's been a long time since I had a human escort, but you did a fine job. Good work. Here, your reward and a tip. I'd like to hire you again sometime.<end>"
+
+["1560069"]
+japanese = "やれやれ、やっとついたかの。<line-break>ドワーフの護衛なら、もちっとましじゃがのお。<line-break>\u3000<line-break>ほい、報酬金じゃ。<line-break>…今度はドワーフの護衛に頼もうかのお。<end>"
+english = "Good grief, we've finally arrived. A Dwarf escort would've done a better job. Here, your reward. ...Perhaps I'll hire a Dwarf next time.<end>"
+
+["1560070"]
+japanese = "やれやれ、ひどいめにあわされてしまったの。<line-break>報酬金なんかやらんぞい。<line-break>人間に護衛なんぞ頼むもんじゃないわい。<end>"
+english = "Good grief, what an ordeal you put me through. You're not getting any reward. I should've known better than to hire a human escort.<end>"
+
+["1560071"]
+japanese = "やれやれ、やっと到着か。<line-break>しかし、約束の期限には間に合わなんだの。<line-break>悪いが、報酬は半額じゃ。<end>"
+english = "Good grief, we've finally arrived. But we've missed the promised deadline. Sorry, but you only get half the reward.<end>"
+
+["1560072"]
+japanese = "おう、もう着いたかよ。安心できる旅ってのは<line-break>ありがてぇな。ご苦労さん。<line-break>\u3000<line-break>料金とボーナスだ、受け取ってくれ。<line-break>また、そのうち頼むかもしれねぇ、そんときも<line-break>よろしく頼むぜ。<end>"
+english = "Oh, we're here already? Can't beat a journey where you can relax. Good work. Here's your fee and a bonus. I might hire you again sometime, so I'll be counting on you then.<end>"
+
+["1560073"]
+japanese = "おう、やっと着いたかよ。<line-break>ご苦労さんな。ありがとよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>護衛の料金だ、受け取ってくれ。<line-break>また、そのうち頼むかもしれねぇ、そんときも<line-break>よろしく頼むぜ。<end>"
+english = "Oh, we're finally here? Good work, and thanks. Here's your escort fee. I might hire you again sometime, so I'll be counting on you then.<end>"
+
+["1560074"]
+japanese = "おう、いくら俺が頑丈な鉱山の男でも、<line-break>戦いでほっとかれたら、たまらねぇぜ。<line-break>あばよ！<end>"
+english = "Look, I may be a tough miner, but even I can't take being abandoned in a fight. So long!<end>"
+
+["1560075"]
+japanese = "おう、やっと着いたかよ。<line-break>が、約束の期限には間に合わなかったようだな。<line-break>ま、しゃあないな、料金は半額だ。<end>"
+english = "Oh, we're finally here? But it looks like we missed the promised deadline. Well, nothing for it. You get half the fee.<end>"
+
+["1560076"]
+japanese = "どうもありがとうございました。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>護衛の料金とボーナスです。<line-break>\u3000<line-break>…そうそう、世の中には、鍛冶屋でも<line-break>作れないような武器や防具があるそうですよ。<line-break>ま、噂なのでほんとかどうかは知りませんが。<end>"
+english = "Thank you very much. Here is your escort fee and a bonus. Oh, and apparently there are weapons and armor in this world that not even a blacksmith could make. It's only a rumor, mind you, so I can't say whether it's true.<end>"
+
+["1560077"]
+japanese = "どうもありがとうございました。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>護衛の料金です。<line-break>\u3000<line-break>…そうそう、あなたの武器のことですが、<line-break>そろそろ鍛えた方がいいかもしれませんね。<end>"
+english = "Thank you very much. Here is your escort fee. Oh, and about your weapon―you may want to have it strengthened soon.<end>"
+
+["1560078"]
+japanese = "ずいぶんひどい目にあわされたもんだ。<line-break>あんた、ちゃんと武器を鍛えているのか？\u3000\u3000<line-break>\u3000<line-break>ちゃんと護衛を果たしてくれなければ、報酬は<line-break>払えないね。<end>"
+english = "You put me through quite an ordeal. Have you been strengthening your weapon properly? If you can't do your job as an escort, I can't pay you.<end>"
+
+["1560079"]
+japanese = "やっと到着しましたね。<line-break>でも、約束の期日には間に合いませんでした。<line-break>とりあえず、料金の半額だけお支払いします。<end>"
+english = "We've finally arrived, but we missed the promised date. For now, I will pay only half the fee.<end>"
+
+["1560080"]
+japanese = "あんたのおかげで、無事到着か。<line-break>これが護衛の料金に、ボーナスだ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>どうもありがとう。<line-break>ところで、武器や防具を鍛える時は、<line-break>強度だけじゃなく特殊効果も鍛えておくと、<line-break>戦闘で有利になることがあるよ。覚えときな。<end>"
+english = "Thanks to you, I arrived safely. Here's your escort fee and a bonus. Thank you. One more thing: when strengthening weapons or armor, improving not only their durability but also their special effects can give you an advantage in battle. Remember that.<end>"
+
+["1560081"]
+japanese = "あんたのおかげでなんとか到着か。\u3000\u3000\u3000\u3000\u3000<line-break>これが護衛の料金だ。<line-break>どうもありがとう。<line-break>ところで、武器や防具を選ぶ時は、精霊ＬＶ<line-break>にも注意してくれよ。このレベルが高いほど、<line-break>属性の影響が強くなるんだ、覚えておきな。<end>"
+english = "Thanks to you, I managed to arrive somehow. Here's your escort fee. Thank you. One more thing: when choosing weapons or armor, pay attention to the Spirit ＬＶ as well. The higher that level, the stronger the elemental influence. Remember that.<end>"
+
+["1560082"]
+japanese = "あんたのおかげで、ひどいめにあったな。<line-break>報酬は払わないよ。<end>"
+english = "Thanks to you, I had a terrible time. I'm not paying you.<end>"
+
+["1560083"]
+japanese = "なんとか到着したか。<line-break>しかし、約束の期限には間に合わなかったな。<line-break>悪いが報酬は半額だ。<end>"
+english = "We managed to arrive, but not by the promised deadline. Sorry, but you only get half the reward.<end>"
+
+["1560084"]
+japanese = "どうもありがとうございました。<line-break>約束の報酬金と心ばかりのお礼です。<line-break>おかげさまで、無事に着くことができました。<end>"
+english = "Thank you very much. Here is the promised reward, along with a small token of my gratitude. Thanks to you, I arrived safe and sound.<end>"
+
+["1560085"]
+japanese = "なんとか、たどり着くことができました。<line-break>約束の報酬金です。<line-break>ありがとうございました。<end>"
+english = "I managed to make it here somehow. Here is the promised reward. Thank you.<end>"
+
+["1560086"]
+japanese = "ふう…。<line-break>ああ…やっと、たどり着けたのですね。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>こんな目に会わせて、さらにお金を巻き上げよう<line-break>なんて思っていませんよね。<line-break>報酬金はケガの治療代にさせていただきます。<end>"
+english = "Whew... Ah, I've finally made it. You don't expect to put me through all that and then wring money out of me too, do you? I'll be using your reward to pay for the treatment of my injuries.<end>"
+
+["1560087"]
+japanese = "ふう…。<line-break>ああ…やっと、たどり着けたのですね。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>約束の期日には間に合いませんでした。<line-break>残念ながら、報酬は半額にさせていただきます。<end>"
+english = "Whew... Ah, I've finally made it. We missed the promised deadline. Unfortunately, I will pay only half your reward.<end>"
+
+["1560088"]
+japanese = "いずれまた、お願いするかもしれません。<line-break>どうもありがとうございました。<line-break>護衛の料金とボーナスです、お納めください。<end>"
+english = "I may call upon you again someday. Thank you very much. Here is your escort fee and a bonus. Please accept them.<end>"
+
+["1560089"]
+japanese = "なんとかたどり着けました。<line-break>どうもありがとうございました。<line-break>護衛の料金です、お納めください。<end>"
+english = "I managed to make it here. Thank you very much. Here is your escort fee. Please accept it.<end>"
+
+["1560090"]
+japanese = "これじゃ、護衛の意味がないじゃないですか。<line-break>もうあなたには頼みません。<line-break>料金も払いません。失礼します。<end>"
+english = "What was the point of hiring an escort if this is the result? I won't hire you again, and I won't pay you. Good day.<end>"
+
+["1560091"]
+japanese = "なんとかたどり着きましたね。<line-break>でも、約束の期日には遅れました。<line-break>護衛の料金は、半額だけお支払いします。<end>"
+english = "We managed to arrive, but we missed the promised date. I will pay only half the escort fee.<end>"
+
+["1560092"]
+japanese = "いずれまた、お願いするかもしれません。<line-break>どうもありがとうございました。<line-break>護衛の料金とボーナスです、お納めください。<end>"
+english = "I may call upon you again someday. Thank you very much. Here is your escort fee and a bonus. Please accept them.<end>"
+
+["1560093"]
+japanese = "なんとかたどり着けました。<line-break>どうもありがとうございました。<line-break>護衛の料金です、お納めください。<end>"
+english = "I managed to make it here. Thank you very much. Here is your escort fee. Please accept it.<end>"
+
+["1560094"]
+japanese = "これじゃ、護衛の意味がないじゃないですか。<line-break>もうあなたには頼みません。<line-break>料金も払いません。失礼します。<end>"
+english = "What was the point of hiring an escort if this is the result? I won't hire you again, and I won't pay you. Good day.<end>"
+
+["1560095"]
+japanese = "なんとかたどり着きましたね。<line-break>でも、約束の期日には遅れました。<line-break>護衛の料金は、半額だけお支払いします。<end>"
+english = "We managed to arrive, but we missed the promised date. I will pay only half the escort fee.<end>"
+
+["1560096"]
+japanese = "どうもありがとうございました。<line-break>僕、見かけによらず弱いんです。助かりました。<line-break>\u3000<line-break>護衛の料金とボーナスです。<line-break>ほんとにありがとうございました。<end>"
+english = "Thank you very much. I may not look it, but I'm rather weak. You saved me. Here is your escort fee and a bonus. Thank you, truly.<end>"
+
+["1560097"]
+japanese = "どうもありがとうございました。<line-break>僕、こう見えても恐がりなんです。<line-break>護衛の料金です。ありがとうございました。<end>"
+english = "Thank you very much. I may not look it, but I'm easily frightened. Here is your escort fee. Thank you.<end>"
+
+["1560098"]
+japanese = "ちゃんと護衛してくださいよォ。<line-break>死ぬかと思っちゃったじゃないですか！<line-break>護衛の料金は僕の治療代にさせていただきます。<end>"
+english = "You're supposed to protect me! I thought I was going to die! I'll be using your escort fee to pay for my treatment.<end>"
+
+["1560099"]
+japanese = "やっと到着しましたね。<line-break>約束の期限には遅れましたが…。<line-break>護衛の料金は、半額でいいですね。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>…マスター、怒ってるだろうな、きっと。<line-break>マスターって、見かけによらず恐いんですよ。<line-break>怒ると、酒びんで殴るんです。…恐いなぁ。<end>"
+english = "We've finally arrived. We missed the promised deadline, though... Half the escort fee is enough, right? The master must be angry. The master is frightening despite appearances, you know. When angry, the master hits people with a wine bottle. That's frightening...<end>"
+
+["1560100"]
+japanese = "ありがとうございました。\u3000\u3000\u3000\u3000\u3000<line-break>無事に到着できました。<line-break>\u3000<line-break>約束のお礼です。すこし多めですが、<line-break>私の気持ちです、お納めください。<end>"
+english = "Thank you very much. I arrived safely. Here is the promised payment. It's a little extra, as a token of my gratitude. Please accept it.<end>"
+
+["1560101"]
+japanese = "ありがとうございました。<line-break>約束のお礼です、お納めください。<end>"
+english = "Thank you. Here is the promised payment. Please accept it.<end>"
+
+["1560102"]
+japanese = "ずいぶんひどいめにあわされました。<line-break>ぜんぜん護衛になっていないじゃないですか。<line-break>お礼金は支払いません。失礼します！<end>"
+english = "You put me through a terrible ordeal. That was no escort at all. I will not pay you. Good day!<end>"
+
+["1560103"]
+japanese = "ありがとうございました。<line-break>しかし、約束の期日には遅れてしまいましたね。<line-break>残念ながら、約束のお礼は半分です。<end>"
+english = "Thank you. However, we were late for the promised date. Regrettably, you will receive only half the agreed payment.<end>"
+
+["1560104"]
+japanese = "ふむ、なかなか楽しい旅であった。\u3000\u3000\u3000\u3000\u3000<line-break>いや、ご苦労であったな。<line-break>これは、護衛の手間賃とボーナスだ。<line-break>これからは、ずっとそなたに護衛を依頼したい<line-break>ものだな。<end>"
+english = "Hmm. That was a most enjoyable journey. You have done well. Here is your escort fee and a bonus. I should like to entrust all my future journeys to you.<end>"
+
+["1560105"]
+japanese = "ふむ、着いたようだな。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ご苦労だった。<line-break>護衛の手間賃だ。<line-break>この間の何とかいう護衛は一度も戦うことなく<line-break>旅させてくれたものだったが…。<end>"
+english = "Hmm. It seems we have arrived. Well done. Here is your escort fee. That other escort―whatever the name was―managed the whole journey without a single battle...<end>"
+
+["1560106"]
+japanese = "ふむ、ずいぶんなめにあわされたものだ。命が<line-break>惜しければ、二度と私の前に現れないことだな。<end>"
+english = "Hmm. You have put me through quite an ordeal. If you value your life, never show yourself before me again.<end>"
+
+["1560107"]
+japanese = "ふむ、やっと着いたようだな。<line-break>約束の期日は過ぎてしまったが、まあ、よかろう。<line-break>護衛の手間賃は半額でよかったのだな。<end>"
+english = "Hmm. It seems we have finally arrived. The promised date has passed, but no matter. Half the escort fee was the agreement in such a case, was it not?<end>"
+
+["1560108"]
+japanese = "君、おかげで何事もなくたどり着けたよ。<line-break>報酬だ、約束よりも若干多い。受け取ってくれ。<end>"
+english = "Thanks to you, I arrived without incident. Here is your reward. It's slightly more than we agreed on. Take it.<end>"
+
+["1560109"]
+japanese = "君、おかげでなんとかたどり着けたよ。<line-break>報酬だ、受け取ってくれ。<end>"
+english = "Thanks to you, I managed to arrive somehow. Here is your reward. Take it.<end>"
+
+["1560110"]
+japanese = "君、これでは、護衛として失格だよ。<line-break>報酬は出せないね。じゃ、失礼する。<end>"
+english = "This performance disqualifies you as an escort. I cannot pay you. Now, if you'll excuse me.<end>"
+
+["1560111"]
+japanese = "君、やっとたどり着いたね。<line-break>でも、約束の期限には遅れてしまった。<line-break>とりあえず報酬の半額だ、受け取ってくれ。<end>"
+english = "We've finally arrived, but we missed the promised deadline. For now, take half the reward.<end>"
+
+["1560112"]
+japanese = "いずれまた、お願いするかもしれません。<line-break>どうもありがとうございました。<line-break>護衛の料金とボーナスです、お納めください。<end>"
+english = "I may call upon you again someday. Thank you very much. Here is your escort fee and a bonus. Please accept them.<end>"
+
+["1560113"]
+japanese = "なんとかたどり着けました。<line-break>どうもありがとうございました。<line-break>護衛の料金です、お納めください。<end>"
+english = "I managed to make it here. Thank you very much. Here is your escort fee. Please accept it.<end>"
+
+["1560114"]
+japanese = "これじゃ、護衛の意味がないじゃないですか。<line-break>もうあなたには頼みません。<line-break>料金も払いません。失礼します。<end>"
+english = "What was the point of hiring an escort if this is the result? I won't hire you again, and I won't pay you. Good day.<end>"
+
+["1560115"]
+japanese = "なんとかたどり着きましたね。<line-break>でも、約束の期日には遅れました。<line-break>護衛の料金は、半額だけお支払いします。<end>"
+english = "We managed to arrive, but we missed the promised date. I will pay only half the escort fee.<end>"
+
+["1560116"]
+japanese = "おかげで、何事もなく来れたな。<line-break>ありがとさんよ。<line-break>\u3000<line-break>護衛の料金とボーナスだ、<line-break>遠慮なく受け取ってくれ。<end>"
+english = "Thanks to you, I made it here without incident. Much obliged. Here's your escort fee and a bonus. Take them; you've earned them.<end>"
+
+["1560117"]
+japanese = "なんとか、ここまで来れたな。<line-break>ありがとさんよ。<line-break>護衛の料金だ、遠慮なく受け取ってくれ。<end>"
+english = "We managed to make it this far. Much obliged. Here's your escort fee. Take it; you've earned it.<end>"
+
+["1560118"]
+japanese = "お前さん、まったく護衛になっとらんよ。<line-break>報酬は払わんよ。<end>"
+english = "You weren't any use as an escort at all. I'm not paying you.<end>"
+
+["1560119"]
+japanese = "なんとか、たどり着いたか。<line-break>しかし、期限には間に合わなかったな。<line-break>悪いが料金は半額にさせてもらうよ。<end>"
+english = "Well, we made it somehow, but not by the deadline. Sorry, but you only get half the fee.<end>"
+
+["1560120"]
+japanese = "君、おかげで何事もなくたどり着けたよ。<line-break>報酬だ。約束よりも若干多い。受け取ってくれ。<end>"
+english = "Thanks to you, I arrived without incident. Here is your reward. It's slightly more than we agreed on. Take it.<end>"
+
+["1560121"]
+japanese = "君、おかげでなんとかたどり着けたよ。<line-break>報酬だ。受け取ってくれ。<end>"
+english = "Thanks to you, I managed to arrive somehow. Here is your reward. Take it.<end>"
+
+["1560122"]
+japanese = "君、これでは、護衛として失格だよ。<line-break>報酬は出せないね。じゃ、失礼する。<end>"
+english = "This performance disqualifies you as an escort. I cannot pay you. Now, if you'll excuse me.<end>"
+
+["1560123"]
+japanese = "君、やっとたどり着いたね。<line-break>でも、約束の期限には遅れてしまった。<line-break>とりあえず、報酬の半額だ、受け取ってくれ。<end>"
+english = "We've finally arrived, but we missed the promised deadline. For now, take half the reward.<end>"
+
+["1560124"]
+japanese = "いやっはっは、もう到着かの、ご苦労さん。<line-break>お礼はこれでよろしいか？<line-break>\u3000<line-break>それと、ボーナスじゃな、ほれ。<line-break>いずれまた、頼むからの。<end>"
+english = "Ha ha! Here already, are we? Good work. Will this do for your payment? And here's a bonus. I'll be hiring you again someday.<end>"
+
+["1560125"]
+japanese = "ふう、やっと着いたか。もうちっとしっかりと<line-break>働いてくれたら、お礼もはずんだのにのお。<end>"
+english = "Whew, we finally made it. If you'd worked a little harder, I'd have paid you more.<end>"
+
+["1560126"]
+japanese = "はぁ、はぁ、なんでわしがこんなめに会わないと<line-break>いけないんじゃ？\u3000お前はクビじゃ、クビ。<line-break>\u3000<line-break>報酬なんぞやらん。ギルドの親父め…、<line-break>まったく、ひどい護衛をつけおってからに…。<end>"
+english = "Pant... pant... Why did I have to suffer through all that? You're fired, you hear me? Fired! You're not getting a reward. That old fool at the Guild... Saddling me with such a dreadful escort...<end>"
+
+["1560127"]
+japanese = "まったく、なんて護衛じゃ、期日に遅れるとは！<line-break>本来、報酬なんて払えたもんじゃないが、<line-break>ほれ、約束の半分の金額じゃ、受け取れ。<end>"
+english = "What a worthless escort, making us late! I shouldn't pay you anything at all, but here―take half the sum we agreed on.<end>"
+
+["1560128"]
+japanese = "いやー、あんたに頼んで正解だったぜ。\u3000\u3000<line-break>まったく戦闘しないで済んだからな。<line-break>\u3000<line-break>約束の報酬より多いが、受け取ってくれ。<line-break>完璧に護衛をこなしてくれたことのお礼だ。<end>"
+english = "Well, hiring you was the right choice. There wasn't a single fight. Here's a little more than we agreed on. Take it―it's my thanks for a flawless escort job.<end>"
+
+["1560129"]
+japanese = "なんとか、たどり着くことができたか。<line-break>あんたも冒険者としてはまだまだだな。<line-break>約束の報酬だ、ご苦労さん。<end>"
+english = "Well, we made it somehow. You've still got a long way to go as an adventurer. Here's the agreed reward. Thanks for your work.<end>"
+
+["1560130"]
+japanese = "あんたなんかに頼むんじゃなかった。<line-break>護衛の意味がないじゃないか。<line-break>\u3000<line-break>まっとうな仕事をしてないんだ、<line-break>報酬は払わないからな。<end>"
+english = "I never should've hired you. Some escort you were. You didn't do your job, so I'm not paying you.<end>"
+
+["1560131"]
+japanese = "到着期限が過ぎてしまったな。<line-break>悪いが、報酬は半額だ。<end>"
+english = "We've missed the arrival deadline. Sorry, but you only get half the reward.<end>"
+
+["1560132"]
+japanese = "ありがとうございました。あなたさまのおかげで<line-break>無事たどりつくことができました。<line-break>\u3000<line-break>これは、護衛の報酬とボーナスです。<line-break>お受け取りください。<end>"
+english = "Thank you. Thanks to you, I arrived safely. Here is your escort fee and a bonus. Please accept them.<end>"
+
+["1560133"]
+japanese = "ありがとうございました。あなたさまのおかげで<line-break>なんとかたどりつくことができました。<line-break>\u3000<line-break>これは、護衛の報酬です。<line-break>お受け取りください。<end>"
+english = "Thank you. Thanks to you, I managed to arrive somehow. Here is your escort fee. Please accept it.<end>"
+
+["1560134"]
+japanese = "とんでもない護衛でしたわね。お礼金なんて<line-break>お支払いする気になりませんわ。失礼します。<end>"
+english = "What an appalling escort you proved to be. I have no intention of paying you. Good day.<end>"
+
+["1560135"]
+japanese = "ありがとうございました。<line-break>約束の期限には間に合いませんでしたが、<line-break>なんとか、無事たどり着くことができました。<line-break>護衛の報酬は半額でよろしいですね。<line-break>こちらです、お受け取りください。<end>"
+english = "Thank you. Although we missed the promised deadline, I did at least arrive safely. Half the escort fee will suffice, yes? Here it is. Please accept it.<end>"
+
+["1560136"]
+japanese = "もう着いちゃったんだァ。どうもありがと。<line-break>今度あった時には、あなたの物語、聞かせてね。<line-break>\u3000<line-break>はい、これ護衛の料金。<line-break>それと、一回も戦闘しなかったからボーナスね。<end>"
+english = "We're here already? Thanks! Next time we meet, tell me your story. Here, this is your escort fee. And since we didn't have a single fight, there's a bonus too.<end>"
+
+["1560137"]
+japanese = "やっと着いたね。どうもありがと。<line-break>はい、これ護衛の料金。<line-break>また、どこかであえるといいね、それじゃあね。<end>"
+english = "We finally made it. Thanks! Here, this is your escort fee. I hope we meet again somewhere. See you!<end>"
+
+["1560138"]
+japanese = "頼りない護衛ってのもいるものねぇ。<line-break>もう、絶対あなたには護衛たのまないからね。<end>"
+english = "I suppose some escorts really are hopeless. I'm never, ever hiring you again.<end>"
+
+["1560139"]
+japanese = "やっと着いたね。どうもありがと。<line-break>でも、約束の日にちより、遅れちゃったね。<line-break>護衛の料金は半額でいいんだよね。<end>"
+english = "We finally made it. Thanks! But we're later than the date we agreed on. That means half the escort fee is enough, right?<end>"
+
+["1560140"]
+japanese = "どうもありがとうございました。<line-break>おかげさまで、無事たどりつけました。<line-break>\u3000<line-break>これは、護衛の報酬とボーナスです。<line-break>お受け取りください。<end>"
+english = "Thank you very much. Thanks to you, I arrived safely. Here is your escort fee and a bonus. Please accept them.<end>"
+
+["1560141"]
+japanese = "どうもありがとうございました。<line-break>おかげさまで、なんとかたどりつけました。<line-break>\u3000<line-break>これは、護衛の報酬です。<line-break>お受け取りください。<end>"
+english = "Thank you very much. Thanks to you, I managed to arrive somehow. Here is your escort fee. Please accept it.<end>"
+
+["1560142"]
+japanese = "ああ、どうしてこんなに運がないのかしら…。<line-break>もっと強い人に守ってもらいたかったわ。<line-break>お支払いする気になりませんわ。失礼します。<end>"
+english = "Oh, why must my luck be so wretched...? I wish someone stronger had protected me. I have no intention of paying you. Good day.<end>"
+
+["1560143"]
+japanese = "やっと到着しましたわ。<line-break>約束の期限には遅れましたわね。<line-break>護衛の報酬は半額だけ、お支払いします。<end>"
+english = "We have arrived at last. We missed the promised deadline. I shall pay only half the escort fee.<end>"
+
+["1560144"]
+japanese = "ありがとうございましたですわ。<line-break>またそのうちお願いいたしますわ、ウフ。<line-break>\u3000<line-break>これは、護衛していただいた料金ですわ。<line-break>それとボーナスですわね。<end>"
+english = "Thank you ever so much. I shall call upon you again sometime. Hee hee. Here is your escort fee, along with a bonus.<end>"
+
+["1560145"]
+japanese = "ありがとうございましたですわ。<line-break>今度はもう少しお手柔らかに、お願いしますわ。<line-break>これは、護衛していただいた料金ですわ。<end>"
+english = "Thank you ever so much. Do be a little gentler next time, won't you? Here is your escort fee.<end>"
+
+["1560146"]
+japanese = "こんなめにあわせられるとは思いませんでした。<line-break>今度出会ったら、魔法で焼き焦がしますわよ。<end>"
+english = "I never imagined you would put me through such an ordeal. The next time we meet, I shall burn you to a crisp with magic.<end>"
+
+["1560147"]
+japanese = "やっとたどり着きました。<line-break>こんなに遅れるとは思いませんでしたわ。<line-break>護衛の料金は半分だけ、お支払いしますわ。<end>"
+english = "We have finally arrived. I never imagined we would be so late. I shall pay only half the escort fee.<end>"
+
+["1560148"]
+japanese = "ありがとうございました。あなたさまのおかげで<line-break>無事たどりつくことができました。<line-break>\u3000<line-break>これは、護衛の報酬とボーナスです。<line-break>お受け取りください。<end>"
+english = "Thank you. Thanks to you, I arrived safely. Here is your escort fee and a bonus. Please accept them.<end>"
+
+["1560149"]
+japanese = "ありがとうございました。あなたさまのおかげで<line-break>なんとかたどりつくことができました。<line-break>\u3000<line-break>これは、護衛の報酬です。<line-break>お受け取りください。<end>"
+english = "Thank you. Thanks to you, I managed to arrive somehow. Here is your escort fee. Please accept it.<end>"
+
+["1560150"]
+japanese = "とんでもない護衛でしたわね。お礼金なんて<line-break>お支払いする気になりませんわ。失礼します。<end>"
+english = "What an appalling escort you proved to be. I have no intention of paying you. Good day.<end>"
+
+["1560151"]
+japanese = "ありがとうございました。<line-break>約束の期限には間に合いませんでしたが、<line-break>なんとか、無事たどり着くことができました。<line-break>護衛の報酬は半額でよろしいですね。<line-break>こちらです、お受け取りください。<end>"
+english = "Thank you. Although we missed the promised deadline, I did at least arrive safely. Half the escort fee will suffice, yes? Here it is. Please accept it.<end>"
+
+["1560152"]
+japanese = "おかげで、看板娘に傷が付かずにすんだから、<line-break>酒場のマスターも大喜びよ、きっと。<line-break>どうもありがとね。<line-break>これは、護衛の報酬とボーナスね。<line-break>いつでも酒場に遊びに来てね。<end>"
+english = "The tavern master will be delighted that the star barmaid came through without a scratch, I'm sure. Thanks so much. Here's your escort fee and a bonus. Come visit the tavern anytime.<end>"
+
+["1560153"]
+japanese = "最近も物騒になったものよね。やっぱり、護衛を<line-break>頼んでよかったわ。<line-break>護衛の報酬ね、どうもありがと。<end>"
+english = "Things have certainly become dangerous lately. I'm glad I hired an escort. Here's your fee. Thanks.<end>"
+
+["1560154"]
+japanese = "おかげで、ずいぶんひどいめにあったわよ！<line-break>もう二度とあんたには頼まないから！<end>"
+english = "You put me through a terrible ordeal! I'm never hiring you again!<end>"
+
+["1560155"]
+japanese = "だいぶ遅れたけど、やっと着いたわね。<line-break>マスター、心配してなければいいけど…。<line-break>うちのマスターは心配性だから。<line-break>ああ、護衛の報酬ね、遅れた場合は半額だけ<line-break>払えばいいのよね。<end>"
+english = "We're very late, but we've finally arrived. I hope the master isn't worried... The master worries so much. Oh, your escort fee. Since we're late, I only have to pay half, right?<end>"

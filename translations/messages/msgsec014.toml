@@ -1,0 +1,89 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["140000"]
+japanese = "<select><value:$33>お姉ちゃん、ぼくにもイチゴを<line-break>分けてよ～。<end>ひどいよ～、ひどいよ～。<line-break>お姉ちゃんがボクのイチゴを<line-break>全部食べちゃった～。<end>黒鎧騎士様の盾って、カッコイイなあ。<line-break>ボクも大きくなったら騎士になって、<line-break>盾を持てるようになるんだ！！<end>ボク、大きくなったら騎士になって<line-break>ガルドランやお姉ちゃんみたいな<line-break>悪いヤツからみんなを守るんだ。<end>ひどいよ～、ひどいよ～。<line-break>お姉ちゃんのいじわるっ！<end>お姉ちゃんのうそつき！<line-break>ボクをいじめて楽しんでる<line-break>だけのくせに！<end>ボク…ボク、お姉ちゃんのせいで<line-break>ずーっとイチゴを食べてないんだからぁ。<line-break>ひどいよー。一生恨んでやるからぁ…。<end>大きくなって騎士になったら、<line-break>絶対にお姉ちゃんに仕返ししてやるんだ！<line-break>目の前でイチゴを山盛り食べてやるっ！<end>"
+english = "<select><value:$33>Come on, Sis, share some strawberries with me!<end>That's so mean! So mean! You ate all my strawberries, Sis!<end>The Black-Armored Knight's shield is so cool! When I grow up, I'm going to be a knight and carry a shield too!<end>When I grow up, I'm going to be a knight and protect everyone from bad people like Girldlan and you, Sis.<end>That's so mean! So mean! You're such a bully, Sis!<end>Liar! You're only doing this because you like picking on me!<end>I... I haven't had any strawberries in forever, and it's all your fault! You're so mean. I'll hate you for the rest of my life...<end>When I grow up and become a knight, I'll get you back for this! I'll eat a whole mountain of strawberries right in front of you!<end>"
+
+["140001"]
+japanese = "<select><value:$33>わたしに追いついたらね。<line-break>はやくしないと、ぜ～んぶ<line-break>食べちゃうよっ！<end>うふふふ…。<line-break>とーってもおいしかったわよ。<end>あたしに追いつけないあんたが、<line-break>騎士になんてなれるわけないねっ！<end>ちょっと！<line-break>ガルドランみたいな変態不細工男と<line-break>あたしを一緒にしないでよねっ！<end>騎士になりたいなら追いついてみなっ！<line-break>できなかったらボッコボコよ～。<end>あんたに立派な騎士になって欲しいから、<line-break>こうして厳しく修行してるのよ。<line-break>本当は心を痛めてるんだから…ぐすっ。<end>イチゴの１個や２個でうるさいわねえ。<line-break>あたしに追いついたらあげるって<line-break>言ってるでしょ！<end>仕返しなんてぜんぜーん恐くないよ。<line-break>あんたが騎士になるころには、<line-break>あたしは女王様になってるもん。<end>"
+english = "<select><value:$33>Only if you catch me! Better hurry, or I'll eat every last one!<end>Hee hee hee... They were so delicious.<end>You can't even catch me! How could you ever become a knight?<end>Hey! Don't lump me in with an ugly pervert like Girldlan!<end>If you want to be a knight, try catching me! If you can't, I'll beat you to a pulp!<end>I'm putting you through this harsh training because I want you to become a fine knight. It really does break my heart... sniff.<end>What a fuss over one or two strawberries. I told you, I'll give you some if you catch me!<end>I'm not scared of your revenge at all. By the time you're a knight, I'll be a queen!<end>"
+
+["140002"]
+japanese = "<if><value:$23><equal>0ああ、<value:$28>か…。<end><select><value:$20>%4材木が欲しいならボンガの所かな。<line-break>酒場の横の道を行けば小屋があるから<line-break>訪ねてみなよ。<end>宿屋の親父が冒険者嫌いなのもわかるぜ。<line-break>冒険者は無法者だから、巡礼客と一緒の宿に<line-break>泊めると何をしでかすか、わからないだろ。<end>宿屋の親父は宿泊客の面倒をよく見てるよ。<line-break>霊峰トールへの道案内とか大変だろうにな。<end>不良息子のヴァンが問題ばかり起こすから<line-break>宿屋の親父も苦労が絶えないな。<line-break>他人ごとながら同情するよ。<end>"
+english = "<if><value:$23><equal>0Oh, it's <value:$28>...<end><select><value:$20>%4If you need lumber, try Bonga. There's a hut down the road beside the tavern. Go pay him a visit.<end>I can see why the innkeeper hates adventurers. They're outlaws. Put them under the same roof as pilgrims and there's no telling what they might do.<end>The innkeeper takes good care of the guests. Guiding people to Sacred Mount Thor can't be easy, either.<end>That delinquent son of his, Van, is always causing trouble. The innkeeper never gets a moment's peace. It's none of my business, but I feel for him.<end>"
+
+["140003"]
+japanese = "<if><value:$23><equal>0おや、<value:$28>かい。<end><select><value:$33>この町の近くには霊峰トールがあるからねえ。<line-break>ここはトールへの巡礼者でにぎわってるのさ。<end>この町の近くには霊峰トールがあるからねえ。<line-break>ここはトールへの巡礼者でにぎわってるのさ。<end>トールの頂上には巨大な神殿があってね。<line-break>巡礼者は、そこで神に祈りをささげるのさ。<end>悪名高いロセンが滅ぼされたそうだね。<line-break>さすがはディンガル軍だよ。<end>ロストールとディンガルが<line-break>戦争しているおかげで、ロストールからの<line-break>巡礼者が減ってきているね。<end>なんでもリベルダムはカルラ将軍に、<line-break>破壊されて、ガレキの山になったって<line-break>言うじゃないか。<line-break>恐ろしいことだよねえ…。<end>最近戦争のおかげで世間は大混乱だろ。<line-break>だから神にすがりたい人が多いんだろうね。<line-break>巡礼者の数が増えたような気がするよ。<end>エルファス様のおっしゃるように世界は<line-break>滅んでしまうんだろうか。<line-break>ああ神よ、哀れな人間をお救いください…。<end>"
+english = "<if><value:$23><equal>0Oh, <value:$28>, is that you?<end><select><value:$33>Sacred Mount Thor is near this town, you see. That's why the place is bustling with pilgrims bound for Thor.<end>Sacred Mount Thor is near this town, you see. That's why the place is bustling with pilgrims bound for Thor.<end>There's an enormous temple at the summit of Thor. That's where the pilgrims offer their prayers to the god.<end>They say the infamous Rocen has been destroyed. That's the Dingal Army for you.<end>With Rostorl and Dingal at war, fewer pilgrims have been coming from Rostorl.<end>They say General Karula destroyed Liberdam and reduced it to a heap of rubble. How dreadful...<end>The war has thrown everything into chaos lately. I suppose more people want to turn to the gods. It seems as though there are more pilgrims now.<end>Will the world truly perish, as Lord Elfas says? O God, please save us pitiful mortals...<end>"
+
+["140004"]
+japanese = "<if><value:$23><equal>0おや、<value:$28>じゃないか。<line-break>毎日きちんと食べて寝ないとダメだよ。<line-break>ナッジにもよく言っときな。<end><select><value:$20>%3この町の森の外れにはナッジっていう<line-break>コーンスの孤児が住んでる小屋があるのよ。<end>コーンス族は額に角が生えてるのさ。<line-break>気持ち悪がる人も多いけど、<line-break>あたしはかっこいいと思うよ。<end>宿屋の親父は冒険者が大嫌いなんだ。<line-break>大事な息子をガルドランとかいう<line-break>冒険者にケガさせられてね。<line-break>冒険者は絶対に泊めるものか！<line-break>…って怒ってたよ。<end>"
+english = "<if><value:$23><equal>0Why, <value:$28>, there you are. Make sure you're eating and sleeping properly every day. Tell Nadge the same.<end><select><value:$20>%3There's a hut at the edge of the woods outside town where a Corns orphan named Nadge lives.<end>The Corns have horns growing from their foreheads. A lot of people find them creepy, but I think they look impressive.<end>The innkeeper can't stand adventurers. An adventurer named Girldlan injured his precious son. He was furious, shouting, “I'll never let adventurers stay here!”<end>"
+
+["140005"]
+japanese = "なんか、あそこのおじいさんの視線<line-break>腰のあたりにからみつくのよねえ。<end>"
+english = "I get the feeling that old man over there keeps staring at my waist.<end>"
+
+["140006"]
+japanese = "むひひひひ、…いい尻じゃ。<line-break>こうやって、一日中、あの娘の尻を眺めとるのが<line-break>わしの生きがいじゃ。<end>"
+english = "Heh heh heh... What a fine backside. Spending all day admiring that girl's rear is what I live for.<end>"
+
+["140007"]
+japanese = "<select><value:$33>私は水の都アキュリュースの商人です。<line-break>よくテラネまで木材の買い付けに来ております。<line-break>アキュリュースはよい所ですよ。<end>私は水の都アキュリュースの商人です。<line-break>よくテラネまで木材の買い付けに来ております。<line-break>アキュリュースはよい所ですよ。<end>せっかくここまで来ているのだから、<line-break>私もトールへ巡礼に行けばいいのですが…。<line-break>なかなか決心が付かなくて。<end>宿屋のご主人は非常に気のきくかたで<line-break>こうして快適な旅ができるのも、<line-break>ご主人のおかげですよ。<end>宿屋のご主人がよいかたなので、<line-break>ついつい長居をしてしまいます。<line-break>また、ここに来るのが楽しみですよ。<end>宿屋のご主人は、トールへの巡礼客の案内も<line-break>しておられるようです。<line-break>本当に仕事熱心なかたですよ。<end>トールへの巡礼はモンスターや盗賊に<line-break>襲われたりと危険がいっぱいらしいです。<line-break>巡礼客の道案内も大変でしょうな。<end>エルファス様のお話を聞いて、<line-break>私もトールへ行く決心がつきました。<line-break>家族のため世界のために神に祈りを捧げます。<end>"
+english = "<select><value:$33>I'm an Aqyurius Merchant, from the City of Water. I often come to Terane to buy lumber. Aqyurius is a lovely place.<end>I'm an Aqyurius Merchant, from the City of Water. I often come to Terane to buy lumber. Aqyurius is a lovely place.<end>Since I've come all this way, I really ought to make the pilgrimage to Thor myself... but I can't quite bring myself to do it.<end>The innkeeper is exceptionally attentive. I owe the comfort of my journey entirely to him.<end>The innkeeper is such a good man that I always end up staying longer than I meant to. I look forward to coming here again.<end>It seems the innkeeper also guides pilgrims to Thor. He truly is devoted to his work.<end>I hear the pilgrimage to Thor is fraught with danger, from monsters to bandits. Guiding pilgrims along the way must be no easy task.<end>After hearing Lord Elfas speak, I finally resolved to go to Thor. I shall offer my prayers to the god for my family and for the world.<end>"
+
+["140008"]
+japanese = "<if><value:$2A><less-equal>%49おうっ若造！\u3000無理するなよ。<line-break>名を売る前に死んでしまっちゃあ<line-break>意味がねえからな。<end><if><value:$2A><less-equal>%100<value:$28>だって？<line-break>聞いたことがあったかもしれんが、<line-break>覚えてないね。<end><if><value:$2A><less-equal>%140なにっ！\u3000あんたが<value:$28>か！<line-break>なるほど…通り名はだてじゃないな。<end><value:$2B>に会ったことがあるか？<line-break>大陸で１、２を争う凄腕の冒険者らしいぞ。<line-break>俺も会ってみたいもんだ。<end>"
+english = "<if><value:$2A><less-equal>%49Hey, youngster! Don't push yourself too hard. No point dying before you've made a name for yourself.<end><if><value:$2A><less-equal>%100<value:$28>, you say? I may have heard the name, but I don't remember it.<end><if><value:$2A><less-equal>%140What? You're <value:$28>? Now I understand... That moniker is well earned.<end>Have you ever met <value:$2B>? I hear that's one of the top two adventurers on the continent. I'd like to meet such a remarkable adventurer myself.<end>"
+
+["140009"]
+japanese = "<select><value:$20>%4腕の立つ冒険者になるには経験を積むことだ。<line-break>経験を積むにはギルドで引き受けた仕事を<line-break>確実にこなしていくことじゃ。<end>ここは冒険者に冷たい町なんじゃ。<line-break>なんでも、町の有力者である<line-break>宿屋の親父が冒険者嫌いらしい…。<end>宝箱を見つけても、むやみに開けぬほうが<line-break>いいぞ。特に難易度の高い罠はのう。<line-break>何事もあせらず、いそがずじゃ。<end>コーンス族の角には魔力が宿っておる。<line-break>それゆえに研究の材料として角を欲しがる<line-break>魔道士と角狩りを行う冒険者が存在するのじゃ。<end>"
+english = "<select><value:$20>%4To become a skilled adventurer, you need experience. And to gain experience, you must reliably complete the jobs you take from the Guild.<end>This town isn't kind to adventurers. Apparently the innkeeper, one of the town's leading citizens, hates them...<end>Don't open every treasure chest you find without a thought, especially if the trap is a difficult one. Whatever you do, be patient and never rush.<end>Magic resides in the horns of the Corns. That is why some sorcerers seek the horns for research, while certain adventurers hunt the Corns for them.<end>"
+
+["140010"]
+japanese = "<select><value:$20>%2冒険に出るならケガをしたときのために<line-break>元気の薬くらいは買っておきなさい。<end>道具屋によって売っている商品が違うから、<line-break>どこで何を売っているのかを覚えておいた<line-break>ほうがいいわよ。<end>"
+english = "<select><value:$20>%2If you're heading out on an adventure, at least buy some medicine to restore your strength in case you get hurt.<end>Every item shop carries different wares, so you should remember what each one sells.<end>"
+
+["140011"]
+japanese = "<if><value:$2C><less-equal>%9武器は重ければ重いほど１回の攻撃で与える<line-break>ダメージが増えるが、動きが鈍くなる。<line-break>武器の形状を変えるときはよく考えることだ。<end><if><value:$2C><less-equal>%29未開の森には行ったか？<line-break>森の先には海賊のアジトがあるという噂を<line-break>聞いたことがある。あくまで噂だがな。<end><if><value:$2C><less-equal>%49しぶきの群島は謎だらけの島だ。<line-break>島に向かって、帰った者はいないという。<end>俺の斧は旅立ったときからずっと使っている。<line-break>鍛えに鍛え上げたので、かなり強いぞ。<line-break>あんたの武器はどうだい？<end>"
+english = "<if><value:$2C><less-equal>%9The heavier a weapon is, the more damage each blow will do, but the slower you'll move. Think carefully before changing your weapon's form.<end><if><value:$2C><less-equal>%29Have you been to the Uncharted Forest? I've heard rumors of a pirate hideout beyond it. Only rumors, mind you.<end><if><value:$2C><less-equal>%49The Spray Archipelago is shrouded in mystery. They say no one who has set out for the islands has ever returned.<end>I've used this axe ever since I first set out. After all the tempering I've put it through, it's grown quite powerful. How's your weapon coming along?<end>"
+
+["140012"]
+japanese = "<if><value:$23><equal>0何の用だ、<value:$28>。<line-break>お前のようなヤツはここに用事は<line-break>ないはずだ。出ていってくれ<end><select><value:$20>%3何が冒険者だ。定職にもつかずブラブラと…。<line-break>この神聖な場所からとっとと出ていくがよい。<end>ここは毎日を一生懸命に生きている人々が<line-break>神に感謝し、祈りをささげる場所だ。<line-break>冒険者のような無法者が来るところではない。<end>私は、自分の欲望を満たすためなら<line-break>何でもする、お前たち冒険者が大嫌いなのだ。<end>"
+english = "<if><value:$23><equal>0What do you want, <value:$28>? Someone like you should have no business here. Leave.<end><select><value:$20>%3You call yourself an adventurer? Wandering about without a steady job... Begone from this sacred place at once.<end>This is a place where people who work hard each day give thanks to the god and offer their prayers. It is no place for lawless adventurers.<end>I detest you adventurers. You will do anything to satisfy your own desires.<end>"
+
+["140013"]
+japanese = "<if><value:$23><equal>0よう、<value:$28>じゃないか。<line-break>君もノトゥーンに祈りをささげに来たのかい？<end><select><value:$20>%3ここの神官と宿屋の親父が町の有力者なんだが<line-break>２人そろって冒険者嫌いでな、<line-break>気に障ることを言うだろうが気にするなよ。<end>宿屋のヴァンのダジャレはひどいもんだよ。<line-break>あれを聞いた瞬間は、すべてが凍る感じだな。<end>霊峰トールは高い山でね、<line-break>頂上は天に届きそうだよ。<end>"
+english = "<if><value:$23><equal>0Well, if it isn't <value:$28>. Have you come to offer a prayer to Notun too?<end><select><value:$20>%3The priest here and the innkeeper are both influential people in town, and they both hate adventurers. They'll probably say something offensive, but don't let it bother you.<end>Van at the inn tells the most dreadful puns. The moment you hear one, it's as if everything freezes solid.<end>Sacred Mount Thor is so tall, its summit almost seems to touch the heavens.<end>"
+
+["140014"]
+japanese = "<select><value:$20>%2天空神ノトゥーン様、お救いください。<line-break>救世主エルファス様は、<line-break>やがて破壊神ウルグが復活すると仰せなのです。<end>神よ！\u3000わたくしの祈りが届いたなら、<line-break>どうか、世界を破滅から救ってください。<end>"
+english = "<select><value:$20>%2Sky God Notun, save us. Elfas the Savior has said that Urg, God of Destruction, will one day rise again.<end>O God! If my prayer has reached you, please save the world from destruction.<end>"
+
+["140015"]
+japanese = "<select><value:$33>今回の霊峰トールへのお参りは５００回目、<line-break>俺の４０年のお参り人生のひとつの節目だ。<line-break>気合い入れていくぞっ！<end>今回の霊峰トールへのお参りは５００回目、<line-break>俺の４０年のお参り人生のひとつの節目だ。<line-break>気合い入れていくぞっ！<end>俺は見ての通り船長をやっておる。<line-break>仕事の休みを利用しては霊峰トールへ<line-break>お参りしておるのだ。<end>霊峰トールへ登る前にお参りの無事を祈り、<line-break>帰ってきたら無事に帰ったことを感謝する。<line-break>ずーっとそうやってきておるのだ。<end>俺が無事に航海できるのも、<line-break>天空神ノトゥーン様のおかげだ。<line-break>その感謝の気持ちを態度で現すのが巡礼なのだ。<end>リベルダムが壊れたせいで仕事が減ったのだ。<line-break>これで今まで以上にお参りに励めるぞ。<line-break>今度はアルノートゥンにでも行くかな。<end>巡礼は、途中でモンスターや盗賊に襲われたり<line-break>して、ただ歩いていくだけではないのだぞ。<line-break>いわゆる冒険なのだ。<end>エルファス様も神に祈れとおっしゃっておる。<line-break>君も世界を救うために祈りたまえよ。<end>"
+english = "<select><value:$33>This will be my five hundredth pilgrimage to Sacred Mount Thor, a milestone in my forty years as a pilgrim. I'll give it everything I've got!<end>This will be my five hundredth pilgrimage to Sacred Mount Thor, a milestone in my forty years as a pilgrim. I'll give it everything I've got!<end>As you can see, I'm a ship's captain. Whenever I have time away from work, I make the pilgrimage to Sacred Mount Thor.<end>Before climbing Sacred Mount Thor, I pray for a safe pilgrimage. When I return, I give thanks for coming back unharmed. That's how I've always done it.<end>I owe every safe voyage to Notun, the Sky God. A pilgrimage is how I show my gratitude through deeds.<end>Since Liberdam was destroyed, there's less work for me. Now I can devote even more time to pilgrimages. Perhaps I'll go to Alnortun next.<end>A pilgrimage isn't merely a long walk. You may be attacked by monsters or bandits along the way. In other words, it's an adventure.<end>Lord Elfas also bids us pray to the god. You should pray to save the world as well.<end>"
+
+["140016"]
+japanese = "冒険者ギルドへようこそ！<line-break>調子はどうだい？\u3000今日はなんの用だ？<end>"
+english = "Welcome to the Adventurers' Guild! How are you? What can I do for you today?<end>"
+
+["140017"]
+japanese = "ここは巡礼客だけでやっていけるんだ。<line-break>冒険者を泊める部屋はない。出て行け。<end>"
+english = "Pilgrims give us all the business we need. We have no rooms for adventurers. Get out.<end>"
+
+["140018"]
+japanese = "おう、ここは鍛冶屋だ。<line-break>武器や防具のことなら俺にまかせな！<end>"
+english = "Welcome to the smithy! If it's weapons or armor you need, leave it to me!<end>"
+
+["140019"]
+japanese = "いらっしゃい。ここは道具屋だ。<line-break>何が欲しいんだい？<end>"
+english = "Welcome. This is the item shop. What are you looking for?<end>"
+
+["140020"]
+japanese = "よう、ここは酒場だ。<line-break>かわいい娘が入ってから、うちも繁盛さ。<end>"
+english = "Welcome to the tavern. Business has been booming since that pretty girl joined us.<end>"
+
+["140021"]
+japanese = "テラネメッセージここまで<end>"
+english = ""

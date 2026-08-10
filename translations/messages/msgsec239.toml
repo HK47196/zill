@@ -1,0 +1,65 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+["2390000"]
+japanese = "PSP用新スタートイベント02用開始<end>"
+english = ""
+
+["2390001"]
+japanese = "（………？）<end>"
+english = "(...?)<end>"
+
+["2390002"]
+japanese = "危ないっ！<end>"
+english = "Look out!<end>"
+
+["2390003"]
+japanese = "間一髪だったな。<line-break>………………？<line-break>\u3000<line-break>まさか、こんな所で<line-break>無限のソウルの可能性を<line-break>秘めている者と出会うとは…。<end>"
+english = "That was close. ...? Never did I expect to encounter someone with the potential for Infinite Soul in a place like this...<end>"
+
+["2390004"]
+japanese = "いったい、ここで何をしていた？<end>"
+english = "What in the world were you doing here?<end>"
+
+["2390005"]
+japanese = "気がついたらここにいただと？<line-break>それ以外は何も覚えていないのか？<line-break>\u3000<line-break>…ならば名前はどうだ？<end>"
+english = "You came to and found yourself here? And you remember nothing else? ...What about your name?<end>"
+
+["2390006"]
+japanese = "<value:$28>か。<end>"
+english = "<value:$28>, is it?<end>"
+
+["2390007"]
+japanese = "おそらく魔物に襲われた恐怖で<line-break>一時的に記憶が失われているのだろう。<end>"
+english = "The terror of being attacked by a monster has probably caused some temporary memory loss.<end>"
+
+["2390008"]
+japanese = "仕方がない。出口まではつれていく。<line-break>あとは自分で何とかしたまえ。<end>"
+english = "Very well. I will take you as far as the exit. After that, you must fend for yourself.<end>"
+
+["2390009"]
+japanese = "これからどうすればいいかだと？<line-break>それは私の関知することではない。<line-break>\u3000<line-break>私の名はベルゼーヴァ。<line-break>これでも一国の宰相なのでな。<line-break>思いのほか、忙しい身だ。<end>"
+english = "What should you do now, you ask? That is no concern of mine. My name is Beelzeva. I may not look it, but I am the chancellor of a nation. I am rather busier than you might imagine.<end>"
+
+["2390010"]
+japanese = "待て、<value:$28>。<end>"
+english = "Wait, <value:$28>.<end>"
+
+["2390011"]
+japanese = "とりあえず<line-break>当座の金が必要ならば<line-break>町のギルドにでも行くのだな。<line-break>そこで冒険者として仕事をこなせば<line-break>食い物と寝場所には困らない。<end>"
+english = "If you need money to tide you over, go to the Guild in town. Take on work there as an adventurer, and you should have no trouble finding food and a place to sleep.<end>"
+
+["2390012"]
+japanese = "もうひとつ忠告しておく。<line-break>この魔道の塔に再び入ろうなどとは<line-break>ゆめゆめ思わぬことだ。<line-break>少なくとも、それ相応の実力が<line-break>ともなわぬうちはな。<end>"
+english = "One more word of warning: do not even think of entering the Arcane Tower again. Not, at least, until you possess the requisite ability.<end>"
+
+["2390013"]
+japanese = "ひとつだけ忠告しておくが<line-break>この魔道の塔に再び入ろうなどは<line-break>ゆめゆめ思わぬことだ。<line-break>今回は運良く私が通りかかったが、<line-break>そんな偶然は二度と<line-break>期待せぬほうがいい。<end>"
+english = "One word of warning: do not even think of entering the Arcane Tower again. You were fortunate that I happened by this time. Do not expect such luck twice.<end>"
+
+["2390014"]
+japanese = "いったい、ここで何をしていた？<end>"
+english = "What in the world were you doing here?<end>"
+
+["2390015"]
+japanese = "PSP用新スタートイベント02用終端<end>"
+english = ""
