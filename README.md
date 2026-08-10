@@ -1,6 +1,6 @@
 # Zill
 
-Zill is a community translation project for *Zill O'll Infinite Plus*.
+Zill is an English fan translation of *Zill O'll Infinite Plus*.
 
 Install Go 1.26.5 or newer, then use the contributor commands:
 
