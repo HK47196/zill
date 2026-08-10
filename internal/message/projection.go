@@ -87,7 +87,7 @@ func Project(record corpus.Record) (*Projection, error) {
 		}
 		meaningful := false
 		for _, token := range region {
-			meaningful = meaningful || token.Kind == "text" || movableSubstitution(record.ID, token)
+			meaningful = meaningful || token.Kind == "text" || movableSubstitution(token)
 		}
 		if !meaningful {
 			for _, token := range region {
@@ -101,7 +101,7 @@ func Project(record corpus.Record) (*Projection, error) {
 		var kana [][]byte
 		for _, token := range region {
 			raw = append(raw, token.Raw...)
-			if movableSubstitution(record.ID, token) {
+			if movableSubstitution(token) {
 				substitutions = append(substitutions, token.Raw[1])
 			}
 			if token.Kind == "kana_mode" {
@@ -134,7 +134,7 @@ func Project(record corpus.Record) (*Projection, error) {
 		return nil
 	}
 	for index, token := range record.Tokens {
-		if token.Kind == "text" || movableSubstitution(record.ID, token) || token.Kind == "kana_mode" || token.Kind == "line_break" && !fixedBreaks[index] {
+		if token.Kind == "text" || movableSubstitution(token) || token.Kind == "kana_mode" || token.Kind == "line_break" && !fixedBreaks[index] {
 			region = append(region, token)
 			continue
 		}
@@ -246,15 +246,11 @@ func fixedLineBreaks(tokens []corpus.Token) map[int]bool {
 	return fixed
 }
 
-func movableSubstitution(id int, token corpus.Token) bool {
+func movableSubstitution(token corpus.Token) bool {
 	if token.Kind != "substitution" || len(token.Raw) != 2 || token.Raw[0] != 2 {
 		return false
 	}
-	if pureMovable[token.Raw[1]] {
-		return true
-	}
-	verified := id == 1070016 || id == 1290016 || id >= 220001 && id <= 220104 || id >= 230019 && id <= 230122 || id >= 240019 && id <= 240122 || id >= 250001 && id <= 250104
-	return verified && callerMovable[token.Raw[1]]
+	return pureMovable[token.Raw[1]] || callerMovable[token.Raw[1]]
 }
 
 func displayRaw(raw []byte) (string, error) {

@@ -45,6 +45,27 @@ func TestProjectionMovesOnlySourceApprovedSubstitutionAndPreservesControls(t *te
 	}
 }
 
+func TestProjectionMovesCallerSubstitutionWithinTextFragment(t *testing.T) {
+	record := corpus.Record{ID: 230018, Tokens: []corpus.Token{
+		{Kind: "substitution", Raw: []byte{2, 0x15}},
+		{Kind: "text", Raw: []byte("find it")},
+		{Kind: "block_terminator", Raw: []byte{5, 5, 5}},
+	}}
+	projection, err := message.Project(record)
+	if err != nil {
+		t.Fatal(err)
+	}
+	got, err := projection.Materialize("Find <value:$15>.<end>", false)
+	if err != nil {
+		t.Fatal(err)
+	}
+	want := append([]byte("Find "), 2, 0x15)
+	want = append(want, '.', 5, 5, 5)
+	if !bytes.Equal(got, want) {
+		t.Fatalf("materialized bytes = % x, want % x", got, want)
+	}
+}
+
 func TestProjectionNamesSelectorCaseFromSourceExpression(t *testing.T) {
 	record := corpus.Record{ID: 7, Tokens: []corpus.Token{
 		{Kind: "select", Raw: []byte{1, 'S'}},
