@@ -862,7 +862,7 @@ english = "I hereby commission the adventurer <value:$28> to find the knight Ire
 
 ["1360215"]
 japanese = "報酬は錬剛石５個。<line-break>文句ある？<end>"
-english = "Your reward will be five tempered-steel stones. Any complaints?<end>"
+english = "Your reward will be five Tempering Stones. Any complaints?<end>"
 
 ["1360216"]
 japanese = "じゃあ、契約成立ってことで。<line-break>途中報告一切不要。結果をみせてよね。<line-break>以上。<end>"
@@ -1046,7 +1046,7 @@ english = "Oh, all right. At least now I know Irene's safe. Consider it a partin
 
 ["1360261"]
 japanese = "<value:$28>は<line-break>練剛石を５つ手に入れた<end>"
-english = "<value:$28> obtained 5 Tempered Steel Stones.<end>"
+english = "<value:$28> obtained 5 Tempering Stones.<end>"
 
 ["1360262"]
 japanese = "報酬がいんないのは<line-break>わかったけど、その指ってばなに？<line-break>かわりにあたしについてこいっての？<end>"

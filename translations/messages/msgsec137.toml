@@ -926,7 +926,7 @@ english = "From now on, you'll probably find yourself in battle more often, as y
 
 ["1370231"]
 japanese = "鍛冶屋の経験がある男が、<line-break>村のどこかにいたはずだ。<line-break> <line-break>今は仕事を断っているらしいが<line-break>その錬剛石とギアを持っていって頼めば<line-break>鍛冶をしてくれるかもしれない。<end>"
-english = "There should be a man somewhere in the village with experience as a blacksmith. I hear he is refusing work at present, but if you take him that tempering stone and the Gea and ask him, he may agree to do some smithing for you.<end>"
+english = "There should be a man somewhere in the village with experience as a blacksmith. I hear he is refusing work at present, but if you take him that Tempering Stone and the Gea and ask him, he may agree to do some smithing for you.<end>"
 
 ["1370232"]
 japanese = "私は一足先に神殿に戻っている。<line-break>なるべく早く戻ってこい。<line-break>それに朝も早い。静かにな。<end>"
@@ -1198,7 +1198,7 @@ english = "Exactly what it sounds like: how sturdy a weapon or piece of armor is
 
 ["1370299"]
 japanese = "強度が高いほうが、<line-break>攻撃力や防御力が増すってのは<line-break>言うまでもねえ。<line-break>で、そこに、錬剛石って特別な鉱石を<line-break>あわせて叩き直す…言うなれば<line-break>ドワーフ流が今の主流だ。<end>"
-english = "It goes without saying that greater strength means greater Attack Power or defense. These days, the usual method is to reforge the piece with a special ore called tempering stone―the Dwarf method, you might say.<end>"
+english = "It goes without saying that greater strength means greater Attack Power or defense. These days, the usual method is to reforge the piece with a special ore called Tempering Stone―the Dwarf method, you might say.<end>"
 
 ["1370300"]
 japanese = "ただし、鍛えれば鍛えるほど、<line-break>武器の重量が重くなって扱いが<line-break>難しくなることは覚悟しとけよ。<end>"
@@ -1206,7 +1206,7 @@ english = "But be warned: the more you strengthen a weapon, the heavier it gets 
 
 ["1370301"]
 japanese = "ま、買ったままの武器でも<line-break>そこそこ戦えるようには鍛えてある。<line-break>だが、さらに鍛えたかったら、<line-break>錬剛石とギアがなけりゃ、<line-break>話にならねえ。<end>"
-english = "A weapon straight from the shop has already been forged well enough to hold its own. But if you want to strengthen it further, you'll need tempering stone and Gea. Without both, forget it.<end>"
+english = "A weapon straight from the shop has already been forged well enough to hold its own. But if you want to strengthen it further, you'll need Tempering Stone and Gea. Without both, forget it.<end>"
 
 ["1370302"]
 japanese = "ズバリ、エモノの形のことだな。<line-break>使ってる武器がいまいち好みじゃねえ<line-break>…そんな時は、鍛冶屋の出番だ。<line-break>代金さえもらえりゃ、ある程度、<line-break>お前さんの好みに従って形を<line-break>仕立て直すことが可能だ。<end>"
@@ -2658,23 +2658,23 @@ english = "R-right, I see. In that case, could you improve mine?<end>"
 
 ["1370664"]
 japanese = "武器の強化には、錬剛石が必要だが、<line-break>持ってるかい？<line-break>\u3000<end>"
-english = "You'll need Rengoseki to improve a weapon. Do you have any?<end>"
+english = "You'll need Tempering Stone to improve a weapon. Do you have any?<end>"
 
 ["1370665"]
 japanese = "錬剛石？\u3000いや、持ってないな。\u3000\u3000<line-break>その錬剛石って、どうすれば<line-break>手に入るんだ？<end>"
-english = "Rengoseki? No, I don't have any. How do I get it?<end>"
+english = "Tempering Stone? No, I don't have any. How do I get it?<end>"
 
 ["1370666"]
 japanese = "鉱山なんかへ行くと、ときどき<line-break>地面が光っていることがある。<line-break>そこを調べたら見つかるはずだ。\u3000\u3000<line-break>だが、錬剛石はきちんと<line-break>結晶化するまで時間がかかるし、<line-break>他の冒険者もねらってるからな。<end>"
-english = "In mines and the like, you'll sometimes see the ground shining. Search that spot and you should find some. But Rengoseki takes time to crystallize properly, and other adventurers are after it too.<end>"
+english = "In mines and the like, you'll sometimes see the ground shining. Search that spot and you should find some. But Tempering Stone takes time to crystallize properly, and other adventurers are after it too.<end>"
 
 ["1370667"]
 japanese = "だから、錬剛石がとれる山を\u3000\u3000\u3000\u3000<line-break>見つけたら、何度か足を<line-break>運んでみるのがいいだろうな。<end>"
-english = "So if you find a mountain where Rengoseki can be gathered, you'd do well to go back a few times.<end>"
+english = "So if you find a mountain where Tempering Stone can be gathered, you'd do well to go back a few times.<end>"
 
 ["1370668"]
 japanese = "なるほど。<line-break>冒険者は何ごとも冒険から\u3000\u3000\u3000\u3000\u3000<line-break>ってことだな。<line-break>それじゃあ、おやじ。<line-break>錬剛石を手に入れたら、また来るよ。<end>"
-english = "I see. For an adventurer, everything starts with an adventure. All right, old man. I'll come back once I've found some Rengoseki.<end>"
+english = "I see. For an adventurer, everything starts with an adventure. All right, old man. I'll come back once I've found some Tempering Stone.<end>"
 
 ["1370669"]
 japanese = "おう！<line-break>ギアもいるから、貯めとけよ。\u3000\u3000\u3000<line-break>\u3000<end>"
@@ -2878,7 +2878,7 @@ english = "Take this with you.<end>"
 
 ["1370719"]
 japanese = "何って、錬剛石だよ、錬剛石！<line-break>そいつがありゃ、お前さんの装備も<line-break>少しはマシになるだろ。<line-break>頑張れよ、ヒヨッコ。<line-break>お前さんが装備を鍛えに来るのを<line-break>楽しみに待ってるぜ。<end>"
-english = "What is it? It's a tempering stone. A tempering stone! With it, you should be able to make your equipment a little better. Keep at it, rookie. I'll look forward to seeing you when you come by to get your equipment strengthened.<end>"
+english = "What is it? It's a Tempering Stone. A Tempering Stone! With it, you should be able to make your equipment a little better. Keep at it, rookie. I'll look forward to seeing you when you come by to get your equipment strengthened.<end>"
 
 ["1370720"]
 japanese = "それじゃ、あたしたち行きますね。<line-break>\u3000<line-break>\u3000<line-break>またお店で待ってますので<line-break>よろしくおねがいしますね。<end>"

@@ -750,11 +750,11 @@ english = "Ｂｒａｖｅ means courage. A powerful warrior won't get far witho
 
 ["400187"]
 japanese = "ラミリー山を探検していると、\u3000\u3000\u3000\u3000<line-break>光る場所が見つかることがある。<line-break>そんな時は、迷わず調べてみるのだ！<line-break>錬剛石が落ちているからな。<line-break>ただし、他の冒険者が拾うこともある。<line-break>早い者勝ちだぞ。<end>"
-english = "While exploring Mount Ramiri, you may come across a glowing spot. If you do, check it without a second thought! You'll find a tempered-steel stone there. Mind you, another adventurer may pick it up first. First come, first served!<end>"
+english = "While exploring Mount Ramiri, you may come across a glowing spot. If you do, check it without a second thought! You'll find a Tempering Stone there. Mind you, another adventurer may pick it up first. First come, first served!<end>"
 
 ["400188"]
 japanese = "このあいだ先輩に連れられてゼグナ鉱山を<line-break>探検したんだよ。そしたら、光ってる場所が<line-break>あるんで、調べたら錬剛石を見つけたよ。<line-break>先輩の話だと、何週間に１回くらいは<line-break>こんなことがあるらしいよ。<line-break>君も行ってみたらどうだい？<end>"
-english = "A more experienced adventurer took me exploring Zegna Mine the other day. There was a glowing spot, and when I checked it out, I found some rengoseki. The adventurer who took me said that happens about once every few weeks. Why don't you go take a look yourself?<end>"
+english = "A more experienced adventurer took me exploring Zegna Mine the other day. There was a glowing spot, and when I checked it out, I found a Tempering Stone. The adventurer who took me said that happens about once every few weeks. Why don't you go take a look yourself?<end>"
 
 ["400189"]
 japanese = "この間、聖光石の廃鉱に行ってみたけど<line-break>聖光石は見つからなかったよ。<line-break>かけらなら採れたけどね。<line-break>やっぱり、良質な聖光石ってのは<line-break>採り尽したみたいだね。<end>"
@@ -762,15 +762,15 @@ english = "I went to the Old Sacred Lightstone Mine the other day, but I couldn'
 
 ["400190"]
 japanese = "虹色の山脈で光っている場所を見つけたので、<line-break>そこを調べたら錬剛石が落ちていましたぞ。<line-break>あそこで拾ったのは久しぶりですな。<line-break>あと１個残しておいたから、<line-break>急げば、まだ落ちているかもしれませんぞ。<end>"
-english = "I saw a spot glowing in the Rainbow Mountains, and when I went to take a look, I found some rengoseki lying there. It's been a long time since I last picked any up there. I left one behind, so if you hurry, it may still be there.<end>"
+english = "I saw a spot glowing in the Rainbow Mountains, and when I went to take a look, I found some Tempering Stones lying there. It's been a long time since I last picked any up there. I left one behind, so if you hurry, it may still be there.<end>"
 
 ["400191"]
 japanese = "あなた、錬剛石欲しくない？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>鳳凰山に１個だけ落ちていたわよ。<line-break>私には必要ない物だから教えてあげるわ。<line-break>錬剛石が落ちている場所は光っていたから<line-break>行ってみればわかると思うわよ。<line-break>でも、誰かに拾われてても文句言わないでね。<end>"
-english = "Wouldn't you like some Rengoseki? There was a single piece lying on Phoenix Mountain. I have no use for it, so I thought I'd tell you. The spot where I saw it was glowing, so you should recognize it when you get there. But don't blame me if someone else has already picked it up.<end>"
+english = "Wouldn't you like a Tempering Stone? There was a single piece lying on Phoenix Mountain. I have no use for it, so I thought I'd tell you. The spot where I saw it was glowing, so you should recognize it when you get there. But don't blame me if someone else has already picked it up.<end>"
 
 ["400192"]
 japanese = "死竜の洞窟を知っているよな。<line-break>あそこに、錬剛石が落ちていることがあるのは<line-break>知っていたかい？<line-break>この間も光っている場所を調べてみたら<line-break>錬剛石が落ちていたよ。<line-break>あと１個くらいは落ちてるんじゃないかな。<end>"
-english = "You know Dead Dragon Cave, don't you? Did you know you can sometimes find refined steelstone lying around in there? I checked a spot that was glinting the other day and found some. I wouldn't be surprised if there's another piece still there.<end>"
+english = "You know Dead Dragon Cave, don't you? Did you know you can sometimes find Tempering Stones lying around in there? I checked a spot that was glinting the other day and found one. I wouldn't be surprised if there's another piece still there.<end>"
 
 ["400193"]
 japanese = "（穴の中に何かが見える…）<end>"
@@ -810,19 +810,19 @@ english = "R-right. That makes sense. Then could you improve mine?<end>"
 
 ["400202"]
 japanese = "武器の強化には、錬剛石が必要だが、<line-break>持ってるかい？<line-break>\u3000<end>"
-english = "Improving a weapon takes tempering stone. Do you have any?<end>"
+english = "Improving a weapon takes Tempering Stone. Do you have any?<end>"
 
 ["400203"]
 japanese = "錬剛石？\u3000いや、持ってないな。\u3000\u3000<line-break>その錬剛石って、どうすれば<line-break>手に入るんだ？<end>"
-english = "Tempering stone? No, I don't. How do I get some?<end>"
+english = "Tempering Stone? No, I don't. How do I get some?<end>"
 
 ["400204"]
 japanese = "鉱山なんかへ行くと、ときどき<line-break>地面が光っていることがある。<line-break>そこを調べたら見つかるはずだ。\u3000\u3000<line-break>だが、錬剛石はきちんと<line-break>結晶化するまで時間がかかるし、<line-break>他の冒険者もねらってるからな。<end>"
-english = "In mines and places like that, you'll sometimes see the ground glowing. Search the spot and you should find some. But tempering stone takes time to crystallize properly, and other adventurers are after it too.<end>"
+english = "In mines and places like that, you'll sometimes see the ground glowing. Search the spot and you should find some. But Tempering Stone takes time to crystallize properly, and other adventurers are after it too.<end>"
 
 ["400205"]
 japanese = "なるほど。<line-break>冒険者は何ごとも冒険から\u3000\u3000\u3000\u3000\u3000<line-break>ってことだな。<line-break>それじゃあ、おやじ。<line-break>錬剛石を手に入れたら、また来るよ。<end>"
-english = "I get it. For an adventurer, everything starts with an adventure. All right, old man. I'll be back once I've found some tempering stone.<end>"
+english = "I get it. For an adventurer, everything starts with an adventure. All right, old man. I'll be back once I've found some Tempering Stone.<end>"
 
 ["400206"]
 japanese = "おう！<line-break>ギアもいるから、貯めとけよ。\u3000\u3000\u3000<line-break>\u3000<end>"
@@ -830,7 +830,7 @@ english = "Right! You'll need Gea too, so save some up.<end>"
 
 ["400207"]
 japanese = "だから、錬剛石がとれる山を\u3000\u3000\u3000\u3000<line-break>見つけたら、何度か足を<line-break>運んでみるのがいいだろうな。<end>"
-english = "So if you find a mountain where tempering stone can be found, you'd do well to visit it several times.<end>"
+english = "So if you find a mountain where Tempering Stone can be found, you'd do well to visit it several times.<end>"
 
 ["400208"]
 japanese = "空<end>"
