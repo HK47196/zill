@@ -191,6 +191,9 @@ func (e *Engine) reflowItem(item corpus.Item) (result reflowedItem) {
 		}
 		result.warnings = append(result.warnings, Warning{code, id})
 	}
+	if e.category(id, "chronicle-entry") && maxFragmentLines(projection, result.layout) > chronicleMaxLines {
+		result.warnings = append(result.warnings, Warning{"chronicle_vertical_overflow", id})
+	}
 	if valueTag.MatchString(semantic) || (formatSignatureID(id) && printfConversion.MatchString(visible(semantic))) {
 		result.warnings = append(result.warnings, Warning{"runtime_substitution_unbounded", id})
 	}
@@ -213,6 +216,8 @@ func (e *Engine) advanceLimit(id int) int {
 	switch {
 	case e.category(id, "character-profile"):
 		return profileAdvance
+	case e.category(id, "chronicle-entry"):
+		return chronicleAdvance
 	case e.equipmentFeedback(id):
 		return equipmentFeedbackAdvance
 	case e.category(id, "system-help"):

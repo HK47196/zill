@@ -7,6 +7,8 @@ package layout
 const (
 	defaultAdvance                       = 440
 	c5Advance                            = 300
+	chronicleAdvance                     = 340
+	chronicleMaxLines                    = 10
 	equipmentFeedbackAdvance             = 240
 	systemHelpAdvance                    = 240
 	profileAdvance                       = 300

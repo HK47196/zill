@@ -71,6 +71,70 @@ func TestSystemHelpReflowUsesNarrowTextBox(t *testing.T) {
 	}
 }
 
+func TestChronicleReflowUsesHistoryPanelWidth(t *testing.T) {
+	consumers, metrics, categories := releaseInputs(t)
+	engine, err := layout.Load(consumers, metrics, categories)
+	if err != nil {
+		t.Fatal(err)
+	}
+	const id = 1090015
+	text := strings.Repeat("Wide ", 13) + "Wide"
+	record := corpus.Record{
+		ID: id, Index: 15, Display: text + "<end>", HasBlockTerminator: true,
+		Tokens: []corpus.Token{
+			{Kind: "text", Raw: []byte(text), Text: text},
+			{Kind: "block_terminator", Raw: []byte{5, 5, 5}},
+		},
+	}
+	project := &corpus.Project{Items: []corpus.Item{{
+		Record: record,
+		Translation: corpus.Translation{
+			ID: id, Japanese: record.Display, State: corpus.Translated, Text: record.Display,
+		},
+	}}}
+	result, err := engine.Reflow(project)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got := result.Layouts[id]; !strings.Contains(got, "<line-break>") {
+		t.Errorf("chronicle layout did not fit the History panel: %q", got)
+	}
+}
+
+func TestChronicleReflowWarnsWhenEntryExceedsTenLines(t *testing.T) {
+	consumers, metrics, categories := releaseInputs(t)
+	engine, err := layout.Load(consumers, metrics, categories)
+	if err != nil {
+		t.Fatal(err)
+	}
+	project := &corpus.Project{}
+	for index, lines := range []int{10, 11} {
+		id := 1090015 + index*2
+		text := strings.TrimSuffix(strings.Repeat("line ", lines), " ")
+		layout := strings.ReplaceAll(text, " ", "<line-break>") + "<end>"
+		record := corpus.Record{
+			ID: id, Index: 15 + index*2, Display: text + "<end>", HasBlockTerminator: true,
+			Tokens: []corpus.Token{
+				{Kind: "text", Raw: []byte(text), Text: text},
+				{Kind: "block_terminator", Raw: []byte{5, 5, 5}},
+			},
+		}
+		project.Items = append(project.Items, corpus.Item{
+			Record: record,
+			Translation: corpus.Translation{
+				ID: id, Japanese: record.Display, State: corpus.Translated, Text: layout,
+			},
+		})
+	}
+	result, err := engine.Reflow(project)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(result.Warnings) != 1 || result.Warnings[0] != (layout.Warning{Code: "chronicle_vertical_overflow", MessageID: 1090017}) {
+		t.Fatalf("chronicle warnings = %#v, want one vertical-overflow warning for the 11-line entry", result.Warnings)
+	}
+}
+
 func TestReflowProcessesEveryMessage(t *testing.T) {
 	consumers, metrics, categories := releaseInputs(t)
 	engine, err := layout.Load(consumers, metrics, categories)
