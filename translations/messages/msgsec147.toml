@@ -270,11 +270,11 @@ english = "<if><value:$29><equal>%0(I'll let Xenetes handle the front. I need to
 
 ["1470067"]
 japanese = "なんだぁ、こいつ。<line-break>やっちまえ。<end>"
-english = ""
+english = "What the hell is this? Take 'em out.<end>"
 
 ["1470068"]
 japanese = "しまった。侵入者か。<line-break>こっから先には行かせないぜ！<end>"
-english = ""
+english = "Damn it, an intruder! You're not getting past here!<end>"
 
 ["1470069"]
 japanese = "なんだ、貴様！？<line-break>どうやって入ってきた？\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<end>"
@@ -626,7 +626,7 @@ english = "<value:$28>, this is the one who defeated Flint. Stay sharp.<end>"
 
 ["1470156"]
 japanese = "ひっ、ひぃ～～～～～！<line-break>こいつ、強すぎる～～～～～。<line-break>\u3000<end>"
-english = ""
+english = "Eek! This one's too strong!<end>"
 
 ["1470157"]
 japanese = "ふぅ、よくやったな、<line-break><value:$28>。<end>"

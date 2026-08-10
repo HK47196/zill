@@ -262,7 +262,7 @@ english = "Yeah. With Lulluantha around, <value:$28> should be all right, don't 
 
 ["1480065"]
 japanese = "<value:$28>。お前はギルドで<line-break>受けた誘拐事件の依頼も達成している。<line-break>もう、立派な冒険者だ。<line-break>ルルアンタと一緒に、<line-break>お前の冒険を続けるんだ。<line-break>仕事の報酬はその行動資金にしてくれ。<end>"
-english = ""
+english = "<value:$28>, you have fulfilled the Guild's request to solve the kidnapping case. You are already a fine adventurer. Continue your adventure with Lulluantha. Use the reward from this job to fund your journey.<end>"
 
 ["1480066"]
 japanese = "なぁに、一生の別れというんじゃない。\u3000<line-break>俺の力が必要になったら、ロストールの<line-break>スラムを訪ねてきてくれればいい。<line-break>じゃあ、またな、<line-break><value:$28>、ルルアンタ。<line-break>オルファウスさんにも世話になったな。<end>"

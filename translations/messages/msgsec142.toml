@@ -134,31 +134,31 @@ english = "Oh, <value:$28>. I should be going now! Keep up the good work, <value
 
 ["1420033"]
 japanese = "<value:$28>…、<line-break>最近はずいぶんと<line-break>活躍しているそうだな？<end>"
-english = ""
+english = "I hear you've been quite active lately, <value:$28>.<end>"
 
 ["1420034"]
 japanese = "だが、何事もやりすぎないことだ。<line-break>人間はすぐに図に乗るところがある。<line-break>お前もよく肝に銘じておくといい。<line-break>己に課せられた役割は何か。<line-break>己に許された領域はどこまでか。<line-break>よく考えてみるのだな。<end>"
-english = ""
+english = "But do not overextend yourself in anything. Humans are quick to get carried away. You would do well to remember this. What role has been assigned to you? What are the limits of what you are permitted? Think carefully on these things.<end>"
 
 ["1420035"]
 japanese = "今はまだいい。許容範囲だ。\u3000\u3000\u3000<line-break>だが、それを逸脱するときは<line-break>…お前を消さねばならない。<line-break>その準備はできている。<line-break>そのために、町をひとつ消してまで<line-break>あの娘を鍛えているのだからな。<end>"
-english = ""
+english = "For now, you are within acceptable bounds. But should you overstep them... I will have to erase you. I am prepared to do so. That is why I went so far as to destroy an entire town to train that girl.<end>"
 
 ["1420036"]
 japanese = "ナーシェス。<end>"
-english = ""
+english = "Narscess.<end>"
 
 ["1420037"]
 japanese = "どういうことだ？\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>貴様、ノエルに<line-break>何をさせようとしている？<line-break>ノエルが<value:$28>を<line-break>どのように思っているのか、<line-break>知らないわけではないだろう？<end>"
-english = ""
+english = "What are you talking about? What are you trying to make Noel do? You know full well how Noel feels about <value:$28>, don't you?<end>"
 
 ["1420038"]
 japanese = "ノエルは貴様の道具ではない。<end>"
-english = ""
+english = "Noel is not your tool.<end>"
 
 ["1420039"]
 japanese = "フフ、言うではないか、レイヴン。<line-break>\u3000<line-break>\u3000<line-break>ノエルの無限のソウルを呼び起こす<line-break>ために、ひとつの町を消した男の<line-break>言葉とは思えないな。<end>"
-english = ""
+english = "Heh. Big words, Raven, coming from the man who erased an entire town in order to awaken Noel's Infinite Soul.<end>"
 
 ["1420040"]
 japanese = "くっ…。<end>"
@@ -166,23 +166,23 @@ english = "Damn...<end>"
 
 ["1420041"]
 japanese = "フフ、エルファスから助けられて以来<line-break>お前もずいぶんと感情が表に出るように<line-break>なったではないか。<line-break>私が告死天使どもの手から<line-break>助け出したときは、<line-break>人形のようだったのにな。<end>"
-english = ""
+english = "Heh. Ever since Elfas saved you, you've become quite expressive, haven't you? When I saved you from the hands of the Death-Herald Angels, you were like a doll.<end>"
 
 ["1420042"]
 japanese = "まぁ、いい。<line-break>いずれにしても、<value:$28>。<line-break>お前がおとなしくしていればすむ話だ。<line-break>この世界に必要なのは均衡だ。<line-break>平和とはその上にのみ成り立つ。<line-break>個人の感情が優先されるべきではない。<end>"
-english = ""
+english = "Well, never mind. In any case, <value:$28>, this will all be settled if you simply behave yourself. What this world needs is balance. Peace can exist only upon it. Individual feelings must not take precedence.<end>"
 
 ["1420043"]
 japanese = "それでは、失礼する。<end>"
-english = ""
+english = "Then, if you'll excuse me.<end>"
 
 ["1420044"]
 japanese = "<value:$28>…。<line-break>俺はノエルが悲しむ姿を\u3000\u3000\u3000\u3000\u3000\u3000<line-break>見たくはない。<line-break>俺はノエルのそばにいる。<line-break>ノエルが、それを望んでいる限り…。<end>"
-english = ""
+english = "<value:$28>... I do not want to see Noel sad. I will stay by Noel's side for as long as she wants me there...<end>"
 
 ["1420045"]
 japanese = "君が、いつまでも<line-break>ノエルの憧れの対象であることを<line-break>願っているよ。<end>"
-english = ""
+english = "I hope you will always be someone Noel can look up to.<end>"
 
 ["1420046"]
 japanese = "破滅の日は近い。<line-break>その日、神の力は<line-break>すべてを打ち砕くであろう。<end>"
@@ -602,7 +602,7 @@ english = "All right, all right, I get it. You're always like this―charging of
 
 ["1420150"]
 japanese = "てめえのような闇落ちが、<line-break>前の戦乱を<line-break>起こしやがったんじゃねえか。<line-break>バケモノめ、生かしちゃおけるか。<line-break>やれっ！<end>"
-english = ""
+english = "It was darkfallen scum like you who started the last war! You're a monster. We can't let you live. Do it!<end>"
 
 ["1420151"]
 japanese = "やめろ！俺は、何もしちゃいない！<end>"
