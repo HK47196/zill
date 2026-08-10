@@ -54,11 +54,11 @@ english = "When you yearn to be strong, which of these two forms of power do you
 
 ["10013"]
 japanese = "困難を打ち砕く力<end>"
-english = "The strength to overcome hardship<end>"
+english = "Strength to overcome hardship<end>"
 
 ["10014"]
 japanese = "逆境に耐える力<end>"
-english = "The strength to endure adversity<end>"
+english = "Strength to endure adversity<end>"
 
 ["10015"]
 japanese = "強大な敵が行く手を阻んでいる<line-break>汝はどう対処するか？<end>"
@@ -66,11 +66,11 @@ english = "A formidable enemy bars your path. How will you respond?<end>"
 
 ["10016"]
 japanese = "弱点を探して色々な行動をとる<end>"
-english = "Try different tactics to find a weakness<end>"
+english = "Seek the enemy's weakness<end>"
 
 ["10017"]
 japanese = "自分の力を信じて正面から戦う<end>"
-english = "Trust in my own strength and fight head-on<end>"
+english = "Trust my strength and attack<end>"
 
 ["10018"]
 japanese = "どこまでも広がる美しい草原に来た<line-break>汝はここで何を望むか？<end>"
@@ -78,11 +78,11 @@ english = "You have come to a beautiful grassland that stretches on without end.
 
 ["10019"]
 japanese = "広い草原の中を駆ける<end>"
-english = "Race across the vast grasslands<end>"
+english = "Race across the vast plains<end>"
 
 ["10020"]
 japanese = "草原の美しさを絵にする<end>"
-english = "Capture the beauty of the grasslands in a painting<end>"
+english = "Paint the beautiful grasslands<end>"
 
 ["10021"]
 japanese = "大きな夕日が水平線に沈む<line-break>この時汝は何を思うか？<end>"
@@ -90,7 +90,7 @@ english = "As the great setting sun sinks below the horizon, what thoughts fill 
 
 ["10022"]
 japanese = "終わりゆく一日への充実感<end>"
-english = "Fulfillment as the day draws to a close<end>"
+english = "Fulfillment at day's end<end>"
 
 ["10023"]
 japanese = "やってくる明日への希望<end>"
@@ -102,11 +102,11 @@ english = "The legendary hero appeared in your dream. What expression did he wea
 
 ["10025"]
 japanese = "強靭な意志がにじむりりしい表情<end>"
-english = "A dignified expression that reveals an unyielding will<end>"
+english = "A dignified, resolute look<end>"
 
 ["10026"]
 japanese = "すべてを包み込むおだやかな表情<end>"
-english = "A gentle expression that embraces all<end>"
+english = "A gentle, all-embracing look<end>"
 
 ["10027"]
 japanese = "見知らぬ丘に独り立っている<line-break>汝は最初に何を感じるか？<end>"
@@ -114,11 +114,11 @@ english = "You stand alone upon an unfamiliar hill. What do you feel first?<end>
 
 ["10028"]
 japanese = "吹き抜ける風の匂い<end>"
-english = "The scent of the wind sweeping past<end>"
+english = "The scent of the passing wind<end>"
 
 ["10029"]
 japanese = "眼下に広がる大地の色<end>"
-english = "The color of the land stretching out below<end>"
+english = "The colors of the land below<end>"
 
 ["10030"]
 japanese = "魔獣が村を襲っている<line-break>まず汝は何をなすべきか？<end>"
@@ -130,7 +130,7 @@ english = "Fight the beast on the spot<end>"
 
 ["10032"]
 japanese = "魔獣を村の外に誘い出す<end>"
-english = "Lure the beast out of the village<end>"
+english = "Lure it away from the village<end>"
 
 ["10033"]
 japanese = "一撃必殺の剣技を極めたい<line-break>汝に必要なのはどちらか？<end>"
@@ -138,11 +138,11 @@ english = "Which do you need to master the sword art of killing with a single st
 
 ["10034"]
 japanese = "爆発的破壊力を生む体力<end>"
-english = "The physical strength to unleash explosive destructive power<end>"
+english = "Strength for a mighty blow<end>"
 
 ["10035"]
 japanese = "一撃で急所を撃つ集中力<end>"
-english = "The focus to strike a vital point in a single blow<end>"
+english = "Focus to strike a vital point<end>"
 
 ["10036"]
 japanese = "目の前で冒険者が危機に陥っている<line-break>その冒険者はどんな姿をしているか？<end>"
@@ -150,7 +150,7 @@ english = "An adventurer before you is in peril. What does the adventurer look l
 
 ["10037"]
 japanese = "魔法が得意そうな優男<end>"
-english = "A gentle-looking man who seems skilled in magic<end>"
+english = "A gentle man skilled in magic<end>"
 
 ["10038"]
 japanese = "勇猛な印象の女剣士<end>"
@@ -162,7 +162,7 @@ english = "After completing a great adventure, you have returned to town. How wi
 
 ["10040"]
 japanese = "のんびりと町を散策する<end>"
-english = "Take a leisurely stroll around town<end>"
+english = "Stroll leisurely around town<end>"
 
 ["10041"]
 japanese = "宿で装備品の整備をする<end>"
@@ -178,7 +178,7 @@ english = "Face the opponent head-on<end>"
 
 ["10044"]
 japanese = "戦う理由を問いただす<end>"
-english = "Demand to know why the opponent is fighting<end>"
+english = "Ask why they want to fight<end>"
 
 ["10045"]
 japanese = "恋人が不治の病で死の淵にいる<line-break>汝は今、何をするべきか？<end>"
@@ -186,7 +186,7 @@ english = "Your beloved lies at death's door, stricken with an incurable disease
 
 ["10046"]
 japanese = "特効薬を探す旅に出る<end>"
-english = "Set out on a journey to find a cure<end>"
+english = "Journey to find a cure<end>"
 
 ["10047"]
 japanese = "最期の時までそばにいる<end>"
@@ -234,11 +234,11 @@ english = "You found a magical sword in a labyrinth. What did it look like?<end>
 
 ["10058"]
 japanese = "肉厚で無骨な両手剣<end>"
-english = "A thick, rugged two-handed sword<end>"
+english = "A rugged two-handed sword<end>"
 
 ["10059"]
 japanese = "細身で鋭利な片手剣<end>"
-english = "A slender, keen-edged one-handed sword<end>"
+english = "A slender one-handed sword<end>"
 
 ["10060"]
 japanese = "冒険で得たふたつの財産<line-break>汝にとって大切なのはどちらか？<end>"
@@ -246,11 +246,11 @@ english = "Of the two treasures gained on your adventure, which is more precious
 
 ["10061"]
 japanese = "自分だけの経験や思い出<end>"
-english = "Experiences and memories that are mine alone<end>"
+english = "My experiences and memories<end>"
 
 ["10062"]
 japanese = "世界にふたつとない財宝<end>"
-english = "A treasure unlike any other in the world<end>"
+english = "A unique treasure<end>"
 
 ["10063"]
 japanese = "実力が汝と互角の戦士がいる<line-break>戦うとしたらどこを狙うか？<end>"
@@ -258,11 +258,11 @@ english = "Suppose you faced a warrior your equal. Where would you strike?<end>"
 
 ["10064"]
 japanese = "腕を狙って攻撃力を下げる<end>"
-english = "Target the arms to reduce Attack Power<end>"
+english = "Strike the arms to weaken them<end>"
 
 ["10065"]
 japanese = "足を狙って動きを封じる<end>"
-english = "Target the legs to restrict movement<end>"
+english = "Strike the legs to stop them<end>"
 
 ["10066"]
 japanese = "冒険の人生を終えて穏やかに暮らす時、<line-break>汝はどこに住みたいと願うか？<end>"
@@ -274,7 +274,7 @@ english = "A big city full of variety<end>"
 
 ["10068"]
 japanese = "季節と共に生きる田舎<end>"
-english = "A rural life lived with the seasons<end>"
+english = "Country life with the seasons<end>"
 
 ["10069"]
 japanese = "冒険の人生を例えるなら、<line-break>次のどちらが近いと思うか？<end>"
@@ -282,11 +282,11 @@ english = "If you were to liken a life of adventure to one of the following two,
 
 ["10070"]
 japanese = "自由気ままに大空を飛ぶ鳥<end>"
-english = "A bird flying free through the open sky<end>"
+english = "A bird flying free in the sky<end>"
 
 ["10071"]
 japanese = "流れに逆らい川を上る魚<end>"
-english = "A fish swimming upstream against the current<end>"
+english = "A fish swimming upstream<end>"
 
 ["10072"]
 japanese = "山奥を冒険していたら小屋があった<line-break>中にいたのはどんな人物か？<end>"

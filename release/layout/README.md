@@ -29,8 +29,10 @@ The C names are literal CDC event-script opcodes, not message record types:
 ### Other fixed-store consumers
 
 The validator also protects bounded labels, guild client labels, guild postings,
-guild region descriptions, equipment feedback, the trap-disarm prompt, and
-chronicle entries. Chronicle bodies use the shared 768-byte expansion buffer,
+guild region descriptions, equipment feedback, the trap-disarm prompt,
+character-creation choices, and chronicle entries. Character-creation choices
+use 31-byte C-string storage and therefore admit at most 30 encoded bytes.
+Chronicle bodies use the shared 768-byte expansion buffer,
 whose writer signals overflow only after a write raises its count to 766. A
 chronicle entry therefore admits at most 764 known payload bytes so that writing
 its terminating NUL leaves the count below that threshold. Player-name

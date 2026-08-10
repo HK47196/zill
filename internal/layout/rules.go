@@ -7,6 +7,7 @@ package layout
 const (
 	defaultAdvance                       = 440
 	characterCreationPromptAdvance       = 300
+	characterCreationChoiceCapacityBytes = 31
 	c5Advance                            = 300
 	chronicleAdvance                     = 300
 	chronicleMaxLines                    = 10

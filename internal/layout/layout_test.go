@@ -304,6 +304,32 @@ func TestChronicleEntryRejectsUnsafeExpandedPayload(t *testing.T) {
 	}
 }
 
+func TestCharacterCreationChoiceRejectsMoreThanThirtyBytes(t *testing.T) {
+	consumers, metrics, categories := releaseInputs(t)
+	engine, err := layout.Load(consumers, metrics, categories)
+	if err != nil {
+		t.Fatal(err)
+	}
+	const id = 10013
+	project := &corpus.Project{Items: []corpus.Item{{
+		Record: corpus.Record{ID: id},
+		Translation: corpus.Translation{
+			ID: id, State: corpus.Translated,
+		},
+	}}}
+	if err := engine.Validate(project, map[int]string{
+		id: strings.Repeat("A", 30) + "<end>",
+	}); err != nil {
+		t.Fatalf("Validate rejected the maximum safe character-creation choice: %v", err)
+	}
+	err = engine.Validate(project, map[int]string{
+		id: strings.Repeat("A", 31) + "<end>",
+	})
+	if err == nil || !strings.Contains(err.Error(), "character-creation choice message 10013 uses 31 bytes (maximum 30)") {
+		t.Fatalf("Validate error = %v, want character-creation choice overflow", err)
+	}
+}
+
 func TestLoadRejectsUnknownConsumerField(t *testing.T) {
 	consumers, metrics, categories := releaseInputs(t)
 	consumers = bytes.Replace(consumers, []byte("format = \"zill-message-consumers\""), []byte("format = \"zill-message-consumers\"\nunexpected = true"), 1)

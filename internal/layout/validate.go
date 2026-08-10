@@ -67,6 +67,14 @@ func (e *Engine) Validate(project *corpus.Project, layouts map[int]string) error
 		}
 	}
 	for id := range translated {
+		if e.category(id, "character-creation-choice") {
+			size, err := expandedBytes(effective[id], id)
+			if err != nil {
+				failures = append(failures, err.Error())
+			} else if size >= characterCreationChoiceCapacityBytes {
+				failures = append(failures, fmt.Sprintf("character-creation choice message %d uses %d bytes (maximum %d)", id, size, characterCreationChoiceCapacityBytes-1))
+			}
+		}
 		if e.equipmentFeedback(id) {
 			size, err := expandedBytes(effective[id], id)
 			if err != nil {
