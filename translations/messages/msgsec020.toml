@@ -790,7 +790,7 @@ english = "A mace favored by Ions. Maintains vitality.<end>"
 
 ["200197"]
 japanese = "破壊神が使った剣\u3000肉体を蝕み精神を高揚させる<end>"
-english = "A sword once wielded by the God of Destruction. Ravages the body while invigorating the spirit.<end>"
+english = "A sword wielded by the God of Destruction. Ravages the body and invigorates the spirit.<end>"
 
 ["200198"]
 japanese = "「メガスラッシュ」が1チャージで使用可能<end>"
@@ -2138,7 +2138,7 @@ english = "Indicates evasion against physical attacks.<end>"
 
 ["200534"]
 japanese = "戦闘時の素早さを表しています。<line-break>行動順位はこの値で決まります。<line-break>武器や防具の階級によって変化します。<end>"
-english = "Indicates speed in battle. Turn order is determined by this value, which varies with the class of weapons and armor equipped.<end>"
+english = "Battle speed. Determines turn order and varies by equipped weapon and armor class.<end>"
 
 ["200535"]
 japanese = "魔法攻撃力と防御力を表します。<line-break>知力と精神力が影響します。<end>"
@@ -2154,43 +2154,43 @@ english = "Elemental Capacity. Indicates how much elemental power can be contain
 
 ["200538"]
 japanese = "装備品の持っている特性効果を表しています。<line-break>特性効果は武器なら敵への攻撃に、<line-break>防具なら敵の攻撃に対して効果があります。<end>"
-english = "Indicates an item's special effect. On a weapon, the effect applies when attacking an enemy; on armor, it applies against enemy attacks.<end>"
+english = "Indicates an item's special effect: weapons apply it when attacking; armor when attacked.<end>"
 
 ["200539"]
 japanese = "武器なら敵を眠り状態にします。<line-break>防具なら敵の眠り攻撃を防ぎます。<line-break>眠っている敵は起きるまで攻撃してきません。<end>"
-english = "As a weapon, inflicts Sleep on enemies. As armor, prevents enemy Sleep attacks. Sleeping enemies cannot attack until they wake.<end>"
+english = "Weapons inflict Sleep; armor blocks it. Sleeping enemies cannot attack.<end>"
 
 ["200540"]
 japanese = "武器なら敵をマヒ状態にします。<line-break>防具なら敵のマヒ攻撃を防ぎます。<line-break>マヒした敵は動けません。<end>"
-english = "As a weapon, inflicts Paralysis on enemies. As armor, prevents enemy Paralysis attacks. Paralyzed enemies cannot move.<end>"
+english = "Weapons inflict Paralysis; armor blocks it. Paralyzed enemies cannot move.<end>"
 
 ["200541"]
 japanese = "武器なら敵を石化状態にします。<line-break>防具なら敵の石化攻撃を防ぎます。<line-break>石化した敵は動けません。<end>"
-english = "As a weapon, petrifies enemies. As armor, prevents enemy petrification attacks. Petrified enemies cannot move.<end>"
+english = "Weapons petrify enemies; armor blocks petrification attacks. Petrified enemies cannot move.<end>"
 
 ["200542"]
 japanese = "武器なら敵を暗闇状態にします。<line-break>防具なら敵の暗闇攻撃を防ぎます。<line-break>暗闇状態の敵は命中度が低下します。<end>"
-english = "As a weapon, inflicts Blindness on enemies. As armor, prevents enemy Blindness attacks. Blinded enemies have reduced accuracy.<end>"
+english = "Weapons inflict Blindness; armor blocks it. Blinded enemies have lower accuracy.<end>"
 
 ["200543"]
 japanese = "武器なら敵を混乱状態にします。<line-break>防具なら敵の混乱攻撃を防ぎます。<line-break>混乱した敵は無差別に攻撃します。<end>"
-english = "As a weapon, inflicts Confusion on enemies. As armor, prevents enemy Confusion attacks. Confused enemies attack indiscriminately.<end>"
+english = "Weapons inflict Confusion; armor blocks it. Confused enemies attack indiscriminately.<end>"
 
 ["200544"]
 japanese = "武器なら敵を幻覚状態にします。<line-break>防具なら敵の幻覚攻撃を防ぎます。<line-break>幻覚状態の敵は命中度が低下します。<end>"
-english = "As a weapon, inflicts Hallucination on enemies. As armor, prevents enemy Hallucination attacks. Hallucinating enemies have reduced accuracy.<end>"
+english = "Weapons inflict Hallucination; armor blocks it. Hallucinating enemies have lower accuracy.<end>"
 
 ["200545"]
 japanese = "武器なら敵を毒状態にします。<line-break>防具なら敵の毒攻撃を防ぎます。<line-break>毒状態の敵は毎ターンダメージを受けます。<end>"
-english = "As a weapon, poisons enemies. As armor, prevents enemy Poison attacks. Poisoned enemies take damage every turn.<end>"
+english = "Weapons poison enemies; armor blocks it. Poisoned enemies take damage each turn.<end>"
 
 ["200546"]
 japanese = "武器なら敵を沈黙状態にします。<line-break>防具なら敵の沈黙攻撃を防ぎます。<line-break>沈黙した敵は声を出せなくなります。<end>"
-english = "As a weapon, inflicts Silence on enemies. As armor, prevents enemy Silence attacks. Silenced enemies cannot speak.<end>"
+english = "Weapons inflict Silence; armor blocks silence attacks. Silenced enemies cannot speak.<end>"
 
 ["200547"]
 japanese = "武器なら敵を呪い状態にします。<line-break>防具なら敵の呪い攻撃を防ぎます。<line-break>呪われた敵は攻撃力も防御力も半減します。<end>"
-english = "As a weapon, curses enemies. As armor, prevents enemy Curse attacks. Cursed enemies have both attack power and defense halved.<end>"
+english = "Weapons curse enemies; armor blocks it. Curse halves enemy attack and defense.<end>"
 
 ["200548"]
 japanese = "ＳＴＲを５ポイント上昇させます。<end>"
@@ -2318,11 +2318,11 @@ english = "Restores 3% of maximum ＭＰ each turn.<end>"
 
 ["200579"]
 japanese = "戦闘中にＨＰが０になると、<line-break>自動的にＨＰが最大値まで回復します。<line-break>ただし、１度作動すると壊れてしまいます。<end>"
-english = "If ＨＰ falls to 0 during battle, it is automatically restored to maximum. The item breaks after activating once.<end>"
+english = "If ＨＰ reaches 0 in battle, it is fully restored once. The item then breaks.<end>"
 
 ["200580"]
 japanese = "戦闘中にＭＰが０になると、<line-break>自動的にＭＰが最大値まで回復します。<line-break>ただし、１度作動すると壊れてしまいます。<end>"
-english = "If ＭＰ falls to 0 during battle, it is automatically restored to maximum. The item breaks after activating once.<end>"
+english = "If ＭＰ reaches 0 in battle, it is fully restored once. The item then breaks.<end>"
 
 ["200581"]
 japanese = "５０％の確率でクリティカル攻撃がでます。<end>"
