@@ -6,6 +6,7 @@ package layout
 // buffers. Message-to-consumer membership lives in release/layout/consumer-map.toml.
 const (
 	defaultAdvance                       = 440
+	characterCreationPromptAdvance       = 300
 	c5Advance                            = 300
 	chronicleAdvance                     = 300
 	chronicleMaxLines                    = 10

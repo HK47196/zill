@@ -71,6 +71,35 @@ func TestSystemHelpReflowUsesNarrowTextBox(t *testing.T) {
 	}
 }
 
+func TestCharacterCreationPromptReflowUsesPromptWidth(t *testing.T) {
+	consumers, metrics, categories := releaseInputs(t)
+	engine, err := layout.Load(consumers, metrics, categories)
+	if err != nil {
+		t.Fatal(err)
+	}
+	const text = "O Bearer of the Infinite Soul, answer me. Answer my question and show me your soul."
+	record := corpus.Record{
+		ID: 10007, Index: 7, Display: text + "<end>", HasBlockTerminator: true,
+		Tokens: []corpus.Token{
+			{Kind: "text", Raw: []byte(text), Text: text},
+			{Kind: "block_terminator", Raw: []byte{5, 5, 5}},
+		},
+	}
+	project := &corpus.Project{Items: []corpus.Item{{
+		Record: record,
+		Translation: corpus.Translation{
+			ID: 10007, Japanese: record.Display, State: corpus.Translated, Text: text + "<end>",
+		},
+	}}}
+	result, err := engine.Reflow(project)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if got := result.Layouts[10007]; !strings.Contains(got, "<line-break>") {
+		t.Errorf("character-creation prompt did not fit its text box: %q", got)
+	}
+}
+
 func TestChronicleReflowUsesHistoryPanelWidth(t *testing.T) {
 	consumers, metrics, categories := releaseInputs(t)
 	engine, err := layout.Load(consumers, metrics, categories)

@@ -216,6 +216,8 @@ func (e *Engine) advanceLimit(id int) int {
 	switch {
 	case e.category(id, "character-profile"):
 		return profileAdvance
+	case e.category(id, "character-creation-prompt"):
+		return characterCreationPromptAdvance
 	case e.category(id, "chronicle-entry"):
 		return chronicleAdvance
 	case e.equipmentFeedback(id):
