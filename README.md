@@ -2,7 +2,7 @@
 
 Zill is a community translation project for *Zill O'll Infinite Plus*.
 
-Install Go 1.24 or newer, then use the contributor commands:
+Install Go 1.26.5 or newer, then use the contributor commands:
 
 ```sh
 ./zill search --state todo

@@ -4,6 +4,7 @@ package layout_test
 
 import (
 	"bytes"
+	"fmt"
 	"os"
 	"strings"
 	"testing"
@@ -67,6 +68,74 @@ func TestSystemHelpReflowUsesNarrowTextBox(t *testing.T) {
 	}
 	if got := result.Layouts[1070080]; !strings.Contains(got, "<line-break>") {
 		t.Errorf("system-help layout did not fit the narrow text box: %q", got)
+	}
+}
+
+func TestReflowProcessesEveryMessage(t *testing.T) {
+	consumers, metrics, categories := releaseInputs(t)
+	engine, err := layout.Load(consumers, metrics, categories)
+	if err != nil {
+		t.Fatal(err)
+	}
+	const count = 64
+	project := &corpus.Project{Items: make([]corpus.Item, count)}
+	want := make(map[int]string, count)
+	for index := range count {
+		id := 3_000_000 + index
+		text := fmt.Sprintf("Message %d", index)
+		layout := text + "<end>"
+		record := corpus.Record{
+			ID: id, Index: index, Display: layout, HasBlockTerminator: true,
+			Tokens: []corpus.Token{
+				{Kind: "text", Raw: []byte(text), Text: text},
+				{Kind: "block_terminator", Raw: []byte{5, 5, 5}},
+			},
+		}
+		project.Items[index] = corpus.Item{
+			Record: record,
+			Translation: corpus.Translation{
+				ID: id, Japanese: layout, State: corpus.Translated, Text: layout,
+			},
+		}
+		want[id] = layout
+	}
+	result, err := engine.Reflow(project)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(result.Layouts) != count {
+		t.Fatalf("Reflow returned %d layouts, want %d", len(result.Layouts), count)
+	}
+	for id, layout := range want {
+		if got := result.Layouts[id]; got != layout {
+			t.Errorf("message %d layout = %q, want %q", id, got, layout)
+		}
+	}
+}
+
+func TestReflowReportsFirstMessageError(t *testing.T) {
+	consumers, metrics, categories := releaseInputs(t)
+	engine, err := layout.Load(consumers, metrics, categories)
+	if err != nil {
+		t.Fatal(err)
+	}
+	project := &corpus.Project{Items: []corpus.Item{
+		{
+			Record: corpus.Record{ID: 3_000_002},
+			Translation: corpus.Translation{
+				ID: 3_000_002, State: corpus.Translated, Text: "first",
+			},
+		},
+		{
+			Record: corpus.Record{ID: 3_000_001},
+			Translation: corpus.Translation{
+				ID: 3_000_001, State: corpus.Translated, Text: "second",
+			},
+		},
+	}}
+	_, err = engine.Reflow(project)
+	if err == nil || !strings.Contains(err.Error(), "message 3000002: source has no tokens") {
+		t.Fatalf("Reflow error = %v, want first message error", err)
 	}
 }
 

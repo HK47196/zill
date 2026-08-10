@@ -9,8 +9,10 @@ import (
 	"fmt"
 	"math"
 	"regexp"
+	"runtime"
 	"sort"
 	"strings"
+	"sync"
 	"unicode"
 
 	"github.com/HK47196/zill/internal/corpus"
@@ -30,7 +32,6 @@ var mediumBreak = regexp.MustCompile(`[,;:]["')\]]*$`)
 type Engine struct {
 	consumers         consumersFile
 	glyphs            map[uint16]glyph
-	runeGlyphs        map[rune]glyph
 	categories        []categoryRange
 	playerNameAdvance int
 }
@@ -42,6 +43,12 @@ type Warning struct {
 type Result struct {
 	Layouts  map[int]string
 	Warnings []Warning
+}
+
+type reflowedItem struct {
+	layout   string
+	warnings []Warning
+	err      error
 }
 
 // CheckGlyphs verifies that every translated contributor string can be
@@ -69,79 +76,47 @@ func (e *Engine) Reflow(project *corpus.Project) (Result, error) {
 	}
 	result := Result{Layouts: make(map[int]string)}
 	items := make(map[int]corpus.Item, len(project.Items))
-	for _, item := range project.Items {
+	translated := make([]int, 0, len(project.Items))
+	duplicateErrors := make([]error, len(project.Items))
+	for index, item := range project.Items {
 		id := item.Record.ID
 		if _, exists := items[id]; exists {
-			return Result{}, fmt.Errorf("layout: duplicate message %d", id)
-		}
-		items[id] = item
-		if item.Translation.State != corpus.Translated {
+			duplicateErrors[index] = fmt.Errorf("layout: duplicate message %d", id)
 			continue
 		}
-		semantic := normalize(item.Translation.Text)
-		projection, err := message.Project(item.Record)
-		if err != nil {
-			return Result{}, err
+		items[id] = item
+		if item.Translation.State == corpus.Translated {
+			translated = append(translated, index)
 		}
-		authored := strings.Contains(semantic, lineBreak)
-		limit := e.advanceLimit(id)
-		var layout string
-		if authored {
-			if _, err := projection.Materialize(semantic, true); err != nil {
-				return Result{}, fmt.Errorf("message %d authored layout: %w", id, err)
+	}
+	reflowed := make([]reflowedItem, len(project.Items))
+	jobs := make(chan int)
+	var workers sync.WaitGroup
+	for range min(runtime.GOMAXPROCS(0), len(translated)) {
+		workers.Go(func() {
+			for index := range jobs {
+				reflowed[index] = e.reflowItem(project.Items[index])
 			}
-			layout = semantic
-		} else {
-			if _, err := projection.Materialize(semantic, false); err != nil {
-				return Result{}, fmt.Errorf("message %d semantic: %w", id, err)
-			}
-			if e.itemDescription(id) {
-				layout = semantic
-			} else {
-				layout, err = e.sourceAware(projection, semantic, limit, id)
-			}
-			if err != nil {
-				return Result{}, err
-			}
-			if layout == "" {
-				layout = semantic
-			}
-			if e.has(e.consumers.C22IDs, id) {
-				layout = e.tightenC22(id, semantic, layout, limit)
-			}
+		})
+	}
+	for _, index := range translated {
+		jobs <- index
+	}
+	close(jobs)
+	workers.Wait()
+	for index, projectItem := range project.Items {
+		if duplicateErrors[index] != nil {
+			return Result{}, duplicateErrors[index]
 		}
-		if _, err := projection.Materialize(layout, true); err != nil {
-			return Result{}, fmt.Errorf("message %d layout: %w", id, err)
+		if projectItem.Translation.State != corpus.Translated {
+			continue
 		}
-		result.Layouts[id] = layout
-		width, err := e.maxProjectedWidth(projection, layout, id)
-		if err != nil {
-			return Result{}, err
+		item := reflowed[index]
+		if item.err != nil {
+			return Result{}, item.err
 		}
-		if e.category(id, "character-profile") {
-			if width > limit {
-				return Result{}, fmt.Errorf("message %d: profile line is %d units (maximum %d)", id, width, limit)
-			}
-			if maxFragmentLines(projection, layout) > profileMaxLines {
-				return Result{}, fmt.Errorf("message %d: profile exceeds %d lines", id, profileMaxLines)
-			}
-		} else if width > limit {
-			code := "line_exceeds_authoring_ceiling"
-			if e.itemDescription(id) {
-				code = "item_description_single_line_overflow"
-			}
-			result.Warnings = append(result.Warnings, Warning{code, id})
-		}
-		if valueTag.MatchString(semantic) || (formatSignatureID(id) && printfConversion.MatchString(visible(semantic))) {
-			result.Warnings = append(result.Warnings, Warning{"runtime_substitution_unbounded", id})
-		}
-		if e.has(e.consumers.GuildClientIDs, id) {
-			if width, err := e.measure(semantic, id); err != nil {
-				return Result{}, err
-			} else if width > 104 {
-				result.Warnings = append(result.Warnings, Warning{"guild_job_client_overflow", id})
-			}
-		}
+		result.Layouts[projectItem.Record.ID] = item.layout
+		result.Warnings = append(result.Warnings, item.warnings...)
 	}
 	if err := e.Validate(project, result.Layouts); err != nil {
 		return Result{}, err
@@ -153,6 +128,81 @@ func (e *Engine) Reflow(project *corpus.Project) (Result, error) {
 		return result.Warnings[i].Code < result.Warnings[j].Code
 	})
 	return result, nil
+}
+
+func (e *Engine) reflowItem(item corpus.Item) (result reflowedItem) {
+	id := item.Record.ID
+	semantic := normalize(item.Translation.Text)
+	projection, err := message.Project(item.Record)
+	if err != nil {
+		result.err = err
+		return result
+	}
+	authored := strings.Contains(semantic, lineBreak)
+	limit := e.advanceLimit(id)
+	if authored {
+		if _, err := projection.Materialize(semantic, true); err != nil {
+			result.err = fmt.Errorf("message %d authored layout: %w", id, err)
+			return result
+		}
+		result.layout = semantic
+	} else {
+		if _, err := projection.Materialize(semantic, false); err != nil {
+			result.err = fmt.Errorf("message %d semantic: %w", id, err)
+			return result
+		}
+		if e.itemDescription(id) {
+			result.layout = semantic
+		} else {
+			result.layout, result.err = e.sourceAware(projection, semantic, limit, id)
+		}
+		if result.err != nil {
+			return result
+		}
+		if result.layout == "" {
+			result.layout = semantic
+		}
+		if e.has(e.consumers.C22IDs, id) {
+			result.layout = e.tightenC22(id, semantic, result.layout, limit)
+		}
+	}
+	if _, err := projection.Materialize(result.layout, true); err != nil {
+		result.err = fmt.Errorf("message %d layout: %w", id, err)
+		return result
+	}
+	width, err := e.maxProjectedWidth(projection, result.layout, id)
+	if err != nil {
+		result.err = err
+		return result
+	}
+	if e.category(id, "character-profile") {
+		if width > limit {
+			result.err = fmt.Errorf("message %d: profile line is %d units (maximum %d)", id, width, limit)
+			return result
+		}
+		if maxFragmentLines(projection, result.layout) > profileMaxLines {
+			result.err = fmt.Errorf("message %d: profile exceeds %d lines", id, profileMaxLines)
+			return result
+		}
+	} else if width > limit {
+		code := "line_exceeds_authoring_ceiling"
+		if e.itemDescription(id) {
+			code = "item_description_single_line_overflow"
+		}
+		result.warnings = append(result.warnings, Warning{code, id})
+	}
+	if valueTag.MatchString(semantic) || (formatSignatureID(id) && printfConversion.MatchString(visible(semantic))) {
+		result.warnings = append(result.warnings, Warning{"runtime_substitution_unbounded", id})
+	}
+	if e.has(e.consumers.GuildClientIDs, id) {
+		if width, err := e.measure(semantic, id); err != nil {
+			result.err = err
+			return result
+		} else if width > 104 {
+			result.warnings = append(result.warnings, Warning{"guild_job_client_overflow", id})
+		}
+	}
+	return result
 }
 
 func normalize(s string) string {
@@ -545,26 +595,24 @@ func (e *Engine) measure(s string, id int) (int, error) {
 	plain := visible(s)
 	total := 0
 	for i, r := range plain {
-		if g, ok := e.runeGlyphs[r]; ok {
-			total += g.Advance
-			continue
-		}
-		encoded, err := cp932.Encode(string(r))
-		if err != nil {
-			return 0, fmt.Errorf("message %d character %q at %d: %w", id, r, i, err)
-		}
-		if len(encoded) < 1 || len(encoded) > 2 {
-			return 0, fmt.Errorf("message %d character %q has invalid CP932 width", id, r)
-		}
-		key := uint16(encoded[0])
-		if len(encoded) == 2 {
-			key |= uint16(encoded[1]) << 8
+		key := uint16(r)
+		if r > unicode.MaxASCII {
+			encoded, err := cp932.Encode(string(r))
+			if err != nil {
+				return 0, fmt.Errorf("message %d character %q at %d: %w", id, r, i, err)
+			}
+			if len(encoded) < 1 || len(encoded) > 2 {
+				return 0, fmt.Errorf("message %d character %q has invalid CP932 width", id, r)
+			}
+			key = uint16(encoded[0])
+			if len(encoded) == 2 {
+				key |= uint16(encoded[1]) << 8
+			}
 		}
 		g, ok := e.glyphs[key]
 		if !ok {
 			return 0, fmt.Errorf("message %d character %q has no installed-font glyph (%#04x)", id, r, key)
 		}
-		e.runeGlyphs[r] = g
 		total += g.Advance
 	}
 	return total + reserved, nil

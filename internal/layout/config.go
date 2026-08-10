@@ -120,7 +120,6 @@ func Load(consumers, metrics, categories []byte) (*Engine, error) {
 	e := &Engine{
 		consumers:  c,
 		glyphs:     make(map[uint16]glyph, len(m.Glyph)),
-		runeGlyphs: make(map[rune]glyph, len(m.Glyph)),
 		categories: make([]categoryRange, len(cats.Ranges)),
 	}
 	for key, advance := range m.Glyph {

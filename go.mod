@@ -1,6 +1,6 @@
 module github.com/HK47196/zill
 
-go 1.24.0
+go 1.26.5
 
 require golang.org/x/text v0.30.0
 

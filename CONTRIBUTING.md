@@ -1,6 +1,6 @@
 # Contributing translations
 
-Contributions are ordinary GitHub pull requests. Install Go 1.24 or newer; no
+Contributions are ordinary GitHub pull requests. Install Go 1.26.5 or newer; no
 game assets, emulator, Python, or other local service is needed.
 
 Find unfinished messages and inspect the surrounding context:
