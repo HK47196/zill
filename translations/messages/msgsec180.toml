@@ -86,7 +86,7 @@ english = "You came, <value:$28>. I reckon you know the situation. It's... the w
 
 ["1800021"]
 japanese = "…別に死にに行く気はないさ。\u3000\u3000\u3000\u3000<line-break>俺なりに少ないながら勝算はある。<line-break>\u3000<line-break>ツェラシェルを使って、<line-break>ネメアがらみの有力な情報もつかんだ。<line-break>そして勝つためにお前を呼んだんだ。<end>"
-english = "I'm not planning to go off and die. The odds may be slim, but I do have a chance. I used Tserashel to get hold of some valuable information about Nemea, and I called you here because I mean to win.<end>"
+english = "I'm not planning to go off and die. The odds may be slim, but I do have a chance. I used Zelashell to get hold of some valuable information about Nemea, and I called you here because I mean to win.<end>"
 
 ["1800022"]
 japanese = "単刀直入に言う。<line-break>俺と一緒に奴と戦ってほしい。\u3000\u3000\u3000<line-break>\u3000<line-break>…有利な側から不利な負け側に来いと<line-break>言ってるんだ、無理強いはしない。<line-break>どうだ？\u3000<value:$28>。<end>"
@@ -334,7 +334,7 @@ english = "They outnumber us ten to one. Things couldn't be worse. Well, they co
 
 ["1800083"]
 japanese = "…別に死にに行く気はないさ。\u3000\u3000\u3000\u3000<line-break>俺なりに少ないながら勝算はある。<line-break>\u3000<line-break>ツェラシェルを使って、<line-break>ネメアがらみの有力な情報もつかんだ。<end>"
-english = "It's not as if I'm going there to die. I do have a chance of winning, however slim. I also used Tserashel to obtain valuable information concerning Nemea.<end>"
+english = "It's not as if I'm going there to die. I do have a chance of winning, however slim. I also used Zelashell to obtain valuable information concerning Nemea.<end>"
 
 ["1800084"]
 japanese = "お前がカルラの配下なのは知ってる。<line-break>だが、この際、奴の手下をやめて<line-break>俺と一緒に奴と戦ってほしいんだ。<line-break>…有利な側から不利な負け側に来いと<line-break>言ってるんだ、無理強いはしない。<line-break>どうだ、<value:$28>？<end>"
