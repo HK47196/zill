@@ -162,7 +162,7 @@ english = "<if><value:$29><equal>%0Sorry for stopping you. We should be going. S
 
 ["760040"]
 japanese = "あ、あの、<value:$28>さんには<line-break><value:$28>さんの事情が<line-break>あったんですよね。<line-break><value:$28>さんが、<line-break>何の理由もなしに、かわいそうな王女を<line-break>放っておくはずありませんから。<end>"
-english = "Um, <value:$28>... You must have had your reasons. I know you would never abandon a poor princess for no reason.<end>"
+english = "Um, <value:$28>... You must have had your reasons, <value:$28>. I know you, <value:$28>, would never abandon a poor princess for no reason.<end>"
 
 ["760041"]
 japanese = "それでは、失礼します。<end>"
