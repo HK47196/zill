@@ -1674,7 +1674,7 @@ english = "Believe in me... Cast aside everything for me... Surrender everything
 
 ["1330418"]
 japanese = "ウフフ…。<end>"
-english = ""
+english = "Hee hee...<end>"
 
 ["1330419"]
 japanese = "ウフフアハハ…！<line-break>君が僕を裏切ってもね<line-break>僕は信じていたよ、エルファス。<line-break>君が愛を信じる負け犬になれば<line-break>必ず、<value:$28>を守るため<line-break>神になると…ね。<end>"
@@ -1750,7 +1750,7 @@ english = "Are you all right, <value:$28>?<end>"
 
 ["1330437"]
 japanese = "あら、ネメア…。<line-break>破壊神の門たる<line-break>偽りの勇者様。<line-break>あなたに彼らと一緒にいる<line-break>資格はないわ。<line-break>神よ、汚らわしきネメアを消せ！<end>"
-english = ""
+english = "Why, Nemea... False Hero, gateway of the God of Destruction. You have no right to stand with them. God, erase that filthy Nemea!<end>"
 
 ["1330438"]
 japanese = "…たとえ闇に落ちようと、<line-break>私は私だ！<end>"
@@ -1766,11 +1766,11 @@ english = "I will kill you. Until then, I'll wait before returning this silent w
 
 ["1330441"]
 japanese = "…強くなったな、<line-break><value:$28>。<end>"
-english = ""
+english = "You've grown strong, <value:$28>.<end>"
 
 ["1330442"]
 japanese = "<value:$28>、<line-break>…私も力を貸そう。<end>"
-english = ""
+english = "<value:$28>... Let me lend you my strength as well.<end>"
 
 ["1330443"]
 japanese = "よう、待ってたよ。<line-break>無限のソウルの持ち主。<line-break><value:$28>。<end>"
@@ -1790,7 +1790,7 @@ english = "It's not like I asked you for anything! You just happened to be here 
 
 ["1330447"]
 japanese = "ま、どうでもいいか。<line-break>勝った奴のみが生き、負けた奴は…<end>"
-english = ""
+english = "Well, whatever. The winner lives, and the loser...<end>"
 
 ["1330448"]
 japanese = "行くぞ、<value:$28>！<line-break>今こそ、ナッジの恨みを晴らす！<end>"
@@ -2122,7 +2122,7 @@ english = "G-grant... new power... B-bring destruction upon this world! Aaaaaagh
 
 ["1330530"]
 japanese = "いらっしゃい…かわいい人形たち。<end>"
-english = ""
+english = "Welcome... my pretty dolls.<end>"
 
 ["1330531"]
 japanese = "いらっしゃい…かわいい人形たち。<end>"
@@ -2174,11 +2174,11 @@ english = "Heh heh heh... Now, Xenetes, defeat <value:$28> and offer up the Infi
 
 ["1330543"]
 japanese = "いらっしゃい、レムオン…。<end>"
-english = ""
+english = "Welcome, Lemghon...<end>"
 
 ["1330544"]
 japanese = "いらっしゃい、レムオン…。<end>"
-english = ""
+english = "Welcome, Lemghon...<end>"
 
 ["1330545"]
 japanese = "いらっしゃい、レムオン…。<end>"
@@ -2794,19 +2794,19 @@ english = "Equality among the races can't become a reality unless each person st
 
 ["1330698"]
 japanese = "どうしても入る<end>"
-english = ""
+english = "I have to go in<end>"
 
 ["1330699"]
 japanese = "どうしても入らなくては<line-break>ならないのですか？<end>"
-english = ""
+english = "Do you absolutely have to go in?<end>"
 
 ["1330700"]
 japanese = "…わかりました<line-break>こちらに古い坑道のような洞窟があります<line-break>そこから中に入れるかも知れません<line-break>こっそり案内してあげましょう<line-break>でも、後悔しても知りませんよ？<end>"
-english = ""
+english = "Very well. There is a cave over here that looks like an old mine. You may be able to get inside through it. I'll secretly show you the way. But don't blame me if you regret it.<end>"
 
 ["1330701"]
 japanese = "それがいいですよ<end>"
-english = ""
+english = "That's for the best.<end>"
 
 ["1330702"]
 japanese = "ここを通りたい？<line-break>冗談じゃない！<line-break> <line-break>勝手に人を通したのがばれたら、<line-break>酷い目に遭わされます。<line-break>お引取りを…<end>"
@@ -2930,19 +2930,19 @@ english = "Yes, you must be <value:$28>. Please, go on in!<end>"
 
 ["1330732"]
 japanese = "<value:$28>様！<line-break>将軍閣下からご伝言がございます。<end>"
-english = ""
+english = "<value:$28>! I have a message for you from the General.<end>"
 
 ["1330733"]
 japanese = "トンガリ頭がうるさいので<line-break>アルノートゥンまでデートに<line-break>行ってきます。<line-break>なんか、やな予感がするので<line-break>大人しく待っているように。<line-break>カルラ<end>"
-english = ""
+english = "Pointy-Head won't stop pestering me, so I'm off to Alnortun for a date. I've got a bad feeling about this, so stay put and wait for me. Karula<end>"
 
 ["1330734"]
 japanese = "以上であります。<end>"
-english = ""
+english = "That is all.<end>"
 
 ["1330735"]
 japanese = "私は<value:$28>様なら<line-break>閣下に追いつけると信じております。<line-break>我が軍の勝利のため、<line-break>一刻も早く将軍のもとへ！<end>"
-english = ""
+english = "I believe you can catch up with the General, <value:$28>. For our army's victory, hurry to her side at once!<end>"
 
 ["1330736"]
 japanese = "ロセン総督府に用か？<line-break>カルラ将軍なら、あいにく、<line-break>遠征中である。<end>"
@@ -3022,7 +3022,7 @@ english = "Never did I imagine... that even Magus, Knight of the Round Table... 
 
 ["1330755"]
 japanese = "もう誰にも止められないよ。<line-break>強大な闇の巨人が世界中を襲ってるのさ。<line-break>でも、これはほんの序の口<line-break>ここからが本番だ。<end>"
-english = ""
+english = "No one can stop it now. Mighty Giants of Darkness are attacking all over the world. But that's only the beginning. Now the real show starts.<end>"
 
 ["1330756"]
 japanese = "もう誰にも止められないよ。<line-break>強大な闇の巨人が世界中を<line-break>襲いはじめたんだ。<line-break>でも、これはほんの序の口。<line-break>ここからが本番さ。<line-break>\u3000<line-break>だけど、本番なのに弱ったな。<line-break>エルファスが君の仲間になって<line-break>舞台を降りちゃったからね。<line-break>しょうがないや、<line-break>エルファスの代役を<line-break>立てさせてもらうとするかな。<line-break>破壊の化身、魔王バロルをね。<end>"
