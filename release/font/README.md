@@ -1,6 +1,6 @@
-# Frozen font and texture patch
+# Frozen font patches
 
-`manifest.toml` describes three authenticated XOR transforms applied to exact
+`manifest.toml` describes two authenticated XOR transforms applied to exact
 ULJM05410 1.03 archive members. Each compressed `.zpatch` is authenticated in
 compressed and expanded form; the complete retail input and reconstructed
 result are also SHA-256 guarded. The patches contain only byte deltas, not

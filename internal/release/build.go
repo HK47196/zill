@@ -21,6 +21,7 @@ import (
 	"github.com/HK47196/zill/internal/gamefmt/paa"
 	"github.com/HK47196/zill/internal/gamefmt/sfo"
 	"github.com/HK47196/zill/internal/gamefmt/staticpatch"
+	"github.com/HK47196/zill/internal/gamefmt/textureoverride"
 	"github.com/HK47196/zill/internal/layout"
 	"github.com/HK47196/zill/internal/message"
 )
@@ -160,6 +161,9 @@ func Build(root, gameDir, isoPath string) (result Result, err error) {
 		return result, err
 	}
 	if err := addFixedMembers(root, archives); err != nil {
+		return result, err
+	}
+	if err := addTextureOverrides(root, archives); err != nil {
 		return result, err
 	}
 	if err := addEquipment(root, archives); err != nil {
@@ -495,6 +499,23 @@ func addFixedMembers(root string, archives []*archive) error {
 			return err
 		}
 		archive.replacements = append(archive.replacements, paa.IndexReplacement(member.Index, patched))
+	}
+	return nil
+}
+
+func addTextureOverrides(root string, archives []*archive) error {
+	pairs := make(map[string]*paa.Pair, len(archives))
+	byName := make(map[string]*archive, len(archives))
+	for _, archive := range archives {
+		pairs[archive.name] = archive.pair
+		byName[archive.name] = archive
+	}
+	replacements, err := textureoverride.Compile(filepath.Join(root, "assets", "texture_overrides"), pairs)
+	if err != nil {
+		return fmt.Errorf("compile texture overrides: %w", err)
+	}
+	for name, members := range replacements {
+		byName[name].replacements = append(byName[name].replacements, members...)
 	}
 	return nil
 }

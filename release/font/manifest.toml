@@ -24,14 +24,3 @@ result_sha256 = "31bab2f83bcf42830423276912e97f2f1a8072dac46ff743bbd5a7d81505ab9
 patch = "font-jillbtn.zpatch"
 patch_sha256 = "4d3d71407d25b6e75bf9bbd99d6b340debb91309017fd478df48e5735c774782"
 xor_sha256 = "24b9b6ea746206c3c5725553d44e48dc70fe580ba15c567305d5f7f867b37341"
-
-[[member]]
-archive = "pa"
-index = 2
-name = "2d/icon/scrparts.par"
-size = 26320
-source_sha256 = "0ca81c76cec86de9c698d8c3a7f46129593456425e36f3d06b7259c7f4699294"
-result_sha256 = "ef2054b6ddc992b3624c2f0de9a933efd0e8ac73d55075047ed904555599c2b8"
-patch = "texture-scrparts.zpatch"
-patch_sha256 = "659fd519e90d1d6d040359b41f709ba4f224dd29469ea2b98585411bb7dff70a"
-xor_sha256 = "145d347d4a267972e9f9267aff7db63db2240c3394c0438c1cee133082110fd5"

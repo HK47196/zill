@@ -66,6 +66,8 @@ Maintainer-owned release data includes fixed strings in
 Code is GPL-3.0-or-later. Original English translation and editorial content
 is CC BY-SA 4.0. See [NOTICE.md](NOTICE.md) and `LICENSES/`.
 
-The repository contains no native message-bank bytes or bundled retail game
-assets. See [CONTRIBUTING.md](CONTRIBUTING.md) for the ordinary pull-request
-workflow and [RELEASING.md](RELEASING.md) for maintainer release work.
+The repository contains no native message-bank bytes or complete retail archive
+members. Editable localized images live under
+[`assets/texture_overrides/`](assets/texture_overrides/). See
+[CONTRIBUTING.md](CONTRIBUTING.md) for the ordinary pull-request workflow and
+[RELEASING.md](RELEASING.md) for maintainer release work.
