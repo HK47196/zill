@@ -46,7 +46,7 @@ english = "Don't you want to see what's inside?<end>"
 
 ["880011"]
 japanese = "そんなに否定するんなら\u3000\u3000\u3000\u3000<line-break>別に何者でもいいけどさ。<line-break>\u3000<line-break>とにかく、<line-break>ボク、リベルダムによくいるし、<line-break>また会おうよ。じゃあね！<end>"
-english = ""
+english = "If you're going to deny it that strongly, I guess it doesn't matter who you are. Anyway, I'm in Liberdam a lot, so let's meet again sometime. Bye!<end>"
 
 ["880012"]
 japanese = "ふぅーん、\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>っていうのか。<line-break>\u3000<line-break>とにかく、<line-break>ボク、リベルダムによくいるし、<line-break>また会おうよ。じゃあね！<end>"
@@ -178,15 +178,15 @@ english = "Come along with us.<end>"
 
 ["880044"]
 japanese = "…時計はさ、いろいろな部品から\u3000\u3000\u3000<line-break>できあがっているよね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>部品の１個１個は、<line-break>ひたすら同じ動きを繰り返してる。<line-break>\u3000<end>"
-english = ""
+english = "A clock is made up of all kinds of parts, right? Each individual part just repeats the same motion over and over.<end>"
 
 ["880045"]
 japanese = "でもさ、そのなかの１個だけでも<line-break>動くのをやめてしまったら、<line-break>時計全体は止まってしまうんだよね…。<line-break>ひとつの部品がヤダって言ったら…。<line-break>\u3000<line-break>\u3000<end>"
-english = ""
+english = "But if even one of those parts stops moving, the whole clock stops, doesn't it...? If just one part says it doesn't want to...<end>"
 
 ["880046"]
 japanese = "アハハハ。<line-break>ボク、何をわけわかんないこと<line-break>言ってんだろ。<end>"
-english = ""
+english = "Ahahaha. What am I even talking about?<end>"
 
 ["880047"]
 japanese = "<value:$28>？<end>"
@@ -306,7 +306,7 @@ english = "You mean you'll work me to the bone and show me how hard the adventur
 
 ["880076"]
 japanese = "もー！\u3000冒険の仲間になろうって<line-break>言ってるだけじゃん！<line-break>ボク、待ってるからねー！<end>"
-english = ""
+english = "Come on! I'm only saying I want to join you on your adventures! I'll be waiting!<end>"
 
 ["880077"]
 japanese = "<value:$28>、ごめん。<line-break>ボク、ちょっと用事があって、しばらく<line-break>キミと一緒に冒険できないんだ…。<line-break>多分、呼び出しにも応えられない…。<line-break>でも……、絶対戻ってくるから、<line-break>何も聞かないで行かせてほしい。<end>"
@@ -702,27 +702,27 @@ english = "I'm a little disappointed in you. That's all I wanted to say.<end>"
 
 ["880175"]
 japanese = "<value:$28>…。<end>"
-english = ""
+english = "<value:$28>...<end>"
 
 ["880176"]
 japanese = "い、今さら何しに来たんだよ。<line-break>絶対、キミが助けてくれるって<line-break>信じてたのに…。<line-break>だけど、キミは来なかった…。<line-break>\u3000<line-break>\u3000<end>"
-english = ""
+english = "W-what are you doing here now? I was sure you'd come and save me... But you never came...<end>"
 
 ["880177"]
 japanese = "出てって！<line-break>ボク、みじめだよ！\u3000\u3000\u3000\u3000\u3000\u3000<line-break>出てって！！<end>"
-english = ""
+english = "Get out! I'm so humiliated! Get out!!<end>"
 
 ["880178"]
 japanese = "すばらしい…。これなら、<line-break>万一の事態にも対応できよう。<end>"
-english = ""
+english = "Excellent... With this, we can deal with any contingency.<end>"
 
 ["880179"]
 japanese = "フッ、保護魔法に引っかかったか？\u3000\u3000<line-break>やはり私の手には負えぬようだ。<line-break>\u3000<line-break>しかし、あのお方が、<line-break>エステルという小娘を救ってまで<line-break>手札に残しておかれたのもうなずける。<end>"
-english = ""
+english = "Hmph. Caught by the protection spell, have you? It seems you're still beyond my ability to deal with. Yet I see why that person went so far as to save the girl called Esther and keep her in reserve.<end>"
 
 ["880180"]
 japanese = "これは誰かと思えば、<line-break>ご自分の仲間も助けない勇者殿！<line-break>立ち聞きとはお行儀が悪いですな？<end>"
-english = ""
+english = "Well, if it isn't the great hero who wouldn't even save their own companion! Eavesdropping is rather ill-mannered, isn't it?<end>"
 
 ["880181"]
 japanese = "いつになったら<line-break>この小言は終わるんだろ？<end>"
@@ -738,91 +738,91 @@ english = "That ridiculous charm has become quite the fashion lately. It's a rea
 
 ["880184"]
 japanese = "こんにちは。<end>"
-english = ""
+english = "Hello.<end>"
 
 ["880185"]
 japanese = "なんの用なの！<line-break>シャリ！<end>"
-english = ""
+english = "What do you want, Shalli!?<end>"
 
 ["880186"]
 japanese = "つれないなぁ。<line-break>僕の目当ては君ひとりさ。<end>"
-english = ""
+english = "Don't be so cold. You're the only one I'm after.<end>"
 
 ["880187"]
 japanese = "ふぅん、ほんとにボクひとり？<line-break>とてもそんな風には見えないけど？<end>"
-english = ""
+english = "Oh? Really, just me? It sure doesn't look that way.<end>"
 
 ["880188"]
 japanese = "あと、アキュリュースにひとり、<line-break>ウルカーンにひとり、<line-break>竜の座にひとりってとこかな？<end>"
-english = ""
+english = "One in Aqyurius, one in Urkaan, and one at the Dragon's Seat, I suppose?<end>"
 
 ["880189"]
 japanese = "結構、浮気者じゃない？<end>"
-english = ""
+english = "You're quite the philanderer, aren't you?<end>"
 
 ["880190"]
 japanese = "その上、強引だよ。<end>"
-english = ""
+english = "And you're pushy, too.<end>"
 
 ["880191"]
 japanese = "さぁ、ついてきてもらおうか、<line-break>かわいこちゃん？<end>"
-english = ""
+english = "Now then, why don't you come with me, cutie?<end>"
 
 ["880192"]
 japanese = "それが答え？\u3000もっと紳士的に<line-break>願いたかったんだけどな。<end>"
-english = ""
+english = "Is that your answer? I'd hoped to make a more gentlemanly request.<end>"
 
 ["880193"]
 japanese = "殺れ。<end>"
-english = ""
+english = "Kill them.<end>"
 
 ["880194"]
 japanese = "フフ、そんなんじゃ<line-break>ぜんぜんダメだよ、エステル。<line-break>いつか命を落とすよ？<line-break>君は他のパーティーメンバーに<line-break>あまり貢献していない。<line-break>平たく言えば役立たずだね！<end>"
-english = ""
+english = "Heh heh, that's no good at all, Esther. You'll get yourself killed one day. You don't contribute much to the other members of your party. Put plainly, you're useless!<end>"
 
 ["880195"]
 japanese = "………………！<end>"
-english = ""
+english = "...!<end>"
 
 ["880196"]
 japanese = "君は地の巫女だ。<line-break>その気になれば、今の怪物なんて<line-break>ひとひねりだったろうに…。<end>"
-english = ""
+english = "You're the Earth Priestess. If you chose to use your power, that monster would have been nothing to you...<end>"
 
 ["880197"]
 japanese = "………………！？<end>"
-english = ""
+english = "...!?<end>"
 
 ["880198"]
 japanese = "エステル、君こそが<line-break>ラドラスを支配した４人の巫女のひとり<line-break>ズゥの子孫なんだ。<line-break>そして、君こそが<line-break>地の精霊神グラジェオンに仕える、<line-break>強大な魔力を持つ地の巫女なんだよ。<end>"
-english = ""
+english = "Esther, you are a descendant of Zuu, one of the four shrine maidens who ruled Ladras. And you are the Earth Priestess, who serves Grajeon, the Earth Spirit God, and wields immense magical power.<end>"
 
 ["880199"]
 japanese = "<if><value:$01><equal>2エステル、シャリの言うことなんかに<line-break>耳を貸しちゃダメよ！<end><if><value:$01><equal>21貴様の言うことなど<line-break>信じられぬな！<end><if><value:$01><equal>3貴様の言うことなぞ<line-break>信じられるか！<end><if><value:$01><equal>5へっ、てめえの言うことなんか<line-break>信じらんねえよ！<end><if><value:$01><equal>42お前の言うことなんか<line-break>信じられるものか！<end><if><value:$01><equal>7貴様の言うことなど<line-break>信じられるものか！<end><if><value:$01><equal>38こいつの言うことなんかに<line-break>耳を貸すな！\u3000エステル！<end><if><value:$01><equal>39あんたの言うことなんか<line-break>信じられないよ！<end><if><value:$01><equal>10お前の言うことなんか<line-break>信じられない！<end><if><value:$01><equal>13フッ、貴様など<line-break>信じられるか！<end><if><value:$01><equal>14貴様の言うことなんぞ<line-break>信じられんわい！<end><if><value:$01><equal>15エステル、あんな奴の言うこと<line-break>聞かないほうがいいよ。<end><if><value:$01><equal>4難しいこと、わかんない！<line-break>ウソ臭いかも！\u3000きゃっ！<end><if><value:$01><equal>22ダメだよ、エステルぅ！<line-break>あいつの言うこと信じちゃ！<end><if><value:$01><equal>19エステル、シャリの言うことは<line-break>信じちゃダメ！\u3000危険だよ！<end><if><value:$01><equal>40貴様の言うことなんか<line-break>信じられるものか！<end><if><value:$01><equal>41エステル、信じちゃダメ<line-break>シャリは何かたくらんでる！<end><if><value:$01><equal>9シャリぃ、エステル惑わして<line-break>今度は何をたくらんでる？<end><if><value:$01><equal>18拙者、貴様の<line-break>言うことなど信じぬわ！<end><if><value:$01><equal>17うさんくさいシャリの言うことなんて<line-break>信じられない、信じられないわぁ！<end><if><value:$01><equal>11あなたの言うことは<line-break>信じられないわ。<end><if><value:$01><equal>12…食えない奴だな。<line-break>今度は何をたくらんでいる？<end><if><value:$01><equal>8…エステルを惑わすのは<line-break>やめてください。<end><if><value:$01><equal>16貴様は信じられん。<end>…たわごとを。<end>"
-english = ""
+english = "<if><value:$01><equal>2Esther, don't listen to anything Shalli says!<end><if><value:$01><equal>21I cannot believe a word you say!<end><if><value:$01><equal>3How could I believe anything you say!?<end><if><value:$01><equal>5Heh, I don't believe a word you say!<end><if><value:$01><equal>42There's no way I'd believe anything you say!<end><if><value:$01><equal>7There's no way I can believe anything you say!<end><if><value:$01><equal>38Don't listen to this guy, Esther!<end><if><value:$01><equal>39I can't believe anything you say!<end><if><value:$01><equal>10I don't believe a word you say!<end><if><value:$01><equal>13Hmph. As if I could believe you!<end><if><value:$01><equal>14I can't believe a word you say!<end><if><value:$01><equal>15Esther, you'd better not listen to a word that guy says.<end><if><value:$01><equal>4I don't understand difficult things! But he sounds like he's lying! Eek!<end><if><value:$01><equal>22Don't, Esther! You can't believe anything he says!<end><if><value:$01><equal>19Esther, don't believe Shalli! He's dangerous!<end><if><value:$01><equal>40There's no way I can believe anything you say!<end><if><value:$01><equal>41Esther, don't believe him! Shalli's up to something!<end><if><value:$01><equal>9Shalli, you're trying to mislead Esther again? What are you plotting this time?<end><if><value:$01><equal>18I do not believe a word you say!<end><if><value:$01><equal>17I can't believe anything that shady Shalli says! I just can't!<end><if><value:$01><equal>11I can't believe what you're saying.<end><if><value:$01><equal>12What a slippery fellow. What are you plotting this time?<end><if><value:$01><equal>8Please stop trying to mislead Esther.<end><if><value:$01><equal>16I can't trust you.<end>...Nonsense.<end>"
 
 ["880200"]
 japanese = "ラドラスに戻って、隠された<line-break>グラジェオンの聖座を求めるといい。<line-break>確かめてから人を疑いなよ。あはは。<end>"
-english = ""
+english = "Go back to Ladras and seek Grajeon's hidden Holy Seat. See for yourself before you start doubting people. Ahaha.<end>"
 
 ["880201"]
 japanese = "………………。<end>"
-english = ""
+english = "...<end>"
 
 ["880202"]
 japanese = "<if><value:$01><equal>12エステル、しっかりしろ。<line-break>奴の言葉にとらわれるな！<end><if><value:$01><equal>8エステル、大丈夫ですか。<line-break>彼の言葉にとらわれてはいけません。<end><if><value:$01><equal>16…奴の言葉にとらわれるな。<line-break>それが奴のねらいなのだ。<end><if><value:$01><equal>9奴の言葉にとらわれないで…。<line-break>…力って罠よ、エステル。<end><if><value:$01><equal>22エステル、しっかりしてよぉ！<line-break>言葉で君をとらえる…<line-break>それが奴のねらいなんだよ！<end><if><value:$01><equal>19ね、エステル、しっかりしてよぉ！<line-break>シャリの言うことなんて聞いちゃダメ！<end><if><value:$01><equal>2アイリーン、しっかりして。<line-break>シャリの言葉にとらわれないで！<end><if><value:$01><equal>3エステル、しっかりするのだ。<line-break>奴の言葉にとらわれるな！<end><if><value:$01><equal>7エステル、しっかりして。<line-break>奴の言葉にとらわれないで！<end><if><value:$01><equal>38エステル、しっかりしろ。<line-break>奴の言葉にとらわれるな！<end><if><value:$01><equal>21エステル、しっかりしろ。<line-break>奴の言葉にとらわれるな！<end><if><value:$01><equal>11エステル、しっかりして。<line-break>奴の言葉にとらわれないで。<end><if><value:$01><equal>13…しっかりしろ<line-break>奴の言葉にとらわれるな。<end><if><value:$01><equal>15ねえ、エステル、しっかりして！<line-break>奴の言葉にとらわれないで！<end><if><value:$01><equal>39エステル、しっかりしな。<line-break>奴の言葉にとらわれんじゃないよ！<end><if><value:$01><equal>10エステル、しっかりして！<line-break>奴の言葉にとらわれるな！<end><if><value:$01><equal>14エステル、しっかりせい。<line-break>奴の言葉にとらわれてはならん！<end><if><value:$01><equal>40エステル、しっかりしろ。<line-break>奴の言葉にとらわれるな！<end><if><value:$01><equal>41エステル、しっかりして。<line-break>シャリの言葉にとらわれないで！<end><if><value:$01><equal>42エステル、しっかりしろ。<line-break>奴の言葉にとらわれるな！<end>………………。<end>"
-english = ""
+english = "<if><value:$01><equal>12Esther, pull yourself together. Don't let his words sway you!<end><if><value:$01><equal>8Esther, are you all right? You mustn't let his words sway you.<end><if><value:$01><equal>16Don't be swayed by his words. That's exactly what he wants.<end><if><value:$01><equal>9Don't let his words get to you... Power is a trap, Esther.<end><if><value:$01><equal>22Esther, pull yourself together! He's trying to ensnare you with words!<end><if><value:$01><equal>19Hey, Esther, pull yourself together! Don't listen to anything Shalli says!<end><if><value:$01><equal>2Irene, stay strong. Don't let Shalli's words sway you!<end><if><value:$01><equal>3Esther, pull yourself together. Don't let his words sway you!<end><if><value:$01><equal>7Esther, stay strong. Don't let his words sway you!<end><if><value:$01><equal>38Esther, pull yourself together. Don't let his words sway you!<end><if><value:$01><equal>21Esther, pull yourself together. Don't let his words sway you!<end><if><value:$01><equal>11Esther, stay strong. Don't let his words sway you.<end><if><value:$01><equal>13...Pull yourself together. Don't let his words sway you.<end><if><value:$01><equal>15Hey, Esther, stay strong! Don't let his words sway you!<end><if><value:$01><equal>39Esther, pull yourself together. Don't let his words get to you!<end><if><value:$01><equal>10Esther, stay strong! Don't let his words sway you!<end><if><value:$01><equal>14Esther, hold fast. You mustn't let his words sway you!<end><if><value:$01><equal>40Esther, pull yourself together. Don't let his words sway you!<end><if><value:$01><equal>41Esther, stay strong. Don't let Shalli's words sway you!<end><if><value:$01><equal>42Esther, pull yourself together. Don't let his words sway you!<end>...<end>"
 
 ["880203"]
 japanese = "ボクが…地の巫女…<line-break>魔道文明を復活させる鍵のひとり…？<end>"
-english = ""
+english = "I'm... the Earth Priestess... one of the keys to reviving the arcane civilization...?<end>"
 
 ["880204"]
 japanese = "<if><value:$01><equal>19エステルぅ！<end><if><value:$01><equal>15ねえ、エステル！<end>エステル！<end>"
-english = ""
+english = "<if><value:$01><equal>19Esther!<end><if><value:$01><equal>15Hey, Esther!<end>Esther!<end>"
 
 ["880205"]
 japanese = "あ、…ゴメン。<end>"
-english = ""
+english = "Oh... Sorry.<end>"
 
 ["880206"]
 japanese = "あ…<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>なんだか変な感じなんだ。<line-break>いつもの見なれたラドラスなのに<line-break>誰かに見られてるような…。<end>"
@@ -1186,7 +1186,7 @@ english = "Great! Then I'll join you when you set out.<end>"
 
 ["880296"]
 japanese = "やっぱり、<line-break>冒険って楽しいよね。<end>"
-english = ""
+english = "Adventuring really is fun, isn't it?<end>"
 
 ["880297"]
 japanese = "では、我らも引き続き<line-break>捜してみます。<line-break>\u3000<line-break>ゆくぞ。<end>"
