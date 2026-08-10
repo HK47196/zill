@@ -78,7 +78,7 @@ func TestChronicleReflowUsesHistoryPanelWidth(t *testing.T) {
 		t.Fatal(err)
 	}
 	const id = 1090015
-	text := strings.Repeat("Wide ", 13) + "Wide"
+	text := "resolved to set out, train, and reclaim the Grail from the Goblin personally."
 	record := corpus.Record{
 		ID: id, Index: 15, Display: text + "<end>", HasBlockTerminator: true,
 		Tokens: []corpus.Token{
