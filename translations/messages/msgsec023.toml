@@ -74,7 +74,7 @@ english = "You may already know this, but carrying a Deep-Sea Fish Eye afflicts 
 
 ["230018"]
 japanese = "<value:$15>を探してきて欲しい。<line-break>なくなっちまわないように最優先でやってくれ。<end>"
-english = "<value:$15>I want you to find it. Make this your top priority so it doesn't disappear.<end>"
+english = "I want you to find <value:$15>. Make this your top priority so it doesn't disappear.<end>"
 
 ["230019"]
 japanese = "<value:$15>を探し出し、<line-break>持ち帰る冒険者を募集している。<line-break>報酬は、<value:$1A>ギア。<line-break>期限は、<value:$1B>日以内である。<line-break>途中、モンスターの襲撃が予想される。<line-break>精強な戦士の応募を期待している。<end>"
