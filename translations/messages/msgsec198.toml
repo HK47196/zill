@@ -114,15 +114,15 @@ english = "Um, well... <value:$28>, what sorts of adventures have you been on?<e
 
 ["1980028"]
 japanese = "闇の神器…？<line-break>それってスゴいものなんですか？<end>"
-english = ""
+english = "A dark artifact...? Is it something really amazing?<end>"
 
 ["1980029"]
 japanese = "あ、いえ。もちろん知ってますよ。<line-break>闇の神器ですよね。<end>"
-english = ""
+english = "Oh, no. Of course I know. A dark artifact, right?<end>"
 
 ["1980030"]
 japanese = "えーと…。<line-break>……<line-break>……。<end>"
-english = ""
+english = "Um...<end>"
 
 ["1980031"]
 japanese = "そうそう！\u3000闇の神器といえば、<line-break>小さいころ、おばあちゃんから<line-break>聞いたことがあるんです。<end>"
@@ -278,7 +278,7 @@ english = "I-I'm fine. I stayed up all night watching the stars, so I'm just a l
 
 ["1980069"]
 japanese = "ええ。本当に大丈夫ですから。<line-break>心配なさらないでください。<end>"
-english = ""
+english = "Yes, I'm really fine. Please don't worry about me.<end>"
 
 ["1980070"]
 japanese = "体調を崩すまで、<line-break>星空を見ていたですって？<line-break>…下等生物ってどこまで愚かなの？<end>"
@@ -330,11 +330,11 @@ english = "Oh... I-I'm sorry. I've kept you up when we have an early start tomor
 
 ["1980082"]
 japanese = "やっぱり、一日でも長く<line-break><value:$28>さんのそばにいたい…。<end>"
-english = ""
+english = "I really do want to stay by your side for as long as I can, <value:$28>...<end>"
 
 ["1980083"]
 japanese = "よーし、今日こそ徹夜してでも流れ星を見つけなくっちゃ。<line-break>頑張ろーっと。<end>"
-english = ""
+english = "All right! Tonight I'm going to find a shooting star, even if I have to stay up till dawn. I can do this!<end>"
 
 ["1980084"]
 japanese = "ん？\u3000伝説のフライパンじゃと？<line-break>何じゃ、そりゃ？<end>"
@@ -342,7 +342,7 @@ english = "Hm? The Legendary Frying Pan? What's that supposed to be?<end>"
 
 ["1980085"]
 japanese = "あ、いいんです。ご存じなければ…。<line-break>私も子供のころにおばあちゃんから<line-break>聞いただけですから。<end>"
-english = ""
+english = "Oh, that's all right, if you don't know. I only heard about it from my grandmother when I was little.<end>"
 
 ["1980086"]
 japanese = "はいっ？<line-break>あ、あれって…なんですか？<end>"
@@ -350,7 +350,7 @@ english = "What? Wh-what do you mean, “that”?<end>"
 
 ["1980087"]
 japanese = "えっ？\u3000あれって…。<line-break>なんですか？<end>"
-english = ""
+english = "What? What do you mean, “that”?<end>"
 
 ["1980088"]
 japanese = "それと似たような話なら、<line-break>わしも耳にしたことがある。<line-break>じいさんが語ってくれた昔話だ。<end>"
@@ -362,15 +362,15 @@ english = "Long, long ago, both Dwarves and Elves were struck by the same calami
 
 ["1980090"]
 japanese = "ええっ！<end>"
-english = ""
+english = "What?!<end>"
 
 ["1980091"]
 japanese = "じいさんのホラ話と思っていたが、<line-break>他にも知っている者がいたとなると<line-break>こりゃあ、真実かもしれんぞ。<end>"
-english = ""
+english = "I thought it was just one of Grandfather's tall tales, but if others know it too, it may be true.<end>"
 
 ["1980092"]
 japanese = "あの…。もしかして、<line-break>どこにあるのか、ご存じでは？<end>"
-english = ""
+english = "Um... might you know where it is?<end>"
 
 ["1980093"]
 japanese = "さあな。<line-break>わしは、てっきり<line-break>じいさんのホラ話と思うとったでな。<line-break>だが、ロストールにも同じ話が<line-break>伝わっとったとなると<line-break>あながち作り話だとも言い切れん。<line-break>まあ、百年以上も前に聞いた話じゃ。<line-break>わしも詳しいことは覚えとらんが。<end>"
@@ -434,7 +434,7 @@ english = "I don't know its exact name, but I've heard of a magical artifact pas
 
 ["1980108"]
 japanese = "そ、それはどこにあるんですか！？<end>"
-english = ""
+english = "W-where is it?!<end>"
 
 ["1980109"]
 japanese = "とは言え、いつだったか<line-break>人間たちに奪われてしまい<line-break>以来、行方知れずらしいですがね。<end>"
@@ -470,7 +470,7 @@ english = "I-I'm fine! I just haven't had enough sleep! There's no need to worry
 
 ["1980117"]
 japanese = "それにしても驚きましたね。<line-break>伝説のフライパンのことを<line-break>オルファウスさんがご存じだったなんて。<line-break>旅を続けていると、私には<line-break>びっくりするようなことばかりです。<end>"
-english = ""
+english = "Still, what a surprise that Orphaus knew about the Legendary Frying Pan. The more I travel, the more astonishing things happen to me.<end>"
 
 ["1980118"]
 japanese = "やっぱり、すごいですね。<line-break><value:$28>さんは…。<line-break>\u3000<line-break>どんなことが起こっても動じないし。<line-break>とっても頼もしくて…。<line-break>優しくて…。<line-break>だけど、ホント言うと…。<line-break>少し不安になることもあります。<end>"
@@ -562,7 +562,7 @@ english = "What? You have something you want to ask me? The Legendary Frying Pan
 
 ["1980140"]
 japanese = "伝説のフライパンだって？<line-break>…驚いたな。<line-break>ちょっと、この古文書を見てよ。<end>"
-english = ""
+english = "The Legendary Frying Pan? That's a surprise. Here, take a look at this ancient manuscript.<end>"
 
 ["1980141"]
 japanese = "ほら、ここ。<line-break>このフライパンみたいな絵と、<line-break>この呪文…。<line-break>まさしく、その魔道器のことが<line-break>記されているんだよ。<end>"
@@ -914,7 +914,7 @@ english = "(I'm finished... Oh no... If you ask an expert like that, my lie will
 
 ["1980228"]
 japanese = "うまいかまずいか以前に<line-break>食えるブツかどうかが疑問。<line-break>生命の危機を感じる…。<end>"
-english = ""
+english = "Before even asking whether it tastes good or bad, the question is whether this stuff is edible at all. A sense of mortal danger sets in…<end>"
 
 ["1980229"]
 japanese = "で、ですから、伝説のフライパンは<line-break>ドワーフの技術とエルフの魔力によって<line-break>強力無比な破壊力を秘めているとか。<end>"

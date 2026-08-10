@@ -154,7 +154,7 @@ english = "<value:$28>, take care of my daughter.<end>"
 
 ["1930038"]
 japanese = "<if><value:$29><equal>%0お、お父さま…！<line-break>と、突然、<line-break>何を言い出すんですか！<end>お父さま……。<line-break>突然、どうしたのですか？<end>"
-english = ""
+english = "<if><value:$29><equal>%0F-Father! Wh-what are you saying all of a sudden?!<end>Father... Why are you saying this all of a sudden?<end>"
 
 ["1930039"]
 japanese = "この俺が、姉を捜すため、<line-break>何も言わずにお前のそばを<line-break>去るとでも？\u3000フッ、バカな。<end>"
@@ -162,7 +162,7 @@ english = "You think I'd leave your side without a word just to search for my si
 
 ["1930040"]
 japanese = "<value:$28>、<line-break>娘を頼んだぞ。<end>"
-english = ""
+english = "<value:$28>, take care of my daughter.<end>"
 
 ["1930041"]
 japanese = "お父さま……。<line-break>突然、どうしたのですか？<end>"
@@ -382,11 +382,11 @@ english = "Together with <value:$28>, who shows me more beauty than anyone.<end>
 
 ["1930095"]
 japanese = "来たか……。<end>"
-english = ""
+english = "You've come...<end>"
 
 ["1930096"]
 japanese = "決着をつけよう。<end>"
-english = ""
+english = "Let us settle this.<end>"
 
 ["1930097"]
 japanese = "そうですか、<line-break>この大陸を出ていくのですか。<end>"

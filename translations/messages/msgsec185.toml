@@ -286,15 +286,15 @@ english = "I am truly sorry, but you do not appear strong enough for us to entru
 
 ["1850071"]
 japanese = "冒険者か？\u3000名を名乗れ。<end>"
-english = ""
+english = "An adventurer? State your name.<end>"
 
 ["1850072"]
 japanese = "えーと、<value:$28>…。<line-break>フゴー邸に出入りのある者です。<end>"
-english = ""
+english = "Let's see... <value:$28>. You have access to Hugo's residence.<end>"
 
 ["1850073"]
 japanese = "よし、通れ。本来、今は中に入れないが、<line-break>カルラ様がフゴー邸に出入りできる人物を<line-break>捜しておいでだ。<line-break>居住区に向かえ。<line-break>急げよ。<end>"
-english = ""
+english = "All right, pass. Ordinarily no one is allowed inside right now, but Lady Karula is looking for someone with access to Hugo's residence. Head to the residential district. Hurry.<end>"
 
 ["1850074"]
 japanese = "現在、リベルダムは、封鎖中だ。<line-break>立ち去るがよい。<end>"
@@ -302,19 +302,19 @@ english = "Liberdam is under blockade. Leave at once.<end>"
 
 ["1850075"]
 japanese = "クリュセイス様は、<line-break>今はいらっしゃらない。<line-break>日をあらためて、また来てくれ。<end>"
-english = ""
+english = "Lady Khryuseis isn't here at present. Come back another day.<end>"
 
 ["1850076"]
 japanese = "フゴーと面識があるとは、<line-break>大した冒険者だ。<end>"
-english = ""
+english = "You know Hugo personally? You must be quite the adventurer.<end>"
 
 ["1850077"]
 japanese = "カルラ様もさすがに<line-break>フゴーには手を出せんよ。<line-break>金の力はすごいな。<end>"
-english = ""
+english = "Even Lady Karula wouldn't dare touch Hugo. Money is a powerful thing.<end>"
 
 ["1850078"]
 japanese = "話はつけてきたのか？<line-break>早く頼むよ。<end>"
-english = ""
+english = "Did you get it sorted out? Hurry up, will you?<end>"
 
 ["1850079"]
 japanese = "知ってる？\u3000クリュセイスって娘。<line-break>ここん家の一人娘なんだけどさ、<line-break>解放軍の首謀者やってんだわ。これが。<line-break>で、そのクリュセイスちゃんが<line-break>フゴーの所に逃げこんでるらしいの。<line-break>そこんとこ、知りたいんだなあ。<end>"

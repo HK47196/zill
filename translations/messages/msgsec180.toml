@@ -46,7 +46,7 @@ english = "All I can do is pray. That is all.<end>"
 
 ["1800011"]
 japanese = "私にできることは、<line-break>ただ祈ること、<line-break>それだけです。<end>"
-english = ""
+english = "All I can do is pray. That is all.<end>"
 
 ["1800012"]
 japanese = "ゼネテス様は…愚かなあの方は…、<line-break>ファーロス家の兵だけで<line-break>カルラと戦うおつもりです…。<line-break>ディンガルの青い死神、カルラの<line-break>兵力の１０分の１にも足りません。<line-break>死ににいくようなものです！<end>"
@@ -166,143 +166,143 @@ english = "May the Dragon King's blessing watch over you, <value:$28>.<end>"
 
 ["1800041"]
 japanese = "王妃様にお会いになるのですね。\u3000\u3000<line-break>かしこまりました。<line-break>どうぞお通りください。<line-break>しかし、伯爵様、よろしいのですか？<line-break>お兄君のエリエナイ公は…<line-break>い、いえ、出過ぎだ発言でした。<end>"
-english = ""
+english = "You wish to see the Queen? Very well. Please proceed. But, my lord, are you sure? Your elder brother, Duke Elienai... N-no, that was out of line.<end>"
 
 ["1800042"]
 japanese = "王妃様にお会いになるのですね。<line-break>かしこまりました。<line-break>どうぞお通りください。<end>"
-english = ""
+english = "You wish to see the Queen? Very well. Please proceed.<end>"
 
 ["1800043"]
 japanese = "王妃様に会うのか。<line-break>よかろう、話は承っている。<line-break>通るとよい。<end>"
-english = ""
+english = "You wish to see the Queen? Very well. I have been informed. You may pass.<end>"
 
 ["1800044"]
 japanese = "よく来た、フリントの息子<line-break><value:$28>よ。<line-break>今日は何用か？<end>"
-english = ""
+english = "Welcome, <value:$28>, son of Flint. What brings you here today?<end>"
 
 ["1800045"]
 japanese = "リベルダム解放軍への援助要請か。<line-break>あいにくと事態はさほど悠長ではない。<line-break>あまり興味はないな。<end>"
-english = ""
+english = "You seek aid for the Liberdam Liberation Army? Unfortunately, the situation does not permit such leisure. It does not interest me.<end>"
 
 ["1800046"]
 japanese = "それよりも、ものは相談じゃが、<line-break>そなた、次の戦に参戦してはくれぬか？<line-break>カルラ進軍のこと、聞いていよう？<line-break>そなたが、こちらの言うことを<line-break>聞いてくれるなら、こちらも<line-break>援助の件、引き受けよう。いかがか？<end>"
-english = ""
+english = "More importantly, I have a proposal. Would you take part in the next battle? You have heard of Karula's advance, I trust? If you do as I ask, I will agree to the matter of aid as well. What say you?<end>"
 
 ["1800047"]
 japanese = "引き受ける<end>"
-english = ""
+english = "Accept<end>"
 
 ["1800048"]
 japanese = "引き受けない<end>"
-english = ""
+english = "Decline<end>"
 
 ["1800049"]
 japanese = "そうか、引き受けてくれるか。\u3000<line-break>ありがたい。<line-break>今回の戦、かなり分が悪くてな。<line-break>その上、レムオン坊やが、<line-break>貴族をまとめて、今回の戦には<line-break>参加せぬと申しておる。<end>"
-english = ""
+english = "You will accept? I am grateful. The odds are quite poor in this battle. On top of that, young Lemghon has rallied the nobles and declared they will not take part.<end>"
 
 ["1800050"]
 japanese = "ゆえに、ファーロス家の軍だけで<line-break>立ち向かう。しかし、将星も乏しい。<line-break>そなたのような人材を欲していた。<line-break>頼むぞ、<value:$28>。<line-break>我が甥、ゼネテスの力になってくれ。<end>"
-english = ""
+english = "Thus House Pharos's forces must stand alone. Yet we lack capable commanders. I had hoped for someone of your talent. I am counting on you, <value:$28>. Lend your strength to my nephew, Xenetes.<end>"
 
 ["1800051"]
 japanese = "そうか、残念だな。<line-break>それならば、こちらも援助できぬ。<line-break>下がるがよい。<end>"
-english = ""
+english = "I see. What a shame. Then I cannot offer aid either. You may leave.<end>"
 
 ["1800052"]
 japanese = "失礼ですが、王妃様には<line-break>お忙しく、どなたともお会いになれません。<line-break>どうかお引き取りを…。<line-break>は？\u3000ファーロス総司令閣下の書状…。<line-break>あ！\u3000そういえば…。失礼しました！<line-break>それではご案内いたします。<end>"
-english = ""
+english = "Forgive me, but the Queen is busy and cannot receive anyone. Please leave... What? A letter from Commander-in-Chief Pharos...? Ah! Now that you mention it... My apologies. I will show you in.<end>"
 
 ["1800053"]
 japanese = "王妃様にお会いしたいだと？<line-break>らちもない。王妃様はお忙しいのだ。<line-break>さあ、帰った帰った！<line-break>なに、総司令閣下の書状が…。<line-break>あ、それなら、承っております。<line-break>どうぞ、ご案内いたします。<end>"
-english = ""
+english = "You wish to see the Queen? Nonsense. Her Majesty is busy. Off with you! What? A letter from the Commander-in-Chief...? Ah, in that case, I have been informed. Please, let me show you in.<end>"
 
 ["1800054"]
 japanese = "私がエリスだ。<line-break>なんの用か？<end>"
-english = ""
+english = "I am Eris. What do you want?<end>"
 
 ["1800055"]
 japanese = "失礼ですが、王妃様には<line-break>お忙しく、どなたともお会いになれません。<line-break>どうかお引き取りを…。<end>"
-english = ""
+english = "Forgive me, but the Queen is busy and cannot receive anyone. Please leave...<end>"
 
 ["1800056"]
 japanese = "王妃様にお会いしたいだと？<line-break>らちもない。王妃様はお忙しいのだ。<line-break>さあ、帰った帰った！<end>"
-english = ""
+english = "You wish to see the Queen? Nonsense. Her Majesty is busy. Off with you!<end>"
 
 ["1800057"]
 japanese = "あ、<value:$28>様、<line-break>ファーロス総司令が貴族を召集しています。<line-break>どうぞ、謁見の間へ。<end>"
-english = ""
+english = "Ah, <value:$28>. Commander-in-Chief Pharos is summoning the nobles. Please go to the audience chamber.<end>"
 
 ["1800058"]
 japanese = "謁見の間へ行く<end>"
-english = ""
+english = "Go to the audience chamber<end>"
 
 ["1800059"]
 japanese = "謁見の間へ行かない<end>"
-english = ""
+english = "Do not go to the audience chamber<end>"
 
 ["1800060"]
 japanese = "では、どうぞ<line-break>お通りください。<end>"
-english = ""
+english = "Please proceed.<end>"
 
 ["1800061"]
 japanese = "よお、あの神速の戦術家カルラが<line-break>勇猛なディンガル兵をわんさか連れて<line-break>こっちに向かってるそうだ。<line-break>アンギルダンのとっつぁんとの戦いで<line-break>こっちは兵力をあらかた失ってる上に<line-break>レムオンのダンナがな…<end>"
-english = ""
+english = "I hear Karula, that lightning-fast tactician, is heading this way with a great many brave Dingal soldiers. After our battle with old man Angeerdan, we have hardly any troops left, and then Lord Lemghon...<end>"
 
 ["1800062"]
 japanese = "貴族を集めて、兵を出さねえってさ。<line-break>んで、俺はファーロス家の兵だけで<line-break>カルラを迎え撃つことにした。<line-break>状況は最悪だ…つっても、<line-break>まだ事態は悪くなりえるから<line-break>最悪じゃねえか。<end>"
-english = ""
+english = "Rallied the nobles and says they will not send troops. So I have decided to meet Karula with House Pharos's soldiers alone. The situation is the worst... Though it can still get worse, so perhaps it isn't the worst.<end>"
 
 ["1800063"]
 japanese = "…そうですか。<end>"
-english = ""
+english = "I see.<end>"
 
 ["1800064"]
 japanese = "なにごとだ。<line-break>今は、王宮は大変なのだ。<line-break>用なら、あとにしてくれ。<end>"
-english = ""
+english = "What is it? The palace is in turmoil now. If you have business, come back later.<end>"
 
 ["1800065"]
 japanese = "これは、<value:$28>様。<line-break>今日はどうなされたのです？<end>"
-english = ""
+english = "Ah, <value:$28>. What brings you here today?<end>"
 
 ["1800066"]
 japanese = "別に用はない<end>"
-english = ""
+english = "Nothing in particular<end>"
 
 ["1800067"]
 japanese = "ティアナの部屋<end>"
-english = ""
+english = "Tiana's room<end>"
 
 ["1800068"]
 japanese = "アトレイアの部屋<end>"
-english = ""
+english = "Atleia's room<end>"
 
 ["1800069"]
 japanese = "エリスの執務室<end>"
-english = ""
+english = "Eris's office<end>"
 
 ["1800070"]
 japanese = "そうですか。<end>"
-english = ""
+english = "I see.<end>"
 
 ["1800071"]
 japanese = "ティアナ様の所に<line-break>いらっしゃるのですね。<line-break>どうぞお通りください。<end>"
-english = ""
+english = "You are going to see Lady Tiana. Please proceed.<end>"
 
 ["1800072"]
 japanese = "アトレイア様の所に<line-break>いらっしゃるのですね。<line-break>どうぞお通りください。<end>"
-english = ""
+english = "You are going to see Lady Atleia. Please proceed.<end>"
 
 ["1800073"]
 japanese = "失礼ですが、王妃様には<line-break>お忙しく、どなたともお会いになれません。<line-break>どうかお引き取りを…。<end>"
-english = ""
+english = "Forgive me, but the Queen is busy and cannot receive anyone. Please leave...<end>"
 
 ["1800074"]
 japanese = "ディンガルの魔の手が迫ってきて…<line-break>いったい、これから<line-break>どうなるのでしょう、伯爵様。<end>"
-english = ""
+english = "Dingal's evil hand is closing in... What will become of us, my lord?<end>"
 
 ["1800075"]
 japanese = "今、王宮は大騒ぎなのだ。<line-break>さあ、行った行った！<end>"
-english = ""
+english = "The palace is in an uproar right now. Move along!<end>"
 
 ["1800076"]
 japanese = "よ、<value:$28>、<line-break>困りごとかい？<end>"
@@ -350,103 +350,103 @@ english = "Then let's go. Time to take on the Blue Reaper!<end>"
 
 ["1800087"]
 japanese = "\u3000\u3000青竜将軍カルラ率いるディンガル軍と<line-break>\u3000\u3000\u3000ゼネテス率いるロストール軍は<line-break>\u3000\u3000\u3000竜骨の砂漠南の街道で対峙した。<line-break>\u3000<line-break>\u3000\u3000レムオンら有力貴族の出兵拒否により<line-break>\u3000\u3000\u3000\u3000ロストール軍は、青竜軍の<line-break>\u3000\u3000\u3000５分の１ほどの戦力だったが…、<end>"
-english = ""
+english = "The Dingal Army, led by Azure Dragon General Karula, faced the Rostorl Army under Xenetes on the road south of the Dragonbone Desert. Because Lemghon and other powerful nobles had refused to send troops, the Rostorl Army had only about one-fifth the strength of the Azure Dragon Army. But...<end>"
 
 ["1800088"]
 japanese = "\u3000\u3000足止めのために空の本陣を敷き、併せて<line-break>\u3000ネメア死すという偽情報を流すことで青竜軍の<line-break>\u3000動揺を誘い、そこに奇襲をかけるという機略で<line-break>\u3000\u3000\u3000\u3000辛くも緒戦の勝利をものにした。<end>"
-english = ""
+english = "An empty command camp was established to hold the enemy back, and a false report of Nemea's death was spread to unsettle the Azure Dragon Army. A surprise attack amid the resulting confusion narrowly secured victory in the opening battle.<end>"
 
 ["1800089"]
 japanese = "\u3000\u3000\u3000だが、青竜軍の兵力は、依然として<line-break>\u3000ロストール軍を大きく上回っており、緒戦の<line-break>勝敗に関係なく、勝機はいまだカルラにあった。<line-break>\u3000\u3000\u3000しかし、青竜軍は進軍をとめた。\u3000\u3000\u3000<end>"
-english = ""
+english = "Even so, the Azure Dragon Army still vastly outnumbered the Rostorl Army. Regardless of the opening battle's outcome, the advantage still lay with Karula. Yet the Azure Dragon Army halted its advance.<end>"
 
 ["1800090"]
 japanese = "ネメア死す。<line-break>ゼネテスの放った<line-break>偽情報を裏付けるかのごとく、<line-break>\u3000<line-break>ゼグナ鉱山で<line-break>闇の神器を探索したあと、<line-break>青竜軍に合流するはずだった<line-break>ネメアが、ついに戻らなかったのである。<end>"
-english = ""
+english = "Nemea is dead. As if confirming the false report spread by Xenetes, Nemea, who was supposed to join the Azure Dragon Army after searching Zegna Mine for the Artifact of Darkness, never returned.<end>"
 
 ["1800091"]
 japanese = "\u3000\u3000\u3000\u3000\u3000一方、ロストールでは、<line-break>\u3000レムオンが突然姿を消したことをきっかけに<line-break>\u3000\u3000\u3000\u3000国内の戦力が、再び統合され、<line-break>\u3000青竜軍と戦えるだけの態勢が取り戻された。<line-break>\u3000\u3000こうして、ネメアを失ったディンガルと<line-break>\u3000\u3000\u3000国内の統合に成功したロストールは、<line-break>\u3000\u3000\u3000\u3000再びにらみ合いの状態に入った。<end>"
-english = ""
+english = "Meanwhile, Lemghon's sudden disappearance in Rostorl led the nation's forces to unite once more, restoring its ability to fight the Azure Dragon Army. Thus Dingal, having lost Nemea, and Rostorl, having restored its internal unity, faced each other in a standoff once again.<end>"
 
 ["1800092"]
 japanese = "ハァイ、ちょうどいいとこに来たわ、<line-break><value:$28>。<line-break>いよいよ、ロストールを攻略するわよ。<end>"
-english = ""
+english = "Hi there. You came at just the right time, <value:$28>. We're finally going to take Rostorl.<end>"
 
 ["1800093"]
 japanese = "ネメア様が敵国深くのゼグナにある<line-break>闇の神器を取りに行くってっからさ。<line-break>放っとくわけにもいかないじゃん？<end>"
-english = ""
+english = "Lord Nemea says he's going deep into enemy territory to Zegna to retrieve the Dark Artifact. We can't very well leave him to it, can we?<end>"
 
 ["1800094"]
 japanese = "それで、このタイミングになったわけ。<line-break>しっかし、うちの皇帝陛下も<line-break>何考えてんだか、わかんないよね。<line-break>ま、今回の戦、<line-break>たぶん勝てるから<line-break>いいんだけどね。<end>"
-english = ""
+english = "That's why we're making our move now. Still, who knows what our Emperor is thinking? Not that it matters. We'll probably win this battle.<end>"
 
 ["1800095"]
 japanese = "でも、アンギルダン将軍に勝った<line-break>ゼネテスが相手ですよ。<end>"
-english = ""
+english = "But we're facing Xenetes, the man who defeated General Angeerdan.<end>"
 
 ["1800096"]
 japanese = "いくらゼネテスでも、<line-break>兵隊がいなくちゃ勝てないでしょ。<line-break>\u3000<line-break>あたしがつかんだ情報だと、<line-break>向こうさんは仲違いしてて、<line-break>ゼネテスは私兵しか使えないみたいよ。<end>"
-english = ""
+english = "Even Xenetes can't win without soldiers. According to my sources, they've had a falling-out, so it looks like he can only use his private troops.<end>"
 
 ["1800097"]
 japanese = "ほ、本当ですか！？\u3000\u3000\u3000\u3000<line-break>…なんて愚かな。<line-break>\u3000<line-break>貴族というのは、<line-break>どうして自分のことしか…！<end>"
-english = ""
+english = "R-really?! How foolish... Why do nobles think only of themselves?!<end>"
 
 ["1800098"]
 japanese = "とは言っても、<line-break>この情報を鵜呑みにすると<line-break>足下すくわれるかもね。<line-break>ゼネテスってのは<line-break>油断ならないから。<end>"
-english = ""
+english = "Still, if we swallow that information whole, we could get caught off guard. Xenetes is not someone to underestimate.<end>"
 
 ["1800099"]
 japanese = "あの…、カルラ様。<end>"
-english = ""
+english = "Um... Lady Karula.<end>"
 
 ["1800100"]
 japanese = "ん？\u3000なに、アイリーン？<end>"
-english = ""
+english = "Hm? What is it, Irene?<end>"
 
 ["1800101"]
 japanese = "今回の戦い、私に指揮を<line-break>とらせてください。<end>"
-english = ""
+english = "Please let me command this battle.<end>"
 
 ["1800102"]
 japanese = "…あたしには、自分の祖国を<line-break>踏みにじらせたくないのかな？<end>"
-english = ""
+english = "You don't want me trampling your homeland, is that it?<end>"
 
 ["1800103"]
 japanese = "そういうことではありません。<line-break>貴族とは、<line-break>決着をつけておきたいのです。<end>"
-english = ""
+english = "That is not it. I want to settle things with the nobles.<end>"
 
 ["1800104"]
 japanese = "………………。<end>"
-english = ""
+english = "...<end>"
 
 ["1800105"]
 japanese = "ずっと考えていました。<line-break>…なぜ騎士になりたかったのか。<end>"
-english = ""
+english = "I've been thinking about it for a long time... Why I wanted to become a knight.<end>"
 
 ["1800106"]
 japanese = "私は騎士になって戦いたかったんです、<line-break>私たち平民を苦しめる社会の仕組みと。<line-break>そして、平和な日常を守りたかった…。<line-break>本来なら、私たちの暮らしを<line-break>守ってくれるはずの貴族たちが、<line-break>私たちを苦しめるのが許せなかった。<end>"
-english = ""
+english = "I wanted to become a knight and fight the social system that oppresses us commoners. And I wanted to protect peaceful daily life... I could not forgive the nobles, who should have protected our lives, for making us suffer.<end>"
 
 ["1800107"]
 japanese = "だから私は騎士になって、<line-break>平民を苦しめる貴族たちと<line-break>戦いたかったんです。<line-break>自分のことだけを考えて、平民の<line-break>憂いを見ようとしない貴族たちに<line-break>思い知らせてやりたいんです！<end>"
-english = ""
+english = "That is why I wanted to become a knight and fight the nobles who oppress commoners. I want to make those nobles, who think only of themselves and refuse to see the worries of commoners, understand!<end>"
 
 ["1800108"]
 japanese = "わかった。いいわよ。<end>"
-english = ""
+english = "All right. You may.<end>"
 
 ["1800109"]
 japanese = "ありがとうございます！<end>"
-english = ""
+english = "Thank you!<end>"
 
 ["1800110"]
 japanese = "ま、そういうことだから、<line-break><value:$28>、助けてあげてね。<end>"
-english = ""
+english = "Well, that's how it is, so <value:$28>, give her a hand, all right?<end>"
 
 ["1800111"]
 japanese = "よし。<line-break>んじゃ、出発よ。<end>"
-english = ""
+english = "Good. Then let's get moving.<end>"
 
 ["1800112"]
 japanese = "よび<end>"
@@ -466,107 +466,107 @@ english = ""
 
 ["1800116"]
 japanese = "本国からの連絡ではないのね？<line-break>じゃあ、情報の出所はどこなの？<end>"
-english = ""
+english = "This did not come from the homeland? Then where did the information come from?<end>"
 
 ["1800117"]
 japanese = "そ、それが…、はっきりしないのです。<line-break>突然広まったものですから。<end>"
-english = ""
+english = "W-we aren't certain. It just started spreading all of a sudden.<end>"
 
 ["1800118"]
 japanese = "あたし思うんだけどさ…。\u3000\u3000<line-break>それってたぶん、偽情報よ。<line-break>目の前の敵はおとり。<line-break>こうやってあたしたちが<line-break>混乱してるところに<line-break>奇襲がくるってな感じかしら？<end>"
-english = ""
+english = "You know what I think? It's probably false information. The enemy in front of us is a decoy. While we're in disarray like this, they'll hit us with a surprise attack. That's my guess.<end>"
 
 ["1800119"]
 japanese = "か、カ、カルラ様！<line-break>大変です！<end>"
-english = ""
+english = "L-L-Lady Karula! We have an emergency!<end>"
 
 ["1800120"]
 japanese = "そら来た。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>はいはい、落ち着いて。<line-break>\u3000<line-break>ロストール軍が攻めてきたって<line-break>言うんでしょ。<line-break>それも、後ろから。<end>"
-english = ""
+english = "There it is. All right, all right, calm down. You're going to tell me the Rostorl Army has attacked, aren't you? From behind.<end>"
 
 ["1800121"]
 japanese = "そ、そんな！<line-break>私がもたついたばかりに…！<end>"
-english = ""
+english = "N-no! All because I was too slow...!<end>"
 
 ["1800122"]
 japanese = "あんまり気にしないの。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>落ち着きなさいって。<line-break>\u3000<line-break>これだけの人間の命を預かってんだし、<line-break>状況の把握につとめようとした<line-break>指揮に間違いはなかったよ。<end>"
-english = ""
+english = "Don't worry about it. Calm down. You have all these lives in your hands. There was nothing wrong with your decision to get a clear picture of the situation.<end>"
 
 ["1800123"]
 japanese = "し、しかし！<end>"
-english = ""
+english = "B-but!<end>"
 
 ["1800124"]
 japanese = "ゼネテスの方が一枚上手だったのよ。<line-break>あたしだって、こんなに早くくるとは、<line-break>思ってなかったわ。<end>"
-english = ""
+english = "Xenetes was one step ahead of us. Even I didn't expect him to get here this quickly.<end>"
 
 ["1800125"]
 japanese = "さ、気持ちを切り替えなさい！<line-break>\u3000<line-break>\u3000<line-break>兵の命を救いたかったら、<line-break>早めに引き上げるしかないわ。<line-break>しんがりにはあたしが出るわ。<end>"
-english = ""
+english = "Now, put it behind you! If you want to save the soldiers' lives, we have to withdraw while we still can. I'll take the rear guard.<end>"
 
 ["1800126"]
 japanese = "カルラ様…。<end>"
-english = ""
+english = "Lady Karula...<end>"
 
 ["1800127"]
 japanese = "今は、兵の命が大事よ。<end>"
-english = ""
+english = "Right now, the soldiers' lives come first.<end>"
 
 ["1800128"]
 japanese = "いえ！\u3000そうではなく…！<line-break>私の敗北で、カルラ様を危険な目に<line-break>あわせるわけには…！<end>"
-english = ""
+english = "No, that isn't what I mean! I can't let my defeat put you in danger, Lady Karula...<end>"
 
 ["1800129"]
 japanese = "アイリーンの敗北はあたしの敗北よ。<line-break>それに、次は勝つわ。<end>"
-english = ""
+english = "Your defeat is my defeat, Irene. Besides, we'll win next time.<end>"
 
 ["1800130"]
 japanese = "アイリーン、<line-break>あなたが退却の指揮を執って。<line-break>兵の命、頼んだわ。<end>"
-english = ""
+english = "Irene, take command of the retreat. I'm entrusting the soldiers' lives to you.<end>"
 
 ["1800131"]
 japanese = "ここで、迎え撃つわよ。<line-break>負けたら死ぬんだからね。<line-break>覚悟してかかってよ！<end>"
-english = ""
+english = "We'll make our stand here. If we lose, we die, so be ready to give it everything you've got!<end>"
 
 ["1800132"]
 japanese = "いたぞ！<line-break>カルラだ！！<end>"
-english = ""
+english = "There she is! It's Karula!!<end>"
 
 ["1800133"]
 japanese = "はん、来たわね！<line-break>さあ、相手してあげるよ！！<end>"
-english = ""
+english = "Hah, there you are! Come on, I'll take you on!!<end>"
 
 ["1800134"]
 japanese = "ゼネテス！<end>"
-english = ""
+english = "Xenetes!<end>"
 
 ["1800135"]
 japanese = "まいったね…。<line-break>カルラだけじゃないわけか。<end>"
-english = ""
+english = "Well, this is a problem... So it isn't just Karula.<end>"
 
 ["1800136"]
 japanese = "お前さんとこういう形で\u3000\u3000<line-break>戦うことになるとはな。<line-break>\u3000<line-break>人生ってのは、おもしれぇ。<line-break>なあ、<value:$28>。<line-break>手加減はしない。行くぜ！<end>"
-english = ""
+english = "Never thought I'd end up fighting you like this. Life's a funny thing. Listen, <value:$28>. I won't hold back. Here I come!<end>"
 
 ["1800137"]
 japanese = "ここでお前を討ちとれば、<line-break>戦力差がどうあれ、<line-break>こっちの勝ちだ。<line-break>その首、もらうぜ！<end>"
-english = ""
+english = "If I bring you down here, we win, no matter how badly we're outnumbered. Your head is mine!<end>"
 
 ["1800138"]
 japanese = "くっ…。<line-break>強くなりやがって…。<line-break>\u3000<line-break>へへ…、複雑な気分だな。<line-break>悪い気はしねぇよ。<line-break><value:$28>。<end>"
-english = ""
+english = "Damn... You've gotten strong... Heh. I don't quite know how to feel about that, but it isn't a bad feeling, <value:$28>.<end>"
 
 ["1800139"]
 japanese = "くっ…。<line-break>カルラひとりならやれたものを！<end>"
-english = ""
+english = "Damn... If it had only been Karula, I could have won!<end>"
 
 ["1800140"]
 japanese = "ゼネテス様！<end>"
-english = ""
+english = "Lord Xenetes!<end>"
 
 ["1800141"]
 japanese = "ここまでね。<line-break>あたしたちも退くわよ。<end>"
-english = ""
+english = "This is as far as we go. We are withdrawing too.<end>"
 
 ["1800142"]
 japanese = "よび<end>"
@@ -582,51 +582,51 @@ english = ""
 
 ["1800145"]
 japanese = "まさか、ネメア様が\u3000\u3000\u3000<line-break>戻ってこないなんてね。<line-break>\u3000<line-break>死んだとは思えないけど、<line-break>何かあったのは確かね。<end>"
-english = ""
+english = "I never imagined Lord Nemea would not return. I do not believe he is dead, but something has certainly happened.<end>"
 
 ["1800146"]
 japanese = "申し訳ありません。<line-break>私がもたついたばかりに…！<end>"
-english = ""
+english = "I am sorry. It was because I was too slow...!<end>"
 
 ["1800147"]
 japanese = "あなたのせいじゃないわ。\u3000\u3000<line-break>気にしちゃダメ。<line-break>\u3000<line-break>ネメア様の運命を<line-break>左右できるほどの力なんて、<line-break>あたしたちにはないんだから。<end>"
-english = ""
+english = "It is not your fault. Do not dwell on it. We do not have the power to decide Lord Nemea's fate.<end>"
 
 ["1800148"]
 japanese = "ともかく、<value:$28>。<line-break>あんたのおかげで、<line-break>助かったわ。ありがと。\u3000\u3000<end>"
-english = ""
+english = "In any case, <value:$28>, you saved us. Thank you.<end>"
 
 ["1800149"]
 japanese = "ま、ロストール攻略は中止ね。\u3000\u3000<line-break>ネメア様の捜索が先決だわ。<line-break>\u3000<line-break><value:$28>も、<line-break>なんかわかったら教えてくれない？<line-break>あたしは、ここにいると思うから。<end>"
-english = ""
+english = "Well, the campaign to take Rostorl is cancelled. Finding Lord Nemea comes first. If you learn anything, <value:$28>, will you tell me? I expect I will be here.<end>"
 
 ["1800150"]
 japanese = "待って、<value:$28>。<end>"
-english = ""
+english = "Wait, <value:$28>.<end>"
 
 ["1800151"]
 japanese = "私ね…、退却しながら\u3000\u3000\u3000\u3000<line-break>ずっと思ってた。<line-break>\u3000<line-break>生きて帰らせなきゃ。<line-break>みんな死なせちゃダメだって。<end>"
-english = ""
+english = "While we were retreating, I kept thinking... I have to get them home alive. I cannot let them die.<end>"
 
 ["1800152"]
 japanese = "私、少しわかったの。<line-break>私は、やっぱり何かを守るために<line-break>戦っているんだってこと。<end>"
-english = ""
+english = "I understand a little now. I really am fighting to protect something.<end>"
 
 ["1800153"]
 japanese = "カルラ様のように、<line-break>勝つために戦っているんじゃ<line-break>ないんだってこと。その違い…。<end>"
-english = ""
+english = "I am not fighting to win, as Lady Karula does. That is the difference...<end>"
 
 ["1800154"]
 japanese = "それだけ…、<line-break>あなたに聞いておいてほしかったの。<end>"
-english = ""
+english = "That is all... I just wanted you to hear that.<end>"
 
 ["1800155"]
 japanese = "<value:$28>、あんたも来て。<end>"
-english = ""
+english = "<value:$28>, you're coming with me.<end>"
 
 ["1800156"]
 japanese = "………………。<end>"
-english = ""
+english = "...<end>"
 
 ["1800157"]
 japanese = "<if><value:$01><equal>3もしや、今の人影は<line-break>ネメア様ではなかったか？<line-break>どうする、<value:$28>？ <end><if><value:$01><equal>4今の人影、ネメア様に似てたかも。<line-break>でも、関わるとろくなことに<line-break>ならない気がするし…。 <end><if><value:$01><equal>5おい、<value:$28>。<line-break>今の人影、ネメアだったよな。<line-break>追いかけるか？ <end><if><value:$01><equal>6今の人…<line-break>あれ…ネメアじゃないかな？<line-break>どうしよう、<value:$28>？ <end><if><value:$01><equal>13今のは、ネメア。<line-break>…追うのか？ <end><if><value:$01><equal>10姉ちゃん、今の見たか？<line-break>あれ、絶対ネメアだぜ。<line-break>追うの？ <end><if><value:$01><equal>14今のはネメアではなかったか？<line-break>こんな所で供も連れずにいったい…？<line-break>どうするんじゃ、<value:$28>？ <end><if><value:$01><equal>15ねえ、<value:$28>。<line-break>今の人、ネメアさんじゃないかな？<line-break>どうしようか？ <end><if><value:$01><equal>17なに、あれ、ネメアぁ？\u3000<line-break>まさか、まさか、まさか、<line-break>あなた、ネメアを追うつもりなの？ <end><if><value:$01><equal>19ねぇねぇ、<value:$28>。<line-break>今の人、ネメアさんみたいだったよ。<line-break>どうするのぉ？ <end><if><value:$01><equal>20…追うのか？ <end><if><value:$01><equal>11今のは…ネメア様…<line-break><value:$28>、追いかけるの？<end><if><value:$01><equal>21今のはネメアか？<line-break>こんな所で供も連れずにいったい…？<line-break>どうする、<value:$28>？ <end><if><value:$01><equal>23今のは…ネメア様…<line-break>どうする、<value:$28>？<end><if><value:$01><equal>27今のは、ネメア…。<line-break>追うのか？ <end><if><value:$01><equal>26もしや、今の人影は<line-break>ネメアではなかったか？<line-break>どうする、<value:$28>？ <end><if><value:$01><equal>24今のは…ネメア様？<line-break><value:$28><line-break>追いかけますか？<end><if><value:$01><equal>25今の人影…<line-break>ネメア…だよね？<line-break>追いかけるの？ <end><if><value:$01><equal>192あれはネメアですね。<line-break>どうしますか？<end><if><value:$01><equal>193今のはネメアさん？<line-break><value:$28>さん、<line-break>ど、どうしましょう？<end><if><value:$01><equal>194嫌な奴が視界に入ったな…。<line-break><value:$28>、どうする？<end><if><value:$01><equal>191今の、ネメアじゃないかしら？<line-break>追いかける？<end><if><value:$01><equal>190あれはネメアじゃないか？<line-break>追うか、<value:$28>？<end>見た見た？\u3000今のネメアだよ。<line-break>でも、怒りんぼのオイフェとか<line-break>ぶあいそうなゼリグとか、いないなぁ。<line-break>ヒゲオヤジのドルドラムもいないよ。<line-break>何してるのか、気になるよね。<line-break>追いかけるの？ <end>"
@@ -670,7 +670,7 @@ english = "That's the sort of thing that makes fate turn against you. Fate says 
 
 ["1800167"]
 japanese = "<value:$28>…！<end>"
-english = ""
+english = "<value:$28>...!<end>"
 
 ["1800168"]
 japanese = "そこから離れろ！<line-break><value:$28>！！<end>"
@@ -806,23 +806,23 @@ english = "Though it cannot be seen, it is undeniably there.<end>"
 
 ["1800201"]
 japanese = "別に用はない<end>"
-english = ""
+english = "Nothing in particular<end>"
 
 ["1800202"]
 japanese = "ティアナの部屋<end>"
-english = ""
+english = "Tiana's room<end>"
 
 ["1800203"]
 japanese = "エリスの部屋<end>"
-english = ""
+english = "Eris's room<end>"
 
 ["1800204"]
 japanese = "別に用はない<end>"
-english = ""
+english = "Nothing in particular<end>"
 
 ["1800205"]
 japanese = "エリスの部屋<end>"
-english = ""
+english = "Eris's room<end>"
 
 ["1800206"]
 japanese = "王宮には、今は入れられない。<line-break>戦いが近いのだ。<line-break>\u3000<line-break>護衛者を連れているような者は、<line-break>すぐに立ち去るがよい。<end>"

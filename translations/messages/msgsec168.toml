@@ -14,7 +14,7 @@ english = "It has come to this, then. We must do everything we can. Still, I fea
 
 ["1680003"]
 japanese = "カルラが迫っておるのに、<line-break>宮廷の勢力争いかと<line-break>あきれておるのか？<line-break>フフ、私もあきれておる。<line-break>だが、愚かと知っていても、<line-break>やらざるを得ぬ事もある。<end>"
-english = ""
+english = "Are you appalled that, with Karula closing in, we are still engaged in a court power struggle? Heh, so am I. But there are things one must do even knowing they are foolish.<end>"
 
 ["1680004"]
 japanese = "先の空中庭園のおり…<line-break>そなた、気づいたか？<line-break>…アトレイアだ。<line-break>あのときの<line-break>アトレイアの表情には<line-break>鬼気迫るものがあった。<end>"
@@ -38,7 +38,7 @@ english = "Tiana is fond of Lemghon as an older brother, but she feels nothing m
 
 ["1680009"]
 japanese = "普段、冷静な男なだけに<line-break>逆上すると<line-break>何をしでかすかわからない。<line-break>無用な心配とは思うが、<line-break>気に留めておいてほしい。<end>"
-english = ""
+english = "Because he is usually so composed, there is no telling what he might do if he loses his head. I may be worrying needlessly, but I want you to bear it in mind.<end>"
 
 ["1680010"]
 japanese = "よく来てくれた、<line-break><value:$28>。<end>"
@@ -242,7 +242,7 @@ english = "Very well. <value:$28>, please continue to look after Tiana. She is d
 
 ["1680060"]
 japanese = "<value:$28>か。<line-break>よく来た。<end>"
-english = ""
+english = "Ah, <value:$28>. Welcome.<end>"
 
 ["1680061"]
 japanese = "王妃様、シドア候が<line-break>面会を求めております。<end>"

@@ -466,7 +466,7 @@ english = "<value:$28>, I can't join you in battle. But if this bow can help you
 
 ["1740116"]
 japanese = "その弓はあなたに渡したのだから、<line-break>そのあとであなたが誰に与えようと<line-break>私が文句を言う筋合いではないわ。<end>"
-english = ""
+english = "I gave that bow to you, so I have no right to object no matter whom you choose to give it to afterward.<end>"
 
 ["1740117"]
 japanese = "…<value:$28>が<line-break>私にくれるというのなら、<line-break>私に拒む理由はない。<end>"
@@ -826,7 +826,7 @@ english = "That should have eased the fatigue somewhat. Now, let's go.<end>"
 
 ["1740206"]
 japanese = "<value:$28>は<line-break>竜殺しの称号を得た。<end>"
-english = ""
+english = "<value:$28> earned the title of Dragonslayer.<end>"
 
 ["1740207"]
 japanese = "………………。<end>"
