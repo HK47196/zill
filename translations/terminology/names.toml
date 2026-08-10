@@ -5372,12 +5372,14 @@ scope = "global_surface"
 [[entry]]
 key = "name_0929"
 japanese = "アキュリュース"
+# English name from official game material (website).
 english = "Aqyurius"
 scope = "global_surface"
 
 [[entry]]
 key = "name_0930"
 japanese = "アキュリュ－ス"
+# English name from official game material (website).
 english = "Aqyurius"
 scope = "global_surface"
 

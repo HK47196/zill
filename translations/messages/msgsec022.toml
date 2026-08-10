@@ -230,7 +230,7 @@ english = "Freshness matters even in the subject of a song. Old songs about hero
 
 ["220057"]
 japanese = "世の乱れによりあまたの異形の者が<line-break>動き出しました。その内のひとつ、<line-break><value:$15>は、アキュリュース周辺で<line-break>活動し、住民を襲っております。<line-break>どうか、<value:$15>を倒し、この街を<line-break>救ってください。報酬は<value:$1A>ギアです。<line-break><value:$1B>日以内に依頼を果たされるよう願います。<end>"
-english = "These troubled times have stirred countless unnatural beings. Attacks by <value:$15> now plague people near Achilleus. Please defeat <value:$15> and save the town. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+english = "These troubled times have stirred countless unnatural beings. Attacks by <value:$15> now plague people near Aqyurius. Please defeat <value:$15> and save the town. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
 
 ["220058"]
 japanese = "<value:$15>退治の勇者募集。<line-break><value:$1A>ギアの好条件。<line-break>私たちを苦しめているモンスターを倒してくれる<line-break>方はいませんか。<line-break>腕自慢のあなた、稼ぐチャンスです。<line-break><value:$1B>日以内にできる方、応募待ってます。<end>"
@@ -250,11 +250,11 @@ english = "<value:$15> has been getting in the way of our material gathering lat
 
 ["220062"]
 japanese = "アキュリュース名産、銘酒「水の都」。<line-break>アキュリュースだけでなく他の街から飲みに来る方<line-break>もいるんだよ。でも、材料を取りに行ってた場所<line-break>にモンスターが出るようになってね…。<line-break><value:$15>を倒してくれないかな。<line-break>お礼に<value:$1A>ギア払うよ。<line-break><value:$1B>日以内にお願いできるかな。<end>"
-english = "Achilleus's famous liquor, “City of Water,” draws drinkers from other towns as well as our own. But monsters have started appearing where we gather its ingredients... Could you defeat <value:$15>? I'll pay <value:$1A> Gea. Please do it within <value:$1B> days.<end>"
+english = "Aqyurius's famous liquor, “City of Water,” draws drinkers from other towns as well as our own. But monsters have started appearing where we gather its ingredients... Could you defeat <value:$15>? I'll pay <value:$1A> Gea. Please do it within <value:$1B> days.<end>"
 
 ["220063"]
 japanese = "水の都として名高いアキュリュースですから、観光<line-break>を目的とされるお客様が多数ご来店なさいます。<line-break>しかし、近頃はモンスターが増えて危険だから、<line-break>と旅行をとりやめるお客様もいらっしゃいます。<line-break><value:$15>を倒して、街周辺の安全を確保<line-break>してください。<value:$1A>ギアの報酬で、<line-break>期限は<value:$1B>日以内です。<end>"
-english = "Achilleus, the City of Water, attracts many tourists. Lately, some have canceled their trips because monsters make travel too dangerous. Defeat <value:$15> and secure the area around town. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
+english = "Aqyurius, the City of Water, attracts many tourists. Lately, some have canceled their trips because monsters make travel too dangerous. Defeat <value:$15> and secure the area around town. Reward: <value:$1A> Gea. Deadline: <value:$1B> days.<end>"
 
 ["220064"]
 japanese = "あなたも英雄の仲間入り！<line-break>我が吟遊詩人ギルドでは、新しい英雄の歌を作る<line-break>ため、歌の題材となってくださる冒険者を募集し<line-break>ています。<value:$1B>日以内に狂暴なことで有名な<line-break><value:$15>を倒していただきます。<line-break>見事成功された方には、<value:$1A>ギアの賞金と<line-break>英雄の歌の題材になる名誉が与えられます。<end>"

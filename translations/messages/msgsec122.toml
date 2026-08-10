@@ -258,15 +258,15 @@ english = "...............<end>"
 
 ["1220064"]
 japanese = "（ジラークのアルノートゥン攻めを<line-break>\u3000手伝う約束をした）<line-break><line-break>（準備ができたらアキュリュースへ<line-break>\u3000行かなければ…）<end>"
-english = "(I promised to help Zsilak attack Alnortun.) (Once preparations are complete, I must go to Aquilyus...)<end>"
+english = "(I promised to help Zsilak attack Alnortun.) (Once preparations are complete, I must go to Aqyurius...)<end>"
 
 ["1220065"]
 japanese = "ジラークのアルノートゥン攻めを<line-break>手伝うのよね。準備ができたら<line-break>アキュリュースへ行きましょ。<end>"
-english = "We're helping Zsilak attack Alnortun, remember? Once we're ready, let's go to Aquilyus.<end>"
+english = "We're helping Zsilak attack Alnortun, remember? Once we're ready, let's go to Aqyurius.<end>"
 
 ["1220066"]
 japanese = "ジラークのアルノートゥン攻めを<line-break>手伝うのじゃな。準備ができたら<line-break>アキュリュースへ行くとしようぞ。<end>"
-english = "We are to help Zsilak attack Alnortun. Once preparations are complete, let us go to Aquilyus.<end>"
+english = "We are to help Zsilak attack Alnortun. Once preparations are complete, let us go to Aqyurius.<end>"
 
 ["1220067"]
 japanese = "えっ！<line-break>ジラークさんと一緒に戦うって<line-break>言ってませんでしたか？<end>"
@@ -294,15 +294,15 @@ english = "Oh dear. Zsilak would be crushed if he heard that. He had such high h
 
 ["1220073"]
 japanese = "姉ちゃんしっかりしてくれよ。<line-break>ジラークと一緒にアルノートゥンを<line-break>攻めるんだろ。<line-break>準備ができたらアキュリュースへ<line-break>来てくれって頼まれたんだろ。<end>"
-english = "Get it together, Sis. You're attacking Alnortun with Zsilak, remember? He asked you to come to Aquilyus once you were ready.<end>"
+english = "Get it together, Sis. You're attacking Alnortun with Zsilak, remember? He asked you to come to Aqyurius once you were ready.<end>"
 
 ["1220074"]
 japanese = "ジラークのアルノートゥン攻めに<line-break>傭兵として参加するのよ。<line-break>アキュリュースで合流よ。<end>"
-english = "You're joining Zsilak's attack on Alnortun as a mercenary. You are to rendezvous in Aquilyus.<end>"
+english = "You're joining Zsilak's attack on Alnortun as a mercenary. You are to rendezvous in Aqyurius.<end>"
 
 ["1220075"]
 japanese = "ジラーク側につくんだったな。<line-break>アルノートゥン攻めの用意は<line-break>できたのかい？<line-break>用意ができたなら、<line-break>アキュリュースへ行くとしようや。<end>"
-english = "You were going to side with Zsilak. Are you ready for the attack on Alnortun? If so, let's head to Aquilyus.<end>"
+english = "You were going to side with Zsilak. Are you ready for the attack on Alnortun? If so, let's head to Aqyurius.<end>"
 
 ["1220076"]
 japanese = "ジラークのアルノートゥン攻めに<line-break>参加するのだったな。<end>"
@@ -314,7 +314,7 @@ english = "You are joining Zsilak's attack on Alnortun, are you not? Pull yourse
 
 ["1220078"]
 japanese = "<value:$28>もジラーク将軍の<line-break>アルノートゥン攻めに<line-break>参加してくれるんだよね。<line-break>僕もコーンスが差別されない世界を<line-break>つくるために全力で戦うよ。<line-break>さあ！\u3000アキュリュースへ行こうよ。<end>"
-english = "You're joining General Zsilak's attack on Alnortun too, right, <value:$28>? I'll fight with all my strength to create a world where the Korns aren't discriminated against. Come on! Let's go to Aquilyus.<end>"
+english = "You're joining General Zsilak's attack on Alnortun too, right, <value:$28>? I'll fight with all my strength to create a world where the Korns aren't discriminated against. Come on! Let's go to Aqyurius.<end>"
 
 ["1220079"]
 japanese = "………………。<end>"
@@ -350,11 +350,11 @@ english = "You are supposed to be joining Zsilak's attack on Alnortun. Do not di
 
 ["1220087"]
 japanese = "ジラークに依頼されたのは<line-break>アルノートゥンの攻撃ですが、<line-break>合流地はアキュリュースです。<end>"
-english = "Zsilak asked you to attack Alnortun, but the rendezvous point is Aquilyus.<end>"
+english = "Zsilak asked you to attack Alnortun, but the rendezvous point is Aqyurius.<end>"
 
 ["1220088"]
 japanese = "ジラークは、アキュリュースに行けって<line-break>言ったんだよね。<line-break>あっ、気をつけてね。<end>"
-english = "Zsilak told you to go to Aquilyus, right? Oh, and be careful.<end>"
+english = "Zsilak told you to go to Aqyurius, right? Oh, and be careful.<end>"
 
 ["1220089"]
 japanese = "………………。<end>"
@@ -362,7 +362,7 @@ english = "...............<end>"
 
 ["1220090"]
 japanese = "ジラークが頼んできたのは、<line-break>アルノートゥン攻めだったはずだ。<line-break><line-break>準備が整い次第、アキュリュースに<line-break>来てくれとのことだった。<end>"
-english = "Zsilak asked you to help attack Alnortun. He said to come to Aquilyus as soon as your preparations were complete.<end>"
+english = "Zsilak asked you to help attack Alnortun. He said to come to Aqyurius as soon as your preparations were complete.<end>"
 
 ["1220091"]
 japanese = "おい、しっかりするんだ。<line-break>ジラークと共にアルノートゥンを<line-break>攻めると決めただろ。<end>"
@@ -370,7 +370,7 @@ english = "Hey, pull yourself together. You decided to attack Alnortun alongside
 
 ["1220092"]
 japanese = "ジラークと一緒に<line-break>アルノートゥンを攻めるんでしょ。<line-break>さあ、アキュリュースに行くわよ。<end>"
-english = "You're attacking Alnortun with Zsilak, remember? Come on, we're going to Aquilyus.<end>"
+english = "You're attacking Alnortun with Zsilak, remember? Come on, we're going to Aqyurius.<end>"
 
 ["1220093"]
 japanese = "ジラークと共にアルノートゥンを<line-break>攻めるとのことでしたが。<end>"
