@@ -50,11 +50,12 @@ edits.
 
 ## Maintainer build
 
-`./zill build --game-dir /path/to/PSP_GAME` is maintainer-only and is the
-definitive asset-backed build and validation step. It requires a legally
-obtained Japanese `ULJM05410` version `1.03` retail `PSP_GAME` tree and
-publishes `build/PSP_GAME/`; contributors should use `zill check` instead.
-Runtime QA remains required before publication.
+`./zill build --game-dir /path/to/PSP_GAME --iso /path/to/retail.iso` is
+maintainer-only and is the definitive asset-backed build and validation step.
+It requires matching legally obtained Japanese `ULJM05410` version `1.03`
+retail sources plus xdelta3 3.2.0. It publishes `build/PSP_GAME/`,
+`build/zill-english.iso`, and `build/zill-english.xdelta`; contributors should
+use `zill check` instead. Runtime QA remains required before publication.
 
 Maintainer-owned release data includes fixed strings in
 `release/strings/{eboot,equipment}.toml` and layout configuration in

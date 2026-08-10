@@ -23,7 +23,7 @@ Commands:
 	check      Validate contributor translation data
 	search     Search IDs, Japanese, and English
 	show       Show one record and nearby context
-	build      Maintainer-only: build a translated PSP_GAME tree
+	build      Maintainer-only: build PSP_GAME, ISO, and xdelta outputs
   help       Show this help
 `
 

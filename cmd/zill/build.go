@@ -15,6 +15,7 @@ import (
 
 func runBuild(root string, args []string, stdout, stderr io.Writer) int {
 	gameDir := ""
+	isoPath := ""
 	for index := 0; index < len(args); index++ {
 		switch {
 		case args[index] == "--game-dir":
@@ -34,21 +35,40 @@ func runBuild(root string, args []string, stdout, stderr io.Writer) int {
 				return 2
 			}
 			gameDir = strings.TrimPrefix(args[index], "--game-dir=")
+		case args[index] == "--iso":
+			if isoPath != "" {
+				fmt.Fprintln(stderr, "zill: build: --iso may be specified only once")
+				return 2
+			}
+			if index+1 == len(args) {
+				fmt.Fprintln(stderr, "zill: build: --iso requires a path")
+				return 2
+			}
+			index++
+			isoPath = args[index]
+		case strings.HasPrefix(args[index], "--iso="):
+			if isoPath != "" {
+				fmt.Fprintln(stderr, "zill: build: --iso may be specified only once")
+				return 2
+			}
+			isoPath = strings.TrimPrefix(args[index], "--iso=")
 		default:
 			fmt.Fprintf(stderr, "zill: build: unknown argument %q\n", args[index])
 			return 2
 		}
 	}
-	if gameDir == "" {
-		fmt.Fprintln(stderr, "zill: usage: zill build --game-dir PATH (maintainer-only; contributors should run zill check)")
+	if gameDir == "" || isoPath == "" {
+		fmt.Fprintln(stderr, "zill: usage: zill build --game-dir PATH --iso RETAIL_ISO (maintainer-only; contributors should run zill check)")
 		return 2
 	}
-	result, err := release.Build(root, gameDir)
+	result, err := release.Build(root, gameDir, isoPath)
 	if err != nil {
 		fmt.Fprintf(stderr, "zill: build: %v\n", err)
 		return 1
 	}
-	fmt.Fprintf(stdout, "Built translated game at %s\n", result.Destination)
+	fmt.Fprintf(stdout, "Built translated game tree at %s\n", result.GameDirectory)
+	fmt.Fprintf(stdout, "Built translated ISO at %s\n", result.ISO)
+	fmt.Fprintf(stdout, "Built xdelta patch at %s\n", result.Patch)
 	if len(result.Layout) > 0 {
 		printLayoutWarnings(stdout, result.Layout)
 	}

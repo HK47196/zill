@@ -33,11 +33,13 @@ const (
 
 var messageMember = regexp.MustCompile(`^message/msgsec([0-9]{3})\.dat$`)
 
-// Result reports the published destination and non-fatal cleanup warnings.
+// Result reports the published release outputs and non-fatal cleanup warnings.
 type Result struct {
-	Destination string
-	Warnings    []string
-	Layout      []layout.Warning
+	GameDirectory string
+	ISO           string
+	Patch         string
+	Warnings      []string
+	Layout        []layout.Warning
 }
 
 type archive struct {
@@ -46,27 +48,75 @@ type archive struct {
 	replacements []paa.Replacement
 }
 
-// Build validates all canonical inputs and the source game, builds in a
-// sibling staging directory, and atomically publishes root/build/PSP_GAME.
-// The source tree is opened read-only and is never modified.
-func Build(root, gameDir string) (result Result, err error) {
-	root, err = filepath.Abs(root)
+// Build validates all canonical inputs and retail sources, then stages and
+// verifies the complete translated tree, ISO, and xdelta patch before replacing
+// their destinations. Both retail inputs are opened read-only and never modified.
+func Build(root, gameDir, isoPath string) (result Result, err error) {
+	root, err = resolveExistingPath(root, "project root")
 	if err != nil {
-		return result, fmt.Errorf("resolve project root: %w", err)
+		return result, err
 	}
-	gameDir, err = filepath.Abs(gameDir)
+	gameDir, err = resolveExistingPath(gameDir, "source PSP_GAME")
 	if err != nil {
-		return result, fmt.Errorf("resolve source PSP_GAME: %w", err)
+		return result, err
 	}
-	destination := filepath.Join(root, "build", "PSP_GAME")
-	if overlaps(gameDir, destination) {
+	isoPath, err = resolveExistingPath(isoPath, "source ISO")
+	if err != nil {
+		return result, err
+	}
+	buildDirectory := filepath.Join(root, "build")
+	gameDestination := filepath.Join(buildDirectory, "PSP_GAME")
+	isoDestination := filepath.Join(buildDirectory, translatedISOName)
+	patchDestination := filepath.Join(buildDirectory, translatedPatchName)
+	if info, statErr := os.Lstat(buildDirectory); statErr == nil {
+		if !info.IsDir() || info.Mode()&os.ModeSymlink != 0 {
+			return result, fmt.Errorf("%s: build output parent must be a real directory", buildDirectory)
+		}
+	} else if !os.IsNotExist(statErr) {
+		return result, fmt.Errorf("inspect build output parent: %w", statErr)
+	}
+	if overlaps(gameDir, gameDestination) {
 		return result, fmt.Errorf("source and output PSP_GAME trees must not overlap")
 	}
-	if info, statErr := os.Lstat(destination); statErr == nil && (info.Mode()&os.ModeSymlink != 0 || !info.IsDir()) {
-		return result, fmt.Errorf("%s: existing output must be a real directory", destination)
-	} else if statErr != nil && !os.IsNotExist(statErr) {
-		return result, fmt.Errorf("inspect output: %w", statErr)
+	for _, output := range []string{gameDestination, isoDestination, patchDestination} {
+		if overlaps(isoPath, output) {
+			return result, fmt.Errorf("retail ISO and output %s must not overlap", output)
+		}
 	}
+	if err := validateReleaseDestination(gameDestination, true); err != nil {
+		return result, err
+	}
+	for _, output := range []string{isoDestination, patchDestination} {
+		if err := validateReleaseDestination(output, false); err != nil {
+			return result, err
+		}
+	}
+	for _, pair := range []struct {
+		input  string
+		output string
+	}{
+		{gameDir, gameDestination},
+		{isoPath, isoDestination},
+		{isoPath, patchDestination},
+	} {
+		aliased, aliasErr := aliasesExistingPath(pair.input, pair.output)
+		if aliasErr != nil {
+			return result, aliasErr
+		}
+		if aliased {
+			return result, fmt.Errorf("retail input %s aliases release output %s", pair.input, pair.output)
+		}
+	}
+
+	xdelta, err := findXdelta()
+	if err != nil {
+		return result, err
+	}
+	retailISO, isoManifest, err := openRetailISO(isoPath)
+	if err != nil {
+		return result, err
+	}
+	defer retailISO.Close()
 
 	project, _, err := corpus.LoadProject(root)
 	if err != nil {
@@ -125,28 +175,23 @@ func Build(root, gameDir string) (result Result, err error) {
 		return result, err
 	}
 
-	if err := os.MkdirAll(filepath.Dir(destination), 0o755); err != nil {
+	if err := os.MkdirAll(buildDirectory, 0o755); err != nil {
 		return result, fmt.Errorf("create build directory: %w", err)
 	}
-	staging, err := os.MkdirTemp(filepath.Dir(destination), ".PSP_GAME.stage.")
+	bundle, err := os.MkdirTemp(buildDirectory, ".release.stage.")
 	if err != nil {
 		return result, fmt.Errorf("create release staging directory: %w", err)
 	}
-	if err := os.Remove(staging); err != nil {
-		return result, fmt.Errorf("prepare release staging directory: %w", err)
-	}
-	published := false
 	defer func() {
-		if !published {
-			if cleanupErr := os.RemoveAll(staging); cleanupErr != nil {
-				if err != nil {
-					err = fmt.Errorf("%w; staged-output cleanup also failed: %v", err, cleanupErr)
-				} else {
-					err = fmt.Errorf("remove failed release staging directory: %w", cleanupErr)
-				}
+		if cleanupErr := os.RemoveAll(bundle); cleanupErr != nil {
+			if err != nil {
+				err = fmt.Errorf("%w; staged-output cleanup also failed: %v", err, cleanupErr)
+			} else {
+				result.Warnings = append(result.Warnings, fmt.Sprintf("remove release staging directory: %v", cleanupErr))
 			}
 		}
 	}()
+	staging := filepath.Join(bundle, "PSP_GAME")
 	if err := copyTree(gameDir, staging); err != nil {
 		return result, err
 	}
@@ -168,16 +213,77 @@ func Build(root, gameDir string) (result Result, err error) {
 			return result, fmt.Errorf("rebuild %s archive: %w", archive.name, err)
 		}
 	}
-	cleanup, err := publishDirectory(staging, destination)
+	stagedISO := filepath.Join(bundle, translatedISOName)
+	if err := authorTranslatedISO(stagedISO, retailISO, isoManifest, staging); err != nil {
+		return result, err
+	}
+	if err := retailISO.Close(); err != nil {
+		return result, fmt.Errorf("close retail ISO before xdelta encoding: %w", err)
+	}
+	stagedPatch := filepath.Join(bundle, translatedPatchName)
+	if err := createAndVerifyPatch(xdelta, isoPath, stagedISO, stagedPatch); err != nil {
+		return result, err
+	}
+	cleanup, err := publishAll([]publishItem{
+		{staging: staging, destination: gameDestination},
+		{staging: stagedISO, destination: isoDestination},
+		{staging: stagedPatch, destination: patchDestination},
+	})
 	if err != nil {
 		return result, fmt.Errorf("publish release: %w", err)
 	}
-	published = true
-	result.Destination = destination
-	if cleanup != nil {
-		result.Warnings = append(result.Warnings, cleanup.Error())
+	result.GameDirectory = gameDestination
+	result.ISO = isoDestination
+	result.Patch = patchDestination
+	for _, warning := range cleanup {
+		result.Warnings = append(result.Warnings, warning.Error())
 	}
 	return result, nil
+}
+
+func validateReleaseDestination(path string, directory bool) error {
+	info, err := os.Lstat(path)
+	if os.IsNotExist(err) {
+		return nil
+	}
+	if err != nil {
+		return fmt.Errorf("inspect release output %s: %w", path, err)
+	}
+	if info.Mode()&os.ModeSymlink != 0 || directory != info.IsDir() || (!directory && !info.Mode().IsRegular()) {
+		kind := "regular file"
+		if directory {
+			kind = "real directory"
+		}
+		return fmt.Errorf("%s: existing output must be a %s", path, kind)
+	}
+	return nil
+}
+
+func resolveExistingPath(path, description string) (string, error) {
+	absolute, err := filepath.Abs(path)
+	if err != nil {
+		return "", fmt.Errorf("resolve %s: %w", description, err)
+	}
+	resolved, err := filepath.EvalSymlinks(absolute)
+	if err != nil {
+		return "", fmt.Errorf("resolve %s: %w", description, err)
+	}
+	return resolved, nil
+}
+
+func aliasesExistingPath(left, right string) (bool, error) {
+	leftInfo, err := os.Stat(left)
+	if err != nil {
+		return false, fmt.Errorf("inspect retail input %s: %w", left, err)
+	}
+	rightInfo, err := os.Stat(right)
+	if os.IsNotExist(err) {
+		return false, nil
+	}
+	if err != nil {
+		return false, fmt.Errorf("inspect release output %s: %w", right, err)
+	}
+	return os.SameFile(leftInfo, rightInfo), nil
 }
 
 // Check performs the canonical ancillary checks available to contributors
