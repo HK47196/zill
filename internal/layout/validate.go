@@ -37,7 +37,7 @@ func (e *Engine) Validate(project *corpus.Project, layouts map[int]string) error
 		}
 	}
 	var failures []string
-	checkFixed := func(label string, ids []int, capacity int) {
+	checkFixed := func(label string, ids []int, bufferCapacityBytes int) {
 		for _, id := range ids {
 			if !translated[id] {
 				continue
@@ -47,22 +47,22 @@ func (e *Engine) Validate(project *corpus.Project, layouts map[int]string) error
 				failures = append(failures, err.Error())
 				continue
 			}
-			if size >= capacity {
-				failures = append(failures, fmt.Sprintf("%s message %d uses %d bytes (maximum %d)", label, id, size, capacity-1))
+			if size >= bufferCapacityBytes {
+				failures = append(failures, fmt.Sprintf("%s message %d uses %d bytes (maximum %d)", label, id, size, bufferCapacityBytes-1))
 			}
 		}
 	}
-	checkFixed("bounded label", e.consumers.BoundedLabelIDs, boundedLabelCapacity)
-	checkFixed("guild client", e.consumers.GuildClientIDs, guildClientCapacity)
-	checkFixed("guild region", e.consumers.GuildRegionIDs, guildRegionCapacity)
+	checkFixed("bounded label", e.consumers.BoundedLabelIDs, boundedLabelBufferCapacityBytes)
+	checkFixed("guild client", e.consumers.GuildClientIDs, guildClientBufferCapacityBytes)
+	checkFixed("guild region", e.consumers.GuildRegionIDs, guildRegionBufferCapacityBytes)
 	if translated[trapID] {
 		size, err := expandedBytes(effective[trapID], trapID)
 		if err != nil {
 			failures = append(failures, err.Error())
 		} else {
 			size += len(valueTag.FindAllString(effective[trapID], -1)) * trapValueMaxBytes
-			if size >= trapCapacity {
-				failures = append(failures, fmt.Sprintf("trap message %d uses up to %d bytes (maximum %d)", trapID, size, trapCapacity-1))
+			if size >= trapBufferCapacityBytes {
+				failures = append(failures, fmt.Sprintf("trap message %d uses up to %d bytes (maximum %d)", trapID, size, trapBufferCapacityBytes-1))
 			}
 		}
 	}
@@ -71,8 +71,19 @@ func (e *Engine) Validate(project *corpus.Project, layouts map[int]string) error
 			size, err := expandedBytes(effective[id], id)
 			if err != nil {
 				failures = append(failures, err.Error())
-			} else if size >= equipmentFeedbackCapacity {
-				failures = append(failures, fmt.Sprintf("equipment feedback message %d uses %d bytes (maximum %d)", id, size, equipmentFeedbackCapacity-1))
+			} else if size >= equipmentFeedbackBufferCapacityBytes {
+				failures = append(failures, fmt.Sprintf("equipment feedback message %d uses %d bytes (maximum %d)", id, size, equipmentFeedbackBufferCapacityBytes-1))
+			}
+		}
+		if e.category(id, "chronicle-entry") {
+			size, err := expandedBytes(effective[id], id)
+			if err != nil {
+				failures = append(failures, err.Error())
+				continue
+			}
+			size += strings.Count(effective[id], "<value:$28>") * playerNameMaxEncodedBytes
+			if size > chronicleEntryMaxPayloadBytes {
+				failures = append(failures, fmt.Sprintf("chronicle entry message %d uses up to %d bytes (maximum %d)", id, size, chronicleEntryMaxPayloadBytes))
 			}
 		}
 	}
@@ -97,8 +108,8 @@ func (e *Engine) Validate(project *corpus.Project, layouts map[int]string) error
 		}
 		if changed && missing {
 			failures = append(failures, fmt.Sprintf("C20 group starting at %d lacks a message", group.IDs[0]))
-		} else if changed && total >= c20Capacity {
-			failures = append(failures, fmt.Sprintf("C20 group starting at %d uses %d bytes (maximum %d)", group.IDs[0], total, c20Capacity-1))
+		} else if changed && total >= c20GroupBufferCapacityBytes {
+			failures = append(failures, fmt.Sprintf("C20 group starting at %d uses %d bytes (maximum %d)", group.IDs[0], total, c20GroupBufferCapacityBytes-1))
 		}
 	}
 	for _, id := range e.consumers.C22IDs {
@@ -173,8 +184,8 @@ func (e *Engine) c22Violation(id int, text string) (string, error) {
 	if (len(lines)+3)/4 > c22MaxPages {
 		violations = append(violations, fmt.Sprintf("message %d has %d pages (maximum %d)", id, (len(lines)+3)/4, c22MaxPages))
 	}
-	if total >= c22TotalCapacity {
-		violations = append(violations, fmt.Sprintf("message %d uses %d total bytes (maximum %d)", id, total, c22TotalCapacity-1))
+	if total >= c22TotalBufferCapacityBytes {
+		violations = append(violations, fmt.Sprintf("message %d uses %d total bytes (maximum %d)", id, total, c22TotalBufferCapacityBytes-1))
 	}
 	for i, line := range lines {
 		size, err := minimumBytes(line, id)
@@ -191,8 +202,8 @@ func (e *Engine) c22Violation(id int, text string) (string, error) {
 		if err != nil {
 			return "", err
 		}
-		if size >= c22PageCapacity {
-			violations = append(violations, fmt.Sprintf("message %d page %d uses %d bytes (maximum %d)", id, p/4+1, size, c22PageCapacity-1))
+		if size >= c22PageBufferCapacityBytes {
+			violations = append(violations, fmt.Sprintf("message %d page %d uses %d bytes (maximum %d)", id, p/4+1, size, c22PageBufferCapacityBytes-1))
 		}
 	}
 	return strings.Join(violations, ", "), nil
@@ -252,8 +263,8 @@ func (e *Engine) validatePostings(effective map[int]string, translated map[int]b
 				size += count * maxima[role]
 			}
 		}
-		if size >= guildPostingCapacity {
-			*failures = append(*failures, fmt.Sprintf("guild posting message %d uses %d bytes (maximum %d)", p.ID, size, guildPostingCapacity-1))
+		if size >= guildPostingBufferCapacityBytes {
+			*failures = append(*failures, fmt.Sprintf("guild posting message %d uses %d bytes (maximum %d)", p.ID, size, guildPostingBufferCapacityBytes-1))
 		}
 	}
 }
@@ -307,8 +318,8 @@ func (e *Engine) c5Violation(item corpus.Item, text string) (string, error) {
 			violations = append(violations, fmt.Sprintf("message %d branch %d has %d pages (maximum %d)", item.Record.ID, branch+1, len(pages), maxPages))
 		}
 		for page, size := range pages {
-			if size >= c5PageCapacity {
-				violations = append(violations, fmt.Sprintf("message %d branch %d page %d uses %d bytes (maximum %d)", item.Record.ID, branch+1, page+1, size, c5PageCapacity-1))
+			if size >= c5PageBufferCapacityBytes {
+				violations = append(violations, fmt.Sprintf("message %d branch %d page %d uses %d bytes (maximum %d)", item.Record.ID, branch+1, page+1, size, c5PageBufferCapacityBytes-1))
 			}
 		}
 	}

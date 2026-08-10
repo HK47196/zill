@@ -116,6 +116,32 @@ func TestAuthoredLineBreaksArePreservedThroughCompilation(t *testing.T) {
 	}
 }
 
+func TestChronicleEntryRejectsUnsafeExpandedPayload(t *testing.T) {
+	consumers, metrics, categories := releaseInputs(t)
+	engine, err := layout.Load(consumers, metrics, categories)
+	if err != nil {
+		t.Fatal(err)
+	}
+	const id = 1090015
+	project := &corpus.Project{Items: []corpus.Item{{
+		Record: corpus.Record{ID: id},
+		Translation: corpus.Translation{
+			ID: id, State: corpus.Translated,
+		},
+	}}}
+	if err := engine.Validate(project, map[int]string{
+		id: strings.Repeat("A", 748) + "<value:$28><end>",
+	}); err != nil {
+		t.Fatalf("Validate rejected the maximum safe chronicle payload: %v", err)
+	}
+	err = engine.Validate(project, map[int]string{
+		id: strings.Repeat("A", 749) + "<value:$28><end>",
+	})
+	if err == nil || !strings.Contains(err.Error(), "chronicle entry message 1090015 uses up to 765 bytes (maximum 764)") {
+		t.Fatalf("Validate error = %v, want chronicle payload overflow", err)
+	}
+}
+
 func TestLoadRejectsUnknownConsumerField(t *testing.T) {
 	consumers, metrics, categories := releaseInputs(t)
 	consumers = bytes.Replace(consumers, []byte("format = \"zill-message-consumers\""), []byte("format = \"zill-message-consumers\"\nunexpected = true"), 1)

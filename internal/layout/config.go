@@ -134,7 +134,7 @@ func Load(consumers, metrics, categories []byte) (*Engine, error) {
 		previous = r.Last
 	}
 	for _, g := range e.glyphs {
-		e.playerNameAdvance = max(e.playerNameAdvance, g.Advance*8)
+		e.playerNameAdvance = max(e.playerNameAdvance, g.Advance*playerNameMaxCharacters)
 	}
 	return e, nil
 }

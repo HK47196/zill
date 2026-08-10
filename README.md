@@ -13,8 +13,10 @@ Install Go 1.24 or newer, then use the contributor commands:
 Text searches label Japanese and English separately and also return matching
 terminology; `--state` filters message records only.
 `show` prints the target, nearby Japanese/English context, and the editable
-section path. `check` is the asset-free contributor gate. Local checks are
-recommended before a pull request, but are not required: GitHub CI runs them.
+section path. `check` is the asset-free contributor gate; it does not run reflow
+or the retail-consumer fixed-buffer checks performed by the maintainer build.
+Local checks are recommended before a pull request, but are not required:
+GitHub CI runs them.
 
 ## Translation data
 
