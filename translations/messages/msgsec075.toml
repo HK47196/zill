@@ -50,7 +50,7 @@ english = "And I'm Shalli, a scholar who frequents the palace. I came from the f
 
 ["750012"]
 japanese = "アトレイア様。こちらの勇者だよ、<line-break>君に光を与えてくれた宝石、<line-break>色惑の瞳を持ってきてくれたのは。<end>"
-english = ""
+english = "Lady Atleia, this is the hero who brought you the jewel that gave you light: the Eye of Allure.<end>"
 
 ["750013"]
 japanese = "…<value:$28>様、<line-break>本当にありがとうございました。<end>"
@@ -62,19 +62,19 @@ english = "That's enough thanks, don't you think, Lady Atleia? I'll escort <valu
 
 ["750015"]
 japanese = "あ、あの…。<end>"
-english = ""
+english = "U-um...<end>"
 
 ["750016"]
 japanese = "フフ、王女様は病弱なんでしょう？<line-break>お静かに。お体に障りますよ。<end>"
-english = ""
+english = "Heh. The princess is frail, isn't she? Be quiet. It could harm her health.<end>"
 
 ["750017"]
 japanese = "は、はい…。<end>"
-english = ""
+english = "Y-yes...<end>"
 
 ["750018"]
 japanese = "さ、行こう、<line-break><value:$28>。<end>"
-english = ""
+english = "Come, <value:$28>.<end>"
 
 ["750019"]
 japanese = "あ、あの…。<end>"
@@ -86,11 +86,11 @@ english = "Um, if you wouldn't mind... would you come again sometime?<end>"
 
 ["750021"]
 japanese = "アトレイア王女、君は純真だね。\u3000\u3000<line-break>だけど、君のそういう行動を見て<line-break>他人はこう思うかもしれない。<line-break>…ちょっと親切にしてやったら<line-break>すぐなついてきた。さもしいことだ。<line-break>これだからさびしい奴は…てね。<end>"
-english = ""
+english = "Princess Atleia, you are so innocent. But others might see your behavior and think this: “Be kind to her once and she clings to you right away. How pathetic. That's what lonely people are like...”<end>"
 
 ["750022"]
 japanese = "君はそう思うかい、<line-break><value:$28>？<end>"
-english = ""
+english = "Is that what you think, <value:$28>?<end>"
 
 ["750023"]
 japanese = "未使用：その通りだ。だからさびしい奴はイヤだ。<end>"
@@ -110,7 +110,7 @@ english = "I'm sure you've realized by now, but she's the poor princess I told y
 
 ["750027"]
 japanese = "それでは、王女様。<line-break>僕は<value:$28>を<line-break>王宮の外まで送ります。<end>"
-english = ""
+english = "Well then, Your Highness. I shall escort <value:$28> out of the palace.<end>"
 
 ["750028"]
 japanese = "ま、アトレイア王女もああ言ってるし、<line-break>君もたまには顔を出してよ。<end>"
@@ -158,7 +158,7 @@ english = "This is my way of thanking you. I mean it―thank you.<end>"
 
 ["750039"]
 japanese = "３０００ギア手に入れた。<end>"
-english = ""
+english = "Obtained 3,000 Gea.<end>"
 
 ["750040"]
 japanese = "それでは、僕が<value:$28>を<line-break>王宮の外までご案内します。<end>"
@@ -166,7 +166,7 @@ english = "Then I'll escort <value:$28> out of the palace.<end>"
 
 ["750041"]
 japanese = "今日は本当にありがとう。<line-break>これで彼女に世界を見せてあげられる。<line-break>\u3000<line-break>悲しみと憎悪に彩られた世界をね。<line-break>くすっ、あはははは！<line-break>ホント、ありがとうね！<end>"
-english = ""
+english = "Thank you so much for today. Now I can show her the world―a world steeped in sorrow and hatred. Heh heh... Ahahahaha! Thank you, truly!<end>"
 
 ["750042"]
 japanese = "はい。お気をつけて…。<end>"
@@ -182,7 +182,7 @@ english = "While Princess Tiana lived a life of splendor, Atleia lived alone, wi
 
 ["750045"]
 japanese = "かわいそうに、<line-break>大人たちの陰謀に関わって<line-break>赤ん坊のときから光を知らない。\u3000\u3000\u3000<line-break>まぁ、そのおかげで陰謀が飛び交う<line-break>この王宮の中で、そのあとも<line-break>生き延びることができたんだけどね。<end>"
-english = ""
+english = "Poor thing. Caught up in adults' schemes, she has known no light since infancy. Though thanks to that, she was able to survive in this palace, where plots have swirled ever since.<end>"
 
 ["750046"]
 japanese = "ね、そろそろ、アトレイア王女が<line-break>幸せになってもいいころだと思わない？<line-break>だから、君に協力してほしいんだ。<end>"
@@ -206,7 +206,7 @@ english = "Good news, Atleia! Our Hero says yes.<end>"
 
 ["750051"]
 japanese = "フフフッ…<line-break>じゃあ、<value:$28>、<line-break>待ってるよ。<end>"
-english = ""
+english = "Heh heh heh... Well then, <value:$28>. I'll be waiting.<end>"
 
 ["750052"]
 japanese = "ありがとうございます。<line-break>どうか、よろしくお願いいたします。<line-break><value:$28>様。<end>"
@@ -246,7 +246,7 @@ english = "You really are cold, aren't you? Honestly, I'm disappointed. Heh heh.
 
 ["750061"]
 japanese = "まあ、また来てよ。<line-break>気が変わるってこともあるだろうしさ。<end>"
-english = ""
+english = "Well, come back sometime. You might change your mind.<end>"
 
 ["750062"]
 japanese = "アトレイア王女、<line-break>この人に頼んだんだ。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>この<value:$28>こそが、<line-break>きっと君に色惑の瞳を…光を<line-break>持ってきてくれるはずさ。<end>"
@@ -258,7 +258,7 @@ english = "Is that so...? <value:$28>, please... I'm counting on you.<end>"
 
 ["750064"]
 japanese = "それでは、王女様。<line-break>僕は<value:$28>を<line-break>王宮の外まで送ります。<end>"
-english = ""
+english = "Well then, Your Highness. I shall escort <value:$28> out of the palace.<end>"
 
 ["750065"]
 japanese = "じゃあ、よろしく頼んだよ。<line-break><value:$28>。<end>"
@@ -266,11 +266,11 @@ english = "Then I'm counting on you, <value:$28>.<end>"
 
 ["750066"]
 japanese = "彼女に光を。<line-break>彼女の願い、かなえてほしい。<line-break>待ってるから…。<line-break>じゃあね。<line-break><value:$28>。<end>"
-english = ""
+english = "Give her light. Please grant her wish. I'll be waiting... Bye, <value:$28>.<end>"
 
 ["750067"]
 japanese = "（おかしいな。迷ったかな）<end>"
-english = ""
+english = "(This is strange. Did I get lost?)<end>"
 
 ["750068"]
 japanese = "未使用：（出口だ…。）<end>"
@@ -298,11 +298,11 @@ english = "So, about what we discussed before... Have you thought it over? To br
 
 ["750074"]
 japanese = "引き受ける<end>"
-english = ""
+english = "Accept<end>"
 
 ["750075"]
 japanese = "引き受けない<end>"
-english = ""
+english = "Decline<end>"
 
 ["750076"]
 japanese = "ありがとう、<value:$28>。<line-break>君ならきっとやってくれるって\u3000\u3000<line-break>信じてたよ。<line-break>じゃあ、さっそくで悪いんだけど、<line-break>それ、もらっちゃうね。<end>"
@@ -310,35 +310,35 @@ english = "Thank you, <value:$28>. I knew you could do it. Sorry to do this righ
 
 ["750077"]
 japanese = "フフフフッ…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>じゃあ、<value:$28>、<line-break>待ってるよ。<end>"
-english = ""
+english = "Heh heh heh heh... Well then, <value:$28>. I'll be waiting.<end>"
 
 ["750078"]
 japanese = "どうか、お願いいたします。<line-break><value:$28>さん。<end>"
-english = ""
+english = "Please, <value:$28>.<end>"
 
 ["750079"]
 japanese = "それでは、王女様。<line-break>僕は<value:$28>を<line-break>王宮の外まで送ります。<end>"
-english = ""
+english = "Well then, Your Highness. I shall escort <value:$28> out of the palace.<end>"
 
 ["750080"]
 japanese = "彼女に光を。<line-break>彼女の願い、かなえてほしい。<line-break>待ってるから。<line-break>じゃあね。<line-break><value:$28>。<end>"
-english = ""
+english = "Give her light. Please grant her wish. I'll be waiting. Bye, <value:$28>.<end>"
 
 ["750081"]
 japanese = "そう…ですか。<line-break>残念です。<end>"
-english = ""
+english = "I... see. That's a shame.<end>"
 
 ["750082"]
 japanese = "アトレイア、気を落とさないで。<line-break><value:$28>も気が変わって<line-break>引き受けてくれることもあるだろうし。<end>"
-english = ""
+english = "Don't be too discouraged, Atleia. <value:$28> may change course and agree to help after all.<end>"
 
 ["750083"]
 japanese = "それでは、王女様。<line-break>僕は<value:$28>を<line-break>王宮の外まで送ります。<end>"
-english = ""
+english = "Well then, Your Highness. I shall escort <value:$28> out of the palace.<end>"
 
 ["750084"]
 japanese = "…ホント、冷たい人だね、君って。<line-break>正直、ガッカリだよ。<line-break>\u3000<line-break>フフフ、でも、あの娘なら、<line-break>やってくれそうだな…。<end>"
-english = ""
+english = "You really are cold, aren't you? Honestly, I'm disappointed. Heh heh... Still, that girl looks like she might do it...<end>"
 
 ["750085"]
 japanese = "まあ、また来てよ。<line-break>気が変わるってこともあるだろうしさ。<end>"
@@ -350,91 +350,91 @@ english = "Lady Atleia, your hero has brought the light.<end>"
 
 ["750087"]
 japanese = "きゃっ。<end>"
-english = ""
+english = "Ah!<end>"
 
 ["750088"]
 japanese = "…あなたの光を望む願い、<line-break>かないましたか？<end>"
-english = ""
+english = "...Has your wish for light been granted?<end>"
 
 ["750089"]
 japanese = "見える…、見えます…！<line-break>私…私…今、見えています！<end>"
-english = ""
+english = "I can see... I can see! I... I can see now!<end>"
 
 ["750090"]
 japanese = "さ、お礼をおっしゃってください。<line-break>光をくれた<value:$28>に。<end>"
-english = ""
+english = "Now, thank <value:$28> for giving you light.<end>"
 
 ["750091"]
 japanese = "あ、ありがとうございます。\u3000<line-break><value:$28>様。<line-break>\u3000<line-break>ご恩は一生忘れません！<line-break>光を、ああ、光を<line-break>本当にありがとうございます！<end>"
-english = ""
+english = "Oh, thank you, <value:$28>. I will never forget your kindness! Thank you for the light―oh, thank you so much for the light!<end>"
 
 ["750092"]
 japanese = "これはお礼だよ。<line-break>ホントにありがとう。<end>"
-english = ""
+english = "This is my way of thanking you. I mean it―thank you.<end>"
 
 ["750093"]
 japanese = "３０００ギア手に入れた。<end>"
-english = ""
+english = "Obtained 3,000 Gea.<end>"
 
 ["750094"]
 japanese = "それでは、僕が<value:$28>様を<line-break>王宮の外までご案内します。<end>"
-english = ""
+english = "Then I'll escort <value:$28> out of the palace.<end>"
 
 ["750095"]
 japanese = "あ、あの…。<end>"
-english = ""
+english = "U-um...<end>"
 
 ["750096"]
 japanese = "フフ、王女様は病弱なんでしょう？<line-break>お静かに。お体に障りますよ？<end>"
-english = ""
+english = "Heh. The princess is frail, isn't she? Be quiet. It could harm her health.<end>"
 
 ["750097"]
 japanese = "は、はい…。<end>"
-english = ""
+english = "Y-yes...<end>"
 
 ["750098"]
 japanese = "さ、行こう？<line-break><value:$28>。<end>"
-english = ""
+english = "Shall we go, <value:$28>?<end>"
 
 ["750099"]
 japanese = "あ、あの…。<end>"
-english = ""
+english = "Um, excuse me...<end>"
 
 ["750100"]
 japanese = "あの、よろしければ…その<line-break>また、いらしてくださいませんか？<end>"
-english = ""
+english = "Um, if you wouldn't mind... would you come again sometime?<end>"
 
 ["750101"]
 japanese = "アトレイア王女、君は純真だね。\u3000\u3000<line-break>だけど、君のそういう行動を見て<line-break>他人はこう思うかもしれない。<line-break>…ちょっと親切にしてやったら<line-break>すぐなついてきた。さもしいことだ。<line-break>これだからさびしい奴は…てね。<end>"
-english = ""
+english = "Princess Atleia, you are so innocent. But others might see your behavior and think this: “Be kind to her once and she clings to you right away. How pathetic. That's what lonely people are like...”<end>"
 
 ["750102"]
 japanese = "君はそう思うかい？<line-break><value:$28>。<end>"
-english = ""
+english = "Is that what you think, <value:$28>?<end>"
 
 ["750103"]
 japanese = "フフ、残酷だなあ。君って。<line-break>\u3000<line-break>\u3000<line-break>ま、世界というのは<line-break>目を開けてみれば<line-break>結構、汚い所なんだけどさ。<end>"
-english = ""
+english = "Heh. You're cruel, aren't you? Still, once you open your eyes, the world is quite a dirty place.<end>"
 
 ["750104"]
 japanese = "フフ、やさしいんだなあ。<line-break>君って。<end>"
-english = ""
+english = "Heh. You're kind, aren't you?<end>"
 
 ["750105"]
 japanese = "…うれしい…です。<end>"
-english = ""
+english = "...I'm happy.<end>"
 
 ["750106"]
 japanese = "ま、アトレイア王女もああ言ってるし、<line-break>君もたまには顔を出してよ。<end>"
-english = ""
+english = "Well, you heard Princess Atleia. Drop by once in a while.<end>"
 
 ["750107"]
 japanese = "それでは、王女様<line-break>失礼いたします。<end>"
-english = ""
+english = "Well then, Your Highness, if you'll excuse me.<end>"
 
 ["750108"]
 japanese = "今日は本当にありがとう。<line-break>これで彼女に世界を見せてあげられる。<line-break>\u3000<line-break>悲しみと憎悪に彩られた世界をね。<line-break>くすっ、あははは！<line-break>ホント、ありがとうね！<end>"
-english = ""
+english = "Thank you so much for today. Now I can show her the world―a world steeped in sorrow and hatred. Heh heh... Ahahahaha! Thank you, truly!<end>"
 
 ["750109"]
 japanese = "不使用メッセージ<end>"
@@ -454,315 +454,315 @@ english = ""
 
 ["750113"]
 japanese = "こらあ、<value:$28>！<line-break>フゴーの所で何を売るつもりなの？\u3000\u3000<line-break>\u3000<line-break>まさか、あのお姫様を助けるために<line-break>取ってきた色惑の瞳って宝石を<line-break>売り飛ばすつもりじゃないでしょうね。<end>"
-english = ""
+english = "Hey, <value:$28>! What are you planning to sell to Hugo? You aren't thinking of selling off the Eye of Allure you brought back to help that princess, are you?<end>"
 
 ["750114"]
 japanese = "そのつもりだ。<end>"
-english = ""
+english = "That's exactly what I intend to do.<end>"
 
 ["750115"]
 japanese = "そんなつもりはない。<end>"
-english = ""
+english = "I have no intention of doing that.<end>"
 
 ["750116"]
 japanese = "なんで、そんなひどいことができるの？<line-break>あんなにやさしい人間だったのに！<line-break>\u3000<line-break>とにかく、そんなこと絶対に<line-break>この私が許さないんだから！<line-break>ほぉら！\u3000ここから出ていくの！<end>"
-english = ""
+english = "How can you do something so cruel? You used to be so kind! In any case, I absolutely won't allow it! Come on! Get out of here!<end>"
 
 ["750117"]
 japanese = "じゃ、なんでこんな所にいるのよ。<line-break>ほぉら！\u3000ここから出ていくの！<end>"
-english = ""
+english = "Then what are you doing here? Come on! Get out of here!<end>"
 
 ["750118"]
 japanese = "もう！\u3000いい？\u3000その色惑の瞳は<line-break>ちゃんとお姫様に渡すの。わかった？<end>"
-english = ""
+english = "Honestly! Listen: make sure you give that Eye of Allure to the princess. Understand?<end>"
 
 ["750119"]
 japanese = "待ってよ、<value:$28>。<line-break>フゴーの所で何を売るつもりなの？<line-break>\u3000<line-break>まさか、あのお姫様を助けるために<line-break>取ってきた色惑の瞳って宝石を<line-break>売り飛ばすつもりじゃないよね。<end>"
-english = ""
+english = "Wait, <value:$28>. What are you planning to sell to Hugo? You aren't thinking of selling off the Eye of Allure you brought back to help that princess, are you?<end>"
 
 ["750120"]
 japanese = "どうしてそんなひどいことができるの？<line-break>あのお姫様がかわいそうじゃない！<line-break>\u3000<line-break>僕、そんなこと絶対に許せないよ！<line-break>絶対、フゴーの家に入れない！<line-break>さ、行くんだ！<end>"
-english = ""
+english = "How could you do something so cruel? That poor princess! I will never forgive this! I won't let you into Hugo's house! Now, get going!<end>"
 
 ["750121"]
 japanese = "よかった…。<line-break>じゃ、別の所に行こうよ。ね？<end>"
-english = ""
+english = "What a relief... Let's go somewhere else, all right?<end>"
 
 ["750122"]
 japanese = "…とにかく\u3000その色惑の瞳は<line-break>ちゃんとお姫様に渡そうよ。ね？<end>"
-english = ""
+english = "Anyway, let's make sure that Eye of Allure gets to the princess. All right?<end>"
 
 ["750123"]
 japanese = "こぉらあ、<value:$28>！<line-break>フゴーの所で何を売る気なのぉ？\u3000\u3000\u3000<line-break>\u3000<line-break>まさか、あのお姫様を助けるために<line-break>取ってきた色惑の瞳って宝石を<line-break>売り飛ばすつもりじゃないでしょうね。<end>"
-english = ""
+english = "Heeey, <value:$28>! What are you planning to sell to Hugo? You aren't thinking of selling off the Eye of Allure you brought back to help that princess, are you?<end>"
 
 ["750124"]
 japanese = "ひっどーいよぉ！\u3000それって、<line-break>あのお姫様をだましてるんだよぉ！\u3000\u3000<line-break>\u3000<line-break>お姫様、かわいそうだよぉ！<line-break>ルルアンタ、そんなの絶対に許せない！<line-break>ほら！\u3000ここから出ていくのぉ！<end>"
-english = ""
+english = "That's awful! You're deceiving that princess! I feel so sorry for her! Lulluantha will never allow that! Come on! Get out of here!<end>"
 
 ["750125"]
 japanese = "じゃ、なんでこんな所にいるのよ？<line-break>ほら！\u3000ここから出ていくのぉ！<end>"
-english = ""
+english = "Then why are you here? Come on! Get out of here!<end>"
 
 ["750126"]
 japanese = "もう！\u3000いい？\u3000その宝石はぁ、<line-break>ちゃんとお姫様に渡すんだよぉ！<end>"
-english = ""
+english = "Honestly! Listen: make sure you give that jewel to the princess!<end>"
 
 ["750127"]
 japanese = "…<value:$28>、<line-break>フゴーの所で何か売るつもりなの？<line-break>\u3000<line-break>まさか、あのお姫様を助けるために<line-break>取ってきた色惑の瞳って宝石を<line-break>売り飛ばすつもりじゃないよ、ね？<end>"
-english = ""
+english = "...<value:$28>, are you planning to sell something to Hugo? You aren't thinking of selling off the Eye of Allure you brought back to help that princess, are you?<end>"
 
 ["750128"]
 japanese = "…う、うそだよ、そんなの！<line-break>だって、お姫様、かわいそうじゃない！<line-break>\u3000<line-break>そんなひどいこと、キミはしないよね。<line-break>冗談だよね？\u3000ここに用はないんだよ。<line-break>さ、別の所に行こうよ！<end>"
-english = ""
+english = "N-no, you can't mean that! That poor princess! You wouldn't do something so cruel, would you? This is a joke, right? We have no business here. Come on, let's go somewhere else!<end>"
 
 ["750129"]
 japanese = "そうだよね。うん。キミなら当然だよ。<line-break>じゃ、別の所に行こうよ。ね？<end>"
-english = ""
+english = "Of course. I knew you wouldn't. Let's go somewhere else, all right?<end>"
 
 ["750130"]
 japanese = "その色惑の瞳はちゃんとお姫様に渡す。<line-break>そうだよね、<value:$28>？<end>"
-english = ""
+english = "You'll give the Eye of Allure to the princess. That's right, <value:$28>?<end>"
 
 ["750131"]
 japanese = "…待て。<line-break>フゴーに何を売る気だ？\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>…お姫様を助けるためと言って<line-break>取ってきた色惑の瞳という宝石を<line-break>売り飛ばすつもりか？<end>"
-english = ""
+english = "...Hold it. What do you intend to sell to Hugo? Are you planning to sell off the Eye of Allure you claimed to have retrieved to help the princess?<end>"
 
 ["750132"]
 japanese = "…つまり、<line-break>俺たちをだましたのか？\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>お姫様を救うという言葉で<line-break>お前が俺たちをだましてないなら<line-break>ここからすぐに立ち去れ。<end>"
-english = ""
+english = "...So you deceived us? If you weren't lying to us when you said you would save the princess, leave this place at once.<end>"
 
 ["750133"]
 japanese = "…さもなくば。<end>"
-english = ""
+english = "...Otherwise.<end>"
 
 ["750134"]
 japanese = "…自分の言った言葉に<line-break>責任をとってもらう。<end>"
-english = ""
+english = "...You will answer for your own words.<end>"
 
 ["750135"]
 japanese = "…そうか。<end>"
-english = ""
+english = "...I see.<end>"
 
 ["750136"]
 japanese = "…ならば、それを態度で示せ。<line-break>ここからすぐに立ち去れ。<end>"
-english = ""
+english = "...Then prove it with your actions. Leave this place at once.<end>"
 
 ["750137"]
 japanese = "フゴーの所で<line-break>何を売るつもりなんだい。<end>"
-english = ""
+english = "What are you planning to sell to Hugo?<end>"
 
 ["750138"]
 japanese = "まさか、あの色惑の瞳って宝石を<line-break>売り飛ばすつもりじゃないよな。<end>"
-english = ""
+english = "You aren't planning to sell off that Eye of Allure, are you?<end>"
 
 ["750139"]
 japanese = "お姫様を助けるんだって話は<line-break>じゃあ、なんだったんだい？<line-break>\u3000<line-break>俺たちをだましてまで<line-break>金が欲しかったのかい？<line-break>ゲスだねえ。<end>"
-english = ""
+english = "Then what was all that talk about helping the princess? Did you want money badly enough to deceive us? How low.<end>"
 
 ["750140"]
 japanese = "ま、考えられる理由は\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>もうひとつあるな…。<line-break>\u3000<line-break>色惑の瞳は確かに<line-break>強力過ぎる力を持つ魔道器だ。<line-break>これを誰かに渡していいかってことだ。<end>"
-english = ""
+english = "Well, there is one other possible reason... The Eye of Allure is certainly a magical device with power far too great. The question is whether it is right to hand it over to anyone.<end>"
 
 ["750141"]
 japanese = "その点、フゴーに売っちまえば<line-break>警備状態のいいフゴーの倉なら<line-break>魔人からでもアレを守れるだろう。\u3000\u3000<line-break>だが、それにしても気に入らんな。<line-break>どうにも、事なかれ主義で<line-break>大上段からものを見過ぎてないか？<end>"
-english = ""
+english = "If you sell it to Hugo, his well-guarded storehouse could keep it safe even from a demon. Still, I don't like it. Aren't you being too high-minded and too eager to avoid trouble?<end>"
 
 ["750142"]
 japanese = "フゴーに売れば、アトレイア王女から<line-break>永遠に光を得る機会を奪うことになる。<line-break>それはいいことなのか？<line-break>たとえ、それが、世界に降りかかる<line-break>災いを防止するための処置だったとして<line-break>それは許されることなのか？<end>"
-english = ""
+english = "Selling it to Hugo would forever rob Princess Atleia of her chance to see. Is that right? Even if it would prevent a calamity from befalling the world, can that truly be justified?<end>"
 
 ["750143"]
 japanese = "俺の答えはノーだ。俺は欲張りでな。<line-break>アトレイア王女も助けるし、世界にも<line-break>災いが降りかからないようにする。<end>"
-english = ""
+english = "My answer is no. I'm greedy: I will save Princess Atleia and keep calamity from befalling the world.<end>"
 
 ["750144"]
 japanese = "災いを防止する方法ならあるさ。<line-break>アトレイア王女の所に足しげく通って<line-break>そのあとのことに目を光らせるとかな。<line-break>…てなわけで、他に反対理由がなければ<line-break>アトレイア王女に色惑の瞳を<line-break>渡すべきだと思うが、どうだ？<end>"
-english = ""
+english = "There is a way to prevent calamity. Keep visiting Princess Atleia and keep a close watch on what happens afterward. So, unless you have another reason to object, I say we should give the Eye of Allure to Princess Atleia. What do you say?<end>"
 
 ["750145"]
 japanese = "いい子だ。<end>"
-english = ""
+english = "Good.<end>"
 
 ["750146"]
 japanese = "じゃ、そこには用はないな。<line-break>別の所に行くといい。<line-break>\u3000<line-break>俺はお前が行くまで<line-break>見張ってることにする。<end>"
-english = ""
+english = "Then you have no business there. Go somewhere else. I'll keep watch until you do.<end>"
 
 ["750147"]
 japanese = "色惑の瞳、フゴーに売る気なの？<line-break>君が根っからゲスなのか。<line-break>それとも僕を信用できないのか…。<line-break>ま、どっちかわからないけど。<line-break>とにかく契約違反は許せないな。<end>"
-english = ""
+english = "You mean to sell the Eye of Allure to Hugo? Are you rotten to the core, or do you not trust me? I can't say which. Either way, I cannot forgive a breach of contract.<end>"
 
 ["750148"]
 japanese = "確かに色惑の瞳、受け取ったよ。<line-break>これでアトレイアに光が与えられる。\u3000<line-break>\u3000<line-break>アトレイアには君の契約違反は<line-break>黙っていてあげるよ。<line-break>そのかわり、報酬はなし、ね。アハハ！<end>"
-english = ""
+english = "I have received the Eye of Allure. Now Atleia can be given light. I'll keep your breach of contract from Atleia. But you will receive no reward. Hahaha!<end>"
 
 ["750149"]
 japanese = "ちょいと待ちな。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>そこの悪党！<line-break>\u3000<line-break>忘れられた王女を救うはずの<line-break>色惑の瞳…それをフゴーに売って<line-break>もうけようとは言語道断…。<end>"
-english = ""
+english = "Hold it right there, villain! To sell the Eye of Allure, which was meant to save the forgotten princess, to Hugo for profit is utterly unforgivable...<end>"
 
 ["750150"]
 japanese = "忘れられた王女の悲しみの<line-break>声にならない雄叫びが<line-break>悪を倒せと俺様を呼ぶ！<end>"
-english = ""
+english = "The voiceless cry of the forgotten princess's sorrow calls upon me to defeat evil!<end>"
 
 ["750151"]
 japanese = "そう！\u3000俺様は最高の人生の伴侶を得て<line-break>世界最強の幸せ者、ガルドランだ！<end>"
-english = ""
+english = "That's right! I am Girldlan, the happiest man in the world, for I have found the finest partner in life!<end>"
 
 ["750152"]
 japanese = "おうっ！\u3000なんということだ！<line-break>悪党の正体がお姉さまだったなんて！\u3000<line-break>\u3000<line-break>しかし、たとえ、相手がお姉さまでも<line-break>悪を見逃すわけにはまいりません！！<line-break>俺様の正義の槍を受けてもらいます！<end>"
-english = ""
+english = "Oh! What is this? The villain was my dear sister! Still, even if it is you, Sister, I cannot let evil go unpunished! Receive my spear of justice!<end>"
 
 ["750153"]
 japanese = "おうっ！\u3000なんということだ！<line-break>悪党の正体がお姉さまだったなんて！<end>"
-english = ""
+english = "Oh! What is this? The villain was my dear sister!<end>"
 
 ["750154"]
 japanese = "お姉さま。報告が遅れまして\u3000\u3000\u3000\u3000\u3000<line-break>まことに申しわけありません！<line-break>\u3000<line-break>この俺様ガルドランはルフレンちゃんと<line-break>このたび、結婚いたしました。<line-break>２人で幸せな家庭を築く所存です！<end>"
-english = ""
+english = "Sister, I am terribly sorry to have delayed my report! I, Girldlan, have married dear Lufren. We intend to build a happy home together!<end>"
 
 ["750155"]
 japanese = "さて！\u3000たとえ、相手がお姉さまでも<line-break>悪を見逃すわけにはまいりません！！<line-break>俺様の正義の槍を受けてもらいます！<end>"
-english = ""
+english = "Now then! Even if it is you, Sister, I cannot let evil go unpunished! Receive my spear of justice!<end>"
 
 ["750156"]
 japanese = "悪党め。新婚の勇者である俺様に<line-break>倒されることを幸せに思うがいい！<end>"
-english = ""
+english = "Villain, consider it an honor to be defeated by me, a newlywed hero!<end>"
 
 ["750157"]
 japanese = "説明しよう！\u3000この俺様ガルドランは、<line-break>アミラルの宿屋の娘、かわいい<line-break>ルフレンちゃんと結婚したのだ！\u3000<line-break>さあ、説明はここまでだ。<line-break>悪党め。新婚の勇者である俺様に<line-break>倒されることを幸せに思うがいい！<end>"
-english = ""
+english = "Allow me to explain! I, Girldlan, have married dear Lufren, the innkeeper's daughter in Amiral! And now the explanation is over. Villain, consider it an honor to be defeated by me, a newlywed hero!<end>"
 
 ["750158"]
 japanese = "バ、バカな。この俺様が負ける…？<line-break>いや、そんなはずはない！<line-break>我が最愛の妻ルフレンよ！\u3000我に力を！<end>"
-english = ""
+english = "I-impossible. I, of all people, have lost...? No, that cannot be! My beloved wife, Lufren! Grant me strength!<end>"
 
 ["750159"]
 japanese = "フフッ、ガルドランじゃ、<line-break>やっぱり無理だったよね。アハハ！<end>"
-english = ""
+english = "Heh heh. I knew Girldlan could not handle it. Hahaha!<end>"
 
 ["750160"]
 japanese = "言ったはず…ルフレンちゃんと結婚した<line-break>俺様は最強だと！！<end>"
-english = ""
+english = "I told you... I am invincible now that I have married dear Lufren!!<end>"
 
 ["750161"]
 japanese = "これか？\u3000悲しみの王女の<line-break>求めし色惑の瞳とは！？<end>"
-english = ""
+english = "Is this it? The Eye of Allure sought by the sorrowful princess!?<end>"
 
 ["750162"]
 japanese = "そうだよ。ありがとう。<line-break>勇者様！<end>"
-english = ""
+english = "That is it. Thank you, Hero!<end>"
 
 ["750163"]
 japanese = "礼には及ばない。<line-break>俺様は悪ある所必ず現れるのだ！<line-break>\u3000<line-break>では、さらばだ！<line-break>世界中が俺様を呼んでるぜ！<line-break>でやっ！<end>"
-english = ""
+english = "Think nothing of it. I appear wherever evil is found! Farewell! The whole world is calling for me! Hyah!<end>"
 
 ["750164"]
 japanese = "俺様はガルドラン改・激・烈！！<line-break>暗闇の中の王女の光を奪う悪党め！<line-break>\u3000<line-break>この世に正義がある限り、いやさ<line-break>俺様がある限り、色惑の瞳を<line-break>売り飛ばさせはせん！\u3000いくぞ！<end>"
-english = ""
+english = "I am Girldlan Revised: Fierce and Furious!! Villain, you would steal the light of a princess in darkness! So long as justice exists in this world―no, so long as I exist―I will not let you sell the Eye of Allure! Here I come!<end>"
 
 ["750165"]
 japanese = "バ、バカな。<line-break>この俺様が負ける…？\u3000\u3000\u3000<line-break>\u3000<line-break>いや、そんなはずはない！<line-break>そんなはずはない！！！<line-break>そんなはずはないんだあ！！<end>"
-english = ""
+english = "I-impossible. I, of all people, have lost...? No, that cannot be! It cannot be! It cannot be!!!<end>"
 
 ["750166"]
 japanese = "フフッ、ガルドランじゃ、<line-break>やっぱり無理だったよね。アハハ！<end>"
-english = ""
+english = "Heh heh. I knew Girldlan could not handle it. Hahaha!<end>"
 
 ["750167"]
 japanese = "ふん！！<line-break>味わったか、俺の正義の熱い魂を！<end>"
-english = ""
+english = "Hmph!! Have you felt the blazing soul of my justice?<end>"
 
 ["750168"]
 japanese = "これか？\u3000悲しみの王女の<line-break>求めし色惑の瞳とは！？<end>"
-english = ""
+english = "Is this it? The Eye of Allure sought by the sorrowful princess!?<end>"
 
 ["750169"]
 japanese = "そうだよ。ありがとう。<line-break>勇者様！<end>"
-english = ""
+english = "That is it. Thank you, Hero!<end>"
 
 ["750170"]
 japanese = "礼には及ばない。<line-break>俺様は悪ある所必ず現れるのだ！<line-break>\u3000<line-break>では、さらばだ！<line-break>世界中が俺様を呼んでるぜ！<line-break>でやっ！<end>"
-english = ""
+english = "Think nothing of it. I appear wherever evil is found! Farewell! The whole world is calling for me! Hyah!<end>"
 
 ["750171"]
 japanese = "俺様はガルドラン改・激！！<line-break>暗闇の中の王女の光を奪う悪党め！<line-break>\u3000<line-break>この世に正義がある限り、いやさ<line-break>俺様がある限り、色惑の瞳を<line-break>売り飛ばさせはせん！\u3000いくぞ！<end>"
-english = ""
+english = "I am Girldlan Revised: Fierce!! Villain, you would steal the light of a princess in darkness! So long as justice exists in this world―no, so long as I exist―I will not let you sell the Eye of Allure! Here I come!<end>"
 
 ["750172"]
 japanese = "き、貴様は我が永遠のライバル…！<line-break>くっ、まだ強化完了していないのに！\u3000<line-break>\u3000<line-break>今は、まだ決戦の時ではない！！<line-break>貴様が悪事をくり返すのを放っとくのは<line-break>心が痛むが、さらば、我が永遠の宿敵！<end>"
-english = ""
+english = "Y-you are my eternal rival...! Damn it, I have not finished upgrading yet! This is not yet the time for our final showdown!! It pains me to leave you free to repeat your evil deeds, but farewell, my eternal nemesis!<end>"
 
 ["750173"]
 japanese = "フフッ、ガルドランじゃ、<line-break>やっぱり無理だったよね。アハハ！<end>"
-english = ""
+english = "Heh heh. I knew Girldlan could not handle it. Hahaha!<end>"
 
 ["750174"]
 japanese = "俺様は未来の勇者ガルドラン！！<line-break>暗闇の中の王女の光を奪う悪党め！<line-break>\u3000<line-break>この世に正義がある限り、いやさ<line-break>俺様がある限り、色惑の瞳を<line-break>売り飛ばさせはせん！\u3000いくぞ！<end>"
-english = ""
+english = "I am Girldlan, hero of the future!! Villain, you would steal the light of a princess in darkness! So long as justice exists in this world―no, so long as I exist―I will not let you sell the Eye of Allure! Here I come!<end>"
 
 ["750175"]
 japanese = "バ、バカな。<line-break>この俺様が負ける…？\u3000\u3000\u3000<line-break>\u3000<line-break>いや、そんなはずはない！<line-break>そんなはずはない！！！<line-break>そんなはずはないんだあ！！<end>"
-english = ""
+english = "I-impossible. I, of all people, have lost...? No, that cannot be! It cannot be! It cannot be!!!<end>"
 
 ["750176"]
 japanese = "フフッ、ガルドランじゃ、<line-break>やっぱり無理だったよね。アハハ！<end>"
-english = ""
+english = "Heh heh. I knew Girldlan could not handle it. Hahaha!<end>"
 
 ["750177"]
 japanese = "ふん！！<line-break>味わったか、俺の正義の熱い魂を！<end>"
-english = ""
+english = "Hmph!! Have you felt the blazing soul of my justice?<end>"
 
 ["750178"]
 japanese = "これか？\u3000悲しみの王女の<line-break>求めし色惑の瞳とは！？<end>"
-english = ""
+english = "Is this it? The Eye of Allure sought by the sorrowful princess!?<end>"
 
 ["750179"]
 japanese = "そうだよ。ありがとう。<line-break>勇者様！<end>"
-english = ""
+english = "That is it. Thank you, Hero!<end>"
 
 ["750180"]
 japanese = "礼には及ばない。<line-break>俺様は悪ある所必ず現れるのだ！<line-break>\u3000<line-break>では、さらばだ！<line-break>世界中が俺様を呼んでるぜ！<line-break>でやっ！<end>"
-english = ""
+english = "Think nothing of it. I appear wherever evil is found! Farewell! The whole world is calling for me! Hyah!<end>"
 
 ["750181"]
 japanese = "俺様は未来の勇者ガルドラン！！<line-break>暗闇の中の王女の光を奪う悪党め！<line-break>\u3000<line-break>この世に正義がある限り、いやさ<line-break>俺様がある限り、色惑の瞳を<line-break>売り飛ばさせはせん！\u3000いくぞ！<end>"
-english = ""
+english = "I am Girldlan, hero of the future!! Villain, you would steal the light of a princess in darkness! So long as justice exists in this world―no, so long as I exist―I will not let you sell the Eye of Allure! Here I come!<end>"
 
 ["750182"]
 japanese = "バ、バカな。<line-break>この俺様が負ける…？\u3000\u3000\u3000<line-break>\u3000<line-break>いや、そんなはずはない！<line-break>そんなはずはない！！！<line-break>そんなはずはないんだあ！！<end>"
-english = ""
+english = "I-impossible. I, of all people, have lost...? No, that cannot be! It cannot be! It cannot be!!!<end>"
 
 ["750183"]
 japanese = "フフッ、ガルドランじゃ、<line-break>やっぱり無理だったよね。アハハ！<end>"
-english = ""
+english = "Heh heh. I knew Girldlan could not handle it. Hahaha!<end>"
 
 ["750184"]
 japanese = "ふん！！<line-break>味わったか、俺の正義の熱い魂を！<end>"
-english = ""
+english = "Hmph!! Have you felt the blazing soul of my justice?<end>"
 
 ["750185"]
 japanese = "これか？\u3000悲しみの王女の<line-break>求めし色惑の瞳とは！？<end>"
-english = ""
+english = "Is this it? The Eye of Allure sought by the sorrowful princess!?<end>"
 
 ["750186"]
 japanese = "そうだよ。ありがとう。<line-break>勇者様！<end>"
-english = ""
+english = "That is it. Thank you, Hero!<end>"
 
 ["750187"]
 japanese = "礼には及ばない。<line-break>俺様は悪ある所必ず現れるのだ！<line-break>\u3000<line-break>では、さらばだ！<line-break>世界中が俺様を呼んでるぜ！<line-break>でやっ！<end>"
-english = ""
+english = "Think nothing of it. I appear wherever evil is found! Farewell! The whole world is calling for me! Hyah!<end>"
 
 ["750188"]
 japanese = "役立たずだけど、使いたくなる\u3000\u3000\u3000<line-break>奴だよねえ。ガルドランって。<line-break>\u3000<line-break>ちょっと、こういうことがあるよって<line-break>吹き込んでやったら、あのザマさ。<line-break>熱いよねえ？\u3000アハハハ！<end>"
-english = ""
+english = "He is useless, but you cannot help wanting to use him, can you? Girldlan, I mean. I merely planted the idea that something like this might happen, and look at him. He is so passionate, is he not? Hahaha!<end>"
 
 ["750189"]
 japanese = "…でさ、色惑の瞳、売る気だったの？<line-break>君が根っからゲスなのか。<line-break>それとも僕を信用できないのか…。<line-break>ま、どっちかわからないけど。<line-break>とにかく契約違反は許せないな。<end>"
-english = ""
+english = "You mean to sell the Eye of Allure to Hugo? Are you rotten to the core, or do you not trust me? I can't say which. Either way, I cannot forgive a breach of contract.<end>"
 
 ["750190"]
 japanese = "確かに色惑の瞳、受け取ったよ。<line-break>これでアトレイアに光が与えられる。\u3000<line-break>\u3000<line-break>アトレイアには君の契約違反は<line-break>黙っていてあげるよ。<line-break>そのかわり、報酬はなし、ね。アハハ！<end>"
-english = ""
+english = "I have received the Eye of Allure. Now Atleia can be given light. I'll keep your breach of contract from Atleia. But you will receive no reward. Hahaha!<end>"
 
 ["750191"]
 japanese = "…あ、<value:$28>様、<line-break>ようこそ、いらっしゃいました。\u3000<line-break>\u3000<line-break>この間はありがとうございました。<line-break><value:$28>様のおかげで、<line-break>目が見えるようになって…。<end>"

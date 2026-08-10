@@ -50,11 +50,11 @@ english = "<value:$28>, huh? Nice name. I'm Xenetes. Well, good luck out there.<
 
 ["700012"]
 japanese = "おう、<value:$28>。<line-break>久しぶり。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>しっかし、あのときはまいったぜ。<line-break>いきなり金持って姿消すんだからな。\u3000<line-break>俺は酒場で待ちぼうけだ。<end>"
-english = ""
+english = "Hey, <value:$28>. Long time no see. Man, you really got me that time―you suddenly took the money and disappeared. I was left waiting at the tavern.<end>"
 
 ["700013"]
 japanese = "んで、ま、さよならさせてもらった。\u3000<line-break>お前さんとは一緒に冒険できない<line-break>感じがしたんでな。悪いな。<line-break>今日はこの奥にいる闇の怪物退治かい？<line-break>余計なお節介かもしれないが<line-break>強いぜ、あの怪物は。<end>"
-english = ""
+english = "So I decided to say goodbye. I got the feeling we couldn't adventure together. Sorry about that. Here to take down the dark monster farther in today? Maybe it's none of my business, but that thing's strong.<end>"
 
 ["700014"]
 japanese = "なんだ、あんたか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>また会ったな。<line-break>\u3000<line-break>今日はこの奥の怪物退治かい？<line-break>余計なお節介かもしれないが<line-break>強いぜ、あの怪物は。<end>"
@@ -118,63 +118,63 @@ english = "All right. Good luck, then.<end>"
 
 ["700029"]
 japanese = "確かに世界は広い。じゃが、<line-break>この広い世界にお前の居場所はない。<line-break>\u3000<line-break>人間どもにとって<line-break>お前は恐怖以外の何ものでもない。<line-break>\u3000<end>"
-english = ""
+english = "The world is vast, that much is true. But in all this vast world, there is no place for you. To humans, you are nothing but an object of fear.<end>"
 
 ["700030"]
 japanese = "お前が、住むべきわずかな場所と、\u3000<line-break>生きていくのに必要なだけの<line-break>肉を求めたとしても、<line-break>奴らの頭の中では、<line-break>お前は凶悪な侵略者でしかない。<line-break>\u3000<end>"
-english = ""
+english = "You may seek only some small place to live and enough meat to survive, but in their minds, you will be nothing more than a vicious invader.<end>"
 
 ["700031"]
 japanese = "奴らはお前の力に嫉妬し、恐怖し、\u3000<line-break>憎悪し、そしてお前を殺しに来る。<line-break>\u3000<end>"
-english = ""
+english = "Your power fills them with envy, fear, and hatred, and they come to kill you.<end>"
 
 ["700032"]
 japanese = "お前が身を守れば、お前は奴らの<line-break>敵だったことが証明される。<line-break>\u3000<line-break>かくて、正義の名の下に<line-break>奴らの刃がお前を襲う。<line-break>…つぎつぎとな。<end>"
-english = ""
+english = "If you defend yourself, they will take it as proof that you were their enemy. And so, in the name of justice, their blades will fall upon you... one after another.<end>"
 
 ["700033"]
 japanese = "そうじゃ。なれば、<line-break>地上から奴らを消せばいい。\u3000\u3000\u3000<line-break>\u3000<line-break>奴らがお前にすることを<line-break>ただ、やり返してやればいい。<line-break>\u3000<end>"
-english = ""
+english = "Yes. Then you need only wipe them from the face of the earth. Simply do to them what they would do to you.<end>"
 
 ["700034"]
 japanese = "奴らが正しいならば、<line-break>お前にはそれ以上の正当性がある。<line-break>\u3000<end>"
-english = ""
+english = "If they are in the right, then your cause is more just still.<end>"
 
 ["700035"]
 japanese = "そら、お前を殺そうとして<line-break>凶悪な冒険者がやってきおった。<line-break>\u3000<line-break>まず、奴らを血祭りに上げよ。<line-break>よいな。<end>"
-english = ""
+english = "See? Vicious adventurers have come to kill you. First, slaughter them. Understand?<end>"
 
 ["700036"]
 japanese = "ま、こいつも、実は<line-break>かわいそうな奴なのかもな。<line-break>\u3000<line-break>んじゃな。<line-break><value:$28>。<line-break>また、会おうぜ。<end>"
-english = ""
+english = "Well, maybe this one is a pitiful creature too. See you, <value:$28>. Let's meet again.<end>"
 
 ["700037"]
 japanese = "確かに世界は広い。じゃが、<line-break>この広い世界にお前の居場所はない。<line-break>\u3000<line-break>人間どもにとって<line-break>お前は恐怖以外の何者でもない。<line-break>\u3000<end>"
-english = ""
+english = "The world is vast, that much is true. But in all this vast world, there is no place for you. To humans, you are nothing but an object of fear.<end>"
 
 ["700038"]
 japanese = "お前が、住むべきわずかな場所と、\u3000<line-break>生きていくのに必要なだけの<line-break>肉を求めたとしても、<line-break>奴らの頭の中では、<line-break>お前は凶悪な侵略者でしかない。<line-break>\u3000<end>"
-english = ""
+english = "You may seek only some small place to live and enough meat to survive, but in their minds, you will be nothing more than a vicious invader.<end>"
 
 ["700039"]
 japanese = "奴らはお前の力に嫉妬し、恐怖し、\u3000<line-break>憎悪し、そしてお前を殺しに来る。<line-break>\u3000<end>"
-english = ""
+english = "Your power fills them with envy, fear, and hatred, and they come to kill you.<end>"
 
 ["700040"]
 japanese = "お前が身を守れば、お前は奴らの<line-break>敵だったことが証明される。<line-break>\u3000<line-break>かくて、正義の名の下に<line-break>奴らの刃がお前を襲う。<line-break>…つぎつぎとな。<end>"
-english = ""
+english = "If you defend yourself, they will take it as proof that you were their enemy. And so, in the name of justice, their blades will fall upon you... one after another.<end>"
 
 ["700041"]
 japanese = "そうじゃ。なれば、<line-break>地上から奴らを消せばいい。\u3000\u3000\u3000<line-break>\u3000<line-break>奴らがお前にすることを<line-break>ただ、やり返してやればいい。<line-break>\u3000<end>"
-english = ""
+english = "Yes. Then you need only wipe them from the face of the earth. Simply do to them what they would do to you.<end>"
 
 ["700042"]
 japanese = "奴らが正しいならば、<line-break>お前にはそれ以上の正当性がある。<line-break>\u3000<end>"
-english = ""
+english = "If they are in the right, then your cause is more just still.<end>"
 
 ["700043"]
 japanese = "そら、お前を殺そうとして<line-break>凶悪な冒険者がやってきおった。<line-break>\u3000<line-break>まず、奴らを血祭りに上げよ。<line-break>よいな。<end>"
-english = ""
+english = "See? Vicious adventurers have come to kill you. First, slaughter them. Understand?<end>"
 
 ["700044"]
 japanese = "<if><value:$29><equal>%0あら、かわいい坊やね。<line-break>くすくす…。<end>あら、かわいいコね。<line-break>くすくす…。<end>"
@@ -910,59 +910,59 @@ english = "You there! Listen when a noble Elf like me is speaking to you! I cann
 
 ["700227"]
 japanese = "あ、<value:$28>。<end>"
-english = ""
+english = "Oh, <value:$28>.<end>"
 
 ["700228"]
 japanese = "セラってさ、それにしても<line-break>きれいな顔してるよね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ボクって長い髪が似合わないし、<line-break>ああいうのって…<line-break>少し、あこがれるかな。<end>"
-english = ""
+english = "Sera really does have a beautiful face, doesn't he? Long hair doesn't suit me, and I suppose I admire that sort of thing a little...<end>"
 
 ["700229"]
 japanese = "なんかさ、たとえが悪いんだけど\u3000\u3000\u3000<line-break>彼、ア－ギルシャイアに似てない？<line-break>\u3000<line-break>妖艶で…、きれいだけど冷酷で…、<line-break>どことなく影があって…。セラが<line-break>女の子だったらああいう感じだろうな。<end>"
-english = ""
+english = "This may be a poor comparison, but doesn't he resemble Argyleshire? Alluring... beautiful but cruel... with a certain darkness about him... If Sera were a girl, I think he'd be like that.<end>"
 
 ["700230"]
 japanese = "やっぱ、夜は冷えるよね。<line-break><value:$28>、中に入らない？<end>"
-english = ""
+english = "It really gets cold at night, doesn't it? Want to go inside, <value:$28>?<end>"
 
 ["700231"]
 japanese = "やあ、<value:$28>…<line-break>ボク、そっち行っても、いい？<end>"
-english = ""
+english = "Hey, <value:$28>... Mind if I come over there?<end>"
 
 ["700232"]
 japanese = "セラやシャリの言葉…<line-break>ボクは役立たずだって言うアレ…<line-break>結構、くるものあるね。<end>"
-english = ""
+english = "What Sera and Shalli said... that I'm useless... It really gets to me.<end>"
 
 ["700233"]
 japanese = "でも、事実だよ。<line-break>ボク、セラほど強くない。\u3000\u3000<line-break>\u3000<line-break>セラは強いし、美しいよ。<line-break>ボクもセラみたいに強くて<line-break>きれいだったらなって思う…。<end>"
-english = ""
+english = "But it's true. I'm not as strong as Sera. Sera is strong, and beautiful. Sometimes I wish I were strong and beautiful like him...<end>"
 
 ["700234"]
 japanese = "なんかさ、たとえが悪いんだけど<line-break>彼、ア－ギルシャイアに似てるよね。\u3000<line-break>\u3000<line-break>妖艶で…、きれいだけど冷酷で…、<line-break>どことなく影があって…。<line-break>セラが女だったら、あんな感じかな。<end>"
-english = ""
+english = "This may be a poor comparison, but Sera resembles Argyleshire, doesn't he? Alluring... beautiful but cruel... with a certain darkness about him... If Sera were a woman, I think he'd be like that.<end>"
 
 ["700235"]
 japanese = "…アーギルシャイアも<line-break>強くてきれいだよね。<line-break>\u3000<line-break>ボク、弱くて、役に立てないくらいなら<line-break>闇に堕ちても、強くなって、<line-break>キミを…守りたい。<end>"
-english = ""
+english = "...Argyleshire is strong and beautiful too, isn't she? If I'm weak and useless, then even if I have to fall into darkness, I want to become strong enough to... protect you.<end>"
 
 ["700236"]
 japanese = "ボク、フレアが道具として<line-break>役に立てないことをあせる気持ち、\u3000\u3000<line-break>よくわかる気がするんだ。<end>"
-english = ""
+english = "I think I understand how Flare feels, being desperate to be useful as a tool.<end>"
 
 ["700237"]
 japanese = "<value:$28>…<line-break>そっち行って…いい？<end>"
-english = ""
+english = "<value:$28>... May I come over there?<end>"
 
 ["700238"]
 japanese = "お星様がきれいだね。<line-break>いつかはお別れする風景。<line-break>だからこそ、いっそういとおしい。<line-break>…しっかりと<line-break>目に焼きつけておかなくちゃ。<line-break>お星様も…、キミの姿もね…。<end>"
-english = ""
+english = "The stars are beautiful. A sight we'll have to leave behind someday. That's why they're all the more precious. I have to etch them into my memory... the stars, and you too...<end>"
 
 ["700239"]
 japanese = "あのさ、セラと<line-break>アーギルシャイアって似てるよね。<end>"
-english = ""
+english = "You know, Sera and Argyleshire are alike, aren't they?<end>"
 
 ["700240"]
 japanese = "何もごまかしてるわけじゃないよ。<line-break>本当に似てるなって思ったんだ。<line-break>\u3000<line-break>じゃね、<value:$28>。<line-break>ボクは中に入ってるよ。<end>"
-english = ""
+english = "I'm not trying to hide anything. I really do think they look alike. Well then, <value:$28>. I'll be going inside.<end>"
 
 ["700241"]
 japanese = "あ、<value:$28><line-break>こんな所にいたんだ。<end>"
@@ -998,43 +998,43 @@ english = "From where I stand, Sera's in a pretty precarious place emotionally. 
 
 ["700249"]
 japanese = "むかつくんだよな。<line-break>あのセラって奴！<line-break>自分は何様のつもりなんだよ！\u3000\u3000\u3000\u3000<line-break>ちっ、ちょっと強くて<line-break>きれいな顔してるからってよ。<line-break>顔がいい奴なんてろくなのがいないぜ。<end>"
-english = ""
+english = "That Sera guy really gets on my nerves! Who does he think he is? Just because he's a little strong and has a pretty face... Guys with good looks are never any good.<end>"
 
 ["700250"]
 japanese = "例えば、アーギルシャイアとかさ。<line-break>そう、アーギルシャイアとセラって<line-break>そっくりだぜ。性格の悪いところもな。<line-break>あー、強くなりてえ！<line-break>あんな奴にバカにされないように\u3000\u3000<line-break>強くなりてよな！<end>"
-english = ""
+english = "Take Argyleshire, for example. Yeah, Argyleshire and Sera are exactly alike―right down to their rotten personalities. Man, I want to get stronger! Strong enough that a guy like him can't look down on me!<end>"
 
 ["700251"]
 japanese = "…<value:$28>、<line-break>最近、セラと仲がいいみたいだな。<end>"
-english = ""
+english = "...<value:$28>, it seems you've been getting along with Sera lately.<end>"
 
 ["700252"]
 japanese = "あのさ、俺、セラについて<line-break>ちょっと気になることがあるんだ。<line-break>\u3000<line-break>セラってさ<line-break>アーギルシャイアに似てないか？<end>"
-english = ""
+english = "You know, there's something about Sera that's been bothering me. Don't you think he resembles Argyleshire?<end>"
 
 ["700253"]
 japanese = "あいつ、絶対、あの魔人と<line-break>何か関わりがある…。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>最悪、奴があの魔人のしもべで<line-break>俺たちをねらってるってことも…。<end>"
-english = ""
+english = "He definitely has some connection to that demon... At worst, he might be that demon's servant, targeting us...<end>"
 
 ["700254"]
 japanese = "無論、最悪の話さ。<line-break>俺もそんな風には思っちゃいない。\u3000\u3000<line-break>\u3000<line-break>だけど、間違いなく、魔人と奴とは<line-break>関わりがある。奴と行動をともにすると<line-break>絶対、魔人と対決することになる。<end>"
-english = ""
+english = "Of course, that's the worst-case scenario. I don't truly believe that. But he definitely has some connection to the demon. If we travel with him, we're bound to face that demon eventually.<end>"
 
 ["700255"]
 japanese = "<value:$28>…<line-break>お前は月からの使者としての\u3000\u3000\u3000\u3000\u3000<line-break>使命があるだろ？<line-break>魔人なんかと関わって、<line-break>使命を達成しないうちに<line-break>命を落とすわけにはいかないだろ？<end>"
-english = ""
+english = "<value:$28>... You have a mission as an emissary from the moon, don't you? You can't get involved with a demon and lose your life before you fulfill it, can you?<end>"
 
 ["700256"]
 japanese = "<value:$28>…、俺だって\u3000\u3000\u3000\u3000<line-break>お前に命を落とさせたくない。<line-break>俺はお前を守りたいんだ。<line-break>セラと一緒に行動するのをやめてくれ。<line-break>奴と関わっていてもロクなことはない。<line-break>奴を仲間から追い出してくれ。<end>"
-english = ""
+english = "<value:$28>... I don't want you to lose your life either. I want to protect you. Stop traveling with Sera. Nothing good will come of associating with him. Make him leave the party.<end>"
 
 ["700257"]
 japanese = "…すまない。<line-break>…お前、アミラルを出てから<line-break>どんどん、変わっていくんだな。<end>"
-english = ""
+english = "...Sorry. Ever since you left Amiral, you've been changing more and more.<end>"
 
 ["700258"]
 japanese = "…ただ、これだけは覚えていてくれ。<line-break>俺は純粋にお前のことが守りたいんだ。<line-break>…お前のことが好きだから、な。<end>"
-english = ""
+english = "...But remember this much. I truly do want to protect you. Because I love you.<end>"
 
 ["700259"]
 japanese = "姉ちゃーん。<end>"
@@ -1066,35 +1066,35 @@ english = "Um, ah... ohhh, I can't make one topic lead into the next...<end>"
 
 ["700266"]
 japanese = "お星様はきれい？<line-break><value:$28>。<end>"
-english = ""
+english = "Are the stars beautiful, <value:$28>?<end>"
 
 ["700267"]
 japanese = "お星様もきれいだけど、<line-break>セラの顔もきれいよねぇ。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>男のくせに、女の子よりも<line-break>きれいなんだもん。<line-break>ちょっと、ムッとしちゃうかもね。<end>"
-english = ""
+english = "The stars are beautiful, but Sera's face is beautiful too, isn't it? He's prettier than any girl, even though he's a man. I suppose that makes me a little jealous.<end>"
 
 ["700268"]
 japanese = "ホントよ。絶対に、彼なら<line-break>あのまま女の子になっても美人よ。\u3000<line-break>\u3000<line-break>ほら、魔人アーギルシャイア！<line-break>あんな感じの妖艶な美女になるわ。<line-break>そう、そういえば彼、そっくりよね。<end>"
-english = ""
+english = "It's true. If he became a woman just as he is, he'd definitely be a beauty. Like Argyleshire, the demon―he'd become that kind of alluring beauty. Come to think of it, they really do look alike.<end>"
 
 ["700269"]
 japanese = "寒いわ…、さすがに夜は冷えるわね。<line-break>中に入らない？<end>"
-english = ""
+english = "I'm cold... Night really is chilly, isn't it? Shall we go inside?<end>"
 
 ["700270"]
 japanese = "よう、星空でも見てるのか？<line-break><value:$28>。<end>"
-english = ""
+english = "Hey, are you looking at the stars, <value:$28>?<end>"
 
 ["700271"]
 japanese = "星空もきれいだけど<line-break>セラの奴もきれいだよな。<end>"
-english = ""
+english = "The stars are beautiful, but that Sera guy is beautiful too, isn't he?<end>"
 
 ["700272"]
 japanese = "ホントだって。あいつが女だったら<line-break>お前だってかなわないほどの美人だぜ。<line-break>\u3000<line-break>そう、魔人アーギルシャイア！<line-break>あんな感じの妖艶な美女になるぜ！<line-break>そういや、奴、そっくりだよな。<end>"
-english = ""
+english = "I'm serious. If he were a woman, he'd be so beautiful even you couldn't compare. Like Argyleshire, the demon―he'd become that kind of alluring beauty! Come to think of it, they really do look alike.<end>"
 
 ["700273"]
 japanese = "い、いや、そういうんじゃなくてだな。<line-break>おーい！\u3000待ってくれよ！<end>"
-english = ""
+english = "N-no, I didn't mean it like that. Hey! Wait for me!<end>"
 
 ["700274"]
 japanese = "ねえ、セラとアーギルシャイアの<line-break>関係って、なんだと思う？<end>"

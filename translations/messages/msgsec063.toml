@@ -138,11 +138,11 @@ english = "This is what you get for defying me! Let it devour you! Die! Hya-ha-h
 
 ["630034"]
 japanese = "よ、正義の味方さん、<line-break>いいところをひとりで<line-break>持っていく気かい？<line-break>俺も手伝わせてもらうぜ。<end>"
-english = ""
+english = "Hey, champion of justice. Think you're going to hog all the glory? Let me lend a hand too.<end>"
 
 ["630035"]
 japanese = "お前っ！\u3000また、お前か！<line-break>ぶっ殺してやるウウウウ！<end>"
-english = ""
+english = "You! You again! I'll kill youuuu!<end>"
 
 ["630036"]
 japanese = "驚きました。<line-break>あなた、すごいんですね。<line-break>本当にありがとうございます。<end>"
@@ -306,7 +306,7 @@ english = "It's only polite to accept it.<end>"
 
 ["630076"]
 japanese = "<value:$28>は３ギアを手に入れた。<end>"
-english = ""
+english = "<value:$28> obtained 3 Gea.<end>"
 
 ["630077"]
 japanese = "さぁて、もう１杯飲んでくるかな。<end>"
@@ -710,71 +710,71 @@ english = "Heh. No need to force yourself. I'll drag you along again. You can lo
 
 ["630177"]
 japanese = "お顔の色がさえぬな。<line-break>何か不安なことでも？<end>"
-english = ""
+english = "You look rather pale. Is something troubling you?<end>"
 
 ["630178"]
 japanese = "レムオン様はティアナのことを<line-break>よくわかってくださるのですね。<line-break>でも、大したことではありません…。<end>"
-english = ""
+english = "You understand me so well, Lord Lemghon. But it's nothing serious...<end>"
 
 ["630179"]
 japanese = "悩みの種はフィアンセ殿だろう？<line-break>また無礼なことを？<end>"
-english = ""
+english = "That fiance of yours is the cause of your worries, isn't he? Has he been rude to you again?<end>"
 
 ["630180"]
 japanese = "ち、違います。無礼などは…。<end>"
-english = ""
+english = "N-no, that's not it. He hasn't been rude...<end>"
 
 ["630181"]
 japanese = "ほう、では何をやらかしたのだ？<end>"
-english = ""
+english = "Oh? Then what has he done?<end>"
 
 ["630182"]
 japanese = "…もう、いいのです。<line-break>あんな人のことなど<line-break>考えたくもありません。<line-break>そうだわ。<line-break>お菓子を焼いたのです。<line-break>今、お出ししますわ。<end>"
-english = ""
+english = "...Never mind. I don't even want to think about him. Oh, that's right―I baked something sweet. I'll bring it out now.<end>"
 
 ["630183"]
 japanese = "悪いがあまり時間がない。<line-break>今日はこれで失礼する。<end>"
-english = ""
+english = "I'm afraid I don't have much time. I'll take my leave for today.<end>"
 
 ["630184"]
 japanese = "まぁ、残念です。<line-break>また、いらっしゃってくださいね。<end>"
-english = ""
+english = "Oh, what a shame. Please come again.<end>"
 
 ["630185"]
 japanese = "<value:$28>様も。<end>"
-english = ""
+english = "You too, <value:$28>.<end>"
 
 ["630186"]
 japanese = "俺には礼はしないのか？<end>"
-english = ""
+english = "Don't I get a proper farewell?<end>"
 
 ["630187"]
 japanese = "礼儀知らずのお方には<line-break>そんな必要はありませんわ。<end>"
-english = ""
+english = "There is no need to show courtesy to someone who has none.<end>"
 
 ["630188"]
 japanese = "くすっ。<line-break>それでよいのです。<end>"
-english = ""
+english = "Hee hee. That's more like it.<end>"
 
 ["630189"]
 japanese = "…あの方もこのくらい、<line-break>素直だったらいいのだけれど…。<end>"
-english = ""
+english = "If only he were this honest...<end>"
 
 ["630190"]
 japanese = "…何か？<end>"
-english = ""
+english = "...What is it?<end>"
 
 ["630191"]
 japanese = "い、いえ…<line-break>あの…。<end>"
-english = ""
+english = "N-no... um...<end>"
 
 ["630192"]
 japanese = "…王女には何か考えごとのようだ。<line-break>わたしたちは引き上げるとしよう。<end>"
-english = ""
+english = "It seems the princess has something on her mind. We should take our leave.<end>"
 
 ["630193"]
 japanese = "…あ…あの、<line-break>…ごめんなさい。<end>"
-english = ""
+english = "I... um... I'm sorry.<end>"
 
 ["630194"]
 japanese = "ご機嫌うるわしゅう、<line-break>ティアナ王女様。<end>"
@@ -946,71 +946,71 @@ english = "How obliging of you. Brace yourself―I'll make you come along again.
 
 ["630236"]
 japanese = "お顔の色がさえぬな。<line-break>何か不安なことでも？<end>"
-english = ""
+english = "You look rather pale. Is something troubling you?<end>"
 
 ["630237"]
 japanese = "レムオン様はティアナのことを<line-break>よくわかってくださるのですね。<line-break>でも、大したことではありません…。<end>"
-english = ""
+english = "You understand me so well, Lord Lemghon. But it's nothing serious...<end>"
 
 ["630238"]
 japanese = "悩みの種はフィアンセ殿だろう？<line-break>また無礼なことを？<end>"
-english = ""
+english = "That fiance of yours is the cause of your worries, isn't he? Has he been rude to you again?<end>"
 
 ["630239"]
 japanese = "ち、違います。無礼などは…。<end>"
-english = ""
+english = "N-no, that's not it. He hasn't been rude...<end>"
 
 ["630240"]
 japanese = "ほう、では何をやらかしたのだ？<end>"
-english = ""
+english = "Oh? Then what has he done?<end>"
 
 ["630241"]
 japanese = "…もう、いいのです。<line-break>あんな人のことなど<line-break>考えたくもありません。<line-break>そうだわ。<line-break>お菓子を焼いたのです。<line-break>今、お出ししますわ。<end>"
-english = ""
+english = "...Never mind. I don't even want to think about him. Oh, that's right―I baked something sweet. I'll bring it out now.<end>"
 
 ["630242"]
 japanese = "悪いがあまり時間がない。<line-break>今日はこれで失礼する。<end>"
-english = ""
+english = "I'm afraid I don't have much time. I'll take my leave for today.<end>"
 
 ["630243"]
 japanese = "まぁ、残念です。<line-break>また、いらっしゃってくださいね。<end>"
-english = ""
+english = "Oh, what a shame. Please come again.<end>"
 
 ["630244"]
 japanese = "<value:$28>様も。<end>"
-english = ""
+english = "You too, <value:$28>.<end>"
 
 ["630245"]
 japanese = "俺には礼はしないのか？<end>"
-english = ""
+english = "Don't I get a proper farewell?<end>"
 
 ["630246"]
 japanese = "礼儀知らずのお方には<line-break>そんな必要はありませんわ。<end>"
-english = ""
+english = "There is no need to show courtesy to someone who has none.<end>"
 
 ["630247"]
 japanese = "くすっ。<line-break>それでよいのです。<end>"
-english = ""
+english = "Hee hee. That's more like it.<end>"
 
 ["630248"]
 japanese = "…あの方もこのくらい<line-break>素直だったらいいのだけれど…。<end>"
-english = ""
+english = "If only he were this honest...<end>"
 
 ["630249"]
 japanese = "…何か？<end>"
-english = ""
+english = "...What is it?<end>"
 
 ["630250"]
 japanese = "い、いえ…<line-break>あの…。<end>"
-english = ""
+english = "N-no... um...<end>"
 
 ["630251"]
 japanese = "…王女には何か考えごとのようだ。<line-break>わたしたちは引き上げるとしよう。<end>"
-english = ""
+english = "It seems the princess has something on her mind. We should take our leave.<end>"
 
 ["630252"]
 japanese = "…あ…あの、<line-break>…ごめんなさい。<end>"
-english = ""
+english = "I... um... I'm sorry.<end>"
 
 ["630253"]
 japanese = "いつになくお美しいな、<line-break>ティアナ王女様。<end>"
@@ -1446,15 +1446,15 @@ english = "That never crossed my mind.<end>"
 
 ["630361"]
 japanese = "くっ、クズどもが<line-break>コソコソ隠れやがって…。<line-break>さては、陰で俺を笑ってるんだな！<end>"
-english = ""
+english = "Damn you, hiding away like that... You're laughing at me behind my back, aren't you?!<end>"
 
 ["630362"]
 japanese = "くそっ！\u3000どいつもこいつも<line-break>俺のことバカにしやがって！<line-break>なめやがって！\u3000なめやがってエ！<end>"
-english = ""
+english = "Damn you! Every last one of you is making a fool of me! How dare you! How dare you!<end>"
 
 ["630363"]
 japanese = "（あの子に人形を返さなくては。）<end>"
-english = ""
+english = "(I have to return the doll to that girl.)<end>"
 
 ["630364"]
 japanese = "約束する<end>"
