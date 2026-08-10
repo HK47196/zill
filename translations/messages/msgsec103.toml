@@ -202,7 +202,7 @@ english = "Oh, sorry. You called, so I came running without thinking, but I've a
 
 ["1030050"]
 japanese = "ま、彼にも色々都合があるようですし、<line-break>今回はあきらめた方がよさそうですね。<line-break>他の方に呼びかけてみてはどうですか？<end>"
-english = ""
+english = "Well, it seems he has other commitments, so it would be best to give up on him this time. Why not call for someone else?<end>"
 
 ["1030051"]
 japanese = "よう、また会ったな。<end>"
@@ -326,7 +326,7 @@ english = "Let us get straight to the point. You will be joining the Liberation 
 
 ["1030081"]
 japanese = "ディンガルに占領されたロセンを\u3000\u3000\u3000<line-break>解放するための軍隊です。<line-break>\u3000<line-break>リベルダムの有力商人が資金を出資し、<line-break>同志を募って、<line-break>極秘の内に組織したのです。<end>"
-english = ""
+english = "It is an army formed to liberate Rocen from Dingal occupation. Influential merchants in Liberdam funded it, recruited like-minded people, and organized it in utmost secrecy.<end>"
 
 ["1030082"]
 japanese = "ですが、人手が足りているわけ\u3000\u3000<line-break>ではないのです。<line-break>\u3000<line-break>特に危険な任務を実行できる<line-break>人材は不足しています。<end>"
@@ -374,11 +374,11 @@ english = "There will be plenty more opportunities. Don't be so disheartened.<en
 
 ["1030093"]
 japanese = "…<value:$28>。<end>"
-english = ""
+english = "...<value:$28>.<end>"
 
 ["1030094"]
 japanese = "<value:$28>…。<line-break>バカな人。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>…お父様、<line-break>これでお父様も満足して<line-break>いらっしゃいますよね？\u3000\u3000\u3000\u3000\u3000<end>"
-english = ""
+english = "<value:$28>... What a fool. Father... You're satisfied now, aren't you?<end>"
 
 ["1030095"]
 japanese = "負けてばかりだと、いつまでたっても\u3000<line-break>借金は減らないわよ。<line-break>\u3000<line-break>また戦ってもらいますから、<line-break>それまでは、自由になさい。<line-break>次に目覚めるまでの、わずかな時間を。<end>"
