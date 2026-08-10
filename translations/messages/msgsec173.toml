@@ -94,7 +94,7 @@ english = "Thank you. And goodbye.<end>"
 
 ["1730023"]
 japanese = "ぐぇ！<end>"
-english = ""
+english = "Guh!<end>"
 
 ["1730024"]
 japanese = "冒険者か。とんだところに来たね。<line-break>６才以上の奴は俺の前に現れた瞬間、<line-break>死が確定するんだ。<end>"
@@ -250,7 +250,7 @@ english = "Let me make one thing clear: I absolutely refuse to go, even if it ki
 
 ["1730062"]
 japanese = "ちょ、ちょっと、待ちなさいよー！<line-break>高貴なアタクシにこの人間の子供たちの<line-break>お守りをさせる気？\u3000非常識よー！<end>"
-english = ""
+english = "H-hey, wait! You mean to make a noble Elf like me babysit these human children? How outrageous!<end>"
 
 ["1730063"]
 japanese = "<if><value:$01><equal>4うふふ。ただでさえ、<line-break>いっぱい問題を抱えているのに、<line-break>またまた面倒ごとを抱えちゃった。<line-break><value:$28>って、<line-break>面倒大好き人間みたい！\u3000きゃっ。 <end>………………。<line-break>面倒なことを。 <end>"
@@ -302,55 +302,55 @@ english = "See you around, <value:$28>.<end>"
 
 ["1730075"]
 japanese = "オイフェ殿からの書状だと？<line-break>しばらく、待て。<end>"
-english = ""
+english = "A letter from Lady Aoife? Wait a moment.<end>"
 
 ["1730076"]
 japanese = "カルラ様がお会いになるそうだ。<line-break>失礼のないようにな。<end>"
-english = ""
+english = "Lady Karula will see you. Mind your manners.<end>"
 
 ["1730077"]
 japanese = "元気ぃ？\u3000ロセンの鐘楼以来よね？<line-break>あの時、言ったよね。<line-break>部下になるか、死ぬかだって。<line-break>そして、あんたは、<line-break>あたしの部下にはならなかった。<line-break>つまり死を選択したのよね？<end>"
-english = ""
+english = "How've you been? We haven't met since the bell tower in Rocen, right? I told you then: become my subordinate or die. And you didn't become my subordinate, which means you chose death, right?<end>"
 
 ["1730078"]
 japanese = "いくわ！！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
-english = ""
+english = "Here I come!!<end>"
 
 ["1730079"]
 japanese = "結構、やるじゃん。<line-break>んで、聞くけどさ。<line-break>あたしのこと、どうしたいの？<end>"
-english = ""
+english = "Not bad. So let me ask: what do you want to do with me?<end>"
 
 ["1730080"]
 japanese = "死んでもらう<end>"
-english = ""
+english = "I want you dead.<end>"
 
 ["1730081"]
 japanese = "別にどうもしない<end>"
-english = ""
+english = "Nothing in particular.<end>"
 
 ["1730082"]
 japanese = "それは、ちょっち<line-break>イヤかな。<line-break>遠慮させてもらうわ。<end>"
-english = ""
+english = "I'd rather not. I'll pass.<end>"
 
 ["1730083"]
 japanese = "つまみだせ！<end>"
-english = ""
+english = "Throw them out!<end>"
 
 ["1730084"]
 japanese = "はっ！<end>"
-english = ""
+english = "At once!<end>"
 
 ["1730085"]
 japanese = "ふぅん、やさしいんだ。<line-break>…っていうか、<line-break>あたしのこと好きなんでしょ？\u3000<line-break>だったら、あたしの配下に入るのが<line-break>一番じゃない？\u3000<line-break>どぉ？\u3000悪いようにはしないわよ。<end>"
-english = ""
+english = "Hmm, so you're kind. Or maybe you just like me? In that case, wouldn't it be best to join my ranks? What do you say? I won't treat you badly.<end>"
 
 ["1730086"]
 japanese = "冗談だってば。\u3000\u3000\u3000\u3000<line-break>本気にしないで。<line-break>\u3000<line-break>じゃ、用が終わったなら<line-break>出てってくんないかな？<end>"
-english = ""
+english = "I'm joking. Don't take it seriously. Now, if that's all, could you leave?<end>"
 
 ["1730087"]
 japanese = "なあんだ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>またそんな答えか。<line-break>つまんないわね。<line-break>悪いけど、出てってくれる？<line-break>自分のものになんないのに<line-break>いつまでも顔見ていたくないの。<end>"
-english = ""
+english = "Aw, that answer again? Boring. Sorry, but could you leave? If you won't be mine, I don't want to keep looking at you.<end>"
 
 ["1730088"]
 japanese = "あ、子供たちの件だけどさ。<line-break>責任もって引き受けとくから。<line-break>それは、心配しないでいいよ。<end>"
@@ -358,11 +358,11 @@ english = "Oh, about the children. I'll take responsibility for them, so you don
 
 ["1730089"]
 japanese = "バカじゃない？<line-break>考えなしでこんなことになってさ。<line-break>ホント、バカ。<line-break>でも、あたし、バカも好きよ。<line-break>ま、オイフェの顔も立てて<line-break>見逃してあげるわ。行きなさい。<end>"
-english = ""
+english = "Are you stupid? Look where acting without thinking got you. Seriously, what an idiot. But I like idiots too. Well, for Aoife's sake, I'll let you go. Go on.<end>"
 
 ["1730090"]
 japanese = "あ、子供たちの件もひきうけとくわ。<line-break>ま、恩に感じて、も少し強くなって<line-break>あたしを楽しませてよね。<end>"
-english = ""
+english = "Oh, and I'll take care of the children too. Be grateful, get a little stronger, and come back when you can entertain me.<end>"
 
 ["1730091"]
 japanese = "オイフェ殿からの書状だと？<line-break>しばらく、待て。<end>"
@@ -398,99 +398,99 @@ english = "I've got a feeling we'll meet again. See you around.<end>"
 
 ["1730099"]
 japanese = "シャリ、失敗したようだな。<end>"
-english = ""
+english = "Shalli, it seems you've failed.<end>"
 
 ["1730100"]
 japanese = "そ、それは…。<end>"
-english = ""
+english = "Th-that's...<end>"
 
 ["1730101"]
 japanese = "あのお方はお怒りだ。<end>"
-english = ""
+english = "Our master is furious.<end>"
 
 ["1730102"]
 japanese = "い、命ばかりは。<line-break>つ、次こそ必ず…。<end>"
-english = ""
+english = "P-please, spare my life! N-next time, I swear...<end>"
 
 ["1730103"]
 japanese = "失敗は死でつぐなえ。<line-break>シャリ。<end>"
-english = ""
+english = "Atone for your failure with death, Shalli.<end>"
 
 ["1730104"]
 japanese = "ジュサぷー！<line-break>助けに来てくれたんだ！<end>"
-english = ""
+english = "Jusapoo! You came to save me!<end>"
 
 ["1730105"]
 japanese = "...でも、もうこれで君も<line-break>あのお方から追われる身だね。<end>"
-english = ""
+english = "...But now our master will be after you too.<end>"
 
 ["1730106"]
 japanese = "誰がジュサぷーだ。<line-break>それに、あのお方って誰だよ？\u3000\u3000<line-break>\u3000<line-break>俺たちの計画は俺と君、<line-break>ゾフォルの爺様に、救世主。<line-break>たった４人で切り盛りしてんだ。<end>"
-english = ""
+english = "Don't call me Jusapoo. And who is this master, anyway? There are only four of us running this operation: you, me, old man Zophor, and the Savior.<end>"
 
 ["1730107"]
 japanese = "君も爺様の作った人形を使って、<line-break>くだらない芝居をやっている暇が<line-break>あったら、もっと働けよ。<end>"
-english = ""
+english = "If you've got time to put on stupid little shows with the dolls old man Zophor made, you should be working harder.<end>"
 
 ["1730108"]
 japanese = "ちょっと、遊んでみただけさ。<line-break>案外、固いこと言うんだな。<end>"
-english = ""
+english = "I was just having a little fun. You're surprisingly uptight.<end>"
 
 ["1730109"]
 japanese = "空中都市は大失敗だったな。\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>闇の聖母の封印を守る巫女が１人も<line-break>死ななかったばかりか、逆に１人が<line-break>封印の守りに入ってしまった。<end>"
-english = ""
+english = "The Floating City was a complete failure. Not one of the shrine maidens guarding the Dark Mother's seal died. Instead, one of them actually became a guardian of the seal.<end>"
 
 ["1730110"]
 japanese = "メンゴ。<end>"
-english = ""
+english = "My bad.<end>"
 
 ["1730111"]
 japanese = "少しは反省の色を見せてくれ。<line-break>円卓騎士メイアも役に立たないし…。<line-break>\u3000<line-break>ここはひとつ、救世主の<line-break>邪竜アズラゴーザ復活計画に<line-break>協力するか。<end>"
-english = ""
+english = "Show a little remorse. Meia, Knight of the Round Table, hasn't been any use either... Maybe it's time to help the Savior with his plan to revive the Evil Dragon Azuragoza.<end>"
 
 ["1730112"]
 japanese = "邪竜アズラゴーザねぇ…。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>僕、あんまし、<line-break>竜とか偉ぶったのは好きじゃないな。<line-break>それに、救世主が頼んだ冒険者が<line-break>誘拐任務中、いけにえにするエルフに<line-break>手ェつけて自殺させちゃったんでしょ？<end>"
-english = ""
+english = "The Evil Dragon Azuragoza, huh... I've never much liked dragons or anything else that acts high and mighty. Besides, the adventurer the Savior hired for the kidnapping laid hands on the Elf intended for sacrifice and drove her to suicide, didn't he?<end>"
 
 ["1730113"]
 japanese = "まったく、満足に仕事もできない<line-break>素人なんかに頼むから…。<line-break>これ、どーするのよ？。<end>"
-english = ""
+english = "That's what happens when you rely on amateurs who can't even do their jobs properly... So what do we do now?<end>"
 
 ["1730114"]
 japanese = "その姉が闇におちていい感じなんだ。<line-break>死の獅子のもとで修行も積んでな。<line-break>きっと邪竜復活に使えるはずだ。<end>"
-english = ""
+english = "Her older sister has fallen into darkness and is shaping up nicely. She's even trained under the Lion of Death. I'm sure we can use her to revive the Evil Dragon.<end>"
 
 ["1730115"]
 japanese = "…ところで、ひとつきいていいかな？<end>"
-english = ""
+english = "...By the way, can I ask you something?<end>"
 
 ["1730116"]
 japanese = "はい、どうぞ。<end>"
-english = ""
+english = "Certainly. Go ahead.<end>"
 
 ["1730117"]
 japanese = "なんで、わざわざ奴らのとなりに<line-break>部屋を取ってる？<end>"
-english = ""
+english = "Why did you deliberately take a room right next to theirs?<end>"
 
 ["1730118"]
 japanese = "灯台もと暗しってね。<line-break>敵情視察もかねてる。<end>"
-english = ""
+english = "The best hiding place is right under their noses. It also lets me keep an eye on them.<end>"
 
 ["1730119"]
 japanese = "本当に？<end>"
-english = ""
+english = "Really?<end>"
 
 ["1730120"]
 japanese = "…ごめん。おもしろがって<line-break>何も考えずにここにいます。<end>"
-english = ""
+english = "...Sorry. I just thought it would be funny. I didn't put any thought into it.<end>"
 
 ["1730121"]
 japanese = "フフ、いい子だ。<line-break>邪竜が起きたら見物に来るといい。<line-break>人形遊びよりは、退屈しのぎになる。<end>"
-english = ""
+english = "Heh. Good boy. Come watch when the Evil Dragon awakens. It should stave off boredom better than playing with dolls.<end>"
 
 ["1730122"]
 japanese = "楽しみにしてるよ。<line-break>ジュサぷー。<end>"
-english = ""
+english = "I can't wait, Jusapoo.<end>"
 
 ["1730123"]
 japanese = "<value:$28>さんですね。<line-break>オイフェ様より伝言です。\u3000\u3000\u3000<line-break>\u3000<end>"
@@ -518,11 +518,11 @@ english = "Ah, um… that was also a message from Lady Aoife. She told me to mak
 
 ["1730129"]
 japanese = "部下になる<end>"
-english = ""
+english = "Become her subordinate.<end>"
 
 ["1730130"]
 japanese = "部下にならない<end>"
-english = ""
+english = "Refuse to become her subordinate.<end>"
 
 ["1730131"]
 japanese = "うぐ…ひっく、ひっく…。<line-break>このおねえちゃん、恐いけど\u3000<line-break>やさしいよぉ……。<end>"
