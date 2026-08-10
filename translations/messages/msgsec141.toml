@@ -562,7 +562,7 @@ english = "I'm so glad, <value:$28>.<end>"
 
 ["1410140"]
 japanese = "ほーっほっほっ。<end>"
-english = ""
+english = "Ho, ho, ho!<end>"
 
 ["1410141"]
 japanese = "おそいなぁ、<value:$28>。<line-break>まさか、忘れちゃったんじゃ<line-break>ないよなぁ。<end>"
@@ -642,7 +642,7 @@ english = "Well then, <value:$28>. Shall we go?<end>"
 
 ["1410160"]
 japanese = "どうだ、シェスター？<line-break>精霊は、<line-break>呼びかけに答えてくれているか？<end>"
-english = ""
+english = "How is it, Shester? Are the spirits answering your call?<end>"
 
 ["1410161"]
 japanese = "いや～、はやいもんだよねぇ。<line-break>もう、バイアシオン大陸なんて<line-break>ちっちゃくて見えないわ。<line-break>あんな、ちっぽけな陸の上で<line-break>あたしたちは戦ってたんだよね。<line-break>ここからこっちは自分の国だって。<end>"
@@ -714,15 +714,15 @@ english = "Come on, let's keep our spirits up! The next continent is calling us!
 
 ["1410178"]
 japanese = "僕は今まで、そんな当たり前のことに<line-break>気付きはしなかった…。<end>"
-english = ""
+english = "Until now, I had never noticed something so obvious.<end>"
 
 ["1410179"]
 japanese = "誰かのために生きること、<line-break>誰かを愛するということとは、<line-break>どういうことなのかを、<line-break>君が教えてくれたおかげだ…。<end>"
-english = ""
+english = "You taught me what it means to live for someone, and what it means to love someone.<end>"
 
 ["1410180"]
 japanese = "君と、もっと親しくなりたかった…。<line-break>だけど、僕はもう旅立たねばならない…。<line-break>最後まで言えなかったことを、<line-break>今、言うよ。<end>"
-english = ""
+english = "I wanted us to grow closer... But now I must depart. There's something I couldn't say until the very end. I'll say it now.<end>"
 
 ["1410181"]
 japanese = "えと、誰にも気づかれなかったよね。<line-break>よかった。昨日のうちから<line-break>準備しておいて。<end>"
@@ -818,11 +818,11 @@ english = "Let's go, <value:$28>!<end>"
 
 ["1410204"]
 japanese = "フフフ…我が息子にも感謝をせねばな。<line-break>この身体とお前という愛しい存在を<line-break>与えてくれたのだからな…。<end>"
-english = ""
+english = "Heh heh heh... I must thank my son as well. He gave me this body―and gave me you, my beloved...<end>"
 
 ["1410205"]
 japanese = "さあ、いくぞ！<line-break>この竜を手始めに、全ての魔、<line-break>全ての神、すべての愚民、<line-break>我に逆らう者、全てを屠りさり、<line-break>人類の革新を成し遂げるのだ！<line-break>フフフフフ、ハハハハハハ！<end>"
-english = ""
+english = "Come, let us begin! This dragon shall be the first. Every demon, every god, every witless commoner, and all who defy me―I shall slaughter them all and bring about the transformation of mankind! Heh heh heh heh... Ha ha ha ha ha ha!<end>"
 
 ["1410206"]
 japanese = "<value:$28>さーん！<end>"
@@ -926,7 +926,7 @@ english = "Wait! You could at least look back at me!<end>"
 
 ["1410231"]
 japanese = "そうですか…。<line-break>あれだけの大事件が<line-break>起こったのですものね…。<end>"
-english = ""
+english = "I see... After such a momentous event, I suppose that is only natural.<end>"
 
 ["1410232"]
 japanese = "おや、<value:$28>じゃないか。<line-break>久々だな。いつものお茶でいいかい？<end>"
@@ -1006,7 +1006,7 @@ english = "Come, let's go, <value:$28>!<end>"
 
 ["1410251"]
 japanese = "封士の心得と一緒に、<line-break>何度も語り聞かせたろうが、<line-break><value:$28>。<line-break>あきれた奴じゃ、もう忘れたか？<end>"
-english = ""
+english = "I've told you about it time and again, right alongside the sealer's code, <value:$28>. Honestly, have you forgotten already?<end>"
 
 ["1410252"]
 japanese = "…質問がなければ、<line-break>これにて閣議は終了とする。<end>"
