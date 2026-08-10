@@ -4546,8 +4546,7 @@ english = "Count Up<end>"
 
 ["1136"]
 japanese = "ウィズドロー<end>"
-english = ""
-todo = true
+english = "Withdraw<end>"
 
 ["1137"]
 japanese = "元気の薬<end>"
@@ -6135,55 +6134,55 @@ english = "El<end>"
 
 ["1533"]
 japanese = "男<end>"
-english = ""
+english = "Male<end>"
 
 ["1534"]
 japanese = "女<end>"
-english = ""
+english = "Female<end>"
 
 ["1535"]
 japanese = "なし<end>"
-english = ""
+english = "None<end>"
 
 ["1536"]
 japanese = "人間<end>"
-english = ""
+english = "Human<end>"
 
 ["1537"]
 japanese = "エルフ<end>"
-english = ""
+english = "Elf<end>"
 
 ["1538"]
 japanese = "コーンス<end>"
-english = ""
+english = "Corns<end>"
 
 ["1539"]
 japanese = "ダークエルフ<end>"
-english = ""
+english = "Dark Elf<end>"
 
 ["1540"]
 japanese = "ダルケニス<end>"
-english = ""
+english = "Darkenith<end>"
 
 ["1541"]
 japanese = "ドワーフ<end>"
-english = ""
+english = "Dwarf<end>"
 
 ["1542"]
 japanese = "ハイエルフ<end>"
-english = ""
+english = "High Elf<end>"
 
 ["1543"]
 japanese = "ボルダン<end>"
-english = ""
+english = "Boldan<end>"
 
 ["1544"]
 japanese = "リルビー<end>"
-english = ""
+english = "Lilbie<end>"
 
 ["1545"]
 japanese = "魔人<end>"
-english = ""
+english = "Demon<end>"
 
 ["1546"]
 japanese = "なし<end>"
@@ -6219,47 +6218,47 @@ english = "Max<end>"
 
 ["1554"]
 japanese = "火＋水<end>"
-english = ""
+english = "Fire + Water<end>"
 
 ["1555"]
 japanese = "水＋土<end>"
-english = ""
+english = "Water + Earth<end>"
 
 ["1556"]
 japanese = "土＋風<end>"
-english = ""
+english = "Earth + Wind<end>"
 
 ["1557"]
 japanese = "風＋火<end>"
-english = ""
+english = "Wind + Fire<end>"
 
 ["1558"]
 japanese = "なし<end>"
-english = ""
+english = "None<end>"
 
 ["1559"]
 japanese = "毒<end>"
-english = ""
+english = "Poison<end>"
 
 ["1560"]
 japanese = "火<end>"
-english = ""
+english = "Fire<end>"
 
 ["1561"]
 japanese = "電気<end>"
-english = ""
+english = "Lightning<end>"
 
 ["1562"]
 japanese = "冷気<end>"
-english = ""
+english = "Cold<end>"
 
 ["1563"]
 japanese = "光<end>"
-english = ""
+english = "Light<end>"
 
 ["1564"]
 japanese = "爆発<end>"
-english = ""
+english = "Explosion<end>"
 
 ["1565"]
 japanese = "退治<end>"
