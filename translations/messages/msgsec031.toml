@@ -82,7 +82,7 @@ english = "At the very least, I consider myself an ally to your cause. You may r
 
 ["310020"]
 japanese = "やれやれ。<line-break>わかっていただけたようですな。<end>"
-english = ""
+english = "Well, well. It seems you understand now.<end>"
 
 ["310021"]
 japanese = "あなたたちの<line-break>打倒ボルボラの活動が<line-break>実を結ぶことを祈っていますよ。<end>"
@@ -590,11 +590,11 @@ english = "If Flint delivers the Secret Letter to Eris and reports the rebellion
 
 ["310147"]
 japanese = "レムオンについていく<end>"
-english = ""
+english = "Follow Lemghon<end>"
 
 ["310148"]
 japanese = "レムオンについていかない<end>"
-english = ""
+english = "Do not follow Lemghon<end>"
 
 ["310149"]
 japanese = "今回の事件の責任をとって、<line-break>お前たち姉弟には<line-break>処刑されたことになってもらう。<line-break>そうすることで<line-break>今回の騒ぎを鎮め、<line-break>この町の連中の口を封じる。<end>"
@@ -654,7 +654,7 @@ english = "Yeah. Come on, sis. Let's go!<end>"
 
 ["310163"]
 japanese = "…残念だな。<end>"
-english = ""
+english = "...What a pity.<end>"
 
 ["310164"]
 japanese = "ここから追加セリフ<end>"
@@ -686,15 +686,15 @@ english = "Come at me, then. Beat me, and I'll tell you.<end>"
 
 ["310171"]
 japanese = "待って！<line-break>ねぇ、<value:$28>！<line-break>お願い！<line-break>兄さんは不器用な人なんだ。<line-break>気を悪くしたろうけど<line-break>許してほしい。<end>"
-english = ""
+english = "Wait! <value:$28>, please! My brother doesn't know how to express himself. I know he upset you, but please forgive him.<end>"
 
 ["310172"]
 japanese = "ロストールの王宮では<line-break>エリス王妃と兄さんの間で<line-break>しれつな権力争いがあるんだ。<line-break>兄さんには、<line-break>君みたいな味方が必要なんだ。<end>"
-english = ""
+english = "At the royal palace in Rostorl, Queen Eris and my brother are locked in a fierce power struggle. He needs someone like you on his side.<end>"
 
 ["310173"]
 japanese = "お願い、兄さんを守って！<end>"
-english = ""
+english = "Please, protect my brother!<end>"
 
 ["310174"]
 japanese = "＃１１<end>"
@@ -738,127 +738,127 @@ english = ""
 
 ["310184"]
 japanese = "<value:$28>！<line-break>逃げて！！<line-break>みんな、君を裏切ったんだ！！<line-break>反乱が知れたら、<line-break>ここに鎮圧軍が攻めてくる。<line-break>それを恐れて責任を君にかぶせて…<end>"
-english = ""
+english = "<value:$28>! Run!! Everyone has betrayed you! They're afraid that once word of the rebellion gets out, troops will come here to put it down, so they're placing the blame on you...<end>"
 
 ["310185"]
 japanese = "うっ！！<end>"
-english = ""
+english = "Guh!<end>"
 
 ["310186"]
 japanese = "弓？<line-break>弓を持った奴らに囲まれてる！？<end>"
-english = ""
+english = "Bows? We're surrounded by men with bows?!<end>"
 
 ["310187"]
 japanese = "まずいぞ！\u3000エスト様に矢が当たった！<line-break>ご領主レムオン様の弟君に<line-break>ケガをさせたとなるといよいよ…。<end>"
-english = ""
+english = "This is bad! Lord Est was hit by an arrow! If we've wounded Lord Lemghon's younger brother, then we're really in trouble...<end>"
 
 ["310188"]
 japanese = "レムオン？<end>"
-english = ""
+english = "Lemghon?<end>"
 
 ["310189"]
 japanese = "レムオンって、<line-break>あの斜にかまえた奴？<line-break>あいつが、ここの領主…？<line-break>そして、あのエストって奴が<line-break>レムオンの弟なのか…？<end>"
-english = ""
+english = "Lemghon? That aloof guy? He's the lord here...? And that Est guy is Lemghon's younger brother...?<end>"
 
 ["310190"]
 japanese = "爺さん、エスト様もやるしかねえよ！<line-break><value:$28>がやったことにするんだ！<end>"
-english = ""
+english = "Old man, we have no choice but to kill Lord Est too! We'll say <value:$28> did it!<end>"
 
 ["310191"]
 japanese = "長老…、お前ら…！！<end>"
-english = ""
+english = "Elder... You bastards...!!<end>"
 
 ["310192"]
 japanese = "…仕方あるまい。<line-break>これも町のためじゃ。<line-break>エスト様、<value:$28>、…すまぬ。<end>"
-english = ""
+english = "...We have no choice. This is for the sake of the town. Lord Est, <value:$28>... forgive us.<end>"
 
 ["310193"]
 japanese = "…<value:$28>、…逃げて。<line-break>早く…。<end>"
-english = ""
+english = "...<value:$28>... run. Hurry...<end>"
 
 ["310194"]
 japanese = "んなことできっかよ！<line-break>お前は貴族だけど、俺たちを<line-break>助けてくれようとしたんだ！！<line-break>…それに、<line-break>弓を持った奴らに囲まれてる。<line-break>逃げたくても…逃げられねえよ。<end>"
-english = ""
+english = "Like hell I can! You're a noble, but you tried to help us!! Besides, we're surrounded by men with bows. Even if we wanted to run... we couldn't.<end>"
 
 ["310195"]
 japanese = "…逃がして…みせる。<line-break>僕は君を…逃がして…。<end>"
-english = ""
+english = "...I'll get you out. I will... get you out...<end>"
 
 ["310196"]
 japanese = "よくねらえ！<line-break>領主の弟だからってビビんじゃねえ！<line-break>やらねえと、こっちがやられるんだ！<end>"
-english = ""
+english = "Aim carefully! Don't be afraid just because he's the lord's brother! If we don't do this, they'll do us in!<end>"
 
 ["310197"]
 japanese = "なんじゃ！？<line-break>エスト様が…いったい…？<end>"
-english = ""
+english = "What?! Lord Est... what in the world...?<end>"
 
 ["310198"]
 japanese = "闇の神器…、これを使えば、<line-break>心は黒くなるけど、強く…なれる…、<line-break>僕みたいな…弱い…者でも…。<end>"
-english = ""
+english = "The Artifact of Darkness... If I use it, my heart will darken, but I'll become stronger... Even someone weak... like me...<end>"
 
 ["310199"]
 japanese = "撃て！！<end>"
-english = ""
+english = "Fire!!<end>"
 
 ["310200"]
 japanese = "僕を…お…怒らせないで…！<line-break>僕の…僕の…黒い心が…ああ…、<line-break>君たちを殺そうと…する…！<line-break>お…抑えきれない…。<line-break>逃げて！！<end>"
-english = ""
+english = "Don't... m-make me angry...! My... my dark heart... Ah... It wants to kill all of you...! I... can't hold it back... Run!!<end>"
 
 ["310201"]
 japanese = "ぐわっ！<end>"
-english = ""
+english = "Gwah!<end>"
 
 ["310202"]
 japanese = "み、皆の衆！！<line-break>逃げるんじゃ！！<end>"
-english = ""
+english = "E-everyone! Run!!<end>"
 
 ["310203"]
 japanese = "ひいいいっ！！<end>"
-english = ""
+english = "Eeeek!!<end>"
 
 ["310204"]
 japanese = "…<value:$28>？<line-break>僕…君を傷つけてしまったんだね…。<line-break>ごめん…ね…。<line-break>ぼ、僕の心が…<line-break>闇に堕ちきってしまう前に…<line-break>君を転送…して…逃がす…よ…。<end>"
-english = ""
+english = "...<value:$28>? I... hurt you, didn't I...? I'm sorry... Before my heart... falls completely into darkness... I'll teleport you... somewhere safe...<end>"
 
 ["310205"]
 japanese = "<value:$28>…、<line-break>お願い…、兄さんのこと…<line-break>許して…あげて…。<line-break>そして…どうか…。<line-break>兄さんのこと…たすけ…<end>"
-english = ""
+english = "<value:$28>... Please... forgive my brother... And... please... help him...<end>"
 
 ["310206"]
 japanese = "う…ううん…。<line-break>気を…失っていたの…か…。<end>"
-english = ""
+english = "Mmm... I must have... lost consciousness...<end>"
 
 ["310207"]
 japanese = "ね…姉ちゃん、<line-break>大丈夫？<end>"
-english = ""
+english = "S-sis, are you all right?<end>"
 
 ["310208"]
 japanese = "どのくらい<line-break>気を失っていたんだろう…。<end>"
-english = ""
+english = "How long was I unconscious...?<end>"
 
 ["310209"]
 japanese = "東の空が白んでいる…てことは、<line-break>もう、夜明けか。<end>"
-english = ""
+english = "The eastern sky is growing light... That means it's dawn already.<end>"
 
 ["310210"]
 japanese = "え…！？<end>"
-english = ""
+english = "What...?!<end>"
 
 ["310211"]
 japanese = "今のは、いったい…？<end>"
-english = ""
+english = "What was that...?<end>"
 
 ["310212"]
 japanese = "…そうだね。<line-break>エストは俺たちを助けるために…。<line-break>エストを捜さなきゃ。<end>"
-english = ""
+english = "...Right. Est did that to save us... We have to find him.<end>"
 
 ["310213"]
 japanese = "でもさ…。<line-break>まず、ロストールへ行って<line-break>レムオンを訪ねないか？<line-break>薄れていく意識の中で俺、<line-break>エストが兄貴のことを頼むって言ったの<line-break>聞いたような気がするんだ。<end>"
-english = ""
+english = "But... shouldn't we go to Rostorl and see Lemghon first? While I was fading in and out, I think I heard Est ask you to help his brother.<end>"
 
 ["310214"]
 japanese = "…行こう。<line-break>王都ロストールへ。<end>"
-english = ""
+english = "...Let's go. To Rostorl, the royal capital.<end>"
 
 ["310215"]
 japanese = "＃１３<end>"
@@ -874,7 +874,7 @@ english = "But that ends today! I've hired veteran adventurers. You're going to 
 
 ["310218"]
 japanese = "（チャカ…。）<end>"
-english = ""
+english = "(Chaka...)<end>"
 
 ["310219"]
 japanese = "に、逃げろ！！<end>"
@@ -946,19 +946,19 @@ english = "Now! Grab that one!<end>"
 
 ["310236"]
 japanese = "させるかよ！！<end>"
-english = ""
+english = "I won't let you!!<end>"
 
 ["310237"]
 japanese = "姉ちゃん、今のうちだ！！<line-break>早く逃げて！<end>"
-english = ""
+english = "Sis, now's our chance! Hurry, run!<end>"
 
 ["310238"]
 japanese = "こ…この悪ガキめ！<end>"
-english = ""
+english = "Y-you little brat!<end>"
 
 ["310239"]
 japanese = "早く逃げて！！<line-break>早く！！<end>"
-english = ""
+english = "Run! Hurry!!<end>"
 
 ["310240"]
 japanese = "<value:$28>。<end>"
@@ -1066,7 +1066,7 @@ english = "This may be our first and last meeting, but every encounter comes onl
 
 ["310266"]
 japanese = "ひ、ひいい！！<line-break>お助け！！<end>"
-english = ""
+english = "E-eek!! Help!!<end>"
 
 ["310267"]
 japanese = "姉ちゃん！！<end>"
@@ -1130,7 +1130,7 @@ english = "My mother said I'm not allowed to talk to you. She says talking to yo
 
 ["310282"]
 japanese = "長老の家<end>"
-english = ""
+english = "Elder's House<end>"
 
 ["310283"]
 japanese = "<select><value:$20>%3ボルボラは恐ろしい…。<line-break>奴が凶暴な戦闘用モンスターを<line-break>飼っているの、知ってるだろ？\u3000<line-break>俺、あんな奴に喰われたくねえ！<line-break>奴がどんなに悪いことしてても<line-break>目をつぶっとくに限るんだ！<end>どうせ俺は意気地なしだよ！<line-break>だけど、しょうがないだろ！<line-break>みんなが、お前みたいに生きられないんだ！<end>ボルボラが重税で私腹を肥やそうと<line-break>ゴロツキを雇って乱暴を働こうと、<line-break>とにかく、見て見ぬふりだ。<line-break>ボルボラが飼ってる<line-break>あの戦闘モンスターの<line-break>エサになりたくなければな。<end>"
@@ -1166,7 +1166,7 @@ english = "The Guildmaster and that good-looking person who's often here are bot
 
 ["310291"]
 japanese = "鍛冶屋<end>"
-english = ""
+english = "Blacksmith<end>"
 
 ["310292"]
 japanese = "おう、<value:$28>！<line-break>俺も武器を作ったりして<line-break>反乱を応援させてもらってるぜ。<line-break>俺も金持ちじゃあねえから、<line-break>ただで作ってやるわけには<line-break>いかねえんだがよ。<end>"
@@ -1174,7 +1174,7 @@ english = "Hey, <value:$28>! I'm doing my part for the rebellion, making weapons
 
 ["310293"]
 japanese = "道具屋<end>"
-english = ""
+english = "Item Shop<end>"
 
 ["310294"]
 japanese = "ああ、<value:$28>。<line-break>誰かがケガをなさるといけないので<line-break>私もずっと店を開けているんですよ。<end>"
@@ -1186,7 +1186,7 @@ english = "<select><value:$20>%3Hmph! You may fancy yourself a hero for standing
 
 ["310296"]
 japanese = "宿屋<end>"
-english = ""
+english = "Inn<end>"
 
 ["310297"]
 japanese = "<select><value:$20>%3いやいや、礼にはおよびませんよ。\u3000\u3000<line-break><value:$28>さん。<line-break>当然のことをしたまでです。<line-break>それよりも、お気づきになりましたか？<line-break>町の人の雰囲気を…。<line-break>やっと立ち上がる気になられたようだ。<end>いえいえ、礼にはおよびませんよ、\u3000<line-break><value:$28>さん。<line-break>大したことじゃない。<line-break>あなたの方こそ、<line-break>大した仕事をなさったようですね。<line-break>…予定より早く、事が運ぶようだ。<end>ルルアンタにお会いになりましたか。<line-break>あのリルビーの女の子は<line-break>私にとって娘のようなものです。<line-break>ほんとうにやさしい、いい子です。<line-break>またノーブルに来たときには<line-break>お友達になってやってください。<end>"
@@ -1214,7 +1214,7 @@ english = "I-if possible, I'd rather you didn't get the guests caught up in any 
 
 ["310303"]
 japanese = "広場<end>"
-english = ""
+english = "Plaza<end>"
 
 ["310304"]
 japanese = "<select><value:$20>%2代官ボルボラは、残酷で執念深い。<line-break>逆らうと、ひどい仕返しをくう。<line-break>だからボルボラの悪行を見て見ぬふりだ。<line-break>だけど、みんな、心の底では<line-break>ボルボラに立ち向かうお前のことを<line-break>応援してるんだよ。<end>ボルボラは恐ろしい…。<line-break>だが、このまま重税のために働いて<line-break>奴に殺されるのを待つのか？<line-break>イヤだ！<line-break>あの旅の商人の言うとおりだ…！<line-break>せめてボルボラの怪物が死ねば…！<end>"
@@ -1230,7 +1230,7 @@ english = "<select><value:$20>%2You've got some nerve, strolling right up to one
 
 ["310307"]
 japanese = "ひいっ！\u3000ご、ごめんなさい！<line-break>ウ、ウソですウソです！<line-break>お、俺を殴らないで！<end>"
-english = ""
+english = "Eek! I-I'm sorry! I was lying, I swear! D-don't hit me!<end>"
 
 ["310308"]
 japanese = "<select><value:$20>%3<value:$28>は<line-break>つよくって、カッコよくて<line-break>だーいすき！！<end>ぼくも大きくなったら、<line-break><value:$28>みたいに<line-break>つよーくなるんだ！<end><value:$28>、<line-break>これからもイジワルな<line-break>ボルボラ様をこらしめてね！<end>"
@@ -1238,7 +1238,7 @@ english = "<select><value:$20>%3I love <value:$28>! So strong and so cool!<end>W
 
 ["310309"]
 japanese = "領主邸前<end>"
-english = ""
+english = "Outside Lord's Manor<end>"
 
 ["310310"]
 japanese = "ここはノーブルの領主邸だ。<line-break>代官ボルボラ様はここで<line-break>政務を執り行われるのだ。<end>"
