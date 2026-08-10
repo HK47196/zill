@@ -130,7 +130,7 @@ english = "…So this will make me stronger.<end>"
 
 ["1400032"]
 japanese = "まーかせちゃってよ。<end>"
-english = ""
+english = "Just leave it to me!<end>"
 
 ["1400033"]
 japanese = "ゼネテスめ。クズのくせに<line-break>この俺様をコケにしやがって…。<line-break>これで、たたきのめしてやる…！<end>"
@@ -162,11 +162,11 @@ english = "(...?)<end>"
 
 ["1400040"]
 japanese = "王妃様からお話は伺っています。<line-break>どうぞ、お通りください。<end>"
-english = ""
+english = "Her Majesty has told me about you. Please, go on through.<end>"
 
 ["1400041"]
 japanese = "…これで強くなれるんだな。<end>"
-english = ""
+english = "…So this will make me stronger.<end>"
 
 ["1400042"]
 japanese = "まーかせちゃってよ。<end>"
@@ -174,27 +174,27 @@ english = "Just leave it to me!<end>"
 
 ["1400043"]
 japanese = "ゼネテスめ。クズのくせに<line-break>この俺様をコケにしやがって…。<line-break>これで、たたきのめしてやる…！<end>"
-english = ""
+english = "Damn Xenetes. Worthless scum, making a fool of me… Now I'll crush him…!<end>"
 
 ["1400044"]
 japanese = "ティアナ様なんかが見ている前で<line-break>のしちゃった方が効果的じゃないかな。<line-break>その舞台もちゃんと用意してあげるよ。<end>"
-english = ""
+english = "Wouldn't it be more effective to crush him with Lady Tiana watching? I'll make sure the stage is set for you.<end>"
 
 ["1400045"]
 japanese = "…俺に指図するな。<end>"
-english = ""
+english = "…Don't tell me what to do.<end>"
 
 ["1400046"]
 japanese = "くすっ。<line-break>なにを恐れているんだい？<end>"
-english = ""
+english = "Heh. What are you afraid of?<end>"
 
 ["1400047"]
 japanese = "うるさい！<line-break>絶対、ゼネテスをたたきのめす！<line-break>それでいいのだろうが！\u3000クズめ！<end>"
-english = ""
+english = "Shut up! I'll crush Xenetes, no matter what! That's what you want, isn't it? You scum!<end>"
 
 ["1400048"]
 japanese = "タルテュバ、君の痛みはわかるよ。<line-break>だから、ついでに<line-break>願いをかなえてあげるのさ。<end>"
-english = ""
+english = "Tartyuba, I understand your pain. So while I'm at it, I'll grant your wish too.<end>"
 
 ["1400049"]
 japanese = "（あれは、いったい…？）<end>"
@@ -378,7 +378,7 @@ english = "Look out!<end>"
 
 ["1400094"]
 japanese = "…ゼネテス様！<end>"
-english = ""
+english = "Lord Xenetes...!<end>"
 
 ["1400095"]
 japanese = "彼は、アトレイア王女をかばったねえ。<line-break>そのことと、そのいい感じの<line-break>嫉妬の表情は関係あるのかな？<end>"
@@ -466,7 +466,7 @@ english = "Come on, <value:$28>! At this point, our only choice is to charge at 
 
 ["1400116"]
 japanese = "………………。<end>"
-english = ""
+english = "...<end>"
 
 ["1400117"]
 japanese = "おケガはありませんか？<line-break><value:$28>様！<end>"
@@ -506,7 +506,7 @@ english = "Gah!<end>"
 
 ["1400126"]
 japanese = "ティアナ！<end>"
-english = ""
+english = "Tiana!<end>"
 
 ["1400127"]
 japanese = "…ゼネテス様！<end>"
@@ -538,15 +538,15 @@ english = "Nooooo!<end>"
 
 ["1400134"]
 japanese = "くっ、<value:$28>。<line-break>いくぞ！！<end>"
-english = ""
+english = "Gah! <value:$28>, let's go!!<end>"
 
 ["1400135"]
 japanese = "あの力…？<line-break>…フフ、そういうことか。<line-break>今日は新月であったな。<end>"
-english = ""
+english = "That power...? Heh. So that's it. Today is the new moon.<end>"
 
 ["1400136"]
 japanese = "………………。<end>"
-english = ""
+english = "...<end>"
 
 ["1400137"]
 japanese = "ゼネテス！\u3000ゼネテス！！<line-break>しっかりしてください！<line-break>ゼネテス！！<end>"
@@ -574,11 +574,11 @@ english = "Once my aunt hears about this, she'll make her move. You're the only 
 
 ["1400143"]
 japanese = "来いよ…。タルテュバ…。<line-break>さぁ、こっちだ。<line-break>姫さんから、離れるんだ…。<end>"
-english = ""
+english = "Come on, Tarteuba... That's it, over here. Get away from the princess...<end>"
 
 ["1400144"]
 japanese = "いやあぁああ！！<end>"
-english = ""
+english = "Nooooo!!<end>"
 
 ["1400145"]
 japanese = "ちっ、人がせっかくカラダ張って<line-break>おびき寄せてるのに、あの姫さん、<line-break>まーだ、逃げてなかったのかよ！<line-break>こい、<value:$28>！<line-break>こうなりゃ、タルテュバに<line-break>突っ込むしかねえ！！<end>"
@@ -594,11 +594,11 @@ english = "Tiana, are you all ri―<end>"
 
 ["1400148"]
 japanese = "ゼネテス！\u3000ゼネテス！<end>"
-english = ""
+english = "Xenetes! Xenetes!<end>"
 
 ["1400149"]
 japanese = "…ティアナ。<end>"
-english = ""
+english = "...Tiana.<end>"
 
 ["1400150"]
 japanese = "ゼネテス！\u3000しっかりして！<line-break>ゼネテス！\u3000ゼネテス！！<end>"
@@ -758,19 +758,19 @@ english = "Festivities, eh? That's news to me too.<end>"
 
 ["1400189"]
 japanese = "やっこさんもそうじゃねえの？<end>"
-english = ""
+english = "Wouldn't the same go for our friend?<end>"
 
 ["1400190"]
 japanese = "貴様…、ゼネテス…！<line-break>いったい、なんでこんな所へ？<end>"
-english = ""
+english = "You... Xenetes! What are you doing here?<end>"
 
 ["1400191"]
 japanese = "フフ…<line-break>それは僕が教えてあげるよ。<end>"
-english = ""
+english = "Heh... Let me answer that for you.<end>"
 
 ["1400192"]
 japanese = "そら、今回の罠の仕掛け人のご登場だ。<line-break>どうやら俺たち<line-break>全員ハメられたみたいだな。<end>"
-english = ""
+english = "And here comes the one who set this whole trap. Looks like we all got played.<end>"
 
 ["1400193"]
 japanese = "姫さん…？<line-break>フフ、こりゃおもしろい。<line-break>また、姫さんとはな。<end>"
@@ -862,11 +862,11 @@ english = "<if><value:$29><equal>%0…I want you to come with me, too.<end>…I 
 
 ["1400215"]
 japanese = "行く<end>"
-english = ""
+english = "Go<end>"
 
 ["1400216"]
 japanese = "行かない<end>"
-english = ""
+english = "Don't go<end>"
 
 ["1400217"]
 japanese = "では、王宮の空中庭園に行くぞ。<end>"
@@ -890,7 +890,7 @@ english = "Lemghon? Now this is interesting. Hey, are you the one who sent this 
 
 ["1400222"]
 japanese = "ゼネテス様をお慕いもうしております。<line-break>空中庭園でお待ちしております。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000かしこ\u3000\u3000<end>"
-english = ""
+english = "Lord Xenetes, I adore you. I shall be waiting for you in the Hanging Gardens. Yours sincerely,<end>"
 
 ["1400223"]
 japanese = "だっ、誰が貴様などに<line-break>ラブレターを出すものか！！<end>"
@@ -918,59 +918,59 @@ english = "...What are you trying to say?!<end>"
 
 ["1400229"]
 japanese = "…我が弟、<value:$28>よ。<line-break>そんなバカのそばに寄るんじゃない。<line-break>バカとなまけぐせがうつるぞ。<end>"
-english = ""
+english = "My younger brother, <value:$28>... Stay away from that fool. The stupidity and laziness might rub off on you.<end>"
 
 ["1400230"]
 japanese = "…だとよ。じゃあ、<line-break>エリエナイ公のそばにいると<line-break>傲慢と仕事中毒がうつるぜ？<end>"
-english = ""
+english = "You heard him. So if you get too close to Duke Elienai, will the arrogance and workaholism rub off on you?<end>"
 
 ["1400231"]
 japanese = "奴のそばにいると<line-break>その上、女癖の悪さもうつる。<end>"
-english = ""
+english = "Hang around him and his womanizing will rub off on you too.<end>"
 
 ["1400232"]
 japanese = "じゃあ、エリエナイ公のそばにいると<line-break>女っ気のない、仕事仕事の<line-break>多忙で灰色の毎日がうつりそうだな。<end>"
-english = ""
+english = "Then stay around Duke Elienai and you'll end up with no women in your life, nothing but work, and one gray, busy day after another.<end>"
 
 ["1400233"]
 japanese = "う、うるさい！<end>"
-english = ""
+english = "S-Shut up!<end>"
 
 ["1400234"]
 japanese = "冗談だ、エリエナイ公。<line-break>どうやら、お前さんも<line-break>おびき寄せられたようだな。<end>"
-english = ""
+english = "Only joking, Duke Elienai. Looks like you were lured here too.<end>"
 
 ["1400235"]
 japanese = "…<value:$28>。<end>"
-english = ""
+english = "<value:$28>...<end>"
 
 ["1400236"]
 japanese = "<value:$28>様！<line-break>私、手紙をちゃんと<line-break>自分で読んでまいりました！<end>"
-english = ""
+english = "<value:$28>! I read the letter properly, all by myself!<end>"
 
 ["1400237"]
 japanese = "ファーロス総司令。<line-break>どういうおつもりなのです？<line-break>こんな所に呼びだすなんて…。<end>"
-english = ""
+english = "Commander-in-Chief Pharos, what is the meaning of this? Summoning me to a place like this...<end>"
 
 ["1400238"]
 japanese = "…<value:$28>様？<line-break>それにレムオン様も…。<end>"
-english = ""
+english = "<value:$28>...? And Lemghon as well...<end>"
 
 ["1400239"]
 japanese = "…ゼネテスに呼びだされた、だと？<end>"
-english = ""
+english = "You mean Xenetes summoned you here...?<end>"
 
 ["1400240"]
 japanese = "…ってことは、お前さんは<line-break>ティアナに呼びだされたわけか。<line-break>フフ、かわいいとこがあるもんだな。<end>"
-english = ""
+english = "So Tiana was the one who summoned you. Heh. That's rather sweet.<end>"
 
 ["1400241"]
 japanese = "何が言いたい！<end>"
-english = ""
+english = "What are you trying to say?!<end>"
 
 ["1400242"]
 japanese = "だから、さっきから言ってるだろ？<line-break>俺たちは全員、<line-break>罠にハメられたんだって<line-break>そら、今回の罠の<line-break>仕掛け人のご登場だ。<line-break>詳しいことは奴から聞いてくれ。<end>"
-english = ""
+english = "I've been telling you all along, haven't I? We've all been caught in a trap. Look, here comes the one who set it. Get the details straight from the source.<end>"
 
 ["1400243"]
 japanese = "そうか…。<line-break>ならば、俺も行くまい。<line-break>お前抜きでティアナには会わない。<end>"
