@@ -71,6 +71,47 @@ func TestSystemHelpReflowUsesNarrowTextBox(t *testing.T) {
 	}
 }
 
+func TestPortraitDialogueReflowFitsPortraitBody(t *testing.T) {
+	consumers, metrics, categories := releaseInputs(t)
+	engine, err := layout.Load(consumers, metrics, categories)
+	if err != nil {
+		t.Fatal(err)
+	}
+	const id = 2390003
+	for _, test := range []struct {
+		name, text string
+		breaks     int
+	}{
+		// This string is exactly 241 units in the installed font, so the
+		// portrait body's 240-unit ceiling must wrap it.
+		{"width boundary", "WWWWWWWWWWWW WWWWWWWWWWW.,il", 1},
+		{"reported overflow", "That was close. ...? Never did I expect to encounter someone with the potential for Infinite Soul in a place like this...", 2},
+	} {
+		t.Run(test.name, func(t *testing.T) {
+			record := corpus.Record{
+				ID: id, Index: 3, Display: test.text + "<end>", HasBlockTerminator: true,
+				Tokens: []corpus.Token{
+					{Kind: "text", Raw: []byte(test.text), Text: test.text},
+					{Kind: "block_terminator", Raw: []byte{5, 5, 5}},
+				},
+			}
+			project := &corpus.Project{Items: []corpus.Item{{
+				Record: record,
+				Translation: corpus.Translation{
+					ID: id, Japanese: record.Display, State: corpus.Translated, Text: record.Display,
+				},
+			}}}
+			result, err := engine.Reflow(project)
+			if err != nil {
+				t.Fatal(err)
+			}
+			if got := result.Layouts[id]; strings.Count(got, "<line-break>") != test.breaks {
+				t.Errorf("portrait dialogue layout = %q, want %d line breaks", got, test.breaks)
+			}
+		})
+	}
+}
+
 func TestCharacterCreationPromptReflowUsesPromptWidth(t *testing.T) {
 	consumers, metrics, categories := releaseInputs(t)
 	engine, err := layout.Load(consumers, metrics, categories)

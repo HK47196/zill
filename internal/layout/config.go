@@ -5,6 +5,7 @@ package layout
 import (
 	"bytes"
 	"fmt"
+	"sort"
 	"strconv"
 
 	"github.com/pelletier/go-toml/v2"
@@ -44,6 +45,7 @@ type consumersFile struct {
 	SupportedGame     string            `toml:"supported_game"`
 	BoundedLabelIDs   []int             `toml:"bounded_label_ids"`
 	C5IDs             []int             `toml:"c5_ids"`
+	C5PortraitIDs     []int             `toml:"c5_portrait_ids"`
 	C22IDs            []int             `toml:"c22_ids"`
 	SinglePageC5IDs   []int             `toml:"single_page_c5_ids"`
 	GuildClientIDs    []int             `toml:"guild_client_ids"`
@@ -99,12 +101,18 @@ func Load(consumers, metrics, categories []byte) (*Engine, error) {
 	if len(m.Glyph) == 0 {
 		return nil, fmt.Errorf("font metrics: glyph repertoire is empty")
 	}
-	idLists := [][]int{c.BoundedLabelIDs, c.C5IDs, c.C22IDs, c.SinglePageC5IDs, c.GuildClientIDs, c.GuildRegionIDs}
+	idLists := [][]int{c.BoundedLabelIDs, c.C5IDs, c.C5PortraitIDs, c.C22IDs, c.SinglePageC5IDs, c.GuildClientIDs, c.GuildRegionIDs}
 	for _, ids := range idLists {
 		for i, id := range ids {
 			if id < 0 || i > 0 && id <= ids[i-1] {
 				return nil, fmt.Errorf("message consumers: ID sets must be nonnegative, sorted, and unique")
 			}
+		}
+	}
+	for _, id := range c.C5PortraitIDs {
+		i := sort.SearchInts(c.C5IDs, id)
+		if i == len(c.C5IDs) || c.C5IDs[i] != id {
+			return nil, fmt.Errorf("message consumers: portrait C5 ID %d is not a C5 message", id)
 		}
 	}
 	for _, group := range c.C20Groups {

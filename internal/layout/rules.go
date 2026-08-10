@@ -9,6 +9,7 @@ const (
 	characterCreationPromptAdvance       = 300
 	characterCreationChoiceCapacityBytes = 31
 	c5Advance                            = 300
+	c5PortraitAdvance                    = 240
 	chronicleAdvance                     = 300
 	chronicleMaxLines                    = 10
 	equipmentFeedbackAdvance             = 240

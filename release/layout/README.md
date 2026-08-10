@@ -18,7 +18,9 @@ The C names are literal CDC event-script opcodes, not message record types:
 
 - C5 displays dialogue. Its runtime splitter starts a new page after every
   third line break, admits at most nine pages, and requires every statically
-  known page payload to use fewer than 256 encoded bytes.
+  known page payload to use fewer than 256 encoded bytes. The generated
+  portrait subset contains every message with at least one verified C5 call
+  whose raw display mode requests the narrower portrait layout.
 - C20 builds a choice list from contiguous message records. The complete group,
   including one terminating NUL per choice, may use at most 767 encoded bytes.
 - C22 displays centered text. Plain calls are notifications; progressive calls
