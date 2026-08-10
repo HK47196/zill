@@ -38,7 +38,7 @@ english = "Yes, you. These men are kidnappers. Hurry up and give me a hand.<end>
 
 ["840009"]
 japanese = "そんじゃ、<line-break>さっさと片付けちゃおうか！？<end>"
-english = ""
+english = "All right, let's make short work of them!<end>"
 
 ["840010"]
 japanese = "ふ～ん。やっぱりペウダ国王の<line-break>差し金だったんだ。<end>"
@@ -94,7 +94,7 @@ english = "My eyes are welling up, Hero! I just knew you would be so gracious as
 
 ["840023"]
 japanese = "そんじゃ、行きますか。<end>"
-english = ""
+english = "All right, let's get going.<end>"
 
 ["840024"]
 japanese = "あ、言い忘れてたけど、<line-break>ネメア様に負けてから<line-break>ペウダの奴、ビビっちゃってさ。<line-break>城の中に戦闘モンスターを<line-break>放してるんだってさ。<line-break>ま、気をつけていこーね！<end>"
@@ -234,7 +234,7 @@ english = "A-ah... wha...? Wh-what are you doing?! Seize the intruder!<end>"
 
 ["840058"]
 japanese = "ははっ！<end>"
-english = ""
+english = "Yes, sire!<end>"
 
 ["840059"]
 japanese = "ま、ま、ま、待て！<line-break>余の話を聞け！<line-break>余はこの国の、こ、国王であるぞ！<end>"
@@ -714,31 +714,31 @@ english = "This is the Kingdom of Rocen! By order of His Majesty King Peuda, no 
 
 ["840178"]
 japanese = "ありがとうございました。<line-break>\u3000<line-break>\u3000<line-break>でも、あの方はおひとりで<line-break>大丈夫なのでしょうか？<end>"
-english = ""
+english = "Thank you. But will that woman be all right on her own?<end>"
 
 ["840179"]
 japanese = "なんとか抜け出したわね。<end>"
-english = ""
+english = "We made it out somehow.<end>"
 
 ["840180"]
 japanese = "ありがとうございました。<line-break>すべて、あなた方のおかげです。<end>"
-english = ""
+english = "Thank you. It's all thanks to you.<end>"
 
 ["840181"]
 japanese = "そんな…、私たちは\u3000\u3000\u3000\u3000\u3000\u3000<line-break>カルラさんに力を貸しただけ。<line-break>\u3000<line-break>カルラさん、大丈夫なのかな…。<end>"
-english = ""
+english = "Oh, no... We only helped Karula. I wonder if she'll be all right...<end>"
 
 ["840182"]
 japanese = "<if><value:$01><equal>4ふぅ、なんとか助かったみたい。<end><if><value:$01><equal>6ここまで来れば安心だね。<end><if><value:$01><equal>15なんとか抜け出したね。<end><if><value:$01><equal>17まったく、<line-break>とんでもない目にあったわ。<end><if><value:$01><equal>19ここまで来れば大丈夫だよね。<end><if><value:$01><equal>22ここまで来れば大丈夫だよね。<end>なんとか抜け出したか。<end>"
-english = ""
+english = "<if><value:$01><equal>4Whew, looks like we made it.<end><if><value:$01><equal>6We should be safe here.<end><if><value:$01><equal>15We made it out somehow.<end><if><value:$01><equal>17Honestly, what a terrible ordeal.<end><if><value:$01><equal>19We should be all right here, shouldn't we?<end><if><value:$01><equal>22We should be all right here, shouldn't we?<end>Looks like we made it out.<end>"
 
 ["840183"]
 japanese = "ありがとうございました。<line-break>\u3000<line-break>\u3000<line-break>でも、あの方はおひとりで<line-break>無事なのでしょうか？<end>"
-english = ""
+english = "Thank you. But will that woman be safe on her own?<end>"
 
 ["840184"]
 japanese = "お待たせー！<end>"
-english = ""
+english = "Sorry to keep you waiting!<end>"
 
 ["840185"]
 japanese = "ここまで来れば、<line-break>逃げ切ったと見ていいわね。<end>"
