@@ -126,11 +126,11 @@ english = "You must not go any farther. My duty is to guard the seal deep within
 
 ["1160031"]
 japanese = "誰…？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>…長老以外の…人…。<end>"
-english = ""
+english = "Who...? Someone... other than the elder...<end>"
 
 ["1160032"]
 japanese = "…ここは、<line-break>火の精霊神殿。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>私はフレア。<line-break>この神殿と、それに連なる<line-break>封印を守る…火の巫女。<end>"
-english = ""
+english = "…This is the Temple of the Fire Spirit. I am Flare… the Fire Priestess who guards this temple and the seal linked to it.<end>"
 
 ["1160033"]
 japanese = "何をしているんだね、君は！？<end>"
@@ -142,7 +142,7 @@ english = "I am the Fire Priestess… I exist to guard the seal in this fire tem
 
 ["1160035"]
 japanese = "はい、長老。<end>"
-english = ""
+english = "Yes, Elder.<end>"
 
 ["1160036"]
 japanese = "こんな所にまで足を踏み入れるとは<line-break>君たち冒険者は本当に<line-break>社会の理をわきまえないのだな。<line-break>早々に立ち去ってくれ。<line-break>観光地などと混同して、むやみに<line-break>足を踏み入れられては困るのだよ。<end>"
@@ -154,7 +154,7 @@ english = "I cannot allow you to go any farther. In fact, I cannot allow you to 
 
 ["1160038"]
 japanese = "その道を進むことは\u3000\u3000\u3000\u3000\u3000<line-break>なりません。<line-break>\u3000<line-break>この神殿の奥にある封印…、<line-break>それを守るのが私の役目。<line-break>どうか、お引き取りください。<end>"
-english = ""
+english = "You must not go any farther. My duty is to guard the seal deep within this temple. Please, turn back.<end>"
 
 ["1160039"]
 japanese = "私の役目は<line-break>ここにいて、神殿と<line-break>それに連なる封印を守ること。\u3000\u3000<line-break>それが私がここにいる理由です。<line-break>ですが、あなたはなんのために<line-break>こうしてここに足を運ぶのですか？<end>"
@@ -190,7 +190,7 @@ english = "I do not sense that you need me. So why do you keep coming here? I do
 
 ["1160047"]
 japanese = "その道を進むことは\u3000\u3000\u3000\u3000\u3000<line-break>なりません。<line-break>\u3000<line-break>この神殿の奥にある封印…、<line-break>それを守るのが私の役目。<line-break>どうか、お引き取りください。<end>"
-english = ""
+english = "You must not go any farther. My duty is to guard the seal deep within this temple. Please, turn back.<end>"
 
 ["1160048"]
 japanese = "まだ何か、話があるのですか？<line-break>ですが、おそらく私には、あなたが<line-break>満足するような対応はできません。<line-break>あなたがなぜここに来るのか、<line-break>それが、私には<line-break>まったく理解できないので。<end>"
@@ -230,7 +230,7 @@ english = "I see. No, it is nothing that concerns you. Forgive me.<end>"
 
 ["1160057"]
 japanese = "そこから先へは<line-break>通すことはできません。\u3000\u3000\u3000<line-break>\u3000<line-break>それが私の役目です。<line-break>どうか、お引き取りください。<end>"
-english = ""
+english = "I cannot allow you to go any farther. That is my duty. Please, turn back.<end>"
 
 ["1160058"]
 japanese = "<if><value:$01><equal>2<value:$28>、<line-break>こんなところで、何をしてるの？ <end><if><value:$01><equal>4あ、また勝手によそさまの家にあがって<line-break>いろいろ物色してるの？<line-break>泥棒同然かも！\u3000きゃっ！<line-break>で、どう、<value:$28>？<line-break>何か、めぼしいものは見つかった？ <end><if><value:$01><equal>5<value:$28>、<line-break>ここにいたのか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>……お前って<line-break>結構、根性座ってるよな。<line-break>平気で人の家にあがりこむもんな。 <end><if><value:$01><equal>6<value:$28>、<line-break>何してるの、こんな所で？ <end><if><value:$01><equal>12よぉ、<value:$28>。<line-break>この家の主に何か用なのか？\u3000\u3000\u3000<line-break>\u3000<line-break>それとも、お前さんが用があるのは<line-break>そこにある、意味ありげな本かい？ <end><if><value:$01><equal>13…ここに、お前に必要な<line-break>何かがあるとでもいうのか？ <end><if><value:$01><equal>10姉ちゃん、こんなとこにいたのか。<line-break>ここって、あのシェムハザとかいう<line-break>じいさんの家だろ？<line-break>ここに何かあるのか？<line-break>わけわからない本が<line-break>びっしり並んでるだけじゃないか。 <end><if><value:$01><equal>14<value:$28>、<line-break>こんな所におったか。 <end><if><value:$01><equal>15<value:$28>…。<line-break>君ってホントに、他人の家に<line-break>あがりこむの好きだよね…。<line-break>どうしたの？<line-break>この家に何かあったの？ <end><if><value:$01><equal>17<value:$28>。あなたって本当に<line-break>下等でわけのわからない生き物ね。<line-break>\u3000<line-break>カビ臭い家に入りたがるのかしら？<line-break>まーったく理解できなくてよー！ <end><if><value:$01><equal>7<value:$28>、ここにいたのね。<line-break>何かあったの？ <end><if><value:$01><equal>19<value:$28>、みーつけた。<line-break>もう、また勝手に人の家に入ってぇ。 <end><if><value:$01><equal>8おや、<value:$28>、<line-break>奇遇ですね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ここは、この町の長老の家でした。<line-break>フフフ、少しお行儀が悪いですが<line-break>何かないか、探ってみましょうか。 <end><if><value:$01><equal>21このような所で<line-break>何をしている？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ここはかつて<line-break>この町の長老だった者の家だろう。<line-break>何かあるとでもいうのか？ <end><if><value:$01><equal>9あ、<value:$28>。<line-break>へぇ～、結構いい趣味してんじゃん。<line-break>留守の家で調べものなんてさ。<line-break>…アハハ、冗談よん。<line-break>なになに？\u3000ここに何かあるの？ <end><if><value:$01><equal>20何をしている？ <end><if><value:$01><equal>3<value:$28>、<line-break>こんなところで、何をしておる？ <end><if><value:$01><equal>11<value:$28>、<line-break>こんなところで、何をしてるの？ <end><if><value:$01><equal>27何をしている？ <end><if><value:$01><equal>26こんなところで、何をしておる？<line-break>勝手に人の家に入っては<line-break>いかんぞ？<end><if><value:$01><equal>193あ、<value:$28>さん。<line-break>こんな所でなにを？<line-break>ここになにかあるんですか？<end><if><value:$01><equal>191<value:$28>。<line-break>ここでなにしてるの？<line-break><end><if><value:$01><equal>190なにをしているんだ？<line-break>ここになにか用なのか？<end><value:$28>、<line-break>まぁたこんな所にいて…<line-break>\u3000<line-break>何してるの？<line-break>ここでお宝を発見しても、<line-break>それ取っちゃったら泥棒だよ？ <end>"
@@ -310,7 +310,7 @@ english = "My body will soon crumble away. I am deeply sorry that I will no long
 
 ["1160077"]
 japanese = "そこから先へは<line-break>通すことはできません。\u3000\u3000\u3000<line-break>\u3000<line-break>それが私の役目です。<line-break>どうか、お引き取りください。<end>"
-english = ""
+english = "I cannot allow you to go any farther. That is my duty. Please, turn back.<end>"
 
 ["1160078"]
 japanese = "僕は君を必要としている。<line-break>フフ、なんて甘美な響きなんだろう。<line-break>\u3000<line-break>空中都市を浮上させるためには、<line-break>魔道王国ラドラスの４人の巫女の<line-break>血を引く者が必要だ。<end>"
