@@ -50,7 +50,7 @@ english = "O-oh, right... Sorry. It's just that we're in a bit of a bind. Still,
 
 ["1610012"]
 japanese = "じゃ、気をつけて冒険を続けてくれ。\u3000<line-break>まあ、お前さんなら心配いらんか。<end>"
-english = ""
+english = "Take care as you continue your adventures. Though I suppose there's no need to worry about someone like you.<end>"
 
 ["1610013"]
 japanese = "あら、あなた、<line-break>もしかして<value:$28>？<end>"
@@ -202,7 +202,7 @@ english = "All right. I suppose you've got plenty keeping you busy. I won't pres
 
 ["1610050"]
 japanese = "あ、あんた…\u3000スラムでタルテュバを\u3000<line-break>返り討ちにした人だな…。<end>"
-english = ""
+english = "Y-you... You're the one who beat Tarteuba in the Slums...<end>"
 
 ["1610051"]
 japanese = "あんた…、強そうだな…<line-break>…仕事を…引き受けてくれないか…？\u3000<end>"
@@ -386,7 +386,7 @@ english = "Urk! R-right... So you'd rather not. Well, I can't force a job on you
 
 ["1610096"]
 japanese = "じゃ、気をつけて冒険を続けてくれ。<line-break>まあ、お前さんなら心配いらんか。<end>"
-english = ""
+english = "Take care as you continue your adventures. Though I suppose there's no need to worry about someone like you.<end>"
 
 ["1610097"]
 japanese = "あら、また会ったわね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>先日話した、乙女の鏡にいる魔物の話、<line-break>引き受けてくれる気になったのかしら？<end>"
@@ -406,7 +406,7 @@ english = "Oh, how reassuring. Then I'll leave it to you. I'll pay you once the 
 
 ["1610101"]
 japanese = "報酬は仕事が終わったらお渡しするわ。<line-break>がんばって魔物を追い出してね。<end>"
-english = ""
+english = "I'll pay you once the job is done. Do your best to drive the monster out.<end>"
 
 ["1610102"]
 japanese = "あら、それができるようなら\u3000\u3000\u3000\u3000<line-break>とっくにそうしてるわ。<line-break>\u3000<line-break>だから先日から、評判の高い冒険者の<line-break>あなたに頼んでいるのに…。<line-break>仕方ないわね。また出なおすわ。<end>"
@@ -430,7 +430,7 @@ english = "S-so you will? You'll do it?! Thank you. Thank you so much! If you de
 
 ["1610107"]
 japanese = "仕事、よろしく頼んだぜ。<line-break>あんたにも俺にもいい話だろ？<end>"
-english = ""
+english = "I'm counting on you for this job. It's a good deal for both of us, right?<end>"
 
 ["1610108"]
 japanese = "し、仕方ないじゃないかよぉぉ！\u3000\u3000\u3000<line-break>俺だって、俺だってなあぁ…！<line-break>\u3000<line-break>もういい！\u3000あんたになんか頼まん！<line-break>見てろよ、俺はやりゃあできるんだよ！<line-break>絶対、あいつを倒してきてやるからな！<end>"
@@ -622,7 +622,7 @@ english = "<if><value:$2A><greater-equal>50So you did! Just what I'd expect from
 
 ["1610155"]
 japanese = "しかし、あの町外れの小僧が\u3000\u3000\u3000\u3000<line-break>ここまで立派になるとはな。<line-break>\u3000<line-break>正直言って意外だが、それ以上に<line-break>お前の勇姿を見ることは嬉しいぞ。<line-break>いや、本当に大したもんだよ。<end>"
-english = ""
+english = "To think that kid from the outskirts of town would grow into someone this impressive. Honestly, I'm surprised, but more than that, I'm glad to see how far you've come. Truly, you're something else.<end>"
 
 ["1610156"]
 japanese = "じゃあ、これが帝国からの報酬\u3000\u3000\u3000\u3000<line-break>５０００ギアだ。<line-break>\u3000<line-break>いい仕事をしたな。<line-break>胸を張って受け取ってくれ。<end>"
@@ -794,79 +794,79 @@ english = "<value:$28>, is it? I'll travel with you for a while. Let's go.<end>"
 
 ["1610198"]
 japanese = "なんだと、こいつ！<line-break>もういっぺん言って見ろ！<end>"
-english = ""
+english = "What did you say, you bastard? Say that again!<end>"
 
 ["1610199"]
 japanese = "…フッ<line-break>相手を見て突っかかるのだな。\u3000<line-break>\u3000<line-break>無謀な挑戦は、自分だけではなく<line-break>周りの人間にも迷惑がかかる。<line-break>…覚えておけ。<end>"
-english = ""
+english = "Hmph. Learn to size up your opponent before picking a fight. A reckless challenge brings trouble not only on you, but on everyone around you. Remember that.<end>"
 
 ["1610200"]
 japanese = "…くそっ！<end>"
-english = ""
+english = "Damn it!<end>"
 
 ["1610201"]
 japanese = "何よ！\u3000どれだけの<line-break>腕か見せてもらおうじゃない！<end>"
-english = ""
+english = "Oh, really? Let's see just how good you are!<end>"
 
 ["1610202"]
 japanese = "どきなさいよ！<line-break>あなたがバカにされているのよ！<end>"
-english = ""
+english = "Get out of the way! You're the one being insulted!<end>"
 
 ["1610203"]
 japanese = "…大した保護者面だな。<line-break>…だが、お前は自分の夢と<line-break>その男の夢と混同しているようだ。<end>"
-english = ""
+english = "Quite the guardian act. But you seem to be confusing your own dream with that man's.<end>"
 
 ["1610204"]
 japanese = "………………。<end>"
-english = ""
+english = "...<end>"
 
 ["1610205"]
 japanese = "守りたいんだね？<end>"
-english = ""
+english = "You want to protect him, don't you?<end>"
 
 ["1610206"]
 japanese = "…なんだ、小娘？<end>"
-english = ""
+english = "What is it, little girl?<end>"
 
 ["1610207"]
 japanese = "なんでもないよ。<line-break>ただ覚悟が必要ってこと。<end>"
-english = ""
+english = "Nothing. Only that you'll need to be prepared.<end>"
 
 ["1610208"]
 japanese = "…？<end>"
-english = ""
+english = "Hm?<end>"
 
 ["1610209"]
 japanese = "なんだよ！<line-break>キミ、何様のつもり！？<end>"
-english = ""
+english = "What's your problem? Who do you think you are?!<end>"
 
 ["1610210"]
 japanese = "フッ…、自分が何者なのか<line-break>わかっている人間などいない。<line-break>\u3000<line-break>だが、お前が<line-break>何者かは教えてやる。<line-break>役立たずだ。<end>"
-english = ""
+english = "Hmph. People never truly know what they are. But I can tell you what you are: useless.<end>"
 
 ["1610211"]
 japanese = "放せ！\u3000放せしてよ！<line-break><value:$28>！<end>"
-english = ""
+english = "Let go! Let go of me! <value:$28>!<end>"
 
 ["1610212"]
 japanese = "…<value:$28>が<line-break>そう言うなら…。<end>"
-english = ""
+english = "If <value:$28> says so...<end>"
 
 ["1610213"]
 japanese = "なぁーにぃ！？\u3000この下等生物は！？<line-break>生意気よ！\u3000生意気よ！\u3000生意気よお！<end>"
-english = ""
+english = "Whaaat?! You inferior creature! How insolent! How insolent! How insolent!<end>"
 
 ["1610214"]
 japanese = "…フッ、無知な<line-break>わがままエルフか？<end>"
-english = ""
+english = "Hmph. An ignorant, selfish Elf?<end>"
 
 ["1610215"]
 japanese = "無知なわがままエルフぅ？\u3000よくって？<line-break>アタクシは１６００年も生きてるの…！<line-break>\u3000<line-break>１００年も生きていない下等生物に<line-break>無知呼ばわりされるようなことなんて<line-break>絶対、絶対、絶対なくってよぉおお！<end>"
-english = ""
+english = "An ignorant, selfish Elf? Listen here: I've lived for 1,600 years! There is absolutely, absolutely, absolutely no way an inferior creature who has not even lived a hundred years can call me ignorant!<end>"
 
 ["1610216"]
 japanese = "…そ、そうね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>コホン。<line-break>\u3000<line-break>高貴で優雅なエルフであるアタクシが<line-break>こぉんな下等生物に本気で怒るなんて…<line-break>ほんの少し、はしたないことだったわ。<end>"
-english = ""
+english = "...Y-yes, you're right. Ahem. It was just a little undignified for a noble, elegant Elf like me to get seriously angry at such an inferior creature...<end>"
 
 ["1610217"]
 japanese = "…では、行くぞ。<end>"
@@ -938,99 +938,99 @@ english = "Except for that man―the only one I have ever acknowledged.<end>"
 
 ["1610234"]
 japanese = "ま、腹を立てなさんなって。<line-break>世の中にはああいう奴もいる。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>腕も結構、立つみたいだしな。<line-break>不器用でかわいらしいじゃないか？<end>"
-english = ""
+english = "Now, don't get so angry. There are people like that in the world. He seems quite capable, too. And isn't that awkwardness of his rather endearing?<end>"
 
 ["1610235"]
 japanese = "あれはあれで結構つらい生き方だぜ？<line-break>理解してやれ、とまでは言わないが<line-break>少なくとも拒絶はしないでやるんだな。<end>"
-english = ""
+english = "It's a hard way to live, being like that. I won't ask you to understand him, but at least don't reject him outright.<end>"
 
 ["1610236"]
 japanese = "そうか。<line-break>そんじゃ、俺たちも行こうか。<end>"
-english = ""
+english = "I see. Well then, shall we get going too?<end>"
 
 ["1610237"]
 japanese = "なぁにぃ？\u3000あの不作法な男は？<line-break>自分がド下等生物だってことを\u3000\u3000\u3000\u3000<line-break>わきまえてるのかしら？<line-break>なんでも強引に、勝手に決めちゃって。<line-break>秘密の臭いだけプンプンさせちゃって。<line-break>ちょっと強いからっていい気になって！<end>"
-english = ""
+english = "What is with that ill-mannered man? Does he even realize he's the lowest of lower life-forms? Always forcing his way and deciding everything on his own! Reeking of secrets! Getting conceited just because he's a little strong!<end>"
 
 ["1610238"]
 japanese = "絶対、絶対、絶対、絶対、絶対、絶対、<line-break>気に入らないわぁー！<end>"
-english = ""
+english = "I absolutely, absolutely, absolutely, absolutely, absolutely, absolutely cannot stand him!<end>"
 
 ["1610239"]
 japanese = "フェティをなだめる<end>"
-english = ""
+english = "Calm Fety down<end>"
 
 ["1610240"]
 japanese = "フェティをしかる<end>"
-english = ""
+english = "Scold Fety<end>"
 
 ["1610241"]
 japanese = "甘いわ！\u3000あなた、同じ人間族だから<line-break>あの無礼者をかばってるんじゃなくて？<end>"
-english = ""
+english = "You're too soft! Aren't you defending that insolent wretch just because you're both human?<end>"
 
 ["1610242"]
 japanese = "…そうね。確かに<line-break>あなたは種族で差別はしないわ。\u3000\u3000\u3000<line-break>\u3000<line-break>それで、高貴なエルフと<line-break>他のド下等生物と同じ扱いにするのには<line-break>ほんと、アタクシも閉口しているもの。<end>"
-english = ""
+english = "Well... yes. You certainly don't discriminate by race. In fact, I'm thoroughly exasperated by the way you treat noble Elves exactly the same as all those other utterly inferior creatures.<end>"
 
 ["1610243"]
 japanese = "…わかったわ。あなたがそう言うなら、<line-break>５６７０００００００歩譲って<line-break>一応アタクシも納得してさしあげるわ。<end>"
-english = ""
+english = "Very well. If you insist, I'll concede 5,670,000,000 steps and deign to accept your argument―for the moment.<end>"
 
 ["1610244"]
 japanese = "<value:$28><line-break>どうして、アタクシをしかるわけ？<line-break>この場合、おかしいのはあの男よー！<end>"
-english = ""
+english = "<value:$28>, why are you scolding me? He's the one in the wrong here!<end>"
 
 ["1610245"]
 japanese = "ちゃんとした事情も語らないくせに\u3000\u3000<line-break>こっちが何か尋ねようとすると怒る。<line-break>\u3000<line-break>強引に、勝手にすべてのことを決定して<line-break>アタクシたちのことをよく知らないのに<line-break>侮辱するようなことばかり言うのよー？<end>"
-english = ""
+english = "He won't even give us a proper explanation, yet he gets angry whenever we try to ask him anything. He forces through every decision entirely on his own, and even though he barely knows us, all he does is insult us!<end>"
 
 ["1610246"]
 japanese = "あなたのアタクシへの非難は不当だわ。<line-break>納得いかない、絶対、絶対、絶対、<line-break>絶対に納得いかないわー！<end>"
-english = ""
+english = "Your criticism of me is unjustified. I won't accept it. Absolutely, absolutely, absolutely, absolutely not!<end>"
 
 ["1610247"]
 japanese = "姉ちゃん、姉ちゃん。<line-break>あのセラって奴さ、どお？\u3000シュミ？<end>"
-english = ""
+english = "Sis, hey, Sis. What do you think of Sera? Your type?<end>"
 
 ["1610248"]
 japanese = "いったあ！\u3000すぐ殴るのやめろよ！<line-break>頭、悪くなるだろ！\u3000もう！<end>"
-english = ""
+english = "Ow! Quit being so quick to hit me! You'll make me stupid! Come on!<end>"
 
 ["1610249"]
 japanese = "チャカは少し頭が悪くなった。\u3000<line-break>ＩＮＴが１下がった。<line-break>\u3000<line-break>チャカは少し打たれ強くなった。<line-break>ＶＩＴが１上がった。<end>"
-english = ""
+english = "Chaka got a little dumber. ＩＮＴ decreased by 1. Chaka got a little better at taking hits. ＶＩＴ increased by 1.<end>"
 
 ["1610250"]
 japanese = "オッシ先生が言ってたわ。<line-break>実力があっても、かえってそれで<line-break>目をふさがれて、自滅するって。<line-break>彼ってそんな感じかしら？<line-break>なんにせよ、すごい自信よね。<end>"
-english = ""
+english = "My teacher Ossi said that even real ability can blind you and lead you to your own ruin. Do you think he's like that? In any case, that's quite some confidence.<end>"
 
 ["1610251"]
 japanese = "なんか、かっこいいよね。セラってさ。<line-break>ちょっと、気になるかな。<line-break>\u3000<line-break>…なーんてボクが言ったら<line-break><value:$28>は気になる？<end>"
-english = ""
+english = "Sera's kind of cool, don't you think? I might be a little interested. If I said that, would it bother you, <value:$28>?<end>"
 
 ["1610252"]
 japanese = "あ、ウソウソ、冗談だよ！<line-break>ね、ね、こっち向いてよ！<end>"
-english = ""
+english = "Oh, no, I was kidding! Come on, look at me!<end>"
 
 ["1610253"]
 japanese = "あー、ボクのことからかってたんだ！ <line-break>ひどいよ、<value:$28>。<line-break>ボク…本気で嫌われたと思ったんだよ！<line-break>もう、知らないよー！<line-break>べーだ！<end>"
-english = ""
+english = "Oh, you were teasing me! That's mean, <value:$28>. I really thought you hated me! I don't care anymore! Bleh!<end>"
 
 ["1610254"]
 japanese = "…ボク、やっぱり役立たずなのかな。<end>"
-english = ""
+english = "Maybe I really am useless.<end>"
 
 ["1610255"]
 japanese = "セラは…純粋だね。<line-break>何も知らないってことは幸せなんだ。<line-break>それに、そう、いいことだよ。<end>"
-english = ""
+english = "Sera is... innocent. There's happiness in knowing nothing. And... yes. That's a good thing.<end>"
 
 ["1610256"]
 japanese = "人は何かを追い求めるとき\u3000\u3000\u3000\u3000\u3000\u3000<line-break>他のものを見失う。<line-break>…あの男はそういう男だ。<line-break>また、他の物が見える男より<line-break>他の物が見えなくなる男の方が<line-break>求めるべき物だけを見ることができる。<end>"
-english = ""
+english = "When people pursue something, they lose sight of everything else. That's the kind of man he is. A man who can no longer see anything else can focus solely on what he ought to seek, unlike one who still sees other things.<end>"
 
 ["1610257"]
 japanese = "もっとも、求めるべき物すらも\u3000\u3000\u3000\u3000<line-break>見失うことがも<line-break>ままあるがな。<end>"
-english = ""
+english = "Mind you, often enough he loses sight of even that.<end>"
 
 ["1610258"]
 japanese = "どうなさったのですか？\u3000\u3000\u3000\u3000\u3000<line-break>闇の怪物を放っておくのですか？<line-break>\u3000<line-break>すみませんが、私も急いでいます。<line-break>回復してさしあげますので<line-break>闇の者のもとへと急ぎましょう。<end>"

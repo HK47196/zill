@@ -78,11 +78,11 @@ english = "What a coward. This is why sheltered little rich boys are no good.<en
 
 ["1540019"]
 japanese = "はぁい、お元気？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>。<line-break>\u3000<line-break>せっかく会えたんだけど、<line-break>僕は用があるから、<line-break>失礼するよ。<end>"
-english = ""
+english = "Hi there, <value:$28>. It was nice running into you, but I have something to do, so if you'll excuse me.<end>"
 
 ["1540020"]
 japanese = "でもね、この子がね<line-break>君のこと食べちゃいたいくらい\u3000\u3000<line-break>好きだなんだってさ！<end>"
-english = ""
+english = "But you see, this one says he likes you so much he could just eat you up!<end>"
 
 ["1540021"]
 japanese = "<if><value:$2A><greater-equal>50相手してあげてよ！\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>じゃあねぇ！\u3000<value:$2B>の<line-break><value:$28>！<end>相手してあげてよ！\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>じゃあねぇ！<line-break><value:$28>！<end>"
@@ -174,7 +174,7 @@ english = "Well then, I'll be taking Elfas with me. There are still things I nee
 
 ["1540043"]
 japanese = "はぁい、元気そうだね、<value:$28>。\u3000<line-break>でも、ここまでくるとさすがに<line-break>目ざわりなんだよね。<line-break>\u3000<line-break>無限のソウルの持ち主は、<line-break>もうひとりいるから、<line-break>君にはそろそろ退場してもらおうかな。<end>"
-english = ""
+english = "Hi there, <value:$28>. You look well. But by now, you're really getting in my way. There's already another bearer of the Infinite Soul, so maybe it's time you left the stage.<end>"
 
 ["1540044"]
 japanese = "やめてくれ、シャリ！<end>"
@@ -182,71 +182,71 @@ english = "Stop, Shalli!<end>"
 
 ["1540045"]
 japanese = "アハハ。<line-break>聞こえないよ。エルファス。<line-break>君のそんな虚ろな願いなんて。<end>"
-english = ""
+english = "Ahaha. I can't hear you, Elfas. Not those hollow wishes of yours.<end>"
 
 ["1540046"]
 japanese = "逃げろ、<value:$28>！"
-english = ""
+english = "Run, <value:$28>!"
 
 ["1540047"]
 japanese = "無理無理。<line-break>さあ、出ておいで！<line-break>格好の遊び相手だよ。<end>"
-english = ""
+english = "No chance. Come on out! Here's the perfect playmate for you.<end>"
 
 ["1540048"]
 japanese = "そこどいてよ、エルファス。<line-break><value:$28>には<line-break>もう退場してもらうんだから。<end>"
-english = ""
+english = "Out of the way, Elfas. It's time for <value:$28> to leave the stage.<end>"
 
 ["1540049"]
 japanese = "それはできない。<end>"
-english = ""
+english = "I can't do that.<end>"
 
 ["1540050"]
 japanese = "うーん、理解に苦しむなぁ。<end>"
-english = ""
+english = "Hmm. I don't understand.<end>"
 
 ["1540051"]
 japanese = "あれあれ？\u3000ひょっとして、<line-break>僕を敵に回すって意思表示なのかな？<end>"
-english = ""
+english = "Well, well. Are you saying you intend to make an enemy of me?<end>"
 
 ["1540052"]
 japanese = "それも違う。<end>"
-english = ""
+english = "That's not it either.<end>"
 
 ["1540053"]
 japanese = "じゃあ、どういうことだい？<end>"
-english = ""
+english = "Then what is it?<end>"
 
 ["1540054"]
 japanese = "<value:$28>が…。<line-break>僕にとって大事な存在だからだ。<end>"
-english = ""
+english = "Because <value:$28>... is important to me.<end>"
 
 ["1540055"]
 japanese = "いいのかな？<line-break><value:$28>をかばうのって<line-break>裏切りじゃない？<line-break>君はこれまで多くの人の命を<line-break>奪ってきたんだよ。<line-break>\u3000<line-break>その中には誰かにとって、<line-break>大事な存在だった人もいたはずさ。<end>"
-english = ""
+english = "Is that really all right? Wouldn't protecting <value:$28> be a betrayal? You've taken many lives so far. Some of them must have been important to someone.<end>"
 
 ["1540056"]
 japanese = "何人もその手にかけたあげく、<line-break>自分の姉さんまで見殺しにした君が、<line-break>今さら大事な人を守りたいだなんて…。<line-break>虫のよすぎる話だとは思わないかい？<end>"
-english = ""
+english = "After putting so many people to death with your own hands, and even abandoning your own sister to die, you say you want to protect someone important now... Don't you think that's incredibly self-serving?<end>"
 
 ["1540057"]
 japanese = "わかってはいる。だけど…。<line-break>もう耐えきれないんだ。<end>"
-english = ""
+english = "I know. But... I can't endure it any longer.<end>"
 
 ["1540058"]
 japanese = "理解してくれとは言わぬ。<line-break>だが<value:$28>を決して<line-break>死なせはしない。<end>"
-english = ""
+english = "I do not ask you to understand. But I will never let <value:$28> die.<end>"
 
 ["1540059"]
 japanese = "ふーん。まあいいさ。<line-break>壊れたオモチャに興味はないよ。<line-break>さようなら、エルファス。<end>"
-english = ""
+english = "Hmm. Fine. I have no interest in broken toys. Farewell, Elfas.<end>"
 
 ["1540060"]
 japanese = "もう君には、僕がかなえてあげるだけの<line-break>願いはないみたいだからね。<end>"
-english = ""
+english = "It seems you no longer have any wish for me to grant.<end>"
 
 ["1540061"]
 japanese = "もはや僕にはどこに行くアテもない。<line-break>すまないが、しばらく一緒に<line-break>いさせてくれ。<end>"
-english = ""
+english = "I have nowhere left to go. Forgive me, but let me stay with you a while.<end>"
 
 ["1540062"]
 japanese = "あーあ、世話が焼ける。<line-break>お手本見せないとダメなのかなあ。<line-break>くすくす。<end>"
@@ -258,15 +258,15 @@ english = "Stop, Shalli!<end>"
 
 ["1540064"]
 japanese = "アハハ。<line-break>聞こえないよ。エルファス。<line-break>君のそんな虚ろな願いなんて。<end>"
-english = ""
+english = "Ahaha. I can't hear you, Elfas. Not those hollow wishes of yours.<end>"
 
 ["1540065"]
 japanese = "逃げろ、<value:$28>！"
-english = ""
+english = "Run, <value:$28>!"
 
 ["1540066"]
 japanese = "無理無理。<line-break>さあ、出ておいで！<line-break>格好の遊び相手だよ。<end>"
-english = ""
+english = "No chance. Come on out! Here's the perfect playmate for you.<end>"
 
 ["1540067"]
 japanese = "なんのマネだい、エルファス？<end>"
@@ -282,7 +282,7 @@ english = "You wouldn't save your sister, but you'll save <value:$28>? Well, wel
 
 ["1540070"]
 japanese = "あれあれ？\u3000ひょっとして、僕を敵に回すって意思表示なのかな？"
-english = ""
+english = "Well, well. Are you saying you intend to make an enemy of me?"
 
 ["1540071"]
 japanese = "……………………。<end>"
@@ -306,11 +306,11 @@ english = "You know, despair is really a deep, deep wish. And <value:$28> is pos
 
 ["1540076"]
 japanese = "わかってはいる。だけど…。<line-break>もう耐えきれないんだ。<end>"
-english = ""
+english = "I know. But... I can't endure it any longer.<end>"
 
 ["1540077"]
 japanese = "理解してくれとは言わぬ。<line-break>だが<value:$28>を決して<line-break>死なせはしない。<end>"
-english = ""
+english = "I do not ask you to understand. But I will never let <value:$28> die.<end>"
 
 ["1540078"]
 japanese = "ふーん。まあいいさ。<line-break>僕は願いをかなえるけど<line-break>強制はしない。<line-break>君の代わりを探すことにするよ。<line-break>さようなら、エルファス。<end>"
@@ -318,11 +318,11 @@ english = "Hmm. Very well. I grant wishes, but I don't force anyone. I'll find s
 
 ["1540079"]
 japanese = "もう君には、僕がかなえてあげるだけの<line-break>願いはないみたいだからね。<end>"
-english = ""
+english = "It seems you no longer have any wish for me to grant.<end>"
 
 ["1540080"]
 japanese = "もはや僕にはどこに行くアテもない。<line-break>すまないが、しばらく一緒に<line-break>いさせてくれ。<end>"
-english = ""
+english = "I have nowhere left to go. Forgive me, but let me stay with you a while.<end>"
 
 ["1540081"]
 japanese = "やーちゃった、やっちゃった！<line-break>うわー、人間ってひどいよね、<line-break>もの言わぬ者たちに対しては。<line-break>何も言えない者たちを<line-break>平気で踏みにじっちゃうよね、<line-break>姉さんを見捨てるエルファスみたいに。<end>"
@@ -406,7 +406,7 @@ english = "Hee hee... Ahaha! Amazing! Balor's power exceeds even my expectations
 
 ["1540101"]
 japanese = "ネ、ネメア…。<line-break>生きていたの…。<line-break> <line-break>ふふふ…でも、同じ事。<line-break>魔王バロルよ、<line-break>闇の者、ネメアを消し去りたまえ！<end>"
-english = ""
+english = "N-Nemea... You were alive... Hee hee... But it makes no difference. Balor, Demon King, erase Nemea, creature of darkness, from existence!<end>"
 
 ["1540102"]
 japanese = "くっ！<line-break>破滅の槍の力を解放する気？<end>"
@@ -414,27 +414,27 @@ english = "Damn! Are you going to unleash the power of the Spear of Ruin?<end>"
 
 ["1540103"]
 japanese = "僕は残念だよ。ネメア。<line-break>次元の狭間に消えたと聞いていたのに、<line-break>また地上に舞い戻ってくるなんて。<end>"
-english = ""
+english = "I'm disappointed, Nemea. I heard you vanished into the rift between dimensions, yet here you are, returned to the world above.<end>"
 
 ["1540104"]
 japanese = "エルファス。イズのことは…。<end>"
-english = ""
+english = "Elfas. About Iz...<end>"
 
 ["1540105"]
 japanese = "黙っててくれないか、ネメア。お前が姉さんにした仕打ちを<line-break>僕は忘れたわけじゃない。<line-break>ただ、今は死者にではなく…、<line-break>生きている人への思いを<line-break>大切にしたいんだ。<end>"
-english = ""
+english = "Will you be quiet, Nemea? I haven't forgotten what you did to my sister. But now, rather than dwell on the dead... I want to cherish my feelings for the living.<end>"
 
 ["1540106"]
 japanese = "フッ。いずれすべてが終われば、<line-break>語り合う機会もあるだろう。<line-break>\u3000<line-break>今はただ鬼神となって、奴らの野望を<line-break>粉砕せねばならん。<end>"
-english = ""
+english = "Hmph. Once all this is over, perhaps we will have a chance to talk. For now, I must become a war god and shatter their ambitions.<end>"
 
 ["1540107"]
 japanese = "奇遇だね。認めたくはないけど<line-break>初めて意見が合った。<line-break>急ごう、<value:$28>。<line-break>今ならまだ間に合う。<line-break>バロルが本来の力を取り戻す前に<line-break>滅ぼすんだ。<end>"
-english = ""
+english = "What a coincidence. Though I hate to admit it, this is the first time we've agreed. Hurry, <value:$28>. We can still make it. Destroy him before Balor regains his true power.<end>"
 
 ["1540108"]
 japanese = "人間は、よきにつけ悪しきにつけ、<line-break>変わってゆくものです。<line-break>\u3000<line-break>人の思いは、やがて世界を<line-break>新たな未来に導いていくでしょう。<line-break>これからは人間の時代が来るんですね。<end>"
-english = ""
+english = "For better or worse, humans change. In time, people's thoughts and feelings will lead the world toward a new future. The age of humanity is coming.<end>"
 
 ["1540109"]
 japanese = "だけど、<line-break>そうは…いかない！<end>"
@@ -470,15 +470,15 @@ english = "Hee hee, ahaha...! How sweet of you, Elfas. I love that softhearted s
 
 ["1540117"]
 japanese = "もう誰にも止められないよ。<line-break>強大な闇の巨人が世界中を襲ってるのさ。<line-break>でも、これはほんの序の口<line-break>ここからが本番だ。<end>"
-english = ""
+english = "No one can stop it now. Mighty Dark Giants are attacking all over the world. But that's only the beginning. Now the real show starts.<end>"
 
 ["1540118"]
 japanese = "ゾフォル爺さん、頼んだよ。<end>"
-english = ""
+english = "Old Zophor, I'm counting on you.<end>"
 
 ["1540119"]
 japanese = "くっくっくっ。<value:$28>よ。<line-break>わしらがなにゆえに闇の巨人を呼び出したか、わかるか？<line-break>すべてはバロル様復活のためよ。<line-break>闇の巨人はバロル様が降臨するための<line-break>依り代に必要なのでな。<end>"
-english = ""
+english = "Heh heh heh. Tell me, <value:$28>: do you know why we summoned the Dark Giant? It was all to bring Lord Balor back. The Dark Giant is needed as the vessel through which Lord Balor will descend.<end>"
 
 ["1540120"]
 japanese = "闇の巨人をこれだけ<line-break>呼び寄せることができたから<line-break>バロルも復活できた。<line-break>それもすべて、<line-break>強大な闇の力の持ち主である<line-break>闇の王女がいればこそだけどね。<end>"
@@ -510,11 +510,11 @@ english = "Elfas...<end>"
 
 ["1540127"]
 japanese = "僕は残念だよ。ネメア。<line-break>次元の狭間に消えたと聞いていたのに、<line-break>また地上に舞い戻ってくるなんて。<end>"
-english = ""
+english = "I'm disappointed, Nemea. I heard you vanished into the rift between dimensions, yet here you are, returned to the world above.<end>"
 
 ["1540128"]
 japanese = "エルファス。イズのことは…。<end>"
-english = ""
+english = "Elfas. About Iz...<end>"
 
 ["1540129"]
 japanese = "ネメア…。<line-break>姉さんのこと、<line-break>水に流したわけじゃない。<line-break>ただ、今は死者にではなく…、<line-break>生きている人への思いを<line-break>大切にしたいんだ。<end>"
@@ -526,11 +526,11 @@ english = "Hmph... I see.<end>"
 
 ["1540131"]
 japanese = "奇遇だね。認めたくはないけど<line-break>初めて意見が合った。<line-break>急ごう、<value:$28>。<line-break>今ならまだ間に合う。<line-break>バロルが本来の力を取り戻す前に<line-break>滅ぼすんだ。<end>"
-english = ""
+english = "What a coincidence. Though I hate to admit it, this is the first time we've agreed. Hurry, <value:$28>. We can still make it. Destroy him before Balor regains his true power.<end>"
 
 ["1540132"]
 japanese = "人間は、善きにつけ悪しきにつけ、<line-break>変わってゆくものです。<line-break>\u3000<line-break>人の思いは、やがて世界を<line-break>新たな未来に導いていくでしょう。<line-break>これからは人間の時代が来るんですね。<end>"
-english = ""
+english = "For better or worse, humans change. In time, people's thoughts and feelings will lead the world toward a new future. The age of humanity is coming.<end>"
 
 ["1540133"]
 japanese = "僕は<value:$28>と進む道を選んだ。<line-break>もう、過去からも運命からも<line-break>逃げるつもりはない。<end>"
