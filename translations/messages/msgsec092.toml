@@ -26,15 +26,15 @@ english = "Welcome. Old Dergado isn't here today for once, so you can take it ea
 
 ["920006"]
 japanese = "デルガド師匠に用かい？<line-break>たぶん、酒場で飲んだくれてんだろ？\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>自分の名を銘に入れた剣デルガドが<line-break>ネメアに折られちまってから<line-break>剣が打てねえって、あの調子だよ。<end>"
-english = ""
+english = "Looking for Master Dergado? He's probably at the tavern drinking himself senseless. Ever since Nemea broke Dergado―the sword bearing his own name―he's been like this, saying he can't forge another sword.<end>"
 
 ["920007"]
 japanese = "当代随一の刀工なんて持ち上げられて、\u3000\u3000\u3000<line-break>それが、いまや、ただの酔っぱらいさ。<line-break>天才は、逆境に弱いからねえ。<line-break>酒場にいなきゃ、どっか、ふらついてるのさ。<line-break>帰ってくるまで、結構かかるから<line-break>出直して来た方がいいよ。<end>"
-english = ""
+english = "He was once hailed as the finest swordsmith of the age, and now he's nothing but a drunk. Geniuses don't handle adversity well. If he isn't at the tavern, he's probably wandering around somewhere. It'll be a while before he gets back, so you'd better come back later.<end>"
 
 ["920008"]
 japanese = "ま、剣を打ってくれっつっても、<line-break>あれじゃ、無理だろうけどねえ。<line-break>え？\u3000師匠に用があったんじゃないの？\u3000\u3000\u3000<end>"
-english = ""
+english = "Though even if you asked him to forge a sword, I doubt he could in that state. Huh? You didn't come to see Master Dergado?<end>"
 
 ["920009"]
 japanese = "ふむ、わしがデルガドじゃ。<line-break>若いの、デルガドを知っとるか？<end>"
@@ -166,15 +166,15 @@ english = "In any case, if I have to travel with that mud-reeking Dwarf, I'd soo
 
 ["920041"]
 japanese = "是非とも死んでほしいものじゃが…、<line-break>わしもその娘との旅はガマンできん！<line-break>その娘がおらんときに呼んでくれ。<end>"
-english = ""
+english = "Much as I'd like to see you dead... I couldn't bear traveling with that girl either! Call for me when she isn't around.<end>"
 
 ["920042"]
 japanese = "ま、ま、とにかくさ。<line-break>デルガドはあとで、猫屋敷で呼ぶよ。<line-break>それまで、待機しててね。<end>"
-english = ""
+english = "Now, now. We'll summon Dergado from Cat Manor later. Until then, wait here, okay?<end>"
 
 ["920043"]
 japanese = "なんかよくわからんが<line-break>待っておればよいのじゃな。\u3000<line-break>\u3000<line-break>とにかく、その娘とこれ以上、<line-break>一緒にいるのはごめんじゃ。<line-break>失礼させてもらうぞ。<end>"
-english = ""
+english = "I don't really understand, but I just need to wait, yes? In any case, I refuse to spend another moment with that girl. I'll take my leave.<end>"
 
 ["920044"]
 japanese = "無礼で無神経なドワーフねぇ！<line-break>自分が何言ってるかわかってないのね。<line-break>\u3000<line-break>ほら！\u3000ここで用事があるなら<line-break>とっととすませて出発するわよ！<line-break>もう、イヤ！\u3000失礼するわ！<end>"
@@ -182,7 +182,7 @@ english = "What a rude, insensitive Dwarf! You don't even understand what you're
 
 ["920045"]
 japanese = "なんか、先が思いやられるね。<line-break><value:$28>…。<end>"
-english = ""
+english = "This doesn't bode well, <value:$28>...<end>"
 
 ["920046"]
 japanese = "よし、出口で合流じゃな？<line-break>では、わしも準備してくるわい。<line-break>またあとで会おうぞ。<end>"
@@ -214,11 +214,11 @@ english = "Is that so! I'm an adventurer myself―or was, at any rate. As it hap
 
 ["920053"]
 japanese = "では、これから<line-break>よろしく頼むぞ、若いの。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>おっと、名前を聞いておらなんだな。<line-break>名はなんという？<end>"
-english = ""
+english = "Then I look forward to traveling with you, youngster. Ah, but I haven't asked your name. What is it?<end>"
 
 ["920054"]
 japanese = "<value:$28>か…。<line-break>よろしくな、<value:$28>。<end>"
-english = ""
+english = "<value:$28>, eh? Good to meet you, <value:$28>.<end>"
 
 ["920055"]
 japanese = "猫屋敷で呼び出す…のか？<line-break>よくわからんが、待っておるぞ。<line-break>では、用意をしておこうかの。<end>"
@@ -226,47 +226,47 @@ english = "You'll summon me... from Cat Manor? I don't quite understand, but I'l
 
 ["920056"]
 japanese = "すぐにデルガドをパーティーに入れますか？<end>"
-english = ""
+english = "Add Dergado to the party now?<end>"
 
 ["920057"]
 japanese = "もぉ、イヤー！<line-break><value:$28>ー。<end>"
-english = ""
+english = "Oh, I can't stand it! <value:$28>!<end>"
 
 ["920058"]
 japanese = "泥臭い！\u3000ドワーフ臭いわ！<line-break>こぉーんな所、息が詰まってよー！<line-break>早く出るのよ、<value:$28>！<end>"
-english = ""
+english = "It reeks of mud! It reeks of Dwarves! I can't breathe in a place like this! Hurry up and get us out of here, <value:$28>!<end>"
 
 ["920059"]
 japanese = "いやっ！\u3000またもドワーフぅ！？<line-break>し～か～も、酒臭いわー！？<end>"
-english = ""
+english = "No! Another Dwarf?! And this one reeks of drink?!<end>"
 
 ["920060"]
 japanese = "なぁんですってぇ？\u3000このアタクシに<line-break>そこの下等な泥臭いドワーフと<line-break>一緒に旅をしろっていうのー！？<end>"
-english = ""
+english = "What did you say? You expect me, of all people, to travel with that inferior, mud-reeking Dwarf?!<end>"
 
 ["920061"]
 japanese = "だ～か～ら、早死にだけが取り柄の<line-break>ド下等生物どもは、困るのよー！<line-break>そんな非常識を平気で言ってくるから！<end>"
-english = ""
+english = "This is precisely why I can't abide you utterly inferior creatures whose only virtue is dying young! You say the most outrageous things without batting an eye!<end>"
 
 ["920062"]
 japanese = "何が、早死にだけが取り柄じゃ！<line-break>わしはもう１６０年も生きとるわい！<end>"
-english = ""
+english = "What's this about my only virtue being an early death? I've lived for a hundred and sixty years already!<end>"
 
 ["920063"]
 japanese = "お・あ・い・に・く、<line-break>アタクシはその１０倍は生きてるの！<line-break>\u3000<line-break>しかも、人間やドワーフみたいな<line-break>下等生物のように、あくせくせずに<line-break>優雅に、高貴に、生きてきたの！<end>"
-english = ""
+english = "Too bad for you, but I've lived ten times that long! And unlike inferior creatures such as humans and Dwarves, I've lived without all that frantic scurrying―gracefully and nobly!<end>"
 
 ["920064"]
 japanese = "つまりは、なんにもせずに<line-break>のらりくらりと生きとったわけじゃろ？<end>"
-english = ""
+english = "So you've spent all that time idling about and doing nothing, then?<end>"
 
 ["920065"]
 japanese = "や～ね～、自分の尺度でしか<line-break>ものを見られないなんて。<line-break>所詮、下等生物なんてその程度かしら。<end>"
-english = ""
+english = "How tiresome. You can't see anything except by your own standards. I suppose that's all inferior creatures are capable of.<end>"
 
 ["920066"]
 japanese = "とにかく、その泥くっさいドワーフと<line-break>一緒に旅しないといけないくらいなら<line-break>舌かんで死んだ方がましだわ！<end>"
-english = ""
+english = "In any case, if I have to travel with that mud-reeking Dwarf, I'd sooner bite off my tongue and die!<end>"
 
 ["920067"]
 japanese = "是非とも死んでほしいものじゃが…、<line-break>わしもその娘との旅はガマンできん！<line-break>その娘がおらんときに呼んでくれ。<end>"
@@ -274,27 +274,27 @@ english = "Much as I'd like to see that girl dead... I couldn't bear traveling w
 
 ["920068"]
 japanese = "若いの、お前が悪いとは言うとらん。<line-break>ただその娘が気に入らんだけじゃ。<line-break>\u3000<line-break>猫屋敷で呼び出すというのなら<line-break>なんかよくわからんが<line-break>わしは待っておるわい。<end>"
-english = ""
+english = "Youngster, I'm not saying this is your fault. I just don't like that girl. If you're going to summon me from Cat Manor, I don't really understand it, but I'll wait.<end>"
 
 ["920069"]
 japanese = "とにかく、その娘とこれ以上、\u3000\u3000\u3000<line-break>一緒にいるのはごめんじゃ。<line-break>失礼させてもらうぞ。<end>"
-english = ""
+english = "In any case, I refuse to spend another moment with that girl. I'll take my leave.<end>"
 
 ["920070"]
 japanese = "無礼で無神経なドワーフねぇ！<line-break>自分が何言ってるかわかってないのね。<line-break>\u3000<line-break>ほら！\u3000ここで用事があるなら<line-break>とっとと済ませて出発するわよ！<line-break>もう、イヤ！\u3000失礼するわ！<end>"
-english = ""
+english = "What a rude, insensitive Dwarf! You don't even understand what you're saying. Now, if you have business here, finish it quickly so we can leave! I've had enough! I'm leaving!<end>"
 
 ["920071"]
 japanese = "それなら、出口で合流すれば\u3000\u3000<line-break>いいんじゃな？<line-break>\u3000<line-break>わしも準備してくるわい。<line-break>またあとで会おうぞ。<end>"
-english = ""
+english = "Then we'll meet at the exit, yes? I'll go make my preparations. See you shortly.<end>"
 
 ["920072"]
 japanese = "一緒に冒険するときは<line-break>猫屋敷から呼び出す…のか？<line-break>\u3000<line-break>なんだかよくわからんが、<line-break>待っておればよいのだな。<line-break>では、用意をしとくかの。<end>"
-english = ""
+english = "You'll summon me from Cat Manor when it's time to adventure together...? I don't really understand, but I just need to wait, yes? Then I suppose I'd best get ready.<end>"
 
 ["920073"]
 japanese = "そうか…、なら、いいわい…。<end>"
-english = ""
+english = "I see... Then that's fine...<end>"
 
 ["920074"]
 japanese = "…気分が悪いわ！<line-break>…出て行け！<end>"
@@ -386,7 +386,7 @@ english = "What...! This is...<end>"
 
 ["920096"]
 japanese = "折れた宝剣を入手した。<end>"
-english = ""
+english = "Obtained the Broken Precious Sword.<end>"
 
 ["920097"]
 japanese = "それは、折れてはいるが、<line-break>間違いなくカッツの剣じゃ。<line-break>しかも、かなりのできのな。<line-break>おそらくは、この山の山頂で<line-break>打った剣じゃろう。しかし、<line-break>何ゆえに折れたのか…。<end>"
