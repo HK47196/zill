@@ -74,11 +74,11 @@ english = "That is regrettable. Forgive me for summoning you so abruptly. You ma
 
 ["1340018"]
 japanese = "では、よろしく頼むよ<line-break><value:$28>君。<end>"
-english = ""
+english = "Then I'm counting on you, <value:$28>.<end>"
 
 ["1340019"]
 japanese = "ああ、帰り道かね？<line-break>心配無用だ。我が軍の者に<line-break>アキュリュースまで送らせよう。<line-break>外にいる騎士に声をかけたまえ。<end>"
-english = ""
+english = "Ah, wondering how you will get back? No need to worry. I shall have one of my soldiers escort you to Aqyurius. Speak to the knight outside.<end>"
 
 ["1340020"]
 japanese = "ああ、ちょっと待ちたまえ。\u3000<line-break>ひとつ言い忘れていた。<line-break>\u3000<line-break>単独行動をしている間、<line-break>アルノートゥンに対する<line-break>一切の破壊、略奪行動は禁止する。<end>"
@@ -94,7 +94,7 @@ english = "You must be <value:$28>. I've heard about you. Shall we go?<end>"
 
 ["1340023"]
 japanese = "さあ、モイ、ソイ、<line-break>お前たちの出番だ。<line-break>しっかり走ってくれよ。<end>"
-english = ""
+english = "All right, Moi, Soi. It's your turn. Run with all you've got.<end>"
 
 ["1340024"]
 japanese = "あ、<value:$28>様！<line-break>お送りします。<line-break>待ってください～。<end>"
@@ -102,71 +102,71 @@ english = "Ah, <value:$28>! I'll escort you. Wait for me!<end>"
 
 ["1340025"]
 japanese = "\u3000\u3000\u3000\u3000西方攻略をその任とし、<line-break>近々アルノートゥン侵攻を計画していた<line-break>\u3000ディンガル軍の白虎将軍ジラークが<line-break>\u3000\u3000\u3000\u3000突然、その姿を消した。<line-break>\u3000\u3000アルノートゥン攻略の目的の<line-break>\u3000ひとつである、聖光石の鉱山へと<line-break>\u3000\u3000\u3000\u3000視察に向かったきり、<line-break>\u3000\u3000\u3000連絡が途絶えたのである。<end>"
-english = ""
+english = "White Tiger General Zsilak of the Dingal Army, tasked with conquering the west and planning an imminent invasion of Alnortun, suddenly vanished. He had gone to inspect the Holy Light Stone mine, one of the campaign's objectives, and all contact with him was lost.<end>"
 
 ["1340026"]
 japanese = "\u3000幾度となく派遣された捜索隊も帰ってこず、<line-break>\u3000\u3000白虎軍の士気は下がる一方であった。<line-break>\u3000\u3000そしてついに、ディンガル本国より<line-break>\u3000\u3000全軍の本国への一時撤退が通達された。<end>"
-english = ""
+english = "The search parties sent out time and again also failed to return, and the White Tiger Army's morale continued to decline. At last, orders came from Dingal for the entire army to withdraw home temporarily.<end>"
 
 ["1340027"]
 japanese = "このジラークの失踪は、大いなる闇の力の復活に<line-break>\u3000深く関与していたのだが、それを知るものは<line-break>\u3000\u3000\u3000当事者以外にはほとんどいなかった。<line-break>\u3000\u3000ただひとり、猫屋敷の賢者を除いては…。\u3000<line-break>\u3000\u3000時代は、人々の望む望まざるに関わらず<line-break>\u3000\u3000\u3000着実に、混沌へと向かっていた…。<line-break>\u3000<end>"
-english = ""
+english = "Zsilak's disappearance was deeply connected to the revival of a great dark power, though almost no one beyond those directly involved knew the truth―save the sage of Cat Manor. Whether people wished it or not, the age was steadily moving toward chaos...<end>"
 
 ["1340028"]
 japanese = "あなたは…<line-break>無限のソウルを持つ者ですね…。<line-break>\u3000<line-break>お願いです。<line-break>どうぞお助けください。<line-break>あなたの力が必要なのです。<end>"
-english = ""
+english = "You are... the Bearer of the Infinite Soul, aren't you...? Please, help me. I need your power.<end>"
 
 ["1340029"]
 japanese = "私は…、この場所に<line-break>捕らわれているのです。\u3000\u3000\u3000<line-break>もうずっと長い間…。<line-break>どうぞ、力をお貸しください。<line-break>無限のソウルの力が<line-break>必要なのです。<end>"
-english = ""
+english = "I am... trapped in this place. It has been so very long... Please, lend me your strength. I need the power of the Infinite Soul.<end>"
 
 ["1340030"]
 japanese = "力を貸す<end>"
-english = ""
+english = "Lend her your strength<end>"
 
 ["1340031"]
 japanese = "それはできない<end>"
-english = ""
+english = "I cannot<end>"
 
 ["1340032"]
 japanese = "ありがとう…。<end>"
-english = ""
+english = "Thank you...<end>"
 
 ["1340033"]
 japanese = "さぁ、私に手を…。<end>"
-english = ""
+english = "Now, give me your hand...<end>"
 
 ["1340034"]
 japanese = "愚かな…。<line-break>うぬに力与えしは、<line-break>何者と思うておる？<end>"
-english = ""
+english = "Fool... Who do you think granted you that power?<end>"
 
 ["1340035"]
 japanese = "\u3000\u3000\u3000\u3000我は不死にして力あるもの…。\u3000<line-break>\u3000\u3000\u3000\u3000我こそは邪竜イシュバアル…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000破壊神により創られ<line-break>\u3000\u3000\u3000この世に破壊をもたらす者なり…。<end>"
-english = ""
+english = "I am immortal and mighty... I am Ishbaal, the Evil Dragon... Created by the God of Destruction, I bring destruction to this world...<end>"
 
 ["1340036"]
 japanese = "\u3000\u3000\u3000\u3000\u3000 無限のソウルを持つ者よ…\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000 よくぞ我を復活させた…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000 その礼ぞ…<line-break>\u3000\u3000\u3000\u3000うぬにも破滅をくれてやろう…！<end>"
-english = ""
+english = "Bearer of the Infinite Soul... You have done well to revive me. In thanks... I shall bring ruin upon you as well...!<end>"
 
 ["1340037"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000 バカな…！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000竜である我が<line-break>\u3000\u3000\u3000\u3000人の子ごときに敗れようとは…。<end>"
-english = ""
+english = "Impossible... That I, a dragon, should be defeated by a mere human child...<end>"
 
 ["1340038"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000…終わらぬぞ…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000これしきでは…終わらぬぞオオオオ！<line-break>\u3000\u3000\u3000\u3000ゴオオオオオオオオオオオ！！！<end>"
-english = ""
+english = "It is not over... This will not end me... It is not over yet! GRAAAAAAAAAAH!!!<end>"
 
 ["1340039"]
 japanese = "<value:$28>は<line-break>竜殺しの称号を得た。<end>"
-english = ""
+english = "<value:$28> earned the title of Dragonslayer.<end>"
 
 ["1340040"]
 japanese = "…そんな！\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>…いえ、<line-break>あなたが再び訪れる日を<line-break>待つことにします。<end>"
-english = ""
+english = "...No! ...No. I shall wait for the day you return.<end>"
 
 ["1340041"]
 japanese = "あなたしか、<line-break>私を救える人はいないのです。<line-break>どうか、あわれんでください。<end>"
-english = ""
+english = "You are the only one who can save me. Please, take pity on me.<end>"
 
 ["1340042"]
 japanese = "お疲れさまです、\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>様！<line-break>\u3000<line-break>ジラーク様の陣中へまいりますか？<end>"
@@ -362,11 +362,11 @@ english = "Ah, wondering how you will get back? No need to worry. I shall have o
 
 ["1340090"]
 japanese = "キュイ～！<end>"
-english = ""
+english = "Kweee!<end>"
 
 ["1340091"]
 japanese = "ピュイ～！<end>"
-english = ""
+english = "Pweee!<end>"
 
 ["1340092"]
 japanese = "<value:$28>は<line-break>竜殺しの称号を得た。<end>"
@@ -450,7 +450,7 @@ english = "I've wrestled with it too, and decided this is for the best. I'm sorr
 
 ["1340112"]
 japanese = "<value:$28>？<end>"
-english = ""
+english = "<value:$28>?<end>"
 
 ["1340113"]
 japanese = "こんなところで君に会うなんて…。<end>"
@@ -714,23 +714,23 @@ english = "I always admired you, General... I swear I'll protect our people, no 
 
 ["1340178"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000うぬは…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者か…？<line-break><line-break>\u3000\u3000\u3000\u3000\u3000我、運よく目覚めしも、<line-break>\u3000\u3000\u3000\u3000悠久の眠りによりて力は衰え<line-break>\u3000\u3000\u3000意のままに動くことすらかなわぬ…。<end>"
-english = ""
+english = "You... Are you the Bearer of the Infinite Soul...? I was fortunate to awaken, but my long slumber has weakened me. I cannot even move as I wish...<end>"
 
 ["1340179"]
 japanese = "    感謝するぞ…我が餌食となりに来たを…。<line-break>             目覚めの力を蓄えるに<line-break><line-break>         無限のソウルの持ち主の血肉に<line-break>             まさるものはないわ…。<end>"
-english = ""
+english = "I thank you... for coming to be my prey. Nothing can restore my strength like the flesh and blood of the Bearer of the Infinite Soul...<end>"
 
 ["1340180"]
 japanese = "\u3000\u3000\u3000我はイシュバアル…すなわち破滅…！<line-break>\u3000\u3000\u3000\u3000\u3000\u3000破壊神により生まれ…<line-break>\u3000\u3000\u3000\u3000この世界に死をもたらす者なり…！<end>"
-english = ""
+english = "I am Ishbaal... Destruction itself! Born of the God of Destruction, I bring death to this world...!<end>"
 
 ["1340181"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000バカな…！<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000竜である我が<line-break>\u3000\u3000\u3000人の子ごときに敗れようとは…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000…終わらぬぞ…。<line-break>\u3000\u3000\u3000\u3000これしきでは…終わらぬぞオオオオ！<line-break>\u3000\u3000\u3000\u3000\u3000ゴオオオオオオオオオオオ！！！<end>"
-english = ""
+english = "Impossible... That I, a dragon, should be defeated by a mere human child... It is not over... This will not end me... It is not over yet! GRAAAAAAAAAAH!!!<end>"
 
 ["1340182"]
 japanese = "<value:$28>は<line-break>竜殺しの称号を得た。<end>"
-english = ""
+english = "<value:$28> earned the title of Dragonslayer.<end>"
 
 ["1340183"]
 japanese = "な、何者だ！<line-break>ディンガル帝国の者かっ！<end>"
@@ -1190,7 +1190,7 @@ english = "Nngh... nngh...<end>"
 
 ["1340297"]
 japanese = "レイヴン、大丈夫？<end>"
-english = ""
+english = "Raven, are you all right?<end>"
 
 ["1340298"]
 japanese = "……ふ、<line-break>また、か…。ふふ…。<end>"
@@ -1314,7 +1314,7 @@ english = "<select><value:$20>%3Lady Noel sometimes distinguishes herself huntin
 
 ["1340328"]
 japanese = "ここの領主様は、かつて<line-break>ソウルイーターを倒したという<line-break>勇者の子孫だということだ。<line-break>つまり、その娘であるノエル様も、<line-break>勇者の血筋であるということになる。<line-break>きっと、あの剣を抜けると思うよ。<end>"
-english = ""
+english = "The lord here is said to be descended from the hero who once defeated the Soul Eater. That means the lord's daughter, Lady Noel, also has the hero's blood in her veins. I'm sure she can pull out that sword.<end>"
 
 ["1340329"]
 japanese = "<select><value:$20>%2ときどき、こうやって村の力自慢や<line-break>通りがかりの冒険者が挑戦するのさ。<line-break>それをひやかすのが、わしの道楽でね。<end>今回こそは抜けるとみんな信じてるんだ。<line-break>何せ、旅の預言者様のお墨つきだからな。<line-break>ノエルがあの剣を抜く！\u3000ってなあ。<end>"
@@ -1326,7 +1326,7 @@ english = "<select><value:$20>%3I wonder how many people have tried to pull that
 
 ["1340331"]
 japanese = "あの娘は領主様の一人娘ノエルさ。<line-break>身体は小さいけど、剣の腕は確かだよ。<end>"
-english = ""
+english = "That's Noel, the lord's only daughter. She may be small, but she certainly knows how to use a sword.<end>"
 
 ["1340332"]
 japanese = "<select><value:$20>%3地図にも載っていないような<line-break>ヘンピな村だけど、<line-break>こんな珍しい風習があったなんて。<line-break>実際に旅してみないと<line-break>世界はわからない、ってことかな。<end>あ、私の角が珍しいですか？<line-break>無理もない。私たちコーンス族は<line-break>今では少数民族ですからね。<line-break>それにしても、うーん、<line-break>興味深い風習だなあ。<end>君も、惜しいことをしたね。<line-break>もう数日早くここへ来ていれば、<line-break>預言者の奇蹟も見ることができたのに。<line-break>銀色の長い髪をした若者でね、<line-break>私も信者になろうかと考えたほどさ。<end>"
@@ -1334,7 +1334,7 @@ english = "<select><value:$20>%3This village is so remote it doesn't even appear
 
 ["1340333"]
 japanese = "あ、私の角が珍しいですか？<line-break>無理もない。私たちコーンス族は<line-break>今では少数民族ですからね。<line-break>それにしても、うーん、<line-break>興味深い風習だなあ。<end>"
-english = ""
+english = "Oh, do you find my horns unusual? That's understandable. We Korns are an ethnic minority now. Still... what a fascinating custom.<end>"
 
 ["1340334"]
 japanese = "<if><value:$29><equal>%0おらおら、坊主！<line-break>ノエルさんの<line-break>邪魔をするんじゃないぞ！<end>おいおい、姉ちゃん！<line-break>ノエルさんの<line-break>邪魔をしちゃダメだぜ！<end>"
@@ -1386,11 +1386,11 @@ english = "Pull yourself together. Think about why you were spared. You are... a
 
 ["1340346"]
 japanese = "勇者だ！\u3000勇者の再臨だ！<end>"
-english = ""
+english = "It's the Hero! The Hero has returned!<end>"
 
 ["1340347"]
 japanese = "つ、ついに<line-break>剣が抜けるときが訪れたか…。<end>"
-english = ""
+english = "C-could the time have finally come for the sword to be drawn...?<end>"
 
 ["1340348"]
 japanese = "（急に空気が変わった…。）<line-break> <line-break> <line-break>（嫌な予感だ。<line-break>\u3000外へ行ってみよう。）<end>"
@@ -1574,7 +1574,7 @@ english = "Mnyuu...<end>"
 
 ["1340393"]
 japanese = "ほーっほっほっ、<line-break>むにゅー、ですわねー。<end>"
-english = ""
+english = "Ohohoho! Squishy, isn't it?<end>"
 
 ["1340394"]
 japanese = "見事です。あなたこそ、<line-break>ストラスエッジの所有者に<line-break>ふさわしいお方。<end>"
@@ -1582,7 +1582,7 @@ english = "Splendid. You are truly worthy to possess Stra's Edge.<end>"
 
 ["1340395"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000ストラスエッジを手に入れた<end>"
-english = ""
+english = "Obtained Stra's Edge.<end>"
 
 ["1340396"]
 japanese = "しかし、お強いですね。<line-break>まいりました。<end>"
@@ -1642,7 +1642,7 @@ english = "What's more, there are apparently rumors among the guards about sight
 
 ["1340410"]
 japanese = "口さがない者は母の亡霊の仕業だと…<end>"
-english = ""
+english = "Some of the more malicious gossips say it's the work of my mother's ghost...<end>"
 
 ["1340411"]
 japanese = "あっ…すみません。<line-break>せっかく来ていただいたのに<line-break>こんな話を…。<end>"
@@ -1670,7 +1670,7 @@ english = "(Should I make a donation...?)<end>"
 
 ["1340417"]
 japanese = "１００００ギアほど援助する<end>"
-english = ""
+english = "Provide 10,000 Gea<end>"
 
 ["1340418"]
 japanese = "えっ、こんなに<line-break>援助してくださるのですか？<line-break>ありがとうございます！<end>"
@@ -1842,19 +1842,19 @@ english = "Lord Tartyuba...<end>"
 
 ["1340460"]
 japanese = "人の死に慣れてしまったのでしょうか。<line-break>幼いときから一緒にいた方の死なのに<line-break>感慨がありません…<line-break>でも、安らかなお顔でしたね。<end>"
-english = ""
+english = "Have I grown accustomed to death? Someone who had been with me since childhood is dead, yet I feel nothing... Still, his face looked peaceful.<end>"
 
 ["1340461"]
 japanese = "タルテュバ様も思えば、<line-break>おかわいそうな方です。<line-break>\u3000<line-break>何かにつけて、いとこの<line-break>レムオン様、エスト様に比べられ、<line-break>あげつらわれてきたのですから。<end>"
-english = ""
+english = "Come to think of it, Lord Tartyuba was a pitiable man. He was forever being compared with his cousins, Lord Lemghon and Lord Est, and criticized for falling short.<end>"
 
 ["1340462"]
 japanese = "タルテュバ様も貴族に生まれなければ…<line-break>このような悲しいことには<line-break>ならなかったのかもしれません<end>"
-english = ""
+english = "Had Lord Tartyuba not been born a noble... perhaps none of this would have ended so sadly.<end>"
 
 ["1340463"]
 japanese = "<value:$28>様…<line-break>少しだけ、一人にさせてください<end>"
-english = ""
+english = "<value:$28>... please, let me be alone for a little while.<end>"
 
 ["1340464"]
 japanese = "レムオン様の身にいったい何が…。\u3000<line-break>\u3000<line-break>\u3000<end>"
@@ -1914,7 +1914,7 @@ english = "As queen, and as one of the people of this country, I mean to keep do
 
 ["1340478"]
 japanese = "これは、<value:$28>様。<line-break>どうぞ、お通りください。<end>"
-english = ""
+english = "Ah, <value:$28>. Please, go on through.<end>"
 
 ["1340479"]
 japanese = "あ、<value:$28>様、<line-break>ロストール復興のための組織を<line-break>作ったのです。<line-break>今回の事件でこの街も<line-break>ずいぶん傷を負いました<line-break>みなのためにできることはないかと…<end>"
@@ -2094,7 +2094,7 @@ english = "Don't listen, gob! I'm not helping with the rebuilding because I want
 
 ["1340523"]
 japanese = "<select><value:$20>%3団長はエライでゴブ。<line-break>ロストールの人たちのために<line-break>ガンバル姿には感動するゴブ！<end>こうやって、みんなでみんなで<line-break>しやあせになるゴブ！<end>自分たちゴブゴブ団も<line-break>一生懸命働いているから<line-break>復興団も、１００人力ゴブ！<end>"
-english = ""
+english = "<select><value:$20>%3The boss is great, gob. Seeing the boss work so hard for the people of Rostorl is inspiring, gob!<end>This way, everyone can be happy together, gob!<end>The Gob-Gob Gang is working as hard as it can too, so the rebuilding crew has the strength of a hundred, gob!<end>"
 
 ["1340524"]
 japanese = "<select><value:$20>%3腹減ったゴブ。<end>なんか食いたいゴブ。<end>ガント親分、腹黒いゴブ。<end>"
@@ -2122,7 +2122,7 @@ english = "I see... At long last, the rebuilding is beginning to find its footin
 
 ["1340530"]
 japanese = "エルファス様も<line-break>復興にはひとかたならぬ<line-break>お力をお貸しくださっています。<line-break>エルファス様は、ロストールだけでなく<line-break>世界中の都市で復興のため働いて、<line-break>神のようにあがめられているのです。<end>"
-english = ""
+english = "Lord Elfas has also been a tremendous help with the rebuilding. He is working to restore cities not only in Rostorl, but all over the world, and people worship him like a god.<end>"
 
 ["1340531"]
 japanese = "<value:$28>様。<line-break>あ、あの…、<line-break>私のお願いを聞いてくださいますか？<line-break>寝室に…来ていただきたいのです…。<end>"
@@ -2266,7 +2266,7 @@ english = "...Yes. I'll do my best, for Lord Tartuba's sake as well.<end>"
 
 ["1340566"]
 japanese = "<value:$28>様、<line-break>ありがとうございました。<end>"
-english = ""
+english = "Thank you, <value:$28>.<end>"
 
 ["1340567"]
 japanese = "（…生命のかけらが手元にない…<line-break>\u3000どうにかして手にいれなければ…）<end>"
@@ -2294,7 +2294,7 @@ english = "Ah, <value:$28>. Welcome back.<end>"
 
 ["1340573"]
 japanese = "ロストールは少しずつ復興し、<line-break>身分の上下の関係なく、<line-break>それを喜んでおります。<line-break>やはり、レムオン様にも、<line-break>この場にいていただきたかった…<end>"
-english = ""
+english = "Rostorl is recovering little by little, and everyone, highborn and lowborn alike, rejoices. I only wish Lord Lemghon could have been here with us...<end>"
 
 ["1340574"]
 japanese = "『力・英知・博愛心、<line-break>\u3000すべてを備えしものに、<line-break>\u3000我が遺品ストラスエッジを与えよ』<end>"
@@ -2322,7 +2322,7 @@ english = "I'm not helping with the rebuilding because I want Hugo's treasure, g
 
 ["1340580"]
 japanese = "<select><value:$20>%3団長はエライでゴブ。<line-break>ロストールの人たちのために<line-break>ガンバル姿には感動するゴブ！<end>こうやって、みんなでみんなで<line-break>しやあせになるゴブ！<end>自分たちゴブゴブ団も<line-break>一生懸命働いているから<line-break>復興団も、１００人力ゴブ！<end>"
-english = ""
+english = "<select><value:$20>%3The boss is great, gob. Seeing the boss work so hard for the people of Rostorl is inspiring, gob!<end>This way, everyone can be happy together, gob!<end>The Gob-Gob Gang is working as hard as it can too, so the rebuilding crew has the strength of a hundred, gob!<end>"
 
 ["1340581"]
 japanese = "<select><value:$20>%3腹減ったゴブ。<end>なんか食いたいゴブ。<end>ガント親分、腹黒いゴブ。<end>"
@@ -2482,7 +2482,7 @@ english = "All right. I'll take Lady Atleia somewhere safe. Please... take care 
 
 ["1340620"]
 japanese = "そのことがわからない<line-break>私たちではありません。<line-break><value:$28>様、どうか…<end>"
-english = ""
+english = "We understand that perfectly well. <value:$28>, please...<end>"
 
 ["1340621"]
 japanese = "<value:$28>様…<line-break>くれぐれもお気をつけて…。<end>"
@@ -2490,7 +2490,7 @@ english = "<value:$28>... please, be very careful.<end>"
 
 ["1340622"]
 japanese = "<value:$28>様…<line-break>くれぐれもお気をつけて…<end>"
-english = ""
+english = "<value:$28>... please, be very careful.<end>"
 
 ["1340623"]
 japanese = "無事、脱出できそうですね。<end>"
@@ -2558,7 +2558,7 @@ english = "Xenetes entrusted me with a letter. Most likely his last will...<end>
 
 ["1340639"]
 japanese = "<value:$28>は<line-break>ゼネテスの遺書を手に入れた。<end>"
-english = ""
+english = "<value:$28> obtained Xenetes's last will.<end>"
 
 ["1340640"]
 japanese = "これが本当に遺書にならないことを<line-break>祈ってるわ。<end>"
@@ -2722,7 +2722,7 @@ english = "I see... Oh, and the reconstruction is well under way now. It is good
 
 ["1340680"]
 japanese = "エルファス様も<line-break>復興にはひとかたならぬ<line-break>お力を与えてくださっています。<line-break>エルファス様は、ロストールだけでなく<line-break>世界中の都市で復興のため働いて、<line-break>神のようにあがめられているのです。<end>"
-english = ""
+english = "Lord Elfas has also been a tremendous help with the rebuilding. He is working to restore cities not only in Rostorl, but all over the world, and people worship him like a god.<end>"
 
 ["1340681"]
 japanese = "人の死に慣れてしまったのでしょうか。<line-break>幼いときから一緒にいた方の死なのに<line-break>感慨がありません…。<line-break>でも、安らかなお顔でしたね。<end>"
@@ -2786,7 +2786,7 @@ english = "<if><value:$01><equal>3W-What are you talking about? This fellow...<e
 
 ["1340696"]
 japanese = "<value:$28>さん…。<end>"
-english = ""
+english = "<value:$28>...<end>"
 
 ["1340697"]
 japanese = "でも、それでも、なかなか…<line-break> <line-break> <line-break>お恥ずかしながら、資金の不足から、<line-break>手が回らないところが<line-break>たくさん出てきてしまっています…。<end>"
