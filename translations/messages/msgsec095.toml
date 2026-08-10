@@ -102,7 +102,7 @@ english = "The Forbidden Grail...?<end>"
 
 ["950025"]
 japanese = "ロストールのお城はつまらなかったわ。<line-break>門番が立ってるだけだもん。ダメね。<end>"
-english = ""
+english = "The castle in Rostorl was dull. All it had was a guard standing at the gate. No good at all.<end>"
 
 ["950026"]
 japanese = "し、し、知らないわけないでしょ。<end>"
@@ -166,15 +166,15 @@ english = "<value:$28>? Very nice. A fitting name for an inferior creature. I am
 
 ["950041"]
 japanese = "キャー！<end>"
-english = ""
+english = "Eek!<end>"
 
 ["950042"]
 japanese = "最近は、酒場の中で平気で武器を出す<line-break>物騒な連中が増えてきたなあ…。<line-break>\u3000<line-break>ああ、でも、あんたの行動は<line-break>間違っちゃいないと思うぜ。<line-break>仕方ないって時はあるものさ。<end>"
-english = ""
+english = "These days, more and more dangerous sorts think nothing of drawing weapons inside the tavern... Ah, but I don't think what you did was wrong. Sometimes you don't have a choice.<end>"
 
 ["950043"]
 japanese = "からまれてる女の子を\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>助けに入るなんて<line-break><value:$28>さんらしいですね。<line-break>……私が同じようになっても、<line-break>助けに入って………。<line-break>あ、い、いえ、なんでもないです…。<end>"
-english = ""
+english = "Stepping in to help a girl being harassed... That's just like you, <value:$28>. If the same thing ever happened to me, would you step in and... Ah, n-no, it's nothing...<end>"
 
 ["950044"]
 japanese = "くっ…うるさいハエが！<end>"
@@ -226,15 +226,15 @@ english = "Shanma, the Evil Dragon...!<end>"
 
 ["950056"]
 japanese = "<if><value:$01><equal>4う～ん、アカデミーで習ったかも…。<line-break>ボルキスに敗れて王になり損なった<line-break>ドワーフの戦士ダナンは…<line-break>えと、確か…、<line-break>ボルキスに退治された邪竜シャンマと<line-break>融合し、力を得て…<end><if><value:$01><equal>8さて、いよいよ…。<end><if><value:$01><equal>9おっさん、おっさん。<line-break>あんた、ほんとにダナン？<end><if><value:$01><equal>11…ダナン？<line-break>彼、さっき、<line-break>ドワーフのダナンって言ったわよね。<line-break>ということは、彼が、<line-break>邪竜シャンマと融合した<line-break>ドワーフの戦士ダナン…！？<end><if><value:$01><equal>16さて…、これからだな。<end><if><value:$01><equal>20…感じる。<end>終わった…のか？<end>"
-english = ""
+english = "<if><value:$01><equal>4Hmm, I think we learned about this at the Academy... Danan, the Dwarf warrior who failed to become king after Borkis defeated him... Um, if I remember right, he gained power by merging with Shanma, the Evil Dragon defeated by Borkis...<end><if><value:$01><equal>8Now, at last...<end><if><value:$01><equal>9Hey, old man. Are you really Danan?<end><if><value:$01><equal>11...Danan? He said he was Danan the Dwarf, didn't he? Then he's Danan, the Dwarf warrior who merged with Shanma, the Evil Dragon...?!<end><if><value:$01><equal>16Well... here we go.<end><if><value:$01><equal>20...I can feel it.<end>Is it... over?<end>"
 
 ["950057"]
 japanese = "<if><value:$01><equal>4きゃん！<line-break>もしかして…！<end>しっ…！<end>"
-english = ""
+english = "<if><value:$01><equal>4Eek! Could it be...?!<end>Shh...!<end>"
 
 ["950058"]
 japanese = "フフ、余を…<line-break>余を引きずり出すとは…<line-break>うつけた者どもよ…<end>"
-english = ""
+english = "Heh heh... To think you would drag me out... You fools...<end>"
 
 ["950059"]
 japanese = "<if><value:$01><equal>3正体を現しおったな！ <end><if><value:$01><equal>4きゃん、やっぱり大当たり！<line-break>アカデミーで習ったことでも<line-break>たまには役に立つのかも！<line-break>だけど、ここで<line-break>食べられちゃったら<line-break>実は役に立ってないかも！\u3000きゃっ！ <end><if><value:$01><equal>8真打ち登場ですか？<line-break>邪竜シャンマ！ <end><if><value:$01><equal>9フフ、雪辱戦ってわけ？<line-break>こうじゃなきゃ！ <end><if><value:$01><equal>11…邪竜シャンマ！ <end><if><value:$01><equal>12やれやれ、やっと、<line-break>真打ち登場ってわけだ。 <end><if><value:$01><equal>16…きたか。 <end><if><value:$01><equal>20…きたか。 <end><if><value:$01><equal>23…邪竜シャンマ！ <end><if><value:$01><equal>26正体を現したな！ <end><if><value:$01><equal>24邪竜シャンマ！ <end><if><value:$01><equal>25邪竜シャンマ！ <end><if><value:$01><equal>192…邪竜。 <end><if><value:$01><equal>193あ、あれが邪竜！？<line-break>あんな恐ろしいのと<line-break>戦っちゃうんですか！？<end><if><value:$01><equal>194邪竜シャンマ！<line-break><if><value:$01><equal>191………………！<line-break>まだ死んでなかったのね…。<line-break><line-break>…いいわ、<line-break>何度でも倒してあげようじゃないの！<end><if><value:$01><equal>190やはり正体を隠していたか！<line-break>いくぞ、<value:$28>。<end>ようやく正体を現したか！ <end>"
