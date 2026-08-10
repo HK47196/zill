@@ -29,6 +29,18 @@ fit their retail extents. The patch uses a pinned xdelta command and is decoded
 and compared byte-for-byte with the translated ISO before publication. It
 remains the maintainer's responsibility to perform runtime QA before release.
 
+The title screen attribution uses the exact matching `v*` tag when `HEAD` is
+tagged. Otherwise the build uses the abbreviated commit hash, with `-dirty`
+appended for modified tracked files. Create an annotated release tag before the
+final build, for example:
+
+```sh
+git tag -a v1.0-alpha -m "v1.0 alpha"
+```
+
+Builds from a source archive without Git metadata must pass `--version VALUE`.
+Official release builds should use a clean checkout at an exact release tag.
+
 Replacement rolls back if an ordinary filesystem operation fails. Because the
 three destinations are separate paths, interruption or host failure during the
 final replacement can still leave a mixed set; release automation must consume
@@ -40,6 +52,9 @@ Maintainer-owned data is kept separate from ordinary message contributions:
   translated strings.
 - `release/layout/categories.toml` and `release/layout/consumer-map.toml` hold
   layout configuration.
+- `release/title/attribution.toml` holds the fixed title credit and URL. The
+  versioned footer pixels are generated during `zill build`; no retail-derived
+  title image or static title patch is stored in the repository.
 
 Do not ask ordinary contributors to provide retail assets or run the build.
 

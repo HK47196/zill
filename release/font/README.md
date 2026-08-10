@@ -11,5 +11,6 @@ for the exact final `zillfont.paf`. Contributor validation uses it without game
 assets, and release layout uses the same advances that the builder installs.
 
 `fs-tahoma-8px.otf` is retained CC BY-SA 3.0 design provenance. The canonical
-cells and metrics were frozen after migration; the Go builder does not carry a
-font renderer or require Python imaging libraries.
+cells and metrics were frozen after migration. The Go builder uses the same
+source font to generate the versioned title attribution without Python imaging
+libraries.

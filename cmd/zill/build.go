@@ -16,6 +16,7 @@ import (
 func runBuild(root string, args []string, stdout, stderr io.Writer) int {
 	gameDir := ""
 	isoPath := ""
+	version := ""
 	for index := 0; index < len(args); index++ {
 		switch {
 		case args[index] == "--game-dir":
@@ -52,16 +53,46 @@ func runBuild(root string, args []string, stdout, stderr io.Writer) int {
 				return 2
 			}
 			isoPath = strings.TrimPrefix(args[index], "--iso=")
+		case args[index] == "--version":
+			if version != "" {
+				fmt.Fprintln(stderr, "zill: build: --version may be specified only once")
+				return 2
+			}
+			if index+1 == len(args) {
+				fmt.Fprintln(stderr, "zill: build: --version requires a value")
+				return 2
+			}
+			index++
+			version = args[index]
+			if version == "" {
+				fmt.Fprintln(stderr, "zill: build: --version requires a value")
+				return 2
+			}
+		case strings.HasPrefix(args[index], "--version="):
+			if version != "" {
+				fmt.Fprintln(stderr, "zill: build: --version may be specified only once")
+				return 2
+			}
+			version = strings.TrimPrefix(args[index], "--version=")
+			if version == "" {
+				fmt.Fprintln(stderr, "zill: build: --version requires a value")
+				return 2
+			}
 		default:
 			fmt.Fprintf(stderr, "zill: build: unknown argument %q\n", args[index])
 			return 2
 		}
 	}
 	if gameDir == "" || isoPath == "" {
-		fmt.Fprintln(stderr, "zill: usage: zill build --game-dir PATH --iso RETAIL_ISO (maintainer-only; contributors should run zill check)")
+		fmt.Fprintln(stderr, "zill: usage: zill build --game-dir PATH --iso RETAIL_ISO [--version VERSION] (maintainer-only; contributors should run zill check)")
 		return 2
 	}
-	result, err := release.Build(root, gameDir, isoPath)
+	version, err := resolveBuildVersion(root, version)
+	if err != nil {
+		fmt.Fprintf(stderr, "zill: build: %v\n", err)
+		return 1
+	}
+	result, err := release.Build(root, gameDir, isoPath, version)
 	if err != nil {
 		fmt.Fprintf(stderr, "zill: build: %v\n", err)
 		return 1
@@ -69,6 +100,7 @@ func runBuild(root string, args []string, stdout, stderr io.Writer) int {
 	fmt.Fprintf(stdout, "Built translated game tree at %s\n", result.GameDirectory)
 	fmt.Fprintf(stdout, "Built translated ISO at %s\n", result.ISO)
 	fmt.Fprintf(stdout, "Built xdelta patch at %s\n", result.Patch)
+	fmt.Fprintf(stdout, "Title attribution version: %s\n", version)
 	if len(result.Layout) > 0 {
 		printLayoutWarnings(stdout, result.Layout)
 	}

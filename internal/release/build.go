@@ -52,8 +52,16 @@ type archive struct {
 // Build validates all canonical inputs and retail sources, then stages and
 // verifies the complete translated tree, ISO, and xdelta patch before replacing
 // their destinations. Both retail inputs are opened read-only and never modified.
-func Build(root, gameDir, isoPath string) (result Result, err error) {
+func Build(root, gameDir, isoPath, version string) (result Result, err error) {
 	root, err = resolveExistingPath(root, "project root")
+	if err != nil {
+		return result, err
+	}
+	attribution, err := loadAttributionConfig(root)
+	if err != nil {
+		return result, err
+	}
+	titleOverlay, err := renderTitleAttribution(root, attribution, version)
 	if err != nil {
 		return result, err
 	}
@@ -164,6 +172,9 @@ func Build(root, gameDir, isoPath string) (result Result, err error) {
 		return result, err
 	}
 	if err := addTextureOverrides(root, archives); err != nil {
+		return result, err
+	}
+	if err := addTitleAttribution(titleOverlay, archives); err != nil {
 		return result, err
 	}
 	if err := addEquipment(root, archives); err != nil {
@@ -308,6 +319,13 @@ func Check(root string, project *corpus.Project) error {
 		if err := input.parse(data); err != nil {
 			return err
 		}
+	}
+	attribution, err := loadAttributionConfig(root)
+	if err != nil {
+		return err
+	}
+	if _, err := renderTitleAttribution(root, attribution, "v0.0.0"); err != nil {
+		return err
 	}
 	names, err := read(root, "translations", "terminology", "names.toml")
 	if err != nil {

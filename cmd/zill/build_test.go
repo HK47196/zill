@@ -31,3 +31,27 @@ func TestBuildRequiresGameDirectoryAndRetailISO(t *testing.T) {
 		})
 	}
 }
+
+func TestBuildRejectsMissingOrDuplicateVersionValues(t *testing.T) {
+	t.Parallel()
+
+	for name, arguments := range map[string][]string{
+		"missing value":   {"--game-dir", "/retail/PSP_GAME", "--iso", "/retail/game.iso", "--version"},
+		"empty value":     {"--game-dir", "/retail/PSP_GAME", "--iso", "/retail/game.iso", "--version="},
+		"duplicate value": {"--game-dir", "/retail/PSP_GAME", "--iso", "/retail/game.iso", "--version=v1", "--version", "v2"},
+	} {
+		t.Run(name, func(t *testing.T) {
+			t.Parallel()
+			var stdout, stderr bytes.Buffer
+			if code := runBuild(t.TempDir(), arguments, &stdout, &stderr); code != 2 {
+				t.Fatalf("runBuild exit code = %d, want 2", code)
+			}
+			if !strings.Contains(stderr.String(), "--version") {
+				t.Fatalf("version error does not name --version: %q", stderr.String())
+			}
+			if stdout.Len() != 0 {
+				t.Fatalf("invalid build wrote stdout: %q", stdout.String())
+			}
+		})
+	}
+}

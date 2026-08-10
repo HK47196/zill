@@ -96,6 +96,46 @@ func TestCompileRejectsMismatchedPathLocators(t *testing.T) {
 	}
 }
 
+func TestOverlayGIMChangesOpaquePixelsAndPreservesTransparentPixels(t *testing.T) {
+	source := fixtureGIM([]byte{0x10})
+	original := bytes.Clone(source)
+	overlay := image.NewNRGBA(image.Rect(0, 0, 2, 1))
+	overlay.SetNRGBA(1, 0, color.NRGBA{0, 0, 0, 255})
+
+	got, err := textureoverride.OverlayGIM(source, overlay)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if !bytes.Equal(source, original) {
+		t.Fatal("OverlayGIM mutated its source")
+	}
+	differences := differingOffsets(source, got)
+	if len(differences) != 1 {
+		t.Fatalf("changed offsets = %v, want only the packed target pixel byte", differences)
+	}
+	if offset := differences[0]; source[offset] != 0x10 || got[offset] != 0x00 {
+		t.Fatalf("overlay pixel byte = %#x -> %#x, want transparent pixel preserved and opaque pixel changed", source[offset], got[offset])
+	}
+}
+
+func TestOverlayGIMRejectsAbsentPaletteColorWithoutReturningOutput(t *testing.T) {
+	source := fixtureGIM([]byte{0x10})
+	original := bytes.Clone(source)
+	overlay := image.NewNRGBA(image.Rect(0, 0, 2, 1))
+	overlay.SetNRGBA(0, 0, color.NRGBA{255, 0, 0, 255})
+
+	got, err := textureoverride.OverlayGIM(source, overlay)
+	if err == nil {
+		t.Fatal("OverlayGIM accepted a color absent from the source palette")
+	}
+	if got != nil {
+		t.Fatalf("failed OverlayGIM returned output: %x", got)
+	}
+	if !bytes.Equal(source, original) {
+		t.Fatal("failed OverlayGIM mutated its source")
+	}
+}
+
 func writePNG(t *testing.T, path string, pixels []color.NRGBA) {
 	t.Helper()
 	if err := os.MkdirAll(filepath.Dir(path), 0o755); err != nil {

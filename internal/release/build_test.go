@@ -33,7 +33,7 @@ func TestBuildFailurePreservesSourceAndExistingDestination(t *testing.T) {
 		t.Fatal(err)
 	}
 
-	if _, err := release.Build(root, game, iso); err == nil {
+	if _, err := release.Build(root, game, iso, "v-test"); err == nil {
 		t.Fatal("Build succeeded without its required canonical inputs")
 	}
 	for path, want := range map[string]string{sourcePath: "retail", iso: "retail iso", destinationPath: "published"} {
@@ -68,7 +68,7 @@ func TestBuildRejectsRetailInputAliasesToOutputs(t *testing.T) {
 		if err := os.WriteFile(iso, []byte("retail iso"), 0o644); err != nil {
 			t.Fatal(err)
 		}
-		if _, err := release.Build(root, alias, iso); err == nil {
+		if _, err := release.Build(root, alias, iso, "v-test"); err == nil {
 			t.Fatal("Build accepted a source PSP_GAME alias to its destination")
 		}
 		if got, err := os.ReadFile(marker); err != nil || string(got) != "retail" {
@@ -93,7 +93,7 @@ func TestBuildRejectsRetailInputAliasesToOutputs(t *testing.T) {
 		if err := os.Link(output, alias); err != nil {
 			t.Fatal(err)
 		}
-		if _, err := release.Build(root, game, alias); err == nil {
+		if _, err := release.Build(root, game, alias, "v-test"); err == nil {
 			t.Fatal("Build accepted a retail ISO hard link to its destination")
 		}
 		if got, err := os.ReadFile(alias); err != nil || string(got) != "retail iso" {

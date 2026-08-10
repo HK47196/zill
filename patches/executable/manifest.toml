@@ -2,7 +2,7 @@ format = "zill-executable-patches"
 version = 1
 target = "SYSDIR/BOOT.BIN"
 source_sha256 = "5e294dc84a7f0d50719ecd26cb24ffb3792f2d9445803690845a8f1fa1cb85a3"
-result_sha256 = "6e26bb75abb75978ae35062cf73da3feb131e46a831afe0b11a16bd6b9cc60c7"
+result_sha256 = "dbcf974101a3ab04c3d3d7a5e0a607e9a3c0a186f60efef722b8429644c2c1c8"
 
 [[patch]]
 id = "large-memory-026554c"
@@ -426,3 +426,29 @@ purpose = "Adjust the final profile renderer stack restoration for the larger fr
 virtual_address = 0x156984
 before = "addiu sp, sp, 0x280"
 after = "addiu sp, sp, 0x580"
+
+[[patch]]
+id = "title-attribution-012884c"
+feature = "title-attribution"
+document = "title-attribution.md"
+kind = "mips32le"
+offset = 0x12884c
+expected = "27010734"
+replacement = "80010734"
+purpose = "Expand the title logo source rectangle width to expose the generated attribution."
+virtual_address = 0x1287cc
+before = "ori a3, zero, 0x127"
+after = "ori a3, zero, 0x180"
+
+[[patch]]
+id = "title-attribution-0128854"
+feature = "title-attribution"
+document = "title-attribution.md"
+kind = "mips32le"
+offset = 0x128854
+expected = "e8000834"
+replacement = "00010834"
+purpose = "Expand the title logo source rectangle height to expose the generated attribution."
+virtual_address = 0x1287d4
+before = "ori t0, zero, 0xe8"
+after = "ori t0, zero, 0x100"

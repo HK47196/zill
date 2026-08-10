@@ -8,6 +8,7 @@ import (
 	"encoding/binary"
 	"errors"
 	"fmt"
+	"image"
 	"image/color"
 	"image/png"
 	"io/fs"
@@ -283,6 +284,52 @@ func replaceGIMPixels(data, pngData []byte) error {
 		}
 	}
 	return nil
+}
+
+// OverlayGIM returns a copy of source with each nontransparent overlay pixel
+// replaced by the matching source-palette color. Transparent overlay pixels
+// preserve the corresponding source indices. Source is never mutated.
+func OverlayGIM(source []byte, overlay image.Image) ([]byte, error) {
+	result := bytes.Clone(source)
+	imageSurface, paletteSurface, err := parseGIM(result)
+	if err != nil {
+		return nil, err
+	}
+	if overlay == nil {
+		return nil, errors.New("GIM overlay is nil")
+	}
+	bounds := overlay.Bounds()
+	if bounds.Dx() != imageSurface.width || bounds.Dy() != imageSurface.height {
+		return nil, fmt.Errorf("GIM overlay is %dx%d, expected %dx%d", bounds.Dx(), bounds.Dy(), imageSurface.width, imageSurface.height)
+	}
+	palette := decodePalette(result, paletteSurface)
+	lookup := make(map[color.NRGBA]int, len(palette))
+	for i, value := range palette {
+		if _, exists := lookup[value]; !exists {
+			lookup[value] = i
+		}
+	}
+	for y := 0; y < imageSurface.height; y++ {
+		for x := 0; x < imageSurface.width; x++ {
+			wanted := color.NRGBAModel.Convert(overlay.At(bounds.Min.X+x, bounds.Min.Y+y)).(color.NRGBA)
+			if wanted.A == 0 {
+				continue
+			}
+			index, ok := lookup[wanted]
+			if !ok {
+				return nil, fmt.Errorf("GIM overlay uses color %v absent from palette", wanted)
+			}
+			original := readIndex(result, imageSurface, x, y)
+			if original >= len(palette) {
+				return nil, fmt.Errorf("pixel references missing palette index %d", original)
+			}
+			if palette[original] == wanted {
+				index = original
+			}
+			writeIndex(result, imageSurface, x, y, index)
+		}
+	}
+	return result, nil
 }
 
 func parseGIM(data []byte) (surface, surface, error) {

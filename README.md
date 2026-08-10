@@ -58,7 +58,8 @@ retail sources plus xdelta3 3.2.0. It publishes `build/PSP_GAME/`,
 use `zill check` instead. Runtime QA remains required before publication.
 
 Maintainer-owned release data includes fixed strings in
-`release/strings/{eboot,equipment}.toml` and layout configuration in
+`release/strings/{eboot,equipment}.toml`, title attribution in
+`release/title/attribution.toml`, and layout configuration in
 `release/layout/{categories,consumer-map}.toml`.
 
 ## Licensing and game assets

@@ -17,7 +17,7 @@ const (
 	manifestFormat  = "zill-executable-patches"
 	manifestVersion = 1
 	manifestTarget  = "SYSDIR/BOOT.BIN"
-	patchCount      = 33
+	patchCount      = 35
 )
 
 // Manifest is the complete ordered executable patch contract.
@@ -85,6 +85,7 @@ func (m Manifest) Validate() error {
 		{name: "message-arena", count: 11},
 		{name: "wide-message-offsets", count: 12},
 		{name: "profile-biography", count: 9},
+		{name: "title-attribution", count: 2},
 	}
 	featureIndex, featureRemaining := 0, wantFeatures[0].count
 	identities := make(map[string]struct{}, len(m.Patches))

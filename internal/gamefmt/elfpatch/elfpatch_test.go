@@ -20,8 +20,8 @@ func TestProductionManifestDefinesCompleteGuardedPatchSet(t *testing.T) {
 	if err != nil {
 		t.Fatalf("ParseManifest: %v", err)
 	}
-	if len(manifest.Patches) != 33 {
-		t.Fatalf("patch count = %d, want 33", len(manifest.Patches))
+	if len(manifest.Patches) != 35 {
+		t.Fatalf("patch count = %d, want 35", len(manifest.Patches))
 	}
 }
 
@@ -29,7 +29,7 @@ func TestValidateRejectsIncompleteOrSemanticallyUnorderedPatchSets(t *testing.T)
 	_, valid, _ := syntheticPatchSet()
 	tests := map[string]func(*elfpatch.Manifest){
 		"missing patch": func(manifest *elfpatch.Manifest) {
-			manifest.Patches = manifest.Patches[:32]
+			manifest.Patches = manifest.Patches[:34]
 		},
 		"feature out of order": func(manifest *elfpatch.Manifest) {
 			manifest.Patches[1], manifest.Patches[12] = manifest.Patches[12], manifest.Patches[1]
@@ -124,7 +124,7 @@ func syntheticPatchSet() ([]byte, elfpatch.Manifest, []byte) {
 	features := []struct {
 		name  string
 		count int
-	}{{"large-memory", 1}, {"message-arena", 11}, {"wide-message-offsets", 12}, {"profile-biography", 9}}
+	}{{"large-memory", 1}, {"message-arena", 11}, {"wide-message-offsets", 12}, {"profile-biography", 9}, {"title-attribution", 2}}
 	manifest := elfpatch.Manifest{
 		Format:  "zill-executable-patches",
 		Version: 1,
