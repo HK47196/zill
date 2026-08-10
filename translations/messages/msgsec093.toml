@@ -78,7 +78,7 @@ english = "I'm sorry.<end>"
 
 ["930019"]
 japanese = "カッツの奴め、相変わらず\u3000\u3000\u3000\u3000\u3000<line-break>道具の手入れがいきとどいとる。<line-break>\u3000<line-break>これなら、<value:$28>でも<line-break>十分に手伝ってもらえそうじゃな。<end>"
-english = ""
+english = "That Katz... He always did keep his tools in fine condition. With these, even you should be able to lend a hand, <value:$28>.<end>"
 
 ["930020"]
 japanese = "心配はいらん。お主には<line-break>ちょっと手伝ってもらうだけじゃ。<line-break>\u3000<line-break>それじゃ、行くとしようかの。<line-break>この山の聖なる頂へ。<end>"
@@ -94,7 +94,7 @@ english = "Good. The spring of flame is filled with the fire dragon's flames.<en
 
 ["930023"]
 japanese = "さっそく準備じゃ。<line-break><value:$28>、そこにある<line-break>光る炎竜岩を持ってきてくれ。<end>"
-english = ""
+english = "Right, let's get ready. <value:$28>, bring me that glowing Flame Dragon Rock over there.<end>"
 
 ["930024"]
 japanese = "どこへ行く気じゃ？\u3000<line-break>少しくらい暑くともガマンせい。<line-break>お主なら耐えられるはずじゃ。<end>"
@@ -102,23 +102,23 @@ english = "Where do you think you're going? Put up with a little heat. You shoul
 
 ["930025"]
 japanese = "<value:$28>、<line-break>早く炎竜岩を持ってくるんじゃ。<end>"
-english = ""
+english = "<value:$28>, hurry up and bring me the Flame Dragon Rock.<end>"
 
 ["930026"]
 japanese = "よし、始めるかの。<end>"
-english = ""
+english = "Good. Let's begin.<end>"
 
 ["930027"]
 japanese = "よし、最後の仕上げじゃ。<line-break><value:$28>、お前さんが<line-break>剣に命を吹き込むんじゃ。<end>"
-english = ""
+english = "Good. Now for the finishing touch. <value:$28>, you must breathe life into the sword.<end>"
 
 ["930028"]
 japanese = "心配せんでいい。<line-break>お主の精霊力を<line-break>剣に吹きこむつもりでやってみい。<end>"
-english = ""
+english = "Don't worry. Just try to pour your spirit power into the sword.<end>"
 
 ["930029"]
 japanese = "…よし！<line-break>完成じゃ。<end>"
-english = ""
+english = "...Good! It's finished.<end>"
 
 ["930030"]
 japanese = "わしの長年の夢はかなった。<line-break>カッツとロッチナの夢も…。<line-break>すべて、お主のおかげじゃ。<line-break>ありがとう、<line-break><value:$28>。<end>"
@@ -126,7 +126,7 @@ english = "My lifelong dream has come true. Katz and Rotchina's dream as well...
 
 ["930031"]
 japanese = "では、戻ろうかの。<line-break>なぜだか無性に、<line-break>酒が飲みとうなったわ。<end>"
-english = ""
+english = "Well then, shall we head back? For some reason, I find myself desperately craving a drink.<end>"
 
 ["930032"]
 japanese = "カッツ、ロッチナ、\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>わしはやったぞ。<line-break>お主らの宝剣と共に…。<line-break>きっとお主らも、あの世から<line-break>手助けしてくれていたのじゃろう。<line-break>ありがとう。<end>"
@@ -138,7 +138,7 @@ english = "I shall give this sword to you. The one worthy of bearing my finest s
 
 ["930034"]
 japanese = "さて、わしの旅は終わった。<line-break>これからのわしは<line-break>お主と旅を共にする戦士じゃ。<line-break>では、行こうかの、<line-break><value:$28>。<end>"
-english = ""
+english = "Well, my journey is over. From now on, I am a warrior who travels at your side. Shall we be off, <value:$28>?<end>"
 
 ["930035"]
 japanese = "うむ。<line-break>それではそれを握りながら<line-break>この炎の泉に向かって祈るんじゃ。<end>"
