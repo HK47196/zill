@@ -30,6 +30,7 @@ var mediumBreak = regexp.MustCompile(`[,;:]["')\]]*$`)
 type Engine struct {
 	consumers         consumersFile
 	glyphs            map[uint16]glyph
+	runeGlyphs        map[rune]glyph
 	categories        []categoryRange
 	playerNameAdvance int
 }
@@ -544,6 +545,10 @@ func (e *Engine) measure(s string, id int) (int, error) {
 	plain := visible(s)
 	total := 0
 	for i, r := range plain {
+		if g, ok := e.runeGlyphs[r]; ok {
+			total += g.Advance
+			continue
+		}
 		encoded, err := cp932.Encode(string(r))
 		if err != nil {
 			return 0, fmt.Errorf("message %d character %q at %d: %w", id, r, i, err)
@@ -559,6 +564,7 @@ func (e *Engine) measure(s string, id int) (int, error) {
 		if !ok {
 			return 0, fmt.Errorf("message %d character %q has no installed-font glyph (%#04x)", id, r, key)
 		}
+		e.runeGlyphs[r] = g
 		total += g.Advance
 	}
 	return total + reserved, nil
