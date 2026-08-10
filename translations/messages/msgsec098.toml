@@ -282,7 +282,7 @@ english = "Master is very strong, but the injury to the right arm is serious. So
 
 ["980070"]
 japanese = "…その、闇討ちをした奴って、<line-break>今どこで何をしてるのかなあ？<end>"
-english = ""
+english = "...I wonder where the person who carried out that sneak attack is now, and what they're doing.<end>"
 
 ["980071"]
 japanese = "え？\u3000ふふ、いやねえ。<line-break>敵討ちとかなんて考えていないわよ。<line-break>たぶん先生も、望んでないわ。<line-break>そんなことより、もっと剣の腕を磨いて<line-break>早く騎士にならないとね。<end>"
@@ -390,7 +390,7 @@ english = "Well then, <value:$28>.<end>"
 
 ["980097"]
 japanese = "んにゃーん。<line-break>\u3000<end>"
-english = ""
+english = "Mrrrow.<end>"
 
 ["980098"]
 japanese = "誰なの、あなた！<line-break>私たちの邪魔をしないで！<end>"
@@ -550,11 +550,11 @@ english = ""
 
 ["980137"]
 japanese = "あの子は、まっすぐで純粋だから…<line-break>そんな子が、あんな人たちの中で<line-break>暮らしていくのは、難しいでしょうね。<line-break><value:$28>、<line-break>あの子のそばにいてあげてね。<line-break>力になってあげてね。<end>"
-english = ""
+english = "She's so earnest and pure... It must be difficult for someone like her to live among people like that. <value:$28>, please stay by her side. Be there for her.<end>"
 
 ["980138"]
 japanese = "ああ、あれね。<line-break>ディンガル帝国が<line-break>攻めてきたあとでしょう？\u3000\u3000\u3000\u3000<line-break>あの子がこの街を出たのが<line-break>気に入らない人がいるみたいなの。<line-break>私なら、平気よ。<end>"
-english = ""
+english = "Oh, that? You mean after the Dingal Empire attacked? It seems some people resent her for leaving this town. But I'm fine.<end>"
 
 ["980139"]
 japanese = "あの子にはあの子の考えがあって\u3000<line-break>ディンガルの騎士になった。<line-break>私はあの子を信じてるわ。<end>"
@@ -578,7 +578,7 @@ english = "Someday, I'm sure you'll find a path that feels truly your own. I'm r
 
 ["980144"]
 japanese = "ムリしない程度にがんばってね。\u3000<line-break>いつでも戻ってくるのよ。<line-break>あなたはうちの子なんですから。<end>"
-english = ""
+english = "Do your best, but don't push yourself too hard. Come home whenever you like. You're my child, after all.<end>"
 
 ["980145"]
 japanese = "…大丈夫よ。<line-break>あの子なら、きっと無事。\u3000\u3000\u3000\u3000<line-break>そのうち帰ってくるわ。<line-break>それよりも目の前にいる<line-break>放っておけない子の方の<line-break>心配をしてあげなきゃね。<end>"
@@ -590,15 +590,15 @@ english = "Hee hee, I'm only teasing. I know you're doing your best too. At leas
 
 ["980147"]
 japanese = "…あなたがいてくれることが\u3000\u3000\u3000<line-break>何よりも、なぐさめだわ。<line-break>\u3000<line-break>さ、今日はあなたの好きなものを<line-break>作ってあげる。<line-break>楽しみにしていてね。<end>"
-english = ""
+english = "...Nothing comforts me more than having you here. Now, I'll make your favorite dish today. You can look forward to it.<end>"
 
 ["980148"]
 japanese = "そう。<line-break>でも、遠慮なんてしないのよ。\u3000\u3000<line-break>あなたもうちの子だもの。<end>"
-english = ""
+english = "I see. But there's no need to be shy. You're my child too.<end>"
 
 ["980149"]
 japanese = "…そう。<line-break>たとえ、アイリーンが\u3000\u3000\u3000\u3000\u3000\u3000<line-break>いなくなっても…。<end>"
-english = ""
+english = "...I see. Even if Irene is no longer here...<end>"
 
 ["980150"]
 japanese = "アイリーンのこと<line-break>よろしくお願いします。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<end>"
@@ -690,7 +690,7 @@ english = "Good day, adventurer. If you happen to meet a girl named Irene Hermes
 
 ["980172"]
 japanese = "おはよう、<value:$28>。<line-break>今日もいい天気だわ。<line-break>気をつけて、行ってらっしゃい。<line-break>あなたの旅を<line-break>慈愛の女神ライラネートが<line-break>お守りになりますように。<end>"
-english = ""
+english = "Good morning, <value:$28>. Another beautiful day. Take care, and have a safe journey. May Lailanate, Goddess of Compassion, watch over you on your travels.<end>"
 
 ["980173"]
 japanese = "あ、いらっしゃいませー。<line-break>ここは、ロストールで一番大きな酒場<line-break>なんですよ。<line-break>あの…ご用がありましたら<line-break>なんでも私に言いつけてくださいね！<end>"
