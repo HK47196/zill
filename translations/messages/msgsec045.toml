@@ -102,7 +102,7 @@ english = "Gah! A third agent!<end>"
 
 ["450025"]
 japanese = "貴様！\u3000あのときの！<line-break>そうか。貴様も魔王の刺客だったのか！<line-break><line-break>あのときは<line-break>腹が減っていて敗れたが、<line-break>今回はそうはいかん。ゆくぞ！<end>"
-english = ""
+english = "You! From before! Now I see. You were an agent of the Demon King too! I lost last time because I was hungry, but not this time. Have at you!<end>"
 
 ["450026"]
 japanese = "き、貴様！\u3000あのときの！<line-break>そうか。貴様も魔王の刺客だったか！<line-break><line-break>他人の大甘な、めくるめく恋愛伝説を<line-break>邪魔するとは、人として許せん！！<line-break>俺様の魂の天誅を加えてやるうう！<end>"
@@ -122,7 +122,7 @@ english = "Adversity is part of being a legendary protagonist! I shall train, an
 
 ["450030"]
 japanese = "ガルドラン、待て！<end>"
-english = ""
+english = "Girldlan, wait!<end>"
 
 ["450031"]
 japanese = "ねえ、まずはお礼を言わせてよ。<line-break>ありがとう。<line-break><line-break>僕はテラネのナッジ。<line-break>見ての通り、コーンスなんだ。<line-break>君は？<end>"
@@ -142,11 +142,11 @@ english = "Agent of the Demon King! This is the end!<end>"
 
 ["450035"]
 japanese = "酔っぱらいのケンカだ！<end>"
-english = ""
+english = "It's a fight between drunks!<end>"
 
 ["450036"]
 japanese = "勝った方が殺そうとしているぞ！<end>"
-english = ""
+english = "The winner's trying to kill the other!<end>"
 
 ["450037"]
 japanese = "人殺し！<end>"
@@ -302,7 +302,7 @@ english = "Y-you've got some nerve, showing your faces here! It's because he was
 
 ["450075"]
 japanese = "ここは私の家なんだ。\u3000\u3000\u3000\u3000\u3000<line-break>お前らの出入りは許さん！<line-break>出て行け！<end>"
-english = ""
+english = "This is my house! I won't allow the likes of you in here! Get out!<end>"
 
 ["450076"]
 japanese = "うちの息子は冒険者にひどい目に<line-break>遭わされて、まだ寝込んでいるんだ！<line-break>\u3000<line-break>出て行け！<line-break>冒険者なんか、顔も見たくない！<line-break>出ていってくれ！<end>"
@@ -342,11 +342,11 @@ english = "Don't make Van suffer. Think of the poor boy.<end>"
 
 ["450085"]
 japanese = "ああああ、ヴァンちゃん！\u3000オイオイオイ！<line-break>あなたのせいででヴァンちゃんはあああ！！<line-break>\u3000<line-break>あんなにいい子だったのに…！<line-break>ヴァンちゃんがかわいそうよおお！<line-break>どうしてえええ？\u3000あんないい子があああ！<end>"
-english = ""
+english = "Aaaaaah, Van! Waaaaah! Because of you, Van...! He was such a good boy...! Poor Van! Whyyyy? Why such a good boy...?<end>"
 
 ["450086"]
 japanese = "<select><value:$20>%3うちのヴァンちゃんは本当にいい子。<line-break>ママの誇りだわ。<line-break>\u3000<line-break>あんたたちみたいな厄介者を見てると<line-break>ホント、それを実感できるわ。<line-break>オホホホホホホ！<end>うちのヴァンちゃんが、最近<line-break>つまらないダジャレを言うようになったのよ。<line-break>\u3000<line-break>このままでは、あなたたちみたいな<line-break>鼻つまみ者になってしまうわ。<line-break>いったいどうしたら…。<end>うちのヴァンちゃんが、最近<line-break>口ごたえをするのよ。<line-break>\u3000<line-break>あなたたちの悪影響ね。<line-break>もう、ヴァンちゃんとつきあわないで<line-break>ヴァンちゃんが不良になるわ。<end>"
-english = ""
+english = "<select><value:$20>%3Van's such a good boy. Mama's so proud of him. Looking at troublemakers like you really makes me realize it. Ohohohohohoho!<end>Recently, Van's started telling terrible puns. At this rate, he'll turn into an outcast like you. What am I to do...?<end>Recently, Van's started talking back to me. That's your bad influence. Stop associating with Van, or he'll turn into a delinquent.<end>"
 
 ["450087"]
 japanese = "ああああ、ヴァンちゃん！\u3000オイオイオイ！<line-break>どうしてママを置いて死んじゃったのよお！<line-break>\u3000<line-break>あんなにいい子だったのに…！<line-break>ヴァンちゃんがかわいそうよおお！<line-break>どうしてえええ？\u3000あんないい子があああ！<end>"
@@ -750,7 +750,7 @@ english = "Futile! Two-bit adventurers like you could never hope to match me, a 
 
 ["450187"]
 japanese = "そして今！\u3000熱い熱いと評判の<line-break>俺様の魂が、怒りで燃えている！<line-break>熱く！\u3000透き通るほどに、熱く！！<end>"
-english = ""
+english = "And now! This soul of mine, famed for burning hot, is ablaze with anger! Hot! Burning clear through!!<end>"
 
 ["450188"]
 japanese = "なんか。ヤバそうな奴ですぜ。<line-break>アニキ。<end>"
@@ -794,7 +794,7 @@ english = "<value:$28>... let's help Girldlan!<end>"
 
 ["450198"]
 japanese = "だって、しょうがないじゃない。<line-break>あんな状況なんだよ！<end>"
-english = ""
+english = "But we have no choice! Look at the state he's in!<end>"
 
 ["450199"]
 japanese = "ふぬあああ！<line-break>目が、しみて…痛てええええ！！<end>"
@@ -842,95 +842,95 @@ english = "The strength I wanted wasn't the strength to defeat Girldlan. It was 
 
 ["450210"]
 japanese = "お客さん。飲み過ぎだよ。<line-break>店の酒、みーんな、飲んじまった…。<end>"
-english = ""
+english = "Sir, you've had too much to drink. You drank all the liquor in the bar...<end>"
 
 ["450211"]
 japanese = "…どうせ、どうせ、俺なんか…<end>"
-english = ""
+english = "...After all, someone like me...<end>"
 
 ["450212"]
 japanese = "世界で一番さ…。<line-break>フヒャヒャヒャヒャ…。\u3000\u3000\u3000<end>"
-english = ""
+english = "...is the greatest in the world... Heh heh heh heh...<end>"
 
 ["450213"]
 japanese = "ダメだこりゃ。何がなんだか<line-break>わかってないよ。お客さん。<end>"
-english = ""
+english = "This is hopeless. You don't understand a thing, sir.<end>"
 
 ["450214"]
 japanese = "………………。<end>"
-english = ""
+english = "...<end>"
 
 ["450215"]
 japanese = "お客さん。<end>"
-english = ""
+english = "Sir.<end>"
 
 ["450216"]
 japanese = "…勇者…様。<end>"
-english = ""
+english = "...Hero...<end>"
 
 ["450217"]
 japanese = "どうした！\u3000酒場のオヤジ！<end>"
-english = ""
+english = "What's wrong, bartender?!<end>"
 
 ["450218"]
 japanese = "勇者様、魔王がでました。<end>"
-english = ""
+english = "Hero, the Demon King has appeared.<end>"
 
 ["450219"]
 japanese = "何！\u3000魔王？\u3000ぬぅ！<line-break>人として許せん！<line-break><line-break>勘定はここに置くぞ！<line-break>でやっ！<end>"
-english = ""
+english = "What?! The Demon King?! Grr! Unforgivable! I'll leave the money for my bill here! Hyaa!<end>"
 
 ["450220"]
 japanese = "オヤジ、今のはナシだ。<line-break>でやっ！！<end>"
-english = ""
+english = "Barkeep, forget what I just said. Hyaa!!<end>"
 
 ["450221"]
 japanese = "あれあれ、忘れ物だ。<line-break>弓なんか置いて行かれても困るなあ。<end>"
-english = ""
+english = "Well, well, he forgot something. What am I supposed to do with a bow?<end>"
 
 ["450222"]
 japanese = "あー、<value:$28>だ。<line-break>お酒なんか飲んじゃダメだよお。<line-break>\u3000<line-break>ゼネテスみたいな<line-break>飲兵衛になっちゃうから。<end>"
-english = ""
+english = "Oh, it's <value:$28>. You shouldn't drink alcohol. You'll turn into a drunkard like Xenetes.<end>"
 
 ["450223"]
 japanese = "ガルドランが、いたの…？<end>"
-english = ""
+english = "Girldlan was here...?<end>"
 
 ["450224"]
 japanese = "いえね、今の変なお客さんが<line-break>弓矢を忘れて行かれたんですよ。<end>"
-english = ""
+english = "You see, that strange customer just now left his bow and arrows behind.<end>"
 
 ["450225"]
 japanese = "矢…？\u3000ガルドランの…？<end>"
-english = ""
+english = "An arrow...? Girldlan's...?<end>"
 
 ["450226"]
 japanese = "…やっぱり、<value:$28>。<line-break>まだフリントさんのことで…。<end>"
-english = ""
+english = "...I thought so, <value:$28>. You're still thinking about Flint...<end>"
 
 ["450227"]
 japanese = "ホントだ、<line-break>毒が塗ってあった形跡がない。<end>"
-english = ""
+english = "You're right. There's no sign that it was coated in poison.<end>"
 
 ["450228"]
 japanese = "ううん。毒をふき取るも何も、これ、<line-break>たぶん、一度も手入れしてないよぉ。<line-break>\u3000<line-break>これじゃさびてて<line-break>使いものにならないよぉ！<end>"
-english = ""
+english = "No, forget about wiping off poison. I don't think this has ever been maintained. It's too rusty to use!<end>"
 
 ["450229"]
 japanese = "それに見て。この矢、フリントさんに<line-break>刺さってたのと全然違う…。<line-break>\u3000<end>"
-english = ""
+english = "And look. This arrow is completely different from the one that was lodged in Flint...<end>"
 
 ["450230"]
 japanese = "<value:$28>…、フリントさんを<line-break>殺したのはガルドランじゃないのかも。<end>"
-english = ""
+english = "<value:$28>... Maybe Girldlan wasn't the one who killed Flint.<end>"
 
 ["450231"]
 japanese = "それに、ガルドランの弓の腕は<line-break>１００発０中だって噂も聞いたよぉ。<end>"
-english = ""
+english = "And I've heard that Girldlan couldn't hit a target if he fired a hundred shots!<end>"
 
 ["450232"]
 japanese = "そんなに、<value:$28>が<line-break>復讐のことばかり考えてると…<line-break><line-break>天国のフリントさんは<line-break>きっとうれしくないと思うよ。<line-break>ね。行こう？<end>"
-english = ""
+english = "If all you think about is revenge, <value:$28>... I don't think Flint would be happy in heaven. Come on. Shall we go?<end>"
 
 ["450233"]
 japanese = "待ちかねたぞ！<line-break>我が永遠のライバルよ！<end>"
@@ -998,7 +998,7 @@ english = "I know, <value:$28>. I won't kill Girldlan. Even if he died, it would
 
 ["450249"]
 japanese = "それに、何が必要だったのか<line-break>見失ってた僕の目を<line-break>覚まさせてくれたのはガルドランだし。<end>"
-english = ""
+english = "Besides, it was Girldlan who opened my eyes after I'd lost sight of what truly mattered.<end>"
 
 ["450250"]
 japanese = "む、何かは知らぬが、彼らも正義を\u3000<line-break>愛する正しく、熱い魂らしい…。<line-break>\u3000<line-break>どうやら、君たちのことを俺様は<line-break>誤解していたようだ…！\u3000これからも<line-break>俺様を応援してくれ、正しき魂よ！<end>"
@@ -1010,7 +1010,7 @@ english = "I shall keep racing down my own road toward legend! No one can halt t
 
 ["450252"]
 japanese = "ふふ、ガルドランって大迷惑な奴だけど<line-break>結構、いい奴かもね。<end>"
-english = ""
+english = "Heh. Girldlan's a huge nuisance, but maybe he's actually a decent guy.<end>"
 
 ["450253"]
 japanese = "ヴァン…仇は討ったよ。<end>"
@@ -1082,7 +1082,7 @@ english = "Forget it! I won't ask you again! I'll send Girldlan to hell myself!<
 
 ["450270"]
 japanese = "待ってよ！\u3000ヴァン！<end>"
-english = ""
+english = "Wait, Van!<end>"
 
 ["450271"]
 japanese = "…困ったなあ。<line-break>ヴァンたら、へそ曲げちゃって…。\u3000\u3000<line-break>\u3000<line-break>自分だけ、のけ者にされた気分なんだ。<line-break>ガルドランなんて、もう、<line-break>どうでもいいはずなのに…。<end>"
@@ -1122,35 +1122,35 @@ english = ""
 
 ["450280"]
 japanese = "おなかが…すいて…。<end>"
-english = ""
+english = "I'm... so hungry...<end>"
 
 ["450281"]
 japanese = "くっ、飢えか！\u3000よし、任せろ！！\u3000<end>"
-english = ""
+english = "Gah, hunger! All right, leave it to me!!<end>"
 
 ["450282"]
 japanese = "よかろう！\u3000勇者が胸元で暖めていた<line-break>ちょっと古めのパンを食え！<end>"
-english = ""
+english = "Very well! Eat this slightly stale bread that this Hero kept warm against his chest!<end>"
 
 ["450283"]
 japanese = "あ、ありがとうございました。<line-break>これで元気が出ました。<end>"
-english = ""
+english = "Th-thank you. I feel better now.<end>"
 
 ["450284"]
 japanese = "勇者の熱き魂に触れる者<line-break>また、１人、か。<end>"
-english = ""
+english = "Another person touched by a Hero's fiery soul...<end>"
 
 ["450285"]
 japanese = "…しまった！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break><line-break>俺様自身、何日も食ってなくて…<line-break>餓死寸前であのパンを拾ったのを<line-break>忘れていた…！<end>"
-english = ""
+english = "Oh no! I'd forgotten that I hadn't eaten in days myself... and that I found that bread when I was on the verge of starving to death...!<end>"
 
 ["450286"]
 japanese = "へへっ！\u3000無様だな。<line-break>未来の勇者様よお！？\u3000<line-break>\u3000<line-break>人助けしたのはいいが<line-break>自分も救えないのか？<line-break>ハッ、ザマぁねえなあ！<end>"
-english = ""
+english = "Heh! What a pathetic sight, Future Hero! You helped someone, but you can't even save yourself? Ha! What a joke!<end>"
 
 ["450287"]
 japanese = "ふっ、熱き魂を持つ者は<line-break>…ち、違う…のだ。<end>"
-english = ""
+english = "Hmph. Those who possess a fiery soul... a-are different...<end>"
 
 ["450288"]
 japanese = "本当なら、お前らの小屋を焼いて<line-break>お前らをこの町に入れないところだ！<line-break>\u3000<line-break>ボンガが、よそ者のくせに<line-break>みんなを説得するから、しぶしぶ、<line-break>町の出入りだけは許しているが…<end>"
