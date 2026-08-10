@@ -10,11 +10,11 @@ english = "<value:$28>, I presume. Please, go on in.<end>"
 
 ["1040002"]
 japanese = "（…な、何だ…？<line-break>\u3000なんだか、体が浮いてるような…。）<end>"
-english = ""
+english = "(W-what's happening...? It feels like my body's floating...)<end>"
 
 ["1040003"]
 japanese = "剣闘士<value:$28>、<line-break>もう試合の時間ですよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>さっきから観客は興奮しっぱなしです。<line-break>さあ、早く天武陣の方へ！<end>"
-english = ""
+english = "Gladiator <value:$28>, it's time for your match. The crowd has been worked up for a while now. Hurry to the arena floor!<end>"
 
 ["1040004"]
 japanese = "お、ちょうどよかった。<line-break>ちょっと頼まれてくれないかな？<line-break>\u3000<end>"
