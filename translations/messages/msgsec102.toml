@@ -6,7 +6,7 @@ english = ""
 
 ["1020001"]
 japanese = "（…閉まっているようだ。）<end>"
-english = ""
+english = "(...It seems to be closed.)<end>"
 
 ["1020002"]
 japanese = "よく来てくれた、<value:$28>。<line-break>ちょうどいいタイミングだ。<line-break>ディンガル軍の部隊が動き出したらしい。\u3000<line-break>もうじき、この平民街にやってくるだろう。<line-break>その前にけりを付けなくてはな。<end>"
