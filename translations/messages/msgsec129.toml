@@ -86,11 +86,11 @@ english = "<value:$1A> Gea obtained.<end>"
 
 ["1290021"]
 japanese = "経験値を<value:$1A>獲得した。<end>"
-english = ""
+english = "<value:$1A> experience points obtained.<end>"
 
 ["1290022"]
 japanese = "スキルポイントを<value:$1A>獲得した。<end>"
-english = ""
+english = "<value:$1A> Skill Points obtained.<end>"
 
 ["1290023"]
 japanese = "<if><value:$1A><equal>%0<value:$15>を手に入れた。<end><value:$15>を<value:$1A>個手に入れた。<end>"
