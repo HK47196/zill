@@ -162,7 +162,7 @@ english = "<if><value:$29><equal>%0Sorry for stopping you. We should be going. S
 
 ["760040"]
 japanese = "あ、あの、<value:$28>さんには<line-break><value:$28>さんの事情が<line-break>あったんですよね。<line-break><value:$28>さんが、<line-break>何の理由もなしに、かわいそうな王女を<line-break>放っておくはずありませんから。<end>"
-english = ""
+english = "Um, <value:$28>... You must have had your reasons. I know you would never abandon a poor princess for no reason.<end>"
 
 ["760041"]
 japanese = "それでは、失礼します。<end>"
@@ -258,15 +258,15 @@ english = "Oh, no. Don't even think about it. I'll be taking that for the poor p
 
 ["760064"]
 japanese = "やぁ。色惑の瞳、遅いよん。<line-break>まさか、猫ばばしようと<line-break>してたんじゃないよね。<end>"
-english = ""
+english = "Hey, Eyes of Temptation. You're late! You weren't thinking of keeping it for yourself, were you?<end>"
 
 ["760065"]
 japanese = "毎度あり～。<line-break>これは謝礼だよ、じゃあね。<end>"
-english = ""
+english = "Much obliged! Here's your reward. See you around.<end>"
 
 ["760066"]
 japanese = "３０００ギア手に入れた。<end>"
-english = ""
+english = "Obtained 3,000 Gea.<end>"
 
 ["760067"]
 japanese = "未：無礼な！<end>"
