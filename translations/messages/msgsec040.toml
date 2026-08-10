@@ -62,11 +62,11 @@ english = "<if><value:$01><equal>2A demon serving the God of Destruction...? Som
 
 ["400015"]
 japanese = "…バルザーを知っているのか？<end>"
-english = ""
+english = "...You know Baltzer?<end>"
 
 ["400016"]
 japanese = "そうか。<line-break>ならば、話が早い。<end>"
-english = ""
+english = "I see. Then this will be easier to explain.<end>"
 
 ["400017"]
 japanese = "なぜこの場所に来てしまったのかは<line-break>知らないが、<line-break>ここに長くとどまるのは危険だ。<line-break>ここはバルザーが作り出した異空間。<line-break>先ほどのモンスターもそうだが、<line-break>何が待ちかまえているかわからない。<end>"
@@ -174,7 +174,7 @@ english = "It may only be the beginning.<end>"
 
 ["400043"]
 japanese = "あわてるな。<line-break>今からテレポートで脱出する。<line-break>私の周りに集まれ。<end>"
-english = ""
+english = "Do not panic. I will teleport us out now. Gather around me.<end>"
 
 ["400044"]
 japanese = "<if><value:$01><equal>2すごい…。<line-break>一瞬で、<line-break>リベルダムに着いたわ。 <end><if><value:$01><equal>6すごい…。<line-break>一瞬で、<line-break>リベルダムに着いちゃった。 <end><if><value:$01><equal>19すっごーい！\u3000すごいすごい！<line-break>一瞬で、<line-break>リベルダムに着いちゃったぁ。 <end><if><value:$01><equal>22すごいなぁ！<line-break>一瞬で、<line-break>リベルダムに着いちゃった。 <end><if><value:$01><equal>193すごいです！<line-break>一瞬で、<line-break>リベルダムに着いちゃいました。<end><if><value:$01><equal>191すごいわね。<line-break>一瞬でリベルダムに着いたわ。<end>すごい…。<line-break>一瞬で、<line-break>リベルダムに…。 <end>"
@@ -186,7 +186,7 @@ english = "Thank you, Nemea!<end>"
 
 ["400046"]
 japanese = "こちらこそ。<end>"
-english = ""
+english = "No, thank you.<end>"
 
 ["400047"]
 japanese = "<if><value:$01><equal>2それじゃ、町を出るときに<line-break>また会いましょ、<value:$28>。 <end><if><value:$01><equal>15それじゃ、<value:$28>。<line-break>また町を出るときに合流しよう。 <end><if><value:$01><equal>19それじゃ、<value:$28>。<line-break>また町を出るときに合流しようね。 <end><if><value:$01><equal>10それじゃ、姉ちゃん。<line-break>また町を出るときに合流しようぜ。 <end><if><value:$01><equal>193そ、それじゃ、失礼します！<line-break>町を出る時にまた！<end><if><value:$01><equal>191それじゃ、<line-break>町を出るときに合流しましょ。<end>"
@@ -334,7 +334,7 @@ english = "A noble Elf can't possibly bow to a mere human!<end>"
 
 ["400083"]
 japanese = "こちらこそ。<end>"
-english = ""
+english = "No, thank you.<end>"
 
 ["400084"]
 japanese = "そ、それじゃ、また町を出るときに<line-break>合流するわ！<end>"
