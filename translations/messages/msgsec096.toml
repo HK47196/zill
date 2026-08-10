@@ -42,7 +42,7 @@ english = "...Yet you have the strength to challenge me. I can see that. Come wh
 
 ["960010"]
 japanese = "…今のうぬでは、<line-break>まだ、我に<line-break>遠く及ばぬ。<line-break>…強くなれ。<line-break>我に挑むのだ。<line-break>\u3000<end>"
-english = ""
+english = "...As you are now, you still fall far short of me. Grow stronger, then face me.<end>"
 
 ["960011"]
 japanese = "そのとき、我は<line-break>うぬの名を知るだろう。<end>"
@@ -66,7 +66,7 @@ english = "<value:$28>... So that is your name?<end>"
 
 ["960016"]
 japanese = "…我が前に<line-break>現れるときを、<line-break>待っていた…。<line-break>…うぬの力、<line-break>我に、見せよ！<end>"
-english = ""
+english = "...I have awaited the day you would stand before me. Show me your strength!<end>"
 
 ["960017"]
 japanese = "…見事だ。<end>"
@@ -74,15 +74,15 @@ english = "…Impressive.<end>"
 
 ["960018"]
 japanese = "<value:$28>は<line-break>剣聖の称号を得た。<end>"
-english = ""
+english = "<value:$28> earned the title of Sword Saint.<end>"
 
 ["960019"]
 japanese = "…<value:$28>よ、<line-break>ひとつ、\u3000\u3000\u3000\u3000<line-break>頼みがある。<line-break>今一度、<line-break>うぬと戦う<line-break>機会が…ほしい。<end>"
-english = ""
+english = "...<value:$28>, I have one request. Grant me one more chance to fight you.<end>"
 
 ["960020"]
 japanese = "うぬに負けぬ力を<line-break>身につけ、我は<line-break>再び、この地に現れよう。<end>"
-english = ""
+english = "I shall grow strong enough to overcome you, then return to this place.<end>"
 
 ["960021"]
 japanese = "…うぬは、<line-break>まだ強くなる。<line-break>…我に挑め。<line-break>再び、この地で、<line-break>待つ…。<end>"
