@@ -18,7 +18,7 @@ english = "Not bad, getting asked for by name. Don't let this one get away. It's
 
 ["1190004"]
 japanese = "お、<value:$28>。<line-break>ちょっと来てくれないか。<end>"
-english = ""
+english = "Ah, <value:$28>. Could you come over here a moment?<end>"
 
 ["1190005"]
 japanese = "実はな、お前に名指しで依頼が来てる。<line-break>依頼主は、ケリュネイアというハーフエルフで、<line-break>闇の神器を手に入れてほしいって内容だ。<line-break>こいつは全部で１２あるらしいんだが、<line-break>在処がわかってるのは、３点。<end>"
@@ -66,7 +66,7 @@ english = "Good. Then you've already realized that Nemea is searching for the Ar
 
 ["1190016"]
 japanese = "だったら、急いだ方がいいわ。<line-break>闇の神器は<line-break>ネメアも狙っているのよ。<end>"
-english = ""
+english = "Then you'd better hurry. Nemea is after the Artifacts of Darkness too.<end>"
 
 ["1190017"]
 japanese = "闇の神器が１２個すべて集まれば、<line-break>破壊神ウルグを<line-break>呼び出せると言われているわ。<line-break>王位を簒奪して、<line-break>世界征服をたくらむ男に、<line-break>渡していいような代物じゃないのよ。<end>"
@@ -106,7 +106,7 @@ english = "You can't hand over the Artifacts of Darkness. Steel yourself and con
 
 ["1190026"]
 japanese = "なぜあなたでなければ<line-break>ならないのか？<line-break>…いい質問ね。<end>"
-english = ""
+english = "Why does it have to be you? ...That's a good question.<end>"
 
 ["1190027"]
 japanese = "闇の神器は強力な魔道器なの。\u3000<line-break>その力は、持っているだけで、<line-break>その者を闇に染めてしまうわ。<line-break>闇の神器に取り込まれないだけの<line-break>強力なソウルの持ち主なんて、<line-break>この世に限られているのよ。<end>"
@@ -142,7 +142,7 @@ english = "You brought the Earring of Impatience? Good, good. It matches Cerynei
 
 ["1190035"]
 japanese = "そいつはお前が持っていてくれ。<line-break>よくわからんが、依頼主が<line-break>そうしてくれって言ってたんでな。\u3000\u3000<end>"
-english = ""
+english = "You keep that. I don't know why, but that's what the client asked for.<end>"
 
 ["1190036"]
 japanese = "憤怒の鎚を持ってきたのか。<line-break>よしよし、ケリュネイアから聞いている<line-break>形状と同じだな。<line-break>合格だ。こいつが報酬だ。<line-break>受け取りな。<end>"
@@ -150,7 +150,7 @@ english = "You've brought the Hammer of Wrath, then. Good, good. It matches the 
 
 ["1190037"]
 japanese = "そいつはお前が持っていてくれ。<line-break>よくわからんが、依頼主が<line-break>そうしてくれって言ってたんでな。\u3000\u3000<end>"
-english = ""
+english = "You keep that. I don't know why, but that's what the client asked for.<end>"
 
 ["1190038"]
 japanese = "貪欲の盾を持ってきたのか。<line-break>よしよし、ケリュネイアから聞いている<line-break>形状と同じだな。<line-break>合格だ。こいつが報酬だ。<line-break>受け取りな。<end>"
@@ -158,7 +158,7 @@ english = "So, you've brought the Shield of Greed. Good, good. It matches the de
 
 ["1190039"]
 japanese = "そいつはお前が持っていてくれ。<line-break>よくわからんが、依頼主が<line-break>そうしてくれって言ってたんでな。\u3000\u3000<end>"
-english = ""
+english = "You keep that. I don't know why, but that's what the client asked for.<end>"
 
 ["1190040"]
 japanese = "禁断の聖杯を持ってきたのか。<line-break>よしよし、ケリュネイアから聞いている<line-break>形状と同じだな。<line-break>合格だ。こいつが報酬だ。<line-break>受け取りな。<end>"
@@ -166,7 +166,7 @@ english = "You've brought the Forbidden Grail, then? Good, good. It matches the 
 
 ["1190041"]
 japanese = "そいつはお前が持っていてくれ。<line-break>よくわからんが、依頼主が<line-break>そうしてくれって言ってたんでな。\u3000\u3000<end>"
-english = ""
+english = "You keep that. I don't know why, but that's what the client asked for.<end>"
 
 ["1190042"]
 japanese = "忘却の仮面を持ってきたのか。<line-break>よしよし、ケリュネイアから聞いている<line-break>形状と同じだな。<line-break>合格だ。こいつが報酬だ。<line-break>受け取りな。<end>"
