@@ -162,31 +162,31 @@ english = "I'm busy with my military duties. It's time you moved on from me. See
 
 ["1010040"]
 japanese = "<value:$28>…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>帝国に弓ひく身でありながら<line-break>私の前に出てくるなんて<line-break>いい度胸ね。<end>"
-english = ""
+english = "<value:$28>... You have some nerve showing your face to me when you've taken up arms against the Empire.<end>"
 
 ["1010041"]
 japanese = "いつまでも解放軍に味方してても<line-break>なんにもならないわよ。<line-break>私たちの方についたらどう？<end>"
-english = ""
+english = "You'll get nowhere if you keep siding with the Liberation Army. Why not join us instead?<end>"
 
 ["1010042"]
 japanese = "そう言うと思った。<line-break>相変わらず、バカね。\u3000<line-break>\u3000<line-break>今度、私と目があったら<line-break>すぐに逃げることね。<line-break>…首が飛ぶわよ。<end>"
-english = ""
+english = "I knew you'd say that. You're as foolish as ever. Next time our eyes meet, you'd better run at once... or you'll lose your head.<end>"
 
 ["1010043"]
 japanese = "早く、行きなさい。<end>"
-english = ""
+english = "Go. Quickly.<end>"
 
 ["1010044"]
 japanese = "…<value:$28>、<line-break>まだ、解放軍に味方してるの？<end>"
-english = ""
+english = "<value:$28>... Are you still siding with the Liberation Army?<end>"
 
 ["1010045"]
 japanese = "…<value:$28>。<line-break>時勢を見る目くらいは持つべきね。<line-break>\u3000<line-break>いつまでも昔のまま、なんてことは<line-break>ないのよ。時の流れの速さを嘆いても<line-break>なんにもならないわ。<end>"
-english = ""
+english = "<value:$28>... You need to learn to read the times. Nothing stays as it was forever. Lamenting how quickly the world changes won't do you any good.<end>"
 
 ["1010046"]
 japanese = "…私たちがなんらかの形で<line-break>決着をつけるときが必ず来るわ。<line-break>それまで、せいぜい死なないでね。<end>"
-english = ""
+english = "One way or another, the day will come when we have to settle this. Until then, do try not to die.<end>"
 
 ["1010047"]
 japanese = "…<value:$28>、あなたと私は<line-break>目指しているものが違うの！<end>"
