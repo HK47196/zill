@@ -21,6 +21,7 @@ const usage = `Usage: zill <command> [options]
 
 Commands:
 	check             Validate contributor translation data
+	context           Show every static CDC scene for one bank or record
 	search            Search IDs, Japanese, and English
 	show              Show one record and nearby context
 	ppsspp-debugger   Control a running PPSSPP instance through JSON Lines
@@ -47,6 +48,8 @@ func run(args []string, stdin io.Reader, stdout, stderr io.Writer) int {
 			return 2
 		}
 		return runCheck(root, stdout, stderr)
+	case "context":
+		return runContext(root, args[1:], stdout, stderr)
 	case "show":
 		return runShow(root, args[1:], stdout, stderr)
 	case "search":

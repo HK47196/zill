@@ -32,13 +32,26 @@ Install Go 1.26.5 or newer, then use the contributor commands:
 ```sh
 ./zill search --state todo
 ./zill show 1136
+./zill context --game-dir /path/to/PSP_GAME --record 1350035
 ./zill check
 ```
 
 Text searches label Japanese and English separately and also return matching
 terminology; `--state` filters message records only.
 `show` prints the target, nearby Japanese/English context, and the editable
-section path. `check` is the asset-free contributor gate; it does not run reflow
+section path. `context` reads the retail CDC scripts without modifying them and
+prints every complete, cross-bank scene that references one requested record or
+any record in a requested bank. It preserves static branches, annotates C5
+entity/name-label associations with cautious inferred speaker labels, and gives
+path-local actor lifecycle context with explicit unknown states around unresolved
+control flow. It also supports machine-readable JSON:
+
+```sh
+./zill context --game-dir /path/to/PSP_GAME --bank 135
+./zill context --game-dir /path/to/PSP_GAME --record 1350035 --format json
+```
+
+`check` is the asset-free contributor gate; it does not run reflow
 or the retail-consumer fixed-buffer checks performed by the maintainer build.
 Local checks are recommended before a pull request, but are not required:
 GitHub CI runs them.
