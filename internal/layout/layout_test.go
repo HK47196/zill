@@ -71,6 +71,72 @@ func TestSystemHelpReflowUsesNarrowTextBox(t *testing.T) {
 	}
 }
 
+func TestGuildPostingAndCommentaryReflowFitsTheirPanels(t *testing.T) {
+	consumers, metrics, categories := releaseInputs(t)
+	engine, err := layout.Load(consumers, metrics, categories)
+	if err != nil {
+		t.Fatal(err)
+	}
+	tests := []struct {
+		name          string
+		id            int
+		text          string
+		tokens        []corpus.Token
+		minimumBreaks int
+	}{
+		{
+			name: "commentary",
+			id:   240018,
+			text: "<value:$15>: Please deliver it safely, and get it there as soon as you can.<end>",
+			tokens: []corpus.Token{
+				{Kind: "substitution", Raw: []byte{2, 0x15}},
+				{Kind: "text", Raw: []byte(": Please deliver it safely, and get it there as soon as you can."), Text: ": Please deliver it safely, and get it there as soon as you can."},
+				{Kind: "block_terminator", Raw: []byte{5, 5, 5}},
+			},
+			minimumBreaks: 1,
+		},
+		{
+			name: "posting",
+			id:   240019,
+			text: "Seeking a trustworthy adventurer to transport the following important cargo to <value:$16>: <value:$15>. Deadline: within <value:$1B> days. Reward upon success: <value:$1A> Gea.<end>",
+			tokens: []corpus.Token{
+				{Kind: "text", Raw: []byte("Seeking a trustworthy adventurer to transport the following important cargo to "), Text: "Seeking a trustworthy adventurer to transport the following important cargo to "},
+				{Kind: "substitution", Raw: []byte{2, 0x16}},
+				{Kind: "text", Raw: []byte(": "), Text: ": "},
+				{Kind: "substitution", Raw: []byte{2, 0x15}},
+				{Kind: "text", Raw: []byte(". Deadline: within "), Text: ". Deadline: within "},
+				{Kind: "substitution", Raw: []byte{2, 0x1b}},
+				{Kind: "text", Raw: []byte(" days. Reward upon success: "), Text: " days. Reward upon success: "},
+				{Kind: "substitution", Raw: []byte{2, 0x1a}},
+				{Kind: "text", Raw: []byte(" Gea."), Text: " Gea."},
+				{Kind: "block_terminator", Raw: []byte{5, 5, 5}},
+			},
+			minimumBreaks: 2,
+		},
+	}
+	for _, test := range tests {
+		t.Run(test.name, func(t *testing.T) {
+			record := corpus.Record{
+				ID: test.id, Index: test.id % 10_000, Display: test.text,
+				HasBlockTerminator: true, Tokens: test.tokens,
+			}
+			project := &corpus.Project{Items: []corpus.Item{{
+				Record: record,
+				Translation: corpus.Translation{
+					ID: test.id, Japanese: test.text, State: corpus.Translated, Text: test.text,
+				},
+			}}}
+			result, err := engine.Reflow(project)
+			if err != nil {
+				t.Fatal(err)
+			}
+			if got := strings.Count(result.Layouts[test.id], "<line-break>"); got < test.minimumBreaks {
+				t.Errorf("guild %s layout has %d line breaks, want at least %d: %q", test.name, got, test.minimumBreaks, result.Layouts[test.id])
+			}
+		})
+	}
+}
+
 func TestObjectiveAdviceReflowFitsAdvicePanel(t *testing.T) {
 	consumers, metrics, categories := releaseInputs(t)
 	engine, err := layout.Load(consumers, metrics, categories)

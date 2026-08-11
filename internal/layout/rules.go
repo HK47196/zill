@@ -36,4 +36,5 @@ const (
 	trapValueMaxBytes                    = 11
 	equipmentFeedbackBufferCapacityBytes = 109
 	chronicleEntryMaxPayloadBytes        = 764
+	guildTextAdvance                     = 260
 )

@@ -226,6 +226,8 @@ func (e *Engine) advanceLimit(id int) int {
 		return systemHelpAdvance
 	case e.category(id, "objective-advice"):
 		return objectiveAdviceAdvance
+	case e.guildText(id):
+		return guildTextAdvance
 	case e.has(e.consumers.C5PortraitIDs, id):
 		return c5PortraitAdvance
 	case e.has(e.consumers.C5IDs, id) || e.narrowText(id):
@@ -266,6 +268,17 @@ func (e *Engine) itemDescription(id int) bool {
 	return e.category(id, "equipment-description", "item-effect-description", "quest-item-description")
 }
 func (e *Engine) equipmentFeedback(id int) bool { return e.category(id, "equipment-feedback") }
+func (e *Engine) guildText(id int) bool {
+	if e.has(e.consumers.GuildCommentaryIDs, id) {
+		return true
+	}
+	for _, posting := range e.consumers.Postings {
+		if posting.ID == id {
+			return true
+		}
+	}
+	return false
+}
 func (e *Engine) has(ids []int, id int) bool {
 	i := sort.SearchInts(ids, id)
 	return i < len(ids) && ids[i] == id

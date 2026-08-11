@@ -40,19 +40,20 @@ type postingCandidates struct {
 }
 
 type consumersFile struct {
-	Format            string            `toml:"format"`
-	Version           int               `toml:"version"`
-	SupportedGame     string            `toml:"supported_game"`
-	BoundedLabelIDs   []int             `toml:"bounded_label_ids"`
-	C5IDs             []int             `toml:"c5_ids"`
-	C5PortraitIDs     []int             `toml:"c5_portrait_ids"`
-	C22IDs            []int             `toml:"c22_ids"`
-	SinglePageC5IDs   []int             `toml:"single_page_c5_ids"`
-	GuildClientIDs    []int             `toml:"guild_client_ids"`
-	GuildRegionIDs    []int             `toml:"guild_region_ids"`
-	C20Groups         []c20Group        `toml:"c20_group"`
-	Postings          []posting         `toml:"posting"`
-	PostingCandidates postingCandidates `toml:"posting_candidates"`
+	Format             string            `toml:"format"`
+	Version            int               `toml:"version"`
+	SupportedGame      string            `toml:"supported_game"`
+	BoundedLabelIDs    []int             `toml:"bounded_label_ids"`
+	C5IDs              []int             `toml:"c5_ids"`
+	C5PortraitIDs      []int             `toml:"c5_portrait_ids"`
+	C22IDs             []int             `toml:"c22_ids"`
+	SinglePageC5IDs    []int             `toml:"single_page_c5_ids"`
+	GuildClientIDs     []int             `toml:"guild_client_ids"`
+	GuildCommentaryIDs []int             `toml:"guild_commentary_ids"`
+	GuildRegionIDs     []int             `toml:"guild_region_ids"`
+	C20Groups          []c20Group        `toml:"c20_group"`
+	Postings           []posting         `toml:"posting"`
+	PostingCandidates  postingCandidates `toml:"posting_candidates"`
 }
 
 type categoryRange struct {
@@ -101,7 +102,7 @@ func Load(consumers, metrics, categories []byte) (*Engine, error) {
 	if len(m.Glyph) == 0 {
 		return nil, fmt.Errorf("font metrics: glyph repertoire is empty")
 	}
-	idLists := [][]int{c.BoundedLabelIDs, c.C5IDs, c.C5PortraitIDs, c.C22IDs, c.SinglePageC5IDs, c.GuildClientIDs, c.GuildRegionIDs}
+	idLists := [][]int{c.BoundedLabelIDs, c.C5IDs, c.C5PortraitIDs, c.C22IDs, c.SinglePageC5IDs, c.GuildClientIDs, c.GuildCommentaryIDs, c.GuildRegionIDs}
 	for _, ids := range idLists {
 		for i, id := range ids {
 			if id < 0 || i > 0 && id <= ids[i-1] {
