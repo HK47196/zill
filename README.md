@@ -2,6 +2,31 @@
 
 Zill is an English fan translation of *Zill O'll Infinite Plus*.
 
+## Using the translation
+
+The release patch is provided in xdelta3 format and must be applied with a
+tool that supports xdelta3. One third-party, client-side browser patcher is
+[xdelta-wasm](https://kotcrab.github.io/xdelta-wasm/).
+
+Use a clean ISO dump of the Japanese release, serial `ULJM-05410`, version
+`1.03`, as the source file and the released `.xdelta` file as the patch.
+
+## Testing status and known issues
+
+A full playthrough of the `Origin` starting scenario has been completed.
+
+- Text on the name-entry screen uses the wrong character width; this is only a
+  visual issue.
+- The character profile list still uses Japanese kana order rather than
+  alphabetical order.
+- Additional buffer overflows may remain undiscovered.
+- Some messages still overflow their text boxes.
+- Some translation inconsistencies remain.
+- Some character-creation choices are unclear due to buffer limitations; a
+  workaround is planned.
+
+## Contributing
+
 Install Go 1.26.5 or newer, then use the contributor commands:
 
 ```sh
