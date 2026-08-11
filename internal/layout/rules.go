@@ -30,6 +30,7 @@ const (
 	boundedLabelBufferCapacityBytes      = 28
 	guildClientBufferCapacityBytes       = 17
 	guildPostingBufferCapacityBytes      = 316
+	guildPostingIntegerMaxBytes          = 20
 	guildRegionBufferCapacityBytes       = 152
 	trapID                               = 1070079
 	trapBufferCapacityBytes              = 104

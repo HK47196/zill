@@ -149,6 +149,13 @@ func Load(consumers, metrics, categories []byte) (*Engine, error) {
 	for _, g := range e.glyphs {
 		e.playerNameAdvance = max(e.playerNameAdvance, g.Advance*playerNameMaxCharacters)
 	}
+	for digit := uint16('0'); digit <= uint16('9'); digit++ {
+		g, ok := e.glyphs[digit]
+		if !ok {
+			return nil, fmt.Errorf("font metrics: decimal digit %#04x is missing", digit)
+		}
+		e.postingIntegerAdvance = max(e.postingIntegerAdvance, g.Advance*guildPostingIntegerMaxBytes)
+	}
 	return e, nil
 }
 

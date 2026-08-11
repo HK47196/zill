@@ -30,10 +30,12 @@ var strongBreak = regexp.MustCompile(`[.!?…]["')\]]*$`)
 var mediumBreak = regexp.MustCompile(`[,;:]["')\]]*$`)
 
 type Engine struct {
-	consumers         consumersFile
-	glyphs            map[uint16]glyph
-	categories        []categoryRange
-	playerNameAdvance int
+	consumers             consumersFile
+	glyphs                map[uint16]glyph
+	categories            []categoryRange
+	playerNameAdvance     int
+	postingIntegerAdvance int
+	postingAdvances       map[int]map[string]int
 }
 
 type Warning struct {
@@ -89,13 +91,19 @@ func (e *Engine) Reflow(project *corpus.Project) (Result, error) {
 			translated = append(translated, index)
 		}
 	}
+	postingAdvances, err := e.postingRuntimeAdvances(items)
+	if err != nil {
+		return Result{}, err
+	}
+	run := *e
+	run.postingAdvances = postingAdvances
 	reflowed := make([]reflowedItem, len(project.Items))
 	jobs := make(chan int)
 	var workers sync.WaitGroup
 	for range min(runtime.GOMAXPROCS(0), len(translated)) {
 		workers.Go(func() {
 			for index := range jobs {
-				reflowed[index] = e.reflowItem(project.Items[index])
+				reflowed[index] = run.reflowItem(project.Items[index])
 			}
 		})
 	}
@@ -118,7 +126,7 @@ func (e *Engine) Reflow(project *corpus.Project) (Result, error) {
 		result.Layouts[projectItem.Record.ID] = item.layout
 		result.Warnings = append(result.Warnings, item.warnings...)
 	}
-	if err := e.Validate(project, result.Layouts); err != nil {
+	if err := run.Validate(project, result.Layouts); err != nil {
 		return Result{}, err
 	}
 	sort.Slice(result.Warnings, func(i, j int) bool {
@@ -278,6 +286,52 @@ func (e *Engine) guildText(id int) bool {
 		}
 	}
 	return false
+}
+func (e *Engine) postingCandidateIDs() map[string][]int {
+	return map[string][]int{
+		"destination":        e.consumers.PostingCandidates.Destination,
+		"escorted role/name": e.consumers.PostingCandidates.Escorted,
+		"qualifier/title":    e.consumers.PostingCandidates.Qualifier,
+		"target item":        e.consumers.PostingCandidates.TargetItem,
+		"target monster":     e.consumers.PostingCandidates.TargetMonster,
+	}
+}
+func (e *Engine) postingRuntimeAdvances(items map[int]corpus.Item) (map[int]map[string]int, error) {
+	maxima := map[string]int{}
+	for role, ids := range e.postingCandidateIDs() {
+		for _, id := range ids {
+			item, ok := items[id]
+			if !ok {
+				continue
+			}
+			text := item.Record.Display
+			if item.Translation.State == corpus.Translated {
+				text = item.Translation.Text
+			}
+			advance, err := e.measure(text, id)
+			if err != nil {
+				return nil, err
+			}
+			maxima[role] = max(maxima[role], advance)
+		}
+	}
+	for _, role := range e.consumers.PostingCandidates.IntegerRoles {
+		maxima[role] = e.postingIntegerAdvance
+	}
+	advances := make(map[int]map[string]int, len(e.consumers.Postings))
+	for _, posting := range e.consumers.Postings {
+		for tag, role := range posting.Bindings {
+			advance := maxima[role]
+			if advance == 0 {
+				continue
+			}
+			if advances[posting.ID] == nil {
+				advances[posting.ID] = map[string]int{}
+			}
+			advances[posting.ID][tag] = advance
+		}
+	}
+	return advances, nil
 }
 func (e *Engine) has(ids []int, id int) bool {
 	i := sort.SearchInts(ids, id)
@@ -616,6 +670,9 @@ func visible(s string) string { return controlTag.ReplaceAllString(normalize(s),
 
 func (e *Engine) measure(s string, id int) (int, error) {
 	reserved := strings.Count(s, "<value:$28>") * e.playerNameAdvance
+	for tag, advance := range e.postingAdvances[id] {
+		reserved += strings.Count(s, tag) * advance
+	}
 	plain := visible(s)
 	total := 0
 	for i, r := range plain {

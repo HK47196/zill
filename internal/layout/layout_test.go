@@ -137,6 +137,65 @@ func TestGuildPostingAndCommentaryReflowFitsTheirPanels(t *testing.T) {
 	}
 }
 
+func TestGuildPostingReflowReservesRuntimeValueWidth(t *testing.T) {
+	consumers, metrics, categories := releaseInputs(t)
+	engine, err := layout.Load(consumers, metrics, categories)
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, test := range []struct {
+		name        string
+		prefixCount int
+		tag         string
+		opcode      byte
+		candidate   *corpus.Item
+	}{
+		{
+			name:        "target item",
+			prefixCount: 17,
+			tag:         "<value:$15>",
+			opcode:      0x15,
+			candidate: &corpus.Item{
+				Record: corpus.Record{ID: 1137, Index: 1137, Display: strings.Repeat("W", 10) + "<end>"},
+				Translation: corpus.Translation{
+					ID: 1137, Japanese: strings.Repeat("W", 10) + "<end>", State: corpus.KeepJapanese,
+				},
+			},
+		},
+		{name: "reward", prefixCount: 15, tag: "<value:$1A>", opcode: 0x1a},
+	} {
+		t.Run(test.name, func(t *testing.T) {
+			prefix := strings.Repeat("W", test.prefixCount)
+			text := prefix + " " + test.tag + "<end>"
+			record := corpus.Record{
+				ID: 240019, Index: 19, Display: text, HasBlockTerminator: true,
+				Tokens: []corpus.Token{
+					{Kind: "text", Raw: []byte(prefix + " "), Text: prefix + " "},
+					{Kind: "substitution", Raw: []byte{2, test.opcode}},
+					{Kind: "block_terminator", Raw: []byte{5, 5, 5}},
+				},
+			}
+			project := &corpus.Project{Items: []corpus.Item{{
+				Record: record,
+				Translation: corpus.Translation{
+					ID: 240019, Japanese: text, State: corpus.Translated, Text: text,
+				},
+			}}}
+			if test.candidate != nil {
+				project.Items = append(project.Items, *test.candidate)
+			}
+			result, err := engine.Reflow(project)
+			if err != nil {
+				t.Fatal(err)
+			}
+			want := prefix + "<line-break>" + test.tag + "<end>"
+			if got := result.Layouts[240019]; got != want {
+				t.Errorf("guild posting layout = %q, want runtime value on a fitting line: %q", got, want)
+			}
+		})
+	}
+}
+
 func TestObjectiveAdviceReflowFitsAdvicePanel(t *testing.T) {
 	consumers, metrics, categories := releaseInputs(t)
 	engine, err := layout.Load(consumers, metrics, categories)

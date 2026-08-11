@@ -235,8 +235,7 @@ func (e *Engine) tightenC22(id int, semantic, layout string, limit int) string {
 
 func (e *Engine) validatePostings(effective map[int]string, translated map[int]bool, failures *[]string) {
 	maxima := map[string]int{}
-	roles := map[string][]int{"destination": e.consumers.PostingCandidates.Destination, "escorted role/name": e.consumers.PostingCandidates.Escorted, "qualifier/title": e.consumers.PostingCandidates.Qualifier, "target item": e.consumers.PostingCandidates.TargetItem, "target monster": e.consumers.PostingCandidates.TargetMonster}
-	for role, ids := range roles {
+	for role, ids := range e.postingCandidateIDs() {
 		for _, id := range ids {
 			if text, ok := effective[id]; ok {
 				if size, err := expandedBytes(text, id); err == nil && size > maxima[role] {
@@ -266,7 +265,7 @@ func (e *Engine) validatePostings(effective map[int]string, translated map[int]b
 		for tag, role := range p.Bindings {
 			count := strings.Count(text, tag)
 			if integer[role] {
-				size += count * 20
+				size += count * guildPostingIntegerMaxBytes
 			} else {
 				size += count * maxima[role]
 			}
