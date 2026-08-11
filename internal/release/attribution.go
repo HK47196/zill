@@ -93,7 +93,12 @@ func renderTitleAttribution(root string, config attributionConfig, version strin
 	drawer := font.Drawer{Dst: mask, Src: image.White, Face: face}
 	for index, line := range lines {
 		width := drawer.MeasureString(line).Ceil()
-		if width > titleAttributionRight-titleAttributionLeft {
+		checkedWidth := width
+		if index == 1 && strings.HasSuffix(version, "-dirty") {
+			checkedLine := strings.TrimSuffix(version, "-dirty") + " · " + config.URL
+			checkedWidth = drawer.MeasureString(checkedLine).Ceil()
+		}
+		if checkedWidth > titleAttributionRight-titleAttributionLeft {
 			return nil, fmt.Errorf("title attribution line %q is %d pixels wide; capacity is %d", line, width, titleAttributionRight-titleAttributionLeft)
 		}
 		drawer.Dot = fixed.P(titleAttributionRight-width, titleAttributionTop+9+index*12)

@@ -83,6 +83,16 @@ func TestRenderTitleAttributionAcceptsGitTagPath(t *testing.T) {
 	}
 }
 
+func TestRenderTitleAttributionAcceptsDirtySuffixBeyondCapacity(t *testing.T) {
+	config, err := loadAttributionConfig("../..")
+	if err != nil {
+		t.Fatal(err)
+	}
+	if overlay, err := renderTitleAttribution("../..", config, "v1.0.2-alpha-dirty"); err != nil || overlay == nil {
+		t.Fatalf("render dirty version: overlay %v, error %v", overlay, err)
+	}
+}
+
 func TestParseAttributionConfigRejectsUnknownFields(t *testing.T) {
 	data := []byte("format = \"zill-title-attribution\"\nversion = 1\ncredit = \"credit\"\nurl = \"example.test\"\nextra = true\n")
 	if _, err := parseAttributionConfig(data); err == nil {
