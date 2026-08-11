@@ -43,6 +43,20 @@ or the retail-consumer fixed-buffer checks performed by the maintainer build.
 Local checks are recommended before a pull request, but are not required:
 GitHub CI runs them.
 
+## PPSSPP remote debugger
+
+Use the project-local JSONL bridge to inspect or control a running PPSSPP game:
+
+```sh
+./zill ppsspp-debugger --port PORT
+```
+
+PPSSPP must have a game loaded with **Allow remote debugger** enabled. The
+debugger has no authentication or TLS, so the bridge defaults to loopback and
+requires an explicit opt-in for remote hosts. See
+[docs/ppsspp-debugger.md](docs/ppsspp-debugger.md) for setup, the JSONL command
+contract, screenshot behavior, and mutation safeguards.
+
 ## Translation data
 
 Message data is stored in paired section tables under `translations/messages/`.

@@ -20,14 +20,15 @@ import (
 const usage = `Usage: zill <command> [options]
 
 Commands:
-	check      Validate contributor translation data
-	search     Search IDs, Japanese, and English
-	show       Show one record and nearby context
-	build      Maintainer-only: build PSP_GAME, ISO, and xdelta outputs
-  help       Show this help
+	check             Validate contributor translation data
+	search            Search IDs, Japanese, and English
+	show              Show one record and nearby context
+	ppsspp-debugger   Control a running PPSSPP instance through JSON Lines
+	build             Maintainer-only: build PSP_GAME, ISO, and xdelta outputs
+	help              Show this help
 `
 
-func run(args []string, stdout, stderr io.Writer) int {
+func run(args []string, stdin io.Reader, stdout, stderr io.Writer) int {
 	if len(args) == 0 || args[0] == "help" || args[0] == "-h" || args[0] == "--help" {
 		fmt.Fprint(stdout, usage)
 		return 0
@@ -50,6 +51,8 @@ func run(args []string, stdout, stderr io.Writer) int {
 		return runShow(root, args[1:], stdout, stderr)
 	case "search":
 		return runSearch(root, args[1:], stdout, stderr)
+	case "ppsspp-debugger":
+		return runPPSSPPDebugger(args[1:], stdin, stdout, stderr)
 	}
 
 	fmt.Fprintf(stderr, "zill: unknown command %q\n\n", args[0])
@@ -224,5 +227,5 @@ func snippet(text string, maximum int) string {
 }
 
 func main() {
-	os.Exit(run(os.Args[1:], os.Stdout, os.Stderr))
+	os.Exit(run(os.Args[1:], os.Stdin, os.Stdout, os.Stderr))
 }
