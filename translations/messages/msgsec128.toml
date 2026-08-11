@@ -90,7 +90,7 @@ english = "<select><value:$33>(Incomplete: AGETEA_14 Departure)<end>Dark Elves h
 
 ["1280022"]
 japanese = "レベリスの葉を使ったお茶さ。このお茶を<line-break>おいしくいれるには、少し技術が必要なんだよ。<line-break>そういえば…<end>"
-english = "This tea is made from Reberis leaves. It takes a little skill to brew it properly. That reminds me...<end>"
+english = "This tea is made from Levelis leaves. It takes a little skill to brew it properly. That reminds me...<end>"
 
 ["1280023"]
 japanese = "<if><value:$2C><less-equal>%20魔法を使うには精霊力レベルが<line-break>重要なんだってな。<line-break>魔道アカデミーの学生が言っていたよ。<end><if><value:$2C><less-equal>%37宿しているソウルによってレベルが上がった時に<line-break>上がるフィジカルパラメータの変化が違うんだ。<line-break>むやみにレベルを上げても強くなれないよ。<end><if><value:$2C><less-equal>%49あんたくらいのレベルなら、<line-break>ドラゴンだって倒せるかもしれないな。<line-break>例えば死竜の洞窟に住むエルアザルとかな。<end><if><value:$2C><greater-equal>%50今のあんたなら、<line-break>竜王だって倒せるんじゃないか。<line-break>まったく、大した強さだよ。<end>"
