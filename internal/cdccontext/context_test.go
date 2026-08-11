@@ -268,7 +268,7 @@ func TestBuildRejectsMalformedMessageConsumers(t *testing.T) {
 	}
 }
 
-func TestBuildProvidesBankStorageContextWhenNoCDCSceneReferencesRecord(t *testing.T) {
+func TestBuildReturnsTheCompleteBankAsAStaticSceneWhenNoConsumerReferencesRecord(t *testing.T) {
 	pair := openPair(t, []fixtureMember{
 		{name: "data/bindata.dat", payload: make([]byte, 0x4000)},
 		{name: "cdc/do/unrelated.cdc", payload: []byte("C5:3+2+1350035;E")},
@@ -283,13 +283,14 @@ func TestBuildProvidesBankStorageContextWhenNoCDCSceneReferencesRecord(t *testin
 	if err != nil {
 		t.Fatal(err)
 	}
-	if !result.Unreferenced || len(result.Scenes) != 0 || result.BankContext == nil {
-		t.Fatalf("fallback result = %#v", result)
+	if len(result.Scenes) != 1 {
+		t.Fatalf("scenes = %#v", result.Scenes)
 	}
-	if result.BankContext.Member != "message/msgsec034.dat" || result.BankContext.Status != "storage_order_only" {
-		t.Fatalf("bank context provenance = %#v", result.BankContext)
+	scene := result.Scenes[0]
+	if scene.Member != "message/msgsec034.dat" || scene.SourceKind != "message_bank" || scene.Ordering != "storage_order_only" || scene.EvidenceStatus != "no_resolved_static_consumer_reference" {
+		t.Fatalf("bank scene provenance = %#v", scene)
 	}
-	entries := result.BankContext.Entries
+	entries := scene.Entries
 	expected := 0
 	for _, item := range project.Items {
 		if item.Translation.ID/10_000 == 34 {

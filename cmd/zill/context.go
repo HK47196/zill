@@ -163,18 +163,15 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 	if result.Selector.Record >= 0 {
 		query = fmt.Sprintf("record %d", result.Selector.Record)
 	}
-	fmt.Fprintf(output, "Query: %s\nCDC scenes: %d\n", query, len(result.Scenes))
-	if result.Unreferenced {
-		fmt.Fprintf(output, "No CDC scenes reference %s.\n", query)
-		if result.BankContext != nil {
-			fmt.Fprintf(output, "\nBank context: %s\n", result.BankContext.Member)
-			fmt.Fprintln(output, "  Status: storage order only; scene chronology, speakers, branches, and reachability are unresolved.")
-			writeContextEntries(output, result.BankContext.Entries)
-		}
-		return
-	}
+	fmt.Fprintf(output, "Query: %s\nScenes: %d\n", query, len(result.Scenes))
 	for _, scene := range result.Scenes {
 		fmt.Fprintf(output, "\nScene: %s\n", scene.Member)
+		fmt.Fprintf(output, "  Source: %s\n", scene.SourceKind)
+		fmt.Fprintf(output, "  Ordering: %s\n", scene.Ordering)
+		fmt.Fprintf(output, "  Evidence: %s\n", scene.EvidenceStatus)
+		if scene.SourceKind == "message_bank" {
+			fmt.Fprintln(output, "  Limitations: no resolved static consumer identifies branch topology, speakers, actor presence, or runtime reachability.")
+		}
 		writeContextEntries(output, scene.Entries)
 		if len(scene.References) > 0 {
 			fmt.Fprintln(output, "  Static references (execution remains conditional):")

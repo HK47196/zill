@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0-or-later
 
-// Package cdccontext derives static, branch-aware translation context from CDC.
+// Package cdccontext derives static translation context from CDC programs and
+// message-bank storage.
 package cdccontext
 
 import (
@@ -25,28 +26,22 @@ type Selector struct {
 	Record int `json:"record"`
 }
 
-// Result is the complete static context for the selected CDC scenes.
+// Result is the complete static context for the selected scenes.
 type Result struct {
-	Selector     Selector     `json:"selector"`
-	Scenes       []Scene      `json:"scenes"`
-	BankContext  *BankContext `json:"bank_context,omitempty"`
-	Unreferenced bool         `json:"unreferenced"`
+	Selector Selector `json:"selector"`
+	Scenes   []Scene  `json:"scenes"`
 }
 
-// BankContext preserves source-bank storage order when no CDC scene references
-// the selected bank or record. It is useful translation context, but does not
-// establish scene chronology, speakers, branches, or reachability.
-type BankContext struct {
-	Member  string  `json:"member"`
-	Status  string  `json:"status"`
-	Entries []Entry `json:"entries"`
-}
-
-// Scene is one CDC member, with every supported message consumer it contains.
+// Scene is one complete static context unit. CDC programs provide control-flow
+// scenes; a message bank provides the lossless storage-order unit when no
+// static consumer references the query.
 type Scene struct {
-	Member     string      `json:"member"`
-	Entries    []Entry     `json:"entries"`
-	References []Reference `json:"references"`
+	Member         string      `json:"member"`
+	SourceKind     string      `json:"source_kind"`
+	Ordering       string      `json:"ordering"`
+	EvidenceStatus string      `json:"evidence_status"`
+	Entries        []Entry     `json:"entries"`
+	References     []Reference `json:"references"`
 }
 
 // Entry is one authored message occurrence with its joined static flow state.
@@ -113,7 +108,8 @@ type Reference struct {
 	Resource     *cdc.ResourceReference `json:"resource,omitempty"`
 }
 
-// Build scans the supplied PAA archive and returns full scenes matching selector.
+// Build scans the supplied PAA archive and returns complete static context units
+// matching selector.
 func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair, selector Selector) (Result, error) {
 	if project == nil || pair == nil {
 		return Result{}, fmt.Errorf("cdc context: project and pair are required")
@@ -181,32 +177,34 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair,
 			result.Scenes = append(result.Scenes, scene)
 		}
 	}
-	result.Unreferenced = len(result.Scenes) == 0
-	if result.Unreferenced {
-		result.BankContext = buildBankContext(project, terms, selector)
+	if len(result.Scenes) == 0 {
+		result.Scenes = append(result.Scenes, buildBankScene(project, terms, selector))
 	}
 	return result, nil
 }
 
-func buildBankContext(project *corpus.Project, terms fixeddata.Terminology, selector Selector) *BankContext {
+func buildBankScene(project *corpus.Project, terms fixeddata.Terminology, selector Selector) Scene {
 	bank := selector.Bank
 	if selector.Record >= 0 {
 		bank = selector.Record / 10_000
 	}
-	context := &BankContext{
-		Member:  fmt.Sprintf("message/msgsec%03d.dat", bank),
-		Status:  "storage_order_only",
-		Entries: make([]Entry, 0),
+	scene := Scene{
+		Member:         fmt.Sprintf("message/msgsec%03d.dat", bank),
+		SourceKind:     "message_bank",
+		Ordering:       "storage_order_only",
+		EvidenceStatus: "no_resolved_static_consumer_reference",
+		Entries:        make([]Entry, 0),
+		References:     make([]Reference, 0),
 	}
 	for _, item := range project.Items {
 		if item.Translation.ID/10_000 != bank {
 			continue
 		}
-		context.Entries = append(context.Entries, Entry{
+		scene.Entries = append(scene.Entries, Entry{
 			Kind:         "bank_record",
 			MessageID:    item.Translation.ID,
 			Offset:       -1,
-			Position:     len(context.Entries),
+			Position:     len(scene.Entries),
 			Reachability: "unresolved",
 			Path:         make([]int, 0),
 			Japanese:     item.Translation.Japanese,
@@ -216,11 +214,18 @@ func buildBankContext(project *corpus.Project, terms fixeddata.Terminology, sele
 			Actors:       make([]Actor, 0),
 		})
 	}
-	return context
+	return scene
 }
 
 func buildScene(project *corpus.Project, terms fixeddata.Terminology, member string, p cdc.Program, bindata []byte) (Scene, error) {
-	s := Scene{Member: member, Entries: make([]Entry, 0), References: make([]Reference, 0)}
+	s := Scene{
+		Member:         member,
+		SourceKind:     "cdc_program",
+		Ordering:       "source_order_with_static_control_flow",
+		EvidenceStatus: "static_consumer_reference",
+		Entries:        make([]Entry, 0),
+		References:     make([]Reference, 0),
+	}
 	graph, err := compileFlow(p)
 	if err != nil {
 		return Scene{}, fmt.Errorf("cdc context: %s: %w", member, err)

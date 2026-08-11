@@ -46,10 +46,10 @@ entity/name-label associations with cautious inferred speaker labels, and gives
 path-sensitive actor lifecycle context by following verified CDC jumps,
 single-slot calls/returns, and choice arms. Authored but unreachable messages
 remain visible, while unsupported control flow and genuine state disagreements
-are labeled explicitly. If no CDC scene references the query, `context` falls
-back to the complete message bank in storage order and explicitly leaves
-chronology, speakers, branches, and reachability unresolved. It also supports
-machine-readable JSON:
+are labeled explicitly. If no resolved static consumer references the query,
+`context` returns the complete message bank as a `message_bank` scene in storage order;
+it explicitly leaves branch topology, speakers, actor presence, and runtime
+reachability unresolved. It also supports machine-readable JSON:
 
 ```sh
 ./zill context --game-dir /path/to/PSP_GAME --bank 135
