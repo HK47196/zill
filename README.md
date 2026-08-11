@@ -43,8 +43,13 @@ section path. `context` reads the retail CDC scripts without modifying them and
 prints every complete, cross-bank scene that references one requested record or
 any record in a requested bank. It preserves static branches, annotates C5
 entity/name-label associations with cautious inferred speaker labels, and gives
-path-local actor lifecycle context with explicit unknown states around unresolved
-control flow. It also supports machine-readable JSON:
+path-sensitive actor lifecycle context by following verified CDC jumps,
+single-slot calls/returns, and choice arms. Authored but unreachable messages
+remain visible, while unsupported control flow and genuine state disagreements
+are labeled explicitly. If no CDC scene references the query, `context` falls
+back to the complete message bank in storage order and explicitly leaves
+chronology, speakers, branches, and reachability unresolved. It also supports
+machine-readable JSON:
 
 ```sh
 ./zill context --game-dir /path/to/PSP_GAME --bank 135

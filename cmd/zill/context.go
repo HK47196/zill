@@ -163,61 +163,74 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 	if result.Selector.Record >= 0 {
 		query = fmt.Sprintf("record %d", result.Selector.Record)
 	}
-	fmt.Fprintf(output, "Query: %s\nScenes: %d\n", query, len(result.Scenes))
+	fmt.Fprintf(output, "Query: %s\nCDC scenes: %d\n", query, len(result.Scenes))
 	if result.Unreferenced {
 		fmt.Fprintf(output, "No CDC scenes reference %s.\n", query)
+		if result.BankContext != nil {
+			fmt.Fprintf(output, "\nBank context: %s\n", result.BankContext.Member)
+			fmt.Fprintln(output, "  Status: storage order only; scene chronology, speakers, branches, and reachability are unresolved.")
+			writeContextEntries(output, result.BankContext.Entries)
+		}
 		return
 	}
 	for _, scene := range result.Scenes {
 		fmt.Fprintf(output, "\nScene: %s\n", scene.Member)
-		for _, entry := range scene.Entries {
-			fmt.Fprintf(output, "  [%d] %s %d @%d path=%s\n", entry.Position, entry.Kind, entry.MessageID, entry.Offset, contextPath(entry.Path))
-			if entry.Guard != "" {
-				fmt.Fprintf(output, "    Enclosing blocks: %s\n", entry.Guard)
-			}
-			if entry.EntityAssociationHandleRaw != nil {
-				fmt.Fprintf(output, "    Association: handle=%d mode=%d resolution=%s", *entry.EntityAssociationHandleRaw, *entry.DisplayMode, entry.AssociationResolution)
-				if entry.AssociationNameRecordID != nil {
-					fmt.Fprintf(output, " name_record=%d", *entry.AssociationNameRecordID)
-				}
-				if entry.AssociatedLabelMessageID != nil {
-					fmt.Fprintf(output, " label_message=%d", *entry.AssociatedLabelMessageID)
-				}
-				fmt.Fprintln(output)
-				if entry.AssociatedLabelJapanese != "" || entry.AssociatedLabelEnglish != "" {
-					fmt.Fprintf(output, "    Associated label: %s / %s\n", entry.AssociatedLabelJapanese, entry.AssociatedLabelEnglish)
-				}
-				fmt.Fprintf(output, "    Speaker status: %s", entry.SpeakerStatus)
-				if entry.SpeakerEnglish != "" || entry.SpeakerJapanese != "" {
-					fmt.Fprintf(output, " (%s / %s)", entry.SpeakerJapanese, entry.SpeakerEnglish)
-				}
-				fmt.Fprintln(output)
-			}
-			if len(entry.Actors) > 0 {
-				parts := make([]string, len(entry.Actors))
-				for index, actor := range entry.Actors {
-					label := actor.AssociatedLabelEnglish
-					if label == "" {
-						label = actor.AssociatedLabelJapanese
-					}
-					if label == "" {
-						label = actor.AssociationLabelResolution
-					}
-					parts[index] = fmt.Sprintf("%d=%s[%s]", actor.Handle, label, actor.Presence)
-				}
-				fmt.Fprintf(output, "    Actor lifecycle: %s\n", strings.Join(parts, ", "))
-			}
-			fmt.Fprintf(output, "    Japanese: %s\n", entry.Japanese)
-			fmt.Fprintf(output, "    English: %s\n", entry.English)
-			for _, term := range entry.Terminology {
-				fmt.Fprintf(output, "    Authority: %s %s: %s → %s\n", term.Kind, term.Key, term.Japanese, term.English)
-			}
-		}
+		writeContextEntries(output, scene.Entries)
 		if len(scene.References) > 0 {
 			fmt.Fprintln(output, "  Static references (execution remains conditional):")
 			for _, reference := range scene.References {
 				fmt.Fprintf(output, "    %s @%d path=%s raw=%s\n", reference.Opcode, reference.Offset, contextPath(reference.Path), reference.Raw)
 			}
+		}
+	}
+}
+
+func writeContextEntries(output io.Writer, entries []cdccontext.Entry) {
+	for _, entry := range entries {
+		if entry.Offset >= 0 {
+			fmt.Fprintf(output, "  [%d] %s %d @%d path=%s reachability=%s\n", entry.Position, entry.Kind, entry.MessageID, entry.Offset, contextPath(entry.Path), entry.Reachability)
+		} else {
+			fmt.Fprintf(output, "  [%d] %s %d reachability=%s\n", entry.Position, entry.Kind, entry.MessageID, entry.Reachability)
+		}
+		if entry.Guard != "" {
+			fmt.Fprintf(output, "    Enclosing blocks: %s\n", entry.Guard)
+		}
+		if entry.EntityAssociationHandleRaw != nil {
+			fmt.Fprintf(output, "    Association: handle=%d mode=%d resolution=%s", *entry.EntityAssociationHandleRaw, *entry.DisplayMode, entry.AssociationResolution)
+			if entry.AssociationNameRecordID != nil {
+				fmt.Fprintf(output, " name_record=%d", *entry.AssociationNameRecordID)
+			}
+			if entry.AssociatedLabelMessageID != nil {
+				fmt.Fprintf(output, " label_message=%d", *entry.AssociatedLabelMessageID)
+			}
+			fmt.Fprintln(output)
+			if entry.AssociatedLabelJapanese != "" || entry.AssociatedLabelEnglish != "" {
+				fmt.Fprintf(output, "    Associated label: %s / %s\n", entry.AssociatedLabelJapanese, entry.AssociatedLabelEnglish)
+			}
+			fmt.Fprintf(output, "    Speaker status: %s", entry.SpeakerStatus)
+			if entry.SpeakerEnglish != "" || entry.SpeakerJapanese != "" {
+				fmt.Fprintf(output, " (%s / %s)", entry.SpeakerJapanese, entry.SpeakerEnglish)
+			}
+			fmt.Fprintln(output)
+		}
+		if len(entry.Actors) > 0 {
+			parts := make([]string, len(entry.Actors))
+			for index, actor := range entry.Actors {
+				label := actor.AssociatedLabelEnglish
+				if label == "" {
+					label = actor.AssociatedLabelJapanese
+				}
+				if label == "" {
+					label = actor.AssociationLabelResolution
+				}
+				parts[index] = fmt.Sprintf("%d=%s[%s;%s]", actor.Handle, label, actor.Presence, actor.PresenceBasis)
+			}
+			fmt.Fprintf(output, "    Actor lifecycle: %s\n", strings.Join(parts, ", "))
+		}
+		fmt.Fprintf(output, "    Japanese: %s\n", entry.Japanese)
+		fmt.Fprintf(output, "    English: %s\n", entry.English)
+		for _, term := range entry.Terminology {
+			fmt.Fprintf(output, "    Authority: %s %s: %s → %s\n", term.Kind, term.Key, term.Japanese, term.English)
 		}
 	}
 }

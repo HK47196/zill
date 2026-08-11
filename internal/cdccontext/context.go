@@ -27,9 +27,19 @@ type Selector struct {
 
 // Result is the complete static context for the selected CDC scenes.
 type Result struct {
-	Selector     Selector `json:"selector"`
-	Scenes       []Scene  `json:"scenes"`
-	Unreferenced bool     `json:"unreferenced"`
+	Selector     Selector     `json:"selector"`
+	Scenes       []Scene      `json:"scenes"`
+	BankContext  *BankContext `json:"bank_context,omitempty"`
+	Unreferenced bool         `json:"unreferenced"`
+}
+
+// BankContext preserves source-bank storage order when no CDC scene references
+// the selected bank or record. It is useful translation context, but does not
+// establish scene chronology, speakers, branches, or reachability.
+type BankContext struct {
+	Member  string  `json:"member"`
+	Status  string  `json:"status"`
+	Entries []Entry `json:"entries"`
 }
 
 // Scene is one CDC member, with every supported message consumer it contains.
@@ -39,12 +49,13 @@ type Scene struct {
 	References []Reference `json:"references"`
 }
 
-// Entry is a path-local supported message occurrence.
+// Entry is one authored message occurrence with its joined static flow state.
 type Entry struct {
 	Kind                       string             `json:"kind"`
 	MessageID                  int                `json:"message_id"`
 	Offset                     int                `json:"offset"`
 	Position                   int                `json:"position"`
+	Reachability               string             `json:"reachability"`
 	Depth                      int                `json:"depth"`
 	Path                       []int              `json:"path"`
 	Guard                      string             `json:"guard"`
@@ -77,7 +88,7 @@ type TerminologyEntry struct {
 	SourceIDs []int  `json:"source_ids,omitempty"`
 }
 
-// Actor is the path-local abstract lifecycle state for one observed handle.
+// Actor is the abstract lifecycle state for one observed handle.
 type Actor struct {
 	Handle                     int    `json:"handle"`
 	Presence                   string `json:"presence"`
@@ -100,52 +111,6 @@ type Reference struct {
 	Arguments    []string               `json:"arguments"`
 	ScenarioSlot *int                   `json:"scenario_slot,omitempty"`
 	Resource     *cdc.ResourceReference `json:"resource,omitempty"`
-}
-
-type state map[int]string
-
-const unresolvedControlFlow = -1
-
-func (s state) clone() state {
-	r := make(state, len(s))
-	for k, v := range s {
-		r[k] = v
-	}
-	return r
-}
-func merge(a, b state) state {
-	r := make(state)
-	keys := map[int]bool{}
-	for k := range a {
-		keys[k] = true
-	}
-	for k := range b {
-		keys[k] = true
-	}
-	for k := range keys {
-		if a[k] == b[k] {
-			r[k] = a[k]
-		} else {
-			r[k] = "unknown"
-		}
-	}
-	return r
-}
-
-func setPresence(actors state, handle int, presence string) {
-	if _, unresolved := actors[unresolvedControlFlow]; unresolved {
-		presence = "unknown"
-	}
-	actors[handle] = presence
-}
-
-func markControlFlowUnresolved(actors state) {
-	actors[unresolvedControlFlow] = "unknown"
-	for handle := range actors {
-		if handle != unresolvedControlFlow {
-			actors[handle] = "unknown"
-		}
-	}
 }
 
 // Build scans the supplied PAA archive and returns full scenes matching selector.
@@ -217,74 +182,70 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair,
 		}
 	}
 	result.Unreferenced = len(result.Scenes) == 0
+	if result.Unreferenced {
+		result.BankContext = buildBankContext(project, terms, selector)
+	}
 	return result, nil
+}
+
+func buildBankContext(project *corpus.Project, terms fixeddata.Terminology, selector Selector) *BankContext {
+	bank := selector.Bank
+	if selector.Record >= 0 {
+		bank = selector.Record / 10_000
+	}
+	context := &BankContext{
+		Member:  fmt.Sprintf("message/msgsec%03d.dat", bank),
+		Status:  "storage_order_only",
+		Entries: make([]Entry, 0),
+	}
+	for _, item := range project.Items {
+		if item.Translation.ID/10_000 != bank {
+			continue
+		}
+		context.Entries = append(context.Entries, Entry{
+			Kind:         "bank_record",
+			MessageID:    item.Translation.ID,
+			Offset:       -1,
+			Position:     len(context.Entries),
+			Reachability: "unresolved",
+			Path:         make([]int, 0),
+			Japanese:     item.Translation.Japanese,
+			English:      item.Translation.Text,
+			State:        item.Translation.State,
+			Terminology:  applicableTerms(terms.Applicable(item)),
+			Actors:       make([]Actor, 0),
+		})
+	}
+	return context
 }
 
 func buildScene(project *corpus.Project, terms fixeddata.Terminology, member string, p cdc.Program, bindata []byte) (Scene, error) {
 	s := Scene{Member: member, Entries: make([]Entry, 0), References: make([]Reference, 0)}
-	pos := 0
-	_, err := walk(project, terms, bindata, &s, p.Elements, state{}, nil, "", 0, &pos)
+	graph, err := compileFlow(p)
 	if err != nil {
 		return Scene{}, fmt.Errorf("cdc context: %s: %w", member, err)
 	}
-	return s, nil
-}
-
-func walk(project *corpus.Project, terms fixeddata.Terminology, data []byte, scene *Scene, es []cdc.Element, actors state, path []int, guard string, depth int, pos *int) (state, error) {
-	previous := ""
-	for i, e := range es {
-		switch e.Kind {
-		case cdc.CommandElement:
-			c := e.Command
-			previous = rawCommand(c)
-			switch c.Name {
-			case "C2", "C6":
-				h, ok := firstInt(c)
-				if !ok {
-					return nil, fmt.Errorf("%s@%d: malformed %s", c.Name, e.Offset, c.Name)
-				}
-				setPresence(actors, h, "present")
-			case "C3":
-				h, ok := firstInt(c)
-				if !ok {
-					return nil, fmt.Errorf("C3@%d: malformed C3", e.Offset)
-				}
-				setPresence(actors, h, "absent")
-			case "C69", "C70", "C71":
-				markControlFlowUnresolved(actors)
-			case "C5", "C20", "C22", "C23":
-				entries, err := consumer(project, terms, data, c, e.Offset, path, guard, depth, *pos, actors)
-				if err != nil {
-					return nil, err
-				}
-				*pos += len(entries)
-				scene.Entries = append(scene.Entries, entries...)
-			case "C12", "C13", "C14", "C76":
-				scene.References = append(scene.References, reference(c, e.Offset, path, guard))
-			}
-		case cdc.BlockElement:
-			childPath := append(append([]int(nil), path...), i)
-			childGuard := guard
-			if childGuard != "" {
-				childGuard += " > "
-			}
-			if previous != "" {
-				childGuard += previous
-			} else {
-				childGuard += e.Raw
-			}
-			out, err := walk(project, terms, data, scene, e.Block.Elements, actors.clone(), childPath, childGuard, depth+1, pos)
+	analysis := analyzeFlow(graph)
+	pos := 0
+	for _, nodeIndex := range sourceOrderedNodes(graph) {
+		node := graph.nodes[nodeIndex]
+		if node.kind != flowCommand {
+			continue
+		}
+		flow := analysis.byNode[nodeIndex]
+		switch node.command.Name {
+		case "C5", "C20", "C22", "C23":
+			entries, err := consumer(project, terms, bindata, node.command, node.offset, node.path, node.guard, node.depth, pos, flow)
 			if err != nil {
-				return nil, err
+				return Scene{}, fmt.Errorf("cdc context: %s: %w", member, err)
 			}
-			actors = merge(actors, out)
-		case cdc.LabelElement:
-			previous = e.Raw
-		case cdc.ReturnElement:
-			markControlFlowUnresolved(actors)
+			pos += len(entries)
+			s.Entries = append(s.Entries, entries...)
+		case "C12", "C13", "C14", "C76":
+			s.References = append(s.References, reference(node.command, node.offset, node.path, node.guard))
 		}
 	}
-	return actors, nil
+	return s, nil
 }
 
 func rawCommand(c cdc.Command) string {
@@ -316,7 +277,7 @@ func ints(c cdc.Command, wantMin, wantMax int) ([]int, error) {
 	return r, nil
 }
 
-func consumer(project *corpus.Project, terms fixeddata.Terminology, data []byte, c cdc.Command, offset int, path []int, guard string, depth, pos int, actors state) ([]Entry, error) {
+func consumer(project *corpus.Project, terms fixeddata.Terminology, data []byte, c cdc.Command, offset int, path []int, guard string, depth, pos int, flow abstractFlow) ([]Entry, error) {
 	var ids []int
 	kind := ""
 	mode, handle := 0, 0
@@ -385,7 +346,7 @@ func consumer(project *corpus.Project, terms fixeddata.Terminology, data []byte,
 		if !ok {
 			return nil, fmt.Errorf("%s@%d: message ID %d not in project", c.Name, offset, id)
 		}
-		e := Entry{Kind: kind, MessageID: id, Offset: offset, Position: pos + i, Path: append([]int{}, path...), Guard: guard, Depth: depth, Raw: c.Raw, Japanese: item.Translation.Japanese, English: item.Translation.Text, State: item.Translation.State, Terminology: applicableTerms(terms.Applicable(item)), Actors: actorList(project, data, actors)}
+		e := Entry{Kind: kind, MessageID: id, Offset: offset, Position: pos + i, Reachability: flow.reachability(), Path: append([]int{}, path...), Guard: guard, Depth: depth, Raw: c.Raw, Japanese: item.Translation.Japanese, English: item.Translation.Text, State: item.Translation.State, Terminology: applicableTerms(terms.Applicable(item)), Actors: actorList(project, data, flow.actors)}
 		if kind == "dialogue_association" {
 			e.DisplayMode = intPointer(mode)
 			e.EntityAssociationHandleRaw = intPointer(handle)
@@ -425,21 +386,14 @@ func applicableTerms(entries []fixeddata.SearchEntry) []TerminologyEntry {
 	}
 	return result
 }
-func actorList(project *corpus.Project, data []byte, s state) []Actor {
-	r := make([]Actor, 0, len(s))
-	basis := "structural_lifecycle"
-	if _, unresolved := s[unresolvedControlFlow]; unresolved {
-		basis = "unresolved_control_flow"
-	}
-	for h, p := range s {
-		if h == unresolvedControlFlow {
-			continue
-		}
+func actorList(project *corpus.Project, data []byte, actors actorState) []Actor {
+	r := make([]Actor, 0, len(actors))
+	for h, fact := range actors {
 		a := resolve(project, data, h)
 		r = append(r, Actor{
 			Handle:                     h,
-			Presence:                   p,
-			PresenceBasis:              basis,
+			Presence:                   fact.presence,
+			PresenceBasis:              fact.basis,
 			AssociationNameRecordID:    a.nameRecordID,
 			AssociatedLabelMessageID:   a.labelMessageID,
 			AssociatedLabelJapanese:    a.labelJapanese,
