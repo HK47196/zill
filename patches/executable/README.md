@@ -7,7 +7,7 @@
 The builder applies all 35 entries in manifest order only after every source
 guard matches. Before applying fixed EBOOT string translations, the complete
 code/data-only result must have SHA-256
-`dbcf974101a3ab04c3d3d7a5e0a607e9a3c0a186f60efef722b8429644c2c1c8`.
+`3a1ae541e2b68feb03b2be32e16aaf82ab7d1c4eea425d9716f292802e6c74f5`.
 
 For `mips32le` entries, `offset` is the ELF file offset and `virtual_address`
 is the module-relative address (`offset - 0x80`) used by this executable's text

@@ -2,7 +2,7 @@ format = "zill-executable-patches"
 version = 1
 target = "SYSDIR/BOOT.BIN"
 source_sha256 = "5e294dc84a7f0d50719ecd26cb24ffb3792f2d9445803690845a8f1fa1cb85a3"
-result_sha256 = "dbcf974101a3ab04c3d3d7a5e0a607e9a3c0a186f60efef722b8429644c2c1c8"
+result_sha256 = "3a1ae541e2b68feb03b2be32e16aaf82ab7d1c4eea425d9716f292802e6c74f5"
 
 [[patch]]
 id = "large-memory-026554c"
@@ -11,8 +11,8 @@ document = "large-memory.md"
 kind = "little-endian-u32"
 offset = 0x26554c
 expected = "00440000"
-replacement = "00c40000"
-purpose = "Raise UserSbrk reservation from 17 MiB to 49 MiB."
+replacement = "00600000"
+purpose = "Raise UserSbrk reservation from 17 MiB to 24 MiB."
 field = "UserSbrk reservation KiB"
 
 [[patch]]
