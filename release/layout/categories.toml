@@ -982,7 +982,7 @@ basis = "unknown"
 [[range]]
 first = 260000
 last = 260223
-category = "quest-guidance"
+category = "objective-advice"
 basis = "verified"
 
 [[range]]
@@ -5577,6 +5577,12 @@ basis = "unknown"
 
 [[range]]
 first = 1080000
+last = 1080223
+category = "objective-advice"
+basis = "verified"
+
+[[range]]
+first = 1080224
 last = 1089999
 category = "unknown"
 basis = "unknown"
@@ -5691,6 +5697,66 @@ basis = "unknown"
 
 [[range]]
 first = 1210000
+last = 1210223
+category = "objective-advice"
+basis = "verified"
+
+[[range]]
+first = 1210224
+last = 1219999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1220000
+last = 1220223
+category = "objective-advice"
+basis = "verified"
+
+[[range]]
+first = 1220224
+last = 1229999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1230000
+last = 1230223
+category = "objective-advice"
+basis = "verified"
+
+[[range]]
+first = 1230224
+last = 1239999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1240000
+last = 1240223
+category = "objective-advice"
+basis = "verified"
+
+[[range]]
+first = 1240224
+last = 1249999
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1250000
+last = 1250000
+category = "unknown"
+basis = "unknown"
+
+[[range]]
+first = 1250001
+last = 1250384
+category = "objective-advice"
+basis = "verified"
+
+[[range]]
+first = 1250385
 last = 1259999
 category = "unknown"
 basis = "unknown"

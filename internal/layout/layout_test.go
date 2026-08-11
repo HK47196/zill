@@ -71,6 +71,40 @@ func TestSystemHelpReflowUsesNarrowTextBox(t *testing.T) {
 	}
 }
 
+func TestObjectiveAdviceReflowFitsAdvicePanel(t *testing.T) {
+	consumers, metrics, categories := releaseInputs(t)
+	engine, err := layout.Load(consumers, metrics, categories)
+	if err != nil {
+		t.Fatal(err)
+	}
+	const beforeName = "We can't let Nemea become the God of Destruction! I swear I'll save him. You'll lend me your strength too, won't you, "
+	const afterName = "? Come on, let's go to the Island of the Dark Gate!"
+	for _, id := range []int{260046, 1080046, 1210046, 1220046, 1230046, 1240046, 1250046} {
+		record := corpus.Record{
+			ID: id, Index: id % 10_000, Display: beforeName + "<value:$28>" + afterName + "<end>", HasBlockTerminator: true,
+			Tokens: []corpus.Token{
+				{Kind: "text", Raw: []byte(beforeName), Text: beforeName},
+				{Kind: "substitution", Raw: []byte{2, 0x28}},
+				{Kind: "text", Raw: []byte(afterName), Text: afterName},
+				{Kind: "block_terminator", Raw: []byte{5, 5, 5}},
+			},
+		}
+		project := &corpus.Project{Items: []corpus.Item{{
+			Record: record,
+			Translation: corpus.Translation{
+				ID: id, Japanese: record.Display, State: corpus.Translated, Text: record.Display,
+			},
+		}}}
+		result, err := engine.Reflow(project)
+		if err != nil {
+			t.Fatal(err)
+		}
+		if got := result.Layouts[id]; strings.Count(got, "<line-break>") < 3 {
+			t.Errorf("objective-advice layout %d does not fit the captured advice panel: %q", id, got)
+		}
+	}
+}
+
 func TestPortraitDialogueReflowFitsPortraitBody(t *testing.T) {
 	consumers, metrics, categories := releaseInputs(t)
 	engine, err := layout.Load(consumers, metrics, categories)

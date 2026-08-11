@@ -224,6 +224,8 @@ func (e *Engine) advanceLimit(id int) int {
 		return equipmentFeedbackAdvance
 	case e.category(id, "system-help"):
 		return systemHelpAdvance
+	case e.category(id, "objective-advice"):
+		return objectiveAdviceAdvance
 	case e.has(e.consumers.C5PortraitIDs, id):
 		return c5PortraitAdvance
 	case e.has(e.consumers.C5IDs, id) || e.narrowText(id):
