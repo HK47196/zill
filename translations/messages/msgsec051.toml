@@ -458,7 +458,7 @@ english = "Xenetes's renown soared after this battle, and he became known as a g
 
 ["510114"]
 japanese = "…千年樹に刻まれし竜綱の盟約に基づき<line-break>我、ロストール王<line-break>セルモノー・リューは…<line-break>汝、ゼネテス・ファーロスを<line-break>ファーロス家当主と認め、その功により<line-break>ロストール王国軍総司令に任ずる…。<end>"
-english = "By the Covenant of the Dragon Cord, graven upon the Thousand-Year Tree, I, Selmonew Ryu, King of Rostorl, hereby recognize you, Xenetes Pharos, as head of House Pharos and, in honor of your deeds, appoint you commander-in-chief of the armies of the Kingdom of Rostorl.<end>"
+english = "By the Covenant of the Dragon Cord, graven upon the Thousand-Year Tree, I, Selmono Ryu, King of Rostorl, hereby recognize you, Xenetes Pharos, as head of House Pharos and, in honor of your deeds, appoint you commander-in-chief of the armies of the Kingdom of Rostorl.<end>"
 
 ["510115"]
 japanese = "くっ、最高の殊勲を<line-break>ファーロスのドラ息子に<line-break>奪われるとはな。<end>"
@@ -478,7 +478,7 @@ english = "Go on, then.<end>"
 
 ["510119"]
 japanese = "<if><value:$29><equal>%0…千年樹に刻まれし竜綱の盟約に基づき<line-break>我、ロストール王<line-break>セルモノー・リューは…<line-break>その功により、汝、<value:$28>に<line-break>騎士の証である盾を与え、<line-break>白竜騎士、竜字将軍に叙任する。<end>…千年樹に刻まれし竜綱の盟約に基づき<line-break>ロストール王セルモノー・リューは…<line-break>女人の身である汝に、特例をもって<line-break>騎士の証である盾を与え、<line-break>白竜騎士、竜字将軍に叙任する。<end>"
-english = "<if><value:$29><equal>%0By the Covenant of the Dragon Cord, graven upon the Thousand-Year Tree, I, Selmonew Ryu, King of Rostorl, hereby grant you, <value:$28>, the shield that marks a knight and, in honor of your deeds, invest you as a White Dragon Knight and Dragon-Letter General.<end>By the Covenant of the Dragon Cord, graven upon the Thousand-Year Tree, Selmonew Ryu, King of Rostorl, hereby makes a special exception for you as a woman, granting you the shield that marks a knight and investing you as a White Dragon Knight and Dragon-Letter General.<end>"
+english = "<if><value:$29><equal>%0By the Covenant of the Dragon Cord, graven upon the Thousand-Year Tree, I, Selmono Ryu, King of Rostorl, hereby grant you, <value:$28>, the shield that marks a knight and, in honor of your deeds, invest you as a White Dragon Knight and Dragon-Sigil General.<end>By the Covenant of the Dragon Cord, graven upon the Thousand-Year Tree, Selmono Ryu, King of Rostorl, hereby makes a special exception for you as a woman, granting you the shield that marks a knight and investing you as a White Dragon Knight and Dragon-Sigil General.<end>"
 
 ["510120"]
 japanese = "ロストールを支える将軍として<line-break>ゼネテスとともに活躍するがよい。<end>"
