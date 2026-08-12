@@ -5394,3 +5394,15 @@ key = "name_0932"
 japanese = "サイフォス"
 english = "Xiphos"
 scope = "global_surface"
+
+[[entry]]
+key = "name_0933"
+japanese = "ソリアス"
+english = "Solias"
+scope = "global_surface"
+
+[[entry]]
+key = "name_0934"
+japanese = "オッシ"
+english = "Ossi"
+scope = "global_surface"
