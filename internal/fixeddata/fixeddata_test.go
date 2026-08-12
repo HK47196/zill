@@ -76,19 +76,14 @@ func TestTerminologySearchIsStableAndRetainsSpellingVariant(t *testing.T) {
 	if !reflect.DeepEqual(first, second) {
 		t.Fatal("identical terminology searches are not stable")
 	}
-	for i := 1; i < len(first); i++ {
-		if first[i-1].Term.Key >= first[i].Term.Key {
-			t.Fatalf("search results are not in stable key order: %#v", first)
-		}
-	}
 	variants := terms.Search("アキュリュ－ス")
-	if len(variants) != 1 || variants[0].Term.Key != "name_0930" || variants[0].Term.English != "Aqyurius" {
+	if len(variants) != 1 || variants[0].Kind != "name" || variants[0].Term.English != "Aqyurius" {
 		t.Fatalf("Aqyurius spelling variant missing from search: %#v", variants)
 	}
 }
 
 func TestTerminologyRejectsExactScopeTranslationMismatch(t *testing.T) {
-	terms := Terminology{Names: []Term{{Key: "name_test", Japanese: "名前", English: "Name", Scope: "source_records", SourceIDs: []int{7}}}}
+	terms := Terminology{Names: []Term{{Japanese: "名前", English: "Name", Scope: "source_records", SourceIDs: []int{7}}}}
 	project := &corpus.Project{Items: []corpus.Item{{
 		Record:      corpus.Record{ID: 7, Display: "名前<end>"},
 		Translation: corpus.Translation{ID: 7, State: corpus.Translated, Text: "Wrong<end>"},

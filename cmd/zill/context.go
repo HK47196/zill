@@ -272,7 +272,7 @@ func writeContextEntries(output io.Writer, entries []cdccontext.Entry) {
 		fmt.Fprintf(output, "    Japanese: %s\n", entry.Japanese)
 		fmt.Fprintf(output, "    English: %s\n", entry.English)
 		for _, term := range entry.Terminology {
-			fmt.Fprintf(output, "    Authority: %s %s: %s → %s\n", term.Kind, term.Key, term.Japanese, term.English)
+			fmt.Fprintf(output, "    Authority: %s: %s → %s\n", term.Kind, term.Japanese, term.English)
 		}
 	}
 }

@@ -1,1161 +1,968 @@
 # SPDX-License-Identifier: CC-BY-SA-4.0
 format = "zill-glossary"
-version = 1
+version = 2
 
 [[entry]]
-key = "term_0004"
 japanese = "ソウル"
 english = "Soul"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0006"
 japanese = "聖杯"
 english = "Grail"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0009"
 japanese = "勇者"
 english = "Hero"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0023"
 japanese = "禁断の聖杯"
 english = "Forbidden Grail"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0028"
 japanese = "ギルド"
 english = "Guild"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0030"
 japanese = "エルフ"
 english = "Elf"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0034"
 japanese = "解放軍"
 english = "Liberation Army"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0035"
 japanese = "邪竜"
 english = "Evil Dragon"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0036"
 japanese = "魔物"
 english = "Monster"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0038"
 japanese = "無限のソウル"
 english = "Infinite Soul"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0039"
 japanese = "円卓騎士"
 english = "Knight of the Round Table"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0040"
 japanese = "救世主"
 english = "Savior"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0046"
 japanese = "ミズチ"
 english = "Mizuchi"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0055"
 japanese = "魔王"
 english = "Demon King"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0056"
 japanese = "ドワーフ"
 english = "Dwarf"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0058"
 japanese = "虚無"
 english = "Void"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0124"
 japanese = "空中都市"
 english = "Floating City"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0127"
 japanese = "ダークエルフ"
 english = "Dark Elf"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0159"
 japanese = "闇の王女"
 english = "Princess of Darkness"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0163"
 japanese = "究極生物"
 english = "Ultimate Life-Form"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0175"
 japanese = "次元のはざま"
 english = "Interdimensional Rift"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0191"
 japanese = "ワッシャー海賊"
 english = "Washer Pirates"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0197"
 japanese = "鳳凰"
 english = "Phoenix"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0202"
 japanese = "ソウルリープ"
 english = "Soul Leap"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0215"
 japanese = "忘却の仮面"
 english = "Mask of Oblivion"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0224"
 japanese = "ギア"
 english = "Gea"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0229"
 japanese = "伝説のフライパン"
 english = "Legendary Frying Pan"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0231"
 japanese = "束縛の腕輪"
 english = "Bracelet of Binding"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0252"
 japanese = "ハーフエルフ"
 english = "Half-Elf"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0271"
 japanese = "レルラのハープ"
 english = "Relra's Harp"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0324"
 japanese = "虚無の剣"
 english = "Sword of the Void"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0385"
 japanese = "神代"
 english = "Age of the Gods"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0398"
 japanese = "妖術宰相"
 english = "Sorcerous Chancellor"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0405"
 japanese = "宰相"
 english = "Chancellor"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0413"
 japanese = "世界の均衡"
 english = "Balance of the World"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0419"
 japanese = "邪眼"
 english = "Evil Eye"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0420"
 japanese = "暗闇"
 english = "Blindness"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0429"
 japanese = "精霊属性"
 english = "Spirit Attribute"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0442"
 japanese = "天空神"
 english = "Sky God"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0455"
 japanese = "ユニオンスペル"
 english = "Union Spell"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0502"
 japanese = "円卓の騎士"
 english = "Knight of the Round Table"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0533"
 japanese = "冒険者ギルド"
 english = "Adventurers' Guild"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0543"
 japanese = "竜王の覚醒"
 english = "Dragon King's Awakening"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0583"
 japanese = "朱雀将軍"
 english = "Vermilion Bird General"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0590"
 japanese = "邪眼帝"
 english = "Evil-Eyed Emperor"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0597"
 japanese = "ロストール王家"
 english = "Rostorl Royal House"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0603"
 japanese = "破壊の化身"
 english = "Embodiment of Destruction"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0631"
 japanese = "虚無の子"
 english = "Child of the Void"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0656"
 japanese = "破壊神"
 english = "God of Destruction"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0661"
 japanese = "剣聖"
 english = "Sword Saint"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0662"
 japanese = "竜殺し"
 english = "Dragonslayer"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0663"
 japanese = "即死"
 english = "Instant Death"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0667"
 japanese = "ＶＩＴ"
 english = "ＶＩＴ"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0668"
 japanese = "ＩＮＴ"
 english = "ＩＮＴ"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0673"
 japanese = "ＳＴＲ"
 english = "ＳＴＲ"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0674"
 japanese = "Ｋｉｎｄ"
 english = "Ｋｉｎｄ"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0675"
 japanese = "ＭＩＮ"
 english = "ＭＩＮ"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0680"
 japanese = "アドヴェント"
 english = "Advent"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0684"
 japanese = "エスケープ"
 english = "Escape"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0685"
 japanese = "エンチャント"
 english = "Enchant"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0699"
 japanese = "ディテクター"
 english = "Detector"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0706"
 japanese = "バニティスペル"
 english = "Vanity Spell"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0743"
 japanese = "マヒ"
 english = "Paralysis"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0745"
 japanese = "二刀流"
 english = "Dual Wielding"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0748"
 japanese = "傭兵登録"
 english = "Mercenary Registration"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0751"
 japanese = "素手"
 english = "unarmed"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0752"
 japanese = "転送"
 english = "Teleportation"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0771"
 japanese = "スリープ"
 english = "Sleep"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0775"
 japanese = "ダブルブレード"
 english = "Double Blade"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0778"
 japanese = "デモリッシュ"
 english = "Demolish"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0792"
 japanese = "ライトアロー"
 english = "Light Arrow"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0795"
 japanese = "名声"
 english = "Fame"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0796"
 japanese = "地下街道"
 english = "Underground Road"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0805"
 japanese = "白虎将軍"
 english = "White Tiger General"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0806"
 japanese = "禁呪"
 english = "Forbidden Spell"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0808"
 japanese = "遭遇ポイント"
 english = "Encounter Point"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0811"
 japanese = "護衛"
 english = "Escort"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0814"
 japanese = "ＡＧＩ"
 english = "ＡＧＩ"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0815"
 japanese = "ＤＥＸ"
 english = "ＤＥＸ"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0825"
 japanese = "アムドゥシアス"
 english = "Amdusias"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0826"
 japanese = "アルバレスト"
 english = "Arbalest"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0827"
 japanese = "ウォーロック"
 english = "Warlock"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0828"
 japanese = "エレメンタル・キャパシティ"
 english = "Elemental Capacity"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0829"
 japanese = "エレメンタル・ステータス"
 english = "Elemental Status"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0830"
 japanese = "オーガ"
 english = "Ogre"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0831"
 japanese = "カウンター攻撃"
 english = "counterattack"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0832"
 japanese = "ガーゴイル"
 english = "Gargoyle"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0833"
 japanese = "キマイラ"
 english = "Chimera"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0834"
 japanese = "クリティカル率"
 english = "critical hit rate"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0835"
 japanese = "クレリック"
 english = "Cleric"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0836"
 japanese = "コカトリス"
 english = "Cockatrice"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0837"
 japanese = "ゴブリン"
 english = "Goblin"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0838"
 japanese = "ゴーレム"
 english = "Golem"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0839"
 japanese = "サラマンダー"
 english = "Salamander"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0840"
 japanese = "シルバードラゴン"
 english = "Silver Dragon"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0841"
 japanese = "ジラークの乱"
 english = "Jirark Rebellion"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0842"
 japanese = "スキルポイント"
 english = "Skill Points"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0843"
 japanese = "ステータス異常"
 english = "status ailment"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0844"
 japanese = "スライム"
 english = "Slime"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0845"
 japanese = "ソウルポイント"
 english = "Soul Points"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0846"
 japanese = "ディード"
 english = "Deed"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0847"
 japanese = "ディードリング"
 english = "Deed Ring"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0848"
 japanese = "トリックスター"
 english = "Trickster"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0849"
 japanese = "ドラゴン祭り"
 english = "Dragon Festival"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0850"
 japanese = "ニルヴァーナ"
 english = "Nirvana"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0851"
 japanese = "バリア"
 english = "Barrier"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0852"
 japanese = "パトリアーク"
 english = "Patriarch"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0853"
 japanese = "パーティー"
 english = "party"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0854"
 japanese = "ヒットポイント"
 english = "Hit Points"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0855"
 japanese = "ピクシー"
 english = "Pixie"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0856"
 japanese = "ファーロスの雌狐"
 english = "Vixen of Pharos"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0857"
 japanese = "フィジカルパラメータ"
 english = "Physical Parameters"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0858"
 japanese = "フェニックス"
 english = "Phoenix"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0859"
 japanese = "ブラックバイパー"
 english = "Black Viper"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0860"
 japanese = "ブルーフレア"
 english = "Blue Flare"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0861"
 japanese = "ホワイトファング"
 english = "White Fang"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0862"
 japanese = "マイティブロウ"
 english = "Mighty Blow"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0863"
 japanese = "マグマゴーレム"
 english = "Magma Golem"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0864"
 japanese = "メンタルポイント"
 english = "Mental Points"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0865"
 japanese = "リッチ"
 english = "Lich"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0866"
 japanese = "ルーンファイター"
 english = "Rune Fighter"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0867"
 japanese = "両手持ち"
 english = "two-handed"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0868"
 japanese = "主神"
 english = "Chief God"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0869"
 japanese = "人造人間"
 english = "artificial human"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0870"
 japanese = "兵器モンスター"
 english = "weaponized monster"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0871"
 japanese = "分かたれしもの"
 english = "The Divided One"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0872"
 japanese = "剣狼"
 english = "Sword Wolf"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0873"
 japanese = "勇敢さ"
 english = "Brave"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0874"
 japanese = "命中率"
 english = "accuracy"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0875"
 japanese = "四天王"
 english = "Four Heavenly Kings"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0876"
 japanese = "土属性"
 english = "Earth element"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0877"
 japanese = "大地母神"
 english = "Earth Mother Goddess"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0878"
 japanese = "大地神"
 english = "Earth God"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0879"
 japanese = "妖刀・月光"
 english = "Demon Blade “Moonlight”"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0880"
 japanese = "妖刀月光"
 english = "Demon Blade “Moonlight”"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0881"
 japanese = "守護者"
 english = "Guardian"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0882"
 japanese = "幻覚状態"
 english = "Hallucination"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0883"
 japanese = "忘れられた剣士"
 english = "Forgotten Swordsman"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0884"
 japanese = "攻撃アイテム"
 english = "attack item"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0885"
 japanese = "攻撃力"
 english = "Attack Power"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0886"
 japanese = "槍の主"
 english = "Lord of the Spear"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0887"
 japanese = "死の商人"
 english = "Merchant of Death"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0888"
 japanese = "水属性"
 english = "Water element"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0889"
 japanese = "沈黙"
 english = "Silence"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0890"
 japanese = "沈黙状態"
 english = "Silence"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0891"
 japanese = "清浄の時代"
 english = "Age of Purity"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0892"
 japanese = "火属性"
 english = "Fire element"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0893"
 japanese = "火草"
 english = "Firegrass"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0894"
 japanese = "炎属性"
 english = "Fire element"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0895"
 japanese = "無限のソウルを持つ者"
 english = "Bearer of the Infinite Soul"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0896"
 japanese = "無限の魂"
 english = "Infinite Soul"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0897"
 japanese = "特殊効果"
 english = "special effect"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0898"
 japanese = "獅子帝"
 english = "Lion Emperor"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0899"
 japanese = "異常状態"
 english = "status ailment"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0900"
 japanese = "白竜騎士"
 english = "White Dragon Knight"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0901"
 japanese = "盾"
 english = "shield"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0902"
 japanese = "眠り"
 english = "Sleep"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0903"
 japanese = "神官戦士"
 english = "priest-warrior"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0904"
 japanese = "究極のソウル"
 english = "Ultimate Soul"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0905"
 japanese = "経験値"
 english = "experience points (EXP)"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0906"
 japanese = "縛られしもの"
 english = "The Bound One"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0907"
 japanese = "縛られし者"
 english = "The Bound One"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0908"
 japanese = "罠の解除"
 english = "trap disarming"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0909"
 japanese = "聖光石"
 english = "Holy Light Stone"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0910"
 japanese = "聖剣・日光"
 english = "Holy Sword Sunlight"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0911"
 japanese = "聖剣日光"
 english = "Holy Sword Sunlight"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0912"
 japanese = "聖属性"
 english = "Holy element"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0913"
 japanese = "聖母神"
 english = "Mother Goddess"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0914"
 japanese = "英雄ソウル"
 english = "Hero Soul"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0915"
 japanese = "装備品"
 english = "equipment"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0916"
 japanese = "軍神"
 english = "War God"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0917"
 japanese = "軽鎧"
 english = "light armor"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0918"
 japanese = "追加効果"
 english = "additional effect"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0919"
 japanese = "通常攻撃"
 english = "normal attack"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0920"
 japanese = "運命の女神"
 english = "Goddess of Fate"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0921"
 japanese = "運命の書"
 english = "Book of Fate"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0922"
 japanese = "野生"
 english = "Wild"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0923"
 japanese = "闇の王"
 english = "King of Darkness"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0924"
 japanese = "闇属性"
 english = "Dark element"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0925"
 japanese = "青竜将軍"
 english = "Azure Dragon General"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0926"
 japanese = "風属性"
 english = "Wind element"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0927"
 japanese = "魂吸いの指輪"
 english = "Soul-Draining Ring"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0928"
 japanese = "魔法の宝箱"
 english = "Magic Treasure Chest"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0929"
 japanese = "魔法バリア"
 english = "Magic Barrier"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0930"
 japanese = "魔獣商"
 english = "Monster Merchant"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0931"
 japanese = "麻痺"
 english = "Paralysis"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0932"
 japanese = "黒鎧騎士"
 english = "Black-Armored Knight"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0933"
 japanese = "１２の難事"
 english = "Twelve Labors"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0934"
 japanese = "３聖竜"
 english = "Three Sacred Dragons"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0935"
 japanese = "４邪竜"
 english = "Four Evil Dragons"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0936"
 japanese = "ＨＰ"
 english = "HP"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0937"
 japanese = "ＭＰ"
 english = "MP"
 scope = "global_surface"
 
 [[entry]]
-key = "term_0938"
 japanese = "錬剛石"
 english = "Tempering Stone"
 scope = "global_surface"

@@ -13,12 +13,11 @@ import (
 )
 
 const (
-	terminologyVersion = 1
+	terminologyVersion = 2
 )
 
 // Term is one compact contributor-facing terminology authority.
 type Term struct {
-	Key       string `toml:"key"`
 	Japanese  string `toml:"japanese"`
 	English   string `toml:"english"`
 	Scope     string `toml:"scope"`
@@ -45,18 +44,18 @@ type terminologyFile struct {
 
 // ParseTerminology strictly loads the native compact name and glossary TOML files.
 func ParseTerminology(namesTOML, glossaryTOML []byte) (Terminology, error) {
-	names, err := parseTerminologyFile(namesTOML, "zill-names", "name_", true)
+	names, err := parseTerminologyFile(namesTOML, "zill-names", true)
 	if err != nil {
 		return Terminology{}, fmt.Errorf("names terminology: %w", err)
 	}
-	glossary, err := parseTerminologyFile(glossaryTOML, "zill-glossary", "term_", false)
+	glossary, err := parseTerminologyFile(glossaryTOML, "zill-glossary", false)
 	if err != nil {
 		return Terminology{}, fmt.Errorf("glossary terminology: %w", err)
 	}
 	return Terminology{Names: names, Glossary: glossary}, nil
 }
 
-func parseTerminologyFile(data []byte, format, keyPrefix string, scoped bool) ([]Term, error) {
+func parseTerminologyFile(data []byte, format string, scoped bool) ([]Term, error) {
 	var file terminologyFile
 	decoder := toml.NewDecoder(bytes.NewReader(data))
 	decoder.DisallowUnknownFields()
@@ -69,45 +68,40 @@ func parseTerminologyFile(data []byte, format, keyPrefix string, scoped bool) ([
 	if len(file.Entries) == 0 {
 		return nil, fmt.Errorf("contains no entries")
 	}
-	previous := ""
 	for i, term := range file.Entries {
-		if !strings.HasPrefix(term.Key, keyPrefix) || term.Key <= previous {
-			return nil, fmt.Errorf("entry %d has invalid or unordered key %q", i+1, term.Key)
-		}
 		if term.Japanese == "" || term.English == "" {
-			return nil, fmt.Errorf("entry %q requires Japanese and English", term.Key)
+			return nil, fmt.Errorf("entry %d requires Japanese and English", i+1)
 		}
 		switch term.Scope {
 		case "global_surface":
 			if len(term.SourceIDs) != 0 {
-				return nil, fmt.Errorf("entry %q global scope cannot carry source IDs", term.Key)
+				return nil, fmt.Errorf("entry %d (%q) global scope cannot carry source IDs", i+1, term.Japanese)
 			}
 		case "source_records", "speaker_label":
 			if !scoped || len(term.SourceIDs) == 0 {
-				return nil, fmt.Errorf("entry %q has invalid scope %q", term.Key, term.Scope)
+				return nil, fmt.Errorf("entry %d (%q) has invalid scope %q", i+1, term.Japanese, term.Scope)
 			}
 			prior := -1
 			for _, id := range term.SourceIDs {
 				if id <= prior {
-					return nil, fmt.Errorf("entry %q source IDs must be positive, unique, and sorted", term.Key)
+					return nil, fmt.Errorf("entry %d (%q) source IDs must be positive, unique, and sorted", i+1, term.Japanese)
 				}
 				prior = id
 			}
 		default:
-			return nil, fmt.Errorf("entry %q has invalid scope %q", term.Key, term.Scope)
+			return nil, fmt.Errorf("entry %d (%q) has invalid scope %q", i+1, term.Japanese, term.Scope)
 		}
-		previous = term.Key
 	}
 	return file.Entries, nil
 }
 
-// Search returns case-insensitive substring matches in stable key order.
+// Search returns case-insensitive substring matches in stable file order.
 func (t Terminology) Search(query string) []SearchEntry {
 	query = strings.ToLower(strings.TrimSpace(query))
 	results := make([]SearchEntry, 0)
 	appendMatches := func(kind string, terms []Term) {
 		for _, term := range terms {
-			haystack := strings.ToLower(term.Key + "\n" + term.Japanese + "\n" + term.English)
+			haystack := strings.ToLower(term.Japanese + "\n" + term.English)
 			if query == "" || strings.Contains(haystack, query) {
 				results = append(results, SearchEntry{Kind: kind, Term: term})
 			}
@@ -115,7 +109,6 @@ func (t Terminology) Search(query string) []SearchEntry {
 	}
 	appendMatches("name", t.Names)
 	appendMatches("glossary", t.Glossary)
-	sort.Slice(results, func(i, j int) bool { return results[i].Term.Key < results[j].Term.Key })
 	return results
 }
 
@@ -137,7 +130,6 @@ func (t Terminology) Applicable(item corpus.Item) []SearchEntry {
 	}
 	appendApplicable("name", t.Names)
 	appendApplicable("glossary", t.Glossary)
-	sort.Slice(results, func(i, j int) bool { return results[i].Term.Key < results[j].Term.Key })
 	return results
 }
 
@@ -148,25 +140,25 @@ func (t Terminology) Validate(project *corpus.Project) error {
 	for _, item := range project.Items {
 		items[item.Record.ID] = item
 	}
-	for _, term := range t.Names {
+	for termIndex, term := range t.Names {
 		if term.Scope == "global_surface" {
 			continue
 		}
 		for _, id := range term.SourceIDs {
 			item, ok := items[id]
 			if !ok {
-				return fmt.Errorf("terminology %s references absent source ID %d", term.Key, id)
+				return fmt.Errorf("name entry %d (%q) references absent source ID %d", termIndex+1, term.Japanese, id)
 			}
 			wantSource := term.Japanese + "<end>"
 			if item.Record.Display != wantSource {
-				return fmt.Errorf("terminology %s source ID %d Japanese is %q, want %q", term.Key, id, item.Record.Display, wantSource)
+				return fmt.Errorf("name entry %d (%q) source ID %d Japanese is %q, want %q", termIndex+1, term.Japanese, id, item.Record.Display, wantSource)
 			}
 			if item.Translation.State != corpus.Translated {
 				continue
 			}
 			want := term.English + "<end>"
 			if item.Translation.Text != want {
-				return fmt.Errorf("terminology %s source ID %d translation is %q, want %q", term.Key, id, item.Translation.Text, want)
+				return fmt.Errorf("name entry %d (%q) source ID %d translation is %q, want %q", termIndex+1, term.Japanese, id, item.Translation.Text, want)
 			}
 		}
 	}

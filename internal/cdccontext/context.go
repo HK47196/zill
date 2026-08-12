@@ -84,7 +84,6 @@ type Entry struct {
 // TerminologyEntry is one applicable authority in a stable JSON shape.
 type TerminologyEntry struct {
 	Kind      string `json:"kind"`
-	Key       string `json:"key"`
 	Japanese  string `json:"japanese"`
 	English   string `json:"english"`
 	Scope     string `json:"scope"`
@@ -507,7 +506,6 @@ func applicableTerms(entries []fixeddata.SearchEntry) []TerminologyEntry {
 	for _, entry := range entries {
 		result = append(result, TerminologyEntry{
 			Kind:      entry.Kind,
-			Key:       entry.Term.Key,
 			Japanese:  entry.Term.Japanese,
 			English:   entry.Term.English,
 			Scope:     entry.Term.Scope,

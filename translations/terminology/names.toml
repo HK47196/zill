@@ -1,5408 +1,4576 @@
 # SPDX-License-Identifier: CC-BY-SA-4.0
 format = "zill-names"
-version = 1
+version = 2
 
 [[entry]]
-key = "name_0007"
 japanese = "ノエル"
 english = "Noel"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0008"
 japanese = "忌の守護者"
 english = "Guardian of the Forbidden"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0013"
 japanese = "ヴァシュタール"
 english = "Vashtar"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0015"
 japanese = "エクリプス"
 english = "Eclipse"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0022"
 japanese = "サムスン"
 english = "Samson"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0026"
 japanese = "翔王"
 english = "Soaring King"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0035"
 japanese = "ドルドラム"
 english = "Doldrum"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0037"
 japanese = "バルザー"
 english = "Baltzer"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0038"
 japanese = "フゴー"
 english = "Hugo"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0039"
 japanese = "フゴー夫人"
 english = "Mrs. Hugo"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0043"
 japanese = "シャローム"
 english = "Shalom"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0058"
 japanese = "改造人間１号"
 english = "Modified Human No. 1"
 scope = "source_records"
 source_ids = [63]
 
 [[entry]]
-key = "name_0059"
 japanese = "改造人間２号"
 english = "Modified Human No. 2"
 scope = "source_records"
 source_ids = [64]
 
 [[entry]]
-key = "name_0064"
 japanese = "ラドラスの核"
 english = "Core of Ladras"
 scope = "source_records"
 source_ids = [69, 685]
 
 [[entry]]
-key = "name_0065"
 japanese = "心の闇"
 english = "Darkness Within"
 scope = "source_records"
 source_ids = [70, 786]
 
 [[entry]]
-key = "name_0067"
 japanese = "マノンの腕輪"
 english = "Manon's Bracelet"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0081"
 japanese = "エリス"
 english = "Eris"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0082"
 japanese = "ケリュネイア"
 english = "Ceryneia"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0083"
 japanese = "ネモ"
 english = "Nemo"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0084"
 japanese = "ヒルダリア"
 english = "Hildaria"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0085"
 japanese = "フェルム"
 english = "Ferme"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0086"
 japanese = "フレア"
 english = "Flare"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0091"
 japanese = "ヴァンの父"
 english = "Van's Father"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0092"
 japanese = "ヴァンの母"
 english = "Van's Mother"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0097"
 japanese = "オデビー"
 english = "Odeby"
 scope = "source_records"
 source_ids = [103]
 
 [[entry]]
-key = "name_0102"
 japanese = "セバスチャン"
 english = "Sebastian"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0108"
 japanese = "ドンパドン"
 english = "Donpadon"
 scope = "source_records"
 source_ids = [115]
 
 [[entry]]
-key = "name_0109"
 japanese = "ナロコル"
 english = "Narocor"
 scope = "source_records"
 source_ids = [116]
 
 [[entry]]
-key = "name_0110"
 japanese = "ネイト"
 english = "Nate"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0112"
 japanese = "フリント"
 english = "Flint"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0113"
 japanese = "プレシオーネ"
 english = "Pressione"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0114"
 japanese = "ペウダ"
 english = "Peuda"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0115"
 japanese = "ボルボラ"
 english = "Bolbora"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0116"
 japanese = "ボンガ"
 english = "Bonga"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0117"
 japanese = "ボンガ夫人"
 english = "Mrs. Bonga"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0120"
 japanese = "ロティ"
 english = "Lottie"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0121"
 japanese = "ハンナ"
 english = "Hannah"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0123"
 japanese = "デルガドの弟子"
 english = "Dergado's Apprentice"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0124"
 japanese = "ジリオンクリスタル"
 english = "Zillion Crystal"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0125"
 japanese = "ヒューズ"
 english = "Hughes"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0126"
 japanese = "フィア"
 english = "Fia"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0129"
 japanese = "ユーリス"
 english = "Julls"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0130"
 japanese = "ヴァン"
 english = "Van"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0132"
 japanese = "オイフェ"
 english = "Aoife"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0135"
 japanese = "チャカ"
 english = "Chaka"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0139"
 japanese = "デルガド"
 english = "Dergado"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0140"
 japanese = "ナッジ"
 english = "Nadge"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0141"
 japanese = "ネメア"
 english = "Nemea"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0142"
 japanese = "フェティ"
 english = "Fety"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0143"
 japanese = "ルルアンタ"
 english = "Lulluantha"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0144"
 japanese = "レーグ"
 english = "Reig"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0145"
 japanese = "レムオン"
 english = "Lemghon"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0146"
 japanese = "レルラ＝ロントン"
 english = "Relra-Lonton"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0147"
 japanese = "ベルゼーヴァ"
 english = "Beelzeva"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0148"
 japanese = "ヴァイライラ"
 english = "Vailaila"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0149"
 japanese = "ヴィアリアリ"
 english = "Vialiali"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0151"
 japanese = "ロイ"
 english = "Roy"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0152"
 japanese = "ジリオン"
 english = "Zillion"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0157"
 japanese = "レイヴン"
 english = "Raven"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0159"
 japanese = "クリュセイス"
 english = "Khryuseis"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0160"
 japanese = "ティアナ"
 english = "Tiana"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0161"
 japanese = "カッツ"
 english = "Katz"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0162"
 japanese = "冒険者"
 english = "Adventurer"
 scope = "speaker_label"
 source_ids = [189, 314, 910, 911, 912]
 
 [[entry]]
-key = "name_0163"
 japanese = "傭兵"
 english = "Mercenary"
 scope = "speaker_label"
 source_ids = [190, 315, 713, 714, 906, 937]
 
 [[entry]]
-key = "name_0164"
 japanese = "魔道士"
 english = "Mage"
 scope = "speaker_label"
 source_ids = [191, 721, 722, 1670245]
 
 [[entry]]
-key = "name_0165"
 japanese = "吟遊詩人"
 english = "Bard"
 scope = "speaker_label"
 source_ids = [192, 317]
 
 [[entry]]
-key = "name_0166"
 japanese = "巡礼者"
 english = "Pilgrim"
 scope = "speaker_label"
 source_ids = [193]
 
 [[entry]]
-key = "name_0167"
 japanese = "旅行者"
 english = "Traveler"
 scope = "speaker_label"
 source_ids = [194, 316]
 
 [[entry]]
-key = "name_0168"
 japanese = "司祭"
 english = "Priest"
 scope = "speaker_label"
 source_ids = [195]
 
 [[entry]]
-key = "name_0169"
 japanese = "士官"
 english = "Officer"
 scope = "speaker_label"
 source_ids = [196]
 
 [[entry]]
-key = "name_0170"
 japanese = "政務官"
 english = "Civil Administrator"
 scope = "speaker_label"
 source_ids = [197]
 
 [[entry]]
-key = "name_0171"
 japanese = "裁判官"
 english = "Judge"
 scope = "speaker_label"
 source_ids = [198]
 
 [[entry]]
-key = "name_0172"
 japanese = "使いの者"
 english = "Messenger"
 scope = "speaker_label"
 source_ids = [199, 313]
 
 [[entry]]
-key = "name_0173"
 japanese = "実直な使いの者"
 english = "Upright Messenger"
 scope = "speaker_label"
 source_ids = [200]
 
 [[entry]]
-key = "name_0174"
 japanese = "執事"
 english = "Butler"
 scope = "speaker_label"
 source_ids = [201]
 
 [[entry]]
-key = "name_0175"
 japanese = "使用人"
 english = "Servant"
 scope = "speaker_label"
 source_ids = [202]
 
 [[entry]]
-key = "name_0176"
 japanese = "商人"
 english = "Merchant"
 scope = "speaker_label"
 source_ids = [203, 259]
 
 [[entry]]
-key = "name_0177"
 japanese = "料理人"
 english = "Cook"
 scope = "speaker_label"
 source_ids = [204]
 
 [[entry]]
-key = "name_0178"
 japanese = "工芸職人"
 english = "Artisan"
 scope = "speaker_label"
 source_ids = [205]
 
 [[entry]]
-key = "name_0179"
 japanese = "木彫り職人"
 english = "Woodcarver"
 scope = "speaker_label"
 source_ids = [206]
 
 [[entry]]
-key = "name_0180"
 japanese = "鉱山の男"
 english = "Miner"
 scope = "speaker_label"
 source_ids = [207]
 
 [[entry]]
-key = "name_0181"
 japanese = "鍛冶屋の弟子"
 english = "Blacksmith's Apprentice"
 scope = "speaker_label"
 source_ids = [208]
 
 [[entry]]
-key = "name_0182"
 japanese = "鍛冶屋の親方"
 english = "Master Blacksmith"
 scope = "speaker_label"
 source_ids = [209]
 
 [[entry]]
-key = "name_0183"
 japanese = "鍛冶屋の店員"
 english = "Blacksmith's Shop Clerk"
 scope = "speaker_label"
 source_ids = [210]
 
 [[entry]]
-key = "name_0184"
 japanese = "道具屋の店員"
 english = "Item Shop Clerk"
 scope = "speaker_label"
 source_ids = [211]
 
 [[entry]]
-key = "name_0185"
 japanese = "道具屋の配達人"
 english = "Item Shop Courier"
 scope = "speaker_label"
 source_ids = [212]
 
 [[entry]]
-key = "name_0186"
 japanese = "酒場の店員"
 english = "Tavern Worker"
 scope = "speaker_label"
 source_ids = [213]
 
 [[entry]]
-key = "name_0187"
 japanese = "交渉人"
 english = "Negotiator"
 scope = "speaker_label"
 source_ids = [214]
 
 [[entry]]
-key = "name_0188"
 japanese = "賓客"
 english = "Guest of Honor"
 scope = "speaker_label"
 source_ids = [215]
 
 [[entry]]
-key = "name_0189"
 japanese = "青年"
 english = "Young Man"
 scope = "speaker_label"
 source_ids = [216]
 
 [[entry]]
-key = "name_0190"
 japanese = "学生"
 english = "Student"
 scope = "speaker_label"
 source_ids = [217]
 
 [[entry]]
-key = "name_0191"
 japanese = "農場の男"
 english = "Farmhand"
 scope = "speaker_label"
 source_ids = [218]
 
 [[entry]]
-key = "name_0192"
 japanese = "自警団員"
 english = "Vigilante"
 scope = "speaker_label"
 source_ids = [219]
 
 [[entry]]
-key = "name_0193"
 japanese = "代表"
 english = "Representative"
 scope = "speaker_label"
 source_ids = [220]
 
 [[entry]]
-key = "name_0194"
 japanese = "船員"
 english = "Sailor"
 scope = "speaker_label"
 source_ids = [221]
 
 [[entry]]
-key = "name_0195"
 japanese = "修道女"
 english = "Nun"
 scope = "speaker_label"
 source_ids = [222]
 
 [[entry]]
-key = "name_0196"
 japanese = "哀愁の吟遊詩人"
 english = "Melancholy Bard"
 scope = "speaker_label"
 source_ids = [223]
 
 [[entry]]
-key = "name_0197"
 japanese = "若い娘"
 english = "Young Woman"
 scope = "speaker_label"
 source_ids = [224]
 
 [[entry]]
-key = "name_0198"
 japanese = "謎の魔道士"
 english = "Mysterious Mage"
 scope = "speaker_label"
 source_ids = [225]
 
 [[entry]]
-key = "name_0199"
 japanese = "道具屋の見習い"
 english = "Apprentice Item Shop Clerk"
 scope = "speaker_label"
 source_ids = [226]
 
 [[entry]]
-key = "name_0200"
 japanese = "酒場の見習い"
 english = "Tavern Apprentice"
 scope = "speaker_label"
 source_ids = [227]
 
 [[entry]]
-key = "name_0201"
 japanese = "キャラバン隊の男"
 english = "Male Caravan Member"
 scope = "speaker_label"
 source_ids = [229]
 
 [[entry]]
-key = "name_0202"
 japanese = "キャラバン隊の若者"
 english = "Young Caravan Member"
 scope = "speaker_label"
 source_ids = [230]
 
 [[entry]]
-key = "name_0203"
 japanese = "キャラバン隊の女"
 english = "Female Caravan Member"
 scope = "speaker_label"
 source_ids = [231]
 
 [[entry]]
-key = "name_0204"
 japanese = "キャラバン隊の娘"
 english = "Caravan Girl"
 scope = "speaker_label"
 source_ids = [232]
 
 [[entry]]
-key = "name_0205"
 japanese = "ならず者"
 english = "Ruffian"
 scope = "speaker_label"
 source_ids = [233]
 
 [[entry]]
-key = "name_0206"
 japanese = "頬に傷あるならず者"
 english = "Scar-Cheeked Ruffian"
 scope = "speaker_label"
 source_ids = [234]
 
 [[entry]]
-key = "name_0207"
 japanese = "凶悪そうな顔の男"
 english = "Menacing-Looking Man"
 scope = "speaker_label"
 source_ids = [235]
 
 [[entry]]
-key = "name_0208"
 japanese = "裏切りそうな男"
 english = "Untrustworthy-Looking Man"
 scope = "speaker_label"
 source_ids = [236]
 
 [[entry]]
-key = "name_0209"
 japanese = "キツネ目のならず者"
 english = "Fox-Eyed Ruffian"
 scope = "speaker_label"
 source_ids = [237]
 
 [[entry]]
-key = "name_0210"
 japanese = "眉毛の太いならず者"
 english = "Thick-Browed Ruffian"
 scope = "speaker_label"
 source_ids = [238]
 
 [[entry]]
-key = "name_0211"
 japanese = "町の少年"
 english = "Town Youth"
 scope = "speaker_label"
 source_ids = [239]
 
 [[entry]]
-key = "name_0212"
 japanese = "町の男の子"
 english = "Town Boy"
 scope = "speaker_label"
 source_ids = [240]
 
 [[entry]]
-key = "name_0213"
 japanese = "町の少女"
 english = "Town Maiden"
 scope = "speaker_label"
 source_ids = [241]
 
 [[entry]]
-key = "name_0214"
 japanese = "町の女の子"
 english = "Town Little Girl"
 scope = "speaker_label"
 source_ids = [242]
 
 [[entry]]
-key = "name_0215"
 japanese = "町の男"
 english = "Townsman"
 scope = "speaker_label"
 source_ids = [243]
 
 [[entry]]
-key = "name_0216"
 japanese = "町の青年"
 english = "Young Townsman"
 scope = "speaker_label"
 source_ids = [244]
 
 [[entry]]
-key = "name_0217"
 japanese = "町の女"
 english = "Townswoman"
 scope = "speaker_label"
 source_ids = [245]
 
 [[entry]]
-key = "name_0218"
 japanese = "町娘"
 english = "Town Girl"
 scope = "speaker_label"
 source_ids = [246]
 
 [[entry]]
-key = "name_0219"
 japanese = "町の老人"
 english = "Elderly Townsman"
 scope = "speaker_label"
 source_ids = [247]
 
 [[entry]]
-key = "name_0220"
 japanese = "町のお爺さん"
 english = "Old Townsman"
 scope = "speaker_label"
 source_ids = [248]
 
 [[entry]]
-key = "name_0221"
 japanese = "町の老女"
 english = "Elderly Townswoman"
 scope = "speaker_label"
 source_ids = [249]
 
 [[entry]]
-key = "name_0222"
 japanese = "町のお婆さん"
 english = "Old Townswoman"
 scope = "speaker_label"
 source_ids = [250]
 
 [[entry]]
-key = "name_0223"
 japanese = "侍女"
 english = "Lady-in-Waiting"
 scope = "speaker_label"
 source_ids = [251]
 
 [[entry]]
-key = "name_0224"
 japanese = "やさしそうな侍女"
 english = "Gentle-Looking Maidservant"
 scope = "speaker_label"
 source_ids = [252]
 
 [[entry]]
-key = "name_0225"
 japanese = "衛兵"
 english = "Guard"
 scope = "speaker_label"
 source_ids = [253]
 
 [[entry]]
-key = "name_0226"
 japanese = "強そうな衛兵"
 english = "Strong-Looking Guard"
 scope = "speaker_label"
 source_ids = [254]
 
 [[entry]]
-key = "name_0227"
 japanese = "ノヴィンの副官"
 english = "Novin's Adjutant"
 scope = "speaker_label"
 source_ids = [255]
 
 [[entry]]
-key = "name_0228"
 japanese = "竜騎士"
 english = "Dragon Knight"
 scope = "speaker_label"
 source_ids = [256, 711, 712]
 
 [[entry]]
-key = "name_0229"
 japanese = "ガーゴイルもどき"
 english = "Faux Gargoyle"
 scope = "speaker_label"
 source_ids = [257]
 
 [[entry]]
-key = "name_0230"
 japanese = "ギルドの助手"
 english = "Guild Assistant"
 scope = "speaker_label"
 source_ids = [258]
 
 [[entry]]
-key = "name_0231"
 japanese = "若い商人"
 english = "Young Merchant"
 scope = "speaker_label"
 source_ids = [260]
 
 [[entry]]
-key = "name_0232"
 japanese = "大商人"
 english = "Merchant Magnate"
 scope = "speaker_label"
 source_ids = [261]
 
 [[entry]]
-key = "name_0233"
 japanese = "闘技場の案内係"
 english = "Arena Guide"
 scope = "speaker_label"
 source_ids = [262]
 
 [[entry]]
-key = "name_0234"
 japanese = "きれいなお姉さん"
 english = "Pretty Young Woman"
 scope = "speaker_label"
 source_ids = [263]
 
 [[entry]]
-key = "name_0235"
 japanese = "農場働きの男"
 english = "Farm Laborer"
 scope = "speaker_label"
 source_ids = [264]
 
 [[entry]]
-key = "name_0236"
 japanese = "長老"
 english = "Elder"
 scope = "speaker_label"
 source_ids = [265]
 
 [[entry]]
-key = "name_0237"
 japanese = "きまじめな長老"
 english = "Earnest Elder"
 scope = "speaker_label"
 source_ids = [266]
 
 [[entry]]
-key = "name_0238"
 japanese = "がんこそうな長老"
 english = "Stubborn-Looking Elder"
 scope = "speaker_label"
 source_ids = [267]
 
 [[entry]]
-key = "name_0239"
 japanese = "一般兵"
 english = "Regular Soldier"
 scope = "speaker_label"
 source_ids = [268]
 
 [[entry]]
-key = "name_0240"
 japanese = "若い兵士"
 english = "Young Soldier"
 scope = "speaker_label"
 source_ids = [269]
 
 [[entry]]
-key = "name_0241"
 japanese = "ベテラン兵士"
 english = "Veteran Soldier"
 scope = "speaker_label"
 source_ids = [270]
 
 [[entry]]
-key = "name_0242"
 japanese = "熟年兵士"
 english = "Middle-Aged Soldier"
 scope = "speaker_label"
 source_ids = [271]
 
 [[entry]]
-key = "name_0243"
 japanese = "たくましい若者"
 english = "Robust Young Man"
 scope = "speaker_label"
 source_ids = [272]
 
 [[entry]]
-key = "name_0244"
 japanese = "黒鎧騎士"
 english = "Black-Armored Knight"
 scope = "speaker_label"
 source_ids = [273, 704, 705, 706]
 
 [[entry]]
-key = "name_0245"
 japanese = "やさしい黒鎧騎士"
 english = "Kind Black-Armored Knight"
 scope = "speaker_label"
 source_ids = [274]
 
 [[entry]]
-key = "name_0246"
 japanese = "やる気の黒鎧騎士"
 english = "Eager Black-Armored Knight"
 scope = "speaker_label"
 source_ids = [275]
 
 [[entry]]
-key = "name_0247"
 japanese = "力自慢の黒鎧騎士"
 english = "Brawny Black-Armored Knight"
 scope = "speaker_label"
 source_ids = [276]
 
 [[entry]]
-key = "name_0248"
 japanese = "足の速い竜騎士"
 english = "Swift Dragon Knight"
 scope = "speaker_label"
 source_ids = [277]
 
 [[entry]]
-key = "name_0249"
 japanese = "短気な竜騎士"
 english = "Hotheaded Dragon Knight"
 scope = "speaker_label"
 source_ids = [278]
 
 [[entry]]
-key = "name_0250"
 japanese = "高貴な竜騎士"
 english = "Noble Dragon Knight"
 scope = "speaker_label"
 source_ids = [279]
 
 [[entry]]
-key = "name_0251"
 japanese = "ディンガル歩兵"
 english = "Dingal Infantryman"
 scope = "speaker_label"
 source_ids = [280]
 
 [[entry]]
-key = "name_0252"
 japanese = "ディンガル兵長"
 english = "Dingal Sergeant"
 scope = "speaker_label"
 source_ids = [281]
 
 [[entry]]
-key = "name_0253"
 japanese = "ディンガル突撃兵"
 english = "Dingal Shock Trooper"
 scope = "speaker_label"
 source_ids = [282]
 
 [[entry]]
-key = "name_0254"
 japanese = "ロストール歩兵"
 english = "Rostorl Infantryman"
 scope = "speaker_label"
 source_ids = [283]
 
 [[entry]]
-key = "name_0255"
 japanese = "ロストール兵長"
 english = "Rostorl Sergeant"
 scope = "speaker_label"
 source_ids = [284]
 
 [[entry]]
-key = "name_0256"
 japanese = "ロストール突撃兵"
 english = "Rostorl Shock Trooper"
 scope = "speaker_label"
 source_ids = [285]
 
 [[entry]]
-key = "name_0257"
 japanese = "顔の見えない男"
 english = "Faceless Man"
 scope = "speaker_label"
 source_ids = [286]
 
 [[entry]]
-key = "name_0258"
 japanese = "茶装束の人"
 english = "Brown-Clad Figure"
 scope = "speaker_label"
 source_ids = [287]
 
 [[entry]]
-key = "name_0259"
 japanese = "賢そうなコーンス"
 english = "Intelligent-Looking Corns"
 scope = "speaker_label"
 source_ids = [288]
 
 [[entry]]
-key = "name_0260"
 japanese = "弱気なコーンス"
 english = "Timid Corns"
 scope = "speaker_label"
 source_ids = [289]
 
 [[entry]]
-key = "name_0261"
 japanese = "腕ききコーンス"
 english = "Skilled Corns"
 scope = "speaker_label"
 source_ids = [290]
 
 [[entry]]
-key = "name_0262"
 japanese = "偉そうな神官"
 english = "Pompous Priest"
 scope = "speaker_label"
 source_ids = [291]
 
 [[entry]]
-key = "name_0263"
 japanese = "高位の神官"
 english = "High-Ranking Priest"
 scope = "speaker_label"
 source_ids = [292]
 
 [[entry]]
-key = "name_0264"
 japanese = "やさしい神官"
 english = "Kind Priest"
 scope = "speaker_label"
 source_ids = [293]
 
 [[entry]]
-key = "name_0265"
 japanese = "気弱な巫女"
 english = "Timid Priestess"
 scope = "speaker_label"
 source_ids = [294]
 
 [[entry]]
-key = "name_0266"
 japanese = "まじめな巫女"
 english = "Diligent Priestess"
 scope = "speaker_label"
 source_ids = [295]
 
 [[entry]]
-key = "name_0267"
 japanese = "強気の巫女"
 english = "Strong-Willed Priestess"
 scope = "speaker_label"
 source_ids = [296]
 
 [[entry]]
-key = "name_0268"
 japanese = "黒装束の男"
 english = "Black-Clad Man"
 scope = "speaker_label"
 source_ids = [297]
 
 [[entry]]
-key = "name_0269"
 japanese = "黒い暗殺者"
 english = "Black Assassin"
 scope = "speaker_label"
 source_ids = [298]
 
 [[entry]]
-key = "name_0270"
 japanese = "暗やみに隠れた男"
 english = "Man Hidden in the Dark"
 scope = "speaker_label"
 source_ids = [299]
 
 [[entry]]
-key = "name_0271"
 japanese = "黒ずくめの男"
 english = "Man in Black"
 scope = "speaker_label"
 source_ids = [300]
 
 [[entry]]
-key = "name_0272"
 japanese = "黒い１つ目"
 english = "Black One-Eye"
 scope = "speaker_label"
 source_ids = [301]
 
 [[entry]]
-key = "name_0273"
 japanese = "告死天使"
 english = "Death-Heralding Angel"
 scope = "speaker_label"
 source_ids = [302, 865, 866]
 
 [[entry]]
-key = "name_0274"
 japanese = "金持ち貴族"
 english = "Wealthy Noble"
 scope = "speaker_label"
 source_ids = [303]
 
 [[entry]]
-key = "name_0275"
 japanese = "下級貴族"
 english = "Minor Noble"
 scope = "speaker_label"
 source_ids = [304]
 
 [[entry]]
-key = "name_0276"
 japanese = "貴族"
 english = "Noble"
 scope = "speaker_label"
 source_ids = [305]
 
 [[entry]]
-key = "name_0277"
 japanese = "親思いの兵士"
 english = "Filial Soldier"
 scope = "speaker_label"
 source_ids = [306]
 
 [[entry]]
-key = "name_0278"
 japanese = "腕利き兵士"
 english = "Skilled Soldier"
 scope = "speaker_label"
 source_ids = [307]
 
 [[entry]]
-key = "name_0279"
 japanese = "勇気ある兵士"
 english = "Brave Soldier"
 scope = "speaker_label"
 source_ids = [308]
 
 [[entry]]
-key = "name_0280"
 japanese = "やる気の兵士"
 english = "Eager Soldier"
 scope = "speaker_label"
 source_ids = [309]
 
 [[entry]]
-key = "name_0281"
 japanese = "ソウルイーター"
 english = "Soul Eater"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0282"
 japanese = "タルテュバの怪物"
 english = "Taltuba's Monster"
 scope = "speaker_label"
 source_ids = [311, 782]
 
 [[entry]]
-key = "name_0283"
 japanese = "典礼官"
 english = "Liturgical Officer"
 scope = "speaker_label"
 source_ids = [312]
 
 [[entry]]
-key = "name_0284"
 japanese = "酒場の看板娘"
 english = "Tavern Hostess"
 scope = "speaker_label"
 source_ids = [318]
 
 [[entry]]
-key = "name_0285"
 japanese = "老魔道士"
 english = "Old Mage"
 scope = "speaker_label"
 source_ids = [319]
 
 [[entry]]
-key = "name_0286"
 japanese = "女魔道士"
 english = "Female Mage"
 scope = "speaker_label"
 source_ids = [320, 723, 724]
 
 [[entry]]
-key = "name_0287"
 japanese = "見習い魔道士"
 english = "Apprentice Mage"
 scope = "speaker_label"
 source_ids = [321]
 
 [[entry]]
-key = "name_0288"
 japanese = "宿屋の女の子"
 english = "Inn Girl"
 scope = "speaker_label"
 source_ids = [322]
 
 [[entry]]
-key = "name_0289"
 japanese = "天経院神官"
 english = "Tenkeiin Priest"
 scope = "speaker_label"
 source_ids = [323]
 
 [[entry]]
-key = "name_0290"
 japanese = "ディンガル官憲"
 english = "Dingal Constable"
 scope = "speaker_label"
 source_ids = [324]
 
 [[entry]]
-key = "name_0291"
 japanese = "解放軍同志"
 english = "Liberation Army Comrade"
 scope = "speaker_label"
 source_ids = [325]
 
 [[entry]]
-key = "name_0292"
 japanese = "ディンガル士官"
 english = "Dingal Officer"
 scope = "speaker_label"
 source_ids = [326, 697, 698, 699]
 
 [[entry]]
-key = "name_0293"
 japanese = "スペクター"
 english = "Specter"
 scope = "speaker_label"
 source_ids = [327, 645]
 
 [[entry]]
-key = "name_0294"
 japanese = "ウルフ"
 english = "Wolf"
 scope = "speaker_label"
 source_ids = [328, 329, 587]
 
 [[entry]]
-key = "name_0295"
 japanese = "スラムの青年"
 english = "Slum Youth"
 scope = "speaker_label"
 source_ids = [330]
 
 [[entry]]
-key = "name_0296"
 japanese = "うっかり者の冒険者"
 english = "Careless Adventurer"
 scope = "speaker_label"
 source_ids = [331]
 
 [[entry]]
-key = "name_0297"
 japanese = "切れ者冒険者"
 english = "Sharp-Witted Adventurer"
 scope = "speaker_label"
 source_ids = [332]
 
 [[entry]]
-key = "name_0298"
 japanese = "実は美男子の冒険者"
 english = "Truly Handsome Adventurer"
 scope = "speaker_label"
 source_ids = [333]
 
 [[entry]]
-key = "name_0299"
 japanese = "副官"
 english = "Adjutant"
 scope = "speaker_label"
 source_ids = [334]
 
 [[entry]]
-key = "name_0300"
 japanese = "デスギガース"
 english = "Death Gigas"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0301"
 japanese = "ティラの娘"
 english = "Tiera's Daughter"
 scope = "speaker_label"
 source_ids = [336, 337, 338, 339, 340, 341, 342, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 935]
 
 [[entry]]
-key = "name_0302"
 japanese = "貴族の少女"
 english = "Noble Girl"
 scope = "speaker_label"
 source_ids = [343]
 
 [[entry]]
-key = "name_0303"
 japanese = "ハンナの母親"
 english = "Hannah's Mother"
 scope = "speaker_label"
 source_ids = [344]
 
 [[entry]]
-key = "name_0304"
 japanese = "細い目をした盗賊"
 english = "Narrow-Eyed Bandit"
 scope = "speaker_label"
 source_ids = [345]
 
 [[entry]]
-key = "name_0305"
 japanese = "人さらいのお頭"
 english = "Kidnapper Chief"
 scope = "speaker_label"
 source_ids = [346]
 
 [[entry]]
-key = "name_0306"
 japanese = "落ちつきない盗賊"
 english = "Restless Bandit"
 scope = "speaker_label"
 source_ids = [347]
 
 [[entry]]
-key = "name_0307"
 japanese = "船長"
 english = "Captain"
 scope = "speaker_label"
 source_ids = [348]
 
 [[entry]]
-key = "name_0308"
 japanese = "シャリの怪物"
 english = "Shalli's Monster"
 scope = "speaker_label"
 source_ids = [349]
 
 [[entry]]
-key = "name_0309"
 japanese = "大イカ"
 english = "Giant Squid"
 scope = "speaker_label"
 source_ids = [350, 789]
 
 [[entry]]
-key = "name_0310"
 japanese = "水の神殿の神官長"
 english = "Water Temple Chief Priest"
 scope = "speaker_label"
 source_ids = [351]
 
 [[entry]]
-key = "name_0311"
 japanese = "水の神殿の神官"
 english = "Water Temple Priest"
 scope = "speaker_label"
 source_ids = [352]
 
 [[entry]]
-key = "name_0312"
 japanese = "ドワーフ兵"
 english = "Dwarf Soldier"
 scope = "speaker_label"
 source_ids = [353, 354]
 
 [[entry]]
-key = "name_0313"
 japanese = "力自慢の山賊"
 english = "Strongman Bandit"
 scope = "speaker_label"
 source_ids = [355]
 
 [[entry]]
-key = "name_0314"
 japanese = "恐ろしい山賊"
 english = "Fearsome Bandit"
 scope = "speaker_label"
 source_ids = [356]
 
 [[entry]]
-key = "name_0315"
 japanese = "若い解放軍同志"
 english = "Young Liberation Comrade"
 scope = "speaker_label"
 source_ids = [357]
 
 [[entry]]
-key = "name_0316"
 japanese = "元商人の解放軍同志"
 english = "Liberation Army Ex-Merchant"
 scope = "speaker_label"
 source_ids = [358]
 
 [[entry]]
-key = "name_0317"
 japanese = "闘技場の下働き"
 english = "Arena Laborer"
 scope = "speaker_label"
 source_ids = [359]
 
 [[entry]]
-key = "name_0318"
 japanese = "暗殺者"
 english = "Assassin"
 scope = "speaker_label"
 source_ids = [360, 907, 909]
 
 [[entry]]
-key = "name_0319"
 japanese = "官憲"
 english = "Constable"
 scope = "speaker_label"
 source_ids = [363]
 
 [[entry]]
-key = "name_0320"
 japanese = "ペウダの怪物"
 english = "Peuda's Monster"
 scope = "speaker_label"
 source_ids = [365, 784]
 
 [[entry]]
-key = "name_0321"
 japanese = "レムゲドン"
 english = "Lemgedon"
 scope = "speaker_label"
 source_ids = [366, 688]
 
 [[entry]]
-key = "name_0322"
 japanese = "デヴィル"
 english = "Devil"
 scope = "speaker_label"
 source_ids = [367, 615, 821]
 
 [[entry]]
-key = "name_0323"
 japanese = "魔道具屋"
 english = "Magic-Item Dealer"
 scope = "speaker_label"
 source_ids = [368]
 
 [[entry]]
-key = "name_0324"
 japanese = "マンティコア"
 english = "Manticore"
 scope = "speaker_label"
 source_ids = [369, 678]
 
 [[entry]]
-key = "name_0325"
 japanese = "仮面の騎士"
 english = "Masked Knight"
 scope = "speaker_label"
 source_ids = [370]
 
 [[entry]]
-key = "name_0326"
 japanese = "馬"
 english = "Horse"
 scope = "speaker_label"
 source_ids = [371]
 
 [[entry]]
-key = "name_0327"
 japanese = "軍馬"
 english = "Warhorse"
 scope = "speaker_label"
 source_ids = [372, 373]
 
 [[entry]]
-key = "name_0328"
 japanese = "レルラ＝ロントンの弟子"
 english = "Relra Lonton's Apprentice"
 scope = "speaker_label"
 source_ids = [374]
 
 [[entry]]
-key = "name_0329"
 japanese = "デルガドの一番弟子"
 english = "Delgado's First Apprentice"
 scope = "speaker_label"
 source_ids = [375, 417]
 
 [[entry]]
-key = "name_0330"
 japanese = "デルガドの二番弟子"
 english = "Delgado's Second Apprentice"
 scope = "speaker_label"
 source_ids = [376]
 
 [[entry]]
-key = "name_0331"
 japanese = "ノエルの母親"
 english = "Noel's Mother"
 scope = "speaker_label"
 source_ids = [377]
 
 [[entry]]
-key = "name_0332"
 japanese = "ノエルの父親"
 english = "Noel's Father"
 scope = "speaker_label"
 source_ids = [378]
 
 [[entry]]
-key = "name_0333"
 japanese = "海賊"
 english = "Pirate"
 scope = "speaker_label"
 source_ids = [379, 380, 719, 720, 862, 863, 864]
 
 [[entry]]
-key = "name_0334"
 japanese = "ギルドの主人"
 english = "Guildmaster"
 scope = "speaker_label"
 source_ids = [381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393]
 
 [[entry]]
-key = "name_0335"
 japanese = "宿屋の主人"
 english = "Innkeeper"
 scope = "speaker_label"
 source_ids = [394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 406]
 
 [[entry]]
-key = "name_0336"
 japanese = "鍛冶屋の主人"
 english = "Blacksmith"
 scope = "speaker_label"
 source_ids = [407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 418, 419]
 
 [[entry]]
-key = "name_0337"
 japanese = "道具屋の主人"
 english = "Item Shopkeeper"
 scope = "speaker_label"
 source_ids = [420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432]
 
 [[entry]]
-key = "name_0338"
 japanese = "酒場の主人"
 english = "Tavernkeeper"
 scope = "speaker_label"
 source_ids = [433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445]
 
 [[entry]]
-key = "name_0339"
 japanese = "スラム酒場の主人"
 english = "Slum Tavernkeeper"
 scope = "speaker_label"
 source_ids = [446]
 
 [[entry]]
-key = "name_0340"
 japanese = "小さい酒場の主人"
 english = "Small-Tavern Keeper"
 scope = "speaker_label"
 source_ids = [447]
 
 [[entry]]
-key = "name_0341"
 japanese = "闘技場の受付嬢"
 english = "Arena Receptionist"
 scope = "speaker_label"
 source_ids = [448, 449]
 
 [[entry]]
-key = "name_0342"
 japanese = "？？？？？？？？"
 english = "????????"
 scope = "speaker_label"
 source_ids = [450]
 
 [[entry]]
-key = "name_0343"
 japanese = "フラッフィプリカ"
 english = "Fluffy Prica"
 scope = "source_records"
 source_ids = [582]
 
 [[entry]]
-key = "name_0344"
 japanese = "リトルバンパイア"
 english = "Little Vampire"
 scope = "source_records"
 source_ids = [583]
 
 [[entry]]
-key = "name_0345"
 japanese = "インプ"
 english = "Imp"
 scope = "source_records"
 source_ids = [584]
 
 [[entry]]
-key = "name_0346"
 japanese = "スパンキー"
 english = "Spanky"
 scope = "source_records"
 source_ids = [585]
 
 [[entry]]
-key = "name_0347"
 japanese = "ピクシー"
 english = "Pixie"
 scope = "source_records"
 source_ids = [586]
 
 [[entry]]
-key = "name_0348"
 japanese = "シェイドラット"
 english = "Shade Rat"
 scope = "source_records"
 source_ids = [588]
 
 [[entry]]
-key = "name_0349"
 japanese = "ゼノプス"
 english = "Xenops"
 scope = "source_records"
 source_ids = [589]
 
 [[entry]]
-key = "name_0350"
 japanese = "メガロリーチ"
 english = "Megalo Leech"
 scope = "source_records"
 source_ids = [590]
 
 [[entry]]
-key = "name_0351"
 japanese = "ジャックランタン"
 english = "Jack-o'-Lantern"
 scope = "source_records"
 source_ids = [591]
 
 [[entry]]
-key = "name_0352"
 japanese = "タイガーワスプ"
 english = "Tiger Wasp"
 scope = "source_records"
 source_ids = [592]
 
 [[entry]]
-key = "name_0353"
 japanese = "イーグル"
 english = "Eagle"
 scope = "source_records"
 source_ids = [593]
 
 [[entry]]
-key = "name_0354"
 japanese = "バイパー"
 english = "Viper"
 scope = "source_records"
 source_ids = [594]
 
 [[entry]]
-key = "name_0355"
 japanese = "ウィル・ウィスプ"
 english = "Will-o'-Wisp"
 scope = "source_records"
 source_ids = [595]
 
 [[entry]]
-key = "name_0356"
 japanese = "コボルド"
 english = "Kobold"
 scope = "source_records"
 source_ids = [596]
 
 [[entry]]
-key = "name_0357"
 japanese = "クィーンワスプ"
 english = "Queen Wasp"
 scope = "source_records"
 source_ids = [597]
 
 [[entry]]
-key = "name_0358"
 japanese = "プレデター"
 english = "Predator"
 scope = "source_records"
 source_ids = [598]
 
 [[entry]]
-key = "name_0359"
 japanese = "ブラックドッグ"
 english = "Black Dog"
 scope = "source_records"
 source_ids = [599]
 
 [[entry]]
-key = "name_0360"
 japanese = "サンデュー"
 english = "Sundew"
 scope = "source_records"
 source_ids = [600]
 
 [[entry]]
-key = "name_0361"
 japanese = "ゴブリン"
 english = "Goblin"
 scope = "source_records"
 source_ids = [601]
 
 [[entry]]
-key = "name_0362"
 japanese = "サンドマン"
 english = "Sandman"
 scope = "source_records"
 source_ids = [602]
 
 [[entry]]
-key = "name_0363"
 japanese = "ルーパス"
 english = "Lupus"
 scope = "source_records"
 source_ids = [603]
 
 [[entry]]
-key = "name_0364"
 japanese = "ジオールスター"
 english = "The All-Star"
 scope = "source_records"
 source_ids = [604]
 
 [[entry]]
-key = "name_0365"
 japanese = "ダンシングトーチ"
 english = "Dancing Torch"
 scope = "source_records"
 source_ids = [605]
 
 [[entry]]
-key = "name_0366"
 japanese = "スピナスク"
 english = "Spinasque"
 scope = "source_records"
 source_ids = [606]
 
 [[entry]]
-key = "name_0367"
 japanese = "ゾンビ"
 english = "Zombie"
 scope = "source_records"
 source_ids = [607]
 
 [[entry]]
-key = "name_0368"
 japanese = "アクウィラ"
 english = "Aquila"
 scope = "source_records"
 source_ids = [608]
 
 [[entry]]
-key = "name_0369"
 japanese = "セイレーン"
 english = "Siren"
 scope = "source_records"
 source_ids = [609]
 
 [[entry]]
-key = "name_0370"
 japanese = "ウッドローヴァー"
 english = "Wood Rover"
 scope = "source_records"
 source_ids = [610]
 
 [[entry]]
-key = "name_0371"
 japanese = "スライム"
 english = "Slime"
 scope = "source_records"
 source_ids = [611]
 
 [[entry]]
-key = "name_0372"
 japanese = "ホムンクルス"
 english = "Homunculus"
 scope = "source_records"
 source_ids = [612]
 
 [[entry]]
-key = "name_0373"
 japanese = "ホブゴブリン"
 english = "Hobgoblin"
 scope = "source_records"
 source_ids = [613]
 
 [[entry]]
-key = "name_0374"
 japanese = "コブラ"
 english = "Cobra"
 scope = "source_records"
 source_ids = [614]
 
 [[entry]]
-key = "name_0375"
 japanese = "グレムリン"
 english = "Gremlin"
 scope = "source_records"
 source_ids = [616]
 
 [[entry]]
-key = "name_0376"
 japanese = "ゴースト"
 english = "Ghost"
 scope = "source_records"
 source_ids = [617]
 
 [[entry]]
-key = "name_0377"
 japanese = "スケルトン"
 english = "Skeleton"
 scope = "source_records"
 source_ids = [618]
 
 [[entry]]
-key = "name_0378"
 japanese = "ハーピー"
 english = "Harpy"
 scope = "source_records"
 source_ids = [619]
 
 [[entry]]
-key = "name_0380"
 japanese = "デヴィルズシリア"
 english = "Devil's Cilia"
 scope = "source_records"
 source_ids = [621]
 
 [[entry]]
-key = "name_0381"
 japanese = "ブラウンベア"
 english = "Brown Bear"
 scope = "source_records"
 source_ids = [622]
 
 [[entry]]
-key = "name_0382"
 japanese = "オーク"
 english = "Orc"
 scope = "source_records"
 source_ids = [623]
 
 [[entry]]
-key = "name_0383"
 japanese = "ブルーマン"
 english = "Blue Man"
 scope = "source_records"
 source_ids = [624]
 
 [[entry]]
-key = "name_0384"
 japanese = "ドラゴンマイム"
 english = "Dragon Mime"
 scope = "source_records"
 source_ids = [625]
 
 [[entry]]
-key = "name_0385"
 japanese = "ヒッポグリフ"
 english = "Hippogriff"
 scope = "source_records"
 source_ids = [626]
 
 [[entry]]
-key = "name_0386"
 japanese = "ジェリー"
 english = "Jelly"
 scope = "source_records"
 source_ids = [627]
 
 [[entry]]
-key = "name_0387"
 japanese = "アスプ"
 english = "Asp"
 scope = "source_records"
 source_ids = [628]
 
 [[entry]]
-key = "name_0388"
 japanese = "グール"
 english = "Ghoul"
 scope = "source_records"
 source_ids = [629]
 
 [[entry]]
-key = "name_0389"
 japanese = "イグニスファタス"
 english = "Ignis Fatuus"
 scope = "source_records"
 source_ids = [630]
 
 [[entry]]
-key = "name_0390"
 japanese = "バシリスク"
 english = "Basilisk"
 scope = "source_records"
 source_ids = [631]
 
 [[entry]]
-key = "name_0391"
 japanese = "ラミア"
 english = "Lamia"
 scope = "source_records"
 source_ids = [632]
 
 [[entry]]
-key = "name_0392"
 japanese = "リザードマン"
 english = "Lizardman"
 scope = "source_records"
 source_ids = [633]
 
 [[entry]]
-key = "name_0393"
 japanese = "サーベルタイガー"
 english = "Saber Tiger"
 scope = "source_records"
 source_ids = [634]
 
 [[entry]]
-key = "name_0394"
 japanese = "オーガ"
 english = "Ogre"
 scope = "source_records"
 source_ids = [635]
 
 [[entry]]
-key = "name_0395"
 japanese = "レッドキャップ"
 english = "Redcap"
 scope = "source_records"
 source_ids = [636]
 
 [[entry]]
-key = "name_0396"
 japanese = "コカトリス"
 english = "Cockatrice"
 scope = "source_records"
 source_ids = [637]
 
 [[entry]]
-key = "name_0397"
 japanese = "ゴーレム"
 english = "Golem"
 scope = "source_records"
 source_ids = [638]
 
 [[entry]]
-key = "name_0398"
 japanese = "ソーンナイト"
 english = "Thorn Knight"
 scope = "source_records"
 source_ids = [639]
 
 [[entry]]
-key = "name_0399"
 japanese = "ゴーティダイモン"
 english = "Goetic Daimon"
 scope = "source_records"
 source_ids = [640]
 
 [[entry]]
-key = "name_0400"
 japanese = "グレートブルー"
 english = "Great Blue"
 scope = "source_records"
 source_ids = [641]
 
 [[entry]]
-key = "name_0401"
 japanese = "ガーゴイル"
 english = "Gargoyle"
 scope = "source_records"
 source_ids = [642]
 
 [[entry]]
-key = "name_0402"
 japanese = "サラマンダー"
 english = "Salamander"
 scope = "source_records"
 source_ids = [643]
 
 [[entry]]
-key = "name_0403"
 japanese = "ジャイアント"
 english = "Giant"
 scope = "source_records"
 source_ids = [644]
 
 [[entry]]
-key = "name_0404"
 japanese = "ダークリザード"
 english = "Dark Lizard"
 scope = "source_records"
 source_ids = [646]
 
 [[entry]]
-key = "name_0405"
 japanese = "ラングスイル"
 english = "Langsuir"
 scope = "source_records"
 source_ids = [647]
 
 [[entry]]
-key = "name_0406"
 japanese = "ビーストギガース"
 english = "Beast Gigas"
 scope = "source_records"
 source_ids = [648]
 
 [[entry]]
-key = "name_0407"
 japanese = "デルピュネ"
 english = "Delphyne"
 scope = "source_records"
 source_ids = [649]
 
 [[entry]]
-key = "name_0408"
 japanese = "フェニックス"
 english = "Phoenix"
 scope = "source_records"
 source_ids = [650]
 
 [[entry]]
-key = "name_0409"
 japanese = "シービショップ"
 english = "Sea Bishop"
 scope = "source_records"
 source_ids = [651]
 
 [[entry]]
-key = "name_0410"
 japanese = "スノーマン"
 english = "Snowman"
 scope = "source_records"
 source_ids = [652]
 
 [[entry]]
-key = "name_0411"
 japanese = "アネモシルクス"
 english = "Anemosilux"
 scope = "source_records"
 source_ids = [653]
 
 [[entry]]
-key = "name_0412"
 japanese = "ミノタウロス"
 english = "Minotaur"
 scope = "source_records"
 source_ids = [655]
 
 [[entry]]
-key = "name_0413"
 japanese = "ダークソーサラー"
 english = "Dark Sorcerer"
 scope = "source_records"
 source_ids = [656]
 
 [[entry]]
-key = "name_0414"
 japanese = "リトルダイモン"
 english = "Little Daimon"
 scope = "source_records"
 source_ids = [657]
 
 [[entry]]
-key = "name_0415"
 japanese = "フューマスクス"
 english = "Fumascus"
 scope = "source_records"
 source_ids = [658]
 
 [[entry]]
-key = "name_0416"
 japanese = "スリンガー"
 english = "Slinger"
 scope = "source_records"
 source_ids = [659]
 
 [[entry]]
-key = "name_0417"
 japanese = "タキシム"
 english = "Taksim"
 scope = "source_records"
 source_ids = [660]
 
 [[entry]]
-key = "name_0418"
 japanese = "デュラハン"
 english = "Dullahan"
 scope = "source_records"
 source_ids = [661]
 
 [[entry]]
-key = "name_0419"
 japanese = "ブラックカウント"
 english = "Black Count"
 scope = "source_records"
 source_ids = [662]
 
 [[entry]]
-key = "name_0420"
 japanese = "マグマゴーレム"
 english = "Magma Golem"
 scope = "source_records"
 source_ids = [663]
 
 [[entry]]
-key = "name_0421"
 japanese = "イェティ"
 english = "Yeti"
 scope = "source_records"
 source_ids = [664]
 
 [[entry]]
-key = "name_0422"
 japanese = "キマイラ"
 english = "Chimera"
 scope = "source_records"
 source_ids = [665]
 
 [[entry]]
-key = "name_0423"
 japanese = "ワーム"
 english = "Wyrm"
 scope = "source_records"
 source_ids = [666]
 
 [[entry]]
-key = "name_0424"
 japanese = "ストーンドラゴン"
 english = "Stone Dragon"
 scope = "source_records"
 source_ids = [667]
 
 [[entry]]
-key = "name_0425"
 japanese = "トロル"
 english = "Troll"
 scope = "source_records"
 source_ids = [668]
 
 [[entry]]
-key = "name_0426"
 japanese = "フェンリル"
 english = "Fenrir"
 scope = "source_records"
 source_ids = [669]
 
 [[entry]]
-key = "name_0427"
 japanese = "コーヴァス"
 english = "Corvus"
 scope = "source_records"
 source_ids = [670]
 
 [[entry]]
-key = "name_0428"
 japanese = "マジックゴーレム"
 english = "Magic Golem"
 scope = "source_records"
 source_ids = [671, 689]
 
 [[entry]]
-key = "name_0429"
 japanese = "ゴルゴン"
 english = "Gorgon"
 scope = "source_records"
 source_ids = [672]
 
 [[entry]]
-key = "name_0430"
 japanese = "フィーンド"
 english = "Fiend"
 scope = "source_records"
 source_ids = [673]
 
 [[entry]]
-key = "name_0431"
 japanese = "ムスカ"
 english = "Musca"
 scope = "source_records"
 source_ids = [674]
 
 [[entry]]
-key = "name_0432"
 japanese = "グリフォン"
 english = "Griffin"
 scope = "source_records"
 source_ids = [675]
 
 [[entry]]
-key = "name_0433"
 japanese = "グローギガース"
 english = "Glow Gigas"
 scope = "source_records"
 source_ids = [676]
 
 [[entry]]
-key = "name_0434"
 japanese = "テュポン"
 english = "Typhon"
 scope = "source_records"
 source_ids = [677]
 
 [[entry]]
-key = "name_0435"
 japanese = "デス"
 english = "Death"
 scope = "source_records"
 source_ids = [679, 1057, 20219]
 
 [[entry]]
-key = "name_0436"
 japanese = "リザードデヴィル"
 english = "Lizard Devil"
 scope = "source_records"
 source_ids = [680]
 
 [[entry]]
-key = "name_0437"
 japanese = "リッチ"
 english = "Lich"
 scope = "source_records"
 source_ids = [681]
 
 [[entry]]
-key = "name_0438"
 japanese = "フューパラライズ"
 english = "Fyuparalyze"
 scope = "source_records"
 source_ids = [682]
 
 [[entry]]
-key = "name_0439"
 japanese = "デュアル"
 english = "Dual"
 scope = "source_records"
 source_ids = [683]
 
 [[entry]]
-key = "name_0440"
 japanese = "シルバードラゴン"
 english = "Silver Dragon"
 scope = "source_records"
 source_ids = [684]
 
 [[entry]]
-key = "name_0441"
 japanese = "触手"
 english = "Tentacle"
 scope = "source_records"
 source_ids = [686]
 
 [[entry]]
-key = "name_0442"
 japanese = "改造ナメクジ"
 english = "Modified Slug"
 scope = "source_records"
 source_ids = [690]
 
 [[entry]]
-key = "name_0443"
 japanese = "竜の座兵士"
 english = "Dragon Throne Soldier"
 scope = "source_records"
 source_ids = [691]
 
 [[entry]]
-key = "name_0444"
 japanese = "ディンガル兵"
 english = "Dingal Soldier"
 scope = "source_records"
 source_ids = [692, 693, 694, 695, 696]
 
 [[entry]]
-key = "name_0445"
 japanese = "ソリアス神官"
 english = "Solias Priest"
 scope = "source_records"
 source_ids = [700, 701, 702, 703]
 
 [[entry]]
-key = "name_0446"
 japanese = "ロストール兵"
 english = "Rostorl Soldier"
 scope = "source_records"
 source_ids = [707, 708]
 
 [[entry]]
-key = "name_0447"
 japanese = "竜教神官"
 english = "Dragon-Faith Priest"
 scope = "source_records"
 source_ids = [709, 710]
 
 [[entry]]
-key = "name_0448"
 japanese = "槍傭兵"
 english = "Spear Mercenary"
 scope = "source_records"
 source_ids = [715, 716]
 
 [[entry]]
-key = "name_0449"
 japanese = "ゲリラ"
 english = "Guerrilla"
 scope = "source_records"
 source_ids = [717, 718]
 
 [[entry]]
-key = "name_0450"
 japanese = "神官"
 english = "Priest"
 scope = "source_records"
 source_ids = [725, 726]
 
 [[entry]]
-key = "name_0451"
 japanese = "巫女"
 english = "Priestess"
 scope = "source_records"
 source_ids = [727, 728]
 
 [[entry]]
-key = "name_0452"
 japanese = "砂漠の一族"
 english = "Desert Clan Member"
 scope = "source_records"
 source_ids = [729]
 
 [[entry]]
-key = "name_0453"
 japanese = "ザハクの右蛇"
 english = "Zahhak's Right Serpent"
 scope = "source_records"
 source_ids = [730]
 
 [[entry]]
-key = "name_0454"
 japanese = "母の影"
 english = "Mother's Shadow"
 scope = "source_records"
 source_ids = [743]
 
 [[entry]]
-key = "name_0455"
 japanese = "エリスの影"
 english = "Eris's Shadow"
 scope = "source_records"
 source_ids = [744]
 
 [[entry]]
-key = "name_0456"
 japanese = "邪眼の守護者"
 english = "Evil-Eye Guardian"
 scope = "source_records"
 source_ids = [751]
 
 [[entry]]
-key = "name_0457"
 japanese = "グリードミューカス"
 english = "Greed Mucus"
 scope = "source_records"
 source_ids = [771, 956]
 
 [[entry]]
-key = "name_0458"
 japanese = "古代の魔物"
 english = "Ancient Monster"
 scope = "source_records"
 source_ids = [772, 773, 774, 775, 776, 777, 778, 779, 780]
 
 [[entry]]
-key = "name_0459"
 japanese = "炎系モンスター"
 english = "Fire-Type Monster"
 scope = "source_records"
 source_ids = [781]
 
 [[entry]]
-key = "name_0460"
 japanese = "巨大ナメクジ"
 english = "Giant Slug"
 scope = "source_records"
 source_ids = [785, 925]
 
 [[entry]]
-key = "name_0461"
 japanese = "改造手下"
 english = "Modified Minion"
 scope = "source_records"
 source_ids = [788]
 
 [[entry]]
-key = "name_0462"
 japanese = "グフトク"
 english = "Guftok"
 scope = "source_records"
 source_ids = [790]
 
 [[entry]]
-key = "name_0463"
 japanese = "銀狼"
 english = "Silver Wolf"
 scope = "source_records"
 source_ids = [791]
 
 [[entry]]
-key = "name_0464"
 japanese = "改造人間"
 english = "Modified Human"
 scope = "source_records"
 source_ids = [793]
 
 [[entry]]
-key = "name_0465"
 japanese = "イシュベノブ"
 english = "Ishbi-Benob"
 scope = "source_records"
 source_ids = [811]
 
 [[entry]]
-key = "name_0466"
 japanese = "ザハクの左蛇"
 english = "Zahhak's Left Serpent"
 scope = "source_records"
 source_ids = [812]
 
 [[entry]]
-key = "name_0467"
 japanese = "メネ"
 english = "Mene"
 scope = "source_records"
 source_ids = [840]
 
 [[entry]]
-key = "name_0468"
 japanese = "テケル"
 english = "Tekel"
 scope = "source_records"
 source_ids = [844]
 
 [[entry]]
-key = "name_0469"
 japanese = "パルシン"
 english = "Parsin"
 scope = "source_records"
 source_ids = [849]
 
 [[entry]]
-key = "name_0470"
 japanese = "ベモラベラモ"
 english = "Bemora Beramo"
 scope = "source_records"
 source_ids = [850]
 
 [[entry]]
-key = "name_0471"
 japanese = "ミラク"
 english = "Mirak"
 scope = "source_records"
 source_ids = [853]
 
 [[entry]]
-key = "name_0472"
 japanese = "コーンス"
 english = "Corns"
 scope = "source_records"
 source_ids = [855]
 
 [[entry]]
-key = "name_0473"
 japanese = "山賊"
 english = "Bandit"
 scope = "source_records"
 source_ids = [859, 860, 861, 923]
 
 [[entry]]
-key = "name_0474"
 japanese = "盗賊"
 english = "Thief"
 scope = "source_records"
 source_ids = [900, 901, 902]
 
 [[entry]]
-key = "name_0475"
 japanese = "ゴロツキ"
 english = "Hoodlum"
 scope = "source_records"
 source_ids = [904, 926, 945]
 
 [[entry]]
-key = "name_0476"
 japanese = "ゴロツキ頭"
 english = "Hoodlum Leader"
 scope = "source_records"
 source_ids = [905, 927]
 
 [[entry]]
-key = "name_0477"
 japanese = "パルチザン"
 english = "Partisan"
 scope = "source_records"
 source_ids = [908]
 
 [[entry]]
-key = "name_0478"
 japanese = "アキュリュース兵"
 english = "Aqyurius Soldier"
 scope = "source_records"
 source_ids = [913, 914, 915]
 
 [[entry]]
-key = "name_0479"
 japanese = "アルノートゥン兵"
 english = "Alnortun Soldier"
 scope = "source_records"
 source_ids = [916, 917, 918]
 
 [[entry]]
-key = "name_0480"
 japanese = "イベント海賊"
 english = "Event Pirate"
 scope = "source_records"
 source_ids = [919]
 
 [[entry]]
-key = "name_0481"
 japanese = "山賊頭"
 english = "Bandit Leader"
 scope = "source_records"
 source_ids = [924]
 
 [[entry]]
-key = "name_0482"
 japanese = "コーンス兵"
 english = "Corns Soldier"
 scope = "source_records"
 source_ids = [951]
 
 [[entry]]
-key = "name_0483"
 japanese = "ゾフォルの改造人間"
 english = "Zofor's Modified Human"
 scope = "source_records"
 source_ids = [953]
 
 [[entry]]
-key = "name_0484"
 japanese = "解放軍兵士"
 english = "Liberation Army Soldier"
 scope = "source_records"
 source_ids = [955]
 
 [[entry]]
-key = "name_0486"
 japanese = "バロル"
 english = "Balor"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0487"
 japanese = "ブルーフレア"
 english = "Blue Flare"
 scope = "source_records"
 source_ids = [962]
 
 [[entry]]
-key = "name_0488"
 japanese = "グロウファイター"
 english = "Glow Fighter"
 scope = "source_records"
 source_ids = [963]
 
 [[entry]]
-key = "name_0489"
 japanese = "アークソード"
 english = "Arch Sword"
 scope = "source_records"
 source_ids = [964]
 
 [[entry]]
-key = "name_0490"
 japanese = "ルーンファイター"
 english = "Rune Fighter"
 scope = "source_records"
 source_ids = [965]
 
 [[entry]]
-key = "name_0491"
 japanese = "マイティブロウ"
 english = "Mighty Blow"
 scope = "source_records"
 source_ids = [966]
 
 [[entry]]
-key = "name_0492"
 japanese = "ロウフルブレード"
 english = "Lawful Blade"
 scope = "source_records"
 source_ids = [967]
 
 [[entry]]
-key = "name_0493"
 japanese = "ウォーロック"
 english = "Warlock"
 scope = "source_records"
 source_ids = [968]
 
 [[entry]]
-key = "name_0494"
 japanese = "ニルヴァーナ"
 english = "Nirvana"
 scope = "source_records"
 source_ids = [969]
 
 [[entry]]
-key = "name_0495"
 japanese = "アガスティア"
 english = "Agastya"
 scope = "source_records"
 source_ids = [970]
 
 [[entry]]
-key = "name_0496"
 japanese = "ボウガンナー"
 english = "Bowgunner"
 scope = "source_records"
 source_ids = [971]
 
 [[entry]]
-key = "name_0497"
 japanese = "アルバレスト"
 english = "Arbalest"
 scope = "source_records"
 source_ids = [972]
 
 [[entry]]
-key = "name_0498"
 japanese = "トリックスター"
 english = "Trickster"
 scope = "source_records"
 source_ids = [973]
 
 [[entry]]
-key = "name_0499"
 japanese = "グレモリイ"
 english = "Gremory"
 scope = "source_records"
 source_ids = [974]
 
 [[entry]]
-key = "name_0500"
 japanese = "ルナシャドウ"
 english = "Lunar Shadow"
 scope = "source_records"
 source_ids = [975]
 
 [[entry]]
-key = "name_0501"
 japanese = "クレリック"
 english = "Cleric"
 scope = "source_records"
 source_ids = [976]
 
 [[entry]]
-key = "name_0502"
 japanese = "パトリアーク"
 english = "Patriarch"
 scope = "source_records"
 source_ids = [977]
 
 [[entry]]
-key = "name_0503"
 japanese = "ネガヴァニティア"
 english = "Negavanitia"
 scope = "source_records"
 source_ids = [978]
 
 [[entry]]
-key = "name_0504"
 japanese = "クロムハート"
 english = "Chrome Heart"
 scope = "source_records"
 source_ids = [979]
 
 [[entry]]
-key = "name_0505"
 japanese = "アムドゥシアス"
 english = "Amdusias"
 scope = "source_records"
 source_ids = [980]
 
 [[entry]]
-key = "name_0506"
 japanese = "ファニーフェイス"
 english = "Funny Face"
 scope = "source_records"
 source_ids = [981]
 
 [[entry]]
-key = "name_0507"
 japanese = "グレイテイルス"
 english = "Gray Tails"
 scope = "source_records"
 source_ids = [982]
 
 [[entry]]
-key = "name_0508"
 japanese = "ホワイトファング"
 english = "White Fang"
 scope = "source_records"
 source_ids = [983]
 
 [[entry]]
-key = "name_0509"
 japanese = "ブラックバイパー"
 english = "Black Viper"
 scope = "source_records"
 source_ids = [984]
 
 [[entry]]
-key = "name_0510"
 japanese = "シャイニングレオ"
 english = "Shining Leo"
 scope = "source_records"
 source_ids = [985]
 
 [[entry]]
-key = "name_0511"
 japanese = "イグザクス"
 english = "Igzax"
 scope = "source_records"
 source_ids = [986]
 
 [[entry]]
-key = "name_0512"
 japanese = "ライギロア"
 english = "Raigiroa"
 scope = "source_records"
 source_ids = [987]
 
 [[entry]]
-key = "name_0513"
 japanese = "マノン"
 english = "Manon"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0514"
 japanese = "ノクサ"
 english = "Noxa"
 scope = "source_records"
 source_ids = [989]
 
 [[entry]]
-key = "name_0515"
 japanese = "アリアロ"
 english = "Ariaro"
 scope = "source_records"
 source_ids = [990]
 
 [[entry]]
-key = "name_0516"
 japanese = "ストラ"
 english = "Stra"
 scope = "source_records"
 source_ids = [991]
 
 [[entry]]
-key = "name_0517"
 japanese = "インフィニティア"
 english = "Infinitia"
 scope = "source_records"
 source_ids = [992]
 
 [[entry]]
-key = "name_0518"
 japanese = "ロストール"
 english = "Rostorl"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0519"
 japanese = "リベルダム"
 english = "Liberdam"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0520"
 japanese = "エンシャント"
 english = "Ancient"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0521"
 japanese = "ロセン"
 english = "Rocen"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0522"
 japanese = "アルノートゥン"
 english = "Alnortun"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0523"
 japanese = "猫屋敷"
 english = "Cat Manor"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0524"
 japanese = "竜骨の砂漠"
 english = "Dragonbone Desert"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0525"
 japanese = "ゼグナ鉱山"
 english = "Zegna Mine"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0526"
 japanese = "フゴー商会"
 english = "Hugo Trading Company"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0527"
 japanese = "テラネ"
 english = "Terane"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0528"
 japanese = "鍛冶屋ギルド"
 english = "Blacksmiths' Guild"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0529"
 japanese = "カルラ軍"
 english = "Karula's Army"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0530"
 japanese = "賢者の森"
 english = "Sage's Forest"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0531"
 japanese = "魔道の塔"
 english = "Arcane Tower"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0532"
 japanese = "吟遊詩人ギルド"
 english = "Bards' Guild"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0533"
 japanese = "シェーヌの森"
 english = "Chene Forest"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0534"
 japanese = "エルズ"
 english = "Elz"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0535"
 japanese = "道具屋ギルド"
 english = "Item Merchants' Guild"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0536"
 japanese = "市民ギルド"
 english = "Citizens' Guild"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0537"
 japanese = "城塞都市跡"
 english = "Fortress City Ruins"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0538"
 japanese = "ドワーフ王国"
 english = "Dwarf Kingdom"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0539"
 japanese = "ディンガル政庁"
 english = "Dingal Government Office"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0540"
 japanese = "ノトゥーン神殿"
 english = "Notun Temple"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0541"
 japanese = "ジラーク軍"
 english = "Zsilak's Army"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0542"
 japanese = "ガラーナ・イガヴィル"
 english = "Garana Igavir"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0543"
 japanese = "アンティノ研究所"
 english = "Antino Laboratory"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0544"
 japanese = "ラドラス地下洞窟"
 english = "Ladras Underground Cavern"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0545"
 japanese = "ラドラス都市通路"
 english = "Ladras City Passage"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0546"
 japanese = "解放軍ロセン支部"
 english = "Rocen Branch of the Liberation Army"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0547"
 japanese = "アンギルダン軍"
 english = "Angeerdan's Army"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0548"
 japanese = "バルザーの迷宮"
 english = "Baltzer's Labyrinth"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0549"
 japanese = "ルンホルスの森"
 english = "Runhols Forest"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0550"
 japanese = "ツィーネの森"
 english = "Tsine Forest"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0551"
 japanese = "ミューンの森"
 english = "Myun Forest"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0552"
 japanese = "ロセン地下道"
 english = "Rocen Underground Passage"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0553"
 japanese = "聖光石の廃鉱"
 english = "Old Sacred Lightstone Mine"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0554"
 japanese = "ゼネテス軍"
 english = "Xenetes' Army"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0555"
 japanese = "ノヴィン軍"
 english = "Novin's Army"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0556"
 japanese = "ラミリー山"
 english = "Mount Ramiri"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0557"
 japanese = "アミラル"
 english = "Amiral"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0558"
 japanese = "キオーネ"
 english = "Kione"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0559"
 japanese = "アダフ"
 english = "Adaf"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0560"
 japanese = "ガサス"
 english = "Gasas"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0561"
 japanese = "サラド"
 english = "Sarado"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0562"
 japanese = "ナオス"
 english = "Naos"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0563"
 japanese = "鳳凰山"
 english = "Phoenix Mountain"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0564"
 japanese = "海洋ギルド"
 english = "Maritime Guild"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0565"
 japanese = "グルス"
 english = "Grus"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0566"
 japanese = "リューンの森"
 english = "Ryune Forest"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0567"
 japanese = "アハブ"
 english = "Ahab"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0568"
 japanese = "炎竜山"
 english = "Flame Dragon Mountain"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0569"
 japanese = "クロン"
 english = "Kuron"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0570"
 japanese = "ワッシャー砦"
 english = "Washer Fort"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0571"
 japanese = "火山岩地帯"
 english = "Volcanic Rock Zone"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0572"
 japanese = "しぶきの群島"
 english = "Spray Archipelago"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0573"
 japanese = "罪深き者の迷宮"
 english = "Labyrinth of Sinners"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0574"
 japanese = "霊峰トール"
 english = "Sacred Mount Thor"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0575"
 japanese = "幻惑の洞窟"
 english = "Bewildering Cave"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0576"
 japanese = "紺碧の洞窟"
 english = "Azure Cave"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0577"
 japanese = "シルヴァ村"
 english = "Silva Village"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0578"
 japanese = "荒れ果てた迷宮"
 english = "Desolate Labyrinth"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0579"
 japanese = "はざまの塔"
 english = "Tower of the Interstice"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0580"
 japanese = "オズワルド"
 english = "Oswald"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0581"
 japanese = "シャリの異次元"
 english = "Shalli's Other Dimension"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0582"
 japanese = "北の地下街道"
 english = "Northern Underground Road"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0583"
 japanese = "南の地下街道"
 english = "Southern Underground Road"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0584"
 japanese = "古の樹海"
 english = "Ancient Forest"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0585"
 japanese = "古城"
 english = "Old Castle"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0586"
 japanese = "告死天使アジト"
 english = "Death-Heralding Angels' Hideout"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0587"
 japanese = "西の地下街道"
 english = "Western Underground Road"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0588"
 japanese = "夢幻の湖"
 english = "Lake of Illusions"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0589"
 japanese = "山賊の砦"
 english = "Bandit Fortress"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0590"
 japanese = "盗人虎の穴"
 english = "Thieves' Den"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0591"
 japanese = "銀竜の住処"
 english = "Silver Dragon's Lair"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0592"
 japanese = "埋蔵金の洞窟"
 english = "Buried Treasure Cave"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0593"
 japanese = "未開の森"
 english = "Uncharted Forest"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0594"
 japanese = "王宮地下通路"
 english = "Royal Palace Underground Passage"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0595"
 japanese = "盗人村"
 english = "Thieves' Village"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0596"
 japanese = "静寂の洞窟"
 english = "Cave of Silence"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0597"
 japanese = "新月の塔"
 english = "New Moon Tower"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0598"
 japanese = "邪竜の断層"
 english = "Evil Dragon Rift"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0599"
 japanese = "風の祭壇への道"
 english = "Road to the Wind Altar"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0600"
 japanese = "灼熱の大洞窟"
 english = "Great Scorching Cavern"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0601"
 japanese = "砂虫の残骸"
 english = "Sandworm Remains"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0602"
 japanese = "邪眼の迷宮"
 english = "Evil Eye Labyrinth"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0603"
 japanese = "竜王の島"
 english = "Dragon King's Island"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0604"
 japanese = "虹色の山脈"
 english = "Rainbow Mountains"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0605"
 japanese = "試練の迷宮"
 english = "Labyrinth of Trials"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0606"
 japanese = "武器商人ギルド"
 english = "Weapons Merchants' Guild"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0607"
 japanese = "飢えた者の迷宮"
 english = "Labyrinth of the Hungry"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0608"
 japanese = "水の神殿"
 english = "Water Temple"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0609"
 japanese = "水の神殿地下"
 english = "Water Temple Basement"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0610"
 japanese = "神殿への道"
 english = "Road to the Temple"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0611"
 japanese = "風の神殿"
 english = "Wind Temple"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0612"
 japanese = "北の谷間"
 english = "North Valley"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0613"
 japanese = "南の谷間"
 english = "South Valley"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0614"
 japanese = "偽りの森"
 english = "Forest of Deceit"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0615"
 japanese = "最後の迷宮"
 english = "Final Labyrinth"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0616"
 japanese = "求めし者の荒野"
 english = "Seekers' Wilderness"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0617"
 japanese = "風の荒野"
 english = "Wind Wasteland"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0618"
 japanese = "ノーブルの森"
 english = "Noble Forest"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0619"
 japanese = "ミイスの村"
 english = "Miis Village"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0620"
 japanese = "乙女の鏡"
 english = "Maiden's Mirror"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0621"
 japanese = "地下墓地"
 english = "Underground Cemetery"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0622"
 japanese = "廃城"
 english = "Ruined Castle"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0623"
 japanese = "彫刻画の道"
 english = "Road of Reliefs"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0624"
 japanese = "死竜の洞窟"
 english = "Dead Dragon Cave"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0625"
 japanese = "解放軍本部"
 english = "Liberation Army Headquarters"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0626"
 japanese = "闇の門の島"
 english = "Island of the Dark Gate"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0627"
 japanese = "風泣きの洞窟"
 english = "Wind-Wailing Cave"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0628"
 japanese = "空中都市ラドラス"
 english = "Floating City Ladras"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0629"
 japanese = "ラドラス"
 english = "Ladras"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0630"
 japanese = "コーンスの反乱"
 english = "Corns Rebellion"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0631"
 japanese = "ユシュアル"
 english = "Yushual"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0632"
 japanese = "ユリアシュ"
 english = "Yuriash"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0633"
 japanese = "リディオン"
 english = "Lidion"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0634"
 japanese = "ルフレン"
 english = "Lufren"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0635"
 japanese = "レンシー"
 english = "Rensy"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0636"
 japanese = "ロベルト"
 english = "Roberto"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0637"
 japanese = "ノーブル"
 english = "Noble"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0638"
 japanese = "酒場ギルド"
 english = "Tavern Guild"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0639"
 japanese = "ライギロアアジト"
 english = "Raigiroa Hideout"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0640"
 japanese = "リベルダム自治連"
 english = "Liberdam Civic League"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0641"
 japanese = "天経院"
 english = "Tenkeiin"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0642"
 japanese = "ノトゥーン"
 english = "Notun"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0643"
 japanese = "戦神ソリアス"
 english = "War God Solias"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0644"
 japanese = "邪竜イシュバアル"
 english = "Evil Dragon Ishbaal"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0645"
 japanese = "巨人フルーヴ"
 english = "Giant Fleuve"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0646"
 japanese = "ティアナの部屋"
 english = "Tiana's Room"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0647"
 japanese = "ズゥ"
 english = "Zuu"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0648"
 japanese = "至聖神"
 english = "Most Holy God"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0649"
 japanese = "ロストール王国"
 english = "Kingdom of Rostorl"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0650"
 japanese = "分断の山脈"
 english = "Dividing Mountains"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0651"
 japanese = "きれぐもの巣"
 english = "Kiregumo Nest"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0652"
 japanese = "アキュリュースの商人"
 english = "Aqyurius Merchant"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0653"
 japanese = "アンギルダンの手紙"
 english = "Angeerdan's Letter"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0654"
 japanese = "イズ"
 english = "Iz"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0655"
 japanese = "エステルの首飾り"
 english = "Esther's Necklace"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0656"
 japanese = "エルファス神"
 english = "God Elfas"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0657"
 japanese = "エンシャント城内"
 english = "Ancient Castle Interior"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0658"
 japanese = "オッシの酒代"
 english = "Ossi's Bar Tab"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0659"
 japanese = "オッポスの岩"
 english = "Oppos Rock"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0660"
 japanese = "コカゲキノコ"
 english = "Shade Mushroom"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0661"
 japanese = "サマシごけ"
 english = "Samashi Moss"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0662"
 japanese = "ザギヴ襲撃地点"
 english = "Zagiv Attack Site"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0663"
 japanese = "シオン"
 english = "Shion"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0664"
 japanese = "シルヴァ"
 english = "Silva"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0665"
 japanese = "ジャック"
 english = "Jack"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0666"
 japanese = "ジンガハンマー"
 english = "Jinga Hammer"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0667"
 japanese = "スラム"
 english = "Slums"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0668"
 japanese = "ゼネテスの遺書"
 english = "Xenetes' Last Will"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0669"
 japanese = "ソルベンジュ"
 english = "Solvenge"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0670"
 japanese = "トト"
 english = "Toto"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0671"
 japanese = "ニール"
 english = "Neil"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0672"
 japanese = "ノトゥーン神官"
 english = "Notun Priest"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0673"
 japanese = "ハンナの人形"
 english = "Hannah's Doll"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0674"
 japanese = "ヒャンデ砂鉄"
 english = "Hyande Iron Sand"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0675"
 japanese = "ブロークラスト"
 english = "Blowcrust"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0676"
 japanese = "ミーア"
 english = "Mia"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0677"
 japanese = "ヤンバイ草"
 english = "Yanbai Herb"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0678"
 japanese = "レルラ"
 english = "Relra"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0679"
 japanese = "ロクシャの墨"
 english = "Roksha Ink"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0680"
 japanese = "ロストール王家"
 english = "Rostorl Royal House"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0681"
 japanese = "ヴァイ"
 english = "Vai"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0682"
 japanese = "七色の砂"
 english = "Seven-Colored Sand"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0683"
 japanese = "亀の甲羅"
 english = "Turtle Shell"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0684"
 japanese = "人魚のイヤリング"
 english = "Mermaid Earrings"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0685"
 japanese = "体力の首飾り"
 english = "Vitality Necklace"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0686"
 japanese = "初めて打った剣"
 english = "First-Forged Sword"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0687"
 japanese = "千年石"
 english = "Millennium Stone"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0688"
 japanese = "午睡の羽"
 english = "Siesta Feather"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0689"
 japanese = "受付嬢"
 english = "Receptionist"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0690"
 japanese = "各地の特産品"
 english = "Regional Specialties"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0691"
 japanese = "吟遊リルビー"
 english = "Rilby Minstrel"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0692"
 japanese = "呪われし杖"
 english = "Cursed Staff"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0693"
 japanese = "善意の薬草"
 english = "Goodwill Herb"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0694"
 japanese = "土精の結晶"
 english = "Earth Spirit Crystal"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0695"
 japanese = "地下の案内人"
 english = "Underground Guide"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0696"
 japanese = "夢魔の羽"
 english = "Dream Demon Feather"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0697"
 japanese = "大魔道士"
 english = "Archmage"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0698"
 japanese = "妖精の粉"
 english = "Fairy Dust"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0699"
 japanese = "宿泊客"
 english = "Guest"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0700"
 japanese = "密書"
 english = "Secret Letter"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0701"
 japanese = "巡礼船長"
 english = "Pilgrim Captain"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0702"
 japanese = "復活の真珠"
 english = "Pearl of Revival"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0703"
 japanese = "心の水"
 english = "Water of Mind"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0704"
 japanese = "恵みの陽光"
 english = "Blessing Sunlight"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0705"
 japanese = "恵みの風"
 english = "Blessing Wind"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0706"
 japanese = "指令書"
 english = "Orders"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0707"
 japanese = "探検家"
 english = "Explorer"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0708"
 japanese = "日光"
 english = "Sunlight"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0709"
 japanese = "暗闇の滴"
 english = "Drop of Darkness"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0710"
 japanese = "案内状"
 english = "Invitation"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0711"
 japanese = "アキュリュースの船着き場"
 english = "Aqyurius Wharf"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0712"
 japanese = "アンギルダンの山越え"
 english = "Angeerdan's Mountain Crossing"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0713"
 japanese = "エンシャントの冒険者ギルド"
 english = "Ancient Adventurers' Guild"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0714"
 japanese = "エンシャントの政庁"
 english = "Ancient Government Hall"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0715"
 japanese = "カルラ進軍"
 english = "Karula's Advance"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0716"
 japanese = "クロイス"
 english = "Krois"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0717"
 japanese = "ジラークのアルノートゥン攻め"
 english = "Zsilak's Alnortun Campaign"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0718"
 japanese = "バイアシオン"
 english = "Baiashion"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0719"
 japanese = "バイアシオン大陸"
 english = "Baiashion Continent"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0720"
 japanese = "ボゲー"
 english = "Bogee"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0721"
 japanese = "ライラネート"
 english = "Lailanate"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0722"
 japanese = "リベルダム陥落"
 english = "Fall of Liberdam"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0723"
 japanese = "リューガの変"
 english = "Ryuga Incident"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0724"
 japanese = "ロストール攻略"
 english = "Rostorl Campaign"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0725"
 japanese = "ロセン王国"
 english = "Kingdom of Rocen"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0726"
 japanese = "ロセン王国陥落"
 english = "Fall of the Kingdom of Rocen"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0727"
 japanese = "ロティの屋敷"
 english = "Lottie's Mansion"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0728"
 japanese = "水晶が導く場所"
 english = "Place Revealed by the Crystal"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0729"
 japanese = "深海魚の目玉"
 english = "Deep-Sea Fish Eye"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0730"
 japanese = "火草の種"
 english = "Firegrass Seed"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0731"
 japanese = "炎竜岩"
 english = "Flame Dragon Rock"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0732"
 japanese = "特大愛妻弁当"
 english = "Extra-Large Wife-Made Bento"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0733"
 japanese = "生命のかけら"
 english = "Life Fragment"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0734"
 japanese = "異次元"
 english = "Other Dimension"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0735"
 japanese = "疾風の魔弓"
 english = "Magic Bow of the Gale"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0736"
 japanese = "知恵の首飾り"
 english = "Wisdom Necklace"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0737"
 japanese = "空の弁当箱"
 english = "Empty Lunch Box"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0738"
 japanese = "緋炎の宝剣"
 english = "Crimson Flame Sword"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0739"
 japanese = "緑の宝石"
 english = "Green Gem"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0740"
 japanese = "聖光石のかけら"
 english = "Sacred Lightstone Shard"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0741"
 japanese = "脱力の腕輪"
 english = "Bracelet of Weakness"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0742"
 japanese = "蒼流の聖槍"
 english = "Sacred Spear of the Azure Torrent"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0743"
 japanese = "蒼風花"
 english = "Azure Windflower"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0744"
 japanese = "薬草"
 english = "Medicinal Herb"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0745"
 japanese = "謎の冒険者"
 english = "Mysterious Adventurer"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0746"
 japanese = "贈り物"
 english = "Gift"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0747"
 japanese = "閃光の弓"
 english = "Flash Bow"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0748"
 japanese = "闇中花"
 english = "Darkbloom"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0749"
 japanese = "闘士の心得"
 english = "Fighter's Handbook"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0750"
 japanese = "風旅鳥の羽"
 english = "Windfarer Feather"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0751"
 japanese = "風桜の実"
 english = "Windcherry Fruit"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0752"
 japanese = "風気岩"
 english = "Windstone"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0753"
 japanese = "風精の結晶"
 english = "Wind Spirit Crystal"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0754"
 japanese = "魔物の骨"
 english = "Monster Bone"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0755"
 japanese = "？？？？"
 english = "????"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0756"
 japanese = "ウェイトレス"
 english = "Waitress"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0757"
 japanese = "エメルの弓"
 english = "Emel's Bow"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0758"
 japanese = "キッカネの香草"
 english = "Kikkane Herb"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0759"
 japanese = "コリティオファンのじじい"
 english = "Old Man from Koritiofan"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0760"
 japanese = "コロル石"
 english = "Korol Stone"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0761"
 japanese = "ストラスエッジ"
 english = "Stra's Edge"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0762"
 japanese = "セヅネの根"
 english = "Sezune Root"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0763"
 japanese = "タレモルゲの汽水"
 english = "Taremorge Brackish Water"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0764"
 japanese = "トヅカネの枝"
 english = "Tozukane Branch"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0765"
 japanese = "ナジラネの果実"
 english = "Najirane Fruit"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0766"
 japanese = "ノロガメ"
 english = "Norogame"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0767"
 japanese = "ハッケエの滴"
 english = "Hakkee Droplet"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0768"
 japanese = "ハヤスの葉"
 english = "Hayasu Leaf"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0769"
 japanese = "ヒャンデ鉱"
 english = "Hyande Ore"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0770"
 japanese = "ベテラン冒険者"
 english = "Veteran Adventurer"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0771"
 japanese = "ベテラン船員"
 english = "Veteran Sailor"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0772"
 japanese = "ラスラルの花"
 english = "Lasral Flower"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0773"
 japanese = "レーグファンの青年"
 english = "Young Reig Fan"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0774"
 japanese = "傲慢の首飾り"
 english = "Necklace of Pride"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0775"
 japanese = "先輩冒険者"
 english = "Senior Adventurer"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0776"
 japanese = "冒険ドワーフ"
 english = "Adventuring Dwarf"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0777"
 japanese = "剛刃"
 english = "Mighty Blade"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0778"
 japanese = "南方攻略軍"
 english = "Southern Campaign Army"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0779"
 japanese = "天動地鳴"
 english = "Heaven Moves, Earth Roars"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0780"
 japanese = "憤怒の鎚"
 english = "Hammer of Wrath"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0781"
 japanese = "旅のエルフ"
 english = "Traveling Elf"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0782"
 japanese = "格闘ボルダン"
 english = "Fighter Bordan"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0783"
 japanese = "格闘技好きのおじさん"
 english = "Martial Arts Enthusiast"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0785"
 japanese = "浄化の月杖"
 english = "Moon Staff of Purification"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0786"
 japanese = "港のボルダン"
 english = "Harbor Bordan"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0787"
 japanese = "焦燥の耳飾り"
 english = "Earring of Impatience"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0788"
 japanese = "破滅の槍"
 english = "Spear of Ruin"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0789"
 japanese = "禁呪を求める魔道士"
 english = "Mage Seeking Forbidden Magic"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0790"
 japanese = "船番ボルダン"
 english = "Boatkeeper Bordan"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0791"
 japanese = "警備兵"
 english = "Guard"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0792"
 japanese = "貪欲の盾"
 english = "Shield of Greed"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0793"
 japanese = "近くの村"
 english = "Nearby Village"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0794"
 japanese = "酒場の客"
 english = "Tavern Patron"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0795"
 japanese = "酒飲みドワーフ"
 english = "Hard-Drinking Dwarf"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0796"
 japanese = "銀竜の首飾り"
 english = "Silver Dragon Necklace"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0797"
 japanese = "閃刃"
 english = "Flash Blade"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0798"
 japanese = "魔法に詳しい冒険者"
 english = "Magic-Savvy Adventurer"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0799"
 japanese = "黄泉の乙女像"
 english = "Statue of the Underworld Maiden"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0800"
 japanese = "アルレシア"
 english = "Alresia"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0801"
 japanese = "アンティノ商会"
 english = "Antino Trading Company"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0802"
 japanese = "エステルの水晶"
 english = "Esther's Crystal"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0803"
 japanese = "エスリン"
 english = "Ethlinn"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0804"
 japanese = "エリエナイ"
 english = "Elienai"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0805"
 japanese = "エルメス"
 english = "Hermes"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0806"
 japanese = "テジャワ"
 english = "Tejava"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0807"
 japanese = "ディンガル"
 english = "Dingal"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0808"
 japanese = "ディンガル帝国"
 english = "Dingal Empire"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0809"
 japanese = "ディンガル軍"
 english = "Dingal Army"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0810"
 japanese = "パルシェン"
 english = "Parshen"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0811"
 japanese = "ファーロス"
 english = "Pharos"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0812"
 japanese = "ボルキス"
 english = "Borkis"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0813"
 japanese = "マモン"
 english = "Mammon"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0814"
 japanese = "ミイス"
 english = "Miis"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0815"
 japanese = "リューガ"
 english = "Ryuga"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0816"
 japanese = "ルフェイ"
 english = "Lufei"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0817"
 japanese = "レルラのハープ"
 english = "Relra's Harp"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0818"
 japanese = "ロセン総督府"
 english = "Rocen Governor-General's Office"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0819"
 japanese = "ロッチナ"
 english = "Rotchina"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0820"
 japanese = "ロントン"
 english = "Lonton"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0821"
 japanese = "ワッシャー海賊"
 english = "Washer Pirates"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0822"
 japanese = "ヴィア"
 english = "Via"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0823"
 japanese = "巫女ウル"
 english = "Priestess Uru"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0824"
 japanese = "空中庭園"
 english = "Hanging Gardens"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0825"
 japanese = "自由都市リベルダム"
 english = "Free City Liberdam"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0826"
 japanese = "賢王アルキュオネ"
 english = "Wise King Alcyone"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0827"
 japanese = "青竜軍"
 english = "Azure Dragon Army"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0828"
 japanese = "魔道王国ラドラス"
 english = "Magic Kingdom Ladras"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0829"
 japanese = "アクア"
 english = "Aqua"
 scope = "source_records"
 source_ids = [997, 20125]
 
 [[entry]]
-key = "name_0830"
 japanese = "アタックスキル"
 english = "Attack Skill"
 scope = "source_records"
 source_ids = [20118]
 
 [[entry]]
-key = "name_0831"
 japanese = "アルキュオネ"
 english = "Alcyone"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0832"
 japanese = "インフィニット"
 english = "Infinite"
 scope = "source_records"
 source_ids = [1121, 20391]
 
 [[entry]]
-key = "name_0833"
 japanese = "エナジーボルト"
 english = "Energy Bolt"
 scope = "source_records"
 source_ids = [1039, 20320]
 
 [[entry]]
-key = "name_0834"
 japanese = "エリスの宝石たち"
 english = "Eris's Jewels"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0835"
 japanese = "オーラパーム"
 english = "Aura Palm"
 scope = "source_records"
 source_ids = [1085, 20361]
 
 [[entry]]
-key = "name_0836"
 japanese = "オールアタック"
 english = "All Attack"
 scope = "source_records"
 source_ids = [1090, 20385]
 
 [[entry]]
-key = "name_0837"
 japanese = "カース"
 english = "Curse"
 scope = "source_records"
 source_ids = [1058, 20137]
 
 [[entry]]
-key = "name_0838"
 japanese = "キュア"
 english = "Cure"
 scope = "source_records"
 source_ids = [1040, 20148, 1960470]
 
 [[entry]]
-key = "name_0839"
 japanese = "クイックアーツ"
 english = "Quick Arts"
 scope = "source_records"
 source_ids = [1127]
 
 [[entry]]
-key = "name_0840"
 japanese = "クリスピー"
 english = "Crispy"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0841"
 japanese = "ゲイル"
 english = "Gale"
 scope = "source_records"
 source_ids = [1003, 20161]
 
 [[entry]]
-key = "name_0842"
 japanese = "コマンドスキル"
 english = "Command Skill"
 scope = "source_records"
 source_ids = [20120]
 
 [[entry]]
-key = "name_0843"
 japanese = "サイクロン"
 english = "Cyclone"
 scope = "source_records"
 source_ids = [1029, 20318]
 
 [[entry]]
-key = "name_0844"
 japanese = "サイレント"
 english = "Silent"
 scope = "source_records"
 source_ids = [1004, 20170, 1960440]
 
 [[entry]]
-key = "name_0845"
 japanese = "サポートスキル"
 english = "Support Skill"
 scope = "source_records"
 source_ids = [20119]
 
 [[entry]]
-key = "name_0846"
 japanese = "サンダーボルト"
 english = "Thunderbolt"
 scope = "source_records"
 source_ids = [1035, 20173]
 
 [[entry]]
-key = "name_0847"
 japanese = "シャドウオーラ"
 english = "Shadow Aura"
 scope = "source_records"
 source_ids = [1086, 20338]
 
 [[entry]]
-key = "name_0848"
 japanese = "シャドウノック"
 english = "Shadow Knock"
 scope = "source_records"
 source_ids = [1083, 20388]
 
 [[entry]]
-key = "name_0849"
 japanese = "ジェド"
 english = "Jed"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0850"
 japanese = "スキップ"
 english = "Skip"
 scope = "source_records"
 source_ids = [1028, 20189]
 
 [[entry]]
-key = "name_0851"
 japanese = "ストーム"
 english = "Storm"
 scope = "source_records"
 source_ids = [1027, 20192]
 
 [[entry]]
-key = "name_0852"
 japanese = "ストーン"
 english = "Stone"
 scope = "source_records"
 source_ids = [1000, 20193]
 
 [[entry]]
-key = "name_0853"
 japanese = "ソニックブロウ"
 english = "Sonic Blow"
 scope = "source_records"
 source_ids = [1081, 20389]
 
 [[entry]]
-key = "name_0854"
 japanese = "タナトスエッジ"
 english = "Thanatos Edge"
 scope = "source_records"
 source_ids = [1084, 20383]
 
 [[entry]]
-key = "name_0855"
 japanese = "ダスト"
 english = "Dust"
 scope = "source_records"
 source_ids = [1001, 20207, 1960441]
 
 [[entry]]
-key = "name_0856"
 japanese = "ダーク"
 english = "Dark"
 scope = "source_records"
 source_ids = [1055, 20202]
 
 [[entry]]
-key = "name_0857"
 japanese = "チャージ"
 english = "Charge"
 scope = "source_records"
 source_ids = [20109]
 
 [[entry]]
-key = "name_0858"
 japanese = "チャージスキル"
 english = "Charge Skill"
 scope = "source_records"
 source_ids = [20117]
 
 [[entry]]
-key = "name_0859"
 japanese = "テレポート"
 english = "Teleport"
 scope = "source_records"
 source_ids = [1002, 1960445]
 
 [[entry]]
-key = "name_0860"
 japanese = "ディーヴァ"
 english = "Diva"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0861"
 japanese = "デスサイズ"
 english = "Death Scythe"
 scope = "source_records"
 source_ids = [1356, 20346]
 
 [[entry]]
-key = "name_0862"
 japanese = "デルージョン"
 english = "Delusion"
 scope = "source_records"
 source_ids = [1047, 20221, 1960443]
 
 [[entry]]
-key = "name_0863"
 japanese = "トール"
 english = "Thor"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0864"
 japanese = "ネメア・ランガスター"
 english = "Nemea Lancaster"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0865"
 japanese = "ノエルパーティー"
 english = "Noel Party"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0866"
 japanese = "ハイバースト"
 english = "High Burst"
 scope = "source_records"
 source_ids = [1075, 20392]
 
 [[entry]]
-key = "name_0867"
 japanese = "バイアス"
 english = "Bias"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0868"
 japanese = "パーシィ"
 english = "Percy"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0869"
 japanese = "ヒーラースペル"
 english = "Healer Spell"
 scope = "source_records"
 source_ids = [1068]
 
 [[entry]]
-key = "name_0870"
 japanese = "ファイア"
 english = "Fire"
 scope = "source_records"
 source_ids = [994, 20258]
 
 [[entry]]
-key = "name_0871"
 japanese = "ファイアボール"
 english = "Fireball"
 scope = "source_records"
 source_ids = [1031, 20260]
 
 [[entry]]
-key = "name_0872"
 japanese = "ファナティック"
 english = "Fanatic"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0873"
 japanese = "ファーロス家"
 english = "House Pharos"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0874"
 japanese = "フリジッド"
 english = "Frigid"
 scope = "source_records"
 source_ids = [1017, 20315]
 
 [[entry]]
-key = "name_0875"
 japanese = "フリーズ"
 english = "Freeze"
 scope = "source_records"
 source_ids = [1015, 20264]
 
 [[entry]]
-key = "name_0876"
 japanese = "フレイム"
 english = "Flame"
 scope = "source_records"
 source_ids = [1056, 20266]
 
 [[entry]]
-key = "name_0877"
 japanese = "ブレイズ"
 english = "Blaze"
 scope = "source_records"
 source_ids = [1009, 20265]
 
 [[entry]]
-key = "name_0878"
 japanese = "ペトリファイ"
 english = "Petrify"
 scope = "source_records"
 source_ids = [1022, 20269]
 
 [[entry]]
-key = "name_0879"
 japanese = "ホーリー"
 english = "Holy"
 scope = "source_records"
 source_ids = [1051, 20308]
 
 [[entry]]
-key = "name_0880"
 japanese = "ポイズン"
 english = "Poison"
 scope = "source_records"
 source_ids = [998, 20270, 1960439]
 
 [[entry]]
-key = "name_0881"
 japanese = "マインドスペル"
 english = "Mind Spell"
 scope = "source_records"
 source_ids = [1069]
 
 [[entry]]
-key = "name_0882"
 japanese = "メテオフィスト"
 english = "Meteor Fist"
 scope = "source_records"
 source_ids = [1116, 1375]
 
 [[entry]]
-key = "name_0883"
 japanese = "ライトニング"
 english = "Lightning"
 scope = "source_records"
 source_ids = [1034, 20288]
 
 [[entry]]
-key = "name_0884"
 japanese = "ラハブ"
 english = "Rahab"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0885"
 japanese = "ラルフ"
 english = "Ralph"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0886"
 japanese = "ランガスター"
 english = "Lancaster"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0887"
 japanese = "七竜家"
 english = "Seven Dragon Houses"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0888"
 japanese = "両手剣"
 english = "Two-Handed Sword"
 scope = "source_records"
 source_ids = [200130]
 
 [[entry]]
-key = "name_0889"
 japanese = "呪い"
 english = "Curse"
 scope = "source_records"
 source_ids = [20245]
 
 [[entry]]
-key = "name_0890"
 japanese = "帝都エンシャント"
 english = "Ancient, the Imperial Capital"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0891"
 japanese = "月世界"
 english = "Moon World"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0892"
 japanese = "月光"
 english = "Moonlight"
 scope = "source_records"
 source_ids = [1352, 20185]
 
 [[entry]]
-key = "name_0893"
 japanese = "東方攻略軍"
 english = "Eastern Campaign Army"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0894"
 japanese = "東方諸国"
 english = "Eastern Nations"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0895"
 japanese = "東方６カ国"
 english = "Six Eastern Nations"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0896"
 japanese = "毒"
 english = "Poison"
 scope = "source_records"
 source_ids = [1559]
 
 [[entry]]
-key = "name_0897"
 japanese = "水"
 english = "Water"
 scope = "source_records"
 source_ids = [1548, 170262]
 
 [[entry]]
-key = "name_0898"
 japanese = "火"
 english = "Fire"
 scope = "source_records"
 source_ids = [1547, 1560, 170261]
 
 [[entry]]
-key = "name_0899"
 japanese = "片手剣"
 english = "One-Handed Sword"
 scope = "source_records"
 source_ids = [200129]
 
 [[entry]]
-key = "name_0900"
 japanese = "獅子の牙"
 english = "Lion's Fang"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0901"
 japanese = "胸当て"
 english = "Breastplate"
 scope = "source_records"
 source_ids = [200138]
 
 [[entry]]
-key = "name_0902"
 japanese = "闇"
 english = "Dark"
 scope = "source_records"
 source_ids = [1551, 20326, 170263]
 
 [[entry]]
-key = "name_0903"
 japanese = "闇の門"
 english = "Gate of Darkness"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0904"
 japanese = "風"
 english = "Wind"
 scope = "source_records"
 source_ids = [1550, 180135]
 
 [[entry]]
-key = "name_0905"
 japanese = "風の祭壇"
 english = "Wind Altar"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0906"
 japanese = "魔王バロル"
 english = "Balor, Demon King"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0907"
 japanese = "麻痺ガス"
 english = "Paralysis Gas"
 scope = "source_records"
 source_ids = [20275, 1960448]
 
 [[entry]]
-key = "name_0908"
 japanese = "イーシャ"
 english = "Iria"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0909"
 japanese = "エルファス"
 english = "Elfas"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0910"
 japanese = "カルラ"
 english = "Karula"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0911"
 japanese = "ゼネテス"
 english = "Xenetes"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0912"
 japanese = "ザギヴ"
 english = "Zagiv"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0913"
 japanese = "アンギルダン"
 english = "Angeerdan"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0914"
 japanese = "ジラーク"
 english = "Zsilak"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0915"
 japanese = "オルファウス"
 english = "Orphaus"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0916"
 japanese = "エステル"
 english = "Esther"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0917"
 japanese = "ゼリグ"
 english = "Zelig"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0918"
 japanese = "シェムハザ"
 english = "Shemhaza"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0919"
 japanese = "アイリーン"
 english = "Irene"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0920"
 japanese = "セラ"
 english = "Sera"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0921"
 japanese = "アーギルシャイア"
 english = "Argyleshire"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0922"
 japanese = "シャリ"
 english = "Shalli"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0923"
 japanese = "アトレイア"
 english = "Atleia"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0924"
 japanese = "エア"
 english = "Er"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0925"
 japanese = "イークレムン"
 english = "Iiklmn"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0926"
 japanese = "ガルドラン"
 english = "Girldlan"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0927"
 japanese = "カフィン"
 english = "Coffin"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0928"
 japanese = "ナーシェス"
 english = "Narscess"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0929"
 japanese = "アキュリュース"
 # English name from official game material (website).
 english = "Aqyurius"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0930"
 japanese = "アキュリュ－ス"
 # English name from official game material (website).
 english = "Aqyurius"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0931"
 japanese = "ツェラシェル"
 english = "Zelashell"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0932"
 japanese = "サイフォス"
 english = "Xiphos"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0933"
 japanese = "ソリアス"
 english = "Solias"
 scope = "global_surface"
 
 [[entry]]
-key = "name_0934"
 japanese = "オッシ"
 english = "Ossi"
 scope = "global_surface"

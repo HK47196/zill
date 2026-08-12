@@ -111,7 +111,7 @@ func runShow(root string, args []string, stdout, stderr io.Writer) int {
 		return 1
 	}
 	for _, authority := range terms.Applicable(item) {
-		fmt.Fprintf(stdout, "Authority: %s %s: %s → %s\n", authority.Kind, authority.Term.Key, authority.Term.Japanese, authority.Term.English)
+		fmt.Fprintf(stdout, "Authority: %s: %s → %s\n", authority.Kind, authority.Term.Japanese, authority.Term.English)
 	}
 	fmt.Fprintln(stdout, "Context:")
 	position := 0
@@ -193,7 +193,7 @@ func runSearch(root string, args []string, stdout, stderr io.Writer) int {
 			return 1
 		}
 		for _, match := range terms.Search(query) {
-			fmt.Fprintf(stdout, "Terminology %s [%s]\n  Japanese: %s\n  English: %s\n", match.Term.Key, match.Kind, match.Term.Japanese, match.Term.English)
+			fmt.Fprintf(stdout, "Terminology [%s]\n  Japanese: %s\n  English: %s\n", match.Kind, match.Term.Japanese, match.Term.English)
 			matches++
 		}
 	}
