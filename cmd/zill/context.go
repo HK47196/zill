@@ -180,14 +180,23 @@ func writeReviewText(output io.Writer, result cdccontext.Result) {
 		fmt.Fprintf(output, "  Source: %s\n", packet.SourceKind)
 		fmt.Fprintf(output, "  Ordering: %s\n", packet.Ordering)
 		fmt.Fprintf(output, "  Evidence: %s\n", packet.EvidenceStatus)
+		if packet.Scenario != nil {
+			fmt.Fprintf(output, "  Scenario family: slot=%d content_sha256=%s equivalent_groups=%s\n", packet.Scenario.Slot, packet.Scenario.ContentSHA256, strings.Join(packet.Scenario.EquivalentGroups, ","))
+		}
 		fmt.Fprintf(output, "  Target occurrence: position=%d path=%s\n", packet.OccurrencePosition, contextPath(packet.Path))
 		for _, reference := range packet.References {
 			fmt.Fprintf(output, "  Cross-program reference: %s execution=%s resolution=%s", reference.Opcode, reference.ExecutionStatus, reference.ResolutionStatus)
-			if reference.ScenarioSlot != nil {
-				fmt.Fprintf(output, " slot=%d candidates=%d/%d", *reference.ScenarioSlot, reference.CandidateGroupsFound, reference.CandidateGroupsExpected)
+			if reference.Scenario != nil {
+				fmt.Fprintf(output, " scenario_slot=%d", reference.Scenario.Slot)
+			}
+			if table := reference.ScenarioRoomTable; table != nil {
+				fmt.Fprintf(output, " room_table_selector=%d possible_slots=%d authored_targets=%d rooms=%d", table.SelectorValue, len(table.PossibleSlots), table.TargetCount, table.RoomCount)
 			}
 			if reference.Resource != nil {
 				fmt.Fprintf(output, " key=%s", reference.Resource.LogicalKey)
+				if reference.ResourceAuthoringName != "" {
+					fmt.Fprintf(output, " authoring_name=%s", reference.ResourceAuthoringName)
+				}
 			}
 			fmt.Fprintln(output)
 		}
@@ -222,6 +231,13 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 		query = fmt.Sprintf("record %d", result.Selector.Record)
 	}
 	fmt.Fprintf(output, "Query: %s\nScenes: %d\n", query, len(result.Scenes))
+	if len(result.RoomMessageBankRegistrations) > 0 {
+		fmt.Fprintf(output, "Room-local bank registrations: %d (availability only; runtime room remains dependent)\n", len(result.RoomMessageBankRegistrations))
+		for _, registration := range result.RoomMessageBankRegistrations {
+			fmt.Fprintf(output, "  %s -> %s room=%s@%s#%d bank_member=%s@%s#%d status=%s runtime=%s\n", registration.RoomLogicalKey, registration.BankLogicalKey, registration.RoomMember, registration.RoomSourceArchive, registration.RoomArchiveIndex, registration.BankMember, registration.BankSourceArchive, registration.BankArchiveIndex, registration.Status, registration.RuntimeStatus)
+		}
+	}
+	writeScenarioFamilies(output, result.ScenarioFamilies)
 	for _, scene := range result.Scenes {
 		fmt.Fprintf(output, "\nScene: %s\n", scene.Member)
 		if scene.EmbeddedMember != "" {
@@ -231,6 +247,9 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 		fmt.Fprintf(output, "  Source: %s\n", scene.SourceKind)
 		fmt.Fprintf(output, "  Ordering: %s\n", scene.Ordering)
 		fmt.Fprintf(output, "  Evidence: %s\n", scene.EvidenceStatus)
+		if scene.Scenario != nil {
+			fmt.Fprintf(output, "  Scenario family: slot=%d content_sha256=%s equivalent_groups=%s\n", scene.Scenario.Slot, scene.Scenario.ContentSHA256, strings.Join(scene.Scenario.EquivalentGroups, ","))
+		}
 		if scene.FirstRecordMessageID != nil {
 			fmt.Fprintf(output, "  First record (%d): %s", *scene.FirstRecordMessageID, scene.FirstRecordJapanese)
 			if scene.FirstRecordEnglish != "" {
@@ -266,9 +285,70 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 			fmt.Fprintln(output, "  Static references (execution remains conditional):")
 			for _, reference := range scene.References {
 				fmt.Fprintf(output, "    %s @%d path=%s execution=%s resolution=%s raw=%s\n", reference.Opcode, reference.Offset, contextPath(reference.Path), reference.ExecutionStatus, reference.ResolutionStatus, reference.Raw)
-				for _, candidate := range reference.ScenarioCandidates {
-					fmt.Fprintf(output, "      Candidate: group=%s slot=%d archive=%s member=%s confidence=%s\n", candidate.Group, candidate.Slot, candidate.SourceArchive, candidate.Member, candidate.Confidence)
+				if reference.Scenario != nil {
+					fmt.Fprintf(output, "      Scenario family: slot=%d status=%s\n", reference.Scenario.Slot, reference.Scenario.Status)
 				}
+				if table := reference.ScenarioRoomTable; table != nil {
+					fmt.Fprintf(output, "      Room scenario table: selector=%d table_index=%d status=%s possible_slots=%d authored_targets=%d rooms=%d\n", table.SelectorValue, table.TableIndex, table.Status, len(table.PossibleSlots), table.TargetCount, table.RoomCount)
+				}
+				if reference.ResourceAuthoringName != "" {
+					fmt.Fprintf(output, "      Authoring resource name: %s\n", reference.ResourceAuthoringName)
+				}
+			}
+		}
+	}
+}
+
+func writeScenarioFamilies(output io.Writer, families []cdccontext.ScenarioFamily) {
+	const provenanceExampleLimit = 12
+	if len(families) == 0 {
+		return
+	}
+	roomOnly := 0
+	for _, family := range families {
+		if len(family.Relevance) == 1 && family.Relevance[0] == "room_table_possible" {
+			roomOnly++
+		}
+	}
+	fmt.Fprintf(output, "Scenario families: %d", len(families))
+	if roomOnly > 0 {
+		fmt.Fprintf(output, " (%d reachable only through current-room tables; full metadata retained in JSON)", roomOnly)
+	}
+	fmt.Fprintln(output)
+	for _, family := range families {
+		if len(family.Relevance) == 1 && family.Relevance[0] == "room_table_possible" {
+			continue
+		}
+		fmt.Fprintf(output, "  Slot %d: status=%s relevance=%s variants=%d incoming_edges=%d roots=%d room_targets=%d basis=%s\n", family.Slot, family.Status, strings.Join(family.Relevance, ","), len(family.Variants), len(family.Incoming), len(family.Roots), len(family.RoomTargets), family.Basis)
+		for _, root := range family.Roots {
+			fmt.Fprintf(output, "    Root: kind=%s status=%s confidence=%s source=%s\n", root.Kind, root.Status, root.Confidence, root.SourceLocator)
+		}
+		for index, edge := range family.Incoming {
+			if index == provenanceExampleLimit {
+				fmt.Fprintf(output, "    Incoming edges omitted from text: %d (JSON retains all)\n", len(family.Incoming)-index)
+				break
+			}
+			sourceFamily := ""
+			if edge.SourceScenarioSlot != nil {
+				sourceFamily = fmt.Sprintf(" source_scenario_slot=%d", *edge.SourceScenarioSlot)
+			}
+			fmt.Fprintf(output, "    Incoming: source=%s@%s%s opcode=%s offset=%d path=%s guard=%s execution=%s\n", edge.SourceMember, edge.SourceArchive, sourceFamily, edge.Opcode, edge.Offset, contextPath(edge.Path), edge.Guard, edge.ExecutionStatus)
+		}
+		for index, target := range family.RoomTargets {
+			if index == provenanceExampleLimit {
+				fmt.Fprintf(output, "    Room targets omitted from text: %d (JSON retains all)\n", len(family.RoomTargets)-index)
+				break
+			}
+			fmt.Fprintf(output, "    Room target: room=%s@%s#%d resource=%s selector=%d status=%s\n", target.RoomMember, target.SourceArchive, target.RoomArchiveIndex, target.EmbeddedMember, target.SelectorIndex, target.Status)
+		}
+		for index, variant := range family.Variants {
+			groups := make([]string, len(variant.Members))
+			for memberIndex, member := range variant.Members {
+				groups[memberIndex] = member.Group
+			}
+			fmt.Fprintf(output, "    Variant %d: canonical=%s content_sha256=%s groups=%s\n", index, variant.CanonicalMember, variant.ContentSHA256, strings.Join(groups, ","))
+			for _, member := range variant.Members {
+				fmt.Fprintf(output, "      %s -> %s authoring_name=%s physical=%s archive=%s index=%d\n", member.Group, member.LogicalKey, member.AuthoringName, member.Member, member.SourceArchive, member.ArchiveIndex)
 			}
 		}
 	}

@@ -16,6 +16,7 @@ import (
 	"github.com/HK47196/zill/internal/fixeddata"
 	"github.com/HK47196/zill/internal/gamefmt/cdc"
 	"github.com/HK47196/zill/internal/gamefmt/paa"
+	"github.com/HK47196/zill/internal/gamefmt/rbb"
 	"github.com/HK47196/zill/internal/message"
 )
 
@@ -35,9 +36,11 @@ type Archive struct {
 
 // Result is the complete static context for the selected scenes.
 type Result struct {
-	Selector      Selector       `json:"selector"`
-	Scenes        []Scene        `json:"scenes"`
-	ReviewPackets []ReviewPacket `json:"review_packets,omitempty"`
+	Selector                     Selector                      `json:"selector"`
+	Scenes                       []Scene                       `json:"scenes"`
+	ScenarioFamilies             []ScenarioFamily              `json:"scenario_families,omitempty"`
+	RoomMessageBankRegistrations []RoomMessageBankRegistration `json:"room_message_bank_registrations,omitempty"`
+	ReviewPackets                []ReviewPacket                `json:"review_packets,omitempty"`
 }
 
 // Scene is one complete static context unit. CDC programs provide control-flow
@@ -50,6 +53,7 @@ type Scene struct {
 	SourceKind           string           `json:"source_kind"`
 	Ordering             string           `json:"ordering"`
 	EvidenceStatus       string           `json:"evidence_status"`
+	Scenario             *ScenarioScene   `json:"scenario,omitempty"`
 	SourceEvidence       []SourceEvidence `json:"source_evidence,omitempty"`
 	FirstRecordMessageID *int             `json:"first_record_message_id,omitempty"`
 	FirstRecordJapanese  string           `json:"first_record_japanese,omitempty"`
@@ -187,31 +191,124 @@ type ActorRelation struct {
 // Reference is a raw static cross-program reference. Resolution is deliberately
 // left to callers because C12/C13/C14 are runtime-state dependent.
 type Reference struct {
-	Opcode                  string                 `json:"opcode"`
-	Offset                  int                    `json:"offset"`
-	Path                    []int                  `json:"path"`
-	Guard                   string                 `json:"guard"`
-	Raw                     string                 `json:"raw"`
-	Arguments               []string               `json:"arguments"`
-	ExecutionStatus         string                 `json:"execution_status"`
-	ResolutionStatus        string                 `json:"resolution_status"`
-	ScenarioSlot            *int                   `json:"scenario_slot,omitempty"`
-	ScenarioSlotTableIndex  *int                   `json:"scenario_slot_table_index,omitempty"`
-	ScenarioCandidates      []ScenarioCandidate    `json:"scenario_candidates,omitempty"`
-	CandidateGroupsFound    int                    `json:"candidate_groups_found,omitempty"`
-	CandidateGroupsExpected int                    `json:"candidate_groups_expected,omitempty"`
-	Resource                *cdc.ResourceReference `json:"resource,omitempty"`
+	Opcode                string                 `json:"opcode"`
+	Offset                int                    `json:"offset"`
+	Path                  []int                  `json:"path"`
+	Guard                 string                 `json:"guard"`
+	Raw                   string                 `json:"raw"`
+	Arguments             []string               `json:"arguments"`
+	ExecutionStatus       string                 `json:"execution_status"`
+	ResolutionStatus      string                 `json:"resolution_status"`
+	Scenario              *ScenarioReference     `json:"scenario,omitempty"`
+	ScenarioRoomTable     *ScenarioRoomTable     `json:"scenario_room_table,omitempty"`
+	Resource              *cdc.ResourceReference `json:"resource,omitempty"`
+	ResourceAuthoringName string                 `json:"resource_authoring_name,omitempty"`
 }
 
-// ScenarioCandidate is one group-dependent physical program correlated with a
-// verified scenario slot. The active group is runtime-selected.
-type ScenarioCandidate struct {
+// ScenarioReference is one logical scenario-family edge. Runtime state chooses
+// a physical group and therefore one content variant within the family.
+type ScenarioReference struct {
+	Slot   int    `json:"slot"`
+	Status string `json:"status"`
+}
+
+// ScenarioRoomTable summarizes the possible logical slots supplied by one
+// current-room C14 table selector. The current room remains runtime-dependent.
+type ScenarioRoomTable struct {
+	TableIndex    int    `json:"table_index"`
+	SelectorValue int    `json:"selector_value"`
+	PossibleSlots []int  `json:"possible_slots"`
+	TargetCount   int    `json:"target_count"`
+	RoomCount     int    `json:"room_count"`
+	Status        string `json:"status"`
+}
+
+// ScenarioScene identifies the family and exact-byte content variant rendered
+// by one canonical CDC Scene.
+type ScenarioScene struct {
+	Slot                  int      `json:"slot"`
+	ContentSHA256         string   `json:"content_sha256"`
+	EquivalentGroups      []string `json:"equivalent_groups"`
+	EquivalentMemberCount int      `json:"equivalent_member_count"`
+}
+
+// ScenarioFamily is the complete static metadata for one logical slot.
+type ScenarioFamily struct {
+	Slot        int                      `json:"slot"`
+	Status      string                   `json:"status"`
+	Basis       string                   `json:"basis"`
+	Relevance   []string                 `json:"relevance"`
+	Variants    []ScenarioContentVariant `json:"variants"`
+	Incoming    []ScenarioIncomingEdge   `json:"incoming,omitempty"`
+	Roots       []ScenarioRoot           `json:"roots,omitempty"`
+	RoomTargets []ScenarioRoomTarget     `json:"room_targets,omitempty"`
+}
+
+// ScenarioContentVariant groups physical members whose stored CDC bytes are
+// exactly equal.
+type ScenarioContentVariant struct {
+	ContentSHA256   string                   `json:"content_sha256"`
+	CanonicalMember string                   `json:"canonical_member"`
+	Members         []ScenarioPhysicalMember `json:"members"`
+}
+
+// ScenarioPhysicalMember joins a logical RBB resource to its physical PAA
+// member. AuthoringName is source metadata, not a player-facing scene title.
+type ScenarioPhysicalMember struct {
 	Group         string `json:"group"`
-	Slot          int    `json:"slot"`
+	LogicalKey    string `json:"logical_key"`
+	AuthoringName string `json:"authoring_name"`
 	SourceArchive string `json:"source_archive"`
 	Member        string `json:"member"`
 	ArchiveIndex  int    `json:"archive_index"`
+}
+
+// ScenarioIncomingEdge is a compact source locator for one static CDC edge.
+type ScenarioIncomingEdge struct {
+	SourceMember       string `json:"source_member"`
+	SourceArchive      string `json:"source_archive"`
+	SourceScenarioSlot *int   `json:"source_scenario_slot,omitempty"`
+	Path               []int  `json:"path"`
+	Guard              string `json:"guard"`
+	Opcode             string `json:"opcode"`
+	Offset             int    `json:"offset"`
+	ExecutionStatus    string `json:"execution_status"`
+}
+
+// ScenarioRoot is independently verified executable entry evidence.
+type ScenarioRoot struct {
+	Kind          string `json:"kind"`
+	Status        string `json:"status"`
 	Confidence    string `json:"confidence"`
+	SourceLocator string `json:"source_locator"`
+}
+
+// ScenarioRoomTarget is one current-room IMD selector that can supply a slot
+// to C14. It is authored room metadata, not proof that the room is active.
+type ScenarioRoomTarget struct {
+	SourceArchive    string `json:"source_archive"`
+	RoomArchiveIndex int    `json:"room_archive_index"`
+	RoomMember       string `json:"room_member"`
+	EmbeddedMember   string `json:"embedded_member"`
+	SelectorIndex    int    `json:"selector_index"`
+	Status           string `json:"status"`
+}
+
+// RoomMessageBankRegistration is an exact RBB registration making a message
+// bank available under a room key. It does not prove a record is displayed.
+type RoomMessageBankRegistration struct {
+	RoomLogicalKey    string `json:"room_logical_key"`
+	RoomAuthoringName string `json:"room_authoring_name"`
+	RoomSourceArchive string `json:"room_source_archive"`
+	RoomMember        string `json:"room_member"`
+	RoomArchiveIndex  int    `json:"room_archive_index"`
+	Bank              int    `json:"bank"`
+	BankLogicalKey    string `json:"bank_logical_key"`
+	BankSourceArchive string `json:"bank_source_archive"`
+	BankMember        string `json:"bank_member"`
+	BankArchiveIndex  int    `json:"bank_archive_index"`
+	Status            string `json:"status"`
+	RuntimeStatus     string `json:"runtime_status"`
 }
 
 type locatedMember struct {
@@ -241,8 +338,10 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, archives []Arch
 	bankMemberName := fmt.Sprintf("message/msgsec%03d.dat", bank)
 	var bankMember *locatedMember
 	var bindata []byte
+	var rbbData []byte
 	var members []locatedMember
 	var rooms []locatedMember
+	var allMembers []locatedMember
 	seenArchives := make(map[string]bool, len(archives))
 	for _, archive := range archives {
 		if archive.Name == "" || archive.Pair == nil {
@@ -253,6 +352,8 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, archives []Arch
 		}
 		seenArchives[archive.Name] = true
 		for _, m := range archive.Pair.Members() {
+			located := locatedMember{archive: archive, member: m}
+			allMembers = append(allMembers, located)
 			if m.Name == "data/bindata.dat" {
 				if bindata != nil {
 					return Result{}, fmt.Errorf("cdc context: duplicate data/bindata.dat")
@@ -263,17 +364,26 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, archives []Arch
 				}
 				bindata = b
 			}
+			if m.Name == "res/res.rbb" {
+				if rbbData != nil {
+					return Result{}, fmt.Errorf("cdc context: duplicate res/res.rbb")
+				}
+				b, e := archive.Pair.Payload(m.Index)
+				if e != nil {
+					return Result{}, e
+				}
+				rbbData = b
+			}
 			if strings.HasPrefix(m.Name, "cdc/") && strings.HasSuffix(m.Name, ".cdc") {
-				members = append(members, locatedMember{archive: archive, member: m})
+				members = append(members, located)
 			}
 			if strings.HasPrefix(m.Name, "room/id") && strings.HasSuffix(m.Name, ".par") {
-				rooms = append(rooms, locatedMember{archive: archive, member: m})
+				rooms = append(rooms, located)
 			}
 			if m.Name == bankMemberName {
 				if bankMember != nil {
 					return Result{}, fmt.Errorf("cdc context: duplicate %s", bankMemberName)
 				}
-				located := locatedMember{archive: archive, member: m}
 				bankMember = &located
 			}
 		}
@@ -284,7 +394,20 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, archives []Arch
 	if len(members) == 0 {
 		return Result{}, fmt.Errorf("cdc context: archive contains no cdc/*.cdc members")
 	}
-	scenarioGroups := scenarioProgramGroups(members)
+	catalog := emptyScenarioCatalog()
+	var resourceCatalog *rbb.Catalog
+	if rbbData != nil {
+		parsed, parseErr := rbb.Parse(rbbData)
+		if parseErr != nil {
+			return Result{}, fmt.Errorf("cdc context: res/res.rbb: %w", parseErr)
+		}
+		resourceCatalog = parsed
+		built, buildErr := buildScenarioCatalog(resourceCatalog, members)
+		if buildErr != nil {
+			return Result{}, buildErr
+		}
+		catalog = built
+	}
 	sort.Slice(members, func(i, j int) bool {
 		if members[i].archive.Name != members[j].archive.Name {
 			return members[i].archive.Name < members[j].archive.Name
@@ -292,8 +415,12 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, archives []Arch
 		return members[i].member.Name < members[j].member.Name
 	})
 	result := Result{Selector: selector, Scenes: make([]Scene, 0)}
+	allScenes := make([]Scene, 0, len(members))
 	for _, located := range members {
 		m := located.member
+		if !catalog.shouldParse(m.Name) {
+			continue
+		}
 		payload, err := located.archive.Pair.Payload(m.Index)
 		if err != nil {
 			return Result{}, err
@@ -305,10 +432,11 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, archives []Arch
 		if err != nil {
 			return Result{}, fmt.Errorf("cdc context: %s: %w", m.Name, err)
 		}
-		scene, err := buildScene(project, terms, located.archive.Name, m.Name, program, bindata, scenarioGroups)
+		scene, err := buildScene(project, terms, located.archive.Name, m.Name, program, bindata, catalog)
 		if err != nil {
 			return Result{}, err
 		}
+		allScenes = append(allScenes, scene)
 		selected := false
 		for _, e := range scene.Entries {
 			if selector.Record >= 0 && e.MessageID == selector.Record {
@@ -322,6 +450,21 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, archives []Arch
 			markSelected(&scene, selector)
 			result.Scenes = append(result.Scenes, scene)
 		}
+	}
+	if resourceCatalog != nil {
+		roomTargets, err := scenarioRoomTargets(rooms)
+		if err != nil {
+			return Result{}, err
+		}
+		attachScenarioRoomTables(allScenes, roomTargets)
+		attachScenarioRoomTables(result.Scenes, roomTargets)
+		attachScenarioGraph(&catalog, allScenes, roomTargets)
+		result.ScenarioFamilies = scenarioFamiliesForScenes(catalog, result.Scenes)
+		registrations, registrationErr := roomMessageBankRegistrations(resourceCatalog, allMembers, bank)
+		if registrationErr != nil {
+			return Result{}, registrationErr
+		}
+		result.RoomMessageBankRegistrations = registrations
 	}
 	ambientScenes, err := buildAmbientScenes(project, terms, bindata, rooms, selector)
 	if err != nil {
@@ -432,7 +575,7 @@ func markSelected(scene *Scene, selector Selector) {
 	}
 }
 
-func buildScene(project *corpus.Project, terms fixeddata.Terminology, archive, member string, p cdc.Program, bindata []byte, scenarioGroups map[string][]locatedMember) (Scene, error) {
+func buildScene(project *corpus.Project, terms fixeddata.Terminology, archive, member string, p cdc.Program, bindata []byte, catalog scenarioCatalog) (Scene, error) {
 	s := Scene{
 		Member:         member,
 		SourceArchive:  archive,
@@ -442,6 +585,7 @@ func buildScene(project *corpus.Project, terms fixeddata.Terminology, archive, m
 		Entries:        make([]Entry, 0),
 		References:     make([]Reference, 0),
 	}
+	s.Scenario = catalog.scene(member)
 	graph, err := compileFlow(p)
 	if err != nil {
 		return Scene{}, fmt.Errorf("cdc context: %s: %w", member, err)
@@ -463,7 +607,7 @@ func buildScene(project *corpus.Project, terms fixeddata.Terminology, archive, m
 			pos += len(entries)
 			s.Entries = append(s.Entries, entries...)
 		case "C12", "C13", "C14", "C76":
-			s.References = append(s.References, reference(node.command, node.offset, node.path, node.guard, scenarioGroups))
+			s.References = append(s.References, reference(node.command, node.offset, node.path, node.guard, catalog))
 		}
 	}
 	return s, nil
@@ -972,55 +1116,34 @@ func resolve(project *corpus.Project, data []byte, h int) association {
 func labelText(value string) string {
 	return strings.TrimSpace(strings.TrimSuffix(value, "<end>"))
 }
-func reference(c cdc.Command, offset int, path []int, guard string, scenarioGroups map[string][]locatedMember) Reference {
+func reference(c cdc.Command, offset int, path []int, guard string, catalog scenarioCatalog) Reference {
 	r := Reference{Opcode: c.Name, Offset: offset, Path: append([]int{}, path...), Guard: guard, Raw: c.Raw, Arguments: append([]string{}, c.Arguments...), ExecutionStatus: "runtime_dependent", ResolutionStatus: "unresolved"}
 	if n, ok := c.ScenarioSlot(); ok {
-		r.ScenarioSlot = &n
-		r.ResolutionStatus = "group_runtime_dependent"
-		r.CandidateGroupsExpected = len(scenarioGroupNames)
-		for _, group := range scenarioGroupNames {
-			members := scenarioGroups[group]
-			if len(members) != 914 {
-				continue
-			}
-			candidate := members[n-1]
-			r.ScenarioCandidates = append(r.ScenarioCandidates, ScenarioCandidate{
-				Group: group, Slot: n, SourceArchive: candidate.archive.Name,
-				Member: candidate.member.Name, ArchiveIndex: candidate.member.Index,
-				Confidence: "archive_order_correlation",
-			})
+		status := "catalog_unavailable"
+		if _, found := catalog.families[n]; found {
+			status = "group_runtime_dependent"
 		}
-		r.CandidateGroupsFound = len(r.ScenarioCandidates)
+		r.Scenario = &ScenarioReference{Slot: n, Status: status}
+		r.ResolutionStatus = status
 		if c.Name == "C14" {
 			r.ExecutionStatus = "direct_request"
 		}
 	}
 	if index, ok := c.ScenarioSlotTableIndex(); ok {
-		r.ScenarioSlotTableIndex = &index
+		r.ScenarioRoomTable = &ScenarioRoomTable{
+			TableIndex: index, SelectorValue: 1000 + index,
+			Status: "room_runtime_dependent",
+		}
 		r.ResolutionStatus = "room_runtime_dependent"
 	}
 	if x, ok := c.C76Resource(); ok {
 		r.Resource = &x
 		r.ExecutionStatus = "direct_request"
 		r.ResolutionStatus = "logical_key_only"
+		if name, ok := catalog.resourceNames[x.LogicalKey]; ok {
+			r.ResourceAuthoringName = name
+			r.ResolutionStatus = "logical_key_with_authoring_name"
+		}
 	}
 	return r
-}
-
-var scenarioGroupNames = []string{"01", "02", "03", "04", "05", "06", "v1", "v2", "v3", "v4", "v5", "v6", "v7"}
-
-func scenarioProgramGroups(members []locatedMember) map[string][]locatedMember {
-	result := make(map[string][]locatedMember, len(scenarioGroupNames))
-	valid := make(map[string]bool, len(scenarioGroupNames))
-	for _, group := range scenarioGroupNames {
-		valid[group] = true
-	}
-	for _, located := range members {
-		parts := strings.Split(located.member.Name, "/")
-		if len(parts) != 3 || parts[0] != "cdc" || !valid[parts[1]] {
-			continue
-		}
-		result[parts[1]] = append(result[parts[1]], located)
-	}
-	return result
 }

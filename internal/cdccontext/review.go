@@ -20,6 +20,7 @@ type ReviewPacket struct {
 	SourceKind           string           `json:"source_kind"`
 	Ordering             string           `json:"ordering"`
 	EvidenceStatus       string           `json:"evidence_status"`
+	Scenario             *ScenarioScene   `json:"scenario,omitempty"`
 	TargetMessageID      int              `json:"target_message_id"`
 	OccurrencePosition   int              `json:"occurrence_position"`
 	Path                 []int            `json:"path"`
@@ -51,6 +52,7 @@ func buildReviewPackets(result Result) []ReviewPacket {
 				SceneMember: scene.Member, EmbeddedMember: scene.EmbeddedMember, SourceArchive: scene.SourceArchive,
 				SourceKind: scene.SourceKind, Ordering: scene.Ordering,
 				EvidenceStatus: scene.EvidenceStatus, TargetMessageID: target.MessageID,
+				Scenario:           scene.Scenario,
 				OccurrencePosition: target.Position, Path: append([]int(nil), target.Path...),
 				Context:        make([]ReviewEntry, 0, reviewNeighborCount*2+1),
 				AlternateArms:  make([]ReviewEntry, 0),

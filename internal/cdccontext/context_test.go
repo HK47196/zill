@@ -6,6 +6,7 @@ import (
 	"bytes"
 	"compress/gzip"
 	"encoding/binary"
+	"encoding/json"
 	"fmt"
 	"os"
 	"path/filepath"
@@ -550,7 +551,7 @@ func TestBuildKeepsDynamicBankAndAuthoringTableEvidenceDistinctFromRuntimeEdges(
 	}
 }
 
-func TestBuildExposesGroupDependentScenarioCandidatesWithoutChoosingAnActiveGroup(t *testing.T) {
+func TestBuildDoesNotFabricatePhysicalScenarioTargetsWithoutTheResourceCatalog(t *testing.T) {
 	members := []fixtureMember{
 		{name: "data/bindata.dat", payload: make([]byte, 0x4000)},
 		{name: "cdc/do/selected.cdc", payload: []byte("C12:2+0C14:2C14:1003C76:858C5:3+2+1350035;E")},
@@ -573,20 +574,115 @@ func TestBuildExposesGroupDependentScenarioCandidatesWithoutChoosingAnActiveGrou
 		t.Fatalf("references = %#v", references)
 	}
 	conditional := references[0]
-	if conditional.Opcode != "C12" || conditional.ExecutionStatus != "runtime_dependent" || conditional.ResolutionStatus != "group_runtime_dependent" || conditional.CandidateGroupsFound != 1 || conditional.CandidateGroupsExpected != 13 || len(conditional.ScenarioCandidates) != 1 || conditional.ScenarioCandidates[0].Member != "cdc/01/s0002.cdc" || conditional.ScenarioCandidates[0].Confidence != "archive_order_correlation" {
-		t.Fatalf("conditional scenario candidates = %#v", conditional)
+	if conditional.Opcode != "C12" || conditional.ExecutionStatus != "runtime_dependent" || conditional.ResolutionStatus != "catalog_unavailable" || conditional.Scenario == nil || conditional.Scenario.Slot != 2 || conditional.Scenario.Status != "catalog_unavailable" {
+		t.Fatalf("conditional scenario reference = %#v", conditional)
 	}
 	direct := references[1]
-	if direct.Opcode != "C14" || direct.ExecutionStatus != "direct_request" || len(direct.ScenarioCandidates) != 1 {
-		t.Fatalf("direct scenario candidates = %#v", direct)
+	if direct.Opcode != "C14" || direct.ExecutionStatus != "direct_request" || direct.Scenario == nil || direct.Scenario.Slot != 2 {
+		t.Fatalf("direct scenario reference = %#v", direct)
 	}
 	room := references[2]
-	if room.ScenarioSlotTableIndex == nil || *room.ScenarioSlotTableIndex != 3 || room.ResolutionStatus != "room_runtime_dependent" || len(room.ScenarioCandidates) != 0 {
+	if room.ScenarioRoomTable == nil || room.ScenarioRoomTable.TableIndex != 3 || room.ScenarioRoomTable.SelectorValue != 1003 || room.ResolutionStatus != "room_runtime_dependent" || room.Scenario != nil {
 		t.Fatalf("room-dependent scenario reference = %#v", room)
 	}
 	resource := references[3]
-	if resource.Resource == nil || resource.Resource.LogicalKey != "cdcDo/ID0858" || resource.ResolutionStatus != "logical_key_only" || len(resource.ScenarioCandidates) != 0 {
+	if resource.Resource == nil || resource.Resource.LogicalKey != "cdcDo/ID0858" || resource.ResolutionStatus != "logical_key_only" || resource.Scenario != nil || resource.ResourceAuthoringName != "" {
 		t.Fatalf("logical resource reference = %#v", resource)
+	}
+}
+
+func TestBuildGroupsExactScenarioVariantsAndJoinsRoomRegistrations(t *testing.T) {
+	members := []fixtureMember{
+		{name: "", payload: nil},
+		{name: "", payload: nil},
+		{name: "unrelated/duplicate.dat", payload: nil},
+		{name: "unrelated/duplicate.dat", payload: nil},
+		{name: "data/bindata.dat", payload: make([]byte, 0x4000)},
+		{name: "res/res.rbb", payload: resourceCatalogFixture(t, 20, 135)},
+		{name: "message/msgsec135.dat", payload: nil},
+		{name: "room/id0020.par", payload: roomPackageWithScenarioFixture(t, "anctsrni.imd", 21)},
+	}
+	groups := []string{"01", "02", "03", "04", "05", "06", "v1", "v2", "v3", "v4", "v5", "v6", "v7"}
+	for _, group := range groups {
+		for slot := 1; slot <= 914; slot++ {
+			payload := []byte("E")
+			if slot == 20 {
+				payload = []byte("C12:2+0C14:1000C76:858C5:3+2+1350035;E")
+				if group == "v5" {
+					payload = []byte("C9:F+16C12:2+0C14:1000C76:858C5:3+2+1350035;E")
+				}
+				if group == "v6" {
+					payload = []byte("C9:O+16C12:2+0C14:1000C76:858C5:3+2+1350035;E")
+				}
+			}
+			members = append(members, fixtureMember{
+				name: fmt.Sprintf("cdc/%s/s%04d%s.cdc", group, slot, group), payload: payload,
+			})
+		}
+	}
+	pair := openPair(t, members)
+	defer pair.Close()
+	project, _, err := corpus.LoadProject("../..")
+	if err != nil {
+		t.Fatal(err)
+	}
+	result, err := cdccontext.Build(project, fixeddata.Terminology{}, oneArchive(pair), cdccontext.Selector{Bank: -1, Record: 1350035})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(result.Scenes) != 3 {
+		t.Fatalf("selected scenario scenes = %d, want one per distinct content variant", len(result.Scenes))
+	}
+	if len(result.RoomMessageBankRegistrations) != 1 || result.RoomMessageBankRegistrations[0].RoomMember != "room/id0020.par" || result.RoomMessageBankRegistrations[0].RoomAuthoringName != "ID0020_par" || result.RoomMessageBankRegistrations[0].Bank != 135 {
+		t.Fatalf("room registrations = %#v", result.RoomMessageBankRegistrations)
+	}
+	var family20, family2, family21 *cdccontext.ScenarioFamily
+	for index := range result.ScenarioFamilies {
+		switch result.ScenarioFamilies[index].Slot {
+		case 20:
+			family20 = &result.ScenarioFamilies[index]
+		case 2:
+			family2 = &result.ScenarioFamilies[index]
+		case 21:
+			family21 = &result.ScenarioFamilies[index]
+		}
+	}
+	if family20 == nil || len(family20.Variants) != 3 || len(family20.Variants[0].Members) != 11 || family20.Variants[0].Members[0].LogicalKey != "cdc01/ID0020" || family20.Variants[0].Members[0].AuthoringName != "S002001_cdc" {
+		t.Fatalf("scenario family 20 = %#v", family20)
+	}
+	if family21 == nil || len(family21.RoomTargets) != 1 || family21.RoomTargets[0].RoomMember != "room/id0020.par" || family21.RoomTargets[0].SelectorIndex != 1000 || strings.Join(family21.Relevance, ",") != "room_table_possible" {
+		t.Fatalf("room-table scenario family = %#v", family21)
+	}
+	if family2 == nil || len(family2.Incoming) != 3 {
+		t.Fatalf("scenario family 2 incoming edges = %#v", family2)
+	}
+	if family2.Incoming[0].Opcode != "C12" || family2.Incoming[0].ExecutionStatus != "runtime_dependent" {
+		t.Fatalf("scenario family 2 incoming provenance = %#v", family2.Incoming)
+	}
+	for _, scene := range result.Scenes {
+		if scene.Scenario == nil || scene.Scenario.Slot != 20 {
+			t.Fatalf("selected scene lacks family metadata: %#v", scene.Scenario)
+		}
+		if len(scene.References) != 3 || scene.References[0].Scenario == nil || scene.References[0].Scenario.Slot != 2 || scene.References[1].ScenarioRoomTable == nil || len(scene.References[1].ScenarioRoomTable.PossibleSlots) != 1 || scene.References[1].ScenarioRoomTable.PossibleSlots[0] != 21 || scene.References[1].ScenarioRoomTable.TargetCount != 1 || scene.References[2].ResourceAuthoringName != "D0858_cdc" {
+			t.Fatalf("scenario references = %#v", scene.References)
+		}
+	}
+	if len(result.ReviewPackets) != 3 {
+		t.Fatalf("review packets = %#v", result.ReviewPackets)
+	}
+	for _, packet := range result.ReviewPackets {
+		if packet.Scenario == nil || packet.Scenario.Slot != 20 {
+			t.Fatalf("review packet lacks scenario variant identity: %#v", packet.Scenario)
+		}
+	}
+	encoded, err := json.Marshal(result)
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, obsolete := range [][]byte{[]byte(`"scenario_candidates"`), []byte(`"candidate_groups_found"`), []byte(`"candidate_groups_expected"`)} {
+		if bytes.Contains(encoded, obsolete) {
+			t.Fatalf("JSON retained superseded flat candidate field %s", obsolete)
+		}
 	}
 }
 
@@ -798,7 +894,7 @@ func messageBankFixture(recordCount int, forcedOffsets map[int]int) []byte {
 
 func roomPackageFixture(t *testing.T, resource string, handles ...int) []byte {
 	t.Helper()
-	imd := make([]byte, 0xc0+8*0x1a)
+	imd := make([]byte, 0x21e+10*10)
 	for slot, handle := range handles {
 		if slot == 8 {
 			break
@@ -821,6 +917,81 @@ func roomPackageFixture(t *testing.T, resource string, handles ...int) []byte {
 		t.Fatal(err)
 	}
 	return compressed.Bytes()
+}
+
+func roomPackageWithScenarioFixture(t *testing.T, resource string, slot int) []byte {
+	t.Helper()
+	imd := make([]byte, 0x21e+10*10)
+	binary.LittleEndian.PutUint16(imd[0x21e:], uint16(slot))
+	const childOffset = 0x40
+	container := make([]byte, childOffset+len(imd))
+	copy(container, []byte{'P', 'A', 'R', 0})
+	binary.LittleEndian.PutUint32(container[8:], 1)
+	binary.LittleEndian.PutUint32(container[16:], childOffset)
+	copy(container[0x20:], resource)
+	copy(container[childOffset:], imd)
+	var compressed bytes.Buffer
+	writer := gzip.NewWriter(&compressed)
+	if _, err := writer.Write(container); err != nil {
+		t.Fatal(err)
+	}
+	if err := writer.Close(); err != nil {
+		t.Fatal(err)
+	}
+	return compressed.Bytes()
+}
+
+func resourceCatalogFixture(t *testing.T, roomID, bank int) []byte {
+	t.Helper()
+	var records [][]byte
+	appendRecord := func(kind byte, name string) {
+		header := make([]byte, 12)
+		header[0], header[1] = kind, byte(len(name))
+		if kind == 0 {
+			binary.LittleEndian.PutUint32(header[4:], 1)
+		} else {
+			binary.LittleEndian.PutUint16(header[2:], 1)
+			binary.LittleEndian.PutUint32(header[4:], 0xffffffff)
+		}
+		binary.LittleEndian.PutUint32(header[8:], 0xffffffff)
+		record := append(header, name...)
+		recordEnd := (len(record) + 3) &^ 3
+		record = append(record, make([]byte, recordEnd-len(record))...)
+		records = append(records, record)
+	}
+	groups := []string{"01", "02", "03", "04", "05", "06", "V1", "V2", "V3", "V4", "V5", "V6", "V7"}
+	for _, group := range groups {
+		appendRecord(0, "cdc"+group)
+		for slot := 1; slot <= 914; slot++ {
+			appendRecord(0, fmt.Sprintf("ID%04d", slot))
+			appendRecord(1, fmt.Sprintf("S%04d%s_cdc", slot, group))
+		}
+	}
+	appendRecord(0, "cdcDo")
+	for id := 1; id <= 1184; id++ {
+		appendRecord(0, fmt.Sprintf("ID%04d", id))
+		appendRecord(1, fmt.Sprintf("D%04d_cdc", id))
+	}
+	appendRecord(0, "room")
+	appendRecord(0, fmt.Sprintf("ID%04d", roomID))
+	appendRecord(1, fmt.Sprintf("ID%04d_par", roomID))
+	appendRecord(1, fmt.Sprintf("msgsec%03d_dat", bank))
+
+	const tableOffset = 16
+	data := make([]byte, tableOffset+len(records)*4)
+	copy(data, "RBB ")
+	binary.LittleEndian.PutUint32(data[4:], 16)
+	binary.LittleEndian.PutUint32(data[8:], uint32(len(records)))
+	binary.LittleEndian.PutUint32(data[12:], tableOffset)
+	binary.LittleEndian.PutUint32(data[tableOffset:], uint32(len(data)-16))
+	binary.LittleEndian.PutUint32(data[tableOffset+4:], uint32(len(data)))
+	for index, record := range records {
+		data = append(data, record...)
+		if index+2 < len(records) {
+			binary.LittleEndian.PutUint32(data[tableOffset+(index+2)*4:], uint32(len(data)))
+		}
+	}
+	return data
 }
 
 func openPair(t *testing.T, members []fixtureMember) *paa.Pair {

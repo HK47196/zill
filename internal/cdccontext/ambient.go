@@ -17,10 +17,13 @@ import (
 )
 
 const (
-	roomEntityTableOffset = 0xc0
-	roomEntityRecordSize  = 0x1a
-	roomEntityRecordCount = 8
-	maxRoomPARSize        = 16 << 20
+	roomEntityTableOffset   = 0xc0
+	roomEntityRecordSize    = 0x1a
+	roomEntityRecordCount   = 8
+	roomScenarioTableOffset = 0x21e
+	roomScenarioRecordSize  = 10
+	roomScenarioRecordCount = 10
+	maxRoomPARSize          = 16 << 20
 )
 
 // AmbientInteraction is the verified ordinary-talk association for one
@@ -269,6 +272,45 @@ func roomIMDResources(source string, payload []byte) ([]roomResource, error) {
 		resources = append(resources, roomResource{name: child.name, data: data})
 	}
 	return resources, nil
+}
+
+func scenarioRoomTargets(rooms []locatedMember) (map[int][]ScenarioRoomTarget, error) {
+	result := make(map[int][]ScenarioRoomTarget)
+	sort.Slice(rooms, func(i, j int) bool {
+		if rooms[i].archive.Name != rooms[j].archive.Name {
+			return rooms[i].archive.Name < rooms[j].archive.Name
+		}
+		return rooms[i].member.Name < rooms[j].member.Name
+	})
+	for _, room := range rooms {
+		payload, err := room.archive.Pair.Payload(room.member.Index)
+		if err != nil {
+			return nil, err
+		}
+		resources, err := roomIMDResources(room.member.Name, payload)
+		if err != nil {
+			return nil, fmt.Errorf("cdc context: %s: %w", room.member.Name, err)
+		}
+		for _, resource := range resources {
+			minimum := roomScenarioTableOffset + (roomScenarioRecordCount-1)*roomScenarioRecordSize + 2
+			if len(resource.data) < minimum {
+				return nil, fmt.Errorf("cdc context: %s: %s is too small for the scenario-slot table", room.member.Name, resource.name)
+			}
+			for index := 0; index < roomScenarioRecordCount; index++ {
+				offset := roomScenarioTableOffset + index*roomScenarioRecordSize
+				slot := int(int16(binary.LittleEndian.Uint16(resource.data[offset:])))
+				if slot < 1 || slot > 914 {
+					continue
+				}
+				result[slot] = append(result[slot], ScenarioRoomTarget{
+					SourceArchive: room.archive.Name, RoomArchiveIndex: room.member.Index,
+					RoomMember: room.member.Name, EmbeddedMember: resource.name,
+					SelectorIndex: 1000 + index, Status: "verified_room_imd_slot",
+				})
+			}
+		}
+	}
+	return result, nil
 }
 
 type roomPARChild struct {

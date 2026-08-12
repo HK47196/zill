@@ -185,3 +185,83 @@ func TestContextTextQualifiesAmbientInteractionEvidence(t *testing.T) {
 		t.Fatalf("ambient association was rendered as a C5 display request:\n%s", text)
 	}
 }
+
+func TestContextTextRendersLogicalScenarioFamiliesInsteadOfFlatCandidates(t *testing.T) {
+	sourceSlot := 7
+	result := cdccontext.Result{
+		Selector: cdccontext.Selector{Bank: -1, Record: 30021},
+		Scenes: []cdccontext.Scene{{
+			Member: "cdc/01/source01.cdc", SourceArchive: "pa", SourceKind: "cdc_program",
+			Ordering: "source_order_with_static_control_flow", EvidenceStatus: "static_consumer_reference",
+			References: []cdccontext.Reference{{
+				Opcode: "C14", Offset: 44, Raw: "C14:1000", ExecutionStatus: "runtime_dependent",
+				ResolutionStatus: "room_runtime_dependent",
+				ScenarioRoomTable: &cdccontext.ScenarioRoomTable{
+					TableIndex: 0, SelectorValue: 1000, PossibleSlots: []int{20, 21},
+					TargetCount: 853, RoomCount: 853, Status: "current_room_runtime_dependent",
+				},
+			}},
+		}},
+		RoomMessageBankRegistrations: []cdccontext.RoomMessageBankRegistration{{
+			RoomLogicalKey: "room/ID0020", RoomSourceArchive: "pami", RoomMember: "room/id0020.par", RoomArchiveIndex: 20, Bank: 3,
+			BankLogicalKey: "msgsec003_dat", BankSourceArchive: "pami", BankMember: "message/msgsec003.dat", BankArchiveIndex: 21,
+			Status: "verified_rbb_room_registration", RuntimeStatus: "current_room_runtime_dependent",
+		}},
+		ScenarioFamilies: []cdccontext.ScenarioFamily{{
+			Slot: 20, Status: "group_runtime_dependent", Basis: "verified_rbb_logical_resource_catalog", Relevance: []string{"selected_scene"},
+			Incoming: []cdccontext.ScenarioIncomingEdge{{
+				SourceMember: "cdc/01/source01.cdc", SourceArchive: "pa", SourceScenarioSlot: &sourceSlot,
+				Path: []int{1, 3}, Guard: "A7:1090", Opcode: "C12", Offset: 12,
+				ExecutionStatus: "runtime_dependent",
+			}},
+			Roots: []cdccontext.ScenarioRoot{{
+				Kind: "direct_executable_request", Status: "verified_executable_root",
+				Confidence: "high", SourceLocator: "retail executable",
+			}},
+			RoomTargets: []cdccontext.ScenarioRoomTarget{{
+				SourceArchive: "pami", RoomArchiveIndex: 20, RoomMember: "room/id0020.par", EmbeddedMember: "anctsrni.imd",
+				SelectorIndex: 1000, Status: "verified_room_imd_slot",
+			}},
+			Variants: []cdccontext.ScenarioContentVariant{{
+				ContentSHA256: "abc123", CanonicalMember: "cdc/01/ancsri01.cdc",
+				Members: []cdccontext.ScenarioPhysicalMember{{
+					Group: "01", LogicalKey: "cdc01/ID0020", AuthoringName: "AncSrI01_cdc",
+					SourceArchive: "pa", Member: "cdc/01/ancsri01.cdc", ArchiveIndex: 339,
+				}, {
+					Group: "v7", LogicalKey: "cdcV7/ID0020", AuthoringName: "AncSrIV7_cdc",
+					SourceArchive: "pa", Member: "cdc/v7/ancsriv7.cdc", ArchiveIndex: 11307,
+				}},
+			}},
+		}},
+	}
+	var output bytes.Buffer
+	writeContextText(&output, result)
+	text := output.String()
+	for _, wanted := range []string{
+		"Room-local bank registrations: 1 (availability only; runtime room remains dependent)",
+		"room/ID0020 -> msgsec003_dat room=room/id0020.par@pami#20 bank_member=message/msgsec003.dat@pami#21",
+		"Slot 20: status=group_runtime_dependent relevance=selected_scene variants=1 incoming_edges=1 roots=1 room_targets=1",
+		"Incoming: source=cdc/01/source01.cdc@pa source_scenario_slot=7 opcode=C12 offset=12 path=root/1/3 guard=A7:1090 execution=runtime_dependent",
+		"Room target: room=room/id0020.par@pami#20 resource=anctsrni.imd selector=1000 status=verified_room_imd_slot",
+		"Variant 0: canonical=cdc/01/ancsri01.cdc content_sha256=abc123 groups=01,v7",
+		"01 -> cdc01/ID0020 authoring_name=AncSrI01_cdc physical=cdc/01/ancsri01.cdc archive=pa index=339",
+		"Room scenario table: selector=1000 table_index=0 status=current_room_runtime_dependent possible_slots=2 authored_targets=853 rooms=853",
+	} {
+		if !strings.Contains(text, wanted) {
+			t.Fatalf("output does not contain %q:\n%s", wanted, text)
+		}
+	}
+	if strings.Contains(text, "Candidate:") {
+		t.Fatalf("output retained superseded flat scenario candidates:\n%s", text)
+	}
+	result.ReviewPackets = []cdccontext.ReviewPacket{{
+		SceneMember: "cdc/01/source01.cdc", SourceArchive: "pa", SourceKind: "cdc_program",
+		Ordering: "source_order_with_static_control_flow", EvidenceStatus: "static_consumer_reference",
+		TargetMessageID: 30021, References: result.Scenes[0].References,
+	}}
+	output.Reset()
+	writeReviewText(&output, result)
+	if !strings.Contains(output.String(), "Cross-program reference: C14 execution=runtime_dependent resolution=room_runtime_dependent room_table_selector=1000 possible_slots=2 authored_targets=853 rooms=853") {
+		t.Fatalf("review output omits room-table context:\n%s", output.String())
+	}
+}

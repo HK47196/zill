@@ -51,9 +51,15 @@ decoded into structured raw selectors, comparison operators, and polarity.
 Coordinates, actions, opaque relation state, portrait/name requests, and possible
 addressees remain explicitly qualified static evidence. Authored but unreachable
 messages remain visible, while unsupported control flow and genuine state
-disagreements are labeled explicitly. Direct scenario-slot references expose all
-group-dependent physical candidates without choosing a runtime group; unresolved
-logical resource keys remain unresolved. Ordinary town-NPC dialogue is recovered
+disagreements are labeled explicitly. Direct scenario-slot references resolve to
+one retail-catalogued logical family. Exact-byte-identical physical variants are
+collapsed into one content variant while every group, logical key, authored
+resource name, and PAA member remains available in JSON; genuinely different
+variants remain separate without choosing a runtime group. The same retail
+catalog reports room-local message-bank registrations as availability evidence,
+not dialogue occurrences. Current-room C14 table references report their
+bounded possible slot set and counts while retaining the exact room/resource
+triples on each family. Ordinary town-NPC dialogue is recovered
 separately from room-authored entity records and the executable's bounded
 entity-handle-to-message dispatcher. These ambient occurrences include room
 provenance and an interaction-target label while remaining explicit that authored

@@ -58,7 +58,7 @@ func TestRebuildPreservesPairAndAppliesIndexReplacements(t *testing.T) {
 		t.Fatalf("member count = %d, want %d", len(rebuiltMembers), len(members))
 	}
 	for i := range members {
-		if members[i].Index != rebuiltMembers[i].Index || members[i].Name != rebuiltMembers[i].Name || members[i].Metadata != rebuiltMembers[i].Metadata {
+		if members[i].Index != rebuiltMembers[i].Index || members[i].Name != rebuiltMembers[i].Name || members[i].LeftChild != rebuiltMembers[i].LeftChild || members[i].RightChild != rebuiltMembers[i].RightChild {
 			t.Errorf("member %d identity/metadata changed: %#v -> %#v", i, members[i], rebuiltMembers[i])
 		}
 	}
@@ -136,8 +136,12 @@ func TestOpenRejectsNonzeroAlignmentGap(t *testing.T) {
 func TestOpenAcceptsObservedRetailNameFieldBoundaries(t *testing.T) {
 	directory := t.TempDir()
 	indexPath, archivePath, index, _ := writeFixture(t, directory)
-	fullWidthName := "sound/audio/ebgmdreamatmosphere."
-	copy(index[0x60:0x80], fullWidthName)
+	longName := "sound/audio/ebgmdreamatmosphere/extended-resource.bin"
+	longNameOffset := len(index)
+	index = append(index, []byte(longName)...)
+	index = append(index, 0)
+	binary.LittleEndian.PutUint32(index[0x20:], uint32(longNameOffset))
+	index = append(index, make([]byte, (16-len(index)%16)%16)...)
 	finalNameOffset := len(index)
 	index = append(index, make([]byte, 16)...)
 	binary.LittleEndian.PutUint32(index[0x20+3*0x10:], uint32(finalNameOffset))
@@ -151,8 +155,8 @@ func TestOpenAcceptsObservedRetailNameFieldBoundaries(t *testing.T) {
 	}
 	defer pair.Close()
 	members := pair.Members()
-	if members[0].Name != fullWidthName {
-		t.Fatalf("full-width member name = %q, want %q", members[0].Name, fullWidthName)
+	if members[0].Name != longName {
+		t.Fatalf("long member name = %q, want %q", members[0].Name, longName)
 	}
 	if members[3].Name != "" {
 		t.Fatalf("final short reserved name = %q, want empty", members[3].Name)

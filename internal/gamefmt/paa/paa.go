@@ -15,19 +15,19 @@ import (
 const (
 	headerSize        = 0x20
 	recordSize        = 0x10
-	nameSize          = 0x20
 	archivePrefixSize = 0x10
 	archiveAlignment  = 0x10
 )
 
-// Member describes one entry in archive order. Metadata contains the two
-// format fields whose meaning is unknown but whose bytes must be preserved.
+// Member describes one entry in archive order. LeftChild and RightChild are
+// filename-search-tree member indexes or 0xffffffff for no child.
 type Member struct {
-	Index    int
-	Name     string
-	Offset   uint32
-	Size     uint32
-	Metadata [2]uint32
+	Index      int
+	Name       string
+	Offset     uint32
+	Size       uint32
+	LeftChild  uint32
+	RightChild uint32
 }
 
 // Replacement selects one member by archive index.
@@ -103,14 +103,10 @@ func (p *Pair) validate() error {
 		if nameOffset >= uint64(len(p.index)) {
 			return fmt.Errorf("%s: member %d has an invalid name field", p.indexPath, i)
 		}
-		nameEnd := nameOffset + nameSize
-		if nameEnd > uint64(len(p.index)) {
-			nameEnd = uint64(len(p.index))
-		}
-		nameField := p.index[nameOffset:nameEnd]
+		nameField := p.index[nameOffset:]
 		nul := bytes.IndexByte(nameField, 0)
 		if nul < 0 {
-			nul = len(nameField)
+			return fmt.Errorf("%s: member %d filename is not NUL-terminated", p.indexPath, i)
 		}
 		for _, value := range nameField[:nul] {
 			if value > 0x7f {
@@ -132,14 +128,12 @@ func (p *Pair) validate() error {
 			return fmt.Errorf("%s: nonzero padding before member %d", p.archivePath, i)
 		}
 		p.members = append(p.members, Member{
-			Index:  int(i),
-			Name:   string(nameField[:nul]),
-			Offset: offset,
-			Size:   size,
-			Metadata: [2]uint32{
-				binary.LittleEndian.Uint32(p.index[record+8 : record+12]),
-				binary.LittleEndian.Uint32(p.index[record+12 : record+16]),
-			},
+			Index:      int(i),
+			Name:       string(nameField[:nul]),
+			Offset:     offset,
+			Size:       size,
+			LeftChild:  binary.LittleEndian.Uint32(p.index[record+8 : record+12]),
+			RightChild: binary.LittleEndian.Uint32(p.index[record+12 : record+16]),
 		})
 		previousEnd = end
 	}
@@ -369,7 +363,7 @@ func verifyRebuilt(source *Pair, indexPath, archivePath string, expectedIndex []
 	}
 	for i, original := range source.members {
 		actual := rebuilt.members[i]
-		if original.Index != actual.Index || original.Name != actual.Name || original.Metadata != actual.Metadata {
+		if original.Index != actual.Index || original.Name != actual.Name || original.LeftChild != actual.LeftChild || original.RightChild != actual.RightChild {
 			return fmt.Errorf("rebuilt member %d identity or metadata differs", i)
 		}
 		expected, replaced := replacements[i]
