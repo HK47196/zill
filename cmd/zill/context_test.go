@@ -36,17 +36,22 @@ func TestContextRequiresOneValidSelector(t *testing.T) {
 }
 
 func TestContextTextReportsUnreferencedBankAsAScene(t *testing.T) {
+	labelID := 340000
 	result := cdccontext.Result{
 		Selector: cdccontext.Selector{Bank: -1, Record: 340008},
 		Scenes: []cdccontext.Scene{{
-			Member:         "message/msgsec034.dat",
-			SourceKind:     "message_bank",
-			Ordering:       "storage_order_only",
-			EvidenceStatus: "no_resolved_static_consumer_reference",
+			Member:               "message/msgsec034.dat",
+			SourceKind:           "message_bank",
+			Ordering:             "storage_order_only",
+			EvidenceStatus:       "no_resolved_static_consumer_reference",
+			FirstRecordMessageID: &labelID,
+			FirstRecordJapanese:  "旅立ち０７メッセージ<end>",
 			Entries: []cdccontext.Entry{{
 				Kind:         "bank_record",
 				MessageID:    340008,
-				Offset:       -1,
+				Offset:       415,
+				OffsetBasis:  "message_bank_byte_offset",
+				Selected:     true,
 				Reachability: "unresolved",
 				Japanese:     "そう言えばっ！<end>",
 				English:      "Oh, that reminds me!<end>",
@@ -64,8 +69,9 @@ func TestContextTextReportsUnreferencedBankAsAScene(t *testing.T) {
 		"Source: message_bank",
 		"Ordering: storage_order_only",
 		"Evidence: no_resolved_static_consumer_reference",
+		"First record (340000): 旅立ち０７メッセージ<end>",
 		"Limitations: no resolved static consumer identifies branch topology, speakers, actor presence, or runtime reachability.",
-		"bank_record 340008 reachability=unresolved",
+		"bank_record 340008 @415 offset=message_bank_byte_offset reachability=unresolved target=true",
 	} {
 		if !strings.Contains(text, wanted) {
 			t.Fatalf("output does not contain %q:\n%s", wanted, text)

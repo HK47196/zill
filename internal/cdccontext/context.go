@@ -36,12 +36,15 @@ type Result struct {
 // scenes; a message bank provides the lossless storage-order unit when no
 // static consumer references the query.
 type Scene struct {
-	Member         string      `json:"member"`
-	SourceKind     string      `json:"source_kind"`
-	Ordering       string      `json:"ordering"`
-	EvidenceStatus string      `json:"evidence_status"`
-	Entries        []Entry     `json:"entries"`
-	References     []Reference `json:"references"`
+	Member               string      `json:"member"`
+	SourceKind           string      `json:"source_kind"`
+	Ordering             string      `json:"ordering"`
+	EvidenceStatus       string      `json:"evidence_status"`
+	FirstRecordMessageID *int        `json:"first_record_message_id,omitempty"`
+	FirstRecordJapanese  string      `json:"first_record_japanese,omitempty"`
+	FirstRecordEnglish   string      `json:"first_record_english,omitempty"`
+	Entries              []Entry     `json:"entries"`
+	References           []Reference `json:"references"`
 }
 
 // Entry is one authored message occurrence with its joined static flow state.
@@ -49,7 +52,9 @@ type Entry struct {
 	Kind                       string             `json:"kind"`
 	MessageID                  int                `json:"message_id"`
 	Offset                     int                `json:"offset"`
+	OffsetBasis                string             `json:"offset_basis"`
 	Position                   int                `json:"position"`
+	Selected                   bool               `json:"selected"`
 	Reachability               string             `json:"reachability"`
 	Depth                      int                `json:"depth"`
 	Path                       []int              `json:"path"`
@@ -123,6 +128,12 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair,
 	if selector.Record >= 0 && selector.Record/10000 >= 279 {
 		return Result{}, fmt.Errorf("cdc context: invalid record %d", selector.Record)
 	}
+	bank := selector.Bank
+	if selector.Record >= 0 {
+		bank = selector.Record / 10_000
+	}
+	bankMemberName := fmt.Sprintf("message/msgsec%03d.dat", bank)
+	bankMemberIndex := -1
 	var bindata []byte
 	var members []paa.Member
 	for _, m := range pair.Members() {
@@ -138,6 +149,12 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair,
 		}
 		if len(m.Name) >= 8 && m.Name[:4] == "cdc/" && len(m.Name) >= 4 && m.Name[len(m.Name)-4:] == ".cdc" {
 			members = append(members, m)
+		}
+		if m.Name == bankMemberName {
+			if bankMemberIndex >= 0 {
+				return Result{}, fmt.Errorf("cdc context: duplicate %s", bankMemberName)
+			}
+			bankMemberIndex = m.Index
 		}
 	}
 	if bindata == nil {
@@ -174,37 +191,61 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair,
 			}
 		}
 		if selected {
+			markSelectedRecord(&scene, selector)
 			result.Scenes = append(result.Scenes, scene)
 		}
 	}
 	if len(result.Scenes) == 0 {
-		result.Scenes = append(result.Scenes, buildBankScene(project, terms, selector))
+		if bankMemberIndex < 0 {
+			return Result{}, fmt.Errorf("cdc context: archive is missing %s", bankMemberName)
+		}
+		payload, err := pair.Payload(bankMemberIndex)
+		if err != nil {
+			return Result{}, err
+		}
+		retailBank, err := corpus.ParseBank(fmt.Sprintf("msgsec%03d.dat", bank), payload)
+		if err != nil {
+			return Result{}, fmt.Errorf("cdc context: %s: %w", bankMemberName, err)
+		}
+		scene, err := buildBankScene(project, terms, bankMemberName, retailBank)
+		if err != nil {
+			return Result{}, err
+		}
+		markSelectedRecord(&scene, selector)
+		result.Scenes = append(result.Scenes, scene)
 	}
 	return result, nil
 }
 
-func buildBankScene(project *corpus.Project, terms fixeddata.Terminology, selector Selector) Scene {
-	bank := selector.Bank
-	if selector.Record >= 0 {
-		bank = selector.Record / 10_000
-	}
+func buildBankScene(project *corpus.Project, terms fixeddata.Terminology, member string, bank corpus.Bank) (Scene, error) {
 	scene := Scene{
-		Member:         fmt.Sprintf("message/msgsec%03d.dat", bank),
+		Member:         member,
 		SourceKind:     "message_bank",
 		Ordering:       "storage_order_only",
 		EvidenceStatus: "no_resolved_static_consumer_reference",
-		Entries:        make([]Entry, 0),
+		Entries:        make([]Entry, 0, len(bank.Records)),
 		References:     make([]Reference, 0),
 	}
+	expected := 0
 	for _, item := range project.Items {
-		if item.Translation.ID/10_000 != bank {
-			continue
+		if item.Translation.ID/10_000 == bank.Section {
+			expected++
+		}
+	}
+	if len(bank.Records) != expected {
+		return Scene{}, fmt.Errorf("cdc context: %s has %d retail records for %d contributor records", member, len(bank.Records), expected)
+	}
+	for _, record := range bank.Records {
+		item, ok := project.Find(record.ID)
+		if !ok {
+			return Scene{}, fmt.Errorf("cdc context: %s contains unknown record %d", member, record.ID)
 		}
 		scene.Entries = append(scene.Entries, Entry{
 			Kind:         "bank_record",
-			MessageID:    item.Translation.ID,
-			Offset:       -1,
-			Position:     len(scene.Entries),
+			MessageID:    record.ID,
+			Offset:       record.Offset,
+			OffsetBasis:  "message_bank_byte_offset",
+			Position:     record.Index,
 			Reachability: "unresolved",
 			Path:         make([]int, 0),
 			Japanese:     item.Translation.Japanese,
@@ -214,7 +255,22 @@ func buildBankScene(project *corpus.Project, terms fixeddata.Terminology, select
 			Actors:       make([]Actor, 0),
 		})
 	}
-	return scene
+	if len(scene.Entries) > 0 {
+		label := scene.Entries[0]
+		scene.FirstRecordMessageID = &label.MessageID
+		scene.FirstRecordJapanese = label.Japanese
+		scene.FirstRecordEnglish = label.English
+	}
+	return scene, nil
+}
+
+func markSelectedRecord(scene *Scene, selector Selector) {
+	if selector.Record < 0 {
+		return
+	}
+	for index := range scene.Entries {
+		scene.Entries[index].Selected = scene.Entries[index].MessageID == selector.Record
+	}
 }
 
 func buildScene(project *corpus.Project, terms fixeddata.Terminology, member string, p cdc.Program, bindata []byte) (Scene, error) {
@@ -351,7 +407,7 @@ func consumer(project *corpus.Project, terms fixeddata.Terminology, data []byte,
 		if !ok {
 			return nil, fmt.Errorf("%s@%d: message ID %d not in project", c.Name, offset, id)
 		}
-		e := Entry{Kind: kind, MessageID: id, Offset: offset, Position: pos + i, Reachability: flow.reachability(), Path: append([]int{}, path...), Guard: guard, Depth: depth, Raw: c.Raw, Japanese: item.Translation.Japanese, English: item.Translation.Text, State: item.Translation.State, Terminology: applicableTerms(terms.Applicable(item)), Actors: actorList(project, data, flow.actors)}
+		e := Entry{Kind: kind, MessageID: id, Offset: offset, OffsetBasis: "cdc_program_byte_offset", Position: pos + i, Reachability: flow.reachability(), Path: append([]int{}, path...), Guard: guard, Depth: depth, Raw: c.Raw, Japanese: item.Translation.Japanese, English: item.Translation.Text, State: item.Translation.State, Terminology: applicableTerms(terms.Applicable(item)), Actors: actorList(project, data, flow.actors)}
 		if kind == "dialogue_association" {
 			e.DisplayMode = intPointer(mode)
 			e.EntityAssociationHandleRaw = intPointer(handle)

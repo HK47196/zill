@@ -272,6 +272,7 @@ func TestBuildReturnsTheCompleteBankAsAStaticSceneWhenNoConsumerReferencesRecord
 	pair := openPair(t, []fixtureMember{
 		{name: "data/bindata.dat", payload: make([]byte, 0x4000)},
 		{name: "cdc/do/unrelated.cdc", payload: []byte("C5:3+2+1350035;E")},
+		{name: "message/msgsec034.dat", payload: messageBankFixture(73, map[int]int{8: 415})},
 	})
 	defer pair.Close()
 	project, _, err := corpus.LoadProject("../..")
@@ -290,6 +291,9 @@ func TestBuildReturnsTheCompleteBankAsAStaticSceneWhenNoConsumerReferencesRecord
 	if scene.Member != "message/msgsec034.dat" || scene.SourceKind != "message_bank" || scene.Ordering != "storage_order_only" || scene.EvidenceStatus != "no_resolved_static_consumer_reference" {
 		t.Fatalf("bank scene provenance = %#v", scene)
 	}
+	if scene.FirstRecordMessageID == nil || *scene.FirstRecordMessageID != 340000 || scene.FirstRecordJapanese != "旅立ち０７メッセージ<end>" {
+		t.Fatalf("bank first record = %#v", scene)
+	}
 	entries := scene.Entries
 	expected := 0
 	for _, item := range project.Items {
@@ -307,14 +311,38 @@ func TestBuildReturnsTheCompleteBankAsAStaticSceneWhenNoConsumerReferencesRecord
 			break
 		}
 	}
-	if target == nil || target.Kind != "bank_record" || target.Reachability != "unresolved" || target.English == "" {
+	if target == nil || target.Kind != "bank_record" || target.Reachability != "unresolved" || target.English == "" || !target.Selected || target.Offset != 415 || target.OffsetBasis != "message_bank_byte_offset" {
 		t.Fatalf("target fallback context = %#v", target)
+	}
+	for _, entry := range entries {
+		if entry.MessageID != 340008 && entry.Selected {
+			t.Fatalf("non-target record was selected: %#v", entry)
+		}
 	}
 }
 
 type fixtureMember struct {
 	name    string
 	payload []byte
+}
+
+func messageBankFixture(recordCount int, forcedOffsets map[int]int) []byte {
+	tableEnd := 2 + recordCount*2
+	offsets := make([]int, recordCount)
+	next := tableEnd
+	for index := range offsets {
+		if forced, ok := forcedOffsets[index]; ok && forced > next {
+			next = forced
+		}
+		offsets[index] = next
+		next++
+	}
+	data := make([]byte, next)
+	binary.LittleEndian.PutUint16(data, uint16(recordCount))
+	for index, offset := range offsets {
+		binary.LittleEndian.PutUint16(data[2+index*2:], uint16(offset))
+	}
+	return data
 }
 
 func openPair(t *testing.T, members []fixtureMember) *paa.Pair {

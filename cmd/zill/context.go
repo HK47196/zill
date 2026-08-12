@@ -169,6 +169,13 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 		fmt.Fprintf(output, "  Source: %s\n", scene.SourceKind)
 		fmt.Fprintf(output, "  Ordering: %s\n", scene.Ordering)
 		fmt.Fprintf(output, "  Evidence: %s\n", scene.EvidenceStatus)
+		if scene.FirstRecordMessageID != nil {
+			fmt.Fprintf(output, "  First record (%d): %s", *scene.FirstRecordMessageID, scene.FirstRecordJapanese)
+			if scene.FirstRecordEnglish != "" {
+				fmt.Fprintf(output, " / %s", scene.FirstRecordEnglish)
+			}
+			fmt.Fprintln(output)
+		}
 		if scene.SourceKind == "message_bank" {
 			fmt.Fprintln(output, "  Limitations: no resolved static consumer identifies branch topology, speakers, actor presence, or runtime reachability.")
 		}
@@ -184,10 +191,16 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 
 func writeContextEntries(output io.Writer, entries []cdccontext.Entry) {
 	for _, entry := range entries {
-		if entry.Offset >= 0 {
-			fmt.Fprintf(output, "  [%d] %s %d @%d path=%s reachability=%s\n", entry.Position, entry.Kind, entry.MessageID, entry.Offset, contextPath(entry.Path), entry.Reachability)
+		target := ""
+		if entry.Selected {
+			target = " target=true"
+		}
+		if entry.OffsetBasis == "message_bank_byte_offset" {
+			fmt.Fprintf(output, "  [%d] %s %d @%d offset=%s reachability=%s%s\n", entry.Position, entry.Kind, entry.MessageID, entry.Offset, entry.OffsetBasis, entry.Reachability, target)
+		} else if entry.Offset >= 0 {
+			fmt.Fprintf(output, "  [%d] %s %d @%d offset=%s path=%s reachability=%s%s\n", entry.Position, entry.Kind, entry.MessageID, entry.Offset, entry.OffsetBasis, contextPath(entry.Path), entry.Reachability, target)
 		} else {
-			fmt.Fprintf(output, "  [%d] %s %d reachability=%s\n", entry.Position, entry.Kind, entry.MessageID, entry.Reachability)
+			fmt.Fprintf(output, "  [%d] %s %d reachability=%s%s\n", entry.Position, entry.Kind, entry.MessageID, entry.Reachability, target)
 		}
 		if entry.Guard != "" {
 			fmt.Fprintf(output, "    Enclosing blocks: %s\n", entry.Guard)
