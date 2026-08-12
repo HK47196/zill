@@ -245,6 +245,9 @@ func readPairedFile(path string, section int) ([]Translation, error) {
 	if err != nil {
 		return nil, fmt.Errorf("%s: required paired section: %w", path, err)
 	}
+	if !bytes.HasPrefix(data, []byte(englishLicenseLine+"\n")) {
+		return nil, fmt.Errorf("%s: required license header is missing", path)
+	}
 	var decoded map[string]pairedValue
 	decoder := toml.NewDecoder(bytes.NewReader(data))
 	decoder.DisallowUnknownFields()
@@ -289,9 +292,6 @@ func readPairedFile(path string, section int) ([]Translation, error) {
 	ordered := make([]Translation, len(ids))
 	for index, id := range ids {
 		ordered[index] = values[id]
-	}
-	if !bytes.Equal(data, renderPairedFile(ordered)) {
-		return nil, fmt.Errorf("%s: file is not in canonical paired format", path)
 	}
 	return ordered, nil
 }

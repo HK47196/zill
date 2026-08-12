@@ -1388,10 +1388,12 @@ english = "Citizens' Guild<end>"
 japanese = "魔道アカデミー<end>"
 english = "Magic Academy<end>"
 
+# Shortened from "Item Merchants' Guild" to fit the 16-byte guild-client payload.
 ["1670347"]
 japanese = "道具屋ギルド<end>"
 english = "Item Shop Guild<end>"
 
+# Shortened from "Blacksmiths' Guild" to fit the 16-byte guild-client payload.
 ["1670348"]
 japanese = "鍛冶屋ギルド<end>"
 english = "Smiths' Guild<end>"
@@ -1400,6 +1402,7 @@ english = "Smiths' Guild<end>"
 japanese = "ノトゥーン神殿<end>"
 english = "Notun Temple<end>"
 
+# Shortened from "Hugo Trading Company" to fit the 16-byte guild-client payload.
 ["1670350"]
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"
@@ -1420,10 +1423,12 @@ english = "Citizens' Guild<end>"
 japanese = "近くの村<end>"
 english = "Nearby Village<end>"
 
+# Shortened from "Item Merchants' Guild" to fit the 16-byte guild-client payload.
 ["1670355"]
 japanese = "道具屋ギルド<end>"
 english = "Item Shop Guild<end>"
 
+# Shortened from "Blacksmiths' Guild" to fit the 16-byte guild-client payload.
 ["1670356"]
 japanese = "鍛冶屋ギルド<end>"
 english = "Smiths' Guild<end>"
@@ -1432,6 +1437,7 @@ english = "Smiths' Guild<end>"
 japanese = "酒場ギルド<end>"
 english = "Tavern Guild<end>"
 
+# Shortened from "Hugo Trading Company" to fit the 16-byte guild-client payload.
 ["1670358"]
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"
@@ -1452,10 +1458,12 @@ english = "Citizens' Guild<end>"
 japanese = "近くの村<end>"
 english = "Nearby Village<end>"
 
+# Shortened from "Item Merchants' Guild" to fit the 16-byte guild-client payload.
 ["1670363"]
 japanese = "道具屋ギルド<end>"
 english = "Item Shop Guild<end>"
 
+# Shortened from "Blacksmiths' Guild" to fit the 16-byte guild-client payload.
 ["1670364"]
 japanese = "鍛冶屋ギルド<end>"
 english = "Smiths' Guild<end>"
@@ -1464,6 +1472,7 @@ english = "Smiths' Guild<end>"
 japanese = "酒場ギルド<end>"
 english = "Tavern Guild<end>"
 
+# Shortened from "Hugo Trading Company" to fit the 16-byte guild-client payload.
 ["1670366"]
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"
@@ -1480,10 +1489,12 @@ english = "Liberdam League<end>"
 japanese = "近くの村<end>"
 english = "Nearby Village<end>"
 
+# Shortened from "Item Merchants' Guild" to fit the 16-byte guild-client payload.
 ["1670370"]
 japanese = "道具屋ギルド<end>"
 english = "Item Shop Guild<end>"
 
+# Shortened from "Blacksmiths' Guild" to fit the 16-byte guild-client payload.
 ["1670371"]
 japanese = "鍛冶屋ギルド<end>"
 english = "Smiths' Guild<end>"
@@ -1492,6 +1503,7 @@ english = "Smiths' Guild<end>"
 japanese = "酒場ギルド<end>"
 english = "Tavern Guild<end>"
 
+# Shortened from "Hugo Trading Company" to fit the 16-byte guild-client payload.
 ["1670373"]
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"
@@ -1516,10 +1528,12 @@ english = "Citizens' Guild<end>"
 japanese = "近くの村<end>"
 english = "Nearby Village<end>"
 
+# Shortened from "Item Merchants' Guild" to fit the 16-byte guild-client payload.
 ["1670379"]
 japanese = "道具屋ギルド<end>"
 english = "Item Shop Guild<end>"
 
+# Shortened from "Blacksmiths' Guild" to fit the 16-byte guild-client payload.
 ["1670380"]
 japanese = "鍛冶屋ギルド<end>"
 english = "Smiths' Guild<end>"
@@ -1528,6 +1542,7 @@ english = "Smiths' Guild<end>"
 japanese = "酒場ギルド<end>"
 english = "Tavern Guild<end>"
 
+# Shortened from "Hugo Trading Company" to fit the 16-byte guild-client payload.
 ["1670382"]
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"
@@ -1548,10 +1563,12 @@ english = "Citizens' Guild<end>"
 japanese = "近くの村<end>"
 english = "Nearby Village<end>"
 
+# Shortened from "Item Merchants' Guild" to fit the 16-byte guild-client payload.
 ["1670387"]
 japanese = "道具屋ギルド<end>"
 english = "Item Shop Guild<end>"
 
+# Shortened from "Blacksmiths' Guild" to fit the 16-byte guild-client payload.
 ["1670388"]
 japanese = "鍛冶屋ギルド<end>"
 english = "Smiths' Guild<end>"
@@ -1560,6 +1577,7 @@ english = "Smiths' Guild<end>"
 japanese = "酒場ギルド<end>"
 english = "Tavern Guild<end>"
 
+# Shortened from "Hugo Trading Company" to fit the 16-byte guild-client payload.
 ["1670390"]
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"
@@ -1580,10 +1598,12 @@ english = "Citizens' Guild<end>"
 japanese = "近くの村<end>"
 english = "Nearby Village<end>"
 
+# Shortened from "Item Merchants' Guild" to fit the 16-byte guild-client payload.
 ["1670395"]
 japanese = "道具屋ギルド<end>"
 english = "Item Shop Guild<end>"
 
+# Shortened from "Blacksmiths' Guild" to fit the 16-byte guild-client payload.
 ["1670396"]
 japanese = "鍛冶屋ギルド<end>"
 english = "Smiths' Guild<end>"
@@ -1592,6 +1612,7 @@ english = "Smiths' Guild<end>"
 japanese = "酒場ギルド<end>"
 english = "Tavern Guild<end>"
 
+# Shortened from "Hugo Trading Company" to fit the 16-byte guild-client payload.
 ["1670398"]
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"
@@ -1612,10 +1633,12 @@ english = "Citizens' Guild<end>"
 japanese = "近くの村<end>"
 english = "Nearby Village<end>"
 
+# Shortened from "Item Merchants' Guild" to fit the 16-byte guild-client payload.
 ["1670403"]
 japanese = "道具屋ギルド<end>"
 english = "Item Shop Guild<end>"
 
+# Shortened from "Blacksmiths' Guild" to fit the 16-byte guild-client payload.
 ["1670404"]
 japanese = "鍛冶屋ギルド<end>"
 english = "Smiths' Guild<end>"
@@ -1624,6 +1647,7 @@ english = "Smiths' Guild<end>"
 japanese = "酒場ギルド<end>"
 english = "Tavern Guild<end>"
 
+# Shortened from "Hugo Trading Company" to fit the 16-byte guild-client payload.
 ["1670406"]
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"
@@ -1644,10 +1668,12 @@ english = "Citizens' Guild<end>"
 japanese = "海洋ギルド<end>"
 english = "Maritime Guild<end>"
 
+# Shortened from "Item Merchants' Guild" to fit the 16-byte guild-client payload.
 ["1670411"]
 japanese = "道具屋ギルド<end>"
 english = "Item Shop Guild<end>"
 
+# Shortened from "Blacksmiths' Guild" to fit the 16-byte guild-client payload.
 ["1670412"]
 japanese = "鍛冶屋ギルド<end>"
 english = "Smiths' Guild<end>"
@@ -1656,6 +1682,7 @@ english = "Smiths' Guild<end>"
 japanese = "酒場ギルド<end>"
 english = "Tavern Guild<end>"
 
+# Shortened from "Hugo Trading Company" to fit the 16-byte guild-client payload.
 ["1670414"]
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"
@@ -1708,10 +1735,12 @@ english = "Citizens' Guild<end>"
 japanese = "近くの村<end>"
 english = "Nearby Village<end>"
 
+# Shortened from "Item Merchants' Guild" to fit the 16-byte guild-client payload.
 ["1670427"]
 japanese = "道具屋ギルド<end>"
 english = "Item Shop Guild<end>"
 
+# Shortened from "Blacksmiths' Guild" to fit the 16-byte guild-client payload.
 ["1670428"]
 japanese = "鍛冶屋ギルド<end>"
 english = "Smiths' Guild<end>"
@@ -1720,6 +1749,7 @@ english = "Smiths' Guild<end>"
 japanese = "酒場ギルド<end>"
 english = "Tavern Guild<end>"
 
+# Shortened from "Hugo Trading Company" to fit the 16-byte guild-client payload.
 ["1670430"]
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"
@@ -1748,14 +1778,17 @@ english = "Notun Temple<end>"
 japanese = "酒場ギルド<end>"
 english = "Tavern Guild<end>"
 
+# Shortened from "Item Merchants' Guild" to fit the 16-byte guild-client payload.
 ["1670437"]
 japanese = "道具屋ギルド<end>"
 english = "Item Shop Guild<end>"
 
+# Shortened from "Blacksmiths' Guild" to fit the 16-byte guild-client payload.
 ["1670438"]
 japanese = "鍛冶屋ギルド<end>"
 english = "Smiths' Guild<end>"
 
+# Shortened from "Hugo Trading Company" to fit the 16-byte guild-client payload.
 ["1670439"]
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"
@@ -1772,10 +1805,12 @@ english = "Citizens' Guild<end>"
 japanese = "近くの村<end>"
 english = "Nearby Village<end>"
 
+# Shortened from "Item Merchants' Guild" to fit the 16-byte guild-client payload.
 ["1670443"]
 japanese = "道具屋ギルド<end>"
 english = "Item Shop Guild<end>"
 
+# Shortened from "Blacksmiths' Guild" to fit the 16-byte guild-client payload.
 ["1670444"]
 japanese = "鍛冶屋ギルド<end>"
 english = "Smiths' Guild<end>"
@@ -1784,6 +1819,7 @@ english = "Smiths' Guild<end>"
 japanese = "酒場ギルド<end>"
 english = "Tavern Guild<end>"
 
+# Shortened from "Hugo Trading Company" to fit the 16-byte guild-client payload.
 ["1670446"]
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"

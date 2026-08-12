@@ -2052,6 +2052,7 @@ english = "Spray Archipelago<end>"
 japanese = "試練の迷宮<end>"
 english = "Labyrinth of Trials<end>"
 
+# Shortened from "Place Revealed by the Crystal" to fit the 27-byte bounded-label payload.
 ["513"]
 japanese = "水晶が導く場所<end>"
 english = "Crystal-Guided Place<end>"
@@ -2104,14 +2105,17 @@ english = "Silver Dragon's Lair<end>"
 japanese = "罪深き者の迷宮<end>"
 english = "Labyrinth of Sinners<end>"
 
+# Shortened from "Death-Heralding Angels' Hideout" to fit the 27-byte bounded-label payload.
 ["526"]
 japanese = "告死天使アジト<end>"
 english = "Death-Herald Angels' Den<end>"
 
+# Shortened from "Liberation Army Headquarters" to fit the 27-byte bounded-label payload.
 ["527"]
 japanese = "解放軍本部<end>"
 english = "Liberation Army HQ<end>"
 
+# Shortened from "Rocen Branch of the Liberation Army" to fit the 27-byte bounded-label payload.
 ["528"]
 japanese = "解放軍ロセン支部<end>"
 english = "Rocen Liberation Branch<end>"
@@ -2208,6 +2212,7 @@ english = "Encounter Point<end>"
 japanese = "遭遇ポイント<end>"
 english = "Encounter Point<end>"
 
+# Shortened from "Royal Palace Underground Passage" to fit the 27-byte bounded-label payload.
 ["552"]
 japanese = "王宮地下通路<end>"
 english = "Royal Palace Tunnel<end>"

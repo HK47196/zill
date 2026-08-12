@@ -4,6 +4,8 @@ package corpus
 
 import (
 	"bytes"
+	"os"
+	"path/filepath"
 	"testing"
 )
 
@@ -11,6 +13,48 @@ func TestTrackedProjectPassesContributorFoundationChecks(t *testing.T) {
 	_, _, err := LoadProject("../..")
 	if err != nil {
 		t.Fatalf("LoadProject: %v", err)
+	}
+}
+
+func TestLoadProjectAcceptsMessageComments(t *testing.T) {
+	sourceDir := filepath.Join("..", "..", "translations", "messages")
+	root := t.TempDir()
+	targetDir := filepath.Join(root, "translations", "messages")
+	if err := os.MkdirAll(targetDir, 0o755); err != nil {
+		t.Fatal(err)
+	}
+	entries, err := os.ReadDir(sourceDir)
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, entry := range entries {
+		source := filepath.Join(sourceDir, entry.Name())
+		target := filepath.Join(targetDir, entry.Name())
+		if entry.Name() != "msgsec000.toml" {
+			absolute, err := filepath.Abs(source)
+			if err != nil {
+				t.Fatal(err)
+			}
+			if err := os.Symlink(absolute, target); err != nil {
+				t.Fatal(err)
+			}
+			continue
+		}
+		data, err := os.ReadFile(source)
+		if err != nil {
+			t.Fatal(err)
+		}
+		withComment := bytes.Replace(data, []byte("\n[\"0\"]\n"), []byte("\n# Verified buffer note.\n[\"0\"]\n"), 1)
+		if bytes.Equal(withComment, data) {
+			t.Fatal("failed to add test comment")
+		}
+		if err := os.WriteFile(target, withComment, 0o644); err != nil {
+			t.Fatal(err)
+		}
+	}
+
+	if _, _, err := LoadProject(root); err != nil {
+		t.Fatalf("LoadProject rejected a message comment: %v", err)
 	}
 }
 
