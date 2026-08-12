@@ -594,7 +594,7 @@ english = "Hey, <value:$28>! There's a letter for you.<end>"
 
 ["890148"]
 japanese = "\u3000\u3000\u3000<value:$28>殿<line-break>\u3000\u3000依頼いたしたき件あり。<line-break>\u3000\u3000至急、エンシャント政庁まで<line-break>\u3000\u3000お越しくださるよう。<line-break>\u3000\u3000\u3000ザギヴ・ディンガル<end>"
-english = "To <value:$28>: I have a matter requiring your assistance. Please come to the Ancient government offices at once. Zagiv Dingar<end>"
+english = "To <value:$28>: I have a matter requiring your assistance. Please come to Ancient Government Hall at once. Zagiv Dingal<end>"
 
 ["890149"]
 japanese = "おう！\u3000<value:$28><line-break>手紙が届いているぜ。<end>"
@@ -602,7 +602,7 @@ english = "Hey, <value:$28>! A letter came for you.<end>"
 
 ["890150"]
 japanese = "               <value:$28>殿<line-break>                依頼いたしたき件あり。\u3000\u3000<line-break>                至急、エンシャント政庁まで<line-break>                お越しくださるよう。<line-break>                ザギヴ・ディンガル<end>"
-english = "<value:$28>, I have a matter requiring your assistance. Please come to the Ancient government offices at once. Zagiv Dingal<end>"
+english = "<value:$28>, I have a matter requiring your assistance. Please come to Ancient Government Hall at once. Zagiv Dingal<end>"
 
 ["890151"]
 japanese = "<value:$28>様でありますか！<line-break>ザギヴ将軍よりお話は承っております！<line-break>どうぞ！\u3000ご案内いたします！<end>"

@@ -384,6 +384,7 @@ english = "Spectator<end>"
 japanese = "珍品探しの冒険者<end>"
 english = "Curio-Hunting Adventurer<end>"
 
+# Canonical "Mage Seeking Forbidden Magic" exceeds the 27-byte bounded-label maximum.
 ["1670096"]
 japanese = "禁呪を求める魔道士<end>"
 english = "Mage After Forbidden Spell<end>"
@@ -560,6 +561,7 @@ english = "Guard and Former Adventurer<end>"
 japanese = "警備員ボルダン<end>"
 english = "Bordan Guard<end>"
 
+# Canonical "Mage Seeking Forbidden Magic" exceeds the 27-byte bounded-label maximum.
 ["1670140"]
 japanese = "禁呪を求める魔道士<end>"
 english = "Mage After Forbidden Spell<end>"
@@ -1376,6 +1378,7 @@ english = "Wandering Priest<end>"
 japanese = "バロル<end>"
 english = "Balor<end>"
 
+# Canonical "Dingal Government Office" exceeds the 16-byte guild-client maximum.
 ["1670344"]
 japanese = "ディンガル政庁<end>"
 english = "Dingal Office<end>"
@@ -1481,6 +1484,7 @@ english = "Hugo Trading Co.<end>"
 japanese = "吟遊詩人ギルド<end>"
 english = "Bards' Guild<end>"
 
+# Canonical "Liberdam Civic League" exceeds the 16-byte guild-client maximum.
 ["1670368"]
 japanese = "リベルダム自治連<end>"
 english = "Liberdam League<end>"
@@ -1508,6 +1512,7 @@ english = "Tavern Guild<end>"
 japanese = "フゴー商会<end>"
 english = "Hugo Trading Co.<end>"
 
+# Canonical "Weapons Merchants' Guild" exceeds the 16-byte guild-client maximum.
 ["1670374"]
 japanese = "武器商人ギルド<end>"
 english = "Weapons Guild<end>"
@@ -1516,6 +1521,7 @@ english = "Weapons Guild<end>"
 japanese = "吟遊詩人ギルド<end>"
 english = "Bards' Guild<end>"
 
+# Canonical "Rocen Governor-General's Office" exceeds the 16-byte guild-client maximum.
 ["1670376"]
 japanese = "ロセン総督府<end>"
 english = "Rocen Office<end>"
@@ -1758,6 +1764,7 @@ english = "Hugo Trading Co.<end>"
 japanese = "吟遊詩人ギルド<end>"
 english = "Bards' Guild<end>"
 
+# Canonical "Dingal Government Office" exceeds the 16-byte guild-client maximum.
 ["1670432"]
 japanese = "ディンガル政庁<end>"
 english = "Dingal Office<end>"
