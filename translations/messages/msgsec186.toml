@@ -566,7 +566,7 @@ english = "I'll be blunt: your father's in grave danger. Judging by how weak he'
 
 ["1860141"]
 japanese = "エリス王妃は、<line-break>雌狐と呼ばれるほどの謀略家。<line-break>毒にも詳しい。<line-break>シロウラギリの毒に<line-break>フリントがやられたと言って、<line-break>生命のかけらをもらってこい。<end>"
-english = "Queen Eris is such a schemer that they call her the Vixen. She knows her poisons, too. Tell her Flint was poisoned with Shirouragiri and get a Fragment of Life from her.<end>"
+english = "Queen Eris is such a schemer that they call her the Vixen. She knows her poisons, too. Tell her Flint was poisoned with Shirouragiri and get a Life Fragment from her.<end>"
 
 ["1860142"]
 japanese = "急いで戻れ。<line-break>…一刻を争う状況だ。<end>"
@@ -578,7 +578,7 @@ english = "Please hurry, <value:$28>...<end>"
 
 ["1860144"]
 japanese = "<select><value:$20>%3エリス王妃に会って<line-break>生命のかけらをもらってこい。<line-break>王妃はロストール王宮だ。<end>王妃のいる王宮へは、<line-break>とにかく奥へ奥へと行けばいい。<line-break>頼んだぜ、<value:$28>。<end>急いで戻れ。<line-break>…思ったより、衰弱が激しい。<end>"
-english = "<select><value:$20>%3Go see Queen Eris and get a Fragment of Life from her. She's at Rostorl Palace.<end>Just keep heading farther in and you'll reach the palace where the Queen is. I'm counting on you, <value:$28>.<end>Come straight back. He's weakening faster than I thought.<end>"
+english = "<select><value:$20>%3Go see Queen Eris and get a Life Fragment from her. She's at Rostorl Palace.<end>Just keep heading farther in and you'll reach the palace where the Queen is. I'm counting on you, <value:$28>.<end>Come straight back. He's weakening faster than I thought.<end>"
 
 ["1860145"]
 japanese = "ロストール王宮を知ってるかーい？<line-break>青い紋章の入った柱の間を行けば、\u3000<line-break>貴族街に出るのさー。<line-break>その貴族街のさらに奥に行けば<line-break>王宮に出るのさー。<line-break>遠いから、ボクは行かないけどねー。<end>"
@@ -622,7 +622,7 @@ english = "<if><value:$29><equal>%0Shirouragiri poison, you say? Flint was poiso
 
 ["1860155"]
 japanese = "ほう、<line-break>ゼネテスという冒険者がな…。\u3000\u3000<line-break>なるほど。<line-break>よかろう。<line-break>生命のかけらを与える。<line-break>これでフリントも回復しよう。<end>"
-english = "Ah, an adventurer named Xenetes… I see. Very well. I shall grant you a Fragment of Life. With this, Flint should recover.<end>"
+english = "Ah, an adventurer named Xenetes… I see. Very well. I shall grant you a Life Fragment. With this, Flint should recover.<end>"
 
 ["1860156"]
 japanese = "下がるがよい。<line-break>時をおいて、また連絡する。<line-break>役目、ご苦労だった。<end>"

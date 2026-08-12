@@ -450,7 +450,7 @@ english = "Selmono<end>"
 
 ["112"]
 japanese = "ソリアス<end>"
-english = "Sorias<end>"
+english = "Solias<end>"
 
 ["113"]
 japanese = "ダディアス<end>"
@@ -5003,7 +5003,7 @@ english = "Windfarer Feather<end>"
 
 ["1249"]
 japanese = "タレモルゲの汽水<end>"
-english = "Taremorge Brackwater<end>"
+english = "Taremorge Brackish Water<end>"
 
 ["1250"]
 japanese = "コカゲキノコ<end>"
@@ -5043,7 +5043,7 @@ english = "Firegrass Seed<end>"
 
 ["1259"]
 japanese = "聖光石のかけら<end>"
-english = "Sacred Lightstone Chip<end>"
+english = "Sacred Lightstone Shard<end>"
 
 ["1260"]
 japanese = "炎竜岩<end>"
@@ -5199,7 +5199,7 @@ english = "Bandit Fort Key<end>"
 
 ["1298"]
 japanese = "特大愛妻弁当<end>"
-english = "Giant Wife-Made Bento<end>"
+english = "Extra-Large Wife-Made Bento<end>"
 
 ["1299"]
 japanese = "空の弁当箱<end>"
@@ -5305,6 +5305,7 @@ english = "Mermaid Earrings<end>"
 japanese = "色惑の瞳<end>"
 english = "Eye of Allure<end>"
 
+# Shortened from "Statue of the Underworld Maiden" to keep guild postings within the 315-byte payload limit.
 ["1325"]
 japanese = "黄泉の乙女像<end>"
 english = "Underworld Maiden Idol<end>"

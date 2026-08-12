@@ -618,7 +618,7 @@ english = "<value:$28>! You defeated the monster in the Azure Cave?!<end>"
 
 ["1610154"]
 japanese = "<if><value:$2A><greater-equal>50そうか！！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>さすがは<value:$2B>だ！<line-break>\u3000<line-break>これで帝国のコロル石採掘作業も<line-break>もとどおりの軌道に乗れるだろう。<line-break>本当によくやってくれた。<end>そうか！！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>さすがは<value:$28>だ！<line-break>\u3000<line-break>これで帝国のコロル石採掘作業も<line-break>もとどおりの軌道に乗れるだろう。<line-break>本当によくやってくれた。<end>"
-english = "<if><value:$2A><greater-equal>50So you did! Just what I'd expect from <value:$2B>! Now the Empire's Corol stone mining operation can get back on track. You've done a fine job.<end>So you did! Just what I'd expect from <value:$28>! Now the Empire's Corol stone mining operation can get back on track. You've done a fine job.<end>"
+english = "<if><value:$2A><greater-equal>50So you did! Just what I'd expect from <value:$2B>! Now the Empire's Korol Stone mining operation can get back on track. You've done a fine job.<end>So you did! Just what I'd expect from <value:$28>! Now the Empire's Korol Stone mining operation can get back on track. You've done a fine job.<end>"
 
 ["1610155"]
 japanese = "しかし、あの町外れの小僧が\u3000\u3000\u3000\u3000<line-break>ここまで立派になるとはな。<line-break>\u3000<line-break>正直言って意外だが、それ以上に<line-break>お前の勇姿を見ることは嬉しいぞ。<line-break>いや、本当に大したもんだよ。<end>"

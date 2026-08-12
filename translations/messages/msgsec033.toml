@@ -542,7 +542,7 @@ english = "To be blunt, your old man is in grave danger. Queen Eris is such a sc
 
 ["330135"]
 japanese = "シロウラギリの毒に<line-break>フリントがやられたと言って、<line-break>生命のかけらをもらってこい。<end>"
-english = "Tell her Flint was poisoned with Shirouragiri and ask for a Fragment of Life.<end>"
+english = "Tell her Flint was poisoned with Shirouragiri and ask for a Life Fragment.<end>"
 
 ["330136"]
 japanese = "急いで戻れ。<line-break>…思ったより、衰弱が激しい。<end>"
@@ -586,7 +586,7 @@ english = "<if><value:$29><equal>%0Shirouragiri poison, you say? Flint was poiso
 
 ["330146"]
 japanese = "ほう、<line-break>ゼネテスという冒険者がな…。<line-break>なるほど？<line-break>よかろう。<line-break>生命のかけらを与える。<line-break>これでフリントも回復しよう。<end>"
-english = "Oh? An adventurer named Xenetes told you? I see. Very well. I shall give you a Fragment of Life. This should restore Flint.<end>"
+english = "Oh? An adventurer named Xenetes told you? I see. Very well. I shall give you a Life Fragment. This should restore Flint.<end>"
 
 ["330147"]
 japanese = "下がるがよい。<end>"
@@ -726,7 +726,7 @@ english = "My, my. Aren't you leaving today, Mr. Flint? Should you really be sta
 
 ["330181"]
 japanese = "<select><value:$20>%3エリス王妃に会って<line-break>生命のかけらをもらってこい。<line-break>王妃はロストール王宮だ。<end>王妃のいる王宮へは、<line-break>とにかく奥へ奥へと行けばいい。<line-break>頼んだぜ、<value:$28>。<end>急いで戻れ。<line-break>…思ったより、衰弱が激しい。<end>"
-english = "<select><value:$20>%3Go see Queen Eris and bring back a fragment of life. The Queen is at the royal palace in Rostorl.<end>To reach the palace where the Queen is, just keep heading farther in. I'm counting on you, <value:$28>.<end>Hurry back. He's weaker than I thought.<end>"
+english = "<select><value:$20>%3Go see Queen Eris and bring back a Life Fragment. The Queen is at the royal palace in Rostorl.<end>To reach the palace where the Queen is, just keep heading farther in. I'm counting on you, <value:$28>.<end>Hurry back. He's weaker than I thought.<end>"
 
 ["330182"]
 japanese = "<value:$28>……、急いでね。<line-break>早く帰ってきてね。早く帰ってきて<line-break><line-break><end>フリントさんを笑顔にしてあげてね。<end>"
@@ -830,7 +830,7 @@ english = "Let's rest here for a while.<end>"
 
 ["330207"]
 japanese = "<select><value:$20>%3エリス王妃に会って<line-break>生命のかけらをもらってこい。<line-break>王妃はロストール王宮だ。<end>王妃のいる王宮へは、<line-break>とにかく奥へ奥へと行けばいい。<line-break>頼んだぜ、<value:$28>。<end>急いで戻れ。<line-break>…思ったより、衰弱が激しい。<end>"
-english = "<select><value:$20>%3Go see Queen Eris and get a fragment of life from her. You'll find her at the royal palace in Rostorl.<end>To reach the palace where the queen is, just keep heading farther and farther in. I'm counting on you, <value:$28>.<end>Hurry back. ...Much weaker than I thought.<end>"
+english = "<select><value:$20>%3Go see Queen Eris and get a Life Fragment from her. You'll find her at the royal palace in Rostorl.<end>To reach the palace where the queen is, just keep heading farther and farther in. I'm counting on you, <value:$28>.<end>Hurry back. ...Much weaker than I thought.<end>"
 
 ["330208"]
 japanese = "この奥にみごとな千年樹が\u3000\u3000\u3000<line-break>見えますじゃろう？<line-break>あすこが広場ですじゃ。<line-break>その広場を右手に行くと貴族街。<line-break>その貴族街のずっとずっと奥が<line-break>王妃様のおられる王宮ですじゃ。<end>"

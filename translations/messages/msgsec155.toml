@@ -118,7 +118,7 @@ english = "This is Hyande Ore. Be careful: carrying it lowers ＡＧＩ. It is a
 
 ["1550029"]
 japanese = "これはきれぐもの巣というものです。<line-break>これを持つと、ＤＥＸが下がるので<line-break>注意してください。<line-break><line-break>また、これはかなり危険なものなので、<line-break>捨てるなら元のところへ返してください。<line-break>それが冒険者の心得というものです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冒険者ギルド<end>"
-english = "This is a Kiregumo Web. Be careful: carrying it lowers ＤＥＸ. It is also quite dangerous, so if you discard it, return it to where you found it. That is the adventurer's code. ―Adventurers' Guild<end>"
+english = "This is a Kiregumo Nest. Be careful: carrying it lowers ＤＥＸ. It is also quite dangerous, so if you discard it, return it to where you found it. That is the adventurer's code. ―Adventurers' Guild<end>"
 
 ["1550030"]
 japanese = "これはハヤスの葉というものです。<line-break>これを持つと、ＩＮＴが下がるので<line-break>注意してください。<line-break><line-break>また、これはかなり危険なものなので、<line-break>捨てるなら元のところへ返してください。<line-break>それが冒険者の心得というものです。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000冒険者ギルド<end>"
@@ -194,7 +194,7 @@ english = "Take the Firegrass Seed?<end>"
 
 ["1550048"]
 japanese = "聖光石のかけらを採りますか？<end>"
-english = "Take the Holy Light Stone fragment?<end>"
+english = "Take the Sacred Lightstone Shard?<end>"
 
 ["1550049"]
 japanese = "炎竜岩を採りますか？<end>"
@@ -262,7 +262,7 @@ english = "Discard the Firegrass Seed?<end>"
 
 ["1550065"]
 japanese = "聖光石のかけらを捨てますか？<end>"
-english = "Discard the Holy Light Stone fragment?<end>"
+english = "Discard the Sacred Lightstone Shard?<end>"
 
 ["1550066"]
 japanese = "炎竜岩を捨てますか？<end>"

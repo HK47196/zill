@@ -814,7 +814,7 @@ english = "B-but...!<end>"
 
 ["1340203"]
 japanese = "私はディンガル帝国皇帝<line-break>ネメア・ランガスター・ディンガル<line-break>ウルカーン長老シェムハザに告ぐ。<line-break>これ以上の抵抗は無駄だ。<line-break>降伏して束縛の腕輪を渡せば、<line-break>生命の安全は保障しよう。<end>"
-english = "I am Nemea Langaster Dingal, Emperor of the Dingal Empire. Hear me, Shemhaza, Elder of Ulkaan. Further resistance is futile. Surrender and hand over the Bracelet of Binding, and I shall guarantee your safety.<end>"
+english = "I am Nemea Lancaster Dingal, Emperor of the Dingal Empire. Hear me, Shemhaza, Elder of Ulkaan. Further resistance is futile. Surrender and hand over the Bracelet of Binding, and I shall guarantee your safety.<end>"
 
 ["1340204"]
 japanese = "バカな！\u3000マグマゴーレムが全滅！？<line-break>し、信じられぬ！<end>"
@@ -834,7 +834,7 @@ english = "Likewise, Zelig.<end>"
 
 ["1340208"]
 japanese = "同じくドルドラムじゃ。<line-break>ソリアスに使える神官じゃ。<line-break> <line-break>長老シェムハザ殿、いかな大軍も<line-break>寄せつけぬマグマゴーレムも、<line-break>ただ少数の勇者にはかなわなんだな。<end>"
-english = "And I am Doldrum, a priest in the service of Sorias. Elder Shemhaza, your Magma Golems may hold any great army at bay, but they were no match for a mere handful of heroes.<end>"
+english = "And I am Doldrum, a priest in the service of Solias. Elder Shemhaza, your Magma Golems may hold any great army at bay, but they were no match for a mere handful of heroes.<end>"
 
 ["1340209"]
 japanese = "マグマゴーレムがあっという間に倒され<line-break>町の者は皆、抵抗する気が失せておる。<line-break>長老、降伏なされ。悪いようにはせん。<end>"
@@ -898,7 +898,7 @@ english = "I am Lord Nemea's warrior. If next we meet, you stand before me as an
 
 ["1340224"]
 japanese = "エスト・リューガ博士で<line-break>いらっしゃいますね。<end>"
-english = "You are Dr. Est Ryuuga, I presume.<end>"
+english = "You are Dr. Est Ryuga, I presume.<end>"
 
 ["1340225"]
 japanese = "あなたは？<end>"
@@ -946,7 +946,7 @@ english = "I-I can't abandon it.<end>"
 
 ["1340236"]
 japanese = "…そうですか。<line-break>残念です、エスト・リューガ博士。<line-break> <line-break>もっとも、あのお方は、<line-break>あなたが神器に触れた時点で、<line-break>生かしておく気はなかったのですが。<end>"
-english = "I see. A pity, Dr. Est Ryuuga. Though in truth, that great one never intended to let you live once you had touched the divine artifact.<end>"
+english = "I see. A pity, Dr. Est Ryuga. Though in truth, that great one never intended to let you live once you had touched the divine artifact.<end>"
 
 ["1340237"]
 japanese = "ノエル！\u3000レイヴン！\u3000カフィン！<end>"
@@ -1022,7 +1022,7 @@ english = "<value:$28>! He's lying! Believe me!<end>"
 
 ["1340255"]
 japanese = "そんなの嘘だよ！\u3000\u3000\u3000\u3000\u3000\u3000<line-break>僕はエスト・リューガ。<line-break>ただの考古学者。僕を信じて！<end>"
-english = "That's a lie! I'm Est Ryuuga, just an archaeologist. Please, believe me!<end>"
+english = "That's a lie! I'm Est Ryuga, just an archaeologist. Please, believe me!<end>"
 
 ["1340256"]
 japanese = "フッ、愚かな。<line-break>それがお前の意図か…。\u3000\u3000\u3000\u3000\u3000<line-break> <line-break>私とレイヴンは、<line-break>神器を安全なところまで持っていく。<end>"
@@ -1094,7 +1094,7 @@ english = "Very well. I'll abide by your decision.<end>"
 
 ["1340273"]
 japanese = "エスト・リューガ博士。<line-break>君にも異存はないだろう？<line-break> <line-break>闇の神器、焦燥の耳飾りは、<line-break><value:$28>に渡す。<end>"
-english = "Dr. Est Ryuuga, I trust you have no objection. We will give the dark divine artifact, the Earring of Impatience, to <value:$28>.<end>"
+english = "Dr. Est Ryuga, I trust you have no objection. We will give the dark divine artifact, the Earring of Impatience, to <value:$28>.<end>"
 
 ["1340274"]
 japanese = "う、うん…。<end>"
@@ -1250,7 +1250,7 @@ english = "Thank you, <value:$28>. You saved me. There's something rather strang
 
 ["1340312"]
 japanese = "そうか！\u3000ふふふふっ。<line-break>君があの<value:$28>なんだ。\u3000<line-break> <line-break>兄さんからの手紙で聞いてるよ。<line-break>エリエナイ公レムオン・リューガは<line-break>僕の兄さんなんだ。そうか、君が…。<end>"
-english = "Oh! Heh heh heh. So you're the <value:$28> I've heard about. I heard about you in a letter from my brother. Duke Remon Ryuuga of Elienai is my brother. So you're the one...<end>"
+english = "Oh! Heh heh heh. So you're the <value:$28> I've heard about. I heard about you in a letter from my brother. Duke Lemghon Ryuga of Elienai is my brother. So you're the one...<end>"
 
 ["1340313"]
 japanese = "<value:$28>、<line-break>これからも兄さんをよろしくね。<end>"
@@ -1702,7 +1702,7 @@ english = "There is no need to fear the coming of the end. Look upon this city, 
 
 ["1340425"]
 japanese = "<value:$28>様。<line-break>タルテュバ様に、生命のかけらを<line-break>持ってきてくださったのですか？<end>"
-english = "<value:$28>, have you brought Lord Tartyuba a fragment of life?<end>"
+english = "<value:$28>, have you brought Lord Tartyuba a Life Fragment?<end>"
 
 ["1340426"]
 japanese = "はい<end>"
@@ -1738,7 +1738,7 @@ english = "Lord Tartyuba's body is in a terrible state. He was always a heavy dr
 
 ["1340434"]
 japanese = "意識も…戻りません。<line-break>いつどうなってもおかしくないのです。<line-break>ですから…。<line-break>タルテュバ様の療治のため、<line-break>生命のかけらを<line-break>分けていただきたいのです。<end>"
-english = "He still has not regained consciousness. He could take a turn for the worse at any moment. And so... I ask that you spare a Fragment of Life to treat Lord Tartyuba.<end>"
+english = "He still has not regained consciousness. He could take a turn for the worse at any moment. And so... I ask that you spare a Life Fragment to treat Lord Tartyuba.<end>"
 
 ["1340435"]
 japanese = "…<value:$28>様、<line-break>確かにタルテュバ様は<line-break>善人ではありませんでした。<line-break>ですが、こうなってしまっては<line-break>もう、悪人も善人もありません。<line-break>違うでしょうか？<end>"
@@ -1750,19 +1750,19 @@ english = "<value:$28>, please... I beg you.<end>"
 
 ["1340437"]
 japanese = "生命のかけらをタルテュバに与える<end>"
-english = "Give the fragment of life to Tarteuba<end>"
+english = "Give the Life Fragment to Tarteuba<end>"
 
 ["1340438"]
 japanese = "生命のかけらをタルテュバに与えない<end>"
-english = "Do not give the fragment of life to Tarteuba<end>"
+english = "Do not give the Life Fragment to Tarteuba<end>"
 
 ["1340439"]
 japanese = "<value:$28>は<line-break>タルテュバに<line-break>生命のかけらを与えた。<end>"
-english = "<value:$28> gave Tartyuba a fragment of life.<end>"
+english = "<value:$28> gave Tartyuba a Life Fragment.<end>"
 
 ["1340440"]
 japanese = "（…でも、衰弱がひどい。<line-break>\u3000生命のかけらを与えても<line-break>\u3000治るだろうか…？）<end>"
-english = "(But he's so weak... Will even a fragment of life be enough to heal him?)<end>"
+english = "(But he's so weak... Will even a Life Fragment be enough to heal him?)<end>"
 
 ["1340441"]
 japanese = "…待て。<end>"
@@ -1862,7 +1862,7 @@ english = "What could have happened to Lord Lemghon...?<end>"
 
 ["1340465"]
 japanese = "（…生命のかけらが手元にない…<line-break>\u3000どうにかして手に入れなければ…）<end>"
-english = "(I don't have a fragment of life... I need to get one somehow...)<end>"
+english = "(I don't have a Life Fragment... I need to get one somehow...)<end>"
 
 ["1340466"]
 japanese = "<value:$28>様？<end>"
@@ -2142,7 +2142,7 @@ english = "Lord Tartuba's body is in a terrible state. His heavy drinking and un
 
 ["1340535"]
 japanese = "意識も…戻りません。<line-break>本当に危険な状態です。<line-break>ですから…。<line-break>タルテュバ様の治療のため、<line-break>生命のかけらを<line-break>分けていただきたいのです。<end>"
-english = "He still hasn't regained consciousness. His condition is truly critical. And so... to treat Lord Tartuba, I would like you to share a fragment of life with him.<end>"
+english = "He still hasn't regained consciousness. His condition is truly critical. And so... to treat Lord Tartuba, I would like you to share a Life Fragment with him.<end>"
 
 ["1340536"]
 japanese = "<value:$28>様、<line-break>どうか、お願いします…。<end>"
@@ -2150,19 +2150,19 @@ english = "Please, <value:$28>... I'm begging you.<end>"
 
 ["1340537"]
 japanese = "生命のかけらを与える<end>"
-english = "Give the fragment of life<end>"
+english = "Give the Life Fragment<end>"
 
 ["1340538"]
 japanese = "生命のかけらをタルテュバに与えない<end>"
-english = "Do not give the fragment of life to Tarteuba<end>"
+english = "Do not give the Life Fragment to Tarteuba<end>"
 
 ["1340539"]
 japanese = "<value:$28>は<line-break>タルテュバに<line-break>生命のかけらを与えた。<end>"
-english = "<value:$28> gave Tartyuba a fragment of life.<end>"
+english = "<value:$28> gave Tartyuba a Life Fragment.<end>"
 
 ["1340540"]
 japanese = "（…でも、衰弱がひどすぎる。<line-break>\u3000生命のかけらを与えても<line-break>\u3000治るだろうか…？）<end>"
-english = "(But he's far too weak... Will even a fragment of life be enough for him to recover?)<end>"
+english = "(But he's far too weak... Will even a Life Fragment be enough for him to recover?)<end>"
 
 ["1340541"]
 japanese = "…待て。<end>"
@@ -2270,7 +2270,7 @@ english = "Thank you, <value:$28>.<end>"
 
 ["1340567"]
 japanese = "（…生命のかけらが手元にない…<line-break>\u3000どうにかして手にいれなければ…）<end>"
-english = "(I don't have a fragment of life... I have to find some way to get one.)<end>"
+english = "(I don't have a Life Fragment... I have to find some way to get one.)<end>"
 
 ["1340568"]
 japanese = "あの…<value:$28>様？<end>"
