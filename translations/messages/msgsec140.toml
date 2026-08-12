@@ -1070,7 +1070,7 @@ english = "That voice... It's Shalli!! Come on out!<end>"
 
 ["1400267"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000アハハッ、そんなに\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000いきりたたないでよ。<line-break>\u3000\u3000\u3000\u3000今日は特別な日なんだからさ。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000だから、招かれざる客だけど<line-break>\u3000\u3000\u3000\u3000\u3000特別に、歴史の目撃者に<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000してあげるよ。<end>"
-english = "Ahaha! Don't get so worked up. Today's a special day, after all. So even though you're an uninvited guest, I'll make a special exception and let you witness history.<end>"
+english = "Ahaha! Don't get so worked up. Today is a very special day. So even though you're an uninvited guest, I'll make an exception and let you witness history.<end>"
 
 ["1400268"]
 japanese = "\u3000\u3000今、いにしえの魔道文明の大いなる遺産、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000空中都市ラドラスが、<line-break>\u3000\u3000\u3000\u3000４人の巫女の力でよみがえり、<line-break>\u3000\u3000\u3000\u3000\u3000大空へと飛び立つのさ！！<end>"
@@ -1078,7 +1078,7 @@ english = "At this very moment, the Floating City Ladras, the great legacy of an
 
 ["1400269"]
 japanese = "\u3000\u3000\u3000\u3000この空中都市ラドラスってね、\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000こう見えて実は<line-break>\u3000\u3000\u3000ものすごく大掛かりな兵器なんだよ。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000それこそ、これひとつで<line-break>\u3000\u3000\u3000この大陸が沈んじゃうくらいのね。<end>"
-english = "The Floating City Ladras may not look it, but it's actually a weapon on an enormous scale. Powerful enough to sink this entire continent all by itself.<end>"
+english = "You see, despite appearances, Floating City Ladras is actually an immense weapon―powerful enough to sink this entire continent all by itself.<end>"
 
 ["1400270"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000…そうだ！！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000それ、やっちゃおう！<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000この都市の浮上を願いながら、<line-break>\u3000\u3000\u3000それでも死ななければならなかった<line-break>\u3000\u3000\u3000\u3000多くの悲しい魂たちのために！<end>"
@@ -1094,7 +1094,7 @@ english = "Oh, and if you have any comments or requests for me, come to the city
 
 ["1400273"]
 japanese = "やあ、<value:$28>。<line-break>こんな時にまで君と一緒なんて<line-break>もうこれは、運命的な何かを感じるね。<line-break>ところで、これ、すごいんだよ。<line-break>一度巫女たちが起動させれば、<line-break>僕でも動かせるようになってるんだ。<end>"
-english = "Hello, <value:$28>. To think you and I would be together even at a time like this... It almost feels like fate, doesn't it? Anyway, this thing is incredible. Once the priestesses have activated it, even I can control it.<end>"
+english = "Hello, <value:$28>. To think we'd end up together even at a time like this... It almost feels like fate, doesn't it? Anyway, this thing is amazing. Once the priestesses activate it, even I can operate it.<end>"
 
 ["1400274"]
 japanese = "<if><value:$01><equal>2シャリ！！<line-break>巫女たちはどこにいるの！？<end><if><value:$01><equal>3巫女は…<line-break>イークレムンはどこにおる！！<end><if><value:$01><equal>4一度巫女たちが…って、<line-break>巫女たちはどこにいるの？<end><if><value:$01><equal>5そ、そうだ、巫女だよ！！<line-break>いったいどこに隠しやがった！！<end><if><value:$01><equal>13…言え。<line-break>巫女たちをどこに隠した？<end><if><value:$01><equal>10あ、そうだ、巫女。<line-break>彼女たちはどこにいるんだよ！！<end><if><value:$01><equal>14そうじゃ、わしらは<line-break>その娘らを取り戻しに来たんじゃ。<line-break>どこにいるか言うのじゃ！！<end><if><value:$01><equal>15彼女たち、無事なんだろうね？<line-break>どこにいるんだい？\u3000教えてよ！<end><if><value:$01><equal>17こっちはあんたなんかじゃなくて<line-break>巫女どもに会いたいのよ！<line-break>とっとと出しなさいよー！！<end><if><value:$01><equal>19お姉ちゃんたちをどこに隠したの！？<end><if><value:$01><equal>11４人の巫女もまだ生きているのね？<line-break>どこなの…答えて！？<end><if><value:$01><equal>20……巫女は？<end><if><value:$01><equal>26シャリ、またもお主は…！<line-break>巫女様方をどこにやった！？<end><if><value:$01><equal>27４人の少女はどちらに隠された？<line-break>返答されよ、シャリ！<end><if><value:$01><equal>193お、教えてください！<line-break>巫女さんたちは<line-break>ど、どこにいるんですか！？<end><if><value:$01><equal>191シャリ！！<line-break>巫女たちをどこにやったの！？<end><if><value:$01><equal>190巫女たちをどこに隠した！<line-break>答えろ！<end>その巫女たちに<line-break>会いにきたんだ。<line-break>どこにいるか教えなよ！<end>"
@@ -1114,7 +1114,7 @@ english = "Once it's all over, I'll make sure to send them along too. Go on ahea
 
 ["1400278"]
 japanese = "フフ…、意外にやるね。<line-break>まさか、これだけ力を出したのに\u3000<line-break>負けるとは思わなかったな。<line-break>でも、たぶん君にとって<line-break>状況はちっともよくなってないよ。<end>"
-english = "Heh... You're better than I expected. I never thought I'd lose after drawing out this much power. But I doubt your situation has improved at all.<end>"
+english = "Heh... You're better than I expected. I never thought I'd unleash that much power and still lose. But I doubt your situation has improved in the slightest.<end>"
 
 ["1400279"]
 japanese = "ほ～ら、こんな所で暴れるから、<line-break>どっか壊れちゃったんだよ。<line-break>あーあ、もう空中都市も終わりかあ。<line-break>巫女や、砂漠の民のみなさんも<line-break>巻き添えにして墜落だ。<line-break>それだけじゃないよ。街に墜落したら…<end>"
@@ -1134,7 +1134,7 @@ english = "...All right. I'll take a chance on what you said. The priestesses ar
 
 ["1400283"]
 japanese = "<if><value:$01><equal>2<value:$28>！<line-break>巫女たちの所へ行きましょう。<line-break>動力の間にいるって言ってたわ。<line-break>彼女たちなら<line-break>何とかしてくれるかもしれない。 <end><if><value:$01><equal>3こうしてはおれん！<line-break>ゆくぞ、<value:$28>。<line-break>動力の間じゃ！ <end><if><value:$01><equal>4ものすごい事態かも！！<line-break>まさか、墜落して大爆発なんていう\u3000<line-break>ピンチだったなんて！<line-break>とりあえず動力の間まで行って、<line-break>そこに巫女のみなさんがいるなら<line-break>頭下げて助けてもらわなきゃ！！ <end><if><value:$01><equal>5だ、大爆発だぁ！？<line-break>大変だぜ、<value:$28>！！<line-break>\u3000<line-break>…っつっても、俺らじゃ<line-break>どうしょうもないか…、そうだ！！<line-break>巫女たちならなんとかできるかも！ <end><if><value:$01><equal>13聞いていたな？<line-break>動力の間に巫女がいる。<line-break>行くぞ。<line-break>この状態を打破できるのは<line-break>おそらく彼女たちだけだ。 <end><if><value:$01><equal>10ま、待て、シャリ！！<line-break>巫女たちは<line-break>どこにいるんだよ！！\u3000<line-break>…あ、そういえば<line-break>動力の間にいるって言ってたっけ。<line-break>よし、姉ちゃん、じゃあそこだ！！ <end><if><value:$01><equal>14<value:$28>、急ぐぞい！！<line-break>まずは、動力の間じゃ！\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>そこで巫女たちを助け出したあと、<line-break>彼女らに爆発を防ぐ手立てを聞く。<line-break>これしかあるまい！！ <end><if><value:$01><equal>15<value:$28>、行こう。<line-break>まずは動力の間に行って\u3000\u3000\u3000<line-break>巫女のみんなを助けなきゃ。<line-break>それから、彼女たちと協力して<line-break>爆発を食い止めよう！ <end><if><value:$01><equal>17ああっ、もぅお！<line-break>どうしてこんなに矢継ぎ早に<line-break>絶体絶命が押し寄せるのよー！？<line-break>とにかく、なんとかするのよ！<line-break>まずは、捕まっている巫女たちに<line-break>話を聞くのよ！\u3000急ぐのよー！！ <end><if><value:$01><equal>19大変だよぉ、<value:$28>！<line-break>爆発したら、みんな死んじゃうよ！<line-break>なんとかしなきゃ！！<line-break>そう言えばさっき、巫女の<line-break>お姉ちゃんたちが動力の間にいる<line-break>って言ってたよぉ。行かなきゃ！ <end><if><value:$01><equal>21<value:$28><line-break>まずは巫女たちを助けなければ。<line-break>動力の間だ！\u3000急ぐぞ！！<end><if><value:$01><equal>27爆発を食い止めなければ！<line-break>まずは巫女たちを助けるぞ！<line-break><value:$28>。<line-break>動力の間だ！<end><if><value:$01><equal>26爆発を食い止めなければ！<line-break>急ぐのじゃ、<value:$28><line-break>動力の間じゃ！<end><if><value:$01><equal>193だ、大爆発に墜落！？<line-break>た、大変です！！<line-break>\u3000<line-break><value:$28>さん！<line-break>早く巫女さんたちを助けないと！<end><if><value:$01><equal>191大爆発！？<line-break>冗談じゃないわ！<line-break>\u3000<line-break><value:$28>、急ぎましょ！<line-break>巫女たちを助けるしか<line-break>打開策はないわ！<end><if><value:$01><equal>190くっ！<line-break>何とか爆発を食い止めないと！<line-break>でもどうすれば…？<line-break>ラドラスの巫女である彼女たちなら<line-break>何か知っているかもしれない。<line-break>動力の間に急ごう！<end>大変だ！\u3000早くなんとかしないと、<line-break>僕たちみんなドッカ～ンだよ！！<line-break>\u3000<line-break>う～ん、う～ん…、そうだ！<line-break>まずは巫女のみんなを助けに行こう！<line-break>彼女たちなら何か対策知ってるかも！ <end>"
-english = "<if><value:$01><equal>2<value:$28>! Let's go to the priestesses. He said they're in the power chamber. They might be able to do something.<end><if><value:$01><equal>3We cannot stand idle! Come, <value:$28>. To the power chamber!<end><if><value:$01><equal>4This could be a complete catastrophe!! I can't believe we're in danger of crashing and exploding! First we'll go to the power chamber, and if the priestesses are there, we'll have to beg them to help us!!<end><if><value:$01><equal>5A-a huge explosion!? This is bad, <value:$28>!! Not that there's much we can do about it ourselves... Wait, that's it! Maybe the priestesses can do something!<end><if><value:$01><equal>13You heard him. The priestesses are in the power chamber. Let's go. They're probably the only ones who can get us out of this.<end><if><value:$01><equal>10W-wait, Shalli!! Where are the priestesses!? Oh, right. He said they were in the power chamber. Come on, sis, that's where we're going!!<end><if><value:$01><equal>14Hurry, <value:$28>!! First, to the power chamber! Once we've rescued the priestesses, we'll ask them how to prevent the explosion. It is our only option!<end><if><value:$01><equal>15Let's go, <value:$28>. We have to reach the power chamber and rescue the priestesses first. Then we'll work with them to stop the explosion!<end><if><value:$01><equal>17Oh, for heaven's sake! Why do these life-or-death crises keep coming one after another!? Never mind, we'll find a way! First, we talk to the captive priestesses! Hurry!!<end><if><value:$01><equal>19This is terrible, <value:$28>! If it explodes, everyone will die! We have to do something!! Wait, he said the priestess ladies were in the power chamber. We have to go!<end><if><value:$01><equal>21<value:$28>, we must rescue the priestesses first. They're in the power chamber! Hurry!<end><if><value:$01><equal>27We must stop the explosion! First, we rescue the priestesses. <value:$28>, to the power chamber!<end><if><value:$01><equal>26We must stop the explosion! Hurry, <value:$28>! To the power chamber!<end><if><value:$01><equal>193A-a huge explosion and a crash!? Th-this is terrible!! <value:$28>! We have to rescue the priestesses quickly!<end><if><value:$01><equal>191A huge explosion!? You must be joking! Hurry, <value:$28>! Rescuing the priestesses is our only way out of this!<end><if><value:$01><equal>190Ngh! We have to stop the explosion somehow! But how...? As the priestesses of Ladras, they may know something. Let's hurry to the power chamber!<end>This is bad! If we don't do something soon, we'll all go kaboom!! Hmm, hmm... I've got it! Let's rescue the priestesses first! They might know how to stop this!<end>"
+english = "<if><value:$01><equal>2<value:$28>! Let's go to the priestesses. He said they're in the power chamber. They may be able to do something.<end><if><value:$01><equal>3We have no time to waste! Come, <value:$28>. To the power chamber!<end><if><value:$01><equal>4This could be really bad! I never imagined we'd be facing a crash and a huge explosion! First, let's get to the power chamber. If the priestesses are there, we'll have to beg them to help us!<end><if><value:$01><equal>5A-a huge explosion?! This is bad, <value:$28>! Not that there's much we can do about it... Wait, that's it! Maybe the priestesses can!<end><if><value:$01><equal>13You heard him. The priestesses are in the power chamber. Let's go. They're probably the only ones who can get us out of this.<end><if><value:$01><equal>10W-wait, Shalli! Where are the priestesses?! Oh, right... He said they were in the power chamber. All right, sis, that's where we're going!<end><if><value:$01><equal>14Hurry, <value:$28>! To the power chamber first! Once we've rescued the priestesses, we'll ask them how to prevent the explosion. It's our only choice!<end><if><value:$01><equal>15Let's go, <value:$28>. First we have to reach the power chamber and rescue the priestesses. Then we'll work with them to stop the explosion!<end><if><value:$01><equal>17Oh, come on! Why do we keep landing in one life-or-death crisis after another?! We have to do something! First, let's talk to the captive priestesses. Hurry!<end><if><value:$01><equal>19This is awful, <value:$28>! If it explodes, everybody will die! We have to do something! Oh, that's right―he said the priestess ladies were in the power chamber. We have to go!<end><if><value:$01><equal>21<value:$28>, we must rescue the priestesses first. They're in the power chamber! Hurry!<end><if><value:$01><equal>27We have to stop the explosion! First we'll rescue the priestesses. <value:$28>, to the power chamber!<end><if><value:$01><equal>26We must stop the explosion! Hurry, <value:$28>! To the power chamber!<end><if><value:$01><equal>193A crash and a h-huge explosion?! Th-this is terrible! <value:$28>! We have to rescue the priestesses, quickly!<end><if><value:$01><equal>191A huge explosion?! You have got to be joking! Hurry, <value:$28>! Our only hope is to rescue the priestesses!<end><if><value:$01><equal>190Ngh! We have to stop the explosion somehow! But how...? As the priestesses of Ladras, they may know something. Let's hurry to the power chamber!<end>This is bad! If we don't do something fast, we'll all go boom! Hmm... Hmm... I've got it! First, let's go rescue the priestesses. They might know how to stop this!<end>"
 
 ["1400284"]
 japanese = "やれやれっと、<line-break>やっと、おとなしくしてくれる気に<line-break>なったみたいだね。<end>"
@@ -1158,15 +1158,15 @@ english = "Child of the Void... This world does not want you. Return to the plac
 
 ["1400289"]
 japanese = "やんなっちゃうな、もう。<line-break>子供の遊びに出てきてほしくないね。\u3000<line-break>\u3000<line-break>それに、僕はこの世界の人たちの<line-break>満たされない想いから生まれたんだよ？<line-break>だから、ここにいたっていいじゃない。<end>"
-english = "Oh, this is tiresome. I wish you wouldn't show up for a child's game. Besides, I was born from the unfulfilled longings of this world's people. So why shouldn't I be allowed to stay here?<end>"
+english = "Oh, this is getting tiresome. You really don't need to involve yourself in a child's game. Besides, I was born from the unfulfilled desires of the people of this world, you know? So there's nothing wrong with me being here.<end>"
 
 ["1400290"]
 japanese = "それにしても、<line-break>あいかわらずひどいことするなあ、\u3000<line-break>竜王様は。<line-break>この空中都市の脅威を消すために、<line-break>ここの住人も巫女も、無限のソウルを<line-break>持つ者まで巻き添えにする？<end>"
-english = "Still as ruthless as ever, aren't you, Lord Dragon King? To eliminate the threat of this Floating City, you'd take its inhabitants, the priestesses, and even the Bearer of the Infinite Soul down with it?<end>"
+english = "Still, as cruel as ever, aren't you, Lord Dragon King? To eliminate the threat posed by this Floating City, you'll sacrifice its residents, the priestesses, and even the Bearer of the Infinite Soul along with it?<end>"
 
 ["1400291"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000笑止な。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000他人の心配をしてみせるか？<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000汝は虚無の子、<line-break>\u3000\u3000\u3000汝は痛みを知ることはできても<line-break>\u3000\u3000\u3000\u3000\u3000\u3000感じることはできぬ。<line-break>\u3000\u3000\u3000ただのうつろな人形に過ぎぬのだ。<end>"
-english = "Absurd. Do you pretend to care for others? You are the Child of the Void. You may know pain, but you cannot feel it. You are nothing more than a hollow puppet.<end>"
+english = "How absurd. You pretend to care for others? You are the Child of the Void. You may know what pain is, but you cannot feel it. You are nothing more than an empty puppet.<end>"
 
 ["1400292"]
 japanese = "そうだ。シャリは冷酷な人形だ<end>"
@@ -1198,7 +1198,7 @@ english = "...To feel someone else's pain... Is that... what I wish for...?<end>
 
 ["1400299"]
 japanese = "うわ、言ってくれるね。<line-break>確かにその通りだけどさ。<end>"
-english = "Wow, you really don't hold back. You're right, though.<end>"
+english = "Wow. You really don't hold back, do you? Though I can't say you're wrong.<end>"
 
 ["1400300"]
 japanese = "さてと、そろそろ潮時かな。<line-break>このオモチャが墜落する前に<line-break>僕は失礼するよ。<end>"
@@ -1206,15 +1206,15 @@ english = "Well, I suppose it's time for me to go. I'll take my leave before thi
 
 ["1400301"]
 japanese = "じゃ、<value:$28>。<line-break>せっかくだから、墜落の瞬間まで<line-break>ゆっくりしてってよ。<line-break>あはははは！<line-break>じゃあね～。<end>"
-english = "Well then, <value:$28>. Since you're here, make yourself comfortable right up to the moment it crashes. Ahahahaha! Bye now!<end>"
+english = "Well then, <value:$28>. Since you're here, why not relax and enjoy the moment of impact? Ahahahaha! Bye-bye!<end>"
 
 ["1400302"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000…<value:$28>、<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000空中都市はこのままゆけば、<line-break>\u3000\u3000\u3000\u3000あとわずかの時で地に落ちよう。<end>"
-english = "...<value:$28>, Bearer of the Infinite Soul... If nothing is done, the Floating City will fall to earth before long.<end>"
+english = "...<value:$28>, Bearer of the Infinite Soul... If nothing is done, the Floating City will soon fall to the earth.<end>"
 
 ["1400303"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000動力の間へ行き\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000巫女たちを助け出すのだ。<line-break>\u3000\u3000巫女ならば最悪の事態を回避する術を<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000持っていよう…。<line-break>\u3000\u3000\u3000力及ばず虚無の子に敗れたとはいえ、<line-break>\u3000\u3000この空中都市の脅威を退けようとした<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000その魂、見事なり。<line-break>\u3000\u3000\u3000我が再び戦う力を授けてやろう。<end>"
-english = "Go to the power chamber and rescue the priestesses. They may know how to avert the worst... Though your strength proved insufficient and you were defeated by the Child of the Void, your soul is worthy indeed, for you sought to drive back the threat of this Floating City. I shall grant you the power to fight once more.<end>"
+english = "Go to the power chamber and rescue the priestesses. They may know how to avert the worst... Though your strength was not enough and you fell to the Child of the Void, your soul, which sought to repel the threat posed by this Floating City, is admirable indeed. I shall grant you the power to fight once more.<end>"
 
 ["1400304"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000では、さらばだ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ。<end>"
@@ -1334,7 +1334,7 @@ english = "Uh, well, um... I know this is a touching moment and all, but can I g
 
 ["1400333"]
 japanese = "い、今さら、何しに来たんだよ。<line-break>ずっと、ずっと、いつだって<line-break>ボクはキミのことを待ってたのに…。<line-break>ホントに…。<line-break>来るのが遅すぎるんだよぉ…。<end>"
-english = "W-What are you doing here now? I waited for you. All that time, every single moment, I waited for you... Honestly... You took far too long...<end>"
+english = "W-what are you doing here now? I waited for you. All that time, every single moment, I waited for you... Honestly... You took far too long...<end>"
 
 ["1400334"]
 japanese = "…まあ、でも、<line-break>こうして来てくれたから、よし！<end>"
@@ -1618,7 +1618,7 @@ english = "You have done well to defeat the giant Panta Rei. Now none remain who
 
 ["1400404"]
 japanese = "地の最高位の魔法が解放された。<end>"
-english = "The highest-level earth spell has been unlocked.<end>"
+english = "The highest-level earth magic has been unlocked.<end>"
 
 ["1400405"]
 japanese = "\u3000\u3000\u3000これでエステルも解放されよう。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000目覚めるがよい、地の巫女よ…。<end>"
@@ -1738,7 +1738,7 @@ english = "You have come, Bearer of the Infinite Soul... Then I shall ask you on
 
 ["1400434"]
 japanese = "しょうがない<end>"
-english = "I guess I have no choice.<end>"
+english = "I suppose I have no choice.<end>"
 
 ["1400435"]
 japanese = "…気が進まない<end>"

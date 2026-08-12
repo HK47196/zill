@@ -182,7 +182,7 @@ english = "A pleasure to meet you, Shalli. My name is Orphaus. Do remember me.<e
 
 ["1890045"]
 japanese = "クッ、こうなることを見越し、<line-break>魂吸いの指輪にわざとソウルを<line-break>吸わせて潜んでいたのか…。<line-break>破壊神の復活を<line-break>直前でくい止めるために…。<end>"
-english = "Damn... You foresaw this, deliberately let the Soul-Draining Ring absorb your Soul, and hid inside it... all to stop the God of Destruction's resurrection at the final moment...<end>"
+english = "Damn... You foresaw this, had the Soul-Draining Ring absorb your Soul, and hid inside it deliberately... all to stop the God of Destruction's resurrection at the final moment...<end>"
 
 ["1890046"]
 japanese = "とっさの思いつきだったんですけど、<line-break>ネメアはできのいい子でしてね。<line-break>無言で理解してくれましたよ。<line-break>ウルグの復活は、失敗ですね。<end>"
@@ -210,19 +210,19 @@ english = "I'll be waiting, <value:$28>.<end>"
 
 ["1890052"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000ワレを…うけいれよ…。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000お前の…ニクタイには…、<line-break>\u3000\u3000\u3000\u3000邪神の魂こそ…、ふさわしい…。<end>"
-english = "Accept me... Your flesh... is fit for nothing less than the soul of an evil god...<end>"
+english = "Accept me... The soul of an evil god... is the one most fitting for your flesh...<end>"
 
 ["1890053"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000相容れぬの…ならば…、\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000ヨワき存在が…、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000消え去る…、のみ…。<end>"
-english = "If we cannot coexist... then the weaker being... shall simply vanish...<end>"
+english = "If we cannot coexist... then the weak being... will simply vanish...<end>"
 
 ["1890054"]
 japanese = "\u3000\u3000\u3000よもや人の子に…、屈するとは…。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000ワが魂の一部…、ムネンだが、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000汝のモノとなろう…。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000フフ…、これも…よかろう…。<line-break>\u3000\u3000\u3000\u3000ワレのかけらが…残るのだ…。<line-break>\u3000\u3000\u3000\u3000わざわいの種は…、まかれた…。<end>"
-english = "To think I would yield... to a child of man... Bitter though it is, a part of my soul... shall become yours... Heh... so be it... A fragment of me... will remain... The seed of calamity... has been sown...<end>"
+english = "To think I would yield... to a child of man... Though it galls me, a part of my soul... shall become yours... Heh... so be it... A fragment of me... will remain... The seed of calamity... has been sown...<end>"
 
 ["1890055"]
 japanese = "\u3000\u3000\u3000よもや人の子に…、屈するとは…。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000だが…、いずれ…、<line-break>\u3000\u3000\u3000\u3000\u3000滅びの時は…訪れよう…。<line-break>\u3000\u3000\u3000ワレが…、テを…下すまでも…なく。<line-break>\u3000\u3000\u3000\u3000だが…、ネガわくば…いつか…、<line-break>\u3000\u3000\u3000\u3000我がテにて…汝らに…、滅びヲ！<end>"
-english = "To think I would yield... to a child of man... But one day... the hour of destruction shall come... without my lifting a hand. And yet... I pray that someday... I may bring ruin upon you all by my own hand!<end>"
+english = "To think I would yield... to a child of man... But one day... the hour of destruction will come... without my lifting a hand... And yet... I pray that someday... I may bring ruin upon you all by my own hand!<end>"
 
 ["1890056"]
 japanese = "<if><value:$01><equal>2<value:$28>…。<line-break>お願い、無事でいて！ <end><if><value:$01><equal>3おい、本当に<line-break>大丈夫なんじゃろうな！？ <end><if><value:$01><equal>4平気かしら？<line-break>全然動かないですよ。 <end><if><value:$01><equal>5<value:$28>、大丈夫なのか？<line-break>このままってわけじゃないよな…。 <end><if><value:$01><equal>6<value:$28>…。<line-break>大丈夫だよね。<line-break>絶対、帰ってくるよね。 <end><if><value:$01><equal>7<value:$28>…。<line-break>無事なんでしょうね…！？ <end><if><value:$01><equal>9帰ってこないわね。<line-break>ホントに大丈夫かな、<line-break><value:$28>…。 <end><if><value:$01><equal>12勝てよ、<value:$28>。 <end><if><value:$01><equal>13<value:$28>…。<line-break>大丈夫なのか…。 <end><if><value:$01><equal>10姉ちゃん、ひょっとして…。<line-break>いや、まさか。いや、でもなぁ。<line-break>ああっ！\u3000早く帰って来いよ！ <end><if><value:$01><equal>14ううむ。戻ってこんな。 <end><if><value:$01><equal>15大丈夫だよね、<value:$28>…。<line-break>君なら、きっと…。 <end><if><value:$01><equal>17いつまで伸びてるつもりかしらね。<line-break>早くこんなところから出たいのに。<line-break>もう！\u3000なんで帰ってこないのよー！ <end><if><value:$01><equal>19<value:$28>…。<line-break>お願い、帰ってきてぇ！ <end><if><value:$01><equal>20…勝負が<line-break>ついたようだな…。 <end><if><value:$01><equal>21まさか、このまま<line-break>ということは、あるまいな。 <end><if><value:$01><equal>23<value:$28>…。<end><if><value:$01><equal>27<value:$28>…。<line-break>早く帰って来い…<end><if><value:$01><equal>26大丈夫じゃろうか…<end><if><value:$01><equal>24<value:$28>様…<line-break>どうかご無事で…<end><if><value:$01><equal>25…お願いよ<line-break>早く帰ってきて…<end>帰ってきてよ、<value:$28>。<line-break>そうしぼくに、ウルグに勝った<line-break><value:$28>の詩を作らせて…。 <end>"
@@ -302,7 +302,7 @@ english = "Huh? What's happening...?<end>"
 
 ["1890075"]
 japanese = "神器に異物が混入…だと？<line-break>意志あるもの…、ソウル…？<end>"
-english = "Something foreign inside the divine artifact...? Something with a will of its own... a Soul?<end>"
+english = "A foreign presence within the divine artifact...? Something with a will of its own... a Soul...?<end>"
 
 ["1890076"]
 japanese = "はじめまして、シャリ君。<line-break>私はオルファウスといいます。<line-break>よろしくお見知り置きを。<end>"
@@ -310,11 +310,11 @@ english = "A pleasure to meet you, Shalli. My name is Orphaus. Do remember me.<e
 
 ["1890077"]
 japanese = "クッ、こうなることを見越し、<line-break>魂吸いの指輪にわざとソウルを<line-break>吸わせて潜んでいたのか…。<line-break>破壊神の復活を<line-break>直前でくい止めるために…。<end>"
-english = "Damn... You foresaw this. You deliberately let the Soul-Draining Ring absorb your Soul, then hid inside it... all so you could stop the God of Destruction's resurrection at the last possible moment.<end>"
+english = "Damn... You foresaw this, had the Soul-Draining Ring absorb your Soul, and hid inside it deliberately... all to stop the God of Destruction's resurrection at the final moment...<end>"
 
 ["1890078"]
 japanese = "とっさの思いつきだったんですけど、<line-break>ネメアはできのいい子でしてね。<line-break>無言で理解してくれましたよ。<line-break>ウルグの復活は、失敗ですね。<end>"
-english = "It was only a spur-of-the-moment idea, but Nemea is a bright one. He understood without a word. Urg's resurrection has failed.<end>"
+english = "It was only a spur-of-the-moment idea, but Nemea is a clever boy. He understood without a word. Urg's resurrection has failed.<end>"
 
 ["1890079"]
 japanese = "そうでもないさ。<line-break>ウルグの力の一部は、<line-break>すでにネメアの精神に入り込んでる。<line-break>どうするつもり？<end>"
@@ -322,11 +322,11 @@ english = "I wouldn't say that. Some of Urg's power has already seeped into Neme
 
 ["1890080"]
 japanese = "決まっています。<line-break>ネメアの精神世界に入り込んで<line-break>追い払います。<end>"
-english = "The answer is obvious. I'll enter Nemea's mind and drive it out.<end>"
+english = "The answer is obvious. The plan is to enter Nemea's mind and drive Urg out.<end>"
 
 ["1890081"]
 japanese = "あはは、おもしろいね。<line-break>さすがに賢者様はよく考えてるや。<line-break>ま、今回は一本とられたってとこかな。<line-break>でもね、これが切り札じゃないんだよ。<line-break>フフフ、ここから戻れたら、<line-break>エンシャントにおいでよ。<end>"
-english = "Ahaha, this is interesting. The great sage has certainly thought it through. I suppose you've bested me this time. But this wasn't my trump card. Heh heh. If you make it back from here, come to Ancient.<end>"
+english = "Ahaha, how interesting. The great sage has certainly thought this through. I suppose you've bested me this time. But this wasn't my trump card. Heh heh... If you make it back from here, come to Ancient.<end>"
 
 ["1890082"]
 japanese = "待ってるよ、<line-break><value:$28>。<end>"
@@ -334,7 +334,7 @@ english = "I'll be waiting, <value:$28>.<end>"
 
 ["1890083"]
 japanese = "さて、ぐずぐずしていられません。<line-break>今から、ネメアの精神世界に行きます。<line-break>\u3000<line-break>おそらく、破壊神に半ば乗っ取られた<line-break>ネメアと戦うことになるでしょう。<line-break>心してください。<end>"
-english = "We have no time to waste. We're going into Nemea's mind now. Most likely, we'll have to fight Nemea while he is half-possessed by the God of Destruction. Be prepared.<end>"
+english = "There is no time to waste. It is time to enter Nemea's mind. Nemea will most likely be half possessed by the God of Destruction and will have to be fought. Be prepared.<end>"
 
 ["1890084"]
 japanese = "では、行きますよ。<end>"
@@ -342,23 +342,23 @@ english = "Then let us go.<end>"
 
 ["1890085"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000ダレ…だ…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000ワレの…復活を…、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000邪魔する…モノは…。<end>"
-english = "Who... is it... interfering... with my resurrection...?<end>"
+english = "Who... is it... obstructing my resurrection...?<end>"
 
 ["1890086"]
 japanese = "やはり、かなり不安定な状態ですね。<line-break>これならば、ネメア本来の力も<line-break>ウルグとしての力も出せないはずです。<line-break>勝てるはずです。<line-break>今ならまだ間に合います。<end>"
-english = "As I suspected, he's in a highly unstable state. He shouldn't be able to wield either Nemea's own power or the power of Urg in this condition. He can be defeated. There's still time.<end>"
+english = "As I suspected, his condition is highly unstable. He should be unable to wield either Nemea's own power or Urg's. We can defeat him. There is still time.<end>"
 
 ["1890087"]
 japanese = "私がネメアの精神を守っておきます。<line-break>本気で戦って打ち負かしてください。<line-break>でないと、みんな死にますよ！<end>"
-english = "I'll protect Nemea's mind. Fight him with everything you have and defeat him. Otherwise, everyone will die!<end>"
+english = "I will protect Nemea's mind. Fight him with all your strength and defeat him. Otherwise, everyone will die!<end>"
 
 ["1890088"]
 japanese = "\u3000\u3000\u3000\u3000\u3000シすべき…モノたち…か…。\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000キエうせるが…いい…。<line-break>\u3000\u3000\u3000\u3000オロかなる存在に…、滅びを！<end>"
-english = "So... you are the ones who must die... Begone... Doom upon you, foolish beings!<end>"
+english = "So... you are the ones who must die... Begone... Doom upon you, foolish creatures!<end>"
 
 ["1890089"]
 japanese = "\u3000\u3000\u3000いずれ…滅びの時は…訪れよう…。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000ワレが…、テを…下すまでも…なく。<line-break>\u3000\u3000\u3000\u3000だが…、ネガわくば…いつか…、<line-break>\u3000\u3000\u3000\u3000我がテにて…汝らに…、滅びヲ！<end>"
-english = "In time... the hour of destruction shall come... without my having to lift a hand. Yet... I pray that someday... I may bring destruction upon you by my own hand!<end>"
+english = "One day... the hour of destruction will come... without my lifting a hand... And yet... I pray that someday... I may bring ruin upon you all by my own hand!<end>"
 
 ["1890090"]
 japanese = "<if><value:$01><equal>2ネメア様は<line-break>本当に大丈夫なの！？ <end><if><value:$01><equal>3ネメア様は<line-break>本当に大丈夫なんじゃろうな！？ <end><if><value:$01><equal>4あら、平気かしら？<line-break>殺しちゃった？ <end><if><value:$01><equal>5おお、すげえぜ！\u3000ネメアに勝った！<line-break>って、そう言う問題じゃねぇか。<line-break>ネメア、大丈夫かな？ <end><if><value:$01><equal>6これで本当に<line-break>ウルグを追い払えたの？ <end><if><value:$01><equal>7ネメア様は<line-break>本当に無事なのだろうな！ <end><if><value:$01><equal>9あら、平気かしら？<line-break>ひょっとして、やりすぎちゃった？ <end><if><value:$01><equal>12本来のネメアだったら<line-break>やばかっただろうな…。<line-break>これでウルグは追い払えたのかい？ <end><if><value:$01><equal>13ネメアはどうなった？ <end><if><value:$01><equal>10これでウルグは<line-break>いなくなったのかな？ <end><if><value:$01><equal>14これでウルグは<line-break>追い払えたのかの？ <end><if><value:$01><equal>15本当の力じゃなかったとは言え、<line-break>…あのネメアさんに勝っちゃった。<line-break>でも、ネメアさんは大丈夫なの？ <end><if><value:$01><equal>17ま、アタクシたちにかかれば、<line-break>こんなものね。<line-break>で、ウルグはいなくなったのかしら？ <end><if><value:$01><equal>19わわわ、ネメアさん<line-break>倒れちゃったよぉ。<line-break>大丈夫なの？ <end><if><value:$01><equal>20弱いな…。<line-break>ネメアとは思えん。 <end><if><value:$01><equal>21これで、ウルグは、<line-break>去ったのだろうな。 <end><if><value:$01><equal>23ネメア様は<line-break>本当に無事なのか…？！ <end><if><value:$01><equal>27本当にウルグを<line-break>追い払うことができたのか？<end><if><value:$01><equal>26本当に邪神ウルグを<line-break>追い払うことができたのじゃろうか？<end><if><value:$01><equal>24ネメア様…<line-break>ご無事なのでしょうか…<end><if><value:$01><equal>25これでウルグを…<line-break>追い払うことができたの…？<end>邪神ウルグから英雄ネメアを救う…。<line-break>なんてすごい冒険なんだろう！<line-break>って、ホントにウルグに勝てたの？ <end>"

@@ -158,7 +158,7 @@ english = "They're creating what they call the Ultimate Life-Form here. Let's go
 
 ["730039"]
 japanese = "アーギルシャイア様！<line-break><value:$28>が、ここまで<line-break>攻めてまいりました！<end>"
-english = "Lady Argyleshire! <value:$28> has fought all the way here!<end>"
+english = "Lady Argyleshire! <value:$28> has broken through this far!<end>"
 
 ["730040"]
 japanese = "うるさい！<line-break>悪い知らせを持って来たお前には、<line-break>悪い結果で報いよう！<end>"
@@ -174,15 +174,15 @@ english = "Lady Argyleshire, please absorb my Soul and heal yourself.<end>"
 
 ["730043"]
 japanese = "フフ、あなたは、心をなくした人形…。<line-break>忘却の仮面の騎士だもの。<line-break>そう言うでしょうね。<line-break>でも、仮面の下のあなたが<line-break>そんなことを言うとは<line-break>思ってなかったのだけれど？<end>"
-english = "Heh. You're a doll without a heart, the knight in the Mask of Oblivion. Of course you'd say that. But I never expected the person beneath the mask to say it too. Did I?<end>"
+english = "Heh. You're a puppet without a heart, the knight in the Mask of Oblivion. Of course you'd say that. But I never expected to hear it from the person beneath the mask, you know?<end>"
 
 ["730044"]
 japanese = "…気付いておられたのですか…。<line-break>私の精神と記憶が戻りつつあるのを…。<end>"
-english = "You knew? That my mind and memories were returning...<end>"
+english = "You knew...? That my mind and memories were returning...<end>"
 
 ["730045"]
 japanese = "しかし、それらを取り戻してなお、<line-break>今の私は仮面の騎士サイフォスです。<line-break>それ以外の誰でもありません。<line-break>…それとも、<line-break>あなたが愛してくださっているのは<line-break>ロイという男なのですか？<end>"
-english = "Even with my mind and memories restored, I am still Xiphos, the masked knight. I am no one else. Or is it the man called Roy whom you love?<end>"
+english = "Even with my mind and memories restored, I am still Xiphos, the masked knight. I am no one else. Or is it the man named Roy whom you love?<end>"
 
 ["730046"]
 japanese = "…そうね。<line-break>わかったわ。<line-break>ありがとう。私のサイフォス。<end>"
@@ -190,7 +190,7 @@ english = "Yes... I understand. Thank you, my Xiphos.<end>"
 
 ["730047"]
 japanese = "アーギルシャイア様、<line-break>ここは私がくいとめます。<line-break>お逃げください。<end>"
-english = "Lady Argyleshire, I'll hold the line here. Please, get away.<end>"
+english = "Lady Argyleshire, I'll hold the enemy here. Please, escape.<end>"
 
 ["730048"]
 japanese = "あなたを置いていく気はないわ。<line-break>あなたは私の一番のお気に入りの<line-break>オモチャなの。<line-break>見てなさい。<line-break>精霊の生命を魔法の火種程度に考えて<line-break>次々と奪っていった人間たちよ…。<end>"
@@ -198,19 +198,19 @@ english = "I have no intention of leaving you behind. You're my favorite toy. Ju
 
 ["730049"]
 japanese = "私は精霊たちの死の苦しみから<line-break>生まれた魔人…。<line-break>\u3000<line-break>すべての生きとし生けるものに<line-break>死の苦しみを教えてあげるわ！<end>"
-english = "I am a demon born from the agony of dying spirits... I will teach every living thing the agony of death!<end>"
+english = "I am a demon born of the agony of dying spirits... I will teach every living thing the agony of death!<end>"
 
 ["730050"]
 japanese = "サイ…フォス…。<end>"
-english = "Xi...phos...<end>"
+english = "Xi... phos...<end>"
 
 ["730051"]
 japanese = "サイフォス…<line-break>あなただけを行かせない…<line-break>私も…。<end>"
-english = "Xiphos... I won't let you go alone. I'm coming too...<end>"
+english = "Xiphos... I won't let you go alone... I'll come too...<end>"
 
 ["730052"]
 japanese = "そして、あなたたちも死ぬの…。<line-break>みんな、無に帰すの…。<line-break>ウフフフ…。<end>"
-english = "And all of you will die too... Everyone will return to nothingness... Ahahaha...<end>"
+english = "And all of you will die as well... Everyone will return to nothingness... Ahahaha...<end>"
 
 ["730053"]
 japanese = "\u3000\u3000\u3000\u3000\u3000すべてを…無に帰すの？\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000あなたの…サイフォスへの気持ちも？<end>"
@@ -222,7 +222,7 @@ english = "My... feelings...?<end>"
 
 ["730055"]
 japanese = "\u3000\u3000\u3000何もかも無に帰すことはないわ…。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000私の中で眠りなさい。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000その気持ちと一緒に…。<end>"
-english = "You don't have to return everything to nothing... Sleep within me, together with those feelings...<end>"
+english = "You needn't reduce everything to nothing... Sleep within me, together with those feelings...<end>"
 
 ["730056"]
 japanese = "サイフォス…。<end>"
@@ -230,7 +230,7 @@ english = "Xiphos...<end>"
 
 ["730057"]
 japanese = "…今の感じ…。<line-break>姉さんか？<end>"
-english = "What I just felt... Was that you, Sister?<end>"
+english = "That feeling just now... Sis?<end>"
 
 ["730058"]
 japanese = "仮面が…<line-break>忘却の仮面がとれたのか…。<end>"
@@ -238,11 +238,11 @@ english = "The mask... The Mask of Oblivion came off...<end>"
 
 ["730059"]
 japanese = "…<value:$28>。<line-break>心配をかけたな。<end>"
-english = "<value:$28>... Sorry to worry you.<end>"
+english = "<value:$28>... Sorry to have worried you.<end>"
 
 ["730060"]
 japanese = "私はあの日、この忘却の仮面の力で\u3000<line-break>デスギガースを倒した。<line-break>\u3000<line-break>だが、その副作用で記憶を封じられ<line-break>魔人のしもべとなってしまったのだ。<line-break>彼女、アーギルシャイアのな…。<end>"
-english = "That day, I used the power of the Mask of Oblivion to defeat Death Gigas. But as a side effect, my memories were sealed away, and I became the servant of a demon: Argyleshire.<end>"
+english = "That day, I used the power of the Mask of Oblivion to defeat Death Gigas. But its aftereffects sealed away my memories, and I became the servant of a demon―Argyleshire...<end>"
 
 ["730061"]
 japanese = "…セラ。<end>"
@@ -254,31 +254,31 @@ english = "Roy...<end>"
 
 ["730063"]
 japanese = "さぁ、行こう。<line-break>姉さん。<end>"
-english = "Come on, Sister. Let's go.<end>"
+english = "Come on, Sis. Let's go.<end>"
 
 ["730064"]
 japanese = "どうして…！<line-break>姉さん！<end>"
-english = "Why...? Sister!<end>"
+english = "Why...?! Sis!<end>"
 
 ["730065"]
 japanese = "聞いて…、セラ。<line-break>アーギルシャイアは精霊の<line-break>断末魔の化身なの。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>古代魔法文明から今に至るまで、<line-break>人々は魔法を使い、その源である<line-break>精霊たちの命を奪っていったわ。<end>"
-english = "Listen, Sera. Argyleshire is the embodiment of the spirits' death cries. From the ancient magical civilization to this very day, people have used magic, taking the lives of the spirits from which it draws its power.<end>"
+english = "Listen, Sera... Argyleshire is the embodiment of the spirits' dying screams. From the ancient magical civilization to this very day, people have used magic, taking the lives of the spirits from which it draws its power.<end>"
 
 ["730066"]
 japanese = "そんな精霊たちの苦しみを背負った<line-break>アーギルシャイアの心は<line-break>憎悪と虚無で冷たく渦巻いていた…。<line-break>彼女に体を乗っ取られた私の心は<line-break>その渦に呑みこまれて<line-break>消えそうだったの…。だけど…。<end>"
-english = "Bearing all that suffering, Argyleshire's heart seethed in a cold vortex of hatred and the Void. When she took possession of my body, my heart was swallowed by that vortex and nearly vanished... But...<end>"
+english = "Burdened with all the spirits' suffering, Argyleshire's heart was a cold maelstrom of hatred and the Void... When she took over my body, my heart was swallowed by that maelstrom and nearly vanished... But...<end>"
 
 ["730067"]
 japanese = "だけど、彼女のロイへの想いは<line-break>凍てついた心の中の唯一の温もりとして<line-break>私の心を包んでくれたわ。<line-break>そして、その想いだけは、<line-break>彼女にとってたったひとつの温もりは、<line-break>私の心の中に残っているの…。<end>"
-english = "But her feelings for Roy were the only warmth in her frozen heart, and they enveloped mine. Those feelings―the one warmth she possessed―still remain within me...<end>"
+english = "But her feelings for Roy were the only warmth in that frozen heart, and they enfolded mine. Those feelings―the one warmth she possessed―still remain within me...<end>"
 
 ["730068"]
 japanese = "…セラ、私は言ったはずだ。<line-break>お前が追いつけない地平まで<line-break>お前の姉を奪って逃げると。<end>"
-english = "Sera, I told you. I would steal your sister away and flee to a horizon you could never reach.<end>"
+english = "Sera, I told you. I would steal your sister away and flee beyond any horizon you could reach.<end>"
 
 ["730069"]
 japanese = "…さようなら、セラ。<line-break>悲しい魔人と仮面の騎士の想いを胸に、<line-break>私たち……行くわ。<end>"
-english = "Goodbye, Sera. Bearing in my heart the feelings of a sorrowful demon and a masked knight, we... will go now.<end>"
+english = "Goodbye, Sera. We carry the feelings of a sorrowful demon and a masked knight in our hearts... and now we're going.<end>"
 
 ["730070"]
 japanese = "…強くなったな。<line-break>お前と刃を交えることができて、<line-break>お前の力を感じて、うれしかったぞ。<line-break>これは、お前が守ってくれ。<end>"
@@ -290,7 +290,7 @@ english = "There is something else I must protect.<end>"
 
 ["730072"]
 japanese = "あなたのような強い冒険者と<line-break>手合わせができて、光栄だった…。<line-break>どうか、これを…。<end>"
-english = "It was an honor to test myself against an adventurer as strong as you... Please, take this...<end>"
+english = "It was an honor to test my skill against an adventurer as strong as you. Please, take this...<end>"
 
 ["730073"]
 japanese = "あなたこそ、この忘却の仮面を<line-break>守るにふさわしい力とソウルを<line-break>持っている。<end>"
@@ -302,15 +302,15 @@ english = "The Mask of Oblivion... came off...<end>"
 
 ["730075"]
 japanese = "…<value:$28>か？<end>"
-english = "Is that you, <value:$28>?<end>"
+english = "Is that... <value:$28>?<end>"
 
 ["730076"]
 japanese = "…強く…なったな…。<line-break>お前と…刃を交えることができて、<line-break>うれしかった…ぞ…。<line-break>これを…、<line-break>忘却の仮面を…<line-break>お前が…守ってくれ。<end>"
-english = "You've... grown strong. I'm glad... I could cross blades with you. Take this... the Mask of Oblivion... and protect it.<end>"
+english = "You've... grown strong... I'm glad... I could cross blades with you... Take this... the Mask of Oblivion... Safeguard it for me...<end>"
 
 ["730077"]
 japanese = "いつか…、<line-break>お前と…旅がしたかった…な…。<line-break>元気でな…、<value:$28>…。<end>"
-english = "I wish... we could have traveled together someday. Take care... <value:$28>...<end>"
+english = "I wish... we could have traveled together someday... Take care... <value:$28>...<end>"
 
 ["730078"]
 japanese = "…ロイ。<line-break>いったか…。<end>"
@@ -322,11 +322,11 @@ english = "Sera... Is that you?<end>"
 
 ["730080"]
 japanese = "フフ…、最期に…<line-break>お前と…刃を交えることができて、<line-break>うれしかった…ぞ…。<line-break>これを…、<line-break>忘却の仮面を…<line-break>お前が…守ってくれ。<end>"
-english = "Heh... At the end... I'm glad I could cross blades with you. Take this... the Mask of Oblivion... and protect it.<end>"
+english = "Heh... At the end... I'm glad I could cross blades with you... Take this... the Mask of Oblivion... Safeguard it for me...<end>"
 
 ["730081"]
 japanese = "また…、<line-break>お前と…旅がしたかった…な…。<line-break>元気でな…、セラ…。<end>"
-english = "I wish... we could have traveled together again. Take care... Sera...<end>"
+english = "I wish... we could have traveled together again... Take care... Sera...<end>"
 
 ["730082"]
 japanese = "…ロイ。<line-break>いったか…。<end>"
@@ -338,27 +338,27 @@ english = "I want you to keep this for me.<end>"
 
 ["730084"]
 japanese = "さぁ、行こう。<line-break>姉さん。<end>"
-english = "Come on, Sister. Let's go.<end>"
+english = "Come on, Sis. Let's go.<end>"
 
 ["730085"]
 japanese = "どうして…！<line-break>姉さん！<end>"
-english = "Why...? Sister!<end>"
+english = "Why...?! Sis!<end>"
 
 ["730086"]
 japanese = "聞いて…、セラ。<line-break>アーギルシャイアは精霊の<line-break>断末魔の化身なの。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>古代魔法文明から今に至るまで、<line-break>人々は魔法を使い、その源である<line-break>精霊たちの命を奪っていったわ。<end>"
-english = "Listen, Sera. Argyleshire is the embodiment of the spirits' death cries. From the ancient magical civilization to this very day, people have used magic, taking the lives of the spirits from which it draws its power.<end>"
+english = "Listen, Sera... Argyleshire is the embodiment of the spirits' dying screams. From the ancient magical civilization to this very day, people have used magic, taking the lives of the spirits from which it draws its power.<end>"
 
 ["730087"]
 japanese = "そんな精霊たちの苦しみを背負った<line-break>アーギルシャイアの心は<line-break>憎悪と虚無で冷たく渦巻いていた…。<line-break>彼女に体を乗っ取られた私の心は<line-break>その渦に呑みこまれて<line-break>消えそうだったの…。だけど…。<end>"
-english = "Bearing all that suffering, Argyleshire's heart seethed in a cold vortex of hatred and the Void. When she took possession of my body, my heart was swallowed by that vortex and nearly vanished... But...<end>"
+english = "Burdened with all the spirits' suffering, Argyleshire's heart was a cold maelstrom of hatred and the Void... When she took over my body, my heart was swallowed by that maelstrom and nearly vanished... But...<end>"
 
 ["730088"]
 japanese = "だけど、彼女のロイへの想いは<line-break>凍てついた心の中の唯一の温もりとして<line-break>私の心を包んでくれたわ。<line-break>そして、その想いだけは、<line-break>彼女にとってたったひとつの温もりは、<line-break>私の心の中に残っているの…。<end>"
-english = "But her feelings for Roy were the only warmth in her frozen heart, and they enveloped mine. Those feelings―the one warmth she possessed―still remain within me...<end>"
+english = "But her feelings for Roy were the only warmth in that frozen heart, and they enfolded mine. Those feelings―the one warmth she possessed―still remain within me...<end>"
 
 ["730089"]
 japanese = "…姉さん。<end>"
-english = "Sister...<end>"
+english = "Sis...<end>"
 
 ["730090"]
 japanese = "私はアーギルシャイアの想いとともに、<line-break>ロイのかたわらに、いつづけたいの。<end>"
@@ -370,11 +370,11 @@ english = "Do... as you wish...<end>"
 
 ["730092"]
 japanese = "…何をしている、<line-break>置いていくぞ。<end>"
-english = "What are you doing? Hurry, or I'll leave without you.<end>"
+english = "What are you doing? I'm leaving you behind.<end>"
 
 ["730093"]
 japanese = "俺の旅は…終わった。<line-break>これで…何もかも…。\u3000\u3000<line-break>\u3000<line-break>…さらばだ。<line-break>もう、会うこともあるまい。<end>"
-english = "My journey is over. Now everything... Farewell. We will never meet again.<end>"
+english = "My journey... is over. Now everything... Farewell. I doubt we shall meet again.<end>"
 
 ["730094"]
 japanese = "セラがパーティーを去っていった。<end>"
@@ -410,15 +410,15 @@ english = "Goodbye, Shester.<end>"
 
 ["730102"]
 japanese = "くすっ。<line-break>ロイは…渡さない…。<end>"
-english = "Heh. I won't let you have Roy...<end>"
+english = "Heh. I won't... give Roy to you...<end>"
 
 ["730103"]
 japanese = "逃がさないわ…\u3000\u3000\u3000\u3000\u3000\u3000<line-break>フフ…<line-break>\u3000<line-break>…そして…みんな…死ぬの。<end>"
-english = "I won't let you escape... Heh... And... everyone will die.<end>"
+english = "I won't let you escape... Heh... And then... everyone will die.<end>"
 
 ["730104"]
 japanese = "…姉さん。<end>"
-english = "Sister...<end>"
+english = "Sis...<end>"
 
 ["730105"]
 japanese = "…これで…すべて…終わった。<end>"
@@ -426,7 +426,7 @@ english = "Now... it's all over.<end>"
 
 ["730106"]
 japanese = "さらばだ。<line-break>…もう…会うことはないだろう。<end>"
-english = "Farewell. I don't expect we'll ever meet again.<end>"
+english = "Farewell. We shall... never meet again.<end>"
 
 ["730107"]
 japanese = "（兄さん…）<end>"
@@ -434,11 +434,11 @@ english = "(Brother...)<end>"
 
 ["730108"]
 japanese = "これで…<line-break>永遠に…<line-break>あなたの…かたわらに…。<end>"
-english = "Now... I can be by your side... forever...<end>"
+english = "Now I can remain... forever... by your side...<end>"
 
 ["730109"]
 japanese = "どうして…！\u3000どうして<line-break>俺をこの戦いに加えなかった！？<line-break>どうして…姉さんを…殺した…！<end>"
-english = "Why?! Why didn't you let me join this battle?! Why did you... kill my sister?!<end>"
+english = "Why?! Why didn't you let me join this fight?! Why did you... kill my sister?!<end>"
 
 ["730110"]
 japanese = "…行け。<line-break>俺の旅は終わった。<line-break>…それだけのことだ。<end>"
@@ -454,7 +454,7 @@ english = "You forgot something.<end>"
 
 ["730113"]
 japanese = "…すまん。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>…さらばだ。<line-break>もう、会うまい…。<end>"
-english = "I'm sorry. Farewell... We will not meet again.<end>"
+english = "I'm sorry. Farewell. We shall not meet again...<end>"
 
 ["730114"]
 japanese = "セラがパーティーを去っていった。<end>"
