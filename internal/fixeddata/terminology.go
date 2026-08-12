@@ -13,15 +13,16 @@ import (
 )
 
 const (
-	terminologyVersion = 2
+	terminologyVersion = 3
 )
 
 // Term is one compact contributor-facing terminology authority.
 type Term struct {
-	Japanese  string `toml:"japanese"`
-	English   string `toml:"english"`
-	Scope     string `toml:"scope"`
-	SourceIDs []int  `toml:"source_ids,omitempty"`
+	Japanese         string   `toml:"japanese"`
+	English          string   `toml:"english"`
+	Scope            string   `toml:"scope"`
+	SourceIDs        []int    `toml:"source_ids,omitempty"`
+	ExcludedSurfaces []string `toml:"excluded_surfaces,omitempty"`
 }
 
 // Terminology is the canonical name and glossary authority.
@@ -72,6 +73,19 @@ func parseTerminologyFile(data []byte, format string, scoped bool) ([]Term, erro
 		if term.Japanese == "" || term.English == "" {
 			return nil, fmt.Errorf("entry %d requires Japanese and English", i+1)
 		}
+		if len(term.ExcludedSurfaces) > 0 && term.Scope != "global_surface" {
+			return nil, fmt.Errorf("entry %d (%q) only global scope can exclude surfaces", i+1, term.Japanese)
+		}
+		excluded := make(map[string]struct{}, len(term.ExcludedSurfaces))
+		for _, surface := range term.ExcludedSurfaces {
+			if surface == term.Japanese || !strings.Contains(surface, term.Japanese) {
+				return nil, fmt.Errorf("entry %d (%q) excluded surface %q must be a longer containing surface", i+1, term.Japanese, surface)
+			}
+			if _, ok := excluded[surface]; ok {
+				return nil, fmt.Errorf("entry %d (%q) excluded surfaces must be unique", i+1, term.Japanese)
+			}
+			excluded[surface] = struct{}{}
+		}
 		switch term.Scope {
 		case "global_surface":
 			if len(term.SourceIDs) != 0 {
@@ -118,7 +132,11 @@ func (t Terminology) Applicable(item corpus.Item) []SearchEntry {
 	var results []SearchEntry
 	appendApplicable := func(kind string, terms []Term) {
 		for _, term := range terms {
-			matches := term.Scope == "global_surface" && strings.Contains(item.Record.Display, term.Japanese)
+			display := item.Record.Display
+			for _, surface := range term.ExcludedSurfaces {
+				display = strings.ReplaceAll(display, surface, "\x00")
+			}
+			matches := term.Scope == "global_surface" && strings.Contains(display, term.Japanese)
 			if term.Scope != "global_surface" {
 				index := sort.SearchInts(term.SourceIDs, item.Record.ID)
 				matches = index < len(term.SourceIDs) && term.SourceIDs[index] == item.Record.ID

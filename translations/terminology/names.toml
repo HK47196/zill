@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: CC-BY-SA-4.0
 format = "zill-names"
-version = 2
+version = 3
 
 [[entry]]
 japanese = "ノエル"
@@ -1315,19 +1315,19 @@ source_ids = [372, 373]
 
 [[entry]]
 japanese = "レルラ＝ロントンの弟子"
-english = "Relra Lonton's Apprentice"
+english = "Relra-Lonton's Apprentice"
 scope = "speaker_label"
 source_ids = [374]
 
 [[entry]]
 japanese = "デルガドの一番弟子"
-english = "Delgado's First Apprentice"
+english = "Dergado's First Apprentice"
 scope = "speaker_label"
 source_ids = [375, 417]
 
 [[entry]]
 japanese = "デルガドの二番弟子"
-english = "Delgado's Second Apprentice"
+english = "Dergado's Second Apprentice"
 scope = "speaker_label"
 source_ids = [376]
 
@@ -2616,7 +2616,7 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "聖光石の廃鉱"
-english = "Old Sacred Lightstone Mine"
+english = "Old Holy Light Stone Mine"
 scope = "global_surface"
 
 [[entry]]
@@ -2698,6 +2698,7 @@ scope = "global_surface"
 japanese = "クロン"
 english = "Kuron"
 scope = "global_surface"
+excluded_surfaces = ["サイクロン"]
 
 [[entry]]
 japanese = "ワッシャー砦"
@@ -3123,6 +3124,7 @@ scope = "global_surface"
 japanese = "イズ"
 english = "Iz"
 scope = "global_surface"
+excluded_surfaces = ["フューパラライズ", "ソウルイレイズ", "デスサイズ", "ブレイズ", "ポイズン"]
 
 [[entry]]
 japanese = "エステルの首飾り"
@@ -3551,7 +3553,7 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "聖光石のかけら"
-english = "Sacred Lightstone Shard"
+english = "Holy Light Stone Shard"
 scope = "global_surface"
 
 [[entry]]
@@ -4192,6 +4194,7 @@ source_ids = [1047, 20221, 1960443]
 japanese = "トール"
 english = "Thor"
 scope = "global_surface"
+excluded_surfaces = ["ロストール"]
 
 [[entry]]
 japanese = "ネメア・ランガスター"
@@ -4413,7 +4416,7 @@ source_ids = [1551, 20326, 170263]
 
 [[entry]]
 japanese = "闇の門"
-english = "Gate of Darkness"
+english = "Dark Gate"
 scope = "global_surface"
 
 [[entry]]

@@ -93,6 +93,52 @@ func TestTerminologyRejectsExactScopeTranslationMismatch(t *testing.T) {
 	}
 }
 
+func TestTerminologyApplicableExcludesOnlyFalseSurfaceMatches(t *testing.T) {
+	terms := Terminology{
+		Names: []Term{
+			{Japanese: "クロン", English: "Kuron", Scope: "global_surface", ExcludedSurfaces: []string{"サイクロン"}},
+			{Japanese: "サイクロン", English: "Cyclone", Scope: "source_records", SourceIDs: []int{7, 8}},
+			{Japanese: "聖光石の廃鉱", English: "Old Holy Light Stone Mine", Scope: "global_surface"},
+		},
+		Glossary: []Term{{Japanese: "聖光石", English: "Holy Light Stone", Scope: "global_surface"}},
+	}
+	tests := []struct {
+		name   string
+		record corpus.Record
+		want   []SearchEntry
+	}{
+		{
+			name:   "embedded false match",
+			record: corpus.Record{ID: 7, Display: "サイクロン<end>"},
+			want:   []SearchEntry{{Kind: "name", Term: terms.Names[1]}},
+		},
+		{
+			name:   "standalone occurrence beside excluded surface",
+			record: corpus.Record{ID: 8, Display: "サイクロンとクロン<end>"},
+			want: []SearchEntry{
+				{Kind: "name", Term: terms.Names[0]},
+				{Kind: "name", Term: terms.Names[1]},
+			},
+		},
+		{
+			name:   "legitimate nested guidance",
+			record: corpus.Record{ID: 9, Display: "聖光石の廃鉱<end>"},
+			want: []SearchEntry{
+				{Kind: "name", Term: terms.Names[2]},
+				{Kind: "glossary", Term: terms.Glossary[0]},
+			},
+		},
+	}
+	for _, test := range tests {
+		t.Run(test.name, func(t *testing.T) {
+			got := terms.Applicable(corpus.Item{Record: test.record})
+			if !reflect.DeepEqual(got, test.want) {
+				t.Fatalf("Applicable() = %#v, want %#v", got, test.want)
+			}
+		})
+	}
+}
+
 func mustRead(t *testing.T, path string) []byte {
 	t.Helper()
 	data, err := os.ReadFile(path)

@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: CC-BY-SA-4.0
 format = "zill-glossary"
-version = 2
+version = 3
 
 [[entry]]
 japanese = "ソウル"
@@ -31,6 +31,7 @@ scope = "global_surface"
 japanese = "エルフ"
 english = "Elf"
 scope = "global_surface"
+excluded_surfaces = ["エルファス"]
 
 [[entry]]
 japanese = "解放軍"
