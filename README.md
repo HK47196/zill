@@ -39,14 +39,19 @@ Install Go 1.26.5 or newer, then use the contributor commands:
 Text searches label Japanese and English separately and also return matching
 terminology; `--state` filters message records only.
 `show` prints the target, nearby Japanese/English context, and the editable
-section path. `context` reads the retail CDC scripts without modifying them and
+section path. `context` reads both retail PAA archives without modifying them and
 prints every complete, cross-bank scene that references one requested record or
 any record in a requested bank. It preserves static branches, annotates C5
 entity/name-label associations with cautious inferred speaker labels, and gives
 path-sensitive actor lifecycle context by following verified CDC jumps,
-single-slot calls/returns, and choice arms. Authored but unreachable messages
-remain visible, while unsupported control flow and genuine state disagreements
-are labeled explicitly. If no resolved static consumer references the query,
+single-slot calls/returns, and choice arms. Verified enclosing predicates are
+decoded into structured raw selectors, comparison operators, and polarity.
+Coordinates, actions, opaque relation state, portrait/name requests, and possible
+addressees remain explicitly qualified static evidence. Authored but unreachable
+messages remain visible, while unsupported control flow and genuine state
+disagreements are labeled explicitly. Direct scenario-slot references expose all
+group-dependent physical candidates without choosing a runtime group; unresolved
+logical resource keys remain unresolved. If no resolved static consumer references the query,
 `context` returns the complete message bank as a `message_bank` scene in storage order.
 That fallback is parsed from the retail bank, reports its first authored record
 and record byte offsets, and marks a `--record` target explicitly. It leaves branch
@@ -55,11 +60,15 @@ banks, record-local retail controls such as conditionals and selections are
 decoded into their source blocks without evaluating game state. Explicit reserve
 markers also select candidate rows in the statically identified event-title
 authoring table; exact label matches are reported separately from executable consumer
-evidence. The command also supports machine-readable JSON:
+evidence. Verified executable companion formulas and record-local authoring-table
+roles are kept separate from chronology and reachability. JSON retains every full
+scene and adds target-centred review packets; `--format review` renders the bounded
+same-path neighborhood and alternate choice arms directly:
 
 ```sh
 ./zill context --game-dir /path/to/PSP_GAME --bank 135
 ./zill context --game-dir /path/to/PSP_GAME --record 1350035 --format json
+./zill context --game-dir /path/to/PSP_GAME --record 1350035 --format review
 ```
 
 `check` is the asset-free contributor gate; it does not run reflow

@@ -18,6 +18,7 @@ func TestContextRequiresOneValidSelector(t *testing.T) {
 		"two selectors":          {"--game-dir", "PSP_GAME", "--bank", "135", "--record", "1350035"},
 		"invalid bank":           {"--game-dir", "PSP_GAME", "--bank", "279"},
 		"invalid format":         {"--game-dir", "PSP_GAME", "--bank", "135", "--format", "yaml"},
+		"bank review":            {"--game-dir", "PSP_GAME", "--bank", "135", "--format", "review"},
 	}
 	for name, arguments := range tests {
 		t.Run(name, func(t *testing.T) {
@@ -41,6 +42,7 @@ func TestContextTextReportsUnreferencedBankAsAScene(t *testing.T) {
 		Selector: cdccontext.Selector{Bank: -1, Record: 340008},
 		Scenes: []cdccontext.Scene{{
 			Member:               "message/msgsec034.dat",
+			SourceArchive:        "pami",
 			SourceKind:           "message_bank",
 			Ordering:             "storage_order_only",
 			EvidenceStatus:       "no_resolved_static_consumer_reference",
@@ -96,6 +98,7 @@ func TestContextTextReportsUnreferencedBankAsAScene(t *testing.T) {
 		"Query: record 340008",
 		"Scenes: 1",
 		"Scene: message/msgsec034.dat",
+		"Archive: pami",
 		"Source: message_bank",
 		"Ordering: storage_order_only",
 		"Evidence: no_resolved_static_consumer_reference",

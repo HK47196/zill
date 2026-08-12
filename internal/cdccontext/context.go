@@ -27,10 +27,17 @@ type Selector struct {
 	Record int `json:"record"`
 }
 
+// Archive is one named retail PAA source available to context recovery.
+type Archive struct {
+	Name string
+	Pair *paa.Pair
+}
+
 // Result is the complete static context for the selected scenes.
 type Result struct {
-	Selector Selector `json:"selector"`
-	Scenes   []Scene  `json:"scenes"`
+	Selector      Selector       `json:"selector"`
+	Scenes        []Scene        `json:"scenes"`
+	ReviewPackets []ReviewPacket `json:"review_packets,omitempty"`
 }
 
 // Scene is one complete static context unit. CDC programs provide control-flow
@@ -38,6 +45,7 @@ type Result struct {
 // static consumer references the query.
 type Scene struct {
 	Member               string           `json:"member"`
+	SourceArchive        string           `json:"source_archive"`
 	SourceKind           string           `json:"source_kind"`
 	Ordering             string           `json:"ordering"`
 	EvidenceStatus       string           `json:"evidence_status"`
@@ -51,34 +59,77 @@ type Scene struct {
 
 // Entry is one authored message occurrence with its joined static flow state.
 type Entry struct {
-	Kind                       string             `json:"kind"`
-	MessageID                  int                `json:"message_id"`
-	Offset                     int                `json:"offset"`
-	OffsetBasis                string             `json:"offset_basis"`
-	Position                   int                `json:"position"`
-	Selected                   bool               `json:"selected"`
-	Reachability               string             `json:"reachability"`
-	Depth                      int                `json:"depth"`
-	Path                       []int              `json:"path"`
-	Guard                      string             `json:"guard"`
-	Raw                        string             `json:"raw"`
-	Japanese                   string             `json:"japanese"`
-	English                    string             `json:"english"`
-	State                      corpus.State       `json:"state"`
-	Terminology                []TerminologyEntry `json:"terminology"`
-	DisplayMode                *int               `json:"display_mode,omitempty"`
-	EntityAssociationHandleRaw *int               `json:"entity_association_handle_raw,omitempty"`
-	AssociationNameRecordID    *int               `json:"association_name_record_id,omitempty"`
-	AssociatedLabelMessageID   *int               `json:"associated_label_message_id,omitempty"`
-	AssociatedLabelJapanese    string             `json:"associated_label_japanese,omitempty"`
-	AssociatedLabelEnglish     string             `json:"associated_label_english,omitempty"`
-	AssociationResolution      string             `json:"association_resolution,omitempty"`
-	SpeakerStatus              string             `json:"speaker_status,omitempty"`
-	SpeakerJapanese            string             `json:"speaker_japanese,omitempty"`
-	SpeakerEnglish             string             `json:"speaker_english,omitempty"`
-	SpeakerSource              string             `json:"speaker_source,omitempty"`
-	SourceControls             []SourceControl    `json:"source_controls,omitempty"`
-	Actors                     []Actor            `json:"actors"`
+	Kind                       string               `json:"kind"`
+	MessageID                  int                  `json:"message_id"`
+	Offset                     int                  `json:"offset"`
+	OffsetBasis                string               `json:"offset_basis"`
+	Position                   int                  `json:"position"`
+	Selected                   bool                 `json:"selected"`
+	Reachability               string               `json:"reachability"`
+	Depth                      int                  `json:"depth"`
+	Path                       []int                `json:"path"`
+	Guard                      string               `json:"guard"`
+	Conditions                 []Condition          `json:"conditions,omitempty"`
+	Raw                        string               `json:"raw"`
+	Japanese                   string               `json:"japanese"`
+	English                    string               `json:"english"`
+	State                      corpus.State         `json:"state"`
+	Terminology                []TerminologyEntry   `json:"terminology"`
+	DisplayMode                *int                 `json:"display_mode,omitempty"`
+	EntityAssociationHandleRaw *int                 `json:"entity_association_handle_raw,omitempty"`
+	AssociationNameRecordID    *int                 `json:"association_name_record_id,omitempty"`
+	AssociatedLabelMessageID   *int                 `json:"associated_label_message_id,omitempty"`
+	AssociatedLabelJapanese    string               `json:"associated_label_japanese,omitempty"`
+	AssociatedLabelEnglish     string               `json:"associated_label_english,omitempty"`
+	AssociationResolution      string               `json:"association_resolution,omitempty"`
+	PortraitRequested          *bool                `json:"portrait_requested,omitempty"`
+	NameLabelRequested         *bool                `json:"name_label_requested,omitempty"`
+	ForcedStateThree           *bool                `json:"forced_state_three,omitempty"`
+	PortraitStatus             string               `json:"portrait_status,omitempty"`
+	SpeakerStatus              string               `json:"speaker_status,omitempty"`
+	SpeakerJapanese            string               `json:"speaker_japanese,omitempty"`
+	SpeakerEnglish             string               `json:"speaker_english,omitempty"`
+	SpeakerSource              string               `json:"speaker_source,omitempty"`
+	SourceControls             []SourceControl      `json:"source_controls,omitempty"`
+	Relationships              []Relationship       `json:"relationships,omitempty"`
+	ConsumerEvidence           []ConsumerEvidence   `json:"consumer_evidence,omitempty"`
+	AuthoringMetadata          *AuthoringMetadata   `json:"authoring_metadata,omitempty"`
+	PossibleAddressees         []AddresseeCandidate `json:"possible_addressees,omitempty"`
+	Actors                     []Actor              `json:"actors"`
+}
+
+// AddresseeCandidate is ranked static evidence, never a confirmed addressee.
+type AddresseeCandidate struct {
+	Handle     int    `json:"handle"`
+	Label      string `json:"label,omitempty"`
+	Confidence string `json:"confidence"`
+	Status     string `json:"status"`
+	Evidence   string `json:"evidence"`
+}
+
+// Condition is verified control behavior for one enclosing CDC block. Raw
+// selectors remain numeric when their gameplay meanings are unresolved.
+type Condition struct {
+	Opcode             string `json:"opcode"`
+	Raw                string `json:"raw"`
+	Kind               string `json:"kind"`
+	Status             string `json:"status"`
+	SelectorRaw        *int   `json:"selector_raw,omitempty"`
+	Operand1Raw        *int   `json:"operand_1_raw,omitempty"`
+	Operand2Raw        *int   `json:"operand_2_raw,omitempty"`
+	EntitySelectorRaw  *int   `json:"entity_selector_raw,omitempty"`
+	ComparisonValue    *int   `json:"comparison_value,omitempty"`
+	ComparatorRaw      string `json:"comparator_raw,omitempty"`
+	Comparator         string `json:"comparator,omitempty"`
+	PolarityRaw        string `json:"polarity_raw,omitempty"`
+	Polarity           string `json:"polarity,omitempty"`
+	PredicateFamilyRaw string `json:"predicate_family_raw,omitempty"`
+	PredicateIndexRaw  *int   `json:"predicate_index_raw,omitempty"`
+	SelectedIndex      *int   `json:"selected_index,omitempty"`
+	SlotRaw            *int   `json:"slot_raw,omitempty"`
+	BaseMessageID      *int   `json:"base_message_id,omitempty"`
+	OptionCount        *int   `json:"option_count,omitempty"`
+	Basis              string `json:"basis"`
 }
 
 // TerminologyEntry is one applicable authority in a stable JSON shape.
@@ -92,34 +143,85 @@ type TerminologyEntry struct {
 
 // Actor is the abstract lifecycle state for one observed handle.
 type Actor struct {
-	Handle                     int    `json:"handle"`
-	Presence                   string `json:"presence"`
-	PresenceBasis              string `json:"presence_basis"`
-	AssociationNameRecordID    *int   `json:"association_name_record_id,omitempty"`
-	AssociatedLabelMessageID   *int   `json:"associated_label_message_id,omitempty"`
-	AssociatedLabelJapanese    string `json:"associated_label_japanese,omitempty"`
-	AssociatedLabelEnglish     string `json:"associated_label_english,omitempty"`
-	AssociationLabelResolution string `json:"association_label_resolution"`
+	Handle                     int            `json:"handle"`
+	Presence                   string         `json:"presence"`
+	PresenceBasis              string         `json:"presence_basis"`
+	AssociationNameRecordID    *int           `json:"association_name_record_id,omitempty"`
+	AssociatedLabelMessageID   *int           `json:"associated_label_message_id,omitempty"`
+	AssociatedLabelJapanese    string         `json:"associated_label_japanese,omitempty"`
+	AssociatedLabelEnglish     string         `json:"associated_label_english,omitempty"`
+	AssociationLabelResolution string         `json:"association_label_resolution"`
+	Position                   *ActorPosition `json:"position,omitempty"`
+	Action                     *ActorAction   `json:"action,omitempty"`
+	Relation                   *ActorRelation `json:"relation,omitempty"`
+}
+
+// ActorPosition is the last path-stable coordinate-like pair supplied by C2
+// or C6. Axis meanings remain unresolved.
+type ActorPosition struct {
+	Component2 int    `json:"component_2"`
+	Component3 int    `json:"component_3"`
+	Source     string `json:"source"`
+	Status     string `json:"status"`
+}
+
+// ActorAction is the last path-stable per-entity action supplied by C7/C17.
+type ActorAction struct {
+	ActionIDRaw               int    `json:"action_id_raw"`
+	ModifierRaw               *int   `json:"modifier_raw,omitempty"`
+	OptionO                   bool   `json:"option_o"`
+	C5AssociationBehaviorFlag string `json:"c5_association_behavior_flag"`
+	Source                    string `json:"source"`
+	Status                    string `json:"status"`
+}
+
+// ActorRelation is the last path-stable opaque C18 mode/value.
+type ActorRelation struct {
+	ModeOrValueRaw int    `json:"mode_or_value_raw"`
+	Source         string `json:"source"`
+	Status         string `json:"status"`
 }
 
 // Reference is a raw static cross-program reference. Resolution is deliberately
 // left to callers because C12/C13/C14 are runtime-state dependent.
 type Reference struct {
-	Opcode       string                 `json:"opcode"`
-	Offset       int                    `json:"offset"`
-	Path         []int                  `json:"path"`
-	Guard        string                 `json:"guard"`
-	Raw          string                 `json:"raw"`
-	Arguments    []string               `json:"arguments"`
-	ScenarioSlot *int                   `json:"scenario_slot,omitempty"`
-	Resource     *cdc.ResourceReference `json:"resource,omitempty"`
+	Opcode                  string                 `json:"opcode"`
+	Offset                  int                    `json:"offset"`
+	Path                    []int                  `json:"path"`
+	Guard                   string                 `json:"guard"`
+	Raw                     string                 `json:"raw"`
+	Arguments               []string               `json:"arguments"`
+	ExecutionStatus         string                 `json:"execution_status"`
+	ResolutionStatus        string                 `json:"resolution_status"`
+	ScenarioSlot            *int                   `json:"scenario_slot,omitempty"`
+	ScenarioSlotTableIndex  *int                   `json:"scenario_slot_table_index,omitempty"`
+	ScenarioCandidates      []ScenarioCandidate    `json:"scenario_candidates,omitempty"`
+	CandidateGroupsFound    int                    `json:"candidate_groups_found,omitempty"`
+	CandidateGroupsExpected int                    `json:"candidate_groups_expected,omitempty"`
+	Resource                *cdc.ResourceReference `json:"resource,omitempty"`
 }
 
-// Build scans the supplied PAA archive and returns complete static context units
-// matching selector.
-func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair, selector Selector) (Result, error) {
-	if project == nil || pair == nil {
-		return Result{}, fmt.Errorf("cdc context: project and pair are required")
+// ScenarioCandidate is one group-dependent physical program correlated with a
+// verified scenario slot. The active group is runtime-selected.
+type ScenarioCandidate struct {
+	Group         string `json:"group"`
+	Slot          int    `json:"slot"`
+	SourceArchive string `json:"source_archive"`
+	Member        string `json:"member"`
+	ArchiveIndex  int    `json:"archive_index"`
+	Confidence    string `json:"confidence"`
+}
+
+type locatedMember struct {
+	archive Archive
+	member  paa.Member
+}
+
+// Build scans the supplied named PAA archives and returns complete static
+// context units matching selector.
+func Build(project *corpus.Project, terms fixeddata.Terminology, archives []Archive, selector Selector) (Result, error) {
+	if project == nil || len(archives) == 0 {
+		return Result{}, fmt.Errorf("cdc context: project and archives are required")
 	}
 	if (selector.Bank >= 0) == (selector.Record >= 0) {
 		return Result{}, fmt.Errorf("cdc context: set exactly one of bank or record")
@@ -135,28 +237,39 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair,
 		bank = selector.Record / 10_000
 	}
 	bankMemberName := fmt.Sprintf("message/msgsec%03d.dat", bank)
-	bankMemberIndex := -1
+	var bankMember *locatedMember
 	var bindata []byte
-	var members []paa.Member
-	for _, m := range pair.Members() {
-		if m.Name == "data/bindata.dat" {
-			if bindata != nil {
-				return Result{}, fmt.Errorf("cdc context: duplicate data/bindata.dat")
-			}
-			b, e := pair.Payload(m.Index)
-			if e != nil {
-				return Result{}, e
-			}
-			bindata = b
+	var members []locatedMember
+	seenArchives := make(map[string]bool, len(archives))
+	for _, archive := range archives {
+		if archive.Name == "" || archive.Pair == nil {
+			return Result{}, fmt.Errorf("cdc context: archive name and pair are required")
 		}
-		if len(m.Name) >= 8 && m.Name[:4] == "cdc/" && len(m.Name) >= 4 && m.Name[len(m.Name)-4:] == ".cdc" {
-			members = append(members, m)
+		if seenArchives[archive.Name] {
+			return Result{}, fmt.Errorf("cdc context: duplicate archive name %q", archive.Name)
 		}
-		if m.Name == bankMemberName {
-			if bankMemberIndex >= 0 {
-				return Result{}, fmt.Errorf("cdc context: duplicate %s", bankMemberName)
+		seenArchives[archive.Name] = true
+		for _, m := range archive.Pair.Members() {
+			if m.Name == "data/bindata.dat" {
+				if bindata != nil {
+					return Result{}, fmt.Errorf("cdc context: duplicate data/bindata.dat")
+				}
+				b, e := archive.Pair.Payload(m.Index)
+				if e != nil {
+					return Result{}, e
+				}
+				bindata = b
 			}
-			bankMemberIndex = m.Index
+			if strings.HasPrefix(m.Name, "cdc/") && strings.HasSuffix(m.Name, ".cdc") {
+				members = append(members, locatedMember{archive: archive, member: m})
+			}
+			if m.Name == bankMemberName {
+				if bankMember != nil {
+					return Result{}, fmt.Errorf("cdc context: duplicate %s", bankMemberName)
+				}
+				located := locatedMember{archive: archive, member: m}
+				bankMember = &located
+			}
 		}
 	}
 	if bindata == nil {
@@ -165,10 +278,17 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair,
 	if len(members) == 0 {
 		return Result{}, fmt.Errorf("cdc context: archive contains no cdc/*.cdc members")
 	}
-	sort.Slice(members, func(i, j int) bool { return members[i].Name < members[j].Name })
+	scenarioGroups := scenarioProgramGroups(members)
+	sort.Slice(members, func(i, j int) bool {
+		if members[i].archive.Name != members[j].archive.Name {
+			return members[i].archive.Name < members[j].archive.Name
+		}
+		return members[i].member.Name < members[j].member.Name
+	})
 	result := Result{Selector: selector, Scenes: make([]Scene, 0)}
-	for _, m := range members {
-		payload, err := pair.Payload(m.Index)
+	for _, located := range members {
+		m := located.member
+		payload, err := located.archive.Pair.Payload(m.Index)
 		if err != nil {
 			return Result{}, err
 		}
@@ -179,7 +299,7 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair,
 		if err != nil {
 			return Result{}, fmt.Errorf("cdc context: %s: %w", m.Name, err)
 		}
-		scene, err := buildScene(project, terms, m.Name, program, bindata)
+		scene, err := buildScene(project, terms, located.archive.Name, m.Name, program, bindata, scenarioGroups)
 		if err != nil {
 			return Result{}, err
 		}
@@ -204,10 +324,10 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair,
 		}
 	}
 	if len(result.Scenes) == 0 {
-		if bankMemberIndex < 0 {
+		if bankMember == nil {
 			return Result{}, fmt.Errorf("cdc context: archive is missing %s", bankMemberName)
 		}
-		payload, err := pair.Payload(bankMemberIndex)
+		payload, err := bankMember.archive.Pair.Payload(bankMember.member.Index)
 		if err != nil {
 			return Result{}, err
 		}
@@ -215,19 +335,21 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair,
 		if err != nil {
 			return Result{}, fmt.Errorf("cdc context: %s: %w", bankMemberName, err)
 		}
-		scene, err := buildBankScene(project, terms, bankMemberName, retailBank)
+		scene, err := buildBankScene(project, terms, bankMember.archive.Name, bankMemberName, retailBank)
 		if err != nil {
 			return Result{}, err
 		}
 		markSelectedRecord(&scene, selector)
 		result.Scenes = append(result.Scenes, scene)
 	}
+	result.ReviewPackets = buildReviewPackets(result)
 	return result, nil
 }
 
-func buildBankScene(project *corpus.Project, terms fixeddata.Terminology, member string, bank corpus.Bank) (Scene, error) {
+func buildBankScene(project *corpus.Project, terms fixeddata.Terminology, archive, member string, bank corpus.Bank) (Scene, error) {
 	scene := Scene{
 		Member:         member,
+		SourceArchive:  archive,
 		SourceKind:     "message_bank",
 		Ordering:       "storage_order_only",
 		EvidenceStatus: "no_resolved_static_consumer_reference",
@@ -254,19 +376,22 @@ func buildBankScene(project *corpus.Project, terms fixeddata.Terminology, member
 			return Scene{}, fmt.Errorf("cdc context: message %d: %w", record.ID, err)
 		}
 		scene.Entries = append(scene.Entries, Entry{
-			Kind:           "bank_record",
-			MessageID:      record.ID,
-			Offset:         record.Offset,
-			OffsetBasis:    "message_bank_byte_offset",
-			Position:       record.Index,
-			Reachability:   "unresolved",
-			Path:           make([]int, 0),
-			Japanese:       item.Translation.Japanese,
-			English:        item.Translation.Text,
-			State:          item.Translation.State,
-			Terminology:    applicableTerms(terms.Applicable(item)),
-			SourceControls: controls,
-			Actors:         make([]Actor, 0),
+			Kind:              "bank_record",
+			MessageID:         record.ID,
+			Offset:            record.Offset,
+			OffsetBasis:       "message_bank_byte_offset",
+			Position:          record.Index,
+			Reachability:      "unresolved",
+			Path:              make([]int, 0),
+			Japanese:          item.Translation.Japanese,
+			English:           item.Translation.Text,
+			State:             item.Translation.State,
+			Terminology:       applicableTerms(terms.Applicable(item)),
+			SourceControls:    controls,
+			Relationships:     executableRelationships(project, record.ID),
+			ConsumerEvidence:  executableConsumerEvidence(record.ID),
+			AuthoringMetadata: authoringMetadata(record.ID, item.Translation.Japanese),
+			Actors:            make([]Actor, 0),
 		})
 	}
 	if len(scene.Entries) > 0 {
@@ -288,9 +413,10 @@ func markSelectedRecord(scene *Scene, selector Selector) {
 	}
 }
 
-func buildScene(project *corpus.Project, terms fixeddata.Terminology, member string, p cdc.Program, bindata []byte) (Scene, error) {
+func buildScene(project *corpus.Project, terms fixeddata.Terminology, archive, member string, p cdc.Program, bindata []byte, scenarioGroups map[string][]locatedMember) (Scene, error) {
 	s := Scene{
 		Member:         member,
+		SourceArchive:  archive,
 		SourceKind:     "cdc_program",
 		Ordering:       "source_order_with_static_control_flow",
 		EvidenceStatus: "static_consumer_reference",
@@ -318,7 +444,7 @@ func buildScene(project *corpus.Project, terms fixeddata.Terminology, member str
 			pos += len(entries)
 			s.Entries = append(s.Entries, entries...)
 		case "C12", "C13", "C14", "C76":
-			s.References = append(s.References, reference(node.command, node.offset, node.path, node.guard))
+			s.References = append(s.References, reference(node.command, node.offset, node.path, node.guard, scenarioGroups))
 		}
 	}
 	return s, nil
@@ -426,10 +552,21 @@ func consumer(project *corpus.Project, terms fixeddata.Terminology, data []byte,
 		if err != nil {
 			return nil, fmt.Errorf("message %d: %w", id, err)
 		}
-		e := Entry{Kind: kind, MessageID: id, Offset: offset, OffsetBasis: "cdc_program_byte_offset", Position: pos + i, Reachability: flow.reachability(), Path: append([]int{}, path...), Guard: guard, Depth: depth, Raw: c.Raw, Japanese: item.Translation.Japanese, English: item.Translation.Text, State: item.Translation.State, Terminology: applicableTerms(terms.Applicable(item)), SourceControls: controls, Actors: actorList(project, data, flow.actors)}
+		e := Entry{Kind: kind, MessageID: id, Offset: offset, OffsetBasis: "cdc_program_byte_offset", Position: pos + i, Reachability: flow.reachability(), Path: append([]int{}, path...), Guard: guard, Conditions: conditionSemantics(guard), Depth: depth, Raw: c.Raw, Japanese: item.Translation.Japanese, English: item.Translation.Text, State: item.Translation.State, Terminology: applicableTerms(terms.Applicable(item)), SourceControls: controls, Relationships: executableRelationships(project, id), ConsumerEvidence: executableConsumerEvidence(id), AuthoringMetadata: authoringMetadata(id, item.Translation.Japanese), Actors: actorList(project, data, flow.actors)}
 		if kind == "dialogue_association" {
 			e.DisplayMode = intPointer(mode)
 			e.EntityAssociationHandleRaw = intPointer(handle)
+			portraitRequested := mode&1 != 0
+			nameRequested := mode&2 != 0
+			forcedStateThree := mode&4 != 0
+			e.PortraitRequested = boolPointer(portraitRequested)
+			e.NameLabelRequested = boolPointer(nameRequested)
+			e.ForcedStateThree = boolPointer(forcedStateThree)
+			if portraitRequested {
+				e.PortraitStatus = "requested_availability_unresolved"
+			} else {
+				e.PortraitStatus = "not_requested"
+			}
 			a := resolve(project, data, handle)
 			e.AssociationNameRecordID = a.nameRecordID
 			e.AssociatedLabelMessageID = a.labelMessageID
@@ -442,10 +579,157 @@ func consumer(project *corpus.Project, terms fixeddata.Terminology, data []byte,
 			if a.speakerStatus == "inferred_from_associated_label" {
 				e.SpeakerSource = "c5_associated_label"
 			}
+			e.PossibleAddressees = possibleAddressees(e.Actors, handle)
 		}
 		r = append(r, e)
 	}
 	return r, nil
+}
+
+func possibleAddressees(actors []Actor, associationHandle int) []AddresseeCandidate {
+	result := make([]AddresseeCandidate, 0)
+	for _, actor := range actors {
+		if actor.Handle == associationHandle || actor.Presence != "present" {
+			continue
+		}
+		label := actor.AssociatedLabelEnglish
+		if label == "" {
+			label = actor.AssociatedLabelJapanese
+		}
+		if label == "" {
+			label = actor.AssociationLabelResolution
+		}
+		result = append(result, AddresseeCandidate{
+			Handle: actor.Handle, Label: label, Confidence: "low",
+			Status: "possible", Evidence: "path_local_present_actor_other_than_c5_association",
+		})
+	}
+	return result
+}
+
+func conditionSemantics(guard string) []Condition {
+	if guard == "" {
+		return nil
+	}
+	parts := strings.Split(guard, " > ")
+	result := make([]Condition, 0, len(parts))
+	for _, raw := range parts {
+		program, err := cdc.Parse("guard", []byte(raw+"E"))
+		if err != nil || len(program.Commands) != 1 {
+			result = append(result, Condition{Raw: raw, Kind: "unresolved", Status: "unresolved", Basis: "raw_cdc_guard"})
+			continue
+		}
+		result = append(result, conditionForCommand(program.Commands[0]))
+	}
+	return result
+}
+
+func conditionForCommand(command cdc.Command) Condition {
+	condition := Condition{Opcode: command.Name, Raw: command.Raw, Kind: "unresolved", Status: "unresolved", Basis: "raw_cdc_guard"}
+	argument := func(index int) (*int, bool) {
+		if index >= len(command.Arguments) {
+			return nil, false
+		}
+		value, err := strconv.Atoi(command.Arguments[index])
+		if err != nil {
+			return nil, false
+		}
+		return intPointer(value), true
+	}
+	polarity := func(raw string) {
+		condition.PolarityRaw = raw
+		switch raw {
+		case "F", "H":
+			condition.Polarity = "positive"
+		case "O", "N":
+			condition.Polarity = "negated"
+		}
+	}
+	comparator := func(raw string) {
+		condition.ComparatorRaw = raw
+		switch raw {
+		case "Q":
+			condition.Comparator = "equal"
+		case "U":
+			condition.Comparator = "greater_or_equal"
+		case "W":
+			condition.Comparator = "less_or_equal"
+		}
+	}
+	switch command.Name {
+	case "C0":
+		if len(command.Arguments) == 3 {
+			condition.SelectorRaw, _ = argument(0)
+			condition.ComparisonValue, _ = argument(1)
+			polarity(command.Arguments[2])
+			condition.Kind, condition.Status, condition.Basis = "runtime_predicate", "verified_control_behavior", "executable_handler"
+		}
+	case "C1":
+		if len(command.Arguments) == 3 {
+			condition.SelectorRaw, _ = argument(0)
+			condition.ComparisonValue, _ = argument(1)
+			condition.PolarityRaw = command.Arguments[2]
+			condition.Kind, condition.Status, condition.Basis = "control_action_scope", "verified_nonpredicate", "executable_handler"
+		}
+	case "C21":
+		if len(command.Arguments) == 1 {
+			condition.SelectedIndex, _ = argument(0)
+			condition.Kind, condition.Status, condition.Basis = "choice_result_equals", "verified_control_behavior", "executable_handler"
+		}
+	case "C20":
+		if len(command.Arguments) >= 2 {
+			condition.BaseMessageID, _ = argument(0)
+			condition.OptionCount, _ = argument(1)
+			condition.Kind, condition.Status, condition.Basis = "choice_context", "verified_control_behavior", "executable_handler"
+		}
+	case "C32":
+		if len(command.Arguments) == 4 {
+			condition.Operand1Raw, _ = argument(0)
+			condition.Operand2Raw, _ = argument(1)
+			condition.ComparisonValue, _ = argument(2)
+			comparator(command.Arguments[3])
+			condition.Kind, condition.Status, condition.Basis = "runtime_compare", "verified_block_skip_behavior", "executable_handler"
+		}
+	case "C36":
+		if len(command.Arguments) == 3 {
+			condition.Operand1Raw, _ = argument(0)
+			condition.ComparisonValue, _ = argument(1)
+			comparator(command.Arguments[2])
+			condition.Kind, condition.Status, condition.Basis = "runtime_existence_or_compare", "verified_block_skip_behavior", "executable_handler"
+		}
+	case "C45":
+		if len(command.Arguments) == 3 {
+			condition.SelectorRaw, _ = argument(0)
+			condition.ComparisonValue, _ = argument(1)
+			comparator(command.Arguments[2])
+			condition.Kind, condition.Status, condition.Basis = "runtime_compare", "verified_block_skip_behavior", "executable_handler"
+		}
+	case "C58":
+		if len(command.Arguments) == 3 && len(command.Arguments[1]) >= 2 {
+			condition.EntitySelectorRaw, _ = argument(0)
+			condition.PredicateFamilyRaw = command.Arguments[1][:1]
+			value, err := strconv.Atoi(command.Arguments[1][1:])
+			if err == nil {
+				condition.PredicateIndexRaw = intPointer(value)
+			}
+			polarity(command.Arguments[2])
+			condition.Kind, condition.Status, condition.Basis = "entity_predicate", "verified_control_behavior", "executable_handler"
+		}
+	case "C75":
+		if len(command.Arguments) == 2 {
+			condition.SlotRaw, _ = argument(0)
+			polarity(command.Arguments[1])
+			condition.Kind, condition.Status, condition.Basis = "slot_predicate", "verified_block_skip_behavior", "executable_handler"
+		}
+	case "C80":
+		if len(command.Arguments) == 3 {
+			condition.EntitySelectorRaw, _ = argument(0)
+			condition.Operand2Raw, _ = argument(1)
+			condition.ComparatorRaw = command.Arguments[2]
+			condition.Kind, condition.Status, condition.Basis = "entity_subselector_condition", "verified_block_skip_behavior", "executable_handler"
+		}
+	}
+	return condition
 }
 
 func sourceControls(japanese, english string) ([]SourceControl, error) {
@@ -501,6 +785,10 @@ func intPointer(value int) *int {
 	return &value
 }
 
+func boolPointer(value bool) *bool {
+	return &value
+}
+
 func applicableTerms(entries []fixeddata.SearchEntry) []TerminologyEntry {
 	result := make([]TerminologyEntry, 0, len(entries))
 	for _, entry := range entries {
@@ -527,10 +815,38 @@ func actorList(project *corpus.Project, data []byte, actors actorState) []Actor 
 			AssociatedLabelJapanese:    a.labelJapanese,
 			AssociatedLabelEnglish:     a.labelEnglish,
 			AssociationLabelResolution: a.resolution,
+			Position:                   actorPosition(fact),
+			Action:                     actorAction(fact),
+			Relation:                   actorRelation(fact),
 		})
 	}
 	sort.Slice(r, func(i, j int) bool { return r[i].Handle < r[j].Handle })
 	return r
+}
+
+func actorPosition(fact actorFact) *ActorPosition {
+	if !fact.positionKnown {
+		return nil
+	}
+	return &ActorPosition{Component2: fact.positionComponent2, Component3: fact.positionComponent3, Source: fact.positionSource, Status: "coordinate_like_pair"}
+}
+
+func actorAction(fact actorFact) *ActorAction {
+	if !fact.actionKnown {
+		return nil
+	}
+	action := &ActorAction{ActionIDRaw: fact.actionID, OptionO: fact.actionOptionO, C5AssociationBehaviorFlag: fact.actionAssociationFlag, Source: fact.actionSource, Status: "per_entity_action"}
+	if fact.actionModifierKnown {
+		action.ModifierRaw = intPointer(fact.actionModifier)
+	}
+	return action
+}
+
+func actorRelation(fact actorFact) *ActorRelation {
+	if !fact.relationKnown {
+		return nil
+	}
+	return &ActorRelation{ModeOrValueRaw: fact.relationValue, Source: fact.relationSource, Status: "opaque_per_entity_state"}
 }
 
 type association struct {
@@ -637,13 +953,55 @@ func resolve(project *corpus.Project, data []byte, h int) association {
 func labelText(value string) string {
 	return strings.TrimSpace(strings.TrimSuffix(value, "<end>"))
 }
-func reference(c cdc.Command, offset int, path []int, guard string) Reference {
-	r := Reference{Opcode: c.Name, Offset: offset, Path: append([]int{}, path...), Guard: guard, Raw: c.Raw, Arguments: append([]string{}, c.Arguments...)}
+func reference(c cdc.Command, offset int, path []int, guard string, scenarioGroups map[string][]locatedMember) Reference {
+	r := Reference{Opcode: c.Name, Offset: offset, Path: append([]int{}, path...), Guard: guard, Raw: c.Raw, Arguments: append([]string{}, c.Arguments...), ExecutionStatus: "runtime_dependent", ResolutionStatus: "unresolved"}
 	if n, ok := c.ScenarioSlot(); ok {
 		r.ScenarioSlot = &n
+		r.ResolutionStatus = "group_runtime_dependent"
+		r.CandidateGroupsExpected = len(scenarioGroupNames)
+		for _, group := range scenarioGroupNames {
+			members := scenarioGroups[group]
+			if len(members) != 914 {
+				continue
+			}
+			candidate := members[n-1]
+			r.ScenarioCandidates = append(r.ScenarioCandidates, ScenarioCandidate{
+				Group: group, Slot: n, SourceArchive: candidate.archive.Name,
+				Member: candidate.member.Name, ArchiveIndex: candidate.member.Index,
+				Confidence: "archive_order_correlation",
+			})
+		}
+		r.CandidateGroupsFound = len(r.ScenarioCandidates)
+		if c.Name == "C14" {
+			r.ExecutionStatus = "direct_request"
+		}
+	}
+	if index, ok := c.ScenarioSlotTableIndex(); ok {
+		r.ScenarioSlotTableIndex = &index
+		r.ResolutionStatus = "room_runtime_dependent"
 	}
 	if x, ok := c.C76Resource(); ok {
 		r.Resource = &x
+		r.ExecutionStatus = "direct_request"
+		r.ResolutionStatus = "logical_key_only"
 	}
 	return r
+}
+
+var scenarioGroupNames = []string{"01", "02", "03", "04", "05", "06", "v1", "v2", "v3", "v4", "v5", "v6", "v7"}
+
+func scenarioProgramGroups(members []locatedMember) map[string][]locatedMember {
+	result := make(map[string][]locatedMember, len(scenarioGroupNames))
+	valid := make(map[string]bool, len(scenarioGroupNames))
+	for _, group := range scenarioGroupNames {
+		valid[group] = true
+	}
+	for _, located := range members {
+		parts := strings.Split(located.member.Name, "/")
+		if len(parts) != 3 || parts[0] != "cdc" || !valid[parts[1]] {
+			continue
+		}
+		result[parts[1]] = append(result[parts[1]], located)
+	}
+	return result
 }

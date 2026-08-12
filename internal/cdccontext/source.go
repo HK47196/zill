@@ -19,11 +19,12 @@ type SourceEvidence struct {
 	Status           string            `json:"status"`
 	Confidence       string            `json:"confidence"`
 	RuntimeStatus    string            `json:"runtime_status"`
-	EventNumber      int               `json:"event_number"`
-	MarkerLabel      string            `json:"marker_label"`
-	MarkerMessageIDs []int             `json:"marker_message_ids"`
-	Candidates       []SourceCandidate `json:"candidates"`
+	EventNumber      int               `json:"event_number,omitempty"`
+	MarkerLabel      string            `json:"marker_label,omitempty"`
+	MarkerMessageIDs []int             `json:"marker_message_ids,omitempty"`
+	Candidates       []SourceCandidate `json:"candidates,omitempty"`
 	Basis            string            `json:"basis"`
+	SourceLocator    string            `json:"source_locator,omitempty"`
 }
 
 // SourceCandidate is a same-index row from a discovered event-authoring table.
@@ -83,7 +84,7 @@ func sourceEvidence(project *corpus.Project, bank int) []SourceEvidence {
 		keys = append(keys, key)
 	}
 	sort.Strings(keys)
-	result := make([]SourceEvidence, 0, len(keys))
+	result := bankSourceEvidence(bank)
 	for _, key := range keys {
 		marker := markers[key]
 		evidence := SourceEvidence{
@@ -120,6 +121,25 @@ func sourceEvidence(project *corpus.Project, bank int) []SourceEvidence {
 		result = append(result, evidence)
 	}
 	return result
+}
+
+func bankSourceEvidence(bank int) []SourceEvidence {
+	switch bank {
+	case 159:
+		return []SourceEvidence{{
+			Kind: "dynamic_bank_route", Status: "verified_executable_bank_route", Confidence: "high",
+			RuntimeStatus: "record_selector_unresolved", Basis: "state_412_router_and_factory",
+			SourceLocator: "ULJM05410-1.03 EBOOT 0xb6698/0x1780a8",
+		}}
+	case 194, 195, 196, 197:
+		return []SourceEvidence{{
+			Kind: "source_authoring_table", Status: "no_resolved_static_consumer_reference", Confidence: "high",
+			RuntimeStatus: "unresolved", Basis: "retained_event_authoring_table_and_exhaustive_consumer_audit",
+			SourceLocator: "ULJM05410-1.03 formatter and CDC consumer audit",
+		}}
+	default:
+		return make([]SourceEvidence, 0)
+	}
 }
 
 func parseScenarioReserveMarker(text string) (int, string, bool) {

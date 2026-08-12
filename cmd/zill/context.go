@@ -15,7 +15,7 @@ import (
 	"github.com/HK47196/zill/internal/gamefmt/paa"
 )
 
-const contextUsage = "zill context --game-dir PATH (--bank NNN | --record ID) [--format text|json]"
+const contextUsage = "zill context --game-dir PATH (--bank NNN | --record ID) [--format text|review|json]"
 
 type contextOptions struct {
 	gameDir  string
@@ -47,13 +47,25 @@ func runContext(root string, args []string, stdout, stderr io.Writer) int {
 		return 1
 	}
 	usrdir := filepath.Join(options.gameDir, "USRDIR")
-	pair, err := paa.Open(filepath.Join(usrdir, "pa.bin"), filepath.Join(usrdir, "pa.arc"))
-	if err != nil {
-		fmt.Fprintf(stderr, "zill: context: %v\n", err)
-		return 1
+	archives := make([]cdccontext.Archive, 0, 2)
+	for _, name := range []string{"pa", "pami"} {
+		pair, openErr := paa.Open(filepath.Join(usrdir, name+".bin"), filepath.Join(usrdir, name+".arc"))
+		if openErr != nil {
+			for _, archive := range archives {
+				_ = archive.Pair.Close()
+			}
+			fmt.Fprintf(stderr, "zill: context: %v\n", openErr)
+			return 1
+		}
+		archives = append(archives, cdccontext.Archive{Name: name, Pair: pair})
 	}
-	result, buildErr := cdccontext.Build(project, terms, pair, options.selectBy)
-	closeErr := pair.Close()
+	result, buildErr := cdccontext.Build(project, terms, archives, options.selectBy)
+	var closeErr error
+	for _, archive := range archives {
+		if err := archive.Pair.Close(); err != nil && closeErr == nil {
+			closeErr = err
+		}
+	}
 	if buildErr != nil {
 		fmt.Fprintf(stderr, "zill: context: %v\n", buildErr)
 		return 1
@@ -69,6 +81,10 @@ func runContext(root string, args []string, stdout, stderr io.Writer) int {
 			fmt.Fprintf(stderr, "zill: context: encode JSON: %v\n", err)
 			return 1
 		}
+		return 0
+	}
+	if options.format == "review" {
+		writeReviewText(stdout, result)
 		return 0
 	}
 	writeContextText(stdout, result)
@@ -131,7 +147,7 @@ func parseContextOptions(args []string) (contextOptions, error) {
 			}
 			formatSet = true
 			options.format, err = nextValue()
-			if err == nil && options.format != "text" && options.format != "json" {
+			if err == nil && options.format != "text" && options.format != "review" && options.format != "json" {
 				err = fmt.Errorf("unsupported format %q", options.format)
 			}
 		default:
@@ -147,7 +163,46 @@ func parseContextOptions(args []string) (contextOptions, error) {
 	if bankSet == recordSet {
 		return contextOptions{}, fmt.Errorf("set exactly one of --bank or --record")
 	}
+	if options.format == "review" && options.selectBy.Record < 0 {
+		return contextOptions{}, fmt.Errorf("--format review requires --record")
+	}
 	return options, nil
+}
+
+func writeReviewText(output io.Writer, result cdccontext.Result) {
+	fmt.Fprintf(output, "Review target: record %d\nPackets: %d\n", result.Selector.Record, len(result.ReviewPackets))
+	for _, packet := range result.ReviewPackets {
+		fmt.Fprintf(output, "\nScene: %s\n", packet.SceneMember)
+		fmt.Fprintf(output, "  Archive: %s\n", packet.SourceArchive)
+		fmt.Fprintf(output, "  Source: %s\n", packet.SourceKind)
+		fmt.Fprintf(output, "  Ordering: %s\n", packet.Ordering)
+		fmt.Fprintf(output, "  Evidence: %s\n", packet.EvidenceStatus)
+		fmt.Fprintf(output, "  Target occurrence: position=%d path=%s\n", packet.OccurrencePosition, contextPath(packet.Path))
+		for _, reference := range packet.References {
+			fmt.Fprintf(output, "  Cross-program reference: %s execution=%s resolution=%s", reference.Opcode, reference.ExecutionStatus, reference.ResolutionStatus)
+			if reference.ScenarioSlot != nil {
+				fmt.Fprintf(output, " slot=%d candidates=%d/%d", *reference.ScenarioSlot, reference.CandidateGroupsFound, reference.CandidateGroupsExpected)
+			}
+			if reference.Resource != nil {
+				fmt.Fprintf(output, " key=%s", reference.Resource.LogicalKey)
+			}
+			fmt.Fprintln(output)
+		}
+		if packet.ReferencesOmitted > 0 {
+			fmt.Fprintf(output, "  Cross-program references omitted from bounded review: %d\n", packet.ReferencesOmitted)
+		}
+		for _, entry := range packet.Context {
+			fmt.Fprintf(output, "\n  Review role: %s\n", entry.Role)
+			writeContextEntries(output, []cdccontext.Entry{entry.Entry})
+		}
+		for _, entry := range packet.AlternateArms {
+			fmt.Fprintf(output, "\n  Review role: %s\n", entry.Role)
+			writeContextEntries(output, []cdccontext.Entry{entry.Entry})
+		}
+		if packet.AlternateArmsOmitted > 0 {
+			fmt.Fprintf(output, "\n  Alternate-arm entries omitted from bounded review: %d\n", packet.AlternateArmsOmitted)
+		}
+	}
 }
 
 func parseContextInteger(kind, value string, maximum int) (int, error) {
@@ -166,6 +221,7 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 	fmt.Fprintf(output, "Query: %s\nScenes: %d\n", query, len(result.Scenes))
 	for _, scene := range result.Scenes {
 		fmt.Fprintf(output, "\nScene: %s\n", scene.Member)
+		fmt.Fprintf(output, "  Archive: %s\n", scene.SourceArchive)
 		fmt.Fprintf(output, "  Source: %s\n", scene.SourceKind)
 		fmt.Fprintf(output, "  Ordering: %s\n", scene.Ordering)
 		fmt.Fprintf(output, "  Evidence: %s\n", scene.EvidenceStatus)
@@ -178,7 +234,9 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 		}
 		for _, evidence := range scene.SourceEvidence {
 			fmt.Fprintf(output, "  Source evidence: %s status=%s confidence=%s runtime=%s\n", evidence.Kind, evidence.Status, evidence.Confidence, evidence.RuntimeStatus)
-			fmt.Fprintf(output, "    Marker: event=%d label=%s records=%v\n", evidence.EventNumber, evidence.MarkerLabel, evidence.MarkerMessageIDs)
+			if evidence.MarkerLabel != "" || len(evidence.MarkerMessageIDs) > 0 {
+				fmt.Fprintf(output, "    Marker: event=%d label=%s records=%v\n", evidence.EventNumber, evidence.MarkerLabel, evidence.MarkerMessageIDs)
+			}
 			for _, candidate := range evidence.Candidates {
 				fmt.Fprintf(output, "    Authoring candidate (%d): %s", candidate.MessageID, candidate.Japanese)
 				if candidate.English != "" {
@@ -188,6 +246,9 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 				fmt.Fprintln(output)
 			}
 			fmt.Fprintf(output, "    Basis: %s\n", evidence.Basis)
+			if evidence.SourceLocator != "" {
+				fmt.Fprintf(output, "    Source locator: %s\n", evidence.SourceLocator)
+			}
 		}
 		if scene.SourceKind == "message_bank" {
 			fmt.Fprintln(output, "  Limitations: record-local controls and source-authoring candidates do not establish scene chronology, speakers, actor presence, or runtime reachability.")
@@ -196,7 +257,10 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 		if len(scene.References) > 0 {
 			fmt.Fprintln(output, "  Static references (execution remains conditional):")
 			for _, reference := range scene.References {
-				fmt.Fprintf(output, "    %s @%d path=%s raw=%s\n", reference.Opcode, reference.Offset, contextPath(reference.Path), reference.Raw)
+				fmt.Fprintf(output, "    %s @%d path=%s execution=%s resolution=%s raw=%s\n", reference.Opcode, reference.Offset, contextPath(reference.Path), reference.ExecutionStatus, reference.ResolutionStatus, reference.Raw)
+				for _, candidate := range reference.ScenarioCandidates {
+					fmt.Fprintf(output, "      Candidate: group=%s slot=%d archive=%s member=%s confidence=%s\n", candidate.Group, candidate.Slot, candidate.SourceArchive, candidate.Member, candidate.Confidence)
+				}
 			}
 		}
 	}
@@ -217,6 +281,16 @@ func writeContextEntries(output io.Writer, entries []cdccontext.Entry) {
 		}
 		if entry.Guard != "" {
 			fmt.Fprintf(output, "    Enclosing blocks: %s\n", entry.Guard)
+		}
+		for _, condition := range entry.Conditions {
+			fmt.Fprintf(output, "    Condition: %s kind=%s status=%s", condition.Raw, condition.Kind, condition.Status)
+			if condition.Comparator != "" {
+				fmt.Fprintf(output, " comparator=%s", condition.Comparator)
+			}
+			if condition.Polarity != "" {
+				fmt.Fprintf(output, " polarity=%s", condition.Polarity)
+			}
+			fmt.Fprintln(output)
 		}
 		for controlIndex, control := range entry.SourceControls {
 			fmt.Fprintf(output, "    Record-local control %d: %s evidence=%s", controlIndex, control.Kind, control.Evidence)
@@ -246,6 +320,7 @@ func writeContextEntries(output io.Writer, entries []cdccontext.Entry) {
 				fmt.Fprintf(output, " label_message=%d", *entry.AssociatedLabelMessageID)
 			}
 			fmt.Fprintln(output)
+			fmt.Fprintf(output, "    Display requests: portrait=%t name_label=%t forced_state_three=%t portrait_status=%s\n", boolValue(entry.PortraitRequested), boolValue(entry.NameLabelRequested), boolValue(entry.ForcedStateThree), entry.PortraitStatus)
 			if entry.AssociatedLabelJapanese != "" || entry.AssociatedLabelEnglish != "" {
 				fmt.Fprintf(output, "    Associated label: %s / %s\n", entry.AssociatedLabelJapanese, entry.AssociatedLabelEnglish)
 			}
@@ -268,13 +343,46 @@ func writeContextEntries(output io.Writer, entries []cdccontext.Entry) {
 				parts[index] = fmt.Sprintf("%d=%s[%s;%s]", actor.Handle, label, actor.Presence, actor.PresenceBasis)
 			}
 			fmt.Fprintf(output, "    Actor lifecycle: %s\n", strings.Join(parts, ", "))
+			for _, actor := range entry.Actors {
+				if actor.Position != nil {
+					fmt.Fprintf(output, "      Actor %d position: component_2=%d component_3=%d source=%s status=%s\n", actor.Handle, actor.Position.Component2, actor.Position.Component3, actor.Position.Source, actor.Position.Status)
+				}
+				if actor.Action != nil {
+					fmt.Fprintf(output, "      Actor %d action: id=%d source=%s status=%s flag=%s", actor.Handle, actor.Action.ActionIDRaw, actor.Action.Source, actor.Action.Status, actor.Action.C5AssociationBehaviorFlag)
+					if actor.Action.ModifierRaw != nil {
+						fmt.Fprintf(output, " modifier=%d", *actor.Action.ModifierRaw)
+					}
+					fmt.Fprintln(output)
+				}
+				if actor.Relation != nil {
+					fmt.Fprintf(output, "      Actor %d relation: mode_or_value=%d source=%s status=%s\n", actor.Handle, actor.Relation.ModeOrValueRaw, actor.Relation.Source, actor.Relation.Status)
+				}
+			}
+		}
+		for _, candidate := range entry.PossibleAddressees {
+			fmt.Fprintf(output, "    Possible addressee: handle=%d label=%s confidence=%s evidence=%s\n", candidate.Handle, candidate.Label, candidate.Confidence, candidate.Evidence)
 		}
 		fmt.Fprintf(output, "    Japanese: %s\n", entry.Japanese)
 		fmt.Fprintf(output, "    English: %s\n", entry.English)
 		for _, term := range entry.Terminology {
 			fmt.Fprintf(output, "    Authority: %s: %s → %s\n", term.Kind, term.Japanese, term.English)
 		}
+		if entry.AuthoringMetadata != nil {
+			fmt.Fprintf(output, "    Authoring metadata: table=%s status=%s runtime=%s raw=%s\n", entry.AuthoringMetadata.TableKind, entry.AuthoringMetadata.Status, entry.AuthoringMetadata.RuntimeStatus, entry.AuthoringMetadata.RawLabel)
+		}
+		for _, evidence := range entry.ConsumerEvidence {
+			fmt.Fprintf(output, "    Executable consumer: disposition=%s role=%s category=%s confidence=%s runtime=%s\n", evidence.Disposition, evidence.Role, evidence.Category, evidence.Confidence, evidence.RuntimeStatus)
+		}
+		for _, relationship := range entry.Relationships {
+			fmt.Fprintf(output, "    Executable relationship: %s → %d status=%s runtime=%s\n", relationship.Kind, relationship.TargetMessage, relationship.Status, relationship.RuntimeStatus)
+			fmt.Fprintf(output, "      Japanese: %s\n", relationship.TargetJapanese)
+			fmt.Fprintf(output, "      English: %s\n", relationship.TargetEnglish)
+		}
 	}
+}
+
+func boolValue(value *bool) bool {
+	return value != nil && *value
 }
 
 func contextPath(path []int) string {

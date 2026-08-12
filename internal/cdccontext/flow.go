@@ -240,8 +240,22 @@ func appendGuard(guard, owner string) string {
 }
 
 type actorFact struct {
-	presence string
-	basis    string
+	presence              string
+	basis                 string
+	positionKnown         bool
+	positionComponent2    int
+	positionComponent3    int
+	positionSource        string
+	actionKnown           bool
+	actionID              int
+	actionModifierKnown   bool
+	actionModifier        int
+	actionOptionO         bool
+	actionAssociationFlag string
+	actionSource          string
+	relationKnown         bool
+	relationValue         int
+	relationSource        string
 }
 
 type actorState map[int]actorFact
@@ -314,7 +328,7 @@ func analyzeFlow(graph flowGraph) flowAnalysis {
 				if context.returnNode != noFlowNode {
 					enqueue(flowContext{node: context.returnNode, returnNode: noFlowNode, choice: context.choice}, outgoing)
 				} else {
-					forward(graph, node, flowContext{returnNode: noFlowNode, choice: context.choice}, outgoing.asUnsupported(), enqueue)
+					forward(graph, node, flowContext{returnNode: noFlowNode, choice: context.choice}, outgoing, enqueue)
 				}
 			case "C20":
 				count, ok := choiceCount(node.command)
@@ -362,7 +376,7 @@ func branch(graph flowGraph, node flowNode, context flowContext, state abstractF
 	if len(node.next) == 0 {
 		return
 	}
-	if node.owner.Name == "C20" {
+	if node.owner.Name == "C20" || node.owner.Name == "C1" {
 		enqueue(flowContext{node: node.next[0], returnNode: context.returnNode, choice: context.choice}, state)
 		return
 	}
@@ -411,16 +425,83 @@ func applyLifecycle(flow *abstractFlow, command cdc.Command) {
 	}
 	switch command.Name {
 	case "C2":
-		flow.actors[handle] = actorFact{presence: "present", basis: "cfg_lifecycle"}
+		fact := actorFact{presence: "present", basis: "cfg_lifecycle"}
+		applyPosition(&fact, command)
+		flow.actors[handle] = fact
 	case "C6":
-		if current, exists := flow.actors[handle]; exists {
-			if current.presence == "present" || current.basis == "state_disagreement" {
-				return
-			}
+		fact, exists := flow.actors[handle]
+		if !exists || (fact.presence != "present" && fact.basis != "state_disagreement") {
+			fact.presence = "unknown"
+			fact.basis = "insufficient_lifecycle_evidence"
 		}
-		flow.actors[handle] = actorFact{presence: "unknown", basis: "insufficient_lifecycle_evidence"}
+		applyPosition(&fact, command)
+		flow.actors[handle] = fact
 	case "C3":
 		flow.actors[handle] = actorFact{presence: "absent", basis: "cfg_lifecycle"}
+	case "C7", "C17":
+		fact := actorForStaging(flow.actors, handle)
+		applyAction(&fact, command)
+		flow.actors[handle] = fact
+	case "C18":
+		fact := actorForStaging(flow.actors, handle)
+		if len(command.Arguments) == 2 {
+			if value, err := strconv.Atoi(command.Arguments[1]); err == nil {
+				fact.relationKnown = true
+				fact.relationValue = value
+				fact.relationSource = "C18"
+			}
+		}
+		flow.actors[handle] = fact
+	}
+}
+
+func actorForStaging(actors actorState, handle int) actorFact {
+	if fact, exists := actors[handle]; exists {
+		return fact
+	}
+	return actorFact{presence: "unknown", basis: "insufficient_lifecycle_evidence"}
+}
+
+func applyPosition(fact *actorFact, command cdc.Command) {
+	if len(command.Arguments) < 3 {
+		return
+	}
+	component2, err2 := strconv.Atoi(command.Arguments[1])
+	component3, err3 := strconv.Atoi(command.Arguments[2])
+	if err2 != nil || err3 != nil {
+		return
+	}
+	fact.positionKnown = true
+	fact.positionComponent2 = component2
+	fact.positionComponent3 = component3
+	fact.positionSource = command.Name
+}
+
+func applyAction(fact *actorFact, command cdc.Command) {
+	if len(command.Arguments) < 3 {
+		return
+	}
+	action, err := strconv.Atoi(command.Arguments[1])
+	if err != nil {
+		return
+	}
+	fact.actionKnown = true
+	fact.actionID = action
+	fact.actionModifierKnown = false
+	fact.actionModifier = 0
+	fact.actionOptionO = false
+	fact.actionAssociationFlag = command.Arguments[len(command.Arguments)-1]
+	fact.actionSource = command.Name
+	modifierIndex := 2
+	if command.Name == "C17" {
+		fact.actionOptionO = command.Arguments[2] == "O"
+		modifierIndex = 3
+	}
+	if modifierIndex < len(command.Arguments)-1 {
+		if modifier, err := strconv.Atoi(command.Arguments[modifierIndex]); err == nil {
+			fact.actionModifierKnown = true
+			fact.actionModifier = modifier
+		}
 	}
 }
 
@@ -477,12 +558,39 @@ func joinActors(left, right actorState) actorState {
 			if leftFact.basis == "state_disagreement" || rightFact.basis == "state_disagreement" || leftFact.basis != rightFact.basis {
 				basis = "state_disagreement"
 			}
-			result[handle] = actorFact{presence: "unknown", basis: basis}
+			fact := actorFact{presence: "unknown", basis: basis}
+			joinStaging(&fact, leftFact, rightFact)
+			result[handle] = fact
 		default:
-			result[handle] = actorFact{presence: leftFact.presence, basis: "cfg_lifecycle"}
+			fact := actorFact{presence: leftFact.presence, basis: "cfg_lifecycle"}
+			joinStaging(&fact, leftFact, rightFact)
+			result[handle] = fact
 		}
 	}
 	return result
+}
+
+func joinStaging(result *actorFact, left, right actorFact) {
+	if left.positionKnown && right.positionKnown && left.positionComponent2 == right.positionComponent2 && left.positionComponent3 == right.positionComponent3 && left.positionSource == right.positionSource {
+		result.positionKnown = true
+		result.positionComponent2 = left.positionComponent2
+		result.positionComponent3 = left.positionComponent3
+		result.positionSource = left.positionSource
+	}
+	if left.actionKnown && right.actionKnown && left.actionID == right.actionID && left.actionModifierKnown == right.actionModifierKnown && left.actionModifier == right.actionModifier && left.actionOptionO == right.actionOptionO && left.actionAssociationFlag == right.actionAssociationFlag && left.actionSource == right.actionSource {
+		result.actionKnown = true
+		result.actionID = left.actionID
+		result.actionModifierKnown = left.actionModifierKnown
+		result.actionModifier = left.actionModifier
+		result.actionOptionO = left.actionOptionO
+		result.actionAssociationFlag = left.actionAssociationFlag
+		result.actionSource = left.actionSource
+	}
+	if left.relationKnown && right.relationKnown && left.relationValue == right.relationValue && left.relationSource == right.relationSource {
+		result.relationKnown = true
+		result.relationValue = left.relationValue
+		result.relationSource = left.relationSource
+	}
 }
 
 func flowEqual(left, right abstractFlow) bool {
