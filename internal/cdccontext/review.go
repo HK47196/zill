@@ -15,6 +15,7 @@ const (
 // Scene remains the lossless source of truth.
 type ReviewPacket struct {
 	SceneMember          string           `json:"scene_member"`
+	EmbeddedMember       string           `json:"embedded_member,omitempty"`
 	SourceArchive        string           `json:"source_archive"`
 	SourceKind           string           `json:"source_kind"`
 	Ordering             string           `json:"ordering"`
@@ -47,7 +48,7 @@ func buildReviewPackets(result Result) []ReviewPacket {
 				continue
 			}
 			packet := ReviewPacket{
-				SceneMember: scene.Member, SourceArchive: scene.SourceArchive,
+				SceneMember: scene.Member, EmbeddedMember: scene.EmbeddedMember, SourceArchive: scene.SourceArchive,
 				SourceKind: scene.SourceKind, Ordering: scene.Ordering,
 				EvidenceStatus: scene.EvidenceStatus, TargetMessageID: target.MessageID,
 				OccurrencePosition: target.Position, Path: append([]int(nil), target.Path...),
@@ -78,6 +79,11 @@ func reviewNeighbors(entries []Entry, targetIndex, step int, path []int, sourceK
 		role = "storage_neighbor_after"
 		if step < 0 {
 			role = "storage_neighbor_before"
+		}
+	} else if sourceKind == "ambient_interaction" {
+		role = "room_entity_neighbor_after"
+		if step < 0 {
+			role = "room_entity_neighbor_before"
 		}
 	}
 	for index := targetIndex + step; index >= 0 && index < len(entries) && len(result) < reviewNeighborCount; index += step {

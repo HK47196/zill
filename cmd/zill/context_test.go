@@ -45,7 +45,7 @@ func TestContextTextReportsUnreferencedBankAsAScene(t *testing.T) {
 			SourceArchive:        "pami",
 			SourceKind:           "message_bank",
 			Ordering:             "storage_order_only",
-			EvidenceStatus:       "no_resolved_static_consumer_reference",
+			EvidenceStatus:       "retail_storage_source",
 			FirstRecordMessageID: &labelID,
 			FirstRecordJapanese:  "旅立ち０７メッセージ<end>",
 			SourceEvidence: []cdccontext.SourceEvidence{{
@@ -101,7 +101,7 @@ func TestContextTextReportsUnreferencedBankAsAScene(t *testing.T) {
 		"Archive: pami",
 		"Source: message_bank",
 		"Ordering: storage_order_only",
-		"Evidence: no_resolved_static_consumer_reference",
+		"Evidence: retail_storage_source",
 		"First record (340000): 旅立ち０７メッセージ<end>",
 		"Source evidence: scenario_reserve_marker status=source_authoring_candidate confidence=low runtime=unresolved",
 		"Marker: event=7 label=バーニン親子鷹 records=[340062 340063]",
@@ -133,10 +133,55 @@ func TestContextTextReportsUnreferencedBankAsAScene(t *testing.T) {
 	if err := json.Unmarshal(encoded, &document); err != nil {
 		t.Fatal(err)
 	}
-	if len(document.Scenes) != 1 || document.Scenes[0].SourceKind != "message_bank" || document.Scenes[0].Ordering != "storage_order_only" || document.Scenes[0].EvidenceStatus != "no_resolved_static_consumer_reference" {
+	if len(document.Scenes) != 1 || document.Scenes[0].SourceKind != "message_bank" || document.Scenes[0].Ordering != "storage_order_only" || document.Scenes[0].EvidenceStatus != "retail_storage_source" {
 		t.Fatalf("JSON scenes = %s", encoded)
 	}
 	if bytes.Contains(encoded, []byte(`"bank_context"`)) || bytes.Contains(encoded, []byte(`"unreferenced"`)) {
 		t.Fatalf("JSON retained superseded fallback fields: %s", encoded)
+	}
+}
+
+func TestContextTextQualifiesAmbientInteractionEvidence(t *testing.T) {
+	handle, slot, offset := 1097, 2, 0xf4
+	result := cdccontext.Result{
+		Selector: cdccontext.Selector{Bank: -1, Record: 30028},
+		Scenes: []cdccontext.Scene{{
+			Member: "room/id0025.par", EmbeddedMember: "ancthrbr.imd",
+			SourceArchive: "pami", SourceKind: "ambient_interaction",
+			Ordering: "room_entity_table_order", EvidenceStatus: "verified_executable_interaction_mapping",
+			Entries: []cdccontext.Entry{{
+				Kind: "ambient_dialogue", MessageID: 30028, Offset: offset,
+				OffsetBasis: "room_imd_entity_record_offset", Position: slot, Selected: true,
+				Reachability: "runtime_dependent", EntityAssociationHandleRaw: &handle,
+				AssociatedLabelJapanese: "船員", AssociatedLabelEnglish: "Sailor",
+				AssociationResolution: "associated_label", SpeakerStatus: "inferred_from_verified_interaction_target",
+				AmbientInteraction: &cdccontext.AmbientInteraction{
+					EntityHandle: handle, Status: "verified_executable_mapping",
+					RuntimeStatus: "interaction_target_runtime_dependent", SourceLocator: "retail executable",
+					RoomMember: "room/id0025.par", RoomResource: "ancthrbr.imd", EntitySlot: &slot, EntityOffset: &offset,
+				},
+				Japanese: "港の話<end>", English: "Harbor talk.<end>",
+			}},
+		}},
+	}
+	var output bytes.Buffer
+	writeContextText(&output, result)
+	text := output.String()
+	for _, wanted := range []string{
+		"Scene: room/id0025.par",
+		"Embedded resource: ancthrbr.imd",
+		"Source: ambient_interaction",
+		"Limitations: room-authored entity records and the executable interaction mapping do not establish global dialogue chronology or simultaneous runtime presence.",
+		"ambient_dialogue 30028 @244 offset=room_imd_entity_record_offset",
+		"Association: handle=1097 resolution=associated_label",
+		"Speaker status: inferred_from_verified_interaction_target",
+		"Ambient interaction: status=verified_executable_mapping runtime=interaction_target_runtime_dependent room=room/id0025.par resource=ancthrbr.imd slot=2",
+	} {
+		if !strings.Contains(text, wanted) {
+			t.Fatalf("output does not contain %q:\n%s", wanted, text)
+		}
+	}
+	if strings.Contains(text, "Display requests:") {
+		t.Fatalf("ambient association was rendered as a C5 display request:\n%s", text)
 	}
 }

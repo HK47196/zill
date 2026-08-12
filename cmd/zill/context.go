@@ -173,6 +173,9 @@ func writeReviewText(output io.Writer, result cdccontext.Result) {
 	fmt.Fprintf(output, "Review target: record %d\nPackets: %d\n", result.Selector.Record, len(result.ReviewPackets))
 	for _, packet := range result.ReviewPackets {
 		fmt.Fprintf(output, "\nScene: %s\n", packet.SceneMember)
+		if packet.EmbeddedMember != "" {
+			fmt.Fprintf(output, "  Embedded resource: %s\n", packet.EmbeddedMember)
+		}
 		fmt.Fprintf(output, "  Archive: %s\n", packet.SourceArchive)
 		fmt.Fprintf(output, "  Source: %s\n", packet.SourceKind)
 		fmt.Fprintf(output, "  Ordering: %s\n", packet.Ordering)
@@ -221,6 +224,9 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 	fmt.Fprintf(output, "Query: %s\nScenes: %d\n", query, len(result.Scenes))
 	for _, scene := range result.Scenes {
 		fmt.Fprintf(output, "\nScene: %s\n", scene.Member)
+		if scene.EmbeddedMember != "" {
+			fmt.Fprintf(output, "  Embedded resource: %s\n", scene.EmbeddedMember)
+		}
 		fmt.Fprintf(output, "  Archive: %s\n", scene.SourceArchive)
 		fmt.Fprintf(output, "  Source: %s\n", scene.SourceKind)
 		fmt.Fprintf(output, "  Ordering: %s\n", scene.Ordering)
@@ -252,6 +258,8 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 		}
 		if scene.SourceKind == "message_bank" {
 			fmt.Fprintln(output, "  Limitations: record-local controls and source-authoring candidates do not establish scene chronology, speakers, actor presence, or runtime reachability.")
+		} else if scene.SourceKind == "ambient_interaction" {
+			fmt.Fprintln(output, "  Limitations: room-authored entity records and the executable interaction mapping do not establish global dialogue chronology or simultaneous runtime presence.")
 		}
 		writeContextEntries(output, scene.Entries)
 		if len(scene.References) > 0 {
@@ -312,7 +320,11 @@ func writeContextEntries(output io.Writer, entries []cdccontext.Entry) {
 			}
 		}
 		if entry.EntityAssociationHandleRaw != nil {
-			fmt.Fprintf(output, "    Association: handle=%d mode=%d resolution=%s", *entry.EntityAssociationHandleRaw, *entry.DisplayMode, entry.AssociationResolution)
+			fmt.Fprintf(output, "    Association: handle=%d", *entry.EntityAssociationHandleRaw)
+			if entry.DisplayMode != nil {
+				fmt.Fprintf(output, " mode=%d", *entry.DisplayMode)
+			}
+			fmt.Fprintf(output, " resolution=%s", entry.AssociationResolution)
 			if entry.AssociationNameRecordID != nil {
 				fmt.Fprintf(output, " name_record=%d", *entry.AssociationNameRecordID)
 			}
@@ -320,7 +332,9 @@ func writeContextEntries(output io.Writer, entries []cdccontext.Entry) {
 				fmt.Fprintf(output, " label_message=%d", *entry.AssociatedLabelMessageID)
 			}
 			fmt.Fprintln(output)
-			fmt.Fprintf(output, "    Display requests: portrait=%t name_label=%t forced_state_three=%t portrait_status=%s\n", boolValue(entry.PortraitRequested), boolValue(entry.NameLabelRequested), boolValue(entry.ForcedStateThree), entry.PortraitStatus)
+			if entry.DisplayMode != nil {
+				fmt.Fprintf(output, "    Display requests: portrait=%t name_label=%t forced_state_three=%t portrait_status=%s\n", boolValue(entry.PortraitRequested), boolValue(entry.NameLabelRequested), boolValue(entry.ForcedStateThree), entry.PortraitStatus)
+			}
 			if entry.AssociatedLabelJapanese != "" || entry.AssociatedLabelEnglish != "" {
 				fmt.Fprintf(output, "    Associated label: %s / %s\n", entry.AssociatedLabelJapanese, entry.AssociatedLabelEnglish)
 			}
@@ -329,6 +343,21 @@ func writeContextEntries(output io.Writer, entries []cdccontext.Entry) {
 				fmt.Fprintf(output, " (%s / %s)", entry.SpeakerJapanese, entry.SpeakerEnglish)
 			}
 			fmt.Fprintln(output)
+		}
+		if entry.AmbientInteraction != nil {
+			interaction := entry.AmbientInteraction
+			fmt.Fprintf(output, "    Ambient interaction: status=%s runtime=%s", interaction.Status, interaction.RuntimeStatus)
+			if interaction.RoomMember != "" {
+				fmt.Fprintf(output, " room=%s", interaction.RoomMember)
+			}
+			if interaction.RoomResource != "" {
+				fmt.Fprintf(output, " resource=%s", interaction.RoomResource)
+			}
+			if interaction.EntitySlot != nil {
+				fmt.Fprintf(output, " slot=%d", *interaction.EntitySlot)
+			}
+			fmt.Fprintln(output)
+			fmt.Fprintf(output, "      Source locator: %s\n", interaction.SourceLocator)
 		}
 		if len(entry.Actors) > 0 {
 			parts := make([]string, len(entry.Actors))

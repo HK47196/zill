@@ -3,6 +3,8 @@
 package cdccontext_test
 
 import (
+	"bytes"
+	"compress/gzip"
 	"encoding/binary"
 	"fmt"
 	"os"
@@ -613,7 +615,7 @@ func TestBuildReturnsTheCompleteBankAsAStaticSceneWhenNoConsumerReferencesRecord
 		t.Fatalf("scenes = %#v", result.Scenes)
 	}
 	scene := result.Scenes[0]
-	if scene.Member != "message/msgsec034.dat" || scene.SourceArchive != "pami" || scene.SourceKind != "message_bank" || scene.Ordering != "storage_order_only" || scene.EvidenceStatus != "no_resolved_static_consumer_reference" {
+	if scene.Member != "message/msgsec034.dat" || scene.SourceArchive != "pami" || scene.SourceKind != "message_bank" || scene.Ordering != "storage_order_only" || scene.EvidenceStatus != "retail_storage_source" {
 		t.Fatalf("bank scene provenance = %#v", scene)
 	}
 	if scene.FirstRecordMessageID == nil || *scene.FirstRecordMessageID != 340000 || scene.FirstRecordJapanese != "旅立ち０７メッセージ<end>" {
@@ -669,6 +671,82 @@ func TestBuildReturnsTheCompleteBankAsAStaticSceneWhenNoConsumerReferencesRecord
 	}
 }
 
+func TestBuildLayersCompleteBankCDCAndAmbientInteractionContext(t *testing.T) {
+	paPair := openPair(t, []fixtureMember{
+		{name: "data/bindata.dat", payload: make([]byte, 0x4000)},
+		{name: "cdc/do/ancient.cdc", payload: []byte("C5:3+1090+30021;E")},
+	})
+	defer paPair.Close()
+	pamiPair := openPair(t, []fixtureMember{
+		{name: "message/msgsec003.dat", payload: messageBankFixture(38, nil)},
+		{name: "message/msgsec014.dat", payload: messageBankFixture(22, nil)},
+		{name: "room/id0025.par", payload: roomPackageFixture(t, "ancthrbr.imd", 1097, 1305, 0)},
+	})
+	defer pamiPair.Close()
+	project, _, err := corpus.LoadProject("../..")
+	if err != nil {
+		t.Fatal(err)
+	}
+	archives := []cdccontext.Archive{{Name: "pa", Pair: paPair}, {Name: "pami", Pair: pamiPair}}
+
+	ancient, err := cdccontext.Build(project, fixeddata.Terminology{}, archives, cdccontext.Selector{Bank: 3, Record: -1})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(ancient.Scenes) != 3 {
+		t.Fatalf("bank 003 scenes = %#v", ancient.Scenes)
+	}
+	bankScene := ancient.Scenes[0]
+	if bankScene.SourceKind != "message_bank" || bankScene.EvidenceStatus != "retail_storage_source" || len(bankScene.Entries) != 38 {
+		t.Fatalf("complete bank scene = %#v", bankScene)
+	}
+	for _, entry := range bankScene.Entries {
+		if entry.MessageID/10_000 != 3 || !entry.Selected {
+			t.Fatalf("bank query target marking = %#v", entry)
+		}
+	}
+	var mappedRecord *cdccontext.Entry
+	for index := range bankScene.Entries {
+		if bankScene.Entries[index].MessageID == 30028 {
+			mappedRecord = &bankScene.Entries[index]
+			break
+		}
+	}
+	if mappedRecord == nil || mappedRecord.AmbientInteraction == nil || mappedRecord.AmbientInteraction.EntityHandle != 1097 || mappedRecord.AssociatedLabelEnglish != "Sailor" || mappedRecord.SpeakerStatus != "inferred_from_verified_interaction_target" || len(mappedRecord.SourceControls) != 2 {
+		t.Fatalf("ambient bank association = %#v", mappedRecord)
+	}
+	if ancient.Scenes[1].SourceKind != "cdc_program" || ancient.Scenes[1].Entries[0].MessageID != 30021 || !ancient.Scenes[1].Entries[0].Selected {
+		t.Fatalf("CDC overlay = %#v", ancient.Scenes[1])
+	}
+	ambient := ancient.Scenes[2]
+	if ambient.SourceKind != "ambient_interaction" || ambient.Member != "room/id0025.par" || ambient.EmbeddedMember != "ancthrbr.imd" || ambient.Ordering != "room_entity_table_order" || len(ambient.Entries) != 2 {
+		t.Fatalf("ambient scene = %#v", ambient)
+	}
+	occurrence := ambient.Entries[0]
+	if occurrence.MessageID != 30028 || occurrence.Offset != 0xc0 || occurrence.OffsetBasis != "room_imd_entity_record_offset" || occurrence.Reachability != "runtime_dependent" || occurrence.AmbientInteraction == nil || occurrence.AmbientInteraction.RoomMember != "room/id0025.par" {
+		t.Fatalf("ambient occurrence = %#v", occurrence)
+	}
+	if ambient.Entries[1].MessageID != 140000 || ambient.Entries[1].Selected {
+		t.Fatalf("cross-bank room context = %#v", ambient.Entries[1])
+	}
+
+	dwarf, err := cdccontext.Build(project, fixeddata.Terminology{}, archives, cdccontext.Selector{Bank: 14, Record: -1})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(dwarf.Scenes) != 2 || dwarf.Scenes[0].SourceKind != "message_bank" || len(dwarf.Scenes[0].Entries) != 22 || dwarf.Scenes[1].SourceKind != "ambient_interaction" || len(dwarf.Scenes[1].Entries) != 2 || dwarf.Scenes[1].Entries[1].MessageID != 140000 || !dwarf.Scenes[1].Entries[1].Selected || dwarf.Scenes[1].Entries[1].AmbientInteraction.EntityHandle != 1305 || dwarf.Scenes[1].Entries[0].Selected {
+		t.Fatalf("second ambient mapping range = %#v", dwarf.Scenes)
+	}
+
+	record, err := cdccontext.Build(project, fixeddata.Terminology{}, archives, cdccontext.Selector{Bank: -1, Record: 30028})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(record.Scenes) != 1 || record.Scenes[0].SourceKind != "ambient_interaction" || len(record.Scenes[0].Entries) != 2 || len(record.ReviewPackets) != 1 || record.ReviewPackets[0].EmbeddedMember != "ancthrbr.imd" || len(record.ReviewPackets[0].Context) != 2 || record.ReviewPackets[0].Context[0].Role != "target" || record.ReviewPackets[0].Context[1].Role != "room_entity_neighbor_after" {
+		t.Fatalf("ambient record review = scenes %#v packets %#v", record.Scenes, record.ReviewPackets)
+	}
+}
+
 func TestBuildRejectsDuplicateMessageBanksAcrossRetailArchives(t *testing.T) {
 	paPair := openPair(t, []fixtureMember{
 		{name: "data/bindata.dat", payload: make([]byte, 0x4000)},
@@ -716,6 +794,33 @@ func messageBankFixture(recordCount int, forcedOffsets map[int]int) []byte {
 		binary.LittleEndian.PutUint16(data[2+index*2:], uint16(offset))
 	}
 	return data
+}
+
+func roomPackageFixture(t *testing.T, resource string, handles ...int) []byte {
+	t.Helper()
+	imd := make([]byte, 0xc0+8*0x1a)
+	for slot, handle := range handles {
+		if slot == 8 {
+			break
+		}
+		binary.LittleEndian.PutUint16(imd[0xc0+slot*0x1a:], uint16(handle))
+	}
+	const childOffset = 0x40
+	container := make([]byte, childOffset+len(imd))
+	copy(container, []byte{'P', 'A', 'R', 0})
+	binary.LittleEndian.PutUint32(container[8:], 1)
+	binary.LittleEndian.PutUint32(container[16:], childOffset)
+	copy(container[0x20:], resource)
+	copy(container[childOffset:], imd)
+	var compressed bytes.Buffer
+	writer := gzip.NewWriter(&compressed)
+	if _, err := writer.Write(container); err != nil {
+		t.Fatal(err)
+	}
+	if err := writer.Close(); err != nil {
+		t.Fatal(err)
+	}
+	return compressed.Bytes()
 }
 
 func openPair(t *testing.T, members []fixtureMember) *paa.Pair {

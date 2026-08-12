@@ -41,7 +41,9 @@ terminology; `--state` filters message records only.
 `show` prints the target, nearby Japanese/English context, and the editable
 section path. `context` reads both retail PAA archives without modifying them and
 prints every complete, cross-bank scene that references one requested record or
-any record in a requested bank. It preserves static branches, annotates C5
+any record in a requested bank. A bank query also begins with the complete retail
+message bank in storage order, so records without a CDC consumer remain visible.
+It preserves static branches, annotates C5
 entity/name-label associations with cautious inferred speaker labels, and gives
 path-sensitive actor lifecycle context by following verified CDC jumps,
 single-slot calls/returns, and choice arms. Verified enclosing predicates are
@@ -51,9 +53,14 @@ addressees remain explicitly qualified static evidence. Authored but unreachable
 messages remain visible, while unsupported control flow and genuine state
 disagreements are labeled explicitly. Direct scenario-slot references expose all
 group-dependent physical candidates without choosing a runtime group; unresolved
-logical resource keys remain unresolved. If no resolved static consumer references the query,
-`context` returns the complete message bank as a `message_bank` scene in storage order.
-That fallback is parsed from the retail bank, reports its first authored record
+logical resource keys remain unresolved. Ordinary town-NPC dialogue is recovered
+separately from room-authored entity records and the executable's bounded
+entity-handle-to-message dispatcher. These ambient occurrences include room
+provenance and an interaction-target label while remaining explicit that authored
+placement is not runtime presence or global dialogue chronology. If no resolved
+static consumer references a record query, `context` returns its complete message
+bank as a `message_bank` scene in storage order. The retail-bank projection reports
+its first authored record
 and record byte offsets, and marks a `--record` target explicitly. It leaves branch
 topology, speakers, actor presence, and runtime reachability unresolved. For all
 banks, record-local retail controls such as conditionals and selections are
