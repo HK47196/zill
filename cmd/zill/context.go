@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
+	"os"
 	"path/filepath"
 	"strconv"
 	"strings"
@@ -59,7 +60,15 @@ func runContext(root string, args []string, stdout, stderr io.Writer) int {
 		}
 		archives = append(archives, cdccontext.Archive{Name: name, Pair: pair})
 	}
-	result, buildErr := cdccontext.Build(project, terms, archives, options.selectBy)
+	cacheDirectory := ""
+	if userCache, cacheErr := os.UserCacheDir(); cacheErr == nil {
+		cacheDirectory = filepath.Join(userCache, "zill", "context")
+	}
+	index, buildErr := cdccontext.LoadOrBuildRetailIndex(archives, cacheDirectory)
+	var result cdccontext.Result
+	if buildErr == nil {
+		result, buildErr = cdccontext.BuildFromRetailIndex(project, terms, index, options.selectBy)
+	}
 	var closeErr error
 	for _, archive := range archives {
 		if err := archive.Pair.Close(); err != nil && closeErr == nil {

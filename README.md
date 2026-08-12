@@ -43,6 +43,11 @@ section path. `context` reads both retail PAA archives without modifying them an
 prints every complete, cross-bank scene that references one requested record or
 any record in a requested bank. A bank query also begins with the complete retail
 message bank in storage order, so records without a CDC consumer remain visible.
+The first query builds a versioned immutable-retail index under the operating
+system's user cache directory; later queries reuse its CDC flow analysis, RBB
+catalog, and extracted room metadata while always joining current translations
+and terminology. Missing, stale, corrupt, or unwritable cache data is rebuilt or
+ignored without modifying `PSP_GAME`.
 It preserves static branches, annotates C5
 entity/name-label associations with cautious inferred speaker labels, and gives
 path-sensitive actor lifecycle context by following verified CDC jumps,

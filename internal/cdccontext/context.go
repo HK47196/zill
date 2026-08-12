@@ -6,7 +6,6 @@ package cdccontext
 
 import (
 	"encoding/binary"
-	"errors"
 	"fmt"
 	"sort"
 	"strconv"
@@ -16,7 +15,6 @@ import (
 	"github.com/HK47196/zill/internal/fixeddata"
 	"github.com/HK47196/zill/internal/gamefmt/cdc"
 	"github.com/HK47196/zill/internal/gamefmt/paa"
-	"github.com/HK47196/zill/internal/gamefmt/rbb"
 	"github.com/HK47196/zill/internal/message"
 )
 
@@ -316,257 +314,14 @@ type locatedMember struct {
 	member  paa.Member
 }
 
-// Build scans the supplied named PAA archives and returns complete static
-// context units matching selector.
+// Build derives an in-memory retail index and returns context matching selector.
+// Commands that issue multiple queries should reuse BuildFromRetailIndex.
 func Build(project *corpus.Project, terms fixeddata.Terminology, archives []Archive, selector Selector) (Result, error) {
-	if project == nil || len(archives) == 0 {
-		return Result{}, fmt.Errorf("cdc context: project and archives are required")
-	}
-	if (selector.Bank >= 0) == (selector.Record >= 0) {
-		return Result{}, fmt.Errorf("cdc context: set exactly one of bank or record")
-	}
-	if selector.Bank >= 279 {
-		return Result{}, fmt.Errorf("cdc context: invalid bank %d", selector.Bank)
-	}
-	if selector.Record >= 0 && selector.Record/10000 >= 279 {
-		return Result{}, fmt.Errorf("cdc context: invalid record %d", selector.Record)
-	}
-	bank := selector.Bank
-	if selector.Record >= 0 {
-		bank = selector.Record / 10_000
-	}
-	bankMemberName := fmt.Sprintf("message/msgsec%03d.dat", bank)
-	var bankMember *locatedMember
-	var bindata []byte
-	var rbbData []byte
-	var members []locatedMember
-	var rooms []locatedMember
-	var allMembers []locatedMember
-	seenArchives := make(map[string]bool, len(archives))
-	for _, archive := range archives {
-		if archive.Name == "" || archive.Pair == nil {
-			return Result{}, fmt.Errorf("cdc context: archive name and pair are required")
-		}
-		if seenArchives[archive.Name] {
-			return Result{}, fmt.Errorf("cdc context: duplicate archive name %q", archive.Name)
-		}
-		seenArchives[archive.Name] = true
-		for _, m := range archive.Pair.Members() {
-			located := locatedMember{archive: archive, member: m}
-			allMembers = append(allMembers, located)
-			if m.Name == "data/bindata.dat" {
-				if bindata != nil {
-					return Result{}, fmt.Errorf("cdc context: duplicate data/bindata.dat")
-				}
-				b, e := archive.Pair.Payload(m.Index)
-				if e != nil {
-					return Result{}, e
-				}
-				bindata = b
-			}
-			if m.Name == "res/res.rbb" {
-				if rbbData != nil {
-					return Result{}, fmt.Errorf("cdc context: duplicate res/res.rbb")
-				}
-				b, e := archive.Pair.Payload(m.Index)
-				if e != nil {
-					return Result{}, e
-				}
-				rbbData = b
-			}
-			if strings.HasPrefix(m.Name, "cdc/") && strings.HasSuffix(m.Name, ".cdc") {
-				members = append(members, located)
-			}
-			if strings.HasPrefix(m.Name, "room/id") && strings.HasSuffix(m.Name, ".par") {
-				rooms = append(rooms, located)
-			}
-			if m.Name == bankMemberName {
-				if bankMember != nil {
-					return Result{}, fmt.Errorf("cdc context: duplicate %s", bankMemberName)
-				}
-				bankMember = &located
-			}
-		}
-	}
-	if bindata == nil {
-		return Result{}, fmt.Errorf("cdc context: missing data/bindata.dat")
-	}
-	if len(members) == 0 {
-		return Result{}, fmt.Errorf("cdc context: archive contains no cdc/*.cdc members")
-	}
-	catalog := emptyScenarioCatalog()
-	var resourceCatalog *rbb.Catalog
-	if rbbData != nil {
-		parsed, parseErr := rbb.Parse(rbbData)
-		if parseErr != nil {
-			return Result{}, fmt.Errorf("cdc context: res/res.rbb: %w", parseErr)
-		}
-		resourceCatalog = parsed
-		built, buildErr := buildScenarioCatalog(resourceCatalog, members)
-		if buildErr != nil {
-			return Result{}, buildErr
-		}
-		catalog = built
-	}
-	sort.Slice(members, func(i, j int) bool {
-		if members[i].archive.Name != members[j].archive.Name {
-			return members[i].archive.Name < members[j].archive.Name
-		}
-		return members[i].member.Name < members[j].member.Name
-	})
-	result := Result{Selector: selector, Scenes: make([]Scene, 0)}
-	allScenes := make([]Scene, 0, len(members))
-	for _, located := range members {
-		m := located.member
-		if !catalog.shouldParse(m.Name) {
-			continue
-		}
-		payload, err := located.archive.Pair.Payload(m.Index)
-		if err != nil {
-			return Result{}, err
-		}
-		program, err := cdc.Parse(m.Name, payload)
-		if errors.Is(err, cdc.ErrPlaceholder) {
-			continue
-		}
-		if err != nil {
-			return Result{}, fmt.Errorf("cdc context: %s: %w", m.Name, err)
-		}
-		scene, err := buildScene(project, terms, located.archive.Name, m.Name, program, bindata, catalog)
-		if err != nil {
-			return Result{}, err
-		}
-		allScenes = append(allScenes, scene)
-		selected := false
-		for _, e := range scene.Entries {
-			if selector.Record >= 0 && e.MessageID == selector.Record {
-				selected = true
-			}
-			if selector.Bank >= 0 && e.MessageID/10000 == selector.Bank {
-				selected = true
-			}
-		}
-		if selected {
-			markSelected(&scene, selector)
-			result.Scenes = append(result.Scenes, scene)
-		}
-	}
-	if resourceCatalog != nil {
-		roomTargets, err := scenarioRoomTargets(rooms)
-		if err != nil {
-			return Result{}, err
-		}
-		attachScenarioRoomTables(allScenes, roomTargets)
-		attachScenarioRoomTables(result.Scenes, roomTargets)
-		attachScenarioGraph(&catalog, allScenes, roomTargets)
-		result.ScenarioFamilies = scenarioFamiliesForScenes(catalog, result.Scenes)
-		registrations, registrationErr := roomMessageBankRegistrations(resourceCatalog, allMembers, bank)
-		if registrationErr != nil {
-			return Result{}, registrationErr
-		}
-		result.RoomMessageBankRegistrations = registrations
-	}
-	ambientScenes, err := buildAmbientScenes(project, terms, bindata, rooms, selector)
+	index, err := BuildRetailIndex(archives)
 	if err != nil {
 		return Result{}, err
 	}
-	result.Scenes = append(result.Scenes, ambientScenes...)
-	if len(result.Scenes) > 0 {
-		evidence := sourceEvidence(project, bank)
-		for index := range result.Scenes {
-			result.Scenes[index].SourceEvidence = append([]SourceEvidence(nil), evidence...)
-		}
-	}
-	if selector.Bank >= 0 || len(result.Scenes) == 0 {
-		if bankMember == nil {
-			return Result{}, fmt.Errorf("cdc context: archive is missing %s", bankMemberName)
-		}
-		payload, err := bankMember.archive.Pair.Payload(bankMember.member.Index)
-		if err != nil {
-			return Result{}, err
-		}
-		retailBank, err := corpus.ParseBank(fmt.Sprintf("msgsec%03d.dat", bank), payload)
-		if err != nil {
-			return Result{}, fmt.Errorf("cdc context: %s: %w", bankMemberName, err)
-		}
-		scene, err := buildBankScene(project, terms, bindata, bankMember.archive.Name, bankMemberName, retailBank)
-		if err != nil {
-			return Result{}, err
-		}
-		markSelected(&scene, selector)
-		if selector.Bank >= 0 {
-			result.Scenes = append([]Scene{scene}, result.Scenes...)
-		} else {
-			result.Scenes = append(result.Scenes, scene)
-		}
-	}
-	result.ReviewPackets = buildReviewPackets(result)
-	return result, nil
-}
-
-func buildBankScene(project *corpus.Project, terms fixeddata.Terminology, bindata []byte, archive, member string, bank corpus.Bank) (Scene, error) {
-	scene := Scene{
-		Member:         member,
-		SourceArchive:  archive,
-		SourceKind:     "message_bank",
-		Ordering:       "storage_order_only",
-		EvidenceStatus: "retail_storage_source",
-		Entries:        make([]Entry, 0, len(bank.Records)),
-		References:     make([]Reference, 0),
-		SourceEvidence: make([]SourceEvidence, 0),
-	}
-	expected := 0
-	for _, item := range project.Items {
-		if item.Translation.ID/10_000 == bank.Section {
-			expected++
-		}
-	}
-	if len(bank.Records) != expected {
-		return Scene{}, fmt.Errorf("cdc context: %s has %d retail records for %d contributor records", member, len(bank.Records), expected)
-	}
-	for _, record := range bank.Records {
-		item, ok := project.Find(record.ID)
-		if !ok {
-			return Scene{}, fmt.Errorf("cdc context: %s contains unknown record %d", member, record.ID)
-		}
-		controls, err := sourceControls(item.Translation.Japanese, item.Translation.Text)
-		if err != nil {
-			return Scene{}, fmt.Errorf("cdc context: message %d: %w", record.ID, err)
-		}
-		entry := Entry{
-			Kind:              "bank_record",
-			MessageID:         record.ID,
-			Offset:            record.Offset,
-			OffsetBasis:       "message_bank_byte_offset",
-			Position:          record.Index,
-			Reachability:      "unresolved",
-			Path:              make([]int, 0),
-			Japanese:          item.Translation.Japanese,
-			English:           item.Translation.Text,
-			State:             item.Translation.State,
-			Terminology:       applicableTerms(terms.Applicable(item)),
-			SourceControls:    controls,
-			Relationships:     executableRelationships(project, record.ID),
-			ConsumerEvidence:  allConsumerEvidence(record.ID),
-			AuthoringMetadata: authoringMetadata(record.ID, item.Translation.Japanese),
-			Actors:            make([]Actor, 0),
-		}
-		if handle, ok := ambientHandleForMessage(record.ID); ok {
-			addAmbientAssociation(project, bindata, &entry, AmbientInteraction{
-				EntityHandle: handle, Status: "verified_executable_mapping",
-				RuntimeStatus: "interaction_target_runtime_dependent", SourceLocator: ambientSourceLocator,
-			})
-		}
-		scene.Entries = append(scene.Entries, entry)
-	}
-	if len(scene.Entries) > 0 {
-		label := scene.Entries[0]
-		scene.FirstRecordMessageID = &label.MessageID
-		scene.FirstRecordJapanese = label.Japanese
-		scene.FirstRecordEnglish = label.English
-	}
-	scene.SourceEvidence = sourceEvidence(project, bank.Section)
-	return scene, nil
+	return BuildFromRetailIndex(project, terms, index, selector)
 }
 
 func markSelected(scene *Scene, selector Selector) {
@@ -575,7 +330,7 @@ func markSelected(scene *Scene, selector Selector) {
 	}
 }
 
-func buildScene(project *corpus.Project, terms fixeddata.Terminology, archive, member string, p cdc.Program, bindata []byte, catalog scenarioCatalog) (Scene, error) {
+func buildRetailScene(archive, member string, p cdc.Program, bindata []byte, catalog scenarioCatalog) (Scene, error) {
 	s := Scene{
 		Member:         member,
 		SourceArchive:  archive,
@@ -600,7 +355,7 @@ func buildScene(project *corpus.Project, terms fixeddata.Terminology, archive, m
 		flow := analysis.byNode[nodeIndex]
 		switch node.command.Name {
 		case "C5", "C20", "C22", "C23":
-			entries, err := consumer(project, terms, bindata, node.command, node.offset, node.path, node.guard, node.depth, pos, flow)
+			entries, err := retailConsumer(bindata, node.command, node.offset, node.path, node.guard, node.depth, pos, flow)
 			if err != nil {
 				return Scene{}, fmt.Errorf("cdc context: %s: %w", member, err)
 			}
@@ -642,7 +397,7 @@ func ints(c cdc.Command, wantMin, wantMax int) ([]int, error) {
 	return r, nil
 }
 
-func consumer(project *corpus.Project, terms fixeddata.Terminology, data []byte, c cdc.Command, offset int, path []int, guard string, depth, pos int, flow abstractFlow) ([]Entry, error) {
+func retailConsumer(data []byte, c cdc.Command, offset int, path []int, guard string, depth, pos int, flow abstractFlow) ([]Entry, error) {
 	var ids []int
 	kind := ""
 	mode, handle := 0, 0
@@ -707,15 +462,7 @@ func consumer(project *corpus.Project, terms fixeddata.Terminology, data []byte,
 	}
 	r := make([]Entry, 0, len(ids))
 	for i, id := range ids {
-		item, ok := project.Find(id)
-		if !ok {
-			return nil, fmt.Errorf("%s@%d: message ID %d not in project", c.Name, offset, id)
-		}
-		controls, err := sourceControls(item.Translation.Japanese, item.Translation.Text)
-		if err != nil {
-			return nil, fmt.Errorf("message %d: %w", id, err)
-		}
-		e := Entry{Kind: kind, MessageID: id, Offset: offset, OffsetBasis: "cdc_program_byte_offset", Position: pos + i, Reachability: flow.reachability(), Path: append([]int{}, path...), Guard: guard, Conditions: conditionSemantics(guard), Depth: depth, Raw: c.Raw, Japanese: item.Translation.Japanese, English: item.Translation.Text, State: item.Translation.State, Terminology: applicableTerms(terms.Applicable(item)), SourceControls: controls, Relationships: executableRelationships(project, id), ConsumerEvidence: allConsumerEvidence(id), AuthoringMetadata: authoringMetadata(id, item.Translation.Japanese), Actors: actorList(project, data, flow.actors)}
+		e := Entry{Kind: kind, MessageID: id, Offset: offset, OffsetBasis: "cdc_program_byte_offset", Position: pos + i, Reachability: flow.reachability(), Path: append([]int{}, path...), Guard: guard, Conditions: conditionSemantics(guard), Depth: depth, Raw: c.Raw, Actors: retailActorList(data, flow.actors)}
 		if kind == "dialogue_association" {
 			e.DisplayMode = intPointer(mode)
 			e.EntityAssociationHandleRaw = intPointer(handle)
@@ -730,19 +477,11 @@ func consumer(project *corpus.Project, terms fixeddata.Terminology, data []byte,
 			} else {
 				e.PortraitStatus = "not_requested"
 			}
-			a := resolve(project, data, handle)
+			a := resolveRetailAssociation(data, handle)
 			e.AssociationNameRecordID = a.nameRecordID
 			e.AssociatedLabelMessageID = a.labelMessageID
-			e.AssociatedLabelJapanese = a.labelJapanese
-			e.AssociatedLabelEnglish = a.labelEnglish
 			e.AssociationResolution = a.resolution
 			e.SpeakerStatus = a.speakerStatus
-			e.SpeakerJapanese = a.labelJapanese
-			e.SpeakerEnglish = a.labelEnglish
-			if a.speakerStatus == "inferred_from_associated_label" {
-				e.SpeakerSource = "c5_associated_label"
-			}
-			e.PossibleAddressees = possibleAddressees(e.Actors, handle)
 		}
 		r = append(r, e)
 	}
@@ -965,18 +704,16 @@ func applicableTerms(entries []fixeddata.SearchEntry) []TerminologyEntry {
 	}
 	return result
 }
-func actorList(project *corpus.Project, data []byte, actors actorState) []Actor {
+func retailActorList(data []byte, actors actorState) []Actor {
 	r := make([]Actor, 0, len(actors))
 	for h, fact := range actors {
-		a := resolve(project, data, h)
+		a := resolveRetailAssociation(data, h)
 		r = append(r, Actor{
 			Handle:                     h,
 			Presence:                   fact.presence,
 			PresenceBasis:              fact.basis,
 			AssociationNameRecordID:    a.nameRecordID,
 			AssociatedLabelMessageID:   a.labelMessageID,
-			AssociatedLabelJapanese:    a.labelJapanese,
-			AssociatedLabelEnglish:     a.labelEnglish,
 			AssociationLabelResolution: a.resolution,
 			Position:                   actorPosition(fact),
 			Action:                     actorAction(fact),
@@ -1025,7 +762,7 @@ func unresolvedAssociation(resolution string) association {
 	return association{resolution: resolution, speakerStatus: "unresolved"}
 }
 
-func resolve(project *corpus.Project, data []byte, h int) association {
+func resolveRetailAssociation(data []byte, h int) association {
 	if h == 1 {
 		result := unresolvedAssociation("runtime_player_name")
 		result.nameRecordID = intPointer(1980)
@@ -1095,11 +832,20 @@ func resolve(project *corpus.Project, data []byte, h int) association {
 		result.nameRecordID = intPointer(id)
 		return result
 	}
-	result := unresolvedAssociation("unmapped_handle")
+	result := unresolvedAssociation("mapped_label_message")
 	result.nameRecordID = intPointer(id)
 	result.labelMessageID = intPointer(msg)
-	item, ok := project.Find(msg)
+	return result
+}
+
+func hydrateAssociation(project *corpus.Project, retail association) association {
+	if retail.labelMessageID == nil {
+		return retail
+	}
+	result := retail
+	item, ok := project.Find(*retail.labelMessageID)
 	if !ok {
+		result.resolution = "unmapped_handle"
 		return result
 	}
 	result.labelJapanese = labelText(item.Translation.Japanese)

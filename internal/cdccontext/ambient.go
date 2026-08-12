@@ -11,9 +11,6 @@ import (
 	"io"
 	"sort"
 	"strings"
-
-	"github.com/HK47196/zill/internal/corpus"
-	"github.com/HK47196/zill/internal/fixeddata"
 )
 
 const (
@@ -118,28 +115,17 @@ func allConsumerEvidence(messageID int) []ConsumerEvidence {
 	return append(result, ambientConsumerEvidence(messageID)...)
 }
 
-func addAmbientAssociation(project *corpus.Project, bindata []byte, entry *Entry, interaction AmbientInteraction) {
+func addRetailAmbientAssociation(bindata []byte, entry *Entry, interaction AmbientInteraction) {
 	handle := interaction.EntityHandle
 	entry.AmbientInteraction = &interaction
 	entry.EntityAssociationHandleRaw = intPointer(handle)
-	association := resolve(project, bindata, handle)
+	association := resolveRetailAssociation(bindata, handle)
 	entry.AssociationNameRecordID = association.nameRecordID
 	entry.AssociatedLabelMessageID = association.labelMessageID
-	entry.AssociatedLabelJapanese = association.labelJapanese
-	entry.AssociatedLabelEnglish = association.labelEnglish
 	entry.AssociationResolution = association.resolution
-	if association.labelJapanese != "" || association.labelEnglish != "" {
-		entry.SpeakerStatus = "inferred_from_verified_interaction_target"
-		entry.SpeakerJapanese = association.labelJapanese
-		entry.SpeakerEnglish = association.labelEnglish
-		entry.SpeakerSource = "ambient_interaction_target_label"
-	}
 }
 
-func buildAmbientScenes(project *corpus.Project, terms fixeddata.Terminology, bindata []byte, rooms []locatedMember, selector Selector) ([]Scene, error) {
-	if !selectorMayMatchAmbient(selector) {
-		return nil, nil
-	}
+func scanRetailRooms(bindata []byte, rooms []locatedMember) ([]Scene, map[int][]ScenarioRoomTarget, error) {
 	sort.Slice(rooms, func(i, j int) bool {
 		if rooms[i].archive.Name != rooms[j].archive.Name {
 			return rooms[i].archive.Name < rooms[j].archive.Name
@@ -147,23 +133,39 @@ func buildAmbientScenes(project *corpus.Project, terms fixeddata.Terminology, bi
 		return rooms[i].member.Name < rooms[j].member.Name
 	})
 	result := make([]Scene, 0)
+	targets := make(map[int][]ScenarioRoomTarget)
 	for _, room := range rooms {
 		payload, err := room.archive.Pair.Payload(room.member.Index)
 		if err != nil {
-			return nil, err
+			return nil, nil, err
 		}
 		resources, err := roomIMDResources(room.member.Name, payload)
 		if err != nil {
-			return nil, fmt.Errorf("cdc context: %s: %w", room.member.Name, err)
+			return nil, nil, fmt.Errorf("cdc context: %s: %w", room.member.Name, err)
 		}
 		for _, resource := range resources {
+			minimum := roomScenarioTableOffset + (roomScenarioRecordCount-1)*roomScenarioRecordSize + 2
+			if len(resource.data) < minimum {
+				return nil, nil, fmt.Errorf("cdc context: %s: %s is too small for the scenario-slot table", room.member.Name, resource.name)
+			}
+			for index := 0; index < roomScenarioRecordCount; index++ {
+				offset := roomScenarioTableOffset + index*roomScenarioRecordSize
+				slot := int(int16(binary.LittleEndian.Uint16(resource.data[offset:])))
+				if slot < 1 || slot > 914 {
+					continue
+				}
+				targets[slot] = append(targets[slot], ScenarioRoomTarget{
+					SourceArchive: room.archive.Name, RoomArchiveIndex: room.member.Index,
+					RoomMember: room.member.Name, EmbeddedMember: resource.name,
+					SelectorIndex: 1000 + index, Status: "verified_room_imd_slot",
+				})
+			}
 			scene := Scene{
 				Member: room.member.Name, EmbeddedMember: resource.name,
 				SourceArchive: room.archive.Name, SourceKind: "ambient_interaction",
 				Ordering: "room_entity_table_order", EvidenceStatus: "verified_executable_interaction_mapping",
 				Entries: make([]Entry, 0), References: make([]Reference, 0),
 			}
-			selected := false
 			for slot := 0; slot < roomEntityRecordCount; slot++ {
 				offset := roomEntityTableOffset + slot*roomEntityRecordSize
 				handle := int(binary.LittleEndian.Uint16(resource.data[offset:]))
@@ -171,25 +173,11 @@ func buildAmbientScenes(project *corpus.Project, terms fixeddata.Terminology, bi
 				if !ok {
 					continue
 				}
-				matches := selectorMatchesMessage(selector, messageID)
-				selected = selected || matches
-				item, ok := project.Find(messageID)
-				if !ok {
-					return nil, fmt.Errorf("cdc context: ambient handle %d maps to unknown message %d", handle, messageID)
-				}
-				controls, err := sourceControls(item.Translation.Japanese, item.Translation.Text)
-				if err != nil {
-					return nil, fmt.Errorf("cdc context: message %d: %w", messageID, err)
-				}
 				entry := Entry{
 					Kind: "ambient_dialogue", MessageID: messageID,
 					Offset: offset, OffsetBasis: "room_imd_entity_record_offset", Position: slot,
-					Selected: matches, Reachability: "runtime_dependent", Path: make([]int, 0),
-					Raw:      fmt.Sprintf("entity_handle=%d", handle),
-					Japanese: item.Translation.Japanese, English: item.Translation.Text, State: item.Translation.State,
-					Terminology: applicableTerms(terms.Applicable(item)), SourceControls: controls,
-					Relationships: executableRelationships(project, messageID), ConsumerEvidence: allConsumerEvidence(messageID),
-					AuthoringMetadata: authoringMetadata(messageID, item.Translation.Japanese), Actors: make([]Actor, 0),
+					Reachability: "runtime_dependent", Path: make([]int, 0),
+					Raw: fmt.Sprintf("entity_handle=%d", handle), Actors: make([]Actor, 0),
 				}
 				interaction := AmbientInteraction{
 					EntityHandle: handle, Status: "verified_executable_mapping",
@@ -197,34 +185,15 @@ func buildAmbientScenes(project *corpus.Project, terms fixeddata.Terminology, bi
 					RoomMember: room.member.Name, RoomResource: resource.name,
 					EntitySlot: intPointer(slot), EntityOffset: intPointer(offset),
 				}
-				addAmbientAssociation(project, bindata, &entry, interaction)
+				addRetailAmbientAssociation(bindata, &entry, interaction)
 				scene.Entries = append(scene.Entries, entry)
 			}
-			if selected {
+			if len(scene.Entries) > 0 {
 				result = append(result, scene)
 			}
 		}
 	}
-	return result, nil
-}
-
-func selectorMayMatchAmbient(selector Selector) bool {
-	if selector.Record >= 0 {
-		if selector.Record == 1588 {
-			return true
-		}
-		_, ok := ambientHandleForMessage(selector.Record)
-		return ok
-	}
-	if selector.Bank == 0 || selector.Bank == 129 {
-		return true
-	}
-	for _, rule := range ambientRanges {
-		if rule.firstMessage/10_000 == selector.Bank {
-			return true
-		}
-	}
-	return false
+	return result, targets, nil
 }
 
 func selectorMatchesMessage(selector Selector, messageID int) bool {
@@ -272,45 +241,6 @@ func roomIMDResources(source string, payload []byte) ([]roomResource, error) {
 		resources = append(resources, roomResource{name: child.name, data: data})
 	}
 	return resources, nil
-}
-
-func scenarioRoomTargets(rooms []locatedMember) (map[int][]ScenarioRoomTarget, error) {
-	result := make(map[int][]ScenarioRoomTarget)
-	sort.Slice(rooms, func(i, j int) bool {
-		if rooms[i].archive.Name != rooms[j].archive.Name {
-			return rooms[i].archive.Name < rooms[j].archive.Name
-		}
-		return rooms[i].member.Name < rooms[j].member.Name
-	})
-	for _, room := range rooms {
-		payload, err := room.archive.Pair.Payload(room.member.Index)
-		if err != nil {
-			return nil, err
-		}
-		resources, err := roomIMDResources(room.member.Name, payload)
-		if err != nil {
-			return nil, fmt.Errorf("cdc context: %s: %w", room.member.Name, err)
-		}
-		for _, resource := range resources {
-			minimum := roomScenarioTableOffset + (roomScenarioRecordCount-1)*roomScenarioRecordSize + 2
-			if len(resource.data) < minimum {
-				return nil, fmt.Errorf("cdc context: %s: %s is too small for the scenario-slot table", room.member.Name, resource.name)
-			}
-			for index := 0; index < roomScenarioRecordCount; index++ {
-				offset := roomScenarioTableOffset + index*roomScenarioRecordSize
-				slot := int(int16(binary.LittleEndian.Uint16(resource.data[offset:])))
-				if slot < 1 || slot > 914 {
-					continue
-				}
-				result[slot] = append(result[slot], ScenarioRoomTarget{
-					SourceArchive: room.archive.Name, RoomArchiveIndex: room.member.Index,
-					RoomMember: room.member.Name, EmbeddedMember: resource.name,
-					SelectorIndex: 1000 + index, Status: "verified_room_imd_slot",
-				})
-			}
-		}
-	}
-	return result, nil
 }
 
 type roomPARChild struct {

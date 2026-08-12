@@ -123,7 +123,7 @@ func buildScenarioCatalog(catalog *rbb.Catalog, members []locatedMember) (scenar
 	return result, nil
 }
 
-func roomMessageBankRegistrations(catalog *rbb.Catalog, members []locatedMember, bank int) ([]RoomMessageBankRegistration, error) {
+func roomMessageBankRegistrations(catalog *rbb.Catalog, members []locatedMember) (map[int][]RoomMessageBankRegistration, error) {
 	available := make(map[string][]locatedMember, len(members))
 	for _, member := range members {
 		if member.member.Name == "" {
@@ -131,7 +131,7 @@ func roomMessageBankRegistrations(catalog *rbb.Catalog, members []locatedMember,
 		}
 		available[member.member.Name] = append(available[member.member.Name], member)
 	}
-	result := make([]RoomMessageBankRegistration, 0)
+	result := make(map[int][]RoomMessageBankRegistration)
 	for _, room := range catalog.Rooms() {
 		roomMember := fmt.Sprintf("room/id%04d.par", room.ID)
 		roomMatches := available[roomMember]
@@ -149,7 +149,7 @@ func roomMessageBankRegistrations(catalog *rbb.Catalog, members []locatedMember,
 				continue
 			}
 			section, err := strconv.Atoi(match[1])
-			if err != nil || section != bank {
+			if err != nil {
 				continue
 			}
 			bankMember := fmt.Sprintf("message/msgsec%03d.dat", section)
@@ -158,7 +158,7 @@ func roomMessageBankRegistrations(catalog *rbb.Catalog, members []locatedMember,
 				return nil, fmt.Errorf("cdc context: RBB room/ID%04d does not register exactly one physical member %s", room.ID, bankMember)
 			}
 			locatedBank := bankMatches[0]
-			result = append(result, RoomMessageBankRegistration{
+			result[section] = append(result[section], RoomMessageBankRegistration{
 				RoomLogicalKey: fmt.Sprintf("room/ID%04d", room.ID), RoomAuthoringName: roomAuthoringName,
 				RoomSourceArchive: locatedRoom.archive.Name, RoomMember: roomMember, RoomArchiveIndex: locatedRoom.member.Index,
 				Bank: section, BankLogicalKey: resource, BankSourceArchive: locatedBank.archive.Name,

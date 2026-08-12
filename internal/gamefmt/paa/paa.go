@@ -4,6 +4,7 @@ package paa
 
 import (
 	"bytes"
+	"crypto/sha256"
 	"encoding/binary"
 	"errors"
 	"fmt"
@@ -50,6 +51,21 @@ type Pair struct {
 	prefix      [archivePrefixSize]byte
 	members     []Member
 	offsetTable uint32
+	identity    Identity
+}
+
+// Identity describes the immutable files from which a Pair was opened. It
+// remains available after Close so callers can identify derived data without
+// reopening the archive.
+type Identity struct {
+	IndexPath          string
+	ArchivePath        string
+	IndexSHA256        [sha256.Size]byte
+	ArchiveSize        int64
+	ArchiveModTimeNano int64
+	ArchiveChangeNano  int64
+	ArchiveDevice      uint64
+	ArchiveInode       uint64
 }
 
 // Open validates and opens a PAA pair. The source files are only opened for
@@ -63,7 +79,27 @@ func Open(indexPath, archivePath string) (*Pair, error) {
 	if err != nil {
 		return nil, fmt.Errorf("open PAA archive: %w", err)
 	}
-	pair := &Pair{indexPath: indexPath, archivePath: archivePath, index: index, archive: archive}
+	absoluteIndexPath, err := filepath.Abs(indexPath)
+	if err != nil {
+		archive.Close()
+		return nil, fmt.Errorf("resolve PAA index path: %w", err)
+	}
+	absoluteArchivePath, err := filepath.Abs(archivePath)
+	if err != nil {
+		archive.Close()
+		return nil, fmt.Errorf("resolve PAA archive path: %w", err)
+	}
+	pair := &Pair{
+		indexPath:   indexPath,
+		archivePath: archivePath,
+		index:       index,
+		archive:     archive,
+		identity: Identity{
+			IndexPath:   absoluteIndexPath,
+			ArchivePath: absoluteArchivePath,
+			IndexSHA256: sha256.Sum256(index),
+		},
+	}
 	if err := pair.validate(); err != nil {
 		archive.Close()
 		return nil, err
@@ -90,6 +126,9 @@ func (p *Pair) validate() error {
 	if info.Size() < archivePrefixSize {
 		return fmt.Errorf("%s: archive is missing its 16-byte prefix", p.archivePath)
 	}
+	p.identity.ArchiveSize = info.Size()
+	p.identity.ArchiveModTimeNano = info.ModTime().UnixNano()
+	p.identity.ArchiveChangeNano, p.identity.ArchiveDevice, p.identity.ArchiveInode = platformFileIdentity(info)
 	if _, err := p.archive.ReadAt(p.prefix[:], 0); err != nil {
 		return fmt.Errorf("read PAA archive prefix: %w", err)
 	}
@@ -144,6 +183,11 @@ func (p *Pair) validate() error {
 		return fmt.Errorf("%s: nonzero trailing padding", p.archivePath)
 	}
 	return nil
+}
+
+// Identity returns the source-file identity captured when p was opened.
+func (p *Pair) Identity() Identity {
+	return p.identity
 }
 
 func align(value uint64) uint64 {
