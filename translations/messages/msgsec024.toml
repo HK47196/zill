@@ -242,7 +242,7 @@ english = "Seeking someone to transport goods of the utmost importance to our Te
 
 ["240060"]
 japanese = "<value:$15>を<value:$16>の町まで<line-break>届けます。最近は物騒ですから、<line-break>戦いを知らない私たちでは危なすぎます。<line-break>私たちに代わって届け物をしてくれませんか？<line-break><value:$1B>日以内に品物を送り届けてください。<line-break><value:$1A>ギアをお礼としてさしあげます。<end>"
-english = "We need <value:$15> delivered to the town of <value:$16>. These are dangerous times, and we have no combat experience, so the journey is too dangerous for us. Could you make the delivery in our place? Deliver it within <value:$1B> days for a reward of <value:$1A> Gea.<end>"
+english = "We need <value:$15> delivered to <value:$16>. These are dangerous times, and we have no combat experience, so the journey is too dangerous for us. Could you make the delivery in our place? Deliver it within <value:$1B> days for a reward of <value:$1A> Gea.<end>"
 
 ["240061"]
 japanese = "急募\u3000運び屋さん<line-break><value:$15>を送り届けてください。<line-break><value:$16>が目的地です。<line-break><value:$1B>日以内に届けてくださったならば、<line-break><value:$1A>ギアさしあげます。<end>"
