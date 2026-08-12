@@ -40,9 +40,36 @@ Text searches label Japanese and English separately and also return matching
 terminology; `--state` filters message records only.
 `show` prints the target, nearby Japanese/English context, and the editable
 section path. `context` reads both retail PAA archives without modifying them and
-prints every complete, cross-bank scene that references one requested record or
-any record in a requested bank. A bank query also begins with the complete retail
-message bank in storage order, so records without a CDC consumer remain visible.
+provides a scene-first translation workflow. A bank query lists every recovered
+scene containing records from that bank, while a record query maps one message to
+its recovered scenes. Both print copyable commands for opening one complete scene:
+
+```sh
+./zill context --game-dir /path/to/PSP_GAME --bank 135
+./zill context --game-dir /path/to/PSP_GAME --record 1350035
+./zill context --game-dir /path/to/PSP_GAME --scene pa:cdc/01/ancsri01.cdc
+./zill context --game-dir /path/to/PSP_GAME --list-scenes
+```
+
+The default scene view is a translation-oriented transcript containing record
+IDs, Japanese and English, translation states, qualified speaker labels, branch
+and choice context, terminology, and explicit limits on what static analysis can
+establish. `--format json` emits the equivalent compact, versioned machine input.
+Add `--verbose` to either format for the complete diagnostic projection: raw
+offsets and paths, control predicates, actor lifecycle, cross-program references,
+RBB provenance, room tables, and executable source locators.
+
+`--list-scenes` prints the complete recovered CDC and ambient-scene catalogue in
+a compact one-line-per-scene format. Its first column is a stable ID accepted by
+`--scene`; storage-only message banks are intentionally excluded because they are
+containers rather than recovered dialogue scenes.
+
+A message bank is treated as a storage container rather than a recovered scene.
+Bank listings report records which have only storage context, and record queries
+with no recovered occurrence show a bounded storage-order neighborhood explicitly
+marked as not verified chronology. The storage container itself can be inspected
+with a scene ID such as `bank/034`.
+
 The first query builds a versioned immutable-retail index under the operating
 system's user cache directory; later queries reuse its CDC flow analysis, RBB
 catalog, and extracted room metadata while always joining current translations
@@ -68,26 +95,17 @@ triples on each family. Ordinary town-NPC dialogue is recovered
 separately from room-authored entity records and the executable's bounded
 entity-handle-to-message dispatcher. These ambient occurrences include room
 provenance and an interaction-target label while remaining explicit that authored
-placement is not runtime presence or global dialogue chronology. If no resolved
-static consumer references a record query, `context` returns its complete message
-bank as a `message_bank` scene in storage order. The retail-bank projection reports
-its first authored record
-and record byte offsets, and marks a `--record` target explicitly. It leaves branch
-topology, speakers, actor presence, and runtime reachability unresolved. For all
-banks, record-local retail controls such as conditionals and selections are
+placement is not runtime presence or global dialogue chronology. The verbose
+diagnostic model retains a complete message-bank storage unit when no resolved
+consumer references a record; it reports source offsets while leaving chronology,
+speakers, actor presence, and reachability unresolved. For all banks, record-local
+retail controls such as conditionals and selections are
 decoded into their source blocks without evaluating game state. Explicit reserve
 markers also select candidate rows in the statically identified event-title
 authoring table; exact label matches are reported separately from executable consumer
 evidence. Verified executable companion formulas and record-local authoring-table
-roles are kept separate from chronology and reachability. JSON retains every full
-scene and adds target-centred review packets; `--format review` renders the bounded
-same-path neighborhood and alternate choice arms directly:
-
-```sh
-./zill context --game-dir /path/to/PSP_GAME --bank 135
-./zill context --game-dir /path/to/PSP_GAME --record 1350035 --format json
-./zill context --game-dir /path/to/PSP_GAME --record 1350035 --format review
-```
+roles are kept separate from chronology and reachability. Stable scene IDs and
+physical aliases expose these distinctions without choosing a runtime variant.
 
 `check` is the asset-free contributor gate; it does not run reflow
 or the retail-consumer fixed-buffer checks performed by the maintainer build.

@@ -22,6 +22,7 @@ type RetailIndex struct {
 	Scenes                       []Scene
 	MessageScenes                map[int][]int
 	BankScenes                   map[int][]int
+	SceneLookup                  map[string][]int
 	StorageBanks                 map[int]RetailBank
 	ScenarioFamilies             map[int]ScenarioFamily
 	RoomMessageBankRegistrations map[int][]RoomMessageBankRegistration
@@ -170,11 +171,11 @@ func BuildRetailIndex(archives []Archive) (*RetailIndex, error) {
 		}
 	}
 	index := &RetailIndex{
-		Bindata: append([]byte(nil), bindata...), Scenes: scenes, MessageScenes: make(map[int][]int), BankScenes: make(map[int][]int),
+		Bindata: append([]byte(nil), bindata...), Scenes: scenes, MessageScenes: make(map[int][]int), BankScenes: make(map[int][]int), SceneLookup: make(map[string][]int),
 		StorageBanks: storage, ScenarioFamilies: catalog.families,
 		RoomMessageBankRegistrations: registrations,
 	}
-	index.buildReverseIndexes()
+	index.buildReverseIndexes(catalog)
 	if err := index.validate(); err != nil {
 		return nil, err
 	}
@@ -193,6 +194,7 @@ func messageBankSection(name string) (int, bool) {
 
 func buildRetailBankScene(bindata []byte, archive, member string, bank corpus.Bank) Scene {
 	scene := Scene{
+		ID: fmt.Sprintf("bank/%03d", bank.Section), Aliases: []string{archive + ":" + member},
 		Member: member, SourceArchive: archive, SourceKind: "message_bank",
 		Ordering: "storage_order_only", EvidenceStatus: "retail_storage_source",
 		Entries: make([]Entry, 0, len(bank.Records)), References: make([]Reference, 0),
@@ -218,10 +220,21 @@ func buildRetailBankScene(bindata []byte, archive, member string, bank corpus.Ba
 	return scene
 }
 
-func (index *RetailIndex) buildReverseIndexes() {
+func (index *RetailIndex) buildReverseIndexes(catalog scenarioCatalog) {
 	index.MessageScenes = make(map[int][]int)
 	index.BankScenes = make(map[int][]int)
+	index.SceneLookup = make(map[string][]int)
+	rawAliasCandidates := make(map[string][]int)
 	for sceneIndex, scene := range index.Scenes {
+		assignSceneIdentity(&scene, catalog)
+		index.Scenes[sceneIndex] = scene
+		index.SceneLookup[scene.ID] = append(index.SceneLookup[scene.ID], sceneIndex)
+		for _, alias := range scene.Aliases {
+			index.SceneLookup[alias] = append(index.SceneLookup[alias], sceneIndex)
+		}
+		for _, alias := range sceneRawAliases(scene, catalog) {
+			rawAliasCandidates[alias] = append(rawAliasCandidates[alias], sceneIndex)
+		}
 		banks := make(map[int]bool)
 		messages := make(map[int]bool)
 		for _, entry := range scene.Entries {
@@ -236,10 +249,75 @@ func (index *RetailIndex) buildReverseIndexes() {
 			}
 		}
 	}
+	for alias, indexes := range rawAliasCandidates {
+		if len(indexes) != 1 {
+			// Keep collisions resolvable as deliberately ambiguous rather than
+			// misreporting a known physical member as an unknown scene.
+			index.SceneLookup[alias] = append(index.SceneLookup[alias], indexes...)
+			continue
+		}
+		sceneIndex := indexes[0]
+		index.Scenes[sceneIndex].Aliases = append(index.Scenes[sceneIndex].Aliases, alias)
+		index.SceneLookup[alias] = append(index.SceneLookup[alias], sceneIndex)
+	}
+	for sceneIndex := range index.Scenes {
+		sort.Strings(index.Scenes[sceneIndex].Aliases)
+	}
+}
+
+func assignSceneIdentity(scene *Scene, catalog scenarioCatalog) {
+	aliases := make([]string, 0)
+	if scene.Scenario != nil {
+		scene.ID = fmt.Sprintf("scenario/%d/%s", scene.Scenario.Slot, scene.Scenario.ContentSHA256[:12])
+		family := catalog.families[scene.Scenario.Slot]
+		for _, variant := range family.Variants {
+			if variant.ContentSHA256 != scene.Scenario.ContentSHA256 {
+				continue
+			}
+			for _, member := range variant.Members {
+				aliases = append(aliases, member.SourceArchive+":"+member.Member)
+			}
+			break
+		}
+	} else if scene.SourceKind == "ambient_interaction" {
+		scene.ID = "ambient/" + scene.SourceArchive + "/" + scene.Member + "#" + scene.EmbeddedMember
+		aliases = append(aliases, scene.SourceArchive+":"+scene.Member+"#"+scene.EmbeddedMember)
+	} else {
+		scene.ID = "cdc/" + scene.SourceArchive + "/" + scene.Member
+		aliases = append(aliases, scene.SourceArchive+":"+scene.Member)
+	}
+	sort.Strings(aliases)
+	scene.Aliases = aliases[:0]
+	for _, alias := range aliases {
+		if alias != scene.ID && (len(scene.Aliases) == 0 || scene.Aliases[len(scene.Aliases)-1] != alias) {
+			scene.Aliases = append(scene.Aliases, alias)
+		}
+	}
+}
+
+func sceneRawAliases(scene Scene, catalog scenarioCatalog) []string {
+	if scene.Scenario != nil {
+		family := catalog.families[scene.Scenario.Slot]
+		aliases := make([]string, 0)
+		for _, variant := range family.Variants {
+			if variant.ContentSHA256 != scene.Scenario.ContentSHA256 {
+				continue
+			}
+			for _, member := range variant.Members {
+				aliases = append(aliases, member.Member)
+			}
+			return aliases
+		}
+		return nil
+	}
+	if scene.SourceKind == "ambient_interaction" {
+		return []string{scene.Member + "#" + scene.EmbeddedMember}
+	}
+	return []string{scene.Member}
 }
 
 func (index *RetailIndex) validate() error {
-	if index == nil || len(index.Bindata) == 0 || index.MessageScenes == nil || index.BankScenes == nil || index.StorageBanks == nil || index.ScenarioFamilies == nil || index.RoomMessageBankRegistrations == nil {
+	if index == nil || len(index.Bindata) == 0 || index.MessageScenes == nil || index.BankScenes == nil || index.SceneLookup == nil || index.StorageBanks == nil || index.ScenarioFamilies == nil || index.RoomMessageBankRegistrations == nil {
 		return fmt.Errorf("cdc context: invalid retail index")
 	}
 	check := func(key int, indexes []int, byBank bool) error {
@@ -277,6 +355,16 @@ func (index *RetailIndex) validate() error {
 			return fmt.Errorf("cdc context: invalid retail storage bank")
 		}
 	}
+	for key, indexes := range index.SceneLookup {
+		if key == "" || len(indexes) == 0 {
+			return fmt.Errorf("cdc context: invalid retail scene lookup")
+		}
+		for _, sceneIndex := range indexes {
+			if sceneIndex < 0 || sceneIndex >= len(index.Scenes) {
+				return fmt.Errorf("cdc context: invalid retail scene lookup")
+			}
+		}
+	}
 	return nil
 }
 
@@ -289,8 +377,21 @@ func BuildFromRetailIndex(project *corpus.Project, terms fixeddata.Terminology, 
 	if err := index.validate(); err != nil {
 		return Result{}, err
 	}
-	if (selector.Bank >= 0) == (selector.Record >= 0) {
-		return Result{}, fmt.Errorf("cdc context: set exactly one of bank or record")
+	set := 0
+	if selector.Bank >= 0 {
+		set++
+	}
+	if selector.Record >= 0 {
+		set++
+	}
+	if selector.Scene != "" {
+		set++
+	}
+	if selector.ListScenes {
+		set++
+	}
+	if set != 1 {
+		return Result{}, fmt.Errorf("cdc context: set exactly one of bank, record, scene, or list scenes")
 	}
 	if selector.Bank >= 279 {
 		return Result{}, fmt.Errorf("cdc context: invalid bank %d", selector.Bank)
@@ -300,9 +401,38 @@ func BuildFromRetailIndex(project *corpus.Project, terms fixeddata.Terminology, 
 	}
 	bank := selector.Bank
 	indexes := index.BankScenes[selector.Bank]
+	if selector.ListScenes {
+		indexes = make([]int, 0, len(index.Scenes))
+		for sceneIndex := range index.Scenes {
+			if len(index.Scenes[sceneIndex].Entries) > 0 {
+				indexes = append(indexes, sceneIndex)
+			}
+		}
+	}
 	if selector.Record >= 0 {
 		bank = selector.Record / 10_000
 		indexes = index.MessageScenes[selector.Record]
+	}
+	if selector.Scene != "" {
+		if bank, ok := storageSceneBank(selector.Scene); ok {
+			return buildStorageSceneResult(project, terms, index, selector, bank)
+		}
+		for bank, source := range index.StorageBanks {
+			if selector.Scene == source.SourceArchive+":"+source.Member {
+				return buildStorageSceneResult(project, terms, index, selector, bank)
+			}
+		}
+		matches, ok := index.SceneLookup[selector.Scene]
+		if !ok {
+			return Result{}, fmt.Errorf("cdc context: unknown scene %q", selector.Scene)
+		}
+		if len(matches) != 1 {
+			return Result{}, fmt.Errorf("cdc context: ambiguous scene alias %q", selector.Scene)
+		}
+		indexes = matches
+		if len(index.Scenes[matches[0]].Entries) > 0 {
+			bank = index.Scenes[matches[0]].Entries[0].MessageID / 10_000
+		}
 	}
 	result := Result{Selector: selector, Scenes: make([]Scene, 0, len(indexes)+1)}
 	for _, sceneIndex := range indexes {
@@ -313,7 +443,7 @@ func BuildFromRetailIndex(project *corpus.Project, terms fixeddata.Terminology, 
 		markSelected(&scene, selector)
 		result.Scenes = append(result.Scenes, scene)
 	}
-	if len(result.Scenes) > 0 {
+	if len(result.Scenes) > 0 && !selector.ListScenes {
 		evidence := sourceEvidence(project, bank)
 		for sceneIndex := range result.Scenes {
 			result.Scenes[sceneIndex].SourceEvidence = append([]SourceEvidence(nil), evidence...)
@@ -324,7 +454,7 @@ func BuildFromRetailIndex(project *corpus.Project, terms fixeddata.Terminology, 
 	result.ScenarioFamilies = scenarioFamiliesForScenes(catalog, result.Scenes)
 	result.RoomMessageBankRegistrations = append([]RoomMessageBankRegistration(nil), index.RoomMessageBankRegistrations[bank]...)
 
-	if selector.Bank >= 0 || len(result.Scenes) == 0 {
+	if !selector.ListScenes && selector.Scene == "" && (selector.Bank >= 0 || len(result.Scenes) == 0) {
 		source, ok := index.StorageBanks[bank]
 		if !ok {
 			return Result{}, fmt.Errorf("cdc context: archive is missing message/msgsec%03d.dat", bank)
@@ -344,12 +474,37 @@ func BuildFromRetailIndex(project *corpus.Project, terms fixeddata.Terminology, 
 			result.Scenes = append(result.Scenes, scene)
 		}
 	}
-	result.ReviewPackets = buildReviewPackets(result)
+	return result, nil
+}
+
+func storageSceneBank(value string) (int, bool) {
+	if len(value) != len("bank/000") || !strings.HasPrefix(value, "bank/") {
+		return 0, false
+	}
+	bank, err := strconv.Atoi(value[len("bank/"):])
+	return bank, err == nil && bank >= 0 && bank < 279
+}
+
+func buildStorageSceneResult(project *corpus.Project, terms fixeddata.Terminology, index *RetailIndex, selector Selector, bank int) (Result, error) {
+	source, ok := index.StorageBanks[bank]
+	if !ok {
+		return Result{}, fmt.Errorf("cdc context: unknown scene %q", selector.Scene)
+	}
+	retailBank, err := corpus.ParseBank(fmt.Sprintf("msgsec%03d.dat", bank), source.Payload)
+	if err != nil {
+		return Result{}, fmt.Errorf("cdc context: %s: %w", source.Member, err)
+	}
+	scene := buildRetailBankScene(index.Bindata, source.SourceArchive, source.Member, retailBank)
+	if err := hydrateScene(project, terms, &scene); err != nil {
+		return Result{}, err
+	}
+	result := Result{Selector: selector, Scenes: []Scene{scene}}
 	return result, nil
 }
 
 func cloneRetailScene(source Scene) Scene {
 	result := source
+	result.Aliases = append([]string(nil), source.Aliases...)
 	result.Entries = append([]Entry(nil), source.Entries...)
 	result.References = append([]Reference(nil), source.References...)
 	result.SourceEvidence = nil

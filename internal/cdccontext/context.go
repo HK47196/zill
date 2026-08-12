@@ -18,12 +18,16 @@ import (
 	"github.com/HK47196/zill/internal/message"
 )
 
-// Selector selects scenes by exactly one message bank or record.
+// Selector selects scenes by exactly one message bank, record, stable scene
+// identity, or the complete recovered-scene catalogue.
 type Selector struct {
-	// Bank and Record use a negative value for "not selected". Exactly one must
-	// be non-negative; this makes bank 000 and record 0 representable.
-	Bank   int `json:"bank"`
-	Record int `json:"record"`
+	// Bank and Record use a negative value for "not selected". Scene uses an
+	// empty value for "not selected". Exactly one selector must be set; this
+	// makes bank 000 and record 0 representable.
+	Bank       int    `json:"bank"`
+	Record     int    `json:"record"`
+	Scene      string `json:"scene"`
+	ListScenes bool   `json:"list_scenes,omitempty"`
 }
 
 // Archive is one named retail PAA source available to context recovery.
@@ -38,13 +42,14 @@ type Result struct {
 	Scenes                       []Scene                       `json:"scenes"`
 	ScenarioFamilies             []ScenarioFamily              `json:"scenario_families,omitempty"`
 	RoomMessageBankRegistrations []RoomMessageBankRegistration `json:"room_message_bank_registrations,omitempty"`
-	ReviewPackets                []ReviewPacket                `json:"review_packets,omitempty"`
 }
 
 // Scene is one complete static context unit. CDC programs provide control-flow
 // scenes, room packages provide authored ambient-interaction groups, and a
 // message bank provides the lossless storage-order unit.
 type Scene struct {
+	ID                   string           `json:"id"`
+	Aliases              []string         `json:"aliases,omitempty"`
 	Member               string           `json:"member"`
 	EmbeddedMember       string           `json:"embedded_member,omitempty"`
 	SourceArchive        string           `json:"source_archive"`

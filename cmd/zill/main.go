@@ -21,7 +21,7 @@ const usage = `Usage: zill <command> [options]
 
 Commands:
 	check             Validate contributor translation data
-	context           Show every static CDC scene for one bank or record
+	context           Find and review recovered dialogue scenes
 	search            Search IDs, Japanese, and English
 	show              Show one record and nearby context
 	ppsspp-debugger   Control a running PPSSPP instance through JSON Lines

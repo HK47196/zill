@@ -16,15 +16,39 @@ import (
 	"github.com/HK47196/zill/internal/gamefmt/paa"
 )
 
-const contextUsage = "zill context --game-dir PATH (--bank NNN | --record ID) [--format text|review|json]"
+const contextUsage = "zill context --game-dir PATH (--list-scenes | --bank NNN | --record ID | --scene ID) [--format text|json] [--verbose]"
+
+const contextHelp = `Usage: zill context --game-dir PATH (--list-scenes | --bank NNN | --record ID | --scene ID) [options]
+
+Selectors:
+  --list-scenes List every recovered CDC and ambient dialogue scene
+  --bank NNN    List recovered scenes containing records from one message bank
+  --record ID   Map one message record to every recovered scene containing it
+  --scene ID    Render one complete scene for translation review
+
+Options:
+  --format text|json  Output format (default: text)
+  --verbose           Emit the complete diagnostic projection
+  -h, --help          Show this help
+
+Bank and record queries print copyable --scene commands. A message-bank storage
+unit is reported separately because storage order is not verified chronology.
+`
 
 type contextOptions struct {
 	gameDir  string
 	format   string
+	verbose  bool
 	selectBy cdccontext.Selector
 }
 
 func runContext(root string, args []string, stdout, stderr io.Writer) int {
+	for _, argument := range args {
+		if argument == "-h" || argument == "--help" {
+			fmt.Fprint(stdout, contextHelp)
+			return 0
+		}
+	}
 	options, err := parseContextOptions(args)
 	if err != nil {
 		fmt.Fprintf(stderr, "zill: context: %v\n", err)
@@ -86,23 +110,28 @@ func runContext(root string, args []string, stdout, stderr io.Writer) int {
 	if options.format == "json" {
 		encoder := json.NewEncoder(stdout)
 		encoder.SetIndent("", "  ")
-		if err := encoder.Encode(result); err != nil {
+		encoder.SetEscapeHTML(false)
+		var document any = buildContextReviewDocument(result, options.gameDir)
+		if options.verbose {
+			document = result
+		}
+		if err := encoder.Encode(document); err != nil {
 			fmt.Fprintf(stderr, "zill: context: encode JSON: %v\n", err)
 			return 1
 		}
 		return 0
 	}
-	if options.format == "review" {
-		writeReviewText(stdout, result)
-		return 0
+	if options.verbose {
+		writeContextText(stdout, result)
+	} else {
+		writeContextReviewText(stdout, result, options.gameDir)
 	}
-	writeContextText(stdout, result)
 	return 0
 }
 
 func parseContextOptions(args []string) (contextOptions, error) {
 	options := contextOptions{format: "text", selectBy: cdccontext.Selector{Bank: -1, Record: -1}}
-	gameDirSet, bankSet, recordSet, formatSet := false, false, false, false
+	gameDirSet, listScenesSet, bankSet, recordSet, sceneSet, formatSet, verboseSet := false, false, false, false, false, false, false
 	for index := 0; index < len(args); index++ {
 		argument := args[index]
 		name, value, hasEquals := strings.Cut(argument, "=")
@@ -140,6 +169,15 @@ func parseContextOptions(args []string) (contextOptions, error) {
 			if err == nil {
 				options.selectBy.Bank, err = parseContextInteger("bank", raw, 278)
 			}
+		case "--list-scenes":
+			if hasEquals {
+				return contextOptions{}, fmt.Errorf("--list-scenes does not take a value")
+			}
+			if listScenesSet {
+				return contextOptions{}, fmt.Errorf("--list-scenes may be specified only once")
+			}
+			listScenesSet = true
+			options.selectBy.ListScenes = true
 		case "--record":
 			if recordSet {
 				return contextOptions{}, fmt.Errorf("--record may be specified only once")
@@ -150,15 +188,30 @@ func parseContextOptions(args []string) (contextOptions, error) {
 			if err == nil {
 				options.selectBy.Record, err = parseContextInteger("record", raw, 2_789_999)
 			}
+		case "--scene":
+			if sceneSet {
+				return contextOptions{}, fmt.Errorf("--scene may be specified only once")
+			}
+			sceneSet = true
+			options.selectBy.Scene, err = nextValue()
 		case "--format":
 			if formatSet {
 				return contextOptions{}, fmt.Errorf("--format may be specified only once")
 			}
 			formatSet = true
 			options.format, err = nextValue()
-			if err == nil && options.format != "text" && options.format != "review" && options.format != "json" {
+			if err == nil && options.format != "text" && options.format != "json" {
 				err = fmt.Errorf("unsupported format %q", options.format)
 			}
+		case "--verbose":
+			if hasEquals {
+				return contextOptions{}, fmt.Errorf("--verbose does not take a value")
+			}
+			if verboseSet {
+				return contextOptions{}, fmt.Errorf("--verbose may be specified only once")
+			}
+			verboseSet = true
+			options.verbose = true
 		default:
 			return contextOptions{}, fmt.Errorf("unknown argument %q", argument)
 		}
@@ -169,61 +222,16 @@ func parseContextOptions(args []string) (contextOptions, error) {
 	if !gameDirSet {
 		return contextOptions{}, fmt.Errorf("--game-dir is required")
 	}
-	if bankSet == recordSet {
-		return contextOptions{}, fmt.Errorf("set exactly one of --bank or --record")
+	selectorCount := 0
+	for _, set := range []bool{listScenesSet, bankSet, recordSet, sceneSet} {
+		if set {
+			selectorCount++
+		}
 	}
-	if options.format == "review" && options.selectBy.Record < 0 {
-		return contextOptions{}, fmt.Errorf("--format review requires --record")
+	if selectorCount != 1 {
+		return contextOptions{}, fmt.Errorf("set exactly one of --list-scenes, --bank, --record, or --scene")
 	}
 	return options, nil
-}
-
-func writeReviewText(output io.Writer, result cdccontext.Result) {
-	fmt.Fprintf(output, "Review target: record %d\nPackets: %d\n", result.Selector.Record, len(result.ReviewPackets))
-	for _, packet := range result.ReviewPackets {
-		fmt.Fprintf(output, "\nScene: %s\n", packet.SceneMember)
-		if packet.EmbeddedMember != "" {
-			fmt.Fprintf(output, "  Embedded resource: %s\n", packet.EmbeddedMember)
-		}
-		fmt.Fprintf(output, "  Archive: %s\n", packet.SourceArchive)
-		fmt.Fprintf(output, "  Source: %s\n", packet.SourceKind)
-		fmt.Fprintf(output, "  Ordering: %s\n", packet.Ordering)
-		fmt.Fprintf(output, "  Evidence: %s\n", packet.EvidenceStatus)
-		if packet.Scenario != nil {
-			fmt.Fprintf(output, "  Scenario family: slot=%d content_sha256=%s equivalent_groups=%s\n", packet.Scenario.Slot, packet.Scenario.ContentSHA256, strings.Join(packet.Scenario.EquivalentGroups, ","))
-		}
-		fmt.Fprintf(output, "  Target occurrence: position=%d path=%s\n", packet.OccurrencePosition, contextPath(packet.Path))
-		for _, reference := range packet.References {
-			fmt.Fprintf(output, "  Cross-program reference: %s execution=%s resolution=%s", reference.Opcode, reference.ExecutionStatus, reference.ResolutionStatus)
-			if reference.Scenario != nil {
-				fmt.Fprintf(output, " scenario_slot=%d", reference.Scenario.Slot)
-			}
-			if table := reference.ScenarioRoomTable; table != nil {
-				fmt.Fprintf(output, " room_table_selector=%d possible_slots=%d authored_targets=%d rooms=%d", table.SelectorValue, len(table.PossibleSlots), table.TargetCount, table.RoomCount)
-			}
-			if reference.Resource != nil {
-				fmt.Fprintf(output, " key=%s", reference.Resource.LogicalKey)
-				if reference.ResourceAuthoringName != "" {
-					fmt.Fprintf(output, " authoring_name=%s", reference.ResourceAuthoringName)
-				}
-			}
-			fmt.Fprintln(output)
-		}
-		if packet.ReferencesOmitted > 0 {
-			fmt.Fprintf(output, "  Cross-program references omitted from bounded review: %d\n", packet.ReferencesOmitted)
-		}
-		for _, entry := range packet.Context {
-			fmt.Fprintf(output, "\n  Review role: %s\n", entry.Role)
-			writeContextEntries(output, []cdccontext.Entry{entry.Entry})
-		}
-		for _, entry := range packet.AlternateArms {
-			fmt.Fprintf(output, "\n  Review role: %s\n", entry.Role)
-			writeContextEntries(output, []cdccontext.Entry{entry.Entry})
-		}
-		if packet.AlternateArmsOmitted > 0 {
-			fmt.Fprintf(output, "\n  Alternate-arm entries omitted from bounded review: %d\n", packet.AlternateArmsOmitted)
-		}
-	}
 }
 
 func parseContextInteger(kind, value string, maximum int) (int, error) {
@@ -236,7 +244,11 @@ func parseContextInteger(kind, value string, maximum int) (int, error) {
 
 func writeContextText(output io.Writer, result cdccontext.Result) {
 	query := fmt.Sprintf("bank %03d", result.Selector.Bank)
-	if result.Selector.Record >= 0 {
+	if result.Selector.ListScenes {
+		query = "all recovered scenes"
+	} else if result.Selector.Scene != "" {
+		query = fmt.Sprintf("scene %s", result.Selector.Scene)
+	} else if result.Selector.Record >= 0 {
 		query = fmt.Sprintf("record %d", result.Selector.Record)
 	}
 	fmt.Fprintf(output, "Query: %s\nScenes: %d\n", query, len(result.Scenes))
@@ -249,6 +261,9 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 	writeScenarioFamilies(output, result.ScenarioFamilies)
 	for _, scene := range result.Scenes {
 		fmt.Fprintf(output, "\nScene: %s\n", scene.Member)
+		if scene.ID != "" {
+			fmt.Fprintf(output, "  Scene ID: %s\n", scene.ID)
+		}
 		if scene.EmbeddedMember != "" {
 			fmt.Fprintf(output, "  Embedded resource: %s\n", scene.EmbeddedMember)
 		}

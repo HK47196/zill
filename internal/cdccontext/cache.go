@@ -16,7 +16,7 @@ import (
 const (
 	retailCacheMagic           = "ZILLCIX\x00"
 	retailCacheFormatVersion   = uint32(2)
-	retailIndexSemanticVersion = uint32(1)
+	retailIndexSemanticVersion = uint32(2)
 	retailCacheHeaderSize      = 8 + 4 + 4 + 8 + sha256.Size
 	maxRetailCachePayload      = 512 << 20
 )

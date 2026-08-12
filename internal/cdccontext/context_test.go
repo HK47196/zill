@@ -204,70 +204,6 @@ func TestBuildKeepsChoiceArmsPathSensitive(t *testing.T) {
 	}
 }
 
-func TestBuildCreatesABoundedTargetReviewPacketWithAlternateChoiceArms(t *testing.T) {
-	pair := openPair(t, []fixtureMember{
-		{name: "data/bindata.dat", payload: make([]byte, 0x4000)},
-		{name: "cdc/do/review.cdc", payload: []byte("C20:1350038+2{C21:0{C5:3+2+1350033;}}C5:3+2+1350037;C20:1350038+2{C21:0{C5:3+2+1350036;}C21:1{C5:3+2+1350035;}}C5:3+2+1350034;E")},
-	})
-	defer pair.Close()
-	project, _, err := corpus.LoadProject("../..")
-	if err != nil {
-		t.Fatal(err)
-	}
-	result, err := cdccontext.Build(project, fixeddata.Terminology{}, oneArchive(pair), cdccontext.Selector{Bank: -1, Record: 1350035})
-	if err != nil {
-		t.Fatal(err)
-	}
-	if len(result.ReviewPackets) != 1 {
-		t.Fatalf("review packets = %#v", result.ReviewPackets)
-	}
-	packet := result.ReviewPackets[0]
-	if packet.TargetMessageID != 1350035 || packet.SceneMember != "cdc/do/review.cdc" || packet.SourceArchive != "pa" || len(packet.Context) != 1 || packet.Context[0].Role != "target" {
-		t.Fatalf("review packet = %#v", packet)
-	}
-	if len(packet.AlternateArms) != 1 || packet.AlternateArms[0].Role != "alternate_choice_arm" || packet.AlternateArms[0].Entry.MessageID != 1350036 {
-		t.Fatalf("alternate choice arms = %#v", packet.AlternateArms)
-	}
-	if len(result.Scenes[0].Entries) != 9 {
-		t.Fatalf("lossless scene was filtered: %#v", result.Scenes[0].Entries)
-	}
-}
-
-func TestBuildBoundsReviewReferencesAndAlternateArmEntries(t *testing.T) {
-	var payload strings.Builder
-	for argument := 1; argument <= 20; argument++ {
-		fmt.Fprintf(&payload, "C76:%d", argument)
-	}
-	payload.WriteString("C20:1350038+2{C21:0{")
-	for id := 1350000; id < 1350015; id++ {
-		fmt.Fprintf(&payload, "C5:3+2+%d;", id)
-	}
-	payload.WriteString("}C21:1{C5:3+2+1350035;}}E")
-	pair := openPair(t, []fixtureMember{
-		{name: "data/bindata.dat", payload: make([]byte, 0x4000)},
-		{name: "cdc/do/bounded-review.cdc", payload: []byte(payload.String())},
-	})
-	defer pair.Close()
-	project, _, err := corpus.LoadProject("../..")
-	if err != nil {
-		t.Fatal(err)
-	}
-	result, err := cdccontext.Build(project, fixeddata.Terminology{}, oneArchive(pair), cdccontext.Selector{Bank: -1, Record: 1350035})
-	if err != nil {
-		t.Fatal(err)
-	}
-	packet := result.ReviewPackets[0]
-	if len(packet.References) != 12 || packet.ReferencesOmitted != 8 {
-		t.Fatalf("bounded references = %d + %d omitted", len(packet.References), packet.ReferencesOmitted)
-	}
-	if len(packet.AlternateArms) != 12 || packet.AlternateArmsOmitted != 3 {
-		t.Fatalf("bounded alternates = %d + %d omitted", len(packet.AlternateArms), packet.AlternateArmsOmitted)
-	}
-	if len(result.Scenes[0].References) != 20 || len(result.Scenes[0].Entries) != 18 {
-		t.Fatalf("full scene was bounded with review: references=%d entries=%d", len(result.Scenes[0].References), len(result.Scenes[0].Entries))
-	}
-}
-
 func TestBuildExplainsVerifiedComparatorsWithoutGuessingSelectorMeanings(t *testing.T) {
 	pair := openPair(t, []fixtureMember{
 		{name: "data/bindata.dat", payload: make([]byte, 0x4000)},
@@ -626,7 +562,11 @@ func TestBuildGroupsExactScenarioVariantsAndJoinsRoomRegistrations(t *testing.T)
 	if err != nil {
 		t.Fatal(err)
 	}
-	result, err := cdccontext.Build(project, fixeddata.Terminology{}, oneArchive(pair), cdccontext.Selector{Bank: -1, Record: 1350035})
+	index, err := cdccontext.BuildRetailIndex(oneArchive(pair))
+	if err != nil {
+		t.Fatal(err)
+	}
+	result, err := cdccontext.BuildFromRetailIndex(project, fixeddata.Terminology{}, index, cdccontext.Selector{Bank: -1, Record: 1350035})
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -667,13 +607,17 @@ func TestBuildGroupsExactScenarioVariantsAndJoinsRoomRegistrations(t *testing.T)
 			t.Fatalf("scenario references = %#v", scene.References)
 		}
 	}
-	if len(result.ReviewPackets) != 3 {
-		t.Fatalf("review packets = %#v", result.ReviewPackets)
+	canonical := result.Scenes[0]
+	if !strings.HasPrefix(canonical.ID, "scenario/20/") || len(canonical.Aliases) < 11 {
+		t.Fatalf("collapsed scenario identity = %#v", canonical)
 	}
-	for _, packet := range result.ReviewPackets {
-		if packet.Scenario == nil || packet.Scenario.Slot != 20 {
-			t.Fatalf("review packet lacks scenario variant identity: %#v", packet.Scenario)
-		}
+	byID, err := cdccontext.BuildFromRetailIndex(project, fixeddata.Terminology{}, index, cdccontext.Selector{Bank: -1, Record: -1, Scene: canonical.ID})
+	if err != nil || len(byID.Scenes) != 1 || byID.Scenes[0].ID != canonical.ID {
+		t.Fatalf("canonical scenario lookup = %#v, %v", byID.Scenes, err)
+	}
+	byAlias, err := cdccontext.BuildFromRetailIndex(project, fixeddata.Terminology{}, index, cdccontext.Selector{Bank: -1, Record: -1, Scene: "pa:cdc/01/s002001.cdc"})
+	if err != nil || len(byAlias.Scenes) != 1 || byAlias.Scenes[0].ID != canonical.ID {
+		t.Fatalf("exact physical scenario alias lookup = %#v, %v", byAlias.Scenes, err)
 	}
 	encoded, err := json.Marshal(result)
 	if err != nil {
@@ -838,8 +782,8 @@ func TestBuildLayersCompleteBankCDCAndAmbientInteractionContext(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if len(record.Scenes) != 1 || record.Scenes[0].SourceKind != "ambient_interaction" || len(record.Scenes[0].Entries) != 2 || len(record.ReviewPackets) != 1 || record.ReviewPackets[0].EmbeddedMember != "ancthrbr.imd" || len(record.ReviewPackets[0].Context) != 2 || record.ReviewPackets[0].Context[0].Role != "target" || record.ReviewPackets[0].Context[1].Role != "room_entity_neighbor_after" {
-		t.Fatalf("ambient record review = scenes %#v packets %#v", record.Scenes, record.ReviewPackets)
+	if len(record.Scenes) != 1 || record.Scenes[0].SourceKind != "ambient_interaction" || len(record.Scenes[0].Entries) != 2 {
+		t.Fatalf("ambient record scene = %#v", record.Scenes)
 	}
 }
 
@@ -861,6 +805,75 @@ func TestBuildRejectsDuplicateMessageBanksAcrossRetailArchives(t *testing.T) {
 	_, err = cdccontext.Build(project, fixeddata.Terminology{}, []cdccontext.Archive{{Name: "pa", Pair: paPair}, {Name: "pami", Pair: pamiPair}}, cdccontext.Selector{Bank: -1, Record: 340008})
 	if err == nil || !strings.Contains(err.Error(), "duplicate message/msgsec034.dat") {
 		t.Fatalf("duplicate bank error = %v", err)
+	}
+}
+
+func TestBuildSelectsOneSceneByCanonicalIDOrUniqueAlias(t *testing.T) {
+	pair := openPair(t, []fixtureMember{
+		{name: "data/bindata.dat", payload: make([]byte, 0x4000)},
+		{name: "cdc/do/empty.cdc", payload: []byte("E")},
+		{name: "cdc/do/one.cdc", payload: []byte("C5:3+2+1350035;E")},
+		{name: "message/msgsec135.dat", payload: messageBankFixture(1, nil)},
+	})
+	defer pair.Close()
+	project, _, err := corpus.LoadProject("../..")
+	if err != nil {
+		t.Fatal(err)
+	}
+	index, err := cdccontext.BuildRetailIndex(oneArchive(pair))
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(index.Scenes) != 2 || index.Scenes[1].ID != "cdc/pa/cdc/do/one.cdc" {
+		t.Fatalf("canonical scene identity = %#v", index.Scenes)
+	}
+	catalogue, err := cdccontext.BuildFromRetailIndex(project, fixeddata.Terminology{}, index, cdccontext.Selector{Bank: -1, Record: -1, ListScenes: true})
+	if err != nil || len(catalogue.Scenes) != 1 || catalogue.Scenes[0].ID != "cdc/pa/cdc/do/one.cdc" || catalogue.Scenes[0].SourceKind == "message_bank" {
+		t.Fatalf("complete recovered-scene catalogue = %#v, %v", catalogue.Scenes, err)
+	}
+	for _, selector := range []string{"cdc/pa/cdc/do/one.cdc", "pa:cdc/do/one.cdc", "cdc/do/one.cdc"} {
+		result, err := cdccontext.BuildFromRetailIndex(project, fixeddata.Terminology{}, index, cdccontext.Selector{Bank: -1, Record: -1, Scene: selector})
+		if err != nil {
+			t.Fatalf("select %q: %v", selector, err)
+		}
+		if len(result.Scenes) != 1 || result.Scenes[0].ID != "cdc/pa/cdc/do/one.cdc" {
+			t.Fatalf("select %q returned %#v", selector, result.Scenes)
+		}
+	}
+
+	storage, err := cdccontext.BuildFromRetailIndex(project, fixeddata.Terminology{}, index, cdccontext.Selector{Bank: -1, Record: -1, Scene: "bank/135"})
+	if err != nil || len(storage.Scenes) != 1 || storage.Scenes[0].ID != "bank/135" {
+		t.Fatalf("storage scene result = %#v, %v", storage, err)
+	}
+	result, err := cdccontext.BuildFromRetailIndex(project, fixeddata.Terminology{}, index, cdccontext.Selector{Bank: -1, Record: -1, Scene: "no/such/scene"})
+	if err == nil || !strings.Contains(err.Error(), "unknown scene") || len(result.Scenes) != 0 {
+		t.Fatalf("unknown scene result = %#v, %v", result, err)
+	}
+}
+
+func TestBuildRejectsAmbiguousSceneAliasAndNonExclusiveSelector(t *testing.T) {
+	pa := openPair(t, []fixtureMember{
+		{name: "data/bindata.dat", payload: make([]byte, 0x4000)},
+		{name: "cdc/do/shared.cdc", payload: []byte("C5:3+2+1350035;E")},
+	})
+	defer pa.Close()
+	pami := openPair(t, []fixtureMember{{name: "cdc/do/shared.cdc", payload: []byte("C5:3+2+1350035;E")}})
+	defer pami.Close()
+	project, _, err := corpus.LoadProject("../..")
+	if err != nil {
+		t.Fatal(err)
+	}
+	index, err := cdccontext.BuildRetailIndex([]cdccontext.Archive{{Name: "pa", Pair: pa}, {Name: "pami", Pair: pami}})
+	if err != nil {
+		t.Fatal(err)
+	}
+	_, err = cdccontext.BuildFromRetailIndex(project, fixeddata.Terminology{}, index, cdccontext.Selector{Bank: -1, Record: -1, Scene: "cdc/do/shared.cdc"})
+	if err == nil || !strings.Contains(err.Error(), "ambiguous scene alias") {
+		t.Fatalf("ambiguous alias error = %v", err)
+	}
+	_, err = cdccontext.BuildFromRetailIndex(project, fixeddata.Terminology{}, index, cdccontext.Selector{Bank: 135, Record: -1, Scene: "cdc/pa/cdc/do/shared.cdc"})
+	if err == nil || !strings.Contains(err.Error(), "exactly one of bank, record, scene, or list scenes") {
+		t.Fatalf("non-exclusive selector error = %v", err)
 	}
 }
 

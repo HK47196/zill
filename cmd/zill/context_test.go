@@ -18,7 +18,7 @@ func TestContextRequiresOneValidSelector(t *testing.T) {
 		"two selectors":          {"--game-dir", "PSP_GAME", "--bank", "135", "--record", "1350035"},
 		"invalid bank":           {"--game-dir", "PSP_GAME", "--bank", "279"},
 		"invalid format":         {"--game-dir", "PSP_GAME", "--bank", "135", "--format", "yaml"},
-		"bank review":            {"--game-dir", "PSP_GAME", "--bank", "135", "--format", "review"},
+		"removed review format":  {"--game-dir", "PSP_GAME", "--bank", "135", "--format", "review"},
 	}
 	for name, arguments := range tests {
 		t.Run(name, func(t *testing.T) {
@@ -253,15 +253,5 @@ func TestContextTextRendersLogicalScenarioFamiliesInsteadOfFlatCandidates(t *tes
 	}
 	if strings.Contains(text, "Candidate:") {
 		t.Fatalf("output retained superseded flat scenario candidates:\n%s", text)
-	}
-	result.ReviewPackets = []cdccontext.ReviewPacket{{
-		SceneMember: "cdc/01/source01.cdc", SourceArchive: "pa", SourceKind: "cdc_program",
-		Ordering: "source_order_with_static_control_flow", EvidenceStatus: "static_consumer_reference",
-		TargetMessageID: 30021, References: result.Scenes[0].References,
-	}}
-	output.Reset()
-	writeReviewText(&output, result)
-	if !strings.Contains(output.String(), "Cross-program reference: C14 execution=runtime_dependent resolution=room_runtime_dependent room_table_selector=1000 possible_slots=2 authored_targets=853 rooms=853") {
-		t.Fatalf("review output omits room-table context:\n%s", output.String())
 	}
 }
