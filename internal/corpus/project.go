@@ -192,6 +192,54 @@ func (project *Project) Find(id int) (Item, bool) {
 	return project.Items[index], true
 }
 
+// WithEnglish returns an independent project snapshot with one nonempty
+// English translation replaced and its derived state updated.
+func (project *Project) WithEnglish(id int, english string) (*Project, error) {
+	if project == nil {
+		return nil, fmt.Errorf("translation update: nil project")
+	}
+	index, ok := project.byID[id]
+	if !ok {
+		return nil, fmt.Errorf("translation update: ID %d does not exist", id)
+	}
+	if english == "" {
+		return nil, fmt.Errorf("translation update: ID %d: english must be nonempty", id)
+	}
+	item := project.Items[index]
+	if err := validateEncodedText(item.Translation.File, id, "english", english); err != nil {
+		return nil, err
+	}
+	updated := &Project{Items: append([]Item(nil), project.Items...), byID: make(map[int]int, len(project.byID))}
+	for key, value := range project.byID {
+		updated.byID[key] = value
+	}
+	updated.Items[index].Translation.Text = english
+	updated.Items[index].Translation.Todo = false
+	updated.Items[index].Translation.State = Translated
+	return updated, nil
+}
+
+// RenderSection returns one canonical contributor message file from a loaded
+// project snapshot.
+func (project *Project) RenderSection(section int) ([]byte, error) {
+	if project == nil {
+		return nil, fmt.Errorf("render translation section: nil project")
+	}
+	if section < 0 || section >= sectionCount {
+		return nil, fmt.Errorf("render translation section: invalid section %03d", section)
+	}
+	rows := make([]Translation, 0)
+	for _, item := range project.Items {
+		if item.Translation.ID/10_000 == section {
+			rows = append(rows, item.Translation)
+		}
+	}
+	if len(rows) == 0 {
+		return nil, fmt.Errorf("render translation section: section %03d has no records", section)
+	}
+	return renderPairedFile(rows), nil
+}
+
 func readPairedFile(path string, section int) ([]Translation, error) {
 	data, err := os.ReadFile(path)
 	if err != nil {

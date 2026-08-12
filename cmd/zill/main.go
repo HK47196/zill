@@ -22,6 +22,7 @@ const usage = `Usage: zill <command> [options]
 Commands:
 	check             Validate contributor translation data
 	context           Find and review recovered dialogue scenes
+	edit-record       Inspect or patch one inline dialogue variant as JSON
 	search            Search IDs, Japanese, and English
 	show              Show one record and nearby context
 	ppsspp-debugger   Control a running PPSSPP instance through JSON Lines
@@ -50,6 +51,8 @@ func run(args []string, stdin io.Reader, stdout, stderr io.Writer) int {
 		return runCheck(root, stdout, stderr)
 	case "context":
 		return runContext(root, args[1:], stdout, stderr)
+	case "edit-record":
+		return runEditRecord(root, args[1:], stdin, stdout, stderr)
 	case "show":
 		return runShow(root, args[1:], stdout, stderr)
 	case "search":

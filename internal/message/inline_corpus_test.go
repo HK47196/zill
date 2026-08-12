@@ -37,7 +37,17 @@ func TestInlineControlAcceptsCanonicalMessageCorpus(t *testing.T) {
 				if source[controlIndex].Blocks[blockIndex].Role != translated[controlIndex].Blocks[blockIndex].Role || source[controlIndex].Blocks[blockIndex].Condition != translated[controlIndex].Blocks[blockIndex].Condition {
 					t.Fatalf("message %d English control %d block %d differs from Japanese source structure", item.Translation.ID, controlIndex, blockIndex)
 				}
+				if err := message.ValidateInlineBlock(item.Translation.ID, source[controlIndex].Blocks[blockIndex].Text, translated[controlIndex].Blocks[blockIndex].Text); err != nil {
+					t.Fatalf("message %d English control %d block %d: %v", item.Translation.ID, controlIndex, blockIndex, err)
+				}
 			}
+		}
+		rendered, err := message.RenderInlineControls(translated)
+		if err != nil {
+			t.Fatalf("message %d English render: %v", item.Translation.ID, err)
+		}
+		if rendered != item.Translation.Text {
+			t.Fatalf("message %d English inline controls did not round trip", item.Translation.ID)
 		}
 	}
 }

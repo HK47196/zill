@@ -58,3 +58,37 @@ func TestParseInlineControlsPreservesMixedConditionalAndSelectionGroups(t *testi
 		t.Fatalf("mixed controls = %#v", controls)
 	}
 }
+
+func TestInlineControlsRenderAfterOnePayloadChangeWithoutChangingStructure(t *testing.T) {
+	source := "<if><value:$33><less-equal>2conditional<end><select><value:$20>%2first<end>second<end>"
+	controls, err := ParseInlineControls(source)
+	if err != nil {
+		t.Fatal(err)
+	}
+	controls[1].Blocks[0].Text = "revised"
+	rendered, err := RenderInlineControls(controls)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if rendered != "<if><value:$33><less-equal>2conditional<end><select><value:$20>%2revised<end>second<end>" {
+		t.Fatalf("rendered controls = %q", rendered)
+	}
+	reparsed, err := ParseInlineControls(rendered)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if err := ValidateInlineStructure(controls, reparsed); err != nil {
+		t.Fatal(err)
+	}
+}
+
+func TestInlineBlockRejectsControlInjectionAndSubstitutionChanges(t *testing.T) {
+	for _, translated := range []string{"bad<end>", "missing substitution", "wrong <value:$29>", "half-width ｱ"} {
+		if err := ValidateInlineBlock(42, "source <value:$28>", translated); err == nil {
+			t.Fatalf("unsafe block %q was accepted", translated)
+		}
+	}
+	if err := ValidateInlineBlock(42, "source <value:$28>", "Safe <value:$28><line-break>text."); err != nil {
+		t.Fatalf("safe block rejected: %v", err)
+	}
+}

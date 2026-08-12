@@ -655,20 +655,11 @@ func sourceControls(japanese, english string) ([]SourceControl, error) {
 		}
 		return result, nil
 	}
-	if len(source) != len(translated) {
-		return nil, fmt.Errorf("English inline control differs from Japanese source structure")
+	if err := message.ValidateInlineStructure(source, translated); err != nil {
+		return nil, fmt.Errorf("English inline control differs from Japanese source structure: %w", err)
 	}
 	for index, control := range source {
 		translatedControl := translated[index]
-		if control.Kind != translatedControl.Kind || control.Selector != translatedControl.Selector || len(control.Blocks) != len(translatedControl.Blocks) {
-			return nil, fmt.Errorf("English inline control differs from Japanese source structure")
-		}
-		for blockIndex, block := range control.Blocks {
-			translatedBlock := translatedControl.Blocks[blockIndex]
-			if block.Role != translatedBlock.Role || block.Condition != translatedBlock.Condition {
-				return nil, fmt.Errorf("English inline control differs from Japanese source structure")
-			}
-		}
 		result[index] = joinedSourceControl(control, &translatedControl)
 	}
 	return result, nil

@@ -64,6 +64,49 @@ a compact one-line-per-scene format. Its first column is a stable ID accepted by
 `--scene`; storage-only message banks are intentionally excluded because they are
 containers rather than recovered dialogue scenes.
 
+For records with inline condition or selection variants, `edit-record` provides
+a JSON-only patch protocol intended for automated translation agents:
+
+```sh
+./zill edit-record inspect --record 30028
+./zill edit-record apply --patch variant-patch.json --dry-run
+./zill edit-record apply --patch variant-patch.json
+```
+
+`inspect` returns deterministic targets such as `controls/1/blocks/0`, the
+Japanese and English payload for each target, and SHA-256 hashes of the immutable
+source and complete current English. A patch supplies one target, replacement
+English, and both expected hashes. `apply` owns reconstruction of `<if>`,
+`<select>`, expressions, and `<end>` delimiters; it rejects stale hashes,
+structural changes, altered runtime substitutions, reserved control injection,
+or contributor validation failures. `--dry-run` performs the same checks without
+writing. Successful writes replace the canonical section file atomically.
+
+A complete stdin patch can be generated from inspection output and then edited:
+
+```sh
+./zill edit-record inspect --record 30028 |
+  jq '{schema_version, record_id,
+       target: .targets[1].path,
+       expected_source_hash: .source_hash,
+       expected_english_hash: .english_hash,
+       english: .targets[1].english}' > variant-patch.json
+./zill edit-record apply --patch variant-patch.json --dry-run
+```
+
+The patch decoder rejects unknown, duplicated, or incorrectly cased fields and
+trailing JSON values. Success is JSON on stdout with exit 0; invocation/schema
+errors are JSON on stderr with exit 2; stale, validation, lock, and I/O errors
+use exit 1. Real writes are serialized per message section. Do not modify that
+section concurrently with a noncooperating editor: portable filesystems provide
+atomic replacement but not compare-and-swap rename. Whole-record hashes and a
+final section comparison detect stale input outside that unavoidable final
+publication window.
+
+Single-leaf patches deliberately require an already translated controlled
+record. Blank controlled records need a future atomic multi-target operation so
+the tool cannot create a partially translated control structure.
+
 A message bank is treated as a storage container rather than a recovered scene.
 Bank listings report records which have only storage context, and record queries
 with no recovered occurrence show a bounded storage-order neighborhood explicitly
