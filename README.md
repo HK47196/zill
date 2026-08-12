@@ -50,8 +50,12 @@ are labeled explicitly. If no resolved static consumer references the query,
 `context` returns the complete message bank as a `message_bank` scene in storage order.
 That fallback is parsed from the retail bank, reports its first authored record
 and record byte offsets, and marks a `--record` target explicitly. It leaves branch
-topology, speakers, actor presence, and runtime reachability unresolved. It also
-supports machine-readable JSON:
+topology, speakers, actor presence, and runtime reachability unresolved. For all
+banks, record-local retail controls such as conditionals and selections are
+decoded into their source blocks without evaluating game state. Explicit reserve
+markers also select candidate rows in the statically identified event-title
+authoring table; exact label matches are reported separately from executable consumer
+evidence. The command also supports machine-readable JSON:
 
 ```sh
 ./zill context --game-dir /path/to/PSP_GAME --bank 135

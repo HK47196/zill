@@ -273,6 +273,7 @@ func TestBuildReturnsTheCompleteBankAsAStaticSceneWhenNoConsumerReferencesRecord
 		{name: "data/bindata.dat", payload: make([]byte, 0x4000)},
 		{name: "cdc/do/unrelated.cdc", payload: []byte("C5:3+2+1350035;E")},
 		{name: "message/msgsec034.dat", payload: messageBankFixture(73, map[int]int{8: 415})},
+		{name: "message/msgsec036.dat", payload: messageBankFixture(100, nil)},
 	})
 	defer pair.Close()
 	project, _, err := corpus.LoadProject("../..")
@@ -294,6 +295,13 @@ func TestBuildReturnsTheCompleteBankAsAStaticSceneWhenNoConsumerReferencesRecord
 	if scene.FirstRecordMessageID == nil || *scene.FirstRecordMessageID != 340000 || scene.FirstRecordJapanese != "旅立ち０７メッセージ<end>" {
 		t.Fatalf("bank first record = %#v", scene)
 	}
+	if len(scene.SourceEvidence) != 1 {
+		t.Fatalf("source evidence = %#v", scene.SourceEvidence)
+	}
+	evidence := scene.SourceEvidence[0]
+	if evidence.Kind != "scenario_reserve_marker" || evidence.Status != "source_authoring_candidate" || evidence.Confidence != "low" || evidence.EventNumber != 7 || evidence.MarkerLabel != "バーニン親子鷹" || evidence.RuntimeStatus != "unresolved" || len(evidence.MarkerMessageIDs) != 10 || len(evidence.Candidates) != 1 || evidence.Candidates[0].MessageID != 1940007 || evidence.Candidates[0].LabelMatch {
+		t.Fatalf("scenario evidence = %#v", evidence)
+	}
 	entries := scene.Entries
 	expected := 0
 	for _, item := range project.Items {
@@ -311,13 +319,29 @@ func TestBuildReturnsTheCompleteBankAsAStaticSceneWhenNoConsumerReferencesRecord
 			break
 		}
 	}
-	if target == nil || target.Kind != "bank_record" || target.Reachability != "unresolved" || target.English == "" || !target.Selected || target.Offset != 415 || target.OffsetBasis != "message_bank_byte_offset" {
+	if target == nil || target.Kind != "bank_record" || target.Reachability != "unresolved" || target.English == "" || !target.Selected || target.Offset != 415 || target.OffsetBasis != "message_bank_byte_offset" || target.SpeakerStatus != "" {
 		t.Fatalf("target fallback context = %#v", target)
+	}
+	conditional := entries[17]
+	if conditional.MessageID != 340017 || len(conditional.SourceControls) != 1 || conditional.SourceControls[0].Kind != "conditional" || conditional.SourceControls[0].Evidence != "retail_message_bytecode" || len(conditional.SourceControls[0].Blocks) != 2 || conditional.SourceControls[0].Blocks[0].Condition != "<value:$29><equal>%0" || conditional.SourceControls[0].Blocks[1].Role != "fallback" {
+		t.Fatalf("record-local source controls = %#v", conditional.SourceControls)
 	}
 	for _, entry := range entries {
 		if entry.MessageID != 340008 && entry.Selected {
 			t.Fatalf("non-target record was selected: %#v", entry)
 		}
+	}
+
+	exact, err := cdccontext.Build(project, fixeddata.Terminology{}, pair, cdccontext.Selector{Bank: -1, Record: 360001})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(exact.Scenes) != 1 || len(exact.Scenes[0].SourceEvidence) != 1 {
+		t.Fatalf("exact source evidence scenes = %#v", exact.Scenes)
+	}
+	exactEvidence := exact.Scenes[0].SourceEvidence[0]
+	if exactEvidence.Status != "source_authoring_match" || exactEvidence.Confidence != "high" || exactEvidence.EventNumber != 9 || len(exactEvidence.Candidates) != 1 || exactEvidence.Candidates[0].MessageID != 1940009 || !exactEvidence.Candidates[0].LabelMatch || exactEvidence.Basis != "reserve_marker_event_number_and_title" {
+		t.Fatalf("exact source evidence = %#v", exactEvidence)
 	}
 }
 

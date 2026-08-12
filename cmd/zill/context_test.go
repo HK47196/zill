@@ -46,6 +46,20 @@ func TestContextTextReportsUnreferencedBankAsAScene(t *testing.T) {
 			EvidenceStatus:       "no_resolved_static_consumer_reference",
 			FirstRecordMessageID: &labelID,
 			FirstRecordJapanese:  "旅立ち０７メッセージ<end>",
+			SourceEvidence: []cdccontext.SourceEvidence{{
+				Kind:             "scenario_reserve_marker",
+				Status:           "source_authoring_candidate",
+				Confidence:       "low",
+				RuntimeStatus:    "unresolved",
+				EventNumber:      7,
+				MarkerLabel:      "バーニン親子鷹",
+				MarkerMessageIDs: []int{340062, 340063},
+				Candidates: []cdccontext.SourceCandidate{{
+					MessageID: 1940007,
+					Japanese:  "Ｂｕｒｎｉｎ’！　親子鷹<end>",
+				}},
+				Basis: "reserve_marker_event_number",
+			}},
 			Entries: []cdccontext.Entry{{
 				Kind:         "bank_record",
 				MessageID:    340008,
@@ -55,6 +69,22 @@ func TestContextTextReportsUnreferencedBankAsAScene(t *testing.T) {
 				Reachability: "unresolved",
 				Japanese:     "そう言えばっ！<end>",
 				English:      "Oh, that reminds me!<end>",
+			}, {
+				Kind:         "bank_record",
+				MessageID:    340017,
+				Offset:       700,
+				OffsetBasis:  "message_bank_byte_offset",
+				Reachability: "unresolved",
+				Japanese:     "<if><value:$29><equal>%0息子<end>娘<end>",
+				English:      "<if><value:$29><equal>%0son<end>daughter<end>",
+				SourceControls: []cdccontext.SourceControl{{
+					Kind:     "conditional",
+					Evidence: "retail_message_bytecode",
+					Blocks: []cdccontext.SourceBlock{
+						{Position: 0, Role: "condition", Condition: "<value:$29><equal>%0", Japanese: "息子", English: "son"},
+						{Position: 1, Role: "fallback", Japanese: "娘", English: "daughter"},
+					},
+				}},
 			}},
 		}},
 	}
@@ -70,8 +100,13 @@ func TestContextTextReportsUnreferencedBankAsAScene(t *testing.T) {
 		"Ordering: storage_order_only",
 		"Evidence: no_resolved_static_consumer_reference",
 		"First record (340000): 旅立ち０７メッセージ<end>",
-		"Limitations: no resolved static consumer identifies branch topology, speakers, actor presence, or runtime reachability.",
+		"Source evidence: scenario_reserve_marker status=source_authoring_candidate confidence=low runtime=unresolved",
+		"Marker: event=7 label=バーニン親子鷹 records=[340062 340063]",
+		"Authoring candidate (1940007): Ｂｕｒｎｉｎ’！　親子鷹<end> label_match=false",
+		"Limitations: record-local controls and source-authoring candidates do not establish scene chronology, speakers, actor presence, or runtime reachability.",
 		"bank_record 340008 @415 offset=message_bank_byte_offset reachability=unresolved target=true",
+		"Record-local control 0: conditional evidence=retail_message_bytecode",
+		"Block 0: role=condition condition=<value:$29><equal>%0",
 	} {
 		if !strings.Contains(text, wanted) {
 			t.Fatalf("output does not contain %q:\n%s", wanted, text)

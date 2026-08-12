@@ -16,6 +16,7 @@ import (
 	"github.com/HK47196/zill/internal/fixeddata"
 	"github.com/HK47196/zill/internal/gamefmt/cdc"
 	"github.com/HK47196/zill/internal/gamefmt/paa"
+	"github.com/HK47196/zill/internal/message"
 )
 
 // Selector selects scenes by exactly one message bank or record.
@@ -36,15 +37,16 @@ type Result struct {
 // scenes; a message bank provides the lossless storage-order unit when no
 // static consumer references the query.
 type Scene struct {
-	Member               string      `json:"member"`
-	SourceKind           string      `json:"source_kind"`
-	Ordering             string      `json:"ordering"`
-	EvidenceStatus       string      `json:"evidence_status"`
-	FirstRecordMessageID *int        `json:"first_record_message_id,omitempty"`
-	FirstRecordJapanese  string      `json:"first_record_japanese,omitempty"`
-	FirstRecordEnglish   string      `json:"first_record_english,omitempty"`
-	Entries              []Entry     `json:"entries"`
-	References           []Reference `json:"references"`
+	Member               string           `json:"member"`
+	SourceKind           string           `json:"source_kind"`
+	Ordering             string           `json:"ordering"`
+	EvidenceStatus       string           `json:"evidence_status"`
+	SourceEvidence       []SourceEvidence `json:"source_evidence,omitempty"`
+	FirstRecordMessageID *int             `json:"first_record_message_id,omitempty"`
+	FirstRecordJapanese  string           `json:"first_record_japanese,omitempty"`
+	FirstRecordEnglish   string           `json:"first_record_english,omitempty"`
+	Entries              []Entry          `json:"entries"`
+	References           []Reference      `json:"references"`
 }
 
 // Entry is one authored message occurrence with its joined static flow state.
@@ -75,6 +77,7 @@ type Entry struct {
 	SpeakerJapanese            string             `json:"speaker_japanese,omitempty"`
 	SpeakerEnglish             string             `json:"speaker_english,omitempty"`
 	SpeakerSource              string             `json:"speaker_source,omitempty"`
+	SourceControls             []SourceControl    `json:"source_controls,omitempty"`
 	Actors                     []Actor            `json:"actors"`
 }
 
@@ -195,6 +198,12 @@ func Build(project *corpus.Project, terms fixeddata.Terminology, pair *paa.Pair,
 			result.Scenes = append(result.Scenes, scene)
 		}
 	}
+	if len(result.Scenes) > 0 {
+		evidence := sourceEvidence(project, bank)
+		for index := range result.Scenes {
+			result.Scenes[index].SourceEvidence = append([]SourceEvidence(nil), evidence...)
+		}
+	}
 	if len(result.Scenes) == 0 {
 		if bankMemberIndex < 0 {
 			return Result{}, fmt.Errorf("cdc context: archive is missing %s", bankMemberName)
@@ -225,6 +234,7 @@ func buildBankScene(project *corpus.Project, terms fixeddata.Terminology, member
 		EvidenceStatus: "no_resolved_static_consumer_reference",
 		Entries:        make([]Entry, 0, len(bank.Records)),
 		References:     make([]Reference, 0),
+		SourceEvidence: make([]SourceEvidence, 0),
 	}
 	expected := 0
 	for _, item := range project.Items {
@@ -240,19 +250,24 @@ func buildBankScene(project *corpus.Project, terms fixeddata.Terminology, member
 		if !ok {
 			return Scene{}, fmt.Errorf("cdc context: %s contains unknown record %d", member, record.ID)
 		}
+		controls, err := sourceControls(item.Translation.Japanese, item.Translation.Text)
+		if err != nil {
+			return Scene{}, fmt.Errorf("cdc context: message %d: %w", record.ID, err)
+		}
 		scene.Entries = append(scene.Entries, Entry{
-			Kind:         "bank_record",
-			MessageID:    record.ID,
-			Offset:       record.Offset,
-			OffsetBasis:  "message_bank_byte_offset",
-			Position:     record.Index,
-			Reachability: "unresolved",
-			Path:         make([]int, 0),
-			Japanese:     item.Translation.Japanese,
-			English:      item.Translation.Text,
-			State:        item.Translation.State,
-			Terminology:  applicableTerms(terms.Applicable(item)),
-			Actors:       make([]Actor, 0),
+			Kind:           "bank_record",
+			MessageID:      record.ID,
+			Offset:         record.Offset,
+			OffsetBasis:    "message_bank_byte_offset",
+			Position:       record.Index,
+			Reachability:   "unresolved",
+			Path:           make([]int, 0),
+			Japanese:       item.Translation.Japanese,
+			English:        item.Translation.Text,
+			State:          item.Translation.State,
+			Terminology:    applicableTerms(terms.Applicable(item)),
+			SourceControls: controls,
+			Actors:         make([]Actor, 0),
 		})
 	}
 	if len(scene.Entries) > 0 {
@@ -261,6 +276,7 @@ func buildBankScene(project *corpus.Project, terms fixeddata.Terminology, member
 		scene.FirstRecordJapanese = label.Japanese
 		scene.FirstRecordEnglish = label.English
 	}
+	scene.SourceEvidence = sourceEvidence(project, bank.Section)
 	return scene, nil
 }
 
@@ -407,7 +423,11 @@ func consumer(project *corpus.Project, terms fixeddata.Terminology, data []byte,
 		if !ok {
 			return nil, fmt.Errorf("%s@%d: message ID %d not in project", c.Name, offset, id)
 		}
-		e := Entry{Kind: kind, MessageID: id, Offset: offset, OffsetBasis: "cdc_program_byte_offset", Position: pos + i, Reachability: flow.reachability(), Path: append([]int{}, path...), Guard: guard, Depth: depth, Raw: c.Raw, Japanese: item.Translation.Japanese, English: item.Translation.Text, State: item.Translation.State, Terminology: applicableTerms(terms.Applicable(item)), Actors: actorList(project, data, flow.actors)}
+		controls, err := sourceControls(item.Translation.Japanese, item.Translation.Text)
+		if err != nil {
+			return nil, fmt.Errorf("message %d: %w", id, err)
+		}
+		e := Entry{Kind: kind, MessageID: id, Offset: offset, OffsetBasis: "cdc_program_byte_offset", Position: pos + i, Reachability: flow.reachability(), Path: append([]int{}, path...), Guard: guard, Depth: depth, Raw: c.Raw, Japanese: item.Translation.Japanese, English: item.Translation.Text, State: item.Translation.State, Terminology: applicableTerms(terms.Applicable(item)), SourceControls: controls, Actors: actorList(project, data, flow.actors)}
 		if kind == "dialogue_association" {
 			e.DisplayMode = intPointer(mode)
 			e.EntityAssociationHandleRaw = intPointer(handle)
@@ -427,6 +447,55 @@ func consumer(project *corpus.Project, terms fixeddata.Terminology, data []byte,
 		r = append(r, e)
 	}
 	return r, nil
+}
+
+func sourceControls(japanese, english string) ([]SourceControl, error) {
+	source, err := message.ParseInlineControls(japanese)
+	if err != nil || len(source) == 0 {
+		return nil, err
+	}
+	translated, err := message.ParseInlineControls(english)
+	if err != nil {
+		return nil, fmt.Errorf("English inline control: %w", err)
+	}
+	result := make([]SourceControl, len(source))
+	if len(translated) == 0 && english == "" {
+		for index, control := range source {
+			result[index] = joinedSourceControl(control, nil)
+		}
+		return result, nil
+	}
+	if len(source) != len(translated) {
+		return nil, fmt.Errorf("English inline control differs from Japanese source structure")
+	}
+	for index, control := range source {
+		translatedControl := translated[index]
+		if control.Kind != translatedControl.Kind || control.Selector != translatedControl.Selector || len(control.Blocks) != len(translatedControl.Blocks) {
+			return nil, fmt.Errorf("English inline control differs from Japanese source structure")
+		}
+		for blockIndex, block := range control.Blocks {
+			translatedBlock := translatedControl.Blocks[blockIndex]
+			if block.Role != translatedBlock.Role || block.Condition != translatedBlock.Condition {
+				return nil, fmt.Errorf("English inline control differs from Japanese source structure")
+			}
+		}
+		result[index] = joinedSourceControl(control, &translatedControl)
+	}
+	return result, nil
+}
+
+func joinedSourceControl(source message.InlineControl, translated *message.InlineControl) SourceControl {
+	result := SourceControl{Kind: source.Kind, Selector: source.Selector, Evidence: "retail_message_bytecode", Blocks: make([]SourceBlock, len(source.Blocks))}
+	if source.ExpectedBlocks != nil {
+		result.ExpectedBlocks = intPointer(*source.ExpectedBlocks)
+	}
+	for index, block := range source.Blocks {
+		result.Blocks[index] = SourceBlock{Position: block.Position, Role: block.Role, Condition: block.Condition, Japanese: block.Text}
+		if translated != nil {
+			result.Blocks[index].English = translated.Blocks[index].Text
+		}
+	}
+	return result
 }
 
 func intPointer(value int) *int {

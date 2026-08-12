@@ -176,8 +176,21 @@ func writeContextText(output io.Writer, result cdccontext.Result) {
 			}
 			fmt.Fprintln(output)
 		}
+		for _, evidence := range scene.SourceEvidence {
+			fmt.Fprintf(output, "  Source evidence: %s status=%s confidence=%s runtime=%s\n", evidence.Kind, evidence.Status, evidence.Confidence, evidence.RuntimeStatus)
+			fmt.Fprintf(output, "    Marker: event=%d label=%s records=%v\n", evidence.EventNumber, evidence.MarkerLabel, evidence.MarkerMessageIDs)
+			for _, candidate := range evidence.Candidates {
+				fmt.Fprintf(output, "    Authoring candidate (%d): %s", candidate.MessageID, candidate.Japanese)
+				if candidate.English != "" {
+					fmt.Fprintf(output, " / %s", candidate.English)
+				}
+				fmt.Fprintf(output, " label_match=%t", candidate.LabelMatch)
+				fmt.Fprintln(output)
+			}
+			fmt.Fprintf(output, "    Basis: %s\n", evidence.Basis)
+		}
 		if scene.SourceKind == "message_bank" {
-			fmt.Fprintln(output, "  Limitations: no resolved static consumer identifies branch topology, speakers, actor presence, or runtime reachability.")
+			fmt.Fprintln(output, "  Limitations: record-local controls and source-authoring candidates do not establish scene chronology, speakers, actor presence, or runtime reachability.")
 		}
 		writeContextEntries(output, scene.Entries)
 		if len(scene.References) > 0 {
@@ -204,6 +217,25 @@ func writeContextEntries(output io.Writer, entries []cdccontext.Entry) {
 		}
 		if entry.Guard != "" {
 			fmt.Fprintf(output, "    Enclosing blocks: %s\n", entry.Guard)
+		}
+		for controlIndex, control := range entry.SourceControls {
+			fmt.Fprintf(output, "    Record-local control %d: %s evidence=%s", controlIndex, control.Kind, control.Evidence)
+			if control.Selector != "" {
+				fmt.Fprintf(output, " selector=%s", control.Selector)
+			}
+			if control.ExpectedBlocks != nil {
+				fmt.Fprintf(output, " expected_blocks=%d", *control.ExpectedBlocks)
+			}
+			fmt.Fprintln(output)
+			for _, block := range control.Blocks {
+				fmt.Fprintf(output, "      Block %d: role=%s", block.Position, block.Role)
+				if block.Condition != "" {
+					fmt.Fprintf(output, " condition=%s", block.Condition)
+				}
+				fmt.Fprintln(output)
+				fmt.Fprintf(output, "        Japanese: %s\n", block.Japanese)
+				fmt.Fprintf(output, "        English: %s\n", block.English)
+			}
 		}
 		if entry.EntityAssociationHandleRaw != nil {
 			fmt.Fprintf(output, "    Association: handle=%d mode=%d resolution=%s", *entry.EntityAssociationHandleRaw, *entry.DisplayMode, entry.AssociationResolution)
