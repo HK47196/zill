@@ -10,7 +10,7 @@ english = "Yeah, I'm Ossi, master of this dojo. What can I do for you?<end>"
 
 ["1370002"]
 japanese = "なんだ。アイリーンを知ってるのか。<line-break>アイリーンは女だが、このあたりじゃ<line-break>かなう者がない剣の使い手だ。<line-break>アイリーンの父親は騎士でな。<line-break>アイリーンが男じゃなかったことを<line-break>くやしがってたよ。<end>"
-english = "Oh? You know Irene? She may be a woman, but no one around here can match her with a sword. Her father is a knight, you see. He always regretted that she wasn't born a boy.<end>"
+english = "Oh? You know Irene? She may be a woman, but no one around here can match her with a sword. Her father was a knight, you see. He always regretted that she wasn't born a boy.<end>"
 
 ["1370003"]
 japanese = "ロストールの法、竜綱では<line-break>女性は騎士になれないからな。\u3000\u3000\u3000<line-break>\u3000<line-break>それで、あいつは騎士になるため、<line-break>この国を出たわけだが…<line-break>あいつは元気だったかい？<end>"
@@ -1330,11 +1330,11 @@ english = "I'm relieved to see you safe. Your father, High Priest Dadias, is wai
 
 ["1370332"]
 japanese = "<select><value:$20>%3ロイ様ですか？<line-break>もう、広場か森に行かれたのでは？<end><value:$28>様もロイ様も<line-break>このミイスの村の大神官ダディアス様も、<line-break>神器の守護者と呼ばれるご一族。<line-break>闇の神器という危険な宝物を<line-break>破壊神の騎士と呼ばれる魔人どもから<line-break>守るのがお役目なのです。<end>今の地震といい、<line-break>最近うろつきだした魔物どもといい、<line-break>魔人が神器をねらっているのでしょうか？\u3000<line-break>しかし心配はご無用ですぞ。<line-break>きっと天空神ノトゥーンの加護があります。<line-break>このじいもついておりますしな。<end>"
-english = "<select><value:$20>%3Master Roy? Hasn't he already gone to the square or the forest?<end>You, <value:$28>, Master Roy, and Lord Dadias, High Priest of Miis Village, belong to the family known as the Guardians of the Divine Artifact. Your duty is to protect the dangerous treasure called the Dark Divine Artifact from the demons known as the Knights of the God of Destruction.<end>With that earthquake just now, and the monsters that have begun prowling about of late, could the demons be after the Divine Artifact? But you need not worry. The Sky God Notun will surely protect us―and this old soldier is with you as well.<end>"
+english = "<select><value:$20>%3Master Roy? Hasn't he already gone to the square or the forest?<end>You, <value:$28>, Master Roy, and Lord Dadias, High Priest of Miis Village, belong to the family known as the Guardians of the Divine Artifact. Your duty is to protect the dangerous treasure called the Dark Artifact from the demons known as the Knights of the God of Destruction.<end>With that earthquake just now, and the monsters that have begun prowling about of late, could the demons be after the Divine Artifact? But you need not worry. The Sky God Notun will surely protect us―and this old soldier is with you as well.<end>"
 
 ["1370333"]
 japanese = "<select><value:$20>%3神器とはどのようなものかは、<line-break>その時期が来れば、<line-break>お父上が教えてくださいますよ。\u3000\u3000<line-break>こればかりは神器を守る神官家にのみ<line-break>伝わる秘伝ですからな。<line-break>じいも存じませんのです。<end><value:$28>様もロイ様も<line-break>大神官ダディアス様も、<line-break>このミイスの村の神官家の方々はみな<line-break>闇の神器という危険な宝物を、<line-break>破壊神の騎士と呼ばれる魔人どもから<line-break>守る宿命を負っておられるのです。<end>今の地震といい、<line-break>最近うろつきだした魔物どもといい…、<line-break>魔人が神器をねらっているのでしょうか？\u3000<line-break>しかし心配はご無用ですぞ。<line-break>きっと天空神ノトゥーンの加護があります。<line-break>このじいもついておりますしな。<end>"
-english = "<select><value:$20>%3When the time comes, your father will tell you what the Divine Artifact is. That knowledge is a secret handed down only within the priestly family charged with guarding it. Even I do not know.<end>You, <value:$28>, Master Roy, High Priest Dadias, and all the members of Miis Village's priestly family are fated to protect the dangerous treasure called the Dark Divine Artifact from the demons known as the Knights of the God of Destruction.<end>With that earthquake just now, and the monsters that have begun prowling about of late... could the demons be after the Divine Artifact? But you need not worry. The Sky God Notun will surely protect us―and this old soldier is with you as well.<end>"
+english = "<select><value:$20>%3When the time comes, your father will tell you what the Divine Artifact is. That knowledge is a secret handed down only within the priestly family charged with guarding it. Even I do not know.<end>You, <value:$28>, Master Roy, High Priest Dadias, and all the members of Miis Village's priestly family are fated to protect the dangerous treasure called the Dark Artifact from the demons known as the Knights of the God of Destruction.<end>With that earthquake just now, and the monsters that have begun prowling about of late... could the demons be after the Divine Artifact? But you need not worry. The Sky God Notun will surely protect us―and this old soldier is with you as well.<end>"
 
 ["1370334"]
 japanese = "父なる天空神ノトゥーンと<line-break>愛の神ライラネートのご加護あらんことを。<line-break><value:$28>様、よくぞご無事で。<line-break>さ、早く神殿へ。<line-break>お父上のダディアス様が<line-break>心配なさっておられますよ。<end>"
@@ -1342,7 +1342,7 @@ english = "May Father Notun, the Sky God, and Lailanate, God of Love, watch over
 
 ["1370335"]
 japanese = "<select><value:$20>%3<value:$28>様に<line-break>愛の神ライラネートのご加護を…。<line-break>\u3000<line-break>そして、<value:$28>様の敵に<line-break>天空神ノトゥーンの<line-break>裁きのいかづちを…。<end>このミイスの村は<line-break>闇の神器を闇のしもべから<line-break>守るための隠れ里…。<line-break>闇の神器は破壊神の復活に使われるもの。<line-break>だから、破壊神のしもべがねらうのです。<end>私もこの神殿の神器が<line-break>どのようなものかは存じません。<line-break>\u3000<line-break>隠れて伝わる伝承では<line-break>記憶を失うかわりに<line-break>すさまじい力を手に入れられるとか…。<end>"
-english = "<select><value:$20>%3May Lailanate, God of Love, watch over you, <value:$28>... and may Notun, God of the Sky, strike <value:$28>'s enemies with the thunderbolt of judgment.<end>Miis Village is a hidden settlement meant to protect the Dark Divine Artifact from the servants of darkness. The artifact can be used to revive the God of Destruction. That is why the god's servants seek it.<end>Even I do not know what form the Divine Artifact in this temple takes. According to a secret legend, it grants tremendous power in exchange for one's memories...<end>"
+english = "<select><value:$20>%3May Lailanate, God of Love, watch over you, <value:$28>... and may Notun, the Sky God, strike the enemies of <value:$28> with the thunderbolt of judgment.<end>Miis Village is a hidden settlement meant to protect the Dark Artifact from the servants of darkness. The artifact can be used to revive the God of Destruction. That is why those servants seek it.<end>Even I do not know what form the Divine Artifact in this temple takes. According to a secret legend, it grants tremendous power in exchange for one's memories...<end>"
 
 ["1370336"]
 japanese = "…アンティノ商会が極秘開発中の<line-break>戦闘用モンスター…デスギガース。<line-break>…やはり、そういうことか。<end>"
@@ -2910,7 +2910,7 @@ english = "Oh... So you were listening at the inn. Not that I cared or anything.
 
 ["1370727"]
 japanese = "ところで、<line-break>さっきオッシ先生が呼んでたわよ。<line-break>\u3000<line-break>例のゴブリンの居場所が<line-break>わかったんですって。<end>"
-english = "Anyway, Master Ossi was asking for you earlier. Apparently, that goblin's location is known now.<end>"
+english = "Anyway, Master Ossi was asking for you earlier. Apparently, they've found where that goblin is.<end>"
 
 ["1370728"]
 japanese = "とにかく先生の道場に<line-break>早く向かってあげて。<end>"

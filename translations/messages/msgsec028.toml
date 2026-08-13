@@ -330,7 +330,7 @@ english = "My blazing eyes... never miss a single spark of evil!<end>"
 
 ["280082"]
 japanese = "ヴァンは僕が看てる。<line-break><value:$28>は<line-break>道具屋で薬草を買ってきて。<end>"
-english = "I'll look after Van. <value:$28>, go buy a Medicinal Herb at the supply shop.<end>"
+english = "I'll look after Van. <value:$28>, go buy a Medicinal Herb at the item shop.<end>"
 
 ["280083"]
 japanese = "ああ、<value:$28>。<line-break>宿屋のヴァンが<line-break>大変なことになったんだって？<line-break>代金はいいから、<line-break>早くこの薬草を<line-break>持っていってやれ。<end>"
@@ -646,7 +646,7 @@ english = "<select><value:$20>%3Stop putting weird ideas in my sister's head! I'
 
 ["280161"]
 japanese = "<select><value:$20>%3お前もナッジも孤児だ。<line-break>だからまあ、気に入らないことも<line-break>多いんだろう。<line-break>お前たちが厄介なことをするのも<line-break>お前たちが悪いんじゃない。<line-break>うんうん、私にはわかってるよ。<end>お前もナッジも孤児だ。<line-break>だからまあ、気に入らないことも\u3000\u3000<line-break>多いんだろう。<line-break>しかも、ナッジときた日には、<line-break>人間じゃない、コーンスだ。<line-break>素直になれんのも仕方ないか。<end>しょうがないのかもしれんが、<line-break>そんなに神官様や宿屋のご亭主に<line-break>反発しなくてもいいんじゃないかね？<line-break>奥に住んでるボンガ夫婦にしか<line-break>心を開かないんじゃ、<line-break>よくないよ。<end>"
-english = "<select><value:$20>%3You and Nadge are both orphans. I suppose there must be plenty you're unhappy about. It isn't your fault that the two of you keep causing trouble. Yes, yes, I understand.<end>You and Nadge are both orphans. I suppose there must be plenty you're unhappy about. And Nadge isn't even human―he's Konsu. I suppose it's only natural that he can't be more open about things.<end>Maybe it can't be helped, but do you really need to defy the priest and the innkeeper at every turn? It isn't good to shut everyone out except Bonga and his wife, off at the far end of town.<end>"
+english = "<select><value:$20>%3You and Nadge are both orphans. I suppose there must be plenty you're unhappy about. It isn't your fault that the two of you keep causing trouble. Yes, yes, I understand.<end>You and Nadge are both orphans. I suppose there must be plenty you're unhappy about. And Nadge isn't even human―he's a Konsu. I suppose it's only natural that he can't be more open about things.<end>Maybe it can't be helped, but do you really need to defy the priest and the innkeeper at every turn? It isn't good to shut everyone out except Bonga and his wife, off at the far end of town.<end>"
 
 ["280162"]
 japanese = "<select><value:$20>%4教会で食い物をくすねてたの、<line-break>神官様はあんたらだって言ってたけど、<line-break>あれ、ピクシーの仕業だったんだろ？<line-break>あたしゃ知ってるよ。<line-break>あんたらがそのピクシーを<line-break>街から追い出してくれたってことをさ。<end>教会で食い物をくすねてたの、<line-break>神官様はあんたらだって言ってたけど、\u3000<line-break>あれ、ピクシーの仕業だったんだろ？<line-break>なんで、ちゃんと言いわけしないかねえ。<line-break>そんなんだから、<line-break>厄介者あつかいされるのさ。<end>あたしゃ知ってるよ。<line-break>あんたはちゃんとした子だって。<line-break>ちゃんと街で暮らせばいいのに。\u3000\u3000<line-break>一緒にいるコーンスの子は<line-break>ムリかもしれないけど、<line-break>あんたはちゃんとした人間なんだし。<end>あたしゃ知ってるよ。<line-break>宿屋で女魔道士の着替えのぞいてたの\u3000\u3000<line-break>あんたらじゃないんだろ？<line-break>なんで、ちゃんと言いわけしないかねえ。<line-break>そんなんだから、<line-break>厄介者あつかいされるのさ。<end>"
@@ -706,7 +706,7 @@ english = "<select><value:$20>%3What? You put in five, not three?! That's not th
 
 ["280176"]
 japanese = "やはりロクでもないことを\u3000\u3000<line-break>してくれたな！！<line-break>このばちあたりどもが！<line-break>おお、天空神ノトゥーンよ、<line-break>戒めと裁きの神ノトゥーンよ、<line-break>罪深き少年たちに罰を…。<end>"
-english = "Just as I thought―you've gone and done something terrible! You impious wretches! O Notun, God of the Skies, Notun, God of Admonition and Judgment, punish these sinful boys...<end>"
+english = "Just as I thought―you've gone and done something terrible! You impious wretches! O Notun, Sky God, Notun, God of Admonition and Judgment, punish these sinful boys...<end>"
 
 ["280177"]
 japanese = "<select><value:$20>%3おい、イタズラもほどほどにしろよ。<line-break>それでなくてもここの神官は<line-break>ガミガミ屋なんだからさ。<end>あんまり神官様を刺激するなよ。<line-break>昨日の大地震でいろいろ壊れて、<line-break>おかんむりなんだからさ。<end>ヴァンがあれほど悪さしてても、<line-break>ヴァンのご両親は気づかないんだからな。<line-break>親バカってホントこわいよ。<end>"
@@ -730,7 +730,7 @@ english = "<select><value:$20>%3...You haven't put anything down my back, have y
 
 ["280182"]
 japanese = "おお、天空神ノトゥーンよ、<line-break>戒めと裁きの神ノトゥーンよ、<line-break>罪深き少年たちに罰を…。<end>"
-english = "O Notun, God of the Skies, Notun, God of Admonition and Judgment, punish these sinful boys...<end>"
+english = "O Notun, Sky God, Notun, God of Admonition and Judgment, punish these sinful boys...<end>"
 
 ["280183"]
 japanese = "<select><value:$20>%3おお、<value:$28>か。<line-break>お前の連れのヴァン公に言っときな。<line-break>うちにゃガキに飲ます酒はねえとよ。<end>おお、<value:$28>か。<line-break>お前さんにはいずれ、俺特製の<line-break>スペシャルティーを飲ましてやるぜ。<end>今日、うちに変な客が来てさ。<line-break>俺様は未来の勇者だとか、<line-break>密書の件は失敗じゃないとか荒れてたよ。<line-break>何かとあんたらは<line-break>やっかいばかり起こすからな。<line-break>あんな奴と関わるんじゃねえぞ！<end>"

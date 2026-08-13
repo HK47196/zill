@@ -1058,7 +1058,7 @@ english = "Still, <value:$28> has it rough too.<end>"
 
 ["1420264"]
 japanese = "騒動がおさまっても、<line-break>結局なんだかんだ抱え込む定めを<line-break>まぬがれないようだ。<end>"
-english = "Even with all the trouble over, it seems there's no escaping a fate of taking one burden after another on.<end>"
+english = "Even with all the trouble over, it seems you're destined to go on shouldering one burden after another.<end>"
 
 ["1420265"]
 japanese = "あっ、みなさん、わかりましたよ！<line-break> <line-break> <line-break>時計の針って、<line-break><value:$28>様のことなんですね！<line-break>きゃ！<end>"
@@ -1758,7 +1758,7 @@ english = "It'll be all right. It's a world with that child in it, a world those
 
 ["1420439"]
 japanese = "幾千万の意思がその幸せを祈る<line-break>新しい時代なんですもの…。<end>"
-english = "It will be a new age, with tens of millions of wills praying for its happiness...<end>"
+english = "It will be a new age, with tens of millions of wills praying for those children's happiness...<end>"
 
 ["1420440"]
 japanese = "追加メッセージここから<end>"
@@ -1966,7 +1966,7 @@ english = "Ceryneia has been doing a fine job looking after two demanding cats. 
 
 ["1420491"]
 japanese = "昔の仲間の気配があるんだよな。<line-break>エンシャントから漂ってくる。<line-break>気をつけた方がいいぜ。<line-break>あそこで何者かが<line-break>なんかやろうとしてやがる。<line-break>ま、ただの俺のカンだけどよ。<end>"
-english = "I sense a familiar presence from my old comrades. It's drifting from Ancient. You'd better be careful. Someone over there is up to something. Well, that's just my gut talking.<end>"
+english = "I sense the presence of an old comrade drifting from Ancient. You'd better be careful. Someone over there is up to something. Well, that's just my gut talking.<end>"
 
 ["1420492"]
 japanese = "<select><value:$20>%2でも、また…、<line-break>いつ闇に飲まれるかわからない。<line-break>今度もマゴスに<line-break>支配されずにいられるかわからない…。<line-break>私、こわい…。<end>もう…限界かも知れない。<line-break> <line-break> <line-break>それに<line-break>これ以上、みんなに迷惑…<line-break>かけられない…。<end>"

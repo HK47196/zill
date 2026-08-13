@@ -230,7 +230,7 @@ english = "Oh, was I the one who told you? You have a good memory. Yes, Master O
 
 ["980057"]
 japanese = "こんなこと、<line-break>先生には言ったことないけど、<line-break>先生に学べて光栄に思っているわ。\u3000<line-break>あなたも機会があったら<line-break>一度会ってみるといいんじゃない？<line-break>ロストールではちょっとした有名人よ。<end>"
-english = "I've never said this to Master Ossi, but I'm honored to have been a student. If you ever get the chance, you should meet my teacher. Master Ossi is something of a celebrity in Rostorl.<end>"
+english = "I've never told Master Ossi this, but I'm honored to be his student. If you ever get the chance, you should meet him. He's something of a celebrity in Rostorl.<end>"
 
 ["980058"]
 japanese = "<select><value:$20>%3それじゃあね、<value:$28>。<line-break>例のゴブリンを見かけたら、教えてね。<end>それじゃあね、<value:$28>。<line-break>あなたも気をつけるのよ。<end>それじゃあね、<value:$28>。<line-break>聖杯のことを聞いたら教えてね。<end>"
@@ -274,11 +274,11 @@ english = "Heh... Sorry. I'm not explaining this very well, am I?<end>"
 
 ["980068"]
 japanese = "私の方は、残念だけど、<line-break>まだ聖杯を取り戻せていないわ。<line-break>\u3000<line-break>これじゃあ、騎士になる以前に、<line-break>先生に顔向けもできない…。\u3000\u3000<end>"
-english = "I'm afraid I still haven't recovered the Grail. Forget becoming a knight―I can't even face Master like this...<end>"
+english = "I'm afraid I still haven't recovered the Grail. Forget becoming a knight―I can't even face my teacher like this...<end>"
 
 ["980069"]
 japanese = "先生、とても強いんだけど、<line-break>右腕のケガが悪くてね。<line-break>時々、無理をするから心配なのよ。<line-break>先生は話してくれないんだけど、<line-break>そのケガ、闇討ちでやられたんだって<line-break>聞いているわ。許せない話よね。<end>"
-english = "Master is very strong, but the injury to the right arm is serious. Sometimes Master pushes too hard, and I worry. Master won't discuss it with me, but I heard the injury was inflicted in a sneak attack. It's unforgivable, isn't it?<end>"
+english = "My teacher is very strong, but his right arm is badly injured. Sometimes he pushes himself too hard, and I worry. He won't discuss it with me, but I heard the injury was inflicted in a sneak attack. It's unforgivable, isn't it?<end>"
 
 ["980070"]
 japanese = "…その、闇討ちをした奴って、<line-break>今どこで何をしてるのかなあ？<end>"
@@ -286,7 +286,7 @@ english = "...I wonder where the person who carried out that sneak attack is now
 
 ["980071"]
 japanese = "え？\u3000ふふ、いやねえ。<line-break>敵討ちとかなんて考えていないわよ。<line-break>たぶん先生も、望んでないわ。<line-break>そんなことより、もっと剣の腕を磨いて<line-break>早く騎士にならないとね。<end>"
-english = "What? Heh, don't be silly. I'm not thinking about revenge. Master probably wouldn't want that either. I need to focus on honing my swordsmanship and becoming a knight as soon as I can.<end>"
+english = "What? Heh, don't be silly. I'm not thinking about revenge. He probably wouldn't want that either. I need to focus on honing my swordsmanship and becoming a knight as soon as I can.<end>"
 
 ["980072"]
 japanese = "<if><value:$3D><equal>4あなたと一緒にいる<line-break>ユーリスってホントにヘンな子ね。<line-break>\u3000<line-break>騎士になるって、他の人のために<line-break>剣を振るんですね、スゴイ！\u3000だって。<line-break>くすっ。わけわからないわ。<end><if><value:$3D><equal>5あ、さっき、ヴァンに<line-break>いきなりダジャレを言われて<line-break>凍え死にそうだったわ。<line-break>あのダジャレ魔人、<line-break>本当になんとかしてよ。<line-break>彼のシャレ、寒すぎるのよ！<end><if><value:$3D><equal>6あのエステルって<line-break>妙に人なつっこいヘンな子、<line-break>あなたの連れだったわよね？<line-break>どう見ても大したことなさそうなのに<line-break>なんか、ふしぎな魔力みたいのを<line-break>感じるのよねえ。<end><if><value:$3D><equal>12あなたがうらやましいわ。<line-break>あの剣狼のゼネテスと一緒に<line-break>旅ができるなんて。<line-break>町の門のところで彼を見かけたの。<line-break>一見、だらしなさそうだったけど、<line-break>まったくスキがなかったわ…。<end><if><value:$3D><equal>13あなたって、確かにセラに比べたら<line-break>強くないんでしょうけど<line-break>彼より、よっぽど好感が持てるわ。<line-break>さっきだって…！<line-break>ホントにセラって失礼ね。<end><if><value:$3D><equal>10そうそう、あなたの弟にあったわ。<line-break>ふふ。<line-break>ホントにお姉ちゃん子ね。<line-break>…また、ちょっと<line-break>あいつのこと思い出しちゃった。<end><if><value:$3D><equal>14ねえ、聞いて。<line-break>さっき当代一の名工といわれる<line-break>あのデルガドを見かけたのよ。<line-break>私もがんばって、<line-break>彼の作った剣を持つような<line-break>立派な騎士になりたいな。<end><if><value:$3D><equal>15あのナッジっていう<line-break>コーンスの男の子<line-break>あなたの連れでしょう？<line-break>むこうでフラフラしてたわ。<line-break>気をつけないと悪い冒険者に<line-break>彼、襲われちゃうわよ。<end><if><value:$3D><equal>17あなたのパーティの生意気エルフ<line-break>あいかわらずね！<line-break><line-break>なーにが高貴なエルフよ。<line-break>なーにが１６００年生きているよ。<line-break>ホント気に入らないわ！<end><if><value:$3D><equal>18あ、さっき、ボゲーに<line-break>いきなりダジャレを言われて<line-break>脱力しちゃったわ。<line-break>あのダジャレボルダン、<line-break>本当になんとかしてよ。<end><if><value:$3D><equal>19さっき、ルルアンタにあったの。<line-break>彼女のほほえみを見てたら、<line-break>悩んでた気持ちがラクになって…。<line-break>リルビーって<line-break>ホント不思議な種族よね。<end>禁断の聖杯は、<line-break>まだ取り戻せていないわ。<line-break>がんばらなくちゃね。<line-break>聖杯を取り戻さないことには<line-break>みっともなくて<line-break>ロストールに帰れないもの。<end>"
@@ -374,11 +374,11 @@ english = "At that moment, I suddenly remembered locking my friend in the storeh
 
 ["980093"]
 japanese = "守ってやれなかった…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>もう少し、力があれば<line-break>守ってやれたのに…。<end>"
-english = "I couldn't protect my friend... If I'd only been a little stronger, I could have...<end>"
+english = "I couldn't protect my friend... If I'd only been a little stronger, I could have protected my friend...<end>"
 
 ["980094"]
 japanese = "守りたかった…。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>…ごめんね。<line-break>変なこと、しゃべったね。<end>"
-english = "I wanted to... I'm sorry. That was a strange thing to tell you.<end>"
+english = "I wanted to protect my friend... I'm sorry. That was a strange thing to tell you.<end>"
 
 ["980095"]
 japanese = "あーあ、まだグズグズ言ってる。<line-break>私、ダメね。自己嫌悪しちゃう。\u3000<line-break>\u3000<line-break>ホント、ゴメンね。<line-break>あなたってそいつに似てるから<line-break>つい、甘えちゃうのかもしれない。<end>"

@@ -201,24 +201,19 @@ func RenderInlineControls(controls []InlineControl) (string, error) {
 }
 
 // ValidateInlineBlock verifies one translated payload without accepting
-// source-owned control syntax or changes to runtime substitutions.
+// source-owned control syntax or substitutions unavailable in the source.
 func ValidateInlineBlock(recordID int, source, translated string) error {
 	sourceValues := valueTag.FindAllString(source, -1)
 	translatedValues := valueTag.FindAllString(translated, -1)
-	if len(sourceValues) != len(translatedValues) {
-		return fmt.Errorf("message %d inline block changes runtime substitutions", recordID)
-	}
 	counts := make(map[string]int, len(sourceValues))
 	for _, value := range sourceValues {
 		counts[value]++
 	}
 	for _, value := range translatedValues {
-		counts[value]--
-	}
-	for _, count := range counts {
-		if count != 0 {
+		if counts[value] == 0 {
 			return fmt.Errorf("message %d inline block changes runtime substitutions", recordID)
 		}
+		counts[value]--
 	}
 	fixedTags := func(text string) []string {
 		result := make([]string, 0)

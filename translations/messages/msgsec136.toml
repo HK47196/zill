@@ -10,7 +10,7 @@ english = "The Evil Dragon Elazar drove the world to the brink of destruction ce
 
 ["1360002"]
 japanese = "知ってる？<line-break>ホントにこいつを倒したのは別の人間。<line-break>忘れられたかわいそうな剣士。<line-break>彼は強大な力を与える代わりに<line-break>世界から存在を忘却の彼方に消し去る<line-break>闇の神器、虚無の剣を抜いたのさ。<end>"
-english = "Did you know? It was actually defeated by someone else―a poor swordsman who was forgotten. He drew the Sword of the Void, a dark artifact that grants immense power in exchange for erasing its wielder's very existence from the world.<end>"
+english = "Did you know? It was actually defeated by someone else―a poor swordsman who was forgotten. He drew the Sword of the Void, a Dark Artifact that grants immense power in exchange for erasing its wielder's very existence from the world.<end>"
 
 ["1360003"]
 japanese = "忘れられた剣士ミラクの<line-break>失われた伝承など知っている俺を、<line-break>誰だと思っている？<end>"
@@ -106,11 +106,11 @@ english = "Because that very seal was the root of it all. It gave Balor immortal
 
 ["1360026"]
 japanese = "だけど、考えてもごらんよ。<line-break>君らの貧弱な魔力じゃ、とうてい<line-break>イズの封印を解けるはずもない。<line-break>…でも、ひとつだけ手はあったんだ。<line-break>闇の神器の力を借りるって奥の手がね。<end>"
-english = "But think about it. With your feeble magic, you could never have broken Iz's seal. There was one way, though: a last resort. You could borrow the power of an Artifact of Darkness.<end>"
+english = "But think about it. With your feeble magic, you could never have broken Iz's seal. There was one way, though: a last resort. You could borrow the power of a Dark Artifact.<end>"
 
 ["1360027"]
 japanese = "あいつは言った。…この虚無の剣を<line-break>大いなるソウルを持つ自分が抜けば<line-break>自分の存在は忘却の彼方へ消え去る。<line-break>だけど大いなるソウルと闇の神器の力で<line-break>この封印を断つことができる。<line-break>自分が好きな世界を救えるんだ、と。<end>"
-english = "That's what was said: “If I, the bearer of the great Soul, draw this Sword of the Void, my existence will vanish beyond all memory. But with the power of the great Soul and the Artifact of Darkness, I can cut through this seal. I can save the world I love.”<end>"
+english = "That's what was said: “If I, the bearer of the great Soul, draw this Sword of the Void, my existence will vanish beyond all memory. But with the power of the great Soul and the Dark Artifact, I can cut through this seal. I can save the world I love.”<end>"
 
 ["1360028"]
 japanese = "君は止めたよね？<line-break>だけど、普段生きることの大切さを<line-break>偉そうに説いてたゼネテスは…。<end>"
@@ -146,7 +146,7 @@ english = "But Elfas's curse is slowly dragging you into the jaws of death. What
 
 ["1360036"]
 japanese = "君の願いをかなえる答えはひとつだけ。<line-break>ヒントは、闇の神器、虚無の剣。<line-break>僕は知ってる、あれは確実だ。<end>"
-english = "There's only one answer that can grant your wish. Here's a hint: the Artifact of Darkness, the Sword of the Void. I know it will work. Without fail.<end>"
+english = "There's only one answer that can grant your wish. Here's a hint: the Dark Artifact, the Sword of the Void. I know it will work. Without fail.<end>"
 
 ["1360037"]
 japanese = "使用者のソウルが大きすぎた失敗例が<line-break>たった２件だけあるけど、<line-break>君程度の小悪党ならだいじょうぶ。<end>"
@@ -170,7 +170,7 @@ english = "The one you mean already left.<end>"
 
 ["1360042"]
 japanese = "なるほど…闇の神器を使って<line-break>逆に封印をほどこしておったか。<end>"
-english = "I see... You used an Artifact of Darkness to place a seal on it instead.<end>"
+english = "I see... You used a Dark Artifact to place a seal on it instead.<end>"
 
 ["1360043"]
 japanese = "開け放つものである私の力が満ちても<line-break>ウルグ様復活の門が開かないのも道理だ。<line-break>しかし…いつの間に？<end>"
@@ -270,7 +270,7 @@ english = "<value:$28> obtained the Sword of the Void.<end>"
 
 ["1360067"]
 japanese = "そうよ、たぶんそれよ。<line-break>ええと…、闇の神器…の…剣。<line-break>その探索でここに来たのよ。<end>"
-english = "Yes, that must be it. Um... the sword... one of the Artifacts of Darkness. We came here looking for it.<end>"
+english = "Yes, that must be it. Um... the sword... one of the Dark Artifacts. We came here looking for it.<end>"
 
 ["1360068"]
 japanese = "じゃ、旅を続けよっか。<line-break>お兄ちゃん！<end>"
@@ -1502,7 +1502,7 @@ english = "I... No, it is nothing.<end>"
 
 ["1360375"]
 japanese = "束縛の腕輪は、闇の神器です。<line-break> <line-break> <line-break>そのような危険なものなのに、<line-break>あなたはなぜそれを<line-break>手放そうとしないのですか？<end>"
-english = "The Bracelet of Binding is a divine artifact of darkness. If it is so dangerous, why do you refuse to relinquish it?<end>"
+english = "The Bracelet of Binding is a Dark Artifact. If it is so dangerous, why do you refuse to relinquish it?<end>"
 
 ["1360376"]
 japanese = "私の命のため？<line-break>無価値な、私の命の…？<line-break> <line-break>………………。<end>"
@@ -1518,7 +1518,7 @@ english = "What's this...? Has the trembling stopped?<end>"
 
 ["1360379"]
 japanese = "それは…束縛の腕輪。<line-break>私の命をこの世に縛り付ける、<line-break>闇の神器…。<end>"
-english = "That is... the Bracelet of Binding. A divine artifact of darkness that binds my life to this world...<end>"
+english = "That is... the Bracelet of Binding. A Dark Artifact that binds my life to this world...<end>"
 
 ["1360380"]
 japanese = "それを手にして、<line-break>私の前に現れたのは、<line-break>どういう理由からなのですか？<line-break>…亡き長老の代わりに、あなたが私を<line-break>束縛しようというのですか？<end>"
@@ -2490,7 +2490,7 @@ english = "All this is merely to buy time until Lord Balor is fully restored.<en
 
 ["1360622"]
 japanese = "しかし、無茶をするものだな、ネメア。<line-break>闇の神器・破滅の槍の力を解放するとは<line-break>余人なら闇に飲まれておるところよ。<line-break>賞賛に値するぞ、その強靱な精神。<end>"
-english = "Still, that was reckless, Nemea. Anyone else who unleashed the power of the dark artifact, the Spear of Ruin, would have been swallowed by darkness. That indomitable will deserves praise.<end>"
+english = "Still, that was reckless, Nemea. Anyone else who unleashed the power of the Dark Artifact, the Spear of Ruin, would have been swallowed by darkness. That indomitable will deserves praise.<end>"
 
 ["1360623"]
 japanese = "ゾフォルよ。<line-break>お前の予言が、私の運命を示し、<line-break>私は、その運命と戦ってきた。<end>"
@@ -2558,7 +2558,7 @@ english = "All this is merely to buy time while the Princess of Darkness heals h
 
 ["1360639"]
 japanese = "しかし、無茶をするものだな、ネメア。<line-break>闇の神器・破滅の槍の力を解放するとは<line-break>余人なら闇に飲まれておるところよ。<line-break>いかに神となったとはいえ<line-break>エルファスもあれにはかなわぬ。<line-break>賞賛するぞ、その強靱な精神。<end>"
-english = "Still, that was reckless, Nemea. Anyone else who unleashed the power of the dark artifact, the Spear of Ruin, would have been swallowed by darkness. Even though Elfas has become a god, he is no match for it. I commend your indomitable will.<end>"
+english = "Still, that was reckless, Nemea. Anyone else who unleashed the power of the Dark Artifact, the Spear of Ruin, would have been swallowed by darkness. Even though Elfas has become a god, he is no match for it. I commend your indomitable will.<end>"
 
 ["1360640"]
 japanese = "紹介しよう。<line-break>エンシャントの新皇帝<line-break>ザギヴ・ディンガルだ。<line-break>ディンガル家の正統な後継者であり、<line-break>強大な闇の力を身中に宿しておる。<line-break>闇の世を治めるにふさわしき皇帝よ。<end>"
@@ -2654,7 +2654,7 @@ english = "All this is merely to buy time while the Princess of Darkness heals h
 
 ["1360663"]
 japanese = "しかし、無茶をするものだな、ネメア。<line-break>闇の神器・破滅の槍の力を解放するとは<line-break>余人なら闇に飲まれておるところよ。<line-break>いかに神となったとはいえ<line-break>エルファスもあれにはかなわぬ。<line-break>賞賛するぞ、その強靱な精神。<end>"
-english = "Still, that was reckless, Nemea. Anyone else who unleashed the power of the dark artifact, the Spear of Ruin, would have been swallowed by darkness. Even though Elfas has become a god, he is no match for it. I commend your indomitable will.<end>"
+english = "Still, that was reckless, Nemea. Anyone else who unleashed the power of the Dark Artifact, the Spear of Ruin, would have been swallowed by darkness. Even though Elfas has become a god, he is no match for it. I commend your indomitable will.<end>"
 
 ["1360664"]
 japanese = "ゾフォルよ。<line-break>お前の予言が、私の運命を示し、<line-break>私は、その運命と戦ってきた。<end>"
@@ -2730,7 +2730,7 @@ english = "…I have descended once more. Destruction upon every living thing…
 
 ["1360682"]
 japanese = "おー、さすがは伝説の魔王だね。<line-break>風格があるよ。頼もしいーっ！<line-break>\u3000<line-break>闇の王女・ティアナ、<line-break>魔王バロルに仕える神聖なる闇の巫女よ<line-break>彼ならきっと君の願いを救えるよ。<line-break>さあ、そのかわいい唇で告げて？<line-break>君は、何を、望むの？<end>"
-english = "Oh, just what you'd expect from a legendary Demon King. So imposing! So reassuring! Tiana, Princess of Darkness, sacred priestess of darkness who serves Balor, Demon King―surely he can save your wish. Now, speak it with those pretty lips of yours. What... do you... desire?<end>"
+english = "Oh, just what you'd expect from a legendary Demon King. So imposing! So reassuring! Tiana, Princess of Darkness, sacred priestess of darkness who serves Balor, Demon King―surely he can grant your wish. Now, speak it with those pretty lips of yours. What... do you... desire?<end>"
 
 ["1360683"]
 japanese = "\u3000\u3000ネメアよ、生きテいたか…。<line-break>だが、うぬハもはや…闇に落ちシ者…。<line-break>\u3000\u3000我が軍門ニ降るがよい。<end>"
@@ -3026,7 +3026,7 @@ english = "All this is merely to buy time until Lord Balor is fully restored.<en
 
 ["1360756"]
 japanese = "しかし、無茶をするものだな、ネメア。<line-break>闇の神器・破滅の槍の力を解放するとは<line-break>余人なら闇に飲まれておるところよ。<line-break>いかに神となったとはいえ<line-break>エルファスもあれにはかなわぬ。<line-break>賞賛するぞ、その強靱な精神。<end>"
-english = "Still, that was reckless, Nemea. Anyone else who unleashed the power of the dark artifact, the Spear of Ruin, would have been swallowed by darkness. Even though Elfas has become a god, he is no match for it. I commend your indomitable will.<end>"
+english = "Still, that was reckless, Nemea. Anyone else who unleashed the power of the Dark Artifact, the Spear of Ruin, would have been swallowed by darkness. Even though Elfas has become a god, he is no match for it. I commend your indomitable will.<end>"
 
 ["1360757"]
 japanese = "紹介しよう。<line-break>エンシャントの新皇帝<line-break>ザギヴ・ディンガルだ。<line-break>ディンガル家の正統な後継者であり、<line-break>強大な闇の力を身中に宿しておる。<line-break>闇の世を治めるにふさわしき皇帝よ。<end>"
@@ -3034,7 +3034,7 @@ english = "Allow me to introduce Zagiv Dyneskal, the new emperor of Ancient. The
 
 ["1360758"]
 japanese = "しかし、無茶をするものだな、ネメア。<line-break>闇の神器・破滅の槍の力を解放するとは<line-break>余人なら闇に飲まれておるところよ。<line-break>賞賛に値するぞ、その強靱な精神。<end>"
-english = "Still, that was reckless, Nemea. Anyone else who unleashed the power of the dark artifact, the Spear of Ruin, would have been swallowed by darkness. That indomitable will deserves praise.<end>"
+english = "Still, that was reckless, Nemea. Anyone else who unleashed the power of the Dark Artifact, the Spear of Ruin, would have been swallowed by darkness. That indomitable will deserves praise.<end>"
 
 ["1360759"]
 japanese = "ほら、来たよ。<line-break><value:$28>が。<end>"

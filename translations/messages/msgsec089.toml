@@ -2478,7 +2478,7 @@ english = "Y-you're <value:$28> of the Liberation Army! Call the guards! Quickly
 
 ["890619"]
 japanese = "<value:$28>様！<line-break>カルラ様がお呼びです。<line-break>謁見の間にお急ぎください。<end>"
-english = "<value:$28>! Karula has sent for you. Please hurry to the audience chamber.<end>"
+english = "<value:$28>! Lady Karula has sent for you. Please hurry to the audience chamber.<end>"
 
 ["890620"]
 japanese = "はっ。<value:$28>様で<line-break>ございますね。<line-break>どうぞお通りください！<end>"
@@ -2494,7 +2494,7 @@ english = "Y-you're <value:$28> of the Liberation Army! Call the guards! Quickly
 
 ["890623"]
 japanese = "これは<value:$28>様。<line-break>カルラ様がお呼びです。<line-break>謁見の間にお急ぎください。<end>"
-english = "Ah, <value:$28>. Karula has sent for you. Please hurry to the audience chamber.<end>"
+english = "Ah, <value:$28>. Lady Karula has sent for you. Please hurry to the audience chamber.<end>"
 
 ["890624"]
 japanese = "これは<value:$28>様。<line-break>どうぞ、お通りください。<end>"
@@ -2786,7 +2786,7 @@ english = "Wait, please!<end>"
 
 ["890696"]
 japanese = "<value:$28>さん、<line-break>今日は本当に<line-break>ありがとうございました！<line-break>わたし、<value:$28>さんなら<line-break>きっと、助けに来てくれるって<line-break>信じてたんです！<end>"
-english = "<value:$28>, thank you so much for everything today! I knew <value:$28> would come to help us!<end>"
+english = "<value:$28>, thank you so much for everything today! I knew you would come to help us!<end>"
 
 ["890697"]
 japanese = "あ、あの、<line-break><value:$28>さん…。<line-break><line-break>これで…これで、<line-break>本当に良かったんでしょうか…？<end>"

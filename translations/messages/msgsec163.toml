@@ -102,7 +102,7 @@ english = "No matter how many of you come, it makes no difference. Invaders, pre
 
 ["1630025"]
 japanese = "さすが副将！<line-break>さあ、急ぎましょう！<line-break>この先が、本隊との合流地点です。<end>"
-english = "That's a vice commander for you! Now, we must hurry! The rendezvous point with the main force is just ahead.<end>"
+english = "Just what I'd expect from the deputy commander! Now, we must hurry! The rendezvous point with the main force is just ahead.<end>"
 
 ["1630026"]
 japanese = "こ、これは！<line-break>本隊はいったい！？<end>"
@@ -566,7 +566,7 @@ english = "This shield is the token of your knighthood. Take it.<end>"
 
 ["1630141"]
 japanese = "\u3000\u3000\u3000ロストール攻略軍\u3000\u3000<line-break>朱雀将軍\u3000アンギルダンの本陣<end>"
-english = "Rostorl Invasion Force ― Headquarters of Vermilion Bird General Angeerdan<end>"
+english = "Rostorl Campaign Force ― Headquarters of Vermilion Bird General Angeerdan<end>"
 
 ["1630142"]
 japanese = "\u3000\u3000ロストール攻略軍<line-break>朱雀軍副将<value:$28>の陣<end>"
@@ -574,7 +574,7 @@ english = "Rostorl Campaign Force ― Camp of <value:$28>, Deputy Commander of t
 
 ["1630143"]
 japanese = "ロストール攻略軍<line-break>\u3000傭兵部隊の陣\u3000<end>"
-english = "Rostorl Assault Force ― Mercenary Encampment<end>"
+english = "Rostorl Campaign Force ― Mercenary Encampment<end>"
 
 ["1630144"]
 japanese = "アンギルダンの<line-break>予備メッセージ６じゃ<end>"

@@ -50,7 +50,7 @@ english = "So you're <value:$28>.<end>"
 
 ["1190012"]
 japanese = "はじめまして。<line-break>私が、闇の神器探索の依頼主、<line-break>ケリュネイアよ。<line-break>どう、神器は手に入れた？<end>"
-english = "A pleasure to meet you. I'm Ceryneia, the one who hired you to search for the Artifacts of Darkness. Well? Did you find one?<end>"
+english = "A pleasure to meet you. I'm Ceryneia, the one who hired you to search for the Dark Artifacts. Well? Did you find one?<end>"
 
 ["1190013"]
 japanese = "手に入れた<end>"
@@ -62,7 +62,7 @@ english = "Not yet.<end>"
 
 ["1190015"]
 japanese = "そう。ならば、もう気付いているわね。<line-break>ネメアも闇の神器を<line-break>探しているということに。<end>"
-english = "Good. Then you've already realized that Nemea is searching for the Artifacts of Darkness as well.<end>"
+english = "Good. Then you've already realized that Nemea is searching for the Dark Artifacts as well.<end>"
 
 ["1190016"]
 japanese = "だったら、急いだ方がいいわ。<line-break>闇の神器は<line-break>ネメアも狙っているのよ。<end>"
@@ -70,7 +70,7 @@ english = "Then you'd better hurry. Nemea is after the Artifacts of Darkness too
 
 ["1190017"]
 japanese = "闇の神器が１２個すべて集まれば、<line-break>破壊神ウルグを<line-break>呼び出せると言われているわ。<line-break>王位を簒奪して、<line-break>世界征服をたくらむ男に、<line-break>渡していいような代物じゃないのよ。<end>"
-english = "It is said that if all twelve Artifacts of Darkness are gathered, Ulugh, the God of Destruction, can be summoned. They cannot be allowed to fall into the hands of a man plotting to usurp the throne and conquer the world.<end>"
+english = "It is said that if all twelve Dark Artifacts are gathered, Ulugh, the God of Destruction, can be summoned. They cannot be allowed to fall into the hands of a man plotting to usurp the throne and conquer the world.<end>"
 
 ["1190018"]
 japanese = "悪用するとは限らない<end>"
@@ -102,7 +102,7 @@ english = "It is too dangerous to leave Nemea unchecked.<end>"
 
 ["1190025"]
 japanese = "闇の神器を渡すわけにはいかないの。<line-break>覚悟を決めて、<line-break>ネメアと対決して。<end>"
-english = "You can't hand over the Artifacts of Darkness. Steel yourself and confront Nemea.<end>"
+english = "You can't hand over the Dark Artifacts. Steel yourself and confront Nemea.<end>"
 
 ["1190026"]
 japanese = "なぜあなたでなければ<line-break>ならないのか？<line-break>…いい質問ね。<end>"
@@ -110,7 +110,7 @@ english = "Why does it have to be you? ...That's a good question.<end>"
 
 ["1190027"]
 japanese = "闇の神器は強力な魔道器なの。\u3000<line-break>その力は、持っているだけで、<line-break>その者を闇に染めてしまうわ。<line-break>闇の神器に取り込まれないだけの<line-break>強力なソウルの持ち主なんて、<line-break>この世に限られているのよ。<end>"
-english = "The Artifacts of Darkness are powerful arcane devices. Simply possessing one can taint its bearer with darkness. There are very few in this world whose Soul is strong enough to resist being consumed by one.<end>"
+english = "The Dark Artifacts are powerful arcane devices. Simply possessing one can taint its bearer with darkness. There are very few in this world whose Soul is strong enough to resist being consumed by one.<end>"
 
 ["1190028"]
 japanese = "そして、あなたは<line-break>そのひとりなの。<end>"

@@ -14,7 +14,7 @@ english = "No, I'm only here on business for the Restoration League. Would you m
 
 ["1380003"]
 japanese = "<value:$28>様…。<line-break><value:$28>様にだから\u3000\u3000\u3000\u3000\u3000\u3000<line-break>お話しするのですが…<line-break>今回のクーデターは、実は私、<line-break>どこか現実味がないんです。<end>"
-english = "<value:$28>... I can tell you this because you are <value:$28>, but somehow, this coup still doesn't feel real to me.<end>"
+english = "<value:$28>... I can tell you this because it's you, but somehow, this coup still doesn't feel real to me.<end>"
 
 ["1380004"]
 japanese = "私には、主権を手にしようとされた\u3000<line-break>レムオン様や、立場を危うくされた<line-break>貴族の方々よりも、<line-break>むしろクーデターで生活を狂わされた<line-break>市井の人々の気持ちの方が<line-break>よくわかる気がするのです…。<end>"
@@ -698,7 +698,7 @@ english = "Nadge...<end>"
 
 ["1380174"]
 japanese = "あの時、コーンスのためなら<line-break>死んでもいいって言ったのは、<line-break>決して、ハッタリなんかじゃないよ。<end>"
-english = "When I said I was willing to die for Konsu, I wasn't bluffing.<end>"
+english = "When I said I was willing to die for the Konsu, I wasn't bluffing.<end>"
 
 ["1380175"]
 japanese = "でも、君たちに叩きのめされて、<line-break>それが必ずしも正しいことじゃないって<line-break>気付いたんだ。<line-break>死んじゃったら、何にもならない。<line-break>何にもできやしないんだってね。<end>"
@@ -1538,11 +1538,11 @@ english = "Argyleshire...?<end>"
 
 ["1380384"]
 japanese = "アスティアやヴァシュタールと同じ、<line-break>破壊神ウルグの円卓騎士のひとりです。<line-break>\u3000<line-break>妖艶な美女で、残酷で気まぐれです。<line-break>闇の神器を１つ手に入れるために<line-break>ミイスを焼き払ってしまいました。<end>"
-english = "Like Astia and Vashtar, she is one of the Knights of the Round Table serving Ulugh, the God of Destruction. She is a bewitching beauty, cruel and capricious. She burned Miis to the ground for the sake of obtaining a single Artifact of Darkness.<end>"
+english = "Like Astia and Vashtar, she is one of the Knights of the Round Table serving Ulugh, the God of Destruction. She is a bewitching beauty, cruel and capricious. She burned Miis to the ground for the sake of obtaining a single Dark Artifact.<end>"
 
 ["1380385"]
 japanese = "闇の神器？<end>"
-english = "An Artifact of Darkness?<end>"
+english = "A Dark Artifact?<end>"
 
 ["1380386"]
 japanese = "強大で凶々しい力を持つ<line-break>１２の魔道器のことです。<line-break>\u3000<line-break>かつて、破壊神ウルグの<line-break>復活に使われたと言われています。<line-break>\u3000<end>"
@@ -1554,7 +1554,7 @@ english = "But she intends to use one for a different purpose. She plans to crea
 
 ["1380388"]
 japanese = "その合成怪物を作るための知識を、<line-break>闇の神器のひとつ、禁断の聖杯から<line-break>得ようとしているのです。<line-break>あなた方には、アーギルシャイアの<line-break>手に渡る前に、その聖杯を<line-break>取り戻してもらいたいのです。<end>"
-english = "She hopes to obtain the knowledge needed to create that monster from the Forbidden Grail, one of the Artifacts of Darkness. I want you to recover the Grail before it falls into Argyleshire's hands.<end>"
+english = "She hopes to obtain the knowledge needed to create that monster from the Forbidden Grail, one of the Dark Artifacts. I want you to recover the Grail before it falls into Argyleshire's hands.<end>"
 
 ["1380389"]
 japanese = "取り戻す？<line-break>聖杯は別の誰かに<line-break>盗まれちゃったってこと？<end>"
@@ -1942,7 +1942,7 @@ english = ""
 
 ["1380485"]
 japanese = "（奥にある事実を<line-break>\u3000確かめてくるという約束だ…。）<end>"
-english = "(The promise is to go and confirm the truth that lies further in...)<end>"
+english = "(I promised to go find out the truth deeper inside...)<end>"
 
 ["1380486"]
 japanese = "追加メッセージここから<end>"

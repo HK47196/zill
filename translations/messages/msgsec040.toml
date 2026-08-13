@@ -26,7 +26,7 @@ english = "Anyway, thanks, <value:$28>.<end>"
 
 ["400006"]
 japanese = "<if><value:$01><equal>2このことかしら…？<line-break>噂になってる怪現象って。 <end><if><value:$01><equal>4見るからに怪しげかな。<line-break>噂の怪現象って、これかも。 <end><if><value:$01><equal>5ギルドで言ってた怪現象って、<line-break>これじゃねえのか？ <end><if><value:$01><equal>6ねえ、<value:$28>。<line-break>怪現象って、これじゃないかな。 <end><if><value:$01><equal>12空 <end><if><value:$01><equal>13…これだな。<line-break>例の怪奇現象とやらは。 <end><if><value:$01><equal>10姉ちゃん、きっとこれだよ。<line-break>ギルドで言ってた怪現象って。 <end><if><value:$01><equal>14これは奇怪な。<line-break>ギルドで言っていたのは、<line-break>これかの？ <end><if><value:$01><equal>15ギルドで言ってた怪現象って、<line-break>きっとこれだね。 <end><if><value:$01><equal>17ギルドで言ってたとかいう<line-break>怪現象ってこのことね。<line-break>もちろん、アタクシは知っていてよ。 <end><if><value:$01><equal>19ギルドで言ってたのって、<line-break>これかな？<line-break>なんか気持ち悪いね。 <end><if><value:$01><equal>20空 <end><if><value:$01><equal>193ギルドで言っていた怪現象って<line-break>こ、これ…ですよね？<line-break>私、す、すごく怖い…！<end><if><value:$01><equal>191このことかしら？<line-break>ギルドで言ってた怪現象は。<end>ギルドで言ってたの、これだよね。<line-break>うわー、ほんとに怪現象だなー。<line-break>歌の題材になるよ。 <end>"
-english = "<if><value:$01><equal>2Could this be the strange phenomenon everyone's been talking about...?<end><if><value:$01><equal>4It does look suspicious. Maybe this is the strange phenomenon from the rumors.<end><if><value:$01><equal>5Isn't this the strange phenomenon they were talking about at the Guild?<end><if><value:$01><equal>6Hey, <value:$28>. I think this might be the strange phenomenon.<end><if><value:$01><equal>12<end><if><value:$01><equal>13This is it, then. That so-called strange phenomenon.<end><if><value:$01><equal>10Miss, this has got to be it―the strange phenomenon they mentioned at the Guild.<end><if><value:$01><equal>14How peculiar. Could this be what they spoke of at the Guild?<end><if><value:$01><equal>15This must be the strange phenomenon they mentioned at the Guild.<end><if><value:$01><equal>17So this is that strange phenomenon they supposedly mentioned at the Guild. Of course, I knew that already.<end><if><value:$01><equal>19Could this be what they mentioned at the Guild? It's kind of creepy.<end><if><value:$01><equal>20<end><if><value:$01><equal>193Th-this is the strange phenomenon they mentioned at the Guild... isn't it? I'm s-so scared...!<end><if><value:$01><equal>191Could this be the strange phenomenon they mentioned at the Guild?<end>This is what they mentioned at the Guild, right? Wow, it really is a strange phenomenon. It'd make good material for a song.<end>"
+english = "<if><value:$01><equal>2Could this be the strange phenomenon everyone's been talking about...?<end><if><value:$01><equal>4It does look suspicious. Maybe this is the strange phenomenon from the rumors.<end><if><value:$01><equal>5Isn't this the strange phenomenon they were talking about at the Guild?<end><if><value:$01><equal>6Hey, <value:$28>. I think this might be the strange phenomenon.<end><if><value:$01><equal>12<end><if><value:$01><equal>13This is it, then. That so-called strange phenomenon.<end><if><value:$01><equal>10Sis, this has got to be it―the strange phenomenon they mentioned at the Guild.<end><if><value:$01><equal>14How peculiar. Could this be what they spoke of at the Guild?<end><if><value:$01><equal>15This must be the strange phenomenon they mentioned at the Guild.<end><if><value:$01><equal>17So this is that strange phenomenon they supposedly mentioned at the Guild. Of course, I knew that already.<end><if><value:$01><equal>19Could this be what they mentioned at the Guild? It's kind of creepy.<end><if><value:$01><equal>20<end><if><value:$01><equal>193Th-this is the strange phenomenon they mentioned at the Guild... isn't it? I'm s-so scared...!<end><if><value:$01><equal>191Could this be the strange phenomenon they mentioned at the Guild?<end>This is what they mentioned at the Guild, right? Wow, it really is a strange phenomenon. It'd make good material for a song.<end>"
 
 ["400007"]
 japanese = "ここにもいないか…。<line-break>バルザーめ…、<line-break>どういうつもりだ。<end>"
@@ -154,11 +154,11 @@ english = "We're teleporting to Liberdam. Here we go.<end>"
 
 ["400038"]
 japanese = "…お前の負けだ。<line-break>破壊神の円卓騎士バルザーよ。<line-break>\u3000<line-break>破壊神ウルグ、復活はさせぬ。<end>"
-english = "You have lost, Baltzer, Knight of the God of Destruction's Round Table. I will not allow Ulugh, the God of Destruction, to rise again.<end>"
+english = "You have lost, Baltzer, Knight of the Round Table serving the God of Destruction. I will not allow Ulugh, the God of Destruction, to rise again.<end>"
 
 ["400039"]
 japanese = "さすがだ…、ネメア。<line-break>\u3000<line-break>\u3000<line-break>破壊神の円卓騎士の中でも<line-break>１、２を争う力を持つ我を<line-break>こうもたやすく倒すとは…な…。<end>"
-english = "Impressive, Nemea... To think you could defeat me so easily, when I am one of the two mightiest Knights of the God of Destruction's Round Table...<end>"
+english = "Impressive, Nemea... To think you could defeat me so easily, when I am one of the two mightiest Knights of the Round Table serving the God of Destruction...<end>"
 
 ["400040"]
 japanese = "再会のあいさつは抜きだ。<line-break>それより、すぐにここを<line-break>出なければならない。<line-break>バルザーの死により、<line-break>ここはまもなく崩壊するだろう。<end>"
@@ -398,7 +398,7 @@ english = "Yes. Of course.<end>"
 
 ["400099"]
 japanese = "なぜそれほど<line-break>闇の神器を欲しがるのだ？<end>"
-english = "Why do you want the Artifact of Darkness so badly?<end>"
+english = "Why do you want the Dark Artifact so badly?<end>"
 
 ["400100"]
 japanese = "あなたには関係ないわ。<line-break>ネメア様が必要としている。<line-break>だから、私たちは手に入れに来たの。<end>"
@@ -410,7 +410,7 @@ english = "If you will not hand it over willingly, we shall take it by force.<en
 
 ["400102"]
 japanese = "わしらも手荒なマネはしとうない。<line-break>\u3000<line-break>\u3000<line-break>闇の神器さえ手に入れば、<line-break>ウルカーンには、<line-break>軍を派遣することもなかろうて。<end>"
-english = "We'd rather not resort to violence either. Once we have the Artifact of Darkness, there should be no need to send an army to Ulkarne.<end>"
+english = "We'd rather not resort to violence either. Once we have the Dark Artifact, there should be no need to send an army to Ulkarne.<end>"
 
 ["400103"]
 japanese = "…仕方あるまい。<line-break>束縛の腕輪はここだ。<line-break>取りに来い。<end>"
@@ -450,7 +450,7 @@ english = "He's grown stronger... Nemea was right. Against this youth, I already
 
 ["400112"]
 japanese = "オイフェから話は聞いておる。<line-break>お主、やはり闇の神器を<line-break>集めるつもりじゃな？<end>"
-english = "Aoife told me what happened. You still mean to gather the Artifacts of Darkness, don't you?<end>"
+english = "Aoife told me what happened. You still mean to gather the Dark Artifacts, don't you?<end>"
 
 ["400113"]
 japanese = "次は…、渡さないわ！<end>"
@@ -458,7 +458,7 @@ english = "Next time... I won't give it up!<end>"
 
 ["400114"]
 japanese = "闇の神器を集める限り、<line-break>お互いまたどこかで会おう。<line-break>その時はよろしくな。<end>"
-english = "As long as you keep gathering the Artifacts of Darkness, we'll meet again somewhere. Until then.<end>"
+english = "As long as you keep gathering the Dark Artifacts, we'll meet again somewhere. Until then.<end>"
 
 ["400115"]
 japanese = "………………。<end>"
@@ -466,7 +466,7 @@ english = "...<end>"
 
 ["400116"]
 japanese = "気が付いたようじゃな。<line-break>お主のおかげで、<line-break>こちらの体勢を整えられた。<line-break>礼を言うぞ。<line-break>じゃが、闇の神器は<line-break>わしらがもらう。<end>"
-english = "So you're awake. Thanks to you, we had time to regroup. You have my gratitude. But we're taking the Artifact of Darkness.<end>"
+english = "So you're awake. Thanks to you, we had time to regroup. You have my gratitude. But we're taking the Dark Artifact.<end>"
 
 ["400117"]
 japanese = "あいつは、私たちが倒したわ。<end>"
@@ -486,11 +486,11 @@ english = "It's been a long time.<end>"
 
 ["400121"]
 japanese = "闇の神器の探索を依頼された<line-break><value:$28>という冒険者、<line-break>あなただったのね。<end>"
-english = "So you're <value:$28>, the adventurer hired to find the Artifact of Darkness.<end>"
+english = "So you're <value:$28>, the adventurer hired to find the Dark Artifact.<end>"
 
 ["400122"]
 japanese = "手を引いた方がいいわよ。<line-break>闇の神器…、<line-break>ネメア様もその行方を追っているわ。<line-break>そして、私も<line-break>その旅に同行するつもりよ。<end>"
-english = "You'd be better off walking away. Lord Nemea is searching for the Artifact of Darkness too, and I intend to accompany him.<end>"
+english = "You'd be better off walking away. Lord Nemea is searching for the Dark Artifact too, and I intend to accompany him.<end>"
 
 ["400123"]
 japanese = "私は、ネメア様直属の<line-break>近衛騎士になったのよ。<line-break>\u3000<line-break>私に生きろと言ったあの人が、<line-break>どんな生を歩むのか<line-break>見届けるためにね。<end>"
@@ -502,7 +502,7 @@ english = "Zelig of Boldan and Doldrum the Dwarf will be coming too. We'll be a 
 
 ["400125"]
 japanese = "あなたが闇の神器を探すつもりなら、<line-break>私たちを敵に回すことになるわ。<line-break>\u3000<line-break>その時は…、<line-break>容赦しないわよ。<end>"
-english = "If you mean to keep searching for the Artifact of Darkness, you'll be making enemies of us. If that happens... I won't show you any mercy.<end>"
+english = "If you mean to keep searching for the Dark Artifact, you'll be making enemies of us. If that happens... I won't show you any mercy.<end>"
 
 ["400126"]
 japanese = "やあ、<value:$28>。<line-break>こんなところで会うなんて、<line-break>ふふ、うれしい偶然だね。<end>"
@@ -510,15 +510,15 @@ english = "Hello, <value:$28>. Fancy meeting you here. Heh, what a pleasant surp
 
 ["400127"]
 japanese = "…闇の神器を探しているの？<end>"
-english = "…Are you looking for the Artifacts of Darkness?<end>"
+english = "…Are you looking for the Dark Artifacts?<end>"
 
 ["400128"]
 japanese = "確かに君の言うとおり、\u3000<line-break>僕は闇の神器を<line-break>ひとつ持っているよ。<line-break>でも、今は渡せないよ。<line-break>あれは、きちんと<line-break>研究しなければならない。<end>"
-english = "You're right. I do have one of the Artifacts of Darkness. But I can't give it to you yet. It needs to be studied properly.<end>"
+english = "You're right. I do have one of the Dark Artifacts. But I can't give it to you yet. It needs to be studied properly.<end>"
 
 ["400129"]
 japanese = "闇の神器は全部で１２種類。<line-break>世界中に散らばってて、<line-break>それぞれにすごい威力を秘めてる。<line-break>でもそれは闇の力だ。<line-break>使い方を間違えると<line-break>恐ろしいことになる。<end>"
-english = "Artifacts of Darkness come in twelve different forms. They're scattered across the world, and each harbors tremendous power. But theirs is the power of darkness. If they're used the wrong way, something terrible could happen.<end>"
+english = "Dark Artifacts come in twelve different forms. They're scattered across the world, and each harbors tremendous power. But theirs is the power of darkness. If they're used the wrong way, something terrible could happen.<end>"
 
 ["400130"]
 japanese = "そうだね。本来は<line-break>破壊神を復活させるための物だと、<line-break>僕も聞いてるよ。<line-break>でも、使い道は<line-break>それだけじゃないはずだ。<line-break>あんなに強力な魔力を感じるもの。<end>"
@@ -558,7 +558,7 @@ english = "Stop by the Ryuga residence in Rostorl's noble quarter from time to t
 
 ["400139"]
 japanese = "わかった。闇の神器は<line-break>ネメアもねらっているんだね。<line-break>気をつけるよ。<end>"
-english = "All right. So Nemea is after the Artifacts of Darkness too. I'll be careful.<end>"
+english = "All right. So Nemea is after the Dark Artifacts too. I'll be careful.<end>"
 
 ["400140"]
 japanese = "…<value:$28>！<end>"
@@ -578,7 +578,7 @@ english = "Careless of me to let you beat me to it.<end>"
 
 ["400144"]
 japanese = "くっ、なんてこと…！<line-break>せっかくここの闇の神器は<line-break>私たちだけに任せてもらえたのに！<end>"
-english = "Damn it! We finally had sole charge of the Sacred Artifact of Darkness here!<end>"
+english = "Damn it! We finally had sole charge of the Dark Artifact here!<end>"
 
 ["400145"]
 japanese = "そう功をあせるな、オイフェよ。<end>"
@@ -1182,7 +1182,7 @@ english = "Do you understand now? I don't hold back. Don't interfere again.<end>
 
 ["400295"]
 japanese = "すまんな。<line-break>この闇の神器は、<line-break>わしらがもらっていく。<line-break>さあ、行くぞ、<line-break>オイフェ、ゼリグ。<end>"
-english = "Sorry, but we're taking this Sacred Artifact of Darkness. Come, Aoife, Zelig. We're leaving.<end>"
+english = "Sorry, but we're taking this Dark Artifact. Come, Aoife, Zelig. We're leaving.<end>"
 
 ["400296"]
 japanese = "\u3000\u3000\u3000ディンガル帝国<line-break>帝都エンシャント、謁見の間<end>"

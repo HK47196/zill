@@ -822,15 +822,15 @@ english = "Thank you. Then let me explain.<end>"
 
 ["420205"]
 japanese = "先ほどお話しした闇の神器、<line-break>禁断の聖杯に関することですが…。<line-break>じつはその聖杯をねらっている<line-break>魔人がいるんです。<end>"
-english = "This concerns the Artifact of Darkness I mentioned earlier: the Forbidden Grail. There is, in fact, a demon after it.<end>"
+english = "This concerns the Dark Artifact I mentioned earlier: the Forbidden Grail. There is, in fact, a demon after it.<end>"
 
 ["420206"]
 japanese = "さっそくですが、<line-break>闇の神器というのを<line-break>ご存じですか？<end>"
-english = "First, have you heard of the Artifacts of Darkness?<end>"
+english = "First, have you heard of the Dark Artifact?<end>"
 
 ["420207"]
 japanese = "闇の神器は全部で<line-break>１２種類あるんです。<line-break>\u3000<line-break>そのうちのひとつ、禁断の聖杯は<line-break>持ち主に英知を与えることが<line-break>できます。<end>"
-english = "There are twelve Artifacts of Darkness in all. One of them, the Forbidden Grail, can grant wisdom to its bearer.<end>"
+english = "There are twelve Dark Artifacts in all. One of them, the Forbidden Grail, can grant wisdom to its bearer.<end>"
 
 ["420208"]
 japanese = "その禁断の聖杯をねらっている<line-break>魔人がいるんです。<end>"
@@ -858,7 +858,7 @@ english = "Argyleshire is after the Forbidden Grail so she can obtain the knowle
 
 ["420214"]
 japanese = "彼女は気まぐれで残忍です。<line-break>この前も闇の神器を奪うために<line-break>村ひとつを焼き払ってしまいました。<line-break>そんな悲劇を繰り返さないためにも、<line-break>あなた方に<line-break>聖杯を取ってきてほしいのです。<end>"
-english = "She is capricious and cruel. Not long ago, she burned an entire village to the ground just to seize an Artifact of Darkness. To prevent another such tragedy, I want you to retrieve the Grail.<end>"
+english = "She is capricious and cruel. Not long ago, she burned an entire village to the ground just to seize a Dark Artifact. To prevent another such tragedy, I want you to retrieve the Grail.<end>"
 
 ["420215"]
 japanese = "姉ちゃんの言うとおりだ。<line-break>何か手がかりはないのか？<end>"
@@ -922,7 +922,7 @@ english = "About the teleportation device<end>"
 
 ["420230"]
 japanese = "闇の神器について<end>"
-english = "About the dark sacred artifact<end>"
+english = "About the Dark Artifact<end>"
 
 ["420231"]
 japanese = "ネモについて<end>"

@@ -82,13 +82,15 @@ func TestInlineControlsRenderAfterOnePayloadChangeWithoutChangingStructure(t *te
 	}
 }
 
-func TestInlineBlockRejectsControlInjectionAndSubstitutionChanges(t *testing.T) {
-	for _, translated := range []string{"bad<end>", "missing substitution", "wrong <value:$29>", "half-width ｱ"} {
-		if err := ValidateInlineBlock(42, "source <value:$28>", translated); err == nil {
+func TestInlineBlockAllowsOmittedSubstitutionsButRejectsUnsafeContent(t *testing.T) {
+	for _, translated := range []string{"bad<end>", "wrong <value:$29>", "repeated <value:$28> <value:$28> <value:$28>", "half-width ｱ"} {
+		if err := ValidateInlineBlock(42, "source <value:$28> repeated <value:$28>", translated); err == nil {
 			t.Fatalf("unsafe block %q was accepted", translated)
 		}
 	}
-	if err := ValidateInlineBlock(42, "source <value:$28>", "Safe <value:$28><line-break>text."); err != nil {
-		t.Fatalf("safe block rejected: %v", err)
+	for _, translated := range []string{"No substitution needed.", "Safe <value:$28><line-break>text."} {
+		if err := ValidateInlineBlock(42, "source <value:$28> repeated <value:$28>", translated); err != nil {
+			t.Fatalf("safe block %q was rejected: %v", translated, err)
+		}
 	}
 }

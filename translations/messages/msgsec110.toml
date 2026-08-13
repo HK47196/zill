@@ -122,7 +122,7 @@ english = "That must sound familiar to you, does it not? To possess great power 
 
 ["1100030"]
 japanese = "その封印をもとに戻すため、<line-break>マノンは自らのソウルを腕輪に封じ<line-break>シャロームの力を再び封じたという。\u3000<line-break>じゃが、ソウルの干渉によって<line-break>金環食の日には封印の力が弱くなり、<line-break>シャロームは少しだけ術を使えるのよ。<end>"
-english = "To restore the seal, Manon is said to have placed a Soul of Manon's own within a bracelet, sealing Shalom's power away once more. But interference between Souls weakens the seal on the day of an annular eclipse, allowing Shalom to work a little magic.<end>"
+english = "To restore the seal, Manon is said to have placed her own Soul within a bracelet, sealing Shalom's power away once more. But interference between Souls weakens the seal on the day of an annular eclipse, allowing Shalom to work a little magic.<end>"
 
 ["1100031"]
 japanese = "その日にはマノンの腕輪を安置した\u3000\u3000<line-break>部屋の扉すらも、アガスティアと<line-break>ブラックバイパーの持ち主には開く。<line-break>ただ、シャロームも、これまで何人も<line-break>腕輪を破壊するべく人を送っておるが<line-break>すべて失敗しておるということじゃ。<end>"
@@ -174,7 +174,7 @@ english = "In my youth, I studied the legends of the Forgotten Swordsman. Wise K
 
 ["1100043"]
 japanese = "もうひとり、<line-break>忘れられた人間の剣士がいたのじゃ。\u3000<line-break>\u3000<line-break>この者が闇の神器、虚無の剣を抜き、<line-break>その力で邪竜を倒したのじゃが、<line-break>剣の呪いで世界から消えたのじゃ。<end>"
-english = "There was one other: a forgotten human swordsman. This swordsman drew the Sword of the Void, an artifact of darkness, and used its power to defeat the Evil Dragon. But the sword's curse erased its wielder from the world.<end>"
+english = "There was one other: a forgotten human swordsman. This swordsman drew the Sword of the Void, a Dark Artifact, and used its power to defeat the Evil Dragon. But the sword's curse erased its wielder from the world.<end>"
 
 ["1100044"]
 japanese = "これが、わしが世界をめぐって\u3000\u3000\u3000\u3000<line-break>伝承を集め、<line-break>くだした結論じゃった。<line-break>じゃが、その論文に対してアカデミー、<line-break>特にエルフやドワーフの学者どもが<line-break>実につまらぬ理由から非難した。<end>"
@@ -202,7 +202,7 @@ english = "Don't come any closer.<end>"
 
 ["1100050"]
 japanese = "ザギヴ様。東方兵力配置の件で<line-break>ベルゼーヴァ様がお話があるそうです。<line-break>至急、政庁にお越しください！<end>"
-english = "Zagiv! Beelzeva would like to speak with you about the eastern troop deployments. Please come to the government offices immediately!<end>"
+english = "Zagiv, ma'am! Beelzeva would like to speak with you about the eastern troop deployments. Please come to the government offices immediately!<end>"
 
 ["1100051"]
 japanese = "一般人の前で機密事項に関することを<line-break>しゃべるなんて、どういうつもり？<line-break>本来なら厳重処分ものよ。<line-break>以後、気をつけて。<end>"
@@ -246,7 +246,7 @@ english = "Thank you, <value:$28>.<end>"
 
 ["1100061"]
 japanese = "ザギヴ様！<end>"
-english = "Zagiv!<end>"
+english = "Zagiv, ma'am!<end>"
 
 ["1100062"]
 japanese = "今、行くわ。<end>"
@@ -410,7 +410,7 @@ english = "Do you know of Dr. Est Ryuga? He is a brilliant, up-and-coming schola
 
 ["1100102"]
 japanese = "彼は先人類の存在を主張している。<line-break>それは、現在の人類よりもはるかに強く<line-break>優れた魔道技術を操る超人類だ。<line-break>ネメア様が求めておられる闇の神器も<line-break>彼らの所産だという。エストは<line-break>その構造にまで手を着けている。<end>"
-english = "He contends that a human race existed before our own―a race of superhumans, far stronger than modern humanity and masters of vastly superior magical technology. He claims that even the divine artifacts of darkness Lord Nemea seeks were their creation. Est has gone so far as to investigate how they were constructed.<end>"
+english = "He contends that a human race existed before our own―a race of superhumans, far stronger than modern humanity and masters of vastly superior magical technology. He claims that even the Dark Artifacts Lord Nemea seeks were their creation. Est has gone so far as to investigate how they were constructed.<end>"
 
 ["1100103"]
 japanese = "世界中の学者で<line-break>自力でここまでたどり着いた者は\u3000<line-break>これまで皆無だ。<line-break>古くさいロストールなどに生まれて<line-break>いなければ、恐るべき存在だった。<line-break>人類の革新のための貴重な人材だ。<end>"

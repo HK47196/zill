@@ -37,11 +37,18 @@ func TestProjectionMovesOnlySourceApprovedSubstitutionAndPreservesControls(t *te
 		t.Fatalf("materialized bytes = % x, want % x", got, want)
 	}
 
-	if _, err := projection.Materialize("Hello.<end>", false); err == nil || !strings.Contains(err.Error(), "runtime substitutions") {
-		t.Fatalf("removing a source substitution returned %v", err)
+	withoutName, err := projection.Materialize("Hello.<end>", false)
+	if err != nil {
+		t.Fatalf("omitting a source substitution returned %v", err)
+	}
+	if want := append([]byte("Hello."), 5, 5, 5); !bytes.Equal(withoutName, want) {
+		t.Fatalf("materialized text without substitution = % x, want % x", withoutName, want)
 	}
 	if _, err := projection.Materialize("Hello, <value:$15>.<end>", false); err == nil || !strings.Contains(err.Error(), "runtime substitutions") {
 		t.Fatalf("changing a source substitution returned %v", err)
+	}
+	if _, err := projection.Materialize("Hello, <value:$28><value:$28>.<end>", false); err == nil || !strings.Contains(err.Error(), "runtime substitutions") {
+		t.Fatalf("duplicating a source substitution returned %v", err)
 	}
 }
 

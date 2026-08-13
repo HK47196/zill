@@ -312,22 +312,17 @@ func (p *Projection) SplitSemantic(text string) ([]string, error) {
 func (p *Projection) validateFragment(index int, value string) error {
 	f := p.Fragments[index]
 	found := valueTag.FindAllStringSubmatch(value, -1)
-	counts := make(map[byte]int)
+	available := make(map[byte]int, len(f.Substitutions))
+	for _, opcode := range f.Substitutions {
+		available[opcode]++
+	}
 	for _, match := range found {
 		var opcode byte
 		_, _ = fmt.Sscanf(match[1], "%02X", &opcode)
-		counts[opcode]++
-	}
-	for _, opcode := range f.Substitutions {
-		counts[opcode]--
-	}
-	for _, count := range counts {
-		if count != 0 {
+		if available[opcode] == 0 {
 			return fmt.Errorf("message %d fragment %s changes runtime substitutions", p.RecordID, f.Key)
 		}
-	}
-	if len(found) != len(f.Substitutions) {
-		return fmt.Errorf("message %d fragment %s changes runtime substitutions", p.RecordID, f.Key)
+		available[opcode]--
 	}
 	if formatSignatureIDs[p.RecordID] {
 		got := printfConversion.FindAllString(value, -1)

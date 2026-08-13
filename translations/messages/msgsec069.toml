@@ -142,7 +142,7 @@ english = "The Grail?<end>"
 
 ["690035"]
 japanese = "闇の神器、禁断の聖杯です。<line-break>アーギルシャイアは究極生物を作り上げ<line-break>この世界を破壊しようとしています。<line-break>その究極生物を作る方法を知るために<line-break>禁断の聖杯によって得られる<line-break>膨大な知識を利用するつもりなのです。<end>"
-english = "The dark artifact known as the Forbidden Grail. Argyleshire intends to create the Ultimate Life-Form and use it to destroy this world. She means to draw upon the vast knowledge granted by the Forbidden Grail to learn how such a creature can be made.<end>"
+english = "The Dark Artifact known as the Forbidden Grail. Argyleshire intends to create the Ultimate Life-Form and use it to destroy this world. She means to draw upon the vast knowledge granted by the Forbidden Grail to learn how such a creature can be made.<end>"
 
 ["690036"]
 japanese = "彼女が追っている聖杯を追えば\u3000\u3000\u3000\u3000<line-break>彼女といつか関わることに<line-break>なるでしょう。<end>"
@@ -242,7 +242,7 @@ english = "Tell me about the teleportation device.<end>"
 
 ["690060"]
 japanese = "闇の神器について<end>"
-english = "Tell me about the Dark Artifacts.<end>"
+english = "Tell me about the Dark Artifact.<end>"
 
 ["690061"]
 japanese = "ネモについて<end>"
@@ -1002,7 +1002,7 @@ english = "And yet, for some reason, you alone can't seem to shake your suspicio
 
 ["690250"]
 japanese = "…なぜだか、<line-break>思い出せないのか。<end>"
-english = "For some reason... it just won't come back?<end>"
+english = "For some reason... the memory won't come back?<end>"
 
 ["690251"]
 japanese = "さあ。それに警戒されるべき理由など<line-break>存在するのでしょうか？<line-break>\u3000<line-break>とにかく、まいりましょう。<line-break>あなたのような戦士とご一緒できて<line-break>光栄ですよ、<value:$28>さん。<end>"
@@ -1094,7 +1094,7 @@ english = "Wow! That Goblin really did talk! Not very impressive-looking, though
 
 ["690273"]
 japanese = "うそ…。ゴブリンが…しゃべってた…？<line-break>こんな不思議なことって…。<line-break>\u3000<line-break>ああ、テラネのお母さん、<line-break>都会は不思議なことばっかりです…。<end>"
-english = "No way... A Goblin... really talked? Can something that strange really happen...? Oh, Terane's mother, the city is full of strange things...<end>"
+english = "No way... A Goblin... really talked? Can something that strange really happen...? Oh, Mother back in Terane, the city is full of strange things...<end>"
 
 ["690274"]
 japanese = "こりゃあ、おどろいた。<line-break>実際、自分の目で見てみると<line-break>噂で聞くより奇妙なもんだな。<end>"

@@ -82,7 +82,7 @@ english = "All right. Sorry for meddling.<end>"
 
 ["700020"]
 japanese = "おう、<value:$28>。<line-break>奇遇だな。こんな所で。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>俺も暇だったから、ちょっと<line-break>冒険をしていたのさ。<line-break>この奥にいる怪物が仕事か？<end>"
-english = "Hey, <value:$28>. Fancy meeting you in a place like this. I was bored, so I've been doing a little adventuring myself. Is the monster farther in your job?<end>"
+english = "Hey, <value:$28>. Fancy meeting you in a place like this. I was bored, so I've been doing a little adventuring myself. Are you here on a job to deal with the monster farther in?<end>"
 
 ["700021"]
 japanese = "そうか、だったら俺もお手伝い<line-break>させてもらおうかな？<line-break>どうだい、<value:$28>？<end>"
@@ -94,7 +94,7 @@ english = "That's what I wanted to hear. Looks like we'll be partners for a whil
 
 ["700023"]
 japanese = "よう、<value:$28>。<line-break>この奥にいる怪物が仕事か？<end>"
-english = "Hey, <value:$28>. Is the monster farther in your job?<end>"
+english = "Hey, <value:$28>. Are you here on a job to deal with the monster farther in?<end>"
 
 ["700024"]
 japanese = "やっぱそうか。だったら俺も<line-break>手伝いに入らせてもらおうかな？<line-break>どうだい、<value:$28>？<end>"
@@ -1118,7 +1118,7 @@ english = "...<end>"
 
 ["700279"]
 japanese = "よ、酔うてなぞ、おらんわい！<line-break>あれしきの酒で誰が酔うか！\u3000\u3000\u3000<line-break>\u3000<line-break>ガハハハ！\u3000セラと…、セラと…<line-break>セラと…誰が似とると言うたかの？<line-break>ガハハハ！\u3000ヒック！<end>"
-english = "I-I'm not drunk! Who could get drunk on that little bit of liquor? Gahahaha! Sera and... Sera and... Sera and... who did I say was alike again? Gahahaha! Hic!<end>"
+english = "I-I'm not drunk! Who could get drunk on that little bit of liquor? Gahahaha! Sera and... Sera and... Sera and... who did I say Sera was like again? Gahahaha! Hic!<end>"
 
 ["700280"]
 japanese = "………………。<end>"

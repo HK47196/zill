@@ -246,19 +246,19 @@ english = "Oh... <value:$28>. H-hi! Sorry about earlier. I started talking to yo
 
 ["310061"]
 japanese = "そう言ってくれるとホッとする。<line-break>じゃ、あらためて、<line-break>ちゃんと自己紹介するね。<line-break>僕はエスト。考古学者。<line-break>闇の神器というものについて<line-break>研究しているんだ。<end>"
-english = "That's a relief. Let me introduce myself properly this time. I'm Est, an archaeologist. I study something known as the Artifact of Darkness.<end>"
+english = "That's a relief. Let me introduce myself properly this time. I'm Est, an archaeologist. I study something known as the Dark Artifact.<end>"
 
 ["310062"]
 japanese = "闇の神器は破壊神ウルグの復活に<line-break>使われた魔道器でね。<line-break>ものすごい力を秘めているんだ。<line-break>それを使えば、僕みたいにひ弱な男でも<line-break>ものすごく強い戦士や怪物を<line-break>ひとひねりにできるんだ。<end>"
-english = "The Artifact of Darkness is a magical device that was used to resurrect Ulugh, the God of Destruction. It holds tremendous power. With it, even a weak man like me could make short work of immensely powerful warriors and monsters.<end>"
+english = "The Dark Artifact is a magical device that was used to resurrect Ulugh, the God of Destruction. It holds tremendous power. With it, even a weak man like me could make short work of immensely powerful warriors and monsters.<end>"
 
 ["310063"]
 japanese = "フフ、別に僕は強くなりたくて、<line-break>闇の神器を求めてるわけじゃないよ。<end>"
-english = "Heh. I'm not searching for the Artifact of Darkness because I want to become stronger.<end>"
+english = "Heh. I'm not searching for the Dark Artifact because I want to become stronger.<end>"
 
 ["310064"]
 japanese = "僕はね、古代の魔法文明の力を<line-break>借りたいんだ。<line-break>\u3000<line-break>闇の神器は<line-break>古代の失われた魔法文明の技で<line-break>造られた物なんだよ。<end>"
-english = "I want to draw on the power of an ancient magical civilization. The Artifact of Darkness was made using techniques from that long-lost civilization.<end>"
+english = "I want to draw on the power of an ancient magical civilization. The Dark Artifact was made using techniques from that long-lost civilization.<end>"
 
 ["310065"]
 japanese = "その謎を解き明かすことができれば<line-break>人類はものすごい力を<line-break>手に入れることができる。<line-break>そうすれば、<line-break>みんなの生活が便利になる。<line-break>みんなの暮らしが一気に向上するんだ。<end>"
@@ -1122,7 +1122,7 @@ english = "<select><value:$20>%3The magistrate's lost patience with you. Lately,
 
 ["310280"]
 japanese = "<select><value:$20>%2あのお兄ちゃんは<line-break>やみのじんぎっていうものを\u3000\u3000<line-break>探してるんだって。<line-break>カワイイ顔してるのに、<line-break>なんかヘンなの！<line-break>あんまし、モテそうにないよね！<end>あのお兄ちゃんは、<line-break>お兄ちゃんのお兄ちゃんに<line-break>この町で会うつもりなんだって！<end>"
-english = "<select><value:$20>%2I heard that young man is looking for something called the Artifact of Darkness. He has such a cute face, but he's so weird! I bet he doesn't get many admirers!<end>I heard that young man came to this town to meet his big brother!<end>"
+english = "<select><value:$20>%2I heard that young man is looking for something called the Dark Artifact. He has such a cute face, but he's so weird! I bet he doesn't get many admirers!<end>I heard that young man came to this town to meet his big brother!<end>"
 
 ["310281"]
 japanese = "お母さんが、<line-break>お姉ちゃんとお話ししちゃダメだって。<line-break>コワイお代官様ににらまれるんだって。<end>"
@@ -1158,7 +1158,7 @@ english = "<select><value:$20>%3This is a country town in the Kingdom of Rostorl
 
 ["310289"]
 japanese = "闇の神器というのは<line-break>伝説によると破壊神復活に使われた<line-break>強力な１２個の魔道器の総称です。<line-break>しかし、そのようなものが<line-break>現実に存在するのでしょうか？<end>"
-english = "According to legend, the Artifacts of Darkness are twelve powerful magical devices that were used to resurrect the God of Destruction. But could such things truly exist?<end>"
+english = "According to legend, twelve powerful magical devices known collectively as the Dark Artifacts were used to resurrect the God of Destruction. But could such things truly exist?<end>"
 
 ["310290"]
 japanese = "ギルドの主人も<line-break>よくここにいるあのキレイな人も<line-break>反乱に参加してて、いませんよ。<line-break>わ、私は探検家ですから、<line-break>反乱は本分じゃないんで…。<line-break>今回はパスです。<end>"
@@ -1222,7 +1222,7 @@ english = "<select><value:$20>%2Magistrate Bolbora is cruel and vindictive. Defy
 
 ["310305"]
 japanese = "<select><value:$20>%3ごめんなさいね。<line-break>あなたたちの助けになれなくて。<line-break>私たちは、ボルボラ様が恐くて…。<end>…代官のボルボラが<line-break>こんなに悪事を働いているのに<line-break>領主様は何してるのかしら？<end>ここのご領主は<line-break>名門リューガ家のご当主様である\u3000<line-break>エリエナイ公爵様なの…。<line-break>王都での政争でお忙しくって<line-break>星の数ほどある領地のひとつなんて<line-break>まったく忘れてらっしゃるんだわ。<end>"
-english = "<select><value:$20>%3I'm sorry we can't help you. We're all so afraid of Lord Bolbora...<end>Magistrate Bolbora is committing all these terrible crimes... What in the world is our ruler doing?<end>This land is ruled by Elienai, head of the distinguished ducal House Ryuga... Political struggles in the royal capital keep Elienai so busy that one domain among countless others has been forgotten entirely.<end>"
+english = "<select><value:$20>%3I'm sorry we can't help you. We're all so afraid of Lord Bolbora...<end>Magistrate Bolbora is committing all these terrible crimes... What in the world is our ruler doing?<end>This land is ruled by the Duke of Elienai, head of the distinguished House Ryuga... Political struggles in the royal capital keep him so busy that one domain among countless others has been forgotten entirely.<end>"
 
 ["310306"]
 japanese = "<select><value:$20>%2ボルボラ様の手下の俺の前に<line-break>ノコノコ現れるとは<line-break>大した度胸だな、コラ！<end>ちょっと、腕が立つからって\u3000<line-break>うぬぼれてっと、<line-break>足下すくわれっぞ、コラ！<end>"

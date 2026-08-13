@@ -314,7 +314,7 @@ english = "Good, it's settled! Let's go, <value:$28>.<end>"
 
 ["1410078"]
 japanese = "ゼネテスも<value:$28>も<line-break>結局、冒険好きなのね。<line-break>子供ねー。<end>"
-english = "In the end, you and Xenetes both just love adventures, don't you, <value:$28>? Such children.<end>"
+english = "In the end, you and Xenetes both just love adventures, don't you, <value:$28>? You're both such kids.<end>"
 
 ["1410079"]
 japanese = "おう、来たか、<value:$28>。<line-break> <line-break> <line-break>今日は、ちょいとお前さんに<line-break>頼みたいことがあってよ。<end>"
@@ -1414,7 +1414,7 @@ english = "Vai? Well, a lot happened, so I had Vai step away for a bit. There's 
 
 ["1410353"]
 japanese = "ねえ、<value:$28>。<line-break><value:$28>の中じゃ、<line-break>もう、全部終わっちゃった？<end>"
-english = "Tell me, <value:$28>. Is it all over for <value:$28> now?<end>"
+english = "Tell me, <value:$28>. Deep down, do you feel like everything is already over?<end>"
 
 ["1410354"]
 japanese = "ごめんごめん、えっと…その…<line-break>戦争は、もうおしまいに<line-break>なったよね？<end>"
@@ -1450,7 +1450,7 @@ english = "No, I shouldn't say “back then.” I don't even know when I lost it
 
 ["1410362"]
 japanese = "ねえ、<value:$28>、お願い！<line-break>手伝って！\u3000<value:$28>の力で、<line-break>私たちを助けて！\u3000お願い！<end>"
-english = "Please, <value:$28>! Help me! Use <value:$28>'s strength to help us! Please!<end>"
+english = "Please, <value:$28>! Help me! Use your strength to help us! Please!<end>"
 
 ["1410363"]
 japanese = "あ、ありがとう…うれしいよ、<line-break><value:$28>。<line-break>\u3000<line-break>あなたとなら、<line-break>きっと見つけられる。<line-break>私の心の欠片が…。<end>"

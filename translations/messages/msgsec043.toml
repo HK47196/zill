@@ -774,7 +774,7 @@ english = "Is that so? Then have a safe journey. Please do not overexert yoursel
 
 ["430193"]
 japanese = "<select><value:$20>%3また、冒険のお話など<line-break>お聞かせくださいませ。<end>世界に出て、<line-break>見聞をお広めになることは<line-break>大変よろしいことと存じます。\u3000\u3000<line-break>私めは、<value:$28>様に<line-break>何か、無限の可能性のようなものを<line-break>感じるのでございます。<end>旅先でエスト様にお会いになったら<line-break>たまには戻っていらっしゃるように<line-break>お伝えください。<line-break>あの方は研究熱心で、<line-break>常に消息が知れません。<line-break>困ったお方でございます。<end>"
-english = "<select><value:$20>%3Please tell me more about your adventures sometime.<end>I believe it is an excellent thing to go out into the world and broaden your horizons. I sense something like limitless potential in you, <value:$28>.<end>If you happen to meet Est on your travels, please pass along a message: do come back once in a while. Est is forever absorbed in research, and no one ever knows where Est is. Quite a troublesome person.<end>"
+english = "<select><value:$20>%3Please tell me more about your adventures sometime.<end>I believe it is an excellent thing to go out into the world and broaden your horizons. I sense something like limitless potential in you, <value:$28>.<end>If you happen to meet Lord Est on your travels, please pass along a message: do come back once in a while. Lord Est is forever absorbed in research, and no one ever knows where he is. Quite a troublesome person.<end>"
 
 ["430194"]
 japanese = "僕は、エスト＝リューガ。<line-break>こう見えても考古学者さ。\u3000\u3000\u3000<line-break>\u3000<line-break>古代の遺物、<line-break>闇の神器を探して旅してるんだ。<line-break>ね、闇の神器って知ってる？<end>"

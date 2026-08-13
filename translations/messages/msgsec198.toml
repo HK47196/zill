@@ -114,11 +114,11 @@ english = "Um, well... <value:$28>, what sorts of adventures have you been on?<e
 
 ["1980028"]
 japanese = "闇の神器…？<line-break>それってスゴいものなんですか？<end>"
-english = "A dark artifact...? Is it something really amazing?<end>"
+english = "A Dark Artifact...? Is it something really amazing?<end>"
 
 ["1980029"]
 japanese = "あ、いえ。もちろん知ってますよ。<line-break>闇の神器ですよね。<end>"
-english = "Oh, no. Of course I know. A dark artifact, right?<end>"
+english = "Oh, no. Of course I know. A Dark Artifact, right?<end>"
 
 ["1980030"]
 japanese = "えーと…。<line-break>……<line-break>……。<end>"
@@ -126,7 +126,7 @@ english = "Um...<end>"
 
 ["1980031"]
 japanese = "そうそう！\u3000闇の神器といえば、<line-break>小さいころ、おばあちゃんから<line-break>聞いたことがあるんです。<end>"
-english = "Oh, that's right! Speaking of dark artifacts, my grandmother told me a story about one when I was little.<end>"
+english = "Oh, that's right! Speaking of Dark Artifacts, my grandmother told me a story about one when I was little.<end>"
 
 ["1980032"]
 japanese = "えっ？\u3000どんな話って？<line-break>えーと、そ、その…。<line-break>あれは確か…。<end>"
@@ -138,7 +138,7 @@ english = "Oh, yes! I remember now! It was the legendary... um... f-frying pan!<
 
 ["1980034"]
 japanese = "と、とと…とにかくそのフライパンは<line-break>恐ろしい闇の神器なんです。<line-break>\u3000<line-break>世界を滅ぼすほどの破壊力を<line-break>秘めているほどの…。<line-break>\u3000<line-break>ひょっとしたら<line-break><value:$28>さんが<line-break>探しているのと同じものかも…。<end>"
-english = "A-anyway, that frying pan is a terrifying dark artifact. It holds enough destructive power to wipe out the whole world... It might even be the very one you're looking for, <value:$28>...<end>"
+english = "A-anyway, that frying pan is a terrifying Dark Artifact. It holds enough destructive power to wipe out the whole world... It might even be the very one you're looking for, <value:$28>...<end>"
 
 ["1980035"]
 japanese = "あ、あの…。<line-break>もしよろしければ、ですけど<line-break>私も協力させてくださいっ！<line-break>おばあちゃんから聞いた話が、<line-break>もしかすると何か手がかりに<line-break>なることだって…。<end>"
@@ -250,7 +250,7 @@ english = "You're joking, <value:$28>! You can't possibly be serious!<end>"
 
 ["1980062"]
 japanese = "今度こそ、本当にあきれたわ！<line-break>真偽を見極める目を持っていないから、<line-break>あんたたちは下等生物なのよぉ！<line-break>存在もしない伝説のフライパンを探す？<line-break>雲をつかむような話ってよく言うけど<line-break>まさに、これがそうよ！<end>"
-english = "Now I'm truly appalled! It's because you can't tell truth from falsehood that you're inferior creatures! You want to search for a Legendary Frying Pan that doesn't even exist? People talk about trying to grasp the clouds; this is exactly what they mean!<end>"
+english = "Now I'm truly appalled! It's because you can't tell truth from falsehood that you're inferior creatures! You want to search for a Legendary Frying Pan that doesn't even exist? What a hopeless wild-goose chase!<end>"
 
 ["1980063"]
 japanese = "<value:$28>さん…。<line-break>ほ、本当に探すんですか？<end>"
@@ -754,7 +754,7 @@ english = "Oh, that sounds wonderful. Traveling all over the world like that... 
 
 ["1980188"]
 japanese = "えっ？\u3000今は闇の神器を<line-break>探している…？<line-break>それってスゴいものなんですか？<end>"
-english = "What? You're looking for a dark artifact now...? Is it something really amazing?<end>"
+english = "What? You're looking for a Dark Artifact now...? Is it something really amazing?<end>"
 
 ["1980189"]
 japanese = "あ、えーと…。<line-break>………………。<end>"

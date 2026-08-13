@@ -106,7 +106,7 @@ english = "The hero who will give you light, Princess Atleia.<end>"
 
 ["750026"]
 japanese = "もう気付いてると思うけど、彼女が<line-break>この前話したかわいそうな王女、<line-break>アトレイア様さ。<line-break>僕は是非、彼女に光を与えてあげたい。<line-break>色惑の瞳、楽しみに待ってるからね。<end>"
-english = "I'm sure you've realized by now, but she's the poor princess I told you about: Lady Atleia. I truly want to give her light. I'll be eagerly awaiting the Eye of Enchantment.<end>"
+english = "I'm sure you've realized by now, but she's the poor princess I told you about: Lady Atleia. I truly want to give her light. I'll be eagerly awaiting the Eye of Allure.<end>"
 
 ["750027"]
 japanese = "それでは、王女様。<line-break>僕は<value:$28>を<line-break>王宮の外まで送ります。<end>"
@@ -138,7 +138,7 @@ english = "Ah!<end>"
 
 ["750034"]
 japanese = "アトレイア様、それがあなたの<line-break>新しい光、色惑の瞳です。<line-break>いかがですか、世界の色は？<end>"
-english = "Lady Atleia, this is your new light: the Eyes of Enchantment. How do the colors of the world look?<end>"
+english = "Lady Atleia, this is your new light: the Eye of Allure. How do the colors of the world look?<end>"
 
 ["750035"]
 japanese = "見える…、見えます…！<line-break>私…私…今、見えています！<end>"
@@ -190,7 +190,7 @@ english = "Don't you think it's about time Princess Atleia was allowed some happ
 
 ["750047"]
 japanese = "色惑の瞳という魔法の宝石がある。\u3000\u3000<line-break>この色惑の瞳の力を使えば、<line-break>王女に光を与えられる。<line-break>彼女のために、<line-break>取ってきてくれないかな？<line-break>もちろん、報酬は用意するよ。<end>"
-english = "There is a magical gemstone called the Eye of Enchantment. Its power can give the princess light. Would you retrieve it for her? There will be a reward, of course.<end>"
+english = "There is a magical gemstone called the Eye of Allure. Its power can give the princess light. Would you retrieve it for her? There will be a reward, of course.<end>"
 
 ["750048"]
 japanese = "引き受ける<end>"
@@ -218,7 +218,7 @@ english = "Well then, Princess, I'll see <value:$28> out of the palace.<end>"
 
 ["750054"]
 japanese = "でね、色惑の瞳のある場所なんだけど、<line-break>ここロストールから北西に見える、<line-break>邪眼の迷宮にあるんだ。<line-break>中には魔物がいると思うけど、<line-break>大丈夫。たぶん、君なら勝てるよ。<line-break>僕が見込んだ勇者様だからね。<end>"
-english = "Now, about where to find the Eyes of Enchantment: they're in the Evil Eye Labyrinth, which you can see to the northwest from here in Rostorl. There are probably monsters inside, but don't worry. You'll be fine. You can probably beat them. You're the Hero I have such high hopes for, after all.<end>"
+english = "Now, about where to find the Eye of Allure: it's in the Evil Eye Labyrinth, which you can see to the northwest from here in Rostorl. There are probably monsters inside, but don't worry. You'll be fine. You can probably beat them. You're the Hero I have such high hopes for, after all.<end>"
 
 ["750055"]
 japanese = "彼女に光を。<line-break>彼女の願い、かなえてほしい。<line-break>\u3000<line-break>じゃあね。<line-break><value:$28>。<end>"
@@ -250,7 +250,7 @@ english = "Well, come back sometime. You might change your mind.<end>"
 
 ["750062"]
 japanese = "アトレイア王女、<line-break>この人に頼んだんだ。\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>この<value:$28>こそが、<line-break>きっと君に色惑の瞳を…光を<line-break>持ってきてくれるはずさ。<end>"
-english = "Princess Atleia, I've asked this person to help. <value:$28> is sure to bring you the Eye of Enchantment... to bring you light.<end>"
+english = "Princess Atleia, I've asked this person to help. <value:$28> is sure to bring you the Eye of Allure... to bring you light.<end>"
 
 ["750063"]
 japanese = "そうなのですか…。<line-break>…<value:$28>さん、<line-break>どうか、よろしくお願いします。<end>"
@@ -294,7 +294,7 @@ english = "Welcome... <value:$28>.<end>"
 
 ["750073"]
 japanese = "…で、この前の話だけど、\u3000\u3000\u3000<line-break>考えてくれたかなあ？<line-break>\u3000<line-break>アトレイア王女に光を与えるために<line-break>宝石、色惑の瞳を探し出して<line-break>持ってきてほしいんだけど…。<end>"
-english = "So, about what we discussed before... Have you thought it over? To bring light to Princess Atleia, I'd like you to find the jewel known as the Eye of Enchantment and bring it here...<end>"
+english = "So, about what we discussed before... Have you thought it over? To bring light to Princess Atleia, I'd like you to find the jewel known as the Eye of Allure and bring it here...<end>"
 
 ["750074"]
 japanese = "引き受ける<end>"

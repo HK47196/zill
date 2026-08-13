@@ -890,7 +890,7 @@ english = "What are you going to do?<end>"
 
 ["1330222"]
 japanese = "<value:$28>を<line-break>甘く見ないことですね。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>闇の神器の力さえ取り除けば、<line-break><value:$28>は<line-break>破壊神にも負けはしないでしょう。<end>"
-english = "You underestimate <value:$28>. Once the power of the dark divine artifacts is removed, even the God of Destruction will not defeat <value:$28>.<end>"
+english = "You underestimate <value:$28>. Once the power of the Dark Artifacts is removed, even the God of Destruction will not defeat <value:$28>.<end>"
 
 ["1330223"]
 japanese = "あはは、おもしろいね。<line-break>確かにそうかもしれないよ。<line-break>ま、今回は一本とられたってとこかな。<line-break>でもね、これが切り札じゃないんだよ。<line-break>フフフ、ここから戻れたら、<line-break>エンシャントにおいでよ。<end>"
@@ -1018,7 +1018,7 @@ english = "One day... the hour of destruction will come... without my lifting a 
 
 ["1330254"]
 japanese = "せっかく<value:$28>と僕で<line-break>闇の神器を集めたのに、<line-break>あんなことで死なれちゃ困るからね。<line-break>フフフ。さあ、<value:$28>。<line-break>残りの神器を僕にくれないかな。<line-break>\u3000<end>"
-english = "After all the trouble <value:$28> and I took to gather the dark divine artifacts, I can't have you dying over something like that. Heh heh. Now then, <value:$28>. Would you give me the remaining divine artifacts?<end>"
+english = "After all the trouble <value:$28> and I took to gather the Dark Artifacts, I can't have you dying over something like that. Heh heh. Now then, <value:$28>. Would you give me the remaining Dark Artifacts?<end>"
 
 ["1330255"]
 japanese = "<if><value:$01><equal>2ネメア様は<line-break>本当に大丈夫なの！？<end><if><value:$01><equal>3ネメア様は<line-break>本当に大丈夫なんじゃろうな！？<end><if><value:$01><equal>4あら、平気かしら？<line-break>殺しちゃった？<end><if><value:$01><equal>5おお、すげえぜ！\u3000ネメアに勝った！<line-break>って、そういう問題じゃねぇか。<line-break>ネメア、大丈夫かな？<end><if><value:$01><equal>6これで本当に<line-break>ウルグを追い払えたの？<end><if><value:$01><equal>7ネメア様は<line-break>本当に無事なのだろうな！<end><if><value:$01><equal>9あら、平気かしら？<line-break>ひょっとして、やりすぎちゃった？<end><if><value:$01><equal>12本来のネメアだったら<line-break>やばかっただろうな…。<line-break>これでウルグは追い払えたのかい？<end><if><value:$01><equal>11ネメア様は<line-break>本当に無事なの？<end><if><value:$01><equal>13ネメアはどうなった？<end><if><value:$01><equal>10これでウルグは<line-break>いなくなったのかな？<end><if><value:$01><equal>14これでウルグは<line-break>追い払えたのかの？<end><if><value:$01><equal>15本当の力じゃなかったとはいえ、<line-break>…あのネメアさんに勝っちゃった。<line-break>でも、ネメアさんは大丈夫なの？<end><if><value:$01><equal>17ま、アタクシたちにかかれば、<line-break>こんなものね。<line-break>で、ウルグはいなくなったのかしら？<end><if><value:$01><equal>19わわわ、ネメアさん<line-break>倒れちゃったよぉ。<line-break>大丈夫なの？<end><if><value:$01><equal>20弱いな…。<line-break>ネメアとは思えん。<end><if><value:$01><equal>21これで、ウルグは、<line-break>去ったのだろうな。<end><if><value:$01><equal>23ネメア様は<line-break>本当に無事なのか…？！ <end><if><value:$01><equal>27本当にウルグを<line-break>追い払うことができたのか？<end><if><value:$01><equal>26本当に邪神ウルグを<line-break>追い払うことができたのじゃろうか？<end><if><value:$01><equal>24ネメア様…<line-break>ご無事なのでしょうか…<end><if><value:$01><equal>25これでウルグを…<line-break>追い払うことができたの…？<end><if><value:$01><equal>192危機は…<line-break>去ったのでしょうか？<end><if><value:$01><equal>193勝っちゃいました…。<line-break>あ、ネメアさんは平気でしょうか！？<end><if><value:$01><equal>194ウルグは…<line-break>奴から去ったのか？<end><if><value:$01><equal>191本来の力を出せてなかったようね。<line-break>ネメアは無事かしら？<end><if><value:$01><equal>190ふぅ…。<line-break>これでウルグを追い払えたのか？<end>邪神ウルグから英雄ネメアを救う…。<line-break>なんてすごい冒険なんだろう！<line-break>って、ホントにウルグに勝てたの？<end>"
@@ -2562,7 +2562,7 @@ english = "Well, I'm the priest here least suited to this sort of thing. Ha ha h
 
 ["1330640"]
 japanese = "イオンズ様、大変でございます。<line-break>お力を！<end>"
-english = "Ions, there's an emergency. Please help!<end>"
+english = "Lord Ions, there's an emergency. Please help!<end>"
 
 ["1330641"]
 japanese = "ああ、またかいな。<line-break>今行く。<end>"
@@ -2646,31 +2646,31 @@ english = "Ghee. I'm Izkiyal. Ions's friend.<end>"
 
 ["1330661"]
 japanese = "そして、\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>わしの生涯最大の強敵だった。<line-break>\u3000<line-break>なりは小さくしとるが、<line-break>こいつはティラの娘と呼ばれる<line-break>いにしえの闇の聖母の怪物だ。<end>"
-english = "And the greatest foe I ever faced. Small as Izukiyaru looks now, this is an ancient Dark Mother monster known as the Daughter of Tira.<end>"
+english = "And the greatest foe I ever faced. Small as Izkiyal looks now, this is an ancient Dark Mother monster known as the Daughter of Tira.<end>"
 
 ["1330662"]
 japanese = "こいつが復活したとき\u3000\u3000\u3000\u3000\u3000\u3000<line-break>わしがこいつと戦い、<line-break>かろうじて勝った。<line-break>わしはこいつに<line-break>とどめを刺そうとして、考えた。<line-break>怪物は悪なのか？\u3000とな。<end>"
-english = "When Izukiyaru came back to life, we fought, and I barely won. As I was about to deliver the final blow, a thought came to me: Is a monster evil?<end>"
+english = "When Izkiyal came back to life, we fought, and I barely won. As I was about to deliver the final blow, a thought came to me: Is a monster evil?<end>"
 
 ["1330663"]
 japanese = "わしはすぐに否と思うた。\u3000\u3000\u3000\u3000<line-break>人間に悪人も善人もないように、<line-break>怪物だから悪ということはない。<line-break>ならばどうする？<line-break>このまま生かしておけば、こいつは<line-break>傷が癒えた日に里を襲うだろう。<end>"
-english = "I knew at once the answer was no. Just as humans cannot simply be divided into good and evil, being a monster does not make one evil. But then what? If I let Izukiyaru live, the village would be attacked as soon as those wounds healed.<end>"
+english = "I knew at once the answer was no. Just as humans cannot simply be divided into good and evil, being a monster does not make one evil. But then what? If I let Izkiyal live, the village would be attacked as soon as those wounds healed.<end>"
 
 ["1330664"]
 japanese = "その前に\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>こいつの牙と爪を見た者が<line-break>こいつに戦いを挑むかもしれぬ。<line-break>争えば憎しみだけが残り、<line-break>封じれば恨みだけが先送りされる。<end>"
-english = "Even before that, someone who saw those fangs and claws might challenge Izukiyaru to a fight. Fighting leaves only hatred, while sealing a creature away merely postpones resentment.<end>"
+english = "Even before that, someone who saw those fangs and claws might challenge Izkiyal to a fight. Fighting leaves only hatred, while sealing a creature away merely postpones resentment.<end>"
 
 ["1330665"]
 japanese = "殺せば、生まれたことの悲しみと<line-break>虚無だけが勝利する。<line-break>わしは答えが出せなんだ。<line-break>じゃから、わしは、<line-break>話しおうてみることにした。<end>"
-english = "If I killed Izukiyaru, only the sorrow of having been born and the Void would triumph. I could find no answer. So I decided to try talking things through.<end>"
+english = "If I killed Izkiyal, only the sorrow of having been born and the Void would triumph. I could find no answer. So I decided to try talking things through.<end>"
 
 ["1330666"]
 japanese = "傷ついたこいつが眠る洞窟へ何度も\u3000\u3000<line-break>足を運んだ。こいつは怒りと悲しみに<line-break>むしばまれておった。<line-break>こいつの人生は、追われ、傷つけられ、<line-break>封じられ、恨み、殺し、破壊することの<line-break>繰り返しじゃった。<end>"
-english = "Again and again, I went to the cave where the wounded Izukiyaru slept. Anger and sorrow were eating away at that creature. Izukiyaru's life had been an endless cycle of being hunted, wounded, and sealed away―of hatred, killing, and destruction.<end>"
+english = "Again and again, I went to the cave where the wounded Izkiyal slept. Anger and sorrow were eating away at that creature. Izkiyal's life had been an endless cycle of being hunted, wounded, and sealed away―of hatred, killing, and destruction.<end>"
 
 ["1330667"]
 japanese = "わしは小さくなる魔法を教えた。\u3000\u3000\u3000<line-break>せめて、姿が人の恐怖を誘わなければ、<line-break>この悪い輪から逃れられると思ってな。<line-break>最後には、こいつは<line-break>わしの申し出を受け入れてくれよった。<end>"
-english = "I taught Izukiyaru a spell for becoming small. I thought that if that form no longer inspired fear in people, there might at least be a way out of that vicious cycle. In the end, Izukiyaru accepted my offer.<end>"
+english = "I taught Izkiyal a spell for becoming small. I thought that if that form no longer inspired fear in people, there might at least be a way out of that vicious cycle. In the end, Izkiyal accepted my offer.<end>"
 
 ["1330668"]
 japanese = "ソノマエニ、\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ダイブヤリアッタガ、ナ。<end>"
@@ -2678,7 +2678,7 @@ english = "We fought plenty before that, though.<end>"
 
 ["1330669"]
 japanese = "こいつは今、自分の意志で\u3000\u3000\u3000\u3000<line-break>こうして小さくなっておる。<line-break>\u3000\u3000<line-break>じゃが、その気になればいつでも、<line-break>もとの姿になって、<line-break>この町ぐらい、軽く焼き尽くせる。<end>"
-english = "Izukiyaru now takes this small form by choice. But if so inclined, Izukiyaru could return to the original form at any time and burn a town this size to ashes with ease.<end>"
+english = "Izkiyal now takes this small form by choice. But if so inclined, Izkiyal could return to the original form at any time and burn a town this size to ashes with ease.<end>"
 
 ["1330670"]
 japanese = "ギー、ソントキャ、オマエガ、<line-break>オレヲ、タイジシテクレンダロ？<end>"
@@ -2686,7 +2686,7 @@ english = "Ghee. If that happens, you'll kill me, won't you?<end>"
 
 ["1330671"]
 japanese = "フフ、そうじゃ。\u3000\u3000<line-break>ま、そういう奴だ。<end>"
-english = "Heh. That's right. Well, that's Izukiyaru for you.<end>"
+english = "Heh. That's right. Well, that's Izkiyal for you.<end>"
 
 ["1330672"]
 japanese = "ギー、\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>オレ、コドモタチト、アソブー！<end>"
@@ -3042,7 +3042,7 @@ english = "I shall do as I desire: rule the world... destroy it... erase it from
 
 ["1330760"]
 japanese = "おー、さすがは伝説の魔王だね。<line-break>風格があるよ。頼もしいーっ！<line-break>\u3000<line-break>闇の王女・ティアナ、<line-break>魔王バロルに仕える神聖なる闇の巫女よ<line-break>彼ならきっと君の願いを救えるよ。<line-break>さあ、そのかわいい唇で告げて？<line-break>君は、何を、望むの？<end>"
-english = "Oh, just what you'd expect from a legendary Demon King. So imposing! So reassuring! Tiana, Princess of Darkness, sacred priestess of darkness who serves Balor, Demon King―surely he can save your wish. Now, speak it with those pretty lips of yours. What... do you... desire?<end>"
+english = "Oh, just what you'd expect from a legendary Demon King. So imposing! So reassuring! Tiana, Princess of Darkness, sacred priestess of darkness who serves Balor, Demon King―surely he can grant your wish. Now, speak it with those pretty lips of yours. What... do you... desire?<end>"
 
 ["1330761"]
 japanese = "エア\u3000ボリューム５\u3000終了<end>"

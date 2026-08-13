@@ -770,7 +770,7 @@ english = "I am Shemhaza, elder of Ulkarne. Come to my home. There is something 
 
 ["1340192"]
 japanese = "どこでこの地にあることを知ったか<line-break>闇の神器『束縛の腕輪』を渡せと<line-break>言ってきたのだ。<line-break>束縛の腕輪は、強大な力を持つ<line-break>闇の神器だ。利己的な欲望のために<line-break>使ってはならないのだよ。<end>"
-english = "I do not know where he learned it was here, but he demanded that we hand over the dark divine artifact known as the Bracelet of Binding. The Bracelet of Binding is immensely powerful. It must never be used to satisfy selfish desires.<end>"
+english = "I do not know where he learned it was here, but he demanded that we hand over the Dark Artifact known as the Bracelet of Binding. The Bracelet of Binding is immensely powerful. It must never be used to satisfy selfish desires.<end>"
 
 ["1340193"]
 japanese = "神器をあの野心的な簒奪者に渡せば<line-break>いったいどんな災厄を世界に<line-break>もたらすことになるかわからぬ。<end>"
@@ -858,7 +858,7 @@ english = "Careless of me.<end>"
 
 ["1340214"]
 japanese = "闇の神器を使えば、力は得られるが、<line-break>闇に墜ちてしまうのじゃぞ！<end>"
-english = "A dark divine artifact may grant you power, but it will also drag you into darkness!<end>"
+english = "A Dark Artifact may grant you power, but it will also drag you into darkness!<end>"
 
 ["1340215"]
 japanese = "闇の力では何も守れん。<line-break>ただ、破滅へと導かれるのみ…。<end>"
@@ -922,7 +922,7 @@ english = "That's true too. But what exactly are you getting at?<end>"
 
 ["1340230"]
 japanese = "闇の神器…先文明の、究極の魔道器。<line-break>あなたは、ある程度までだが、その力を<line-break>抽出することにも成功している。<line-break>そして、あなたはその力を、<line-break>愚かな人間どもに与えようとしている。<line-break>それをやめていただきたいのです。<end>"
-english = "The dark divine artifact―the ultimate magical device of the former civilization. You have even managed, to some extent, to extract its power. And now you intend to give that power to those foolish humans. I must ask you to stop.<end>"
+english = "The Dark Artifact―the ultimate magical device of the former civilization. You have even managed, to some extent, to extract its power. And now you intend to give that power to those foolish humans. I must ask you to stop.<end>"
 
 ["1340231"]
 japanese = "どうして？<line-break>それが僕の目的なのに？<end>"
@@ -958,7 +958,7 @@ english = "What is it, Narscess?<end>"
 
 ["1340239"]
 japanese = "この邪悪な魔道士は闇の神器を使って<line-break>世界を滅ぼそうとしている。<line-break>彼を倒すのだ！<end>"
-english = "This evil mage intends to use the dark divine artifact to destroy the world. Strike him down!<end>"
+english = "This evil mage intends to use the Dark Artifact to destroy the world. Strike him down!<end>"
 
 ["1340240"]
 japanese = "ま、待って！<line-break>そんなの嘘だ！<end>"
@@ -986,7 +986,7 @@ english = "Y-you...<end>"
 
 ["1340246"]
 japanese = "わたしは、ノエル。<line-break>焦燥の耳飾りを渡してくれさえすれば、\u3000\u3000\u3000<line-break>あなたに一切危害は加えません。<line-break>闇の神器は誰の手にも危険なもの…。<line-break>あなたの邪魔がしたいんじゃないんです。<line-break>世界の危機を防ぎたいんです！<end>"
-english = "My name is Noel. If you give me the Earring of Impatience, no harm will come to you. The dark divine artifact is dangerous in anyone's hands. I'm not trying to stand in your way. I'm trying to avert a crisis that threatens the world!<end>"
+english = "My name is Noel. If you give me the Earring of Impatience, no harm will come to you. The Dark Artifact is dangerous in anyone's hands. I'm not trying to stand in your way. I'm trying to avert a crisis that threatens the world!<end>"
 
 ["1340247"]
 japanese = "あ…ありがとう！<end>"
@@ -1006,7 +1006,7 @@ english = "Don't worry. I'm Raven. Like you, I owe a debt to Noel's soul.<end>"
 
 ["1340251"]
 japanese = "<value:$28>…。             <line-break> <line-break> <line-break><value:$28>、彼を倒せ！<line-break>そこの魔道士は闇の神器を使って<line-break>世界を滅ぼそうとしていたのだ！<end>"
-english = "<value:$28>... <value:$28>, strike him down! That mage was trying to use the dark divine artifact to destroy the world!<end>"
+english = "<value:$28>... <value:$28>, strike him down! That mage was trying to use the Dark Artifact to destroy the world!<end>"
 
 ["1340252"]
 japanese = "ナ、ナーシェス！？<end>"
@@ -1066,7 +1066,7 @@ english = "I heard the commotion and came back. I meant to help if you were in d
 
 ["1340266"]
 japanese = "ええ。私たち、負けちゃいました。<line-break>正々堂々戦って、負けたんです。<line-break>レイヴン、闇の神器はナーシェスに？<end>"
-english = "Yes. We lost. We fought fair and square, and we lost. Raven, did you give the dark divine artifact to Narscess?<end>"
+english = "Yes. We lost. We fought fair and square, and we lost. Raven, did you give the Dark Artifact to Narscess?<end>"
 
 ["1340267"]
 japanese = "いや、渡していないが…<line-break>ノエル、まさか？<end>"
@@ -1094,7 +1094,7 @@ english = "Very well. I'll abide by your decision.<end>"
 
 ["1340273"]
 japanese = "エスト・リューガ博士。<line-break>君にも異存はないだろう？<line-break> <line-break>闇の神器、焦燥の耳飾りは、<line-break><value:$28>に渡す。<end>"
-english = "Dr. Est Ryuga, I trust you have no objection. We will give the dark divine artifact, the Earring of Impatience, to <value:$28>.<end>"
+english = "Dr. Est Ryuga, I trust you have no objection. We will give the Dark Artifact, the Earring of Impatience, to <value:$28>.<end>"
 
 ["1340274"]
 japanese = "う、うん…。<end>"
@@ -1146,7 +1146,7 @@ english = "Something's still wrong! <value:$28> would never help a bad person!<e
 
 ["1340286"]
 japanese = "あたしもそうは思ったけど…<line-break>この青白いのは、現に闇の神器の力を<line-break>使っていたようじゃないさ。<line-break>それを知ったら、<line-break>ナーシェスの言ったことも、<line-break>まるきり否定できなくなるわ。<end>"
-english = "I thought so too, but this pale-faced fellow really did seem to be using the power of the dark divine artifact. Knowing that, we can't dismiss everything Narscess said.<end>"
+english = "I thought so too, but this pale-faced fellow really did seem to be using the power of the Dark Artifact. Knowing that, we can't dismiss everything Narscess said.<end>"
 
 ["1340287"]
 japanese = "でも…<line-break>あ、<value:$28>さん！<end>"
@@ -1174,7 +1174,7 @@ english = "Raven!<end>"
 
 ["1340293"]
 japanese = "命が惜しくば、闇の神器に<line-break>手を出すのをやめることだ…。<end>"
-english = "If you value your life, cease meddling with the dark divine artifact.<end>"
+english = "If you value your life, cease meddling with the Dark Artifact.<end>"
 
 ["1340294"]
 japanese = "レイヴン！\u3000大丈夫？！<end>"
@@ -1214,7 +1214,7 @@ english = "N-no wonder Balor, Demon King, was defeated... Wh-what an overwhelmin
 
 ["1340303"]
 japanese = "命が惜しくば、闇の神器を渡すことだ。<line-break>そして二度と、それに関わらぬことを<line-break>約束せよ。<end>"
-english = "If you value your lives, hand over the dark divine artifact and swear never to involve yourselves with it again.<end>"
+english = "If you value your lives, hand over the Dark Artifact and swear never to involve yourselves with it again.<end>"
 
 ["1340304"]
 japanese = "…フ、フフフ。<end>"
@@ -1574,7 +1574,7 @@ english = "Mnyuu...<end>"
 
 ["1340393"]
 japanese = "ほーっほっほっ、<line-break>むにゅー、ですわねー。<end>"
-english = "Ohohoho! Squishy, isn't it?<end>"
+english = "Ohohoho! Mnyuu, indeed!<end>"
 
 ["1340394"]
 japanese = "見事です。あなたこそ、<line-break>ストラスエッジの所有者に<line-break>ふさわしいお方。<end>"
@@ -1594,7 +1594,7 @@ english = "Mnnngh...<end>"
 
 ["1340398"]
 japanese = "ほーっほっほっ、<line-break>むにゅー、ですわねー。<end>"
-english = "Ohohoho! Squishy, isn't it?<end>"
+english = "Ohohoho! Mnyuu, indeed!<end>"
 
 ["1340399"]
 japanese = "これは、<value:$28>様。<line-break>どうぞ、お通りください。<end>"

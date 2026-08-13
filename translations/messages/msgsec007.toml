@@ -38,7 +38,7 @@ english = "<if><value:$2C><less-equal>%29Spell-type skills that let you use magi
 
 ["70009"]
 japanese = "<if><value:$2A><less-equal>%49魔法を使うにはスキルも必要だけど、それと<line-break>同じくらい精霊力レベルが重要なんだ。<line-break>ＭＰが足りているのに使えない魔法があったら<line-break>精霊力レベルが足りないのかもしれないよ。<line-break>もし火属性の魔法が使えなかったら、それは<line-break>火の精霊力レベルが低いってことだからね。<end><if><value:$2A><less-equal>%100ネガヴァニティアというソウルがあるんだ。\u3000<line-break>闇属性の魔法を使うことのできる唯一のソウル<line-break>なんだけど、宿している人は少ないんだよ。<line-break>このソウルを宿すには、やさしさＫｉｎｄが<line-break>極端に低くないといけないんだ。闇の力を<line-break>使う人にやさしさは不要ってことなのかな。<end>ネガヴァニティアのソウルを宿していないと、<line-break>闇の禁呪は使えないよ。もっとも封印を<line-break>解くことができればの話だけどね。<end>"
-english = "<if><value:$2A><less-equal>%49You need the right skill to cast magic, but your spirit power level is just as important. If you have enough ＭＰ but still can't cast a spell, your spirit power level may be too low. If you can't use Fire-element magic, for instance, that means your Fire spirit power level is low.<end><if><value:$2A><less-equal>%100There's a Soul called Negavanitia. It's the only Soul that allows the use of Dark-element magic, but very few people possess it. To harbor this Soul, your Ｋｉｎｄ must be extremely low. Does that mean anyone who uses the power of darkness has no need for kindness?<end>You can't use a Dark Forbidden Spell without the Negavanitia Soul. That's assuming you can break the seal, of course.<end>"
+english = "<if><value:$2A><less-equal>%49You need the right skill to cast magic, but your spirit power level is just as important. If you have enough MP but still can't cast a spell, your spirit power level may be too low. If you can't use Fire-element magic, for instance, that means your Fire spirit power level is low.<end><if><value:$2A><less-equal>%100There's a Soul called Negavanitia. It's the only Soul that allows the use of Dark-element magic, but very few people possess it. To harbor this Soul, your Ｋｉｎｄ must be extremely low. Does that mean anyone who uses the power of darkness has no need for kindness?<end>You can't use a Dark Forbidden Spell without the Negavanitia Soul. That's assuming you can break the seal, of course.<end>"
 
 ["70010"]
 japanese = "<select><value:$20>%3ぼくがまだ子供だったころ、うちの爺さんが<line-break>毎夜のように昔話を聞かせてくれたんだ。<line-break>特に英雄伝説が面白かったよ。<end>ぼくも昔話にでてくるような英雄に<line-break>なろうと思っていたけど、<line-break>現実は厳しいものだね。<end>勇者ネメアは現代の英雄だね。<line-break>きっと彼の活躍は何百年たっても<line-break>伝説として語り継がれると思うよ。<end>"
@@ -90,11 +90,11 @@ english = "This is Lord Hugo's villa.<end>"
 
 ["70022"]
 japanese = "フゴー様はリベルダムに住んでおられます。<line-break>ご用でしたら、そちらを訪ねてください。<end>"
-english = "Hugo lives in Liberdam. If you have business with him, please call on him there.<end>"
+english = "Lord Hugo lives in Liberdam. If you have business with him, please call on him there.<end>"
 
 ["70023"]
 japanese = "ここから先はフゴー様の邸宅となります。<line-break>お客様の立ち入りはご遠慮いただきます。<end>"
-english = "Beyond this point is Hugo's residence. Visitors are asked not to enter.<end>"
+english = "Beyond this point is Lord Hugo's residence. Visitors are asked not to enter.<end>"
 
 ["70024"]
 japanese = "闘技場は現在工事中だ。<line-break>工事が終わるまでは入れないぞ。<end>"
