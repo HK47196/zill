@@ -298,7 +298,7 @@ english = "You see, I have this grand ambition: to live to a ripe old age, wheed
 
 ["1370074"]
 japanese = "ま、そう言うなよ。ディンガル軍の<line-break>騎士になろうが、アイリーンが<line-break>俺の弟子だって事実は変わらない。<line-break>だからこそ、俺の弟子が<line-break>どのように育っているかを見定めるのも、<line-break>まぁ、師匠の務めってものなのさ。<end>"
-english = "Oh, don't say that. Even if Irene becomes a knight in the Dingal Army, that doesn't change the fact that she's my pupil. So I suppose seeing how she's grown is part of a master's duty.<end>"
+english = "Oh, don't say that. Even if Irene becomes a knight in the Dyneskal Army, that doesn't change the fact that she's my pupil. So I suppose seeing how she's grown is part of a master's duty.<end>"
 
 ["1370075"]
 japanese = "アイリーンという若葉に、<line-break>俺はどのような光を与えてやれたのか。<line-break>そこに咲く花の色に、俺は責任がある。\u3000\u3000<line-break>たとえそれが、<line-break>どんな色であろうとな。<line-break>\u3000<end>"
@@ -334,7 +334,7 @@ english = "We're not out of danger yet, but I'd like to believe Irene will keep 
 
 ["1370083"]
 japanese = "今回の戦いのあと、道場に人が殺到だ。<line-break>自警団を強化しようとか言ってな。<line-break>逃げようってよりはいいんだろうがな。<line-break>だが、そんなことをしても、<line-break>ディンガル軍を刺激するだけだ。<line-break>今はおとなしくした方がいい。<end>"
-english = "People have been flooding into the dojo since the battle, talking about strengthening the town watch. I suppose that's better than running away. But it'll only provoke the Dingal Army. For now, we'd be wiser to lie low.<end>"
+english = "People have been flooding into the dojo since the battle, talking about strengthening the town watch. I suppose that's better than running away. But it'll only provoke the Dyneskal Army. For now, we'd be wiser to lie low.<end>"
 
 ["1370084"]
 japanese = "よう、<value:$28>。<line-break>俺に何か用かい？\u3000…つっても俺にゃ、\u3000<line-break>もう、お前さんに教えることはないな。<line-break>でも、最後にひとつ言わしてもらうか。<line-break>お前さんは、歴史を知っているだろう？<line-break>歴史をただの知識にはしないでくれ。<end>"
@@ -374,15 +374,15 @@ english = "Hey, <value:$28>. Thanks for your help the other day. I'm glad you we
 
 ["1370093"]
 japanese = "アイリーンなら大丈夫だろう。<line-break>あいつの目から迷いがなくなっていたからな。<line-break>いい騎士になってくれると思うぜ。<line-break>あれからディンガル軍が動く気配はないしな。<line-break>俺としては、カルラの襲撃計画を<line-break>アイリーンがとめてくれたと思いたいね。<end>"
-english = "Irene will be all right. There was no hesitation left in her eyes. I think she'll make a fine knight. There has been no sign of the Dingal Army moving since then. I'd like to believe Irene stopped Karula's plan to attack.<end>"
+english = "Irene will be all right. There was no hesitation left in her eyes. I think she'll make a fine knight. There has been no sign of the Dyneskal Army moving since then. I'd like to believe Irene stopped Karula's plan to attack.<end>"
 
 ["1370094"]
 japanese = "今のところディンガル軍に動きはない。<line-break>この街もどことなく不安が漂ってはいるが、<line-break>住民の生活の息づかいは元に戻りつつある。<line-break>もともとこの平民街は、ロストール王家から<line-break>援助を受けていたわけではないからな。<line-break>昔も今も、自分たちの力で生きているんだ。<end>"
-english = "So far, the Dingal Army has made no move. There is still an undercurrent of anxiety in this town, but the pulse of the townspeople's lives is gradually returning to normal. This commoners' quarter has never received aid from the Rostorl royal family. Then as now, its people have lived by their own strength.<end>"
+english = "So far, the Dyneskal Army has made no move. There is still an undercurrent of anxiety in this town, but the pulse of the townspeople's lives is gradually returning to normal. This commoners' quarter has never received aid from the Rostorl royal family. Then as now, its people have lived by their own strength.<end>"
 
 ["1370095"]
 japanese = "その力はたくましいものだが、武力に対抗する<line-break>種類の力ではない。<line-break>だから、俺がここにいるんだ。<line-break>これからも、ディンガルがこの街を<line-break>つぶしに来ない限り、<line-break>俺の方から動くつもりはない。<end>"
-english = "It's a hardy sort of strength, but not one that can stand against military force. That's why I'm here. Unless Dingal comes to crush this town, I have no intention of making the first move.<end>"
+english = "It's a hardy sort of strength, but not one that can stand against military force. That's why I'm here. Unless Dyneskal comes to crush this town, I have no intention of making the first move.<end>"
 
 ["1370096"]
 japanese = "よう、<value:$28>。<line-break>この前は世話になったな。<line-break>アイリーンの様子はどうだい？<end>"
@@ -1398,7 +1398,7 @@ english = "Argyleshire took something precious from me. I will become stronger, 
 
 ["1370349"]
 japanese = "ここがディンガル帝国の首都<line-break>エンシャントだ。<line-break>\u3000<line-break>町の中でまで群れては歩かん。<line-break>町を出るまでは別行動が冒険者同士の<line-break>暗黙のルールだ。憶えておけ。<end>"
-english = "This is Ancient, capital of the Dingal Empire. Adventurers don't travel in packs inside the city. Until we leave town, we go our separate ways. It's an unwritten rule. Remember that.<end>"
+english = "This is Ancient, capital of the Dyneskal Empire. Adventurers don't travel in packs inside the city. Until we leave town, we go our separate ways. It's an unwritten rule. Remember that.<end>"
 
 ["1370350"]
 japanese = "追加メッセージここから<end>"
@@ -1486,7 +1486,7 @@ english = "<if><value:$29><equal>%0Is... is that you, <value:$28>? R-run... hurr
 
 ["1370371"]
 japanese = "<select><value:$20>%3今の地震といい魔物騒ぎといい…、<line-break>天空神ノトゥーンさまが<line-break>お怒りなのかのう…。<line-break>ロセンでは悪い王が<line-break>民をいじめておるからのう。<end>今の地震といい魔物騒ぎといい…、<line-break>天空神ノトゥーンさまが<line-break>お怒りなのかのう…。\u3000<line-break>ディンガルでは皇帝が<line-break>世界を救った勇者ネメア様を<line-break>いじめておるというからのう…。<end>今の地震といい魔物騒ぎといい…、<line-break><value:$28>様、<line-break>世界は滅ぶのではないですかのう。\u3000\u3000\u3000\u3000<line-break>リベルダムでは魔物を改造して<line-break>戦争のための道具にしておるそうですじゃ。<line-break>これでは神様もお怒りでしょうのう。<end>"
-english = "<select><value:$20>%3With that earthquake and all this trouble with monsters... perhaps the Sky God Notun is angry. A wicked king in Rocen is tormenting the people, after all.<end>With that earthquake and all this trouble with monsters... perhaps the Sky God Notun is angry. Word is, the emperor in Dingal is persecuting Lord Nemea, the Hero who saved the world...<end>After that earthquake and all this trouble with monsters... do you think the world is coming to an end, <value:$28>? I hear monsters are being altered in Liberdam and turned into weapons of war. No wonder the gods are angry.<end>"
+english = "<select><value:$20>%3With that earthquake and all this trouble with monsters... perhaps the Sky God Notun is angry. A wicked king in Rocen is tormenting the people, after all.<end>With that earthquake and all this trouble with monsters... perhaps the Sky God Notun is angry. Word is, the emperor in Dyneskal is persecuting Lord Nemea, the Hero who saved the world...<end>After that earthquake and all this trouble with monsters... do you think the world is coming to an end, <value:$28>? I hear monsters are being altered in Liberdam and turned into weapons of war. No wonder the gods are angry.<end>"
 
 ["1370372"]
 japanese = "<select><value:$20>%3ロイ様は修行の旅から戻られて<line-break>いっそうたくましくなられましたな。<line-break>\u3000<line-break>少々魔物がうろついたところで、<line-break>ロイ様と<value:$28>様が<line-break>おられれば安心ですな。<end><value:$28>様もロイ様のように、<line-break>神器の守護者としての実力をつけるため<line-break>いずれは旅に出られるのでしょうなあ。<end>ロイ様の持っておられる短剣は<line-break>日光という聖剣らしいですな。<line-break>修行の旅の途中見つけられたとか。<end>"

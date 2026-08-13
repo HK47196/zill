@@ -54,7 +54,7 @@ english = "I'm off to practice with my sword. See you.<end>"
 
 ["530013"]
 japanese = "<value:$28>か。<line-break>先のディンガルとの戦で\u3000\u3000\u3000\u3000\u3000<line-break>兄、ノヴィンが死んだ。<line-break>気の利かぬ、察しの悪い男だった。<line-break>よく言えば、たくらみのない、<line-break>悪く言えば、ぼんくらな男だった。<end>"
-english = "<value:$28>, is it? My brother Novin died in the recent war with Dingal. He was thoughtless and slow to understand. At best, he was guileless; at worst, a fool.<end>"
+english = "<value:$28>, is it? My brother Novin died in the recent war with Dyneskal. He was thoughtless and slow to understand. At best, he was guileless; at worst, a fool.<end>"
 
 ["530014"]
 japanese = "自分のあり方に疑問を抱かなかった。<line-break>一切な。そういう人間は得てして<line-break>はた迷惑なものだが、兄もそうだった。<end>"
@@ -70,7 +70,7 @@ english = "Xenetes is my brother's son, my nephew. He also distinguished himself
 
 ["530017"]
 japanese = "フフ、ゼネテスの正体を知って\u3000\u3000\u3000\u3000<line-break>驚いているのか、<line-break><value:$28>？<line-break>驚いているのは私の方だ。<line-break>私の配下がディンガル側にいて<line-break>ロストール軍と戦っているのだからな。<end>"
-english = "Heh. Surprised to learn who Xenetes really is, <value:$28>? I am the one who should be surprised. One of my own retainers was on Dingal's side, fighting Rostorl's army.<end>"
+english = "Heh. Surprised to learn who Xenetes really is, <value:$28>? I am the one who should be surprised. One of my own retainers was on Dyneskal's side, fighting Rostorl's army.<end>"
 
 ["530018"]
 japanese = "リューガ家に売国奴の反逆者を出して<line-break>レムオンを巻き込もうとしたのか？\u3000<line-break>\u3000<line-break>もしそうならば<line-break>以後、そのような<line-break>愚かなマネはせぬことだ。<end>"

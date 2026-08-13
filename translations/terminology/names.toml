@@ -855,19 +855,19 @@ source_ids = [279]
 
 [[entry]]
 japanese = "ディンガル歩兵"
-english = "Dingal Infantryman"
+english = "Dyneskal Infantryman"
 scope = "speaker_label"
 source_ids = [280]
 
 [[entry]]
 japanese = "ディンガル兵長"
-english = "Dingal Sergeant"
+english = "Dyneskal Sergeant"
 scope = "speaker_label"
 source_ids = [281]
 
 [[entry]]
 japanese = "ディンガル突撃兵"
-english = "Dingal Shock Trooper"
+english = "Dyneskal Shock Trooper"
 scope = "speaker_label"
 source_ids = [282]
 
@@ -1088,7 +1088,7 @@ source_ids = [323]
 
 [[entry]]
 japanese = "ディンガル官憲"
-english = "Dingal Constable"
+english = "Dyneskal Constable"
 scope = "speaker_label"
 source_ids = [324]
 
@@ -1100,7 +1100,7 @@ source_ids = [325]
 
 [[entry]]
 japanese = "ディンガル士官"
-english = "Dingal Officer"
+english = "Dyneskal Officer"
 scope = "speaker_label"
 source_ids = [326, 697, 698, 699]
 
@@ -2005,7 +2005,7 @@ source_ids = [691]
 
 [[entry]]
 japanese = "ディンガル兵"
-english = "Dingal Soldier"
+english = "Dyneskal Soldier"
 scope = "source_records"
 source_ids = [692, 693, 694, 695, 696]
 
@@ -2546,7 +2546,7 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "ディンガル政庁"
-english = "Dingal Government Office"
+english = "Dyneskal Government Office"
 scope = "global_surface"
 
 [[entry]]
@@ -3883,17 +3883,18 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "ディンガル"
-english = "Dingal"
+# Official English translation established by the prequel.
+english = "Dyneskal"
 scope = "global_surface"
 
 [[entry]]
 japanese = "ディンガル帝国"
-english = "Dingal Empire"
+english = "Dyneskal Empire"
 scope = "global_surface"
 
 [[entry]]
 japanese = "ディンガル軍"
-english = "Dingal Army"
+english = "Dyneskal Army"
 scope = "global_surface"
 
 [[entry]]

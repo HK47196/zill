@@ -162,7 +162,7 @@ english = "Our destination is the Island of the Dark Gate, southwest of the cont
 
 ["260040"]
 japanese = "やっぱ、ネメア様がいないと<line-break>ディンガル帝国ってダメなのよ。<line-break>くやしいけど、あたしじゃ力不足なの。<line-break>だから、ネメア様を助けに行くわよ。<line-break>大陸の南西にある島、闇の門の島へね。<line-break><end>"
-english = "The Dingal Empire really is hopeless without Nemea. I hate to admit it, but I'm not strong enough. So we're going to rescue Nemea on the island southwest of the continent: the Island of the Dark Gate.<end>"
+english = "The Dyneskal Empire really is hopeless without Nemea. I hate to admit it, but I'm not strong enough. So we're going to rescue Nemea on the island southwest of the continent: the Island of the Dark Gate.<end>"
 
 ["260041"]
 japanese = "大切な事だから確認しとくけど、<line-break>姉ちゃん、オルファウスの話<line-break>忘れてないよな？<line-break>俺たちの目的はネメア救出だぜ。<line-break>そして目的地は大陸の南西にある島だ。<line-break>姉ちゃん、がんばろうな。<end>"
@@ -342,7 +342,7 @@ english = "A password connected to the Empire? Why would you think I knew such a
 
 ["260085"]
 japanese = "アキュリュースの港にいる女の人って<line-break>ディンガル諜報部の人だよね？<line-break>合い言葉なんて諜報部って感じだもの。<line-break>ぼくも合い言葉を言ってみたいなぁ。<line-break>帝国はあの陽より輝く、なんて<line-break>普通は言わないもんね。<end>"
-english = "The woman at the harbor in Aqyurius is with Dingal Intelligence, right? Passwords feel very... intelligence agency. I'd like to say one too. People don't normally say things like “The Empire shines brighter than that sun.”<end>"
+english = "The woman at the harbor in Aqyurius is with Dyneskal Intelligence, right? Passwords feel very... intelligence agency. I'd like to say one too. People don't normally say things like “The Empire shines brighter than that sun.”<end>"
 
 ["260086"]
 japanese = "やれやれ、アンギルダンも、<line-break>物好きな奴だ。<line-break>だが、私は彼とは違うぞ。<line-break>どんなに素質があろうとも、<line-break>合い言葉を忘れるような人間に、<line-break>未来はありはしない。<end>"
@@ -350,11 +350,11 @@ english = "Good grief. Angeerdan has peculiar tastes. But I am not like him. No 
 
 ["260087"]
 japanese = "ディンガル帝国の合い言葉…。<line-break>………………<line-break>あっ、いえ…<line-break><value:$28>様の<line-break>邪魔になるようなことは<line-break>いたしません。<end>"
-english = "The Dingal Empire's password... ……………… Ah, no... I would never do anything that might hinder you, <value:$28>.<end>"
+english = "The Dyneskal Empire's password... ……………… Ah, no... I would never do anything that might hinder you, <value:$28>.<end>"
 
 ["260088"]
 japanese = "ディンガル帝国の合い言葉かぁ。<line-break>欲しい国一杯ありそう。<line-break>あっ…ごめんなさい。<line-break>お兄ちゃん…<line-break>ヴィアはそんなことしないよ。<end>"
-english = "The Dingal Empire's password... I bet lots of countries would want it. Oh... sorry, big brother. Via would never do that.<end>"
+english = "The Dyneskal Empire's password... I bet lots of countries would want it. Oh... sorry, big brother. Via would never do that.<end>"
 
 ["260089"]
 japanese = "アンギルダンに教えられた合言葉？<line-break>たしか、アキュリュースの港にいる<line-break>女に言えと告げられたアレじゃろう？<line-break>しかし、うーむ、何だったか。<line-break>何せこの歳、すぐ忘れてしまってな。<line-break>ま、思い出したら、その時教えるわい。<end>"
@@ -602,7 +602,7 @@ english = "The Forbidden Grail, stolen by the Gob-Gob Gang. A bard and a hero jo
 
 ["260150"]
 japanese = "禁断の聖杯のありかだと？<line-break><line-break><line-break>まあ、ディンガル諜報部を使えば<line-break>造作もなく調べがつくだろうが…<end>"
-english = "You want to know where the Forbidden Grail is? Well, Dingal Intelligence could discover that easily enough, but...<end>"
+english = "You want to know where the Forbidden Grail is? Well, Dyneskal Intelligence could discover that easily enough, but...<end>"
 
 ["260151"]
 japanese = "その…ゴブゴブ団？\u3000という方々が、<line-break>禁断の聖杯を持ち逃げしていると。<line-break>やっかいですね…。<end>"

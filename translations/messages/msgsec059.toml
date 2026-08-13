@@ -50,7 +50,7 @@ english = "Until you're confident you can pick a fight with an Evil Dragon and w
 
 ["590012"]
 japanese = "ディンガル帝国の傭兵募集だ。<line-break>詳細は機密でわからないが、<line-break>どうだ、やるかい？<end>"
-english = "The Dingal Empire is recruiting mercenaries. The details are secret, so I don't know much about the job. What do you say? Interested?<end>"
+english = "The Dyneskal Empire is recruiting mercenaries. The details are secret, so I don't know much about the job. What do you say? Interested?<end>"
 
 ["590013"]
 japanese = "引き受ける<end>"
@@ -74,7 +74,7 @@ english = "Side with Aqyurius after all<end>"
 
 ["590018"]
 japanese = "心機一転ディンガル側<end>"
-english = "Make a fresh start with Dingal<end>"
+english = "Make a fresh start with Dyneskal<end>"
 
 ["590019"]
 japanese = "それじゃ、今まで通り<line-break>アキュリュース側ってことで<line-break>よろしく頼むぜ、<value:$28>。<end>"
@@ -90,7 +90,7 @@ english = "Keep things as they are after all<end>"
 
 ["590022"]
 japanese = "何がなんでも、ディンガル側<end>"
-english = "Side with Dingal no matter what<end>"
+english = "Side with Dyneskal no matter what<end>"
 
 ["590023"]
 japanese = "それじゃ、今まで通り<line-break>ロストール、アキュリュース側ってことで<line-break>よろしく頼むぜ、<value:$28>。<end>"
@@ -98,7 +98,7 @@ english = "All right, you'll stay with Rostorl and Aqyurius, same as before. I'm
 
 ["590024"]
 japanese = "<if><value:$2A><greater-equal>50じゃ、書類の方は送っとくから、<line-break>ディンガル政庁の方へ行ってくれ。\u3000\u3000<line-break>そこで詳しい話があるはずだ。<line-break>今後はディンガル兵ってことで。<line-break>んじゃ、よろしく頼んだぜ。<line-break><value:$2B>の<value:$28>。<end>じゃ、書類の方は送っとくから、<line-break>ディンガル政庁の方へ行ってくれ。\u3000\u3000<line-break>そこで詳しい話があるはずだ。<line-break>今後はディンガル兵ってことで。<line-break>んじゃ、よろしく頼んだぜ。<line-break><value:$28>。<end>"
-english = "<if><value:$2A><greater-equal>50I'll send the papers along, so report to the Dingal Government Office. You should get the full story there. From now on, you're a Dingal soldier. I'm counting on you, <value:$2B> <value:$28>.<end>I'll send the papers along, so report to the Dingal Government Office. You should get the full story there. From now on, you're a Dingal soldier. I'm counting on you, <value:$28>.<end>"
+english = "<if><value:$2A><greater-equal>50I'll send the papers along, so report to the Dyneskal Government Office. You should get the full story there. From now on, you're a Dyneskal soldier. I'm counting on you, <value:$2B> <value:$28>.<end>I'll send the papers along, so report to the Dyneskal Government Office. You should get the full story there. From now on, you're a Dyneskal soldier. I'm counting on you, <value:$28>.<end>"
 
 ["590025"]
 japanese = "って、ちょっと待った。<line-break>あんた、ロストールの傭兵にも\u3000\u3000\u3000\u3000<line-break>なっているじゃないか！<line-break>敵味方を、かけもちするのはよくない。<line-break>どちらか片方にしてくれ。<line-break>どっちにするんだい？<end>"
@@ -110,7 +110,7 @@ english = "Side with Rostorl after all<end>"
 
 ["590027"]
 japanese = "心機一転ディンガル側<end>"
-english = "Make a fresh start with Dingal<end>"
+english = "Make a fresh start with Dyneskal<end>"
 
 ["590028"]
 japanese = "それじゃ、今まで通り<line-break>ロストール側ってことで<line-break>よろしく頼むぜ、<value:$28>。<end>"
@@ -130,7 +130,7 @@ english = "It has been a long time. This is Angeerdan. <value:$28>, I hope you a
 
 ["590032"]
 japanese = "わしがディンガル帝国の朱雀将軍\u3000\u3000\u3000\u3000<line-break>南方攻略軍司令官となったことは<line-break>お主も知っているかと思う。<line-break>\u3000<line-break>このたび、皇帝ネメア様より<line-break>ロストール攻略の許可を得て、<line-break>いよいよ、南征を開始することになった。<end>"
-english = "I expect you have heard that I have become the Dingal Empire's Vermilion Bird General and commander of the Southern Campaign Army. Emperor Nemea has now authorized the Rostorl Campaign, and at last we are to begin our southern expedition.<end>"
+english = "I expect you have heard that I have become the Dyneskal Empire's Vermilion Bird General and commander of the Southern Campaign Army. Emperor Nemea has now authorized the Rostorl Campaign, and at last we are to begin our southern expedition.<end>"
 
 ["590033"]
 japanese = "東のカルラには負けてはおられんからな。<line-break>ついては、お主の力を借りたい。<line-break>副将待遇で迎える。わしのとなりで活躍せよ。<line-break>\u3000<line-break>エンシャントの政庁に来てくれ。<line-break>よい返事を待っている。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000アンギルダン<end>"
@@ -170,11 +170,11 @@ english = "Expecting the Empire to commit a vast force, Rostorl ruled out an adv
 
 ["590042"]
 japanese = "\u3000\u3000しかし、このゼネテスの予測は正しく、\u3000\u3000<line-break>\u3000\u3000\u3000\u3000アンギルダンは少数の精兵で\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000分断の山脈を越えると、大街道を\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000電撃的な早さで行軍してきた。\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000分断の山脈を軍隊が越えたのは\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000歴史上初の壮挙である。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000こうしてディンガル軍は\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000王都ロストール攻略に王手をかけた。\u3000\u3000<end>"
-english = "But Xenetes had predicted correctly. Angeerdan crossed the Dividing Mountains with a small force of elite troops, then advanced along the great highway with lightning speed. Never before in history had an army crossed those mountains. With this extraordinary feat, the Dingal Army brought the Rostorl Campaign to the brink of victory.<end>"
+english = "But Xenetes had predicted correctly. Angeerdan crossed the Dividing Mountains with a small force of elite troops, then advanced along the great highway with lightning speed. Never before in history had an army crossed those mountains. With this extraordinary feat, the Dyneskal Army brought the Rostorl Campaign to the brink of victory.<end>"
 
 ["590043"]
 japanese = "\u3000\u3000\u3000事ここに及び、ロストール軍総司令\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000ノヴィンは急きょ、軍を反転、\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000アンギルダン率いるディンガル軍を\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000迎え撃つべく、急行した。\u3000\u3000\u3000\u3000\u3000<end>"
-english = "Faced with this turn of events, Novin, commander-in-chief of the Rostorl Army, hastily reversed course and rushed to meet the Dingal Army under Angeerdan.<end>"
+english = "Faced with this turn of events, Novin, commander-in-chief of the Rostorl Army, hastily reversed course and rushed to meet the Dyneskal Army under Angeerdan.<end>"
 
 ["590044"]
 japanese = "どうにもロストールの将軍は無能よの。<line-break>これでは、その下で戦う<line-break>ロストールの兵がかわいそうだ。<line-break>ロストール軍はわしに戦いを挑むべく<line-break>隊列がバラバラになるのもかまわずに<line-break>夜を日に継いで急行軍で来とるという。<end>"
@@ -186,11 +186,11 @@ english = "They may as well be marching here to die. Having blundered with their
 
 ["590046"]
 japanese = "皆の者！\u3000出撃だ！<line-break>さんざんに破り、ディンガル帝国の名を<line-break>恐怖とともに奴らの脳髄にたたき込め！<end>"
-english = "All of you, move out! Crush them utterly, and hammer the name of the Dingal Empire, together with the terror it inspires, into their very brains!<end>"
+english = "All of you, move out! Crush them utterly, and hammer the name of the Dyneskal Empire, together with the terror it inspires, into their very brains!<end>"
 
 ["590047"]
 japanese = "<value:$28>、よくやった。<line-break>お主が最高殊勲者じゃ！<line-break>\u3000<line-break>この功をもって、わしは<line-break>お主をディンガルの騎士に推薦し、<line-break>ここで仮叙任を行おうと思う。<end>"
-english = "Well done, <value:$28>. Your service was the greatest of all! In recognition of this deed, I shall recommend you for knighthood in Dingal and provisionally invest you here and now.<end>"
+english = "Well done, <value:$28>. Your service was the greatest of all! In recognition of this deed, I shall recommend you for knighthood in Dyneskal and provisionally invest you here and now.<end>"
 
 ["590048"]
 japanese = "ひざまづくがよい。<end>"
@@ -198,7 +198,7 @@ english = "Kneel.<end>"
 
 ["590049"]
 japanese = "我、朱雀将軍アンギルダンは<line-break>皇帝ネメア・ランガスターの\u3000\u3000\u3000\u3000<line-break>代理として<line-break>戦場のことゆえ略式ではあるが、<line-break>汝、<value:$28>を<line-break>ディンガル帝国黒鎧騎士に叙任する。<end>"
-english = "I, Angeerdan, Vermilion Bird General, acting on behalf of Emperor Nemea Lancaster, hereby invest you, <value:$28>, as a Black-Armored Knight of the Dingal Empire. As this is a battlefield, the rite must be abbreviated.<end>"
+english = "I, Angeerdan, Vermilion Bird General, acting on behalf of Emperor Nemea Lancaster, hereby invest you, <value:$28>, as a Black-Armored Knight of the Dyneskal Empire. As this is a battlefield, the rite must be abbreviated.<end>"
 
 ["590050"]
 japanese = "スキル<line-break>グロリアシルドを手に入れた。<end>"
@@ -210,7 +210,7 @@ english = "And this is your reward. Keep up the good work.<end>"
 
 ["590052"]
 japanese = "<value:$28>、よくやった。<line-break>すばらしい戦績じゃ！<line-break>\u3000<line-break>この功をもって、わしは<line-break>お主をディンガルの騎士に推薦し、<line-break>ここで仮叙任を行おうと思う。<end>"
-english = "Well done, <value:$28>. A splendid record! In recognition of this achievement, I shall recommend you for knighthood in Dingal and provisionally invest you here and now.<end>"
+english = "Well done, <value:$28>. A splendid record! In recognition of this achievement, I shall recommend you for knighthood in Dyneskal and provisionally invest you here and now.<end>"
 
 ["590053"]
 japanese = "<value:$28>、<line-break>まずまずの戦功じゃな。<line-break>\u3000<line-break>これは恩賞じゃ。<line-break>さらに、励んでくれ。<line-break>期待しておるぞ。<end>"
@@ -282,7 +282,7 @@ english = "Sorry, old man, but I'm taking your life. The lives of Rostorl's sold
 
 ["590070"]
 japanese = "はい、そうですかと<line-break>くれてやるわけにはいかんな。<line-break>\u3000<line-break>こっちも<line-break>ディンガルの兵の命が<line-break>かかっておるのでな！<end>"
-english = "I can hardly hand it over just because you ask. The lives of Dingal's soldiers are at stake too!<end>"
+english = "I can hardly hand it over just because you ask. The lives of Dyneskal's soldiers are at stake too!<end>"
 
 ["590071"]
 japanese = "…<value:$28>！\u3000お前も<line-break>アンギルダンのとっつぁんの側か！\u3000<line-break>ちっ、人物は人物を呼ぶんだな。<line-break>こりゃあ、ちょっと分が悪いな。<line-break>ま、いい。なんとか運命の女神を<line-break>振り向かせるのには成功したようだ。<end>"
@@ -326,11 +326,11 @@ english = "<value:$28>! We'll meet again―alive! I'll be waiting in front of th
 
 ["590081"]
 japanese = "\u3000\u3000\u3000\u3000山越えにより勝利を目前とした\u3000\u3000\u3000\u3000<line-break>\u3000\u3000ディンガル軍だったが、恐るべき早さで\u3000\u3000<line-break>\u3000\u3000敗残兵をまとめあげたゼネテスにより\u3000\u3000\u3000<line-break>\u3000手薄となった本陣を突かれ、総崩れとなった。<line-break>\u3000\u3000\u3000\u3000生き残ったディンガル兵は\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000今度は分断の山脈の地下、\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ドワーフの王国を抜け\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000ディンガル領へと撤退を余儀なくされた。\u3000\u3000<end>"
-english = "After crossing the mountains, the Dingal Army stood on the verge of victory. But Xenetes rallied the defeated remnants with astonishing speed and struck its poorly defended headquarters, sending the entire force into a rout. The surviving Dingal soldiers were forced to retreat to Dingal territory through the Dwarf kingdom beneath the Dividing Mountains.<end>"
+english = "After crossing the mountains, the Dyneskal Army stood on the verge of victory. But Xenetes rallied the defeated remnants with astonishing speed and struck its poorly defended headquarters, sending the entire force into a rout. The surviving Dyneskal soldiers were forced to retreat to Dyneskal territory through the Dwarf kingdom beneath the Dividing Mountains.<end>"
 
 ["590082"]
 japanese = "\u3000ゼネテスはあえてこれを追撃せず、\u3000<line-break>\u3000\u3000こうして、山越えに始まった\u3000\u3000\u3000<line-break>\u3000ディンガルのロストール侵攻戦は、\u3000<line-break>\u3000\u3000失敗という結末で幕を閉じた。\u3000\u3000<line-break>\u3000ゼネテスの声望は一気に高まり、\u3000\u3000<line-break>\u3000奇跡の名将とまで呼ばれたが、\u3000\u3000\u3000<line-break>\u3000この戦いにおけるロストールの\u3000\u3000\u3000<line-break>\u3000被害は、甚大なものであった…。\u3000\u3000<end>"
-english = "Xenetes deliberately chose not to pursue. Thus the Dingal invasion of Rostorl, begun with the crossing of the mountains, ended in failure. Xenetes's renown soared, and he was even hailed as a miracle general. Yet Rostorl had suffered grievous losses in the battle...<end>"
+english = "Xenetes deliberately chose not to pursue. Thus the Dyneskal invasion of Rostorl, begun with the crossing of the mountains, ended in failure. Xenetes's renown soared, and he was even hailed as a miracle general. Yet Rostorl had suffered grievous losses in the battle...<end>"
 
 ["590083"]
 japanese = "フフ、運命の女神は残酷なものよ！<line-break>ここまで来て、わしを見限るとはな…。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ゼネテスよ…。<line-break>お主ほどの男が…ファーロスの…<line-break>跡取りだったとは…、うぐっ…。<end>"
@@ -342,11 +342,11 @@ english = "Retreat! Scatter and pass through the Underground Kingdom! All of you
 
 ["590085"]
 japanese = "\u3000\u3000\u3000驚くべき早さで敗残兵をまとめあげた\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000ゼネテスの奇襲により\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000アンギルダンが討ち取られると\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000帝国軍は総崩れとなった。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000生き残ったディンガル兵は\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000今度は分断の山脈の地下、\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ドワーフの王国を抜け\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000ディンガル領へと撤退を余儀なくされた。\u3000\u3000<end>"
-english = "Xenetes rallied the defeated remnants with astonishing speed and launched a surprise attack in which Angeerdan was slain, throwing the entire imperial army into a rout. The surviving Dingal soldiers were forced to retreat to Dingal territory through the Dwarf kingdom beneath the Dividing Mountains.<end>"
+english = "Xenetes rallied the defeated remnants with astonishing speed and launched a surprise attack in which Angeerdan was slain, throwing the entire imperial army into a rout. The surviving Dyneskal soldiers were forced to retreat to Dyneskal territory through the Dwarf kingdom beneath the Dividing Mountains.<end>"
 
 ["590086"]
 japanese = "\u3000ゼネテスはあえてこれを追撃せず、\u3000<line-break>\u3000\u3000こうして、山越えに始まった\u3000\u3000\u3000<line-break>\u3000ディンガルのロストール侵攻戦は、\u3000<line-break>\u3000\u3000失敗という結末で幕を閉じた。\u3000\u3000<line-break>\u3000ゼネテスの声望は一気に高まり、\u3000\u3000<line-break>\u3000奇跡の名将とまで呼ばれたが、\u3000\u3000\u3000<line-break>\u3000この戦いにおけるロストールの\u3000\u3000\u3000<line-break>\u3000被害は、甚大なものであった…。\u3000\u3000<end>"
-english = "Xenetes deliberately chose not to pursue. Thus the Dingal invasion of Rostorl, begun with the crossing of the mountains, ended in failure. Xenetes's renown soared, and he was even hailed as a miracle general. Yet Rostorl had suffered grievous losses in the battle...<end>"
+english = "Xenetes deliberately chose not to pursue. Thus the Dyneskal invasion of Rostorl, begun with the crossing of the mountains, ended in failure. Xenetes's renown soared, and he was even hailed as a miracle general. Yet Rostorl had suffered grievous losses in the battle...<end>"
 
 ["590087"]
 japanese = "そうか…。残念じゃ。<end>"
@@ -398,11 +398,11 @@ english = "Now, to bestow honors for valor. Last is <value:$28>.<end>"
 
 ["590099"]
 japanese = "<value:$28>、<line-break>お主が最高殊勲者だ。<line-break>\u3000<line-break>この功をもって、わしは<line-break>お主をディンガルの騎士に推薦し、<line-break>ここで仮叙任を行おうと思う。<end>"
-english = "<value:$28>, you have earned the highest distinction of all. In recognition of this achievement, I shall recommend you for knighthood in Dingal and provisionally invest you here and now.<end>"
+english = "<value:$28>, you have earned the highest distinction of all. In recognition of this achievement, I shall recommend you for knighthood in Dyneskal and provisionally invest you here and now.<end>"
 
 ["590100"]
 japanese = "<value:$28>、<line-break>お主はすばらしい戦績を残した。<line-break>\u3000<line-break>この功をもって、わしは<line-break>お主をディンガルの騎士に推薦し、<line-break>ここで仮叙任を行おうと思う。<end>"
-english = "<value:$28>, your achievements in battle were superb. In recognition of this achievement, I shall recommend you for knighthood in Dingal and provisionally invest you here and now.<end>"
+english = "<value:$28>, your achievements in battle were superb. In recognition of this achievement, I shall recommend you for knighthood in Dyneskal and provisionally invest you here and now.<end>"
 
 ["590101"]
 japanese = "<value:$28>、<line-break>まずまずの戦功だ。<line-break>\u3000<line-break>これは恩賞じゃ。<line-break>さらに、励むがよい。<line-break>期待しておるぞ。<end>"
@@ -434,11 +434,11 @@ english = "Rostorl has rallied its defeated troops and launched a s-surprise att
 
 ["590108"]
 japanese = "略奪にディンガル兵が散らばってる間に<line-break>本体中枢部をつき、壊乱させる！<line-break>ゼネテス様の作戦は当たってるぞ！<end>"
-english = "While Dingal's soldiers are scattered about looting, we'll strike at the heart of their main force and throw it into chaos! Xenetes's plan is working!<end>"
+english = "While Dyneskal's soldiers are scattered about looting, we'll strike at the heart of their main force and throw it into chaos! Xenetes's plan is working!<end>"
 
 ["590109"]
 japanese = "俺たち、生き延びられるかもしれねえ！<line-break>いや、こうなったら、生き延びてやる！<line-break>ディンガルの奴らを倒してな！<end>"
-english = "We might actually survive this! No―now that it's come to this, we're going to survive! And we'll take down those Dingal bastards while we're at it!<end>"
+english = "We might actually survive this! No―now that it's come to this, we're going to survive! And we'll take down those Dyneskal bastards while we're at it!<end>"
 
 ["590110"]
 japanese = "ゆくぞ！<end>"

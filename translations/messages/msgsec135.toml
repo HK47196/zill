@@ -170,7 +170,7 @@ english = "I'll be back in fighting shape by the time you need me, so don't worr
 
 ["1350042"]
 japanese = "ディンガル軍なら大丈夫だ。<line-break>カルラはロストールに攻めてこられない。<end>"
-english = "The Dingal Army won't be a problem. Karula can't attack Rostorl.<end>"
+english = "The Dyneskal Army won't be a problem. Karula can't attack Rostorl.<end>"
 
 ["1350043"]
 japanese = "帝国宰相殿の目線で考えてみな。<line-break>カルラにロストールを占領させるなんて<line-break>虎に翼を与えるようなもんだ。<line-break>ロストールが無力化しているのなら<line-break>カルラに軍を進めさせるより<line-break>有利に講和したほうがよっぽどいい。<end>"
@@ -1382,7 +1382,7 @@ english = "<value:$28>, you are indispensable to the Liberation Army.<end>"
 
 ["1350345"]
 japanese = "覇道を進むディンガル帝国を<line-break>許してはいけない！<line-break>そうでしょう、<value:$28>さん？<end>"
-english = "We cannot allow the Dingal Empire to continue down the path of domination! You agree, don't you, <value:$28>?<end>"
+english = "We cannot allow the Dyneskal Empire to continue down the path of domination! You agree, don't you, <value:$28>?<end>"
 
 ["1350346"]
 japanese = "なんで？<end>"
@@ -1394,11 +1394,11 @@ english = ""
 
 ["1350348"]
 japanese = "え…、なんでって…。<line-break>それは…その…。<line-break>とにかくディンガルは悪者なんですよ！<end>"
-english = "What? Why...? Well... um... Anyway, Dingal is the villain here!<end>"
+english = "What? Why...? Well... um... Anyway, Dyneskal is the villain here!<end>"
 
 ["1350349"]
 japanese = "そうです！<line-break>だから、打倒ディンガルのためには<line-break>命も惜しんではいけないんです！<end>"
-english = "Exactly! To defeat Dingal, we must be prepared to give our lives!<end>"
+english = "Exactly! To defeat Dyneskal, we must be prepared to give our lives!<end>"
 
 ["1350350"]
 japanese = "よう、また会ったな。<end>"

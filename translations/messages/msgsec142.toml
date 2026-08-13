@@ -210,7 +210,7 @@ english = "My sister was beautiful. More beautiful than anything in the world. A
 
 ["1420052"]
 japanese = "けれど、卑しい人間どもは違った。<line-break>しかも権力におぼれた人間は、<line-break>一層たちが悪い。<line-break>ディンガル皇帝エリュマルク…<line-break>奴は、姉さんを己のものに<line-break>しようとした。<end>"
-english = "But base human beings were different. Those drunk on power were worse still. Eryumark, Emperor of Dingal... He tried to make my sister his own.<end>"
+english = "But base human beings were different. Those drunk on power were worse still. Eryumark, Emperor of Dyneskal... He tried to make my sister his own.<end>"
 
 ["1420053"]
 japanese = "配下のネメアに姉さんを<line-break>さらうように命じたんだ。<line-break>\u3000<line-break>聞いたことがあるだろう？<line-break>皇帝エリュマルクがネメアに課した<line-break>１２の難事を。<end>"
@@ -834,7 +834,7 @@ english = "Lord Lemghon!<end>"
 
 ["1420208"]
 japanese = "玄武将軍はディンガル王家の<line-break>正当な後継者である。<line-break>感情的な発言は控えてもらいたい。<line-break>それに卿は、<line-break>本来ならここには存在しては<line-break>いけない人間なのだからな…。<end>"
-english = "The Black Tortoise General is the rightful heir to Dingal's royal house. I ask that you refrain from such emotional outbursts. Besides, my lord, you are someone who, by rights, should not even be here.<end>"
+english = "The Black Tortoise General is the rightful heir to Dyneskal's royal house. I ask that you refrain from such emotional outbursts. Besides, my lord, you are someone who, by rights, should not even be here.<end>"
 
 ["1420209"]
 japanese = "…そちらがご不快になられるのも<line-break>分からない訳ではありません。<line-break>この問題は近日中に解決いたしますわ。<end>"
@@ -846,7 +846,7 @@ english = "What do you mean? I demand an explanation.<end>"
 
 ["1420211"]
 japanese = "我々ディンガル帝国は<line-break>新たなる皇帝を擁立するのです。<line-break> <line-break>人類の革新を進めるに相応しい人物を<line-break>…ね。<end>"
-english = "We of the Dingal Empire intend to enthrone a new emperor―someone fit to lead humanity's renewal.<end>"
+english = "We of the Dyneskal Empire intend to enthrone a new emperor―someone fit to lead humanity's renewal.<end>"
 
 ["1420212"]
 japanese = "…まさか！？<line-break>そのような無法が<line-break>許されるとでも思っているのか？<end>"
@@ -898,7 +898,7 @@ english = "L-Lord Lemghon.<end>"
 
 ["1420224"]
 japanese = "玄武将軍はディンガル王家の<line-break>正当な後継者である。<line-break>感情的な発言は控えてもらいたい。<line-break>それに卿は、<line-break>本来ならここには存在しては<line-break>いけない人間なのだからな…。<end>"
-english = "The Black Tortoise General is the rightful heir to Dingal's royal house. I ask that you refrain from such emotional outbursts. Besides, my lord, you are someone who, by rights, should not even be here.<end>"
+english = "The Black Tortoise General is the rightful heir to Dyneskal's royal house. I ask that you refrain from such emotional outbursts. Besides, my lord, you are someone who, by rights, should not even be here.<end>"
 
 ["1420225"]
 japanese = "…そちらがご不快になられるのも<line-break>分からない訳ではありません。<line-break>この問題は近日中に解決いたしますわ。<end>"
@@ -910,7 +910,7 @@ english = "What do you mean by that? Would you please explain?<end>"
 
 ["1420227"]
 japanese = "我々ディンガル帝国は<line-break>新たなる皇帝を擁立するのです。<line-break> <line-break>人類の革新を進めるに相応しい人物を<line-break>…ね。<end>"
-english = "We of the Dingal Empire intend to enthrone a new emperor―someone fit to lead humanity's renewal.<end>"
+english = "We of the Dyneskal Empire intend to enthrone a new emperor―someone fit to lead humanity's renewal.<end>"
 
 ["1420228"]
 japanese = "…まさか！？<line-break>そのような無法が<line-break>許されるとでも思っているのか？<end>"
@@ -2146,7 +2146,7 @@ english = "Shall we go back, then? Everyone needs to see that you're safe. Come,
 
 ["1420536"]
 japanese = "\u3000\u3000\u3000\u3000\u3000神聖暦<value:$24>年<value:$25>月\u3000\u3000\u3000\u3000<line-break>後に多くの吟遊詩人に歌われるこの騒乱の後<line-break>\u3000\u3000ディンガル帝国とロストール王国は\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000和平条約を締結した。\u3000\u3000\u3000\u3000\u3000<end>"
-english = "Sacred Era, Year <value:$24>, Month <value:$25>. After this upheaval, which many bards would later sing of, the Dingal Empire and the Kingdom of Rostorl concluded a peace treaty.<end>"
+english = "Sacred Era, Year <value:$24>, Month <value:$25>. After this upheaval, which many bards would later sing of, the Dyneskal Empire and the Kingdom of Rostorl concluded a peace treaty.<end>"
 
 ["1420537"]
 japanese = "<if><value:$01><equal>2<value:$28>…。<end><if><value:$01><equal>3<value:$28>…。<end><if><value:$01><equal>4<value:$28>…。<end><if><value:$01><equal>5<value:$28>…。<end><if><value:$01><equal>6<value:$28>…。<end><if><value:$01><equal>7<value:$28>…。<end><if><value:$01><equal>8<value:$28>…。<end><if><value:$01><equal>9<value:$28>…。<end><if><value:$01><equal>12<value:$28>…。<end><if><value:$01><equal>11<value:$28>…。<end><if><value:$01><equal>13<value:$28>…。<end><if><value:$01><equal>10姉ちゃん…。<end><if><value:$01><equal>14<value:$28>…。<end><if><value:$01><equal>15<value:$28>…。<end><if><value:$01><equal>17<value:$28>…。<end><if><value:$01><equal>19<value:$28>…。<end><if><value:$01><equal>20<value:$28>…。<end><if><value:$01><equal>21<value:$28>…。<end><if><value:$01><equal>23<value:$28>…。<end><if><value:$01><equal>27<value:$28>…。<end><if><value:$01><equal>26<value:$28>…。<end><if><value:$01><equal>24<value:$28>様…。<end><if><value:$01><equal>25<value:$28>…。<end><if><value:$01><equal>192<value:$28>様…。<end><if><value:$01><equal>193<value:$28>さん…。<end><if><value:$01><equal>194<value:$28>…。<end><if><value:$01><equal>191<value:$28>…。<end><if><value:$01><equal>190<value:$28>…。<end><value:$28>…。<end>"
@@ -2186,7 +2186,7 @@ english = "Farewell... child of Astia. You have my thanks.<end>"
 
 ["1420546"]
 japanese = "\u3000\u3000\u3000\u3000\u3000神聖暦<value:$24>年<value:$25>月\u3000\u3000\u3000\u3000<line-break>後に多くの吟遊詩人に歌われるこの騒乱の後<line-break>\u3000\u3000ディンガル帝国とロストール王国は\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000和平条約を締結した。\u3000\u3000\u3000\u3000\u3000<end>"
-english = "Sacred Era, Year <value:$24>, Month <value:$25>. After this upheaval, which many bards would later sing of, the Dingal Empire and the Kingdom of Rostorl concluded a peace treaty.<end>"
+english = "Sacred Era, Year <value:$24>, Month <value:$25>. After this upheaval, which many bards would later sing of, the Dyneskal Empire and the Kingdom of Rostorl concluded a peace treaty.<end>"
 
 ["1420547"]
 japanese = "♪熱く燃える\u3000正しい魂～<end>"
@@ -2226,7 +2226,7 @@ english = "Lord Lemghon!<end>"
 
 ["1420556"]
 japanese = "玄武将軍はディンガル王家の<line-break>正当な後継者である<line-break>感情的な発言は控えてもらいたい。<line-break>それに卿は本来なら<line-break>ここには存在しては<line-break>いけない人間なのだからな…。<end>"
-english = "General Genbu is the rightful heir to the Dingal royal house. I must ask you to refrain from emotional outbursts. Besides, my lord, you are a man who by rights should not even exist...<end>"
+english = "General Genbu is the rightful heir to the Dyneskal royal house. I must ask you to refrain from emotional outbursts. Besides, my lord, you are a man who by rights should not even exist...<end>"
 
 ["1420557"]
 japanese = "…そちらがご不快になられるのも<line-break>分からない訳ではありません。<line-break>この問題は近日中に解決いたしますわ。<end>"
@@ -2238,7 +2238,7 @@ english = "What do you mean? I demand an explanation.<end>"
 
 ["1420559"]
 japanese = "我々ディンガル帝国は<line-break>新たなる皇帝を擁立するのです。<line-break> <line-break>人類の革新を進めるに相応しい人物を<line-break>…ね<end>"
-english = "We of the Dingal Empire intend to install a new emperor―someone worthy of furthering humanity's transformation.<end>"
+english = "We of the Dyneskal Empire intend to install a new emperor―someone worthy of furthering humanity's transformation.<end>"
 
 ["1420560"]
 japanese = "…まさか！？<line-break>そのような無法が<line-break>許されるとでも思っているのか？<end>"
@@ -2290,7 +2290,7 @@ english = "L-Lord Lemghon.<end>"
 
 ["1420572"]
 japanese = "玄武将軍はディンガル王家の<line-break>正当な後継者である<line-break>感情的な発言は控えてもらいたい。<line-break>それに卿は本来なら<line-break>ここには存在しては<line-break>いけない人間なのだからな…。<end>"
-english = "General Genbu is the rightful heir to the Dingal royal house. I must ask you to refrain from emotional outbursts. Besides, my lord, you are a man who by rights should not even exist...<end>"
+english = "General Genbu is the rightful heir to the Dyneskal royal house. I must ask you to refrain from emotional outbursts. Besides, my lord, you are a man who by rights should not even exist...<end>"
 
 ["1420573"]
 japanese = "…そちらがご不快になられるのも<line-break>分からない訳ではありません。<line-break>この問題は近日中に解決いたしますわ。<end>"
@@ -2302,7 +2302,7 @@ english = "What do you mean? Would you please explain?<end>"
 
 ["1420575"]
 japanese = "我々ディンガル帝国は<line-break>新たなる皇帝を擁立するのです。<line-break> <line-break>人類の革新を進めるに相応しい人物を<line-break>…ね<end>"
-english = "We of the Dingal Empire intend to install a new emperor―someone worthy of furthering humanity's transformation.<end>"
+english = "We of the Dyneskal Empire intend to install a new emperor―someone worthy of furthering humanity's transformation.<end>"
 
 ["1420576"]
 japanese = "…まさか！？<line-break>そのような無法が<line-break>許されるとでも思っているのか？<end>"

@@ -22,7 +22,7 @@ english = "Hmph. Whatever do you mean?<end>"
 
 ["560005"]
 japanese = "かつて、ディンガルの征服帝が<line-break>世界を支配しようとしたとき、\u3000\u3000\u3000<line-break>\u3000<line-break>七竜士を導いてその野望を砕いたのは<line-break>竜王の使いであるエルフの賢者<line-break>だったという…。<end>"
-english = "They say that when Dingal's Conqueror-Emperor sought to rule the world, an elven sage who served the Dragon King led the Seven Dragon Knights and shattered his ambition.<end>"
+english = "They say that when Dyneskal's Conqueror-Emperor sought to rule the world, an elven sage who served the Dragon King led the Seven Dragon Knights and shattered his ambition.<end>"
 
 ["560006"]
 japanese = "ほぅ…、詳しいな。<line-break>ただの、お軽い冒険者とは思えない。\u3000<line-break>\u3000<line-break>いや、なるほど、宗教上、いや職業上、<line-break>失われた伝承に詳しいのだったな。<line-break>おっと、もう足は洗ったのだったか。<end>"
@@ -1758,7 +1758,7 @@ english = "...I have no parents either. There is someone who calls me son, but I
 
 ["560439"]
 japanese = "フ…先に心ない質問をしたのだ。<line-break>愚かな生みの親について<line-break>話さぬわけにもいくまい。<line-break>私を生んだ両親は、<line-break>ディンガル家の一族。しかし、<line-break>その地位は低く、生活は貧しかった。<end>"
-english = "Hmph. I was the one who asked such a thoughtless question, so I can hardly refuse to speak of my foolish birth parents. They belonged to the Dingal family, but their standing was low and they lived in poverty.<end>"
+english = "Hmph. I was the one who asked such a thoughtless question, so I can hardly refuse to speak of my foolish birth parents. They belonged to the Dyneskal family, but their standing was low and they lived in poverty.<end>"
 
 ["560440"]
 japanese = "そこにゾフォル…あの予言者が現れた。<line-break>当時、宰相であったゾフォルは…<line-break> <line-break>一夜、肉体を貸せば、<line-break>その後の地位と財産を保証する。<line-break>…そう言ったという。<end>"
@@ -1858,7 +1858,7 @@ english = "Exactly. Who needs some stupid shield? Lightning-fast attacks―that'
 
 ["560464"]
 japanese = "ま、そろそろ、リベルダムも<line-break>攻略しとこうかって思うわけ。<line-break>その作戦を説明するわ。<line-break>リベルダム市民、アンティノが<line-break>我々ディンガル帝国に内通しているのは<line-break>知ってのとおり。<end>"
-english = "Well, I think it's about time we took Liberdam, so let me explain the plan. As you know, Antino, a citizen of Liberdam, has been secretly working with the Dingal Empire.<end>"
+english = "Well, I think it's about time we took Liberdam, so let me explain the plan. As you know, Antino, a citizen of Liberdam, has been secretly working with the Dyneskal Empire.<end>"
 
 ["560465"]
 japanese = "あり、言ってなかったっけ？<line-break>実は解放軍のエライ人が裏切り者なのだ。<line-break>そりゃ解放軍もダメダメだーね。<end>"
@@ -1898,7 +1898,7 @@ english = "I know what you're trying to say, <value:$28>. But this is war, you k
 
 ["560474"]
 japanese = "まだディンガルに逆らおうって連中が<line-break>抵抗するのを断念するくらいに<line-break>リベルダムを破壊すればぁ…<line-break>このあとのロストール攻略なんかも<line-break>サクサク進んで、最終的には<line-break>全体の被害が小さく抑えられるっしょ。<end>"
-english = "If we destroy Liberdam so thoroughly that anyone still thinking of defying Dingal gives up resisting, the Rostorl Campaign will go much more smoothly, and overall losses will be lower in the end, right?<end>"
+english = "If we destroy Liberdam so thoroughly that anyone still thinking of defying Dyneskal gives up resisting, the Rostorl Campaign will go much more smoothly, and overall losses will be lower in the end, right?<end>"
 
 ["560475"]
 japanese = "アイリーンみたく<line-break>甘～いこと言って<line-break>ダダこねないで。<end>"
@@ -2058,7 +2058,7 @@ english = "Damn, this thing's too strong. I can't beat it alone...<end>"
 
 ["560514"]
 japanese = "くっくっく、ディンガルの犬め！<line-break>アンティノ商会製の<line-break>デスギガースはどうだ？<line-break>私を総督にする約束を破ったことを<line-break>今ごろ後悔しても遅いぞ！<end>"
-english = "Heh heh heh! How do you like the Death Gigas, you Dingal dog? Built by the Antino Trading Company itself! It's too late to regret breaking your promise to make me governor!<end>"
+english = "Heh heh heh! How do you like the Death Gigas, you Dyneskal dog? Built by the Antino Trading Company itself! It's too late to regret breaking your promise to make me governor!<end>"
 
 ["560515"]
 japanese = "黙れ！<line-break>簡単に裏切るような人間を<line-break>カルラ様が信用するはずがあるまい。<end>"
@@ -2490,7 +2490,7 @@ english = "Light! There's light! We can get out this way!<end>"
 
 ["560622"]
 japanese = "青竜軍副将<value:$28>よ、<line-break>このたびの貴官の輝かしき勲功に<line-break>ディンガル帝国は次のように賞する。<end>"
-english = "<value:$28>, deputy commander of the Azure Dragon Army: for your brilliant service in this affair, the Dingal Empire hereby grants you the following reward.<end>"
+english = "<value:$28>, deputy commander of the Azure Dragon Army: for your brilliant service in this affair, the Dyneskal Empire hereby grants you the following reward.<end>"
 
 ["560623"]
 japanese = "んじゃ、<value:$28>。<line-break>冒険に連れてってよ！<end>"
@@ -2686,7 +2686,7 @@ english = "...Very well. We'll proceed with that plan. What are the specifics?<e
 
 ["560671"]
 japanese = "部隊をふたつにわける。<line-break>まず１部隊が単独でロセンに潜入<line-break>城門を開き、本隊を引き入れる。<line-break>先に潜入した部隊は陽動部隊となり、<line-break>ディンガル兵を引きつける。<line-break>その間に本隊が草案を奪うのだ。<end>"
-english = "We'll split our forces in two. One unit will infiltrate Rocen alone, open the castle gate, and let the main force in. The advance unit will then serve as a diversion and draw off the Dingal soldiers while the main force steals the draft.<end>"
+english = "We'll split our forces in two. One unit will infiltrate Rocen alone, open the castle gate, and let the main force in. The advance unit will then serve as a diversion and draw off the Dyneskal soldiers while the main force steals the draft.<end>"
 
 ["560672"]
 japanese = "そこでだ、<value:$28>。<line-break>お前の任務だが…<end>"
@@ -2786,7 +2786,7 @@ english = "Honestly, since I took over, Rocen has grown into a great city surpas
 
 ["560696"]
 japanese = "ところで、侵入者ちゃん。<line-break>あんたたちとは初対面みたいだし<line-break>殺しちゃう前に名乗っとくね<line-break>アタシは青竜将軍カルラ。<line-break>ディンガル東方攻略軍司令。<line-break>口が悪いのは青い死神って呼んでる。<end>"
-english = "By the way, my little intruders, it looks like we haven't met. I suppose I should introduce myself before I kill you. I'm Karula, the Azure Dragon General, commander of Dingal's Eastern Campaign Army. Those with filthy mouths call me the Blue Reaper.<end>"
+english = "By the way, my little intruders, it looks like we haven't met. I suppose I should introduce myself before I kill you. I'm Karula, the Azure Dragon General, commander of Dyneskal's Eastern Campaign Army. Those with filthy mouths call me the Blue Reaper.<end>"
 
 ["560697"]
 japanese = "ま、死神にでくわしたら、<line-break>どうなるかは決まってるやね。<line-break>この世とおサラバする準備はできてる？<end>"
@@ -3146,7 +3146,7 @@ english = "The hero of the Bell of Rocen is with us. We'll show Karula's Army wh
 
 ["560786"]
 japanese = "今度こそは、ロセンから<line-break>ディンガルの奴らを追い出してやろうぜ！<end>"
-english = "This time, let's drive those Dingal bastards out of Rocen!<end>"
+english = "This time, let's drive those Dyneskal bastards out of Rocen!<end>"
 
 ["560787"]
 japanese = "ああ！<line-break>俺たちの力をやつらに思い知らせて<line-break>やろうぜ！<end>"
@@ -3174,7 +3174,7 @@ english = "…<value:$28>. I cannot allow you to pass.<end>"
 
 ["560793"]
 japanese = "あなたがディンガル軍に<line-break>加わったことは<line-break>こちらにも伝わっています。<end>"
-english = "Word has reached us that you have joined the Dingal Army.<end>"
+english = "Word has reached us that you have joined the Dyneskal Army.<end>"
 
 ["560794"]
 japanese = "屋敷に入って、<line-break>解放軍の人に見つかったら、<line-break>必ず殺されてしまいます。<line-break>クリュセイス様は、あなたが<line-break>殺されるのを見たくはないのです。<line-break>…どうぞ、お察しください。<end>"
@@ -3358,11 +3358,11 @@ english = "Hmph. You softhearted fool. Then you can die together!<end>"
 
 ["560839"]
 japanese = "クックック、<line-break>ディンガル軍がリベルダム市街に<line-break>進入したようだな。<end>"
-english = "Heh heh heh. It seems the Dingal Army has entered the streets of Liberdam.<end>"
+english = "Heh heh heh. It seems the Dyneskal Army has entered the streets of Liberdam.<end>"
 
 ["560840"]
 japanese = "クックック、ディンガル軍に<line-break>リベルダムの城門を開いたのだよ\u3000\u3000<line-break>この私がな！<line-break>見返りに、市民の財産には一切<line-break>手を付けないこと、そして、俺が<line-break>ここの総督になることになっている。<end>"
-english = "Heh heh heh. I was the one who opened Liberdam's gates to the Dingal Army! In return, no citizen's property is to be touched, and I am to become governor of the city.<end>"
+english = "Heh heh heh. I was the one who opened Liberdam's gates to the Dyneskal Army! In return, no citizen's property is to be touched, and I am to become governor of the city.<end>"
 
 ["560841"]
 japanese = "どうやら、俺の勝ちだな。<line-break>\u3000<line-break>\u3000<line-break>さぁ、こいつらを<line-break>引っとらえてくれ！<end>"
@@ -3390,11 +3390,11 @@ english = "Damn you, Karula! You deceived me!<end>"
 
 ["560847"]
 japanese = "<if><value:$01><equal>4<value:$28>ったら、<line-break>こんな所で、ディンガルの兵隊を<line-break>のしちゃってる。<line-break><value:$28>ってば、<line-break>もめごとを起こす天才かも！<end><if><value:$01><equal>5<value:$28>、<line-break>ここにいたのか。<line-break>早く逃げないとやばいぜ！<end><if><value:$01><equal>6あ、<value:$28>、<line-break>ここにいたんだ！<end><if><value:$01><equal>11<value:$28>！<end><if><value:$01><equal>12こんなとこにいたか、<line-break><value:$28>。<end><if><value:$01><equal>13…こんな所にいたか。<end><if><value:$01><equal>10大変だ、姉ちゃん。<line-break>ディンガル軍が攻めてきたぞ！！<line-break>早く脱出するんだ！<end><if><value:$01><equal>14<value:$28>！<line-break>カルラ軍が入り込んできおった。<end><if><value:$01><equal>15あ、<value:$28>、<line-break>ここにいたんだ！<end><if><value:$01><equal>17キャー！\u3000戦争よぉ！\u3000戦争！<line-break>ディンガル兵がなだれ込んできたわ！<line-break>下等生物が殺し合ってるわー！<line-break>なんで下等生物のこんな愚かな戦争に<line-break>この高貴なエルフであるアタクシが<line-break>巻き込まれないといけないのよー！<end><if><value:$01><equal>19<value:$28>、大変だよぉ！<line-break>ディンガル軍の兵士が大勢<line-break>街に入って来ちゃったよぉ。<end><if><value:$01><equal>20…ここにいたか。<end><if><value:$01><equal>27こんなとこにいたのか、<line-break><value:$28>。<end><if><value:$01><equal>26こんなところにいたのか。<end><if><value:$01><equal>193大変です<value:$28>さん！<line-break>ディンガル軍が町に！<end><if><value:$01><equal>191大変よ、<value:$28>。<line-break>ディンガル軍が攻めてきたわ。<end>大変だよ、<value:$28>！<line-break>ディンガル軍が攻め込んできたんだ。<line-break>街はもう大騒ぎだよ！<end>"
-english = "<if><value:$01><equal>4Oh, <value:$28>! Beating up Dingal soldiers in a place like this? <value:$28>, you might be a genius at finding trouble!<end><if><value:$01><equal>5<value:$28>, there you are. We have to get out of here, fast!<end><if><value:$01><equal>6Oh, <value:$28>! There you are!<end><if><value:$01><equal>11<value:$28>!<end><if><value:$01><equal>12There you are, <value:$28>.<end><if><value:$01><equal>13So this is where you were...<end><if><value:$01><equal>10This is bad, Sis. The Dingal Army is attacking! We have to get out of here!<end><if><value:$01><equal>14<value:$28>! Karula's Army has entered the city.<end><if><value:$01><equal>15Oh, <value:$28>! There you are!<end><if><value:$01><equal>17Eek! War! It's war! Dingal soldiers are pouring into the city! The lesser creatures are killing each other! Why must I, a noble Elf, be dragged into such a foolish war between lesser creatures?<end><if><value:$01><equal>19<value:$28>, this is awful! Crowds of Dingal Army soldiers have entered the city!<end><if><value:$01><equal>20So this is where you were...<end><if><value:$01><equal>27So this is where you were, <value:$28>.<end><if><value:$01><equal>26So this is where you were.<end><if><value:$01><equal>193This is terrible, <value:$28>! The Dingal Army is in the city!<end><if><value:$01><equal>191This is serious, <value:$28>. The Dingal Army is attacking.<end>This is terrible, <value:$28>! The Dingal Army has invaded. The whole city is in chaos!<end>"
+english = "<if><value:$01><equal>4Oh, <value:$28>! Beating up Dyneskal soldiers in a place like this? <value:$28>, you might be a genius at finding trouble!<end><if><value:$01><equal>5<value:$28>, there you are. We have to get out of here, fast!<end><if><value:$01><equal>6Oh, <value:$28>! There you are!<end><if><value:$01><equal>11<value:$28>!<end><if><value:$01><equal>12There you are, <value:$28>.<end><if><value:$01><equal>13So this is where you were...<end><if><value:$01><equal>10This is bad, Sis. The Dyneskal Army is attacking! We have to get out of here!<end><if><value:$01><equal>14<value:$28>! Karula's Army has entered the city.<end><if><value:$01><equal>15Oh, <value:$28>! There you are!<end><if><value:$01><equal>17Eek! War! It's war! Dyneskal soldiers are pouring into the city! The lesser creatures are killing each other! Why must I, a noble Elf, be dragged into such a foolish war between lesser creatures?<end><if><value:$01><equal>19<value:$28>, this is awful! Crowds of Dyneskal Army soldiers have entered the city!<end><if><value:$01><equal>20So this is where you were...<end><if><value:$01><equal>27So this is where you were, <value:$28>.<end><if><value:$01><equal>26So this is where you were.<end><if><value:$01><equal>193This is terrible, <value:$28>! The Dyneskal Army is in the city!<end><if><value:$01><equal>191This is serious, <value:$28>. The Dyneskal Army is attacking.<end>This is terrible, <value:$28>! The Dyneskal Army has invaded. The whole city is in chaos!<end>"
 
 ["560848"]
 japanese = "<if><value:$01><equal>4うふふっ、<value:$28>、<line-break>やっちゃったね。<line-break>早く、ここから離れないとね。<end><if><value:$01><equal>5ディンガル軍が入ってきやがった。<line-break>さっさと、<line-break>こんな所からずらかろうぜ！<end><if><value:$01><equal>6大変だよ、<value:$28>！<line-break>ディンガル軍が門を突破して<line-break>押し寄せてきたんだ。<line-break>とにかく、<line-break>今は早く逃げないと！<end><if><value:$01><equal>11ここは危険よ。<line-break>ひとまず脱出しなくては！<end><if><value:$01><equal>12取り込み中悪いが、<line-break>もうじきここは修羅場になる。<line-break>ずらかろうぜ。<end><if><value:$01><equal>13…ディンガル軍が来る。<line-break>早く脱出するぞ。<end><if><value:$01><equal>10姉ちゃん、くやしいけど、<line-break>今は撤退しよう。<line-break>カルラめ、あとで見てろよ！<end><if><value:$01><equal>14何をしておる！<line-break>ぐずぐずしとると<line-break>捕まってしまうぞ。<end><if><value:$01><equal>15大変だよ。<line-break>ディンガル軍が押し寄せてくる。<line-break>早く逃げないと。<end><if><value:$01><equal>17もうイヤ！\u3000もうイヤ！\u3000もぉうイヤ！<line-break>こんな所、さっさと逃げるのよー！<line-break><value:$28>！！<end><if><value:$01><equal>19急いで、急いで！<line-break>早く逃げないと、<line-break>カルラに捕まっちゃうよぉ！<end><if><value:$01><equal>20周囲は雑魚ばかり。<line-break>きりがない。<end><if><value:$01><equal>27ディンガル軍が攻めてきたぞ！！<line-break>早く脱出するんだ！<end><if><value:$01><equal>26ディンガル軍が攻めてきたぞ！！<line-break>早く脱出するのじゃ！<end><if><value:$01><equal>193早く逃げないと捕まっちゃいます！<end><if><value:$01><equal>191急いで、<value:$28>。<line-break>ぐずぐずしてると捕まるわ。<end>急いで急いで！<line-break>早くしないと捕まっちゃうよ！<end>"
-english = "<if><value:$01><equal>4Hee hee, <value:$28>. You've really done it now. We'd better get out of here.<end><if><value:$01><equal>5The damned Dingal Army is here. Let's get out of this place!<end><if><value:$01><equal>6This is bad, <value:$28>! The Dingal Army broke through the gates and came pouring in. Whatever else happens, we have to run!<end><if><value:$01><equal>11It is dangerous here. We must withdraw for now!<end><if><value:$01><equal>12Sorry to interrupt, but this place is about to become a bloodbath. Let's clear out.<end><if><value:$01><equal>13The Dingal Army is coming. We must get out, now.<end><if><value:$01><equal>10Sis, I hate it, but we have to retreat. Damn you, Karula. You'll pay for this!<end><if><value:$01><equal>14What are you doing? Keep dawdling and you will be captured!<end><if><value:$01><equal>15This is bad. The Dingal Army is coming. We have to run.<end><if><value:$01><equal>17I've had enough! Enough! Enooough! We're getting out of this place right now, <value:$28>!<end><if><value:$01><equal>19Hurry, hurry! We have to run before Karula catches us!<end><if><value:$01><equal>20Nothing but rabble all around us. There is no end to them.<end><if><value:$01><equal>27The Dingal Army is attacking! We have to get out!<end><if><value:$01><equal>26The Dingal Army is attacking! We must get out!<end><if><value:$01><equal>193We have to run or we'll be captured!<end><if><value:$01><equal>191Hurry, <value:$28>. If we dawdle, we'll be captured.<end>Hurry, hurry! If we don't move, we'll be captured!<end>"
+english = "<if><value:$01><equal>4Hee hee, <value:$28>. You've really done it now. We'd better get out of here.<end><if><value:$01><equal>5The damned Dyneskal Army is here. Let's get out of this place!<end><if><value:$01><equal>6This is bad, <value:$28>! The Dyneskal Army broke through the gates and came pouring in. Whatever else happens, we have to run!<end><if><value:$01><equal>11It is dangerous here. We must withdraw for now!<end><if><value:$01><equal>12Sorry to interrupt, but this place is about to become a bloodbath. Let's clear out.<end><if><value:$01><equal>13The Dyneskal Army is coming. We must get out, now.<end><if><value:$01><equal>10Sis, I hate it, but we have to retreat. Damn you, Karula. You'll pay for this!<end><if><value:$01><equal>14What are you doing? Keep dawdling and you will be captured!<end><if><value:$01><equal>15This is bad. The Dyneskal Army is coming. We have to run.<end><if><value:$01><equal>17I've had enough! Enough! Enooough! We're getting out of this place right now, <value:$28>!<end><if><value:$01><equal>19Hurry, hurry! We have to run before Karula catches us!<end><if><value:$01><equal>20Nothing but rabble all around us. There is no end to them.<end><if><value:$01><equal>27The Dyneskal Army is attacking! We have to get out!<end><if><value:$01><equal>26The Dyneskal Army is attacking! We must get out!<end><if><value:$01><equal>193We have to run or we'll be captured!<end><if><value:$01><equal>191Hurry, <value:$28>. If we dawdle, we'll be captured.<end>Hurry, hurry! If we don't move, we'll be captured!<end>"
 
 ["560849"]
 japanese = "わ、わたくし…。<end>"
@@ -3478,7 +3478,7 @@ english = "Uh... ngh... uhh...<end>"
 
 ["560869"]
 japanese = "<if><value:$01><equal>4きゃっ、ちょっと緊急事態かも！<line-break>ディンガル兵が街中にウヨウヨしてる。<line-break>はやく、ずらかった方がいいかも…。<end><if><value:$01><equal>5おい、<value:$28>、<line-break>ここにいたのか。リベルダムが陥ちた！<line-break>ディンガル兵がウヨウヨしてるぜ！<end><if><value:$01><equal>6<value:$28>、ここにいたんだ！<line-break>大変だよ！\u3000ディンガルの奴らが<line-break>リベルダムの中に…！<end><if><value:$01><equal>11これは…。<line-break><value:$28>、<line-break>とにかく早く脱出を…<end><if><value:$01><equal>12何があったのかは、後で聞く。<line-break>とにかく今はトンズラだ。<line-break>ディンガルがわんさと攻めてくるぜ！<end><if><value:$01><equal>13…<value:$28>、ここにいたか。<line-break>ディンガルがなだれ込んできたぞ。<line-break>こんな所で、グズグズ…。<end><if><value:$01><equal>10姉ちゃん、ここにいたのかよ。<line-break>リベルダムの城門が開いて<line-break>ディンガル兵が流れ込んで来たんだ！<end><if><value:$01><equal>14<value:$28>、ここにおったか！<line-break>大変じゃぞ！\u3000ディンガルが<line-break>街中まで攻め込んできおった…。<end><if><value:$01><equal>15ねえ、大変だよ！<line-break>ディンガル軍が攻めてくる！<line-break>早くここから出ようよ！<end><if><value:$01><equal>17キャー！\u3000戦争よぉ！\u3000戦争！<line-break>ディンガル兵がなだれ込んできたわ！\u3000<line-break>下等生物が殺し合ってるわー…って…。<end><if><value:$01><equal>19あ、<value:$28><line-break>ここにいたんだ。あのねあのね、<line-break>大変なんだよぉ…。<end><if><value:$01><equal>20…ここにいたか。<end><if><value:$01><equal>27ディンガル軍が攻めてきたぞ！！<line-break>早く脱出するんだ！<end><if><value:$01><equal>26ディンガル軍が攻めてきたぞ！！<line-break>早く脱出するのじゃ！<end><if><value:$01><equal>193大変です<value:$28>さん！<line-break>ディンガル軍が町に…！<line-break>…え！？<end><if><value:$01><equal>191大変よ、<value:$28>！<line-break>ディンガル軍が攻めてきたわ…！<end>大変だよぉ、<value:$28>！<line-break>ディンガルが街中まで攻め入ってきて<line-break>…あ。<end>"
-english = "<if><value:$01><equal>4Eek! This might be a real emergency! Dingal soldiers are swarming all over the city. Maybe we'd better make ourselves scarce...<end><if><value:$01><equal>5Hey, <value:$28>, there you are. Liberdam has fallen! The place is crawling with Dingal soldiers!<end><if><value:$01><equal>6<value:$28>, there you are! This is terrible! The Dingal troops are inside Liberdam...!<end><if><value:$01><equal>11This is... <value:$28>, we must get out at once...<end><if><value:$01><equal>12You can tell me what happened later. Right now, we run. Dingal troops are pouring in by the score!<end><if><value:$01><equal>13<value:$28>, there you are. Dingal troops are pouring in. This is no time to dawdle...<end><if><value:$01><equal>10Sis, there you are! Liberdam's gates were opened, and Dingal soldiers came flooding in!<end><if><value:$01><equal>14<value:$28>, there you are! This is grave. Dingal has forced its way right into the city...<end><if><value:$01><equal>15Listen, this is terrible! The Dingal Army is attacking! We have to get out of here!<end><if><value:$01><equal>17Eek! War! It's war! Dingal soldiers are pouring in! The lesser creatures are killing one another... Wait...<end><if><value:$01><equal>19Oh, <value:$28>, there you are! Listen, listen, something terrible has happened...<end><if><value:$01><equal>20So this is where you were...<end><if><value:$01><equal>27The Dingal Army is attacking! We have to get out!<end><if><value:$01><equal>26The Dingal Army is attacking! We must get out!<end><if><value:$01><equal>193This is terrible, <value:$28>! The Dingal Army is in the city...! What?!<end><if><value:$01><equal>191This is terrible, <value:$28>! The Dingal Army is attacking...!<end>This is terrible, <value:$28>! Dingal has forced its way right into the city and... Oh.<end>"
+english = "<if><value:$01><equal>4Eek! This might be a real emergency! Dyneskal soldiers are swarming all over the city. Maybe we'd better make ourselves scarce...<end><if><value:$01><equal>5Hey, <value:$28>, there you are. Liberdam has fallen! The place is crawling with Dyneskal soldiers!<end><if><value:$01><equal>6<value:$28>, there you are! This is terrible! The Dyneskal troops are inside Liberdam...!<end><if><value:$01><equal>11This is... <value:$28>, we must get out at once...<end><if><value:$01><equal>12You can tell me what happened later. Right now, we run. Dyneskal troops are pouring in by the score!<end><if><value:$01><equal>13<value:$28>, there you are. Dyneskal troops are pouring in. This is no time to dawdle...<end><if><value:$01><equal>10Sis, there you are! Liberdam's gates were opened, and Dyneskal soldiers came flooding in!<end><if><value:$01><equal>14<value:$28>, there you are! This is grave. Dyneskal has forced its way right into the city...<end><if><value:$01><equal>15Listen, this is terrible! The Dyneskal Army is attacking! We have to get out of here!<end><if><value:$01><equal>17Eek! War! It's war! Dyneskal soldiers are pouring in! The lesser creatures are killing one another... Wait...<end><if><value:$01><equal>19Oh, <value:$28>, there you are! Listen, listen, something terrible has happened...<end><if><value:$01><equal>20So this is where you were...<end><if><value:$01><equal>27The Dyneskal Army is attacking! We have to get out!<end><if><value:$01><equal>26The Dyneskal Army is attacking! We must get out!<end><if><value:$01><equal>193This is terrible, <value:$28>! The Dyneskal Army is in the city...! What?!<end><if><value:$01><equal>191This is terrible, <value:$28>! The Dyneskal Army is attacking...!<end>This is terrible, <value:$28>! Dyneskal has forced its way right into the city and... Oh.<end>"
 
 ["560870"]
 japanese = "…<value:$28><line-break>…ゴメン…なさ…い…。<end>"
@@ -3486,7 +3486,7 @@ english = "<value:$28>... I'm... sor...ry...<end>"
 
 ["560871"]
 japanese = "ディンガル軍が<line-break>入城を始めたようだ。<line-break>俺が門を開いたのだ。<line-break>降伏しなければ、リベルダムは<line-break>ディンガルに破壊されてしまうのでな。<end>"
-english = "It seems the Dingal Army has begun entering the city. I opened the gates. Had we not surrendered, Dingal would have destroyed Liberdam.<end>"
+english = "It seems the Dyneskal Army has begun entering the city. I opened the gates. Had we not surrendered, Dyneskal would have destroyed Liberdam.<end>"
 
 ["560872"]
 japanese = "このリベルダムには手を付けないこと<line-break>そして、俺をここの総督にすることを<line-break>カルラは見返りに認めてくれている。<line-break>もう、あの偽善者ロティの親友の仮面も<line-break>必要なくなった。だから、<line-break>クリュセイスにも消えてもらった。<end>"
@@ -3506,7 +3506,7 @@ english = "Impossible! That was not our agreement! That little wretch!<end>"
 
 ["560876"]
 japanese = "くっ！\u3000市民の誇りにかけて<line-break>リベルダムをやらせはせん！<line-break>戦闘用モンスターを放せ！<line-break>それから、アンティノ商会の<line-break>最強商品、デスギガースを出せ！<line-break>ディンガル兵を焼き殺してくれる！<end>"
-english = "Damn it! On my honor as a citizen, I will not let Liberdam fall! Release the combat monsters! Then bring out the Antino Trading Company's most powerful product, the Death Gigas! It will burn the Dingal soldiers alive!<end>"
+english = "Damn it! On my honor as a citizen, I will not let Liberdam fall! Release the combat monsters! Then bring out the Antino Trading Company's most powerful product, the Death Gigas! It will burn the Dyneskal soldiers alive!<end>"
 
 ["560877"]
 japanese = "<if><value:$01><equal>4きゃっ、私がとっても不似合いなくらい<line-break>シリアスな場面に来ちゃったみたい。<line-break>うふふ、どうしようかな…。<line-break>なんにしたって、逃げるが勝ちかも！<line-break>考えたら負けなのはハッキリしてるわ！<line-break>さ、早く、トンズラしよっ！\u3000きゃっ！<end><if><value:$01><equal>5…とにかく、早く逃げないとヤバい。<line-break>さっさと、<line-break>こんな所からずらかろうぜ！<line-break>…クリュセイスのことは<line-break>あとから聞かせてもらうかんな。<line-break><value:$28>…。<end><if><value:$01><equal>6ク、クリュセイス…。<line-break> <line-break> <line-break>と、とにかく<line-break>今は、早く逃げないと！<line-break>ね、<value:$28>。<end><if><value:$01><equal>11クリュセイス…。<line-break><line-break><line-break><value:$28>、脱出を。<end><if><value:$01><equal>12<value:$28>、お前さん…。<line-break>まあいい、今はとにかく、<line-break>逃げるのが最優先だぜ。<end><if><value:$01><equal>13…いくぞ。<line-break>とにかく、今は<line-break>ここを脱出するのが急務だ。<end><if><value:$01><equal>10姉ちゃん…<line-break>どうして、クリュセイスを<line-break>クリュセイスのことを…。<line-break>…今はいいや。姉ちゃんには<line-break>姉ちゃんの考えがあるんだろうし…。<line-break>とにかく、ここを脱出しようよ。<end><if><value:$01><equal>14<value:$28>！<line-break>いったいどういうことなんじゃ！<line-break>どうして、この娘を助けなんだ！<line-break>…いや、今はお主を責めとる<line-break>場合ではないわい。<line-break>とにかく、この街を出るぞ！<end><if><value:$01><equal>15<value:$28><line-break>今は、早く、ここを出なきゃ。<line-break>ね？<line-break>…クリュセイスのことは<line-break>あとで聞かせてもらう。<line-break>とにかく、今は行こう？<end><if><value:$01><equal>17なんなのぉ？\u3000ここでも下等生物の<line-break>茶番があったわけぇ？<line-break>まったく、どうしようもないのね！<line-break>とにかく、こんな野蛮なところはイヤ！<line-break>こんな所、さっさと逃げるのよぉ！<line-break>もうイヤ！\u3000もうイヤ！\u3000もぉうイヤ！<end><if><value:$01><equal>19<value:$28>！<line-break>クリュセイスお姉ちゃん、どうしたの？<line-break>なんで助けてあげなかったのぉ？<line-break>…とにかく、今はここを逃げなきゃ！<line-break><value:$28>、いくよ。<end><if><value:$01><equal>20…脱出するぞ。<end><if><value:$01><equal>27…<value:$28>。<line-break>とにかく、ここを脱出するぞ。<end><if><value:$01><equal>26いったいどういうことじゃ！<line-break>どうして…<line-break>\u3000<line-break>…いや、今はまず<line-break>とにかく、この街を出るのじゃ！<end><if><value:$01><equal>193<value:$28>さん…！<line-break>ど、どうしてクリュセイスを！？<line-break>\u3000<line-break>…取り乱してすいません。<line-break>い、今は逃げることが先決ですよね。<line-break>い、行かないと…！<end><if><value:$01><equal>191クリュセイス…<line-break>\u3000<line-break>\u3000<line-break>とりあえず逃げるわよ。<line-break>話はその後ね。<line-break>今は生きて脱出することだけ考えて。<end>…とにかく、今は<line-break>ここから出ることが先決だよ。<line-break>…行こう、<value:$28>。<end>"
@@ -3734,7 +3734,7 @@ english = "You would be quite justified in wondering why the temple administers 
 
 ["560933"]
 japanese = "それが、ディンガル軍が攻め入ってから<line-break>坑道で不気味な地鳴りが<line-break>聞かれるようになった…。<end>"
-english = "Ever since the Dingal Army invaded, an ominous rumbling has been heard in the mine.<end>"
+english = "Ever since the Dyneskal Army invaded, an ominous rumbling has been heard in the mine.<end>"
 
 ["560934"]
 japanese = "私も視察に行ったのですが、<line-break>鉱夫ではない身ながら、<line-break> <line-break>あれはどうも<line-break>ただの山鳴りではないように<line-break>思われました。<end>"
@@ -3790,7 +3790,7 @@ english = "Hmph. I doubt there is anything interesting about my life, but if you
 
 ["560947"]
 japanese = "私を生んだ両親は、<line-break>ディンガル家の一族。しかし、<line-break>その地位は低く、生活は貧しかった。<end>"
-english = "My birth parents belonged to the Dingal family, but their standing was low and they lived in poverty.<end>"
+english = "My birth parents belonged to the Dyneskal family, but their standing was low and they lived in poverty.<end>"
 
 ["560948"]
 japanese = "話はつけてきたのか？<line-break>早く頼むよ。<end>"

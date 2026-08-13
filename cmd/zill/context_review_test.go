@@ -190,7 +190,7 @@ func TestSceneContextRendersACompleteTranslationReview(t *testing.T) {
 					},
 				}},
 				Japanese: "raw controlled Japanese", English: "raw controlled English",
-				Terminology: []cdccontext.TerminologyEntry{{Kind: "name", Japanese: "ディンガル", English: "Dingal"}},
+				Terminology: []cdccontext.TerminologyEntry{{Kind: "name", Japanese: "ディンガル", English: "Dyneskal"}},
 			}, {
 				Kind: "selection_option", MessageID: 30035, Position: 1, State: corpus.Todo,
 				Japanese: "町から出る<end>",
@@ -205,7 +205,7 @@ func TestSceneContextRendersACompleteTranslationReview(t *testing.T) {
 		"Participants:", "Notun High Priest / ノトゥーン神官長 — inferred_from_associated_label",
 		"Dialogue:", "[0] Dialogue 30021 · translated", "Branch: choice option 1 of 2",
 		"Record variants: selection", "Variant 1: selection arm", "JP: first JP", "EN: second EN",
-		"[1] Choice option 30035 · todo", "Speaker: unknown", "Terminology:", "ディンガル → Dingal",
+		"[1] Choice option 30035 · todo", "Speaker: unknown", "Terminology:", "ディンガル → Dyneskal",
 		"Context boundaries:", "not confirmed vocal-speaker data",
 	} {
 		if !strings.Contains(text, wanted) {

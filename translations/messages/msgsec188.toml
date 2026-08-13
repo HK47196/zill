@@ -150,7 +150,7 @@ english = "<value:$28>. I've been waiting for you. We need to talk.<end>"
 
 ["1880037"]
 japanese = "ディンガルのカルラ軍が<line-break>ロストールに攻め込む動きがあるのは\u3000<line-break>知っていますね？<line-break>ロストールも今の戦力では苦しいはず。<line-break>そこで、我々解放軍がカルラ軍の後方を<line-break>かく乱し、援護しようと思います。<end>"
-english = "You know that Karula's Army in Dingal is preparing to invade Rostorl, don't you? Rostorl will have a hard time holding out with its current forces. So the Liberation Army intends to support Rostorl by disrupting Karula's rear.<end>"
+english = "You know that Karula's Army in Dyneskal is preparing to invade Rostorl, don't you? Rostorl will have a hard time holding out with its current forces. So the Liberation Army intends to support Rostorl by disrupting Karula's rear.<end>"
 
 ["1880038"]
 japanese = "そこで、この作戦を実行に移すために<line-break>ロストールのエリス王妃に資金援助を<line-break>要請するのがあなたの役目です。<line-break>行ってくれますね？<end>"
@@ -306,7 +306,7 @@ english = "Thank you for your efforts, <value:$28>. I will approach the royal ho
 
 ["1880076"]
 japanese = "<select><value:$20>%3今は特にあなたに頼まなければ\u3000\u3000<line-break>ならない任務はありません。<line-break>\u3000<line-break>わたくしには、あなたと悠長に<line-break>お話をしている時間はないのです。<line-break>下がっていていただけるかしら？<end>何をしているのか、ですって？<line-break>ディンガル軍の動きを探らせています。<line-break>その報告を待っているのです。<line-break>ロストールをリベルダムの二の舞に<line-break>させるわけにはいきません。あなたも<line-break>軍の動向には注意してください。<end>今はうかつには動けません。<line-break>解放軍は、壊滅を免れたとはいえ、<line-break>リベルダムで多くの仲間を失いました。<line-break>これまで以上に慎重に時期を選び、<line-break>ディンガルに気取られないように<line-break>動かなくては。<end>"
-english = "<select><value:$20>%3I have no particular missions for you at present. Nor do I have time for a leisurely conversation with you. Would you kindly leave?<end>You ask what I'm doing? I'm having the Dingal Army's movements investigated, and I'm waiting for the report. We cannot let Rostorl suffer the same fate as Liberdam. You should keep a close eye on the army's movements as well.<end>We cannot afford to act carelessly now. Though the Liberation Army escaped destruction, we lost many comrades at Liberdam. We must choose our moment more carefully than ever and act without being detected by Dingal.<end>"
+english = "<select><value:$20>%3I have no particular missions for you at present. Nor do I have time for a leisurely conversation with you. Would you kindly leave?<end>You ask what I'm doing? I'm having the Dyneskal Army's movements investigated, and I'm waiting for the report. We cannot let Rostorl suffer the same fate as Liberdam. You should keep a close eye on the army's movements as well.<end>We cannot afford to act carelessly now. Though the Liberation Army escaped destruction, we lost many comrades at Liberdam. We must choose our moment more carefully than ever and act without being detected by Dyneskal.<end>"
 
 ["1880077"]
 japanese = "あ、<value:$28>。<line-break>その、怪我はありませんか？\u3000\u3000\u3000\u3000<line-break><value:$28>は無理をするから。<line-break>…変なことを言ってごめんなさい。<line-break>今のわたくしには、<value:$28><line-break>しかいないから…。<end>"
@@ -418,7 +418,7 @@ english = "The outskirts of both towns are now overflowing with refugees. I cann
 
 ["1880104"]
 japanese = "解放軍の中には、ディンガル軍への<line-break>抵抗運動よりも、難民の救済に資金が<line-break>流れるのが不満な仲間もいます。<line-break>ですが、わたくしには、ディンガルとの<line-break>戦いのために、難民を放っておくなど<line-break>どうしてもできないのです。<end>"
-english = "Some in the Liberation Army resent seeing funds spent on refugee relief rather than resistance against the Dingal Army. But I cannot abandon the refugees merely for the sake of fighting Dingal.<end>"
+english = "Some in the Liberation Army resent seeing funds spent on refugee relief rather than resistance against the Dyneskal Army. But I cannot abandon the refugees merely for the sake of fighting Dyneskal.<end>"
 
 ["1880105"]
 japanese = "<value:$28>、<line-break>わたくし、間違っているのでしょうか？<line-break>\u3000<line-break>やはり、わたくしのような娘には<line-break>解放軍の指導者など務まらないのかも<line-break>しれませんね…。<end>"
@@ -466,15 +466,15 @@ english = "This will make life a little easier for the refugees. I must begin ma
 
 ["1880116"]
 japanese = "余計なことを言ってしまいましたね。<line-break>こんなことを言っていても資金が<line-break>降ってくるわけじゃありませんのに…。<line-break><value:$28>、もう解放軍に<line-break>いても、ディンガルと戦うことは<line-break>できないかもしれません。<end>"
-english = "I should not have said any of that. Talking about it will not make money fall from the sky. <value:$28>, even if you remain with the Liberation Army, you may no longer be able to fight Dingal.<end>"
+english = "I should not have said any of that. Talking about it will not make money fall from the sky. <value:$28>, even if you remain with the Liberation Army, you may no longer be able to fight Dyneskal.<end>"
 
 ["1880117"]
 japanese = "もし、あなたがディンガルとの戦いを<line-break>望むなら、解放軍を離れた方が<line-break>いいかもしれません。<line-break>わたくしには、そう望む人を<line-break>止める権利はありません。<line-break>…もう、行ってください。<end>"
-english = "If fighting Dingal is what you want, perhaps you should leave the Liberation Army. I have no right to stop anyone who wishes to do so. Please, go now.<end>"
+english = "If fighting Dyneskal is what you want, perhaps you should leave the Liberation Army. I have no right to stop anyone who wishes to do so. Please, go now.<end>"
 
 ["1880118"]
 japanese = "<select><value:$20>%2わたくしが間違っているのかしら？<line-break>あの難民のすべてを救おうなんて<line-break>思い上がりなのかしら？<end>ディンガルをはやく倒すことが<line-break>できれば、これ以上の難民を<line-break>出さずにすむかもしれない。<line-break>でも、今困っている人たちを<line-break>見過ごすことはできません。<end>"
-english = "<select><value:$20>%2Am I wrong? Is it arrogance to think I can save every one of those refugees?<end>If we could defeat Dingal quickly, perhaps we could prevent more people from becoming refugees. But I cannot turn away from those who are suffering now.<end>"
+english = "<select><value:$20>%2Am I wrong? Is it arrogance to think I can save every one of those refugees?<end>If we could defeat Dyneskal quickly, perhaps we could prevent more people from becoming refugees. But I cannot turn away from those who are suffering now.<end>"
 
 ["1880119"]
 japanese = "…<value:$28>。<line-break>今日はどうしたのですか？<end>"
@@ -486,7 +486,7 @@ english = "Is this about the shortage of funds for refugee aid? We are managing 
 
 ["1880121"]
 japanese = "他の解放軍の面々は、<line-break>ディンガルへの憎しみのあまり<line-break>戦うことばかり主張しているのに…。\u3000<line-break>前々から不思議に思っていました。<line-break>あなたはどうして、そこまで<line-break>わたくしの活動を助けてくれるのです？<end>"
-english = "The other members of the Liberation Army are so consumed by their hatred of Dingal that all they speak of is fighting. I have wondered about this for some time. Why do you go so far to help me with my work?<end>"
+english = "The other members of the Liberation Army are so consumed by their hatred of Dyneskal that all they speak of is fighting. I have wondered about this for some time. Why do you go so far to help me with my work?<end>"
 
 ["1880122"]
 japanese = "難民が哀れだからですか？<line-break>それとも…<end>"
@@ -550,7 +550,7 @@ english = "<value:$28>, the Liberation Army couldn't do without you.<end>"
 
 ["1880137"]
 japanese = "このままディンガル帝国を\u3000\u3000\u3000\u3000\u3000\u3000<line-break>放っておくわけにはいかない！<line-break>そうでしょう、<value:$28>さん？<end>"
-english = "We can't just stand by and let the Dingal Empire carry on like this! You agree, don't you, <value:$28>?<end>"
+english = "We can't just stand by and let the Dyneskal Empire carry on like this! You agree, don't you, <value:$28>?<end>"
 
 ["1880138"]
 japanese = "なんで？<end>"
@@ -562,23 +562,23 @@ english = "That's right!<end>"
 
 ["1880140"]
 japanese = "え…、なんでって…。<line-break>それは…その…。<line-break>とにかくディンガルは悪者なんですよ！<end>"
-english = "Huh? Why...? Well... um... Anyway, Dingal is the villain here!<end>"
+english = "Huh? Why...? Well... um... Anyway, Dyneskal is the villain here!<end>"
 
 ["1880141"]
 japanese = "そうです！<line-break>だから、打倒ディンガルのためには<line-break>命も惜しんではいけないんです！<end>"
-english = "Exactly! And if we're to defeat Dingal, we mustn't hesitate to lay down our lives!<end>"
+english = "Exactly! And if we're to defeat Dyneskal, we mustn't hesitate to lay down our lives!<end>"
 
 ["1880142"]
 japanese = "<select><value:$20>%2ディンガルの奴らはずる賢い。<line-break>奴らはロセンでは、王政の時より少しだけ<line-break>住民よりの政治をしているんだ。<line-break>だから、ロセンの住民の中には<line-break>むしろディンガルの統治を歓迎<line-break>する動きもある。困ったものだ。<end>リベルダムでのディンガルの統治の<line-break>話を聞いたか？\u3000奴らは、市民非市民の\u3000<line-break>階級制度をなくしてしまったんだ。<line-break>おかげで非市民だった連中は、差別を<line-break>受けなくなったって喜んでいるらしい。<line-break>困ったものだ。<end>"
-english = "<select><value:$20>%2The Dingal are a crafty lot. In Rocen, they're governing just a little more in the residents' interests than the monarchy did. So some of the people there are actually starting to welcome Dingal rule. That's a problem.<end>Have you heard how the Dingal are governing Liberdam? They've abolished the whole citizen and noncitizen class system. Apparently, the former noncitizens are delighted that they're no longer being discriminated against. That's a problem.<end>"
+english = "<select><value:$20>%2The Dyneskal are a crafty lot. In Rocen, they're governing just a little more in the residents' interests than the monarchy did. So some of the people there are actually starting to welcome Dyneskal rule. That's a problem.<end>Have you heard how the Dyneskal are governing Liberdam? They've abolished the whole citizen and noncitizen class system. Apparently, the former noncitizens are delighted that they're no longer being discriminated against. That's a problem.<end>"
 
 ["1880143"]
 japanese = "リベルダムが陥落し、<line-break>解放軍は財政上の大きな基盤を失った。<line-break>蓄えがなくなるのは時間の問題だ。<line-break>このままでは、ディンガルを倒す前に<line-break>我々が自滅してしまう。<line-break>なんとかしなければ…。<end>"
-english = "With Liberdam fallen, the Liberation Army has lost a major source of financial support. It is only a matter of time before our reserves run dry. At this rate, we will destroy ourselves before we can defeat Dingal. We have to do something...<end>"
+english = "With Liberdam fallen, the Liberation Army has lost a major source of financial support. It is only a matter of time before our reserves run dry. At this rate, we will destroy ourselves before we can defeat Dyneskal. We have to do something...<end>"
 
 ["1880144"]
 japanese = "<select><value:$20>%2知っているか？\u3000クリュセイス様は<line-break>解放軍の資金の大部分を、リベルダムや<line-break>ロセンの難民の救済に回すらしい。<line-break>ただでさえ、資金難だというのに<line-break>これでは、いくら資金があっても<line-break>足らないぞ。困ったものだ。<end>クリュセイス様は難民の救済にもっと<line-break>資金を回すように主張しているそうだ。<line-break>以前は非市民と毛嫌いしていたのにな。<line-break>今は一刻も早くディンガルを倒して<line-break>難民をこれ以上増やさないことの方が<line-break>重要なんだが。困ったものだ。<end>"
-english = "<select><value:$20>%2Have you heard? Lady Khryuseis apparently intends to spend most of the Liberation Army's funds on relief for the refugees from Liberdam and Rocen. We are already short of money. At this rate, no amount will ever be enough. What a mess.<end>They say Lady Khryuseis is insisting that even more money be devoted to refugee relief. And she used to despise them for being non-citizens. But what matters more right now is defeating Dingal as soon as possible, so we don't end up with even more refugees. What a mess.<end>"
+english = "<select><value:$20>%2Have you heard? Lady Khryuseis apparently intends to spend most of the Liberation Army's funds on relief for the refugees from Liberdam and Rocen. We are already short of money. At this rate, no amount will ever be enough. What a mess.<end>They say Lady Khryuseis is insisting that even more money be devoted to refugee relief. And she used to despise them for being non-citizens. But what matters more right now is defeating Dyneskal as soon as possible, so we don't end up with even more refugees. What a mess.<end>"
 
 ["1880145"]
 japanese = "カルラ軍は町を攻略するときに<line-break>無抵抗の住民には手を出さないように\u3000<line-break>命じているそうです。<line-break>どうやら、皇帝ネメアのお達し<line-break>らしいんですがね。まぁ、<line-break>ありがたいことではあるんですが、\u3000\u3000<end>"
@@ -594,7 +594,7 @@ english = "Please continue to support me, <value:$28>.<end>"
 
 ["1880148"]
 japanese = "今はうかつには動けません。<line-break>解放軍は、壊滅を免れたとはいえ、<line-break>リベルダムで多くの仲間を失いました。<line-break>これまで以上に慎重に時期を選び、<line-break>ディンガルに気取られないように<line-break>動かなくては。<end>"
-english = "We cannot afford to act rashly now. The Liberation Army may have escaped destruction, but we lost many comrades in Liberdam. We must choose our moment more carefully than ever and move without alerting Dingal.<end>"
+english = "We cannot afford to act rashly now. The Liberation Army may have escaped destruction, but we lost many comrades in Liberdam. We must choose our moment more carefully than ever and move without alerting Dyneskal.<end>"
 
 ["1880149"]
 japanese = "（回収は解放軍に任せよう。）<end>"

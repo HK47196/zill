@@ -134,7 +134,7 @@ english = "(At the Adventurers' Guild in Terane, we were hired to defeat the mon
 
 ["1230033"]
 japanese = "テラネで依頼された仕事ね。<line-break>紺碧の洞窟のコロル石は、<line-break>ディンガル帝国の収入源のひとつよ。<line-break>この仕事のできしだいでは、<line-break>私たちの働きが帝国に認められて<line-break>騎士になれる…なんて無理か。<end>"
-english = "This is the job we took in Terane. The Korol Stone in Azure Cave is one of the Dingal Empire's sources of revenue. If we handle this job well, perhaps the Empire will recognize our service and make us knights... No, I suppose that's impossible.<end>"
+english = "This is the job we took in Terane. The Korol Stone in Azure Cave is one of the Dyneskal Empire's sources of revenue. If we handle this job well, perhaps the Empire will recognize our service and make us knights... No, I suppose that's impossible.<end>"
 
 ["1230034"]
 japanese = "５０００ギアとは、<line-break>帝国のコロル石採掘部門も<line-break>ずいぶんとケチじゃな。<line-break>紺碧の洞窟は、お主が依頼を受けた<line-break>テラネの北にある。<line-break>準備ができたら出発しようぞ。<end>"
@@ -210,7 +210,7 @@ english = "........... I have no interest.<end>"
 
 ["1230052"]
 japanese = "紺碧の洞窟も、ディンガルの<line-break>鉱物採掘場のひとつだと聞いた。<line-break><line-break>ならば、わざわざ俺たちが<line-break>出るまでもなかろう？<end>"
-english = "I heard Azure Cave is one of Dingal's mineral mines. If so, surely there is no need for us to intervene.<end>"
+english = "I heard Azure Cave is one of Dyneskal's mineral mines. If so, surely there is no need for us to intervene.<end>"
 
 ["1230053"]
 japanese = "紺碧の洞窟の地底湖ってきれいだよね。<line-break>きれいなものも見られて、報酬も<line-break>もらえるなんて一石二鳥だよ。<line-break>ボクはもう、行く気満々だからぁ。<line-break>いつでも出発できるよっ！<line-break>さあ、しゅっぱーつ！<end>"
@@ -222,11 +222,11 @@ english = "According to the reports, the monster in Azure Cave is a formidable o
 
 ["1230055"]
 japanese = "紺碧の洞窟にはディンガルの<line-break>鉱物資源採掘場があります。<line-break><line-break>そこを取り戻したいというのなら、<line-break>帝国が動くべきではないでしょうか？<line-break>どうお考えです、<value:$28>様？<end>"
-english = "Azure Cave contains one of Dingal's mineral extraction sites. If the Empire wants to reclaim it, should the Empire not take action itself? What do you think, <value:$28>?<end>"
+english = "Azure Cave contains one of Dyneskal's mineral extraction sites. If the Empire wants to reclaim it, should the Empire not take action itself? What do you think, <value:$28>?<end>"
 
 ["1230056"]
 japanese = "紺碧の洞窟に行くんだよね。<line-break>でも、ディンガルの土地でしょ？<line-break>どうして冒険者にやらせるのかな？<end>"
-english = "We're going to Azure Cave, right? But that's Dingal territory, isn't it? Why are they making adventurers handle it?<end>"
+english = "We're going to Azure Cave, right? But that's Dyneskal territory, isn't it? Why are they making adventurers handle it?<end>"
 
 ["1230057"]
 japanese = "美しい地底湖とコロル石産出で知られる<line-break>紺碧の洞窟にも魔物が出現したとな。<line-break>闇の勢いは依然増している…。<line-break>封士と呼ばれた身、<line-break>いざ、紺碧の洞窟へ行くぞ！<end>"
@@ -858,7 +858,7 @@ english = "According to Ceryneia's information, one of the Dark Artifacts is in 
 
 ["1230214"]
 japanese = "ディンガルの他にも闇の神器を狙う<line-break>勢力がいるということか。…それに加え<line-break>魔人の類いも動いているという。<line-break>気を抜いている暇もないな。<end>"
-english = "So there are forces besides Dingal seeking the Dark Artifacts. And demonfolk are on the move as well... We cannot afford to let our guard down.<end>"
+english = "So there are forces besides Dyneskal seeking the Dark Artifacts. And demonfolk are on the move as well... We cannot afford to let our guard down.<end>"
 
 ["1230215"]
 japanese = "ケリュネイアと名乗るハーフエルフの<line-break>言うことによれば、闇の神器の１個は<line-break>ウルカーンにあるそうです。<line-break>当然ですが、そう簡単に手に入るとは<line-break>思えません。警戒されないように、<line-break>慎重に行きましょう。<end>"

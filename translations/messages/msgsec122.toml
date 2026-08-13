@@ -2,7 +2,7 @@
 
 ["1220000"]
 japanese = "（ディンガル帝国の朱雀将軍になった<line-break>\u3000アンギルダンから、自分の副将に<line-break>\u3000なるようにとの手紙をもらった）<line-break>（アンギルダンの頼みを聞いて、<line-break>\u3000副将になるためにエンシャントの城へ<line-break>\u3000行こうか、それとも断りに…）<end>"
-english = "(Angeerdan, now the Vermilion Bird General of the Dingal Empire, sent a letter asking me to become his deputy.) (Should I accept Angeerdan's request and go to the castle in Ancient to become his deputy, or go there to decline...?)<end>"
+english = "(Angeerdan, now the Vermilion Bird General of the Dyneskal Empire, sent a letter asking me to become his deputy.) (Should I accept Angeerdan's request and go to the castle in Ancient to become his deputy, or go there to decline...?)<end>"
 
 ["1220001"]
 japanese = "朱雀将軍から自分の副将になるよう<line-break>誘われたって本当なの！？<line-break>それってすごいことよ。<line-break>うらやましいな…。<line-break>もちろん誘いを受けるんでしょ。<line-break>こんなチャンスは二度とないわよ。<end>"
@@ -14,7 +14,7 @@ english = "...............<end>"
 
 ["1220003"]
 japanese = "冒険者から朱雀軍の副将になるなんて<line-break>かなりの強運の持ち主かも。<line-break>この若さで副将に出世ということは…<line-break>数年後にはディンガル皇帝とか…。<line-break>これは玉のこしねらいでアタックする<line-break>しかないかも…。<end>"
-english = "Going from adventurer to deputy commander of the Vermilion Bird Army... You must be incredibly lucky. If you've risen to deputy commander at such a young age, then in a few years you might be Emperor of Dingal... Maybe I should make a move and marry into power...<end>"
+english = "Going from adventurer to deputy commander of the Vermilion Bird Army... You must be incredibly lucky. If you've risen to deputy commander at such a young age, then in a few years you might be Emperor of Dyneskal... Maybe I should make a move and marry into power...<end>"
 
 ["1220004"]
 japanese = "アンギルダンがレターをくレター？<line-break>なんで俺じゃなくてお前に来るんだよ！<line-break>どう考えても俺の方が強いのによ。<line-break>ところで、アンギルダンって誰だ？<line-break>何！\u3000騎士だってぇ！<line-break>急いでエンシャントに行かナイト！<end>"
@@ -74,7 +74,7 @@ english = "Lord Angeerdan is a knight, Senior Disciple. This is no time to dawdl
 
 ["1220018"]
 japanese = "アンギルダンのお爺ちゃんは<line-break>ディンガル帝国の朱雀将軍に<line-break>なったんだよねぇ。<line-break>ルルアンタ、副将には興味ないけど<line-break>アンギルダンのお爺ちゃんに<line-break>会いたくなってきちゃった。<end>"
-english = "Grandpa Angeerdan became the Dingal Empire's Vermilion Bird General, right? Lulluantha isn't interested in being a deputy, but now I want to see Grandpa Angeerdan.<end>"
+english = "Grandpa Angeerdan became the Dyneskal Empire's Vermilion Bird General, right? Lulluantha isn't interested in being a deputy, but now I want to see Grandpa Angeerdan.<end>"
 
 ["1220019"]
 japanese = "………………。<line-break><line-break><line-break>アンギルダンの願いを聞いてやれ。<end>"
@@ -82,11 +82,11 @@ english = "............... Grant Angeerdan's request.<end>"
 
 ["1220020"]
 japanese = "お前がアンギルダン、つまり、<line-break>ディンガル帝国朱雀将軍の副将に？<line-break>関係ない。誰であろうと、な。<end>"
-english = "You? Deputy to Angeerdan―the Dingal Empire's Vermilion Bird General? It makes no difference. No matter who you are.<end>"
+english = "You? Deputy to Angeerdan―the Dyneskal Empire's Vermilion Bird General? It makes no difference. No matter who you are.<end>"
 
 ["1220021"]
 japanese = "アンギルダンの副将ってことは<line-break>ディンガル帝国朱雀将軍の副将だよね。<line-break>冒険者から副将なんて大出世だよ。<line-break>だんだん英雄伝説っぽくなってきた！<line-break>これはもう、その話にのるしかないね。<line-break>すぐにエンシャントの城へ行かないと！<end>"
-english = "Being Angeerdan's deputy means being deputy to the Dingal Empire's Vermilion Bird General, right? Going from adventurer to deputy commander is an enormous promotion. This is starting to feel like a heroic legend! You simply have to accept. Hurry to the castle in Ancient!<end>"
+english = "Being Angeerdan's deputy means being deputy to the Dyneskal Empire's Vermilion Bird General, right? Going from adventurer to deputy commander is an enormous promotion. This is starting to feel like a heroic legend! You simply have to accept. Hurry to the castle in Ancient!<end>"
 
 ["1220022"]
 japanese = "朱雀将軍が君を副将に選んだか。<line-break>君の素質を見抜くとは、<line-break>さすがアンギルダンは目ざといな。<end>"
@@ -102,7 +102,7 @@ english = "I'm disappointed, <value:$28>. If you accept, we'll become enemies!<e
 
 ["1220025"]
 japanese = "そうか、ディンガルに仕官するのか…。<line-break>ならば、覚えておいてくれ、<line-break><value:$28>。<line-break>統治と占領、この２つが、必ずしも<line-break>同じ意味ではないということをな…。<end>"
-english = "I see. So you will enter Dingal's service... Then remember this, <value:$28>: governing and occupying do not necessarily mean the same thing.<end>"
+english = "I see. So you will enter Dyneskal's service... Then remember this, <value:$28>: governing and occupying do not necessarily mean the same thing.<end>"
 
 ["1220026"]
 japanese = "<value:$28>が、朱雀将軍の<line-break>副将に大抜擢されるとは…。<line-break><line-break>祝ってやりたいが、今一度よく<line-break>考えて決断するといい。その出世は、<line-break>戦場に通じているのだからな。<end>"
@@ -122,7 +122,7 @@ english = "...............<end>"
 
 ["1220030"]
 japanese = "ディンガル帝国の朱雀軍の副将に<line-break>なるんですか？<line-break>\u3000<line-break>ロストールを<value:$28>さんが<line-break>攻めるってことですよね？<line-break>いえ、なんでもないです…。<end>"
-english = "You're becoming a deputy commander in the Dingal Empire's Vermilion Bird Army? That means <value:$28> will attack Rostorl, doesn't it? No, it's nothing...<end>"
+english = "You're becoming a deputy commander in the Dyneskal Empire's Vermilion Bird Army? That means <value:$28> will attack Rostorl, doesn't it? No, it's nothing...<end>"
 
 ["1220031"]
 japanese = "………………。<end>"
@@ -794,7 +794,7 @@ english = "This is the job you took in Rocen, right? The priest who brought the 
 
 ["1220198"]
 japanese = "ディンガルは何をしている？<line-break>闇の魔物が出没していると言うのに、<line-break>その退治を冒険者ごときに任すつもり？<line-break><value:$28>が通りかかったのは、<line-break>幸いだったとしか言い様がないわ。<line-break>火山岩地帯へ向かうわよ！<end>"
-english = "What is Dingal doing? A dark monster is on the loose, yet its extermination is being left to a mere adventurer? It was extraordinarily fortunate that <value:$28> happened to pass by. We're heading for the Volcanic Rock Zone!<end>"
+english = "What is Dyneskal doing? A dark monster is on the loose, yet its extermination is being left to a mere adventurer? It was extraordinarily fortunate that <value:$28> happened to pass by. We're heading for the Volcanic Rock Zone!<end>"
 
 ["1220199"]
 japanese = "ロセンの神官殿の話では、<line-break>火山岩地帯の魔物は、<line-break>闇の力を持つらしいですねえ。<line-break>なかなか手ごわいかもしれません。<line-break>心してかかった方が良さそうですよ。<end>"

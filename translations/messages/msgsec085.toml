@@ -54,7 +54,7 @@ english = "And what might you want?<end>"
 
 ["850013"]
 japanese = "ロセンの解放だ。<line-break>ディンガルの豚め！<end>"
-english = "The liberation of Rocen, you Dingal swine!<end>"
+english = "The liberation of Rocen, you Dyneskal swine!<end>"
 
 ["850014"]
 japanese = "人にものを頼むときは、<line-break>もう少し、お行儀よくするものよ？<end>"
@@ -74,7 +74,7 @@ english = "I turned it into a cute little pink town. I deserve thanks, not death
 
 ["850018"]
 japanese = "うるさい！<line-break>いつか貴様らディンガルを殺し尽くす。<line-break>そしてロセン王家がこの国を再興するのだ！<end>"
-english = "Shut up! One day, you Dingals will be slaughtered to the last! Then the royal house of Rocen will restore this country!<end>"
+english = "Shut up! One day, you Dyneskals will be slaughtered to the last! Then the royal house of Rocen will restore this country!<end>"
 
 ["850019"]
 japanese = "ロセン王家…？\u3000カルラ様が<line-break>根絶やしにしたはずだけど？\u3000\u3000\u3000<line-break>\u3000<line-break>もしかして、愚王ペウダの叔母が<line-break>嫁いでいたリベルダムの武器商人<line-break>ロティの娘、クリュセイスのこと？<end>"
@@ -274,7 +274,7 @@ english = "Khryuseis... Right now, you are the only ray of hope the people of Ro
 
 ["850068"]
 japanese = "<value:$28>君、<line-break>どうか、私の願いを聞いてくれ。<line-break>\u3000<line-break>今、私はロセンの解放軍の<line-break>支援をしている。ロセンの人々を<line-break>ディンガルから解放するためだ。<end>"
-english = "<value:$28>, please hear my request. I am supporting Rocen's Liberation Army so that its people may be freed from Dingal.<end>"
+english = "<value:$28>, please hear my request. I am supporting Rocen's Liberation Army so that its people may be freed from Dyneskal.<end>"
 
 ["850069"]
 japanese = "正直、総督ブゾリの悪逆さのために<line-break>状況は芳しくない。<line-break>\u3000<line-break>どうだろう。君ほどの者が<line-break>協力してくれれば、士気も高まり、<line-break>ブゾリにも対抗できると思うのだが…。<end>"
@@ -282,11 +282,11 @@ english = "To be frank, Buzoli's atrocities have left us in a poor position. But
 
 ["850070"]
 japanese = "無論、解放軍の支援はきれいごとだけが<line-break>理由じゃない。ディンガルの魔手が<line-break>リベルダムに及ばないためでもある。<end>"
-english = "Of course, noble ideals are not my only reason for supporting the Liberation Army. I also mean to keep Dingal's grasp from reaching Liberdam.<end>"
+english = "Of course, noble ideals are not my only reason for supporting the Liberation Army. I also mean to keep Dyneskal's grasp from reaching Liberdam.<end>"
 
 ["850071"]
 japanese = "ディンガルの将軍カルラは非情な女だ。<line-break>王家の人間を老人まで処刑したという。<line-break>\u3000<line-break>あの女は戦火に踏みにじられた<line-break>人間の苦しみなどを知らないのだ。<line-break>人間の痛みがわからないのだ。<end>"
-english = "Karula, Dingal's general, is a merciless woman. They say she executed even the elderly members of the royal family. She knows nothing of the suffering of those trampled beneath the fires of war. She cannot understand another person's pain.<end>"
+english = "Karula, Dyneskal's general, is a merciless woman. They say she executed even the elderly members of the royal family. She knows nothing of the suffering of those trampled beneath the fires of war. She cannot understand another person's pain.<end>"
 
 ["850072"]
 japanese = "私はリベルダムの市民として、<line-break>そんな奴らにリベルダムが、<line-break>蹂躙されるのを黙視できない…。\u3000\u3000\u3000<line-break>そんな奴らに<line-break>ロセンが抑圧されているのも<line-break>看過できないのだ。<end>"
@@ -370,11 +370,11 @@ english = "Balor tried to prevent the prophecy from coming true, but in the end,
 
 ["850092"]
 japanese = "そのゾフォルが予言してるのよ。<line-break>ザギヴがディンガルを支配するって。<line-break>\u3000<line-break>ザギヴなんて変な名前、<line-break>アタシ、あの規則規則の巨乳女の<line-break>他に聞いたことがないわ。<end>"
-english = "And Zophor prophesied that Zagiv would rule Dingal. Zagiv is such an odd name, and I've never heard of anyone else with it but that rule-obsessed woman with the enormous breasts.<end>"
+english = "And Zophor prophesied that Zagiv would rule Dyneskal. Zagiv is such an odd name, and I've never heard of anyone else with it but that rule-obsessed woman with the enormous breasts.<end>"
 
 ["850093"]
 japanese = "彼女、今、ディンガルの内政を<line-break>統括してるし、あの予言、<line-break>一応当たったことになるわよね。\u3000\u3000<line-break>おおかた、予言を恐れた<line-break>ベルゼーヴァあたりが、<line-break>そうしたんだと思うのよ。<end>"
-english = "She oversees Dingal's internal affairs now, so technically the prophecy has already come true. I imagine someone like Beelzeva put her there out of fear of it.<end>"
+english = "She oversees Dyneskal's internal affairs now, so technically the prophecy has already come true. I imagine someone like Beelzeva put her there out of fear of it.<end>"
 
 ["850094"]
 japanese = "だけど、そんなことでは<line-break>予言は終わらないって思うわけ。<end>"
@@ -382,7 +382,7 @@ english = "But I don't believe the prophecy ends there.<end>"
 
 ["850095"]
 japanese = "フフ、オカマのカンよ。<line-break>ザギヴはディンガルの皇帝になるわ。<line-break>\u3000<line-break>ただ、ザギヴがずっと<line-break>皇帝でいられるかについては<line-break>ゾフォルは予言してないの。<end>"
-english = "Heh. Call it a queen's intuition. Zagiv will become emperor of Dingal. But Zophor never said how long she'd remain emperor.<end>"
+english = "Heh. Call it a queen's intuition. Zagiv will become emperor of Dyneskal. But Zophor never said how long she'd remain emperor.<end>"
 
 ["850096"]
 japanese = "そこで、ね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
@@ -402,7 +402,7 @@ english = "I think people would believe that story. The masses are longing for j
 
 ["850100"]
 japanese = "どお？<line-break>ディンガルの皇帝になってみない？\u3000<end>"
-english = "Well? Wouldn't you like to become emperor of Dingal?<end>"
+english = "Well? Wouldn't you like to become emperor of Dyneskal?<end>"
 
 ["850101"]
 japanese = "で、そのためにあなたにまず、<line-break>やって欲しいことがあるの。<line-break>ザギヴをたらし込んで欲しいのよ。<end>"
@@ -494,11 +494,11 @@ english = "Balor tried to prevent the prophecy from coming true, but in the end,
 
 ["850123"]
 japanese = "そのゾフォルが予言してるのよ。<line-break>ザギヴがディンガルを支配するって。<line-break>\u3000<line-break>ザギヴなんて変な名前、<line-break>アタシ、あの規則規則の巨乳女の<line-break>他に聞いたことがないわ。<end>"
-english = "And Zophor prophesied that Zagiv would rule Dingal. Zagiv is such an odd name, and I've never heard of anyone else with it but that rule-obsessed woman with the enormous breasts.<end>"
+english = "And Zophor prophesied that Zagiv would rule Dyneskal. Zagiv is such an odd name, and I've never heard of anyone else with it but that rule-obsessed woman with the enormous breasts.<end>"
 
 ["850124"]
 japanese = "彼女、今、ディンガルの内政を<line-break>統括してるし、あの予言、<line-break>一応当たったことになるわよね。\u3000\u3000<line-break>おおかた、予言を恐れた<line-break>ベルゼーヴァあたりが、<line-break>そうしたんだと思うのよ。<end>"
-english = "She oversees Dingal's internal affairs now, so technically the prophecy has already come true. I imagine someone like Beelzeva put her there out of fear of it.<end>"
+english = "She oversees Dyneskal's internal affairs now, so technically the prophecy has already come true. I imagine someone like Beelzeva put her there out of fear of it.<end>"
 
 ["850125"]
 japanese = "だけど、そんなことでは<line-break>予言は終わらないって思うわけ。<end>"
@@ -506,7 +506,7 @@ english = "But I don't believe the prophecy ends there.<end>"
 
 ["850126"]
 japanese = "フフ、オカマのカンよ。<line-break>ザギヴはディンガルの皇帝になるわ。<line-break>\u3000<line-break>ただ、ザギヴがずっと<line-break>皇帝でいられるかについては<line-break>ゾフォルは予言してないの。<end>"
-english = "Heh. Call it a queen's intuition. Zagiv will become emperor of Dingal. But Zophor never said how long she'd remain emperor.<end>"
+english = "Heh. Call it a queen's intuition. Zagiv will become emperor of Dyneskal. But Zophor never said how long she'd remain emperor.<end>"
 
 ["850127"]
 japanese = "そこで、ね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
@@ -526,7 +526,7 @@ english = "I think people would believe that story. The masses are longing for j
 
 ["850131"]
 japanese = "どお？<line-break>ディンガルの皇帝になってみない？\u3000<end>"
-english = "Well? Wouldn't you like to become emperor of Dingal?<end>"
+english = "Well? Wouldn't you like to become emperor of Dyneskal?<end>"
 
 ["850132"]
 japanese = "で、そのためにあなたにまず、<line-break>やって欲しいことがあるの。<line-break>ザギヴをたらし込んで欲しいのよ。<end>"

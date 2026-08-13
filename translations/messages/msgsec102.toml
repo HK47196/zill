@@ -10,11 +10,11 @@ english = "(...It seems to be closed.)<end>"
 
 ["1020002"]
 japanese = "よく来てくれた、<value:$28>。<line-break>ちょうどいいタイミングだ。<line-break>ディンガル軍の部隊が動き出したらしい。\u3000<line-break>もうじき、この平民街にやってくるだろう。<line-break>その前にけりを付けなくてはな。<end>"
-english = "Glad you could make it, <value:$28>. Your timing couldn't be better. It seems a unit of the Dingal Army has begun moving. They'll reach the commoners' quarter before long. We need to settle this before they do.<end>"
+english = "Glad you could make it, <value:$28>. Your timing couldn't be better. It seems a unit of the Dyneskal Army has begun moving. They'll reach the commoners' quarter before long. We need to settle this before they do.<end>"
 
 ["1020003"]
 japanese = "先生。来ました！<line-break>ディンガル軍がこちらに向かってきます。<line-break>先頭にいるのは間違いなくアイリーンです。<end>"
-english = "Master! I'm here! The Dingal Army is headed this way. Irene is definitely leading them.<end>"
+english = "Master! I'm here! The Dyneskal Army is headed this way. Irene is definitely leading them.<end>"
 
 ["1020004"]
 japanese = "それじゃ、行くとするか。<line-break><value:$28>、お前も来るだろう？<end>"
@@ -150,7 +150,7 @@ english = "Aaaaaah! <value:$28>! <value:$28>!<end>"
 
 ["1020037"]
 japanese = "あ～あ。でっけえ声だなあ。<line-break>これは、しばらく止まりそうにないな。\u3000<line-break>…ま、これで大丈夫か。<line-break><value:$28>。<line-break>しばらく、アイリーンのお守りをしてな。<line-break>俺はディンガル軍の動向を見てくる。<end>"
-english = "Good grief, that's some voice. Doesn't sound like she'll be stopping anytime soon. Still, I think she'll be all right now. <value:$28>, look after Irene for a while. I'm going to see what the Dingal Army is doing.<end>"
+english = "Good grief, that's some voice. Doesn't sound like she'll be stopping anytime soon. Still, I think she'll be all right now. <value:$28>, look after Irene for a while. I'm going to see what the Dyneskal Army is doing.<end>"
 
 ["1020038"]
 japanese = "泣きたいときには<line-break>思いっきり泣けばいいんだよ。<end>"
@@ -166,11 +166,11 @@ english = "Good grief, that's some voice. Doesn't sound like she'll be stopping 
 
 ["1020041"]
 japanese = "<value:$28>。<line-break>俺はしばらく、アイリーンのお守りだ。<line-break>お前はディンガル軍の動向を見といてくれや。<line-break>頭を失ったんだ。<line-break>もう、とんずらするしかないだろうよ。<line-break>お前たちも行ってきてくれ。<end>"
-english = "<value:$28>, I'll be looking after Irene for a while. Keep an eye on the Dingal Army for me. They've lost their leader, so running away is about their only choice now. The rest of you go too.<end>"
+english = "<value:$28>, I'll be looking after Irene for a while. Keep an eye on the Dyneskal Army for me. They've lost their leader, so running away is about their only choice now. The rest of you go too.<end>"
 
 ["1020042"]
 japanese = "すまねぇが、これでは手が放せない。<line-break>俺の代わりに、ディンガルの動きを<line-break>見といてくれ。<end>"
-english = "Sorry, but I've got my hands full here. Keep an eye on Dingal's movements for me.<end>"
+english = "Sorry, but I've got my hands full here. Keep an eye on Dyneskal's movements for me.<end>"
 
 ["1020043"]
 japanese = "先生！\u3000先生ー！<line-break>あーーーーー！<end>"

@@ -30,7 +30,7 @@ english = "Setting Out<end>"
 
 ["1090007"]
 japanese = "エンシャントのはずれにある魔道の塔で目覚めた<line-break><value:$28>は記憶を失っていた。<line-break>自分が何者かもわからない状態で魔物に襲われ、<line-break>窮地に陥ったところを、偶然その場にいあわせた<line-break>ディンガル帝国宰相・ベルゼーヴァに救われる。<line-break><value:$28>はベルゼーヴァの助言に従い<line-break>冒険者として身を立てようと、ギルドを訪れる。<line-break>そこで出会ったイーシャという名のわけありげな<line-break>冒険者の少女に、半ば強引に連れ出され、<line-break><value:$28>の自分を捜す旅は始まった。<end>"
-english = "<value:$28> awoke in the Arcane Tower on the outskirts of Ancient with no memories; even the amnesiac's own identity was a mystery. A Monster attacked and drove the amnesiac into desperate straits, but Beelzeva, Chancellor of the Dingal Empire, happened to be there and came to the rescue. Following Beelzeva's advice, <value:$28> went to the Guild to seek work as an adventurer. There, a mysterious young adventurer named Iria all but dragged <value:$28> away, and the search for a lost identity began.<end>"
+english = "<value:$28> awoke in the Arcane Tower on the outskirts of Ancient with no memories; even the amnesiac's own identity was a mystery. A Monster attacked and drove the amnesiac into desperate straits, but Beelzeva, Chancellor of the Dyneskal Empire, happened to be there and came to the rescue. Following Beelzeva's advice, <value:$28> went to the Guild to seek work as an adventurer. There, a mysterious young adventurer named Iria all but dragged <value:$28> away, and the search for a lost identity began.<end>"
 
 ["1090008"]
 japanese = "旅立ち<end>"
@@ -86,7 +86,7 @@ english = "Nemea Ascends the Throne<end>"
 
 ["1090021"]
 japanese = "かつて魔王バロルを倒し勇者と呼ばれたネメアは<line-break>叔父にあたるディンガル帝国皇帝エリュマルクを<line-break>殺害し帝位につく。そして、宰相ベルゼーヴァの<line-break>もと軍隊を大動員し、帝国内務統括、玄武将軍に<line-break>ザギヴ・ディンガルを、白虎将軍にコーンス族の<line-break>ジラークを、朱雀将軍にディンガル統一の名将と<line-break>して名高いアンギルダン・ゼイエンを、青竜将軍<line-break>に無名の少女カルラ・コルキアを、それぞれ抜擢<line-break>する。皇帝ネメアは彼らを率いて、未だ成功した<line-break>者のいない世界統一を目指すのだった。<end>"
-english = "Nemea, once hailed as the Hero after defeating Balor, Demon King, murdered his uncle Eryumark, emperor of the Dingal Empire, and took the throne. Under Chancellor Beelzeva, he mobilized the army on a vast scale. He appointed Zagiv Dingal as the empire's Director of Internal Affairs and Black Tortoise General; Zsilak of the Corns as White Tiger General; Angeerdan Zeyen, renowned as a great commander of Dingal's unification, as Vermilion Bird General; and the unknown girl Karula Korkia as Azure Dragon General. Emperor Nemea then led these generals in pursuit of world unification, a feat no one had yet achieved.<end>"
+english = "Nemea, once hailed as the Hero after defeating Balor, Demon King, murdered his uncle Eryumark, emperor of the Dyneskal Empire, and took the throne. Under Chancellor Beelzeva, he mobilized the army on a vast scale. He appointed Zagiv Dyneskal as the empire's Director of Internal Affairs and Black Tortoise General; Zsilak of the Corns as White Tiger General; Angeerdan Zeyen, renowned as a great commander of Dyneskal's unification, as Vermilion Bird General; and the unknown girl Karula Korkia as Azure Dragon General. Emperor Nemea then led these generals in pursuit of world unification, a feat no one had yet achieved.<end>"
 
 ["1090022"]
 japanese = "青竜将軍カルラの東方攻略<end>"
@@ -94,7 +94,7 @@ english = "Azure Dragon General Karula's Eastern Conquest<end>"
 
 ["1090023"]
 japanese = "ディンガル帝国の東方には、東方６カ国と呼ばれ<line-break>る６つの小王国があった。ネメアから東方攻略の<line-break>命を受けた青竜将軍カルラは、この６つの国を<line-break>わずか数週間で滅ぼした。６カ国の盟主ロセンの<line-break>愚王ペウダは、小娘とバカにした彼女の実力を<line-break>自らの死によって知ることとなる。彼女の占領地<line-break>に対する態度は徹底しており、特にロセン王家の<line-break>人間については年齢性別に関わらずことごとく<line-break>処刑した。以後、彼女のことを人々は畏敬を込め<line-break>神速の戦術家と、恐怖を込め青い死神と呼んだ。<end>"
-english = "East of the Dingal Empire lay six small kingdoms known as the Six Eastern Nations. Ordered by Nemea to conquer the east, Azure Dragon General Karula destroyed all six in mere weeks. Peuda, the foolish king of Rocen and leader of the six nations, had dismissed her as a mere girl; he learned her true ability only in death. Her policy toward occupied lands was uncompromising. Every member of Rocen's royal family was executed, regardless of age or sex. Thereafter, people called her the Lightning Tactician in awe and the Blue Reaper in fear.<end>"
+english = "East of the Dyneskal Empire lay six small kingdoms known as the Six Eastern Nations. Ordered by Nemea to conquer the east, Azure Dragon General Karula destroyed all six in mere weeks. Peuda, the foolish king of Rocen and leader of the six nations, had dismissed her as a mere girl; he learned her true ability only in death. Her policy toward occupied lands was uncompromising. Every member of Rocen's royal family was executed, regardless of age or sex. Thereafter, people called her the Lightning Tactician in awe and the Blue Reaper in fear.<end>"
 
 ["1090024"]
 japanese = "アンギルダン、分断の山脈を越える<end>"
@@ -110,7 +110,7 @@ english = "Angeerdan Defeats the Rostorl Army<end>"
 
 ["1090027"]
 japanese = "アンギルダン山越えの報を受けたロストール軍<line-break>総司令ノヴィン・ファーロスは、それを討つべく<line-break>軍を反転させる。これに対し、彼の息子ゼネテス<line-break>は隊列を整えつつ、ゆっくりと帝国軍を牽制し、<line-break>その上で王都守備軍と連係攻撃せよと説いた。<line-break>だが、その策は聞き入れられず、隊列が乱れた<line-break>まま到着したロストール軍はディンガル軍の攻撃<line-break>を受け、壊滅する。ノヴィンをはじめロストール<line-break>の名だたる貴族が、この戦いの中、命を落とす。<line-break><end>"
-english = "Upon hearing that Angeerdan had crossed the mountains, Novin Pharos, commander-in-chief of the Rostorl Army, turned his forces back to engage him. His son Xenetes urged him to maintain formation while slowly checking the Imperial Army, then coordinate an attack with the capital's garrison. The advice went unheeded. The Rostorl Army arrived with its ranks in disarray, came under attack from the Dingal Army, and was annihilated. Novin and many of Rostorl's most prominent nobles died in the battle.<end>"
+english = "Upon hearing that Angeerdan had crossed the mountains, Novin Pharos, commander-in-chief of the Rostorl Army, turned his forces back to engage him. His son Xenetes urged him to maintain formation while slowly checking the Imperial Army, then coordinate an attack with the capital's garrison. The advice went unheeded. The Rostorl Army arrived with its ranks in disarray, came under attack from the Dyneskal Army, and was annihilated. Novin and many of Rostorl's most prominent nobles died in the battle.<end>"
 
 ["1090028"]
 japanese = "ゼネテスがアンギルダンを破る<end>"
@@ -126,7 +126,7 @@ english = "Zsilak Captures Aqyurius<end>"
 
 ["1090031"]
 japanese = "アキュリュースを囲む湖グラジェオンの足跡<line-break>には、ミズチと呼ばれる水の妖精が住んでおり、<line-break>軍船が湖を渡ろうとすると、それを沈めていた。<line-break>謎の魔道士シャリを雇ったディンガル帝国の<line-break>白虎将軍ジラークは、難攻不落のアキュリュース<line-break>攻略を開始した。開戦直後、シャリがミズチを<line-break>一掃したことで勝敗は決まり、ディンガル軍は、<line-break>難なくアキュリュース占領に成功する。<line-break>シャリは、その謝礼に水の巫女イークレムンを<line-break>さらって姿を消したのだった。<end>"
-english = "The waters of Lake Glajeon, which surrounded Aqyurius, were home to water spirits called Mizuchi. Whenever warships attempted to cross the lake, the Mizuchi sank them. Zsilak, the White Tiger General of the Dingal Empire, hired the mysterious mage Shalli and began his assault on impregnable Aqyurius. The outcome was decided soon after hostilities began, when Shalli wiped out the Mizuchi. The Dingal Army then occupied Aqyurius with ease. As his reward, Shalli abducted the Water Priestess Iiklmn and disappeared.<end>"
+english = "The waters of Lake Glajeon, which surrounded Aqyurius, were home to water spirits called Mizuchi. Whenever warships attempted to cross the lake, the Mizuchi sank them. Zsilak, the White Tiger General of the Dyneskal Empire, hired the mysterious mage Shalli and began his assault on impregnable Aqyurius. The outcome was decided soon after hostilities began, when Shalli wiped out the Mizuchi. The Dyneskal Army then occupied Aqyurius with ease. As his reward, Shalli abducted the Water Priestess Iiklmn and disappeared.<end>"
 
 ["1090032"]
 japanese = "青竜将軍カルラがリベルダムを占領する<end>"
@@ -142,7 +142,7 @@ english = "Karula Announces the Rostorl Campaign<end>"
 
 ["1090035"]
 japanese = "東方諸国、リベルダムと、これまで神速の奇襲で<line-break>勝利をおさめてきたディンガル帝国の青竜将軍<line-break>カルラは、大々的にロストール攻略を発表した。<line-break>カルラ率いる青竜軍の兵力は、先のアンギルダン<line-break>との戦いで疲弊しているロストール軍の５倍は<line-break>あると言われ、この発表を聞いたロストールの<line-break>人々は貴族、民衆を問わず大きな衝撃を受けた。<line-break><line-break><line-break><end>"
-english = "After winning victories over the Eastern Nations and Liberdam through lightning-fast surprise attacks, Karula, Azure Dragon General of the Dingal Empire, publicly announced the Rostorl Campaign. The Azure Dragon Army under her command was said to be at least five times the size of the Rostorl Army, already exhausted by its recent battle with Angeerdan. Nobles and commoners throughout Rostorl were deeply shaken by the announcement.<end>"
+english = "After winning victories over the Eastern Nations and Liberdam through lightning-fast surprise attacks, Karula, Azure Dragon General of the Dyneskal Empire, publicly announced the Rostorl Campaign. The Azure Dragon Army under her command was said to be at least five times the size of the Rostorl Army, already exhausted by its recent battle with Angeerdan. Nobles and commoners throughout Rostorl were deeply shaken by the announcement.<end>"
 
 ["1090036"]
 japanese = "カルラとゼネテスが激突<end>"
@@ -158,7 +158,7 @@ english = "Nemea Dies<end>"
 
 ["1090039"]
 japanese = "ディンガル帝国皇帝となったネメアは、新たに<line-break>任命した将軍たちに世界統一を命じると、自分は<line-break>数人の部下を連れて、闇の神器を探す旅に出る。<line-break>青竜将軍カルラのロストール攻略にあわせるよう<line-break>に、神器を求めロストール近郊のゼグナ鉱山を<line-break>訪れるネメアだったが、システィーナの伝道師の<line-break>ひとりジュサプブロスによって次元のはざまに<line-break>落とされてしまう。同時期にゼネテスによって<line-break>流された噂が、このことと一致したため、<line-break>ネメア死すという話は事実として世界に広まる。<end>"
-english = "After becoming emperor of Dingal, Nemea ordered his newly appointed generals to unite the world, then set out with several subordinates in search of the Artifacts of Darkness. Around the time Azure Dragon General Karula began the Rostorl Campaign, Nemea visited Zegna Mine near Rostorl in search of one such artifact. There, Jusapubros, one of Sistina's missionaries, cast him into the Interdimensional Rift. A rumor spread by Xenetes at about the same time happened to coincide with these events, and the report of Nemea's death spread throughout the world as fact.<end>"
+english = "After becoming emperor of Dyneskal, Nemea ordered his newly appointed generals to unite the world, then set out with several subordinates in search of the Artifacts of Darkness. Around the time Azure Dragon General Karula began the Rostorl Campaign, Nemea visited Zegna Mine near Rostorl in search of one such artifact. There, Jusapubros, one of Sistina's missionaries, cast him into the Interdimensional Rift. A rumor spread by Xenetes at about the same time happened to coincide with these events, and the report of Nemea's death spread throughout the world as fact.<end>"
 
 ["1090040"]
 japanese = "カルラとジラークが激突する<end>"
@@ -214,7 +214,7 @@ english = "Black Tortoise General Goes Missing<end>"
 
 ["1090053"]
 japanese = "ディンガル帝国の内務統括、玄武将軍ザギヴが<line-break>青竜将軍カルラの領内を視察中に失踪した。<line-break>青竜軍の発表によれば、ザギヴは青竜軍の領内に<line-break>入る前にロセン解放軍に襲撃されたとのこと。<line-break>現場は強大な爆発により草一本残っておらず、<line-break>ザギヴの生存は絶望的となり捜索は打ち切られた。<line-break>玄武将軍職は空席となり、内務統括は宰相である<line-break>ベルゼーヴァが兼任、玄武軍の指揮は副官である<line-break>ガラーナ・イガヴィルが執ることとなった。<line-break><end>"
-english = "Zagiv, the Dingal Empire's Black Tortoise General and Director of Internal Affairs, vanished while inspecting Azure Dragon General Karula's territory. The Azure Dragon Army said the Rocen Liberation Army attacked him before he entered its territory. A huge explosion left nothing at the scene; Zagiv's survival was deemed hopeless, and the search ended. The Black Tortoise General's post was left vacant. Chancellor Beelzeva also oversaw internal affairs, while deputy Garana Igavir took command of the Black Tortoise Army.<end>"
+english = "Zagiv, the Dyneskal Empire's Black Tortoise General and Director of Internal Affairs, vanished while inspecting Azure Dragon General Karula's territory. The Azure Dragon Army said the Rocen Liberation Army attacked him before he entered its territory. A huge explosion left nothing at the scene; Zagiv's survival was deemed hopeless, and the search ended. The Black Tortoise General's post was left vacant. Chancellor Beelzeva also oversaw internal affairs, while deputy Garana Igavir took command of the Black Tortoise Army.<end>"
 
 ["1090054"]
 japanese = "エンシャント住民消滅す<end>"
@@ -222,7 +222,7 @@ english = "Ancient's Residents Vanish<end>"
 
 ["1090055"]
 japanese = "ディンガル帝国の帝都エンシャントの住民が<line-break>姿を消した。<line-break>ネメア死後、空位になっていた皇帝の座に、<line-break>皇帝の一族であるザギヴが就任し、破壊神復活の<line-break>ため、住民のソウルを奪ったのである。<line-break>宰相ベルゼーヴァはザギヴに追われ、行方不明。<line-break>ゾフォルの「ザギヴがディンガルを支配する」<line-break>という予言が不吉な形で成就したことになる。<line-break>エンシャントは、破壊神復活をもくろむ一味に<line-break>支配され、街中をモンスターが徘徊している。<end>"
-english = "The residents of Ancient, the Imperial Capital of the Dingal Empire, have vanished. After Nemea's death, Zagiv, a member of the imperial family, took the vacant throne and stole the residents' Souls to revive the God of Destruction. Hunted by Zagiv, Chancellor Beelzeva is missing. Zophor's prophecy that “Zagiv will rule Dingal” has thus come true in an ominous form. Ancient is controlled by the group seeking to revive the God of Destruction, and Monsters roam its streets.<end>"
+english = "The residents of Ancient, the Imperial Capital of the Dyneskal Empire, have vanished. After Nemea's death, Zagiv, a member of the imperial family, took the vacant throne and stole the residents' Souls to revive the God of Destruction. Hunted by Zagiv, Chancellor Beelzeva is missing. Zophor's prophecy that “Zagiv will rule Dyneskal” has thus come true in an ominous form. Ancient is controlled by the group seeking to revive the God of Destruction, and Monsters roam its streets.<end>"
 
 ["1090056"]
 japanese = "エンシャント住民消滅す<end>"
@@ -230,7 +230,7 @@ english = "Ancient's Residents Vanish<end>"
 
 ["1090057"]
 japanese = "ディンガル帝国の帝都エンシャントの住民が消滅<line-break>した。<line-break>破壊神復活をもくろむ妖術宰相ゾフォルらにより<line-break>帝都が急襲され、エンシャント住民のソウルが<line-break>が奪われたのである。<line-break>現在、帝都はゾフォルらの手に落ちており、帝国<line-break>宰相ベルゼーヴァは行方不明。エンシャントは<line-break>モンスターが徘徊する魔都と化している。<line-break><line-break><end>"
-english = "The residents of Ancient, the Imperial Capital of the Dingal Empire, have disappeared. The capital was attacked without warning by Sorcerous Chancellor Zophor's group, which sought to revive the God of Destruction and stole the Souls of Ancient's residents. The capital has now fallen to Zophor's group, while Imperial Chancellor Beelzeva is missing. Ancient has become a demonic city where Monsters roam.<end>"
+english = "The residents of Ancient, the Imperial Capital of the Dyneskal Empire, have disappeared. The capital was attacked without warning by Sorcerous Chancellor Zophor's group, which sought to revive the God of Destruction and stole the Souls of Ancient's residents. The capital has now fallen to Zophor's group, while Imperial Chancellor Beelzeva is missing. Ancient has become a demonic city where Monsters roam.<end>"
 
 ["1090058"]
 japanese = "妖術宰相ゾフォル倒れる<end>"
@@ -254,7 +254,7 @@ english = "Zsilak Rebels<end>"
 
 ["1090063"]
 japanese = "白虎将軍ジラークが人類に対して宣戦布告した。<line-break>ネメア亡きディンガル指導部に種族平等社会は、<line-break>不可能であると判断したようである。<line-break>アルノートゥンには莫大な量の魔力増幅鉱石、<line-break>聖光石が埋蔵されているとの噂があり、これが<line-break>事実であるならば、戦況を一変させる<line-break>ことも不可能でない。<line-break>事態を重く見たディンガル帝国は、ロストール<line-break>攻略中だった青竜軍を帰還させ、これの討伐に<line-break>差し向けた。<end>"
-english = "White Tiger General Zsilak declared war on humanity. He apparently judged a society of racial equality impossible under Dingal's post-Nemea leadership. Alnortun is rumored to hold vast deposits of Holy Light Stone, an ore that amplifies magical power. If true, the deposits could transform the course of the war. Recognizing the gravity of the situation, the Dingal Empire recalled the Azure Dragon Army from the Rostorl Campaign and sent it to suppress Zsilak.<end>"
+english = "White Tiger General Zsilak declared war on humanity. He apparently judged a society of racial equality impossible under Dyneskal's post-Nemea leadership. Alnortun is rumored to hold vast deposits of Holy Light Stone, an ore that amplifies magical power. If true, the deposits could transform the course of the war. Recognizing the gravity of the situation, the Dyneskal Empire recalled the Azure Dragon Army from the Rostorl Campaign and sent it to suppress Zsilak.<end>"
 
 ["1090064"]
 japanese = "ジラークの乱、終結す<end>"
@@ -262,7 +262,7 @@ english = "Zsilak's Rebellion Ends<end>"
 
 ["1090065"]
 japanese = "ジラークは<value:$28>の活躍で倒された。<line-break>アルノートゥンにおけるコーンスの反乱は<line-break>ここに終結した。<line-break>ディンガル帝国はコーンスに対する迫害を禁止、<line-break>登用は種族に関わらず、能力によるという<line-break>ネメアの種族平等路線が継続されることを<line-break>発表した。なお、その後の調査により、<line-break>この反乱の影にアキュリュース攻略でジラークに<line-break>協力した魔道士シャリが暗躍していたことが<line-break>判明している。<end>"
-english = "Zsilak was defeated through the efforts of <value:$28>. The Corns Rebellion in Alnortun ended. The Dingal Empire prohibited persecution of the Corns and announced the continuation of Nemea's policy of racial equality, under which appointments would be based on ability regardless of race. A later investigation revealed that the mage Shalli, who had aided Zsilak in the campaign against Aqyurius, had been working behind the scenes of the rebellion.<end>"
+english = "Zsilak was defeated through the efforts of <value:$28>. The Corns Rebellion in Alnortun ended. The Dyneskal Empire prohibited persecution of the Corns and announced the continuation of Nemea's policy of racial equality, under which appointments would be based on ability regardless of race. A later investigation revealed that the mage Shalli, who had aided Zsilak in the campaign against Aqyurius, had been working behind the scenes of the rebellion.<end>"
 
 ["1090066"]
 japanese = "ジラークの乱、終結す<end>"
@@ -270,7 +270,7 @@ english = "Zsilak's Rebellion Ends<end>"
 
 ["1090067"]
 japanese = "ジラークはカルラ率いる青竜軍によって<line-break>倒された。<line-break>ディンガル帝国はコーンス族討伐令を発し、<line-break>コーンス族は追われる存在となった。<line-break>なお、その後の調査により、<line-break>この反乱の影にアキュリュース攻略でジラークに<line-break>協力した魔道士シャリが暗躍していたことが<line-break>判明している。<line-break><line-break><end>"
-english = "Zsilak was defeated by the Azure Dragon Army led by Karula. The Dingal Empire issued an order for the suppression of the Corns, who became a hunted people. A later investigation revealed that the mage Shalli, who had aided Zsilak in the campaign against Aqyurius, had been working behind the scenes of the rebellion.<end>"
+english = "Zsilak was defeated by the Azure Dragon Army led by Karula. The Dyneskal Empire issued an order for the suppression of the Corns, who became a hunted people. A later investigation revealed that the mage Shalli, who had aided Zsilak in the campaign against Aqyurius, had been working behind the scenes of the rebellion.<end>"
 
 ["1090068"]
 japanese = "束縛の腕輪奪取<end>"
@@ -278,7 +278,7 @@ english = "Bracelet of Binding Seized<end>"
 
 ["1090069"]
 japanese = "ディンガル帝国がウルカーンを陥落させた。<line-break>ウルカーンは魔道士たちの操る溶岩の兵士マグマ<line-break>ゴーレムの力で、進攻してくる敵の軍を退け、<line-break>数百年にわたって独立を守ってきた。<line-break>だが、ディンガル皇帝ネメアの単騎突入の前に<line-break>マグマゴーレム部隊は一瞬で壊滅、ウルカーンは<line-break>陥落した。長老シェムハザは闇の神器、<line-break>束縛の腕輪を所持しており、その力を解放して<line-break>抵抗したが<value:$28>によって<line-break>倒された。<end>"
-english = "The Dingal Empire captured Urkahn. For centuries, Urkahn had preserved its independence by repelling invading armies with Magma Golems, lava soldiers controlled by mages. But Nemea, emperor of Dingal, charged in alone and annihilated the Magma Golem units in an instant, and Urkahn fell. Elder Shemhaza possessed the Bracelet of Binding, an Artifact of Darkness, and released its power to resist, but <value:$28> defeated him.<end>"
+english = "The Dyneskal Empire captured Urkahn. For centuries, Urkahn had preserved its independence by repelling invading armies with Magma Golems, lava soldiers controlled by mages. But Nemea, emperor of Dyneskal, charged in alone and annihilated the Magma Golem units in an instant, and Urkahn fell. Elder Shemhaza possessed the Bracelet of Binding, an Artifact of Darkness, and released its power to resist, but <value:$28> defeated him.<end>"
 
 ["1090070"]
 japanese = "束縛の腕輪奪取<end>"
@@ -286,7 +286,7 @@ english = "Bracelet of Binding Seized<end>"
 
 ["1090071"]
 japanese = "ディンガル帝国がウルカーンを陥落させた。<line-break>ウルカーンは魔道士たちの操る溶岩の兵士マグマ<line-break>ゴーレムの力で、進攻してくる敵の軍を退け、<line-break>数百年にわたって独立を守ってきた<line-break>だが、ディンガル皇帝ネメアの単騎突入の前に<line-break>マグマゴーレム部隊は一瞬で壊滅、ウルカーンは<line-break>陥落した。長老シェムハザは闇の神器、<line-break>束縛の腕輪を所持しており、その力を解放して<line-break>抵抗したが、ネメアの敵ではなかった。<line-break>束縛の腕輪はネメアの手に落ちることになった。<end>"
-english = "The Dingal Empire captured Urkahn. For centuries, Urkahn had preserved its independence by repelling invading armies with Magma Golems, lava soldiers controlled by mages. But Nemea, emperor of Dingal, charged in alone and annihilated the Magma Golem units in an instant, and Urkahn fell. Elder Shemhaza possessed the Bracelet of Binding, an Artifact of Darkness, and released its power to resist, but he was no match for Nemea. The Bracelet of Binding thus fell into Nemea's hands.<end>"
+english = "The Dyneskal Empire captured Urkahn. For centuries, Urkahn had preserved its independence by repelling invading armies with Magma Golems, lava soldiers controlled by mages. But Nemea, emperor of Dyneskal, charged in alone and annihilated the Magma Golem units in an instant, and Urkahn fell. Elder Shemhaza possessed the Bracelet of Binding, an Artifact of Darkness, and released its power to resist, but he was no match for Nemea. The Bracelet of Binding thus fell into Nemea's hands.<end>"
 
 ["1090072"]
 japanese = "ロストールでクーデター発生<end>"
@@ -294,7 +294,7 @@ english = "Coup in Rostorl<end>"
 
 ["1090073"]
 japanese = "ディンガル帝国の進攻で守備隊が出払った王都で<line-break>かねて王妃エリスと対立していた上流貴族たちが<line-break>エリエナイ公レムオンを中心に決起。<line-break>王妃エリスを殺害、その甥ゼネテス総司令を<line-break>処刑しようとした。<line-break>クーデターは意外な形で終結した。<line-break>闇の力に魅入られた王女ティアナが乱入し、<line-break>貴族達を殺害して逃亡したのである。<line-break>現在のところ、王女ティアナの行方は<line-break>分かっていない。<end>"
-english = "With the garrison absent from the royal capital because of the Dingal Empire's advance, high nobles long opposed to Queen Eris rose in revolt under Lemghon, Duke of Elienai. They killed Queen Eris and attempted to execute her nephew, Commander-in-Chief Xenetes. The coup ended unexpectedly when Princess Tiana, enthralled by the power of darkness, stormed in, killed the nobles, and fled. Princess Tiana's whereabouts remain unknown.<end>"
+english = "With the garrison absent from the royal capital because of the Dyneskal Empire's advance, high nobles long opposed to Queen Eris rose in revolt under Lemghon, Duke of Elienai. They killed Queen Eris and attempted to execute her nephew, Commander-in-Chief Xenetes. The coup ended unexpectedly when Princess Tiana, enthralled by the power of darkness, stormed in, killed the nobles, and fled. Princess Tiana's whereabouts remain unknown.<end>"
 
 ["1090074"]
 japanese = "ロストールでクーデター発生<end>"
@@ -302,7 +302,7 @@ english = "Coup in Rostorl<end>"
 
 ["1090075"]
 japanese = "ディンガル帝国の進攻で守備隊が出払った王都で<line-break>かねて王妃エリスと対立していた上流貴族たちが<line-break>エリエナイ公レムオンを中心に決起。<line-break>王妃エリスを殺害、その甥ゼネテス総司令を<line-break>処刑しようとした。<line-break>クーデターは意外な形で終結した。<line-break>闇の力に魅入られた王女アトレイアが乱入し、<line-break>貴族達を殺害して逃亡したのである。<line-break>現在のところ、王女アトレイアの行方は<line-break>分かっていない。<end>"
-english = "With the garrison absent from the royal capital because of the Dingal Empire's advance, high nobles long opposed to Queen Eris rose in revolt under Lemghon, Duke of Elienai. They killed Queen Eris and attempted to execute her nephew, Commander-in-Chief Xenetes. The coup ended unexpectedly when Princess Atleia, enthralled by the power of darkness, stormed in, killed the nobles, and fled. Princess Atleia's whereabouts remain unknown.<end>"
+english = "With the garrison absent from the royal capital because of the Dyneskal Empire's advance, high nobles long opposed to Queen Eris rose in revolt under Lemghon, Duke of Elienai. They killed Queen Eris and attempted to execute her nephew, Commander-in-Chief Xenetes. The coup ended unexpectedly when Princess Atleia, enthralled by the power of darkness, stormed in, killed the nobles, and fled. Princess Atleia's whereabouts remain unknown.<end>"
 
 ["1090076"]
 japanese = "カルラとゼネテスの決戦後<end>"

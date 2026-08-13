@@ -6,7 +6,7 @@ english = ""
 
 ["1250001"]
 japanese = "（ディンガル帝国の玄武将軍になった<line-break>\u3000ザギヴから、手紙をもらった）<line-break><line-break>（エンシャントの政庁へ出向けという<line-break>\u3000内容だ。…行った方がいいのかな？）<end>"
-english = "(A letter arrived from Zagiv, now the Black Tortoise General of the Dingal Empire.) (It says to report to the Ancient Government Hall. ...Should I go?)<end>"
+english = "(A letter arrived from Zagiv, now the Black Tortoise General of the Dyneskal Empire.) (It says to report to the Ancient Government Hall. ...Should I go?)<end>"
 
 ["1250002"]
 japanese = "玄武将軍からの名指しの依頼！？<line-break>それってチャンスよ！<line-break>もちろん受けるんでしょっ？<line-break>うらやましいわ、<value:$28>。<end>"
@@ -14,7 +14,7 @@ english = "A personal request from the Black Tortoise General!? This is your big
 
 ["1250003"]
 japanese = "ディンガルの内務統括殿とはいろいろと<line-break>あってな、ワシは参加できん。<line-break>すまぬな、<value:$28>。<end>"
-english = "I have a complicated history with Dingal's Director of Internal Affairs, so I cannot take part. Forgive me, <value:$28>.<end>"
+english = "I have a complicated history with Dyneskal's Director of Internal Affairs, so I cannot take part. Forgive me, <value:$28>.<end>"
 
 ["1250004"]
 japanese = "ザギヴさんからお仕事頼まれるなんて<line-break>かなりすごいかも…。<line-break><line-break>お金をたくさんもらえたり、<line-break>とんとん拍子に出世できたり、<line-break>世界を支配できるようになるかも！？<end>"
@@ -86,7 +86,7 @@ english = "... Go to the Ancient Government Hall.<end>"
 
 ["1250021"]
 japanese = "音に聞こえし玄武将軍ザギヴも、<line-break>案外ぬるいものだな。<line-break><line-break>フッ…まあ、<line-break>ディンガルの内情を探るのも<line-break>悪くはないのかもしれん。<end>"
-english = "So even the renowned Black Tortoise General Zagiv is softer than I expected. Hmph... Still, it might not be a bad idea to investigate Dingal's internal affairs.<end>"
+english = "So even the renowned Black Tortoise General Zagiv is softer than I expected. Hmph... Still, it might not be a bad idea to investigate Dyneskal's internal affairs.<end>"
 
 ["1250022"]
 japanese = "玄武将軍からの依頼が来たって？<line-break>ぼくの広報活動が実ったんだね！<line-break><line-break>さあ、エンシャントの政庁へ行って、<line-break>話を聞こうよ！<end>"
@@ -266,11 +266,11 @@ english = "(Defeat Zophor, the Sorcerous Chancellor. The spread of the forces of
 
 ["1250066"]
 japanese = "闇の者の帝国…。<line-break>ディンガルの行く末が<line-break>そんなものになるだなんて…。<line-break>これまで先陣切って戦ってきたけど、<line-break>私、怖いわ…。<end>"
-english = "An empire of dark beings... To think that's what awaits Dingal... I've always fought at the front, but I'm afraid...<end>"
+english = "An empire of dark beings... To think that's what awaits Dyneskal... I've always fought at the front, but I'm afraid...<end>"
 
 ["1250067"]
 japanese = "かつてのディンガルの首都が、<line-break>今や…。<line-break><line-break>ゾフォルめから取り戻さねばならぬ。<line-break>ワシら人の手で…！<end>"
-english = "Dingal's former capital, reduced to this... We must wrest it back from Zophor with human hands!<end>"
+english = "Dyneskal's former capital, reduced to this... We must wrest it back from Zophor with human hands!<end>"
 
 ["1250068"]
 japanese = "死の町には闇の精霊たちが<line-break>群れているわ。<line-break>気をつけて、<value:$28>様…。<line-break>きゃ！\u3000今のちょっと、<line-break>大魔道士っぽかったかも！？<end>"
@@ -282,7 +282,7 @@ english = "This is no time for jokes! If we lose our nerve now, the world's futu
 
 ["1250070"]
 japanese = "ディンガル帝国首都、<line-break>エンシャントが…。<line-break>ゾフォル…許せない。<line-break>謁見の間に急ごう、<line-break><value:$28>！<end>"
-english = "Ancient, capital of the Dingal Empire... Zophor... I won't forgive this. Hurry to the audience chamber, <value:$28>!<end>"
+english = "Ancient, capital of the Dyneskal Empire... Zophor... I won't forgive this. Hurry to the audience chamber, <value:$28>!<end>"
 
 ["1250071"]
 japanese = "闇の皇帝が、<line-break>闇の帝国が誕生しようとしている。<line-break>放ってはおけない…！<line-break>謁見の間へ急ぐぞ！<end>"
@@ -450,7 +450,7 @@ english = "I don't really understand this talk of humanity's progress, but I ref
 
 ["1250112"]
 japanese = "ディンガルの首都が<line-break>魔物の巣窟に変わり果てるとは…。<line-break>ここで死ぬわけには行かないぞ。<end>"
-english = "To think Dingal's capital would become a den of monsters... We cannot die here.<end>"
+english = "To think Dyneskal's capital would become a den of monsters... We cannot die here.<end>"
 
 ["1250113"]
 japanese = "何よ、下等生物。<line-break>アタクシに聞かなくちゃ、<line-break>何も決められないの？<line-break>…なんて言ってる暇もないのよー！<line-break>このままじゃ、革新どころか、<line-break>人類滅亡なのよー！！<end>"
@@ -750,7 +750,7 @@ english = "We must stop this...! The Holy Light Stone mine holds a terrible secr
 
 ["1250187"]
 japanese = "ナッジが反乱に加わるとは…。<line-break>ディンガル帝国が黙っているとは<line-break>考えにくい。急がなければ！<end>"
-english = "Nadge has joined the rebellion... The Dingal Empire is unlikely to stand by and do nothing. We must hurry!<end>"
+english = "Nadge has joined the rebellion... The Dyneskal Empire is unlikely to stand by and do nothing. We must hurry!<end>"
 
 ["1250188"]
 japanese = "まずいな…。<line-break>ナッジが大切なら<line-break>助けに行かないと。<end>"
@@ -854,7 +854,7 @@ english = "... Will you not follow?<end>"
 
 ["1250213"]
 japanese = "帝国内部で何かあったようだな。<line-break>いくらカルラでも、この間隔で<line-break>出陣するのは考えられん。<line-break>ロストールを放置するのも妙な話だ。<line-break>ディンガルも長くないかもしれんな。<end>"
-english = "Something must have happened within the Empire. Even Karula would not deploy again so soon. It is also strange to leave Rostorl alone. Dingal may not have long left.<end>"
+english = "Something must have happened within the Empire. Even Karula would not deploy again so soon. It is also strange to leave Rostorl alone. Dyneskal may not have long left.<end>"
 
 ["1250214"]
 japanese = "種族のための戦いかぁ…。<line-break>僕は複雑な気持ちがするよ。<end>"
@@ -1074,7 +1074,7 @@ english = "Lord Beelzeva... ...<end>"
 
 ["1250268"]
 japanese = "ディンガルの宰相の行きそうな場所？<line-break>奴の執務室以外でか？<line-break><line-break>…そうだな。少し前に、<line-break>奴を新月の塔で見かけたって<line-break>話を聞いたことがあるぜ。<end>"
-english = "Where might Dingal's Chancellor go? Besides his office? ...Let's see. Not long ago, I heard someone had spotted him at New Moon Tower.<end>"
+english = "Where might Dyneskal's Chancellor go? Besides his office? ...Let's see. Not long ago, I heard someone had spotted him at New Moon Tower.<end>"
 
 ["1250269"]
 japanese = "奴らの言う人類の革新を進めるには<line-break>強大な力が必要だ。<line-break>それを求めに行ったのではないか？<line-break>新月の塔、魔道の塔…<line-break>ここには、特殊な魔法が封じられたと<line-break>耳に挟んだことがある。<line-break>気になるなら行け。他の連中になど聞くだけ無駄だ。<end>"
@@ -1238,7 +1238,7 @@ english = "... What matters is not so much the appearance of the Earth Shrine Ma
 
 ["1250309"]
 japanese = "精霊神グラジェオンの聖座へ行き、<line-break>その試練を受けることで、<line-break>エステルが地の巫女となる…。<line-break>エステルがお前を頼っている以上、<line-break>決断する権利はお前にある。<line-break><line-break>滅んだ魔導文明がにわかに復活し、<line-break>ディンガルを、そして世界を焼くか、<line-break>それとも…。<line-break>それが、お前にかかっている。<end>"
-english = "Esther will go to Grajeon the Spirit God's Holy Seat, undergo the trial there, and become the Earth Shrine Maiden... Since Esther is relying on you, the decision is yours to make. The fallen arcane civilization may suddenly return and burn Dingal, and then the world, or else... It all depends on you.<end>"
+english = "Esther will go to Grajeon the Spirit God's Holy Seat, undergo the trial there, and become the Earth Shrine Maiden... Since Esther is relying on you, the decision is yours to make. The fallen arcane civilization may suddenly return and burn Dyneskal, and then the world, or else... It all depends on you.<end>"
 
 ["1250310"]
 japanese = "グラジェオンの座所に行けば、<line-break>エステルは地の巫女になれるんだって。<line-break>エステルはそれを望んでるんだよね？<line-break>だったら、一緒に行ってあげるのが、<line-break>スマートってものじゃないかな。<line-break><line-break>もちろん行くよ。<line-break>精霊の神様なんてものは、<line-break>めったに見られるもんじゃないからね。<end>"

@@ -74,7 +74,7 @@ english = ""
 
 ["840018"]
 japanese = "そうそう、あたしカルラ。\u3000\u3000\u3000<line-break>一応、ディンガルの兵士なんだけど、<line-break>こうやって外をぶらつくのが任務なの。<line-break>…って言っても、人さらい追跡は<line-break>あたしの任務じゃないんだけどね。<end>"
-english = "Oh, right. I'm Karula. I'm technically a soldier of Dingal, but my assignment has me wandering around out here. Not that chasing kidnappers is actually part of it.<end>"
+english = "Oh, right. I'm Karula. I'm technically a soldier of Dyneskal, but my assignment has me wandering around out here. Not that chasing kidnappers is actually part of it.<end>"
 
 ["840019"]
 japanese = "偶然、やつらを見かけたもんで<line-break>任務を放り出して<line-break>ここまで来ちゃったわけ。<line-break>どう？\u3000ついでだからさ、<line-break>さらわれた女の子を助けに、<line-break>一緒に行かない？<end>"
@@ -142,7 +142,7 @@ english = "This way, this way. We should be able to sneak into the castle throug
 
 ["840035"]
 japanese = "なんでそんなこと知ってるかって？<line-break>ちっちっち。ディンガルの情報網を<line-break>なめちゃいけないね。<line-break>ロセンの守りが堅いって言っても<line-break>抜け道のひとつやふたつくらい<line-break>調べはついてんの。<end>"
-english = "Wondering how I know? Tsk, tsk, tsk. Don't underestimate Dingal's intelligence network. Rocen may be well defended, but we've still managed to uncover a secret way in or two.<end>"
+english = "Wondering how I know? Tsk, tsk, tsk. Don't underestimate Dyneskal's intelligence network. Rocen may be well defended, but we've still managed to uncover a secret way in or two.<end>"
 
 ["840036"]
 japanese = "ここはね、エサの搬入口。<line-break>ペウダが飼ってるモンスターのエサよ。<line-break>\u3000<line-break>きっと、とんでもない大食らいなのね。<line-break>…エサの中身は知りたくないけど。<end>"
@@ -186,7 +186,7 @@ english = "Well then, shall we go pay our respects to Peuda, that dirty old man?
 
 ["840046"]
 japanese = "ディンガルの軍人か…。<line-break>やっぱり本物の騎士は違うな。<end>"
-english = "A Dingal soldier... A true knight really is something else.<end>"
+english = "A Dyneskal soldier... A true knight really is something else.<end>"
 
 ["840047"]
 japanese = "私も一緒に行きたいけど…<line-break>退路を守るのが私の役目よね。<line-break>\u3000<line-break><value:$28>、<line-break>気をつけて行ってきて。<line-break>あの人の前で失敗しないでね。<end>"
@@ -194,7 +194,7 @@ english = "I'd like to go with you, but guarding our escape route is my job, isn
 
 ["840048"]
 japanese = "<if><value:$01><equal>4あの人と一緒だと危なそうだし、<line-break>一緒に行かなくてすんで<line-break>ラッキーかも。 <end><if><value:$01><equal>5くっそおおぉぉぉ。<line-break>なんで俺に命令するんだよ！<line-break>\u3000<line-break>しかも、なんで俺、<line-break>一言も言い返せねえんだよ！ <end><if><value:$01><equal>6もう、自分勝手な人だなあ。<line-break>…でも、逃げ道がなくなったら<line-break>確かにまずいよね。 <end><if><value:$01><equal>12大したタマだぜ。<line-break>確かに退路を確保するのは<line-break>戦闘の基本だ。 <end><if><value:$01><equal>13…あの女、<line-break>何様のつもりだ…。 <end><if><value:$01><equal>10ディンガル兵だかなんだか<line-break>知らねえけど、<line-break>俺たちに命令すんのやめてほしいな。 <end><if><value:$01><equal>14強引な娘じゃの。<line-break>頭はキレるようじゃが。 <end><if><value:$01><equal>15…すごい人だね。<line-break>ひとりで決めて、<line-break>さっさと行っちゃった。 <end><if><value:$01><equal>17………………。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>な、な、な、なんなのよ！<line-break>エルフのアタクシに向かってあの態度。<line-break>ゼッッッタイに許せなくてよ！ <end><if><value:$01><equal>19行っちゃったね。 <end><if><value:$01><equal>20………………。 <end><if><value:$01><equal>11………………。 <end><if><value:$01><equal>21………………。 <end><if><value:$01><equal>23………………。 <end><if><value:$01><equal>27…ずいぶん強引な人だね<end><if><value:$01><equal>26強引な娘じゃな。<end><if><value:$01><equal>24………………。 <end><if><value:$01><equal>25すごい勢い…<line-break>あ、ひとりで行っちゃった…。<end><if><value:$01><equal>193なんだかスゴイ人ですね。<end><if><value:$01><equal>191ちゃんと退路を確保するなんて。<line-break>見かけによらず切れる人ね。<end>なんだか<line-break>すごい人についてきちゃったね。 <end>"
-english = "<if><value:$01><equal>4Going with her looks dangerous. Maybe I'm lucky I don't have to.<end><if><value:$01><equal>5Daaamn it! Why does she get to order me around?! And why can't I say a single word back?!<end><if><value:$01><equal>6Honestly, she's so selfish. But she is right that we'd be in trouble without a way out.<end><if><value:$01><equal>12She's got nerve. Securing an escape route is basic combat procedure, though.<end><if><value:$01><equal>13Who does that woman think she is...?<end><if><value:$01><equal>10Dingal soldier or whatever, I wish she'd stop ordering us around.<end><if><value:$01><equal>14A forceful young woman, that one. Sharp-minded, though.<end><if><value:$01><equal>15She's quite something. Made the decision all by herself and marched straight off.<end><if><value:$01><equal>17... Wh-what was that?! How dare she take that attitude with me, an Elf! I shall absolutely never forgive her!<end><if><value:$01><equal>19She's gone.<end><if><value:$01><equal>20...<end><if><value:$01><equal>11...<end><if><value:$01><equal>21...<end><if><value:$01><equal>23...<end><if><value:$01><equal>27She certainly is forceful.<end><if><value:$01><equal>26A forceful young woman, that one.<end><if><value:$01><equal>24...<end><if><value:$01><equal>25What a whirlwind... Oh, she went off alone.<end><if><value:$01><equal>193She's really something, isn't she?<end><if><value:$01><equal>191She made sure to secure our escape route. She's sharper than she looks.<end>Somehow we've ended up following someone pretty remarkable.<end>"
+english = "<if><value:$01><equal>4Going with her looks dangerous. Maybe I'm lucky I don't have to.<end><if><value:$01><equal>5Daaamn it! Why does she get to order me around?! And why can't I say a single word back?!<end><if><value:$01><equal>6Honestly, she's so selfish. But she is right that we'd be in trouble without a way out.<end><if><value:$01><equal>12She's got nerve. Securing an escape route is basic combat procedure, though.<end><if><value:$01><equal>13Who does that woman think she is...?<end><if><value:$01><equal>10Dyneskal soldier or whatever, I wish she'd stop ordering us around.<end><if><value:$01><equal>14A forceful young woman, that one. Sharp-minded, though.<end><if><value:$01><equal>15She's quite something. Made the decision all by herself and marched straight off.<end><if><value:$01><equal>17... Wh-what was that?! How dare she take that attitude with me, an Elf! I shall absolutely never forgive her!<end><if><value:$01><equal>19She's gone.<end><if><value:$01><equal>20...<end><if><value:$01><equal>11...<end><if><value:$01><equal>21...<end><if><value:$01><equal>23...<end><if><value:$01><equal>27She certainly is forceful.<end><if><value:$01><equal>26A forceful young woman, that one.<end><if><value:$01><equal>24...<end><if><value:$01><equal>25What a whirlwind... Oh, she went off alone.<end><if><value:$01><equal>193She's really something, isn't she?<end><if><value:$01><equal>191She made sure to secure our escape route. She's sharper than she looks.<end>Somehow we've ended up following someone pretty remarkable.<end>"
 
 ["840049"]
 japanese = "<if><value:$01><equal>4それじゃ、私はここで。<line-break>ご愁傷様。 <end><if><value:$01><equal>5くやしいけど俺はここに残る。<line-break>あいつにカッコいいところ<line-break>見せつけてやれよ。 <end><if><value:$01><equal>6気をつけて行ってよ。<line-break>あの人、何やらかすか<line-break>わからないから。 <end><if><value:$01><equal>12多少、強引だが、<line-break>間違ったことは言ってない。<line-break>まっ、気をつけて行ってこいや。 <end><if><value:$01><equal>13早く行け。<line-break>ここは引き受けた。 <end><if><value:$01><equal>10もとはと言えば、姉ちゃんが\u3000\u3000\u3000\u3000<line-break>首突っ込むからいけないんだぞ！<line-break>\u3000<line-break>まぁ、今に始まったことじゃないか。<line-break>…早く行ってこいよ。 <end><if><value:$01><equal>14わしはここに残る。<line-break><value:$28>、気をつけてな。 <end><if><value:$01><equal>15でも悪い人じゃないみたい。<line-break><value:$28>、がんばってね。 <end><if><value:$01><equal>17どーして高貴なアタクシが<line-break>こーんな薄汚い地下道で<line-break>あんたたちを待ってなきゃいけないの？<line-break>いいわよ！\u3000行きなさいよ！<line-break>もしアタクシの身に何かあったら<line-break>責任とってもらいますからね！ <end><if><value:$01><equal>19でも、人さらいの王様なんて\u3000\u3000<line-break>許せないもん。<line-break>\u3000<line-break><value:$28>、しっかりね。 <end><if><value:$01><equal>20早く行け。<line-break>俺はここを守る。 <end><if><value:$01><equal>11<value:$28>、気をつけて。 <end><if><value:$01><equal>21ここは引き受けた。 <end><if><value:$01><equal>23<value:$28>、ここは引き受けた。 <end><if><value:$01><equal>27<value:$28>、気をつけてな。 <end><if><value:$01><equal>26<value:$28>、気をつけてな。 <end><if><value:$01><equal>24ここは引き受けました。<line-break><value:$28>様、お気をつけて。<end><if><value:$01><equal>25じゃあ、ここに残るね<line-break>気をつけて行ってね。<end><if><value:$01><equal>193それじゃあ私はここで待ってます。<line-break>気をつけてくださいね。<end><if><value:$01><equal>191私はここを守ってるわ。<line-break>気をつけてね。<end>でも、人さらいなんて\u3000\u3000<line-break>キレイじゃないよ。<line-break>そんな王様なんて許せない。<line-break><value:$28>、しっかりね。 <end>"
@@ -546,7 +546,7 @@ english = "Oh, you. Sorry, but could you go somewhere else? I don't want anyone 
 
 ["840136"]
 japanese = "あ、名前教えてよ。<line-break>ちょっと、気になるからさ。<line-break>\u3000<line-break>あたしはカルラ。<line-break>これでもディンガルの軍人。<line-break>で、あんたは？<end>"
-english = "Oh, tell me your name. You've got me curious. I'm Karula. Believe it or not, I'm a Dingal soldier. And you are?<end>"
+english = "Oh, tell me your name. You've got me curious. I'm Karula. Believe it or not, I'm a Dyneskal soldier. And you are?<end>"
 
 ["840137"]
 japanese = "<value:$28>、ね。<line-break>そんじゃね、<value:$28>。<end>"
@@ -626,7 +626,7 @@ english = "Heh. You're kind of an idiot, you know that? Fine, I'll tell you. But
 
 ["840156"]
 japanese = "あたしね、笑ってたいの。<line-break>だからね、強くないと<line-break>いけないんだ…。<line-break>あたしが１２になったころ、<line-break>ロセン王ペウダが<line-break>ディンガルの東方に攻め込んだの。<end>"
-english = "I want to be able to laugh. And for that, I have to be strong. Around the time I turned twelve, King Peuda of Rocen invaded eastern Dingal.<end>"
+english = "I want to be able to laugh. And for that, I have to be strong. Around the time I turned twelve, King Peuda of Rocen invaded eastern Dyneskal.<end>"
 
 ["840157"]
 japanese = "ロストール王妃エリスや\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>リベルダムの武器商人に<line-break>そそのかされてね。<line-break>あたしの村もロセン軍に略奪されたわ。<line-break>何もかも奪い尽くされ、<line-break>みんな殺されたわ…。<end>"
@@ -694,11 +694,11 @@ english = ""
 
 ["840173"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000ディンガル帝国の東、\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000バイアシオン内海に面した地方には\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ロセン王国をはじめとする\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000東方６カ国と呼ばれる小国家群があった。\u3000<end>"
-english = "East of the Dingal Empire, along the shores of the Baiashion Inland Sea, lay a group of small states known as the Six Eastern Nations, among them the Kingdom of Rocen.<end>"
+english = "East of the Dyneskal Empire, along the shores of the Baiashion Inland Sea, lay a group of small states known as the Six Eastern Nations, among them the Kingdom of Rocen.<end>"
 
 ["840174"]
 japanese = "皇帝ネメアの命により\u3000\u3000\u3000\u3000<line-break>東方諸国攻略の任に就いた\u3000\u3000\u3000\u3000<line-break>ディンガルの青竜将軍カルラは、\u3000\u3000\u3000<line-break>この国々をわずか数週間で滅ぼした。\u3000\u3000\u3000<end>"
-english = "At Emperor Nemea's command, Dingal's Azure Dragon General Karula was charged with conquering the eastern nations. Within mere weeks, she had destroyed them all.<end>"
+english = "At Emperor Nemea's command, Dyneskal's Azure Dragon General Karula was charged with conquering the eastern nations. Within mere weeks, she had destroyed them all.<end>"
 
 ["840175"]
 japanese = "ロセンの暗愚王ペウダは、カルラの力を<line-break>過小評価したため、その才能と実力を<line-break>戦場で思い知ることとなった。<line-break>敗北と自らの死によって…。<end>"
@@ -758,11 +758,11 @@ english = "Y-yes. My parents and younger brother are in Nearby Village...<end>"
 
 ["840189"]
 japanese = "それじゃ、家族と一緒に\u3000\u3000<line-break>今すぐディンガルへ逃げて。<line-break>\u3000<line-break>奴らに家を知られている以上、<line-break>村にいるのは危険だわ。<end>"
-english = "Then take your family and flee to Dingal right now. They know where you live, so staying in the village would be dangerous.<end>"
+english = "Then take your family and flee to Dyneskal right now. They know where you live, so staying in the village would be dangerous.<end>"
 
 ["840190"]
 japanese = "ディンガルに入ったら<line-break>この宝石を売るの。<line-break>ちょっとしたお金になるはずよ。<end>"
-english = "Once you reach Dingal, sell this jewel. It should fetch you a fair bit of money.<end>"
+english = "Once you reach Dyneskal, sell this jewel. It should fetch you a fair bit of money.<end>"
 
 ["840191"]
 japanese = "あの、でも…。<end>"

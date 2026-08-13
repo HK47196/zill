@@ -594,7 +594,7 @@ english = "Hey, <value:$28>! There's a letter for you.<end>"
 
 ["890148"]
 japanese = "\u3000\u3000\u3000<value:$28>殿<line-break>\u3000\u3000依頼いたしたき件あり。<line-break>\u3000\u3000至急、エンシャント政庁まで<line-break>\u3000\u3000お越しくださるよう。<line-break>\u3000\u3000\u3000ザギヴ・ディンガル<end>"
-english = "To <value:$28>: I have a matter requiring your assistance. Please come to Ancient Government Hall at once. Zagiv Dingal<end>"
+english = "To <value:$28>: I have a matter requiring your assistance. Please come to Ancient Government Hall at once. Zagiv Dyneskal<end>"
 
 ["890149"]
 japanese = "おう！\u3000<value:$28><line-break>手紙が届いているぜ。<end>"
@@ -602,7 +602,7 @@ english = "Hey, <value:$28>! A letter came for you.<end>"
 
 ["890150"]
 japanese = "               <value:$28>殿<line-break>                依頼いたしたき件あり。\u3000\u3000<line-break>                至急、エンシャント政庁まで<line-break>                お越しくださるよう。<line-break>                ザギヴ・ディンガル<end>"
-english = "<value:$28>, I have a matter requiring your assistance. Please come to Ancient Government Hall at once. Zagiv Dingal<end>"
+english = "<value:$28>, I have a matter requiring your assistance. Please come to Ancient Government Hall at once. Zagiv Dyneskal<end>"
 
 ["890151"]
 japanese = "<value:$28>様でありますか！<line-break>ザギヴ将軍よりお話は承っております！<line-break>どうぞ！\u3000ご案内いたします！<end>"
@@ -718,11 +718,11 @@ english = "Sorry, <value:$28>.<end>"
 
 ["890179"]
 japanese = "我らは反ディンガルの闘士！<line-break>ロセン王国復興を志す者だ！<end>"
-english = "We are fighters against Dingal! We seek the restoration of the Kingdom of Rocen!<end>"
+english = "We are fighters against Dyneskal! We seek the restoration of the Kingdom of Rocen!<end>"
 
 ["890180"]
 japanese = "ディンガルの侵略者！<line-break>その巨魁ザギヴ・ディンガル！<end>"
-english = "Dingal invader! Zagiv Dingal, ringleader of them all!<end>"
+english = "Dyneskal invader! Zagiv Dyneskal, ringleader of them all!<end>"
 
 ["890181"]
 japanese = "今日がその命運のつきる時だ！<line-break>死をもって侵略と非道の罪をあがなえ！<end>"
@@ -734,7 +734,7 @@ english = "<value:$28>? You... You're <value:$28>, aren't you?!<end>"
 
 ["890183"]
 japanese = "くっ、どういうつもりだ。<line-break>ディンガルに寝返ったのか！<end>"
-english = "Damn it, what are you doing? Have you gone over to Dingal?!<end>"
+english = "Damn it, what are you doing? Have you gone over to Dyneskal?!<end>"
 
 ["890184"]
 japanese = "ややこしい話が出てきたんで<line-break>確認させてもらうけど、<line-break>あなた、私を守ってくれるのよね？<end>"
@@ -854,7 +854,7 @@ english = "The memories... of that day... came back...<end>"
 
 ["890213"]
 japanese = "妖術宰相ゾフォルは予言したわ…。<line-break>ザギヴがディンガルを支配する、<line-break>って…<line-break>それで、私の家族は魔王バロルに<line-break>捕らえられて…ウルグの円卓騎士、<line-break>棲みつくものマゴスの餌食に…<end>"
-english = "Zophor, the Sorcerous Chancellor, made a prophecy... that Zagiv would rule Dingal. Because of it, my family was captured by Balor, Demon King... and fed to Magos the Indweller, one of Urg's Knights of the Round Table...<end>"
+english = "Zophor, the Sorcerous Chancellor, made a prophecy... that Zagiv would rule Dyneskal. Because of it, my family was captured by Balor, Demon King... and fed to Magos the Indweller, one of Urg's Knights of the Round Table...<end>"
 
 ["890214"]
 japanese = "マゴスは昼のあの怪物兵器によく似た<line-break>外見をしていたの…。そして…<line-break>やはり魔法も…打撃も…効かなかった。<end>"
@@ -1182,7 +1182,7 @@ english = "However fiercely you struggle... all is ordained... Heh... Ahahahahah
 
 ["890295"]
 japanese = "ザギヴがディンガルを支配する…。<line-break>妖術宰相ゾフォルの預言が、<line-break>いよいよ成就の時を迎えるというのか…<end>"
-english = "Zagiv will rule Dingal... Can it be that the prophecy of Zofor, the Sorcerous Chancellor, is finally about to be fulfilled?<end>"
+english = "Zagiv will rule Dyneskal... Can it be that the prophecy of Zofor, the Sorcerous Chancellor, is finally about to be fulfilled?<end>"
 
 ["890296"]
 japanese = "気をつけたまえ。<line-break>彼女の内には、円卓騎士マゴスが<line-break>棲みついているのだ。<end>"
@@ -2162,7 +2162,7 @@ english = "Eris's Office<end>"
 
 ["890540"]
 japanese = "ディンガルの魔の手が迫ってきて…。<line-break>いったい、これから<line-break>どうなるのでしょう、伯爵様。<end>"
-english = "Dingal's clutches are closing in on us... What will become of us now, my lord Count?<end>"
+english = "Dyneskal's clutches are closing in on us... What will become of us now, my lord Count?<end>"
 
 ["890541"]
 japanese = "そうですか。<end>"
@@ -2214,7 +2214,7 @@ english = "I see. A pity. In that case, we cannot grant your request for aid. Yo
 
 ["890553"]
 japanese = "よお、あの神速の戦術家カルラが<line-break>勇猛なディンガル兵をわんさか連れて<line-break>こっちに向かってるそうだ。<line-break>アンギルダンのとっつぁんとの戦いで<line-break>こっちは兵力をあらかた失ってる上に<line-break>レムオンのダンナがな…。<end>"
-english = "Hey. Word is Karula, that lightning-fast tactician, is heading this way with a whole horde of fierce Dingal soldiers. We lost nearly all our troops fighting old Angeerdan, and now Lord Lemghon has gone and...<end>"
+english = "Hey. Word is Karula, that lightning-fast tactician, is heading this way with a whole horde of fierce Dyneskal soldiers. We lost nearly all our troops fighting old Angeerdan, and now Lord Lemghon has gone and...<end>"
 
 ["890554"]
 japanese = "貴族を集めて、兵を出さねえってさ。<line-break>んで、俺はファーロス家の兵だけで<line-break>カルラを迎え撃つことにした。<line-break>状況は最悪だ…つっても、<line-break>もっと悪くなるかもしれねえから<line-break>最悪じゃねえか。<end>"
@@ -2398,7 +2398,7 @@ english = "Eris's Office<end>"
 
 ["890599"]
 japanese = "ディンガルの魔の手が迫ってきて…<line-break>いったい、これから<line-break>どうなるのでしょう、伯爵様。<end>"
-english = "With Dingal's clutches closing in... what will happen now, Count?<end>"
+english = "With Dyneskal's clutches closing in... what will happen now, Count?<end>"
 
 ["890600"]
 japanese = "そうですか。<end>"
@@ -2962,7 +2962,7 @@ english = "<value:$28>... It took some time, but everything has unfolded accordi
 
 ["890740"]
 japanese = "さて、とりあえず余はディンガル軍に<line-break>戻り、宰相ベルゼーヴァとして<line-break>采配を振るとするか。<line-break>まずは全軍を魔道兵に仕立て、<line-break>戦力増強を図らねばならんからな。<line-break>フフフ…。<end>"
-english = "For now, I shall return to the Dingal Army and take command as Chancellor Beelzeva. My first task will be to turn the entire army into sorcerous troops and strengthen our forces. Heh heh heh...<end>"
+english = "For now, I shall return to the Dyneskal Army and take command as Chancellor Beelzeva. My first task will be to turn the entire army into sorcerous troops and strengthen our forces. Heh heh heh...<end>"
 
 ["890741"]
 japanese = "エステルメッセージVOL4終端<end>"

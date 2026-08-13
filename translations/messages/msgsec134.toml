@@ -102,11 +102,11 @@ english = "Ah, <value:$28>! I'll escort you. Wait for me!<end>"
 
 ["1340025"]
 japanese = "\u3000\u3000\u3000\u3000西方攻略をその任とし、<line-break>近々アルノートゥン侵攻を計画していた<line-break>\u3000ディンガル軍の白虎将軍ジラークが<line-break>\u3000\u3000\u3000\u3000突然、その姿を消した。<line-break>\u3000\u3000アルノートゥン攻略の目的の<line-break>\u3000ひとつである、聖光石の鉱山へと<line-break>\u3000\u3000\u3000\u3000視察に向かったきり、<line-break>\u3000\u3000\u3000連絡が途絶えたのである。<end>"
-english = "White Tiger General Zsilak of the Dingal Army, tasked with conquering the west and planning an imminent invasion of Alnortun, suddenly vanished. He had gone to inspect the Holy Light Stone mine, one of the campaign's objectives, and all contact with him was lost.<end>"
+english = "White Tiger General Zsilak of the Dyneskal Army, tasked with conquering the west and planning an imminent invasion of Alnortun, suddenly vanished. He had gone to inspect the Holy Light Stone mine, one of the campaign's objectives, and all contact with him was lost.<end>"
 
 ["1340026"]
 japanese = "\u3000幾度となく派遣された捜索隊も帰ってこず、<line-break>\u3000\u3000白虎軍の士気は下がる一方であった。<line-break>\u3000\u3000そしてついに、ディンガル本国より<line-break>\u3000\u3000全軍の本国への一時撤退が通達された。<end>"
-english = "The search parties sent out time and again also failed to return, and the White Tiger Army's morale continued to decline. At last, orders came from Dingal for the entire army to withdraw home temporarily.<end>"
+english = "The search parties sent out time and again also failed to return, and the White Tiger Army's morale continued to decline. At last, orders came from Dyneskal for the entire army to withdraw home temporarily.<end>"
 
 ["1340027"]
 japanese = "このジラークの失踪は、大いなる闇の力の復活に<line-break>\u3000深く関与していたのだが、それを知るものは<line-break>\u3000\u3000\u3000当事者以外にはほとんどいなかった。<line-break>\u3000\u3000ただひとり、猫屋敷の賢者を除いては…。\u3000<line-break>\u3000\u3000時代は、人々の望む望まざるに関わらず<line-break>\u3000\u3000\u3000着実に、混沌へと向かっていた…。<line-break>\u3000<end>"
@@ -734,7 +734,7 @@ english = "<value:$28> earned the title of Dragonslayer.<end>"
 
 ["1340183"]
 japanese = "な、何者だ！<line-break>ディンガル帝国の者かっ！<end>"
-english = "W-who are you? Are you with the Dingal Empire?!<end>"
+english = "W-who are you? Are you with the Dyneskal Empire?!<end>"
 
 ["1340184"]
 japanese = "心配は無用だ。<end>"
@@ -778,7 +778,7 @@ english = "There is no telling what calamity that ambitious usurper would bring 
 
 ["1340194"]
 japanese = "それで、ネメアとディンガル軍を<line-break>迎え撃つ準備をしていたのだよ。<end>"
-english = "So we have been preparing to meet Nemea and the Dingal Army in battle.<end>"
+english = "So we have been preparing to meet Nemea and the Dyneskal Army in battle.<end>"
 
 ["1340195"]
 japanese = "心配は無用だ。<line-break>古来、ウルカーンは<line-break>防衛戦で負けたことがない。<line-break>火の巫女ウルが遺したマグマゴーレムが<line-break>どのような侵略者も、退けてきたのだ。<line-break>今、魔道士たちが起動している。<end>"
@@ -798,7 +798,7 @@ english = "E-Elder! We're under attack!<end>"
 
 ["1340199"]
 japanese = "バカな！\u3000早過ぎるぞ！<line-break>だいたい敵接近の報告は受けておらぬ。<line-break> <line-break>見張りは何をしていた！<line-break>ディンガルの大軍が近づいてきたのに、<line-break>気がつかなかったのか！<end>"
-english = "Impossible! It is too soon! We have received no report of an approaching enemy. What were the sentries doing? Did they fail to notice a vast Dingal army bearing down on us?!<end>"
+english = "Impossible! It is too soon! We have received no report of an approaching enemy. What were the sentries doing? Did they fail to notice a vast Dyneskal army bearing down on us?!<end>"
 
 ["1340200"]
 japanese = "敵は大軍ではありません！<line-break>て、敵、総勢４騎！<end>"
@@ -814,7 +814,7 @@ english = "B-but...!<end>"
 
 ["1340203"]
 japanese = "私はディンガル帝国皇帝<line-break>ネメア・ランガスター・ディンガル<line-break>ウルカーン長老シェムハザに告ぐ。<line-break>これ以上の抵抗は無駄だ。<line-break>降伏して束縛の腕輪を渡せば、<line-break>生命の安全は保障しよう。<end>"
-english = "I am Nemea Lancaster Dingal, Emperor of the Dingal Empire. Hear me, Shemhaza, Elder of Ulkaan. Further resistance is futile. Surrender and hand over the Bracelet of Binding, and I shall guarantee your safety.<end>"
+english = "I am Nemea Lancaster Dyneskal, Emperor of the Dyneskal Empire. Hear me, Shemhaza, Elder of Ulkaan. Further resistance is futile. Surrender and hand over the Bracelet of Binding, and I shall guarantee your safety.<end>"
 
 ["1340204"]
 japanese = "バカな！\u3000マグマゴーレムが全滅！？<line-break>し、信じられぬ！<end>"
@@ -822,7 +822,7 @@ english = "Impossible! All the Magma Golems were destroyed?! I-I cannot believe 
 
 ["1340205"]
 japanese = "ディ、ディンガルの騎士？<line-break>しかも、ダークエルフだと！？<end>"
-english = "A-a knight of Dingal? And a Dark Elf at that?!<end>"
+english = "A-a knight of Dyneskal? And a Dark Elf at that?!<end>"
 
 ["1340206"]
 japanese = "私は皇帝直属騎士オイフェ。<end>"
@@ -2774,7 +2774,7 @@ english = "Come on, Nadge. Let's go.<end>"
 
 ["1340693"]
 japanese = "先日、ディンガル皇帝ネメアが<line-break>ウルカーンまで来おってな。<end>"
-english = "The other day, Nemea, Emperor of Dingal, came all the way to Ulkaan.<end>"
+english = "The other day, Nemea, Emperor of Dyneskal, came all the way to Ulkaan.<end>"
 
 ["1340694"]
 japanese = "黙れ、わき役！<line-break>俺様の英雄伝説にお前の出番はない。<line-break>俺様の世界に、お前の居場所はないっ！<end>"

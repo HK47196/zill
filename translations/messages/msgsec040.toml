@@ -18,7 +18,7 @@ english = "Oh! You got to the bottom of those rumors about the Fortress City? Go
 
 ["400004"]
 japanese = "へー、円卓騎士バルザーねー。<line-break>そいつ、以前ディンガルを支配していた<line-break>魔王バロルが復活させたヤツだろ？<line-break>結局、バロルは、<line-break>ネメアに倒されちまったが、<line-break>またなんかたくらんでたのかな。<end>"
-english = "Huh. Baltzer, Knight of the Round Table. He's the one Balor the Demon King, who once ruled Dingal, brought back to life, right? Balor was defeated by Nemea in the end, but maybe he'd been plotting something else.<end>"
+english = "Huh. Baltzer, Knight of the Round Table. He's the one Balor the Demon King, who once ruled Dyneskal, brought back to life, right? Balor was defeated by Nemea in the end, but maybe he'd been plotting something else.<end>"
 
 ["400005"]
 japanese = "なんにせよ、ありがとよ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>。<line-break>\u3000<end>"
@@ -950,7 +950,7 @@ english = "From this moment forward, we shall forge a power capable of standing 
 
 ["400237"]
 japanese = "かつて、魔王バロルを倒し、\u3000<line-break>勇者と呼ばれた男、ネメアは\u3000\u3000\u3000<line-break>叔父であるエリュマルク帝を退け\u3000\u3000\u3000<line-break>ディンガル帝国の帝位についた。\u3000\u3000\u3000\u3000\u3000<end>"
-english = "Nemea, the man hailed as a Hero after defeating Balor, the Demon King, deposed his uncle, Emperor Eryumark, and ascended the throne of the Dingal Empire.<end>"
+english = "Nemea, the man hailed as a Hero after defeating Balor, the Demon King, deposed his uncle, Emperor Eryumark, and ascended the throne of the Dyneskal Empire.<end>"
 
 ["400238"]
 japanese = "そして、宰相ベルゼーヴァの\u3000<line-break>指揮の下、豊富な国力を生かして\u3000<line-break>大軍隊を組織。同時に、それを率いる\u3000<line-break>４人の将軍を大抜擢した。\u3000\u3000\u3000<end>"
@@ -958,7 +958,7 @@ english = "Then, under Chancellor Beelzeva's command, the empire drew on its abu
 
 ["400239"]
 japanese = "魔道アカデミーを首席で卒業した\u3000\u3000<line-break>ザギヴ・ディンガルを\u3000\u3000\u3000\u3000\u3000<line-break>帝国内務統括、玄武将軍に任命、\u3000\u3000<line-break>ベルゼーヴァの下で国内を掌握させ…\u3000<end>"
-english = "Zagiv Dingal, who had graduated at the top of the Academy of Magic, was appointed overseer of the empire's internal affairs and Black Tortoise General, charged with securing control of the realm under Beelzeva...<end>"
+english = "Zagiv Dyneskal, who had graduated at the top of the Academy of Magic, was appointed overseer of the empire's internal affairs and Black Tortoise General, charged with securing control of the realm under Beelzeva...<end>"
 
 ["400240"]
 japanese = "さらに、少数種族である<line-break>コーンス族からジラークを登用、<line-break>西方攻略軍総司令、白虎将軍に任じ、<line-break>アキュリュースへの攻撃を命じ…<end>"
@@ -974,7 +974,7 @@ english = "The veteran commander Angeerdan Zeien, who had once won renown under 
 
 ["400243"]
 japanese = "ディンガル帝国皇帝\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ネメア・ランガスター・ディンガルは、<line-break>バイアシオン大陸のすべてに\u3000\u3000\u3000\u3000\u3000\u3000<line-break>戦いを挑んだのである。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<end>"
-english = "Nemea Lancaster Dingal, Emperor of the Dingal Empire, challenged the whole of the Baiashion Continent to war.<end>"
+english = "Nemea Lancaster Dyneskal, Emperor of the Dyneskal Empire, challenged the whole of the Baiashion Continent to war.<end>"
 
 ["400244"]
 japanese = "かくして世界は、\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>激動と混沌の時代を迎え\u3000\u3000\u3000\u3000\u3000\u3000<line-break>大きなうねりを描きはじめた…。\u3000\u3000\u3000\u3000<end>"
@@ -982,11 +982,11 @@ english = "And so the world entered an age of upheaval and chaos, and a vast tid
 
 ["400245"]
 japanese = "な、何者だ！<line-break>ディンガル帝国の者か？<end>"
-english = "W-who are you?! Are you with the Dingal Empire?<end>"
+english = "W-who are you?! Are you with the Dyneskal Empire?<end>"
 
 ["400246"]
 japanese = "その方たちは違う。<line-break>心配は無用だ。<end>"
-english = "No, these people aren't with the Dingal Empire. There's no need to worry.<end>"
+english = "No, these people aren't with the Dyneskal Empire. There's no need to worry.<end>"
 
 ["400247"]
 japanese = "シェムハザ長老！<end>"
@@ -1010,7 +1010,7 @@ english = "Still, for you to arrive at a time like this... Heh. Perhaps it was o
 
 ["400252"]
 japanese = "先日、ディンガル皇帝ネメアが<line-break>ウルカーンまで来おってな。<line-break>\u3000<line-break>どこでこの地にあることを知ったか<line-break>闇の神器、束縛の腕輪を渡せと<line-break>言ってきたのだ。<end>"
-english = "The other day, Nemea, Emperor of Dingal, came all the way to Urkaan. I do not know how he learned it was here, but he demanded that we hand over the dark divine artifact known as the Bracelet of Binding.<end>"
+english = "The other day, Nemea, Emperor of Dyneskal, came all the way to Urkaan. I do not know how he learned it was here, but he demanded that we hand over the dark divine artifact known as the Bracelet of Binding.<end>"
 
 ["400253"]
 japanese = "束縛の腕輪は、強力な力を持つ<line-break>魔道器だ。利己的な欲望のために<line-break>使ってはならないのだよ。<line-break>神器をあの簒奪者に奪われては、<line-break>いったいどんな災厄を世界に<line-break>もたらすことになるかわからぬ。<end>"
@@ -1018,7 +1018,7 @@ english = "The Bracelet of Binding is a magical device of tremendous power. It m
 
 ["400254"]
 japanese = "だから、ネメアとディンガル軍を<line-break>迎え撃つ準備をしているのだよ。<end>"
-english = "That is why we are preparing to meet Nemea and the Dingal Army in battle.<end>"
+english = "That is why we are preparing to meet Nemea and the Dyneskal Army in battle.<end>"
 
 ["400255"]
 japanese = "心配は無用だ。古来、ウルカーンは<line-break>防衛戦争で負けたことがない。<line-break>\u3000<line-break>火の巫女ウルが遺したマグマゴーレムが<line-break>どのような侵略者も、退けてきたのだ。<line-break>今、魔道士たちが起動している。<end>"
@@ -1038,7 +1038,7 @@ english = "E-Elder! We're under attack!<end>"
 
 ["400259"]
 japanese = "バカな！\u3000早過ぎるぞ！<line-break>だいたい敵接近の報告は受けておらぬ。<line-break>\u3000<line-break>見張りは何をしていた！<line-break>ディンガルの大軍が近づいてきたのに<line-break>まったく、気がつかなかったのか！<end>"
-english = "Impossible! It is too soon! We have had no report of an enemy approaching. What were the lookouts doing?! Did they somehow fail to notice a vast Dingal army bearing down on us?!<end>"
+english = "Impossible! It is too soon! We have had no report of an enemy approaching. What were the lookouts doing?! Did they somehow fail to notice a vast Dyneskal army bearing down on us?!<end>"
 
 ["400260"]
 japanese = "敵は大軍ではありません！<line-break>て、敵は総勢４騎！<end>"
@@ -1058,7 +1058,7 @@ english = "B-but...!<end>"
 
 ["400264"]
 japanese = "私はディンガル皇帝ネメア。<line-break>ウルカーン長老シェムハザに告ぐ。<line-break>\u3000<line-break>これ以上の抵抗はムダだ。<line-break>降伏して束縛の腕輪を渡せば、<line-break>生命の安全は保証しよう。<end>"
-english = "I am Nemea, Emperor of Dingal. Hear me, Shemhaza, Elder of Urkaan. Further resistance is futile. Surrender and hand over the Bracelet of Binding, and I shall guarantee your safety.<end>"
+english = "I am Nemea, Emperor of Dyneskal. Hear me, Shemhaza, Elder of Urkaan. Further resistance is futile. Surrender and hand over the Bracelet of Binding, and I shall guarantee your safety.<end>"
 
 ["400265"]
 japanese = "皇帝直属遊撃隊、獅子の牙所属<line-break>黒鎧近衛騎士オイフェ以下２名。<line-break>\u3000<line-break>闇の神器、束縛の腕輪を奪取すべく<line-break>突撃します！<end>"
@@ -1070,7 +1070,7 @@ english = "Impossible! All the Magma Golems were destroyed?! I-I cannot believe 
 
 ["400267"]
 japanese = "ディ、ディンガルの騎士？<line-break>しかも、ダークエルフだと！？<end>"
-english = "A-a knight of Dingal? And a Dark Elf at that?!<end>"
+english = "A-a knight of Dyneskal? And a Dark Elf at that?!<end>"
 
 ["400268"]
 japanese = "私は皇帝直属遊撃隊、獅子の牙所属<line-break>黒鎧近衛騎士オイフェ。<end>"
@@ -1186,7 +1186,7 @@ english = "Sorry, but we're taking this Sacred Artifact of Darkness. Come, Aoife
 
 ["400296"]
 japanese = "\u3000\u3000\u3000ディンガル帝国<line-break>帝都エンシャント、謁見の間<end>"
-english = "The Dingal Empire ― Ancient, the Imperial Capital ― Audience Chamber<end>"
+english = "The Dyneskal Empire ― Ancient, the Imperial Capital ― Audience Chamber<end>"
 
 ["400297"]
 japanese = "空<end>"

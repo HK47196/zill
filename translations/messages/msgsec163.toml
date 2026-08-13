@@ -46,11 +46,11 @@ english = "But Angeerdan led a small force of elite troops across the Dividing M
 
 ["1630011"]
 japanese = "\u3000\u3000\u3000\u3000分断の山脈を軍隊が越えたのは<line-break>\u3000\u3000\u3000\u3000\u3000\u3000歴史上初の壮挙である。<line-break>\u3000\u3000\u3000\u3000\u3000こうしてディンガル軍は<line-break>\u3000\u3000\u3000\u3000王都ロストールに王手をかけた。<line-break>\u3000\u3000\u3000事ここに及び、ロストール軍総司令<line-break>\u3000\u3000\u3000\u3000ノヴィンは急きょ、軍を反転、<line-break>\u3000\u3000\u3000アンギルダン率いるディンガル軍を<line-break>\u3000\u3000\u3000\u3000\u3000迎え撃つべく、急行した。<end>"
-english = "It was the first time in history that an army had crossed the Dividing Mountains, a remarkable feat. The Dingal Army now had the royal capital, Rostorl, in check. Faced with this turn of events, Novin, commander-in-chief of Rostorl's forces, hastily reversed course and rushed to intercept the Dingal Army led by Angeerdan.<end>"
+english = "It was the first time in history that an army had crossed the Dividing Mountains, a remarkable feat. The Dyneskal Army now had the royal capital, Rostorl, in check. Faced with this turn of events, Novin, commander-in-chief of Rostorl's forces, hastily reversed course and rushed to intercept the Dyneskal Army led by Angeerdan.<end>"
 
 ["1630012"]
 japanese = "\u3000\u3000\u3000事ここに及び、ロストール軍総司令<line-break>\u3000\u3000\u3000\u3000ノヴィンは急きょ、軍を反転、<line-break>\u3000\u3000\u3000アンギルダン率いるディンガル軍を<line-break>\u3000\u3000\u3000\u3000\u3000迎え撃つべく、急行した。<end>"
-english = "Faced with this turn of events, Novin, commander-in-chief of Rostorl's forces, hastily reversed course and rushed to intercept the Dingal Army led by Angeerdan.<end>"
+english = "Faced with this turn of events, Novin, commander-in-chief of Rostorl's forces, hastily reversed course and rushed to intercept the Dyneskal Army led by Angeerdan.<end>"
 
 ["1630013"]
 japanese = "\u3000\u3000分断の山脈を軍隊が越えたのは<line-break>\u3000歴史上初の壮挙である。こうして、<line-break>帝国軍は王都ロストールに王手をかけた。<end>"
@@ -74,7 +74,7 @@ english = "It seems they won't be able to think clearly until we've sent them to
 
 ["1630018"]
 japanese = "皆の者！\u3000出撃だ！<line-break>さんざんに破り、ディンガル帝国の名を<line-break>恐怖とともに奴らの脳髄にたたき込め！<end>"
-english = "All of you, move out! Crush them utterly, and hammer the name of the Dingal Empire, together with the terror it inspires, into their very brains!<end>"
+english = "All of you, move out! Crush them utterly, and hammer the name of the Dyneskal Empire, together with the terror it inspires, into their very brains!<end>"
 
 ["1630019"]
 japanese = "現在、我が軍の主力が、敵の先鋒と交戦中です。<line-break>我々は、この隙に兵が集結しきっていない、<line-break>本陣を急襲します。<line-break>アンギルダン将軍も別経路で本陣をつきます。<line-break>この作戦の成否が、勝敗を分けましょう。<end>"
@@ -110,7 +110,7 @@ english = "W-what!? What happened to the main force!?<end>"
 
 ["1630027"]
 japanese = "おのれ、ディンガル！<line-break>もうここまで来るとは！！<end>"
-english = "Damn you, Dingal! How did you get this far already!?<end>"
+english = "Damn you, Dyneskal! How did you get this far already!?<end>"
 
 ["1630028"]
 japanese = "早いな、<value:$28>。<line-break>わしより先にここにたどり着くとは。<line-break>さすがじゃ。<end>"
@@ -138,7 +138,7 @@ english = "Well done, <value:$28>. You have earned the highest distinction!<end>
 
 ["1630034"]
 japanese = "この功をもって、わしは<line-break>お主をディンガルの騎士に推薦し、<line-break>ここで仮叙任を行おうと思う。<end>"
-english = "For this achievement, I intend to recommend you for knighthood in Dingal and grant you a provisional investiture here and now.<end>"
+english = "For this achievement, I intend to recommend you for knighthood in Dyneskal and grant you a provisional investiture here and now.<end>"
 
 ["1630035"]
 japanese = "ひざまずくがよい。<end>"
@@ -146,7 +146,7 @@ english = "Kneel.<end>"
 
 ["1630036"]
 japanese = "我、朱雀将軍アンギルダンは<line-break>皇帝ネメア・ランガスターの\u3000\u3000\u3000\u3000<line-break>代理として<line-break>戦場のことゆえ略式ではあるが、<line-break>汝、<value:$28>を<line-break>ディンガル帝国黒鎧騎士に叙任する。<end>"
-english = "I, Angeerdan, Vermilion Bird General, acting on behalf of Emperor Nemea Lancaster, hereby invest you, <value:$28>, as a Black-Armored Knight of the Dingal Empire. As we stand upon a battlefield, the ceremony must be brief.<end>"
+english = "I, Angeerdan, Vermilion Bird General, acting on behalf of Emperor Nemea Lancaster, hereby invest you, <value:$28>, as a Black-Armored Knight of the Dyneskal Empire. As we stand upon a battlefield, the ceremony must be brief.<end>"
 
 ["1630037"]
 japanese = "スキル<line-break>グロリアシルドを手に入れた。<end>"
@@ -226,7 +226,7 @@ english = "Move out! Follow <value:$28>! We must save Lord Angeerdan!<end>"
 
 ["1630056"]
 japanese = "来たぞ！<line-break>ディンガルの新手だ！<end>"
-english = "Here they come! Dingal reinforcements!<end>"
+english = "Here they come! Dyneskal reinforcements!<end>"
 
 ["1630057"]
 japanese = "新手か！<line-break>これ以上は、突破させん！<end>"
@@ -234,7 +234,7 @@ english = "More of them! You won't get past me!<end>"
 
 ["1630058"]
 japanese = "ディンガル兵か！<line-break>こいつも倒すぞ！<end>"
-english = "A Dingal soldier! Let's take this one down too!<end>"
+english = "A Dyneskal soldier! Let's take this one down too!<end>"
 
 ["1630059"]
 japanese = "ゼネテス…、<line-break>そうか、お主がおったのか！<line-break>\u3000<line-break>お主ならば、あの敗軍を<line-break>まとめる器量がある！<line-break>くっ、ぬかったわ！<end>"
@@ -254,7 +254,7 @@ english = "The lives of Rostorl's soldiers are at stake.<end>"
 
 ["1630063"]
 japanese = "はい、そうですかと<line-break>くれてやるわけにはいかんな。<line-break>\u3000<line-break>こっちも<line-break>ディンガルの兵の命が<line-break>かかっておるのでな！<end>"
-english = "And I cannot simply hand it over because you ask. The lives of Dingal's soldiers are at stake as well!<end>"
+english = "And I cannot simply hand it over because you ask. The lives of Dyneskal's soldiers are at stake as well!<end>"
 
 ["1630064"]
 japanese = "…<value:$28>！\u3000お前も<line-break>アンギルダンのとっつぁんの側か！<line-break>ちっ、人物は人物を呼ぶんだな。<line-break>こりゃあ、ちょっと分が悪いな。<line-break>ま、いい。なんとか運命の女神を<line-break>振り向かせるのには成功したようだ。<end>"
@@ -314,7 +314,7 @@ english = "With its main camp left thinly defended by the deployment of the requ
 
 ["1630078"]
 japanese = "生き残ったディンガル兵は、\u3000<line-break>ドワーフの王国を抜け、<line-break>ディンガル領内に撤退。<line-break>ゼネテスは、追撃しなかった。<end>"
-english = "The surviving Dingal soldiers withdrew through the Dwarf kingdom into Dingal territory. Xenetes did not pursue them.<end>"
+english = "The surviving Dyneskal soldiers withdrew through the Dwarf kingdom into Dyneskal territory. Xenetes did not pursue them.<end>"
 
 ["1630079"]
 japanese = "ここにアンギルダンの山越えに始まった<line-break>ロストール侵攻戦は、失敗に終わった。<end>"
@@ -354,7 +354,7 @@ english = "When Angeerdan was slain in a surprise attack by Xenetes, who had ral
 
 ["1630088"]
 japanese = "\u3000\u3000\u3000\u3000生き残ったディンガル兵は、\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ドワーフの王国を抜け、<line-break>\u3000\u3000\u3000\u3000\u3000ディンガル領内に撤退。<line-break>\u3000\u3000\u3000\u3000ゼネテスは、追撃しなかった。<end>"
-english = "The surviving Dingal soldiers retreated through the Dwarf kingdom into Dingal territory. Xenetes did not pursue them.<end>"
+english = "The surviving Dyneskal soldiers retreated through the Dwarf kingdom into Dyneskal territory. Xenetes did not pursue them.<end>"
 
 ["1630089"]
 japanese = "ここにアンギルダンの山越えに始まった<line-break>ロストール侵攻戦は、失敗に終わった。<end>"
@@ -526,7 +526,7 @@ english = "With its main camp left thinly defended by the deployment of the requ
 
 ["1630131"]
 japanese = "生き残ったディンガル兵は、<line-break>ドワーフの王国を抜け、<line-break>ディンガル領内に撤退。<end>"
-english = "The surviving Dingal soldiers withdrew through the Dwarf kingdom into Dingal territory.<end>"
+english = "The surviving Dyneskal soldiers withdrew through the Dwarf kingdom into Dyneskal territory.<end>"
 
 ["1630132"]
 japanese = "ゼネテスは、あえて追撃せず、<line-break>ここにアンギルダンの山越えに始まった<line-break>ロストール侵攻戦は、失敗に終わった。<end>"
@@ -542,7 +542,7 @@ english = "When Angeerdan was slain in a surprise attack by Xenetes, who had ral
 
 ["1630135"]
 japanese = "\u3000\u3000\u3000\u3000\u3000生き残ったディンガル兵は、\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000ドワーフの王国を抜け、<line-break>\u3000\u3000\u3000\u3000\u3000\u3000ディンガル領内に撤退。<end>"
-english = "The surviving Dingal soldiers withdrew through the Dwarf kingdom into Dingal territory.<end>"
+english = "The surviving Dyneskal soldiers withdrew through the Dwarf kingdom into Dyneskal territory.<end>"
 
 ["1630136"]
 japanese = "ゼネテスは、あえて追撃せず、<line-break>ここにアンギルダンの山越えに始まった<line-break>ロストール侵攻戦は、失敗に終わった。<end>"

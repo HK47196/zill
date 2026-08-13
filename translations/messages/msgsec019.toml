@@ -66,7 +66,7 @@ english = "Irene<end>"
 
 ["190016"]
 japanese = "ディンガルの戦女神<end>"
-english = "War Goddess of Dingal<end>"
+english = "War Goddess of Dyneskal<end>"
 
 ["190017"]
 japanese = "人間<end>"
@@ -78,7 +78,7 @@ english = "November 29<end>"
 
 ["190019"]
 japanese = "ロストールの騎士の娘。剣技に優れている彼女は<line-break>実力があれば女でも騎士になれるディンガル帝国<line-break>に仕官する。青竜将軍カルラ旗下での活躍と<line-break>本人の一生懸命さをカルラに評価され、<line-break>副官を勤めることになる。<line-break>味方にとってふたりは戦女神だが、敵にとっては<line-break>死神姉妹である。<line-break>\u3000<end>"
-english = "Daughter of a Rostorl knight and a gifted swordswoman. She joined the Dingal Empire, where ability lets women become knights. Azure Dragon General Karula made her an aide. Together, they are goddesses of war to allies and the Sisters of Death to enemies.<end>"
+english = "Daughter of a Rostorl knight and a gifted swordswoman. She joined the Dyneskal Empire, where ability lets women become knights. Azure Dragon General Karula made her an aide. Together, they are goddesses of war to allies and the Sisters of Death to enemies.<end>"
 
 ["190020"]
 japanese = "アイリーン<end>"
@@ -98,7 +98,7 @@ english = "November 29<end>"
 
 ["190024"]
 japanese = "ロストールの騎士の娘。剣技に優れている彼女は<line-break>実力があれば女でも騎士になれるディンガル帝国<line-break>に仕官し、青竜将軍カルラ旗下で副将となった<line-break>だが、対ロストール戦で、<value:$28>に<line-break>死を覚悟して一騎打ちを挑むも、逃げられ、<line-break>それから剣を振ることの意味を考えるようになる<line-break>ディンガル副将の職を辞し、<value:$28>の<line-break>かたわらで、現在、その意味を模索中である<end>"
-english = "Daughter of a Rostorl knight and gifted swordswoman. She became Karula's deputy commander in the Dingal Empire. During the war with Rostorl, she challenged <value:$28>, but the opponent fled. She left Dingal to seek the meaning of wielding a sword at <value:$28>'s side.<end>"
+english = "Daughter of a Rostorl knight and gifted swordswoman. She became Karula's deputy commander in the Dyneskal Empire. During the war with Rostorl, she challenged <value:$28>, but the opponent fled. She left Dyneskal to seek the meaning of wielding a sword at <value:$28>'s side.<end>"
 
 ["190025"]
 japanese = "アスティア<end>"
@@ -238,7 +238,7 @@ english = "April 11<end>"
 
 ["190059"]
 japanese = "真紅のプレートメイルに身を包み大斧を振り回す<line-break>ディンガル帝国の朱雀将軍。<line-break>朱雀軍を率いて、不可能と言われた分断の<line-break>山脈越えを成功させる。この史上初の快挙は、<line-break>アンギルダンの山越えとして史書に記される<line-break>こととなる。しかし、ロストール軍を大敗させて<line-break>油断したところをゼネテスに急襲され、<line-break>朱雀軍は壊滅する。<end>"
-english = "Dingal's Vermilion Bird General, clad in crimson plate mail and wielding a great axe. He led his army across the Dividing Mountains, a feat remembered as Angeerdan's Mountain Crossing. After crushing Rostorl's army, Xenetes surprised him and annihilated the Vermilion Bird Army.<end>"
+english = "Dyneskal's Vermilion Bird General, clad in crimson plate mail and wielding a great axe. He led his army across the Dividing Mountains, a feat remembered as Angeerdan's Mountain Crossing. After crushing Rostorl's army, Xenetes surprised him and annihilated the Vermilion Bird Army.<end>"
 
 ["190060"]
 japanese = "アンティノ<end>"
@@ -258,7 +258,7 @@ english = "May 2<end>"
 
 ["190064"]
 japanese = "リベルダムの有力者で武器商人。<line-break>兵器モンスター開発の第一人者。<line-break>いつも、いやらしい愛想笑いを浮かべている。<line-break>親友のロティと共にディンガル帝国と東方国家の<line-break>間に争いの火種をまいて武器や兵器モンスターを<line-break>売りさばき、大金を得ている。<line-break><line-break>\u3000<end>"
-english = "An influential figure in Liberdam and an arms merchant. The foremost authority on developing weaponized monsters. He always wears an unpleasant, ingratiating smile. Together with his close friend Lottie, he sows conflict between the Dingal Empire and the eastern nations, then makes a fortune selling weapons and weaponized monsters.<end>"
+english = "An influential figure in Liberdam and an arms merchant. The foremost authority on developing weaponized monsters. He always wears an unpleasant, ingratiating smile. Together with his close friend Lottie, he sows conflict between the Dyneskal Empire and the eastern nations, then makes a fortune selling weapons and weaponized monsters.<end>"
 
 ["190065"]
 japanese = "アンティノ<end>"
@@ -278,7 +278,7 @@ english = "May 2<end>"
 
 ["190069"]
 japanese = "リベルダムの有力者で武器商人。同じく有力商人<line-break>のロティと共にディンガル帝国と東方国家の間に<line-break>争いの火種をまいてもうけていたが、次第に<line-break>ロティをねたましく思うようになり、暗殺する。<line-break>次にディンガルへリベルダムを売り渡し、地位を<line-break>得ようと画策。ディンガルの青竜将軍カルラと<line-break>手を組むが、結果的にリベルダムも地位も失うこ<line-break>ととなる。<end>"
-english = "An influential Liberdam arms merchant. He and Lottie profited by sowing conflict between Dingal and the eastern nations, but Antino grew jealous and had Lottie killed. He then tried to sell Liberdam to Dingal. Though he joined Karula, he lost Liberdam and the status he sought.<end>"
+english = "An influential Liberdam arms merchant. He and Lottie profited by sowing conflict between Dyneskal and the eastern nations, but Antino grew jealous and had Lottie killed. He then tried to sell Liberdam to Dyneskal. Though he joined Karula, he lost Liberdam and the status he sought.<end>"
 
 ["190070"]
 japanese = "アンティノ<end>"
@@ -398,7 +398,7 @@ english = "June 8<end>"
 
 ["190099"]
 japanese = "ノトゥーンに仕える神官。怪物と人類の共存を<line-break>唱え、古の怪物イズキヤルとアルノートゥンの<line-break>人々をともに生活させていた。ディンガル帝国<line-break>白虎将軍ジラークのアルノートゥン進攻を前に<line-break>イズキヤルとともに行方不明となった。<line-break>これにより、アルノートゥンは降伏することに<line-break>なる。イオンズ失踪直前、不審な黒髪の少年を<line-break>目撃したという町の人の証言がある。<end>"
-english = "A priest of Notun who advocated coexistence between monsters and humanity, and had the ancient monster Izkiyar live among the people of Alnortun. Shortly before White Tiger General Zsilak of the Dingal Empire invaded Alnortun, both Ionz and Izkiyar disappeared. This led Alnortun to surrender. One resident testified to seeing a suspicious black-haired boy shortly before Ionz vanished.<end>"
+english = "A priest of Notun who advocated coexistence between monsters and humanity, and had the ancient monster Izkiyar live among the people of Alnortun. Shortly before White Tiger General Zsilak of the Dyneskal Empire invaded Alnortun, both Ionz and Izkiyar disappeared. This led Alnortun to surrender. One resident testified to seeing a suspicious black-haired boy shortly before Ionz vanished.<end>"
 
 ["190100"]
 japanese = "イーシャ<end>"
@@ -786,7 +786,7 @@ english = "Eryumark<end>"
 
 ["190196"]
 japanese = "ディンガル皇帝<end>"
-english = "Emperor of Dingal<end>"
+english = "Emperor of Dyneskal<end>"
 
 ["190197"]
 japanese = "人間<end>"
@@ -1058,7 +1058,7 @@ english = "November 30<end>"
 
 ["190264"]
 japanese = "ディンガル帝国東方にある辺境の都市出身。<line-break>リベルダムの武器商人やロストール王妃エリスに<line-break>たきつけられたロセン王国の愚王ペウダが略奪に<line-break>来た際、両親を失う。それ以来、いつでも笑って<line-break>いられるように強くなりたいとこだわるようにな<line-break>る。ネメアによって青竜将軍に任じられると、<line-break>わずか数週間で東方諸国を滅ぼし、ロセン王家の<line-break>人間をすべて処刑する。<end>"
-english = "Born in eastern Dingal, she lost her parents when King Peuda pillaged her city at Liberdam merchants' and Queen Eris's urging. Nemea made her Azure Dragon General. She swiftly destroyed the Eastern Nations and executed Rocen's royal family.<end>"
+english = "Born in eastern Dyneskal, she lost her parents when King Peuda pillaged her city at Liberdam merchants' and Queen Eris's urging. Nemea made her Azure Dragon General. She swiftly destroyed the Eastern Nations and executed Rocen's royal family.<end>"
 
 ["190265"]
 japanese = "カルラ<end>"
@@ -1078,7 +1078,7 @@ english = "November 30<end>"
 
 ["190269"]
 japanese = "ディンガル帝国東方にある辺境の都市出身。<line-break>ロセン王国の愚王ペウダが略奪に来た際、両親を<line-break>失う。ネメアによって青竜将軍に任じられると、<line-break>わずか数週間で東方諸国を滅ぼし、ロセン王家の<line-break>人間をすべて処刑する。次にアンティノを利用し<line-break>て内側から門を開けさせ、難なくリベルダムも占<line-break>領する。自由都市リベルダムは、青竜軍によって<line-break>徹底的に破壊される。<end>"
-english = "Born in eastern Dingal, she lost her parents when King Peuda pillaged her city. As Nemea's Azure Dragon General, she destroyed the Eastern Nations and Rocen's royal house. Using Antino, she took Liberdam and the Azure Dragon Army destroyed it.<end>"
+english = "Born in eastern Dyneskal, she lost her parents when King Peuda pillaged her city. As Nemea's Azure Dragon General, she destroyed the Eastern Nations and Rocen's royal house. Using Antino, she took Liberdam and the Azure Dragon Army destroyed it.<end>"
 
 ["190270"]
 japanese = "カルラ<end>"
@@ -1098,7 +1098,7 @@ english = "November 30<end>"
 
 ["190274"]
 japanese = "ディンガル帝国東方にある辺境の都市出身。<line-break>ネメアによって青竜将軍に任じられると、わずか<line-break>数週間で東方諸国を滅ぼし、ロセン王家の人間を<line-break>すべて処刑する。次に自由都市リベルダムを占領<line-break>し徹底的に破壊する。勢いづく青竜軍は、ついに<line-break>ロストール王国へ進軍する。ゼネテスとの直接対<line-break>決には敗れるものの、ロストールに政変を起こし<line-break>て王妃エリスを排し、ロストールを無力化する。<end>"
-english = "Born in eastern Dingal, she became Nemea's Azure Dragon General, destroyed the Eastern Nations, and occupied then destroyed Liberdam. Defeated by Xenetes in Rostorl, Karula still sparked an upheaval, ousted Queen Eris, and neutralized the kingdom.<end>"
+english = "Born in eastern Dyneskal, she became Nemea's Azure Dragon General, destroyed the Eastern Nations, and occupied then destroyed Liberdam. Defeated by Xenetes in Rostorl, Karula still sparked an upheaval, ousted Queen Eris, and neutralized the kingdom.<end>"
 
 ["190275"]
 japanese = "カルラ<end>"
@@ -1118,7 +1118,7 @@ english = "November 30<end>"
 
 ["190279"]
 japanese = "ディンガル帝国東方にある辺境の都市出身。<line-break>ネメアによって青竜将軍に任じられると、わずか<line-break>数週間で東方諸国を滅ぼし、続いて自由都市リベ<line-break>ルダムを占領した。用兵ばかりではなく、謀略に<line-break>も長け、ロストール戦ではゼネテスを相手に土を<line-break>つけたものの、戦略的にロストール軍を無力化<line-break>している。<value:$28>とジラークの反乱を<line-break>鎮圧し、以後、行動をともにしている<end>"
-english = "Born in eastern Dingal, she became Nemea's Azure Dragon General, destroyed the Eastern Nations, and occupied Liberdam. Though Xenetes defeated her in Rostorl, she strategically neutralized its army. She and <value:$28> crushed Zsilak's rebellion and travel together.<end>"
+english = "Born in eastern Dyneskal, she became Nemea's Azure Dragon General, destroyed the Eastern Nations, and occupied Liberdam. Though Xenetes defeated her in Rostorl, she strategically neutralized its army. She and <value:$28> crushed Zsilak's rebellion and travel together.<end>"
 
 ["190280"]
 japanese = "ガント<end>"
@@ -1218,7 +1218,7 @@ english = "November 13<end>"
 
 ["190304"]
 japanese = "妖術宰相ゾフォルの「ザギヴが将来ディンガルを<line-break>支配する」という予言に、バロルは彼女を捕らえ<line-break>ウルグの円卓騎士マゴスの餌食にしようとした。<line-break>ネメアがバロルを倒したおかげで命は助かったが<line-break>マゴスはすでに彼女の胎内に入り込み、巣くって<line-break>しまっていた。その後、彼女はさらに強力な<line-break>魔道士となり、ネメアが帝位につくと玄武将軍に<line-break>任じられ、ディンガル帝国の内政を統括する。<end>"
-english = "After Zophor prophesied that Zagiv would rule Dingal, Balor captured her for Magos. Nemea saved her, but Magos had entered her womb. Later, Nemea made her Black Tortoise General and placed her in charge of Dingal's domestic affairs.<end>"
+english = "After Zophor prophesied that Zagiv would rule Dyneskal, Balor captured her for Magos. Nemea saved her, but Magos had entered her womb. Later, Nemea made her Black Tortoise General and placed her in charge of Dyneskal's domestic affairs.<end>"
 
 ["190305"]
 japanese = "ザギヴ<end>"
@@ -1238,7 +1238,7 @@ english = "November 13<end>"
 
 ["190309"]
 japanese = "玄武将軍。内務統括としてディンガル帝国の内政<line-break>をつかさどっていたが、政敵、青竜将軍カルラの<line-break>領土を視察に向かったまま行方不明になった。<line-break>宰相ベルゼーヴァは早々に捜索を打ち切った。<line-break>ロセン解放軍に襲われた、カルラによって闇に葬<line-break>られた、冒険者<value:$28>といっしょに<line-break>行動しているのが目撃された、ベルゼーヴァに始<line-break>末された、などの様々な情報が飛びかっている。<end>"
-english = "The Black Tortoise General and Dingal's Director of Domestic Affairs. She disappeared while inspecting rival Karula's territory, and Beelzeva ended the search. Rumors blame the Rocen Liberation Army, Karula, or Beelzeva; another says she travels with <value:$28>.<end>"
+english = "The Black Tortoise General and Dyneskal's Director of Domestic Affairs. She disappeared while inspecting rival Karula's territory, and Beelzeva ended the search. Rumors blame the Rocen Liberation Army, Karula, or Beelzeva; another says she travels with <value:$28>.<end>"
 
 ["190310"]
 japanese = "ザギヴ<end>"
@@ -1246,7 +1246,7 @@ english = "Zagiv<end>"
 
 ["190311"]
 japanese = "ディンガル皇帝<end>"
-english = "Emperor of Dingal<end>"
+english = "Emperor of Dyneskal<end>"
 
 ["190312"]
 japanese = "人間<end>"
@@ -1258,7 +1258,7 @@ english = "November 13<end>"
 
 ["190314"]
 japanese = "ディンガル帝国の内政を司どっていた将軍。<line-break>胎内に巣くう円卓騎士マゴスに操られるまま、<line-break>宰相ベルゼーヴァを排除し、帝位に就く。<line-break>「ザギヴが将来ディンガルを支配する」という<line-break>妖術宰相ゾフォルの預言が的中したのである。<line-break>ザギヴは、エンシャント全住民のソウルを奪い<line-break>ゾフォルやシャリ、闇の王女たちの<line-break>世界を虚無に帰すための計画に協力する。<end>"
-english = "A Dingal general controlled by Magos, the Knight of the Round Table in her womb. She removed Beelzeva and ascended the throne, fulfilling Zophor's prophecy. She stole Ancient's Souls and aided Zophor, Shalli, and the Princesses of Darkness in returning the world to the Void.<end>"
+english = "A Dyneskal general controlled by Magos, the Knight of the Round Table in her womb. She removed Beelzeva and ascended the throne, fulfilling Zophor's prophecy. She stole Ancient's Souls and aided Zophor, Shalli, and the Princesses of Darkness in returning the world to the Void.<end>"
 
 ["190315"]
 japanese = "ザギヴ<end>"
@@ -1298,7 +1298,7 @@ english = "November 13<end>"
 
 ["190324"]
 japanese = "ザギヴはゾフォルに「ディンガルを支配する」と<line-break>預言されていた。それは彼女の体の中にいる魔人<line-break>「棲み付くもの」破壊神の騎士マゴスに体を乗っ<line-break>取られ、その恐怖でディンガルを覆うことに他な<line-break>らなかった。ザギヴは自らの運命におびえていた<line-break>が、<value:$28>とともに旅をするうちに<line-break>運命と対決することを決意し、自らを縛る運命と<line-break>胎内に巣くうマゴスに打ち勝った。<end>"
-english = "Zophor's prophecy that Zagiv would rule Dingal meant Magos, the Indweller, would seize her body and terrorize the empire. Fearing this fate, she resolved to confront it while traveling with <value:$28>. She overcame both destiny and Magos within her womb.<end>"
+english = "Zophor's prophecy that Zagiv would rule Dyneskal meant Magos, the Indweller, would seize her body and terrorize the empire. Fearing this fate, she resolved to confront it while traveling with <value:$28>. She overcame both destiny and Magos within her womb.<end>"
 
 ["190325"]
 japanese = "シェスター<end>"

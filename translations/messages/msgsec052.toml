@@ -6,7 +6,7 @@ english = ""
 
 ["520001"]
 japanese = "おい、放浪者！<line-break>よいところへ来た。来い！\u3000\u3000\u3000<line-break>\u3000<line-break>エリスが緊急召集をかけてきた。<line-break>…どうやら、<line-break>ディンガルが動き出すらしい。<end>"
-english = "Hey, wanderer! Good timing. Come here! Eris has called an emergency meeting. It sounds like Dingal is making its move.<end>"
+english = "Hey, wanderer! Good timing. Come here! Eris has called an emergency meeting. It sounds like Dyneskal is making its move.<end>"
 
 ["520002"]
 japanese = "エリエナイ公レムオン様と<line-break>ノーブル伯<value:$28>様が<line-break>おいでです、総司令閣下。<end>"
@@ -18,7 +18,7 @@ english = "Very well. Let us begin.<end>"
 
 ["520004"]
 japanese = "どうやら、近く、<line-break>ディンガルが攻めてくるらしい。<end>"
-english = "It appears Dingal will attack soon.<end>"
+english = "It appears Dyneskal will attack soon.<end>"
 
 ["520005"]
 japanese = "根拠は？<end>"
@@ -34,11 +34,11 @@ english = "I see.<end>"
 
 ["520008"]
 japanese = "敵将はディンガル帝国南方攻略軍総司令官、<line-break>朱雀将軍アンギルダンだ。<line-break>\u3000<line-break>残念ながら、作戦、進軍路などは不明である。<line-break>だが、敵もこの大国ロストールに挑むからには<line-break>並々ならぬ決意で攻め来ることが予想される。<end>"
-english = "The enemy commander is Angeerdan, the Vermilion Bird General and commander-in-chief of the Dingal Empire's southern campaign army. Unfortunately, we know nothing of the enemy's plans or route of advance. But in challenging a great power such as Rostorl, the enemy will surely come with extraordinary resolve.<end>"
+english = "The enemy commander is Angeerdan, the Vermilion Bird General and commander-in-chief of the Dyneskal Empire's southern campaign army. Unfortunately, we know nothing of the enemy's plans or route of advance. But in challenging a great power such as Rostorl, the enemy will surely come with extraordinary resolve.<end>"
 
 ["520009"]
 japanese = "おそらく大軍で押し寄せるであろう<line-break>ディンガル帝国軍に対し、我らロストールも<line-break>全力をもって対抗せねばならない。<end>"
-english = "The Dingal imperial forces will likely descend upon us in great numbers. Rostorl must meet them with all the strength at our command.<end>"
+english = "The Dyneskal imperial forces will likely descend upon us in great numbers. Rostorl must meet them with all the strength at our command.<end>"
 
 ["520010"]
 japanese = "なるほど…、わかりました。<line-break>陛下、迎撃軍の指揮は私めにお任せを。<end>"
@@ -50,7 +50,7 @@ english = "An inexperienced whelp should stand aside. I am commander-in-chief of
 
 ["520012"]
 japanese = "実戦経験のないのは閣下も同じ。<line-break>ロストールはずっと平和でしたから。\u3000<line-break>\u3000<line-break>先の戦は先王フェロヒア様が<line-break>魔王バロル治めるディンガルに進攻した<line-break>２０年も前になろうという負け戦だ。<end>"
-english = "You have no experience in battle either, Commander-in-Chief. Rostorl has long been at peace. Our last war was the failed invasion of Dingal, then ruled by Balor, Demon King, led by the late King Ferohia nearly twenty years ago.<end>"
+english = "You have no experience in battle either, Commander-in-Chief. Rostorl has long been at peace. Our last war was the failed invasion of Dyneskal, then ruled by Balor, Demon King, led by the late King Ferohia nearly twenty years ago.<end>"
 
 ["520013"]
 japanese = "あなたはそれに参加なさらなかった。<line-break>だからこそ、先王が亡くなられたほどの<line-break>戦のあとでも生きておられる。<end>"
@@ -342,11 +342,11 @@ english = "At least I've got you on my side. That's some comfort. <value:$28>, c
 
 ["520085"]
 japanese = "ロストールの総司令ノヴィン・ファーロスは、\u3000<line-break>ディンガル軍が海路を進軍すると予測し、<line-break>これを迎え撃つべく軍を進めた。<end>"
-english = "Novin Pharos, commander-in-chief of Rostorl, predicted that the Dingal Army would advance by sea and marched out to intercept it.<end>"
+english = "Novin Pharos, commander-in-chief of Rostorl, predicted that the Dyneskal Army would advance by sea and marched out to intercept it.<end>"
 
 ["520086"]
 japanese = "しかし、ディンガルの将アンギルダンは<line-break>海路を進軍する方法を採らず、<line-break>精兵を率いて、分断の山脈を越える道を選んだ。<end>"
-english = "But Angeerdan, the Dingal commander, rejected the sea route. Leading a force of elite troops, he chose instead to cross the Dividing Mountains.<end>"
+english = "But Angeerdan, the Dyneskal commander, rejected the sea route. Leading a force of elite troops, he chose instead to cross the Dividing Mountains.<end>"
 
 ["520087"]
 japanese = "分断の山脈を越えて、<line-break>大陸の別の側を攻める戦法は、<line-break>いまだかつてない壮挙であった。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><line-break>アンギルダンは、電撃的に<line-break>大街道沿いの都市を攻撃、次々と占領。<line-break>王都ロストール攻略に王手をかけた。<end>"
@@ -394,7 +394,7 @@ english = "Count Tarteuba Ryuga of Ruburg abandoned his army and secretly fled a
 
 ["520098"]
 japanese = "ディンガル帝国軍アンギルダンは、<line-break>ロストール軍を壊滅させると、深追いを禁じ、<line-break>全軍に物資の現地調達を命じた。<end>"
-english = "After annihilating the Rostorl army, Angeerdan forbade pursuit and ordered the entire Dingal imperial army to procure supplies locally.<end>"
+english = "After annihilating the Rostorl army, Angeerdan forbade pursuit and ordered the entire Dyneskal imperial army to procure supplies locally.<end>"
 
 ["520099"]
 japanese = "…と、総司令閣下は自刃なされ、<line-break>ロストール貴族にふさわしい<line-break>見事な最期を遂げられました。<end>"
@@ -434,7 +434,7 @@ english = "I'm a stubborn man. When it comes to the will to survive, I've got pl
 
 ["520108"]
 japanese = "無傷な俺の部隊を中心に<line-break>ロストール軍の敗残兵をまとめ、<line-break>敵ディンガル軍中枢を叩く！\u3000\u3000\u3000\u3000\u3000<line-break>アンギルダンのとっつぁんを倒せば<line-break>残りのディンガル軍は浮き足だって<line-break>無力化する！\u3000ねらうは朱雀将軍のみ！<end>"
-english = "We'll rally the remnants of Rostorl's army around my unscathed unit and strike the heart of the Dingal Army! Once old Angeerdan falls, the remaining Dingal forces will lose their nerve and cease to be a threat. The Vermilion Bird General is our sole target!<end>"
+english = "We'll rally the remnants of Rostorl's army around my unscathed unit and strike the heart of the Dyneskal Army! Once old Angeerdan falls, the remaining Dyneskal forces will lose their nerve and cease to be a threat. The Vermilion Bird General is our sole target!<end>"
 
 ["520109"]
 japanese = "お前は、俺が軍をまとめる間に、<line-break>先鋒を率い、先に帝国軍に突っ込んで、<line-break>大暴れしてくれ。<line-break>お前の活躍を聞けば、<line-break>敗残兵の集まりもよくなる。<line-break>危険な任務だが、お前しか頼れん。<end>"
@@ -474,7 +474,7 @@ english = "Sorry, old man, but I'm taking your life. The lives of Rostorl's sold
 
 ["520118"]
 japanese = "はい、そうですかと<line-break>くれてやるわけにはいかんな。<line-break>\u3000<line-break>こっちも<line-break>ディンガルの兵の命が<line-break>かかっておるのでな！<end>"
-english = "I cannot simply hand it over because you ask. The lives of Dingal's soldiers depend on me as well!<end>"
+english = "I cannot simply hand it over because you ask. The lives of Dyneskal's soldiers depend on me as well!<end>"
 
 ["520119"]
 japanese = "フフ……、<line-break>運命の女神は残酷なものよ！\u3000\u3000\u3000<line-break>ここまで来て、わしを見限るとはな…。<line-break>ゼネテスよ…。<line-break>お主ほどの男が…ファーロスの…<line-break>跡取りだったとは…、うぐっ…。<end>"
@@ -546,7 +546,7 @@ english = "Let us begin the council of war.<end>"
 
 ["520136"]
 japanese = "ディンガル軍は我々の予想に違い<line-break>内海を縦断する進軍路をとらず、<line-break>分断の山脈越えで王国領に進入した。<end>"
-english = "Contrary to our expectations, the Dingal Army did not cross the Inland Sea. It entered the kingdom by crossing the Dividing Mountains.<end>"
+english = "Contrary to our expectations, the Dyneskal Army did not cross the Inland Sea. It entered the kingdom by crossing the Dividing Mountains.<end>"
 
 ["520137"]
 japanese = "ゼネテス殿の予想通りだ。<end>"
@@ -598,19 +598,19 @@ english = "That concludes the council. I expect every one of you to fight valian
 
 ["520149"]
 japanese = "ロストール軍総司令ノヴィン・ファーロスは\u3000\u3000<line-break>ディンガル帝国軍の海路による進攻を<line-break>予測し、上陸地点で攻撃すべく軍を進めた。<end>"
-english = "Novin Pharos, commander-in-chief of the Rostorl army, predicted that the Dingal imperial forces would advance by sea. He moved his army to attack at their landing point.<end>"
+english = "Novin Pharos, commander-in-chief of the Rostorl army, predicted that the Dyneskal imperial forces would advance by sea. He moved his army to attack at their landing point.<end>"
 
 ["520150"]
 japanese = "しかし、ディンガルの将アンギルダンが選んだ\u3000<line-break>道は海路ではなく、分断の山脈を越えるという<line-break>歴史上、誰も取らなかった進軍路であった。<end>"
-english = "But Angeerdan, the Dingal commander, did not choose the sea route. Instead, he took a route unprecedented in history, crossing the Dividing Mountains.<end>"
+english = "But Angeerdan, the Dyneskal commander, did not choose the sea route. Instead, he took a route unprecedented in history, crossing the Dividing Mountains.<end>"
 
 ["520151"]
 japanese = "アンギルダン率いるディンガル軍は\u3000\u3000\u3000\u3000\u3000\u3000<line-break>大街道沿いの都市を電撃的に占領。<line-break>王都ロストール攻略に王手をかけた。<end>"
-english = "The Dingal Army under Angeerdan captured the cities along the great highway in a lightning offensive. The Rostorl Campaign was now one move from victory.<end>"
+english = "The Dyneskal Army under Angeerdan captured the cities along the great highway in a lightning offensive. The Rostorl Campaign was now one move from victory.<end>"
 
 ["520152"]
 japanese = "対して、ノヴィン率いるロストール軍は<line-break>これを迎撃すべく、軍を戻した。<line-break>しかし、これはアンギルダンに予測されていた。<line-break><line-break>急行したため隊列もバラバラなロストール軍は<line-break>待ち受けていたディンガル軍によって<line-break>完膚無きまでに叩きのめされ、壊乱した。<end>"
-english = "The Rostorl army under Novin turned back to intercept the invaders, but Angeerdan had anticipated this. Forced to hurry, the Rostorl army arrived with its formation in tatters. The waiting Dingal Army crushed it utterly and sent it into rout.<end>"
+english = "The Rostorl army under Novin turned back to intercept the invaders, but Angeerdan had anticipated this. Forced to hurry, the Rostorl army arrived with its formation in tatters. The waiting Dyneskal Army crushed it utterly and sent it into rout.<end>"
 
 ["520153"]
 japanese = "総司令ノヴィン・ファーロスをはじめ\u3000\u3000\u3000\u3000\u3000<line-break>ロストールの貴族が多く、乱戦の中で<line-break>命を落とした。<end>"
@@ -646,7 +646,7 @@ english = "Still you refuse to yield... Splendid! Brave warrior, state your name
 
 ["520161"]
 japanese = "我はディンガル帝国の<line-break>朱雀将軍アンギルダン！<line-break>この遠征軍の総司令官である！\u3000\u3000\u3000<line-break>ノーブル伯<value:$28>よ。<line-break>お主の名はロストールが滅びようとも<line-break>永遠に語りつがれようぞ。<end>"
-english = "I am Angeerdan, Vermilion Bird General of the Dingal Empire and supreme commander of this expeditionary force! Count <value:$28> of Noble, even if Rostorl should fall, your name will be spoken of for all eternity!<end>"
+english = "I am Angeerdan, Vermilion Bird General of the Dyneskal Empire and supreme commander of this expeditionary force! Count <value:$28> of Noble, even if Rostorl should fall, your name will be spoken of for all eternity!<end>"
 
 ["520162"]
 japanese = "では、まいる！<line-break>ノーブル伯<value:$28>！<end>"
@@ -686,7 +686,7 @@ english = "That's right, old man Angeerdan. I'm Pharos's good-for-nothing son. S
 
 ["520171"]
 japanese = "わしとても同じじゃ。<line-break>ディンガルの兵のために<line-break>お主を倒す！\u3000ゆくぞ！<end>"
-english = "And I am no different. For the soldiers of Dingal, I shall defeat you! Come!<end>"
+english = "And I am no different. For the soldiers of Dyneskal, I shall defeat you! Come!<end>"
 
 ["520172"]
 japanese = "よくやったな。<line-break>やるじゃねえか。<end>"

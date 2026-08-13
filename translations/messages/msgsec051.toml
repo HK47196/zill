@@ -194,11 +194,11 @@ english = "Decline<end>"
 
 ["510048"]
 japanese = "そうこなくちゃ。<line-break>よしよし、今、登録して\u3000\u3000\u3000\u3000\u3000<line-break>紹介状を送るからな。<line-break>…って、あんたディンガルの傭兵も<line-break>引き受けてるじゃないか。<line-break>困るなぁ。<end>"
-english = "That's the spirit. All right, I'll register you now and send over a letter of introduction. Wait―you've signed on as a mercenary for Dingal too. That's a problem.<end>"
+english = "That's the spirit. All right, I'll register you now and send over a letter of introduction. Wait―you've signed on as a mercenary for Dyneskal too. That's a problem.<end>"
 
 ["510049"]
 japanese = "知らないのかい。ロストールと\u3000<line-break>ディンガルは緊張状態にある。<line-break>どっちかにしてくれ。<end>"
-english = "Didn't you know? Tensions are running high between Rostorl and Dingal. You'll have to choose one.<end>"
+english = "Didn't you know? Tensions are running high between Rostorl and Dyneskal. You'll have to choose one.<end>"
 
 ["510050"]
 japanese = "ロストールの傭兵になる<end>"
@@ -206,15 +206,15 @@ english = "Become a mercenary for Rostorl<end>"
 
 ["510051"]
 japanese = "ディンガルの傭兵のままでいる<end>"
-english = "Remain a mercenary for Dingal<end>"
+english = "Remain a mercenary for Dyneskal<end>"
 
 ["510052"]
 japanese = "ディンガルの傭兵はやめて<line-break>ロストールの傭兵になるんだね？<line-break>じゃあ、そういうふうに登録しとくよ。<line-break>ロストール王宮へ行ってくれ。<line-break>一応、話はこれで通ってるはずだから。<end>"
-english = "So you're leaving Dingal's service to become a mercenary for Rostorl, right? I'll update your registration. Head to Rostorl's royal palace. They should be expecting you.<end>"
+english = "So you're leaving Dyneskal's service to become a mercenary for Rostorl, right? I'll update your registration. Head to Rostorl's royal palace. They should be expecting you.<end>"
 
 ["510053"]
 japanese = "ディンガルの傭兵のままで\u3000\u3000\u3000\u3000<line-break>いいんだね？<end>"
-english = "So you're staying on as a mercenary for Dingal, right?<end>"
+english = "So you're staying on as a mercenary for Dyneskal, right?<end>"
 
 ["510054"]
 japanese = "それじゃ、登録はすんでるから<line-break>エンシャントの政庁に行くといい。<end>"
@@ -290,7 +290,7 @@ english = "You mercenaries haven't been told exactly how all this came about, ha
 
 ["510072"]
 japanese = "ネメアのライオンちゃんの<line-break>ディンガル帝国に動きがあったんだ。<line-break>どうやら攻めてくるらしい。<line-break>俺の親父…ロストール軍総司令官<line-break>ノヴィン・ファーロスは<line-break>大量の兵士と物資を輸送する必要から…<end>"
-english = "That little lion Nemea's Dingal Empire is on the move. Looks like they're preparing to invade. My father, Novin Pharos, Commander-in-Chief of the Rostorl army, reasoned that moving so many troops and supplies would require...<end>"
+english = "That little lion Nemea's Dyneskal Empire is on the move. Looks like they're preparing to invade. My father, Novin Pharos, Commander-in-Chief of the Rostorl army, reasoned that moving so many troops and supplies would require...<end>"
 
 ["510073"]
 japanese = "帝国軍が海路から攻めてくると予想し<line-break>上陸時に敵を叩く作戦に出た。<line-break>…だが、俺にはそうくるとは思えない。<line-break>根拠はいろいろあるんだが、何よりも<line-break>敵の将軍が、南方攻略軍司令・朱雀将軍<line-break>…つまりアンギルダンてのが大きいな。<end>"
@@ -350,7 +350,7 @@ english = "Count Tarteuba Ryuga of Ruburg abandoned his army and secretly fled o
 
 ["510087"]
 japanese = "ディンガル帝国軍アンギルダンは、<line-break>ロストール軍を壊滅させると、深追いを禁じ、<line-break>全軍に物資の現地調達を命じた。<end>"
-english = "After annihilating the Rostorl army, Angeerdan forbade the Dingal imperial forces from pursuing the enemy and ordered the entire army to procure supplies locally.<end>"
+english = "After annihilating the Rostorl army, Angeerdan forbade the Dyneskal imperial forces from pursuing the enemy and ordered the entire army to procure supplies locally.<end>"
 
 ["510088"]
 japanese = "…と、総司令閣下は自刃なされ、<line-break>ロストール貴族にふさわしい<line-break>見事な最期を遂げられました。<end>"
@@ -390,7 +390,7 @@ english = "I'm a stubborn man. When it comes to the will to survive, I've got pl
 
 ["510097"]
 japanese = "無傷な俺の部隊を中心に<line-break>ロストール軍の敗残兵をまとめ、<line-break>敵ディンガル軍中枢を叩く！\u3000\u3000\u3000\u3000\u3000<line-break>アンギルダンのとっつぁんを倒せば<line-break>あとのディンガル軍は浮き足だって<line-break>無力化する！\u3000ねらうは朱雀将軍のみ！<end>"
-english = "We'll rally the remnants of the Rostorl army around my unscathed unit and strike the heart of the Dingal Army! Take down old Angeerdan, and the rest of the Dingal Army will panic and cease to be a threat. Our only target is the Vermilion Bird General!<end>"
+english = "We'll rally the remnants of the Rostorl army around my unscathed unit and strike the heart of the Dyneskal Army! Take down old Angeerdan, and the rest of the Dyneskal Army will panic and cease to be a threat. Our only target is the Vermilion Bird General!<end>"
 
 ["510098"]
 japanese = "お前は、俺が軍をまとめる間、<line-break>先鋒を率い、先に帝国軍に突っ込んで、<line-break>大暴れしてくれ。<line-break>お前の活躍を聞けば、<line-break>敗残兵の集まりもよくなる。<line-break>危険な任務だが、お前しか頼れん。<end>"
@@ -430,7 +430,7 @@ english = "Sorry, old man, but I'm taking your life. The lives of Rostorl's sold
 
 ["510107"]
 japanese = "はい、そうですかと<line-break>くれてやるわけにはいかんな。<line-break>\u3000<line-break>こっちも<line-break>ディンガルの兵の命が<line-break>かかっておるのでな！<end>"
-english = "I cannot simply hand it over because you ask. The lives of Dingal's soldiers depend on me as well!<end>"
+english = "I cannot simply hand it over because you ask. The lives of Dyneskal's soldiers depend on me as well!<end>"
 
 ["510108"]
 japanese = "フフ…、<line-break>運命の女神は残酷なものよ！\u3000\u3000\u3000<line-break>ここまで来て、わしを見限るとはな…。<line-break>ゼネテスよ…。<line-break>お主ほどの男が…ファーロスの…<line-break>跡取りだったとは…、うぐっ…。<end>"
@@ -534,7 +534,7 @@ english = "Still you refuse to yield? Magnificent! Brave warrior, state your nam
 
 ["510133"]
 japanese = "我はディンガル帝国の<line-break>朱雀将軍アンギルダン！<line-break>この遠征軍の総司令官である！\u3000\u3000\u3000\u3000<line-break><value:$28>とやら。<line-break>お主の名はロストールが滅びようとも<line-break>永遠に語りつがれようぞ。<end>"
-english = "I am Angeerdan, Vermilion Bird General of the Dingal Empire and supreme commander of this expeditionary force! <value:$28>, is it? Even should Rostorl fall, your name shall be remembered forever.<end>"
+english = "I am Angeerdan, Vermilion Bird General of the Dyneskal Empire and supreme commander of this expeditionary force! <value:$28>, is it? Even should Rostorl fall, your name shall be remembered forever.<end>"
 
 ["510134"]
 japanese = "では、まいるぞ！<line-break><value:$28>！<end>"
@@ -574,7 +574,7 @@ english = "That's right, old man Angeerdan. I'm the worthless Pharos brat! Sorry
 
 ["510143"]
 japanese = "わしとて同じじゃ。<line-break>ディンガルの兵のために<line-break>お主を倒す！\u3000ゆくぞ！<end>"
-english = "And I am no different. For the soldiers of Dingal, I shall defeat you! Come!<end>"
+english = "And I am no different. For the soldiers of Dyneskal, I shall defeat you! Come!<end>"
 
 ["510144"]
 japanese = "フフ…、<line-break>運命の女神は残酷なものよ！<line-break>ここまで来て、わしを見限るとはな…。<line-break>ゼネテスよ…。<line-break>お主ほどの男が…ファーロスの…<line-break>跡取りだったとは…、うぐっ…。<end>"

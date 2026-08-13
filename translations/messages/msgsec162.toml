@@ -98,11 +98,11 @@ english = "Don't listen<end>"
 
 ["1620024"]
 japanese = "まず、密偵が持ってきた情報だが、<line-break>ディンガルの首都エンシャントには、<line-break>大量の物資が運び込まれているそうだ。<line-break>それに合わせて、<line-break>大兵力も集結している。<end>"
-english = "First, here's what our spies reported. Vast quantities of supplies are being brought into Ancient, Dingal's capital, and a large army is gathering there as well.<end>"
+english = "First, here's what our spies reported. Vast quantities of supplies are being brought into Ancient, Dyneskal's capital, and a large army is gathering there as well.<end>"
 
 ["1620025"]
 japanese = "これだけの兵と物資を抱えて、<line-break>ディンガルとロストールを隔てている<line-break>分断の山脈を越えることはできない。<line-break>おそらく海路で来るはず……。<line-break>ロストール軍はそう判断して、<line-break>上陸時を叩く作戦に出た。<end>"
-english = "They can't cross the Dividing Mountains between Dingal and Rostorl while burdened with that many soldiers and supplies. They'll most likely come by sea. That's the Rostorl army's conclusion, so the plan is to strike as they land.<end>"
+english = "They can't cross the Dividing Mountains between Dyneskal and Rostorl while burdened with that many soldiers and supplies. They'll most likely come by sea. That's the Rostorl army's conclusion, so the plan is to strike as they land.<end>"
 
 ["1620026"]
 japanese = "どっちも正攻法だ。<line-break>そう間違っちゃいない。<line-break>だが、敵の将軍はアンギルダンだ。<line-break>集めている兵と物資は、陽動。<line-break>おそらく、海路と思わせて、<line-break>山越えをするつもりだ。<end>"
@@ -142,7 +142,7 @@ english = "The Rostorl Army deployed to meet an invasion by sea, but...<end>"
 
 ["1620035"]
 japanese = "\u3000\u3000ディンガル軍は、分断の山脈を越えて侵攻。<line-break>\u3000\u3000\u3000\u3000\u3000街道筋を一瞬にして制圧した。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000この歴史上例を見ない壮挙に、\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000王都ロストールは裸同然となった。\u3000\u3000<end>"
-english = "The Dingal Army launched an invasion over the Dividing Mountains and seized the main roads in an instant. This unprecedented feat left Rostorl, the royal capital, virtually defenseless.<end>"
+english = "The Dyneskal Army launched an invasion over the Dividing Mountains and seized the main roads in an instant. This unprecedented feat left Rostorl, the royal capital, virtually defenseless.<end>"
 
 ["1620036"]
 japanese = "\u3000\u3000\u3000\u3000ロストール軍は、急きょ反転、\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000迎撃に向かったが、\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000隊列が定まらず、突出した騎馬隊、\u3000\u3000<line-break>\u3000\u3000\u3000後続の兵ともに、各個撃破された。\u3000\u3000<end>"
@@ -214,7 +214,7 @@ english = "I'm a stubborn man. I've got more than enough determination to surviv
 
 ["1620053"]
 japanese = "無傷な俺の部隊を中心に<line-break>ロストール軍の敗残兵をまとめ、<line-break>敵ディンガル軍中枢を叩く！\u3000\u3000\u3000\u3000\u3000<line-break>アンギルダンのとっつぁんを倒せば<line-break>あとのディンガル軍は浮き足だって<line-break>無力化する！<end>"
-english = "We'll rally the remnants of the Rostorl army around my unscathed unit, then strike at the Dingal command! Once old Angeerdan falls, the rest of the Dingal Army will panic and cease to be a threat!<end>"
+english = "We'll rally the remnants of the Rostorl army around my unscathed unit, then strike at the Dyneskal command! Once old Angeerdan falls, the rest of the Dyneskal Army will panic and cease to be a threat!<end>"
 
 ["1620054"]
 japanese = "ねらうは、アンギルダンのみ！<end>"
@@ -230,7 +230,7 @@ english = "I'm counting on you, <value:$28>.<end>"
 
 ["1620057"]
 japanese = "<if><value:$01><equal>4敵の本陣に突入なんて、<line-break>ドキドキかな。<line-break>死なない程度にがんばろっと。 <end><if><value:$01><equal>5よっしゃ！<line-break>燃えてきたぜ！！<line-break>ディンガルの奴ら、けちらしてやるぜ。 <end><if><value:$01><equal>6敵の本陣に突入なんて、<line-break>なんか恐いけど、<line-break>泣き言言ってられないね。 <end><if><value:$01><equal>13しょせん相手はザコばかりだ。<line-break>俺たちで本陣を<line-break>落としてしまえばいい。 <end><if><value:$01><equal>10本陣に突入かー。<line-break>なんかすごい展開だな。<line-break>うし、気合い入れてくぜ！ <end><if><value:$01><equal>14やれやれ、本陣に突入とは、<line-break>とんでもない役回りじゃな。 <end><if><value:$01><equal>15本陣突入なんて、大役だね。<line-break>ゼネテスさんの期待に応えなくちゃ、<line-break><value:$28>。 <end><if><value:$01><equal>17なーんで、アタクシがこんな、ヤバンで<line-break>危ないことしなくてはならないのよー！<line-break>\u3000<line-break>ちゃんとしっかりアタクシを守るのよ、<line-break><value:$28>！！ <end><if><value:$01><equal>18本陣に真っ先に切り込めるとは、<line-break>わくわくするでござる。 <end><if><value:$01><equal>19本陣に突入なんて恐いね。<line-break>ムリしちゃダメだよ、<line-break><value:$28>。 <end><if><value:$01><equal>20時がない。<line-break>急ぐぞ。 <end><if><value:$01><equal>193敵の本陣に突入だなんて…。<line-break>私、怖いです…。<line-break>\u3000<line-break>でも<value:$28>さんがいるから、<line-break>私、がんばれます！<end><if><value:$01><equal>191敵の本陣に突っ込めだなんて、<line-break>簡単に言ってくれるわね。<end>敗色濃厚の戦をくつがえすべく、<line-break>敵の本陣に斬り込む…。<line-break>かっこいい歌ができるなぁ。 <end>"
-english = "<if><value:$01><equal>4Charging into the enemy headquarters... I wonder if it'll be exciting. I'll do my best without getting myself killed.<end><if><value:$01><equal>5All right! Now I'm fired up! Those Dingal bastards won't know what hit them!<end><if><value:$01><equal>6Charging into the enemy headquarters is kind of scary, but I can't start complaining now.<end><if><value:$01><equal>13They're nothing but small fry. We can take their headquarters ourselves.<end><if><value:$01><equal>10We're charging their headquarters, huh? Things have gotten pretty wild. All right, time to get fired up!<end><if><value:$01><equal>14Good grief. Storming the enemy headquarters is one outrageous assignment.<end><if><value:$01><equal>15Storming the headquarters is a big responsibility. We can't let Xenetes down, <value:$28>.<end><if><value:$01><equal>17Why must I do something so barbaric and dangerous? You had better protect me properly, <value:$28>!<end><if><value:$01><equal>18To be the first to storm the enemy headquarters―what a thrill!<end><if><value:$01><equal>19Storming the enemy headquarters is scary. Don't push yourself too hard, <value:$28>.<end><if><value:$01><equal>20There's no time. Hurry.<end><if><value:$01><equal>193Storming the enemy headquarters... I'm scared. But with <value:$28> here, I can be brave!<end><if><value:$01><equal>191Telling us to charge straight into the enemy headquarters... Easy for you to say.<end>We storm the enemy headquarters and turn the tide of a battle all but lost... That'll make a great song.<end>"
+english = "<if><value:$01><equal>4Charging into the enemy headquarters... I wonder if it'll be exciting. I'll do my best without getting myself killed.<end><if><value:$01><equal>5All right! Now I'm fired up! Those Dyneskal bastards won't know what hit them!<end><if><value:$01><equal>6Charging into the enemy headquarters is kind of scary, but I can't start complaining now.<end><if><value:$01><equal>13They're nothing but small fry. We can take their headquarters ourselves.<end><if><value:$01><equal>10We're charging their headquarters, huh? Things have gotten pretty wild. All right, time to get fired up!<end><if><value:$01><equal>14Good grief. Storming the enemy headquarters is one outrageous assignment.<end><if><value:$01><equal>15Storming the headquarters is a big responsibility. We can't let Xenetes down, <value:$28>.<end><if><value:$01><equal>17Why must I do something so barbaric and dangerous? You had better protect me properly, <value:$28>!<end><if><value:$01><equal>18To be the first to storm the enemy headquarters―what a thrill!<end><if><value:$01><equal>19Storming the enemy headquarters is scary. Don't push yourself too hard, <value:$28>.<end><if><value:$01><equal>20There's no time. Hurry.<end><if><value:$01><equal>193Storming the enemy headquarters... I'm scared. But with <value:$28> here, I can be brave!<end><if><value:$01><equal>191Telling us to charge straight into the enemy headquarters... Easy for you to say.<end>We storm the enemy headquarters and turn the tide of a battle all but lost... That'll make a great song.<end>"
 
 ["1620058"]
 japanese = "な！\u3000ロストール軍だと！！<line-break>なぜこんなところに！<end>"
@@ -266,7 +266,7 @@ english = "Sorry, old man, but I'm taking your life. The lives of Rostorl's sold
 
 ["1620066"]
 japanese = "はい、そうですかと<line-break>くれてやるわけにはいかんな。<line-break>\u3000<line-break>こっちも<line-break>ディンガルの兵の命が<line-break>かかっておるのでな！<end>"
-english = "I cannot simply hand it over because you ask. The lives of Dingal's soldiers depend on me as well!<end>"
+english = "I cannot simply hand it over because you ask. The lives of Dyneskal's soldiers depend on me as well!<end>"
 
 ["1620067"]
 japanese = "<value:$28>、<line-break>他は任せた！！<end>"
@@ -394,7 +394,7 @@ english = "I shall escort you. We must hurry.<end>"
 
 ["1620098"]
 japanese = "よく来てくれたな、ノーブル伯。<line-break>火急の用件ゆえ、手短に話そう。<line-break>\u3000<line-break>近く、ディンガルがロストール侵攻を<line-break>もくろんでいることがわかった。<line-break>ロセンの次はこの国というわけだ。<end>"
-english = "Thank you for coming, Count of Noble. The matter is urgent, so I shall be brief. We have learned that Dingal is planning to invade Rostorl soon. After Rocen, this country is next.<end>"
+english = "Thank you for coming, Count of Noble. The matter is urgent, so I shall be brief. We have learned that Dyneskal is planning to invade Rostorl soon. After Rocen, this country is next.<end>"
 
 ["1620099"]
 japanese = "我が軍は、ノヴィン・ファーロスを<line-break>総司令とし、迎撃軍を出す。<line-break>そなたも参戦してほしい。<line-break>配属は、<line-break>ゼネテス・ファーロス副司令の<line-break>副官だ。<end>"
@@ -546,11 +546,11 @@ english = "Don't listen<end>"
 
 ["1620136"]
 japanese = "まず、密偵が持ってきた情報だが、<line-break>ディンガルの首都エンシャントには、<line-break>大量の物資が運び込まれているそうだ。<line-break>それに合わせて、<line-break>大兵力も集結している。<end>"
-english = "First, here's what our spies reported. Vast quantities of supplies are being brought into Ancient, Dingal's capital, and a large army is gathering there as well.<end>"
+english = "First, here's what our spies reported. Vast quantities of supplies are being brought into Ancient, Dyneskal's capital, and a large army is gathering there as well.<end>"
 
 ["1620137"]
 japanese = "これだけの兵と物資を抱えて、<line-break>ディンガルとロストールを隔てている<line-break>分断の山脈を越えることはできない。<line-break>おそらく海路で来るはず…。<line-break>ロストール軍はそう判断して、<line-break>上陸時を叩く作戦に出た。<end>"
-english = "They can't cross the Dividing Mountains between Dingal and Rostorl while burdened with that many soldiers and supplies. They'll most likely come by sea. That's the Rostorl army's conclusion, so the plan is to strike as they land.<end>"
+english = "They can't cross the Dividing Mountains between Dyneskal and Rostorl while burdened with that many soldiers and supplies. They'll most likely come by sea. That's the Rostorl army's conclusion, so the plan is to strike as they land.<end>"
 
 ["1620138"]
 japanese = "どっちも正攻法だ。<line-break>そう間違っちゃいない。<line-break>だが、敵の将軍はアンギルダンだ。<line-break>集めている兵と物資は、陽動。<line-break>おそらく、海路と思わせて、<line-break>山越えをするつもりだ。<end>"
@@ -590,7 +590,7 @@ english = "You must be <value:$28>, Count of Noble.<end>"
 
 ["1620147"]
 japanese = "なるべくお早く<line-break>レムオン卿のお屋敷に\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>お戻りください。<line-break>ディンガル帝国に動きがありまして、<line-break>近く出兵があるやもしれませぬ。<end>"
-english = "Please return to Lord Lemghon's estate as soon as you can. The Dingal Empire has been making moves, and there may soon be a military deployment.<end>"
+english = "Please return to Lord Lemghon's estate as soon as you can. The Dyneskal Empire has been making moves, and there may soon be a military deployment.<end>"
 
 ["1620148"]
 japanese = "その際には、ノーブル伯にも、<line-break>お呼びがかかります。<line-break>確か、冒険者をやっていますね。<end>"

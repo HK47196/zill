@@ -1378,10 +1378,10 @@ english = "Wandering Priest<end>"
 japanese = "バロル<end>"
 english = "Balor<end>"
 
-# Canonical "Dingal Government Office" exceeds the 16-byte guild-client maximum.
+# Canonical "Dyneskal Government Office" exceeds the 16-byte guild-client maximum.
 ["1670344"]
 japanese = "ディンガル政庁<end>"
-english = "Dingal Office<end>"
+english = "Dyneskal Office<end>"
 
 ["1670345"]
 japanese = "市民ギルド<end>"
@@ -1764,10 +1764,10 @@ english = "Hugo Trading Co.<end>"
 japanese = "吟遊詩人ギルド<end>"
 english = "Bards' Guild<end>"
 
-# Canonical "Dingal Government Office" exceeds the 16-byte guild-client maximum.
+# Canonical "Dyneskal Government Office" exceeds the 16-byte guild-client maximum.
 ["1670432"]
 japanese = "ディンガル政庁<end>"
-english = "Dingal Office<end>"
+english = "Dyneskal Office<end>"
 
 ["1670433"]
 japanese = "市民ギルド<end>"

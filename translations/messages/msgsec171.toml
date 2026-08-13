@@ -10,7 +10,7 @@ english = "Hold it right there!<end>"
 
 ["1710002"]
 japanese = "ディンガルの敗残兵だな？<line-break>貴様らの首をロストールに売れば<line-break>恩賞にあずかれる。<end>"
-english = "You're defeated soldiers from Dingal, aren't you? We can claim a reward from Rostorl for your heads.<end>"
+english = "You're defeated soldiers from Dyneskal, aren't you? We can claim a reward from Rostorl for your heads.<end>"
 
 ["1710003"]
 japanese = "すまねえが、死んでもらうぜ。<end>"
@@ -170,7 +170,7 @@ english = "You... call that interference?<end>"
 
 ["1710042"]
 japanese = "卿は昔、ディンガルから脱走したあと、<line-break>アキュリュースの傭兵隊長を<line-break>していたそうではないか。<line-break>卿の策に<line-break>利敵行為がないとは言えぬ。<end>"
-english = "After deserting Dingal, you once served as an Aqyurius mercenary captain, did you not? I cannot rule out the possibility that your strategy may aid the enemy.<end>"
+english = "After deserting Dyneskal, you once served as an Aqyurius mercenary captain, did you not? I cannot rule out the possibility that your strategy may aid the enemy.<end>"
 
 ["1710043"]
 japanese = "利敵行為じゃと？<line-break>見損なうな、ジラーク！<end>"
@@ -246,7 +246,7 @@ english = "Stop at once!<end>"
 
 ["1710061"]
 japanese = "ディンガルの将軍と<line-break>お見受けします。<end>"
-english = "You appear to be a general of Dingal.<end>"
+english = "You appear to be a general of Dyneskal.<end>"
 
 ["1710062"]
 japanese = "いかにも！<line-break>朱雀将軍アンギルダンと申す。<line-break>そなたは？<end>"
@@ -370,15 +370,15 @@ english = "Looking back, I was still young in those days. I could do something t
 
 ["1710092"]
 japanese = "お前……見たことあるぞっ。<line-break>ディンガルのアンギルダン将軍の\u3000\u3000\u3000<line-break>側近だった奴だろっ！？<line-break>ここを通すわけにはいかないっ！<line-break>アキュリュースは、清らかな水の町っ！<line-break>貴様らに汚させはしないぞっ！<end>"
-english = "You... I've seen you before. You were an aide to General Angeerdan of Dingal, weren't you? I can't let you through! Aqyurius is a city of pure water. I won't let your kind defile it!<end>"
+english = "You... I've seen you before. You were an aide to General Angeerdan of Dyneskal, weren't you? I can't let you through! Aqyurius is a city of pure water. I won't let your kind defile it!<end>"
 
 ["1710093"]
 japanese = "おい、お前！<line-break>ディンガルの密偵か！？\u3000\u3000\u3000\u3000\u3000<line-break>密偵なのか！？<line-break>この船はアキュリュースへ渡る<line-break>唯一の足だ。お前をここから先へと<line-break>通すわけにはいかないぞ！<end>"
-english = "Hey, you! Are you a Dingal spy? Are you? This boat is the only way across to Aqyurius. I can't let you go any farther!<end>"
+english = "Hey, you! Are you a Dyneskal spy? Are you? This boat is the only way across to Aqyurius. I can't let you go any farther!<end>"
 
 ["1710094"]
 japanese = "ここまでだ。<line-break>ディンガルの兵隊さんよ。\u3000\u3000<line-break>\u3000<line-break>さあ、今ここで<line-break>命を奪ったりはしない。<line-break>おとなしく引き下がるんだな。<end>"
-english = "That's far enough, Dingal soldier. I won't kill you here and now. Turn around and leave quietly.<end>"
+english = "That's far enough, Dyneskal soldier. I won't kill you here and now. Turn around and leave quietly.<end>"
 
 ["1710095"]
 japanese = "ああ、本当に<line-break>いい天気ですこと。<end>"
@@ -442,7 +442,7 @@ english = "Hey. You're <value:$28>, right? I'm Zelashell. Good to meet you. Well
 
 ["1710110"]
 japanese = "人の命の尊さに、ディンガルも<line-break>アキュリュースも関係ありません。<line-break>\u3000<line-break>ミズチたちに湖に浮かんでいた<line-break>ケガ人を運んでもらって、<line-break>こうして手当てをしています。<end>"
-english = "The worth of a human life has nothing to do with whether someone is from Dingal or Aqyurius. The Mizuchi carried the wounded who were floating in the lake here, and I'm tending to them.<end>"
+english = "The worth of a human life has nothing to do with whether someone is from Dyneskal or Aqyurius. The Mizuchi carried the wounded who were floating in the lake here, and I'm tending to them.<end>"
 
 ["1710111"]
 japanese = "あの大蛇がねぇ？<line-break>あれ、人を喰わねぇのかな。<end>"
@@ -494,11 +494,11 @@ english = "But... perhaps that mercenary was right. A life saved today may take 
 
 ["1710123"]
 japanese = "でも、負傷者の救助は続けます。<line-break>それがディンガルの人であれ、<line-break>アキュリュースの人であれ…。<end>"
-english = "Even so, I will continue rescuing the wounded, whether they are from Dingal or Aqyurius.<end>"
+english = "Even so, I will continue rescuing the wounded, whether they are from Dyneskal or Aqyurius.<end>"
 
 ["1710124"]
 japanese = "先日、ディンガルの兵たちが<line-break>無理矢理この下へと入っていったのです。\u3000<line-break>\u3000<line-break>それからしばらくしたら、ものすごい音と<line-break>振動がして…兵たちは帰ってきていません。<line-break>この下で何がおきたのでしょうか…。<end>"
-english = "The other day, Dingal's soldiers forced their way down below. A little while later, there was a tremendous noise and violent shaking... The soldiers still haven't returned. What could have happened down there?<end>"
+english = "The other day, Dyneskal's soldiers forced their way down below. A little while later, there was a tremendous noise and violent shaking... The soldiers still haven't returned. What could have happened down there?<end>"
 
 ["1710125"]
 japanese = "この下へ行かれるのですか…？<line-break>どうか、気をつけてください……。<end>"

@@ -18,7 +18,7 @@ english = "From this moment on, you will serve as the shield of this holy ground
 
 ["1830004"]
 japanese = "神官長様！<line-break>ディンガルの軍船が<line-break>攻めてまいりました！<end>"
-english = "High Priest! Dingal warships are attacking!<end>"
+english = "High Priest! Dyneskal warships are attacking!<end>"
 
 ["1830005"]
 japanese = "またか！<line-break>しかし、我らにミズチの加護ある限り<line-break>この町はそう簡単には落ちません！<end>"
@@ -118,11 +118,11 @@ english = "Turn it down<end>"
 
 ["1830029"]
 japanese = "そうか、ありがとう…って、<line-break>ちょっと待った。あんた、ディンガルの<line-break>傭兵もやってるじゃないか！<line-break>両方かけもちするのはよくないよ。<line-break>どちらか片方にしてくれ。<line-break>どっちにするんだい？<end>"
-english = "All right, thanks... Wait, hold on. You're already working as a mercenary for Dingal! You can't work for both sides. You'll have to choose one. So which will it be?<end>"
+english = "All right, thanks... Wait, hold on. You're already working as a mercenary for Dyneskal! You can't work for both sides. You'll have to choose one. So which will it be?<end>"
 
 ["1830030"]
 japanese = "やっぱりディンガル側<end>"
-english = "Stick with Dingal after all<end>"
+english = "Stick with Dyneskal after all<end>"
 
 ["1830031"]
 japanese = "心機一転アキュリュース側<end>"
@@ -130,7 +130,7 @@ english = "Make a fresh start with Aqyurius<end>"
 
 ["1830032"]
 japanese = "それじゃ、今まで通り<line-break>ディンガル帝国側ってことで<line-break>よろしく頼むぜ、<value:$28>。<end>"
-english = "All right, then. You'll stay with the Dingal Empire, same as before. I'm counting on you, <value:$28>.<end>"
+english = "All right, then. You'll stay with the Dyneskal Empire, same as before. I'm counting on you, <value:$28>.<end>"
 
 ["1830033"]
 japanese = "じゃ、書類の方は送っとくから、<line-break>アキュリュースの神殿の方へ行ってくれ。\u3000<line-break>そこで、詳しい話があるはずだ。<line-break>今後はアキュリュース兵ってことで<line-break>がんばってくれよな。<end>"
@@ -150,7 +150,7 @@ english = "<if><value:$2A><greater-equal>50Well, if it isn't <value:$2B> <value:
 
 ["1830037"]
 japanese = "今、アキュリュースがディンガルに<line-break>攻められそうになっててな、<line-break>傭兵を募集しているんだよ。<line-break>報酬は１戦ごとに払うらしい。<line-break>どうだい？\u3000やってみるかい？<end>"
-english = "Aqyurius is in danger of being attacked by Dingal and is recruiting mercenaries. Apparently, the pay is per battle. What do you say? Want to give it a try?<end>"
+english = "Aqyurius is in danger of being attacked by Dyneskal and is recruiting mercenaries. Apparently, the pay is per battle. What do you say? Want to give it a try?<end>"
 
 ["1830038"]
 japanese = "引き受ける<end>"
@@ -162,11 +162,11 @@ english = "Turn it down<end>"
 
 ["1830040"]
 japanese = "…って、ちょっと待った。<line-break>あんた、ディンガルにも\u3000\u3000<line-break>やとわれているじゃないか！\u3000\u3000      <line-break>両方かけもちするのはよくないよ。<line-break>どちらか片方にしてくれ。<line-break>どっちにするんだい？<end>"
-english = "Wait, hold on. You're working for Dingal too! You can't fight for both sides. Pick one or the other. Which will it be?<end>"
+english = "Wait, hold on. You're working for Dyneskal too! You can't fight for both sides. Pick one or the other. Which will it be?<end>"
 
 ["1830041"]
 japanese = "やっぱりディンガル側<end>"
-english = "Stick with Dingal after all<end>"
+english = "Stick with Dyneskal after all<end>"
 
 ["1830042"]
 japanese = "心機一転アキュリュース側<end>"
@@ -174,7 +174,7 @@ english = "Make a fresh start with Aqyurius<end>"
 
 ["1830043"]
 japanese = "それじゃ、今まで通り<line-break>ディンガル帝国側ってことで<line-break>よろしく頼むぜ、<value:$28>。<end>"
-english = "All right, then. You'll stay with the Dingal Empire, just as before. I'm counting on you, <value:$28>.<end>"
+english = "All right, then. You'll stay with the Dyneskal Empire, just as before. I'm counting on you, <value:$28>.<end>"
 
 ["1830044"]
 japanese = "じゃ、書類の方は送っとくから、<line-break>アキュリュースの神殿の方へ行ってくれ。\u3000<line-break>そこで、詳しい話があるはずだ。<line-break>今後はアキュリュース兵ってことで<line-break>よろしく頼んだぜ。<end>"
@@ -194,19 +194,19 @@ english = "Thank you so much for fighting to protect this sacred land. All we ca
 
 ["1830048"]
 japanese = "おかげさまで、緒戦においては<line-break>ディンガルの侵攻を防ぐことができました。\u3000\u3000<line-break>ありがとうございました。<line-break>彼らがまた侵攻してくるには、まだしばらくの<line-break>時間があきそうです。その間、みなさんは<line-break>それぞれのなすべき事をされるとよいでしょう。<end>"
-english = "Thanks to your efforts, we were able to repel Dingal's opening assault. You have our gratitude. It appears some time will pass before Dingal can invade again. Until then, you should each attend to whatever business you have.<end>"
+english = "Thanks to your efforts, we were able to repel Dyneskal's opening assault. You have our gratitude. It appears some time will pass before Dyneskal can invade again. Until then, you should each attend to whatever business you have.<end>"
 
 ["1830049"]
 japanese = "おかげさまで、緒戦においては<line-break>ディンガルの侵攻を防ぐことができました。\u3000\u3000<line-break>ありがとうございました。<line-break>ですが、次の侵攻はそう遠くないでしょう。<line-break>敵の動きを常に警戒し、いつでもこの清き町を<line-break>守りにこれるよう、準備をしておいてください。<end>"
-english = "Thanks to your efforts, we were able to repel Dingal's opening assault. You have our gratitude. But the next invasion will not be long in coming. Keep a constant watch on the enemy's movements, and be ready to return at any time to defend this sacred town.<end>"
+english = "Thanks to your efforts, we were able to repel Dyneskal's opening assault. You have our gratitude. But the next invasion will not be long in coming. Keep a constant watch on the enemy's movements, and be ready to return at any time to defend this sacred town.<end>"
 
 ["1830050"]
 japanese = "おかげさまで、緒戦においては<line-break>ディンガルの侵攻を防ぐことができました。\u3000\u3000<line-break>ありがとうございました。<line-break>ですが、彼らは明日にでも再びこの町へと<line-break>侵攻してきそうな気配です。今日はこの町に<line-break>宿をとり、明日また神殿へと来てください。<end>"
-english = "Thanks to your efforts, we were able to repel Dingal's opening assault. You have our gratitude. But there are signs that Dingal may invade this town again as soon as tomorrow. Find lodging here tonight, and return to the temple tomorrow.<end>"
+english = "Thanks to your efforts, we were able to repel Dyneskal's opening assault. You have our gratitude. But there are signs that Dyneskal may invade this town again as soon as tomorrow. Find lodging here tonight, and return to the temple tomorrow.<end>"
 
 ["1830051"]
 japanese = "今日の戦いを見ると、<line-break>ディンガル軍は明日も<line-break>この地を攻めてくるでしょう。<line-break>今日はこの町で宿をとり、<line-break>明日またこの神殿入口に<line-break>来てもらえますでしょうか。<end>"
-english = "Judging by today's battle, the Dingal Army will attack this land again tomorrow. Please stay in town tonight, then return to the entrance of this temple tomorrow.<end>"
+english = "Judging by today's battle, the Dyneskal Army will attack this land again tomorrow. Please stay in town tonight, then return to the entrance of this temple tomorrow.<end>"
 
 ["1830052"]
 japanese = "この戦いに<line-break>アキュリュースの未来がかかっています。<line-break>\u3000<line-break>あなたたちも明日の戦いに備え<line-break>装備や道具の準備はしておいてください。<end>"
@@ -238,7 +238,7 @@ english = "If only I had never left the forest, I would never have known war...<
 
 ["1830059"]
 japanese = "再びディンガルが攻めてきたら、<line-break>私たちを守ってくださいね。<end>"
-english = "If Dingal attacks again, please protect us.<end>"
+english = "If Dyneskal attacks again, please protect us.<end>"
 
 ["1830060"]
 japanese = "今回もミズチのおかげで<line-break>アキュリュースは守られた。<line-break>これからもそうじゃろう。<end>"
@@ -250,7 +250,7 @@ english = "Is Zsilak's White Tiger Army really that strong? Can we truly rest ea
 
 ["1830062"]
 japanese = "ディンガルから守ってくれてありがとう。<line-break>あんたたち傭兵とミズチがいるから<line-break>あたしらは安心して暮らせるんだよ。<end>"
-english = "Thank you for protecting us from Dingal. With you mercenaries and Mizuchi here, we can live without fear.<end>"
+english = "Thank you for protecting us from Dyneskal. With you mercenaries and Mizuchi here, we can live without fear.<end>"
 
 ["1830063"]
 japanese = "戦争のおかげで、<line-break>しばらくは仕事もなさそうだし<line-break>せっかくだからゆっくり休むかな。<end>"
@@ -266,11 +266,11 @@ english = "Sounds like there was fierce fighting here too. You mercenaries have 
 
 ["1830066"]
 japanese = "ディンガルのヤツらは、<line-break>再び攻めてくるにちがいない。<line-break>君も警戒を怠るなよ。<end>"
-english = "Those Dingal bastards are bound to attack again. You'd better stay on your guard too.<end>"
+english = "Those Dyneskal bastards are bound to attack again. You'd better stay on your guard too.<end>"
 
 ["1830067"]
 japanese = "ミズチが大暴れして<line-break>ディンガルの兵士がたくさん死んだよ。<line-break>彼らにも家族がいるだろうに…。<end>"
-english = "Mizuchi went on a rampage, and a lot of Dingal soldiers died. They must have families too...<end>"
+english = "Mizuchi went on a rampage, and a lot of Dyneskal soldiers died. They must have families too...<end>"
 
 ["1830068"]
 japanese = "戦争のおかげで観光客が減っちゃうよ。<line-break>困ったことだよな。<end>"

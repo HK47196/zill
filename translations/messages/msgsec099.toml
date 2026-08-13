@@ -70,7 +70,7 @@ english = "Oh, <value:$28>... Are you about to eat? If I'd known you were dining
 
 ["990017"]
 japanese = "ディンガルで食べるよりも<line-break>ロストールで食べる方が<line-break>おいしいなんて、おかしいわね。<line-break>それじゃ、私は行くわ。<line-break>今度、機会があれば、<line-break>２人で食事したいわね。<end>"
-english = "It's strange that the food tastes better in Rostorl than it does in Dingal. Well, I should be going. If the opportunity arises, I'd like to dine with you sometime.<end>"
+english = "It's strange that the food tastes better in Rostorl than it does in Dyneskal. Well, I should be going. If the opportunity arises, I'd like to dine with you sometime.<end>"
 
 ["990018"]
 japanese = "ものすごく、おきれいな方ですよね。<line-break>背もスラッとして、物腰も上品で…。<line-break>\u3000<line-break>それに、あの…、なんていうか<line-break>ものすごい…胸…ですよね。<line-break>なんか…圧倒されちゃいますよね。<end>"
@@ -282,7 +282,7 @@ english = "It's been a long time, <value:$28>.<end>"
 
 ["990070"]
 japanese = "私…<line-break>あれから、カルラ様に助けられて…<line-break>カルラ様の配下になったの。\u3000\u3000<line-break>今の私はディンガル帝国黒鎧騎士、<line-break>東方攻略軍所属、青竜軍副将<line-break>アイリーン・エルメスよ。<end>"
-english = "I... After that, Lady Karula saved me, and I entered her service. Now I'm Irene Hermes, a Black-Armored Knight of the Dingal Empire, serving with the Eastern Campaign Army as deputy commander of the Azure Dragon Army.<end>"
+english = "I... After that, Lady Karula saved me, and I entered her service. Now I'm Irene Hermes, a Black-Armored Knight of the Dyneskal Empire, serving with the Eastern Campaign Army as deputy commander of the Azure Dragon Army.<end>"
 
 ["990071"]
 japanese = "これからはお互い、<line-break>それぞれの夢を追いましょ。<line-break>それじゃ、<value:$28>。<end>"
@@ -298,7 +298,7 @@ english = "It's been a long time, <value:$28>.<end>"
 
 ["990074"]
 japanese = "私、カルラ様の配下になったの。\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>今の私はディンガル帝国黒鎧騎士、<line-break>東方攻略軍所属、青竜軍副将<line-break>アイリーン・エルメスよ。<end>"
-english = "I've entered Lady Karula's service. Now I'm Irene Hermes, a Black-Armored Knight of the Dingal Empire, serving with the Eastern Campaign Army as deputy commander of the Azure Dragon Army.<end>"
+english = "I've entered Lady Karula's service. Now I'm Irene Hermes, a Black-Armored Knight of the Dyneskal Empire, serving with the Eastern Campaign Army as deputy commander of the Azure Dragon Army.<end>"
 
 ["990075"]
 japanese = "やっと、夢がかなったの。<line-break>どうしても、あなたに伝えたくて…。<end>"
@@ -330,7 +330,7 @@ english = "<value:$28>...<end>"
 
 ["990082"]
 japanese = "ディンガル帝国青竜軍副将として、<line-break><value:$28>、お前を討つ！<end>"
-english = "As deputy commander of the Dingal Empire's Azure Dragon Army, I will strike you down, <value:$28>!<end>"
+english = "As deputy commander of the Dyneskal Empire's Azure Dragon Army, I will strike you down, <value:$28>!<end>"
 
 ["990083"]
 japanese = "………………。<end>"
@@ -358,7 +358,7 @@ english = "<value:$28>... What do you think you're doing here, Count of Noble? W
 
 ["990089"]
 japanese = "あなたはロストールの貴族。<line-break>私はディンガルの青竜軍副将。\u3000\u3000\u3000\u3000<line-break>もう昔の私たちではないの。<line-break>早く出ていきなさい。<line-break>今回だけは見逃してあげる。<line-break>もう私の前に顔を出さないで。<end>"
-english = "You're a noble of Rostorl. I'm deputy commander of Dingal's Azure Dragon Army. We're not who we used to be. Get out, now. I'll let you go this once. Don't ever show your face before me again.<end>"
+english = "You're a noble of Rostorl. I'm deputy commander of Dyneskal's Azure Dragon Army. We're not who we used to be. Get out, now. I'll let you go this once. Don't ever show your face before me again.<end>"
 
 ["990090"]
 japanese = "あ、<value:$28>…。<end>"
@@ -382,7 +382,7 @@ english = "<value:$28>... What are you doing here? We're as good as enemies now,
 
 ["990095"]
 japanese = "あなたはゼネテス配下の将軍。<line-break>私はディンガルの青竜軍副将。<line-break>もう、昔の私たちではないの。<line-break>…早く、行きなさい。<line-break>今回だけは見逃してあげる。<line-break>もう私の前に姿を見せないで！<end>"
-english = "You're a general under Xenetes. I'm deputy commander of Dingal's Azure Dragon Army. We're not who we used to be. Go. Now. I'll let you go this once. Don't ever show yourself before me again!<end>"
+english = "You're a general under Xenetes. I'm deputy commander of Dyneskal's Azure Dragon Army. We're not who we used to be. Go. Now. I'll let you go this once. Don't ever show yourself before me again!<end>"
 
 ["990096"]
 japanese = "あ、<value:$28>…。<end>"
@@ -466,7 +466,7 @@ english = "<value:$28>...<end>"
 
 ["990116"]
 japanese = "ディンガル帝国青竜軍副将として、<line-break><value:$28>、お前を討つ！<end>"
-english = "As deputy commander of the Dingal Empire's Azure Dragon Army, I will strike you down, <value:$28>!<end>"
+english = "As deputy commander of the Dyneskal Empire's Azure Dragon Army, I will strike you down, <value:$28>!<end>"
 
 ["990117"]
 japanese = "………………。<end>"
@@ -494,7 +494,7 @@ english = "<value:$28>... What do you think you're doing here, Count of Noble? W
 
 ["990123"]
 japanese = "あなたはロストールの貴族。<line-break>私はディンガルの青竜軍副将。\u3000\u3000\u3000\u3000<line-break>もう昔の私たちではないわ。<line-break>早く出ていきなさい。<line-break>今回だけは見逃してあげる。<line-break>もう私の前に顔を出さないで。<end>"
-english = "You're a noble of Rostorl. I'm deputy commander of Dingal's Azure Dragon Army. We're not who we used to be. Get out, now. I'll let you go this once. Don't ever show your face before me again.<end>"
+english = "You're a noble of Rostorl. I'm deputy commander of Dyneskal's Azure Dragon Army. We're not who we used to be. Get out, now. I'll let you go this once. Don't ever show your face before me again.<end>"
 
 ["990124"]
 japanese = "あ、<value:$28>…。<end>"
@@ -518,7 +518,7 @@ english = "<value:$28>... What are you doing here? We're as good as enemies now,
 
 ["990129"]
 japanese = "あなたはゼネテス配下の将軍。<line-break>私はディンガルの青竜軍副将。<line-break>もう、昔の私たちではないわ。<line-break>…早く、行きなさい。<line-break>今回だけは見逃してあげる。<line-break>もう私の前に姿を見せないで！<end>"
-english = "You're a general under Xenetes. I'm deputy commander of Dingal's Azure Dragon Army. We're not who we used to be. Go. Now. I'll let you go this once. Don't ever show yourself before me again!<end>"
+english = "You're a general under Xenetes. I'm deputy commander of Dyneskal's Azure Dragon Army. We're not who we used to be. Go. Now. I'll let you go this once. Don't ever show yourself before me again!<end>"
 
 ["990130"]
 japanese = "あなたも懲りない人ね？<line-break>同じことを何回も言わせないで。\u3000\u3000\u3000<line-break>\u3000<line-break>私たちはまったく逆の道を歩いている。<line-break>今の私は、昔のアイリーンではないの。<line-break>…もう、ここには来ないで！<end>"

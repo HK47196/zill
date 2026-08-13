@@ -330,7 +330,7 @@ english = "The Water Priestess Iiklmn and the Fire Priestess Flare have fallen i
 
 ["1330082"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000ロストールとディンガル\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000ふたつの大国が大陸を揺り動かす中、\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000いにしえの力もまた\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000その大いなる眠りから放たれた。\u3000\u3000\u3000<end>"
-english = "As the two great powers of Rostorl and Dingal shook the continent, an ancient power was also released from its long slumber.<end>"
+english = "As the two great powers of Rostorl and Dyneskal shook the continent, an ancient power was also released from its long slumber.<end>"
 
 ["1330083"]
 japanese = "\u3000\u3000\u3000\u3000\u3000砂漠にある都市ラドラスが\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000その魔道国家時代の機能を発動。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000攻撃力を持った空中都市として\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000空へと飛び立ったのである。\u3000\u3000\u3000\u3000<end>"
@@ -750,7 +750,7 @@ english = "In the end, fate cannot be defied. What no one can defy―that is fat
 
 ["1330187"]
 japanese = "フフフ…私、皇帝になったの。<line-break>ザギヴがディンガルを支配する…。<line-break>運命の預言は、現実となったわ…。<line-break>この力！\u3000<line-break>私の心身にみなぎる、この力！<line-break>フフ…フフフフ…！<end>"
-english = "Heh heh... I became emperor. Zagiv rules Dingal now... The prophecy of fate has come true... Such power! This power filling my body and mind! Heh... heh heh heh...!<end>"
+english = "Heh heh... I became emperor. Zagiv rules Dyneskal now... The prophecy of fate has come true... Such power! This power filling my body and mind! Heh... heh heh heh...!<end>"
 
 ["1330188"]
 japanese = "お主が留守にしとる間に、<line-break>この女は、堕ちてしもうたのじゃよ。<line-break>底も知れぬ闇にな…。<line-break>運命にはあらがえぬ。<line-break>抗っても、傷つくのみじゃ。<line-break>お主にも、これでわかったろう。<end>"
@@ -2546,7 +2546,7 @@ english = "Shall we head back, then? Everyone will want to see that you're safe.
 
 ["1330636"]
 japanese = "\u3000\u3000\u3000\u3000\u3000神聖暦<value:$24>年<value:$25>月\u3000\u3000\u3000\u3000<line-break>後に多くの吟遊詩人に歌われるこの騒乱の後<line-break>\u3000\u3000ディンガル帝国とロストール王国は\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000和平条約を締結した。\u3000\u3000\u3000\u3000\u3000<end>"
-english = "In Year <value:$24>, Month <value:$25> of the Sacred Era, after this upheaval―later celebrated in the songs of many bards―the Dingal Empire and the Kingdom of Rostorl concluded a peace treaty.<end>"
+english = "In Year <value:$24>, Month <value:$25> of the Sacred Era, after this upheaval―later celebrated in the songs of many bards―the Dyneskal Empire and the Kingdom of Rostorl concluded a peace treaty.<end>"
 
 ["1330637"]
 japanese = "わしか…？<line-break>わしはイオンズ。<line-break>ここの神官じゃ。<end>"
@@ -2854,7 +2854,7 @@ english = "Farewell, child of Astia. You have my thanks.<end>"
 
 ["1330713"]
 japanese = "\u3000\u3000\u3000\u3000\u3000神聖暦<value:$24>年<value:$25>月\u3000\u3000\u3000\u3000<line-break>後に多くの吟遊詩人に歌われるこの騒乱の後<line-break>\u3000\u3000ディンガル帝国とロストール王国は\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000和平条約を締結した。\u3000\u3000\u3000\u3000\u3000<end>"
-english = "Sacred Calendar: Year <value:$24>, Month <value:$25>. Following this upheaval, later sung of by many bards, the Dingal Empire and the Kingdom of Rostorl concluded a peace treaty.<end>"
+english = "Sacred Calendar: Year <value:$24>, Month <value:$25>. Following this upheaval, later sung of by many bards, the Dyneskal Empire and the Kingdom of Rostorl concluded a peace treaty.<end>"
 
 ["1330714"]
 japanese = "<value:$28>さん、<line-break>わたしにはこんなことを言う<line-break>資格はないですけど…<end>"
