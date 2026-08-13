@@ -46,7 +46,7 @@ english = "She has never known light. Let's not have that in here, all right?<en
 
 ["750011"]
 japanese = "そして、僕はシャリ。<line-break>この王宮に出入りする学者。\u3000\u3000<line-break>\u3000<line-break>この大陸のはるか東から来たから<line-break>東方の博士って呼ばれてる。<line-break>よろしくね、フフフ。<end>"
-english = "And I'm Shalli, a scholar who frequents the palace. I came from the far east of this continent, so they call me the Doctor from the East. A pleasure. Heh heh heh.<end>"
+english = "And I'm Shalli, a scholar who frequents the palace. I came from the far east of this continent, so they call me the Scholar from the East. A pleasure. Heh heh heh.<end>"
 
 ["750012"]
 japanese = "アトレイア様。こちらの勇者だよ、<line-break>君に光を与えてくれた宝石、<line-break>色惑の瞳を持ってきてくれたのは。<end>"
@@ -922,7 +922,7 @@ english = "Hello, <value:$28>. I thought we'd meet again.<end>"
 
 ["750230"]
 japanese = "はじめまして。<line-break>僕はシャリ。人は東方の博士なんて<line-break>呼んでくれたりもするんだ。<line-break>よろしくね、<line-break><value:$28>。<end>"
-english = "Hello. I'm Shalli. Some people even call me the Scholar of the East. It's nice to meet you, <value:$28>.<end>"
+english = "Hello. I'm Shalli. Some people even call me the Scholar from the East. It's nice to meet you, <value:$28>.<end>"
 
 ["750231"]
 japanese = "ここは、君のまだ知らない\u3000\u3000\u3000\u3000\u3000<line-break>お姫様の部屋だよ。<line-break>\u3000<line-break>でも、彼女のことを話すには<line-break>君はまだちょっと頼りないな。<line-break>だから、会わせるわけにもいかない。<end>"

@@ -62,7 +62,7 @@ english = "<select><value:$20>%3Lady Noel sometimes takes her injured father's p
 
 ["550015"]
 japanese = "こんな地図にも載っていないような<line-break>珍しい村で、こんな珍しい風習があったなんて。<line-break>実際に世界を旅してないとわからなかったなあ。<line-break>あ、私は数が減って、珍しい存在になった<line-break>コーンスの旅人です。<line-break>う～ん、自分の目で確かめないとなあ。<end>"
-english = "Who would have thought a rare little village, one that isn't even on the map, would have such an unusual custom? I'd never have known without actually traveling the world. Oh, I'm a traveler of the Korns, who have grown so few that we're a rare sight ourselves. Hmm. You really do have to see things with your own eyes.<end>"
+english = "Who would have thought a rare little village, one that isn't even on the map, would have such an unusual custom? I'd never have known without actually traveling the world. Oh, I'm a traveler of the Konsu, who have grown so few that we're a rare sight ourselves. Hmm. You really do have to see things with your own eyes.<end>"
 
 ["550016"]
 japanese = "…ふっ、<line-break>竜王様のおっしゃるとおりだ。<end>"
@@ -78,7 +78,7 @@ english = "All these people have the same tattoo! What's going on?<end>"
 
 ["550019"]
 japanese = "そうね、実際に見て、確かめなくちゃ。<line-break>オッシ先生もそう言ってたしね。<line-break><line-break>行きましょ、<value:$28>。<line-break>あいつらが何してるか、確かめて<line-break>悪いことなら、くいとめなきゃ。<end>"
-english = "Right. We have to see for ourselves and make sure. Ossi said the same thing. Come on, <value:$28>. Let's find out what they're doing, and if it's something bad, we have to stop it.<end>"
+english = "Right. We have to see for ourselves and make sure. Master Ossi said the same thing. Come on, <value:$28>. Let's find out what they're doing, and if it's something bad, we have to stop it.<end>"
 
 ["550020"]
 japanese = "見てよ！\u3000この人たち、<line-break>みんな、同じ刺青してる…。<line-break><line-break>天空神ノトゥーンの紋章…？<line-break>いや、ちょっと違う。<line-break>どこか、まがまがしい…。<end>"
@@ -110,7 +110,7 @@ english = "Every one of them has the same tattoo. And that's one nasty-looking d
 
 ["550027"]
 japanese = "…施文院だ。<end>"
-english = "The Inscription Institute.<end>"
+english = "The Inscription Order.<end>"
 
 ["550028"]
 japanese = "説明はまたの機会だ。<line-break>連中を追っかけようぜ。<line-break><line-break>石化獣…とかいうのが<line-break>この村には封印されているそうだな。<line-break>急がないとヤバいかもしれない。<end>"

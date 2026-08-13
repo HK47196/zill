@@ -146,7 +146,7 @@ english = "I know. Just hear me out.<end>"
 
 ["1930036"]
 japanese = "<if><value:$29><equal>%0お前も年頃じゃ。<line-break>信頼できる若者を<line-break>そばに置いておきたくてな。<end>お前も水の巫女となり、<line-break>これからいろいろと<line-break>気苦労もあるじゃろう。<line-break>じゃから、お前が、<line-break>一生つきあえる友人が、<line-break>そばにいればと思ってな。<end>"
-english = "<if><value:$29><equal>%0You're of age now. I wanted you to have a trustworthy young person at your side.<end>Now that you've become the Water Priestess, you'll have many burdens to bear. I thought it would be good for you to have a lifelong friend at your side.<end>"
+english = "<if><value:$29><equal>%0You're of age now. I wanted you to have a trustworthy young person at your side.<end>Now that you've become the Priestess of Water, you'll have many burdens to bear. I thought it would be good for you to have a lifelong friend at your side.<end>"
 
 ["1930037"]
 japanese = "<value:$28>、<line-break>娘を頼んだぞ。<end>"
@@ -394,7 +394,7 @@ english = "I see. So you're leaving the continent.<end>"
 
 ["1930098"]
 japanese = "まぁ、それがいいかもしれませんね。<line-break>今のあなたの存在は、<line-break>あまりに巨大ですから。<line-break>ロストールとディンガルが<line-break>手を取り合って、バイアシオンは<line-break>ひとつになろうとしています。<end>"
-english = "Well, perhaps that is for the best. You have become far too great a presence. Rostorl and Dyneskal are joining hands, and Baiashion is on the verge of becoming one.<end>"
+english = "Well, perhaps that is for the best. You have become far too great a presence. Rostorl and Dyneskal are joining hands, and Vyashion is on the verge of becoming one.<end>"
 
 ["1930099"]
 japanese = "あなたの存在は、<line-break>その流れをゆるがしかねない。<line-break>あなたの意志に関係なく、ね。<end>"

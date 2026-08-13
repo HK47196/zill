@@ -106,7 +106,7 @@ english = "You were looking at the field Dad left behind again, weren't you? Bol
 
 ["310026"]
 japanese = "あ、そうだった！<line-break>仲間にノーブルの森で集まるよう<line-break>伝えてきたよ。<line-break>それから、頼まれてた元気の薬。<line-break>渡しとくぜ、姉ちゃん！<end>"
-english = "Oh, right! I told everyone to meet in Noble Forest. And here's that tonic you asked for, Sis!<end>"
+english = "Oh, right! I told everyone to meet in Noble Forest. And here's that Vitality Medicine you asked for, Sis!<end>"
 
 ["310027"]
 japanese = "\u3000<end>"
@@ -250,7 +250,7 @@ english = "That's a relief. Let me introduce myself properly this time. I'm Est,
 
 ["310062"]
 japanese = "闇の神器は破壊神ウルグの復活に<line-break>使われた魔道器でね。<line-break>ものすごい力を秘めているんだ。<line-break>それを使えば、僕みたいにひ弱な男でも<line-break>ものすごく強い戦士や怪物を<line-break>ひとひねりにできるんだ。<end>"
-english = "The Artifact of Darkness is a magical device that was used to resurrect Urg, the God of Destruction. It holds tremendous power. With it, even a weak man like me could make short work of immensely powerful warriors and monsters.<end>"
+english = "The Artifact of Darkness is a magical device that was used to resurrect Ulugh, the God of Destruction. It holds tremendous power. With it, even a weak man like me could make short work of immensely powerful warriors and monsters.<end>"
 
 ["310063"]
 japanese = "フフ、別に僕は強くなりたくて、<line-break>闇の神器を求めてるわけじゃないよ。<end>"
@@ -1190,7 +1190,7 @@ english = "Inn<end>"
 
 ["310297"]
 japanese = "<select><value:$20>%3いやいや、礼にはおよびませんよ。\u3000\u3000<line-break><value:$28>さん。<line-break>当然のことをしたまでです。<line-break>それよりも、お気づきになりましたか？<line-break>町の人の雰囲気を…。<line-break>やっと立ち上がる気になられたようだ。<end>いえいえ、礼にはおよびませんよ、\u3000<line-break><value:$28>さん。<line-break>大したことじゃない。<line-break>あなたの方こそ、<line-break>大した仕事をなさったようですね。<line-break>…予定より早く、事が運ぶようだ。<end>ルルアンタにお会いになりましたか。<line-break>あのリルビーの女の子は<line-break>私にとって娘のようなものです。<line-break>ほんとうにやさしい、いい子です。<line-break>またノーブルに来たときには<line-break>お友達になってやってください。<end>"
-english = "<select><value:$20>%3No, no, there's no need to thank me, <value:$28>. I only did what anyone would. More importantly, have you noticed the mood among the townspeople? It seems they've finally found the will to rise up.<end>No, no need to thank me, <value:$28>. It was nothing. You're the one who seems to have accomplished something remarkable. It appears events will unfold sooner than planned.<end>Have you met Lulluantha? That Lilbie girl is like a daughter to me. She's such a kind, good-hearted girl. The next time you come to Noble, please be a friend to her.<end>"
+english = "<select><value:$20>%3No, no, there's no need to thank me, <value:$28>. I only did what anyone would. More importantly, have you noticed the mood among the townspeople? It seems they've finally found the will to rise up.<end>No, no need to thank me, <value:$28>. It was nothing. You're the one who seems to have accomplished something remarkable. It appears events will unfold sooner than planned.<end>Have you met Lulluantha? That Lilubee girl is like a daughter to me. She's such a kind, good-hearted girl. The next time you come to Noble, please be a friend to her.<end>"
 
 ["310298"]
 japanese = "は、は、はは、反乱ですか？<end>"

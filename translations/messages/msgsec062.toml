@@ -174,7 +174,7 @@ english = "Oh, miss, we'll leave the money here, gob!<end>"
 
 ["620043"]
 japanese = "オルナット、<line-break>メシ食ってる場合じゃないゴブ！<end>"
-english = "Ornat, this is no time to be eating, gob!<end>"
+english = "Ornut, this is no time to be eating, gob!<end>"
 
 ["620044"]
 japanese = "ああ、メシ～。<end>"
@@ -186,7 +186,7 @@ english = "Damn, running away is the one thing they're good at! <value:$28>, let
 
 ["620046"]
 japanese = "バイアシオン最大の都市。<line-break>文化と商業の都…。<line-break>\u3000<line-break>さっすがに大きな街よね、<line-break>リベルダムって！<end>"
-english = "Baiashion's largest city, a center of culture and commerce... Liberdam really is enormous!<end>"
+english = "Vyashion's largest city, a center of culture and commerce... Liberdam really is enormous!<end>"
 
 ["620047"]
 japanese = "とにかく、この広い街並みから\u3000\u3000<line-break>あいつら３匹を捜さなきゃ。<line-break>\u3000<line-break>まずは、ギルドに行ってみましょ。<line-break>あいつらがいなくても、<line-break>ついでに冒険者登録できるし。<end>"
@@ -250,7 +250,7 @@ english = "What do we do, Boss, gob?<end>"
 
 ["620062"]
 japanese = "冒険者になって早々に<line-break>問題を起こすのは得策ではないゴブ。<line-break>ここはバラバラに逃げるゴブ。<line-break>マルーン、オルナット、<line-break>スラムで落ち合うゴブ！<line-break>ゴブゴブ団、退却！<end>"
-english = "It would be unwise to cause trouble so soon after becoming adventurers, gob. Split up and run, gob. Maroon, Ornat―we'll meet in the Slums, gob! Gob-Gob Gang, retreat!<end>"
+english = "It would be unwise to cause trouble so soon after becoming adventurers, gob. Split up and run, gob. Maroon, Ornut―we'll meet in the Slums, gob! Gob-Gob Gang, retreat!<end>"
 
 ["620063"]
 japanese = "くすっ、やっぱりゴブリンはバカね。<line-break>合流先を私たちに教えるなんて。<line-break>\u3000<line-break>ついでだからさっさと<line-break>冒険者登録を終わらせちゃって、<line-break>スラムであいつらを待ち伏せましょ。<end>"
@@ -338,7 +338,7 @@ english = "Oof, I let my guard down, gob!<end>"
 
 ["620084"]
 japanese = "マルーン、遅れてすまん。<line-break>オルナットが腹減ったとうるさいから、<line-break>つい買い食いしてしまったゴブ。<end>"
-english = "Sorry I'm late, Maroon. Ornat kept complaining about being hungry, so I stopped to get something to eat, gob.<end>"
+english = "Sorry I'm late, Maroon. Ornut kept complaining about being hungry, so I stopped to get something to eat, gob.<end>"
 
 ["620085"]
 japanese = "親分だって、<line-break>そのあといろいろ寄り道したゴブ。<end>"
@@ -446,7 +446,7 @@ english = "Boss! It's them, gob!<end>"
 
 ["620111"]
 japanese = "なんで、あいつらには<line-break>こっちの居場所がわかるゴブ？\u3000<line-break>\u3000<line-break>オルナット、<line-break>早く船に乗るゴブ！<end>"
-english = "How do they know where we are, gob? Ornatt, hurry and get on the ship, gob!<end>"
+english = "How do they know where we are, gob? Ornut, hurry and get on the ship, gob!<end>"
 
 ["620112"]
 japanese = "あいつらは、エンシャント行きの<line-break>船に乗り込むつもりだわ。<line-break>追うわよ！<end>"
@@ -506,7 +506,7 @@ english = "They found us after all, gob. We'd have been better off boarding norm
 
 ["620126"]
 japanese = "オルナット、<line-break>あきらめてはいかんでゴブ！<end>"
-english = "Ornat, you mustn't give up, gob!<end>"
+english = "Ornut, you mustn't give up, gob!<end>"
 
 ["620127"]
 japanese = "あきらめなければ、<line-break>あの地平の向こうにきっと、<line-break>幸せの大地が待ってるゴブ。<end>"
@@ -710,7 +710,7 @@ english = "Heh. There is no cause for alarm. Though I am sealed within the form 
 
 ["620177"]
 japanese = "破壊神ウルグの円卓騎士\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>名前を知るものネモ様なのだからな！<line-break>\u3000<line-break>さあ、その聖杯の力で俺の封印を解け！<line-break>そして、ともに破壊と絶望の世界を、<line-break>お前たち闇の者の帝国を築くのだ！！<end>"
-english = "For I am Lord Nemo, he who knows the Name, one of Urg the God of Destruction's Knights of the Round Table! Now use the Grail's power to break my seal! Together we shall build a world of destruction and despair, an empire for you creatures of darkness!<end>"
+english = "For I am Lord Nemo, he who knows the Name, one of Ulugh the God of Destruction's Knights of the Round Table! Now use the Grail's power to break my seal! Together we shall build a world of destruction and despair, an empire for you creatures of darkness!<end>"
 
 ["620178"]
 japanese = "うそ臭いゴブ。<end>"
@@ -1146,7 +1146,7 @@ english = "You can summon companions you wish to travel with, or send off those 
 
 ["620286"]
 japanese = "破壊神ウルグの復活に<line-break>用いられた強力な魔道器です。\u3000<line-break>１２種類あるといいます。<line-break>禁断の聖杯は<line-break>その中のひとつですね。<line-break>\u3000<end>"
-english = "They are powerful magical artifacts used to resurrect Urg, the God of Destruction. There are said to be twelve of them, and the Forbidden Grail is one.<end>"
+english = "They are powerful magical artifacts used to resurrect Ulugh, the God of Destruction. There are said to be twelve of them, and the Forbidden Grail is one.<end>"
 
 ["620287"]
 japanese = "禁断の聖杯については<line-break>今、ゴブゴブ団という<line-break>３匹のゴブリンが持っています。<line-break>とりあえず、現在<line-break>彼らはエンシャントにいますよ。<end>"
@@ -1166,7 +1166,7 @@ english = "The other Knights of the Round Table include Argyleshire.<end>"
 
 ["620291"]
 japanese = "破壊神ウルグの円卓騎士の１人です。<line-break>妖艶な美女の姿をしています。<line-break>\u3000<line-break>きわめて、気まぐれで残酷です。<line-break>すでに神器を手に入れるため<line-break>ミイスの村を焼き払っています。<end>"
-english = "She is one of Urg's Knights of the Round Table and takes the form of a bewitching beauty. She is exceptionally capricious and cruel. She has already burned Miis Village to the ground to obtain a divine artifact.<end>"
+english = "She is one of Ulugh's Knights of the Round Table and takes the form of a bewitching beauty. She is exceptionally capricious and cruel. She has already burned Miis Village to the ground to obtain a divine artifact.<end>"
 
 ["620292"]
 japanese = "究極生物を作ろうとして、<line-break>その製法を神器、禁断の聖杯から\u3000\u3000<line-break>得ようと、聖杯をねらっています。<line-break>円卓騎士には他に<line-break>うちのネモなどがいますね。<line-break><end>"

@@ -58,7 +58,7 @@ english = "Come on, calm down. Nemea chose to do it.<end>"
 
 ["1740014"]
 japanese = "あたしたち、ゼグナ鉱山で\u3000\u3000\u3000\u3000\u3000\u3000<line-break>偶然ネメアを見かけたの。<line-break>それで、あとを追ったわけ。<line-break>そしたらネメアはジュサプブロスと<line-break>出くわして戦い始めたの。その時<line-break>ジュサプブロスがこっちに気付いて…。<end>"
-english = "We happened to spot Nemea at Zegna Mine, so we followed him. Then he ran into Jusapburos, and they started fighting. That was when Jusapburos noticed us...<end>"
+english = "We happened to spot Nemea at Zegna Mine, so we followed him. Then he ran into Jusabros, and they started fighting. That was when Jusabros noticed us...<end>"
 
 ["1740015"]
 japanese = "じ、次元のはざまを開いて…\u3000<line-break>わたし…そこに…<line-break>落とされそうに…なって…。<line-break>そ、そしたら…ネメアさんが…<line-break>助けてくれて…<line-break>で、でも…でも…！<end>"
@@ -66,7 +66,7 @@ english = "J-Jusapburos opened the Interdimensional Rift... and I... I was about
 
 ["1740016"]
 japanese = "ネメアがこの子に気を取られたすきに、<line-break>ジュサプブロスは、<line-break>ネメアを次元のはざまに落とした…。<line-break>ネメアは次元のはざまに消えたわ。<line-break>あたしたちの目の前で…。<end>"
-english = "While Nemea was distracted by her, Jusapburos cast him into the Interdimensional Rift. Nemea vanished into the Rift... right before our eyes.<end>"
+english = "While Nemea was distracted by her, Jusabros cast him into the Interdimensional Rift. Nemea vanished into the Rift... right before our eyes.<end>"
 
 ["1740017"]
 japanese = "ネメアさんを死なせてしま…た…。<line-break><value:$28>さん…<line-break>い、いったい…どうすれば…？<end>"
@@ -246,7 +246,7 @@ english = "If you know, then tell us! We haven't got time to waste.<end>"
 
 ["1740061"]
 japanese = "よかろう、汝に教えようぞ。<line-break>ネメアがわらわを訪ねてきたのは<line-break>自らの運命を確認するためじゃ。<line-break>すなわち、ネメアの身体に<line-break>破壊神ウルグが降臨するという<line-break>宿命から逃れられるか否かを。<end>"
-english = "Very well. I shall tell you. Nemea came to me to confirm his own fate: whether he could escape the destiny that would see Urg, the God of Destruction, descend into his body.<end>"
+english = "Very well. I shall tell you. Nemea came to me to confirm his own fate: whether he could escape the destiny that would see Ulugh, the God of Destruction, descend into his body.<end>"
 
 ["1740062"]
 japanese = "そなたに破壊神が宿る…。<line-break>それは抗えぬ運命だ。<line-break>…私は奴にそう答えた。<line-break>それから、奴はその運命と<line-break>戦い続けておるのじゃ。<end>"
@@ -522,15 +522,15 @@ english = "You...!<end>"
 
 ["1740130"]
 japanese = "ジュサプブロス…。<end>"
-english = "Jusapubros...<end>"
+english = "Jusabros...<end>"
 
 ["1740131"]
 japanese = "ジュサプブロス！<line-break>\u3000<line-break>\u3000<line-break>なぜネメア様を<line-break>次元のはざまに落とした！<line-break>貴様のねらいは、破壊神ではないのか？<end>"
-english = "Jusapubros! Why did you cast Lord Nemea into the Interdimensional Rift? Wasn't the God of Destruction what you were after?<end>"
+english = "Jusabros! Why did you cast Lord Nemea into the Interdimensional Rift? Wasn't the God of Destruction what you were after?<end>"
 
 ["1740132"]
 japanese = "破壊神ウルグなど、<line-break>俺にはどうでもいいことだ。<line-break>奴もしょせん、人間と同じだ。<end>"
-english = "I couldn't care less about Urg, the God of Destruction. In the end, he's no different from any human.<end>"
+english = "I couldn't care less about Ulugh, the God of Destruction. In the end, he's no different from any human.<end>"
 
 ["1740133"]
 japanese = "…まさか！<end>"
@@ -650,7 +650,7 @@ english = "We'll have to devise another method. For now, we should withdraw. I'l
 
 ["1740162"]
 japanese = "では、そうさせてもらおう。<line-break>ジュサプブロス、お前も気をつけろ。<end>"
-english = "Very well. I'll do that. Take care, Jusapubros.<end>"
+english = "Very well. I'll do that. Take care, Jusabros.<end>"
 
 ["1740163"]
 japanese = "また、別な方法を考えないとな。<end>"
@@ -834,7 +834,7 @@ english = "...<end>"
 
 ["1740208"]
 japanese = "ジュサプブロス…。<line-break>同化の髪飾りを返してもらおうか。<end>"
-english = "Jusapubros... I'll have the Hair Ornament of Assimilation back now.<end>"
+english = "Jusabros... I'll have the Hair Ornament of Assimilation back now.<end>"
 
 ["1740209"]
 japanese = "執念深い男だね。<line-break>それとも、それが<line-break>イーシャへの想いの強さかな？<line-break>もっとも、<line-break>暑苦しいその想いこそが<line-break>彼女には、いい迷惑かもしれないがな。<end>"

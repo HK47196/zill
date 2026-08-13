@@ -182,7 +182,7 @@ english = "We're going to the island southwest of the continent. There we will r
 
 ["260045"]
 japanese = "大陸の南西にある島とは、<line-break>闇の門の島のことかのう。<line-break>ま、行ってみればわかる事じゃな。<line-break>ネメア殿を破壊神ウルグに<line-break>するわけにはいかぬからのう。<line-break>何としても助けるのじゃ。<end>"
-english = "Could the island southwest of the continent be the Island of the Dark Gate? Well, we shall know once we go. We cannot allow Nemea to become Urg, the God of Destruction. We must save him at any cost.<end>"
+english = "Could the island southwest of the continent be the Island of the Dark Gate? Well, we shall know once we go. We cannot allow Nemea to become Ulugh, the God of Destruction. We must save him at any cost.<end>"
 
 ["260046"]
 japanese = "ネメアさんを破壊神なんかに<line-break>させちゃいけないよ！<line-break>僕は絶対に助けてみせる。<line-break><value:$28>も<line-break>力を貸してくれるよね。<line-break>行こうよ、闇の門の島へ！<end>"
@@ -242,7 +242,7 @@ english = "We must hurry, save Nemea, and prevent the God of Destruction's retur
 
 ["260060"]
 japanese = "ネメアを助けるために<line-break>闇の門の島に行かなくちゃ…。<line-break>バイアシオン南西のあの島よ…。<line-break>破壊神にさせない為にも<line-break>急がないと。<line-break>行きましょ、<value:$28>！<end>"
-english = "We have to go to the Island of the Dark Gate to save Nemea... That island southwest of Baiashion... We must hurry to keep him from becoming the God of Destruction. Let's go, <value:$28>!<end>"
+english = "We have to go to the Island of the Dark Gate to save Nemea... That island southwest of Vyashion... We must hurry to keep him from becoming the God of Destruction. Let's go, <value:$28>!<end>"
 
 ["260061"]
 japanese = "大陸の南西にある島に行けば、<line-break>ネメアを助けることができると<line-break>オルファウスが言っていました。<end>"
@@ -542,7 +542,7 @@ english = "The Forbidden Grail grants wisdom to its bearer, and its power enable
 
 ["260135"]
 japanese = "禁断の聖杯は、ゴブゴブ団を名乗る<line-break>３匹のゴブリンが持っています。<line-break><line-break>破壊神ウルグの円卓の騎士のひとり<line-break>アーギルシャイアも聖杯を狙って<line-break>いますから早めに手に入れてください。<end>"
-english = "The Forbidden Grail is in the hands of three Goblins calling themselves the Gob-Gob Gang. Argyleshire, one of the Knights of the Round Table serving Urg, the God of Destruction, is also after the Grail, so please recover it quickly.<end>"
+english = "The Forbidden Grail is in the hands of three Goblins calling themselves the Gob-Gob Gang. Argyleshire, one of the Knights of the Round Table serving Ulugh, the God of Destruction, is also after the Grail, so please recover it quickly.<end>"
 
 ["260136"]
 japanese = "ゴブゴブ団なんてゴブリンの浅知恵<line-break>にしてはいいネーミングセンスよね。<line-break><line-break>だ・け・ど、世界の平和を守るために<line-break>禁断の聖杯を返してもらわないとね。<line-break>魔人なんかには負けないわよ。<end>"
@@ -594,7 +594,7 @@ english = "………………. It appears to be one of the dark artifacts. The f
 
 ["260148"]
 japanese = "破壊神ウルグを復活させるために<line-break>造られた１２の闇の神器のひとつ…<line-break>ゴブリンもやっかいな物を盗んだな。<line-break>魔人アーギルシャイアに渡すわけにも<line-break>いかない以上、俺たちがゴブリンから<line-break>奪い返すしかないな。<end>"
-english = "One of the twelve dark artifacts created to resurrect Urg, the God of Destruction... Those Goblins stole something truly troublesome. Since we can't let it fall into Argyleshire's hands, we'll have to take it back from them ourselves.<end>"
+english = "One of the twelve dark artifacts created to resurrect Ulugh, the God of Destruction... Those Goblins stole something truly troublesome. Since we can't let it fall into Argyleshire's hands, we'll have to take it back from them ourselves.<end>"
 
 ["260149"]
 japanese = "ゴブゴブ団に奪われし禁断の聖杯。<line-break>闇の神器と呼ばれる聖杯を求め旅を<line-break>する吟遊詩人と勇者…。<line-break>その行く手を阻む魔人アーギルシャイア<line-break>との激しい死闘…うん！\u3000いいよこれ！<line-break>ぼくたち伝説になれるかもしれないね。<end>"
@@ -798,7 +798,7 @@ english = "The Forbidden Grail grants wisdom to its bearer. You're searching for
 
 ["260199"]
 japanese = "禁断の聖杯は、ゴブゴブ団を名乗る<line-break>３匹のゴブリンが持っています。<line-break><line-break>破壊神ウルグの円卓の騎士のひとり<line-break>アーギルシャイアも聖杯を狙って<line-break>いますから早めに手に入れてください。<end>"
-english = "The Forbidden Grail is in the hands of three Goblins calling themselves the Gob-Gob Gang. Argyleshire, one of the Knights of the Round Table serving Urg, the God of Destruction, is also after the Grail, so please obtain it quickly.<end>"
+english = "The Forbidden Grail is in the hands of three Goblins calling themselves the Gob-Gob Gang. Argyleshire, one of the Knights of the Round Table serving Ulugh, the God of Destruction, is also after the Grail, so please obtain it quickly.<end>"
 
 ["260200"]
 japanese = "ゴブゴブ団なんてゴブリンの浅知恵<line-break>にしてはいいネーミングセンスよね。<line-break><line-break>だ・け・ど、世界の平和を守るために<line-break>禁断の聖杯を返してもらわないとね。<line-break>魔人なんかには負けないわよ。<end>"
@@ -850,7 +850,7 @@ english = "………………. Apparently, it's one of the dark artifacts. The f
 
 ["260212"]
 japanese = "破壊神ウルグを復活させるために<line-break>造られた１２の闇の神器のひとつ…<line-break>ゴブリンもやっかいな物を盗んだな。<line-break>魔人アーギルシャイアに渡すわけにも<line-break>いかない以上、俺たちがゴブリンから<line-break>奪い返すしかないな。<end>"
-english = "One of the twelve dark artifacts created to resurrect Urg, the God of Destruction... Those Goblins stole something truly troublesome. Since we can't let it fall into the fiend Argyleshire's hands, we'll have to take it back from the Goblins ourselves.<end>"
+english = "One of the twelve dark artifacts created to resurrect Ulugh, the God of Destruction... Those Goblins stole something truly troublesome. Since we can't let it fall into the fiend Argyleshire's hands, we'll have to take it back from the Goblins ourselves.<end>"
 
 ["260213"]
 japanese = "ゴブゴブ団に奪われし禁断の聖杯。<line-break>闇の神器と呼ばれる聖杯を求め旅を<line-break>する吟遊詩人と勇者…。<line-break>その行く手を阻む魔人アーギルシャイア<line-break>との激しい死闘…うん！\u3000いいよこれ！<line-break>ぼくたち伝説になれるかもしれないね。<end>"

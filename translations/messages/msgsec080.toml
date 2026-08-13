@@ -130,7 +130,7 @@ english = "<value:$28> acquired Manon, a Hero Soul.<end>"
 
 ["800032"]
 japanese = "これで、汝は強大なる源羅の力を得た。<line-break>…いよいよの活躍、期待しているぞ。<line-break>人類の革新のために、な…。<end>"
-english = "Now you possess the mighty power of Genra. I look forward to seeing what you accomplish―for the advancement of humanity...<end>"
+english = "Now you possess the mighty power of Genra. I look forward to seeing what you accomplish―for Humanity's Evolution...<end>"
 
 ["800033"]
 japanese = "エンシャントの廃城で<line-break>暴れておるレムゲドンの亡霊も<line-break>源羅の力でしか倒せぬ。<line-break>行け。そして奴を倒し<line-break>己が得た力に恍惚となるとよい。<line-break>力こそが超人類への道ゆえ、な…<end>"
@@ -142,7 +142,7 @@ english = "Ah! A customer!<end>"
 
 ["800035"]
 japanese = "ああ、このリルビーか。<line-break>ベテランの冒険者だよ。<line-break>名前はクリスピー…。<end>"
-english = "Oh, this lilbie? He's a veteran adventurer. His name's Crispy...<end>"
+english = "Oh, this Lilubee? He's a veteran adventurer. His name's Crispy...<end>"
 
 ["800036"]
 japanese = "ぼくはレルラ＝ロントン。<line-break>キレイを探して旅をする<line-break>さすらいの吟遊詩人だよ。<line-break>さて、それじゃ、<line-break>きみの方は<line-break>何を求めているのかな…？<end>"
@@ -262,7 +262,7 @@ english = "Yes. Crispy is Relra-Lonton's real name. He says it isn't beautiful, 
 
 ["800065"]
 japanese = "レルラ＝ロントンはリルビーだから\u3000<line-break>毒に強い。毒を持つ敵が多い所の<line-break>探索では頼りになるぜ。<end>"
-english = "Relra-Lonton is a lilbie, so he's highly resistant to poison. You can count on him when you're exploring places full of enemies that use poison.<end>"
+english = "Relra-Lonton is a Lilubee, so he's highly resistant to poison. You can count on him when you're exploring places full of enemies that use poison.<end>"
 
 ["800066"]
 japanese = "そっか…。<end>"
@@ -290,7 +290,7 @@ english = "Ho-ho-ho! It certainly is.<end>"
 
 ["800072"]
 japanese = "名画であると同時に、<line-break>歴史資料としても<line-break>非常に価値がございます。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>この７枚の絵に描かれた戦神ソリアスと<line-break>破壊神ウルグの戦いの跡地は、今も<line-break>大陸各地に残っているとのことです。<end>"
-english = "Besides being masterpieces, these paintings are also extremely valuable as historical records. The sites where the War God Solias and Ulg, the God of Destruction, fought―as depicted in these seven paintings―are said to survive across the continent to this day.<end>"
+english = "Besides being masterpieces, these paintings are also extremely valuable as historical records. The sites where the War God Solias and Ulugh, the God of Destruction, fought―as depicted in these seven paintings―are said to survive across the continent to this day.<end>"
 
 ["800073"]
 japanese = "それは興味深いのぉ。<line-break>いつか全部行ってみたいのぉ。<end>"
@@ -318,15 +318,15 @@ english = "Forgive the intrusion. Please enjoy the paintings at your leisure.<en
 
 ["800079"]
 japanese = "大地神バイアスが、<line-break>破壊神ウルグに敗れた様子を描いた作品。<line-break>この後、闇の時代が始まったと伝えられる。<line-break>荘厳な城塞内がその舞台となっている。<end>"
-english = "A work depicting the Earth God Bias's defeat at the hands of Urg, the God of Destruction. It is said that an age of darkness began afterward. The scene is set inside a majestic fortress.<end>"
+english = "A work depicting the Earth God Vyas's defeat at the hands of Ulugh, the God of Destruction. It is said that an age of darkness began afterward. The scene is set inside a majestic fortress.<end>"
 
 ["800080"]
 japanese = "戦神ソリアスと２匹の従者により、<line-break>破壊神ウルグが退けられた戦いを描いた作品。<line-break>両者の激突は、岩山をひとつ吹き飛ばすほどの<line-break>激しさであったと伝えられる。<end>"
-english = "A work depicting the battle in which War God Solias and two attendants drove back Urg, the God of Destruction. Their clash is said to have been fierce enough to obliterate an entire rocky mountain.<end>"
+english = "A work depicting the battle in which War God Solias and two attendants drove back Ulugh, the God of Destruction. Their clash is said to have been fierce enough to obliterate an entire rocky mountain.<end>"
 
 ["800081"]
 japanese = "ソリアスと２匹の従者が撤退を余儀なくされた<line-break>ウルグの１２の円卓騎士襲来を描いた作品。<line-break>この戦いでうがたれた穴に水がたまり、<line-break>乙女の鏡ができたと伝えられる。<end>"
-english = "A work depicting the attack by Urg's twelve Knights of the Round Table, which forced Solias and two attendants to retreat. It is said that water collected in the hole gouged out during the battle, forming Maiden's Mirror.<end>"
+english = "A work depicting the attack by Ulugh's twelve Knights of the Round Table, which forced Solias and two attendants to retreat. It is said that water collected in the hole gouged out during the battle, forming Maiden's Mirror.<end>"
 
 ["800082"]
 japanese = "６種の武器をたずさえた戦神ソリアスが、<line-break>１２の円卓騎士を倒した戦いを描いた作品。<line-break>ソリアス渾身の一撃は、<line-break>大地を深く貫いたと伝えられる。<end>"
@@ -334,15 +334,15 @@ english = "A work depicting the battle in which War God Solias, bearing six type
 
 ["800083"]
 japanese = "魔剣ソルベンジュを手に入れたウルグが、<line-break>ソリアスの従者を倒した戦いを描いた作品。<line-break>ソルベンジュの黒き光は地を裂き、谷を作り、<line-break>従者は、その底で息絶えたと伝えられる。<end>"
-english = "A work depicting the battle in which Urg, having obtained the demonic sword Solvenge, defeated Solias's attendant. It is said that Solvenge's black light split the earth and carved out a valley, and that the attendant died at the bottom of the valley.<end>"
+english = "A work depicting the battle in which Ulugh, having obtained the demonic sword Solvenge, defeated Solias's attendant. It is said that Solvenge's black light split the earth and carved out a valley, and that the attendant died at the bottom of the valley.<end>"
 
 ["800084"]
 japanese = "戦神ソリアスと破壊神ウルグの<line-break>２度目の戦いを描いた作品。<line-break>大地は震え、火を噴き、流れ出した溶岩は、<line-break>地を覆ったと伝えられる。<end>"
-english = "A work depicting the second battle between War God Solias and Urg, the God of Destruction. It is said that the earth shook and spewed fire, and the lava that poured forth covered the land.<end>"
+english = "A work depicting the second battle between War God Solias and Ulugh, the God of Destruction. It is said that the earth shook and spewed fire, and the lava that poured forth covered the land.<end>"
 
 ["800085"]
 japanese = "戦神ソリアスと破壊神ウルグ、<line-break>大陸の形を変えた最後の戦いを描いた作品。<line-break>この戦いのあと、ウルグは眠りにつき、<line-break>ソリアスはこの地を去ったと伝えられる。<end>"
-english = "A work depicting the final battle between War God Solias and Urg, the God of Destruction, which reshaped the continent. It is said that after the battle, Urg went to sleep and Solias left this land.<end>"
+english = "A work depicting the final battle between War God Solias and Ulugh, the God of Destruction, which reshaped the continent. It is said that after the battle, Ulugh went to sleep and Solias left this land.<end>"
 
 ["800086"]
 japanese = "フゴーＶｏｌ１予備メッセージ１<end>"

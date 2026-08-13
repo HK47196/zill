@@ -210,7 +210,7 @@ english = "Hey. We meet again.<end>"
 
 ["1030052"]
 japanese = "今日は、お前さん方の敵だ。<line-break>悪いが、ナイトメアの雫は<line-break>いただく。<end>"
-english = "Today, I'm your enemy. Sorry, but I'll be taking the Nightmare Drop.<end>"
+english = "Today, I'm your enemy. Sorry, but I'll be taking the Nightmare's Tear.<end>"
 
 ["1030053"]
 japanese = "<if><value:$2A><less>50よう、あんた<line-break><value:$28>だな？<end><value:$2B>の<value:$28>…<line-break>お前さんのことだな？<end>"
@@ -218,7 +218,7 @@ english = "<if><value:$2A><less>50Hey, you're <value:$28>, right?<end><value:$28
 
 ["1030054"]
 japanese = "強盗が名乗るのもおこがましいが<line-break>俺はツェラシェルと言う。<line-break>\u3000<line-break>お前さんの持っている<line-break>ナイトメアの雫をもらいに来た。<line-break>悪いな。<end>"
-english = "Making introductions is a bit rich for a robber, but I'm Zelashell. I've come to take the Nightmare Drop you've got. Sorry.<end>"
+english = "Making introductions is a bit rich for a robber, but I'm Zeraschel. I've come to take the Nightmare's Tear you've got. Sorry.<end>"
 
 ["1030055"]
 japanese = "ヴァイ！\u3000ヴィア！<end>"

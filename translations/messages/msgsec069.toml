@@ -274,11 +274,11 @@ english = "You can summon companions you wish to travel with, or send off those 
 
 ["690068"]
 japanese = "破壊神ウルグの復活に用いられた<line-break>強力な魔道器です。<line-break>\u3000<line-break>１２種類あるといいます。<line-break>禁断の聖杯は<line-break>その中のひとつですね。<end>"
-english = "They are powerful magical artifacts used to resurrect Urg, the God of Destruction. There are said to be twelve of them, and the Forbidden Grail is one.<end>"
+english = "They are powerful magical artifacts used to resurrect Ulugh, the God of Destruction. There are said to be twelve of them, and the Forbidden Grail is one.<end>"
 
 ["690069"]
 japanese = "禁断の聖杯については<line-break>今、ゴブゴブ団という<line-break>３匹のゴブリンが持っています。<line-break>とりあえずは、<line-break>エンシャントを探してみると<line-break>彼らに会えると思いますよ。<end>"
-english = "The Forbidden Grail is now in the hands of three Goblins called the Gobgob Gang. For now, try searching Ancient. I believe you'll find them there.<end>"
+english = "The Forbidden Grail is now in the hands of three Goblins called the Gob-Gob Gang. For now, try searching Ancient. I believe you'll find them there.<end>"
 
 ["690070"]
 japanese = "ここにいるブサイクな猫です。\u3000\u3000\u3000\u3000<line-break>口は悪いですけど、無害ですよ。<line-break>\u3000<line-break>もともとは老人星の精霊で<line-break>天空の賢者とも呼ばれていましたが<line-break>地上に堕ちて、魔人になりました。<end>"
@@ -294,7 +294,7 @@ english = "The other Knights of the Round Table include Argyleshire.<end>"
 
 ["690073"]
 japanese = "破壊神ウルグの円卓騎士のひとりです。<line-break>妖艶な美女の姿をしています。<line-break>\u3000<line-break>きわめて、気まぐれで残酷です。<line-break>すでに神器を手に入れるため<line-break>ミイスの村を焼き払っています。<end>"
-english = "This is one of the Knights of the Round Table who serve Urg, the God of Destruction, and takes the form of an alluringly beautiful woman. This Knight is exceedingly capricious and cruel, and has already burned Miis Village to the ground in pursuit of a divine artifact.<end>"
+english = "This is one of the Knights of the Round Table who serve Ulugh, the God of Destruction, and takes the form of an alluringly beautiful woman. This Knight is exceedingly capricious and cruel, and has already burned Miis Village to the ground in pursuit of a divine artifact.<end>"
 
 ["690074"]
 japanese = "究極生物を作ろうとして、<line-break>その製法を禁断の聖杯から得ようと<line-break>ねらっています。<line-break>また、その究極生物の核には<line-break>グフトクを使おうと考えています。<line-break>\u3000<end>"
@@ -330,7 +330,7 @@ english = "Chief, the land of happiness sounds nice, gob, but I'm hungry, gob.<e
 
 ["690082"]
 japanese = "オルナット、お前はいつも食い気ゴブ！<line-break>ちゃんと団長の話を聞くゴブ！<end>"
-english = "Ornat, all you ever think about is food, gob! Listen to the chief, gob!<end>"
+english = "Ornut, all you ever think about is food, gob! Listen to the chief, gob!<end>"
 
 ["690083"]
 japanese = "そうゴブよね、団長！ <line-break>我々、ゴブゴブ団は<line-break>この聖杯の力できっと幸せになるゴブ！<end>"
@@ -370,7 +370,7 @@ english = "Oh, <value:$28>. There you are.<end>"
 
 ["690092"]
 japanese = "む、やはり例によって、凶暴女が<line-break>いいかげん飽き飽きの展開で登場ゴブ！<line-break>\u3000<line-break>ゴブゴブ団、戦略的転進ゴブ！<line-break>マルーン、オルナット、行くでゴブ！<end>"
-english = "Hmm. Right on cue, the savage woman appears for the same tiresome scene yet again, gob! Gob-Gob Gang, make a strategic withdrawal! Maroon, Ornat, let's move, gob!<end>"
+english = "Hmm. Right on cue, the savage woman appears for the same tiresome scene yet again, gob! Gob-Gob Gang, make a strategic withdrawal! Maroon, Ornut, let's move, gob!<end>"
 
 ["690093"]
 japanese = "店主さん、申しわけないが<line-break>さっきの注文は取り消しゴブ。\u3000\u3000<line-break>\u3000<line-break>では、さらばゴブ。<line-break>できれば我々のことは<line-break>もう捜さないでほしいゴブ。<end>"
@@ -870,7 +870,7 @@ english = "Still... so cool and good-looking, yet willful as a child, with a hin
 
 ["690217"]
 japanese = "すごい自信よね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>オッシ先生が言ってたわ。<line-break>実力があっても、かえってそれで<line-break>目をふさがれて、自滅するって。<end>"
-english = "That's quite some confidence. My teacher Ossi said that even real ability can blind you and lead you to your own ruin.<end>"
+english = "That's quite some confidence. Master Ossi said that even real ability can blind you and lead you to your own ruin.<end>"
 
 ["690218"]
 japanese = "なんか、かっこいいよね。セラってさ。<line-break>ちょっと、気になるかな。<line-break>\u3000<line-break>…ってボクが言ったら<line-break><value:$28>は気になる？<end>"

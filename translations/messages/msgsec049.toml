@@ -58,15 +58,15 @@ english = "Hold on. First you turn down my jobs, and now you're bringing me one 
 
 ["490014"]
 japanese = "大事なお客様ってわけだ。<line-break>\u3000<line-break>\u3000<line-break>それともうひとつ。<line-break>ツェラシェルに会いたい。<line-break>奴を呼んでくれ。<end>"
-english = "This is an important customer. One more thing: I want to see Zelashell. Send for Zelashell.<end>"
+english = "This is an important customer. One more thing: I want to see Zeraschel. Send for Zeraschel.<end>"
 
 ["490015"]
 japanese = "ツェラシェル？<line-break>あいつは金に汚いし、<line-break>詐欺師まがいの評判の悪い冒険者だよ？<end>"
-english = "Zelashell? That's a money-grubbing adventurer with a rotten reputation, practically a swindler.<end>"
+english = "Zeraschel? That's a money-grubbing adventurer with a rotten reputation, practically a swindler.<end>"
 
 ["490016"]
 japanese = "そのかわり、一流だ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>奴の腕が必要なんだ。<line-break>\u3000<line-break>ま、そーゆーわけで早急に金もいる。<line-break>以上２件、いつまでにできる？<end>"
-english = "But Zelashell is first-rate. I need Zelashell's skills. And that's why I need the money quickly, too. When can you have both done?<end>"
+english = "But Zeraschel is first-rate. I need Zeraschel's skills. And that's why I need the money quickly, too. When can you have both done?<end>"
 
 ["490017"]
 japanese = "うーん。<line-break>少なくとも、１週間は<line-break>見てもらわんとなあ。<end>"
@@ -114,7 +114,7 @@ english = "Deducting all that... leaves exactly 5,000. Here you go.<end>"
 
 ["490028"]
 japanese = "５０００か…。ツェラシェルを雇うには<line-break>少し足りないな。<end>"
-english = "5,000... That's a little short of what we'd need to hire Zelashell.<end>"
+english = "5,000... That's a little short of what we'd need to hire Zeraschel.<end>"
 
 ["490029"]
 japanese = "少し？\u3000ぜんぜん足りないぞ。<line-break>どうするんだ？<end>"
@@ -126,7 +126,7 @@ english = "Well, I'll work something out.<end>"
 
 ["490031"]
 japanese = "親父、ツェラシェルの方は<line-break>どうなってる？<end>"
-english = "Old man, any word from Zelashell?<end>"
+english = "Old man, any word from Zeraschel?<end>"
 
 ["490032"]
 japanese = "今日にも来ると思うが…。<end>"
@@ -134,7 +134,7 @@ english = "Should be here sometime today...<end>"
 
 ["490033"]
 japanese = "んじゃ、来たら<line-break>酒場で待ってると伝えてくれ。<end>"
-english = "Then when Zelashell arrives, say I'll be waiting at the tavern.<end>"
+english = "Then when Zeraschel arrives, say I'll be waiting at the tavern.<end>"
 
 ["490034"]
 japanese = "んじゃな。俺は酒場で待ってる。<line-break>お前さんもすぐ来てくれ。<end>"
@@ -158,7 +158,7 @@ english = "Hey. I've been waiting for you.<end>"
 
 ["490039"]
 japanese = "これからツェラシェルという<line-break>冒険者に会う。<line-break>色々と問題はあるが、腕は一流の男だ。<line-break>そいつから情報を仕入れて<line-break>俺たちは<line-break>ルルアンタを追いかける。<end>"
-english = "We're about to meet an adventurer named Zelashell. He's got his problems, but his skill is first-rate. Once we've got some information from him, we'll go after Lulluantha.<end>"
+english = "We're about to meet an adventurer named Zeraschel. He's got his problems, but his skill is first-rate. Once we've got some information from him, we'll go after Lulluantha.<end>"
 
 ["490040"]
 japanese = "自分のつらさを乗り越えて、お前さんに<line-break>優しい手を差し伸べてくれた女の子に、<line-break>今度はお前さんが手を差し出すんだ。<line-break>…っと、来たみたいだな。<end>"
@@ -170,7 +170,7 @@ english = "Long time no see, you cheating bastard.<end>"
 
 ["490042"]
 japanese = "お前の依頼内容は大体わかっている。\u3000<line-break>そこの子がエリスの手の者に<line-break>狙われる可能性はあるか。<line-break>それともうひとつ。ルルアンタとかいう<line-break>リルビーの娘の行方。<line-break>この２つを知りたいんだろ？<end>"
-english = "I have a fair idea what you want. First, whether that child there is likely to be targeted by Eris's people. Second, the whereabouts of a Lilbie girl called Lulluantha. Those are the two things you want to know, right?<end>"
+english = "I have a fair idea what you want. First, whether that child there is likely to be targeted by Eris's people. Second, the whereabouts of a Lilubee girl called Lulluantha. Those are the two things you want to know, right?<end>"
 
 ["490043"]
 japanese = "な？<line-break>問題はあるけど一流だろ？<end>"
@@ -274,7 +274,7 @@ english = "Then if you want to see her alive again, you'd better hurry after her
 
 ["490068"]
 japanese = "ありがとうよ、ツェラシェル。<line-break>ついでに頼めるかな？<end>"
-english = "Thanks, Zelashell. Mind doing me one more favor?<end>"
+english = "Thanks, Zeraschel. Mind doing me one more favor?<end>"
 
 ["490069"]
 japanese = "あーいい、言うな。<line-break>言おうとしてる事はわかるし、<line-break>断らせないつもりなのもわかる。<line-break>エリスあたりに時間稼ぎして、<line-break>その子に呼び出しがかかるのを<line-break>遅らせればいいんだろ？<end>"
@@ -390,7 +390,7 @@ english = "After that, he roamed the world as a mercenary and never did settle d
 
 ["490097"]
 japanese = "魔王バロルが倒されたあと、<line-break>実力と声望を買われて<line-break>帝国の将軍に返り咲いたんだが…。<line-break>今度は皇帝エリュマルクの<line-break>ネメアへのいじめじみた振る舞いを<line-break>バカ正直に堂々と批判。<end>"
-english = "After Balor, Demon King, was defeated, Angeerdan's skill and reputation won him a return to the Empire as a general. But then he had the foolhardy honesty to openly criticize Emperor Elyumark's bullying treatment of Nemea.<end>"
+english = "After Balor, Demon King, was defeated, Angeerdan's skill and reputation won him a return to the Empire as a general. But then he had the foolhardy honesty to openly criticize Emperor Elmark's bullying treatment of Nemea.<end>"
 
 ["490098"]
 japanese = "んで皇帝の反感を買って<line-break>処刑されそうになってるところを脱走。<line-break>今や、お尋ね者のご老体だ。<line-break>な？\u3000こんな風に長々と語るより、<line-break>落ち着きがなくて、一生を棒に振った<line-break>老傭兵っつった方がわかりやすいだろ？<end>"
@@ -406,7 +406,7 @@ english = "I'm Angeerdan. A pleasure to meet you, <value:$28>.<end>"
 
 ["490101"]
 japanese = "今、ゼネテスとも話しておったのだが…<line-break>\u3000<line-break>\u3000<line-break>そのルルアンタとかいう\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>リルビーの踊り子らしい少女は、<line-break>確かに、その一座の中におったぞ。<end>"
-english = "Xenetes and I were just discussing this. That girl called Lulluantha, apparently a Lilbie dancer, was definitely with the troupe.<end>"
+english = "Xenetes and I were just discussing this. That girl called Lulluantha, apparently a Lilubee dancer, was definitely with the troupe.<end>"
 
 ["490102"]
 japanese = "しかし、もう、エンシャントへ<line-break>行ってしもうた。<line-break>\u3000<line-break>先に言うておいてくれたら、<line-break>わしが奴らを<line-break>ふん縛っておいたものを。<end>"
@@ -414,7 +414,7 @@ english = "But they've already left for Ancient. If only you'd told me sooner, I
 
 ["490103"]
 japanese = "ゼネテスから事情は聞いた。<line-break>\u3000<line-break>\u3000<line-break>お主が追いかけて、<line-break>お主がそのリルビーを<line-break>救ってやるのじゃ。<end>"
-english = "Xenetes told me what happened. Go after them and save that Lilbie girl.<end>"
+english = "Xenetes told me what happened. Go after them and save that Lilubee girl.<end>"
 
 ["490104"]
 japanese = "なあ、とっつぁん。\u3000<end>"
@@ -570,7 +570,7 @@ english = "Oh, you mean the traveling performers? Yes, they were here.<end>"
 
 ["490142"]
 japanese = "え、リルビーの女の子の踊り子？<line-break>見なかったようだが…。<end>"
-english = "What, a little Lilbie girl who dances? Can't say I saw her...<end>"
+english = "What, a little Lilubee girl who dances? Can't say I saw her...<end>"
 
 ["490143"]
 japanese = "…<value:$28>、つけられたな。<end>"
@@ -586,7 +586,7 @@ english = "What are you snooping around for?<end>"
 
 ["490146"]
 japanese = "まず、旅の一座に隠れみのにしている\u3000<line-break>誘拐組織のこと。<line-break>\u3000<line-break>そして<line-break>その秘密を知って悪者に追われている、<line-break>かわいいリルビーの女の子のことさ。<end>"
-english = "First, a kidnapping ring using a troupe of traveling performers as a front. Then there's the cute little Lilbie girl who learned their secret and now has the villains after her.<end>"
+english = "First, a kidnapping ring using a troupe of traveling performers as a front. Then there's the cute little Lilubee girl who learned their secret and now has the villains after her.<end>"
 
 ["490147"]
 japanese = "それだけ事が悟られていては<line-break>死んでもらうしかないな。<end>"
@@ -658,7 +658,7 @@ english = "Damn, we botched it. We brought her all this way and still let her es
 
 ["490164"]
 japanese = "だが、リルビーのガキひとり、<line-break>こんな森の中で迷ったら、<line-break>モンスターに食われておしまいさ。<end>"
-english = "Still, one little Lilbie brat lost in a forest like this will end up monster food.<end>"
+english = "Still, one little Lilubee brat lost in a forest like this will end up monster food.<end>"
 
 ["490165"]
 japanese = "ああ、だが<line-break>念には念をいれとかねえとな。<line-break>\u3000<line-break>…誰だ！<end>"
@@ -994,7 +994,7 @@ english = "Argyleshire...?<end>"
 
 ["490248"]
 japanese = "破壊神ウルグの円卓騎士と呼ばれる\u3000<line-break>強力な魔人の１人です。<line-break>\u3000<line-break>妖艶な美女で、残酷で気まぐれです。<line-break>闇の神器をひとつ手に入れるために<line-break>ミイスを焼き払ってしまいました。<end>"
-english = "She is one of the powerful demons known as the Knights of the Round Table of Urg, the God of Destruction. A bewitching beauty, she is cruel and capricious. She burned Miis to the ground to obtain one of the Artifacts of Darkness.<end>"
+english = "She is one of the powerful demons known as the Knights of the Round Table of Ulugh, the God of Destruction. A bewitching beauty, she is cruel and capricious. She burned Miis to the ground to obtain one of the Artifacts of Darkness.<end>"
 
 ["490249"]
 japanese = "闇の神器？<end>"
@@ -1002,7 +1002,7 @@ english = "An Artifact of Darkness?<end>"
 
 ["490250"]
 japanese = "強大で凶々しい力を持つ\u3000\u3000<line-break>１２の魔道器だ。<line-break>かつて、破壊神ウルグの<line-break>復活に使われたことがある。<line-break>…ってな感じだっけ？<end>"
-english = "Twelve magical artifacts possessing immense and sinister power. They were once used to resurrect Urg, the God of Destruction. Something like that, right?<end>"
+english = "Twelve magical artifacts possessing immense and sinister power. They were once used to resurrect Ulugh, the God of Destruction. Something like that, right?<end>"
 
 ["490251"]
 japanese = "正解です。<line-break>よく、ご存じですね。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>ただ、彼女は<line-break>その本来の使い方以外のことを<line-break>しようとしています。<end>"
@@ -1122,11 +1122,11 @@ english = "You can summon companions you wish to travel with, or send off those 
 
 ["490280"]
 japanese = "破壊神ウルグの復活に<line-break>用いられた強力な魔道器です。\u3000<line-break>\u3000<line-break>１２種類あるといいます。<line-break>禁断の聖杯は<line-break>その中のひとつですね。<end>"
-english = "It is a powerful magical artifact used to resurrect Urg, the God of Destruction. There are said to be twelve types of magical artifact, and the Forbidden Grail is one of them.<end>"
+english = "It is a powerful magical artifact used to resurrect Ulugh, the God of Destruction. There are said to be twelve types of magical artifact, and the Forbidden Grail is one of them.<end>"
 
 ["490281"]
 japanese = "禁断の聖杯については<line-break>今、ゴブゴブ団という<line-break>３匹のゴブリンが持っています。<line-break>とりあえずは、<line-break>エンシャントを探してみると<line-break>彼らに会えると思いますよ。<end>"
-english = "The Forbidden Grail is currently in the possession of three Goblins known as the Gobgob Gang. For now, try looking for Ancient. I think that will lead you to them.<end>"
+english = "The Forbidden Grail is currently in the possession of three Goblins known as the Gob-Gob Gang. For now, try looking for Ancient. I think that will lead you to them.<end>"
 
 ["490282"]
 japanese = "ここにいるブサイクな猫です。\u3000\u3000\u3000\u3000<line-break>口は悪いけど、無害ですよ。<line-break>もともとは老人星の精霊で<line-break>天空の賢者とも呼ばれた者でしたが<line-break>地上に堕ちて、魔人になりました。<end>"
@@ -1142,7 +1142,7 @@ english = "Other Knights of the Round Table include Argyleshire.<end>"
 
 ["490285"]
 japanese = "破壊神ウルグの円卓騎士の１人です。<line-break>妖艶な美女の姿をしています。<line-break>\u3000<line-break>きわめて、気まぐれで残酷です。<line-break>すでに神器を手に入れるため<line-break>ミイスの村を焼き払っています。<end>"
-english = "She is one of Urg the God of Destruction's Knights of the Round Table and takes the form of a bewitchingly beautiful woman. She is extremely capricious and cruel. She has already burned Miis Village to the ground in pursuit of a divine artifact.<end>"
+english = "She is one of Ulugh the God of Destruction's Knights of the Round Table and takes the form of a bewitchingly beautiful woman. She is extremely capricious and cruel. She has already burned Miis Village to the ground in pursuit of a divine artifact.<end>"
 
 ["490286"]
 japanese = "究極生物を作ろうとして、<line-break>その製法を神器、禁断の聖杯から<line-break>得ようと、聖杯をねらっています。<line-break>円卓騎士には他に<line-break>うちのネモなどがいますね。<line-break>\u3000<end>"

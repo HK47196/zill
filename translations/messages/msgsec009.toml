@@ -2,7 +2,7 @@
 
 ["90000"]
 japanese = "<select><value:$20>%3ここウルカーンには、失われた魔法文明の\u3000\u3000<line-break>技術をよみがえらせようと多くの魔道士が<line-break>集まっています。<line-break>私も、マグマゴーレムの製法から何か得る物は<line-break>ないかとディンガルからやってきたのですが、<line-break>なかなか思うように研究が進まなくて…。<end>火の属性に強いのは風の属性で、弱いのは\u3000<line-break>水の属性なのです。冒険に行く前に装備品の<line-break>属性を確認しといたほうがいいですよ。<end>冒険者ギルドの裏側から通じている<line-break>道の向こうに行ったことありますか？<line-break>モンスターが強くて私は行けないんです。<line-break>あの道の向こうには、<line-break>いったい何があるんでしょうね？<end>"
-english = "<select><value:$20>%3Many mages have gathered here in Ulkaan, hoping to revive the lost arts of magical civilization. I came from Dyneskal myself, hoping to learn something useful from the methods used to create Magma Golems, but my research hasn't gone as well as I'd hoped.<end>Wind is strong against Fire, while Water is weak against it. You should check the elements of your equipment before setting out on an adventure.<end>Have you ever followed the path behind the Adventurers' Guild to see what's beyond it? The monsters are too strong for me to go any farther. I wonder what's out there.<end>"
+english = "<select><value:$20>%3Many mages have gathered here in Ulkarne, hoping to revive the lost arts of magical civilization. I came from Dyneskal myself, hoping to learn something useful from the methods used to create Magma Golems, but my research hasn't gone as well as I'd hoped.<end>Wind is strong against Fire, while Water is weak against it. You should check the elements of your equipment before setting out on an adventure.<end>Have you ever followed the path behind the Adventurers' Guild to see what's beyond it? The monsters are too strong for me to go any farther. I wonder what's out there.<end>"
 
 ["90001"]
 japanese = "<if><value:$2C><less-equal>%9あなた、冒険者としては駆け出しみたいね。<line-break>もし炎竜山に登ったことがないなら<line-break>一度登ってみることをすすめるわ。<line-break>あの辺りには火属性のモンスターが多いけど<line-break>それほど強くないから安心していいわよ。<end><if><value:$2C><less-equal>%29炎竜山や鳳凰山のように<line-break>火属性のモンスターが多いところでは、<line-break>風属性の武器が威力を発揮するのよ。<end><if><value:$2C><less-equal>%49この地のどこかに火属性の禁呪が<line-break>封印されているのよ。<line-break>あたしは神殿が怪しいと思うんだけど…。<end>火属性の禁呪は火の精霊神が守っている<line-break>みたいよ。なんとかして封印を解きたいけど<line-break>精霊神が相手じゃねぇ。<end>"
@@ -30,11 +30,11 @@ english = "<if><value:$2A><less-equal>%49You know Hero Nemea? He's the hero who 
 
 ["90007"]
 japanese = "<select><value:$20>%2元々ウルカーンは古代魔道王国ラドラスの\u3000\u3000\u3000<line-break>火の巫女ウルと、魔法文明を捨てるという<line-break>彼女の意志に賛同した者たちが造ったのじゃ。<line-break>じゃが長い年月が経って、マグマゴーレム<line-break>を研究して魔法文明をよみがえらせようとする<line-break>魔道士たちが集う都市になってしまったのじゃ。<end>火の巫女フレア様の世話はシェムハザ殿が\u3000\u3000<line-break>しておるんじゃ。そのせいかフレア様のお姿を<line-break>ここ２０年くらい見てない気がするのう。<line-break>しかし、わしが若いころから火の巫女はフレア様<line-break>じゃったが、もうかなりのお年じゃろう、<line-break>いつ代替わりするのかのう。<end>"
-english = "<select><value:$20>%2Ulkaan was originally founded by Ladras's Priestess of Fire, Priestess Uru, together with those who shared her resolve to abandon magical civilization. But as the years passed, it ended up as a city where mages gather to revive magical civilization through research into Magma Golems.<end>Lord Shemhaza looks after Flare, the Priestess of Fire. Perhaps that's why I haven't seen Flare in some twenty years. Still, Flare was already the Priestess of Fire when I was young, and she must be quite old by now. I wonder when a successor will take her place.<end>"
+english = "<select><value:$20>%2Ulkarne was originally founded by Uru, the Priestess of Fire of Magic Kingdom Ladras, together with those who shared her resolve to abandon magical civilization. But as the years passed, it ended up as a city where mages gather to revive magical civilization through research into Magma Golems.<end>Lord Shemhaza looks after Flare, the Priestess of Fire. Perhaps that's why I haven't seen Flare in some twenty years. Still, Flare was already the Priestess of Fire when I was young, and she must be quite old by now. I wonder when a successor will take her place.<end>"
 
 ["90008"]
 japanese = "<select><value:$20>%3火の巫女ウルの血をひくフレア様が<line-break>火の神殿で祈ってくださるから、<line-break>わしらは安心して暮らせるんじゃよ。<end>長老のシェムハザ殿はコーンス族でな、<line-break>額に角が生えておる。<line-break>あれが魔力の源なのじゃ。<end>ウルカーンのことは長老のシェムハザ殿が<line-break>すべてしきっておる。おかげで研究に没頭できる<line-break>からありがたいことじゃ。<end>"
-english = "<select><value:$20>%3Because Flare, a descendant of Priestess Uru, offers prayers for us at the Temple of Fire, we can live here in peace.<end>Elder Shemhaza belongs to the Corns people and has a horn on his forehead. That horn is the source of his magical power.<end>Elder Shemhaza runs everything in Ulkaan. Thanks to him, I can concentrate on my research, and I'm grateful for it.<end>"
+english = "<select><value:$20>%3Because Flare, a descendant of Uru, Priestess of Fire, offers prayers for us at the Temple of Fire, we can live here in peace.<end>Elder Shemhaza belongs to the Konsu people and has a horn on his forehead. That horn is the source of his magical power.<end>Elder Shemhaza runs everything in Ulkarne. Thanks to him, I can concentrate on my research, and I'm grateful for it.<end>"
 
 ["90009"]
 japanese = "<if><value:$2A><less-equal>%49かつて魔道王国ラドラスには砂漠や極寒の地など<line-break>人間が生きていけないような場所で快適に暮らす<line-break>ための魔法技術があったそうです。<line-break>その魔法技術を蘇らせることができれば<line-break>竜骨の砂漠のような灼熱の地でも快適に<line-break>暮らせるのですが…。<end><if><value:$2A><less-equal>%100この地の守護者マグマゴーレムも、\u3000\u3000\u3000\u3000\u3000\u3000<line-break>失われた魔法技術によって<line-break>動いているのですよ。<line-break>かつては傭兵がわりに魔道士たちが<line-break>操っていたそうですが、今では操る者も減って<line-break>ただのモンスターになってますけど。<end>私の友人のエストは、闇の神器という道具を<line-break>中心に魔法技術の研究をしているのですよ。<line-break>私たちの研究成果を期待していてください。<end>"
@@ -42,7 +42,7 @@ english = "<if><value:$2A><less-equal>%49The Magic Kingdom Ladras is said to hav
 
 ["90010"]
 japanese = "<select><value:$20>%2ぼくもゾフォルみたいな歴史に残る<line-break>悪の魔道士になるんだ。<end>魔法の勉強してるとすぐに眠くなるんだ。<line-break>だから息抜きに運動しないとね。<end>"
-english = "<select><value:$20>%2I'm going to be an evil mage who goes down in history, just like Zophor.<end>Studying magic always makes me sleepy. That's why I need some exercise now and then for a change of pace.<end>"
+english = "<select><value:$20>%2I'm going to be an evil mage who goes down in history, just like Zofor.<end>Studying magic always makes me sleepy. That's why I need some exercise now and then for a change of pace.<end>"
 
 ["90011"]
 japanese = "ウルカーンメッセージここまで<end>"

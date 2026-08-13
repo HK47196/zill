@@ -22,7 +22,7 @@ english = "A pleasure to meet you. I am Orphaus, master of this manor.<end>"
 
 ["570005"]
 japanese = "俺はゼネテス。<line-break>そしてこっちは<value:$28>。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>いきなりで悪いが<line-break>俺たちは人を探している。<line-break>ルルアンタというリルビーの少女だ。<end>"
-english = "I'm Xenetes, and this is <value:$28>. Sorry to spring this on you, but we're looking for someone―a young Lilbie named Lulluantha.<end>"
+english = "I'm Xenetes, and this is <value:$28>. Sorry to spring this on you, but we're looking for someone―a young Lilubee named Lulluantha.<end>"
 
 ["570006"]
 japanese = "ルルアンタさん…ですか？<end>"
@@ -78,11 +78,11 @@ english = "Argyleshire...?<end>"
 
 ["570019"]
 japanese = "破壊神ウルグの円卓騎士と呼ばれる\u3000<line-break>強力な魔人の１人です。<line-break>\u3000<line-break>妖艶な美女で、残酷で気まぐれです。<line-break>闇の神器をひとつ手に入れるために<line-break>ミイスを焼き払ってしまいました。<end>"
-english = "She is one of the powerful demons known as the Knights of the Round Table of Urg, the God of Destruction. A bewitching beauty, she is cruel and capricious. She burned Miis to the ground merely to obtain one of the Dark Artifacts.<end>"
+english = "She is one of the powerful demons known as the Knights of the Round Table of Ulugh, the God of Destruction. A bewitching beauty, she is cruel and capricious. She burned Miis to the ground merely to obtain one of the Dark Artifacts.<end>"
 
 ["570020"]
 japanese = "闇の神器。強大で凶々しい力を持つ<line-break>１２の魔道器だ。かつて破壊神ウルグの<line-break>復活に使われたことがあるという。<end>"
-english = "The Dark Artifacts. Twelve magical relics of immense and baleful power. They are said to have once been used to resurrect Urg, the God of Destruction.<end>"
+english = "The Dark Artifacts. Twelve magical relics of immense and baleful power. They are said to have once been used to resurrect Ulugh, the God of Destruction.<end>"
 
 ["570021"]
 japanese = "正解です。よく、ご存じですね。<line-break>ただ、彼女はその本来の使い方<line-break>以外のことをしようとしています。<line-break>彼女は究極の合成怪物を作り<line-break>その力でおもしろ半分に世界を<line-break>破壊しようと考えているのです。<end>"
@@ -262,11 +262,11 @@ english = "You can summon companions you wish to travel with, or send off those 
 
 ["570065"]
 japanese = "破壊神ウルグの復活に<line-break>用いられた強力な魔道器です。<line-break>\u3000<line-break>１２種類あるといいます。<line-break>禁断の聖杯は<line-break>その中のひとつですね。<end>"
-english = "It is a powerful magical artifact that was used to resurrect Urg, the God of Destruction. Such artifacts are said to come in twelve types, one of which is the Forbidden Grail.<end>"
+english = "It is a powerful magical artifact that was used to resurrect Ulugh, the God of Destruction. Such artifacts are said to come in twelve types, one of which is the Forbidden Grail.<end>"
 
 ["570066"]
 japanese = "禁断の聖杯については<line-break>今、ゴブゴブ団と名乗る<line-break>３匹のゴブリンが持っています。<line-break>とりあえずは、<line-break>エンシャントを探してみると<line-break>彼らに会えると思いますよ。<end>"
-english = "The Forbidden Grail is currently held by three goblins who call themselves the Gobgob Gang. For now, I think you will meet them if you try looking for Ancient.<end>"
+english = "The Forbidden Grail is currently held by three goblins who call themselves the Gob-Gob Gang. For now, I think you will meet them if you try looking for Ancient.<end>"
 
 ["570067"]
 japanese = "ここにいるブサイクな猫です。\u3000\u3000<line-break>口は悪いですけど、無害ですよ。<line-break>\u3000<line-break>もともとは老人星の精霊で<line-break>天空の賢者とも呼ばれた者でしたが<line-break>地上に堕ちて、魔人になりました。<end>"
@@ -282,7 +282,7 @@ english = "The other Knights of the Round Table include Argyleshire.<end>"
 
 ["570070"]
 japanese = "破壊神ウルグの円卓騎士の１人です。<line-break>妖艶な美女の姿をしています。<line-break>\u3000<line-break>きわめて、気まぐれで残酷です。<line-break>すでに神器を手に入れるため<line-break>ミイスの村を焼き払っています。<end>"
-english = "She is one of Urg the God of Destruction's Knights of the Round Table and takes the form of a bewitching beauty. She is extraordinarily capricious and cruel. She has already burned Miis Village to the ground in pursuit of a divine artifact.<end>"
+english = "She is one of Ulugh the God of Destruction's Knights of the Round Table and takes the form of a bewitching beauty. She is extraordinarily capricious and cruel. She has already burned Miis Village to the ground in pursuit of a divine artifact.<end>"
 
 ["570071"]
 japanese = "究極生物を作ろうとして、<line-break>その製法を神器、禁断の聖杯から<line-break>得ようと、聖杯をねらっています。<line-break>円卓騎士には他に<line-break>うちのネモなどがいますね。<line-break>\u3000<end>"
@@ -410,7 +410,7 @@ english = "Then I'll see you when you leave town! Bye-bye!<end>"
 
 ["570102"]
 japanese = "じゃあ、近いうちに、<line-break>ねこやしきっていう所で<line-break>呼び出してくれるんだ。<line-break>はやく、一緒に旅がしたいな。<line-break>じゃ、またねー。<end>"
-english = "So you'll call for me at a place called Nekoyashiki soon. I can't wait to travel with you. Bye-bye for now!<end>"
+english = "So you'll call for me at a place called Cat Manor soon. I can't wait to travel with you. Bye-bye for now!<end>"
 
 ["570103"]
 japanese = "そう…。<line-break>ちょっと、がっかり。<end>"

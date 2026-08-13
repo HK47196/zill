@@ -18,7 +18,7 @@ english = "Still, I never thought monsters would start roaming this close to the
 
 ["320004"]
 japanese = "元気の薬が<line-break>足りなくなるかもしれない。<line-break>少し集めて帰ろう。<end>"
-english = "We may run short of vitality medicine. Let's gather some before we head back.<end>"
+english = "We may run short of Vitality Medicine. Let's gather some before we head back.<end>"
 
 ["320005"]
 japanese = "ハハ、頼りにしているぞ<line-break><value:$28>。<end>"
@@ -210,7 +210,7 @@ english = "Hmm... It is said that the Dragon King awakens when the world falls i
 
 ["320052"]
 japanese = "この地は神器を守るための結界があり、<line-break>魔物は近寄れぬはず…。<line-break>それが先ほども森で遭遇いたしました。<line-break>このことも関係あるのでしょうか。<line-break>破壊神ウルグの復活の時だとしたら…。<end>"
-english = "A barrier protects the sacred artifact here. Monsters should not be able to approach... Yet we encountered one in the forest earlier. Could that be connected as well? If the time has come for Urg, God of Destruction, to return...<end>"
+english = "A barrier protects the sacred artifact here. Monsters should not be able to approach... Yet we encountered one in the forest earlier. Could that be connected as well? If the time has come for Ulugh, God of Destruction, to return...<end>"
 
 ["320053"]
 japanese = "もしそうならば、ゆゆしき事態だ。<line-break>ロイ、あの森を調査するのだ。<end>"
@@ -334,7 +334,7 @@ english = "I probed your father's memories directly from his corpse.<end>"
 
 ["320083"]
 japanese = "誰に殺されるのかもわからずに<line-break>死んでいくのはかわいそうだから<line-break>教えてあげる。<line-break>私は破壊神ウルグの円卓騎士<line-break>心をなくすものアーギルシャイア。<line-break>じゃあね。<end>"
-english = "It would be a pity for you to die without knowing who killed you, so I'll tell you. I am Argyleshire, the Heartless, a Knight of the Round Table of Urg, God of Destruction. Bye.<end>"
+english = "It would be a pity for you to die without knowing who killed you, so I'll tell you. I am Argyleshire, the Heartless, a Knight of the Round Table of Ulugh, God of Destruction. Bye.<end>"
 
 ["320084"]
 japanese = "<value:$28>、<line-break>ここを離れるんだ。<line-break>村人を避難させてくれ。<end>"

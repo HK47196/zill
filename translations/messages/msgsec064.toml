@@ -18,7 +18,7 @@ english = "You dare order me about, you mere maid? I have come to see Tiana. Sta
 
 ["640004"]
 japanese = "大変、タルテュバ様だわ！<end>"
-english = "Oh no, it's Lord Tarteuba!<end>"
+english = "Oh no, it's Lord Tartuba!<end>"
 
 ["640005"]
 japanese = "<value:$28>様、<line-break>早く隠れてください！<end>"
@@ -34,7 +34,7 @@ english = "Out of my way! Defy me again and I'll have you executed!<end>"
 
 ["640008"]
 japanese = "ま、まぁ、タルテュバ様。<line-break>ごきげんよう。<end>"
-english = "O-oh, Lord Tarteuba. Good day.<end>"
+english = "O-oh, Lord Tartuba. Good day.<end>"
 
 ["640009"]
 japanese = "そろそろ俺に会いたくなるころだと<line-break>思ったんだが…<line-break>違うかい？<end>"
@@ -74,7 +74,7 @@ english = "That day, I set my sights on a band of traveling merchants camped in 
 
 ["640018"]
 japanese = "<if><value:$29><equal>%0中年の男に、リルビーの娘…。<line-break>それに、さえない若造もいたっけな。<line-break>とにかく薄汚い奴らだった。<end><if><value:$29><equal>%1中年の男に、リルビーの娘…。<line-break>それに、あか抜けない小娘もいたっけな。<line-break>とにかく薄汚い奴らだった。<end>"
-english = "<if><value:$29><equal>%0There was a middle-aged man, a Lilbie girl... and some unimpressive young fellow, as I recall. A filthy-looking lot, all of them.<end><if><value:$29><equal>%1There was a middle-aged man, a Lilbie girl... and some unsophisticated little chit, as I recall. A filthy-looking lot, all of them.<end>"
+english = "<if><value:$29><equal>%0There was a middle-aged man, a Lilubee girl... and some unimpressive young fellow, as I recall. A filthy-looking lot, all of them.<end><if><value:$29><equal>%1There was a middle-aged man, a Lilubee girl... and some unsophisticated little chit, as I recall. A filthy-looking lot, all of them.<end>"
 
 ["640019"]
 japanese = "ところが、俺より先に<line-break>そいつらを狙ってる冒険者がいたのさ。<line-break>\u3000<end>"
@@ -114,7 +114,7 @@ english = "Ugh... Wh-who the devil are you?!<end>"
 
 ["640028"]
 japanese = "ひいっ！<line-break>お、俺はタルテュバ様だぞっ！<end>"
-english = "Eek! I-I am Lord Tarteuba!<end>"
+english = "Eek! I-I am Lord Tartuba!<end>"
 
 ["640029"]
 japanese = "や、や、やめろっ！<end>"
@@ -130,7 +130,7 @@ english = "<value:$28>, sheathe your sword!<end>"
 
 ["640032"]
 japanese = "タルテュバ様、今のうちに逃げて！<end>"
-english = "Lord Tarteuba, flee while you can!<end>"
+english = "Lord Tartuba, flee while you can!<end>"
 
 ["640033"]
 japanese = "覚えとけ！\u3000このクズがぁぁ！<end>"
@@ -158,7 +158,7 @@ english = "...right, Tiana?<end>"
 
 ["640039"]
 japanese = "あの…タルテュバ様…。<end>"
-english = "Um... Lord Tarteuba...<end>"
+english = "Um... Lord Tartuba...<end>"
 
 ["640040"]
 japanese = "あ…、<value:$28>様。<end>"
@@ -178,11 +178,11 @@ english = "<value:$28>!<end>"
 
 ["640044"]
 japanese = "くっ、このタルテュバ様に<line-break>ぶつかってくるとは！<line-break>どこに目をつけている！<end>"
-english = "Gah! You dare bump into the great Tarteuba?! Have you no eyes?!<end>"
+english = "Gah! You dare bump into the great Tartuba?! Have you no eyes?!<end>"
 
 ["640045"]
 japanese = "タルテュバ様、<line-break>おやめになってください。<line-break>この方はアトレイア様です。<end>"
-english = "Please stop, Tarteuba. This is Atleia.<end>"
+english = "Please stop, Tartuba. This is Atleia.<end>"
 
 ["640046"]
 japanese = "アトレイア？<end>"
@@ -202,7 +202,7 @@ english = "A woman like you isn't even in Tiana's league. Go back to your room a
 
 ["640050"]
 japanese = "よう、タルテュバ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>頭は冷えたかい。<line-break>\u3000<line-break>のぼせあがって、なに言ってるか<line-break>わかってなかったようだから<line-break>さましてやったのさ。礼はいいぜ。<end>"
-english = "Hey, Tarteuba. Cooled off yet? You were so worked up, you didn't seem to know what you were saying, so I cooled you down. No need to thank me.<end>"
+english = "Hey, Tartuba. Cooled off yet? You were so worked up, you didn't seem to know what you were saying, so I cooled you down. No need to thank me.<end>"
 
 ["640051"]
 japanese = "…ゼネテス。<line-break>こ、この…。<line-break>く、くそっ！\u3000覚えていろ！<end>"
@@ -210,7 +210,7 @@ english = "...Xenetes. Y-you... Damn you! You'll pay for this!<end>"
 
 ["640052"]
 japanese = "礼はいいって言ってるのに。<line-break>タルテュバも義理堅いことだな。<end>"
-english = "I said there was no need to thank me. How very conscientious of you, Tarteuba.<end>"
+english = "I said there was no need to thank me. How very conscientious of you, Tartuba.<end>"
 
 ["640053"]
 japanese = "姫さん。さ、手を。<end>"
@@ -254,7 +254,7 @@ english = "You don't understand... You don't understand at all...<end>"
 
 ["640063"]
 japanese = "今日は…ありがとうございます。<line-break>タルテュバ様に迫られていて<line-break>どうしようかと思っていました。<line-break>…つかれました。<line-break>申しわけありませんが、<line-break>今日はこれで部屋で休みます。<end>"
-english = "Thank you for your help today. Lord Tarteuba was pressuring me, and I didn't know what to do. I'm tired. I'm sorry, but I think I'll go rest in my room now.<end>"
+english = "Thank you for your help today. Lord Tartuba was pressuring me, and I didn't know what to do. I'm tired. I'm sorry, but I think I'll go rest in my room now.<end>"
 
 ["640064"]
 japanese = "また、<line-break>いらっしゃったのですね。<end>"
@@ -942,7 +942,7 @@ english = "How do you know?<end>"
 
 ["640235"]
 japanese = "実はね、タルテュバ様は…<end>"
-english = "Well, the truth is, Lord Tartyuba...<end>"
+english = "Well, the truth is, Lord Tartuba...<end>"
 
 ["640236"]
 japanese = "そっか、お兄ちゃんが話したんだね。<end>"
@@ -954,7 +954,7 @@ english = "Oh, I get it. Big sister <value:$28> told you.<end>"
 
 ["640238"]
 japanese = "お姉ちゃんも<line-break>タルテュバにいじわるされたら<line-break><value:$28>に助けてもらいなよ。<end>"
-english = "If Tartyuba is ever mean to you too, ask <value:$28> to save you.<end>"
+english = "If Tartuba is ever mean to you too, ask <value:$28> to save you.<end>"
 
 ["640239"]
 japanese = "えっ、ええ…<end>"
@@ -974,7 +974,7 @@ english = "Hee hee. What a lively, sweet girl. But why? I wanted to apologize to
 
 ["640243"]
 japanese = "先日のお人形のことです。<line-break>タルテュバ様がお人形を<line-break>取り上げてしまった女の子に…。<line-break>それに民の暮らしを<line-break>見ておくことも大切でしょう？<end>"
-english = "I mean the girl whose doll Lord Tartyuba took the other day. Besides, it is important that I see how the people live, is it not?<end>"
+english = "I mean the girl whose doll Lord Tartuba took the other day. Besides, it is important that I see how the people live, is it not?<end>"
 
 ["640244"]
 japanese = "ふーん、それにしては<line-break>おしとやかだね。<end>"
@@ -982,7 +982,7 @@ english = "Hmm. You're awfully ladylike for her friend.<end>"
 
 ["640245"]
 japanese = "あのね、<line-break><value:$28>お兄ちゃんは<line-break>すっごいんだよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>あたしのお人形、<line-break>タルテュバに取られちゃったんだけど<line-break>お兄ちゃんが取りかえしてくれたの。<end>"
-english = "You know, big brother <value:$28> is amazing! Tartyuba took my doll, but he got it back for me.<end>"
+english = "You know, big brother <value:$28> is amazing! Tartuba took my doll, but he got it back for me.<end>"
 
 ["640246"]
 japanese = "…ひどい傷だ。<line-break>チダフ、しっかりおしよ。<end>"
@@ -1058,7 +1058,7 @@ english = "That's right. I'm her friend.<end>"
 
 ["640264"]
 japanese = "あのね、<line-break><value:$28>お姉ちゃんは<line-break>すっごいんだよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>あたしのお人形<line-break>タルテュバに取られちゃったんだけど<line-break>取りかえしてくれたの。<end>"
-english = "You know, big sister <value:$28> is amazing! Tartyuba took my doll, but she got it back for me.<end>"
+english = "You know, big sister <value:$28> is amazing! Tartuba took my doll, but she got it back for me.<end>"
 
 ["640265"]
 japanese = "いいか、チダフ。<line-break>ちょっと痛むが、少しの辛抱だ。<line-break>男だったらガマンしろ。<end>"

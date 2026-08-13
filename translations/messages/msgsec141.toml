@@ -70,7 +70,7 @@ english = "Stop! Please, stop!<end>"
 
 ["1410017"]
 japanese = "その男は、施文院の暗殺組織<line-break>告死天使の一員だったんだよ。<line-break>\u3000<line-break>それも死の羽音と呼ばれる<line-break>屈指の暗殺者…<line-break>…いや、殺人機械だった。<end>"
-english = "That man was once a member of the Death-Herald Angels, the Shibun Institute's assassination organization. And not just any member―he was one of its finest assassins, known as Death's Wingbeat. No, he was a killing machine.<end>"
+english = "That man was once a member of the Angels of Death, the Inscription Order's assassination organization. And not just any member―he was one of its finest assassins, known as Death's Wingbeat. No, he was a killing machine.<end>"
 
 ["1410018"]
 japanese = "でも、彼は任務に失敗した。<line-break>殺人機械のはずの彼が、おびえという<line-break>不要な感情を持ってしまってね。<line-break>ほら、今も後ろでふるえている。<line-break>無様なものだね。フフフ。<line-break>こうなっては殺人機械も形なしだ。<end>"
@@ -134,7 +134,7 @@ english = "I was a killing machine. I have no right... to live in peace.<end>"
 
 ["1410033"]
 japanese = "ノエル、カフィン…。<line-break>世話になった。<line-break>許してくれとは言わない。<line-break>これで、告死天使たちが<line-break>君たちの前に現れることは<line-break>なくなるはずだ。<end>"
-english = "Noel, Coffin... Thank you for everything. I won't ask you to forgive me. This should keep the Death-Herald Angels from appearing before you again.<end>"
+english = "Noel, Coffin... Thank you for everything. I won't ask you to forgive me. This should keep the Angels of Death from appearing before you again.<end>"
 
 ["1410034"]
 japanese = "待って！\u3000待ってください！<end>"
@@ -646,11 +646,11 @@ english = "How is it, Shester? Are the spirits answering your call?<end>"
 
 ["1410161"]
 japanese = "いや～、はやいもんだよねぇ。<line-break>もう、バイアシオン大陸なんて<line-break>ちっちゃくて見えないわ。<line-break>あんな、ちっぽけな陸の上で<line-break>あたしたちは戦ってたんだよね。<line-break>ここからこっちは自分の国だって。<end>"
-english = "Well, that was quick, wasn't it? The Baiashion Continent's already so tiny I can't even see it. And to think we fought on that little scrap of land, saying, “Everything from here on is our country.”<end>"
+english = "Well, that was quick, wasn't it? The Vyashion Continent's already so tiny I can't even see it. And to think we fought on that little scrap of land, saying, “Everything from here on is our country.”<end>"
 
 ["1410162"]
 japanese = "でも、ディンガルとロストールが<line-break>仲よくなっちゃったから、<line-break>戦争はもうおしまい。<line-break>これから、バイアシオンは<line-break>ひとつになっていくんだろうね。<end>"
-english = "But now that Dyneskal and Rostorl have made peace, the war's over. I suppose Baiashion will gradually become one.<end>"
+english = "But now that Dyneskal and Rostorl have made peace, the war's over. I suppose Vyashion will gradually become one.<end>"
 
 ["1410163"]
 japanese = "ってなると、あたしたちみたいな<line-break>戦うことが仕事っていう物騒な連中は<line-break>出て行くしかないよねぇ、やっぱ。<end>"
@@ -822,7 +822,7 @@ english = "Heh heh heh... I must thank my son as well. He gave me this body―an
 
 ["1410205"]
 japanese = "さあ、いくぞ！<line-break>この竜を手始めに、全ての魔、<line-break>全ての神、すべての愚民、<line-break>我に逆らう者、全てを屠りさり、<line-break>人類の革新を成し遂げるのだ！<line-break>フフフフフ、ハハハハハハ！<end>"
-english = "Come, let us begin! This dragon shall be the first. Every demon, every god, every witless commoner, and all who defy me―I shall slaughter them all and bring about the transformation of mankind! Heh heh heh heh... Ha ha ha ha ha ha!<end>"
+english = "Come, let us begin! This dragon shall be the first. Every demon, every god, every witless commoner, and all who defy me―I shall slaughter them all and bring about Humanity's Evolution! Heh heh heh heh... Ha ha ha ha ha ha!<end>"
 
 ["1410206"]
 japanese = "<value:$28>さーん！<end>"
@@ -1006,7 +1006,7 @@ english = "Come, let's go, <value:$28>!<end>"
 
 ["1410251"]
 japanese = "封士の心得と一緒に、<line-break>何度も語り聞かせたろうが、<line-break><value:$28>。<line-break>あきれた奴じゃ、もう忘れたか？<end>"
-english = "I've told you about it time and again, right alongside the sealer's code, <value:$28>. Honestly, have you forgotten already?<end>"
+english = "I've told you about it time and again, right alongside the Sealer's code, <value:$28>. Honestly, have you forgotten already?<end>"
 
 ["1410252"]
 japanese = "…質問がなければ、<line-break>これにて閣議は終了とする。<end>"
@@ -1022,7 +1022,7 @@ english = "Zagiv rules Dyneskal.<end>"
 
 ["1410255"]
 japanese = "気がつけば、<line-break>ゾフォルの予言通りというわけね…。<end>"
-english = "And before I knew it, Zophor's prophecy had come true.<end>"
+english = "And before I knew it, Zofor's prophecy had come true.<end>"
 
 ["1410256"]
 japanese = "私は予言などには負けまいと…<line-break>信じまいと、戦ってきたつもりなのに…。<end>"
@@ -1066,11 +1066,11 @@ english = "A woman in gallant armor, no less. Thanks to that knight, I can fall 
 
 ["1410266"]
 japanese = "今わかった。ゾフォルの予言も、<line-break>決して完全なものではなかったわ。<end>"
-english = "Now I understand. Even Zophor's prophecy was never infallible.<end>"
+english = "Now I understand. Even Zofor's prophecy was never infallible.<end>"
 
 ["1410267"]
 japanese = "ゾフォルは、あなたのことを…<line-break>私にとって、こんなに大きな存在を<line-break>見ることができなかったのですもの。<end>"
-english = "Zophor failed to foresee you―someone who would come to mean so much to me.<end>"
+english = "Zofor failed to foresee you―someone who would come to mean so much to me.<end>"
 
 ["1410268"]
 japanese = "もう私は、予言などには惑わされない。<line-break>自分の未来を、自分で作る。<line-break>それでいいのよね？<end>"
@@ -1578,7 +1578,7 @@ english = "We are not so weak that we must rely on a god's aid to walk. The time
 
 ["1410394"]
 japanese = "人類の革新は今、<line-break>これより始まるのだ！<end>"
-english = "Humanity's renewal begins here and now!<end>"
+english = "Humanity's Evolution begins here and now!<end>"
 
 ["1410395"]
 japanese = "\u3000\u3000\u3000\u3000傲慢なるものよ…<line-break>\u3000 それは破滅へと通じる道だ…<line-break>\u3000 \u3000愚かなり…、愚かなり…<end>"
@@ -1818,7 +1818,7 @@ english = "What? You're asking if I don't need help? Hmph. Of course I do. The o
 
 ["1410454"]
 japanese = "封士の心得と一緒に、<line-break>何度も語り聞かせたろうが、<line-break><value:$28>。<line-break>あきれた奴じゃ、もう忘れたか？<end>"
-english = "I've told you about it time and again, right alongside the sealer's code, <value:$28>. Honestly, have you forgotten already?<end>"
+english = "I've told you about it time and again, right alongside the Sealer's code, <value:$28>. Honestly, have you forgotten already?<end>"
 
 ["1410455"]
 japanese = "わしは、<line-break>その約束を果たさねばならぬのじゃ。<line-break>是が非でも、わしの、この手でな…。<line-break>しかし、<value:$28>、<line-break>おぬしの手助けも要る。<line-break>なくてはならん。<end>"
@@ -1950,11 +1950,11 @@ english = "We can still have a feast once no one is going hungry, gob.<end>"
 
 ["1410487"]
 japanese = "…す、凄いゴブ。<line-break>オルナットがごちそうを<line-break>あきらめたゴブ！<end>"
-english = "Th-That's incredible, gob. Ornat gave up a feast!<end>"
+english = "Th-That's incredible, gob. Ornut gave up a feast!<end>"
 
 ["1410488"]
 japanese = "…オルナットの言うことが正しいゴブ。<line-break>我ら誇り高いゴブゴブ団は、<line-break>飢えと貧困と戦ってきたゴブが、<line-break>まだ、完全に勝利していないゴブ！<end>"
-english = "Ornat is right, gob. Our proud Gob-Gob Gang has fought hunger and poverty, but our victory is not yet complete, gob!<end>"
+english = "Ornut is right, gob. Our proud Gob-Gob Gang has fought hunger and poverty, but our victory is not yet complete, gob!<end>"
 
 ["1410489"]
 japanese = "マルーン！\u3000ごちそうを変更して<line-break>炊き出しの準備をするゴブ！<end>"
@@ -1966,7 +1966,7 @@ english = "C-Captain... I've never been prouder to belong to the Gob-Gob Gang, g
 
 ["1410491"]
 japanese = "フゴー殿、ダイダロ殿。<line-break>というワケで、<line-break>ゴブゴブ団は前進するゴブ。<line-break>ゴブゴブ団を認めてくれたことは<line-break>嬉しかったゴブ。<line-break>では、さらばゴブ！<end>"
-english = "Lord Hugo, Lord Daidalo. And so, the Gob-Gob Gang presses onward, gob. We were glad to have your recognition. Farewell, gob!<end>"
+english = "Lord Hugo, Lord Daedalo. And so, the Gob-Gob Gang presses onward, gob. We were glad to have your recognition. Farewell, gob!<end>"
 
 ["1410492"]
 japanese = "なるほど…。<line-break>あなたが彼らを推薦した理由が<line-break>わかるような気がします。<line-break>種族や国を超えて助け合う彼らこそ、<line-break>あらたなる世界に相応しい人材<line-break>なのかもしれません。<end>"
@@ -2362,7 +2362,7 @@ english = "Heh heh heh... I must thank my son as well. He gave me this body―an
 
 ["1410590"]
 japanese = "さあ、いくぞ！<line-break>この竜を手始めに、全ての魔、<line-break>全ての神、すべての愚民、<line-break>我に逆らう者、全てを屠りさり、<line-break>人類の革新を成し遂げるのだ！<line-break>フフフフフ、ハハハハハハ！<end>"
-english = "Come, let us begin! This dragon shall be the first. Every demon, every god, every witless commoner, and all who defy me―I shall slaughter them all and bring about the transformation of mankind! Heh heh heh heh... Ha ha ha ha ha ha!<end>"
+english = "Come, let us begin! This dragon shall be the first. Every demon, every god, every witless commoner, and all who defy me―I shall slaughter them all and bring about Humanity's Evolution! Heh heh heh heh... Ha ha ha ha ha ha!<end>"
 
 ["1410591"]
 japanese = "追加メッセージここから<end>"

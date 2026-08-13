@@ -90,7 +90,7 @@ english = "Agh! My eyes!<end>"
 
 ["450022"]
 japanese = "コーンスの少年を助ける<end>"
-english = "Help the Corns boy<end>"
+english = "Help the Konsu boy<end>"
 
 ["450023"]
 japanese = "冒険者のケンカなので放っておく<end>"
@@ -126,7 +126,7 @@ english = "Girldlan, wait!<end>"
 
 ["450031"]
 japanese = "ねえ、まずはお礼を言わせてよ。<line-break>ありがとう。<line-break><line-break>僕はテラネのナッジ。<line-break>見ての通り、コーンスなんだ。<line-break>君は？<end>"
-english = "Hey, let me thank you first. Thank you. I'm Nadge, from Terane. As you can see, I'm a Corns. And you are?<end>"
+english = "Hey, let me thank you first. Thank you. I'm Nadge, from Terane. As you can see, I'm a Konsu. And you are?<end>"
 
 ["450032"]
 japanese = "<value:$28>って言うんだね。<line-break>ありがとう、<value:$28>。<line-break><line-break>君がいなければ、やられていた。<line-break>また、あのときのように…。<end>"
@@ -178,7 +178,7 @@ english = "Being young and full of fire is all well and good, but don't push you
 
 ["450044"]
 japanese = "う…うん、大丈夫。<line-break>ごめんね、巻き込んじゃって…。\u3000<line-break>\u3000<line-break>…まずは、お礼を言わせて。<line-break>ありがとう。僕はテラネのナッジ。<line-break>見ての通り、コーンスなんだ。<end>"
-english = "Y-yeah, I'm all right. Sorry I dragged you into this... But first, let me thank you. Thank you. I'm Nadge, from Terane. As you can see, I'm a Corns.<end>"
+english = "Y-yeah, I'm all right. Sorry I dragged you into this... But first, let me thank you. Thank you. I'm Nadge, from Terane. As you can see, I'm a Konsu.<end>"
 
 ["450045"]
 japanese = "君は？<end>"
@@ -254,7 +254,7 @@ english = "It's about why I set out on this journey.<end>"
 
 ["450063"]
 japanese = "この角を見ればわかると思うけど、<line-break>僕はコーンス族。<line-break>もう、滅びつつある種族の…。<end>"
-english = "You can probably tell from this horn, but I'm one of the Corns, a people already on the verge of extinction.<end>"
+english = "You can probably tell from this horn, but I'm one of the Konsu, a people already on the verge of extinction.<end>"
 
 ["450064"]
 japanese = "最近、人間たちの角狩りで、<line-break>ますます数は減る一方なんだ。<end>"
@@ -382,7 +382,7 @@ english = "You make my skin crawl!<end>"
 
 ["450095"]
 japanese = "コーンスなんて、さっさと、<line-break>絶滅してしまえばいいんだ。<end>"
-english = "I wish the Kohns would just hurry up and go extinct.<end>"
+english = "I wish the Konsu would just hurry up and go extinct.<end>"
 
 ["450096"]
 japanese = "ごめんね、<value:$28>。<line-break>僕が一緒にいたばかりに…。<end>"
@@ -402,7 +402,7 @@ english = "Why did Van's uncle hate me? He said having an orphan around brought 
 
 ["450100"]
 japanese = "…コーンスだってのも嫌ってた。<line-break>モンスターみたいで<line-break>気味が悪いんだって。<end>"
-english = "He hated me for being a Corns, too. Said I was like a monster and gave him the creeps.<end>"
+english = "He hated me for being a Konsu, too. Said I was like a monster and gave him the creeps.<end>"
 
 ["450101"]
 japanese = "ううん、別にいいんだ。\u3000\u3000\u3000\u3000<end>"
@@ -510,7 +510,7 @@ english = "Then I'll sit this one out.<end>"
 
 ["450127"]
 japanese = "へっへっへ！<line-break>コーンスのひとり旅は危ないよ？<line-break>坊ちゃん。<end>"
-english = "Heh heh heh! It's dangerous for a Korns to travel alone, young master.<end>"
+english = "Heh heh heh! It's dangerous for a Konsu to travel alone, young master.<end>"
 
 ["450128"]
 japanese = "もっとも、数が少ないから<line-break>群れをなすこともできないか？<line-break>\u3000<end>"
@@ -518,7 +518,7 @@ english = "Though I suppose there aren't enough of you left to form a herd.<end>
 
 ["450129"]
 japanese = "コーンスだって人間と同じなんだ。<line-break>群れなんて言わないでよ！<line-break>\u3000<end>"
-english = "Korns are just like humans! Don't call it a herd!<end>"
+english = "Konsu are just like humans! Don't call it a herd!<end>"
 
 ["450130"]
 japanese = "へっへっへ、そりゃ悪かった。<line-break>まぁ、こっちにとっては<line-break>ひとりの方が都合がいいがな。<end>"
@@ -526,11 +526,11 @@ english = "Heh heh heh. My mistake. Still, being alone makes things easier for u
 
 ["450131"]
 japanese = "コーンスの坊ちゃん、<line-break>俺たちはあんたの角に用があるんだ。<line-break>\u3000<end>"
-english = "Listen, Korns lad, we're here for your horn.<end>"
+english = "Listen, Konsu lad, we're here for your horn.<end>"
 
 ["450132"]
 japanese = "最近はコーンスの数が減って、<line-break>角もえらく貴重品になってるからな。<end>"
-english = "There aren't many Korns left these days, so their horns have become mighty valuable.<end>"
+english = "There aren't many Konsu left these days, so their horns have become mighty valuable.<end>"
 
 ["450133"]
 japanese = "しかもリベルダムのアンティノが<line-break>最近大量に欲しがってる。<line-break>がっぽり稼げるのは間違いない。<end>"
@@ -542,7 +542,7 @@ english = "So there you have it. Now hand over that horn.<end>"
 
 ["450135"]
 japanese = "できるわけないじゃないか！<line-break>コーンスは角を折られたら、<line-break>ショック死しちゃうんだよ！？<end>"
-english = "Of course not! A Korns will die of shock if you break off the horn!<end>"
+english = "Of course not! A Konsu will die of shock if you break off the horn!<end>"
 
 ["450136"]
 japanese = "そんなのはそっちの勝手だ。<line-break>こっちの知ったことじゃないぜ！<end>"
@@ -686,15 +686,15 @@ english = "Please accept my sincerest apologies. If you don't mind using our roo
 
 ["450171"]
 japanese = "コーンスの角は<line-break>本当に高く売れるんだろうな。<end>"
-english = "Corns horns really do fetch a high price, right?<end>"
+english = "Konsu horns really do fetch a high price, right?<end>"
 
 ["450172"]
 japanese = "ああ、なんでも戦闘用モンスターを作る<line-break>材料になるコーンスの角が、たくさん<line-break>いるらしいですぜ、アニキ。<line-break>リベルダムの武器商人の所に持ってけば<line-break>相当の金になるって！<end>"
-english = "Yeah. Word is, they need loads of Corns horns to make combat monsters, boss. Take them to an arms dealer in Liberdam and you'll get a fortune for them!<end>"
+english = "Yeah. Word is, they need loads of Konsu horns to make combat monsters, boss. Take them to an arms dealer in Liberdam and you'll get a fortune for them!<end>"
 
 ["450173"]
 japanese = "へへっ、そうか。<line-break>じゃ、しょうがねえな。<line-break>コーンスの兄ちゃんよ。死んでもらおうか。<end>"
-english = "Heh. That so? Well, can't be helped. You're going to have to die, Corns.<end>"
+english = "Heh. That so? Well, can't be helped. You're going to have to die, Konsu.<end>"
 
 ["450174"]
 japanese = "待てっ！\u3000悪漢ども！<end>"
@@ -738,7 +738,7 @@ english = "Y-you! You left me completely dumbstruck!<end>"
 
 ["450184"]
 japanese = "くそっ、コーンスを逃がしやがって…！<line-break>せっかくのお宝を…！<end>"
-english = "Damn it! You let the Corns get away! That was our big score!<end>"
+english = "Damn it! You let the Konsu get away! That was our big score!<end>"
 
 ["450185"]
 japanese = "ぶっ殺してやる！<end>"
@@ -774,7 +774,7 @@ english = "Blinding powder! Cheap stuff, but more than enough for you!<end>"
 
 ["450193"]
 japanese = "さーて、コーンスを逃がされた<line-break>腹いせに、ちょっと痛めつけてやるか。<end>"
-english = "Well then, that Corns got away, so I think I'll take it out on you for a while.<end>"
+english = "Well then, that Konsu got away, so I think I'll take it out on you for a while.<end>"
 
 ["450194"]
 japanese = "ぬあ！<line-break>目が…、目があああああああ！！<end>"
@@ -806,7 +806,7 @@ english = "...I can't forgive Girldlan.<end>"
 
 ["450201"]
 japanese = "だけど、ガルドランでさえ、<line-break>コーンスを救うために体を張ったんだ！<end>"
-english = "But even Girldlan put himself in danger to save that Corns!<end>"
+english = "But even Girldlan put himself in danger to save that Konsu!<end>"
 
 ["450202"]
 japanese = "僕は、ガルドランに負けられない。<end>"
@@ -818,7 +818,7 @@ english = "I never want to go through anything as painful as what happened with 
 
 ["450204"]
 japanese = "だから、ここでコーンスを助けた<line-break>ガルドランを助けなきゃならない！<end>"
-english = "So I have to save Girldlan, because he saved that Corns!<end>"
+english = "So I have to save Girldlan, because he saved that Konsu!<end>"
 
 ["450205"]
 japanese = "む、誰かは知らないが、勇者のピンチに<line-break>正義を愛する魂が駆けつけてくれたか！<line-break>\u3000<line-break>正しき魂の諸君！<line-break>ザコは任せたぞ！！<line-break>さらば！<end>"

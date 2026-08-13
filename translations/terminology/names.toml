@@ -903,19 +903,19 @@ source_ids = [287]
 
 [[entry]]
 japanese = "賢そうなコーンス"
-english = "Intelligent-Looking Corns"
+english = "Intelligent-Looking Konsu"
 scope = "speaker_label"
 source_ids = [288]
 
 [[entry]]
 japanese = "弱気なコーンス"
-english = "Timid Corns"
+english = "Timid Konsu"
 scope = "speaker_label"
 source_ids = [289]
 
 [[entry]]
 japanese = "腕ききコーンス"
-english = "Skilled Corns"
+english = "Skilled Konsu"
 scope = "speaker_label"
 source_ids = [290]
 
@@ -1040,7 +1040,7 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "タルテュバの怪物"
-english = "Taltuba's Monster"
+english = "Tartuba's Monster"
 scope = "speaker_label"
 source_ids = [311, 782]
 
@@ -2048,8 +2048,7 @@ source_ids = [725, 726]
 [[entry]]
 japanese = "巫女"
 english = "Priestess"
-scope = "source_records"
-source_ids = [727, 728]
+scope = "global_surface"
 
 [[entry]]
 japanese = "砂漠の一族"
@@ -2173,9 +2172,10 @@ source_ids = [853]
 
 [[entry]]
 japanese = "コーンス"
-english = "Corns"
-scope = "source_records"
-source_ids = [855]
+# English name from official prequel material.
+# Konsu is both singular and plural.
+english = "Konsu"
+scope = "global_surface"
 
 [[entry]]
 japanese = "山賊"
@@ -2233,7 +2233,7 @@ source_ids = [924]
 
 [[entry]]
 japanese = "コーンス兵"
-english = "Corns Soldier"
+english = "Konsu Soldier"
 scope = "source_records"
 source_ids = [951]
 
@@ -2353,8 +2353,7 @@ source_ids = [977]
 [[entry]]
 japanese = "ネガヴァニティア"
 english = "Negavanitia"
-scope = "source_records"
-source_ids = [978]
+scope = "global_surface"
 
 [[entry]]
 japanese = "クロムハート"
@@ -2782,7 +2781,7 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "告死天使アジト"
-english = "Death-Heralding Angels' Hideout"
+english = "Angels of Death Hideout"
 scope = "global_surface"
 
 [[entry]]
@@ -3002,7 +3001,7 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "コーンスの反乱"
-english = "Corns Rebellion"
+english = "Konsu Rebellion"
 scope = "global_surface"
 
 [[entry]]
@@ -3308,7 +3307,7 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "吟遊リルビー"
-english = "Rilby Minstrel"
+english = "Lilubee Minstrel"
 scope = "global_surface"
 
 [[entry]]
@@ -3443,12 +3442,12 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "バイアシオン"
-english = "Baiashion"
+english = "Vyashion"
 scope = "global_surface"
 
 [[entry]]
 japanese = "バイアシオン大陸"
-english = "Baiashion Continent"
+english = "Vyashion Continent"
 scope = "global_surface"
 
 [[entry]]
@@ -3763,7 +3762,7 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "格闘ボルダン"
-english = "Fighter Bordan"
+english = "Fighter Boldan"
 scope = "global_surface"
 
 [[entry]]
@@ -3778,7 +3777,7 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "港のボルダン"
-english = "Harbor Bordan"
+english = "Harbor Boldan"
 scope = "global_surface"
 
 [[entry]]
@@ -3798,7 +3797,7 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "船番ボルダン"
-english = "Boatkeeper Bordan"
+english = "Boatkeeper Boldan"
 scope = "global_surface"
 
 [[entry]]
@@ -4215,7 +4214,7 @@ source_ids = [1075, 20392]
 
 [[entry]]
 japanese = "バイアス"
-english = "Bias"
+english = "Vyas"
 scope = "global_surface"
 
 [[entry]]
@@ -4561,7 +4560,7 @@ scope = "global_surface"
 
 [[entry]]
 japanese = "ツェラシェル"
-english = "Zelashell"
+english = "Zeraschel"
 scope = "global_surface"
 
 [[entry]]
@@ -4627,4 +4626,214 @@ scope = "global_surface"
 [[entry]]
 japanese = "ストラ＝フゴー"
 english = "Stra-Hugo"
+scope = "global_surface"
+
+[[entry]]
+japanese = "アンティノ"
+english = "Antino"
+scope = "global_surface"
+
+[[entry]]
+japanese = "エリュマルク"
+english = "Elmark"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ウルグ"
+english = "Ulugh"
+scope = "global_surface"
+
+[[entry]]
+japanese = "タルテュバ"
+english = "Tartuba"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ゾフォル"
+english = "Zofor"
+scope = "global_surface"
+
+[[entry]]
+japanese = "エルアザル"
+english = "Elazar"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ラミュ"
+english = "Ramuz"
+scope = "global_surface"
+
+[[entry]]
+japanese = "オルナット"
+english = "Ornut"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ジュサプブロス"
+english = "Jusabros"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ダナン"
+english = "Danan"
+scope = "global_surface"
+
+[[entry]]
+japanese = "フルーヴ"
+english = "Fleuve"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ウルカーン"
+# The town and its fire spirit god share this name.
+english = "Ulkarne"
+scope = "global_surface"
+
+[[entry]]
+japanese = "マゴス"
+english = "Magos"
+scope = "global_surface"
+
+[[entry]]
+japanese = "イズキヤル"
+english = "Izkiyal"
+scope = "global_surface"
+
+[[entry]]
+japanese = "イオンズ"
+english = "Ions"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ダイダロ"
+english = "Daedalo"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ボルダン"
+english = "Boldan"
+scope = "global_surface"
+
+[[entry]]
+japanese = "リルビー"
+# English name from official prequel material.
+english = "Lilubee"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ダルケニス"
+# English name from official prequel material.
+english = "Darkenith"
+scope = "global_surface"
+
+[[entry]]
+japanese = "征服帝ランガスター"
+english = "Conqueror Emperor Lancaster"
+scope = "global_surface"
+
+[[entry]]
+japanese = "施文院"
+english = "Inscription Order"
+scope = "global_surface"
+
+[[entry]]
+# Narrative faction form; exact singular speaker labels remain scoped above.
+japanese = "告死天使"
+english = "Angels of Death"
+scope = "global_surface"
+excluded_surfaces = ["告死天使<end>", "告死天使アジト"]
+
+[[entry]]
+japanese = "告死天使の長"
+english = "Leader of the Angels of Death"
+scope = "global_surface"
+
+[[entry]]
+japanese = "東方の博士"
+english = "Scholar from the East"
+scope = "global_surface"
+
+[[entry]]
+japanese = "オッシ先生"
+english = "Master Ossi"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ゴブゴブ団"
+english = "Gob-Gob Gang"
+scope = "global_surface"
+
+[[entry]]
+japanese = "魔道王国"
+english = "Magic Kingdom"
+scope = "global_surface"
+
+[[entry]]
+japanese = "農場の間"
+english = "Farm Chamber"
+scope = "global_surface"
+
+[[entry]]
+japanese = "元気の薬"
+english = "Vitality Medicine"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ナイトメアの雫"
+english = "Nightmare's Tear"
+scope = "global_surface"
+
+[[entry]]
+japanese = "千年樹"
+english = "Thousand-Year Tree"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ねこやしき"
+english = "Cat Manor"
+scope = "global_surface"
+
+[[entry]]
+japanese = "移動の間"
+english = "Transit Chamber"
+scope = "global_surface"
+
+[[entry]]
+japanese = "貯水の間"
+english = "Water Reservoir Chamber"
+scope = "global_surface"
+
+[[entry]]
+japanese = "地の巫女"
+english = "Priestess of Earth"
+scope = "global_surface"
+
+[[entry]]
+japanese = "土の巫女"
+english = "Priestess of Earth"
+scope = "global_surface"
+
+[[entry]]
+japanese = "水の巫女"
+english = "Priestess of Water"
+scope = "global_surface"
+
+[[entry]]
+japanese = "火の巫女"
+english = "Priestess of Fire"
+scope = "global_surface"
+
+[[entry]]
+japanese = "風の巫女"
+english = "Priestess of Wind"
+scope = "global_surface"
+
+[[entry]]
+japanese = "ロストール復興団"
+english = "Rostorl Restoration League"
+scope = "global_surface"
+
+[[entry]]
+japanese = "復興団"
+english = "Restoration League"
 scope = "global_surface"

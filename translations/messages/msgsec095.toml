@@ -54,7 +54,7 @@ english = "Oh, inferior creatures are so terribly crude! You always try to settl
 
 ["950013"]
 japanese = "このつまらない世界をありがたがって<line-break>うろついて、冒険だって喜べるのも<line-break>その程度の低い脳みそあってのことね。<line-break>失礼するわ。外界を見ろってラミュ様は<line-break>おっしゃるけど、こんなつまらない世界<line-break>見る価値はないもの。森に戻るわ。<end>"
-english = "Only with brains as inferior as yours could you roam this dull world, cherish it, and delight in calling that adventure. Good day. Lady Ramyu tells me to see the outside world, but a world this tedious isn't worth seeing. I'm going back to the forest.<end>"
+english = "Only with brains as inferior as yours could you roam this dull world, cherish it, and delight in calling that adventure. Good day. Lady Ramuz tells me to see the outside world, but a world this tedious isn't worth seeing. I'm going back to the forest.<end>"
 
 ["950014"]
 japanese = "いや、世界は驚きに満ちている<end>"
@@ -90,7 +90,7 @@ english = "The castle in Rostorl was dull. All it had was a guard standing at th
 
 ["950022"]
 japanese = "あ、あとは、ウルカーンもつまんない。<line-break>な、何もなかったもん。ダメダメよ！<end>"
-english = "A-and Urkaan was dull too. There was n-nothing there. No good at all!<end>"
+english = "A-and Ulkarne was dull too. There was n-nothing there. No good at all!<end>"
 
 ["950023"]
 japanese = "あ、あとは…何って…、何もかもよ！！<line-break>下等生物のくせに細かくてよぉ！！<line-break>\u3000<line-break>アタクシはつまんないって言う理由を<line-break>言ったんだから、今度はあなたが<line-break>世界はすばらしいって理由を言う番よ！<end>"
@@ -182,11 +182,11 @@ english = "Gah... You irritating fly!<end>"
 
 ["950045"]
 japanese = "我こそはウルグの円卓騎士、\u3000\u3000\u3000\u3000<line-break>打ち砕く者、ダナン。<line-break>いにしえのドワーフの勇者…。<line-break>我が城に、<line-break>のこのこ入り込む者がいようとは、<line-break>このダナンも、なめられたものよ…。<end>"
-english = "I am Dannan the Crusher, one of Urg's Knights of the Round Table. An ancient Dwarf Hero... To think anyone would dare stroll into my castle. It seems even I, Dannan, have been sorely underestimated...<end>"
+english = "I am Danan the Crusher, one of Ulugh's Knights of the Round Table. An ancient Dwarf Hero... To think anyone would dare stroll into my castle. It seems even I, Danan, have been sorely underestimated...<end>"
 
 ["950046"]
 japanese = "我が異名の由来を知らぬか！？<line-break>ダナンの前に出た者は、ひとり残らず、<line-break>この闇の神器、憤怒の鎚の餌食よ…。<end>"
-english = "Do you not know how I earned my epithet?! Every last one who has stood before Dannan has fallen prey to this Dark Artifact, the Hammer of Wrath...<end>"
+english = "Do you not know how I earned my epithet?! Every last one who has stood before Danan has fallen prey to this Dark Artifact, the Hammer of Wrath...<end>"
 
 ["950047"]
 japanese = "熟れた果実のごとく、<line-break>その頭、<line-break>かち割ってくれようぞ！<end>"
@@ -202,7 +202,7 @@ english = "<if><value:$01><equal>2It's over... Are you all right, <value:$28>?<e
 
 ["950050"]
 japanese = "<if><value:$01><equal>2早くここを出ましょ。 <end><if><value:$01><equal>5あばよ、ダナン。<line-break>お前もかわいそうな奴だナン。<line-break>…ププププッ。 <end><if><value:$01><equal>6帰ろう、<value:$28>。<line-break>なんだか、早くここを出たいよ。 <end><if><value:$01><equal>7それじゃあ、<line-break>帰りましょう。 <end><if><value:$01><equal>13…帰るぞ。 <end><if><value:$01><equal>10そんじゃ、行こうぜ。 <end><if><value:$01><equal>14さぁて、帰って酒でも飲むかの。\u3000<line-break>\u3000<line-break>\u3000<line-break>伝説ではボルキスに敗れたあと<line-break>邪竜シャンマと融合したというのに<line-break>あっけなかったのお！\u3000ガハハ！ <end><if><value:$01><equal>15さあ、<value:$28>、<line-break>帰ろう。 <end><if><value:$01><equal>17さあ、<value:$28>。<line-break>このカビ臭い城から<line-break>１秒でも早く出るのよー！ <end><if><value:$01><equal>21帰るぞ。 <end><if><value:$01><equal>23さあ、帰ろう<line-break><value:$28>。<end><if><value:$01><equal>27さあ、帰ろう<end><if><value:$01><equal>26さあ、ここを出ようか…。<end><if><value:$01><equal>24それじゃあ、<line-break>帰りましょう、<value:$28>様<end><if><value:$01><equal>25それじゃあ、<line-break>帰りましょう。 <end><if><value:$01><equal>192…嫌な予感がします。<line-break>早くここから離れましょう。<end><if><value:$01><equal>193さあ、<value:$28>さん。<line-break>早く帰りましょう。<end><if><value:$01><equal>194邪竜シャンマと融合した者が<line-break>この程度で…？<line-break><line-break>…いや考えすぎか。<line-break>さあ、帰ろう。<end><if><value:$01><equal>191本当に倒せたのかしら…？<line-break><line-break><line-break>…ふ。私、魔人を過剰に恐がりすぎよね。<line-break>とにかく、ここを出ないと。<end><if><value:$01><equal>190…倒せたのか？<line-break>経験上、魔人は油断できない。<line-break>倒せたと思ってもな。<line-break>…いずれにせよ、<line-break>急いでここを離れたほうがいいな。<end>それじゃあ、<line-break>帰ろうよ、<value:$28>。 <end>"
-english = "<if><value:$01><equal>2Let's hurry and get out of here.<end><if><value:$01><equal>5So long, Dannan. You're one sorry Dannan... Pffft!<end><if><value:$01><equal>6Let's go home, <value:$28>. I don't know why, but I want to get out of here as soon as we can.<end><if><value:$01><equal>7Well then, let's go home.<end><if><value:$01><equal>13We're leaving.<end><if><value:$01><equal>10All right, let's go.<end><if><value:$01><equal>14Well then, shall we go home and have a drink? The legends say Dannan merged with the Evil Dragon Shanma after being defeated by Borkis, yet that was over in no time! Gahaha!<end><if><value:$01><equal>15Come on, <value:$28>. Let's go home.<end><if><value:$01><equal>17Come on, <value:$28>! We're getting out of this musty castle as fast as we can!<end><if><value:$01><equal>21We're leaving.<end><if><value:$01><equal>23Come on, <value:$28>. Let's go home.<end><if><value:$01><equal>27Come on, let's go home.<end><if><value:$01><equal>26Well, shall we get out of here...?<end><if><value:$01><equal>24Well then, let us return, <value:$28>.<end><if><value:$01><equal>25Well then, let's go home.<end><if><value:$01><equal>192I have a bad feeling about this... We should get away from here quickly.<end><if><value:$01><equal>193Come, <value:$28>. Let's hurry home.<end><if><value:$01><equal>194Could someone who merged with the Evil Dragon Shanma really be defeated that easily...? No, I'm probably overthinking it. Come on, let's go home.<end><if><value:$01><equal>191Did we really win...? Hm. I suppose I'm too afraid of demons. In any case, we need to get out of here.<end><if><value:$01><equal>190Is it really over...? In my experience, you can never let your guard down around demons, even when you think the fight is finished. Either way, we'd better leave this place quickly.<end>Well then, let's go home, <value:$28>.<end>"
+english = "<if><value:$01><equal>2Let's hurry and get out of here.<end><if><value:$01><equal>5So long, Danan. You're one sorry Danan... Pffft!<end><if><value:$01><equal>6Let's go home, <value:$28>. I don't know why, but I want to get out of here as soon as we can.<end><if><value:$01><equal>7Well then, let's go home.<end><if><value:$01><equal>13We're leaving.<end><if><value:$01><equal>10All right, let's go.<end><if><value:$01><equal>14Well then, shall we go home and have a drink? The legends say Danan merged with the Evil Dragon Shanma after being defeated by Borkis, yet that was over in no time! Gahaha!<end><if><value:$01><equal>15Come on, <value:$28>. Let's go home.<end><if><value:$01><equal>17Come on, <value:$28>! We're getting out of this musty castle as fast as we can!<end><if><value:$01><equal>21We're leaving.<end><if><value:$01><equal>23Come on, <value:$28>. Let's go home.<end><if><value:$01><equal>27Come on, let's go home.<end><if><value:$01><equal>26Well, shall we get out of here...?<end><if><value:$01><equal>24Well then, let us return, <value:$28>.<end><if><value:$01><equal>25Well then, let's go home.<end><if><value:$01><equal>192I have a bad feeling about this... We should get away from here quickly.<end><if><value:$01><equal>193Come, <value:$28>. Let's hurry home.<end><if><value:$01><equal>194Could someone who merged with the Evil Dragon Shanma really be defeated that easily...? No, I'm probably overthinking it. Come on, let's go home.<end><if><value:$01><equal>191Did we really win...? Hm. I suppose I'm too afraid of demons. In any case, we need to get out of here.<end><if><value:$01><equal>190Is it really over...? In my experience, you can never let your guard down around demons, even when you think the fight is finished. Either way, we'd better leave this place quickly.<end>Well then, let's go home, <value:$28>.<end>"
 
 ["950051"]
 japanese = "…待つがよい<end>"

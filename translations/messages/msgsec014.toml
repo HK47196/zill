@@ -18,7 +18,7 @@ english = "<if><value:$23><equal>0Oh, <value:$28>, is that you?<end><select><val
 
 ["140004"]
 japanese = "<if><value:$23><equal>0おや、<value:$28>じゃないか。<line-break>毎日きちんと食べて寝ないとダメだよ。<line-break>ナッジにもよく言っときな。<end><select><value:$20>%3この町の森の外れにはナッジっていう<line-break>コーンスの孤児が住んでる小屋があるのよ。<end>コーンス族は額に角が生えてるのさ。<line-break>気持ち悪がる人も多いけど、<line-break>あたしはかっこいいと思うよ。<end>宿屋の親父は冒険者が大嫌いなんだ。<line-break>大事な息子をガルドランとかいう<line-break>冒険者にケガさせられてね。<line-break>冒険者は絶対に泊めるものか！<line-break>…って怒ってたよ。<end>"
-english = "<if><value:$23><equal>0Why, <value:$28>, there you are. Make sure you're eating and sleeping properly every day. Tell Nadge the same.<end><select><value:$20>%3There's a hut at the edge of the woods outside town where a Corns orphan named Nadge lives.<end>The Corns have horns growing from their foreheads. A lot of people find them creepy, but I think they look impressive.<end>The innkeeper can't stand adventurers. An adventurer named Girldlan injured his precious son. He was furious, shouting, “I'll never let adventurers stay here!”<end>"
+english = "<if><value:$23><equal>0Why, <value:$28>, there you are. Make sure you're eating and sleeping properly every day. Tell Nadge the same.<end><select><value:$20>%3There's a hut at the edge of the woods outside town where a Konsu orphan named Nadge lives.<end>The Konsu have horns growing from their foreheads. A lot of people find them creepy, but I think they look impressive.<end>The innkeeper can't stand adventurers. An adventurer named Girldlan injured his precious son. He was furious, shouting, “I'll never let adventurers stay here!”<end>"
 
 ["140005"]
 japanese = "なんか、あそこのおじいさんの視線<line-break>腰のあたりにからみつくのよねえ。<end>"
@@ -38,11 +38,11 @@ english = "<if><value:$2A><less-equal>%49Hey, youngster! Don't push yourself too
 
 ["140009"]
 japanese = "<select><value:$20>%4腕の立つ冒険者になるには経験を積むことだ。<line-break>経験を積むにはギルドで引き受けた仕事を<line-break>確実にこなしていくことじゃ。<end>ここは冒険者に冷たい町なんじゃ。<line-break>なんでも、町の有力者である<line-break>宿屋の親父が冒険者嫌いらしい…。<end>宝箱を見つけても、むやみに開けぬほうが<line-break>いいぞ。特に難易度の高い罠はのう。<line-break>何事もあせらず、いそがずじゃ。<end>コーンス族の角には魔力が宿っておる。<line-break>それゆえに研究の材料として角を欲しがる<line-break>魔道士と角狩りを行う冒険者が存在するのじゃ。<end>"
-english = "<select><value:$20>%4To become a skilled adventurer, you need experience. And to gain experience, you must reliably complete the jobs you take from the Guild.<end>This town isn't kind to adventurers. Apparently the innkeeper, one of the town's leading citizens, hates them...<end>Don't open every treasure chest you find without a thought, especially if the trap is a difficult one. Whatever you do, be patient and never rush.<end>Magic resides in the horns of the Corns. That is why some sorcerers seek the horns for research, while certain adventurers hunt the Corns for them.<end>"
+english = "<select><value:$20>%4To become a skilled adventurer, you need experience. And to gain experience, you must reliably complete the jobs you take from the Guild.<end>This town isn't kind to adventurers. Apparently the innkeeper, one of the town's leading citizens, hates them...<end>Don't open every treasure chest you find without a thought, especially if the trap is a difficult one. Whatever you do, be patient and never rush.<end>Magic resides in the horns of the Konsu. That is why some sorcerers seek the horns for research, while certain adventurers hunt the Konsu for them.<end>"
 
 ["140010"]
 japanese = "<select><value:$20>%2冒険に出るならケガをしたときのために<line-break>元気の薬くらいは買っておきなさい。<end>道具屋によって売っている商品が違うから、<line-break>どこで何を売っているのかを覚えておいた<line-break>ほうがいいわよ。<end>"
-english = "<select><value:$20>%2If you're heading out on an adventure, at least buy some medicine to restore your strength in case you get hurt.<end>Every item shop carries different wares, so you should remember what each one sells.<end>"
+english = "<select><value:$20>%2If you're heading out on an adventure, at least buy some Vitality Medicine in case you get hurt.<end>Every item shop carries different wares, so you should remember what each one sells.<end>"
 
 ["140011"]
 japanese = "<if><value:$2C><less-equal>%9武器は重ければ重いほど１回の攻撃で与える<line-break>ダメージが増えるが、動きが鈍くなる。<line-break>武器の形状を変えるときはよく考えることだ。<end><if><value:$2C><less-equal>%29未開の森には行ったか？<line-break>森の先には海賊のアジトがあるという噂を<line-break>聞いたことがある。あくまで噂だがな。<end><if><value:$2C><less-equal>%49しぶきの群島は謎だらけの島だ。<line-break>島に向かって、帰った者はいないという。<end>俺の斧は旅立ったときからずっと使っている。<line-break>鍛えに鍛え上げたので、かなり強いぞ。<line-break>あんたの武器はどうだい？<end>"
@@ -58,7 +58,7 @@ english = "<if><value:$23><equal>0Well, if it isn't <value:$28>. Have you come t
 
 ["140014"]
 japanese = "<select><value:$20>%2天空神ノトゥーン様、お救いください。<line-break>救世主エルファス様は、<line-break>やがて破壊神ウルグが復活すると仰せなのです。<end>神よ！\u3000わたくしの祈りが届いたなら、<line-break>どうか、世界を破滅から救ってください。<end>"
-english = "<select><value:$20>%2Sky God Notun, save us. Elfas the Savior has said that Urg, God of Destruction, will one day rise again.<end>O God! If my prayer has reached you, please save the world from destruction.<end>"
+english = "<select><value:$20>%2Sky God Notun, save us. Elfas the Savior has said that Ulugh, God of Destruction, will one day rise again.<end>O God! If my prayer has reached you, please save the world from destruction.<end>"
 
 ["140015"]
 japanese = "<select><value:$33>今回の霊峰トールへのお参りは５００回目、<line-break>俺の４０年のお参り人生のひとつの節目だ。<line-break>気合い入れていくぞっ！<end>今回の霊峰トールへのお参りは５００回目、<line-break>俺の４０年のお参り人生のひとつの節目だ。<line-break>気合い入れていくぞっ！<end>俺は見ての通り船長をやっておる。<line-break>仕事の休みを利用しては霊峰トールへ<line-break>お参りしておるのだ。<end>霊峰トールへ登る前にお参りの無事を祈り、<line-break>帰ってきたら無事に帰ったことを感謝する。<line-break>ずーっとそうやってきておるのだ。<end>俺が無事に航海できるのも、<line-break>天空神ノトゥーン様のおかげだ。<line-break>その感謝の気持ちを態度で現すのが巡礼なのだ。<end>リベルダムが壊れたせいで仕事が減ったのだ。<line-break>これで今まで以上にお参りに励めるぞ。<line-break>今度はアルノートゥンにでも行くかな。<end>巡礼は、途中でモンスターや盗賊に襲われたり<line-break>して、ただ歩いていくだけではないのだぞ。<line-break>いわゆる冒険なのだ。<end>エルファス様も神に祈れとおっしゃっておる。<line-break>君も世界を救うために祈りたまえよ。<end>"

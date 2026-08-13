@@ -34,7 +34,7 @@ english = "Sacred seats like that exist only in Elz, the city founded by the Pri
 
 ["1160008"]
 japanese = "同じくラドラスの火の巫女ウルと<line-break>縁があるとはいっても、この地には\u3000<line-break>火の精霊神の聖なる座所はない。<line-break>巫女の縁のある地に精霊神の座所が<line-break>あるなら、地の精霊神の座所は<line-break>いったい、どこにあるんだね？<end>"
-english = "This place may likewise have ties to Priestess Uru, Ladras's Priestess of Fire, but there is no sacred seat of the elemental god of fire here. If every land connected to a priestess held the seat of an elemental god, then where, exactly, would the seat of the elemental god of earth be?<end>"
+english = "This place may likewise have ties to Uru, Ladras's Priestess of Fire, but there is no sacred seat of the elemental god of fire here. If every land connected to a priestess held the seat of an elemental god, then where, exactly, would the seat of the elemental god of earth be?<end>"
 
 ["1160009"]
 japanese = "伝説では、地の巫女ズゥは\u3000\u3000\u3000\u3000<line-break>ラドラスの街を砂漠の中へと<line-break>沈めたという。<line-break>ならば地の精霊神の座所は、砂漠の<line-break>地下深くにあるとでもいうのかね？<end>"
@@ -50,7 +50,7 @@ english = "But just as you have your adventure, we have our own lives here. Plea
 
 ["1160012"]
 japanese = "すまない。言葉が厳しかった。<line-break>ただ、わかってほしかったのだよ。<line-break>私もこの街の長老なのでな。<line-break>この町ウルカーンは、別に、<line-break>旅人をうとんでいるわけではない。<line-break>また、来たまえ。<end>"
-english = "I'm sorry. My words were harsh. I only wanted you to understand. I am an elder of this town, after all. Urkaan does not shun travelers. Do come again.<end>"
+english = "I'm sorry. My words were harsh. I only wanted you to understand. I am an elder of this town, after all. Ulkarne does not shun travelers. Do come again.<end>"
 
 ["1160013"]
 japanese = "どうしたの？<line-break>キミ、元気ないよ？<end>"
@@ -58,7 +58,7 @@ english = "What's wrong? You seem kind of down.<end>"
 
 ["1160014"]
 japanese = "ふぅん、ウルカーンの長老に<line-break>そんなこと言われたんだ。<end>"
-english = "Oh. So that's what the elder of Urukahn told you.<end>"
+english = "Oh. So that's what the elder of Ulkarne told you.<end>"
 
 ["1160015"]
 japanese = "でも、長老の言うこと、ウソだよ。<line-break>ボク、巫女だからわかっちゃうんだ。<end>"
@@ -66,19 +66,19 @@ english = "But what the elder said isn't true. I can tell because I'm a priestes
 
 ["1160016"]
 japanese = "うん。ボク、感じるよ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>火の巫女はここにいる。<line-break>彼女の名前は…フレア…。<line-break>この町のどこかに、きっとボクたちが<line-break>見つけていない道があるんだよ。<line-break>調べてみようよ、<value:$28>。<end>"
-english = "Yes. I can feel it. The Fire Priestess is here. Her name is... Flare... There must be a path somewhere in this town that we haven't found yet. Let's look for it, <value:$28>.<end>"
+english = "Yes. I can feel it. The Priestess of Fire is here. Her name is... Flare... There must be a path somewhere in this town that we haven't found yet. Let's look for it, <value:$28>.<end>"
 
 ["1160017"]
 japanese = "でも、ボクは、<line-break>ここに火の巫女もいるし<line-break>火の精霊神殿もあると思うけど？\u3000\u3000<line-break>だってさ、ラドラスにも地の精霊神の<line-break>座所への道が隠されてあったんだよ。<line-break>ここだってそうに違いないよ。<end>"
-english = "But I think the Fire Priestess is here, and so is the temple of the Fire Spirit God. There was a hidden path to the seat of the Earth Spirit God in Ladras, remember? There has to be one here too.<end>"
+english = "But I think the Priestess of Fire is here, and so is the temple of the Fire Spirit God. There was a hidden path to the seat of the Earth Spirit God in Ladras, remember? There has to be one here too.<end>"
 
 ["1160018"]
 japanese = "ね、<value:$28>、<line-break>この町を、よーく、探してみようよ。<line-break>ボク、火の巫女に会ってみたいんだ。<end>"
-english = "Come on, <value:$28>. Let's take a really good look around this town. I want to meet the Fire Priestess.<end>"
+english = "Come on, <value:$28>. Let's take a really good look around this town. I want to meet the Priestess of Fire.<end>"
 
 ["1160019"]
 japanese = "でもボクは、火の精霊神の神殿は<line-break>この町にあるんじゃないかと思うけど？<line-break>きっと、火の巫女もそこにいるよ。<line-break>ね、<value:$28>、<line-break>明日起きたら、もういっぺん<line-break>この町を、よーく探してみようよ。<end>"
-english = "But I think the temple of the Fire Spirit God might be somewhere in this town. I'm sure the Fire Priestess is there too. Hey, <value:$28>, when we wake up tomorrow, let's give the town another really thorough search.<end>"
+english = "But I think the temple of the Fire Spirit God might be somewhere in this town. I'm sure the Priestess of Fire is there too. Hey, <value:$28>, when we wake up tomorrow, let's give the town another really thorough search.<end>"
 
 ["1160020"]
 japanese = "よし！<line-break>じゃ、今日はもう休もう。<line-break>明日からまた、がんばらなきゃね。<line-break>それじゃ、おやすみ。<line-break><value:$28>。<end>"
@@ -86,7 +86,7 @@ english = "All right! Let's call it a day. We'll have to get back to it tomorrow
 
 ["1160021"]
 japanese = "火の巫女フレア様は、<line-break>人を避けておられる。<line-break>集中の邪魔になるからな。<end>"
-english = "Lady Flare avoids other people. Their presence interferes with her concentration.<end>"
+english = "Lady Flare is the Priestess of Fire, and she avoids other people. Their presence interferes with her concentration.<end>"
 
 ["1160022"]
 japanese = "君も二度と精霊神殿には<line-break>近づかないことだ。<end>"
@@ -94,7 +94,7 @@ english = "You are not to go near the Spirit Temple again, either.<end>"
 
 ["1160023"]
 japanese = "フレア様は、<line-break>火の精霊神ウルカーンに仕える\u3000\u3000\u3000<line-break>火の巫女なのだ。<line-break>同時に魔道王国ラドラスの<line-break>最後の４人の巫女のひとり、<line-break>火の巫女ウルの血を引く者でもある。<end>"
-english = "Lady Flare is the Priestess of Fire who serves Urkhan, the Fire Spirit God. She is also descended from Priestess Uru of Fire, one of the last four priestesses of Magic Kingdom Ladras.<end>"
+english = "Lady Flare is the Priestess of Fire who serves Ulkarne, the Fire Spirit God. She is also descended from Uru, the Priestess of Fire, one of the last four priestesses of Magic Kingdom Ladras.<end>"
 
 ["1160024"]
 japanese = "そして、同時にこの地にある\u3000\u3000\u3000<line-break>封印を見守り続ける者でも<line-break>あるわけだ。<line-break>君らには、火の精霊神殿に近づいて<line-break>フレア様の妨げになるようなことを<line-break>しないで欲しいものだ。<end>"
@@ -102,15 +102,15 @@ english = "She also keeps watch over the seal here. I would ask that none of you
 
 ["1160025"]
 japanese = "ウルカーンには魔道士が多い。\u3000\u3000\u3000<line-break>マグマゴーレムの技術を学ぼうという<line-break>魔道士たちがこの地に集うからだ。<line-break>ゆえに、この町は魔道士による自治が<line-break>行われている。その代表者として<line-break>私が長老をやっているというわけだ。<end>"
-english = "Urkhan has many mages, drawn here to study the art of the Magma Golem. That is why the town is self-governed by its mages, and I serve as elder as their representative.<end>"
+english = "Ulkarne has many mages, drawn here to study the art of the Magma Golem. That is why the town is self-governed by its mages, and I serve as elder as their representative.<end>"
 
 ["1160026"]
 japanese = "この町、ウルカーンを立てたのは<line-break>魔道王国４人の巫女のひとりウルだ。\u3000<line-break>\u3000<line-break>ウルは魔道王国の高度な魔道技術を<line-break>すべて封印し、この町を守るために<line-break>マグマゴーレムの技のみを遺したのだ。<end>"
-english = "Uru, one of the Magic Kingdom's four priestesses, founded this town of Urkhan. Uru sealed away all of the kingdom's advanced magical arts, leaving behind only the art of the Magma Golem to protect the town.<end>"
+english = "Uru, one of the Magic Kingdom's four priestesses, founded this town of Ulkarne. Uru sealed away all of the kingdom's advanced magical arts, leaving behind only the art of the Magma Golem to protect the town.<end>"
 
 ["1160027"]
 japanese = "このウルカーンや周りの土地は、\u3000\u3000\u3000<line-break>昔は海の底だったそうだ。<line-break>\u3000<line-break>しかし、火の巫女ウルがこの近辺の<line-break>火山を爆発させ、大地を作ったという。<line-break>ウルカーン誕生の伝説だよ。<end>"
-english = "They say Urkhan and the surrounding lands once lay beneath the sea. But Priestess Uru of Fire caused the volcanoes here to erupt and created the land. That is the legend of Urkhan's birth.<end>"
+english = "They say Ulkarne and the surrounding lands once lay beneath the sea. But Uru, the Priestess of Fire, caused the volcanoes here to erupt and created the land. That is the legend of Ulkarne's birth.<end>"
 
 ["1160028"]
 japanese = "誰…？\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>…長老以外の…人…。<end>"
@@ -118,7 +118,7 @@ english = "Who...? Someone... other than the elder...<end>"
 
 ["1160029"]
 japanese = "…ここは、<line-break>火の精霊神殿。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>私はフレア。<line-break>この神殿と、それに連なる<line-break>封印を守る…火の巫女。<end>"
-english = "…This is the Temple of the Fire Spirit. I am Flare… the Fire Priestess who guards this temple and the seal linked to it.<end>"
+english = "…This is the Temple of the Fire Spirit. I am Flare… the Priestess of Fire who guards this temple and the seal linked to it.<end>"
 
 ["1160030"]
 japanese = "その道を進むことは\u3000\u3000\u3000\u3000\u3000<line-break>なりません。<line-break>\u3000<line-break>この神殿の奥にある封印…、<line-break>それを守るのが私の役目。<line-break>どうか、お引き取りください。<end>"
@@ -130,7 +130,7 @@ english = "Who...? Someone... other than the elder...<end>"
 
 ["1160032"]
 japanese = "…ここは、<line-break>火の精霊神殿。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>私はフレア。<line-break>この神殿と、それに連なる<line-break>封印を守る…火の巫女。<end>"
-english = "…This is the Temple of the Fire Spirit. I am Flare… the Fire Priestess who guards this temple and the seal linked to it.<end>"
+english = "…This is the Temple of the Fire Spirit. I am Flare… the Priestess of Fire who guards this temple and the seal linked to it.<end>"
 
 ["1160033"]
 japanese = "何をしているんだね、君は！？<end>"
@@ -138,7 +138,7 @@ english = "What do you think you're doing?!<end>"
 
 ["1160034"]
 japanese = "私は、火の巫女…。<line-break>この火の神殿で<line-break>封印を守るための存在…。<end>"
-english = "I am the Fire Priestess… I exist to guard the seal in this fire temple…<end>"
+english = "I am the Priestess of Fire… I exist to guard the seal in this fire temple…<end>"
 
 ["1160035"]
 japanese = "はい、長老。<end>"
@@ -246,7 +246,7 @@ english = "(Is this... a diary?)<end>"
 
 ["1160061"]
 japanese = "…今日もフレアは安定している。<line-break>彼女はあのころの姿のまま、<line-break>こうして神殿で月日を重ねている…。\u3000\u3000<line-break>\u3000<line-break>あの日、遠き若き日の私は、<line-break>深く愛し、固く拒まれたがゆえに<line-break>火の巫女フレアを殺してしまった。<line-break>それが、この悔恨の日々の始まりだった。<end>"
-english = "…Flare is stable again today. She remains as she was back then, passing the years here in the temple… On that day, long ago in my youth, I killed Flare, the Fire Priestess, because I loved her deeply and she rejected me so firmly. That was the beginning of these days of remorse.<end>"
+english = "…Flare is stable again today. She remains as she was back then, passing the years here in the temple… On that day, long ago in my youth, I killed Flare, the Priestess of Fire, because I loved her deeply and she rejected me so firmly. That was the beginning of these days of remorse.<end>"
 
 ["1160062"]
 japanese = "巫女が失われれば、精霊神の力の封印が<line-break>解放され、世界に災厄が起きる。<line-break>いつかことは公になり、私の行いも<line-break>明るみに出るだろう…。<line-break>私は、それを恐れた。<line-break>そして、闇の神器、束縛の腕輪の力で<line-break>彼女の肉体を再現することに成功した。<line-break>精神は、再現できなかったが……。<end>"
@@ -318,7 +318,7 @@ english = "I need you. Heh... What sweet words those are. To raise the Floating 
 
 ["1160079"]
 japanese = "そして、そのひとり火の巫女ウルの<line-break>血を引くのは、フレア、君だけなんだ。<line-break>僕についてきてくれないかなぁ？<end>"
-english = "And you, Flare, are the only descendant of one of them: Priestess Uru of Fire. Won't you come with me?<end>"
+english = "And you, Flare, are the only descendant of one of them: Uru, the Priestess of Fire. Won't you come with me?<end>"
 
 ["1160080"]
 japanese = "私はこの神殿…聖なる座所を<line-break>守らなくてはなりません。<line-break>私はそのために存在するのです。<end>"
@@ -470,7 +470,7 @@ english = "I cannot allow you to go any farther. Even if I have little time left
 
 ["1160117"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よくぞ、来た。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ。<line-break>\u3000\u3000\u3000\u3000我は火の精霊神ウルカーン。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我が願いをかなえよ。<end>"
-english = "Welcome, Bearer of the Infinite Soul. I am Ulkaan, the spirit god of fire. Grant my wish.<end>"
+english = "Welcome, Bearer of the Infinite Soul. I am Ulkarne, the spirit god of fire. Grant my wish.<end>"
 
 ["1160118"]
 japanese = "\u3000\u3000汝、この先の地にて、あのお方を封じる\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000憎き巨人を倒すのだ…。<line-break>\u3000\u3000さすれば我、汝に至高の炎を与えん…。<end>"
@@ -514,7 +514,7 @@ english = "You coward. …Well, no matter. If you intend to challenge Pneuma, yo
 
 ["1160128"]
 japanese = "小賢しきかな、ウルカーンめ。<line-break>恥も知らずに<line-break>かような人の子を遣わしおって…。\u3000<line-break>汝もまた、愚かしくも哀れなる者よ。<line-break>奴の思惑も知らずに<line-break>のこのこと来るとはな。<end>"
-english = "What a petty schemer you are, Urkaan. Shamelessly sending a child of man to do your bidding... And you, too, are a foolish, pitiable creature, coming here without the faintest notion of Urkaan's designs.<end>"
+english = "What a petty schemer you are, Ulkarne. Shamelessly sending a child of man to do your bidding... And you, too, are a foolish, pitiable creature, coming here without the faintest notion of Ulkarne's designs.<end>"
 
 ["1160129"]
 japanese = "胎の封印を破らんとする者の命を<line-break>吹き消すことこそ我が使命。<line-break>己の無知と無力とを知るがよい！<end>"
@@ -522,7 +522,7 @@ english = "My charge is to snuff out the life of any who would break the seal of
 
 ["1160130"]
 japanese = "ば、バカな…。<line-break>バイアス様よりいただきし我が力を<line-break>しりぞける人の子がいようとは…。<line-break>無知なる人の子よ…。<line-break>己が所業の意味に気づきしとき、<line-break>汝は罪の重さに耐えられぬぞ。<end>"
-english = "I-impossible... That a child of man could repel the power Bias bestowed upon me... Ignorant child of man... When you learn the meaning of what you have done, the weight of your sin will be more than you can bear.<end>"
+english = "I-impossible... That a child of man could repel the power Vyas bestowed upon me... Ignorant child of man... When you learn the meaning of what you have done, the weight of your sin will be more than you can bear.<end>"
 
 ["1160131"]
 japanese = "愚かなり…愚かなり……。<end>"

@@ -26,7 +26,7 @@ english = "...She betrayed me first. Nemea stole her heart, and even when I trie
 
 ["1540006"]
 japanese = "だから、君はその報復に<line-break>姉さんを見殺しにした。<line-break>\u3000<line-break>皇帝エリュマルクの嫉妬から<line-break>彼女を救わずに、放っておいた。<line-break>君の力があれば救えたのに…。<end>"
-english = "So you took your revenge by leaving your sister to die. You abandoned her to Emperor Eryumark's jealousy instead of saving her, even though you had the power to do it...<end>"
+english = "So you took your revenge by leaving your sister to die. You abandoned her to Emperor Elmark's jealousy instead of saving her, even though you had the power to do it...<end>"
 
 ["1540007"]
 japanese = "…姉さんは死を望んでいた。<end>"
@@ -450,11 +450,11 @@ english = "The answer is that Nemea knows. He knows his group wasn't the only on
 
 ["1540112"]
 japanese = "ゾフォルは苦しんでいたんだ。<line-break>\u3000<line-break>\u3000<line-break>あらがえない運命と<line-break>見たくもない予知に<line-break>苛まれながら…。<line-break>そしていつの日か、<line-break>その苦しみから解放されることを<line-break>願っていたんだ…。<line-break>…僕は<value:$28>に救われた。<line-break>\u3000<line-break>\u3000<line-break>もし、<value:$28>と<line-break>出会っていなければ…<line-break>\u3000<line-break>今ここで倒されていたのは<line-break>僕だったのかもしれない…。<end>"
-english = "Zophor was suffering, tormented by a fate he could not resist and visions he never wished to see. All the while, he hoped that someday he would be freed from that suffering... <value:$28> saved me. If I had never met <value:$28>... perhaps I would have been the one lying defeated here.<end>"
+english = "Zofor was suffering, tormented by a fate he could not resist and visions he never wished to see. All the while, he hoped that someday he would be freed from that suffering... <value:$28> saved me. If I had never met <value:$28>... perhaps I would have been the one lying defeated here.<end>"
 
 ["1540113"]
 japanese = "ゾフォルは苦しんでいたんだ。<line-break>\u3000<line-break>\u3000<line-break>あらがえない運命と<line-break>見たくもない予知に<line-break>苛まれながら…。<line-break>そしていつの日か、<line-break>その苦しみから解放されることを<line-break>願っていたんだ…。<line-break>…僕は<value:$28>に救われた。<line-break>\u3000<line-break>\u3000<line-break>もし、<value:$28>と<line-break>出会っていなければ…<line-break>\u3000<line-break>今ここで倒されていたのは<line-break>僕だったのかもしれない…。<end>"
-english = "Zophor was suffering, tormented by a fate he could not resist and visions he never wished to see. All the while, he hoped that someday he would be freed from that suffering... <value:$28> saved me. If I had never met <value:$28>... perhaps I would have been the one lying defeated here.<end>"
+english = "Zofor was suffering, tormented by a fate he could not resist and visions he never wished to see. All the while, he hoped that someday he would be freed from that suffering... <value:$28> saved me. If I had never met <value:$28>... perhaps I would have been the one lying defeated here.<end>"
 
 ["1540114"]
 japanese = "やめるんだ、シャリ。<line-break>できれば、お前を討ちたくはない…。<end>"
@@ -474,7 +474,7 @@ english = "No one can stop it now. Mighty Dark Giants are attacking all over the
 
 ["1540118"]
 japanese = "ゾフォル爺さん、頼んだよ。<end>"
-english = "Old Zophor, I'm counting on you.<end>"
+english = "Old Zofor, I'm counting on you.<end>"
 
 ["1540119"]
 japanese = "くっくっくっ。<value:$28>よ。<line-break>わしらがなにゆえに闇の巨人を呼び出したか、わかるか？<line-break>すべてはバロル様復活のためよ。<line-break>闇の巨人はバロル様が降臨するための<line-break>依り代に必要なのでな。<end>"

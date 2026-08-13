@@ -34,7 +34,7 @@ english = "Yes, I am Tiana. Forgive me for not introducing myself. Please wait h
 
 ["650008"]
 japanese = "くすっ、そういうことだったのですか。<line-break>タルテュバ様からの贈り物にしては、<line-break>その…趣味がいいと思いました。<end>"
-english = "Oh, so that's what happened. For a gift from Lord Tarteuba, I thought it was... surprisingly tasteful.<end>"
+english = "Oh, so that's what happened. For a gift from Lord Tartuba, I thought it was... surprisingly tasteful.<end>"
 
 ["650009"]
 japanese = "では、お返しします。<end>"
@@ -58,7 +58,7 @@ english = "<if><value:$29><equal>%0Lord <value:$28>...? You mean Lemghon's young
 
 ["650014"]
 japanese = "<if><value:$29><equal>%0それではタルテュバ様の<line-break>従弟にあたられるのですね。<line-break>\u3000<line-break>でも、それならどうして<line-break>そんな所からいらしたのです？<end><if><value:$29><equal>%1それではタルテュバ様の<line-break>従妹にあたられるのですね。<line-break>\u3000<line-break>でも、それならどうして<line-break>そんな所からいらしたのです？<end>"
-english = "<if><value:$29><equal>%0Then you are Lord Tarteuba's cousin. But if so, why did you come in through a place like that?<end><if><value:$29><equal>%1Then you are Lord Tarteuba's cousin. But if so, why did you come in through a place like that?<end>"
+english = "<if><value:$29><equal>%0Then you are Lord Tartuba's cousin. But if so, why did you come in through a place like that?<end><if><value:$29><equal>%1Then you are Lord Tartuba's cousin. But if so, why did you come in through a place like that?<end>"
 
 ["650015"]
 japanese = "ふふ、確かに王女に会いたいと<line-break>言っても、面識のない門番の方は<line-break>連れてきてくれませんよね。<end>"
@@ -382,7 +382,7 @@ english = "Someday I will overthrow Eris's autocracy.<end>"
 
 ["650095"]
 japanese = "そして広場の千年樹に記されたとおり<line-break>貴族共和の政治を復活させる。<end>"
-english = "Then I will restore the aristocratic republic, just as it is written on the thousand-year tree in the square.<end>"
+english = "Then I will restore the aristocratic republic, just as it is written on the Thousand-Year Tree in the square.<end>"
 
 ["650096"]
 japanese = "悲しいですわ。<line-break>ティアナはそのとき…、\u3000\u3000\u3000<line-break>\u3000<line-break>お母様と一緒に<line-break>ファーロスの一族として、<line-break>粛清されてしまうのですね…。<end>"
@@ -482,7 +482,7 @@ english = "Noble or king, no one has the right to trample on others. Don't ever 
 
 ["650120"]
 japanese = "ま、タルテュバも<line-break>しばらくはおとなしくしてるだろ。<end>"
-english = "Well, Tartyuba should stay quiet for a while.<end>"
+english = "Well, Tartuba should stay quiet for a while.<end>"
 
 ["650121"]
 japanese = "ありがとうよ、本当に。<line-break>助かったよ。<end>"

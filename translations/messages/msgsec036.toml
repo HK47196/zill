@@ -62,7 +62,7 @@ english = "...Baltzer.<end>"
 
 ["360015"]
 japanese = "<if><value:$29><equal>%0少年よ。この金で<line-break>元気の薬を買ってきてくれぬか。<line-break>慣れぬ地で勝手がわからないのだ。<end>少女よ。この金で<line-break>元気の薬を買ってきてくれぬか。<line-break>慣れぬ地で勝手がわからないのだ。<end>"
-english = "<if><value:$29><equal>%0Boy, would you buy me some medicine to restore my strength with this money? I am unfamiliar with this land and do not know my way around.<end>Girl, would you buy me some medicine to restore my strength with this money? I am unfamiliar with this land and do not know my way around.<end>"
+english = "<if><value:$29><equal>%0Boy, would you buy me some Vitality Medicine with this money? I am unfamiliar with this land and do not know my way around.<end>Girl, would you buy me some Vitality Medicine with this money? I am unfamiliar with this land and do not know my way around.<end>"
 
 ["360016"]
 japanese = "時は来た。<line-break>…それなのに、なぜ時を告げぬ？<line-break>告げるものよ。<end>"
@@ -118,7 +118,7 @@ english = "Destiny cannot be changed. Everything you're doing will come to nothi
 
 ["360029"]
 japanese = "ヴァシュタールを目覚めさせることが<line-break>できるのは私だけ。そして、闇の門を<line-break>開けられるのはヴァシュタールだけ。<line-break>闇の門を通らなければ、<line-break>ウルグ様は復活できない。<line-break>…違うかしら？\u3000それでも無駄だと？<end>"
-english = "I alone can awaken Vashtar, and only Vashtar can open the Dark Gate. Without passing through it, Lord Urg cannot be resurrected. Am I wrong? Do you still say it's all futile?<end>"
+english = "I alone can awaken Vashtar, and only Vashtar can open the Dark Gate. Without passing through it, Lord Ulugh cannot be resurrected. Am I wrong? Do you still say it's all futile?<end>"
 
 ["360030"]
 japanese = "…アスティア、<line-break>私は警告に来ただけだ。<end>"
@@ -154,7 +154,7 @@ english = "Everything you've believed until now has become suspect. Heh... It's 
 
 ["360038"]
 japanese = "ああ、自己紹介するね。\u3000\u3000\u3000<line-break>僕は東方の博士シャリ。<line-break>\u3000<line-break>そして君は<value:$28>。<line-break>アスティアが１６年前に<line-break>拾った赤ん坊。ウフフアハハ！<end>"
-english = "Oh, I should introduce myself. I'm Shalli, a scholar from the East. And you're <value:$28>, the infant Astia found sixteen years ago. Ooh-hoo-hoo, ah-ha-ha!<end>"
+english = "Oh, I should introduce myself. I'm Shalli, the Scholar from the East. And you're <value:$28>, the infant Astia found sixteen years ago. Ooh-hoo-hoo, ah-ha-ha!<end>"
 
 ["360039"]
 japanese = "そーれ。<end>"
@@ -186,7 +186,7 @@ english = "Have I... awakened again...?<end>"
 
 ["360046"]
 japanese = "おはよ、破壊神ウルグの円卓騎士<line-break>ヴァシュタール。<end>"
-english = "Morning, Vashtar―Knight of the Round Table who serves Urg, God of Destruction.<end>"
+english = "Morning, Vashtar―Knight of the Round Table who serves Ulugh, God of Destruction.<end>"
 
 ["360047"]
 japanese = "アスティアでは…ない…？<line-break>人間にこのようなことが可能なのか？<end>"
@@ -206,7 +206,7 @@ english = "Your job is to open the Dark Gate, the path by which the God of Destr
 
 ["360051"]
 japanese = "人間は<line-break>つくづく度し難いものだ…。\u3000\u3000\u3000<line-break>\u3000<line-break>神去ったこの世界で、<line-break>ウルグ様が復活することが<line-break>どういうことかわかっているのか？<end>"
-english = "Humans truly are beyond reason... Do you understand what Lord Urg's resurrection would mean in this world abandoned by the gods?<end>"
+english = "Humans truly are beyond reason... Do you understand what Lord Ulugh's resurrection would mean in this world abandoned by the gods?<end>"
 
 ["360052"]
 japanese = "おもしろいことさ。<end>"
@@ -242,7 +242,7 @@ english = "To think the Bearer of the Infinite Soul would be born in time for th
 
 ["360060"]
 japanese = "破壊神ウルグの円卓騎士<line-break>告げるものアスティアよ。\u3000\u3000\u3000<line-break>お前の背信のもくろみは失敗だ。<line-break>どうあがこうと<line-break>運命には逆らえないということだな。<end>"
-english = "Astia the Proclaimer, Knight of the Round Table who serves Urg, God of Destruction. Your treacherous scheme has failed. Struggle as you will, destiny cannot be defied.<end>"
+english = "Astia the Proclaimer, Knight of the Round Table who serves Ulugh, God of Destruction. Your treacherous scheme has failed. Struggle as you will, destiny cannot be defied.<end>"
 
 ["360061"]
 japanese = "<value:$28>、逃げなさい！<line-break>この町を出るの！<line-break>私もすぐにあとを追うわ！<end>"
@@ -262,7 +262,7 @@ english = "You'd better listen to your mother. Vashtar is about to drain the sou
 
 ["360065"]
 japanese = "君のお母さんなら大丈夫さ。<line-break>破壊神ウルグに仕える<line-break>円卓騎士のひとりだもん。<line-break>ものすごく強いんだから！<line-break>やられはしないよ。<end>"
-english = "Your mother will be fine. She's one of the Knights of the Round Table who serve Urg, God of Destruction. She's incredibly strong! She won't be beaten.<end>"
+english = "Your mother will be fine. She's one of the Knights of the Round Table who serve Ulugh, God of Destruction. She's incredibly strong! She won't be beaten.<end>"
 
 ["360066"]
 japanese = "アスティア、君の願い、<line-break>半分だけ、かなえてあげる。<line-break>\u3000<line-break>屋上まで<line-break>この子を運んだげるよ。<line-break>あとは、この子次第さ。<end>"

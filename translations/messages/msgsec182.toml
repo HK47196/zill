@@ -18,7 +18,7 @@ english = "Oh? How unusual. This one seems to have taken a liking to you. Mizuch
 
 ["1820004"]
 japanese = "あ、うふふっ。<line-break>ホントに、なんででしょうね。\u3000\u3000\u3000<line-break>\u3000<line-break>あの、お名前はなんというんですか？<line-break>私は、ここの神殿の巫女、<line-break>イークレムンといいます。<end>"
-english = "Oh... Hee hee. I wonder why. May I ask your name? I'm Iiklmn, a shrine maiden of this temple.<end>"
+english = "Oh... Hee hee. I wonder why. May I ask your name? I'm Iiklmn, a Priestess at this temple.<end>"
 
 ["1820005"]
 japanese = "<value:$28>さん…ですか。<line-break>…不思議です。私もなぜか<line-break>この子と同じように…<end>"
@@ -46,7 +46,7 @@ english = "You're an adventurer, aren't you, <value:$28>? Do you have any family
 
 ["1820011"]
 japanese = "でも、私の母は水の巫女だったそうで、<line-break>その巫女の血を受け継いだ私は<line-break>この神殿で育ててもらったんです。<line-break>だから、私にとっては<line-break>神官長様や神殿のみなさんが<line-break>家族みたいなものですね。<end>"
-english = "But I'm told my mother was a Water Priestess. I inherited her blood, so the temple took me in and raised me. To me, the high priest and everyone here at the temple are like family.<end>"
+english = "But I'm told my mother was a Priestess of Water. I inherited her blood, so the temple took me in and raised me. To me, the high priest and everyone here at the temple are like family.<end>"
 
 ["1820012"]
 japanese = "このイヤリング、見てください。<line-break>母の形見らしいんですが、<line-break>人魚のウロコでできているそうです。<line-break>このイヤリングに触れていると、<line-break>なんだか気持ちがなごんで、<line-break>とても落ちつくんです。<end>"

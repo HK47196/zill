@@ -14,7 +14,7 @@ english = "W-wait! We're not up to anything suspicious! Lady Esther gave you tha
 
 ["890003"]
 japanese = "それは、エステル様ご自身の<line-break>意志でしか外れないもの。<line-break>あなた様を信用してお話しします。<line-break>私たちは砂漠の一族。<line-break>竜骨の砂漠奥深くにある魔道王国の遺産、<line-break>ラドラスに住まう者です。<end>"
-english = "That crystal cannot be removed unless Lady Esther wills it. We trust you, so we will explain. We are the desert clan, inhabitants of Ladras, a legacy of the Kingdom of Sorcery deep within the Dragonbone Desert.<end>"
+english = "That crystal cannot be removed unless Lady Esther wills it. We trust you, so we will explain. We are the desert clan, inhabitants of Ladras, a legacy of the Magic Kingdom deep within the Dragonbone Desert.<end>"
 
 ["890004"]
 japanese = "そして、エステル様は<line-break>我ら砂漠の一族の族長なのです。<line-break>\u3000<end>"
@@ -22,11 +22,11 @@ english = "And Lady Esther is the chief of our desert clan.<end>"
 
 ["890005"]
 japanese = "中世、世界は神聖王国と魔道王国に<line-break>大きく二分されていました。<line-break>魔道王国は魔道技術により栄えていました。\u3000\u3000<line-break>しかし、支配者層に内部分裂が起こり、<line-break>そこを神聖王国の征服王ラムゼーにつかれ、<line-break>滅亡してしまったのです。<end>"
-english = "In the Middle Ages, the world was largely divided between the Holy Kingdom and the Kingdom of Sorcery. The Kingdom of Sorcery prospered through its sorcerous technology. But its ruling class split into opposing factions, and Ramsey, the Holy Kingdom's Conqueror King, seized the opportunity to destroy it.<end>"
+english = "In the Middle Ages, the world was largely divided between the Holy Kingdom and the Magic Kingdom. The Magic Kingdom prospered through its sorcerous technology. But its ruling class split into opposing factions, and Ramsey, the Holy Kingdom's Conqueror King, seized the opportunity to destroy it.<end>"
 
 ["890006"]
 japanese = "滅亡時、魔道王国の支配者のひとり、ズゥは<line-break>その魔道技術がラムゼーの手に渡るのを恐れ、<line-break>魔法で砂漠を作って魔道王国を砂に沈めました。<line-break>私たちは、その砂漠に埋もれた<line-break>魔道王国の遺産を、外部の人間から守るために<line-break>残された砂漠の一族なのです。<end>"
-english = "As the kingdom fell, one of its rulers, Zuu, feared that its sorcerous technology would fall into Ramsey's hands. Using magic, Zuu created a desert and buried the Kingdom of Sorcery beneath the sands. We are the desert clan left behind to protect the kingdom's buried legacy from outsiders.<end>"
+english = "As the kingdom fell, one of its rulers, Zuu, feared that its sorcerous technology would fall into Ramsey's hands. Using magic, Zuu created a desert and buried the Magic Kingdom beneath the sands. We are the desert clan left behind to protect the kingdom's buried legacy from outsiders.<end>"
 
 ["890007"]
 japanese = "無論、砂の上で生きられるわけはありません。\u3000<line-break>我々は、ラドラスで生活しているのです。<line-break>\u3000<line-break>ラドラスでは、砂漠の中にいるのが<line-break>ウソのように暮らしやすい環境になっていて、<line-break>食べ物も飲み物も用意してくれるのです。<end>"
@@ -138,15 +138,15 @@ english = "I always come here after the check. It's the only place in Ladras whe
 
 ["890034"]
 japanese = "ラドラスはね、古代の魔道王国の<line-break>遺産のおかげで、砂漠の真ん中でも<line-break>生活できる環境が整えられているんだ。<line-break>だから飲み物にも食べ物にも<line-break>困ったことがない…。<line-break>\u3000<end>"
-english = "The legacy of the ancient magical kingdom makes Ladras livable even in the middle of the desert. We've never had to worry about food or drink...<end>"
+english = "The legacy of the Magic Kingdom makes Ladras livable even in the middle of the desert. We've never had to worry about food or drink...<end>"
 
 ["890035"]
 japanese = "でもボクたちは、古代の魔道王国の遺産<line-break>っていうのが、他にどんなすごいことを<line-break>秘めているのか、知らないんだ。<line-break>動いているのも、このラドラスの<line-break>居住システムだけ。<line-break>他の魔道文明は眠ったまんまさ。<end>"
-english = "But we have no idea what other wonders the legacy of the ancient magical kingdom might hold. The only thing still operating is Ladras's habitation system. The rest of its magical civilization remains dormant.<end>"
+english = "But we have no idea what other wonders the legacy of the Magic Kingdom might hold. The only thing still operating is Ladras's habitation system. The rest of its magical civilization remains dormant.<end>"
 
 ["890036"]
 japanese = "魔道王国の遺産は、魔道王国を支配した<line-break>４人の巫女の血を引く者が集まった時、<line-break>復活するという…。<line-break>ボクは一応、ここの族長なんだけど、<line-break>それでも、そういう巫女とか、<line-break>遺産とかのことはよく知らないんだ。<end>"
-english = "They say the legacy of the magical kingdom will awaken when the descendants of the four priestesses who ruled it come together... I'm supposed to be the chief here, but even I don't know much about those priestesses or the legacy.<end>"
+english = "They say the legacy of the Magic Kingdom will awaken when the descendants of the four priestesses who ruled it come together... I'm supposed to be the chief here, but even I don't know much about those priestesses or the legacy.<end>"
 
 ["890037"]
 japanese = "それでも復活の日まで、<line-break>ボクたちはこのラドラスに飼われて、<line-break>ここを守り続けなくちゃならない。<line-break>それが運命…ってやつ。<line-break><line-break><end>"
@@ -206,7 +206,7 @@ english = "...!<end>"
 
 ["890051"]
 japanese = "だから僕はね、エステル。<line-break>君の本当の力を引き出してあげたいと<line-break>思って、君を迎えに来たんだ。<line-break>君は古代魔道王国ラドラスの<line-break>４人の巫女のひとり、<line-break>ズゥの血を引く地の巫女なんだよ。<end>"
-english = "That's why I've come to take you with me, Esther. I want to bring out your true power. You're the Earth Maiden, descended from Zuu―one of the four maidens of the ancient Magic Kingdom Ladras.<end>"
+english = "That's why I've come to take you with me, Esther. I want to bring out your true power. You're the Priestess of Earth, descended from Zuu―one of the four priestesses of the ancient Magic Kingdom Ladras.<end>"
 
 ["890052"]
 japanese = "………………！？<end>"
@@ -222,7 +222,7 @@ english = "Whoops. Taking Esther with me now would be rather awkward. Well, I'm 
 
 ["890055"]
 japanese = "ボクが…地の巫女…？<line-break>魔道王国ラドラスの巫女…？<end>"
-english = "I'm... the Earth Maiden? A maiden of Magic Kingdom Ladras...?<end>"
+english = "I'm... the Priestess of Earth? A priestess of Magic Kingdom Ladras...?<end>"
 
 ["890056"]
 japanese = "あ、アハハ…、ゴメン。<line-break>ちょっと、面食らっちゃった。<line-break>\u3000<line-break>シャリもいなくなったし<line-break>もう大丈夫だよ。<line-break>さ、寝よ寝よ。<end>"
@@ -246,7 +246,7 @@ english = "And what's all this about priestesses!? I'm not one of them!<end>"
 
 ["890061"]
 japanese = "あれ、まだ知らないんだっけ？<line-break>君って、古代の巫女の血を引く<line-break>ラドラスの地の巫女なんだよ。<end>"
-english = "Oh, you still don't know? You carry the blood of the ancient priestesses. You're the priestess of the land of Ladras.<end>"
+english = "Oh, you still don't know? You carry the blood of the ancient priestesses. You're the Priestess of Earth of Ladras.<end>"
 
 ["890062"]
 japanese = "な！？<line-break>なんなんだよいきなり！！\u3000\u3000<line-break>\u3000<line-break>ボクはエステル！<line-break>確かにラドラス生まれだけど、<line-break>巫女なんて知るもんか！！<end>"
@@ -298,7 +298,7 @@ english = "And what's all this about priestesses?! I'm not one of them!<end>"
 
 ["890074"]
 japanese = "あれ、まだ知らないんだっけ？<line-break>君って、古代の巫女の血を引く<line-break>ラドラスの地の巫女なんだよ。<end>"
-english = "Oh, you still don't know? You carry the blood of the ancient priestesses. You're the priestess of the land of Ladras.<end>"
+english = "Oh, you still don't know? You carry the blood of the ancient priestesses. You're the Priestess of Earth of Ladras.<end>"
 
 ["890075"]
 japanese = "な！？<line-break>なんなんだよいきなり！！\u3000\u3000<line-break>\u3000<line-break>ボクはエステル！<line-break>確かにラドラス生まれだけど、<line-break>巫女なんて知るもんか！！<end>"
@@ -434,7 +434,7 @@ english = "You are... I see. The Bearer of the Infinite Soul... Bearer of the In
 
 ["890108"]
 japanese = "\u3000\u3000\u3000\u3000\u3000ここより先に、<line-break>\u3000\u3000フルーヴという巨人がおる。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000汝の力で葬ってくれ。<line-break>\u3000 \u3000あ奴は我の力を妨げる。<line-break>\u3000\u3000\u3000不要な存在なのだ…。<end>"
-english = "Beyond this place dwells a giant called Fluve. Bury it with your power. That creature impedes my power. Its existence serves no purpose...<end>"
+english = "Beyond this place dwells a giant called Fleuve. Bury it with your power. That creature impedes my power. Its existence serves no purpose...<end>"
 
 ["890109"]
 japanese = "わかった<end>"
@@ -474,7 +474,7 @@ english = "Hmph... So you are the Bearer of the Infinite Soul. Curse you, Grajeo
 
 ["890118"]
 japanese = "しかし、汝ごときに倒される<line-break>このフルーヴではない。<line-break>来るがよい！！<end>"
-english = "But Furuve will not fall to the likes of you. Come!<end>"
+english = "But Fleuve will not fall to the likes of you. Come!<end>"
 
 ["890119"]
 japanese = "愚かなり、無限のソウルを持つ者よ。<line-break>精霊神に躍らされ、<line-break>我を撃ち、闇を呼ぶか…。<line-break>愚かなり…愚かなり…。<end>"
@@ -506,7 +506,7 @@ english = "Not my problem.<end>"
 
 ["890126"]
 japanese = "族長不在のとき、ラドラスが沈むのも<line-break>族長が巫女の血を引く<line-break>ラドラスの守だからさ。<end>"
-english = "Ladras sinks whenever the chieftain is away because the chieftain is the Guardian of Ladras, descended from a maiden's bloodline.<end>"
+english = "Ladras sinks whenever the chieftain is away because the chieftain is the Guardian of Ladras, descended from a priestess's bloodline.<end>"
 
 ["890127"]
 japanese = "予備メッセージ２<line-break>エステルのＶ４だよ。<end>"
@@ -854,7 +854,7 @@ english = "The memories... of that day... came back...<end>"
 
 ["890213"]
 japanese = "妖術宰相ゾフォルは予言したわ…。<line-break>ザギヴがディンガルを支配する、<line-break>って…<line-break>それで、私の家族は魔王バロルに<line-break>捕らえられて…ウルグの円卓騎士、<line-break>棲みつくものマゴスの餌食に…<end>"
-english = "Zophor, the Sorcerous Chancellor, made a prophecy... that Zagiv would rule Dyneskal. Because of it, my family was captured by Balor, Demon King... and fed to Magos the Indweller, one of Urg's Knights of the Round Table...<end>"
+english = "Zofor, the Sorcerous Chancellor, made a prophecy... that Zagiv would rule Dyneskal. Because of it, my family was captured by Balor, Demon King... and fed to Magos the Indweller, one of Ulugh's Knights of the Round Table...<end>"
 
 ["890214"]
 japanese = "マゴスは昼のあの怪物兵器によく似た<line-break>外見をしていたの…。そして…<line-break>やはり魔法も…打撃も…効かなかった。<end>"
@@ -898,7 +898,7 @@ english = "Yes. You must not live... That is how the world rejected you.<end>"
 
 ["890224"]
 japanese = "システィーナの伝道師のひとり、<line-break>妖術宰相ゾフォル。<line-break>闇の誕生にあわせ、参上した。<end>"
-english = "I am Zophor, the Sorcerous Chancellor, one of Sistina's missionaries. I have come to attend the birth of darkness.<end>"
+english = "I am Zofor, the Sorcerous Chancellor, one of Sistina's missionaries. I have come to attend the birth of darkness.<end>"
 
 ["890225"]
 japanese = "自分と少しでも異質なものには、<line-break>恐怖と拒絶を抱かずにおられぬ。<line-break>それが人の性じゃ。<line-break>さぞお前は疎外感にさいなまれた<line-break>はずじゃの。<line-break>…かわいそうに。<end>"
@@ -998,7 +998,7 @@ english = "As for Zagiv, I have put her to sleep for the time being.<end>"
 
 ["890249"]
 japanese = "ゾフォルもやりますね。<line-break>彼女が心を閉ざしてしまうように、<line-break>うまいこと持っていっている…<end>"
-english = "Zophor is quite capable, skillfully maneuvering Zagiv into closing off her heart...<end>"
+english = "Zofor is quite capable, skillfully maneuvering Zagiv into closing off her heart...<end>"
 
 ["890250"]
 japanese = "ザギヴさんが自ら心を開き、<line-break>運命に立ち向かう気にならないかぎり<line-break>手の施しようはありませんね。<end>"
@@ -1038,7 +1038,7 @@ english = "As for Zagiv, I have put her to sleep for the time being.<end>"
 
 ["890259"]
 japanese = "ゾフォルもやりますね。<line-break>彼女が心を閉ざしてしまうように、<line-break>うまいこと持っていっている…<end>"
-english = "Zophor is quite capable, skillfully maneuvering Zagiv into closing off her heart...<end>"
+english = "Zofor is quite capable, skillfully maneuvering Zagiv into closing off her heart...<end>"
 
 ["890260"]
 japanese = "ザギヴさんが自ら心を開き、<line-break>運命に立ち向かう気にならないかぎり<line-break>手の施しようはありませんね。<end>"
@@ -1142,7 +1142,7 @@ english = "Y-you...<end>"
 
 ["890285"]
 japanese = "俺はシスティーナの伝道師、<line-break>黒の祈りのジュサプブロス。<line-break>ゾフォル爺さんのお仲間さ。<end>"
-english = "I'm Jusapubros of the Black Prayer, a missionary of Sistina. An associate of old Zofor's.<end>"
+english = "I'm Jusabros of the Black Prayer, a missionary of Sistina. An associate of old Zofor's.<end>"
 
 ["890286"]
 japanese = "言ったじゃろう？<line-break>その自信が命取りじゃと。<end>"
@@ -1162,11 +1162,11 @@ english = "Gah!<end>"
 
 ["890290"]
 japanese = "ほう…まだ耐えられるとはの…。<line-break>だが、帝都の人間のソウルは、<line-break>ウルグ様にささげられた。<end>"
-english = "Well... I'm surprised you can still hold out. But the Souls of the people in the imperial capital have been offered to Lord Urg.<end>"
+english = "Well... I'm surprised you can still hold out. But the Souls of the people in the imperial capital have been offered to Lord Ulugh.<end>"
 
 ["890291"]
 japanese = "…そうはいかん。<line-break>人類の革新を…<line-break> <line-break>貴様らごときに阻まれるわけには<line-break>いかんのだ！<end>"
-english = "No... I cannot allow the transformation of humanity to be thwarted by the likes of you!<end>"
+english = "No... I cannot allow Humanity's Evolution to be thwarted by the likes of you!<end>"
 
 ["890292"]
 japanese = "…やはり、こうなる、か。<end>"
@@ -1214,11 +1214,11 @@ english = "Gah!<end>"
 
 ["890303"]
 japanese = "…まだ耐えられるなんて、さすがね。<line-break>でも、帝都の人間のソウルは、<line-break>ウルグ様にささげられたわ。<line-break>あなたたちも立つことはできない。<line-break>さあ、おとなしくしなさい…<end>"
-english = "I'm impressed you're still holding out. But the Souls of the people in the imperial capital have already been offered to Lord Urg. None of you can even stand. Now, be still...<end>"
+english = "I'm impressed you're still holding out. But the Souls of the people in the imperial capital have already been offered to Lord Ulugh. None of you can even stand. Now, be still...<end>"
 
 ["890304"]
 japanese = "…そうはいかん。<line-break>人類の革新を…<line-break>阻まれるわけにはいかんのだ！<end>"
-english = "No... I cannot allow the transformation of humanity to be thwarted!<end>"
+english = "No... I cannot allow Humanity's Evolution to be thwarted!<end>"
 
 ["890305"]
 japanese = "逃がさない…。<line-break>誰も、運命からは逃れられない…！<end>"
@@ -1234,7 +1234,7 @@ english = "However fiercely you struggle... all is ordained... Heh... Ahahahahah
 
 ["890308"]
 japanese = "くっ…やはり、ここまでが限界か。<line-break>次のソウルリープからは逃げられん。<line-break>人類の革新なる前に果てるさだめか…！<end>"
-english = "Damn... So this is my limit. I won't survive the next Soul Leap. Am I fated to die before humanity can be transformed...?<end>"
+english = "Damn... So this is my limit. I won't survive the next Soul Leap. Am I fated to die before Humanity's Evolution...?<end>"
 
 ["890309"]
 japanese = "…そうだな。<line-break>あきらめるには早い。<line-break>まだ、君たちがいる…<end>"
@@ -1246,7 +1246,7 @@ english = "I have restored your strength.<end>"
 
 ["890311"]
 japanese = "私も、人類の革新という大望を<line-break>抱きながら、みすみすこんなところで<line-break>死ぬわけにはいかないからな。<end>"
-english = "I, too, harbor the grand ambition of transforming humanity. I cannot simply allow myself to die here.<end>"
+english = "I, too, harbor the grand ambition of Humanity's Evolution. I cannot simply allow myself to die here.<end>"
 
 ["890312"]
 japanese = "さあ、急ぐのだ。<line-break>次の攻撃が来る前に脱出するのだ。<end>"
@@ -1258,7 +1258,7 @@ english = "Made it in time?<end>"
 
 ["890314"]
 japanese = "今の我らでは、やつらには勝てない。<line-break> <line-break> <line-break>…ネメア様亡き今、<line-break>人類の革新は叶わぬこと<line-break>なのかもしれん。<end>"
-english = "As we are now, we cannot defeat them. With Lord Nemea gone... perhaps humanity can never be transformed.<end>"
+english = "As we are now, we cannot defeat them. With Lord Nemea gone... perhaps Humanity's Evolution can never be achieved.<end>"
 
 ["890315"]
 japanese = "…その自信はどこから来るのだ？<line-break> <line-break> <line-break>しかし…<line-break>君のおかげで命が助かったのは事実だ。<end>"
@@ -1274,7 +1274,7 @@ english = "Advent―the mightiest of holy magics, worthy of being called a Forbi
 
 ["890318"]
 japanese = "遺跡はある湖に沈められた。<line-break>強大なる力を秘めた者だけが、<line-break>その遺跡に入ることができると言う。<line-break>もし、君が…<line-break>人類に革新をもたらしうる存在であれば、<line-break>そこに来ることができるはずだ。<end>"
-english = "The ruin was submerged in a lake. It is said that only one who harbors tremendous power can enter it. If you truly are capable of transforming humanity... you should be able to reach that place.<end>"
+english = "The ruin was submerged in a lake. It is said that only one who harbors tremendous power can enter it. If you truly are capable of bringing about Humanity's Evolution... you should be able to reach that place.<end>"
 
 ["890319"]
 japanese = "さらばだ、<value:$28>。<line-break>無限のソウル…無限の可能性を持つ者。<line-break> <line-break>君に人類を導く力があるのなら…<line-break>また会うことになろう。<end>"
@@ -1286,7 +1286,7 @@ english = "I-it's coming...!<end>"
 
 ["890321"]
 japanese = "人類の革新を成し遂げんとするこの私、<line-break>そして、それを可能とする鍵である<line-break><value:$28>が、<line-break>分別なき魂のひとつとして<line-break>破壊神の杯に盛られるのか…！<line-break>くっ…こんな、こんなことが…！<end>"
-english = "I would bring about humanity's transformation, and <value:$28> is the key to making it possible―yet are we to be served in the God of Destruction's cup as nothing more than two mindless souls...?! No... This cannot be...!<end>"
+english = "I would bring about Humanity's Evolution, and <value:$28> is the key to making it possible―yet are we to be served in the God of Destruction's cup as nothing more than two mindless souls...?! No... This cannot be...!<end>"
 
 ["890322"]
 japanese = "フフフ…なんとふがいなき有り様か。<line-break>我が子よ…。<end>"
@@ -1298,7 +1298,7 @@ english = "Shalom... you bastard! It seems even Soul Leap overlooked the soul of
 
 ["890324"]
 japanese = "ほほう、たいした減らず口だ。<line-break>耳元に聞こえる死の息吹、<line-break>その恐怖にどれだけ耐えられるものか。<line-break>人類の革新者たるもの、まずは自身で<line-break>人並みの領域を超越して見せねばならぬ。<line-break>…これは、見ものだな。<end>"
-english = "Oh? Such bold words. Let us see how long that bravado lasts with death breathing in your ear. One who would transform humanity must first prove capable of transcending the limits of ordinary mortals. This should be quite a spectacle.<end>"
+english = "Oh? Such bold words. Let us see how long that bravado lasts with death breathing in your ear. One who would bring about Humanity's Evolution must first prove capable of transcending the limits of ordinary mortals. This should be quite a spectacle.<end>"
 
 ["890325"]
 japanese = "クッ！<line-break>貴様の悪趣味ぶりには<line-break>吐き気すら覚える！<line-break>息子の死に際くらい、<line-break>気を利かせられないのか！<end>"
@@ -1310,7 +1310,7 @@ english = "Come now, do not be so desperate. Do you imagine any parent would not
 
 ["890327"]
 japanese = "貴様が欲しているのは、<line-break>意のままに操れる人形だろう！<line-break> <line-break>恥を知れ！<line-break>貴様は、人類の革新者どころか、<line-break>死肉にたかる金蝿そのものだ！<end>"
-english = "What you want is a puppet you can control at will! Have you no shame? You are no agent of humanity's transformation. You are nothing but a blowfly feeding on carrion!<end>"
+english = "What you want is a puppet you can control at will! Have you no shame? You are no agent of Humanity's Evolution. You are nothing but a blowfly feeding on carrion!<end>"
 
 ["890328"]
 japanese = "フフフ。<line-break>ここへ来て、ウジ虫から金蝿に格上げか。<line-break> <line-break>で、そのとおりだ、と言ったら<line-break>…何なのだ？<end>"
@@ -1326,7 +1326,7 @@ english = "I offer you a bargain, my child. Surrender that familiar flesh of you
 
 ["890331"]
 japanese = "人類革新の方針は違えど、<line-break><value:$28>は、<line-break>余にとってもかけがえのない存在だ。<line-break>こんなところで、<line-break>みすみす失いたくはない。<line-break>悪い話ではあるまい？<end>"
-english = "Though our visions for humanity's transformation differ, <value:$28> is irreplaceable to me as well. I have no wish to stand by and lose someone so precious here. It is not such a poor bargain, is it?<end>"
+english = "Though our visions of Humanity's Evolution differ, <value:$28> is irreplaceable to me as well. I have no wish to stand by and lose someone so precious here. It is not such a poor bargain, is it?<end>"
 
 ["890332"]
 japanese = "…わかっている。<line-break>だが、完全に食い潰されさえ<line-break>しなければ…<line-break>いつか必ず奴の支配に対して<line-break>私は反旗をひるがえす…<end>"
@@ -1354,7 +1354,7 @@ english = "Be grateful I did not inherit your cunning nature. I, too... will kee
 
 ["890338"]
 japanese = "よかろう。<line-break>人類革新の日は近いぞ、わが息子よ…！<end>"
-english = "Very well. The day of humanity's transformation draws near, my son...!<end>"
+english = "Very well. The day of Humanity's Evolution draws near, my son...!<end>"
 
 ["890339"]
 japanese = "………………。<end>"
@@ -1370,11 +1370,11 @@ english = "I-it's coming...!<end>"
 
 ["890342"]
 japanese = "人類の革新を成し遂げんとするこの私、<line-break>そして、それを可能とする鍵である<line-break><value:$28>が、<line-break>分別なき魂のひとつとして、<line-break>破壊神の杯に盛られるのか…！<line-break>くっ…こんな、こんなことが…！<end>"
-english = "I would bring about humanity's transformation, and <value:$28> is the key to making it possible―yet are we to be served in the God of Destruction's cup as nothing more than two mindless souls...?! No... This cannot be...!<end>"
+english = "I would bring about Humanity's Evolution, and <value:$28> is the key to making it possible―yet are we to be served in the God of Destruction's cup as nothing more than two mindless souls...?! No... This cannot be...!<end>"
 
 ["890343"]
 japanese = "そ、そうはさせぬ。<line-break>我が身果てようとも、人類の革新の芽を<line-break>摘ませるわけにはいかんのだ。<line-break>ゆけ！<line-break>無限のソウルの持ち主よ。<line-break>人類の…人類の革新を…<end>"
-english = "N-no, I will not allow it. Even if I perish, I cannot let the seed of humanity's transformation be crushed. Go! Bearer of the Infinite Soul. Humanity's... humanity's transformation...<end>"
+english = "N-no, I will not allow it. Even if I perish, I cannot let the seed of Humanity's Evolution be crushed. Go! Bearer of the Infinite Soul. Humanity's... Humanity's Evolution...<end>"
 
 ["890344"]
 japanese = "…地獄の苦しみだぜ<end>"
@@ -1882,7 +1882,7 @@ english = "I alone can awaken Vashtar. And only Vashtar can open the Dark Gate.<
 
 ["890470"]
 japanese = "闇の門を通らなければ、<line-break>ウルグ様は復活できない。<line-break>…違うかしら？\u3000それでも無駄だと？<end>"
-english = "Lord Urg cannot be resurrected without passing through the Dark Gate. Am I wrong? Do you still call it futile?<end>"
+english = "Lord Ulugh cannot be resurrected without passing through the Dark Gate. Am I wrong? Do you still call it futile?<end>"
 
 ["890471"]
 japanese = "…ヴァシュタールの柩に<line-break>近づく者がある。<line-break> <line-break>奴の気は千変万化して<line-break>正体をつかませぬ。<line-break>気をつけることだ。<end>"
@@ -1898,7 +1898,7 @@ english = "Have I awakened again...?<end>"
 
 ["890474"]
 japanese = "おはよ、破壊神ウルグの円卓騎士<line-break>ヴァシュタール。<end>"
-english = "Morning, Vashtar, Knight of the Round Table in service to Urg, God of Destruction.<end>"
+english = "Morning, Vashtar, Knight of the Round Table in service to Ulugh, God of Destruction.<end>"
 
 ["890475"]
 japanese = "なぜ…私を呼び覚ました。<end>"
@@ -1910,7 +1910,7 @@ english = "Your job is to open the Dark Gate, the path by which the God of Destr
 
 ["890477"]
 japanese = "…虚無の子か。<line-break>何を考えている？<line-break>\u3000<line-break>神が去ったこの世界で、<line-break>ウルグ様が復活することが<line-break>どういうことかわかっているのか？<end>"
-english = "The Child of the Void... What are you planning? Do you understand what Lord Urg's return would mean in this godless world?<end>"
+english = "The Child of the Void... What are you planning? Do you understand what Lord Ulugh's return would mean in this godless world?<end>"
 
 ["890478"]
 japanese = "おもしろいことさ。<end>"
@@ -1938,7 +1938,7 @@ english = "You! The Child of the Void? No...!<end>"
 
 ["890484"]
 japanese = "破壊神ウルグの円卓騎士<line-break>告げる者アスティアよ。<line-break>お前の背信のもくろみは失敗だ。<end>"
-english = "Astia the Herald, Knight of the Round Table in service to Urg, God of Destruction. Your treacherous scheme has failed.<end>"
+english = "Astia the Herald, Knight of the Round Table in service to Ulugh, God of Destruction. Your treacherous scheme has failed.<end>"
 
 ["890485"]
 japanese = "そんな…。<end>"
@@ -1986,7 +1986,7 @@ english = "You would sacrifice yourself to let another escape? Astia, a mother's
 
 ["890496"]
 japanese = "いや～、はやいもんだよねぇ。<line-break>もう、バイアシオン大陸なんて<line-break>ちっちゃくて見えないわ。<line-break>あんな、ちっぽけな陸の上で<line-break>あたしたちは戦ってたんだよね。<line-break>ここからこっちは自分の国だって。<end>"
-english = "Well, that was quick, wasn't it? The Baiashion Continent's already too small to see. And to think we fought on that tiny scrap of land, saying, “This side is our country.”<end>"
+english = "Well, that was quick, wasn't it? The Vyashion Continent's already too small to see. And to think we fought on that tiny scrap of land, saying, “This side is our country.”<end>"
 
 ["890497"]
 japanese = "王妃様にお会いになるのですね。<line-break>かしこまりました。<line-break>どうぞお通りください。<line-break>しかし、伯爵様、よろしいのですか？<line-break>お兄君のエリエナイ公は…<line-break>い、いえ、出過ぎだ発言でした。<end>"
@@ -2630,7 +2630,7 @@ english = "Too late...?<end>"
 
 ["890657"]
 japanese = "この残り香…カフィンは<line-break>新月の香を使ってダルケニスの<line-break>力を解放したのだろう。<line-break>しかし、それでも…<line-break>ソウルイーターに<line-break>とどめは刺せなかった…。<end>"
-english = "This lingering scent... Coffin must have used the Scent of the New Moon to unleash the power of Darkenis. And even then... she could not finish off the Soul Eater...<end>"
+english = "This lingering scent... Coffin must have used the Scent of the New Moon to unleash the power of Darkenith. And even then... she could not finish off the Soul Eater...<end>"
 
 ["890658"]
 japanese = "もう、我々に退く道は<line-break>残されてはいないということか…。<end>"
@@ -2934,7 +2934,7 @@ english = "<value:$28>! But Van has the inn...<end>"
 
 ["890733"]
 japanese = "お主たちも立つことはできまい？<line-break>もはや、破壊神の復活を<line-break>妨げることはできん。<line-break>お主たちもソウルを<line-break>ウルグ様にささげるがよい。<end>"
-english = "You cannot even stand, can you? It is too late to prevent the resurrection of the God of Destruction. Offer your Souls to Lord Urg as well.<end>"
+english = "You cannot even stand, can you? It is too late to prevent the resurrection of the God of Destruction. Offer your Souls to Lord Ulugh as well.<end>"
 
 ["890734"]
 japanese = "ひさしいのう、ベルゼーヴァ。<line-break>結界をすでに張っておったとは。<line-break> <line-break>それを見抜けぬとは、<line-break>わしも、もうろくしたものじゃ。<end>"
@@ -2954,11 +2954,11 @@ english = "Heh heh heh. You ask why? So that I may strike a bargain with Beelzev
 
 ["890738"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000 汝が余と共に<line-break>\u3000\u3000人類革新の道を歩みたいのならば、<line-break>\u3000\u3000\u3000 \u3000余の指示通りにするのだ。<line-break>\u3000                           <line-break>\u3000<line-break>\u3000\u3000\u3000\u3000決してベルゼーヴァを<line-break>\u3000\u3000脱出させてはならぬ。わかったな。<end>"
-english = "If you wish to walk beside me on the path to humanity's renewal, then follow my instructions. You must never allow Beelzeva to escape. Is that understood?<end>"
+english = "If you wish to walk beside me on the path to Humanity's Evolution, then follow my instructions. You must never allow Beelzeva to escape. Is that understood?<end>"
 
 ["890739"]
 japanese = "<value:$28>よ…。<line-break>多少、時間はかかったが、<line-break>すべては余の計画通りになった。<line-break>いよいよだぞ。<line-break>我らが人類の革新に<line-break>本格的に乗り出すのは…。<end>"
-english = "<value:$28>... It took some time, but everything has unfolded according to my plan. At last, the moment has come for us to begin humanity's transformation in earnest...<end>"
+english = "<value:$28>... It took some time, but everything has unfolded according to my plan. At last, the moment has come for us to begin Humanity's Evolution in earnest...<end>"
 
 ["890740"]
 japanese = "さて、とりあえず余はディンガル軍に<line-break>戻り、宰相ベルゼーヴァとして<line-break>采配を振るとするか。<line-break>まずは全軍を魔道兵に仕立て、<line-break>戦力増強を図らねばならんからな。<line-break>フフフ…。<end>"

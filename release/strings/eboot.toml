@@ -434,7 +434,7 @@
 0x2516e0 = { source = "決着", replacement = "End" }
 0x2516e8 = { source = "新たなる挑戦", replacement = "Challenge" }
 0x2516f8 = { source = "変わりゆく心", replacement = "Heart's Turn" }
-0x251708 = { source = "ゴブゴブ団、前進", replacement = "Gobgobs, March!" }
+0x251708 = { source = "ゴブゴブ団、前進", replacement = "Gob-Gob Gang Go" }
 0x25171c = { source = "二つの無限", replacement = "Two Beyond" }
 0x251728 = { source = "二人のたくらみ", replacement = "Their Plot" }
 0x251738 = { source = "竜王の意思", replacement = "Wyrm's Aim" }
@@ -480,9 +480,9 @@
 0x251d04 = { source = "ネメア", replacement = "Nemea" }
 0x251d0c = { source = "システィーナの伝道師", replacement = "Sistina Missionary" }
 0x251d24 = { source = "ジリオン＆イーシャ", replacement = "Zillion & Iria" }
-0x251d38 = { source = "ゴブゴブ団", replacement = "Gobgobs" }
+0x251d38 = { source = "ゴブゴブ団", replacement = "Gob-Gob" }
 0x251d44 = { source = "レムオン＆ゼネテス", replacement = "Lemghon & Xenetes" }
-0x251d58 = { source = "４人の巫女", replacement = "4 Maidens" }
+0x251d58 = { source = "４人の巫女", replacement = "4 Priest." }
 0x251d7c = { source = "インストールを中止しますか？", replacement = "Stop installation?" }
 0x251da0 = { source = "いいえ", replacement = "No" }
 0x251dac = { source = "はい", replacement = "Yes" }

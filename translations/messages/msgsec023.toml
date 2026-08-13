@@ -290,7 +290,7 @@ english = "Adventurer wanted to find <value:$15>! Reward: <value:$1A> Gea! Deadl
 
 ["230072"]
 japanese = "いい酒場には、特製の酒が置いてあるもんさ。<line-break>ウルカーン酒場でも同様でね。<line-break><value:$15>を使って作るんだが、<line-break>危険な場所にあって、簡単には採ってこれない。<line-break>で、代わりに持ち帰ってほしいんだが、<line-break><value:$1B>日以内にできないかな？<line-break>報酬は、<value:$1A>ギア出すよ。<end>"
-english = "Every good tavern keeps a house liquor, and Ulkaan Tavern is no exception. Ours is made with <value:$15>, but it comes from a dangerous place and is not easy to gather. Could you bring it back for us within <value:$1B> days? Reward: <value:$1A> Gea.<end>"
+english = "Every good tavern keeps a house liquor, and Ulkarne Tavern is no exception. Ours is made with <value:$15>, but it comes from a dangerous place and is not easy to gather. Could you bring it back for us within <value:$1B> days? Reward: <value:$1A> Gea.<end>"
 
 ["230073"]
 japanese = "冒険者のみなさまの力をお借りしたいのです。<line-break><value:$15>を入手したいのですが、<line-break>これがある場所はかなりの危険地帯なのです。<line-break>私どものように冒険に詳しくない者では、<line-break>出向くことはできません。<line-break><value:$1B>日以内に、報酬<value:$1A>で、<line-break>引き受けてもらえませんか？<end>"

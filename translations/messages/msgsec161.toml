@@ -174,7 +174,7 @@ english = "It's a monster hunt. An ordinary monster would be one thing, but... T
 
 ["1610043"]
 japanese = "そいつは、ウルカーンへの街道沿いから<line-break>見える、火山岩地帯にいるらしい。<line-break>どうだ？\u3000行ってきてみるか？<end>"
-english = "Apparently it's in the Volcanic Rock Zone, visible from the road to Urukahn. What do you say? Want to take the job?<end>"
+english = "Apparently it's in the Volcanic Rock Zone, visible from the road to Ulkarne. What do you say? Want to take the job?<end>"
 
 ["1610044"]
 japanese = "退治に行く<end>"
@@ -202,7 +202,7 @@ english = "All right. I suppose you've got plenty keeping you busy. I won't pres
 
 ["1610050"]
 japanese = "あ、あんた…\u3000スラムでタルテュバを\u3000<line-break>返り討ちにした人だな…。<end>"
-english = "Y-you... You're the one who beat Tarteuba in the Slums...<end>"
+english = "Y-you... You're the one who beat Tartuba in the Slums...<end>"
 
 ["1610051"]
 japanese = "あんた…、強そうだな…<line-break>…仕事を…引き受けてくれないか…？\u3000<end>"
@@ -1002,7 +1002,7 @@ english = "Chaka got a little dumber. ＩＮＴ decreased by 1. Chaka got a litt
 
 ["1610250"]
 japanese = "オッシ先生が言ってたわ。<line-break>実力があっても、かえってそれで<line-break>目をふさがれて、自滅するって。<line-break>彼ってそんな感じかしら？<line-break>なんにせよ、すごい自信よね。<end>"
-english = "My teacher Ossi said that even real ability can blind you and lead you to your own ruin. Do you think he's like that? In any case, that's quite some confidence.<end>"
+english = "Master Ossi said that even real ability can blind you and lead you to your own ruin. Do you think he's like that? In any case, that's quite some confidence.<end>"
 
 ["1610251"]
 japanese = "なんか、かっこいいよね。セラってさ。<line-break>ちょっと、気になるかな。<line-break>\u3000<line-break>…なーんてボクが言ったら<line-break><value:$28>は気になる？<end>"

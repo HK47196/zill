@@ -2,7 +2,7 @@
 
 ["120000"]
 japanese = "奥の入り口は、左から順に<line-break>移動の間、倉庫、貯水の間、農場の間<line-break>へ通じている。<end>"
-english = "The entrances at the back lead, from left to right, to the Transit Room, the warehouse, the Water Storage Room, and the Farm Room.<end>"
+english = "The entrances at the back lead, from left to right, to the Transit Chamber, the warehouse, the Water Reservoir Chamber, and the Farm Chamber.<end>"
 
 ["120001"]
 japanese = "あなた、外の世界から来たのね。<line-break>外の世界の人に会うの、あたし初めてなの。<line-break>だって、ラドラスから一度も出たことないから。<line-break>外の世界って危険でいっぱいって本当なの？<line-break>あたしもエステルみたいに、外の世界に<line-break>冒険に行ってみたいなぁ。<end>"
@@ -14,11 +14,11 @@ english = "<select><value:$20>%5This is the Transit Chamber. Stand before one of
 
 ["120003"]
 japanese = "ここは貯水の間。<line-break>この水は我々にとって、まさに命の次に大切な<line-break>ものなのだ。大切にせねばいかんぞ。<end>"
-english = "This is the Reservoir Chamber. To us, this water is second only to life itself. See that you treat it with care.<end>"
+english = "This is the Water Reservoir Chamber. To us, this water is second only to life itself. See that you treat it with care.<end>"
 
 ["120004"]
 japanese = "ここは農場の間。<line-break>我々が砂漠の中で生きていけるのは、<line-break>食物を自給自足できるからだ。<line-break>魔道王国の技術力には感心するよ。<line-break>こんな技術を持った魔道王国が<line-break>滅ぶとは、不思議でならないのだが…。<end>"
-english = "This is the Farm Chamber. We can survive here in the desert because we produce all our own food. The Mage Kingdom's technical prowess is remarkable. With such technology at its command, I cannot understand how the kingdom ever fell...<end>"
+english = "This is the Farm Chamber. We can survive here in the desert because we produce all our own food. The Magic Kingdom's technical prowess is remarkable. With such technology at its command, I cannot understand how the kingdom ever fell...<end>"
 
 ["120005"]
 japanese = "ラドラスメッセージここまで<end>"

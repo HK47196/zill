@@ -58,7 +58,7 @@ english = "What! One of the dark artifacts is in the Labyrinth of Sinners? Hmm, 
 
 ["1240014"]
 japanese = "<value:$28>も知っていると<line-break>思うけど、罪深き者の迷宮にも<line-break>闇の神器があるんだね。<line-break>闇の神器は破壊神ウルグを<line-break>復活させるための道具らしいから、<line-break>扱いには注意しないとね。<end>"
-english = "I'm sure <value:$28> already knows, but there's a dark artifact in the Labyrinth of Sinners too. Apparently the dark artifacts are tools for reviving Urg, the God of Destruction, so we need to handle them carefully.<end>"
+english = "I'm sure <value:$28> already knows, but there's a dark artifact in the Labyrinth of Sinners too. Apparently the dark artifacts are tools for reviving Ulugh, the God of Destruction, so we need to handle them carefully.<end>"
 
 ["1240015"]
 japanese = "………………。<end>"
@@ -86,7 +86,7 @@ english = "According to Ceryneia, two dark artifacts lie dormant in the Labyrint
 
 ["1240021"]
 japanese = "闇の神器が罪深き者の迷宮にも<line-break>あるそうだけど、いつもあるとは<line-break>限らないってのが謎だよねぇ。<line-break>それにしても闇の神器を集めている<line-break>ぼくたちって、破壊神ウルグ復活を企む<line-break>秘密結社みたいだね。<end>"
-english = "They say there's a dark artifact in the Labyrinth of Sinners too, but it's strange that it isn't always there. Still, collecting dark artifacts makes us look like a secret society plotting to revive Urg, the God of Destruction.<end>"
+english = "They say there's a dark artifact in the Labyrinth of Sinners too, but it's strange that it isn't always there. Still, collecting dark artifacts makes us look like a secret society plotting to revive Ulugh, the God of Destruction.<end>"
 
 ["1240022"]
 japanese = "２個目は罪深き者の迷宮にある。<line-break>しかし、行けば必ず手に入るとも<line-break>限らないとは…どういうことだ？<end>"
@@ -742,7 +742,7 @@ english = "It's amazing that we get to travel with the sage Orphaus! We don't ha
 
 ["1240185"]
 japanese = "邪竜の断層から強い妖気とな…。<line-break>気のせいと思いたいが、<line-break>このイオンズにも嫌な予感がしよる。<line-break>邪竜の復活だけは阻止せねば！<line-break>ゆくぞ、<value:$28>。<end>"
-english = "A powerful evil aura from the Evil Dragon Rift... I wish it were only imagination, but even Ionz has a bad feeling about this. We must prevent the Evil Dragon's revival! Let us go, <value:$28>.<end>"
+english = "A powerful evil aura from the Evil Dragon Rift... I wish it were only imagination, but even Ions has a bad feeling about this. We must prevent the Evil Dragon's revival! Let us go, <value:$28>.<end>"
 
 ["1240186"]
 japanese = "邪竜の断層には、その名の通り<line-break>アズラゴーザという邪竜が封じられて<line-break>いると聞く。<line-break>それが妖気の根源とは考えたくないが<line-break>賢者様の急ぎようはただ事では<line-break>なさそうだな…。<end>"

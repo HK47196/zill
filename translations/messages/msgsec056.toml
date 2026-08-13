@@ -254,7 +254,7 @@ english = "Um, <value:$28>... am I very small?<end>"
 
 ["560063"]
 japanese = "あ、えと、この前、ボルダンの賞金首に<line-break>言われたんです。<line-break>\u3000<line-break>小さすぎて、視界に入らないって…<line-break>…で、それ、ホントらしいんです。彼、<line-break>わたしの攻撃全部食らってましたから。<end>"
-english = "Um, one of Bordan's wanted men said so the other day. He said I was too small to see. And apparently it was true, because every one of my attacks hit him.<end>"
+english = "Um, one of Boldan's wanted men said so the other day. He said I was too small to see. And apparently it was true, because every one of my attacks hit him.<end>"
 
 ["560064"]
 japanese = "で、背がおっきくなりたいなあって、<line-break>そのとき、思いました！<line-break>\u3000<line-break>あの、<value:$28>さん！<line-break>どうすれば背がおっきくなって<line-break>他人の視界に入れるんでしょう？<end>"
@@ -462,7 +462,7 @@ english = "Remember when the Angels of Death attacked us? They were after me. Th
 
 ["560115"]
 japanese = "そう、俺は施文院の暗殺部隊\u3000\u3000\u3000\u3000\u3000<line-break>告死天使の一員だった。<line-break>\u3000<line-break>それも死の羽音と呼ばれる<line-break>屈指の暗殺者…<line-break>…いや、殺人機械だった。<end>"
-english = "Yes. I belonged to the Angels of Death, the Academy of Letters' assassination unit. I was one of their finest assassins, known as Death's Wingbeat. No... I was a killing machine.<end>"
+english = "Yes. I belonged to the Angels of Death, the Inscription Order's assassination unit. I was one of their finest assassins, known as Death's Wingbeat. No... I was a killing machine.<end>"
 
 ["560116"]
 japanese = "感傷もなく殺し、感動もなく処理した。<line-break>あの日…初めてネメアと戦った<line-break>あの日までは…。<end>"
@@ -738,7 +738,7 @@ english = "For every coin you have, I'll sell you any information you want. Inte
 
 ["560184"]
 japanese = "よう、俺はツェラシェル。<line-break>神官崩れの冒険者だ。あんたは？<end>"
-english = "Hey. I'm Zelashell, an adventurer and former priest. And you are?<end>"
+english = "Hey. I'm Zeraschel, an adventurer and former priest. And you are?<end>"
 
 ["560185"]
 japanese = "…<value:$28>、ね。<line-break>なんか困りごとがあるようだが？<end>"
@@ -1086,7 +1086,7 @@ english = "Grrr... rrr... Blood... blood...<end>"
 
 ["560271"]
 japanese = "カフィンの奴、<line-break>ダルケニスだったのか…。<end>"
-english = "So Coffin is a Darkenis...<end>"
+english = "So Coffin is a Darkenith...<end>"
 
 ["560272"]
 japanese = "…やめておくことだ。<line-break>貴様の技はカフィンを殺す。<end>"
@@ -1122,7 +1122,7 @@ english = "That scent...<end>"
 
 ["560280"]
 japanese = "施文院の秘術…新月の香。<line-break>これで狂暴化させられていたわけか。<end>"
-english = "A secret art of the Academy of Enchantment... Scent of the New Moon. So that's what drove her into a frenzy.<end>"
+english = "A secret art of the Inscription Order... Scent of the New Moon. So that's what drove her into a frenzy.<end>"
 
 ["560281"]
 japanese = "おい、なんの音だ？<line-break>何があった？<end>"
@@ -1130,7 +1130,7 @@ english = "Hey, what was that noise? What happened?<end>"
 
 ["560282"]
 japanese = "見ろ、ダルケニスだ！<end>"
-english = "Look! A Darkenis!<end>"
+english = "Look! A Darkenith!<end>"
 
 ["560283"]
 japanese = "殺せ、賞金が出るぞ！<line-break>今日はついてるぜ！<end>"
@@ -1174,7 +1174,7 @@ english = "Damn it! These people are something else! But don't think you'll get 
 
 ["560293"]
 japanese = "おーい、起きろ！<line-break>みんな！\u3000凶悪なダルケニスだ！<line-break>退治しないと、みんな血を吸われるぞ！<end>"
-english = "Hey, wake up! Everyone! There's a vicious Darkenis here! Kill it, or it'll suck everyone's blood!<end>"
+english = "Hey, wake up! Everyone! There's a vicious Darkenith here! Kill it, or it'll suck everyone's blood!<end>"
 
 ["560294"]
 japanese = "…ひ、ひどい！<line-break>…どうして、どうして、そんなことを！<end>"
@@ -1242,7 +1242,7 @@ english = "You've come to the rescue again, <value:$28>.<end>"
 
 ["560310"]
 japanese = "思ったとおり、施文院の奴らよ。<line-break>しつこいったらないわ。<line-break>\u3000<line-break>誰がお目当てだか知らないけど、<line-break>もしも身に覚えがあるなら、<line-break>さっさと白状なさい？<end>"
-english = "Just as I thought, they're from the Academy of Enchantment. They really don't know when to quit. I don't know who they're after, but if this sounds familiar, confess now.<end>"
+english = "Just as I thought, they're from the Inscription Order. They really don't know when to quit. I don't know who they're after, but if this sounds familiar, confess now.<end>"
 
 ["560311"]
 japanese = "いろいろありすぎて、<line-break>どれから白状していいか…。<end>"
@@ -1274,7 +1274,7 @@ english = "Oh, thank you, <value:$28>! I hope I can become a full-fledged advent
 
 ["560318"]
 japanese = "また、施文院の連中なの？<end>"
-english = "More people from the Academy of Enchantment?<end>"
+english = "More people from the Inscription Order?<end>"
 
 ["560319"]
 japanese = "間違いない、告死天使だ。<end>"
@@ -1562,11 +1562,11 @@ english = "Have I grown accustomed to death? Someone who had been with me since 
 
 ["560390"]
 japanese = "タルテュバ様も思えば、<line-break>おかわいそうな方です。<line-break>\u3000<line-break>何かにつけて、いとこの<line-break>レムオン様、エスト様に比べられ、<line-break>あげつらわれてきたのですから。<end>"
-english = "When you think about it, Tartyuba is to be pitied as well. At every turn, Tartyuba was compared to the cousins, Lemghon and Est, and picked apart.<end>"
+english = "When you think about it, Tartuba is to be pitied as well. At every turn, Tartuba was compared to the cousins, Lemghon and Est, and picked apart.<end>"
 
 ["560391"]
 japanese = "タルテュバ様も貴族に生まれなければ…<line-break>このような悲しいことには<line-break>ならなかったのかもしれません<end>"
-english = "If Tartyuba had not been born into the nobility... perhaps this tragedy might never have happened.<end>"
+english = "If Tartuba had not been born into the nobility... perhaps this tragedy might never have happened.<end>"
 
 ["560392"]
 japanese = "<value:$28>様…<line-break>少しだけ、一人にさせてください<end>"
@@ -1630,7 +1630,7 @@ english = "A mighty power guards these ruins. Mediocrities could never so much a
 
 ["560407"]
 japanese = "やはり…<line-break>君には人類を革新へと導くだけの<line-break>素質があるのかもしれん。<end>"
-english = "Perhaps you do possess the potential to guide humanity toward renewal.<end>"
+english = "Perhaps you do possess the potential to guide humanity toward Humanity's Evolution.<end>"
 
 ["560408"]
 japanese = "<value:$28>。<end>"
@@ -1646,7 +1646,7 @@ english = "Now, show me your power.<end>"
 
 ["560411"]
 japanese = "フッ<line-break>見事だ。<line-break> <line-break>よかろう。<line-break>このベルゼーヴァ・ベルライン<line-break>人類の革新のため、力を貸そう。<end>"
-english = "Heh. Impressive. Very well. I, Beelzeva Berline, shall lend you my strength in the cause of humanity's renewal.<end>"
+english = "Heh. Impressive. Very well. I, Beelzeva Berline, shall lend you my strength in the cause of Humanity's Evolution.<end>"
 
 ["560412"]
 japanese = "猫屋敷で呼び出すのか。<line-break>なるほど、かの猫屋敷か。<line-break>興味深いな。<line-break>それでは心待ちにしている。<line-break>さらばだ、諸君。<end>"
@@ -1678,7 +1678,7 @@ english = "Very well. As an offering to my son, I shall absorb you into myself. 
 
 ["560419"]
 japanese = "ゆくぞ、無限のソウルを持つ者よ。<line-break>人類の新たなる革新のため、<line-break>尊き犠牲となるがよい。<end>"
-english = "Here I come, Bearer of the Infinite Soul. Become a noble sacrifice for humanity's new transformation.<end>"
+english = "Here I come, Bearer of the Infinite Soul. Become a noble sacrifice for a new phase of Humanity's Evolution.<end>"
 
 ["560420"]
 japanese = "ぐふっ、余が、超人類である余が…<line-break>汝ごときに敗れるとはな…。フフ…。<line-break>しょせんはベルゼーヴァの身体か…。<line-break>余は死なぬ。１０００年を待ったのだ…<line-break>もう少し時期を待とう…。<line-break>ふ、ふ、ふふ…。<end>"
@@ -1690,11 +1690,11 @@ english = "Learned Demolish.<end>"
 
 ["560422"]
 japanese = "憐れみはいらん…。<line-break>父に…あのウジ虫に利用されるならば<line-break>しょせん、私もその程度だったのだ…。<line-break>…<value:$28>、<line-break>…人類の…革新を…頼む。<line-break>人は…あまりにも…弱すぎる…。<end>"
-english = "I need no pity... If I could be used by my father―by that maggot―then that was all I amounted to... <value:$28>... I leave humanity's transformation to you. People are... far too weak...<end>"
+english = "I need no pity... If I could be used by my father―by that maggot―then that was all I amounted to... <value:$28>... I entrust Humanity's Evolution to you. People are... far too weak...<end>"
 
 ["560423"]
 japanese = "人が…強くあったならば…<line-break>この世の悲しみは…もっと…<line-break>少ないはずだ…、頼む…革新を…。<end>"
-english = "If people were stronger... there would be less sorrow in this world... Please... transform humanity...<end>"
+english = "If people were stronger... there would be less sorrow in this world... Please... bring about Humanity's Evolution...<end>"
 
 ["560424"]
 japanese = "やはり…やはり…<line-break>君とはここで会うことになったか。<line-break><value:$28>よ…。<end>"
@@ -1730,11 +1730,11 @@ english = "I need no pity... If I am to fall to you here... then this was all I 
 
 ["560432"]
 japanese = "…<value:$28>、<line-break>…人類の…革新を…頼む。<line-break>人は…あまりにも…弱すぎる…。<line-break>人が…強くあったならば<line-break>この世の悲しみは…もっと…<line-break>少ないはずだ…、頼む…革新を…。<end>"
-english = "<value:$28>... Please... bring about humanity's renewal. Humanity is... far too weak... If people were stronger, there would surely be... less sorrow in this world... Please... renew humanity...<end>"
+english = "<value:$28>... Please... bring about Humanity's Evolution. Humanity is... far too weak... If people were stronger, there would surely be... less sorrow in this world... Please... achieve Humanity's Evolution...<end>"
 
 ["560433"]
 japanese = "革新は…ならぬ…のか…！<line-break>弱き…人の…悲しみ…は…<line-break>続く…のか…。ああ…！<end>"
-english = "Can there be... no renewal...? Must the sorrow... of weak humanity... go on...? Ah...!<end>"
+english = "Can Humanity's Evolution... not be achieved...? Must the sorrow... of weak humanity... go on...? Ah...!<end>"
 
 ["560434"]
 japanese = "悪いが、はずしてくれ。<line-break>片付けてしまいたい仕事がある。<end>"
@@ -2246,19 +2246,19 @@ english = "K-Karula... she's terrifying. We d-didn't even have time to mount a d
 
 ["560561"]
 japanese = "た、頼む、我らコーンスの未来を<line-break>しょ、将軍をお守りしてくれ…<line-break>ごふっ…<end>"
-english = "P-please... the future of the Corns... p-protect the general... Guh...<end>"
+english = "P-please... the future of the Konsu... p-protect the general... Guh...<end>"
 
 ["560562"]
 japanese = "私は貴様のように<line-break>我欲のために戦っているのではない！<line-break>種族の未来のために戦っている！<line-break>このままではコーンスは<line-break>数で勝る人間に押され、<line-break>種族的に滅びてしまう。<end>"
-english = "I am not fighting to satisfy my own desires, as you are! I fight for the future of my people! If this continues, the Corns will be overwhelmed by the more numerous humans and driven to extinction.<end>"
+english = "I am not fighting to satisfy my own desires, as you are! I fight for the future of my people! If this continues, the Konsu will be overwhelmed by the more numerous humans and driven to extinction.<end>"
 
 ["560563"]
 japanese = "ネメア様亡き今、聖光石で力を付けて<line-break>世界を支配するより、<line-break>我らコーンスに生き延びる道無し！<end>"
-english = "Now that Lord Nemea is dead, the Corns have no hope of survival but to gain power through the Holy Light Stones and rule the world!<end>"
+english = "Now that Lord Nemea is dead, the Konsu have no hope of survival but to gain power through the Holy Light Stones and rule the world!<end>"
 
 ["560564"]
 japanese = "…で、ジラークちゃん、<line-break>コーンスが支配する世界を作って<line-break>どうするつもりなの？<line-break>コーンスってだけで<line-break>自分は特別だって面して歩く、<line-break>特権バカコーンスを量産するわけ？<end>"
-english = "So, Zsilak dear, what do you plan to do once you've made a world ruled by the Corns? Churn out a whole crop of privilege-addled fools who strut around thinking they're special just because they're Corns?<end>"
+english = "So, Zsilak dear, what do you plan to do once you've made a world ruled by the Konsu? Churn out a whole crop of privilege-addled fools who strut around thinking they're special just because they're Konsu?<end>"
 
 ["560565"]
 japanese = "ち、違う！<end>"
@@ -2274,7 +2274,7 @@ english = "N-No! If we are to survive with our racial pride intact...!<end>"
 
 ["560568"]
 japanese = "あんたはそうやって<line-break>種族間の憎悪を育ててるだけ。<line-break>人間の数ってのを無視しちゃダメよん。<line-break>力で押さえても、数がはねのけるわ。<line-break>それからコーンスはダルケニス同様に<line-break>人間によって駆逐されるわ。<end>"
-english = "All you're doing is feeding hatred between the races. You can't ignore the sheer number of humans. You may hold them down by force, but their numbers will eventually break your grip. Then the humans will wipe out the Corns, just as they did the Dalkenis.<end>"
+english = "All you're doing is feeding hatred between the races. You can't ignore the sheer number of humans. You may hold them down by force, but their numbers will eventually break your grip. Then the humans will wipe out the Konsu, just as they did the Darkenith.<end>"
 
 ["560569"]
 japanese = "私は…、同胞種族のために…！<line-break>同胞種族は特権に迷いはしない…！<end>"
@@ -2354,7 +2354,7 @@ english = "No, I can't let that happen! I can't, Karula!<end>"
 
 ["560588"]
 japanese = "コーンスの未来を託せるものは<line-break>今、この場に、<line-break>お前たちしかおらぬ。<line-break>私の反乱でコーンスに向けられている<line-break>人間たちの憎悪を収拾できるのは、<line-break>お前しかおらぬのだ！<end>"
-english = "You are the only ones here to whom the future of the Corns can now be entrusted. You alone can quell the humans' hatred of the Corns that my rebellion has stirred!<end>"
+english = "You are the only ones here to whom the future of the Konsu can now be entrusted. You alone can quell the humans' hatred of the Konsu that my rebellion has stirred!<end>"
 
 ["560589"]
 japanese = "ジラーク、何を…！<end>"
@@ -2362,7 +2362,7 @@ english = "Zsilak, what are you...!<end>"
 
 ["560590"]
 japanese = "お前しか同胞コーンスを<line-break>守れないのだ！<line-break>お前の命は私が守ってみせる！<line-break>…頼む、同胞を<line-break>コーンスを守ってくれ…！<end>"
-english = "Only you can protect our fellow Corns! I swear I will protect your life! Please... protect our people. Protect the Corns...!<end>"
+english = "Only you can protect our fellow Konsu! I swear I will protect your life! Please... protect our people. Protect the Konsu...!<end>"
 
 ["560591"]
 japanese = "\u3000\u3000\u3000\u3000\u3000…ちっとも面白くなかった<line-break><line-break><line-break><line-break>\u3000\u3000\u3000絶っ対、笑ってようって誓ったのに<line-break>\u3000\u3000\u3000\u3000\u3000そのために力を求めたのに<line-break>そのために幾万の人を戦火に踏みにじったのに…<line-break><line-break>\u3000\u3000\u3000あたしは、ぜんぜん面白くなかった<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000笑えなかった<line-break>\u3000\u3000\u3000\u3000\u3000\u3000いつでも、心の底には<line-break>\u3000\u3000\u3000\u3000泣いてる、村娘の自分がいた…<end>"
@@ -3450,7 +3450,7 @@ english = "Y-you... what are you?<end>"
 
 ["560862"]
 japanese = "破壊神ウルグの円卓騎士<line-break>『心をなくすもの』アーギルシャイア。<end>"
-english = "'She Who Has Lost Her Heart,' Argyleshire, Knight of the Round Table of Urg, God of Destruction.<end>"
+english = "'She Who Has Lost Her Heart,' Argyleshire, Knight of the Round Table of Ulugh, God of Destruction.<end>"
 
 ["560863"]
 japanese = "そしてあなたは私の下僕。<end>"
@@ -3570,7 +3570,7 @@ english = "Y-you... what are you?<end>"
 
 ["560892"]
 japanese = "破壊神ウルグの円卓騎士<line-break>『心をなくすもの』アーギルシャイア。<end>"
-english = "'She Who Has Lost Her Heart,' Argyleshire, Knight of the Round Table of Urg, God of Destruction.<end>"
+english = "'She Who Has Lost Her Heart,' Argyleshire, Knight of the Round Table of Ulugh, God of Destruction.<end>"
 
 ["560893"]
 japanese = "そしてあなたは私の下僕。<end>"
@@ -3618,11 +3618,11 @@ english = ""
 
 ["560904"]
 japanese = "こんにちは。<line-break>\u3000<line-break>\u3000<line-break>装備属性を変えて行きますか？<end>"
-english = "Hello. Would you like to change your equipment's attributes before you go?<end>"
+english = "Hello. Would you like to change your Spirit Attribute before you go?<end>"
 
 ["560905"]
 japanese = "装備属性を変えたくなったら<line-break>いつでもいらしてくださいね。<end>"
-english = "If you ever want to change your equipment attribute, please come back anytime.<end>"
+english = "If you ever want to change your Spirit Attribute, please come back anytime.<end>"
 
 ["560906"]
 japanese = "そうですか…。<end>"
@@ -3638,7 +3638,7 @@ english = "No, thanks.<end>"
 
 ["560909"]
 japanese = "装備属性を変更していきますか？<end>"
-english = "Would you like to change your equipment attribute?<end>"
+english = "Would you like to change your Spirit Attribute?<end>"
 
 ["560910"]
 japanese = "追加メッセージここから<end>"

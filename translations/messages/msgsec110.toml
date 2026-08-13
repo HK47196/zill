@@ -70,7 +70,7 @@ english = "Do you know of the Arcane Tower in Ancient? Long ago, the Seven Kings
 
 ["1100017"]
 japanese = "世界が彼らによって<line-break>統一されることを竜王は嫌った。\u3000\u3000\u3000<line-break>\u3000<line-break>彼らは七王のうちふたりに、先人類の<line-break>魔道文明の遺産を与え、背かせた。<line-break>彼らが魔道王国の祖となった。<end>"
-english = "The Dragon Kings had no wish to see the world united under them. They bestowed the legacy of the earlier human race's arcane civilization upon two of the Seven Kings and induced them to rebel. Those two became the founders of the Arcane Kingdom.<end>"
+english = "The Dragon Kings had no wish to see the world united under them. They bestowed the legacy of the earlier human race's arcane civilization upon two of the Seven Kings and induced them to rebel. Those two became the founders of the Magic Kingdom.<end>"
 
 ["1100018"]
 japanese = "しかし、そのうちのひとりは<line-break>先人類の遺産を見て、その偉大なる力と<line-break>不遜なる思いにとらわれた。<line-break>人はもっと、<line-break>すばらしい存在たり得るのでは<line-break>ないのか？<end>"
@@ -170,7 +170,7 @@ english = "Ho ho! So that was what prompted the bombing of the Academy. To think
 
 ["1100042"]
 japanese = "わしは若いころ、<line-break>忘れられた剣士の伝承について\u3000\u3000\u3000\u3000<line-break>研究しておった。<line-break>邪竜エルアザルを倒し、世界を救うたは<line-break>賢王アルキュオネ、ドワーフ王ドレンガ<line-break>冒険エルフの祖ラミュだけではない…。<end>"
-english = "In my youth, I studied the legends of the Forgotten Swordsman. Wise King Alcyone, Dwarf King Drenga, and Rami, forebear of the adventuring Elves, were not the only ones who defeated the Evil Dragon Eluazar and saved the world...<end>"
+english = "In my youth, I studied the legends of the Forgotten Swordsman. Wise King Alcyone, Dwarf King Drenga, and Ramuz, forebear of the adventuring Elves, were not the only ones who defeated the Evil Dragon Elazar and saved the world...<end>"
 
 ["1100043"]
 japanese = "もうひとり、<line-break>忘れられた人間の剣士がいたのじゃ。\u3000<line-break>\u3000<line-break>この者が闇の神器、虚無の剣を抜き、<line-break>その力で邪竜を倒したのじゃが、<line-break>剣の呪いで世界から消えたのじゃ。<end>"
@@ -402,7 +402,7 @@ english = "No, wait. Tell me your name. I am Beelzeva Berline, Chancellor of the
 
 ["1100100"]
 japanese = "<value:$28>？<line-break>さえない名だな。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>だが、君が人類の革新をなすことも<line-break>ありうる。その名は記憶しておこう。<line-break>さらばだ。<end>"
-english = "<value:$28>? Not much of a name. Still, you may yet bring about a transformation in humanity. I shall remember your name. Farewell.<end>"
+english = "<value:$28>? Not much of a name. Still, you may yet bring about Humanity's Evolution. I shall remember your name. Farewell.<end>"
 
 ["1100101"]
 japanese = "エスト・リューガ博士に\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ついて知っているか？<line-break>\u3000<line-break>新進気鋭の学者だ。主に考古学的な<line-break>見地からだが、現在までの歴史観を<line-break>根底からくつがえす男だ。<end>"
@@ -414,7 +414,7 @@ english = "He contends that a human race existed before our own―a race of supe
 
 ["1100103"]
 japanese = "世界中の学者で<line-break>自力でここまでたどり着いた者は\u3000<line-break>これまで皆無だ。<line-break>古くさいロストールなどに生まれて<line-break>いなければ、恐るべき存在だった。<line-break>人類の革新のための貴重な人材だ。<end>"
-english = "No scholar anywhere in the world has ever come this far independently. Had he not been born in a hidebound place like Rostorl, he would have become a formidable force. He is an invaluable asset to the advancement of humanity.<end>"
+english = "No scholar anywhere in the world has ever come this far independently. Had he not been born in a hidebound place like Rostorl, he would have become a formidable force. He is an invaluable asset to Humanity's Evolution.<end>"
 
 ["1100104"]
 japanese = "ただ、強大な力を嫌う竜王に<line-break>抹殺されねばよいがな…。<line-break>ロストールの攻略は早めるべきだろう。<end>"
@@ -426,7 +426,7 @@ english = "Why, my son? Why will you not join me in realizing my dream?<end>"
 
 ["1100106"]
 japanese = "答は簡単だ。シャロームよ。<line-break>貴様の夢にはなんら実現性がない。\u3000\u3000<line-break>\u3000<line-break>人の革新は貴様の道の果てにはない。<line-break>貴様には、竜王に吊されたその肉塊が<line-break>朽ち果てていく道しか残されていない。<end>"
-english = "The answer is simple, Shalom. Your dream has no hope of becoming reality. Humanity's evolution does not lie at the end of your path. All that remains for you is to hang there, a lump of flesh strung up by the Dragon King, and rot away.<end>"
+english = "The answer is simple, Shalom. Your dream has no hope of becoming reality. Humanity's Evolution does not lie at the end of your path. All that remains for you is to hang there, a lump of flesh strung up by the Dragon King, and rot away.<end>"
 
 ["1100107"]
 japanese = "汝に強力な資質を授けた親に対して\u3000\u3000<line-break>その口の聞き方とはな。<line-break>\u3000<line-break>我が恩を思え、ベルゼーヴァ。<line-break>そして我が手先となれ。<line-break>竜王を封じ、我を解放せよ。<end>"
@@ -434,7 +434,7 @@ english = "Is that any way to address the parent who endowed you with such power
 
 ["1100108"]
 japanese = "さすれば人類の革新を阻むものはない。<line-break>人類は真の霊長として<line-break>世界に君臨するのだ。<end>"
-english = "Then nothing shall stand in the way of humanity's evolution. Humanity shall reign over the world as the true pinnacle of life.<end>"
+english = "Then nothing shall stand in the way of Humanity's Evolution. Humanity shall reign over the world as the true pinnacle of life.<end>"
 
 ["1100109"]
 japanese = "真の霊長？\u3000ものは言いようだな。<line-break>おごれる王シャロームよ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>それは、貴様が魔法で強化した奴ら…<line-break>神聖王国時代の魔道兵のような<line-break>でき損ないをさして言っているのか？<end>"
@@ -442,7 +442,7 @@ english = "The pinnacle of life? You do know how to dress things up, Shalom, you
 
 ["1100110"]
 japanese = "そうだとしたらお笑いぐさだ。<line-break>ついえた夢をいまだに見ている\u3000\u3000\u3000\u3000<line-break>おめでたい道化でしかないな。<line-break>人の革新はすでに始まっている。<line-break>ネメア様こそ、真の霊長。<line-break>貴様のでき損ないよりも強く、美しい。<end>"
-english = "If so, you're a laughingstock―nothing but a deluded fool still dreaming of what has already come to nothing. Humanity's evolution has already begun. Lord Nemea is the true pinnacle of life, stronger and more beautiful than your failures.<end>"
+english = "If so, you're a laughingstock―nothing but a deluded fool still dreaming of what has already come to nothing. Humanity's Evolution has already begun. Lord Nemea is the true pinnacle of life, stronger and more beautiful than your failures.<end>"
 
 ["1100111"]
 japanese = "笑止。あれこそ、<line-break>魔人のでき損ないではないか。<end>"
@@ -450,11 +450,11 @@ english = "Absurd. He is nothing but a failed demon.<end>"
 
 ["1100112"]
 japanese = "そして、もうひとり。\u3000\u3000\u3000<line-break>…<value:$28>。<line-break>\u3000<line-break>無限のソウルを持つ者だ…。<line-break>あるいは、あの者にも、<line-break>革新を望めるかもしれぬ。<end>"
-english = "And there is another... <value:$28>. One who bears the Infinite Soul... Perhaps that one, too, may offer hope for evolution.<end>"
+english = "And there is another... <value:$28>. One who bears the Infinite Soul... Perhaps that one, too, may offer hope for Humanity's Evolution.<end>"
 
 ["1100113"]
 japanese = "息子よ。我が道の他に<line-break>革新の道なし。ともに歩むのだ。<end>"
-english = "My son, there is no path to evolution but mine. Walk it with me.<end>"
+english = "My son, there is no path to Humanity's Evolution but mine. Walk it with me.<end>"
 
 ["1100114"]
 japanese = "歩く？\u3000フフ、父上、あなたには<line-break>そこで吊られているのがお似合いだ。<end>"
@@ -518,11 +518,11 @@ english = "You're kind. But kindness like that may be your undoing.<end>"
 
 ["1100129"]
 japanese = "むろん竜王を倒しただけで<line-break>人類の革新が達成できるとは<line-break>私も思っていない。<line-break>だが、神の揺り籠を捨て、<line-break>人類が己の足で歩いてゆく時代は<line-break>確実に近づきつつある。<line-break>そのためにも、<line-break>人類を導く強大な存在が必要なのだ。<line-break>\u3000<line-break>その人類革新の指導者に<line-break>ネメア様こそがふさわしいと<line-break>私は確信している。<line-break>あるいはもしかすると<line-break><value:$28>にも<line-break>その資質があるのかもしれぬがな。<end>"
-english = "Of course, I do not believe that defeating the Dragon King alone will bring about humanity's evolution. But the age when humanity casts off the gods' cradle and walks on its own feet is surely drawing near. To reach it, humanity needs a being of immense power to lead the way. I am convinced that Lord Nemea is the one best suited to lead that evolution. Or perhaps you, too, have the makings of such a leader, <value:$28>.<end>"
+english = "Of course, I do not believe that defeating the Dragon King alone will bring about Humanity's Evolution. But the age when humanity casts off the gods' cradle and walks on its own feet is surely drawing near. To reach it, humanity needs a being of immense power to lead the way. I am convinced that Lord Nemea is the one best suited to lead Humanity's Evolution. Or perhaps you, too, have the makings of such a leader, <value:$28>.<end>"
 
 ["1100130"]
 japanese = "<value:$28>…。<line-break>君にこれだけは<line-break>わかっていてほしい。<line-break>人類の革新は、あまたの神々や<line-break>太古の魔道技術を借りて<line-break>行なうものではないということを。<line-break>あくまで人間自身が、己の力で<line-break>より強くありたいと願う<line-break>その意志によって果たされるのだ。<line-break>おそらく革新には気の遠くなるような<line-break>時間が必要になるだろう。<line-break>\u3000<line-break>しかし、それだけの価値はあると<line-break>私は信じている。<end>"
-english = "<value:$28>... There is one thing I want you to understand. Humanity's evolution will not be achieved with the aid of countless gods or ancient magical technology. It must come from humanity itself―from the will to grow stronger through its own power. That evolution will probably take an almost inconceivable length of time. But I believe it will be worth it.<end>"
+english = "<value:$28>... There is one thing I want you to understand. Humanity's Evolution will not be achieved with the aid of countless gods or ancient magical technology. It must come from humanity itself―from the will to grow stronger through its own power. Humanity's Evolution will probably take an almost inconceivable length of time. But I believe it will be worth it.<end>"
 
 ["1100131"]
 japanese = "予備メッセージ３<line-break>ザギヴ、ボリューム１<end>"

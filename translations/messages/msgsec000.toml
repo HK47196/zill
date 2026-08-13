@@ -22,7 +22,7 @@ english = "Shalli<end>"
 
 ["5"]
 japanese = "ツェラシェル<end>"
-english = "Zelashell<end>"
+english = "Zeraschel<end>"
 
 ["6"]
 japanese = "ノエル<end>"
@@ -50,7 +50,7 @@ english = "Er<end>"
 
 ["12"]
 japanese = "イズキヤル<end>"
-english = "Izkiyar<end>"
+english = "Izkiyal<end>"
 
 ["13"]
 japanese = "ヴァシュタール<end>"
@@ -58,7 +58,7 @@ english = "Vashtar<end>"
 
 ["14"]
 japanese = "ウルグ<end>"
-english = "Urg<end>"
+english = "Ulugh<end>"
 
 ["15"]
 japanese = "エクリプス<end>"
@@ -70,7 +70,7 @@ english = "Elazar<end>"
 
 ["17"]
 japanese = "オルナット<end>"
-english = "Ornat<end>"
+english = "Ornut<end>"
 
 ["18"]
 japanese = "海王<end>"
@@ -102,7 +102,7 @@ english = "Shamma<end>"
 
 ["25"]
 japanese = "ジュサプブロス<end>"
-english = "Jusapbros<end>"
+english = "Jusabros<end>"
 
 ["26"]
 japanese = "翔王<end>"
@@ -122,11 +122,11 @@ english = "Zelig<end>"
 
 ["30"]
 japanese = "ゾフォル<end>"
-english = "Zophor<end>"
+english = "Zofor<end>"
 
 ["31"]
 japanese = "ダイダロ<end>"
-english = "Daidaro<end>"
+english = "Daedalo<end>"
 
 ["32"]
 japanese = "ダナン<end>"
@@ -134,7 +134,7 @@ english = "Danan<end>"
 
 ["33"]
 japanese = "タルテュバ<end>"
-english = "Tarteuba<end>"
+english = "Tartuba<end>"
 
 ["34"]
 japanese = "ティラ<end>"
@@ -398,7 +398,7 @@ english = "Van's Mother<end>"
 
 ["99"]
 japanese = "ウルカーン<end>"
-english = "Urkaan<end>"
+english = "Ulkarne<end>"
 
 ["100"]
 japanese = "エイトス<end>"
@@ -406,7 +406,7 @@ english = "Eitos<end>"
 
 ["101"]
 japanese = "エリュマルク<end>"
-english = "Eryumark<end>"
+english = "Elmark<end>"
 
 ["102"]
 japanese = "オッシ<end>"
@@ -510,7 +510,7 @@ english = "<end>"
 
 ["127"]
 japanese = "ラミュ<end>"
-english = "Ramyu<end>"
+english = "Ramuz<end>"
 
 ["128"]
 japanese = "\u3000<end>"
@@ -658,7 +658,7 @@ english = "Vialiali<end>"
 
 ["164"]
 japanese = "イオンズ<end>"
-english = "Ionz<end>"
+english = "Ions<end>"
 
 ["165"]
 japanese = "ロイ<end>"
@@ -914,7 +914,7 @@ english = "Tavern Apprentice<end>"
 
 ["228"]
 japanese = "ウルグ<end>"
-english = "Urg<end>"
+english = "Ulugh<end>"
 
 ["229"]
 japanese = "キャラバン隊の男<end>"
@@ -1154,15 +1154,15 @@ english = "Brown-Clad Figure<end>"
 
 ["288"]
 japanese = "賢そうなコーンス<end>"
-english = "Intelligent-Looking Corns<end>"
+english = "Intelligent-Looking Konsu<end>"
 
 ["289"]
 japanese = "弱気なコーンス<end>"
-english = "Timid Corns<end>"
+english = "Timid Konsu<end>"
 
 ["290"]
 japanese = "腕ききコーンス<end>"
-english = "Skilled Corns<end>"
+english = "Skilled Konsu<end>"
 
 ["291"]
 japanese = "偉そうな神官<end>"
@@ -1246,7 +1246,7 @@ english = "Soul Eater<end>"
 
 ["311"]
 japanese = "タルテュバの怪物<end>"
-english = "Taltuba's Monster<end>"
+english = "Tartuba's Monster<end>"
 
 ["312"]
 japanese = "典礼官<end>"
@@ -1450,7 +1450,7 @@ english = "Orphaus<end>"
 
 ["362"]
 japanese = "タルテュバ<end>"
-english = "Tarteuba<end>"
+english = "Tartuba<end>"
 
 ["363"]
 japanese = "官憲<end>"
@@ -1834,7 +1834,7 @@ english = "Alnortun<end>"
 
 ["458"]
 japanese = "ウルカーン<end>"
-english = "Urkaan<end>"
+english = "Ulkarne<end>"
 
 ["459"]
 japanese = "アキュリュース<end>"
@@ -2105,10 +2105,10 @@ english = "Silver Dragon's Lair<end>"
 japanese = "罪深き者の迷宮<end>"
 english = "Labyrinth of Sinners<end>"
 
-# Shortened from "Death-Heralding Angels' Hideout" to fit the 27-byte bounded-label payload.
+# "Angels of Death Hideout" fits the 27-byte bounded-label payload.
 ["526"]
 japanese = "告死天使アジト<end>"
-english = "Death-Herald Angels' Den<end>"
+english = "Angels of Death Hideout<end>"
 
 # Shortened from "Liberation Army Headquarters" to fit the 27-byte bounded-label payload.
 ["527"]
@@ -3135,11 +3135,11 @@ english = "Fire-Type Monster<end>"
 
 ["782"]
 japanese = "タルテュバの怪物<end>"
-english = "Taltuba's Monster<end>"
+english = "Tartuba's Monster<end>"
 
 ["783"]
 japanese = "タルテュバ<end>"
-english = "Tarteuba<end>"
+english = "Tartuba<end>"
 
 ["784"]
 japanese = "ペウダの怪物<end>"
@@ -3199,11 +3199,11 @@ english = "Gehenna<end>"
 
 ["798"]
 japanese = "イズキヤル<end>"
-english = "Izkiyar<end>"
+english = "Izkiyal<end>"
 
 ["799"]
 japanese = "オルナット<end>"
-english = "Ornat<end>"
+english = "Ornut<end>"
 
 ["800"]
 japanese = "ガント<end>"
@@ -3235,7 +3235,7 @@ english = "Argyleshire<end>"
 
 ["807"]
 japanese = "ウルグ<end>"
-english = "Urg<end>"
+english = "Ulugh<end>"
 
 ["808"]
 japanese = "アトレイア<end>"
@@ -3243,11 +3243,11 @@ english = "Atleia<end>"
 
 ["809"]
 japanese = "ウルグ<end>"
-english = "Urg<end>"
+english = "Ulugh<end>"
 
 ["810"]
 japanese = "イオンズ<end>"
-english = "Ionz<end>"
+english = "Ions<end>"
 
 ["811"]
 japanese = "イシュベノブ<end>"
@@ -3279,7 +3279,7 @@ english = "Er<end>"
 
 ["818"]
 japanese = "ウルグ<end>"
-english = "Urg<end>"
+english = "Ulugh<end>"
 
 ["819"]
 japanese = "レムオン<end>"
@@ -3315,11 +3315,11 @@ english = "Shalli<end>"
 
 ["827"]
 japanese = "ジュサプブロス<end>"
-english = "Jusapbros<end>"
+english = "Jusabros<end>"
 
 ["828"]
 japanese = "ジュサプブロス<end>"
-english = "Jusapbros<end>"
+english = "Jusabros<end>"
 
 ["829"]
 japanese = "ジンガ<end>"
@@ -3327,7 +3327,7 @@ english = "Jinga<end>"
 
 ["830"]
 japanese = "ジュサプブロス<end>"
-english = "Jusapbros<end>"
+english = "Jusabros<end>"
 
 ["831"]
 japanese = "カフィン<end>"
@@ -3339,19 +3339,19 @@ english = "Zelig<end>"
 
 ["833"]
 japanese = "ゾフォル<end>"
-english = "Zophor<end>"
+english = "Zofor<end>"
 
 ["834"]
 japanese = "ダイダロ<end>"
-english = "Daidaro<end>"
+english = "Daedalo<end>"
 
 ["835"]
 japanese = "タルテュバ<end>"
-english = "Tarteuba<end>"
+english = "Tartuba<end>"
 
 ["836"]
 japanese = "タルテュバ<end>"
-english = "Tarteuba<end>"
+english = "Tartuba<end>"
 
 ["837"]
 japanese = "カフィン<end>"
@@ -3359,7 +3359,7 @@ english = "Coffin<end>"
 
 ["838"]
 japanese = "ツェラシェル<end>"
-english = "Zelashell<end>"
+english = "Zeraschel<end>"
 
 ["839"]
 japanese = "ティアナ<end>"
@@ -3427,7 +3427,7 @@ english = "Guardian of the Forbidden<end>"
 
 ["855"]
 japanese = "コーンス<end>"
-english = "Corns<end>"
+english = "Konsu<end>"
 
 ["856"]
 japanese = "未使用<end>"
@@ -3723,7 +3723,7 @@ english = "Gant<end>"
 
 ["929"]
 japanese = "オルナット<end>"
-english = "Ornat<end>"
+english = "Ornut<end>"
 
 ["930"]
 japanese = "マルーン<end>"
@@ -3731,7 +3731,7 @@ english = "Maroon<end>"
 
 ["931"]
 japanese = "ツェラシェル<end>"
-english = "Zelashell<end>"
+english = "Zeraschel<end>"
 
 ["932"]
 japanese = "ガント<end>"
@@ -3739,7 +3739,7 @@ english = "Gant<end>"
 
 ["933"]
 japanese = "オルナット<end>"
-english = "Ornat<end>"
+english = "Ornut<end>"
 
 ["934"]
 japanese = "マルーン<end>"
@@ -3783,7 +3783,7 @@ english = "Mrs. Hugo<end>"
 
 ["944"]
 japanese = "ダイダロ<end>"
-english = "Daidaro<end>"
+english = "Daedalo<end>"
 
 ["945"]
 japanese = "ゴロツキ<end>"
@@ -3811,7 +3811,7 @@ english = "Shalom<end>"
 
 ["951"]
 japanese = "コーンス兵<end>"
-english = "Corns Soldier<end>"
+english = "Konsu Soldier<end>"
 
 ["952"]
 japanese = "エルファス<end>"
@@ -3979,7 +3979,7 @@ english = "Infinitia<end>"
 
 ["993"]
 japanese = "ウルグ<end>"
-english = "Urg<end>"
+english = "Ulugh<end>"
 
 ["994"]
 japanese = "ファイア<end>"
@@ -5103,7 +5103,7 @@ english = "Statue of Pressione<end>"
 
 ["1274"]
 japanese = "ウルカーン像<end>"
-english = "Statue of Vulcan<end>"
+english = "Statue of Ulkarne<end>"
 
 ["1275"]
 japanese = "研究書<end>"
@@ -6160,7 +6160,7 @@ english = "Elf<end>"
 
 ["1538"]
 japanese = "コーンス<end>"
-english = "Corns<end>"
+english = "Konsu<end>"
 
 ["1539"]
 japanese = "ダークエルフ<end>"
@@ -6184,7 +6184,7 @@ english = "Boldan<end>"
 
 ["1544"]
 japanese = "リルビー<end>"
-english = "Lilbie<end>"
+english = "Lilubee<end>"
 
 ["1545"]
 japanese = "魔人<end>"

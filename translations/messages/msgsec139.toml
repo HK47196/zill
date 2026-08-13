@@ -6,7 +6,7 @@ english = ""
 
 ["1390001"]
 japanese = "\u3000\u3000\u3000広大な大地、バイアシオン大陸。<line-break>\u3000\u3000\u3000\u3000\u3000人と、人ならざる者とが\u3000\u3000\u3000 <line-break>\u3000\u3000\u3000\u3000\u3000\u3000それぞれの生を営み\u3000\u3000\u3000\u3000 <line-break>\u3000\u3000\u3000光と闇がせめぎあう神秘の世界。\u3000\u3000 <line-break>\u3000\u3000古き遺跡の眠る小さな町、オズワルド。 <line-break>\u3000\u3000この穏やかな町の奥で、底知れぬ闇が\u3000 <line-break>\u3000\u3000\u3000\u3000\u3000目覚めようとしていた。\u3000\u3000\u3000 <line-break>\u3000大いなる魂の物語は、ここから始まる……。<end>"
-english = "A vast land―the Baiashion Continent. A mysterious world where humans and nonhuman beings each go about their lives, while light and darkness struggle against one another. Oswald, a small town where ancient ruins lie dormant. Deep within this peaceful town, a fathomless darkness was about to awaken. Here begins the tale of a great soul...<end>"
+english = "A vast land―the Vyashion Continent. A mysterious world where humans and nonhuman beings each go about their lives, while light and darkness struggle against one another. Oswald, a small town where ancient ruins lie dormant. Deep within this peaceful town, a fathomless darkness was about to awaken. Here begins the tale of a great soul...<end>"
 
 ["1390002"]
 japanese = "カルラは、ゼネテスの機略の前に敗れた。<line-break>だが、青竜軍の兵力は、依然として<line-break>ロストール軍を大きく上回っていた。<line-break>\u3000<line-break>ゼネテスの勝利とは関係なく、<line-break>勝機は、いまだカルラにあった。<line-break>しかし、カルラ軍は進軍しなかった。<end>"
@@ -290,7 +290,7 @@ english = "And though Duke Lemghon of Elienai escaped unharmed...<end>"
 
 ["1390072"]
 japanese = "レムオンは、ダルケニスであることを<line-break>暴露され、表舞台から身を引くことを<line-break>余儀なくされた。<line-break> <end>"
-english = "Lemghon was exposed as a Darkenis and forced to withdraw from public life.<end>"
+english = "Lemghon was exposed as a Darkenith and forced to withdraw from public life.<end>"
 
 ["1390073"]
 japanese = "王妃エリス、<line-break> <line-break> <line-break> <end>"
@@ -342,7 +342,7 @@ english = "And though Duke Lemghon of Elienai escaped unharmed...<end>"
 
 ["1390085"]
 japanese = "レムオンは、ダルケニスであることを<line-break>暴露され、表舞台から身を引くことを<line-break>余儀なくされた。<line-break> <end>"
-english = "Lemghon was exposed as a Darkenis and forced to withdraw from public life.<end>"
+english = "Lemghon was exposed as a Darkenith and forced to withdraw from public life.<end>"
 
 ["1390086"]
 japanese = "王妃エリス、<line-break> <line-break> <line-break> <end>"
@@ -398,7 +398,7 @@ english = "And though Duke Lemghon of Elienai escaped unharmed...<end>"
 
 ["1390099"]
 japanese = "レムオンは、ダルケニスであることを<line-break>暴露され、表舞台から身を引くことを<line-break>余儀なくされた。<line-break> <end>"
-english = "Lemghon was exposed as a Darkenis and forced to withdraw from public life.<end>"
+english = "Lemghon was exposed as a Darkenith and forced to withdraw from public life.<end>"
 
 ["1390100"]
 japanese = "王妃エリス、<line-break> <line-break> <line-break> <end>"
@@ -450,7 +450,7 @@ english = "And though Duke Lemghon of Elienai escaped unharmed...<end>"
 
 ["1390112"]
 japanese = "レムオンは、ダルケニスであることを<line-break>暴露され、表舞台から身を引くことを<line-break>余儀なくされた。<line-break> <end>"
-english = "Lemghon was exposed as a Darkenis and forced to withdraw from public life.<end>"
+english = "Lemghon was exposed as a Darkenith and forced to withdraw from public life.<end>"
 
 ["1390113"]
 japanese = "王妃エリス、<line-break> <line-break> <line-break> <end>"
@@ -514,7 +514,7 @@ english = "Nemea is dead. The blow this news dealt the Dyneskal Empire was beyon
 
 ["1390128"]
 japanese = "ネメア亡きディンガルに種族平等を<line-break>実現する力なし…<line-break><line-break><line-break>そう考えたジラーク将軍は、制圧した<line-break>神聖都市アルノートゥンにコーンス族の<line-break>国を起こそうと、ディンガル帝国に<line-break>反旗をひるがえした。<end>"
-english = "Without Nemea, Dyneskal has no power to achieve equality among the races... Convinced of this, General Zsilak rebelled against the Dyneskal Empire, seeking to establish a nation for the Corns in the conquered holy city of Alnortun.<end>"
+english = "Without Nemea, Dyneskal has no power to achieve equality among the races... Convinced of this, General Zsilak rebelled against the Dyneskal Empire, seeking to establish a nation for the Konsu in the conquered holy city of Alnortun.<end>"
 
 ["1390129"]
 japanese = "これを予期していたディンガル帝国宰相<line-break>ベルゼーヴァ・ベルラインは、<line-break>ロストール攻略から帰還させていた<line-break>青竜軍にジラークの討伐を命じた。<end>"
@@ -530,31 +530,31 @@ english = "Dyneskal, deprived of its hero and beginning to lose its way...<end>"
 
 ["1390132"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000そして、<line-break>種族平等をかざし反乱を起こしたコーンス族…<line-break><line-break><end>"
-english = "And the Corns, who rose in rebellion under the banner of racial equality...<end>"
+english = "And the Konsu, who rose in rebellion under the banner of racial equality...<end>"
 
 ["1390133"]
 japanese = "終わらぬ戦乱はバイアシオンの大地を赤く染め、<line-break>\u3000\u3000\u3000混乱と恐怖のみを拡大させていく。<line-break> <line-break> <end>"
-english = "The unending wars stained the lands of Baiashion red, spreading only chaos and fear.<end>"
+english = "The unending wars stained the lands of Vyashion red, spreading only chaos and fear.<end>"
 
 ["1390134"]
 japanese = "アルノートゥンから帰還したカルラは、<line-break>今回の反乱はジラーク個人の罪であると、<line-break>宰相ベルゼーヴァに報告した。<line-break><line-break>それと同時に、コーンスに対する<line-break>あらゆる迫害を禁じるよう提案した。<end>"
-english = "Upon returning from Alnortun, Karula reported to Chancellor Beelzeva that Zsilak alone was responsible for the rebellion. At the same time, she proposed a ban on all persecution of the Corns.<end>"
+english = "Upon returning from Alnortun, Karula reported to Chancellor Beelzeva that Zsilak alone was responsible for the rebellion. At the same time, she proposed a ban on all persecution of the Konsu.<end>"
 
 ["1390135"]
 japanese = "\u3000\u3000\u3000\u3000 ベルゼーヴァはこれを承認。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000捕虜の解放を命じた。<line-break><line-break><line-break>\u3000\u3000\u3000\u3000コーンス達は、傷ついた身体を<line-break>\u3000\u3000 引きずりながら、それぞれの故郷へと<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000 去っていった。<end>"
-english = "Beelzeva approved the proposal and ordered the prisoners released. Dragging their wounded bodies, the Corns departed for their respective homelands.<end>"
+english = "Beelzeva approved the proposal and ordered the prisoners released. Dragging their wounded bodies, the Konsu departed for their respective homelands.<end>"
 
 ["1390136"]
 japanese = "\u3000\u3000ここにコーンスによる世界統一の野望は<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000潰えたのだった。<end>"
-english = "Thus ended the Corns' ambition to unite the world.<end>"
+english = "Thus ended the ambition of the Konsu to unite the world.<end>"
 
 ["1390137"]
 japanese = "アルノートゥンのコーンスの反乱は、<line-break>首謀者であるジラークの死によって<line-break>その幕を閉じた。<line-break> <end>"
-english = "The Corns Rebellion in Alnortun came to an end with the death of its ringleader, Zsilak.<end>"
+english = "The Konsu Rebellion in Alnortun came to an end with the death of its ringleader, Zsilak.<end>"
 
 ["1390138"]
 japanese = "\u3000\u3000\u3000残されたコーンス達は離散し、<line-break>\u3000\u3000\u3000ディンガル軍も<line-break>\u3000\u3000\u3000これを追撃することは無かった。<line-break><line-break>\u3000\u3000\u3000<value:$2B>の<value:$28>。<line-break>\u3000\u3000\u3000その活躍により、人類対コーンスの<line-break>\u3000\u3000\u3000全面戦争は回避されたのだった。<end>"
-english = "The surviving Corns scattered, and the Dyneskal Army did not pursue them. The deeds of <value:$2B> <value:$28> averted an all-out war between humanity and the Corns.<end>"
+english = "The surviving Konsu scattered, and the Dyneskal Army did not pursue them. The deeds of <value:$2B> <value:$28> averted an all-out war between humanity and the Konsu.<end>"
 
 ["1390139"]
 japanese = "神聖都市アルノートゥン……<line-break> <line-break> <line-break> <end>"
@@ -570,7 +570,7 @@ english = "The punitive force poured into Alnortun, and Zsilak was killed with s
 
 ["1390142"]
 japanese = "\u3000\u3000\u3000\u3000叛乱鎮圧後、ディンガル帝国は<line-break>\u3000\u3000 ただちにコーンス族討伐令を発した。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000 ここにコーンス族は<line-break>\u3000\u3000\u3000\u3000\u3000 追われる存在となった…<end>"
-english = "Once the rebellion had been suppressed, the Dyneskal Empire immediately issued an edict ordering a campaign against the Corns. From that moment, the Corns became a hunted people...<end>"
+english = "Once the rebellion had been suppressed, the Dyneskal Empire immediately issued an edict ordering a campaign against the Konsu. From that moment, the Konsu became a hunted people...<end>"
 
 ["1390143"]
 japanese = "神聖都市アルノートゥン……<line-break><line-break><line-break><end>"
@@ -586,11 +586,11 @@ english = "The punitive force poured into Alnortun, and Zsilak was killed with s
 
 ["1390146"]
 japanese = "ジラークの考えに賛同し、<line-break>その旗の元に参集していたコーンス達も<line-break>ジラークと運命を供にした。<line-break><line-break>その中には<line-break><value:$28>の友、<line-break>ナッジの姿もあった。<end>"
-english = "The Corns who had embraced Zsilak's cause and rallied beneath his banner shared his fate. Among them was Nadge, a friend of <value:$28>.<end>"
+english = "The Konsu who had embraced Zsilak's cause and rallied beneath his banner shared his fate. Among them was Nadge, a friend of <value:$28>.<end>"
 
 ["1390147"]
 japanese = "\u3000\u3000\u3000\u3000叛乱鎮圧後、ディンガル帝国は<line-break>\u3000\u3000 ただちにコーンス族討伐令を発した。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000 ここにコーンス族は<line-break>\u3000\u3000\u3000\u3000\u3000 追われる存在となった…<end>"
-english = "Once the rebellion had been suppressed, the Dyneskal Empire immediately issued an edict ordering a campaign against the Corns. From that moment, the Corns became a hunted people...<end>"
+english = "Once the rebellion had been suppressed, the Dyneskal Empire immediately issued an edict ordering a campaign against the Konsu. From that moment, the Konsu became a hunted people...<end>"
 
 ["1390148"]
 japanese = "\u3000\u3000<value:$28>によって<line-break>\u3000\u3000エンシャントに潜んでいた闇の勢力は<line-break>\u3000\u3000退けられた。<line-break><end>"

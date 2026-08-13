@@ -10,7 +10,7 @@ english = "<value:$28>... Are you staying at this inn tonight?<end>"
 
 ["1380002"]
 japanese = "いえ、私は、復興団の活動で<line-break>立ち寄ったのです。<line-break>少しお話ししていっても構いませんか？<line-break><value:$28>様には、<line-break>聞いていただきたいことが<line-break>たくさんあるのです…。<end>"
-english = "No, I'm only here on business for the Reconstruction League. Would you mind if we talked for a while? There is so much I want you to hear, <value:$28>...<end>"
+english = "No, I'm only here on business for the Restoration League. Would you mind if we talked for a while? There is so much I want you to hear, <value:$28>...<end>"
 
 ["1380003"]
 japanese = "<value:$28>様…。<line-break><value:$28>様にだから\u3000\u3000\u3000\u3000\u3000\u3000<line-break>お話しするのですが…<line-break>今回のクーデターは、実は私、<line-break>どこか現実味がないんです。<end>"
@@ -30,7 +30,7 @@ english = "<value:$28>, why do people crave something as dangerous as power so b
 
 ["1380007"]
 japanese = "…私は、そういう思いから、<line-break>復興団の創立を思い立ったのです。<line-break> <line-break>多くの方のお力を借りました。<line-break>今でも、復興団は彼らによって<line-break>支えられています。<end>"
-english = "It was those thoughts that led me to found the Reconstruction League. Many people lent me their aid, and the League still rests on their support today.<end>"
+english = "It was those thoughts that led me to found the Restoration League. Many people lent me their aid, and the League still rests on their support today.<end>"
 
 ["1380008"]
 japanese = "そして彼らは、余さず、<line-break>市井の生活を知っている人々でも<line-break>あります。<line-break>誰かが誰かを治めるのではなく、<line-break>すべての人々が、<line-break>おのおの自分の主であるような…<end>"
@@ -38,7 +38,7 @@ english = "Every one of them also knows what life is like for ordinary people. I
 
 ["1380009"]
 japanese = "まだうまくは言えないのですが、<line-break>そんな世の中を目指して、<line-break>復興団は活動しています。<end>"
-english = "I still cannot express it very well, but that is the kind of world the Reconstruction League is working toward.<end>"
+english = "I still cannot express it very well, but that is the kind of world the Restoration League is working toward.<end>"
 
 ["1380010"]
 japanese = "うれしく思います、<value:$28>様。<line-break>これからもアトレイアを暖かく<line-break>見守っていてくださいね。<end>"
@@ -166,7 +166,7 @@ english = "W-what?<end>I'm with Ceryneia, and I saw my chance to slip off on my 
 
 ["1380041"]
 japanese = "…俺の勝手だろ。<line-break>昔のことを謝ろうとして、<line-break>うまくいかなかっただけだ。<line-break>あいつ、さすがに巫女だけあって、<line-break>ちっとヒヤッとしたけどよ…<line-break>謝るってことは、難しいもんだ。<end>"
-english = "It's none of your business. I only tried to apologize for what happened before, and it didn't work out. She really is a shrine maiden. Gave me a bit of a scare there... Apologizing isn't easy.<end>"
+english = "It's none of your business. I only tried to apologize for what happened before, and it didn't work out. She really is a priestess. Gave me a bit of a scare there... Apologizing isn't easy.<end>"
 
 ["1380042"]
 japanese = "それを…あんな風にされちゃ、<line-break>なおさら言い出しづれえじゃねえか。<line-break> <line-break>いいお友達、だと？<line-break>ちっ、このネモ様に向かって、<line-break>あ、あんなこと言いやがって…。<end>"
@@ -198,7 +198,7 @@ english = "The stars move ceaselessly across the night sky. Unless you know them
 
 ["1380049"]
 japanese = "ひょっとしたら現れてくれるのでは<line-break>ないかと思ったんじゃ。<line-break><line-break>聖母神ティラの元へと帰るために、<line-break>一途空を駆けている、<line-break>イズキヤルめの魂がのう…。<end>"
-english = "I thought perhaps it might appear―the soul of that rascal Izukiyal, racing through the heavens with but one purpose: to return to the Mother Goddess Tira...<end>"
+english = "I thought perhaps it might appear―the soul of that rascal Izkiyal, racing through the heavens with but one purpose: to return to the Mother Goddess Tira...<end>"
 
 ["1380050"]
 japanese = "死者の魂が星となり輝く…。<line-break>これは、わしの故郷に<line-break>古く言い伝わっておる話じゃ。<line-break>伝承を生んだ古代の民は、<line-break>星空を見上げ、それほど死んでいった<line-break>者が多いのだと考えたのじゃろうか。<end>"
@@ -206,11 +206,11 @@ english = "The souls of the dead become stars and shine in the heavens... It is 
 
 ["1380051"]
 japanese = "このまま乱世が続けば、いずれ夜空は<line-break>星で埋めつくされるのではないか…<line-break>そんなガラにもない不安すら湧きよる。<line-break>しかし、おぬしも聞いたじゃろう？<line-break>イズキヤルは、奴の姉妹どもの命を、<line-break>わしらにゆだねたのじゃ。<end>"
-english = "If this age of war goes on, perhaps one day the night sky will be filled with stars... I even find myself harboring fears that hardly suit me. But you heard what Izukiyal asked of us, did you not? The lives of Izukiyal's sisters were left in our hands.<end>"
+english = "If this age of war goes on, perhaps one day the night sky will be filled with stars... I even find myself harboring fears that hardly suit me. But you heard what Izkiyal asked of us, did you not? The lives of Izkiyal's sisters were left in our hands.<end>"
 
 ["1380052"]
 japanese = "奴らがイズキヤルと同様に<line-break>心を開いてくれるのであれば、<line-break>わしも悩みはせぬ。<line-break>しかし、その保証はどこにもない…。<line-break>もし、手遅れだったとしたら、<line-break>おぬしはどうするつもりじゃ？<end>"
-english = "If they open their hearts to us as Izukiyal did, I shall have no cause for concern. But there is no guarantee they will... If it is already too late, what will you do?<end>"
+english = "If they open their hearts to us as Izkiyal did, I shall have no cause for concern. But there is no guarantee they will... If it is already too late, what will you do?<end>"
 
 ["1380053"]
 japanese = "力で立ち向かう<end>"
@@ -226,11 +226,11 @@ english = "Yes. Bitter as it is, that seems our only choice. Never mind us; we c
 
 ["1380056"]
 japanese = "おぬしがそのような心を<line-break>持ってくれたことを、<line-break>わしはうれしく思うぞ。\u3000\u3000\u3000\u3000\u3000<line-break>しかしな、あのイズキヤルにさえ、<line-break>かなり手を焼いたものじゃ。<end>"
-english = "I am glad you feel that way. But even Izukiyal was quite a handful.<end>"
+english = "I am glad you feel that way. But even Izkiyal was quite a handful.<end>"
 
 ["1380057"]
 japanese = "牙を剥かれ、死にかけたこともあった。<line-break>それでもうまく行ったのは、<line-break>ただひとえに奴自身の改心による。<line-break>もし、向こうが聞き入れないとすれば、<line-break>その時は…やむをえん…。<end>"
-english = "Izukiyal bared those fangs at us, and we nearly died. Things ended well only because Izukiyal had a change of heart. If the others refuse to listen, then... there will be no other choice...<end>"
+english = "Izkiyal bared those fangs at us, and we nearly died. Things ended well only because Izkiyal had a change of heart. If the others refuse to listen, then... there will be no other choice...<end>"
 
 ["1380058"]
 japanese = "くっ…すまん。<line-break>とんだ顔を見せてしまった。<line-break>じゃが、気遣いは一切無用じゃぞ。<end>"
@@ -646,7 +646,7 @@ english = "<value:$28>...<end>"
 
 ["1380161"]
 japanese = "私ですか？\u3000<line-break>復興団の活動で、<line-break>ここの一室を借りたので…\u3000\u3000<line-break>あ、もう用事は済みましたわ。<line-break>戻る前に、一息つこうと<line-break>思っていたところです。<end>"
-english = "Me? I'm using one of the rooms here for the Reconstruction Association's work. Oh, but I'm finished now. I was just thinking I'd catch my breath before heading back.<end>"
+english = "Me? I'm using one of the rooms here for the Restoration League's work. Oh, but I'm finished now. I was just thinking I'd catch my breath before heading back.<end>"
 
 ["1380162"]
 japanese = "よろしければ、<line-break>少しお話していかれませんか？<end>"
@@ -654,7 +654,7 @@ english = "If you have a moment, would you stay and talk with me?<end>"
 
 ["1380163"]
 japanese = "<value:$28>様、<line-break>復興団の活動は、難しい仕事です。<line-break> <line-break>先のクーデターに影響を受けられた<line-break>方々をお助けするのが役割ですが、<line-break>中には、拒絶される方も多くて…。<end>"
-english = "<value:$28>, the Reconstruction Association's work is not easy. Our role is to help those affected by the recent coup, but many refuse our help...<end>"
+english = "<value:$28>, the Restoration League's work is not easy. Our role is to help those affected by the recent coup, but many refuse our help...<end>"
 
 ["1380164"]
 japanese = "いえ、無理もありません。<line-break> <line-break> <line-break>彼らに打撃を与えたのは、 <line-break>他でもない、<line-break>私たち貴族なのですから…。<end>"
@@ -678,7 +678,7 @@ english = "Hee hee. How strange. When I talk with you, <value:$28>, I begin to f
 
 ["1380169"]
 japanese = "明日からまたがんばっていこうと<line-break>思います。<line-break> <line-break>ティアナを、ロストール復興団を<line-break>応援していてくださいね、<line-break><value:$28>様。<end>"
-english = "Tomorrow, I shall begin again and do my best. Please continue to support Tiana and the Rostorl Reconstruction Association, <value:$28>.<end>"
+english = "Tomorrow, I shall begin again and do my best. Please continue to support Tiana and the Rostorl Restoration League, <value:$28>.<end>"
 
 ["1380170"]
 japanese = "聞いてくれ、<value:$28>！<line-break>マジな話、俺たち、とてつもなく<line-break>お前に感謝してるんだ。<end>"
@@ -698,7 +698,7 @@ english = "Nadge...<end>"
 
 ["1380174"]
 japanese = "あの時、コーンスのためなら<line-break>死んでもいいって言ったのは、<line-break>決して、ハッタリなんかじゃないよ。<end>"
-english = "When I said I was willing to die for Korns, I wasn't bluffing.<end>"
+english = "When I said I was willing to die for Konsu, I wasn't bluffing.<end>"
 
 ["1380175"]
 japanese = "でも、君たちに叩きのめされて、<line-break>それが必ずしも正しいことじゃないって<line-break>気付いたんだ。<line-break>死んじゃったら、何にもならない。<line-break>何にもできやしないんだってね。<end>"
@@ -874,15 +874,15 @@ english = "So you have come... O arrogant king.<end>"
 
 ["1380218"]
 japanese = "\u3000\u3000\u3000\u3000\u3000忌まわしき古き神は滅びた。\u3000\u3000\u3000\u3000<line-break>\u3000\u3000もはや、人類の革新を阻むものはない。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000息子よ…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我の元へ来るのだ…。<end>"
-english = "The accursed god of old is no more. Nothing now stands in the way of humanity's transformation. My son... Come to me...<end>"
+english = "The accursed god of old is no more. Nothing now stands in the way of Humanity's Evolution. My son... Come to me...<end>"
 
 ["1380219"]
 japanese = "フフ、未だついえた夢を追いかけるか？<line-break>醜いものだな。<line-break>人類の革新には貴様など不要だ。<end>"
-english = "Heh. Still chasing a dream long since shattered? How unsightly. Humanity's renewal has no need for the likes of you.<end>"
+english = "Heh. Still chasing a dream long since shattered? How unsightly. Humanity's Evolution has no need for the likes of you.<end>"
 
 ["1380220"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000愚かな…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000汝の希望…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000ネメアは死んだ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000そして…<line-break>\u3000\u3000\u3000無限のソウルでは人類の革新は<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000果たせぬ。<end>"
-english = "Fool... Your hope... Nemea is dead. And the Infinite Soul cannot bring about humanity's transformation.<end>"
+english = "Fool... Your hope... Nemea is dead. And the Infinite Soul cannot bring about Humanity's Evolution.<end>"
 
 ["1380221"]
 japanese = "たしかに…今の<value:$28>に<line-break>人類は導けまい。<line-break>しかし…<end>"
@@ -894,7 +894,7 @@ english = "Nor can I believe you capable of leading humanity when even a mere Dr
 
 ["1380223"]
 japanese = "\u3000\u3000息子よ。もう、一度だけ言っておこう。\u3000\u3000<line-break>\u3000\u3000\u3000人類を革新に導ける存在は我のみ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我と供に歩むのだ。<end>"
-english = "My son. I will tell you this only once more. I alone can lead humanity to its transformation. Walk beside me.<end>"
+english = "My son. I will tell you this only once more. I alone can lead humanity toward Humanity's Evolution. Walk beside me.<end>"
 
 ["1380224"]
 japanese = "フフ…<line-break>朽ちゆくだけの貴様に<line-break>それができるかな？<end>"
@@ -1538,7 +1538,7 @@ english = "Argyleshire...?<end>"
 
 ["1380384"]
 japanese = "アスティアやヴァシュタールと同じ、<line-break>破壊神ウルグの円卓騎士のひとりです。<line-break>\u3000<line-break>妖艶な美女で、残酷で気まぐれです。<line-break>闇の神器を１つ手に入れるために<line-break>ミイスを焼き払ってしまいました。<end>"
-english = "Like Astia and Vashtar, she is one of the Knights of the Round Table serving Urg, the God of Destruction. She is a bewitching beauty, cruel and capricious. She burned Miis to the ground for the sake of obtaining a single Artifact of Darkness.<end>"
+english = "Like Astia and Vashtar, she is one of the Knights of the Round Table serving Ulugh, the God of Destruction. She is a bewitching beauty, cruel and capricious. She burned Miis to the ground for the sake of obtaining a single Artifact of Darkness.<end>"
 
 ["1380385"]
 japanese = "闇の神器？<end>"
@@ -1546,7 +1546,7 @@ english = "An Artifact of Darkness?<end>"
 
 ["1380386"]
 japanese = "強大で凶々しい力を持つ<line-break>１２の魔道器のことです。<line-break>\u3000<line-break>かつて、破壊神ウルグの<line-break>復活に使われたと言われています。<line-break>\u3000<end>"
-english = "They are twelve magical artifacts of immense and sinister power. It is said that they were once used to resurrect Urg, the God of Destruction.<end>"
+english = "They are twelve magical artifacts of immense and sinister power. It is said that they were once used to resurrect Ulugh, the God of Destruction.<end>"
 
 ["1380387"]
 japanese = "ただ、彼女は<line-break>その本来の使い方以外のことを\u3000\u3000<line-break>しようとしています。<line-break>彼女は究極の合成怪物を作り、<line-break>その力でおもしろ半分に世界を<line-break>破壊しようと考えているのです。<end>"
@@ -1970,7 +1970,7 @@ english = "You didn't sell Relra's Harp, even though no amount of money ever see
 
 ["1380492"]
 japanese = "ふふ、うれしいなあ。<line-break>ぼくがとっておきたいって言ったの、<line-break>ちゃんと覚えていてくれたんだね。<line-break>やさしいなあ、<value:$28>は。<line-break>気まぐれなリルビーの言うことなんて<line-break>人間は本気にしてくれないと思ってた。<end>"
-english = "Hee hee, I'm so happy. You remembered that I wanted you to keep it. You're so kind, <value:$28>. I never thought a human would take anything a fickle Lilbie said seriously.<end>"
+english = "Hee hee, I'm so happy. You remembered that I wanted you to keep it. You're so kind, <value:$28>. I never thought a human would take anything a fickle Lilubee said seriously.<end>"
 
 ["1380493"]
 japanese = "レルラのハープ、<line-break>売ってもいいよ。<end>"

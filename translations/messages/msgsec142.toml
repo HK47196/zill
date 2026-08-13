@@ -166,7 +166,7 @@ english = "Damn...<end>"
 
 ["1420041"]
 japanese = "フフ、エルファスから助けられて以来<line-break>お前もずいぶんと感情が表に出るように<line-break>なったではないか。<line-break>私が告死天使どもの手から<line-break>助け出したときは、<line-break>人形のようだったのにな。<end>"
-english = "Heh. Ever since Elfas saved you, you've become quite expressive, haven't you? When I saved you from the hands of the Death-Herald Angels, you were like a doll.<end>"
+english = "Heh. Ever since Elfas saved you, you've become quite expressive, haven't you? When I saved you from the hands of the Angels of Death, you were like a doll.<end>"
 
 ["1420042"]
 japanese = "まぁ、いい。<line-break>いずれにしても、<value:$28>。<line-break>お前がおとなしくしていればすむ話だ。<line-break>この世界に必要なのは均衡だ。<line-break>平和とはその上にのみ成り立つ。<line-break>個人の感情が優先されるべきではない。<end>"
@@ -210,11 +210,11 @@ english = "My sister was beautiful. More beautiful than anything in the world. A
 
 ["1420052"]
 japanese = "けれど、卑しい人間どもは違った。<line-break>しかも権力におぼれた人間は、<line-break>一層たちが悪い。<line-break>ディンガル皇帝エリュマルク…<line-break>奴は、姉さんを己のものに<line-break>しようとした。<end>"
-english = "But base human beings were different. Those drunk on power were worse still. Eryumark, Emperor of Dyneskal... He tried to make my sister his own.<end>"
+english = "But base human beings were different. Those drunk on power were worse still. Elmark, Emperor of Dyneskal... He tried to make my sister his own.<end>"
 
 ["1420053"]
 japanese = "配下のネメアに姉さんを<line-break>さらうように命じたんだ。<line-break>\u3000<line-break>聞いたことがあるだろう？<line-break>皇帝エリュマルクがネメアに課した<line-break>１２の難事を。<end>"
-english = "He ordered his subordinate Nemea to abduct her. You've heard of the Twelve Labors Emperor Eryumark imposed on Nemea, haven't you?<end>"
+english = "He ordered his subordinate Nemea to abduct her. You've heard of the Twelve Labors Emperor Elmark imposed on Nemea, haven't you?<end>"
 
 ["1420054"]
 japanese = "そのひとつに、美女イズをさらえ<line-break>というのがある。<line-break>そのイズこそ、僕の姉さんだ。<line-break>姉さんはネメアを前にして言った。<line-break>自分はどうなってもかまわない。<line-break>だから、弟には手を出さないでと。<end>"
@@ -230,7 +230,7 @@ english = "My sister was everything to me. Nothing in the world mattered more. O
 
 ["1420057"]
 japanese = "すべてに空しくなった僕は<line-break>気がついたら、施文院の暗殺組織\u3000\u3000<line-break>告死天使の長に納まっていた。<line-break>僕の家は代々施文院の大神官を<line-break>務めていたからね。空虚になった僕に<line-break>おあつらえ向きのポジションだ。<end>"
-english = "Everything had become meaningless to me, and before I knew it, I had settled into the role of leader of the Death-Herald Angels, the Shimon-in's assassination organization. My family had served as the Shimon-in's high priests for generations, you see. It was the perfect position for someone as empty as I was.<end>"
+english = "Everything had become meaningless to me, and before I knew it, I had settled into the role of leader of the Angels of Death, the Inscription Order's assassination organization. My family had served as the Inscription Order's high priests for generations, you see. It was the perfect position for someone as empty as I was.<end>"
 
 ["1420058"]
 japanese = "…君たち冒険者には、<line-break>なんの利益にもならない話だ。\u3000\u3000\u3000\u3000<line-break>忘れてくれ。<line-break>死の羽音はしばらく預けておくよ。<line-break>処分が必要になったら、そのときは<line-break>また出向くことにする…。<end>"
@@ -238,7 +238,7 @@ english = "That story is of no benefit to you adventurers. Forget it. I'll leave
 
 ["1420059"]
 japanese = "その後、姉さんがどうなったか、\u3000<line-break>だって？<line-break>\u3000<line-break>知らないのか？<line-break>絶世の美女イズは、<line-break>皇帝エリュマルクに殺されたんだ。<end>"
-english = "You want to know what happened to my sister afterward? You don't know? Iz, the woman whose beauty was without equal, was killed by Emperor Eryumark.<end>"
+english = "You want to know what happened to my sister afterward? You don't know? Iz, the woman whose beauty was without equal, was killed by Emperor Elmark.<end>"
 
 ["1420060"]
 japanese = "イズの心を奪ったネメアへの<line-break>嫉妬に狂ったエリュマルクにね。<end>"
@@ -846,7 +846,7 @@ english = "What do you mean? I demand an explanation.<end>"
 
 ["1420211"]
 japanese = "我々ディンガル帝国は<line-break>新たなる皇帝を擁立するのです。<line-break> <line-break>人類の革新を進めるに相応しい人物を<line-break>…ね。<end>"
-english = "We of the Dyneskal Empire intend to enthrone a new emperor―someone fit to lead humanity's renewal.<end>"
+english = "We of the Dyneskal Empire intend to enthrone a new emperor―someone fit to lead Humanity's Evolution.<end>"
 
 ["1420212"]
 japanese = "…まさか！？<line-break>そのような無法が<line-break>許されるとでも思っているのか？<end>"
@@ -910,7 +910,7 @@ english = "What do you mean by that? Would you please explain?<end>"
 
 ["1420227"]
 japanese = "我々ディンガル帝国は<line-break>新たなる皇帝を擁立するのです。<line-break> <line-break>人類の革新を進めるに相応しい人物を<line-break>…ね。<end>"
-english = "We of the Dyneskal Empire intend to enthrone a new emperor―someone fit to lead humanity's renewal.<end>"
+english = "We of the Dyneskal Empire intend to enthrone a new emperor―someone fit to lead Humanity's Evolution.<end>"
 
 ["1420228"]
 japanese = "…まさか！？<line-break>そのような無法が<line-break>許されるとでも思っているのか？<end>"
@@ -1130,7 +1130,7 @@ english = "Then how about this? We all go out to meet <value:$28>, then set off 
 
 ["1420282"]
 japanese = "バイアシオン大陸といわず、<line-break>世界の果てを見るような旅に。<end>"
-english = "Not just across the Baiashion Continent. We'd travel to the ends of the world.<end>"
+english = "Not just across the Vyashion Continent. We'd travel to the ends of the world.<end>"
 
 ["1420283"]
 japanese = "…乗った。<line-break>…それならば、奴といつでも<line-break>剣を交えることができる。<end>"
@@ -1246,7 +1246,7 @@ english = "Yes. Come and visit soon, <value:$28>.<end>"
 
 ["1420311"]
 japanese = "わしはアルノートゥンだ。<line-break>イズキヤルの墓を作ってやらねばな。<line-break> <line-break><value:$28>も、<line-break>墓参りに来てやってくれい。<end>"
-english = "I am bound for Alnortun. I must build a grave for Izukiyal. Come and pay your respects too, <value:$28>.<end>"
+english = "I am bound for Alnortun. I must build a grave for Izkiyal. Come and pay your respects too, <value:$28>.<end>"
 
 ["1420312"]
 japanese = "私とセラは、ともかく一度、<line-break>ミイスへ向かおうと思う。<end>"
@@ -1282,7 +1282,7 @@ english = "<value:$28>, we cannot disband while you are still here!<end>"
 
 ["1420320"]
 japanese = "イオンズ殿の言うとおりじゃ。<line-break>ついつい、パーティとして、<line-break>くっついて行きたくなるわい。<end>"
-english = "Sir Ionz is right. We cannot help wanting to follow along as a party.<end>"
+english = "Sir Ions is right. We cannot help wanting to follow along as a party.<end>"
 
 ["1420321"]
 japanese = "<value:$28>！<line-break>解散しても、<line-break>家にカエサンつもりかよっ！<end>"
@@ -1646,7 +1646,7 @@ english = "I alone need to get my hands dirty.<end>"
 
 ["1420411"]
 japanese = "ともに歩んでいこうというのか？<line-break>ダルケニスであるこの俺と…。<line-break> <line-break>後悔するぞ…。<end>"
-english = "You would walk beside me? Beside a Dalkenis...? You will regret it.<end>"
+english = "You would walk beside me? Beside a Darkenith...? You will regret it.<end>"
 
 ["1420412"]
 japanese = "………………。<line-break> <line-break> <line-break>…すまない。<line-break>馬鹿なことを聞いた。<end>"
@@ -2062,11 +2062,11 @@ english = "We can still have a feast once no one is going hungry, gob.<end>"
 
 ["1420515"]
 japanese = "…す、凄いゴブ。<line-break>オルナットがごちそうを<line-break>あきらめたゴブ！<end>"
-english = "Th-That's incredible, gob. Ornat gave up a feast!<end>"
+english = "Th-That's incredible, gob. Ornut gave up a feast!<end>"
 
 ["1420516"]
 japanese = "…オルナットの言うことが正しいゴブ。<line-break>我ら誇り高いゴブゴブ団は、<line-break>飢えと貧困と戦ってきたゴブが、<line-break>まだ、完全に勝利していないゴブ！<end>"
-english = "Ornat is right, gob. Our proud Gob-Gob Gang has fought hunger and poverty, but we have yet to win a complete victory!<end>"
+english = "Ornut is right, gob. Our proud Gob-Gob Gang has fought hunger and poverty, but we have yet to win a complete victory!<end>"
 
 ["1420517"]
 japanese = "マルーン！\u3000ごちそうを変更して<line-break>炊き出しの準備をするゴブ！<end>"
@@ -2078,7 +2078,7 @@ english = "C-Captain... I've never been prouder to belong to the Gob-Gob Gang, g
 
 ["1420519"]
 japanese = "フゴー殿、ダイダロ殿。<line-break>というワケで、<line-break>ゴブゴブ団は前進するゴブ。<line-break>ゴブゴブ団を認めてくれたことは<line-break>嬉しかったゴブ。<line-break>では、さらばゴブ！<end>"
-english = "Lord Hugo, Lord Daidalo. And so, the Gob-Gob Gang marches onward, gob. We were glad to have your recognition. Farewell, gob!<end>"
+english = "Lord Hugo, Lord Daedalo. And so, the Gob-Gob Gang marches onward, gob. We were glad to have your recognition. Farewell, gob!<end>"
 
 ["1420520"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000愚かな者たちよ…\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000死こそ、汝らにとって<line-break>\u3000\u3000\u3000\u3000\u3000最高の結末であったろうに…<end>"
@@ -2174,11 +2174,11 @@ english = "A corpse that will never decay, seeking an end to eternity. Your hatr
 
 ["1420543"]
 japanese = "こ、これはウルグ様の力…。<line-break> <line-break> <line-break>お前は一体！<line-break>まあ…よい。<line-break>お前こそ我が求めていた存在。<end>"
-english = "Th-this is the power of Urg... What are you? No matter. You are the one I have sought.<end>"
+english = "Th-this is the power of Ulugh... What are you? No matter. You are the one I have sought.<end>"
 
 ["1420544"]
 japanese = "さあ、その力で我を撃て。<line-break> <line-break> <line-break>闇の中の闇。<line-break>ウルグ様の力であれば我も<line-break>眠ることができよう。<end>"
-english = "Now strike me with that power. Darkness within darkness... With the power of Urg, perhaps even I may sleep.<end>"
+english = "Now strike me with that power. Darkness within darkness... With the power of Ulugh, perhaps even I may sleep.<end>"
 
 ["1420545"]
 japanese = "さらばだ…アスティアの子よ。<line-break>礼を言うぞ。<end>"
@@ -2238,7 +2238,7 @@ english = "What do you mean? I demand an explanation.<end>"
 
 ["1420559"]
 japanese = "我々ディンガル帝国は<line-break>新たなる皇帝を擁立するのです。<line-break> <line-break>人類の革新を進めるに相応しい人物を<line-break>…ね<end>"
-english = "We of the Dyneskal Empire intend to install a new emperor―someone worthy of furthering humanity's transformation.<end>"
+english = "We of the Dyneskal Empire intend to install a new emperor―someone worthy of furthering Humanity's Evolution.<end>"
 
 ["1420560"]
 japanese = "…まさか！？<line-break>そのような無法が<line-break>許されるとでも思っているのか？<end>"
@@ -2302,7 +2302,7 @@ english = "What do you mean? Would you please explain?<end>"
 
 ["1420575"]
 japanese = "我々ディンガル帝国は<line-break>新たなる皇帝を擁立するのです。<line-break> <line-break>人類の革新を進めるに相応しい人物を<line-break>…ね<end>"
-english = "We of the Dyneskal Empire intend to install a new emperor―someone worthy of furthering humanity's transformation.<end>"
+english = "We of the Dyneskal Empire intend to install a new emperor―someone worthy of furthering Humanity's Evolution.<end>"
 
 ["1420576"]
 japanese = "…まさか！？<line-break>そのような無法が<line-break>許されるとでも思っているのか？<end>"
@@ -2646,7 +2646,7 @@ english = "Yeah. Come visit soon, <value:$28>.<end>"
 
 ["1420661"]
 japanese = "わしはアルノートゥンだ。<line-break>イズキヤルの墓を作ってやらねばな。<line-break> <line-break><value:$28>も、<line-break>墓参りに来てやってくれい。<end>"
-english = "I am bound for Alnortun. I must build Izukiyal a grave. Come and pay your respects as well, <value:$28>.<end>"
+english = "I am bound for Alnortun. I must build Izkiyal a grave. Come and pay your respects as well, <value:$28>.<end>"
 
 ["1420662"]
 japanese = "私とセラは、ともかく一度、<line-break>ミイスへ向かおうと思う。<end>"

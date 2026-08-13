@@ -194,7 +194,7 @@ english = "Goodbye… I am going to join Mizuchi and the others, and Mother…<e
 
 ["1120048"]
 japanese = "<if><value:$01><equal>2空中都市が…<line-break>ラドラスが…落ちたのね。<line-break>\u3000<line-break>………………。 <end><if><value:$01><equal>3おおおおぉぉーーーーー！！\u3000\u3000\u3000\u3000<line-break>イークレムン、<line-break>イークレムンよ…。<line-break>この父を…許してくれ…。<line-break>最後の最後まで、何ひとつ<line-break>父らしいことをしてやれなんだ…！ <end><if><value:$01><equal>4ああっ！！\u3000落ちちゃったわ！<line-break>あそこには…、あの中には……。<line-break>\u3000<line-break>…ダメ。<line-break>悲しすぎて、これ以上は<line-break>言葉にならないかも…。 <end><if><value:$01><equal>5ちくしょう！<line-break>ちくしょう！！<line-break>ちくしょう！！！\u3000\u3000\u3000<line-break>助けられなかった！<line-break>誰も！\u3000何も！<line-break>ち…くしょ……ぉ……！ <end><if><value:$01><equal>13クッ…！ <end><if><value:$01><equal>10うあああああ！！<line-break>ラドラス、落ちちまったぁぁぁ！！<line-break>姉ちゃん！\u3000姉ちゃん！！<line-break>なあ、あの中の人たちは！？<line-break>巫女のみんなは！？<line-break>なあ、姉ちゃん、姉…ちゃん…。 <end><if><value:$01><equal>14ラドラスが…落ちよった…。<line-break>わしらの力が、わしらの力が<line-break>足りんかったばかりに…。<line-break>すまんかったなあ…。<line-break>本当に、すまんかったなあ…。 <end><if><value:$01><equal>15<value:$28>…。<line-break>ラドラスが…落ちたよ…。\u3000<line-break>人が、たくさんの人が…。<line-break>くやしいよ…。<line-break>また、僕が無力なせいで…<line-break>僕には、何もできなかった…。 <end><if><value:$01><equal>17まぁったく！\u3000人間のクセに<line-break>分不相応なものを作るから<line-break>こんなことになるのよ！！<line-break>…まったく…、<line-break>あんなもの作るから…。<line-break>ホントにもう…。 <end><if><value:$01><equal>19イヤだよぉ、<value:$28>！<line-break>ラドラス、落ちちゃったぁ！！<line-break>\u3000<line-break>おねえちゃんたちも<line-break>砂漠の人たちも、死んじゃったぁ！<line-break>ひどいよ、ひどいよ……。 <end><if><value:$01><equal>26イズキヤルだけではのうて<line-break>巫女様方までも<line-break>救えなんだか…！<line-break>シャリ、<line-break>お主のねらいはなんじゃ？<line-break>何をやろうとしておる！？ <end><if><value:$01><equal>27彼らはあれを守るために生まれ<line-break>守るべくして死んだのだ。<line-break>悔いはあるまい。<line-break>それが定め。<line-break>もし、彼らでなければ<line-break>後の世の誰かがああなったのだ。<end><if><value:$01><equal>11あれが…定め…。<line-break>誰も、運命には逆らえない…。 <end><if><value:$01><equal>20………………。 <end><if><value:$01><equal>193そ、そんなことって…。<line-break>私たちだけが助かって…<line-break>あの中にいた人たちが…！<line-break>こんなの…ひどすぎます！！<end><if><value:$01><equal>191…ごめんなさい。<line-break>あたしたちの力が足りなくて…。<line-break>ごめん…ごめんね…。<end><if><value:$01><equal>190くそ！<line-break>俺の力が及ばなかったばかりに！<line-break>すまない！<end>"
-english = "<if><value:$01><equal>2The Floating City... Ladras has fallen. ...<end><if><value:$01><equal>3Aaaaaaaagh!! Iiklmn... Oh, Iiklmn... Forgive your father... In the end, I never did a single thing a father should have done for you!<end><if><value:$01><equal>4Oh! It fell! There... inside it... No... It's too sad. I don't think I can say any more...<end><if><value:$01><equal>5Damn it! Damn it!! Damn it!!! I couldn't save anyone! I couldn't save anything! Damn... it...<end><if><value:$01><equal>13Ngh...!<end><if><value:$01><equal>10Aaaaaagh!! Ladras fell!! Sis! Sis!! What about the people inside!? What about all the priestesses!? Come on, Sis... Sis...<end><if><value:$01><equal>14Ladras... has fallen... All because we weren't strong enough... I'm sorry. I'm so very sorry...<end><if><value:$01><equal>15<value:$28>... Ladras has fallen... So many people... It's so frustrating... Once again, I was powerless. I couldn't do anything...<end><if><value:$01><equal>17Honestly! That's what happens when mere humans build things beyond their station!! They just had to build that thing... Honestly...<end><if><value:$01><equal>19No, <value:$28>! Ladras fell!! The older girls and the people of the desert... they're all dead! It's awful! It's so awful...<end><if><value:$01><equal>26We failed to save not only Izukiyal, but even the priestesses...! Shalli, what are you after? What are you trying to do!?<end><if><value:$01><equal>27They were born to protect that, and they died as they were meant to. They can have no regrets. Such was their destiny. If it had not been them, someone in a later age would have met the same fate.<end><if><value:$01><equal>11That was... destiny... No one can defy fate...<end><if><value:$01><equal>20...<end><if><value:$01><equal>193H-how could this happen...? We were the only ones saved, while all those people inside...! It's too horrible!!<end><if><value:$01><equal>191I'm sorry... We weren't strong enough... I'm sorry... I'm so sorry...<end><if><value:$01><equal>190Damn it! All because I wasn't strong enough! I'm sorry!<end>"
+english = "<if><value:$01><equal>2The Floating City... Ladras has fallen. ...<end><if><value:$01><equal>3Aaaaaaaagh!! Iiklmn... Oh, Iiklmn... Forgive your father... In the end, I never did a single thing a father should have done for you!<end><if><value:$01><equal>4Oh! It fell! There... inside it... No... It's too sad. I don't think I can say any more...<end><if><value:$01><equal>5Damn it! Damn it!! Damn it!!! I couldn't save anyone! I couldn't save anything! Damn... it...<end><if><value:$01><equal>13Ngh...!<end><if><value:$01><equal>10Aaaaaagh!! Ladras fell!! Sis! Sis!! What about the people inside!? What about all the priestesses!? Come on, Sis... Sis...<end><if><value:$01><equal>14Ladras... has fallen... All because we weren't strong enough... I'm sorry. I'm so very sorry...<end><if><value:$01><equal>15<value:$28>... Ladras has fallen... So many people... It's so frustrating... Once again, I was powerless. I couldn't do anything...<end><if><value:$01><equal>17Honestly! That's what happens when mere humans build things beyond their station!! They just had to build that thing... Honestly...<end><if><value:$01><equal>19No, <value:$28>! Ladras fell!! The older girls and the people of the desert... they're all dead! It's awful! It's so awful...<end><if><value:$01><equal>26We failed to save not only Izkiyal, but even the priestesses...! Shalli, what are you after? What are you trying to do!?<end><if><value:$01><equal>27They were born to protect that, and they died as they were meant to. They can have no regrets. Such was their destiny. If it had not been them, someone in a later age would have met the same fate.<end><if><value:$01><equal>11That was... destiny... No one can defy fate...<end><if><value:$01><equal>20...<end><if><value:$01><equal>193H-how could this happen...? We were the only ones saved, while all those people inside...! It's too horrible!!<end><if><value:$01><equal>191I'm sorry... We weren't strong enough... I'm sorry... I'm so sorry...<end><if><value:$01><equal>190Damn it! All because I wasn't strong enough! I'm sorry!<end>"
 
 ["1120049"]
 japanese = "\u3000動力部、不要生命体混入<line-break>\u3000自動排除反応、動作開始<line-break>排除終了条件、生命活動停止<end>"
@@ -334,7 +334,7 @@ english = "Everyone! Are you all right?!<end>"
 
 ["1120083"]
 japanese = "そなたに心配されるほど<line-break>弱くはないわ、地の巫女よ。<end>"
-english = "I am not so weak as to need your concern, Earth Shrine Maiden.<end>"
+english = "I am not so weak as to need your concern, Priestess of Earth.<end>"
 
 ["1120084"]
 japanese = "まだ少し、体に力が入りませんが…<line-break>大丈夫です。<value:$28>さん、<line-break>ありがとうございます。<end>"
@@ -374,7 +374,7 @@ english = "Let's shut this place down, so it can never be used again.<end>"
 
 ["1120093"]
 japanese = "それは！！<line-break>…これを壊すことは…<line-break>動かなくするということは…。<line-break>私たち巫女が今まで<line-break>存在しつづけてきた意味も理由も<line-break>なくなってしまいます。<end>"
-english = "But... if we destroy it―if we render it inoperable―then all meaning and purpose behind our continued existence as shrine maidens will be gone.<end>"
+english = "But... if we destroy it―if we render it inoperable―then all meaning and purpose behind our continued existence as priestesses will be gone.<end>"
 
 ["1120094"]
 japanese = "でも、もし再びこのようなことが<line-break>起きれば、また悲しみが生まれます。<line-break>大切な命が失われるでしょう。<line-break>それよりは、今この空中都市を<line-break>永久に封じた方が、世界にとって<line-break>いいのではないでしょうか。<end>"
@@ -382,7 +382,7 @@ english = "But if something like this happens again, it will bring more sorrow. 
 
 ["1120095"]
 japanese = "ボクもイークレムンと同じ気持ちだよ。<line-break>悲しみや絶望を生むために<line-break>ボクたちはいるんじゃない。<line-break>８００年、ボクたち巫女の存在が<line-break>これのためにあったというのなら、<line-break>今日でそれを終わりにしよう。<end>"
-english = "I feel the same way, Iiklmn. We weren't meant to bring sorrow and despair. If this is what we shrine maidens have existed for these past eight hundred years, then let's put an end to it today.<end>"
+english = "I feel the same way, Iiklmn. We weren't meant to bring sorrow and despair. If this is what we priestesses have existed for these past eight hundred years, then let's put an end to it today.<end>"
 
 ["1120096"]
 japanese = "じゃあ、イークレムンとフレアは<line-break>自分たちの制御球の所に行って。<end>"
@@ -430,7 +430,7 @@ english = "No, Er. This didn't happen just because <value:$28> is special. We al
 
 ["1120107"]
 japanese = "フッ…そうか。<line-break>そなたらしい言葉だな、<line-break>地の巫女よ。<end>"
-english = "Heh... I see. That is just like you, Earth Shrine Maiden.<end>"
+english = "Heh... I see. That is just like you, Priestess of Earth.<end>"
 
 ["1120108"]
 japanese = "さて、精霊の巫女たちよ。<line-break>そなたらを、あるべき地へ<line-break>帰してやらねばなるまいな。<end>"
@@ -462,7 +462,7 @@ english = "Well, I'm going back to Ladras. Things are probably all right now. Se
 
 ["1120115"]
 japanese = "私も、ウルカーンへ戻ります。<line-break>そこにはもう、私の役目は<line-break>何もないかもしれませんが…。<line-break><value:$28>様、<line-break>それでは…。<end>"
-english = "I too will return to Ulcaan. There may no longer be any role for me there, but... Farewell, <value:$28>.<end>"
+english = "I too will return to Ulkarne. There may no longer be any role for me there, but... Farewell, <value:$28>.<end>"
 
 ["1120116"]
 japanese = "<value:$28>さん…、<line-break>本当にありがとうございました。<line-break>\u3000<line-break>私…私もできることなら<line-break><value:$28>さんの旅に…。<end>"
@@ -486,7 +486,7 @@ english = "I'm sorry. The wish was so strong, but I couldn't make it come true..
 
 ["1120121"]
 japanese = "私も、ウルカーンへ戻ります。<line-break>そこにはもう、私の役目は<line-break>何もないかもしれませんが…。<line-break><value:$28>様、<line-break>それでは…。<end>"
-english = "I too will return to Ulcaan. There may no longer be any role for me there, but... Farewell, <value:$28>.<end>"
+english = "I too will return to Ulkarne. There may no longer be any role for me there, but... Farewell, <value:$28>.<end>"
 
 ["1120122"]
 japanese = "<value:$28>…。<line-break>わらわは、今<line-break>希望を感じておる。\u3000\u3000\u3000\u3000\u3000<line-break>おそらく、わらわにとって<line-break>生まれて始めての希望じゃ。<line-break>未来を強く願うほどのな…。<end>"
@@ -506,7 +506,7 @@ english = "Then I shall return to Aqyurius. <value:$28>, when you come to Aqyuri
 
 ["1120126"]
 japanese = "私も、ウルカーンへ戻ります。<line-break>そこにはもう、私の役目は<line-break>何もないかもしれませんが…。<line-break><value:$28>様、<line-break>それでは…。<end>"
-english = "I too will return to Ulcaan. There may no longer be any role for me there, but... Farewell, <value:$28>.<end>"
+english = "I too will return to Ulkarne. There may no longer be any role for me there, but... Farewell, <value:$28>.<end>"
 
 ["1120127"]
 japanese = "へへっ、えへへへ…。\u3000\u3000\u3000\u3000\u3000<line-break>ホント、ありがとう。<line-break><value:$28>。<line-break>やっぱり、キミはすごいよ。<line-break>ボクにとっては、勇者ネメアより<line-break>ずっとずっと素敵な勇者様だ。<end>"
@@ -538,7 +538,7 @@ english = "Go forth, <value:$28>. With your power, you may yet shatter even the 
 
 ["1120134"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000待っていたぞ。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000地の巫女よ。そして<line-break>\u3000\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000かつて汝らに<line-break>\u3000\u3000\u3000\u3000巨人フルーヴを倒してもらったが<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我の力はいまだ戻らぬ。<end>"
-english = "I have been waiting for you, Priestess of the Earth―and you, Bearer of the Infinite Soul... You once defeated Giant Fleuve at my behest, yet my power has still not returned.<end>"
+english = "I have been waiting for you, Priestess of Earth―and you, Bearer of the Infinite Soul... You once defeated Giant Fleuve at my behest, yet my power has still not returned.<end>"
 
 ["1120135"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000来たか。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我は汝を待っておった…。\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000かつて汝に<line-break>\u3000\u3000\u3000巨人フルーヴを倒してもらったが<line-break>\u3000\u3000\u3000\u3000\u3000我の力はいまだ戻らぬ。<end>"
@@ -586,7 +586,7 @@ english = "I see. Then I shall not force you. Fickle child of man, if you change
 
 ["1120146"]
 japanese = "フン…貴様が<line-break>無限のソウルを持つ者か…。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000<line-break>この世界のため、<line-break>そして、我が弟フルーヴの無念のため、<line-break>貴様を無へと帰してやろう！！<end>"
-english = "Hmph... So you are the Bearer of the Infinite Soul. For the sake of this world, and for my younger brother Flueve's unfulfilled hopes, I shall return you to nothingness!<end>"
+english = "Hmph... So you are the Bearer of the Infinite Soul. For the sake of this world, and for my younger brother Fleuve's unfulfilled hopes, I shall return you to nothingness!<end>"
 
 ["1120147"]
 japanese = "く、無念…。<line-break>我が力もってしても<line-break>貴様らの愚行をとめられぬか…。<line-break>大きく、しかし愚かなる魂よ。<line-break>やがて来る闇に絶望し<line-break>己が行いをくいるがいい…。<end>"
@@ -646,11 +646,11 @@ english = "I told you, it's got nothing to do with me!<end>"
 
 ["1120161"]
 japanese = "\u3000\u3000\u3000\u3000\u3000 \u3000\u3000来たか、地の巫女よ。\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000ん、汝は…。<line-break>\u3000\u3000\u3000なるほど、無限のソウルを持つ者か…。<line-break>\u3000<line-break>\u3000\u3000\u3000 \u3000 \u3000\u3000大いなる可能性を持つ<line-break>\u3000\u3000\u3000  \u3000\u3000 \u3000\u3000人の子らよ。<line-break>\u3000\u3000\u3000  \u3000\u3000 \u3000汝に頼みがある。<end>"
-english = "You have come, priestess of earth. Hmm, and you are... I see. The Bearer of the Infinite Soul... Children of man, you hold great potential. I have a favor to ask of you.<end>"
+english = "You have come, Priestess of Earth. Hmm, and you are... I see. The Bearer of the Infinite Soul... Children of man, you hold great potential. I have a favor to ask of you.<end>"
 
 ["1120162"]
 japanese = "\u3000\u3000 \u3000\u3000ここより先に、<line-break>\u3000\u3000 フルーヴという巨人がおる。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000汝の力で葬ってくれ。<line-break>\u3000 \u3000彼奴は我の力を妨げる力。<line-break>\u3000\u3000 \u3000不要な存在なのだ…。<end>"
-english = "Beyond this place dwells a giant called Fluve. Bury it with your power. That creature is a force that impedes my own. Its existence serves no purpose...<end>"
+english = "Beyond this place dwells a giant called Fleuve. Bury it with your power. That creature is a force that impedes my own. Its existence serves no purpose...<end>"
 
 ["1120163"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よし。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000では我は、汝を<line-break>\u3000\u3000\u3000\u3000 \u3000\u3000精霊の座へと導かん。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000汝、気高き地の光を越え<line-break>\u3000\u3000\u3000\u3000\u3000\u3000彼の巨人に挑むがよい。<line-break>\u3000\u3000\u3000\u3000 \u3000挑み、打ち破るがよい…。<end>"
@@ -666,11 +666,11 @@ english = "O fickle child of man. If you change your mind, come and seek me agai
 
 ["1120166"]
 japanese = "フン…地の巫女と<line-break>無限のソウルを持つ者か。<line-break>\u3000<line-break>グラジェオンめ…<line-break>闇の力の高まりを知り、<line-break>我を滅ぼさんと欲したか。<end>"
-english = "Hmph... The Earth Priestess and the Bearer of the Infinite Soul. Curse you, Grajeon... You sensed the growing power of darkness and sought to destroy me?<end>"
+english = "Hmph... The Priestess of Earth and the Bearer of the Infinite Soul. Curse you, Grajeon... You sensed the growing power of darkness and sought to destroy me?<end>"
 
 ["1120167"]
 japanese = "しかし、汝らごときに倒される<line-break>このフルーヴではない。<line-break>来るがよい、精霊神のしもべよ！！<end>"
-english = "But Furuve will not fall to the likes of you. Come, servants of the Spirit God!<end>"
+english = "But Fleuve will not fall to the likes of you. Come, servants of the Spirit God!<end>"
 
 ["1120168"]
 japanese = "愚かなり、人の子よ。<line-break>精霊神に躍らされ、<line-break>我を撃ち、闇を呼ぶか…。<line-break>愚かなり…愚かなり…。<end>"
@@ -678,7 +678,7 @@ english = "Foolish child of man. Made to dance to the Spirit God's tune, you str
 
 ["1120169"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よくやった…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が地の巫女よ…。<line-break>\u3000\u3000\u3000\u3000\u3000無限のソウルを持つ者よ…。<end>"
-english = "Well done... my priestess of the earth... Bearer of the Infinite Soul...<end>"
+english = "Well done... my Priestess of Earth... Bearer of the Infinite Soul...<end>"
 
 ["1120170"]
 japanese = "\u3000\u3000地の巫女よ、無限のソウルを持つ者よ。\u3000\u3000<line-break>\u3000\u3000\u3000よくぞ、巨人フルーヴを倒した。<line-break>\u3000\u3000\u3000心から、礼を言わせてもらうぞ。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000さあ、再び行くがよい。<line-break>\u3000\u3000\u3000\u3000\u3000汝らのなすべき旅の道へ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000さらばだ。<end>"
@@ -686,7 +686,7 @@ english = "Priestess of Earth! Bearer of the Infinite Soul! You have done well t
 
 ["1120171"]
 japanese = "\u3000\u3000\u3000\u3000\u3000来たか、地の巫女よ。そして、\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000 \u3000無限のソウルを持つ者よ…。<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ならば、我は今一度汝に乞う。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000我の力を封じつづける<line-break>\u3000\u3000\u3000 \u3000彼の巨人を倒してはくれまいか？<end>"
-english = "You have come, priestess of earth, and you, Bearer of the Infinite Soul... Then I beseech you once more: will you defeat the giant that continues to seal away my power?<end>"
+english = "You have come, Priestess of Earth, and you, Bearer of the Infinite Soul... Then I beseech you once more: will you defeat the giant that continues to seal away my power?<end>"
 
 ["1120172"]
 japanese = "えっ！？<line-break>せ、制御の間ですか？<end>"

@@ -130,23 +130,23 @@ english = "All right, then I'll follow up on a few leads myself. I'm counting on
 
 ["1470032"]
 japanese = "リルビーの娘を見なかったかって？<line-break>そう言えば、さっき広場の方に<line-break>走っていくの見たような…。<end>"
-english = "Lilby's daughter? Now that you mention it, I think I saw her running toward the square a little while ago...<end>"
+english = "Lilubee's daughter? Now that you mention it, I think I saw her running toward the square a little while ago...<end>"
 
 ["1470033"]
 japanese = "リルビーの娘さん？\u3000そう言われても、<line-break>同じ様な格好をしている娘さんが<line-break>たくさんおるからのう。わからんのう。<end>"
-english = "Rilby's daughter? I'm afraid I couldn't tell you. There are so many young women dressed just like her.<end>"
+english = "Lilubee's daughter? I'm afraid I couldn't tell you. There are so many young women dressed just like her.<end>"
 
 ["1470034"]
 japanese = "え？\u3000リルビーの女の子を<line-break>見なかったかって？<line-break>う～ん、ちょっとわからないな。<end>"
-english = "What? You're asking if I've seen a Lilbie girl? Hmm, I'm not sure.<end>"
+english = "What? You're asking if I've seen a Lilubee girl? Hmm, I'm not sure.<end>"
 
 ["1470035"]
 japanese = "いらっしゃいませ。<line-break>今日は何になさいますか？\u3000\u3000\u3000<line-break>\u3000<line-break>え？\u3000リルビーの女の子ですか？<line-break>カウンターにいるお客さんでは<line-break>ないんですよね？<end>"
-english = "Welcome. What can I get you today? What? A Lilbie girl? You don't mean the customer at the counter, do you?<end>"
+english = "Welcome. What can I get you today? What? A Lilubee girl? You don't mean the customer at the counter, do you?<end>"
 
 ["1470036"]
 japanese = "お店には、他にリルビーの方は<line-break>来てないと思いますよ。<line-break>ごめんなさい。<end>"
-english = "I don't think any other Lilbies have come into the shop. Sorry.<end>"
+english = "I don't think any other Lilubees have come into the shop. Sorry.<end>"
 
 ["1470037"]
 japanese = "<if><value:$29><equal>%0（はやく、ルルアンタを捜さないと。<line-break>\u3000まずは町の中を捜そう。）<end>（はやく、ルルアンタを捜さないと。<line-break>\u3000まずは町の中を捜しましょう。）<end>"
@@ -178,11 +178,11 @@ english = "Oh? Is it me you wanted?<end>"
 
 ["1470044"]
 japanese = "いや、あんたは<line-break>この広場でよく見かけるんでね。<line-break>ちょっと、聞きたいことがあるんだ。<line-break>今さっき、この辺りで<line-break>リルビーの女の子と、男が何か<line-break>言い争ってたりはしなかったか？<end>"
-english = "I see you around this square a lot, so I wanted to ask you something. Did you happen to see a Lilbee girl arguing with a man around here just now?<end>"
+english = "I see you around this square a lot, so I wanted to ask you something. Did you happen to see a Lilubee girl arguing with a man around here just now?<end>"
 
 ["1470045"]
 japanese = "うーん、そういえばこの辺りで<line-break>リルビーの女の子が、人相の悪ーい<line-break>男たちと、もめてるのを見たねー。<line-break>でも、しばらくしたら<line-break>女の子は男たちと一緒に町の外に<line-break>行ってしまったみたいだけどねー。<end>"
-english = "Hmm... Now that you mention it, I did see a Lilbee girl having words with some rather nasty-looking men around here. But after a while, she seemed to leave town with them.<end>"
+english = "Hmm... Now that you mention it, I did see a Lilubee girl having words with some rather nasty-looking men around here. But after a while, she seemed to leave town with them.<end>"
 
 ["1470046"]
 japanese = "間違いなさそうだな。<line-break>ルルアンタはそいつらに<line-break>連れていかれたんだ。<end>"
@@ -282,7 +282,7 @@ english = "Who the hell are you?! How did you get in here?<end>"
 
 ["1470070"]
 japanese = "あぁん？\u3000リルビーの娘だと？<line-break>あぁ、あのやかましい小娘のことか？\u3000<line-break>\u3000<line-break>あいつなら、さっき<line-break>他のガキどもと一緒に<line-break>エンシャントに送っちまったぜ。<end>"
-english = "Huh? Lilby's daughter? Oh, you mean that noisy little brat? She got sent off to Ancient with the other kids just a little while ago.<end>"
+english = "Huh? Lilubee's daughter? Oh, you mean that noisy little brat? She got sent off to Ancient with the other kids just a little while ago.<end>"
 
 ["1470071"]
 japanese = "へっへ。やろうってのかぁ、俺と？<line-break>そのうち、俺の子分どもが戻ってくる。<line-break>そうなりゃ万事休すだぜ。<end>"
@@ -366,11 +366,11 @@ english = "What, you've been investigating the kidnappings too? And you've alrea
 
 ["1470091"]
 japanese = "じゃが、お主の言うルルアンタらしい<line-break>リルビーの娘は見あたらなかったぞ。<end>"
-english = "But I saw no sign of the Lilbie girl you say is called Lulluantha.<end>"
+english = "But I saw no sign of the Lilubee girl you say is called Lulluantha.<end>"
 
 ["1470092"]
 japanese = "おい、お主。話は聞いていたな？<line-break>リルビーの娘はどうしたのじゃ？<line-break>知らぬとは言わさんぞ。<end>"
-english = "You there. You heard all that, didn't you? What happened to the Lilbie girl? Don't tell me you don't know.<end>"
+english = "You there. You heard all that, didn't you? What happened to the Lilubee girl? Don't tell me you don't know.<end>"
 
 ["1470093"]
 japanese = "…エンシャントに来る途中で<line-break>賢者の森に、逃げられちまったんだよ。<line-break>…仲間が追っている。<end>"
@@ -462,7 +462,7 @@ english = "But when Balor became the Demon King, Angeerdan fell out with him and
 
 ["1470115"]
 japanese = "その後、魔王バロルが、<line-break>勇者ネメアに倒された時、<line-break>再びディンガルの将軍になったんだが、<line-break>皇帝エリュマルクってのが、<line-break>無理難題をネメアに押しつけるのを<line-break>見かねて堂々と批判した。<end>"
-english = "Later, when the Hero Nemea defeated Balor, Demon King, Angeerdan became a general of Dyneskal once more. But when Emperor Elyumark started saddling Nemea with impossible demands, Angeerdan couldn't stand by. He openly criticized the emperor.<end>"
+english = "Later, when the Hero Nemea defeated Balor, Demon King, Angeerdan became a general of Dyneskal once more. But when Emperor Elmark started saddling Nemea with impossible demands, Angeerdan couldn't stand by. He openly criticized the emperor.<end>"
 
 ["1470116"]
 japanese = "それが原因で、皇帝に<line-break>処刑されかけるところを脱走。<line-break>今や、お尋ね者のご老体だ。<end>"
@@ -530,7 +530,7 @@ english = "Hey, that's the way out. This is no time to be taking it easy, you kn
 
 ["1470132"]
 japanese = "ちっ。あのリルビーのガキめ。<line-break>いったい、どこに逃げやがったんだ。\u3000<line-break>\u3000<end>"
-english = "Damn that Lilbie brat. Where the hell did she run off to?<end>"
+english = "Damn that Lilubee brat. Where the hell did she run off to?<end>"
 
 ["1470133"]
 japanese = "バカ野郎が。<line-break>しっかり見張っとけと言ったのに、\u3000\u3000<line-break>お前が油断してるからだろうが。<end>"
@@ -538,7 +538,7 @@ english = "You idiot! I told you to keep a close watch. She got away because you
 
 ["1470134"]
 japanese = "え？\u3000その…そうでしたっけね。\u3000\u3000\u3000<line-break>へっへ…。<line-break>すいませんです、はい。<line-break>でも、リルビーのガキがひとりで<line-break>こんな森の中で迷ったら、<line-break>モンスターに食われておしまいですぜ。<end>"
-english = "Huh? Uh... did you? Heh heh... Sorry, sir. But if that Lilbie brat gets lost in these woods all alone, she'll wind up monster food.<end>"
+english = "Huh? Uh... did you? Heh heh... Sorry, sir. But if that Lilubee brat gets lost in these woods all alone, she'll wind up monster food.<end>"
 
 ["1470135"]
 japanese = "…まぁ、いい。エンシャントでの<line-break>仕事をすませて、さっさと<line-break>お頭の所に戻らねばならんからな。\u3000\u3000<end>"
@@ -562,7 +562,7 @@ english = "Exactly what I said. You've got nowhere to go back to now. So, why do
 
 ["1470140"]
 japanese = "…なるほど、あのリルビーの娘を\u3000\u3000\u3000<line-break>捜しに来たってわけか。<line-break>そう言えば、見知った顔がいる。<end>"
-english = "So you've come looking for that Lilbie girl. Come to think of it, I recognize one of you.<end>"
+english = "So you've come looking for that Lilubee girl. Come to think of it, I recognize one of you.<end>"
 
 ["1470141"]
 japanese = "お前、フリントのガキだな。\u3000\u3000\u3000\u3000<line-break>親父を殺した俺が憎かろう。<line-break>どうだ、俺と勝負してみるか？<line-break>俺に勝てたら、<line-break>フリント暗殺を依頼してきた奴の<line-break>名を教えてやる。知りたいだろう？<end>"
@@ -638,7 +638,7 @@ english = "Now tell us where Lulluantha is.<end>"
 
 ["1470159"]
 japanese = "…あのリルビーの娘なら<line-break>今ごろ…この森に住み着いている\u3000<line-break>モンスターどもの腹の中だぜ…。<end>"
-english = "That Lilbie girl? By now she's in the belly of one of the monsters living in these woods.<end>"
+english = "That Lilubee girl? By now she's in the belly of one of the monsters living in these woods.<end>"
 
 ["1470160"]
 japanese = "なんだと！？<end>"

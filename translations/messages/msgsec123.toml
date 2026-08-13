@@ -258,7 +258,7 @@ english = "...........<end>"
 
 ["1230064"]
 japanese = "（ウルカーンのギルドで会った男の子に<line-break>\u3000鳳凰山へ鳳凰を探しに行ってくれと<line-break>\u3000頼まれてしまった）<end>"
-english = "(A boy we met at the Guild in Urkaan asked us to search Phoenix Mountain for a phoenix.)<end>"
+english = "(A boy we met at the Guild in Ulkarne asked us to search Phoenix Mountain for a phoenix.)<end>"
 
 ["1230065"]
 japanese = "鳳凰山に鳳凰を探しに行くって、本気？<line-break>あなたに鳳凰探しを頼んだ子が、<line-break>嘘を言ってるかもしれないのに…。<line-break>ほんと、お人好しよね。<line-break>そこがあなたのいいところ<line-break>なのかもしれないけど。<end>"
@@ -302,7 +302,7 @@ english = "I don't know what everyone else said, but I think you made the right 
 
 ["1230075"]
 japanese = "ウルカーンのギルドの主人に聞いたぜ。<line-break>お前さん、鳳凰山に鳳凰を<line-break>探しに行く依頼を受けたんだろ？<line-break>ギルドの主人は信じてなかったが、<line-break>鳳凰山に鳳凰が降り立つって伝説は<line-break>本当にあるんだ。信じていいと思うぜ。<end>"
-english = "I heard from the Guildmaster in Urkaan. You took a job to search Phoenix Mountain for a phoenix, right? The Guildmaster didn't believe it, but there really is a legend that a phoenix descends upon Phoenix Mountain. I think you can believe the boy.<end>"
+english = "I heard from the Guildmaster in Ulkarne. You took a job to search Phoenix Mountain for a phoenix, right? The Guildmaster didn't believe it, but there really is a legend that a phoenix descends upon Phoenix Mountain. I think you can believe the boy.<end>"
 
 ["1230076"]
 japanese = "鳳凰山に鳳凰を探しにいくのか…。<line-break>気になる事がある。<line-break>付き合ってやってもいいぞ。<end>"
@@ -314,7 +314,7 @@ english = "You mean to search Phoenix Mountain for a phoenix? Wah ha ha ha! What
 
 ["1230078"]
 japanese = "鳳凰探し？<line-break>ああ、ウルカーンのギルドで、<line-break>男の子に頼まれた仕事だね。<line-break>その子の言うとおり、鳳凰山で鳳凰を<line-break>見つけられればいいんだけど…。<line-break>もし、いなかったらどうしようか？<end>"
-english = "A phoenix hunt? Ah, the job that boy gave you at the Guild in Urkaan. I hope we can find a phoenix on Phoenix Mountain, just as he said... But what will we do if there isn't one?<end>"
+english = "A phoenix hunt? Ah, the job that boy gave you at the Guild in Ulkarne. I hope we can find a phoenix on Phoenix Mountain, just as he said... But what will we do if there isn't one?<end>"
 
 ["1230079"]
 japanese = "鳳凰山には鳳凰が降り立つという<line-break>伝説が現にあるらしい。<line-break><line-break>その第一発見者が子供だというだけで、<line-break>鳳凰自体は本当にいるのかもしれない。<line-break>私としても、興味はあるな。<end>"
@@ -362,7 +362,7 @@ english = "A phoenix on Phoenix Mountain? Hmm... If it is genuine, it should be 
 
 ["1230090"]
 japanese = "鳳凰が降り立つという伝説は、<line-break>ウルカーンに古く伝えられている<line-break>ものらしい。<line-break>それが子供にまで受け継がれている。<line-break>私としては、どうか鳳凰に<line-break>実在してほしいと思うのだが…。<end>"
-english = "The legend of a descending phoenix has apparently been passed down in Urkaan since ancient times. It has even survived among the children. For my part, I sincerely hope the phoenix truly exists...<end>"
+english = "The legend of a descending phoenix has apparently been passed down in Ulkarne since ancient times. It has even survived among the children. For my part, I sincerely hope the phoenix truly exists...<end>"
 
 ["1230091"]
 japanese = "俺はあの子の言葉を信じる。<line-break>お前も信じているんだろ、<line-break><value:$28>。<line-break>さあ鳳凰を探しに鳳凰山に行くぞ。<line-break>あの子を嘘つきにしないためにな。<end>"
@@ -642,11 +642,11 @@ english = "...........<end>"
 
 ["1230160"]
 japanese = "（タルテュバがハンナの人形を<line-break>\u3000ティアナ王女にプレゼントした<line-break>\u3000らしい）<line-break>（ハンナのためにも、<line-break>\u3000ティアナ王女に頼んで<line-break>\u3000返してもらおう）<end>"
-english = "(Apparently, Tartyuba gave Hannah's Doll to Princess Tiana as a present.) (For Hannah's sake, let us ask Princess Tiana to return it.)<end>"
+english = "(Apparently, Tartuba gave Hannah's Doll to Princess Tiana as a present.) (For Hannah's sake, let us ask Princess Tiana to return it.)<end>"
 
 ["1230161"]
 japanese = "タルテュバの奴、<line-break>ハンナから奪った人形を<line-break>プレゼントするなんて最低の男ね。<line-break>こうなったら王女様に会うしかないわ。<line-break>事情を話せば、きっと人形を返して<line-break>くれると思うの。<end>"
-english = "That Tartyuba is the worst, giving away a doll he stole from Hannah. We have no choice but to meet the princess now. If we explain the circumstances, I'm sure she'll return it.<end>"
+english = "That Tartuba is the worst, giving away a doll he stole from Hannah. We have no choice but to meet the princess now. If we explain the circumstances, I'm sure she'll return it.<end>"
 
 ["1230162"]
 japanese = "子供から人形を奪うなど言語道断！<line-break>噂通りロストールの貴族は性根が<line-break>腐りきっておるな。<line-break>かわいそうなハンナのためにも、<line-break>ティアナ王女に会って、<line-break>人形を返してもらうのだぞ。<end>"
@@ -654,7 +654,7 @@ english = "Stealing a doll from a child is utterly inexcusable! Just as the rumo
 
 ["1230163"]
 japanese = "貴族なのに自分で買った人形でなくて<line-break>盗んだ人形をプレゼントするなんて<line-break>タルテュバは変人ですね。<line-break>もしかして人形を買いに行くのが<line-break>恥ずかしくて、おもわず盗んじゃった<line-break>のかもしれませんね。<end>"
-english = "Tartyuba is certainly an eccentric. Imagine being a noble and giving someone a stolen doll instead of one he bought himself. Perhaps he was too embarrassed to go shopping for a doll and stole one on impulse.<end>"
+english = "Tartuba is certainly an eccentric. Imagine being a noble and giving someone a stolen doll instead of one he bought himself. Perhaps he was too embarrassed to go shopping for a doll and stole one on impulse.<end>"
 
 ["1230164"]
 japanese = "貴族だろうが王様だろうが、<line-break>子供から物を奪うなんて<line-break>許せねえなっ！<line-break>ティアナ王女だっけな…<line-break>そいつから人形を取り返して<line-break>ハンナを喜ばせてやろうぜ。<end>"
@@ -670,19 +670,19 @@ english = "You must have time to spare, <value:$28>, making an enemy of the nobi
 
 ["1230167"]
 japanese = "タルテュバも面白いことをしますね。<line-break>スラムの女の子から奪った人形を<line-break>ティアナ王女にプレゼントとは…。<line-break>ま、世間からすれば、その子に味方して<line-break>貴族を敵に回そうとしているあなたも<line-break>とても面白い存在でしょうがね。<end>"
-english = "Tartyuba does the most fascinating things. Giving Princess Tiana a doll stolen from a girl in the Slums... Though from society's perspective, you are equally fascinating for siding with that girl and risking the nobility's wrath.<end>"
+english = "Tartuba does the most fascinating things. Giving Princess Tiana a doll stolen from a girl in the Slums... Though from society's perspective, you are equally fascinating for siding with that girl and risking the nobility's wrath.<end>"
 
 ["1230168"]
 japanese = "スラムの女の子から奪った人形を、<line-break>王女様にプレゼントした？<line-break>うわっ、鳥肌立つ～。<line-break>タルテュバも、そこまでやる奴だとは<line-break>思わなかったわ。<value:$28>、<line-break>天誅下しちゃってよ、天誅！<end>"
-english = "He gave the princess a doll stolen from a girl in the Slums? Ugh, that gives me chills. I never thought Tartyuba would stoop that low. Give him divine punishment, <value:$28>! Divine punishment!<end>"
+english = "He gave the princess a doll stolen from a girl in the Slums? Ugh, that gives me chills. I never thought Tartuba would stoop that low. Give him divine punishment, <value:$28>! Divine punishment!<end>"
 
 ["1230169"]
 japanese = "姉ちゃん、タルテュバの奴を見ていると<line-break>ボルボラを思い出さないか？<line-break>貴族ってイヤな人間ばかりなんだな。<line-break>ハンナの人形を持ってる王女様も<line-break>気位ばっか高い嫌味な女だったら<line-break>姉ちゃん自慢の平手でやっつけてよ。<end>"
-english = "Sis, doesn't that Tartyuba remind you of Bolbora? Nobles are all awful people. If the princess with Hannah's Doll turns out to be some stuck-up, nasty woman, knock her down with that famous slap of yours.<end>"
+english = "Sis, doesn't that Tartuba remind you of Bolbora? Nobles are all awful people. If the princess with Hannah's Doll turns out to be some stuck-up, nasty woman, knock her down with that famous slap of yours.<end>"
 
 ["1230170"]
 japanese = "まさか、そんな子供の願いを聞いて、<line-break>ロストール城へ潜入しよう<line-break>というのですか。<line-break>タルテュバも正気とはいいがたいけど、<line-break>あなたも相当の馬鹿ね。<end>"
-english = "Surely you do not intend to honor such a childish wish by infiltrating Rostorl Castle. Tartyuba can hardly be called sane, but you are quite the fool yourself.<end>"
+english = "Surely you do not intend to honor such a childish wish by infiltrating Rostorl Castle. Tartuba can hardly be called sane, but you are quite the fool yourself.<end>"
 
 ["1230171"]
 japanese = "お前さんにやった銀竜の首飾りが<line-break>あれば、秘密通路から城の中へ<line-break>入ることができるはずだ。<line-break>王女様に会って説明すれば、<line-break>ハンナの人形を返してくれるだろ。<end>"
@@ -694,7 +694,7 @@ english = "You mean to retrieve Hannah's Doll? You are far too softhearted. What
 
 ["1230173"]
 japanese = "残念じゃ、わしがその場におれば、<line-break>タルテュバの首根っこをひっつかんで、<line-break>人形を取り返しにいかせたのじゃが。<line-break>まあ、ゼネテス殿の話が本当なら<line-break>城門の近くに秘密通路があるのじゃろ？<line-break>そこから城に乗り込もうぞ。<end>"
-english = "What a pity. Had I been there, I would have seized Tartyuba by the scruff of his neck and made him retrieve the doll. Still, if Xenetes spoke the truth, there is a secret passage near the castle gate, yes? Let us storm the castle through it!<end>"
+english = "What a pity. Had I been there, I would have seized Tartuba by the scruff of his neck and made him retrieve the doll. Still, if Xenetes spoke the truth, there is a secret passage near the castle gate, yes? Let us storm the castle through it!<end>"
 
 ["1230174"]
 japanese = "ゼネテスさんにもらった<line-break>銀竜の首飾りがあれば<line-break>秘密通路が見つかるんだってね。<line-break>城門の近くにあるらしいから<line-break>門衛に見つからないように<line-break>探さないといけないね。<end>"
@@ -722,7 +722,7 @@ english = "........... Make the princess return it.<end>"
 
 ["1230180"]
 japanese = "タルテュバがティアナに贈った人形が、<line-break>スラムの少女の持ち物だった？<line-break>その子の依頼を受けて取り戻しに行く？<line-break>はははっ！\u3000おもしろいな、お前は。<line-break>ぜひとも腐れ貴族に一矢報いてやれ。<line-break>が、ただし…<line-break>これだけは約束しろ。<line-break>ティアナに余計なことをすれば、<line-break>この俺が許さんからな。<end>"
-english = "The doll Tartyuba gave Tiana belonged to a girl from the Slums? And you accepted the girl's request to retrieve it? Ha ha ha! You really are something. By all means, strike a blow against that rotten noble. But promise me one thing: if you do anything unnecessary to Tiana, I will never forgive you.<end>"
+english = "The doll Tartuba gave Tiana belonged to a girl from the Slums? And you accepted the girl's request to retrieve it? Ha ha ha! You really are something. By all means, strike a blow against that rotten noble. But promise me one thing: if you do anything unnecessary to Tiana, I will never forgive you.<end>"
 
 ["1230181"]
 japanese = "ティアナ王女は美人で性格がよくて、<line-break>誰からも好かれるロストールの<line-break>アイドルなんだよ。<line-break>彼女に会いにいけるなんて、<line-break><value:$28>は運がいいよ。<line-break>王女様に、ぼくのことも伝えてよね。<end>"
@@ -730,11 +730,11 @@ english = "Princess Tiana is beautiful, kind, and loved by everyone―she's Rost
 
 ["1230182"]
 japanese = "前々から危ういと聞いてはいたが、<line-break>そんなことをするとは、タルテュバは<line-break>精神を病んでいる人物なのか？<line-break>騒ぎを大きくすれば、あの男、<line-break>どんな行動に出るかわからんぞ。<line-break>それにしても、哀れではあるな…。<end>"
-english = "I had heard for some time that he was unstable, but after this, could Tartyuba truly be mentally ill? If this becomes a major scandal, there is no telling what that man might do. Even so, he is pitiable...<end>"
+english = "I had heard for some time that he was unstable, but after this, could Tartuba truly be mentally ill? If this becomes a major scandal, there is no telling what that man might do. Even so, he is pitiable...<end>"
 
 ["1230183"]
 japanese = "ティアナ様に贈られたタルテュバの<line-break>人形が、スラムの子供のもの<line-break>だったとは知りませんでした。<line-break>騒ぎが大きくなれば、タルテュバは<line-break>ますます荒れるでしょう。<line-break>どうか、穏便にお願いします。<end>"
-english = "I did not know that the doll Tartyuba gave Lady Tiana belonged to a child from the Slums. If this becomes a major scandal, Tartyuba will grow even more agitated. Please handle the matter peacefully.<end>"
+english = "I did not know that the doll Tartuba gave Lady Tiana belonged to a child from the Slums. If this becomes a major scandal, Tartuba will grow even more agitated. Please handle the matter peacefully.<end>"
 
 ["1230184"]
 japanese = "ひどい！<line-break>子供から人形をとりあげるなんて！<line-break>貴族のすることじゃないよ！<end>"
@@ -746,7 +746,7 @@ english = "It is a chilling tale indeed. A noble taking something from a child t
 
 ["1230186"]
 japanese = "いったい、どんなうまみがあって、<line-break>タルテュバはハンナから人形を<line-break>奪ったりなどしたのだろうな。<line-break>しかもそれをティアナ王女に<line-break>贈っていたとは…理解に苦しむ。<line-break>…ロストール城へ行こう。<end>"
-english = "What could Tartyuba possibly have gained by taking Hannah's doll? And then he gave it to Princess Tiana... I cannot understand it. Let us go to Rostorl Castle.<end>"
+english = "What could Tartuba possibly have gained by taking Hannah's doll? And then he gave it to Princess Tiana... I cannot understand it. Let us go to Rostorl Castle.<end>"
 
 ["1230187"]
 japanese = "奪われた人形が<line-break>よりによってティアナに<line-break>プレゼントされていたとはな。<line-break><value:$28>、<line-break>早く人形を取りにいって<line-break>女の子に返してやれ。<end>"
@@ -770,27 +770,27 @@ english = "...........<end>"
 
 ["1230192"]
 japanese = "（闇の神器探しをケリュネイアと<line-break>\u3000名乗るハーフエルフに依頼された。<line-break>\u3000手に入れたらギルドに届けよう）<line-break>（彼女の情報によると、闇の神器の<line-break>\u3000１個はウルカーンにあるらしい）<end>"
-english = "(A Half-Elf calling herself Ceryneia asked us to search for the Artifacts of Darkness. Once we obtain one, we should deliver it to the Guild.) (According to her information, one of the artifacts is in Urkaan.)<end>"
+english = "(A Half-Elf calling herself Ceryneia asked us to search for the Artifacts of Darkness. Once we obtain one, we should deliver it to the Guild.) (According to her information, one of the artifacts is in Ulkarne.)<end>"
 
 ["1230193"]
 japanese = "オルファウスだけじゃなくて<line-break>ケリュネイアも闇の神器を<line-break>探しているのね。<line-break>彼女の情報が本当かどうか確認する<line-break>ためにも、神器があるっていう<line-break>ウルカーンに行ってみましょ。<end>"
-english = "So Ceryneia is searching for the Artifacts of Darkness too, not just Orphaus. To verify her information, let us visit Urkaan, where one of the artifacts is said to be.<end>"
+english = "So Ceryneia is searching for the Artifacts of Darkness too, not just Orphaus. To verify her information, let us visit Ulkarne, where one of the artifacts is said to be.<end>"
 
 ["1230194"]
 japanese = "闇の神器をすべて集めると<line-break>破壊神ウルグを復活させることが<line-break>できるというではないか。<line-break>そのような危険な物を集めても<line-break>よいのかのう…。<end>"
-english = "They say gathering all the Artifacts of Darkness can resurrect Ulgu, the God of Destruction. Is it truly wise to collect such dangerous objects...?<end>"
+english = "They say gathering all the Artifacts of Darkness can resurrect Ulugh, the God of Destruction. Is it truly wise to collect such dangerous objects...?<end>"
 
 ["1230195"]
 japanese = "ケリュネイアさんの情報だと<line-break>ウルカーンにあるらしいですよ。<line-break>でも、ウルカーンも広いですから…。<line-break><value:$28>様は探すあてが<line-break>ありますか？<line-break>私は全然ありませんっ！<end>"
-english = "According to Ceryneia's information, it's somewhere in Ulkarn. But Ulkarn is a big place... Do you have any idea where to look, <value:$28>? Because I certainly don't!<end>"
+english = "According to Ceryneia's information, it's somewhere in Ulkarne. But Ulkarne is a big place... Do you have any idea where to look, <value:$28>? Because I certainly don't!<end>"
 
 ["1230196"]
 japanese = "闇の神器を集めてギルドに届けりゃ<line-break>いいだけの仕事だろ。<line-break>簡単じゃねえか。<line-break>１個目はウルカーンにあるってんだろ。<line-break>おう、さっそく行こうぜ。<line-break>誰かに先を越されちゃむかつくからな。<end>"
-english = "All we have to do is gather the Dark Artifacts and deliver them to the Guild, right? Sounds easy enough. The first one's supposed to be in Ulkarn. Well, let's get going. It'd really tick me off if someone beat us to it.<end>"
+english = "All we have to do is gather the Dark Artifacts and deliver them to the Guild, right? Sounds easy enough. The first one's supposed to be in Ulkarne. Well, let's get going. It'd really tick me off if someone beat us to it.<end>"
 
 ["1230197"]
 japanese = "ケリュネイアの情報を信じるなら<line-break>闇の神器のひとつはウルカーンにある<line-break>らしいよ。<line-break>でも、ウルカーンは広いから探すのは<line-break>大変だね。長老のシェムハザさんに<line-break>相談してみよっか？<end>"
-english = "If we believe Ceryneia's information, one of the Dark Artifacts is somewhere in Ulkarn. But Ulkarn is a big place, so finding it won't be easy. Maybe we should ask Elder Shemhaza for advice?<end>"
+english = "If we believe Ceryneia's information, one of the Dark Artifacts is somewhere in Ulkarne. But Ulkarne is a big place, so finding it won't be easy. Maybe we should ask Elder Shemhaza for advice?<end>"
 
 ["1230198"]
 japanese = "………………。<end>"
@@ -798,35 +798,35 @@ english = "...<end>"
 
 ["1230199"]
 japanese = "ケリュネイアから依頼が来ましたか。<line-break>確か、１個目はウルカーンにあると<line-break>彼女はあなた方を導いたはずですよ。<end>"
-english = "Did Ceryneia give you the assignment? If I recall correctly, she pointed you toward Ulkarn for the first one.<end>"
+english = "Did Ceryneia give you the assignment? If I recall correctly, she pointed you toward Ulkarne for the first one.<end>"
 
 ["1230200"]
 japanese = "ハーフエルフのケリュネイアによれば<line-break>１個目の闇の神器は、ウルカーンに<line-break>あるらしいのよね。<line-break>ウルカーンのどことは言ってないから<line-break>それからがまた大変っぽいけど。<end>"
-english = "According to Ceryneia, the Half-Elf, the first Dark Artifact is somewhere in Ulkarn. She didn't say where in Ulkarn, though, so finding it sounds like the hard part.<end>"
+english = "According to Ceryneia, the Half-Elf, the first Dark Artifact is somewhere in Ulkarne. She didn't say where in Ulkarne, though, so finding it sounds like the hard part.<end>"
 
 ["1230201"]
 japanese = "姉ちゃん、ケリュネイアの話が<line-break>本当なら闇の神器はウルカーンに<line-break>あるってことだよな。<line-break>魔人も探してるってオルファウスが<line-break>言ってたろ？\u3000魔人に奪われる前に<line-break>俺たちで手に入れちゃおうぜ。<end>"
-english = "Sis, if Ceryneia was telling the truth, that means the Dark Artifact is in Ulkarn. Orphaus said the demonfolk are looking for it too, remember? Let's get our hands on it before they do.<end>"
+english = "Sis, if Ceryneia was telling the truth, that means the Dark Artifact is in Ulkarne. Orphaus said the demonfolk are looking for it too, remember? Let's get our hands on it before they do.<end>"
 
 ["1230202"]
 japanese = "闇の神器の１個は、<line-break>ウルカーンに隠されているらしい。<line-break><line-break>その、ケリュネイアという<line-break>ハーフエルフの言うことを<line-break>信じるなら。<end>"
-english = "Apparently, one of the Dark Artifacts is hidden in Ulkarn. If we can believe that Half-Elf called Ceryneia, that is.<end>"
+english = "Apparently, one of the Dark Artifacts is hidden in Ulkarne. If we can believe that Half-Elf called Ceryneia, that is.<end>"
 
 ["1230203"]
 japanese = "そっか、闇の神器のひとつは<line-break>ウルカーンにあるってわけか。<line-break>で、どうするんだい？<line-break>その依頼を受ける気があるなら<line-break>早く探しにいったほうがいいだろう。<end>"
-english = "I see. So one of the Dark Artifacts is in Ulkarn. What are you going to do? If you intend to accept the request, you'd better start looking soon.<end>"
+english = "I see. So one of the Dark Artifacts is in Ulkarne. What are you going to do? If you intend to accept the request, you'd better start looking soon.<end>"
 
 ["1230204"]
 japanese = "そのケリュネイアという女は<line-break>信用しても大丈夫なのか？<line-break>何かの罠かもしれんぞ。<line-break>ま、ウルカーンに行けば嘘か真か<line-break>ハッキリするだろうがな。<line-break>たとえ罠でも俺が打ち破ってやる！<end>"
-english = "Are you sure that woman Ceryneia can be trusted? It could be some kind of trap. Well, we'll find out whether it's true or not once we get to Ulkarn. And even if it is a trap, I'll smash right through it!<end>"
+english = "Are you sure that woman Ceryneia can be trusted? It could be some kind of trap. Well, we'll find out whether it's true or not once we get to Ulkarne. And even if it is a trap, I'll smash right through it!<end>"
 
 ["1230205"]
 japanese = "闇の神器は危険な物じゃと聞いておる。<line-break>ウルカーンのような人の多いところに<line-break>あれば何かと問題があるに違いない。<line-break>わしらに管理できるかどうかは<line-break>わからぬが、放置するわけには<line-break>いかぬな。<end>"
-english = "I have heard that the Dark Artifacts are dangerous. If one is in a crowded place like Ulkarn, it is bound to cause trouble. I do not know whether we can keep it under control, but we cannot simply leave it there.<end>"
+english = "I have heard that the Dark Artifacts are dangerous. If one is in a crowded place like Ulkarne, it is bound to cause trouble. I do not know whether we can keep it under control, but we cannot simply leave it there.<end>"
 
 ["1230206"]
 japanese = "闇の神器のひとつがウルカーンにある<line-break>らしいけど、どうやって探そうか？<line-break>あてもなく探してもしょうがないし…。<line-break>やっぱり、長老のシェムハザ様に<line-break>相談するのがいいかもしれないね。<end>"
-english = "One of the Dark Artifacts is supposed to be in Ulkarn, but how are we going to find it? There's no point searching without any leads... Maybe we really should ask Elder Shemhaza for advice.<end>"
+english = "One of the Dark Artifacts is supposed to be in Ulkarne, but how are we going to find it? There's no point searching without any leads... Maybe we really should ask Elder Shemhaza for advice.<end>"
 
 ["1230207"]
 japanese = "………………。<end>"
@@ -834,7 +834,7 @@ english = "...<end>"
 
 ["1230208"]
 japanese = "闇の神器がどうしたって言うのよ！<line-break>アタクシは高貴で知性あふれる<line-break>エルフなのよ！<line-break>そのアタクシが、どーーーーして<line-break>ハーフエルフなんかの命令で<line-break>ウルカーンに行かなきゃならないのよ！<end>"
-english = "Who cares about some Dark Artifact! I am a noble and brilliant Elf! Why-y-y-y should someone like me have to go to Ulkarn on the orders of some Half-Elf?!<end>"
+english = "Who cares about some Dark Artifact! I am a noble and brilliant Elf! Why-y-y-y should someone like me have to go to Ulkarne on the orders of some Half-Elf?!<end>"
 
 ["1230209"]
 japanese = "１個目の闇の神器ボゲー<line-break>１個目の闇の神器ボゲー<line-break>１個目の闇の神器ボゲー<line-break>１個目の闇の神器ボゲー<line-break>１個目の闇の神器ボゲー<line-break>１個目の闇の神器ボゲー<end>"
@@ -842,19 +842,19 @@ english = "The first Dark Artifact, Bogee! The first Dark Artifact, Bogee! The f
 
 ["1230210"]
 japanese = "ルルアンタ知ってるよ。<line-break>闇の神器はウルカーンにあるんだよ。<line-break><value:$28>も知っているよね？<line-break>でも、ウルカーンのどこにあるかは、<line-break>ルルアンタ知らないんだぁ。<line-break>だから、一緒に探そうねぇ。<end>"
-english = "Lulluantha knows! The Dark Artifact is in Ulkarn. You know that too, right, <value:$28>? But Lulluantha doesn't know where in Ulkarn it is. So let's look for it together, okay?<end>"
+english = "Lulluantha knows! The Dark Artifact is in Ulkarne. You know that too, right, <value:$28>? But Lulluantha doesn't know where in Ulkarne it is. So let's look for it together, okay?<end>"
 
 ["1230211"]
 japanese = "………………。<line-break><line-break><line-break>ウルカーンだ…。<end>"
-english = "...Ulkarn...<end>"
+english = "...Ulkarne...<end>"
 
 ["1230212"]
 japanese = "ケリュネイアによれば、<line-break>闇の神器の１個はウルカーンに<line-break>眠っているらしい。<line-break>回収した後は、各地のギルドで<line-break>照合するらしいぞ。<end>"
-english = "According to Ceryneia, one of the Dark Artifacts lies dormant in Ulkarn. Once we recover it, apparently we're to have it verified at Guilds in various regions.<end>"
+english = "According to Ceryneia, one of the Dark Artifacts lies dormant in Ulkarne. Once we recover it, apparently we're to have it verified at Guilds in various regions.<end>"
 
 ["1230213"]
 japanese = "ケリュネイアの情報だと<line-break>闇の神器のひとつがウルカーンに<line-break>あるんでしょ。<line-break>あそこは魔道士だらけだから、<line-break>ひとりくらい闇の神器を知っている人が<line-break>いるかもね。長老に聞いてみる？<end>"
-english = "According to Ceryneia's information, one of the Dark Artifacts is in Ulkarn, right? That place is full of mages, so at least one of them might know something about it. Want to ask the elder?<end>"
+english = "According to Ceryneia's information, one of the Dark Artifacts is in Ulkarne, right? That place is full of mages, so at least one of them might know something about it. Want to ask the elder?<end>"
 
 ["1230214"]
 japanese = "ディンガルの他にも闇の神器を狙う<line-break>勢力がいるということか。…それに加え<line-break>魔人の類いも動いているという。<line-break>気を抜いている暇もないな。<end>"
@@ -862,27 +862,27 @@ english = "So there are forces besides Dyneskal seeking the Dark Artifacts. And 
 
 ["1230215"]
 japanese = "ケリュネイアと名乗るハーフエルフの<line-break>言うことによれば、闇の神器の１個は<line-break>ウルカーンにあるそうです。<line-break>当然ですが、そう簡単に手に入るとは<line-break>思えません。警戒されないように、<line-break>慎重に行きましょう。<end>"
-english = "According to a Half-Elf calling herself Ceryneia, one of the Dark Artifacts is in Ulkarn. Naturally, I don't expect it to be easy to obtain. Let's proceed carefully so we don't arouse suspicion.<end>"
+english = "According to a Half-Elf calling herself Ceryneia, one of the Dark Artifacts is in Ulkarne. Naturally, I don't expect it to be easy to obtain. Let's proceed carefully so we don't arouse suspicion.<end>"
 
 ["1230216"]
 japanese = "ケリュネイアってハーフエルフが、<line-break>ウルカーンに闇の神器があるって。<line-break>行ってみなくちゃわからないよね。<end>"
-english = "A Half-Elf named Ceryneia says there's a Dark Artifact in Ulkarn. We won't know for sure unless we go and see, right?<end>"
+english = "A Half-Elf named Ceryneia says there's a Dark Artifact in Ulkarne. We won't know for sure unless we go and see, right?<end>"
 
 ["1230217"]
 japanese = "ケリュネイアとやらに闇の神器探しを<line-break>依頼されたんじゃったな。<line-break>その１つがウルカーンにあるという。<line-break>嘘か真か…ま、ウルカーンに<line-break>行ってみればわかるじゃろ。<end>"
-english = "We were asked by this Ceryneia to search for the Dark Artifacts, weren't we? Supposedly, one of them is in Ulkarn. Whether that is true or false... well, we shall find out if we go to Ulkarn.<end>"
+english = "We were asked by this Ceryneia to search for the Dark Artifacts, weren't we? Supposedly, one of them is in Ulkarne. Whether that is true or false... well, we shall find out if we go to Ulkarne.<end>"
 
 ["1230218"]
 japanese = "ケリュネイアの言うことが正しいなら、<line-break>闇の神器の１個はウルカーンにある。<line-break><line-break>そう簡単には教えてくれないと思うが、<line-break>ありかがわからなければ、<line-break>長老のシェムハザを当たってみようか。<end>"
-english = "If Ceryneia is right, one of the Dark Artifacts is in Ulkarn. I doubt anyone will tell us where it is that easily, but if we can't find its location, perhaps we should try Elder Shemhaza.<end>"
+english = "If Ceryneia is right, one of the Dark Artifacts is in Ulkarne. I doubt anyone will tell us where it is that easily, but if we can't find its location, perhaps we should try Elder Shemhaza.<end>"
 
 ["1230219"]
 japanese = "ウルカーンにあると、<line-break>ケリュネイアが言っていたな。<line-break>長老に聞けば何かわかるかもしれん。<end>"
-english = "Ceryneia said it was in Ulkarn. The elder may know something if we ask.<end>"
+english = "Ceryneia said it was in Ulkarne. The elder may know something if we ask.<end>"
 
 ["1230220"]
 japanese = "彼女、闇の神器を集めて<line-break>どうするつもりなのかしら。<line-break>心配だわ。<line-break>でも、とりあえずは<line-break>ウルカーンで、闇の神器を探しましょ。<line-break>きっと、彼女の考えはそのうちわかるわ。<end>"
-english = "I wonder what she plans to do after gathering the Dark Artifacts. I'm worried. But for now, let's search for the Dark Artifact in Ulkarn. I'm sure we'll understand her intentions eventually.<end>"
+english = "I wonder what she plans to do after gathering the Dark Artifacts. I'm worried. But for now, let's search for the Dark Artifact in Ulkarne. I'm sure we'll understand her intentions eventually.<end>"
 
 ["1230221"]
 japanese = "………………。<end>"
@@ -890,7 +890,7 @@ english = "...<end>"
 
 ["1230222"]
 japanese = "ケリュネイアさんは闇の神器が<line-break>ウルカーンにあるって言ってました。<line-break>でも広くて探すのは大変そうですね。<line-break>もしかしたら、長老のシェムハザさんが<line-break>何か知ってるかもしれません。<end>"
-english = "Ceryneia said the Dark Artifact was in Ulkarn. But it's such a big place that finding it sounds difficult. Elder Shemhaza might know something.<end>"
+english = "Ceryneia said the Dark Artifact was in Ulkarne. But it's such a big place that finding it sounds difficult. Elder Shemhaza might know something.<end>"
 
 ["1230223"]
 japanese = "………………。<end>"

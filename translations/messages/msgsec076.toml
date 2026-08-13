@@ -14,7 +14,7 @@ english = "No need to be so tense. I'm only asking you to help a poor girl, that
 
 ["760003"]
 japanese = "こんにちは。\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break><value:$28>…だっけ？<line-break>\u3000<line-break>僕はこの大陸から東にある<line-break>遠い遠い所から来た魔道学士、<line-break>東方の博士シャリ。<end>"
-english = "Hello. You're <value:$28>, was it? I'm Shalli, a scholar of magic known as the Doctor of the East. I come from a far, faraway land east of this continent.<end>"
+english = "Hello. You're <value:$28>, was it? I'm Shalli, a scholar of magic known as the Scholar from the East. I come from a far, faraway land east of this continent.<end>"
 
 ["760004"]
 japanese = "人によっては僕のことを<line-break>道化と呼んでいるようだけどね。<line-break>まあ、そんなことは置いといて…。<end>"
@@ -378,7 +378,7 @@ english = "Hello, <value:$28>. I thought I'd see you again.<end>"
 
 ["760094"]
 japanese = "はじめまして。<line-break>僕はシャリ。人は東方の博士なんて<line-break>呼んでくれたりもするんだ。<line-break>よろしくね。<line-break><value:$28>。<end>"
-english = "I'm Shalli. Some people even call me the Scholar of the East. Nice to meet you, <value:$28>.<end>"
+english = "I'm Shalli. Some people even call me the Scholar from the East. Nice to meet you, <value:$28>.<end>"
 
 ["760095"]
 japanese = "ここは、君のまだ知らない<line-break>王女様の部屋だよ。<line-break>君には、ぜひ彼女に会ってもらいたい。<line-break>でも、その前に、もっとこの国のこと<line-break>知ってもらいたいな。<line-break>例えば、町のこと、貴族のこと…。<end>"

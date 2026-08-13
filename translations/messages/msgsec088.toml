@@ -622,7 +622,7 @@ english = "This is the entrance to Ladras. We usually get around Ladras using th
 
 ["880155"]
 japanese = "すごいでしょ。<line-break>ラドラスは古代に滅びた\u3000\u3000\u3000\u3000<line-break>魔道王国の遺産なんだ。<line-break>だから、いろんな力が眠っている。<line-break>ボクたち砂漠の一族は<line-break>それを守っているんだ。<end>"
-english = "Amazing, isn't it? Ladras is the legacy of a sorcerous kingdom that fell in ancient times. All sorts of powers still lie dormant here. Our desert clan guards that legacy.<end>"
+english = "Amazing, isn't it? Ladras is the legacy of a Magic Kingdom that fell in ancient times. All sorts of powers still lie dormant here. Our desert clan guards that legacy.<end>"
 
 ["880156"]
 japanese = "ボクたち以外にも<line-break>いろんな仕掛けがラドラスの遺産を<line-break>守っているんだ。<line-break>不定期に行われる<line-break>族長がいるかいないかのチェックも<line-break>そのひとつなんだよ。<end>"
@@ -694,7 +694,7 @@ english = "Leaving one of your own like that is despicable. If Narscess hadn't s
 
 ["880173"]
 japanese = "あたし、ノエルの仲間でよかった。<line-break>ノエルはあたしがダルケニスでも<line-break>仲間として助けてくれたもの。<end>"
-english = "I'm glad I'm one of Noel's companions. Even though I'm a Dalkenis, Noel helped me as one of her companions.<end>"
+english = "I'm glad I'm one of Noel's companions. Even though I'm a Darkenith, Noel helped me as one of her companions.<end>"
 
 ["880174"]
 japanese = "ちょっと幻滅だわ。<line-break>あたしの言いたいのはそれだけ。<end>"
@@ -754,7 +754,7 @@ english = "Oh? Really, just me? It sure doesn't look that way.<end>"
 
 ["880188"]
 japanese = "あと、アキュリュースにひとり、<line-break>ウルカーンにひとり、<line-break>竜の座にひとりってとこかな？<end>"
-english = "One in Aqyurius, one in Urkaan, and one at the Dragon's Seat, I suppose?<end>"
+english = "One in Aqyurius, one in Ulkarne, and one at the Dragon's Seat, I suppose?<end>"
 
 ["880189"]
 japanese = "結構、浮気者じゃない？<end>"
@@ -786,7 +786,7 @@ english = "...!<end>"
 
 ["880196"]
 japanese = "君は地の巫女だ。<line-break>その気になれば、今の怪物なんて<line-break>ひとひねりだったろうに…。<end>"
-english = "You're the Earth Priestess. If you chose to use your power, that monster would have been nothing to you...<end>"
+english = "You're the Priestess of Earth. If you chose to use your power, that monster would have been nothing to you...<end>"
 
 ["880197"]
 japanese = "………………！？<end>"
@@ -794,7 +794,7 @@ english = "...!?<end>"
 
 ["880198"]
 japanese = "エステル、君こそが<line-break>ラドラスを支配した４人の巫女のひとり<line-break>ズゥの子孫なんだ。<line-break>そして、君こそが<line-break>地の精霊神グラジェオンに仕える、<line-break>強大な魔力を持つ地の巫女なんだよ。<end>"
-english = "Esther, you are a descendant of Zuu, one of the four shrine maidens who ruled Ladras. And you are the Earth Priestess, who serves Grajeon, the Earth Spirit God, and wields immense magical power.<end>"
+english = "Esther, you are a descendant of Zuu, one of the four priestesses who ruled Ladras. And you are the Priestess of Earth, who serves Grajeon, the Earth Spirit God, and wields immense magical power.<end>"
 
 ["880199"]
 japanese = "<if><value:$01><equal>2エステル、シャリの言うことなんかに<line-break>耳を貸しちゃダメよ！<end><if><value:$01><equal>21貴様の言うことなど<line-break>信じられぬな！<end><if><value:$01><equal>3貴様の言うことなぞ<line-break>信じられるか！<end><if><value:$01><equal>5へっ、てめえの言うことなんか<line-break>信じらんねえよ！<end><if><value:$01><equal>42お前の言うことなんか<line-break>信じられるものか！<end><if><value:$01><equal>7貴様の言うことなど<line-break>信じられるものか！<end><if><value:$01><equal>38こいつの言うことなんかに<line-break>耳を貸すな！\u3000エステル！<end><if><value:$01><equal>39あんたの言うことなんか<line-break>信じられないよ！<end><if><value:$01><equal>10お前の言うことなんか<line-break>信じられない！<end><if><value:$01><equal>13フッ、貴様など<line-break>信じられるか！<end><if><value:$01><equal>14貴様の言うことなんぞ<line-break>信じられんわい！<end><if><value:$01><equal>15エステル、あんな奴の言うこと<line-break>聞かないほうがいいよ。<end><if><value:$01><equal>4難しいこと、わかんない！<line-break>ウソ臭いかも！\u3000きゃっ！<end><if><value:$01><equal>22ダメだよ、エステルぅ！<line-break>あいつの言うこと信じちゃ！<end><if><value:$01><equal>19エステル、シャリの言うことは<line-break>信じちゃダメ！\u3000危険だよ！<end><if><value:$01><equal>40貴様の言うことなんか<line-break>信じられるものか！<end><if><value:$01><equal>41エステル、信じちゃダメ<line-break>シャリは何かたくらんでる！<end><if><value:$01><equal>9シャリぃ、エステル惑わして<line-break>今度は何をたくらんでる？<end><if><value:$01><equal>18拙者、貴様の<line-break>言うことなど信じぬわ！<end><if><value:$01><equal>17うさんくさいシャリの言うことなんて<line-break>信じられない、信じられないわぁ！<end><if><value:$01><equal>11あなたの言うことは<line-break>信じられないわ。<end><if><value:$01><equal>12…食えない奴だな。<line-break>今度は何をたくらんでいる？<end><if><value:$01><equal>8…エステルを惑わすのは<line-break>やめてください。<end><if><value:$01><equal>16貴様は信じられん。<end>…たわごとを。<end>"
@@ -814,7 +814,7 @@ english = "<if><value:$01><equal>12Esther, pull yourself together. Don't let his
 
 ["880203"]
 japanese = "ボクが…地の巫女…<line-break>魔道文明を復活させる鍵のひとり…？<end>"
-english = "I'm... the Earth Priestess... one of the keys to reviving the arcane civilization...?<end>"
+english = "I'm... the Priestess of Earth... one of the keys to reviving the arcane civilization...?<end>"
 
 ["880204"]
 japanese = "<if><value:$01><equal>19エステルぅ！<end><if><value:$01><equal>15ねえ、エステル！<end>エステル！<end>"
@@ -830,7 +830,7 @@ english = "Oh... <value:$28>. Something feels strange. This is the same familiar
 
 ["880207"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000…エステルよ…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000目覚めるのだ…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が地の巫女よ…<end>"
-english = "Esther... Awaken... my priestess of earth...<end>"
+english = "Esther... Awaken... my Priestess of Earth...<end>"
 
 ["880208"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000…我は地の精霊神\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000グラジェオンなり…<line-break>\u3000<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が座所を求めよ…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が試練を受けよ…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が望みをかなえよ…<end>"
@@ -862,7 +862,7 @@ english = "Sorry! I said I was sorry. But I just can't stop wondering about it. 
 
 ["880215"]
 japanese = "\u3000\u3000 \u3000\u3000\u3000\u3000\u3000\u3000\u3000来たか…。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000エステルよ…。ズゥの血を引く娘よ…。<line-break>\u3000\u3000 \u3000\u3000\u3000\u3000\u3000我が地の巫女よ…。<end>"
-english = "You have come... Esther, daughter of Zuu's line... priestess of my earth...<end>"
+english = "You have come... Esther, daughter of Zuu's line... Priestess of Earth...<end>"
 
 ["880216"]
 japanese = "ボクを、呼んでたよね？<line-break>ずっと…。<line-break>キミが、地の精霊神なの？<end>"
@@ -874,7 +874,7 @@ english = "Indeed. I am Grajeon, spirit god of the earth. I have awaited you, Es
 
 ["880218"]
 japanese = "ねぇ！<line-break>ボクが地の巫女って、<line-break>どういうこと！？<end>"
-english = "Hey! What do you mean, I'm the Earth Priestess?!<end>"
+english = "Hey! What do you mean, I'm the Priestess of Earth?!<end>"
 
 ["880219"]
 japanese = "\u3000\u3000\u3000\u3000\u3000汝こそ、我に仕えし魔道の巫女\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000ズゥの血と力を受け継ぐ者なり。<line-break>\u3000\u3000\u3000\u3000\u3000しかし、その力は未だ目覚めず。<end>"
@@ -890,7 +890,7 @@ english = "B-because... I want to help <value:$28>. We're going to keep adventur
 
 ["880222"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000エステルよ…。\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000ここより先に、<line-break>\u3000\u3000\u3000\u3000\u3000フルーヴという巨人がおる。<line-break>\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000奴を倒すのだ。<line-break>\u3000\u3000\u3000\u3000\u3000\u3000さすれば我が力をもって<line-break>\u3000\u3000\u3000\u3000\u3000 汝の力を引き出してやろう。<end>"
-english = "Esther... Beyond this place dwells a giant called Fluve. Defeat it, and by my power, I shall draw out yours.<end>"
+english = "Esther... Beyond this place dwells a giant called Fleuve. Defeat it, and by my power, I shall draw out yours.<end>"
 
 ["880223"]
 japanese = "<value:$28>…。<end>"
@@ -946,7 +946,7 @@ english = "Then go.<end>"
 
 ["880236"]
 japanese = "そんな！\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>ここまで来て…。<line-break>\u3000<line-break>ボク、巫女の力が欲しいのに…。<line-break>キミの足手まといになんかならない<line-break>強い力が欲しいのに…。<end>"
-english = "No! Not after we've come this far... I want the shrine maiden's power. I want to be strong enough that I won't hold you back...<end>"
+english = "No! Not after we've come this far... I want the priestess's power. I want to be strong enough that I won't hold you back...<end>"
 
 ["880237"]
 japanese = "わかったよ。<line-break>キミが決めたことには従うよ…。<end>"
@@ -954,19 +954,19 @@ english = "Okay. If that's what you've decided, I'll go along with it...<end>"
 
 ["880238"]
 japanese = "フン…地の巫女か。\u3000\u3000\u3000<line-break>\u3000<line-break>\u3000<line-break>グラジェオンめ…<line-break>闇の力の高まりを知り、<line-break>我を滅ぼさんと欲したか。<end>"
-english = "Hmph... So you are the Earth Priestess. Curse you, Grajeon... You sensed the growing power of darkness and sought to destroy me?<end>"
+english = "Hmph... So you are the Priestess of Earth. Curse you, Grajeon... You sensed the growing power of darkness and sought to destroy me?<end>"
 
 ["880239"]
 japanese = "しかし、汝らごときに倒される<line-break>このフルーヴではない。<line-break>来るがよい、精霊神のしもべよ！！<end>"
-english = "But Furuve will not fall to the likes of you. Come, servants of the Spirit God!<end>"
+english = "But Fleuve will not fall to the likes of you. Come, servants of the Spirit God!<end>"
 
 ["880240"]
 japanese = "愚かなり、地の巫女よ。<line-break>精霊神に躍らされ、<line-break>我を撃ち、闇を呼ぶか…。<line-break>愚かなり…愚かなり…。<end>"
-english = "Foolish Earth Priestess. Made to dance to the Spirit God's tune, you strike me down and call forth darkness...? Foolish... How foolish.<end>"
+english = "Foolish Priestess of Earth. Made to dance to the Spirit God's tune, you strike me down and call forth darkness...? Foolish... How foolish.<end>"
 
 ["880241"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000よくやった…\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000エステルよ…<line-break>\u3000\u3000\u3000\u3000\u3000\u3000\u3000我が地の巫女よ…。<end>"
-english = "Well done... Esther... my priestess of the earth...<end>"
+english = "Well done... Esther... my Priestess of Earth...<end>"
 
 ["880242"]
 japanese = "\u3000\u3000\u3000\u3000よくぞ、巨人フルーヴを倒した。\u3000\u3000\u3000<line-break>\u3000\u3000\u3000約束通り、汝の内なる力を引き出そう。<line-break>\u3000\u3000\u3000\u3000目覚めよ。地の巫女エステルよ。<end>"
@@ -974,7 +974,7 @@ english = "Well done. You have defeated Giant Fleuve. As promised, I shall draw 
 
 ["880243"]
 japanese = "\u3000\u3000\u3000\u3000\u3000\u3000さあ、再び行くがよい。\u3000\u3000\u3000\u3000\u3000<line-break>\u3000\u3000\u3000\u3000\u3000\u3000汝のなすべき旅の道へ。<line-break>\u3000\u3000\u3000\u3000\u3000さらばだ。我が地の巫女よ。<end>"
-english = "Now go forth once more, along the path you are meant to travel. Farewell, priestess of my land.<end>"
+english = "Now go forth once more, along the path you are meant to travel. Farewell, Priestess of Earth.<end>"
 
 ["880244"]
 japanese = "う、う～ん…。<line-break>なんだか、最後は妙に乱暴だったなあ。<line-break>フラフラするよ。<end>"
@@ -1030,7 +1030,7 @@ english = "Well, I'm going back to my room. See you later!<end>"
 
 ["880257"]
 japanese = "\u3000\u3000\u3000来たか、我が地の巫女エステルよ…。\u3000\u3000<line-break>\u3000\u3000\u3000\u3000ならば、我は今一度汝に問う。<line-break>\u3000\u3000\u3000汝、巨人を倒し、力を欲するか？<end>"
-english = "You have come, Esther, my priestess of earth... Then I ask you once more: will you defeat the giant and seek power?<end>"
+english = "You have come, Esther, my Priestess of Earth... Then I ask you once more: will you defeat the giant and seek power?<end>"
 
 ["880258"]
 japanese = "やあ、<value:$28>。<line-break>来てくれたんだね。<end>"
@@ -1122,7 +1122,7 @@ english = "Boo. You're saying that again? That's no fun. But let me come adventu
 
 ["880280"]
 japanese = "見ての通り移動の間にしか行けなくなって<line-break>しまったので案内の必要はなくなった。<line-break>これからは何を話せばよいのやら…。<end>"
-english = "As you can see, the Chamber of Travel is the only place accessible now, so there's no need for me to show you around anymore. Now what am I going to talk about...?<end>"
+english = "As you can see, the Transit Chamber is the only place accessible now, so there's no need for me to show you around anymore. Now what am I going to talk about...?<end>"
 
 ["880281"]
 japanese = "ラドラスが浮上したときは<line-break>どうなることかと思ったけど、<line-break>無事に着地できてほんとうに良かったわ。<line-break>死んでしまったら外の世界を冒険する<line-break>ことができなくなるものね。<line-break><value:$28>さんありがとう。<end>"
