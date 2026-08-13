@@ -26,6 +26,8 @@ Commands:
 	search            Search IDs, Japanese, and English
 	show              Show one record and nearby context
 	ppsspp-debugger   Control a running PPSSPP instance through JSON Lines
+	trinity-extract   Extract Trinity PS3 English or Japanese text assets
+	trinity-search    Search English Trinity text with Japanese counterparts
 	build             Maintainer-only: build PSP_GAME, ISO, and xdelta outputs
 	help              Show this help
 `
@@ -59,6 +61,10 @@ func run(args []string, stdin io.Reader, stdout, stderr io.Writer) int {
 		return runSearch(root, args[1:], stdout, stderr)
 	case "ppsspp-debugger":
 		return runPPSSPPDebugger(args[1:], stdin, stdout, stderr)
+	case "trinity-extract":
+		return runTrinityExtract(args[1:], stdout, stderr)
+	case "trinity-search":
+		return runTrinitySearch(args[1:], stdout, stderr)
 	}
 
 	fmt.Fprintf(stderr, "zill: unknown command %q\n\n", args[0])
