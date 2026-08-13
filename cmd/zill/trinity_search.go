@@ -22,24 +22,34 @@ import (
 	"github.com/HK47196/zill/internal/cp932"
 )
 
-const trinitySearchUsage = "zill trinity-search --english DIR --japanese DIR [--ignore-case] [--max-count N] PATTERN"
+const trinitySearchUsage = "zill trinity-search [--language english|japanese] [--ignore-case] [--max-count N] PATTERN"
 
-const trinitySearchHelp = `Usage: zill trinity-search --english DIR --japanese DIR [options] PATTERN
+const trinitySearchHelp = `Usage: zill trinity-search [options] PATTERN
 
 Options:
-  -i, --ignore-case  Search English without regard to ASCII case
+  --language LANG    Search English or Japanese (default English)
+  -i, --ignore-case  Search without regard to case
   --max-count N      Stop after N matching bilingual records (default 50)
   -h, --help         Show this help
 
-Use ripgrep regular-expression syntax to search structurally paired English
-LINKDATA strings. Each match displays the Japanese string in the corresponding
-member, record, table, and slot. ripgrep (rg) must be installed and on PATH.
+Use ripgrep regular-expression syntax to search structurally paired LINKDATA
+strings. Inputs are loaded from build/trinity/{english,japanese}. Each match
+displays the searched language followed by its counterpart. ripgrep (rg) must
+be installed and on PATH.
 `
+
+type trinitySearchLanguage string
+
+const (
+	trinitySearchEnglish  trinitySearchLanguage = "english"
+	trinitySearchJapanese trinitySearchLanguage = "japanese"
+)
 
 type trinitySearchOptions struct {
 	english    string
 	japanese   string
 	pattern    string
+	language   trinitySearchLanguage
 	ignoreCase bool
 	maxCount   int
 }
@@ -53,14 +63,14 @@ type trinityStringPair struct {
 	Japanese       string
 }
 
-func runTrinitySearch(args []string, stdout, stderr io.Writer) int {
+func runTrinitySearch(root string, args []string, stdout, stderr io.Writer) int {
 	for _, arg := range args {
 		if arg == "-h" || arg == "--help" {
 			fmt.Fprint(stdout, trinitySearchHelp)
 			return 0
 		}
 	}
-	options, err := parseTrinitySearchOptions(args)
+	options, err := parseTrinitySearchOptions(root, args)
 	if err != nil {
 		fmt.Fprintf(stderr, "zill: trinity-search: %v\n", err)
 		fmt.Fprintf(stderr, "zill: usage: %s\n", trinitySearchUsage)
@@ -77,18 +87,34 @@ func runTrinitySearch(args []string, stdout, stderr io.Writer) int {
 		return 1
 	}
 	if len(matches) == 0 {
-		fmt.Fprintln(stdout, "No Trinity English matches.")
+		fmt.Fprintf(stdout, "No Trinity %s matches.\n", trinitySearchLanguageName(options.language))
 		return 0
 	}
+	writeTrinitySearchMatches(stdout, matches, options.language)
+	return 0
+}
+
+func writeTrinitySearchMatches(output io.Writer, matches []trinityStringPair, language trinitySearchLanguage) {
 	for index, pair := range matches {
 		if index > 0 {
-			fmt.Fprintln(stdout)
+			fmt.Fprintln(output)
 		}
-		fmt.Fprintf(stdout, "%s (EN 0x%x, JP 0x%x)\n", trinityPairLocator(pair), pair.EnglishOffset, pair.JapaneseOffset)
-		fmt.Fprintf(stdout, "  English: %s\n", displayTrinityText(pair.English, "           "))
-		fmt.Fprintf(stdout, "  Japanese: %s\n", displayTrinityText(pair.Japanese, "            "))
+		fmt.Fprintf(output, "%s (EN 0x%x, JP 0x%x)\n", trinityPairLocator(pair), pair.EnglishOffset, pair.JapaneseOffset)
+		if language == trinitySearchJapanese {
+			fmt.Fprintf(output, "  Japanese: %s\n", displayTrinityText(pair.Japanese, "            "))
+			fmt.Fprintf(output, "  English: %s\n", displayTrinityText(pair.English, "           "))
+			continue
+		}
+		fmt.Fprintf(output, "  English: %s\n", displayTrinityText(pair.English, "           "))
+		fmt.Fprintf(output, "  Japanese: %s\n", displayTrinityText(pair.Japanese, "            "))
 	}
-	return 0
+}
+
+func trinitySearchLanguageName(language trinitySearchLanguage) string {
+	if language == trinitySearchJapanese {
+		return "Japanese"
+	}
+	return "English"
 }
 
 func trinityPairLocator(pair trinityStringPair) string {
@@ -100,8 +126,13 @@ func trinityPairLocator(pair trinityStringPair) string {
 	return result.String()
 }
 
-func parseTrinitySearchOptions(args []string) (trinitySearchOptions, error) {
-	options := trinitySearchOptions{maxCount: 50}
+func parseTrinitySearchOptions(root string, args []string) (trinitySearchOptions, error) {
+	options := trinitySearchOptions{
+		english:  filepath.Join(root, "build", "trinity", "english"),
+		japanese: filepath.Join(root, "build", "trinity", "japanese"),
+		language: trinitySearchEnglish,
+		maxCount: 50,
+	}
 	seen := make(map[string]bool)
 	for index := 0; index < len(args); index++ {
 		name, value, hasEquals := strings.Cut(args[index], "=")
@@ -120,7 +151,7 @@ func parseTrinitySearchOptions(args []string) (trinitySearchOptions, error) {
 		}
 		var err error
 		switch name {
-		case "--english", "--japanese", "--max-count":
+		case "--language", "--max-count":
 			if seen[name] {
 				return options, fmt.Errorf("%s may be specified only once", name)
 			}
@@ -129,10 +160,11 @@ func parseTrinitySearchOptions(args []string) (trinitySearchOptions, error) {
 			item, err = next()
 			if err == nil {
 				switch name {
-				case "--english":
-					options.english = item
-				case "--japanese":
-					options.japanese = item
+				case "--language":
+					options.language = trinitySearchLanguage(item)
+					if options.language != trinitySearchEnglish && options.language != trinitySearchJapanese {
+						return options, errors.New("--language must be english or japanese")
+					}
 				case "--max-count":
 					options.maxCount, err = strconv.Atoi(item)
 					if err != nil || options.maxCount < 1 || options.maxCount > 100000 {
@@ -161,15 +193,8 @@ func parseTrinitySearchOptions(args []string) (trinitySearchOptions, error) {
 			return options, err
 		}
 	}
-	if options.english == "" || options.japanese == "" || options.pattern == "" {
-		return options, errors.New("--english, --japanese, and PATTERN are required")
-	}
-	var err error
-	if options.english, err = resolveTrinityPath(options.english); err != nil {
-		return options, err
-	}
-	if options.japanese, err = resolveTrinityPath(options.japanese); err != nil {
-		return options, err
+	if options.pattern == "" {
+		return options, errors.New("PATTERN is required")
 	}
 	return options, nil
 }
@@ -462,26 +487,30 @@ func searchTrinityPairsWithRG(pairs []trinityStringPair, options trinitySearchOp
 	}
 	corpus, err := os.CreateTemp("", "zill-trinity-search-*.txt")
 	if err != nil {
-		return nil, fmt.Errorf("create temporary English search corpus: %w", err)
+		return nil, fmt.Errorf("create temporary %s search corpus: %w", options.language, err)
 	}
 	name := corpus.Name()
 	defer os.Remove(name)
 	for _, pair := range pairs {
-		if strings.IndexByte(pair.English, 0) >= 0 {
-			_ = corpus.Close()
-			return nil, errors.New("paired English text contains a NUL byte")
+		searchText := pair.English
+		if options.language == trinitySearchJapanese {
+			searchText = pair.Japanese
 		}
-		if _, err := corpus.WriteString(pair.English); err != nil {
+		if strings.IndexByte(searchText, 0) >= 0 {
 			_ = corpus.Close()
-			return nil, fmt.Errorf("write temporary English search corpus: %w", err)
+			return nil, fmt.Errorf("paired %s text contains a NUL byte", options.language)
+		}
+		if _, err := corpus.WriteString(searchText); err != nil {
+			_ = corpus.Close()
+			return nil, fmt.Errorf("write temporary %s search corpus: %w", options.language, err)
 		}
 		if _, err := corpus.Write([]byte{0}); err != nil {
 			_ = corpus.Close()
-			return nil, fmt.Errorf("write temporary English search corpus: %w", err)
+			return nil, fmt.Errorf("write temporary %s search corpus: %w", options.language, err)
 		}
 	}
 	if err := corpus.Close(); err != nil {
-		return nil, fmt.Errorf("close temporary English search corpus: %w", err)
+		return nil, fmt.Errorf("close temporary %s search corpus: %w", options.language, err)
 	}
 	arguments := []string{"--json", "--null-data", "--color", "never", "--max-count", strconv.Itoa(options.maxCount)}
 	if options.ignoreCase {

@@ -36,12 +36,18 @@ are authoritative. `manifest.json` records source and output hashes, storage
 metadata, and excluded non-text inputs. Output is published atomically and is
 never overwritten.
 
-With both LINKDATA extractions present, search English text with ripgrep and
-display the structurally equivalent Japanese record:
+With both LINKDATA extractions present, the search command finds those standard
+build directories automatically. Search English text with ripgrep and display
+the structurally equivalent Japanese record:
 
 ```sh
-./zill trinity-search --english build/trinity/english \
-  --japanese build/trinity/japanese 'Areus! A fine match'
+./zill trinity-search 'Areus! A fine match'
+```
+
+Search Japanese instead and display its English counterpart with:
+
+```sh
+./zill trinity-search --language japanese 'アレウス！'
 ```
 
 `trinity-search` requires `rg` on `PATH` and accepts ripgrep regular-expression
